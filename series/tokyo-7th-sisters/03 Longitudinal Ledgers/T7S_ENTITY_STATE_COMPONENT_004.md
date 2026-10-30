@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0212; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0213; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -170,4 +170,53 @@ Owner [B0212](../02%20Readings/T7S_B0212_DEEP_READING.md), reading SHA256 `1234c
 Existing CHAR-0021 gains these first-person preferences, register experiment, explicit limits and conditional help request within independent2034-side occurrences. UNIT-0006 retains situated family/shop narratives without actual marriage/role assignment or pet policy; UNIT-0002 gains a requested manager-idol line, not an already implemented procedure. Already admitted2043CHAR-0021/SOL state remains in its own interval. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1511KNOW/1191REL;102IDENTITY/84CHAR/29UNIT/29READY retained. All older bodies/IDs preserved. READY0012 staysB0011/end201001009/R2_STATE_BOUNDED/MONOGRAPH_NOT_READY; no performed voice/runtime, stage or maturity upgrade.
+
+## B0213 Monaka's wanted work and unevenly received care
+
+Owner [B0213](../02%20Readings/T7S_B0213_DEEP_READING.md), reading SHA256 `ca36f5c04fbe5f79e598c8024f0ca65103874c479f317ed9822e0bb0872d2a5f`; source-lock 12.119, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical and complete five-SourceLock/six-coverage/four-entity logical before-controls froze at published39be710a/B0212/12.118 before primary. B0212 exact-source audit41043385373 and complete automatic publication cycle passed; PR398 open at receipt. No menu chronology, performed hearing or runtime. All61 prior Monaka rows read; complete READY scan found no prior Monaka decision, absence preserved.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1512` | Monaka asks manager about sleep and invokes sleeping-growth saying. | A:P1; her care/question/premise, no clinical assessment or endorsed physiological rule. |
+| `KNOW-1513` | Monaka wants idol growth, says she chose early bed and still sometimes arrives late. | A:P2; stated plan/current difficulty, no successful punctuality cure or dated link to B0090. |
+| `KNOW-1514` | Monaka proposes manager wake-up help, likens it to living together and teases cooking study. | A:P3; imagined domestic company, no cohabitation, accepted duty or settled romance. |
+| `KNOW-1515` | Monaka recalls teacher failing to answer why studying is necessary. | B:P1; her account/evaluation, not full teacher exchange or proof no answer exists. |
+| `KNOW-1516` | Monaka reports weak study and values enjoyable idol work with peers now. | B:P2; situated self-appraisal, no academic record or universal educational verdict. |
+| `KNOW-1517` | Monaka calls companions/fans enough, adds manager care and dismisses study locally. | B:P3-4; voiced gratitude/self-justification, not permanent nonambition or rejection of all learning. |
+| `KNOW-1518` | Monaka reports helping at Harumi 魚晴 and demonstrates shop greeting. | C:P1; recounted assistance/current quotation, no independent job scene, pay or staffing contract. |
+| `KNOW-1519` | Monaka frames the unnamed father in shop account as ill with cold and her arrival as rescue. | C:P2; reported shop-side crisis, no new father identity, medical verification or Monaka-parentage rewrite. |
+| `KNOW-1520` | Monaka admits making change errors and failing to remember fish names. | C:P3; particular difficulties, no total incapacity or independently audited customer losses. |
+| `KNOW-1521` | Monaka quotes Sawara's loud/lively praise and feels effort worthwhile. | C:P4; attributed feedback/value, no complete proficiency certification or analyst heard delivery. |
+| `KNOW-1522` | Monaka values Nanasta as a source of jobs without reading job magazines. | C:P5; one local institutional appraisal, no formal employment agency or exhaustive idol motive. |
+| `KNOW-1523` | Monaka performs freeter rally and frames it as gag-unit proposal talked over with Matsuri. | D:P1-2; reported joking idea, no new operational UNIT/membership/debut/contract. |
+| `KNOW-1524` | Monaka describes older Matsuri as approachable/childlike and means this as praise. | D:P3; relational judgment, no developmental diagnosis or exact age. |
+| `KNOW-1525` | Monaka insists intended compliment and wonders whether she said something odd again. | D:P4; represented query/own uncertainty, no independent Matsuri hurt or completed apology. |
+| `KNOW-1526` | Monaka wants Fukuoka-4th visit and cites its fashion-trend reputation. | E:P1-2; fictional-source perspective, no independent geographic/industry survey or real-world advice. |
+| `KNOW-1527` | Monaka dreams of shopping the length of テンジン・ストリート among famous boutiques. | E:P3; imagined outing, no mapped traversal, purchase or inspected destination. |
+| `KNOW-1528` | Monaka plans to ask Honoka for local-shop guidance. | E:P4; her decided plan, no present Honoka invitation/assent or actual guiding. |
+| `KNOW-1529` | Monaka wants to work toward trip, initially saving airfare. | E:P5; concrete prospective target, no achieved balance, booked flight or funded whole trip. |
+| `KNOW-1530` | Monaka reports recent Tomoe company and perceives difficulty finding conversation. | F:P1-2; situated observation/report, not full Tomoe inner-state access. |
+| `KNOW-1531` | Monaka adopts kindly older-helper role while qualifying age difference as one year. | F:P3; relational age claim, no exact ages/date or guardian authority. |
+| `KNOW-1532` | Monaka selects assumed shared small-bust topic as common ground. | F:P4; her conversational claim, no objective measurement or established Tomoe consent to body discussion. |
+| `KNOW-1533` | Monaka reports Tomoe lowering head/leaving and wishes they talked more. | F:P5; reported outcome/own desire, no full explanation, diagnosis, apology or later repair. |
+| `KNOW-1534` | Monaka reports buying cute dotted/frilled swimsuit and forgetting no occasion to wear it. | G:P1-2; aesthetic choice/practical omission, no displayed garment, price or dated financial record. |
+| `KNOW-1535` | Monaka requests swimsuit shoot to wear purchase and cover its cost from fee. | G:P3; proposed double benefit, no available commission, sufficient pay, booking or manager acceptance. |
+| `KNOW-1536` | Monaka offers effort at self-described sexier shots to reinforce request. | G:P4; non-graphic work proposal, no actual photograph/body action or consent to all future assignments. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1192` | `kumomaki-monaka → player-protagonist` | A/B/G: asks rest, values care, imagines domestic help and asks specific shoot opportunity. No cohabitation, binding wake-up responsibility, accepted production or unrestricted labor consent. Reciprocal REL-1193. |
+| `REL-1193` | `player-protagonist → kumomaki-monaka` | A/B/D/G: care, represented wording query and proposed roles appear through Monaka account/uptake; no full independent motive, reciprocal domestic assent, shoot acceptance/pay or new staffing policy. Reciprocal REL-1192. |
+| `REL-1194` | `kumomaki-monaka → harumi-sawara` | C:P1-5: reports shop help/errors, credits Sawara's specific energy praise and values effort. No overall skill certification, named father identity or new permanent job. Reciprocal REL-1195. |
+| `REL-1195` | `harumi-sawara → kumomaki-monaka` | C:P4: reported loud/lively compliment, not present independent turn or full work evaluation. No invented demand, wage arrangement or actual heard delivery. Reciprocal REL-1194. |
+| `REL-1196` | `kumomaki-monaka → mimori-matsuri` | D:P1-4: enjoys reported gag-unit talk and praises older peer approachability/childlike quality, then checks wording. No operational unit or full knowledge of Matsuri reception. Reciprocal REL-1197. |
+| `REL-1197` | `mimori-matsuri → kumomaki-monaka` | D:P2: reported shared excitement over idea; no independent current reply, hurt, obligation or signed membership. B0166 peer-play differences remain separate. Reciprocal REL-1196. |
+| `REL-1198` | `kumomaki-monaka → saionji-honoka` | E:P4: names Honoka as hoped-for local guide in future fashion trip. Monaka plan does not grant authority over her time or establish assent. Reciprocal REL-1199. |
+| `REL-1199` | `saionji-honoka → kumomaki-monaka` | E:P4: appears as proposed named guide through Monaka only, without current own turn, invitation, agreement or actual travel. Stable legacy token retained, no new identity/spelling claim. Reciprocal REL-1198. |
+| `REL-1200` | `kumomaki-monaka → shiratori-tomoe` | F:P1-5: perceives conversational difficulty, adopts one-year-elder helper role, chooses assumed body commonality and regrets departure. Intent does not establish welcome topic or full recipient understanding. Reciprocal REL-1201. |
+| `REL-1201` | `shiratori-tomoe → kumomaki-monaka` | F:P2/5: apparent difficulty/lowered-head departure occur through Monaka report, no own monologue, exact feeling, diagnosis or later reconciliation supplied. Reciprocal REL-1200. |
+
+ExistingCHAR-0068 gains these situated preferences, plans, work accounts and recipient limits. UNIT-0006 gains reported temporary help/unnamed shop-side father illness without new identity/clinical/pay proof; UNIT-0002 gains one work-network valuation, not a formal agency. Freeters remains a gag-unit proposal, not a new UNIT. Old fashion care, rehearsal costs, privacy requests, finite ability, uneven pursuit, mediated family knowledge and modest relief remain intact. No new CHAR/IDENTITY/UNIT/READY.
+
+Totals:1536KNOW/1201REL;102IDENTITY/84CHAR/29UNIT/29READY retained. All older bodies/IDs preserved. Complete currentREADY scan found no Monaka decision; no new presumed R2, performed voice/runtime, stage or monograph maturity upgrade.
 <!-- T7S ENTITY STATE PAYLOAD END -->
