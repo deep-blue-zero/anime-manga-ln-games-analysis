@@ -20,6 +20,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`blue-archive`](characters/index/blue-archive.md) | 37 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
+| [`cornered-mouse`](characters/index/cornered-mouse.md) | 2 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`harmony`](characters/index/harmony.md) | 6 |
@@ -47,7 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 42 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 44 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -252,6 +253,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Ignis](characters/index/konosuba.md#ignis) | Original light-novel continuity, scoped current monograph | `konosuba:ignis@original-light-novel` | ダスティネス・フォード・イグニス |
 | [Iida Tenya](characters/index/my-hero-academia.md#iida-tenya) | My Hero Academia manga | `my-hero-academia:iida-tenya@manga` | — |
 | [Ikumi Mito](characters/index/shokugeki-no-soma.md#ikumi-mito) | Shokugeki no Soma manga | `shokugeki-no-soma:ikumi-mito@manga` | — |
+| [Imagase](characters/index/cornered-mouse.md#imagase) | Japanese manga continuity | `cornered-mouse:imagase@manga` | — |
 | [Inuyama Aoi](characters/index/yuru-camp.md#inuyama-aoi) | Japanese manga | `yuru-camp:inuyama-aoi@manga` | 犬山あおい |
 | [Iris](characters/index/konosuba.md#iris) | Original light-novel continuity, accepted Iris cohort 01 | `konosuba:iris@original-light-novel` | アイリス; イリス |
 | [Ito Momiji](characters/index/shine-post.md#ito-momiji) | SHINE POST television anime | `shine-post:ito-momiji@television-anime` | — |
@@ -312,6 +314,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
+| [Kyoichi Otomo](characters/index/cornered-mouse.md#kyoichi-otomo) | Japanese manga continuity | `cornered-mouse:kyoichi-otomo@manga` | 大伴恭一 |
 | [Kyouka](characters/index/maebashi-witches.md#kyouka) | Maebashi Witches anime | `maebashi-witches:kyouka@anime` | — |
 | [Kōenji Rokusuke](characters/index/classroom-of-the-elite.md#koenji-rokusuke) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:koenji-rokusuke@original-light-novels-through-year-2` | — |
 | [Kōsaka Kirino](characters/index/oreimo.md#kosaka-kirino) | Oreimo original light novels | `oreimo:kosaka-kirino@original-light-novels` | — |
@@ -596,6 +599,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [上杉・ウエバス・キョーコ](characters/index/tokyo-7th-sisters.md#uesugi-uebasu-kyoko) | Tokyo 7th Sisters game | `tokyo-7th-sisters:uesugi-uebasu-kyoko@game` | — |
 | [二川ミミ](characters/index/tokyo-7th-sisters.md#futagawa-mimi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:futagawa-mimi@game` | — |
 | [六咲コニー](characters/index/tokyo-7th-sisters.md#rokusaki-coney) | Tokyo 7th Sisters game | `tokyo-7th-sisters:rokusaki-coney@game` | — |
+| [前園リシュリ](characters/index/tokyo-7th-sisters.md#maezono-rishuri) | Tokyo 7th Sisters game | `tokyo-7th-sisters:maezono-rishuri@game` | — |
+| [堺屋ユメノ](characters/index/tokyo-7th-sisters.md#sakaiya-yumeno) | Tokyo 7th Sisters game | `tokyo-7th-sisters:sakaiya-yumeno@game` | — |
 | [寿クルト](characters/index/tokyo-7th-sisters.md#kotobuki-kurt) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kotobuki-kurt@game` | — |
 | [御園尾マナ](characters/index/tokyo-7th-sisters.md#misonoo-mana) | Tokyo 7th Sisters game | `tokyo-7th-sisters:misonoo-mana@game` | — |
 | [星柿マノン](characters/index/tokyo-7th-sisters.md#hoshigaki-manon) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hoshigaki-manon@game` | — |
