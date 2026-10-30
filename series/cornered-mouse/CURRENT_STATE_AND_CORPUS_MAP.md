@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
 scope: "Single current entrypoint, source boundaries and next permitted operation"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -43,25 +43,26 @@ project_initialization:
   owner_architecture_approval_date: "2026-10-24"
   sequential_analysis_lock: OPEN
   lock_reason: OWNER_AUTHORIZED_CONTINUOUS_ALL_IN_ONE_RUN
-  next_permitted_operation: CM-U02
+  next_permitted_operation: CM-U03
 analytical_execution:
   authorization: OWNER_AUTHORIZED_CONTINUOUS_READING_AND_ARTIFACT_COMPLETION
-  sequential_units_admitted: 1
-  sequential_units_completed: 1
-  narrative_pages_inspected: 39
+  sequential_units_admitted: 2
+  sequential_units_completed: 2
+  narrative_pages_inspected: 78
   narrative_page_count_basis: FULL_SOURCE_IMAGES_IN_NARRATIVE_SEQUENCE
-  fully_inspected_source_images: 42
-  partially_exposed_next_frontispieces: 1
-  non_narrative_images_inspected: 3
-  committed_narrative_high_water_mark: CM-U01
+  fully_inspected_source_images: 83
+  partially_exposed_future_source_images: 1
+  forward_exposure: CM_U03_TITLE_AND_TWO_CAPTIONS_ONLY
+  non_narrative_images_inspected: 5
+  committed_narrative_high_water_mark: CM-U02
   reconstruction_readiness: NOT_ASSESSED_SOURCE_ACCUMULATING
 sequential_execution:
   mode: continuous_sequential
   unit_type: chapter_or_collected_component
   authorized_start: CM-U01
   terminal_boundary: CM-S01
-  committed_high_water_mark: CM-U01
-  next_candidate_operation: CM-U02
+  committed_high_water_mark: CM-U02
+  next_candidate_operation: CM-U03
   confirmation_between_units: false
   run_state: active
   authorized_on: "2026-10-29"
@@ -77,7 +78,7 @@ supplemental_execution:
 
 One connected manga project by **Setona Mizushiro / 水城せとな**: *The Cornered Mouse Dreams of Cheese* / 窮鼠はチーズの夢を見る, followed by *The Carp on the Chopping Block Jumps Twice* / 俎上の鯉は二度跳ねる. Aliases include Kyuuso/Kyuso wa Cheese no Yume o Miru and Sojou/Sojo no Koi wa Nido Haneru; the author also uses 俎上の鯉は２度跳ねる. Stable slug: `cornered-mouse`; canonical root: `series/cornered-mouse/`. The sequel has no separate analytical root.
 
-**Next permitted operation: CM-U02 boundary reconciliation and deep reading, after the committed CM-U01 exit freeze. SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous analysis of the supplied All-in-One through completion of the required artifacts. Read the ten mainline/embedded components in collection order, freeze the mainline, then separately admit Hummingbird (`CM-S01`). The unavailable Reboot-only Black Cat story is outside this run by explicit owner decision.
+**Next permitted operation: CM-U03 boundary reconciliation and deep reading, after the committed CM-U02 exit freeze. SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous analysis of the supplied All-in-One through completion of the required artifacts. Read the ten mainline/embedded components in collection order, freeze the mainline, then separately admit Hummingbird (`CM-S01`). The unavailable Reboot-only Black Cat story is outside this run by explicit owner decision.
 
 ## Source and authority boundary
 
@@ -86,11 +87,11 @@ One connected manga project by **Setona Mizushiro / 水城せとな**: *The Corn
 | Evidence and provenance | Archived Drive source and acquisition records retain their provenance IDs; the owner-designated local copy is the active analysis source. Primary and deterministic derived evidence remain outside Git |
 | Selected Japanese witness | Revised 2020 All-in-One local EPUB, `CM-JP-AIO2020-LOCAL`; 109,599,835 bytes, SHA-256 `b4412bb3dad58bcda14de1bfb831b1b62d44db373c398d34ca7a032e91adfbd4`; all 1,086 archived-source members match byte for byte, with one extra Calibre bookmarks member |
 | Bibliographic coverage | Publisher and embedded contents list both principal works, collected short components, and ハミングバード・ラプソディ; narrative completeness remains unverified |
-| Visual inspection | CM-U01 completely read/frozen: sp0011–sp0050, 40 images (one frontispiece, 39 narrative-sequence images). Together with contents and colophon, 42 source images fully inspected. U02 frontispiece title/partial art exposed by bounded crops only; no U02 narrative read. All 539 resources decoded/indexed, which does not count as reading |
+| Visual inspection | CM-U01–U02 completely read/frozen: sp0011–sp0091 physical bundles, 81 images comprising 78 narrative-sequence images and three title/closing illustrations. With contents/colophon, 83 source images fully inspected. U02 story ends explicitly at sp0090; sp0091 is separately classified closing art. U03 title probe exposed two captions/partial scene, declared in U02; no full U03 page read. All 539 resources decoded/indexed, which does not count as reading |
 | Other witnesses | 2006, 2009 original-form pair, Reboot pair and official English pair bibliographically identified; none located in the bounded series-folder inventory |
 | Edition decision | Owner selected the local revised All-in-One on 2026-10-24; original-form 2009, Reboot and English comparison remain separate unacquired strategies |
-| Longitudinal state | U01: four character events/subjects, six relationship events/three dyads, six information and six decision records, six claims and two prospective U02 forecasts; zero revision events. Local readiness gaps recorded; no model assessment |
-| Reconstruction / synthesis | Protocol plus U01 evidence/readiness gaps; no monographs, operational models, capability grades, specialists or full-series synthesis yet |
+| Longitudinal state | Through U02: nine character events/seven subjects, thirteen relationship events/five dyads, twelve information and thirteen decision records, nine claims, six claim-revision events and two adjudicated forecasts. U01 forecast/formulation bytes preserved; U03 forecast abstention records prior exposure. Local readiness gaps remain separate from model assessment |
+| Reconstruction / synthesis | Protocol plus U01–U02 evidence/readiness gaps; no monographs, operational models, capability grades, specialists or full-series synthesis yet |
 
 The [source/scope map](00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns exact witness IDs, checksums, contents labels, bibliography and admission gaps. Its ten mainline/embedded component candidates preserve collection order; later Hummingbird and the two Reboot-only Black Cat parts require distinct disclosure and admission. Printed contents starts are not verified analytical ranges. Mainline, supplemental, paratext and adaptation coverage are separate.
 
@@ -117,4 +118,4 @@ Before accepting each unit, verify its exact component range, image legibility, 
 
 Continue after every fully committed unit until CM-S01 is closed, then complete longitudinal reconciliation, justified monographs/specialists, integrated synthesis, reconstruction-readiness/model dispositions and the final audit under the architecture. No new user message is required between ordinary authorized stages.
 
-Current verification establishes the exact local file, its ordered image resources and complete U01 range/legibility. [CM-U01](01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) owns forty stable observations, image digests and the immutable CM-U01-EXIT boundary. Remaining narrative completeness, component ends/substructure and lettering legibility are verified during the continuing source pass. Optional edition/translation comparisons remain bounded unknowns. The Reboot-only story is recorded as outside this run; no all-edition or all-manga completion claim is permitted. No completed-run or closure record exists yet.
+Current verification establishes the exact local file, ordered image resources and complete U01–U02 ranges/legibility. [CM-U01](01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) and [CM-U02](01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) own their stable observations, image digests and immutable exits. U02 distinguishes its semantic end at sp0090 from adjacent illustration sp0091. Remaining narrative completeness, component ends/substructure and lettering legibility are verified during the continuing source pass. Optional edition/translation comparisons remain bounded unknowns. The Reboot-only story is recorded as outside this run; no all-edition or all-manga completion claim is permitted. No completed-run or closure record exists yet.
