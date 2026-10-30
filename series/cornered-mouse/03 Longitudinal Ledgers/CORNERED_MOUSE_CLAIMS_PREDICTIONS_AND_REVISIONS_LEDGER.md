@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U01 sp0011–sp0050 only"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U02; story ends sp0090, closing illustration sp0091 separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims, predictions and revisions
 
-**Claims: 6. Predictions: 2. Revision events: 0. Source boundary: CM-U01.** These first formulations are bounded to U01; later revisions append events and retain original wording. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Claims: 9. Predictions: 2 (both adjudicated). Claim revision events: 6. Forecast adjudication events: 2. Source boundary: CM-U02.** U01 formulations and original forecast bytes remain unchanged; the current projection and appended U02 events identify later authority. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Schemas and revision vocabulary
 
@@ -88,6 +88,22 @@ Primary evidence route: [CM-U01-O008](../01%20Sequential%20Readings/CORNERED_MOU
 **Kind:** SUPPORTED_INTERPRETATION. **Formulation:** Reordered hotel/home recollection, slowed wordless contact, late direct spousal speech, compositional separation and reader-only kitchen action make explanations provisional and distinguish speech from visible surplus. **Evidence:** O001–O010,O020–O021,O027–O036,O040; sp0011–0020,0030–0031,0037–0046,0050. **Counterevidence/alternative:** some imagery also serves pacing or decoration; fish metaphor is suggestive rather than a proven single symbolic code. A cup echo does not prove the earlier attributed impulse. **Confidence:** high for layout/order/access, moderate for thematic function. **Falsifier:** corrected page ordering or focal attribution could revise the mechanism; species identification and measured duration are not premises. **Unresolved:** cross-unit recurrence and ending significance. **Downstream:** originating U01 reading and later form/literary synthesis; no separate visual ledger warranted yet.
 
 
+## U02 new claims
+
+CM-CL-007–009 originate at CM-U02-EXIT, version 1, witness `CM-JP-AIO2020-LOCAL`, disclosure/temporal scope through U02. They do not inherit U01's creation boundary. All are SUPPORTED_INTERPRETATION; ethical distinctions are explicitly identified where used. The U02 reading owns evidence, and the coverage table expands its exact source members/digests.
+
+### CM-CL-007 v1 — gendered normalcy is a self-explanation
+
+Primary route: [CM-U02-O011](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o011); `CM-JP-AIO2020-LOCAL::sp0061::xhtml=item/xhtml/p-0059.xhtml::image=item/image/i-0059.jpg::panel=P00`. **Formulation:** Kyoichi's distinction between normal heterosexual manhood and intimacy with Imagase organizes his self-explanations without fully containing his pleasure, attention, felt loss or active reengagement; it does not by itself settle orientation or ethical responsibility. **Evidence:** O003–O011,O018–O023,O029–O040, sp0053–0061,0068–0073,0079–0090. **Counterevidence/alternative:** his stated resistance/not-gay description is real and cannot be dismissed as merely false; heterosexual desire is also shown. Social identity, specific-person attachment, anxiety and exploration may coexist. **Confidence:** high for wording/contradiction, moderate for explanatory pattern, open for enduring identity. **Falsifier:** corrected speaker/thought attribution removing these classifications would revise the claim; later identity statements establish later states, not a retrospective universal. **Unresolved:** how desire, labels and commitment develop. **Downstream:** CM-CS-005/006, CM-RS-007–012, CM-INF-008/012; intimacy/literary responsibilities. No model claim.
+
+### CM-CL-008 v1 — active participation changes the encounter without certifying every limit
+
+Primary route: [CM-U02-O033](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o033); `CM-JP-AIO2020-LOCAL::sp0083::xhtml=item/xhtml/p-0081.xhtml::image=item/image/i-0081.jpg::panel=P00`. **Formulation:** U02 shifts from contested routine to active initiative and an explicit demand for participation, while pressure, Imagase's own protest and withheld permission answers prevent a blanket claim that every act/relationship term is consensually settled. **Evidence:** O004–O006,O029–O033,O037–O040, sp0054–0056,0079–0083,0087–0090. **Counterevidence/alternative:** Kyoichi's initiative is a substantial change; Imagase says he cannot accept ambiguous passive YES and asks specific permissions. These facts resist a static one-direction/no-change account. Yet compensation demands, cornering and intercepted exit remain constraints. **Confidence:** high for actions/utterances and equal-direction permission standard; open for off-panel agreement and unique motives. **Falsifier:** contemporaneous source evidence of an explicit answer/agreement would settle that particular gap; it could not retroactively authorize U01 limits. **Unresolved:** affection versus fear of loss/exploration/provocation, durable mutual understanding. **Downstream:** CM-CS-005/006, CM-RS-007/010/011, CM-INF-007/012, CM-DEC-010/011; ethics/relationship responsibilities. No broad ethical reform or orientation verdict.
+
+### CM-CL-009 v1 — Nishimura has agency and an incomplete family account
+
+Primary route: [CM-U02-O024](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o024); `CM-JP-AIO2020-LOCAL::sp0074::xhtml=item/xhtml/p-0072.xhtml::image=item/image/i-0072.jpg::panel=P00`. **Formulation:** Nishimura's invitations, reassurance-seeking, family complaints and alibi establish an independently acting person in an affair; her difficulties and Kyoichi's normalcy narrative do not erase either participant's choices or certify every family fault. The men's clean-ending account is not her complete aftermath. **Evidence:** O002–O003,O009–O014,O024–O029, sp0052–0053,0059–0064,0074–0079. **Counterevidence/alternative:** her testimony can be selective; husband/child/mother-in-law are unvoiced. The affair may seek validation, attraction, respite or several aims. Kyoichi's reassurance/convenience are not a complete motive either. **Confidence:** high for requests/actions, qualified for household history and ending. **Falsifier:** an independent household view or later direct account could revise fault/aftermath; no unshown abuse/divorce plan is assumed. **Unresolved:** her later understanding and choices. **Downstream:** CM-CS-007, CM-RS-012, CM-INF-008/011, CM-DEC-007/013; secondary-agency responsibility.
+
 ## Predictions
 
 These original formulations freeze with `CM-U01-EXIT` and the atomic U01 transaction commit, recorded at `2026-10-30T04:09:20+00:00`. Git history binds this exact version before U02 narrative inspection. Entering knowledge is the complete U01 endpoint; prior exposure includes bibliography/contents and the explicitly declared U02 frontispiece crops, not U02 scenes. They are not blind/model-validation tests. Later outcomes append adjudication events; this original text stays fixed.
@@ -111,4 +127,53 @@ These original formulations freeze with `CM-U01-EXIT` and the atomic U01 transac
 
 ## Revision events
 
-No revision events yet. The six v1 claims and two original forecasts originate at the U01 exit; no retrospective U01 prediction or earlier version is fabricated.
+The original v1 claim formulations above remain unchanged. Each event binds CM-U02-EXIT and witness `CM-JP-AIO2020-LOCAL`. Later current formulations below do not rewrite U01's frozen reading. Old source-state/limits remain retrievable by claim/version; these are source-based revisions rather than owner approval.
+
+### CM-CR-001 — CM-CL-001, v1 → v2, REVISE
+
+**Old:** U01-bounded responsive/evasive preference with active counterexamples. **New v2:** Across U01–U02, Otomo repeatedly prefers responsive accommodation and externalized explanations, yet can initiate forcefully when absence or perceived replaceability matters; this is a contextual pattern rather than absence of agency. **Reason/evidence:** active pursuit, assault, home invitation and intimate initiative materially extend the counterexamples (U02 O018–O033; sp0068–0083); ease/alibi/normalcy and passive life-page language preserve the candidate pattern. Primary route: [CM-U02-O027](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o027); `CM-JP-AIO2020-LOCAL::sp0077::xhtml=item/xhtml/p-0075.xhtml::image=item/image/i-0075.jpg::panel=P00`. **Counterevidence/alternative:** these acts may reflect situational jealousy/care/fear rather than a stable global disposition; confidence moderate. **Falsifier/limits:** missing or corrected agency/self-explanation evidence would revise it; no work/stranger portability claimed. **Downstream:** CM-CS-005/006, CM-RS-008–011, CM-DEC-007/009/011 updated; no existing monograph/model to backfill.
+
+### CM-CR-002 — CM-CL-002 v1, PRESERVE
+
+**Old/new:** the U01 hotel pressure and overridden limits remain as formulated. **Reason:** U02's initiative and changed stated standards are later states, not contemporaneous permission for U01. Primary route: [CM-U02-O006](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o006); `CM-JP-AIO2020-LOCAL::sp0056::xhtml=item/xhtml/p-0054.xhtml::image=item/image/i-0054.jpg::panel=P00`. U02 O004–O006/O029–O038 supplies new disputes; CM-CL-008 owns their present analysis rather than widening the old claim silently. **Confidence/falsifier:** original high-confidence mechanism and original attribution/agreement falsifier preserved. **Downstream:** CM-RS-001/CM-DEC-001 remain historical; current central records link CM-CL-008. No retrospective repair or deleted harm.
+
+### CM-CR-003 — CM-CL-003 v1, PRESERVE
+
+**Old/new:** Chikako's U01 direct account changes what is warranted about the divorce cause and preserves her independent critique. **Reason:** no new Chikako evidence appears in U02. Nishimura is another person; generalizing the wives/affair partners would be a scope error. **Evidence:** U01 references unchanged; U02 identity guard CM-CS-007/008 and O014–O016 distinguish the student woman. Primary new guard route: [CM-U02-O016](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o016); `CM-JP-AIO2020-LOCAL::sp0066::xhtml=item/xhtml/p-0064.xhtml::image=item/image/i-0064.jpg::panel=P00`. **Confidence/falsifier:** original qualified causal account and independent-delivery test unchanged. **Downstream:** CM-CS-003/CM-RS-005 no-new-evidence disposition; CM-CL-009 separately owns Nishimura. No new motive invented.
+
+### CM-CR-004 — CM-CL-004, v1 → v2, STRENGTHEN
+
+**Old:** interested psychological speech, incomplete prior knowledge and unequal phone access. **New v2:** Interpretive confidence must follow each actual access route: Imagase's partial predictive insight and represented suspicion are distinct from phone-derived knowledge; Otomo's apparent-rival inference is corrected by the client explanation. New represented interior settles some present perceptions, not earlier omniscience. **Evidence:** U02 O003,O014–O018,O025–O029, sp0053,0064–0068,0075–0079. Primary route: [CM-U02-O028](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o028); `CM-JP-AIO2020-LOCAL::sp0078::xhtml=item/xhtml/p-0076.xhtml::image=item/image/i-0076.jpg::panel=P00`. **Counterevidence/alternative:** Imagase's accurate reunion expectation supports genuine local insight; job details remain testimony. **Confidence:** high for access distinctions, qualified for whole motives/history. **Falsifier:** direct corroboration/corrected focal attribution can settle particular knowledge claims, not grant hindsight to past people. **Downstream:** CM-CS-005/006/009, CM-RS-008/009, CM-INF-009/010/011 updated. U01 kitchen asymmetry unchanged.
+
+### CM-CR-005 — CM-CL-005, v1 → v2, REVISE
+
+**Old:** U01 reopened contact with dating refused and terms unresolved. **New v2:** U02 develops active pursuit/intimacy and a voiced provisional-companionship offer; permanent couplehood, exclusivity, identity conversion and comprehensive boundary repair remain unestablished. **Evidence:** U02 O018–O040, sp0068–0090. Primary route: [CM-U02-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o039); `CM-JP-AIO2020-LOCAL::sp0089::xhtml=item/xhtml/p-0087.xhtml::image=item/image/i-0087.jpg::panel=P00`. **Counterevidence/alternative:** tender proximity and initiative are real development; the offered withdrawal may be generous, defensive or strategic and is not yet tested. **Confidence:** high for action/offer, open for durable mutual terms. **Falsifier:** explicit agreement would establish that scoped term at its time; later new commitments do not rewrite U01's endpoint. **Downstream:** CM-CS-005/006, CM-RS-007–011, CM-INF-012, CM-DEC-010–012 updated; no premature relationship-finality claim.
+
+### CM-CR-006 — CM-CL-006, v1 → v2, STRENGTHEN
+
+**Old:** formal delay and unequal access shape provisional explanations. **New v2:** U01–U02 use temporally ambiguous cuts, later dream/context reveals, repeated absence imagery and corrected visual inferences to expose the limits of self-explanation; symbolic garden/fruit imagery remains mediated by Kyoichi's metaphor. **Evidence:** U02 O008–O016,O022–O028,O034–O040, sp0058–0066,0072–0078,0084–0090. Primary route: [CM-U02-O016](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o016); `CM-JP-AIO2020-LOCAL::sp0066::xhtml=item/xhtml/p-0064.xhtml::image=item/image/i-0064.jpg::panel=P00`. **Counterevidence/alternative:** decorative/pacing functions coexist; no single symbol code or biological species identification follows. **Confidence:** high for order/access, moderate for thematic function. **Falsifier:** corrected ordering/focal attribution could revise the mechanism. **Downstream:** U02 reading and future form/literary synthesis; no extra ledger warranted.
+
+## Forecast adjudications at CM-U02-EXIT
+
+Original CM-PR-001/002 text, timestamps, prior exposure and UNOBSERVED-at-creation fields above remain byte-for-byte unchanged. These appended events own their current outcomes. Both forecasts predate full U02 access and the declared U03 boundary-crop exposure; no prediction is fabricated for a within-U02 event.
+
+| Event / original forecast | Outcome and exact evidence | Adjudication / practical limit |
+|---|---|---|
+| **CM-PA-001 / CM-PR-001** | Explicit not-dating claim sp0068 and resistance at sp0080 coexist with voluntary home invitation sp0079 and reengagement. [CM-U02-O029](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o029); `CM-JP-AIO2020-LOCAL::sp0079::xhtml=item/xhtml/p-0077.xhtml::image=item/image/i-0077.jpg::panel=P00` | **SUPPORTED** for the stated conjunction. Coerced bodily access alone is not counted as voluntary social contact. No general love/orientation/model-readiness result follows; rule revision NONE |
+| **CM-PA-002 / CM-PR-002** | Earliest explicit renewed access demand sp0056 uses gendered/emotional pressure, with no report-disclosure enforcement. Earlier intrusive action sp0054–0055 was not a request. [CM-U02-O006](../01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md#cm-u02-o006); `CM-JP-AIO2020-LOCAL::sp0056::xhtml=item/xhtml/p-0054.xhtml::image=item/image/i-0054.jpg::panel=P00` | **SUPPORTED, LOW_DISCRIMINATION** under the original broad mechanism criterion. The unrequested action exposes a coverage limitation; later compensation pressure is not ethical improvement. No operational rule validation; rule revision NONE |
+
+**U03 abstention:** no new forecast is issued. The source-boundary title probe exposed two captions about returning before one's senior/checking the PC. Repackaging that premise as a prediction would be retrospective. U03 remains unread in full; its actual role and consequences will be inspected after the U02 commit.
+
+## Current claim projection
+
+| Claim | Current formulation | Authority boundary / disposition |
+|---|---|---|
+| CM-CL-001 | v2 in CM-CR-001 | U01–U02 contextual agency; REVISE |
+| CM-CL-002 | v1 above | U01 hotel mechanism preserved by CM-CR-002 |
+| CM-CL-003 | v1 above | Chikako account preserved by CM-CR-003; no U02 new evidence |
+| CM-CL-004 | v2 in CM-CR-004 | Actual access routes; STRENGTHEN |
+| CM-CL-005 | v2 in CM-CR-005 | Active intimacy/provisional offer; REVISE |
+| CM-CL-006 | v2 in CM-CR-006 | Temporal/access/form evidence; STRENGTHEN |
+| CM-CL-007 | v1 above | U02 normalcy/self-explanation, identity open |
+| CM-CL-008 | v1 above | U02 changing participation and bilateral permission limits |
+| CM-CL-009 | v1 above | Nishimura's independent agency/qualified family account |
