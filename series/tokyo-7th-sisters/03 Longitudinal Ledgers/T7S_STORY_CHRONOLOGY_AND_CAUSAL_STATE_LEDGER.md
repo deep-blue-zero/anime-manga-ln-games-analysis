@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.109"
+version: "11.110"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 198 Intimacy primary documents across 27 family portfolios / T7S_B0182–T7S_B0208; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 207 Intimacy primary documents across 28 family portfolios / T7S_B0182–T7S_B0209; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1298`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1439`; `last_closed_block = T7S_B0208`. The admitted horizon contains 713 primary documents: 235 Main, 280 i-n-g and 198 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 198 Intimacy documents across 27 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1307`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1446`; `last_closed_block = T7S_B0209`. The admitted horizon contains 722 primary documents: 235 Main, 280 i-n-g and 207 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 207 Intimacy documents across 28 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4330,3 +4330,31 @@ Owner [B0208](../02%20Readings/T7S_B0208_DEEP_READING.md), reading SHA256 `fdac9
 | `EDGE-1446` | `EV-B0208-002 / EV-B0208-007` | FORMAL_COMPARISON: quick-recovery claim and explicit major-injury/healed account retain situated bodily stakes; no proof of invulnerability or that one injury caused another. |
 
 Totals:1298EV/25WORLD/47THREAD/1439activeEDGE, maximum1446 with seven earlier intentional gaps retained. Seven whole factual homes; no new WORLD or older body/ID/chronology change.
+
+## B0209 Sumire's recognition and the pace of closeness
+
+Owner [B0209](../02%20Readings/T7S_B0209_DEEP_READING.md), reading SHA256 `48f22d41f7a6aa9c79449fa68ca5b046a65d2d1db79162fbef9ca3b65799bad4`; source-lock 12.115, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-I scripts/hashes/full primary locators. All26 physical and complete five-SourceLock/six-coverage/three-entity logical before-controls froze at published a616eb13/B0208/12.114 before primary. B0208's successful exact-head audit/publication cycle is separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0209-001` | A:401000210 P0-5 | Says she baked/brought cookies, claims learned sweetness preference, enjoys recipient feedback and asks to bring miso soup to learn salt preference. | REPORTED_PREPARATION_ADDRESSED_TASTE_AND_FUTURE_INQUIRY; no independently supplied tasting/praise, delivered soup, exact recipe or exhaustive knowledge. |
+| `EV-B0209-002` | B:401000355 P0-3 | Recalls initially casual idol interest, finds reward/pleasure in earnest effort and asks to be told if manager thinks her brightest before she says something important. | SELF_REAPPRAISAL_AND_CONDITIONAL_DISCLOSURE; no objective effort/ranking result, manager endorsement or delivered confession. |
+| `EV-B0209-003` | C:401000408 P0-5 | Admires manager's idol investment, recalls not understanding Seven Sisters, now tentatively grasps their legendary status and declares she will not lose. | REPORTED_CHANGE_IN_APPREHENSION_AND_RIVALRY; no heard technical judgment, new Seven Sisters encounter/assent or displaced collective history. |
+| `EV-B0209-004` | D:401000578 P0-5 | Reports group sweets-shop visit credited to friend Jē's recommendation, wants manager to taste an expired limited sweet, attempts making it and presents one result made for him. | REPORTED_OUTING_ITERATIVE_MAKING_AND_OFFER; no complete guest list/shop identity, exact recipe equivalence or proved recipient consumption/praise. |
+| `EV-B0209-005` | E:401000646 P0-5 | Jokes about widespread given-name use, says it bothers her less, links that feeling to manager's liking/fit comments and considers using his name once ready. | SITUATED_SOFTENING_AND_CONDITIONAL_RECIPROCITY; no actual manager personal-name utterance, independent romantic declaration or retrospective permission for former pressure. |
+| `EV-B0209-006` | F:401000698 P0-5 | Invites manager home after grandmother reportedly asks, qualifies talk frequency, takes up represented assent, admits wanting the introduction and anticipates grandmother's approval. | REPORTED_FAMILY_REQUEST_REPRESENTED_ASSENT_AND_PLAN; no completed visit, grandmother's own turn/approval, marriage arrangement or settled dating status. |
+| `EV-B0209-007` | G:401000950 P0-5 | Registers manager's ignorance of a locally popular strap mascot, cites school/Sui/Shizuka knowledge and invites him on a planned7109Street limited-version purchase as education. | REPORTED_LOCAL_TREND_AND_SHARED_OUTING_INVITATION; no universal market fact, accepted outing, identified mascot or completed joint purchase. |
+| `EV-B0209-008` | H:401000990 P0-5 | Argues for summer sea over mountain discomfort, reports a purchased swimsuit and wants manager to see it, insisting he remember her preference. | PERSONAL_PREFERENCE_REPORTED_PURCHASE_AND_WANTED_DISPLAY; no rendered swimsuit, accepted trip, actual viewing/beach event or native choice branch. |
+| `EV-B0209-009` | I:401002005 P0-5 | Distinguishes long work acquaintance from scarce private time, asks for a two-person outing, reacts to travel as too early, suggests amusement park and considers day-trip hot springs. | REPORTED_LONELINESS_REPRESENTED_SUGGESTION_AND_NEGOTIATED_POSSIBILITY; no established dating, final accepted itinerary, booking, completed travel or shared-bath permission. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1447` | `EV-B0209-001 / EV-B0209-004` | FORMAL_COMPARISON: recipient-oriented cooking and a made gift convert taste/feedback into particular attention; no common meal, recipe identity or before/after. |
+| `EDGE-1448` | `EV-B0209-002 / EV-B0209-003` | FORMAL_COMPARISON: pleasure in effort and understanding an admired group coexist with wanted special recognition and rivalry; no objective rank or causal sequence. |
+| `EDGE-1449` | `EV-B0209-005 / EV-B0209-009` | FORMAL_COMPARISON: reciprocal naming and private outings remain governed by Sumire's stated readiness/scale; no transfer of permission or inferred chronology. |
+| `EDGE-1450` | `EV-B0209-006 / EV-B0209-009` | FORMAL_COMPARISON: an introduction receives represented local assent while travel remains under consideration; no collapsed acceptance or completed common outing. |
+| `EDGE-1451` | `EV-B0209-007 / EV-B0209-008` | FORMAL_COMPARISON: trend education and sea preference both invite recognition of a particular interest; no shared destination, completed purchase/outing or before/after. |
+| `EDGE-1452` | `EV-B0209-001 / EV-B0209-005` | FORMAL_COMPARISON: learned taste and a differently welcomed name remain specific relational knowledge; neither establishes omniscience or invalidates former limits. |
+| `EDGE-1453` | `EV-B0209-002 / EV-B0209-009` | FORMAL_COMPARISON: professional investment does not exhaust desired recognition/private companionship; no completed confession, dating status or causal chronology. |
+
+Totals:1307EV/25WORLD/47THREAD/1446activeEDGE, maximum1453 with seven intentional earlier gaps retained. Nine whole factual homes; no new WORLD/THREAD or older body/ID/chronology change.
