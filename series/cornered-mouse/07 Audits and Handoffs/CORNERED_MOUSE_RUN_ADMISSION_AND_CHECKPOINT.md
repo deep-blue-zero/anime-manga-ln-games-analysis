@@ -1,0 +1,92 @@
+---
+title: "Cornered Mouse — Run Admission and Checkpoint"
+artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
+artifact_type: run_admission_checkpoint
+series_id: cornered-mouse
+generation: CORNERED_MOUSE_BOOTSTRAP_V1
+version: "1.0"
+status: active_provisional
+scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
+source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
+canonical_home: series/cornered-mouse/07 Audits and Handoffs/CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT.md
+created: "2026-10-29"
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: true
+recommended_reasoning_class: DEEP_SYNTHESIS
+---
+
+# Run admission and checkpoint
+
+Run identity: `CORNERED_MOUSE_RUN_20261029_AIO`. The [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) owns live run fields; the [source map](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md) owns witness/range identity. The existing method, synthesis architecture and four ledgers remain governing.
+
+## Owner authority and scope
+
+The owner requested: "Begin deep reading and analysis of the manga following the protocols in the repo and series branch, until completion of all required artifacts."
+
+The owner resolved the pending supplement question: "Complete the supplied All-in-One; document the missing Reboot story as outside this run."
+
+This authorizes continuous atomic readings of CM-U01 through CM-U10 in collection order, followed by separately admitted Hummingbird (CM-S01) after the mainline is committed and frozen. The narrative terminal boundary is CM-S01. It also authorizes the source/paratext closeout and downstream analytical artifacts required by the architecture. Ordinary unit completion is not a request for further permission. Reboot-only Black Cat, unavailable original-form/English witnesses, adaptations, drama CDs and future discoveries are outside this run's source admission. This is completion of the supplied revised witness, not all editions or all manga supplements.
+
+## Verified foundation and source
+
+Input analytical base: `3e15e74e7ae3c4857bc99b2cbc50e5dee50a38df`, reconciled with the continuing branch after bootstrap PR #306 was integrated. The project tree before this authorization update was `28ee33bb9b3fdddd5fd7e7bf72f2b4a3c9d20e25`. No intervening narrative artifacts or ledger records existed.
+
+Witness: `CM-JP-AIO2020-LOCAL`, Japanese revised All-in-One, 109,599,835 bytes, SHA-256 `b4412bb3dad58bcda14de1bfb831b1b62d44db373c398d34ca7a032e91adfbd4`. Fresh hashing, ZIP CRC, complete resource parsing and decoding of all 539 distinct image resources passed. Each page is 847 × 1200 and the source spine is rtl. The extra Calibre bookmarks member remains uninspected. Exact source locations, ordered page index and derived probe images stay in the external title workspace.
+
+The current image route displayed the known contents image at original resolution; Japanese labels and printed starts were readable. This verifies still-image access, not narrative lettering adequacy. Before accepting CM-U01, inspect its first authorized pages at usable resolution and stop if text or panel evidence is inadequate. No OCR has been used. No source image or raw derivative is published in Git.
+
+## Execution profile
+
+- Arrangement: LOCAL_ONLY, appropriate to this compact two-work project and its owner-selected local image witness. Transfer overhead would not improve source access; a fresh grounded synthesis context can be used at a frozen boundary if useful.
+- Surface: observed Codex desktop with owner-controlled Windows tool runtime; provider OpenAI. Actual model label and reasoning-control setting are not exposed and are not inferred.
+- Inspection lanes: STILL_IMAGE; TEXT only for checked lettering/glosses and repository evidence. Audio and continuous AV are outside the manga evidence scope.
+- Capabilities: source transport/read VERIFIED; hashing/XML/image decoding VERIFIED; contents-image inspection VERIFIED; narrative lettering adequacy checked within each admitted unit; Git read/write VERIFIED by the existing publication route. The validation Python environment lacks Pillow; the existing image-capable runtime was selected without installing dependencies.
+- Workloads: deterministic source checks ROUTINE_FAST / BOUNDED_STANDARD; sequential readings and interpretive ledger updates SUBSTANTIVE_ANALYSIS; checkpoints, monographs, specialists and behavioral models DEEP_SYNTHESIS; continuous full-series integration PREMIUM_QUALITY_FIRST after specialist convergence. These describe responsibilities, not unobserved product settings.
+- Ownership: one mutable owner per project artifact. Character discovery/capability registries and generated catalogs retain their specialized owners. The author publishes; the approved CI/owner workflow integrates.
+
+## Entering boundary before CM-U01
+
+Narrative pages inspected: **0**. Narrative units admitted/completed: **0/0**. Four source-derived record sets remain empty. There is no narrative high-water mark, subject portrait, behavioral model, source-derived claim or genuine forecast.
+
+Prior exposure is bibliographic: both work identities, publisher synopsis concerns, edition history, component titles/announced starts, contents/colophon, and the author's supplement chronology account. Kyoichi and Imagase are candidate names from that reconnaissance. No scene knowledge or ending is claimed. This is not a blind benchmark; bibliography-derived expectations cannot later be relabeled as genuine predictions.
+
+Reader, character and analyst knowledge begin separately: no narrative propositions are admitted for any person. Source inspection starts with CM-U01's opening/boundary reconciliation. A permitted boundary probe may examine a title or printed-page strip to establish a component edge; it must not read later scenes. Record any unavoidable exposure exactly. Future units and Hummingbird remain unavailable as earlier-unit evidence.
+
+## Atomic execution and recovery
+
+For every unit: verify source/range and entering freeze; inspect every page at usable resolution; write the full reading and locator/coverage receipt; adjudicate prior genuine forecasts; append justified changes to all four cumulative homes or explicit no-change dispositions; perform the bounded named-subject/reference review; freeze the exit; validate and commit the complete transaction. Only then advance the high-water mark and begin the next unit.
+
+Long components may require internal working checkpoints and context compaction. They remain incomplete until their complete declared range and closeout are verified. Any formal subdivision must be defined before consuming that subdivision and recorded under the method/architecture; a partial draft is never promoted to a completed component. Resume from the current files and committed checkpoint, never from remembered ordinal or conversation alone. Preserve frozen readings and predictions; later corrections use attributable errata/claim revisions.
+
+Publish on `series/cornered-mouse` through exact-path staging, author preflight, ordinary push and successful exact-head Repository integration audit. Never hand-write global catalogs or rewrite history. A new PR is needed for this execution because #306 was merged. Exact publication identities and statuses belong to Git/GitHub and the PR receipt.
+
+## Required-artifact work plan and completion evidence
+
+The synthesis architecture's G1–G9 gates remain controlling; this table makes the goal's outstanding responsibilities recoverable without reducing them to the first reading.
+
+| Responsibility | Evidence required before completion | Opening state |
+|---|---|---|
+| Mainline/embedded readings | Every CM-U01–CM-U10 component fully inspected, locatable, frozen and transactionally closed | NOT_STARTED |
+| Hummingbird | CM-S01 separately admitted after mainline freeze, fully read/frozen and reconciled | DEFERRED_UNTIL_MAINLINE_FREEZE |
+| Full supplied-file coverage and paratext | Every one of 539 source images accounted for; covers/colors/afterword/publication pages separately classified and inspected; source, edition and supplement limits explicit | STRUCTURE_INDEXED_ONLY |
+| Longitudinal state | All four ledgers reconciled across the source boundary; claim/revision and genuine forecast histories preserved | EMPTY_INITIALIZED |
+| Character monographs | Readiness audit for independently warranted subjects; complete source-grounded monographs with temporal/relational limits and counterevidence | NOT_ASSESSED |
+| Relationship and specialist responsibilities | Review every architecture domain; produce justified sustained arguments or evidence-backed consolidation/disposition, without duplicating canonical homes | NOT_ASSESSED |
+| Integrated literary synthesis | Continuous argument after specialist convergence; ending and retrospective effects tested against source and alternatives | NOT_READY |
+| Reconstruction | Separate readiness/domain-gap audit; any warranted model proposal has frozen rules, counterexamples, discriminating tests and honest holdout/retrospective labels; no global tier or blanket readiness claim | NOT_ASSESSED |
+| Final semantic/publication audit | Requirement-by-requirement coverage, contradiction/reference/freeze checks, authority routes, exact-head audit and truthful release state | NOT_STARTED |
+
+## Current checkpoint
+
+- Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
+- Verified committed narrative high-water mark: NONE.
+- Current operation: CM-U01 boundary reconciliation and reading.
+- Next ordinary operation after a fully closed CM-U01: CM-U02, under the existing continuous authorization.
+- Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
+- No source-completion, synthesis-readiness, model-validation or final-release claim exists.
+
+## Transaction history
+
+2026-10-29: recovered current governance and the integrated bootstrap, reverified the selected local witness, built a private ordered source index, verified contents-image inspection, recorded owner run/supplement decisions and the zero-narrative entering boundary. First component boundaries and narrative legibility remain to be checked during the authorized operation.

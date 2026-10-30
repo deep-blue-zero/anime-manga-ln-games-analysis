@@ -5,12 +5,13 @@ artifact_type: source_scope_map
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Canonical work, edition, component and evidence-availability map"
-source_boundary: "Japanese manga continuity; AIO2020 structurally checked; no narrative admission or reading"
+source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
 canonical_home: series/cornered-mouse/00 Frameworks and Methods/CORNERED_MOUSE_SOURCE_AND_SCOPE_MAP.md
 created: "2026-10-24"
+updated: "2026-10-29"
 review_status: OWNER_BOOTSTRAP_ARCHITECTURE_APPROVED
 supersedes: []
 superseded_by: []
@@ -20,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Source and scope map
 
-This is the single project source/scope authority. Verification date: 2026-10-24. Narrative admission is **NOT_ADMITTED** throughout. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
+This is the single project source/scope authority. Bibliographic/bootstrap verification: 2026-10-24; local file and processing reverified: 2026-10-29. The owner-authorized continuous run begins at CM-U01 and ends at CM-S01 after the mainline freeze. Individual component ranges are verified at admission; no narrative unit has been completed at this opening checkpoint. See the [entrypoint](../CURRENT_STATE_AND_CORPUS_MAP.md) for operational permission.
 
 ## Work identity and bibliographic witnesses
 
@@ -84,7 +85,7 @@ Only two non-narrative images were visually read: `item/image/i-0008.jpg` (conte
 
 ## Component candidates and four orders
 
-For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. None of these units has been admitted.
+For this witness, the proposed atomic unit is a **chapter or separately titled collected component**, including short interludes. A complete volume is not presumed to be one transaction. Keys are project identities; each future witness needs its own page mapping. At the opening checkpoint none has been completed. The run record owns the authorized queue; the verified-ranges table below will record actual admission and closeout.
 
 | Candidate | Contents label | Printed start shown in contents | Collection group / proposed disclosure |
 |---|---|---:|---|
@@ -109,9 +110,21 @@ Publication order is separately recorded by edition and first-publication eviden
 
 Thus physical Reboot placement would expose a late short in book one, while the intended analytical disclosure keeps it after the frozen mainline and separately admitted Hummingbird. AIO collection order and chronological placement are not interchangeable. Later supplements can belong to manga continuity while remaining barred from earlier prospective knowledge. Do not infer noncanon status from late publication. No exhaustive all-extras claim is made; additional discovered manga must be identified, mapped and reviewed before admission.
 
+## Run scope and verified ranges — 2026-10-29
+
+The owner instructed: "Begin deep reading and analysis of the manga following the protocols in the repo and series branch, until completion of all required artifacts." The owner then resolved the pending supplement boundary: "Complete the supplied All-in-One; document the missing Reboot story as outside this run."
+
+The authorized narrative sequence is CM-U01 through CM-U10 in this witness's collection order, followed by separately admitted CM-S01 after the mainline freeze. Covers, SPECIAL COLORS, afterword and publication pages receive a separate paratext/coverage audit after the narrative pass, with fictional and creator-commentary claims kept distinct. The two Reboot-only Black Cat parts are explicitly outside this run, not declared noncanonical. Original-form and English comparison copies remain optional/unacquired. Completion is bounded to this supplied revised All-in-One and the architecture-required analytical artifacts.
+
+| Unit | Verified source range | Admission / closeout |
+|---|---|---|
+| CM-U01 | Pending bounded opening/end verification; contents announces printed 009 | Boundary reconciliation and reading authorized; no completed reading yet |
+
+The ordered local index verifies 539 distinct image resources, decoded at 847 × 1200, with source-member digests and rtl spine positions. Its exact local location remains in the workspace handoff. Only the known contents image was viewed during the current capability probe; no narrative or bookmark content was inspected before the entering boundary was recorded. Resource decoding is not visual narrative inspection or a completeness certification.
+
 ## Edition choice, conflict rules and admission
 
-The owner selected `CM-JP-AIO2020-LOCAL` for future analysis on 2026-10-24. This is the revised All-in-One basis, with the limits and supplemental disclosure barriers recorded above. The original-form 2009 pair remains a useful unacquired comparison strategy. Reboot should supply its exclusive short and identified editorial variants if later available; official English can support wording comparison after identity/coverage checks. Selection of this working witness does not admit a narrative unit or settle required supplemental scope.
+The owner selected `CM-JP-AIO2020-LOCAL` for future analysis on 2026-10-24. This is the revised All-in-One basis, with the limits and supplemental disclosure barriers recorded above. The original-form 2009 pair remains a useful unacquired comparison strategy. Reboot should supply its exclusive short and identified editorial variants if later available; official English can support wording comparison after identity/coverage checks. The 2026-10-29 owner instruction now authorizes the supplied-witness run and resolves the Reboot story as outside it. Each unit still requires its own verified source range, prospective boundary and complete transaction.
 
 Analysis access opens the owner-designated local file read-only and verifies its current whole-file SHA-256 against `CM-JP-AIO2020-LOCAL`. The retained Drive IDs identify archived evidence/provenance objects for later authorized reconciliation; analysis does not require a new Drive download. Exact local paths remain in the private source handoff. Every claim must bind its actual witness. A byte change requires a new witness key and preserved prior digest; never replace the bytes behind an existing source identity silently. Record an edition variant as `(original locator, revised locator, observed difference, interpretation impact)`; record translation disagreements with Japanese text, English witness and locators separately. Do not silently harmonize images, wording, pagination or chapter order. Author commentary can explain an editorial operation but cannot replace direct comparison or outrank the manga on motive. Adaptation events, endings, performances and dialogue remain outside this continuity.
 
