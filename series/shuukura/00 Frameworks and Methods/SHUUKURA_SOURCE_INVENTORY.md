@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.56"
+version: "1.57"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 acquired witnesses,23 supplements and WEB E0001–E0022 through whole transactions; original I1 continuous, E0023 next after wholeE22, all dependent stages retained; separate immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0023 through whole transactions; original I1 continuous, E0024 next after whole E0023 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0022_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0023_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,14 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0023 source transaction — 2026-10-29
+
+Current reading: [E0023](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0023_DEEP_READING.md), with its [whole transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0023_TRANSACTION_AUDIT.md). Complete original scope is200 native paragraphs,127 meaningful and73 LF/br nodes, with0 ruby/body media;13 observations cover all meaningful nodes once. The current finite original LN01 span is independently scoped in the reading/audit, without transferring novel variants or images into WEB.
+
+The whole nine-path commit advances WEB23/431,50/458 original I1,55/463 before LN10 and56/464 combined;10 novels/23 supplements remain complete. Own Miyagi E23 and observed Sendai E23 retain own Sendai E20 and observed Miyagi E20 separately. Later reading/sleep/failure and private self-accounts do not rewrite older cutoffs or recipient knowledge. Four logical ledgers at1.47 retain both static masters:252 claim IDs/806 versions/1313 quoted rows;1371 proposition IDs/1914 versions;192 rule IDs/475 pairs/494 rows, including19 legacy repeats. All4776 old changing-file table lines remain exact.
+
+The continuous run stays active: high-water E23 and next E24 only after the whole commit, no routine confirmation, full original I1/dependent architecture unfinished. Both OFF evidence archives stay local. Source/finite/cumulative acceptance is distinct from final INDEX, push, remote verification and own-head CI. Prior c134 actual source audit passed486 tests/10488 paths; the new commit cannot borrow that result. No model/forecast/domain credit or protected-main integration is claimed by this notice. Earlier current-state notices remain dated history.
 
 ## Current E0022 source transaction — 2026-10-29
 
@@ -2177,3 +2185,17 @@ This transaction still requires whole-semantic/publication-boundary acceptance, 
 Current run remains continuous_sequential/active, startLN-JP-V01, terminalSHUUKURA-V2-20261017-I1, high-waterE22/nextcandidate+permittedE23only through the whole commit, confirmationfalse. E23requires its own prospective entry; the next major push requires actualE22published-headgreen. Full original correspondence/discovery/reconciliation/monograph/specialist/reconstruction/V1comparison/synthesis/release duties remain. E22orE431alone is no substitute terminal. Separate completedLN10and dated pauses remain history. BothOFFarchives staylocal; future releases/prematureV1excluded.
 
 Before staging, current main advanced to `3e15e74e7ae3c4857bc99b2cbc50e5dee50a38df` through owner PR382/383. Ordinary fast-forward reconciliation retains19legitimate external paths, including descriptive Mio LN10global-curation coverage. The entire `series/shuukura/` subtree and all18original entering inputs remain exact; no governing controls changed. Genuine b3ecentry/Q1and accepted source/ledger arguments remain unchanged. The first dc7adoption stays historical; this later main is the actual E22transaction parent. Its separate adoption receipt is 12373bytes/SHA256`78794fccc921077c78ee82286f9402b198a8702683381835b2f2b54303313ecc`. No new source, current model/domain or main-CIcredit follows; both owner transactions remain outside the nine-path E22delta.
+
+## E0023 atomic source checkpoint — 2026-10-29
+
+This checkpoint belongs to the complete E0023 reading/audit/four-ledger/root/inventory transaction. It is not a source-only completion. The original title and all200 native nodes were actually read in four ordered50-node blocks with substantive notes sealed between blocks; whole Q1 preceded current comparison and peer meanings. The exact archive/HTML/body/native hashes and temporal receipts are in the current reading/audit. All127 meaningful nodes are covered once by13 OBS ranges;73 exact LF/br nodes remain explicit, with0 ruby/body media/replacement characters.
+
+E0023's current finite original LN01 counterpart is part0018.xhtml189–300:112 nodes,111 text and1 image-only node,16 ruby/21 rt. Root read four ordered28-node XML/ruby blocks with substantive notes between and actually inspected the selected original illustration. The comparator's original encounter and its exposure to root observations before own LN reading are separately recorded. It is an exposed original verification, not an independent/blind discovery or held-out test. The exact complete map, additions/omissions, changed components and reversible slices are accepted only on their own bounded receipts; no following301+ original payload is credited.
+
+Miyagi own/Sendai observed advance through current object handling and textbook apologies. Sendai own E0020 need/place/regret/horizon, observed Miyagi E0020, retained opposite directional clocks and later adult/historical LN10 packets stay exact. Initial aloud reading is followed by actual sleep and an explicit continued-reading rebuke; no earlier performance is backdated. Miyagi's private fear of needless words, confession-linked summons criticism and wanted negation remain unshared. Current covert contact and denials coexist with a qualified estimate of Sendai's ignorance; neither sleeping silence nor uninspected marks create consent or omniscience. Recalled wound events are not current new blood. The WEB head collision remains distinct from the novel back collision. Only169's first kick is explicitly light;179 states another without a renewed force qualifier. The textbook's one-year use is not a new bilateral relationship expiry.
+
+The ledgers add21 character events,13 relationship events,2 principal projections,2 directions,44 propositions,11 earlier proposition successors,44 information transitions,9 tensions,4 OPEN claims and15 earlier claim successors. Four existing-rule successors add no standing rule IDs. Joint counts are252 claim IDs/806 versions/1313 strict quoted rows,1371 proposition IDs/1914 versions and192 rule IDs/475 pairs/494 physical rows, including19 legacy repeats. Both historical masters and4776 old table lines in the four changing files stay exact. No excerpt-only consultation is substituted for the root original encounter or affected historical formulations.
+
+Whole-commit coverage is50/458 I1,55/463 before LN10,56/464 combined and WEB23/431;10 novels/23 supplements complete, Narō0/290,51 gaps with4 resolved/47 unresolved and27 discovery duties unchanged. Full I1 remains active under `continuous_sequential`, next E0024 after whole E0023, confirmationfalse and all original terminal/dependent duties retained. All18 forecasts/13 historical attempts, M0.13/S0.14 noncurrent UNTESTED status and0 validated domains remain unchanged. Both OFF archives stay local; V1/future releases/E0432+ are unopened.
+
+Source/Q2 accepted40 new checks plus223 carried original checks,263 scoped and14 manual assessments, with two attributed maintained-prose qualifications and the original first notes/Q1 unchanged. Cumulative, finite, whole-transaction, publication and actual INDEX/provider checks have their separate receipts and limitations in the audit. The prior published c134 audit succeeded with486 tests and10488 paths,0 failures/errors/skips, exact owner-push run40984642984 and trusted required status57635587476. The current unit's stage/push/readback/own-head CI and protected-main integration are distinct outcomes; no old green is relabeled as a new check or new source credit.
