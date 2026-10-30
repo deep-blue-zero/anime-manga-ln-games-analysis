@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.29"
+version: "1.30"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0204; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0205; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
 last_updated: 2026-10-29
 ---
@@ -1908,4 +1908,46 @@ Owner [B0204](../02%20Readings/T7S_B0204_DEEP_READING.md), reading SHA256 `eccff
 | `REL-1138` | `maezono-rishuri → school drama-club members, reported B-only role` | Reports requested costume work, values own expression and perceives hesitation. B:P1-4; role-local recipients, no new stable unit/person, unanimous reception, formal whole-show producer or completed performance. |
 
 Totals:1319 KNOW/1138 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Rishuri READY or R2 upgrade. Source-named Nicole is a public reference, teacher/drama-group roles remain local and hometown/future roles bounded; all prior bodies/IDs preserved.
+
+## B0205 Yumeno's looking, making and borrowed permission
+
+Owner [B0205](../02%20Readings/T7S_B0205_DEEP_READING.md), reading SHA256 `ef0a71e12526a87c43b82dfff92736599b156a78cad070644d4bf4c95f13d91e`; source-lock 12.111, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All25 physical and complete logical before-controls froze at published5485f4ab/B0204/12.110 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1320` | Yumeno explains gratitude through peer company and reports a recent shared bathing occasion. | A:P1-2; own account/erotic framing, no independent participant list, pictured bath or equivalent peer experience. |
+| `KNOW-1321` | The reader receives the apparent manager compliment through Yumeno's surprised uptake. | A:P3; represented response, not a separately supplied full manager turn or proved romantic intention. |
+| `KNOW-1322` | Yumeno limits her playful permission to a fantasy involving herself. | A:P3; no actual physical agreement, permission about others or transferable future entitlement. |
+| `KNOW-1323` | Yumeno reports figure-advice questions and explicitly discloses her listening pretext. | B:P1-2; admits self-serving use of concern; peers have no own account of informed acceptance. |
+| `KNOW-1324` | Yumeno answers the apparent old-man-inside remark as an already-familiar joke. | B:P3; no literal new age, gender identity, diagnosis or complete manager motive. |
+| `KNOW-1325` | Yumeno claims pursuit ensures stress relief/exercise/weight loss and pitches it to the manager. | B:P4-5; attributed comic benefits, no verified health result, completed chase or accepted invitation. |
+| `KNOW-1326` | Yumeno reports booklet shopping and different prices for Nanasta members' photographs. | C:P1-2; report of shop/market, no inspected list, exact price, sale or license terms. |
+| `KNOW-1327` | Yumeno rejects superiority/inferiority because she calls all Nanasta girls cute. | C:P3; own equal-admiration judgment, not all members' voices or a certified merchant's intended value hierarchy. |
+| `KNOW-1328` | Yumeno dismisses her own photo price through freely available mirror viewing. | C:P4; stated access distinction, not proof of low self-worth, actual zero price or public reproduction consent. |
+| `KNOW-1329` | Yumeno reports an idea block and a quality obligation toward the manga-club bulletin. | D:P1-2; local authorship standard, not completed manuscript/deadline/club constitution or literal burning. |
+| `KNOW-1330` | The manager's change-of-mood advice is available through Yumeno's uptake. | D:P3; no own manager specification of a particular peer interaction or knowing endorsement. |
+| `KNOW-1331` | Yumeno turns general advice into an asserted endorsement of her chosen future interaction. | D:P4; her appropriation and plan, not shown manager/peer assent or an executed encounter. |
+| `KNOW-1332` | Yumeno reports shopping with Rishuri/Ayumu, buying cloth and considering maid cosplay. | E:P1-2; past-outing account and prospective event, no actual three-person romance or completed costume. |
+| `KNOW-1333` | Yumeno assigns Rishuri sewing and says she requested Ayumu's maid-advisor help. | E:P3-4; her attribution/request; neither supplies an own acceptance, delivered work, service or certified expertise. |
+| `KNOW-1334` | Yumeno answers apparent reuse advice by treating Nanasta's maid outfit as Haru-specific. | E:P5; local claim/refusal, no independently verified wardrobe policy or general boundary competence. |
+| `KNOW-1335` | Yumeno reports rain and chooses quiet home reading as an occasional preference. | F:P1-3; not actual home/rain inspection, universal daily routine or permanent conduct change. |
+| `KNOW-1336` | Yumeno reads doubt in the manager's look and reports borrowing a book from Kazumi. | F:P2-3; uptake/loan report, no own Kazumi statement, exact title or inferred private orientation. |
+| `KNOW-1337` | Yumeno values the poignant depiction of forbidden love in a girls' boarding school and calls it ordinary reading. | F:P4-5; stated aesthetic response, not real biography, new primary-work admission or proof that previous pressure was harmless. |
+| `KNOW-1338` | Yumeno heard of Rena's meet, intended attendance and reports oversleeping after reading until dawn. | G:P1-2; missed-opportunity account, no measured sleep, clinical condition, exact date/result or identification with an earlier Rena meet. |
+| `KNOW-1339` | Yumeno reports that Kyoko and Honoka went to support Rena. | G:P4; offscreen attendance report, no own witness status or exhaustive participants' experience. |
+| `KNOW-1340` | Yumeno corrects appreciating to spectating while regretting the lost multi-person spectacle. | G:P3-5; local wording repair, no attended meet, changed motive, reciprocal permission or completed apology. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1139` | `sakaiya-yumeno → player-protagonist` | A-G: reports pleasure, accepts/responds to represented compliment/questions/joke, asserts generic advice as specific endorsement and defends leisure. Source preserves limited self-directed fantasy wording; no general contact license, settled romance or complete manager interior. |
+| `REL-1140` | `player-protagonist → sakaiya-yumeno` | A:P3/B:P3/C:P4/D:P3/E:P2,5/F:P2-5: compliment/joke/questions/advice/looks available through her uptake only; no separately supplied full reply or knowing approval of her chosen activity. |
+| `REL-1141` | `Yumeno → unnamed Nanasta peers (UNIT-0002 context)` | A/B/C: bath/company and advice questions are her reports; disclosed pretext/pursuit pitch and equal-cuteness judgment do not establish participants' shared frame, safety, informed permission or a new corporate consent policy. |
+| `REL-1142` | `sakaiya-yumeno → maezono-rishuri` | E:P1-3: reports shopping and assigns admired costume-making role. Existing craft route preserved; Rishuri has no own acceptance or completed garment here, and collaboration is not a romance. |
+| `REL-1143` | `sakaiya-yumeno → origasa-ayumu` | E:P1,4: reports shopping and requested maid-advisor role with admiring appraisal. No own Ayumu reply, completed instruction, actual service or certified adviser status. |
+| `REL-1144` | `sakaiya-yumeno → kasukabe-haru` | E:P5: refuses to wear an outfit she calls exclusively Haru's. Local wardrobe distinction, not independently established institutional rule or repaired conduct toward every peer. |
+| `REL-1145` | `sakaiya-yumeno → katsuragi-kazumi` | F:P2: reports a book loan and offers Kazumi as a possible corroborating person. No own Kazumi taste/recommendation/romance or new disclosure of private notes. |
+| `REL-1146` | `sakaiya-yumeno → araki-rena` | G:P1-5: intended attendance and body-focused spectator expectation become reported regret after absence. No meet result, completed support, mutual desire or exact link to earlier competition. |
+| `REL-1147` | `Yumeno → Kyoko/Honoka, separately established routes` | G:P4-5: reports their support attendance and imagines a missed chance to watch them with Rena. No actual co-attendance, unified private motive, permission for her gaze or new group identity. |
+
+Totals:1340 KNOW/1147 REL.102IDENTITY/84CHAR/29UNIT/29READY retained without a new route, individual Yumeno READY or R2 upgrade. Nine source-named identity/character pairs stay established; peers remain report-only where absent and the manga-club bulletin adds no institutional record. All prior bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->

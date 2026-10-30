@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.29",
+  "version": "1.30",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 170 Intimacy primary documents across 23 family portfolios / T7S_B0182–T7S_B0204; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 177 Intimacy primary documents across 24 family portfolios / T7S_B0182–T7S_B0205; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 45742,
-    "physical_sha256": "58d2b3e84742123f4444db03e2834fcaff7953a67526186f435c7f9287552115",
+    "physical_bytes": 46176,
+    "physical_sha256": "ff6dddefb20f892270c3c4e11c100dc214e5e23c7d1b83c43585679fa175abb9",
     "logical_prefix_bytes": 7715,
-    "logical_prefix_sha256": "c9c70009489c2d65a726af6e4e82b58c83ddfe5e98971bd9ecadab6eb714ed9a",
+    "logical_prefix_sha256": "5b8d32d4e3cf5561f4f92ea6698e8a4fc32e9152452993fd243076fbc6bcce4f",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_003",
-      "physical_bytes": 423119,
-      "physical_sha256": "ecfc7d2e90134dd419d85c76dc3740a2f21beca70a28e977e5bc70bc11cadc10",
+      "physical_bytes": 430841,
+      "physical_sha256": "9550b3cf6ceb95174ea23eca74b0bf09883a8bc43932f9210cf804685eea49d6",
       "payload_offset_bytes": 712,
-      "payload_bytes": 422369,
-      "payload_sha256": "f02038c3c54df0c0307654bb1c8078aa1200d96bec0443983368fc8398572e02",
+      "payload_bytes": 430091,
+      "payload_sha256": "4016eb13170aef4a2f8f99ad6688c36935db138422cb58b6c37c6adb5084a955",
       "preserved_original_interval": [
         829500,
         990668
@@ -73,11 +73,11 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1252446,
-  "logical_sha256": "28cc2ec0807b13a6cb12a68f1f27ee2c7241fb017962064889b1ad783d5ae510",
+  "logical_bytes": 1260168,
+  "logical_sha256": "1d653ee36b885d2622a96eb41a6b4701e1f3b68868f66c9b906af4b77cafef89",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0204",
+  "last_source_high_water": "T7S_B0205",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -984,17 +984,23 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
       "component_anchor": "b0204-rishuris-own-pattern-and-the-company-that-widens-it",
       "heading": "B0204 Rishuri's own pattern and the company that widens it"
+    },
+    {
+      "original_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
+      "component_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "heading": "B0205 Yumeno's looking, making and borrowed permission"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0204",
+    "source_high_water": "T7S_B0205",
     "date": "2026-10-29",
-    "logical_before_sha256": "41184c2eed1f6b2243759fba84a0c2b7b2cf05738533737e7f59ec1d21703452",
-    "logical_after_sha256": "28cc2ec0807b13a6cb12a68f1f27ee2c7241fb017962064889b1ad783d5ae510",
-    "addition_bytes": 7170,
-    "addition_sha256": "395520b4dd95904f32fe45456b4b0ed63aaa6153f0b7d933583931ccb8fa9cf2",
-    "unchanged_older_body_sha256": "bf0eeb10ebaa8920099e80c8230678c75f84e356e1380f8d32dc9a427aea59bc",
+    "logical_before_sha256": "28cc2ec0807b13a6cb12a68f1f27ee2c7241fb017962064889b1ad783d5ae510",
+    "logical_after_sha256": "1d653ee36b885d2622a96eb41a6b4701e1f3b68868f66c9b906af4b77cafef89",
+    "addition_bytes": 7722,
+    "addition_sha256": "8405492a72fa793998557f0f54bbca0410dd54a347f13860297014f065726d4a",
+    "unchanged_older_body_sha256": "f9f355ca02de3f3371f8facedd339e6fe3dc6e8d2cd5dd22ed10bb14c6097d79",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
