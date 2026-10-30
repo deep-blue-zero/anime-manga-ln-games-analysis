@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_003
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.32"
+version: "1.33"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0207; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0208; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-13
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -2024,4 +2024,41 @@ Owner [B0207](../02%20Readings/T7S_B0207_DEEP_READING.md), reading SHA256 `67870
 | `REL-1155` | `Jeda → unnamed appreciative fans (Nanasta UNIT0002 context)` | D:P1-3: believes some value her, feels pleased and intends full singing/learning in response. No individual fan identity/testimony, measured popularity, actual performance or new institution/consent policy. |
 
 Totals:1382KNOW/1155REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Jeda READY or R2 upgrade. Existing source-named Jeda/Player/Kajika routes stay established; report-only fans create no individual or unit. All older bodies/IDs preserved.
+
+## B0208 Saori's safety and the reception of care
+
+Owner [B0208](../02%20Readings/T7S_B0208_DEEP_READING.md), reading SHA256 `fdac9a51baad468cbed2d6f3734589098a740f3cb182bc539f9acd288e504364`; source-lock 12.114, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/full locators. All26physical and complete logical before-controls froze at published0c252388/B0207/12.113 before primary; successful automatic cycle separately retained. No menu chronology, performed hearing or runtime.
+
+| ID | Situated knowledge | Exact warrant and retained limit |
+| --- | --- | --- |
+| `KNOW-1383` | Saori apologizes that the manager's opened schedule has become a hospital date. | A:P1; own framing, no stated injury mechanism, admission/treatment or independent manager reply. |
+| `KNOW-1384` | Saori presents hospitals as reassuring through available treatment and kind nurses. | A:P2; attributed experience/value, no named staff or general clinical guarantee. |
+| `KNOW-1385` | Saori tells manager she will receive all his misfortune nearby. | A:P3; promise/intent reaches him in address, not proof of a transfer mechanism or accomplished future protection. |
+| `KNOW-1386` | Saori reports a fall tore the costume chosen by manager and calls herself at fault. | B:P1-2; her account of loss/blame, not inspected garment or settled safety responsibility. |
+| `KNOW-1387` | Saori's questions take up manager's repeated preference for her safety over her quick-recovery rationale. | B:P3-4; represented response through uptake, no independently supplied words/voice or verified healing. |
+| `KNOW-1388` | Saori wants to show an energetic self and asks manager to choose sturdier clothing. | B:P4-5; wish/request, not completed selection or future injury prevention. |
+| `KNOW-1389` | Saori appreciates post-lesson accompaniment and predicts care for her may bring manager trouble. | C:P1-2; self-appraisal/nervousness, no home arrival, diagnosis or universal cost calculation. |
+| `KNOW-1390` | Saori's trip/non-fall discovery identifies manager's catch. | C:P3-4; represented intervention and gratitude beside her healing claim, no inspected pose or clinical assessment. |
+| `KNOW-1391` | Saori describes him as sole receiver of her troubles and asks a little longer in the posture. | C:P5; situated exclusivity and bounded local request, no erasure of Ei/Shao care or supplied acceptance. |
+| `KNOW-1392` | Saori reports no falls/falling objects this week and feels unusually restless. | D:P1-2; source-local interval/account, not exhaustive incident data or accumulated-risk law. |
+| `KNOW-1393` | Saori fears manager injury and names his misfortune her greatest calamity. | D:P3; future possibility/emotional valuation, not knowledge of an actual injury. |
+| `KNOW-1394` | Saori proposes living together temporarily so she can take troubles upon herself. | D:P4; proposal/intent, no manager assent, move, lease or proven protective efficacy. |
+| `KNOW-1395` | Saori reassures kitten and reports rescue from a tree while apologizing for manager involvement. | E:P1-2; local addressed fear/account, no pet name/owner, animal testimony or medical inspection. |
+| `KNOW-1396` | Saori reports own tree fall and credits manager catch for scratches-only outcome. | E:P3; reported occurrence and causal credit, no independent injury severity/clearance. |
+| `KNOW-1397` | Saori's invitation to stroke kitten becomes represented stroking of her; she says enough/embarrassed and strokes kitten. | E:P4-5; recipient response/limit, touched body site unspecified, no blanket or indefinite permission. |
+| `KNOW-1398` | Saori calls from a hole then expresses relief at being saved. | F:P1-2; represented completed local rescue, no supplied mechanics, pit image or named rescuer's own turn. |
+| `KNOW-1399` | Saori asks who dug hole and imagines lifetime there without manager passing. | F:P2-3; culprit unknown and counterfactual duration, not actual lifetime confinement. |
+| `KNOW-1400` | Saori imagines shared hole-life if manager fell and values his company as happiness. | F:P4-5; conditional/playful framing, no actual second fall, permanent dwelling or safety judgment. |
+| `KNOW-1401` | Saori declares excellent condition and proposes カノーラ遊園プール outing. | G:P1; own account/invitation, no manager acceptance or completed visit. |
+| `KNOW-1402` | Saori reports recent major injury healed, new swimsuit and skin suitable for exposure. | G:P2; her report, no independent clearance or exact link to other injuries. |
+| `KNOW-1403` | Saori invites manager to see her skin and offers all-of-Saori display. | G:P3-4; own initiative/presumed desire, not supplied manager preference, actual outfit change or unlimited consent. |
+
+| ID | Direction | Qualified state and retained limit |
+| --- | --- | --- |
+| `REL-1156` | `yamai-saori → player-protagonist` | A:P1-3/D:P1-4: values shared time and his safety, offers proximity as misfortune-reception and proposes temporary shared living from fear for him. Her intent is not a verified protective power or accepted household. Reciprocal REL-1157. |
+| `REL-1157` | `player-protagonist → yamai-saori` | B:P3-4/C:P3-4/E:P3: preference for her safety is represented through her questions; catches are represented/reported with her gratitude and attributed benefit. No independently voiced promise, sole-carer history, clinical competence or universal guarantee. Reciprocal REL-1156. |
+| `REL-1158` | `yamai-saori → player-protagonist` | C:P4-5/E:P4-5: receives kindness with pleasure, briefly requests caught posture, then limits a different stroking encounter and redirects to kitten. Local willingness and limit coexist; no transfer of assent across cases or touched-site invention. Reciprocal REL-1159. |
+| `REL-1159` | `player-protagonist → yamai-saori` | C:P3/E:P3-5: practical catching and represented stroking enter her account, including the limit she expresses. The source does not independently supply his thoughts, continued action after the limit or accepted pool/cohabitation plans. Reciprocal REL-1158. |
+
+Totals:1403KNOW/1159REL.102IDENTITY/84CHAR/29UNIT/29READY retained, no new route, individual Saori READY or R2 upgrade. Existing source-named Saori/Player routes stay established; unnamed nurses/kitten and native pool venue gain no invented individual or unit. All older bodies/IDs preserved.
 <!-- T7S ENTITY STATE PAYLOAD END -->
