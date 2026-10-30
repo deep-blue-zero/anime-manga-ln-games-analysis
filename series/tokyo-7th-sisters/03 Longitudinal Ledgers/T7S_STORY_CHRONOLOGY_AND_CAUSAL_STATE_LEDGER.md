@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.118"
+version: "11.119"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 269 Intimacy primary documents across 36 family portfolios / T7S_B0182–T7S_B0217; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 276 Intimacy primary documents across 37 family portfolios / T7S_B0182–T7S_B0218; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1369`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1497`; `last_closed_block = T7S_B0217`. The admitted horizon contains 784 primary documents: 235 Main, 280 i-n-g and 269 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 269 Intimacy documents across 36 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1376`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1503`; `last_closed_block = T7S_B0218`. The admitted horizon contains 791 primary documents: 235 Main, 280 i-n-g and 276 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 276 Intimacy documents across 37 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4567,3 +4567,28 @@ Owner [B0217](../02%20Readings/T7S_B0217_DEEP_READING.md), reading SHA256 `36bb3
 | `EDGE-1504` | `EV-B0217-001 / EV-B0217-007` | FORMAL_COMPARISON: Home-meal invitation and revised movie-venue proposal make company practical without supplying acceptance, actual meal/film or standing permission. |
 
 Totals:1369EV/25WORLD/47THREAD/1497activeEDGE, maximum1504 with seven intentional older gaps retained. No new WORLD/THREAD, dated cross-case causality or older body rewrite.
+
+## B0218 Xiao's courage, company and selective disclosure
+
+Owner [B0218](../02%20Readings/T7S_B0218_DEEP_READING.md), reading SHA256 `235ea7bb9cfaae84cc728f919187baf0e574cc52bc472f78ddd55cbb4e4fcc68`; source-lock 12.124, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary ranges. All28 physical/five-SourceLock/seven-coverage/four-entity before-controls froze at published73512f41/B0217/12.123 before primary. B0217 exactaudit41067240312/full automatic cycle passed; auditedmain77c83fcb preserved in source ancestry. All117 published Xiao/Shao/stableID rows actually read before primary, including55 additional V2 alias rows; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0218-001` | A:401000281 P0-3 | Appraises manager fatigue, offers full massage/food outing, wants lasting health and corrects always-together wording toward friends. | OFFERED_CARE_AND_WANTED_CONTINUITY; no certified treatment/effectiveness, bodily consent, completed massage/meal or mutual romantic commitment. |
+| `EV-B0218-002` | B:401000440 P0-4 | Renews timidity training, claims near-final progress, describes tolerance of sudden proximity then increased heartbeat and new worry. | SELF_APPRAISED_PROGRESS_AND_NEW_UNCERTAINTY; no universal fear cure, diagnosis, confirmed attraction, observed approach/contact or erased earlier limits. |
+| `EV-B0218-003` | C:401000554 P0-4 | Asks manager city knowledge, admits own unfamiliarity, proposes leisurely tour when free and handmade lunch at his recommendation. | INVITATION_WITH_DISTRIBUTED_CONTRIBUTIONS; no actual expertise, assent, tour/site/food preparation or tested taste. |
+| `EV-B0218-004` | D:401000858 P0-4 | Requests video opening/identifies self, reports dance upload/wider-assessment wish, asks courage praise and choreography correction. | REPORTED_EXPOSURE_WITH_ENCOURAGEMENT_AND_CORRECTION; no analyst-viewed video, actual hostile comments, dance verdict or permanent resilience. |
+| `EV-B0218-005` | E:401001082 P0-4 | Invites school visit, reports festival/class-cafe preparation, invites peers while most wanting manager, imagines waitress welcome/calls it promise. | PREFERRED_COMPANY_WITHIN_PLURAL_INVITATION; no named new school/UNIT, completed festival/work/visit or independent reciprocal promise. |
+| `EV-B0218-006` | F:401001274 P0-5 | Addresses visitor while blue, explains brief birthcountry return for relative wedding, anticipates missing peers/manager, self-judges weakness, takes up shared sadness and promises souvenirs/mail. | PLURAL_BELONGING_AND_PROPOSED_CONTINUITY; no named country/relative, completed trip/contact, diagnosis, observed tears or endorsed weakness verdict. |
+| `EV-B0218-007` | G:401001582 P0-5 | Invites parent encounter through reported interest/repeated manager stories, appraises parents, withholds family secret and conditionally offers disclosure if he becomes family. | MEDIATED_FAMILY_AND_SELECTIVE_DISCLOSURE; no parent-own motives/approval, actual meeting/secret disclosure, new parent identities, accepted proposal or settled kinship. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1505` | `EV-B0218-001 / EV-B0218-002` | FORMAL_COMPARISON: Care for manager and own courage exercise distribute need/capacity differently; no cure, bodily consent or dated causal sequence. |
+| `EDGE-1506` | `EV-B0218-002 / EV-B0218-004` | FORMAL_COMPARISON: Surprise tolerance claim and reported public dance exposure are different courage tests; no complete fear-to-resilience progression or performed dance evidence. |
+| `EDGE-1507` | `EV-B0218-003 / EV-B0218-005` | FORMAL_COMPARISON: City/lunch proposal and school welcome contribute to desired company with different availability/assent frames; no fulfilled appointment or exclusivity. |
+| `EDGE-1508` | `EV-B0218-004 / EV-B0218-007` | FORMAL_COMPARISON: Offering work to wider evaluation and keeping a family secret distinguish chosen exposure from selective disclosure; no inability-to-speak totalization or actual disclosed content. |
+| `EDGE-1509` | `EV-B0218-005 / EV-B0218-006` | FORMAL_COMPARISON: Preferred manager visit and anticipated missing peers/manager retain plural bonds; no peer displacement or chronology inferred. |
+| `EDGE-1510` | `EV-B0218-001 / EV-B0218-006` | FORMAL_COMPARISON: Health wish in prospective care and ask to stay well during absence frame continuity; no completed care, correspondence or permanent commitment. |
+
+Totals:1376EV/25WORLD/47THREAD/1503activeEDGE, maximum1510 with seven intentional older gaps retained. No new WORLD/THREAD, dated cross-case causality or older-body rewrite.

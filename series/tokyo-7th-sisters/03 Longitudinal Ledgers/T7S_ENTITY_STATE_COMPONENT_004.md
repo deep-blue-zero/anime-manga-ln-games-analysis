@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0217; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0218; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -406,4 +406,49 @@ Existing Miu `IDENTITY-0085 / CHAR-0067 / aihara-miu` and Player `IDENTITY-0001 
 CHAR-0067 gains concrete invitations, material remembrance, chosen generosity/possible return, withheld anniversary framing, bounded counterfactual devotion, imagined domestic future and responsive venue preference. Older specific-recognition desire, work/friendship ranking resistance, peer teaching/care and its consent gaps, reasoned professional trust, private gaze boundary and preparation costs remain. No omniscient peer/family knowledge, institutional policy or mature romantic state is promoted.
 
 Totals:1641KNOW/1219REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Miu decision; absence preserved without inventing R2 or promoting clinical/readiness/maturity/performed-audio status.
+
+## B0218 Xiao's courage, company and selective disclosure
+
+Owner [B0218](../02%20Readings/T7S_B0218_DEEP_READING.md), reading SHA256 `235ea7bb9cfaae84cc728f919187baf0e574cc52bc472f78ddd55cbb4e4fcc68`; source-lock 12.124, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary ranges. All28 physical/five-SourceLock/seven-coverage/four-entity before-controls froze at published73512f41/B0217/12.123 before primary. B0217 exactaudit41067240312/full automatic cycle passed; auditedmain77c83fcb preserved in source ancestry. All117 published Xiao/Shao/stableID rows actually read before primary, including55 additional V2 alias rows; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+Existing Xiao/Shao `IDENTITY-0094 / CHAR-0076 / xiao-heifeng` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their actual published routes. LocalASCII not external Romanization. Parents/weddingrelative remain unnamed reported roles; birthcountry unnamed here. No new CHAR/IDENTITY/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1642` | Xiao appraises repeated manager recklessness/possible fatigue and offers full massage. | A:P1; own care appraisal/offer, no diagnosis, qualification or completed treatment. |
+| `KNOW-1643` | Xiao presses against restraint and proposes fatigue relief plus nourishing shared meal. | A:P2; her invitation, no manager consent or actual massage/meal. |
+| `KNOW-1644` | Xiao wants lasting health and begins always-together wording before correcting toward friends. | A:P3; text correction/wanted continuity, no heard embarrassment or mutual romantic permanence. |
+| `KNOW-1645` | Xiao renews the goal of overcoming timidity and finds manager conveniently present. | B:P1; present goal, no achieved universal capacity. |
+| `KNOW-1646` | Xiao thinks mental training near final stage and claims nothing will frighten her. | B:P2; own progress claim, no complete tested cure. |
+| `KNOW-1647` | Xiao asks surprise and describes sudden manager proximity as no longer startling. | B:P3; represented proximity/self-report, no runtime motion/contact. |
+| `KNOW-1648` | Xiao distinguishes not startled from stronger heartbeat and asks why, gaining a new worry. | B:P4; uncertainty retained, no diagnosis/confirmed attraction or progress erased. |
+| `KNOW-1649` | Xiao asks whether manager knows Tokyo well. | C:P1; question, no proven expertise or own answer. |
+| `KNOW-1650` | Xiao says her own knowledge of what Tokyo contains is limited. | C:P2; local unfamiliarity, no global incapacity. |
+| `KNOW-1651` | Xiao proposes leisurely exploration with manager when he is free. | C:P3; initiative and availability qualification, no assent/itinerary/completed tour. |
+| `KNOW-1652` | Xiao plans handmade lunch and asks recommended place to eat. | C:P4; distributed contribution/anticipation, no prepared food, tested taste or identified site. |
+| `KNOW-1653` | Xiao asks manager to open video at address and identifies herself in it. | D:P1; represented video-viewing address, no supplied external URL/analyst viewed frames. |
+| `KNOW-1654` | Xiao reports dance-video upload, calls herself timid and wants wider evaluation. | D:P2; reported exposure/assessment wish, no performance verdict or actual audience outcome. |
+| `KNOW-1655` | Xiao asks praise for courage and says manager praise would let her withstand online criticism. | D:P3; wanted encouragement/conditional assurance, no actual attack or durable immunity. |
+| `KNOW-1656` | Xiao calls shared own-video viewing strange and asks correction if choreography wrong. | D:P4; correction remains welcome, no analyst viewed dance or accuracy finding. |
+| `KNOW-1657` | Xiao invites manager to visit her school. | E:P1; proposed encounter, no newly named school or accepted visit. |
+| `KNOW-1658` | Xiao reports festival preparation and planned class cafe. | E:P2; prospective event, no completed festival or new UNIT. |
+| `KNOW-1659` | Xiao plans to invite Nanasta peers while most wanting manager to come. | E:P3; priority within plural bonds, no exclusion or reciprocal feeling. |
+| `KNOW-1660` | Xiao imagines waitress welcome, urges attendance and calls it promise. | E:P4; her address, no independently accepted promise or accomplished work/visit. |
+| `KNOW-1661` | Xiao addresses manager as visitor and says she feels blue. | F:P1; represented visit frame/local feeling, no clinical diagnosis or actual observed motion. |
+| `KNOW-1662` | Xiao explains brief birthcountry return for relative wedding while initially minimizing it. | F:P2; reported imminent obligation, no named country/relative or completed travel/wedding. |
+| `KNOW-1663` | Xiao anticipates unbearable loneliness from days without Nanasta peers and manager. | F:P3; plural attachment, no proven future outcome or erased family bond. |
+| `KNOW-1664` | Xiao calls herself weak, takes up apparent manager loneliness and asks not to be made to cry. | F:P4; self-appraisal/reply-mediated reciprocity, no endorsed weakness/independent full speech/observed tears. |
+| `KNOW-1665` | Xiao promises souvenirs/messages and asks manager stay healthy while waiting. | F:P5; prospective contact/care, no completed purchases/mail or guarantee. |
+| `KNOW-1666` | Xiao asks manager availability for people she wants him to meet, then reports parents want encounter. | G:P1-2; proposed meeting/mediated interest, no actual introduction or parent-own turn. |
+| `KNOW-1667` | Xiao attributes parent curiosity to frequent manager stories and appraises them overprotective but good. | G:P3; her account, no full parent knowledge/approval/motive or verified threat. |
+| `KNOW-1668` | Xiao reserves content as family secret and conditionally offers all if manager becomes family. | G:P4-5; selective disclosure/conditional teasing, no actual secret contents, accepted proposal or settled kinship. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1220` | `xiao-heifeng → player-protagonist` | A-G: offers health care/meal, wants continuity, uses manager in courage test, invites exploration/correction/school/family encounter, values praise/company and plans absence contact while reserving family speech. Initiative, recipient choice and incomplete communication coexist; no fear cure, exclusivity, actual video verdict, trip/contact or accepted kinship. Reciprocal REL-1221. |
+| `REL-1221` | `player-protagonist → xiao-heifeng` | B/D/F/G: addressed participant whose proximity/viewing/praise-correction possibilities, apparent loneliness and family invitation appear through Xiao's speech. No full own current reply/mind, bodily consent, achieved critique/protection, accepted festival/family promise or marriage. Reciprocal REL-1220. |
+
+CHAR-0076 gains differentiated courage tests, prospective caregiving/shared contributions, wider-assessment wish compatible with correction, plural belonging and deliberate disclosure boundary. Earlier B0105 uneven training/help, B0143/0165 different teachers/costs/care and limits, B0176 cooperation/knowledge gaps/failed rescue, B0179 partly corrected admiration and B0181 chosen calligraphy/recognized growth/failed personal-message decoding remain. No uniform cure, limitless caretaker, acquired fluency or omniscient manager/parent mind.
+
+Totals:1668KNOW/1221REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Xiao decision; absence preserved without invented R2 or promotion of clinical/readiness/maturity/performed-audio status.
 <!-- T7S ENTITY STATE PAYLOAD END -->
