@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0215; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0216; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -308,4 +308,57 @@ Existing Matsuri `IDENTITY-0088 / CHAR-0071 / mimori-matsuri`, Player `IDENTITY-
 CHAR-0071 gains these specific wants, confidence, explanations and corrections without replacing earlier audience-making/novice care, real unease, work/bystander costs, limited-recall party account, fictional-role boundaries or shared game absorption. CHAR-0001 is a bounded recipient/reconstructed responder; CHAR-0014 gains only attributed cycling role, no new internal state. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1587KNOW/1207REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete current READY scan has no Matsuri decision; absence preserved, no new maturity/readiness or performed-listening promotion.
+
+## B0216 Tomoe's wanted company, giving care and uncertain worth
+
+Owner [B0216](../02%20Readings/T7S_B0216_DEEP_READING.md), reading SHA256 `ccca18355e00775d8632b488d5dc2f5666a0f752922b46b9f9e662f017fe8397`; source-lock 12.122, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published016fc149/B0215/12.121 before primary. B0215 exact-source audit41055835282 and full automatic cycle passed; PR400 open at receipt. Auditedmain77c83fcb is an actual parent of entering source. All138 published Tomoe rows actuallyread before primary; whole READY subjectscan has no prior Tomoe decision. No menu chronology, performed hearing or runtime.
+
+Existing Tomoe `IDENTITY-0045 / CHAR-0029 / shiratori-tomoe` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their routes. Madoka `IDENTITY-0082 / enami-madoka`, スース `IDENTITY-0021 / alessandra-susu`, Coney `IDENTITY-0003 / rokusaki-connie-presented` and Miu `IDENTITY-0085 / aihara-miu` are actuallyread current routes. Coney surface spelling preserves its canonical adjudication while legacytoken remains. E brother stays unnamed, no new IDENTITY/CHAR/UNIT.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1588` | Tomoe recalls never forming a pair under school-style free selection. | A:P1; contextual self-account, not all-life friendlessness or verified full school history. |
+| `KNOW-1589` | Tomoe wonders if she can now speak courageously and wants paired action. | A:P2; own present initiative, no universal acquired ease. |
+| `KNOW-1590` | Tomoe asks manager conditionally for one day/even just being beside her. | A:P3; bounded request, no assent, completed day or formal romance. |
+| `KNOW-1591` | Tomoe excitedly names park/weather, checks/apologizes for own level and control difficulty. | B:P1-2; self-conscious occasion, not heard delivery or clinical state. |
+| `KNOW-1592` | Tomoe values manager sharing homemade lunch and invokes otome-game expectation. | B:P3; represented shared-lunch frame, no inspected game event or confirmed relationship. |
+| `KNOW-1593` | Tomoe corrects box selection and reserves burned-egg portion for herself. | B:P4; care/directions represented, no actual food image, full consumption or tasting review. |
+| `KNOW-1594` | Tomoe cannot guarantee taste, wants better appearance for manager and jokes about own girlishness. | B:P5; intention/self-image, no general cook rating or essential domestic role. |
+| `KNOW-1595` | Tomoe reports Madoka/スース took her to karaoke. | C:P1; reported inclusion, no complete outing/individual companion testimony. |
+| `KNOW-1596` | Tomoe reports no self-queued song, some shared singing and concludes unneededness. | C:P2; described participation differs from her global judgment, no analyst endorsement or peer rejection. |
+| `KNOW-1597` | Tomoe imagines happiness in next life then rejects the thought. | C:P3; fictional emotional turn, no supplied method/plan/diagnosis or actual new life. |
+| `KNOW-1598` | Tomoe frames continued effort as owed until repaying manager kindness. | C:P4; actor obligation, not endorsed condition of worth or manager right to control. |
+| `KNOW-1599` | Tomoe says thought of manager sustains her, promises enjoyment and asks him stay. | C:P5; self-account/request, no actual availability promise, exclusive protector or lasting cure. |
+| `KNOW-1600` | Tomoe reports recent office tea making and quotes Coney delighted praise. | D:P1-2; attributed local compliment, no analyst tasting/whole-office rank. |
+| `KNOW-1601` | Tomoe appraises maybe first somebodyNo1 as chance to belong. | D:P3; tentative situated valuation, no archive-certified lifetimefirst or prior admiration erasure. |
+| `KNOW-1602` | Tomoe proposes training from tomorrow toward tea-serving idol ideal. | D:P4; aspiration/relative local future, no completed regimen or new formal job. |
+| `KNOW-1603` | Tomoe questions the role/suitability then values having more strengths. | D:P5; self-check retained, no total service-role acceptance or permanent self-recognition. |
+| `KNOW-1604` | Tomoe reports brother's recent song praise and suspects omen. | E:P1; attributed praise/suspicion, no objective foreboding or named brother identity. |
+| `KNOW-1605` | Tomoe speculates forbidden love, playfully claims manager/apologizes and reflects that brother likes her. | E:P2-3; no brother-own romantic intent, mutual manager relationship or enacted romance. |
+| `KNOW-1606` | Tomoe thinks of ramen treat for brother/manager as both important people. | E:P4; valued roles/proposal, no completed meal, common relationship category or guest assent. |
+| `KNOW-1607` | Tomoe asks whether manager goes near mall and requests accompaniment. | F:P1; current ask, no completed visit or accepted schedule. |
+| `KNOW-1608` | Tomoe reports Miu shop information and resolves courage to enter. | F:P2; information/wanted action, no inspected shop or actual Miu shopping partnership. |
+| `KNOW-1609` | Tomoe names little private wear/fear judgment, asks hiding and receives uniform alternative through reply. | F:P3-4; plural difficulty, no actual hiding/contact or full manager turn. |
+| `KNOW-1610` | Tomoe says uniform removes cling excuse, immediately retracts and renews company request. | F:P5; comic motive/qualification, no proof all wardrobe concerns false or manager acceptance. |
+| `KNOW-1611` | Quoted Tomoe address repeatedly corrects greeting/self-introduction. | G:P1; written calling frame, not heard timing, second actor or demonstrated rehearsal. |
+| `KNOW-1612` | Quoted Tomoe corrects opening to waking request and warns of possible stream lateness. | G:P2-3; practical care/urgency, no verified timetable, actual lateness or successful waking. |
+| `KNOW-1613` | Tomoe calls task too much, says phones difficult and feels nausea. | G:P4; local self-limit, no medical cause or universal call incapacity. |
+| `KNOW-1614` | Text represents retching/apology and intention to hang up while still asking wake. | G:P5; represented limit/care, no heard retch, clinical finding, actual hangup/wake or completed stream. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1208` | `shiratori-tomoe → player-protagonist` | A-G: authors bounded company requests, gives better-looking lunch, shares distress/debt/need for presence, reports praise, values him with brother, requests mall proximity and attempts morning care under strain. No accepted standing dates, endorsed debt, clinical cure or erased earlier autonomy. Reciprocal REL-1209. |
+| `REL-1209` | `player-protagonist → shiratori-tomoe` | B/F: recipient/meal-selection context and practical uniform alternative represented through Tomoe address; remaining asks lack full supplied own reply. C no promised lifelong availability, E no mutual romantic declaration, G no successful wake. Reciprocal REL-1208. |
+| `REL-1210` | `shiratori-tomoe → enami-madoka` | C:P1-2: reports karaoke company and judges own participation harshly; no Madoka rejection or full companion-mind access. Reciprocal REL-1211. |
+| `REL-1211` | `enami-madoka → shiratori-tomoe` | C:P1: taking Tomoe to karaoke appears through her report, no own current speech, judgment, complete invitation terms or responsibility for cure. Reciprocal REL-1210. |
+| `REL-1212` | `shiratori-tomoe → alessandra-susu` | C:P1-2: names スース among karaoke companions while giving own difficult-participation account. Distinct named endpoint, no individual criticism or rejected bond invented. Reciprocal REL-1213. |
+| `REL-1213` | `alessandra-susu → shiratori-tomoe` | C:P1: reported companion/includer, no separately supplied song/reply, motive or full shared reaction with Madoka. Reciprocal REL-1212. |
+| `REL-1214` | `shiratori-tomoe → rokusaki-connie-presented` | D:P1-5: receives attributed tea praise as valued belonging possibility, imagines service ideal then questions it. No new formal duty, whole-life first certification or knowledge of unrelated Coney horizons. Reciprocal REL-1215. |
+| `REL-1215` | `rokusaki-connie-presented → shiratori-tomoe` | D:P2: delighted tea compliment quoted by Tomoe; no independent full turn, objective quality rank, performance/maturity endorsement or new managerial appointment. Reciprocal REL-1214. |
+| `REL-1216` | `shiratori-tomoe → aihara-miu` | F:P2: takes reported shop information toward own desired visit/resolve, no actual joint shopping or Miu knowledge of later cling admission. Reciprocal REL-1217. |
+| `REL-1217` | `aihara-miu → shiratori-tomoe` | F:P2: source of shop recommendation through Tomoe report; no current own turn, clothes warranty, actual visit/companionship promise or future result. Reciprocal REL-1216. |
+
+CHAR-0029 gains wanted company, practical care, qualified recognition, partial participation/self-judgment and explicit task limits without overwriting chosen return/leadership, own collaborative song, rigorous teaching/learning, capacity bounds or private knowledge. New brother relation remains E-local unnamed family report. UNIT-0002 receives only reported office care, not a new therapeutic institution; no pairing/karaoke/tea-idol UNIT. No new CHAR/IDENTITY/UNIT/READY.
+
+Totals:1614KNOW/1217REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Tomoe decision; absence preserved, no invented R2, clinical/readiness/maturity or performed-audio promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
