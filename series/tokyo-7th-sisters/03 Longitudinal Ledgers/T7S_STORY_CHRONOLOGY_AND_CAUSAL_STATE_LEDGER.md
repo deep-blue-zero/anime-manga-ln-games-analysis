@@ -4,13 +4,13 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.115"
+version: "11.116"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 255 Intimacy primary documents across 34 family portfolios / T7S_B0182–T7S_B0215; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -26,7 +26,7 @@ Read the complete current ledger before editing; append stable history and patch
 
 ## Current state
 
-`event_records = 1348`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1479`; `last_closed_block = T7S_B0214`. The admitted horizon contains 763 primary documents: 235 Main, 280 i-n-g and 248 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 248 Intimacy documents across 33 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1355`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1485`; `last_closed_block = T7S_B0215`. The admitted horizon contains 770 primary documents: 235 Main, 280 i-n-g and 255 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 255 Intimacy documents across 34 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -4492,3 +4492,28 @@ Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c
 | `EDGE-1486` | `EV-B0214-004 / EV-B0214-006` | FORMAL_COMPARISON: Strange-spirit agency attribution and merry-company report do not identify the same spirits or erase earlier diegetic persons. |
 
 Totals:1348EV/25WORLD/47THREAD/1479activeEDGE, maximum1486 with seven intentional earlier gaps retained. No new WORLD/THREAD, older body revision or invented cross-case chronology.
+
+## B0215 Matsuri's play, wanted recognition and local corrections
+
+Owner [B0215](../02%20Readings/T7S_B0215_DEEP_READING.md), reading SHA256 `7d318e44bb4098ae375e3f6a31a7d8828951c047ce0a9ab3dc66aa490034e5c6`; source-lock 12.121, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published06bcc1a1/B0214/12.120 before primary. B0214 exact-source audit41051941371 and full automatic cycle passed; PR398 open at receipt. All119 published Matsuri context rows actually read before primary; whole READY subject scan found no Matsuri decision. No menu-derived chronology, performed listening or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0215-001` | A:401000252 P0-3 | Invites serious arcade contest, offers dates for manager win/continued company for own win and notices happiness either way; asks positive reply even if pretended. | GAME_TERMS_AS_WANTED_COMPANY; no actual fight/match/result, accepted pact, daily dates or standing availability. |
+| `EV-B0215-002` | B:401000606 P0-5 | Reports early cycling fatigue/Sui lapping, game-exercise expectation/self-blame and attempted leg training, then provisionally recalls only city bike after manager's alternative. | SELF_APPRAISAL_AND_OPEN_CAUSAL_CORRECTION; no objective physiology, sole bike cause, measured fitness/improvement or complete outing record. |
+| `EV-B0215-003` | C:401000866 P0-4 | Night/room invitation resolves to anticipated shared game, noisy all-night ideal, reported prepared snacks and imagined sunrise. | PROPOSED_SHARED_PLAY_AND_PERSONAL_NORM; no actual visit/session/sunrise, full guest roster or universally binding all-night custom. |
+| `EV-B0215-004` | D:401000958 P0-5 | Values longstanding manager partnership yet asks about absent glamour/gravure work, contests perceived narrow appraisal and wonders about better recognition. | WANTED_PROFESSIONAL_PRESENTATION_AND_ATTRIBUTED_GAZE; nongraphic, no objective body/age adjudication, casting-cause proof, booked job, completed demonstration or blanket image/touch assent. |
+| `EV-B0215-005` | E:401001202 P0-5 | Announces intimacyMAX, explains misunderstood game term, translates it as becoming close and teases a future romance level. | METAPHOR_TRANSLATED_FOR_RECIPIENT; no actual numeric unlock/readiness, terminal bond or mutual romance. |
+| `EV-B0215-006` | F:401001342 P0-4 | Invites pair tournament, asserts confident victory, stresses coordination over individual skill and prefers manager as matched partner. | TRUSTED_COOPERATION_REQUEST; no verified event/entry, accepted invitation, actual match or guaranteed result. |
+| `EV-B0215-007` | G:401001498 P0-5 | Wants swimsuit-shopping company without swim outing, proposes attention-getting arcade use, receives reported objection, recalls cosplay rebuke and abandons strategy while keeping purchase/company wish. | LOCAL_PLAN_CORRECTION_WITH_DESIRE_RETAINED; no actual swimsuit public act/purchase, independent rebuke scene, universal policy or durable reform. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1487` | `EV-B0215-001 / EV-B0215-005` | FORMAL_COMPARISON: Competition/reward and translated game closeness give different forms to wanted company; no single courtship chronology, numeric route or mutual agreement. |
+| `EDGE-1488` | `EV-B0215-001 / EV-B0215-006` | FORMAL_COMPARISON: Imagined win-conditioned company and preferred pair cooperation preserve distinct competitive/relational aims, not one completed tournament. |
+| `EDGE-1489` | `EV-B0215-002 / EV-B0215-006` | FORMAL_COMPARISON: Cycling's uncertain skill transfer and game-pair confidence concern distinct capacities; neither total incompetence nor universal winning ability. |
+| `EDGE-1490` | `EV-B0215-003 / EV-B0215-006` | FORMAL_COMPARISON: All-night play and tournament are proposed shared activities with different scope, no accepted schedule or causal progression. |
+| `EDGE-1491` | `EV-B0215-004 / EV-B0215-007` | FORMAL_COMPARISON: Wanted glamorous work and abandoned arcade-attention strategy retain different professional/venue stakes, no blanket image authorization or erased aesthetic desire. |
+| `EDGE-1492` | `EV-B0215-002 / EV-B0215-007` | FORMAL_COMPARISON: Alternative explanation and changed plan give local corrections, no menu-derived sequence or universal durable reform. |
+
+Totals:1355EV/25WORLD/47THREAD/1485activeEDGE, maximum1492 with seven intentional earlier gaps preserved. No new WORLD/THREAD or prior-body rewrite.

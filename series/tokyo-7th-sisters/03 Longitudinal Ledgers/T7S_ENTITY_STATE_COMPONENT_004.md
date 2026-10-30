@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.4"
+version: "1.5"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0214; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0215; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -262,4 +262,50 @@ Existing Ei `IDENTITY-0049 / CHAR-0037 / yukuhashi-ei` and Player `IDENTITY-0001
 Existing CHAR-0037 gains specific preferences, making/care claims, open succession concern, qualified attachments and recipient requests; CHAR-0001 gains the bounded represented receiving/giving roles, no shared access to inward B0167 memory. Nanasta UNIT-0002 retains its earlier role without a new institutional event. Rei/Yuuko remain prior distinct identities; D/F/G supply no identification. No new CHAR/IDENTITY/UNIT/READY.
 
 Totals:1561KNOW/1203REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete current READY scan has no Ei decision; absence preserved, no invented R2/maturity, performed listening or monograph promotion.
+
+## B0215 Matsuri's play, wanted recognition and local corrections
+
+Owner [B0215](../02%20Readings/T7S_B0215_DEEP_READING.md), reading SHA256 `7d318e44bb4098ae375e3f6a31a7d8828951c047ce0a9ab3dc66aa490034e5c6`; source-lock 12.121, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published06bcc1a1/B0214/12.120 before primary. B0214 exact-source audit41051941371 and full automatic cycle passed; PR398 open at receipt. All119 published Matsuri context rows actually read before primary; whole READY subject scan found no Matsuri decision. No menu-derived chronology, performed listening or runtime.
+
+Existing Matsuri `IDENTITY-0088 / CHAR-0071 / mimori-matsuri`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` and Sui `IDENTITY-0017 / CHAR-0014 / kamishiro-sui` retain their routes. Shop manager is an unnamed remembered role distinct from Player; no new identity or venue UNIT. Older QOP UNIT-0015 state remains, no new membership/game-avatar person or literal sibling tie.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1562` | Matsuri asks serious contest on her arcade home ground. | A:P1; challenge/hyperbole, no actual fight or game outcome. |
+| `KNOW-1563` | Matsuri offers dates if manager wins and requests pleased reply even if feigned. | A:P2; wanted response, no supplied full manager turn/accepted pact or actual daily dating. |
+| `KNOW-1564` | Matsuri wants continued company if she wins and notices either outcome makes her happy. | A:P3; relational design of invitation, no permanent claim or completed result. |
+| `KNOW-1565` | Matsuri reports group cycling, earlier-than-expected fatigue and athletic Sui lapping her. | B:P1-2; attributed outing, no Sui testimony, humiliation motive or measured performance. |
+| `KNOW-1566` | Matsuri expected dance-game exercise to suffice and wonders about too much home gaming. | B:P3; her causal hypothesis, not physiology or all-games fitness rule. |
+| `KNOW-1567` | Matsuri says frustration prompted more exercise and resolves leg training. | B:P4; reported effort/resolve, no measured frequency, improvement or lasting habit. |
+| `KNOW-1568` | Matsuri receives bike alternative and provisionally recalls being only city-bike participant. | B:P5; revised possible condition, no sole cause or full equipment survey. |
+| `KNOW-1569` | Matsuri asks room/night company then supplies anticipated game as activity. | C:P1-2; proposed occasion, no accomplished visit or unseen encounter. |
+| `KNOW-1570` | Matsuri presents noisy shared play/all-night gathering as normal. | C:P3; personal norm, no universal practice, all guest assent or manager availability. |
+| `KNOW-1571` | Matsuri reports snacks ready, asks manager bring only himself and imagines sunrise. | C:P4; offered preparation/invitation, no inspected food, played night or observed dawn. |
+| `KNOW-1572` | Matsuri appraises a long association/good manager partnership. | D:P1; her appraisal, not identical manager judgment or complete dated history. |
+| `KNOW-1573` | Matsuri asks why sexy/glamour work such as gravure is absent. | D:P2; professional wish/grievance, no independently inspected job ledger/casting cause or booked work. |
+| `KNOW-1574` | Matsuri responds to perceived meaningful gaze and contests a single visible dimension as full appraisal. | D:P3-4; nongraphic self-account, no objective measurement, exact age or independently pictured gaze. |
+| `KNOW-1575` | Matsuri wonders whether manager should better recognize that side of her. | D:P5; qualified question, no completed demonstration, assignment or blanket consent. |
+| `KNOW-1576` | Matsuri congratulates manager on intimacyMAX. | E:P1; her metaphorical announcement, not numeric system/readiness maximum. |
+| `KNOW-1577` | Matsuri explains game term to implied question and contrasts its uptake with leveling-up language. | E:P2-3; situated explanation/appraisal, no universal language survey. |
+| `KNOW-1578` | Matsuri translates intended meaning as becoming quite close. | E:P4; her relational valuation, no new relationship contract or endpoint. |
+| `KNOW-1579` | Matsuri playfully proposes a future romance level. | E:P5; teased possibility, no mutual confession, current romance or actual unlock gate. |
+| `KNOW-1580` | Matsuri reports upcoming pair tournament, invites manager and voices winning confidence. | F:P1-2; no independently verified schedule/accepted entry or guaranteed result. |
+| `KNOW-1581` | Matsuri says coordination matters more than individual skill here. | F:P3; her situated account, no independently reviewed game rules/technical result. |
+| `KNOW-1582` | Matsuri prefers manager as closely matched partner and asks assent. | F:P4; personal trust/request, no supplied agreement or prior completed practice. |
+| `KNOW-1583` | Matsuri asks swimsuit-shopping accompaniment without planned swimming. | G:P1; desire/request, no actual purchase or outing. |
+| `KNOW-1584` | Matsuri proposes arcade swimsuit play to hold male spectators' attention. | G:P2; imagined presentation/reception, no actual public act, audience consent/response or current costume. |
+| `KNOW-1585` | Matsuri repeats manager's inconvenience objection and initially questions it. | G:P3; reply-mediated objection, no full own manager turn or institutional rule. |
+| `KNOW-1586` | Matsuri recalls mild shop-manager rebuke after cosplay/whip and her earlier explanation. | G:P4; attributed remembered scene, no new named manager, verified sole reason or actual prop use in present. |
+| `KNOW-1587` | Matsuri abandons arcade strategy while retaining wanted swimsuit/company. | G:P5; local changed plan, no completed purchase/outing or general durable reform. |
+
+| ID | Direction | Case-local state and retained limit |
+| --- | --- | --- |
+| `REL-1204` | `mimori-matsuri → player-protagonist` | A-G: competitive companionship, shared-play invitation, self-appraisal/professional recognition request, translated closeness, tournament trust and received shop objection. Requests/jokes remain scoped; no accepted standing dates, unlimited image/touch permission or mutual romance. Reciprocal REL-1205. |
+| `REL-1205` | `player-protagonist → mimori-matsuri` | A/B/E/G: reactions/questions/alternative cause and objection represented through Matsuri replies; other invitations lack supplied assent. G objection reaches a changed plan; no independent full manager monologue, clinical/casting certainty or universal policy. Reciprocal REL-1204. |
+| `REL-1206` | `mimori-matsuri → kamishiro-sui` | B:P2: compares reported cycling result, acknowledges athletic context and feels disappointed at being lapped. No objective total fitness comparison, hostility or Sui inner-state knowledge. Reciprocal REL-1207. |
+| `REL-1207` | `kamishiro-sui → mimori-matsuri` | B:P2: lapping occurs only through Matsuri account; no own present speech, new motive, measured lap count or humiliation intent. Existing swimmer/prince horizon retained. Reciprocal REL-1206. |
+
+CHAR-0071 gains these specific wants, confidence, explanations and corrections without replacing earlier audience-making/novice care, real unease, work/bystander costs, limited-recall party account, fictional-role boundaries or shared game absorption. CHAR-0001 is a bounded recipient/reconstructed responder; CHAR-0014 gains only attributed cycling role, no new internal state. No new CHAR/IDENTITY/UNIT/READY.
+
+Totals:1587KNOW/1207REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete current READY scan has no Matsuri decision; absence preserved, no new maturity/readiness or performed-listening promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
