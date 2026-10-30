@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U03; story ends sp0095, closing illustration sp0096 separately classified"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U04; narrative end sp0136, frontispiece97 and closing portrait137 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Character development and readiness
 
-**Records: 11. Subjects enrolled: 7. Current source boundary: CM-U03.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
+**Records: 15. Subjects enrolled: 9. Current source boundary: CM-U04.** These are source-bounded state events, not finished monographs or validated models. Use the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) and [reconstruction protocol](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_CHARACTER_RECONSTRUCTION_PROTOCOL.md).
 
 ## Record schema
 
@@ -185,14 +185,60 @@ Prior CM-CS-006. Primary route: [CM-U03-O001](../01%20Sequential%20Readings/CORN
 
 **Readiness:** monograph evidence accumulating with expanded, sustained interior evidence; model NOT_ASSESSED. No rule/test/global grade is promoted. Gaps: persistence across contexts, boundary conduct, actual response to chosen alternatives and broader independent decisions. Validation refs NONE.
 
+## U04 state events
+
+All four events have revision 1, witness `CM-JP-AIO2020-LOCAL`, unit/disclosure CM-U04, temporal scope through CM-U04-EXIT. Current dinner/home actions and newly disclosed student histories remain separate. The originating U04 reading owns all observations/digests. Natsuki and Takasugi are independently enrolled; neither is merged with an earlier anonymous person. No new Chikako, Nishimura, U01-companion, U02-client or student-woman state is invented.
+
+### CM-CS-012 — CM-CH-OTOMO
+
+Prior CM-CS-010; identity unchanged. Primary route: [CM-U04-O039](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o039); `CM-JP-AIO2020-LOCAL::sp0135::xhtml=item/xhtml/p-0133.xhtml::image=item/image/i-0133.jpg::panel=P00`.
+
+**Knowledge/self-conception:** dreams of a female Imagase, calls it selfish and wishes for conventional male happiness. Learns Takasugi's former relation/reunion wish, Natsuki's independent account and Imagase's reason for keeping the lighter. Not-gay/different-world statements coexist with particular desire; no final orientation follows. **Choices:** defends Natsuki, pushes Imagase away, immediately apologizes for harmful wording, requests later contact with Natsuki, says he drank to prevent escalation, proposes stopping, initiates a kiss and returns the lighter after learning its meaning. CM-DEC-015/019/021, CM-RS-015–017, CM-INF-014–017.
+
+**Change/counterevidence:** repeated meaningful initiative strengthens a contextual agency account rather than helplessness. The second gift is knowingly particular care; immediate hurt repair and affection can overlap. Drunkenness, later stated memory gaps and continued ambiguity limit inference of fully settled intent. Finger-only correction limits the intimate act; no penile penetration is certified. His stated gap about particular words is not proof all memory is absent. **Evidence:** U04 O002–O004,O009–O019,O022–O024,O028,O031–O040; sp0098–0100,0105–0115,0118–0120,0124,0127–0136; CM-CL-001 v3/004 v4/005 v3/007 v2/008 v2/012. Confidence high for choices/words, moderate for particular care, open for unique motive/permanence.
+
+**Readiness:** monograph accumulating across multiple states/relationships; model NOT_ASSESSED, no validation refs. Broader nonintimate contexts, stable change and later endpoint remain gaps.
+
+### CM-CS-013 — CM-CH-IMAGASE
+
+Prior CM-CS-011; identity unchanged. Primary route: [CM-U04-O033](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o033); `CM-JP-AIO2020-LOCAL::sp0129::xhtml=item/xhtml/p-0127.xhtml::image=item/image/i-0127.jpg::panel=P00`.
+
+**Knowledge/choices:** presents a public old-acquaintance cover, privately identifies Takasugi, probes Natsuki and confronts Kyoichi in the restroom. Admits jealousy and assesses Natsuki as a formidable match. Leaves with Takasugi, later says they parted immediately, and is visibly home when Kyoichi returns. Voices hurt to an initially unresponsive Kyoichi; rejects a general ending, explains the lighter, accepts the repeated gift and warns of intensified attachment. CM-DEC-016/020, CM-INF-014–017, CM-RS-015/016/018.
+
+**Dispositions/state/contradictions:** strategic control, jealousy, care and vulnerability recur together. He wants Kyoichi's passion, not simply an empty concession, yet pressure/intimidation and unresolved permission remain. Rejection of correct reasoning qualifies the effortless-withdrawal presentation but is not proof of breach of the chosen-woman promise. Takasugi's past account and Imagase's own gift account remain testimony. His appraisal includes kindness/sincerity alongside indecision/cunning rather than pure idealization. **Evidence:** U04 O006–O018,O025–O040; sp0102–0114,0121–0136; CM-CL-004 v4/005 v3/008 v2/012. High for action/statements, qualified for past motives/reunion refusal, no unique motive or diagnosis.
+
+**Readiness:** monograph accumulating with relationship contrasts, private hope and repeated decisions. Model NOT_ASSESSED; broader independent decisions and genuine discriminating tests remain gaps. Validation refs NONE.
+
+### CM-CS-014 — CM-CH-NATSUKI
+
+Prior NONE. Verified 夏生 / なつき / Natsuki, written/furigana at sp0100 and Kyoichi's longest student girlfriend account sp0101. No surname or present age supplied. Primary route: [CM-U04-O021](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o021); `CM-JP-AIO2020-LOCAL::sp0117::xhtml=item/xhtml/p-0115.xhtml::image=item/image/i-0115.jpg::panel=P00`.
+
+**State/knowledge/values:** former university-circle partner, now restaurant reunion/extended contact. Knows divorce, remembers Imagase's colder looks and the lighter transfer; suspects his liking for Kyoichi but has no established knowledge of the present arrangement. Says she kept loving Kyoichi and wanted active passion rather than his easy acceptance of breakup. Her own wish for a forceful kiss is a stated preference/fantasy, not universal consent. **Choices:** candidly criticizes, probes his current handling of Imagase, accepts future contact, asks more time and escorts unsteady Kyoichi home; declines tea and leaves after witnessing Imagase's familiarity. CM-DEC-018, CM-RS-017, CM-INF-015/016.
+
+**Alternatives/limits:** joking rejection of getting back together coexists with later affection; past pain, present attraction and caution can overlap. Her agency cannot be reduced to a heterosexual alternative. Final interpretation and future choice remain unvoiced. No identity merge with Mika, Chikako, Nishimura or the anonymous U02 kiss woman. **Evidence:** U04 O004–O010,O018–O026; sp0100–0106,0114–0122; CM-CL-011/007 v2/004 v4. High for present words/actions, qualified for retrospective whole history.
+
+**Readiness:** independent argument materially warranted, review after source completion for standalone versus consolidated portrait. Model NOT_ASSESSED; independent interior, later decisions and broader domains missing. Validation refs NONE.
+
+### CM-CS-015 — CM-CH-TAKASUGI
+
+Prior NONE. Verified 高杉 / たかすぎ / Takasugi at sp0103; given name/age unprovided. Publicly introduced as longstanding friend; privately identified by Imagase as former boyfriend. Primary route: [CM-U04-O011](../01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md#cm-u04-o011); `CM-JP-AIO2020-LOCAL::sp0107::xhtml=item/xhtml/p-0105.xhtml::image=item/image/i-0105.jpg::panel=P00`.
+
+**Knowledge/goals/choices:** says Imagase spoke intensely of Kyoichi as a student, became reckless after graduation, dated him after his confession and refused a renewed offer because of Kyoichi. Wants reunion, claims mental/bodily compatibility and asks Kyoichi to reject honestly if unable to reciprocate. Leaves with Imagase; later reunion/sexual outcome is not independently shown. CM-DEC-017, CM-INF-014/015, CM-RS-018.
+
+**Counterevidence/limits:** desire for reunion makes the advice interested without making it worthless. Kyoichi's imagined sexual history is not his actual recollection. His current speech gives independent agency but no comprehensive biography or truth guarantee. **Evidence:** U04 O007–O011,O017–O018,O025; sp0103–0107,0113–0114,0121; CM-CL-004 v4/011. Confidence high for speech/presence, qualified for whole past and Imagase's private feelings.
+
+**Readiness:** independent contribution retained; standalone monograph REVIEW_AFTER_SOURCE_COMPLETION, likely evidence-limited unless later material expands. Model NOT_ASSESSED; repeated decisions, interior and broader life absent. Validation refs NONE.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-010 | Attributed query and remembered help; no new direct motive/commitment | Monograph accumulating; model unassessed |
-| CM-CH-IMAGASE | CM-CS-011 | Care/monitoring/self-restrained hope directly represented; terms unchanged | Monograph accumulating; model unassessed |
+| CM-CH-OTOMO | CM-CS-012 | Dreams, apology/withdrawal proposal, active kiss and knowingly repeated gift; memory/terms bounded | Monograph accumulating; model unassessed |
+| CM-CH-IMAGASE | CM-CS-013 | Rivalry, hurt, objection to general ending and gift acceptance; future promise untested | Monograph accumulating; model unassessed |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |
 | CM-CH-STUDENT-WOMAN-U02 | CM-CS-008 | Past kiss/warning; identity and formal status unverified | Insufficient independent evidence; model unassessed |
 | CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Insufficient independent evidence; model unassessed |
+| CM-CH-NATSUKI | CM-CS-014 | Own past love/critique, present affection and witnessed domestic familiarity; future unknown | Independent scope reviewed after corpus; model unassessed |
+| CM-CH-TAKASUGI | CM-CS-015 | Reported ex, reunion wish and honest-rejection request; outcome unknown | Evidence-limited review after corpus; model unassessed |
