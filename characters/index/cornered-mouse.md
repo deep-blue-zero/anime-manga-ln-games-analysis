@@ -26,9 +26,13 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Analytical coverage:
   - `reviewed-cm-u01`: MANGA CHAPTER: CM-U01 キッシング・グーラミー only (CM-JP-AIO2020-LOCAL sp0011–sp0050, revised Japanese witness). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u02`: MANGA CHAPTER: CM-U02 楽園の蛇 only (CM-JP-AIO2020-LOCAL sp0051–sp0091, revised Japanese witness; narrative ends sp0090). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u03`: MANGA CHAPTER: CM-U03 黒猫、月を見る only (CM-JP-AIO2020-LOCAL sp0092–sp0096, revised Japanese witness; narrative ends sp0095, sp0096 closing illustration). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u04`: MANGA CHAPTER: CM-U04 黒猫の冷えた指先 only (CM-JP-AIO2020-LOCAL sp0097–sp0137, revised Japanese witness; frontispiece sp0097, narrative sp0098–sp0136, closing portrait sp0137). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
   - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**
+  - [`u03-deep-reading` — CM-U03 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md) — **active provisional authority**
+  - [`u04-deep-reading` — CM-U04 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md) — **active provisional authority**
 
 <a id="kyoichi-otomo"></a>
 
@@ -50,6 +54,8 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Analytical coverage:
   - `reviewed-cm-u01`: MANGA CHAPTER: CM-U01 キッシング・グーラミー only (CM-JP-AIO2020-LOCAL sp0011–sp0050, revised Japanese witness). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u02`: MANGA CHAPTER: CM-U02 楽園の蛇 only (CM-JP-AIO2020-LOCAL sp0051–sp0091, revised Japanese witness; narrative ends sp0090). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u04`: MANGA CHAPTER: CM-U04 黒猫の冷えた指先 only (CM-JP-AIO2020-LOCAL sp0097–sp0137, revised Japanese witness; frontispiece sp0097, narrative sp0098–sp0136, closing portrait sp0137). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
   - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**
+  - [`u04-deep-reading` — CM-U04 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md) — **active provisional authority**
