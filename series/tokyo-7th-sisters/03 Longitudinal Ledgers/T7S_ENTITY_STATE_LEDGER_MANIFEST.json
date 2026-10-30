@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.39",
+  "version": "1.45",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 290 Intimacy primary documents across 39 family portfolios / T7S_B0182–T7S_B0220; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 50076,
-    "physical_sha256": "571dcfcb2bcd8c56173ea0b9c746690e77ef8a9299295a6de5e4f1d9390e20cd",
+    "physical_bytes": 52726,
+    "physical_sha256": "4634c9369938c794e2b5688f75b6bced8183fdb29d9abe7e82db1438103f01b2",
     "logical_prefix_bytes": 7715,
-    "logical_prefix_sha256": "bed15f9c8fced18cb25fbe0bb5be4a08cc4fcdcfc8cbf1193ca75815f0011a95",
+    "logical_prefix_sha256": "c5f44dff208dd341058ff5c3981f4dc78604b5aedc8d113f2a75e6afa47bbeda",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -74,11 +74,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_004",
-      "physical_bytes": 44634,
-      "physical_sha256": "7f5d121694c0464bd6b6ef378f4a51b5812b39157a74695628992d48127d683b",
-      "payload_offset_bytes": 711,
-      "payload_bytes": 43885,
-      "payload_sha256": "cbe2d88de27b92839a4b5480b5007f6bc87abee5f9868a097e9007cbebf25b5e",
+      "physical_bytes": 94625,
+      "physical_sha256": "357d646f4e81a83534cc63a88b5aede247ee3739c32de9485a263fa9688e8943",
+      "payload_offset_bytes": 712,
+      "payload_bytes": 93875,
+      "payload_sha256": "d43e02dbac64bd0498a429ae0187ba9b01b8cdcce235f10608865799de2e6f89",
       "first_heading": "## B0210 Sawara's older-sister role and wanted company",
       "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
       "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->",
@@ -87,11 +87,11 @@
     }
   ],
   "parts_count": 4,
-  "logical_bytes": 1332184,
-  "logical_sha256": "2138bdcf20441301336fdc7f413b4fba1de9cf55f16c265ed23665abb7c9fe95",
+  "logical_bytes": 1382174,
+  "logical_sha256": "5fee9ac3ec4d8741ed5c7ec0dabbc316b4cdc371eac1f58624fa3cc19e91109e",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0214",
+  "last_source_high_water": "T7S_B0220",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -1058,17 +1058,53 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
       "component_anchor": "b0214-eis-chosen-company-and-the-ownership-of-affection",
       "heading": "B0214 Ei's chosen company and the ownership of affection"
+    },
+    {
+      "original_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "heading": "B0215 Matsuri's play, wanted recognition and local corrections"
+    },
+    {
+      "original_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "heading": "B0216 Tomoe's wanted company, giving care and uncertain worth"
+    },
+    {
+      "original_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "heading": "B0217 Miu's tangible specialness and imagined shared life"
+    },
+    {
+      "original_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "heading": "B0218 Xiao's courage, company and selective disclosure"
+    },
+    {
+      "original_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "heading": "B0219 Manon's chosen company and imagined roles"
+    },
+    {
+      "original_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "heading": "B0220 ChaCha's boundaries, preferences and chosen company"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0214",
+    "source_high_water": "T7S_B0220",
     "date": "2026-10-30",
-    "logical_before_sha256": "283abe0dc1b84878f1df7552fb6c150d7a156f1b3f3baf4994533edd582812f5",
-    "logical_after_sha256": "2138bdcf20441301336fdc7f413b4fba1de9cf55f16c265ed23665abb7c9fe95",
-    "addition_bytes": 7002,
-    "addition_sha256": "f3da4b31c4dc8589cb98f91e0b9f77671d76639e85970ffde00ace50024084b1",
-    "unchanged_older_body_sha256": "a7ff8665a979f6d924f4bf805f6d7bb8ae1d23b20c98072af607975ef2edd62c",
+    "logical_before_sha256": "74f971401311c14d2e8ec39658b31aa59b06a81c6b9e04d1aa915a29702ff401",
+    "logical_after_sha256": "5fee9ac3ec4d8741ed5c7ec0dabbc316b4cdc371eac1f58624fa3cc19e91109e",
+    "addition_bytes": 9079,
+    "addition_sha256": "17f49d0988ba82a2f3efb53bcbdcda1ab0a0c472df757cb6df6e907013f47139",
+    "unchanged_older_body_sha256": "927a9e41e7229c5f5628b345cc399494c2501e62c7767cef50d324eed8ffa22f",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
     "sealed_older_components_byte_exact": true
   },
