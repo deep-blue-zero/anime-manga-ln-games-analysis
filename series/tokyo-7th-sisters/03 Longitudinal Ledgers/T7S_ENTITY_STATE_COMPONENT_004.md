@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.8"
+version: "1.9"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0218; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0219; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -451,4 +451,55 @@ Existing Xiao/Shao `IDENTITY-0094 / CHAR-0076 / xiao-heifeng` and Player `IDENTI
 CHAR-0076 gains differentiated courage tests, prospective caregiving/shared contributions, wider-assessment wish compatible with correction, plural belonging and deliberate disclosure boundary. Earlier B0105 uneven training/help, B0143/0165 different teachers/costs/care and limits, B0176 cooperation/knowledge gaps/failed rescue, B0179 partly corrected admiration and B0181 chosen calligraphy/recognized growth/failed personal-message decoding remain. No uniform cure, limitless caretaker, acquired fluency or omniscient manager/parent mind.
 
 Totals:1668KNOW/1221REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Complete READY subject scan has no Xiao decision; absence preserved without invented R2 or promotion of clinical/readiness/maturity/performed-audio status.
+
+## B0219 Manon's chosen company and imagined roles
+
+Owner [B0219](../02%20Readings/T7S_B0219_DEEP_READING.md), reading SHA256 `114289f15f47d93d8751d8dae1e6ecc45605ec76b5c4ac129da168ed1e4245f6`; source-lock 12.125, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary ranges. All28 physical/five-SourceLock/seven-coverage/four-entity before-controls froze at publishedbb541676/B0218/12.124 before primary. Originalentry retains pendingpriorcycle atcapture; successfulB0218audit41073433174/fullcyclee0fc5bee checked in fresh executionwitness before semanticacceptance. Auditedmain77c83fcb actualancestor. All122 publishedManon rows andwholeREADY0025 actuallyread beforeprimary; historicalR2 remains onlycompleteMainEpisode5.0/endB0069, MONOGRAPH_NOT_READY. No backward2043SOL recovery projection, menu chronology, performed hearing or runtime.
+
+Existing Manon `IDENTITY-0068 / CHAR-0053 / hoshigaki-manon` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain actualpublishedroutes. F report-onlyHaru `IDENTITY-0004 / CHAR-0004 / kasukabe-haru` gains no owncurrentturn. Parents/friends/brothers/fictionroles unnamed; no newCHAR/IDENTITY/UNIT/READY.
+
+| ID | Epistemic addition | Case locus and retained limit |
+| --- | --- | --- |
+| `KNOW-1669` | Manon recalls first spendingtime withadultsotherthanparents andinitialpersistentnervousness. | A:P1; ownretrospectiveaccount, no exactdate/completehouseholdhistory or alladultbehavior. |
+| `KNOW-1670` | Manon reports presentcomfort/dailyenjoyment becausemanagerandNanastaoldergirlsarekind. | A:P2; situatedappraisal, no universalanxietycure or auditofeverycareact. |
+| `KNOW-1671` | Manon values allasfamily asdearasparents andexplicitlyincludesmanagerinaffection. | A:P3; additiveownvaluation, no parentalreplacement, reciprocalfullmind orlegaladoption. |
+| `KNOW-1672` | Manon saysmagicnotyetpossiblebecause stilltraining. | B:P1; ownimaginativeaccount, no latentpowercertification. |
+| `KNOW-1673` | Manon links currentidoleffort/goodness to possiblefutureactualmagic. | B:P2; conditionalhope, no literalguarantee or analystendorsedmoralrule. |
+| `KNOW-1674` | Manon saysshe wouldprotectmanagerwiththatfuturemagic. | B:P3; prospectivecaregiverrole, no actualspell/protection. |
+| `KNOW-1675` | Manon promiseslastingprotection and asksmanagerstaybesideherlasting. | B:P4; wantedreciprocity, no permanentclaim or manageragreement. |
+| `KNOW-1676` | Manon calls theirarrangement animportantcontract. | B:P5; hernaming, no suppliedassent or enforceableobligation. |
+| `KNOW-1677` | Manon asksmanageraboutdaysoff andvaluesexcitingmorninganime. | C:P1; ownpreference/question, no independentmanageranswer or inspectedbroadcast. |
+| `KNOW-1678` | Manon namesfavoritetransformingwitchgirlshow andcomparesits excitementwithNanastaoldergirlsライブ. | C:P2; unnamedfiction/ownreception, no Mikola-Magikoidentification or performedliveassessment. |
+| `KNOW-1679` | Manon askswhetherworkinghardcanletherexciteothersliketheperformers/heroines. | C:P3; audience-directedaspiration, no measuredreception ormastery. |
+| `KNOW-1680` | Manon creditswonderfulmanagerwithtransformingherintoanidol. | C:P4; professionalbecomingimage/ownconfidence, no literalspell ormanageromniscience. |
+| `KNOW-1681` | Manon asksmanagertoteachmanythings. | C:P5; pupilinitiative/learningopen, no unlimitedexpertise orcompletedlessonoutcome. |
+| `KNOW-1682` | Manon reportslessonfatigue andpendinghomework/mealwhilesleepy. | D:P1; competingneeds, no completedobligations/sleep orclinicaldiagnosis. |
+| `KNOW-1683` | Manon takesupapparentoffertocarryherhome andhesitates. | D:P2; managerofferthroughheruptake, no fullindependentturn orinspectedtransport. |
+| `KNOW-1684` | Manon worries sleepwouldpreventtalk andaskswhetherthemanagerwillwaituntilshewakes. | D:P3; conversationalcondition/preference, no ownmanagerpromise or lateroutcome. |
+| `KNOW-1685` | Manon movestowardacceptingpiggybackhelp onthatbasis. | D:P4; textualchoice, no staticproof ofanimatedcarry/arrival. |
+| `KNOW-1686` | Manon comparesmanagerbacksizewithfather andwantstalkafterwaking. | D:P5; textualcareframe/explicitcomparison, no actualpaternity, observedwakening orcompletedconversation. |
+| `KNOW-1687` | Manon isgladmeetingmanagerafterschool andasksifheisgladtoo. | E:P1; ownfeeling/question, no suppliedreciprocalanswer. |
+| `KNOW-1688` | Manon likenscloseness to gaininganolderbrother anddailyenjoyment. | E:P2; experiencedlikeness, no newbiological/legalidentity. |
+| `KNOW-1689` | Manon enviesfriendsgames/anime/outingswiththeirolderbrothers. | E:P3; reportedexamplesofdesiredcompany, no inspectedfriends or currentcompletedactivities. |
+| `KNOW-1690` | Manon assignsmanagertodayolderbrotherrole. | E:P4; explicittemporaryplayframe, no standingkinship orguardianauthority. |
+| `KNOW-1691` | Manon playfullysaysmanagerolderbrotherwillnotgetawaytoday. | E:P5; wantedattention/dayframe, no actualrestraint orrighttocontrolhistime. |
+| `KNOW-1692` | Manon enjoysvariedcostumesaspartofidolwork. | F:P1; ownvaluedexperience, no completewardrobe/performanceinspection. |
+| `KNOW-1693` | Manon likesreportedpriorcat/rainbowoutfits andHaru-and-othersclothes. | F:P2; recollection/admiration, no newsourceassetboundor allothersidentified. |
+| `KNOW-1694` | Manon wonderswhethergrowthwillpermit moreadultlikecuteclothes. | F:P3; futurequestion, no exactage, currentadultstate orreadinesspromotion. |
+| `KNOW-1695` | Manon resolvesworktowardfamebecausewantsmanymorecostumes. | F:P4; concreteself-authoredmotivation, no achievedfame oronlymotive. |
+| `KNOW-1696` | Manon offersthenwearclothespleasingmanager andasksjointwork. | F:P5; contribution/cooperationwish, no managercompletepreference/wardrobecontrol orsettledoutfit. |
+| `KNOW-1697` | Manon asksmanagerguesswhereshewantstogowithhim. | G:P1; authoredreveal, no actualitinerary oranswer. |
+| `KNOW-1698` | Manon namesamusementparkdateaswantedactivity. | G:P2; invitationwish, no booking/completedouting. |
+| `KNOW-1699` | Manon saysdatedoesnotyetmakesensefully andreportsparentsbecamecloserthroughparkdate. | G:P3; ownknowledgequalification/mediatedfamilystory, no parent-ownturn ormasteredadultcourtship. |
+| `KNOW-1700` | Manon directsrequestthatmanagergosuchadatewithher. | G:P4; heraddress, no independentassent ormutualstatus. |
+| `KNOW-1701` | Manon promiseslessons/workeffort,asksfuturesomedayoutingandsaysshewaits. | G:P5; patience/request, no actualvisit, agreedrewardcontract orguaranteedfuturepromise. |
+
+| ID | Direction | Case-local addition and retained limit |
+| --- | --- | --- |
+| `REL-1222` | `hoshigaki-manon → player-protagonist` | A-G: valuesfamilycompany, imaginesprotectivecontract, askslearning, choosescarewhilewantingconversation, proposesdaybrotherrole, valuescostumes/coeffort andasksfutureparkdatewithworduncertainty. Parentbonds remain; noactualmagic/kinship, permanentclaim, futurefame/adultunderstanding orassentedouting. ReciprocalREL-1223. |
+| `REL-1223` | `player-protagonist → hoshigaki-manon` | A/C/D/E/G: kind/supportiveadultthroughManonappraisal, addressedteacher and apparentcarryofferer, recipientofconversation/role/datequestions. No fullowncurrentreply/mind, permanentprotectivepromise, changedpaternity/kinship, acceptedcontract/date or unlimitedexpertise. ReciprocalREL-1222. |
+
+CHAR-0053 gains self-reportedcomfort/additivefamilyvalue, prospectiveprotectiveagency, audience-directedaspiration, carechoicewithconversationpreference, temporarysiblingplay, costume-motivatedeffort anduncertainborroweddateword. B0092smallsteps/authorship; B0101reciprocalplay; B0129Mikola/B0130Magiko separate delight/assent/knowledge/carelimits; B0135childcoaching; B0139one-livequartet; B0168diary/privacy/legitimatequestions/fallibleinterpretation; B0172distress/pluralsupport/undeliveredrelay remain. Later2043MainEpisode5.0 comparison/harm/flight/Ruicare/disclosure/return and READY0025 are neither erasednorprojectedbackward.
+
+Totals:1701KNOW/1223REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0025 remains R2_STATE_BOUNDED onlycompleteMainEpisode5.0/endB0069, MONOGRAPH_NOT_READY, voiceunlistened. No rewrittenreadinessbody, newR2/R3, stablecure, adultstate, model/monographmaturity orperformed-audiopromotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
