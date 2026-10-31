@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.16"
+version: "1.17"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0226; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -871,4 +871,46 @@ Existing Emoco `IDENTITY-0026 / CHAR-0023 / wanibuchi-emoco` is the sole focal c
 CHAR-0023 gains exact bass-role precision, mediated audience address that makes distance communicative, resistance to naming, selective attention claims, a bounded quarrel report and particular gratitude/proposed giving to Hina, plus an animal preference articulated through wanted human conduct. This neither resolves every harsh phrase into secret warmth nor turns general dismissal into inability to attach. Earlier Main4U witnessing/complicity/withdrawal/recommitment, B0033 public-access labor and B0054 autonomous alliance retain their own horizons; B0225 Hina's reports do not become Emoco's current independent speech retroactively.
 
 Totals:1920KNOW/1259REL;102IDENTITY/84CHAR/29UNIT/29READY retained. READY0014 remains R2_STATE_BOUNDED at complete Main4U/B0016/203001802 only; MONOGRAPH_NOT_READY/performed voice UNREVIEWED. No R3, rewritten historical decision, broadened maturity or full2034release.
+
+## B0227 Ume's account of herself, interrupted
+
+Owner [B0227](../02%20Readings/T7S_B0227_DEEP_READING.md), reading SHA256 `b538041f0a5554b59e3eba4384cdfb6234f0abf29301fd1003c2a5ff9d336b68`; source-lock 12.134, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and whole primary ranges A-D:P0-5, E:P0-4. All32 committed controls/five SourceLock/seven coverage/four entity/three story views froze at published d6e964fd/B0226/12.133 before primary. All51 selected Ume-context rows and whole READY0013/nine capability fields were actually read before primary. Original pending-audit capture remains verbatim; later execution witness ce68b66f certifies predecessor audit41143462472/full cycle b075e8c3 and included audited main b2e22ebd before semantic closeout. All29 literal native objects/24 Japanese records/five-title schema read; four full composites/contact/three original backgrounds viewed. No menu chronology, performed hearing or runtime.
+
+Existing Ume `IDENTITY-0025 / CHAR-0022 / kujo-ume` is the sole focal coverage subject. Emoco `IDENTITY-0026 / CHAR-0023 / wanibuchi-emoco` is addressed in A and reported in D/E; Hina `IDENTITY-0027 / CHAR-0024 / saeki-hina` is reported in C/D. Neither has an independent current turn. B's idol visitors are the group Ume dismissively calls ナンタラシスターズ; a bounded existing-published check found no literal alias binding, so no Nanasta/777Sisters identity is silently assigned. Plural recipients are not automatically Player/manager. 4U remains UNIT-0007. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current case qualifier for CHAR-0022:** Ume manages an account of brilliance, beauty, generosity, kindness, wealth and delicacy through responses to an addressed peer, an attractive collaboration idea, inexpensive pleasure and reported criticism. Credits to Hina and desire for a satisfying guitar sound coexist with hierarchy and retaliation. This local evidence preserves earlier ownership/harm, rupture/recommitment, non-forgiveness and public-access labor at their own horizons; it supplies no completed moral cure or permanent diagnostic essence.
+
+**Current local instrument qualifier for UNIT-0007:** B0227C1 self-designates Ume as guitarist; B0226A1 self-designates Emoco as bass player and B0227D4 describes her bass within Ume's reported dispute; B0225A names Hina's drum role. These support the bounded guitar/bass/drums configuration as self- and peer-designations. Wider composition/creative and business allocation, technical quality and historical instrument chronology remain open. The new support preserves REV-0043's current Emoco bass-role precision without re-adjudicating or editing older Main instrument shorthand.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1921` | Ume reports audience requests to see ordinary 4U and claims no difference from the band's live presentation. | A:P2; her representation of requests/continuity, not independent demand data or transparent access to every private state. |
+| `KNOW-1922` | Ume offers an energetic rock greeting and the expected brilliant-beauty self-description as ordinary Ume. | A:P1-3; audience-facing self-presentation, no objective genius/beauty ranking or private-essence verdict. |
+| `KNOW-1923` | Ume addresses Emoco, asks about an idol collaboration and then breaks into a question denying what is meant. | A:P4; only Ume's words are supplied; no independent initiating Emoco turn or complete disputed event. |
+| `KNOW-1924` | Ume attributes a strange dream to Emoco after an exuberant live and warns addressees against it. | A:P5; deflecting representation, no verified dream or complete access to Emoco's mind. |
+| `KNOW-1925` | Ume disparages a dismissively named idol group and reports a renewed visit to 4U. | B:P1-2; attributed appraisal/visit; full group identity and objective idol popularity remain unestablished locally. |
+| `KNOW-1926` | Ume claims broad-mindedness and reports having heard the visitors' request for another collaboration. | B:P3; self-description/reported listening and proposal, no independently shown visitor turn or accepted contract. |
+| `KNOW-1927` | Ume says the visitors have ideas and thinks collaboration might be worthwhile. | B:P4; reported ideas/tentative favorable thought, no completed stage or full affiliation change. |
+| `KNOW-1928` | Ume insists that the visitors would open for 4U and frames lending them strength as superior composure. | B:P4-5; her asserted hierarchy, no negotiated billing fact or audience assent. |
+| `KNOW-1929` | Ume explicitly self-designates a guitarist alongside her brilliant-beauty image. | C:P1; exact local role self-description, no listened technique or exclusive lifetime allocation. |
+| `KNOW-1930` | Ume describes being absorbed in confectionery and comparing different varieties. | C:P2; preference/practice report, no complete diet, household routine or objective taste ranking. |
+| `KNOW-1931` | Ume credits a Hina gift with unexpected pleasure and her subsequent own consumption. | C:P3; particular attributed gift and habit, no pictured tasting or proven same snack/occasion as B0225. |
+| `KNOW-1932` | Ume praises hundred-yen fullness/economy, cuts off the wallet remark, calls it a joke and claims wealth for bulk buying. | C:P4-5; public self-repair and financial claims, no poverty/wealth certification, nutritional rule or resolved earlier anger motive. |
+| `KNOW-1933` | Ume says she has recently felt somewhat down. | D:P1; bounded subjective report, not a clinical diagnosis or permanent mood trait. |
+| `KNOW-1934` | Ume reports an unsatisfactory guitar condition/sound and tentatively asks whether it is a slump. | D:P2; desired electrifying sound and uncertain explanation, no heard deficiency or settled instrument/practice cause. |
+| `KNOW-1935` | Ume attributes an insufficient-practice reproach to Emoco and expresses indignation while already troubled. | D:P3; report/appraisal in Ume's account, no independent Emoco turn or objective practice assessment. |
+| `KNOW-1936` | Ume pairs a kindness claim with an attempt to criticize Emoco's supposedly poor bass playing. | D:P4; retaliatory intention/attempt and local peer-role designation; no neutral musicianship verdict or physical attack. |
+| `KNOW-1937` | Ume reports Hina stopping her and regrets missing the desired sight of Emoco's frustration. | D:P5; attributed intervention/desired counterfactual result, no completed frustration or full Hina motive/cost. |
+| `KNOW-1938` | Ume solicits a hearing and quotes Emoco's metal-band comparison after seeing her made up. | E:P1-2; Ume's report, no independently shown makeup transformation, product or new genre project. |
+| `KNOW-1939` | Ume recommends that Emoco make her own face white and more conspicuous. | E:P3; retort/proposal, no actual white-painted Emoco or general aesthetic/genre rule. |
+| `KNOW-1940` | Ume imagines that her delicate self might faint if she saw white-painted Emoco. | E:P4; hypothetical self-presentation, no actual faint, clinical fragility or certain hidden affection. |
+
+| ID | Direction | State / evidence and limit |
+| --- | --- | --- |
+| `REL-1260` | `kujo-ume → wanibuchi-emoco` | A/D/E: addresses a threat to an everyday account, reports practice/makeup criticism, proposes counterattack and imagines a desired frustrated face or her own faint. Familiar access, grievance and image repair coexist; no fixed hatred, objective technical ranking or actual violence/faint. Reciprocal REL-1261. |
+| `REL-1261` | `wanibuchi-emoco → kujo-ume` | A/D/E: addressed interlocutor with omitted initiating speech, later quoted/reported critic of practice and makeup. These are Ume's scopes; B0226's own account remains distinct, not complete motive access or a certified identical quarrel. Reciprocal REL-1260. |
+| `REL-1262` | `kujo-ume → saeki-hina` | C/D: credits a tasty gift and a developing preference, then regrets an intervention that stops desired retaliation. Particular gratitude/pleasure and frustration coexist; B0225's gift/present anger remain separately bounded, no permanent dependence or proven shared occasion. Reciprocal REL-1263. |
+| `REL-1263` | `saeki-hina → kujo-ume` | C/D: reported giver of an enjoyed snack and intervener who stops Ume. No independent current Hina words, complete reason, burden distribution or obligation to permanent mediation. Earlier capacity for decisive rupture remains at its Main horizon. Reciprocal REL-1262. |
+
+Totals:102IDENTITY/84CHAR/1940KNOW/1263REL/29UNIT/29READY. All prior identity routes, current-state bodies, sealed parts and whole historical readiness decisions remain byte exact. READY0013 stays Main4U/B0016/203001802 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY and performed-voice UNREVIEWED; no retrospective horizon expansion.
 <!-- T7S ENTITY STATE PAYLOAD END -->

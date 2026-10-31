@@ -4,13 +4,13 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.133"
+version: "12.134"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g episodes / T7S_B0080–T7S_B0181 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 329 primary documents/45 family portfolios through T7S_B0226"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g episodes / T7S_B0080–T7S_B0181 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 334 primary documents/46 family portfolios through T7S_B0227"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -37,28 +37,28 @@ project_initialization:
     - "09 Audits and Manifests/T7S_BOOTSTRAP_AND_GATE_RECORD.md"
     - "09 Audits and Manifests/T7S_OPENING_PREREQUISITE_AUDIT.md"
   sequential_analysis_lock: open
-  next_permitted_operation: T7S_B0227_NM-INTIMACY-200900_COMPLETE_FAMILY
+  next_permitted_operation: T7S_B0228_NM-INTIMACY-200930_COMPLETE_FAMILY
 substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
   mode: continuous_sequential
-  latest_operation: T7S_B0226_CLOSE
+  latest_operation: T7S_B0227_CLOSE
   run_state: active
   authorized_start: T7S_B0160
   terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
-  committed_high_water_mark: T7S_B0226
+  committed_high_water_mark: T7S_B0227
   completed_run_blocks: 22
   completed_run_blocks_scope: B0160_B0181_COMPLETED_ING_CHECKPOINT
-  completed_intimacy_portfolios: 45
-  completed_intimacy_episodes: 329
+  completed_intimacy_portfolios: 46
+  completed_intimacy_episodes: 334
   remaining_run_blocks: NOT_FIXED_RELEASE_REQUIREMENTS_GOVERN
-  next_candidate_operation: T7S_B0227_NM-INTIMACY-200900_COMPLETE_FAMILY
+  next_candidate_operation: T7S_B0228_NM-INTIMACY-200930_COMPLETE_FAMILY
   confirmation_between_units: false
   execution_record: "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md"
-  next_candidate_episode_id: "401000339"
-  next_candidate_family_layer_id: "200900"
+  next_candidate_episode_id: "401000343"
+  next_candidate_family_layer_id: "200930"
   next_candidate_native_chapter_layer_id: ""
-  next_candidate_status: "AUTHORIZED_B0227_NM-INTIMACY-200900_COMPLETE_FAMILY_UNREAD; full2034 active"
+  next_candidate_status: "AUTHORIZED_B0228_NM-INTIMACY-200930_COMPLETE_FAMILY_UNREAD; full2034 active"
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -67,7 +67,7 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "complete Main, 280 i-n-g throughB0181 and 329 independent Intimacy primary documents across45 complete family portfolios throughT7S_B0226"
+    current_semantic_horizon: "complete Main, 280 i-n-g throughB0181 and 334 independent Intimacy primary documents across46 complete family portfolios throughT7S_B0227"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
     non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
@@ -86,7 +86,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0226](02%20Readings/T7S_B0226_DEEP_READING.md) is the current closed portfolio: Emoco's five whole cases retain mediated audience insults with an explicit bass-role introduction, self-disclosure through selective refusal, resistance to a reported public nickname, a reported Ume quarrel and Hina mediation with thanks/treats and proposed home cooking, and a reptile preference expressed through wanted human conduct. All24Japanese/29literalnative/168slots,4composites/contact/4originalBGs and30priorrows/wholeREADY0014 were actually reviewed. An explicit revision qualifies old guitarist shorthand with local bass self-designation while preserving earlier bodies/Main4U R2horizon. This closeout reaches329Intimacy/45families/844primary/931consumed including87inline;20Intimacy/365eligible stories plus supplemental/release work remain.2053blocked. The completed B0160–B0181 i-n-g checkpoint retains22chapters/66primary episodes; later Intimacy progress is 45 portfolios/329 primary documents. The next authorized unread portfolio is B0227, 九条ウメ, route `NM-INTIMACY-200900` / native Sub family `200900`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
+**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0227](02%20Readings/T7S_B0227_DEEP_READING.md) is the current closed portfolio: Ume's five whole cases retain an ordinary brilliant-beauty account interrupted by addressed Emoco, reported idol visitors and tentative collaboration under an asserted hierarchy, a credited Hina snack gift and wallet/wealth self-repair, guitar discouragement with reported criticism/attempted retaliation/Hina interruption, and a makeup complaint/whiteface retort/hypothetical faint. All24Japanese/29literalnative/168slots,4fullcomposites/contact/3originalBGs and51priorrows/wholeREADY0013 were actually reviewed. B's visitor identity, the relation to Hina's earlier gift/anger and identity of reported quarrels remain bounded. Local guitar/bass/drums self/peer designations qualify UNIT0007 without technical/history/readiness promotion. This closeout reaches334Intimacy/46families/849primary/936consumed including87inline;15Intimacy/360eligible stories plus supplemental/release work remain.2053blocked. The completed B0160–B0181 i-n-g checkpoint retains22chapters/66primary episodes; later Intimacy progress is 46 portfolios/334 primary documents. The next authorized unread portfolio is B0228, 空栗ヒトハ/フタバ, route `NM-INTIMACY-200930` / native Sub family `200930`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
 The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; full2034 release obligations remain active. The current SourceLock owner/manifest and the current portfolio status above identify the current analytical high-water. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
 
@@ -247,7 +247,7 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 744 | 609 | 609 | 609 |
+| Sub | 755 | 744 | 614 | 614 | 614 |
 | Event | 231 | 231 | 0 | 0 | 0 |
 | Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
 | Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
@@ -256,7 +256,7 @@ Screening counts are recomputed from the logical ledger, expanding shard-local d
 
 The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 280 T7S_B0080–T7S_B0181 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
 
-Across B0001–B0226 the repository contains 226 bounded readings, 1435 causal events, 25 world states, 47 threads, 1554 typed edges, 102 identity routes, 84 character states, 1920 epistemic states, 1259 directional relationships, 29 unit/institution states,29 retained R2 readiness decisions, 1695 literary claims, 43 revisions, seven frozen predictions, and 173 AV-review records. The i-n-g horizon totals 280 primary episodes / 22,852 pages / 20,230 text records / 2,622 command-only pages / 15,392 dialogue-associated voice-reference pages. The Intimacy horizon totals 329 independent primary documents across 45 complete family portfolios. Total primary horizon 844; 20 Intimacy/365 eligible stories plus supplemental/analytical release work remain. Per-unit receipts bind exact source/native/static evidence and modality limits. No total chronology, performed-audio claim, monograph maturity or full era release is promoted.
+Across B0001–B0227 the repository contains 227 bounded readings, 1440 causal events, 25 world states, 47 threads, 1558 typed edges, 102 identity routes, 84 character states, 1940 epistemic states, 1263 directional relationships, 29 unit/institution states,29 retained R2 readiness decisions, 1713 literary claims, 43 revisions, seven frozen predictions, and 174 AV-review records. The i-n-g horizon totals 280 primary episodes / 22,852 pages / 20,230 text records / 2,622 command-only pages / 15,392 dialogue-associated voice-reference pages. The Intimacy horizon totals 334 independent primary documents across 46 complete family portfolios. Total primary horizon 849; 15 Intimacy/360 eligible stories plus supplemental/analytical release work remain. Per-unit receipts bind exact source/native/static evidence and modality limits. No total chronology, performed-audio claim, monograph maturity or full era release is promoted.
 
 ## Major-story-structure transition state
 
@@ -320,7 +320,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020`2034Main recommendation range. All280i-n-g/102chapters throughB0181 remain closed. Intimacy closure reaches 329 primary documents/45 family portfolios through T7S_B0226, leaving20 Intimacy/365eligible stories and supplemental/release work. The next authorized unread portfolio is B0227, 九条ウメ, route `NM-INTIMACY-200900` / native Sub family `200900`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.2053semantics remain blocked.
+There is no remaining candidate within the admitted series-`100020`2034Main recommendation range. All280i-n-g/102chapters throughB0181 remain closed. Intimacy closure reaches 334 primary documents/46 family portfolios through T7S_B0227, leaving15 Intimacy/360eligible stories and supplemental/release work. The next authorized unread portfolio is B0228, 空栗ヒトハ/フタバ, route `NM-INTIMACY-200930` / native Sub family `200930`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.2053semantics remain blocked.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -621,3 +621,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-10-30: close T7S_B0225 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
 
 - 2026-10-30: close T7S_B0226 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.
+
+- 2026-10-30: close T7S_B0227 complete Intimacy family; preserve all completed i-n-g/history and full2034 endpoint; route next obligation.

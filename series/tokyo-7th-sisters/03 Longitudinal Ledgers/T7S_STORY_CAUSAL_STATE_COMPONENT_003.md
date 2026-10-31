@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0226; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-30
 ---
@@ -1388,4 +1388,25 @@ Owner [B0226](../02%20Readings/T7S_B0226_DEEP_READING.md), reading SHA256 `6b6c4
 | `EDGE-1561` | `EV-B0226-004 / EV-B0226-002 / EV-B0226-005` | FORMAL_COMPARISON: Particular thanks/proposed cooking coexist with broad disparagement; no single secretly kind/entirely indifferent essence, actual meal or completed burden resolution. |
 
 Totals:1435EV/25WORLD/47THREAD/1554 active EDGE, maximum1561 with seven intentional older gaps preserved. No new WORLD/THREAD, dated cross-case causality, actual extinction event or older-body rewrite.
+
+## B0227 Ume's account of herself, interrupted
+
+Owner [B0227](../02%20Readings/T7S_B0227_DEEP_READING.md), reading SHA256 `b538041f0a5554b59e3eba4384cdfb6234f0abf29301fd1003c2a5ff9d336b68`; source-lock 12.134, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and whole primary ranges A-D:P0-5, E:P0-4. All32 committed controls/five SourceLock/seven coverage/four entity/three story views froze at published d6e964fd/B0226/12.133 before primary. All51 selected Ume-context rows and whole READY0013/nine capability fields were actually read before primary. Original pending-audit capture remains verbatim; later execution witness ce68b66f certifies predecessor audit41143462472/full cycle b075e8c3 and included audited main b2e22ebd before semantic closeout. All29 literal native objects/24 Japanese records/five-title schema read; four full composites/contact/three original backgrounds viewed. No menu chronology, performed hearing or runtime.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0227-001` | A:401000339 P0-5 | Greets the audience, reports requests for ordinary 4U, claims continuity with live presentation and displays the expected brilliant beauty; addresses Emoco about an idol collaboration, stammers and deflects the possible challenge as Emoco's strange dream. | AUDIENCE_SELF_PRESENTATION_AND_ATTRIBUTED_INTERRUPTION; no independent Emoco turn, settled disputed event, specific filming occasion or known audience response. Rendered stage crowd exists as background. |
+| `EV-B0227-002` | B:401001030 P0-5 | Disparages idol visitors under an incomplete group designation, reports listening to their renewed collaboration request, finds their ideas potentially worthwhile, then insists they would open for 4U and frames cooperation as superior generosity. | REPORTED_VISIT_PROPOSAL_AND_TENTATIVE_COLLABORATION; no verified full visitor identity/alias, binding billing agreement, completed performance or idol conversion. |
+| `EV-B0227-003` | C:401001150 P0-5 | Self-designates guitarist, names confectionery tasting as a current enthusiasm, credits a tasty Hina gift, praises hundred-yen fullness/economy, interrupts herself, calls the remark a joke and claims wealth sufficient for bulk purchases. | SELF_DESIGNATION_REPORTED_PLEASURE_AND_REPAIRED_ECONOMIC_IMAGE; no independent financial/nutritional fact or certified identity with B0225's puffed-rice gift/present anger. |
+| `EV-B0227-004` | D:401001622 P0-5 | Reports discouragement and an unsatisfactory guitar sound, tentatively names a slump, attributes a practice reproach to Emoco, describes attempted retaliation against her bass playing and regrets Hina's intervention before the desired frustrated face appeared. | SUBJECTIVE_DIFFICULTY_REPORTED_CRITICISM_AND_INTERRUPTED_RETALIATION; no heard technical verdict, settled mechanical/clinical cause, actual assault or completed counterfactual result. Not proven the same quarrel as B0226D. |
+| `EV-B0227-005` | E:401003213 P0-4 | Calls for a hearing of Emoco's reported metal-band comparison after seeing Ume made up, retorts that Emoco should paint her face white and imagines fainting if her delicate self saw that appearance. | REPORTED_APPEARANCE_COMMENT_RETORT_AND_HYPOTHETICAL_REACTION; no named favorite product, makeup transformation, painted Emoco, new metal project or actual faint. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1562` | `EV-B0227-001 / EV-B0227-003` | FORMAL_COMPARISON: A possible peer interruption and a wallet self-interruption disturb offered images. No same recording session, event identity or dated causal order. |
+| `EDGE-1563` | `EV-B0227-002 / EV-B0227-004` | FORMAL_COMPARISON: Broad-mindedness and kindness are asserted while hierarchy and retaliatory desire remain visible. No clinical essence, false-everything judgment or actual billing settlement. |
+| `EDGE-1564` | `EV-B0227-003 / EV-B0227-004` | FORMAL_COMPARISON: Hina is credited for pleasure and reported as stopping retaliation; the relations retain different stakes, not a total mediator or dependence model. |
+| `EDGE-1565` | `EV-B0227-004 / EV-B0227-005` | FORMAL_COMPARISON: Reported criticism of sound and appearance prompts proposed counterattack and repair of an image. No objective skill/cosmetic ranking or proved common quarrel. |
+
+Totals:1440EV/25WORLD/47THREAD/1558 active EDGE, maximum1565 with seven intentional older gaps preserved. No new WORLD/THREAD, invented cross-case chronology or older-body rewrite.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->
