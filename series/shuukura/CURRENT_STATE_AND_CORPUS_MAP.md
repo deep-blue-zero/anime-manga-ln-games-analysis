@@ -5,7 +5,7 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.62"
+version: "1.63"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
 source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0027 through whole transactions; original I1 continuous, E0028 next after whole E0027 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
@@ -132,6 +132,12 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
 `NEXT_PERMITTED_OPERATION = KAK-JP-E0028`
+
+## E0027 arrival-correspondence correction — 2026-10-31
+
+[ERR-E0027-ARRIVAL-001](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0027_DEEP_READING.md#attributable-arrival-correspondence-correction--2026-10-31) corrects the finite comparison’s G01 and E27-LIT-207. WEBp22 already has intercom admission, elevator use, a second ring and the apartment door opening. LN207 adds a sixth-floor number and explicit entrance/entry-position wording, with local lexical revisions. PROP-KAK-JP-E0027-010 was already correct; all four ledgers, source counts, original freezes and E28’s genuine entering boundary remain unchanged.
+
+The [transaction audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0027_TRANSACTION_AUDIT.md#attributable-pr410-arrival-correction--2026-10-31) retains the original introducing bindings and records current correction hashes separately. The steward placed [PR410](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/410#issuecomment-6538924850) on nightly-hold pending this source-backed correction; hold release belongs to the owner. The prior exact-head green certifies its recorded repository checks, not the corrected semantics or a future head. Original I1 remains active with E28 next; its private work does not advance the committed high-water mark.
 
 ## E0027 complete source transaction — 2026-10-30
 

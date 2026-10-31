@@ -5,7 +5,7 @@ artifact_type: transaction_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.0"
+version: "1.1"
 status: active_provisional
 scope: "Complete original E0027, finite acquired LN01 counterpart and atomic four-logical-ledger reconciliation"
 source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0027 through whole transactions; original I1 continuous, E0028 next after whole E0027 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
@@ -97,7 +97,7 @@ Whole integration declares five bounded status/notice promotions per physical le
 | Independent current cumulative | INDEPENDENT_CUMULATIVE_COMPONENT_ACCEPTANCE_A3.json;17084bytes/SHA256 `f43dcefad37f64222ae95d6a2f6e9b294b57db3740fa2008ada226705e2d9701` |
 | Root current cumulative | ROOT_CUMULATIVE_COMPONENT_ACCEPTANCE_A2.json;21346bytes/SHA256 `99c084f0fbdd6197e0e2f53711b4e17353b9967e98be41ebfaf3b260496a23a6` |
 
-The complete unit still needs whole semantic/preservation acceptance and exact staged/publication evidence. Audit self-hash is bound externally; the other eight payloads are:
+The table below preserves the eight original nonself bindings of introducing commit `b0b729d06a00ea236d5ba0aa5e89bd02b9b7dfd2`. Its source publication later passed at that exact head; these original bindings are historical, not the current corrected reading/root hashes. Current correction bindings are recorded in the attributable PR410 section below. Audit self-hashes remain externally bound.
 
 | Introduced nonself path | Bytes | SHA256 | Before image |
 | --- | --- | --- | --- |
@@ -124,3 +124,18 @@ Frozen firstnotes/Q1, private adjudication and all previous actual manifests rem
 ## Exit and remaining program
 
 Only the whole introducing commit yields WEB27/431,54/458originalI1,59/463pre-LN10,60/464combined. Ten novels/23supplements remain complete, with V10not repeated. Narō0/290,47unresolved of51gaps,27discovery duties and allG3–G7/monograph/specialist/reconstruction/V1comparison/synthesis/release responsibilities remain unfinished. E28requires its own next entering freeze after wholeE27. Current finite305+/E28/V1/future-release narrative is unadmitted; both OFFarchives staylocal. No unitpause or full-goal completion is declared.
+
+## Attributable PR410 arrival correction — 2026-10-31
+
+`ERR-E0027-ARRIVAL-001` responds to the owner’s instruction and the CI steward’s source challenge. G01 and E27-LIT-207 had incorrectly classified the shared intercom/admission/elevator/second-ring/open-door sequence as novel-local. Frozen WEBp22 and acquired LN01part0019native207 were directly reread; the novel adds the sixth-floor number and explicit entrance/entry-position wording, with timing/destination-particle and door-word revisions. The correct existing WEB PROP010, all four ledgers, literal/raw mappings, component counts, source/actor clocks and unit totals remain unchanged.
+
+The reading’s version1.0 bytes and every original firstnote/Q1/source/apparatus/acceptance receipt remain recoverable unchanged. Version1.1 corrects the two maintained statements and names their error explicitly. The original acceptance scopes do not erase this later semantic finding. Private source proof `ERR_E0027_ARRIVAL_SOURCE_PROOF_A1.json` has 6530bytes/SHA256 `da92cbf10af67c183a892746fb6893734886edea6366fce00dba2108bb63ae2c`; it binds both exact original fragments and locator identities, the already-correct PROP010 and three separate manual assessments. It is retained locally, not published as source text.
+
+The current corrected nonself bindings are:
+
+| Corrected path | Bytes | SHA256 |
+| --- | --- | --- |
+| series/shuukura/03 Web and Supplemental Readings/SHUUKURA_V2_KAK_JP_E0027_DEEP_READING.md | 52436 | `3dbcd19db268220761a6f8838f4baa0daca6f0283eefa5f0dc06531b10b74fcc` |
+| series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md | 58028 | `f81f5b6f859a48778e3b9825226c6898737361250fdbdf33e674222b5a2ecfd6` |
+
+The earlier own-source audit at `b0b729d06a00ea236d5ba0aa5e89bd02b9b7dfd2`, run41160863835, passed486tests/10547paths with zero non-success outcomes and trusted status57727715560. That is prior-head evidence; this corrective head requires its own final INDEX, normal push/full changed-blob readback and exact-head audit. Ordinary main reconciliation preserves54 legitimate external paths and all Shuukura/governing bytes before correction. The dismissed identity finding requires no identity/history rewrite: peipw is allowlisted. PR410’s nightly-hold is retained for the owner to release; no protected-main merge or hold release is claimed.
