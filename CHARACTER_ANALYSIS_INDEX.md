@@ -20,7 +20,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`blue-archive`](characters/index/blue-archive.md) | 37 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
-| [`cornered-mouse`](characters/index/cornered-mouse.md) | 2 |
+| [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`harmony`](characters/index/harmony.md) | 6 |
@@ -48,7 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 49 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 51 |
 | [`tomozaki`](characters/index/tomozaki.md) | 7 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -398,6 +398,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nanahoshi Shizuka](characters/index/mushoku-tensei.md#nanahoshi) | Japanese light-novel continuity | `mushoku-tensei:nanahoshi@light-novel` | — |
 | [Narumiya Suzu](characters/index/idoly-pride.md#narumiya-suzu) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:narumiya-suzu@v2-cross-media` | — |
 | [Natsubayashi Hanabi](characters/index/tomozaki.md#natsubayashi-hanabi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:natsubayashi-hanabi@light-novel` | — |
+| [Natsuki](characters/index/cornered-mouse.md#natsuki) | Japanese manga continuity | `cornered-mouse:natsuki@manga` | 夏生 |
 | [Nazuna Ayase](characters/index/chiramune.md#nazuna-ayase) | Chiramune light novel | `chiramune:nazuna-ayase@light-novel` | — |
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
@@ -409,6 +410,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nos](characters/index/konosuba.md#nos) | Original light-novel continuity, bounded character study | `konosuba:nos@original-light-novel` | ノス |
 | [Nuaza](characters/index/harmony.md#nuaza) | Original novel, bounded comparative ethics | `harmony:nuaza@original-novel` | — |
 | [Number 21](characters/index/konosuba.md#number21) | Edited TRPG replay continuity, bounded character study | `konosuba:number21@trpg-edited-replay` | 21番 |
+| [Okamura Tamaki](characters/index/cornered-mouse.md#okamura-tamaki) | Japanese manga continuity | `cornered-mouse:okamura-tamaki@manga` | 岡村たまき |
 | [Okina](characters/index/konosuba.md#okina) | Authored TRPG component, unplayed source-specific scope | `konosuba:okina@trpg-core-supplied-scenario` | オキナ |
 | [Okuyama Sumire](characters/index/idoly-pride.md#okuyama-sumire) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:okuyama-sumire@v2-cross-media` | — |
 | [Origasa Ayumu](characters/index/tokyo-7th-sisters.md#origasa-ayumu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:origasa-ayumu@game` | — |
@@ -609,9 +611,11 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [有栖シラユキ](characters/index/tokyo-7th-sisters.md#arisu-shirayuki) | Tokyo 7th Sisters game | `tokyo-7th-sisters:arisu-shirayuki@game` | — |
 | [桂木カヅミ](characters/index/tokyo-7th-sisters.md#katsuragi-kazumi) | Tokyo 7th Sisters game | `tokyo-7th-sisters:katsuragi-kazumi@game` | — |
 | [榎並マドカ](characters/index/tokyo-7th-sisters.md#enami-madoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:enami-madoka@game` | — |
+| [浅見ミワコ](characters/index/tokyo-7th-sisters.md#asami-miwako) | Tokyo 7th Sisters game | `tokyo-7th-sisters:asami-miwako@game` | — |
 | [瀬戸ファーブ](characters/index/tokyo-7th-sisters.md#seto-ferb) | Tokyo 7th Sisters game | `tokyo-7th-sisters:seto-ferb@game` | — |
 | [羽生田ミト](characters/index/tokyo-7th-sisters.md#hanyuda-mito) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hanyuda-mito@game` | — |
 | [荒木レナ](characters/index/tokyo-7th-sisters.md#araki-rena) | Tokyo 7th Sisters game | `tokyo-7th-sisters:araki-rena@game` | — |
+| [越前ムラサキ](characters/index/tokyo-7th-sisters.md#echizen-murasaki) | Tokyo 7th Sisters game | `tokyo-7th-sisters:echizen-murasaki@game` | — |
 | [逢原ミウ](characters/index/tokyo-7th-sisters.md#aihara-miu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:aihara-miu@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |
 | [雲巻モナカ](characters/index/tokyo-7th-sisters.md#kumomaki-monaka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kumomaki-monaka@game` | — |
