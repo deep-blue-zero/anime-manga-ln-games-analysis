@@ -19,11 +19,12 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Analysis subject ID: `cornered-mouse:imagase@manga`
 - Series: `cornered-mouse`
 - Continuity: `cornered-mouse-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-cm-s01`: MANGA CHAPTER: CM-S01 ハミングバード・ラプソディ and the adjacent closing comic only (CM-JP-AIO2020-LOCAL sp0503–sp0536, revised Japanese witness; title sp0503, illustration sp0504, story sp0505–sp0534, separate closing comic sp0535, credits sp0536). The Reboot-only story, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u01`: MANGA CHAPTER: CM-U01 キッシング・グーラミー only (CM-JP-AIO2020-LOCAL sp0011–sp0050, revised Japanese witness). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u02`: MANGA CHAPTER: CM-U02 楽園の蛇 only (CM-JP-AIO2020-LOCAL sp0051–sp0091, revised Japanese witness; narrative ends sp0090). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u03`: MANGA CHAPTER: CM-U03 黒猫、月を見る only (CM-JP-AIO2020-LOCAL sp0092–sp0096, revised Japanese witness; narrative ends sp0095, sp0096 closing illustration). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
@@ -32,7 +33,11 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
   - `reviewed-cm-u07`: MANGA CHAPTER: CM-U07 憂鬱バタフライ only (CM-JP-AIO2020-LOCAL sp0205–sp0255, revised Japanese witness; narrative sp0205 and sp0207–sp0254, frontispiece sp0206, closing art sp0255). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u08`: MANGA CHAPTER: CM-U08 黒猫、あくびをする only (CM-JP-AIO2020-LOCAL sp0256–sp0260, revised Japanese witness; narrative sp0256–sp0259, closing portrait sp0260). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u09`: MANGA CHAPTER: CM-U09 梟 only (CM-JP-AIO2020-LOCAL sp0261–sp0338, revised Japanese witness; narrative sp0261–sp0337, closing art sp0338). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u10`: MANGA CHAPTER: CM-U10 俎上の鯉は二度跳ねる only (CM-JP-AIO2020-LOCAL sp0339–sp0499, revised Japanese witness; titled opening sp0339, narrative ends sp0498, edition-title separator sp0499). Hummingbird, the Reboot-only story, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-complete-witness-monograph`: MANGA CHAPTER: Developmental argument across the complete supplied witness CM-JP-AIO2020-LOCAL (CM-U01–U10 and CM-S01), as scoped by the monograph. Coverage follows the material scenes it analyzes, not uniform analysis of every chapter; the Reboot-only story, other editions and adaptations are excluded.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
+  - [`character-monograph` — Imagase character monograph (active_provisional)](../../series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_WATARU_IMAGASE_MONOGRAPH.md) — **active provisional authority**
+  - [`s01-deep-reading` — CM-S01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md) — **active provisional authority**
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
   - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**
   - [`u03-deep-reading` — CM-U03 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U03_DEEP_READING.md) — **active provisional authority**
@@ -41,6 +46,7 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
   - [`u07-deep-reading` — CM-U07 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md) — **active provisional authority**
   - [`u08-deep-reading` — CM-U08 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md) — **active provisional authority**
   - [`u09-deep-reading` — CM-U09 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md) — **active provisional authority**
+  - [`u10-deep-reading` — CM-U10 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md) — **active provisional authority**
 
 <a id="kyoichi-otomo"></a>
 
@@ -55,7 +61,7 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
 - Analysis subject ID: `cornered-mouse:kyoichi-otomo@manga`
 - Series: `cornered-mouse`
 - Continuity: `cornered-mouse-manga`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
@@ -67,7 +73,10 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
   - `reviewed-cm-u06`: MANGA CHAPTER: CM-U06 窮鼠はチーズの夢を見る only (CM-JP-AIO2020-LOCAL sp0143–sp0204, revised Japanese witness; frontispiece sp0143, narrative sp0144–sp0202, adjacent closing art sp0203–sp0204). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u07`: MANGA CHAPTER: CM-U07 憂鬱バタフライ only (CM-JP-AIO2020-LOCAL sp0205–sp0255, revised Japanese witness; narrative sp0205 and sp0207–sp0254, frontispiece sp0206, closing art sp0255). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
   - `reviewed-cm-u09`: MANGA CHAPTER: CM-U09 梟 only (CM-JP-AIO2020-LOCAL sp0261–sp0338, revised Japanese witness; narrative sp0261–sp0337, closing art sp0338). Later components, Hummingbird, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-cm-u10`: MANGA CHAPTER: CM-U10 俎上の鯉は二度跳ねる only (CM-JP-AIO2020-LOCAL sp0339–sp0499, revised Japanese witness; titled opening sp0339, narrative ends sp0498, edition-title separator sp0499). Hummingbird, the Reboot-only story, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-complete-witness-monograph`: MANGA CHAPTER: Developmental argument across the complete supplied witness CM-JP-AIO2020-LOCAL (CM-U01–U10 and CM-S01, including the CM-S01 welcome-home scene), as scoped by the monograph. Coverage follows the material scenes it analyzes, not uniform analysis of every chapter; the Reboot-only story, other editions and adaptations are excluded.; continuity `cornered-mouse-manga`
 - Reviewed current evidence:
+  - [`character-monograph` — Kyoichi Otomo character monograph (active_provisional)](../../series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_KYOICHI_OTOMO_MONOGRAPH.md) — **active provisional authority**
   - [`u01-deep-reading` — CM-U01 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) — **active provisional authority**
   - [`u02-deep-reading` — CM-U02 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U02_DEEP_READING.md) — **active provisional authority**
   - [`u04-deep-reading` — CM-U04 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U04_DEEP_READING.md) — **active provisional authority**
@@ -75,3 +84,50 @@ Reviewed analysis subjects in the `cornered-mouse` namespace of the [Character A
   - [`u06-deep-reading` — CM-U06 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md) — **active provisional authority**
   - [`u07-deep-reading` — CM-U07 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md) — **active provisional authority**
   - [`u09-deep-reading` — CM-U09 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md) — **active provisional authority**
+  - [`u10-deep-reading` — CM-U10 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md) — **active provisional authority**
+
+<a id="natsuki"></a>
+
+### Natsuki
+
+- Entity ID: `cornered-mouse:natsuki`
+- Entity aliases:
+  - 夏生 (ja, ORIGINAL_SCRIPT) — Written given name with reading なつき at sp0100 (CM-U04-O004); no surname is supplied.
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `cornered-mouse:natsuki@manga`
+- Series: `cornered-mouse`
+- Continuity: `cornered-mouse-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-complete-witness-monograph`: MANGA CHAPTER: Monograph argument over her material scenes in CM-U04 (sp0100–sp0137), CM-U06 (sp0143–sp0204) and the CM-S01 closing comic (sp0535) of CM-JP-AIO2020-LOCAL, revised Japanese witness. She is not analyzed in every chapter; the Reboot-only story, other editions and adaptations are excluded.; continuity `cornered-mouse-manga`
+- Reviewed current evidence:
+  - [`character-monograph` — Natsuki character monograph (active_provisional)](../../series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_NATSUKI_MONOGRAPH.md) — **active provisional authority**
+
+<a id="okamura-tamaki"></a>
+
+### Okamura Tamaki
+
+- Entity ID: `cornered-mouse:okamura-tamaki`
+- Entity aliases:
+  - 岡村たまき (ja, ORIGINAL_SCRIPT) — Full self-introduction at sp0225 (CM-U07-O021).
+
+#### Subject: Japanese manga continuity
+
+- Analysis subject ID: `cornered-mouse:okamura-tamaki@manga`
+- Series: `cornered-mouse`
+- Continuity: `cornered-mouse-manga`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `reviewed-cm-u10`: MANGA CHAPTER: CM-U10 俎上の鯉は二度跳ねる only (CM-JP-AIO2020-LOCAL sp0339–sp0499, revised Japanese witness; titled opening sp0339, narrative ends sp0498, edition-title separator sp0499). Hummingbird, the Reboot-only story, other editions and adaptations are outside this reviewed scope.; continuity `cornered-mouse-manga`
+  - `reviewed-complete-witness-monograph`: MANGA CHAPTER: Monograph argument over her material scenes in CM-U07 (sp0205–sp0255), CM-U09 (sp0261–sp0338) and CM-U10 (sp0339–sp0499) of CM-JP-AIO2020-LOCAL, revised Japanese witness. The Reboot-only story, other editions and adaptations are excluded.; continuity `cornered-mouse-manga`
+- Reviewed current evidence:
+  - [`character-monograph` — Okamura Tamaki character monograph (active_provisional)](../../series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_OKAMURA_TAMAKI_MONOGRAPH.md) — **active provisional authority**
+  - [`u10-deep-reading` — CM-U10 deep reading (active_provisional)](../../series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md) — **active provisional authority**
