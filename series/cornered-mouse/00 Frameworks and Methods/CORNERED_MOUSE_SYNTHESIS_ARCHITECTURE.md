@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.5"
+version: "0.6"
 status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -151,3 +151,11 @@ Apply handoff section 15's named-subject/reference check to introduction, a subs
 The complete [U01 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U01_DEEP_READING.md) tests the design at sp0011–sp0050. Report disclosure, mistaken marital expectations and unequal phone access justify the information/decision home. Their distinct consequences for permission, trust and relationship classification justify linked directional relationship records. Character self-accounts, counterexamples and secondary agency justify individual state. Six consequential claims and two prospective tests need preserved formulation history. Existing observation anchors retrieve page form and Japanese wording adequately; no fifth ledger or new framework is warranted after one unit.
 
 **Disposition:** PRESERVE all four responsibilities/dependencies, move INITIAL → EVOLVING, review again at the title/sequel boundary or earlier material discovery. No backfill is required: U01 closes all four homes transactionally. G1 is IN_PROGRESS (one of ten components); G2 later supplement remains deferred with Reboot outside this run; G3 unknown comparisons remain bounded; G4 is current through U01 but not corpus-reconciled; G5–G9 remain outstanding. These current dispositions supplement the historical initial-state gate table above. The reading's named-subject/reference audit covers all three evidenced dyads, preserving source-required anonymity. No synthesis/model promotion follows from this review.
+
+## Title-work review — 2026-10-30, CM-U06
+
+The [frozen title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md), basis `e4749dea42179e01a417a96171e9cfb035ca919b`, tests all anticipated responsibilities against six readings. **PRESERVE** the four canonical ledgers, observation ownership and dependency graph; retain **EVOLVING** pending sequel/supplement/source-completion and role-gap review. No fifth ledger, migration or material backfill is warranted. Final monographs/specialists remain deferred until corpus reconciliation; every domain has an explicit disposition in the review.
+
+The new `04 Character Studies/` home now contains separately frozen, proposed U06-state [Otomo](../04%20Character%20Studies/CORNERED_MOUSE_OTOMO_U06_PROPOSED_MODEL.md) and [Imagase](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md) models. These own derived response rules, not canonical source events or monographs. The review supplies the shared evidence/domain map; the character ledger owns local readiness. Claims-ledger CM-PR-004–006 alone own prospective test formulations; appended outcome records will remain separate. No global grade or operational release follows. This is the existing reconstruction dependency becoming justified, not a replacement method.
+
+G1 is IN_PROGRESS (six of ten components), G2/G3 required dispositions remain open/bounded, G4 synchronized through U06, G5/G6 final readiness outstanding, G7/G9 outstanding and G8 proposed/testing. Commit review/rules/tests before U07 access; ordinary authorized reading then continues. The whole-run terminal boundary, separate mainline/Hummingbird freeze and all downstream duties remain unchanged.
