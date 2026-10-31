@@ -4,16 +4,16 @@ artifact_id: T7S_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.10"
+version: "1.11"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; governing architecture through closed T7S_B0224 and checked story/entity/source-lock/coverage physical representations; no new semantic source or2053 admission"
+source_boundary: "c20260909-r484; governing architecture through closed T7S_B0230 and checked claim/story/entity/source-lock/coverage physical representations; no new semantic source or2053 admission"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 # Tokyo 7th Sisters synthesis architecture
@@ -280,7 +280,7 @@ Authority notation: **G** = governing/administrative, never literary evidence; *
 | B08 `T7S_COVERAGE_AND_ROUTING_MANIFEST.json` plus its five declared JSONL role components | `analytical_coverage_ledger_manifest` governing one logical `analytical_coverage_ledger`; exact source membership | Consumption/routing obligations and authoritative analytical homes; manifest-bound partition, hashes, and counts | G operational; mutable decisions with revision provenance; records move atomically between disjoint shards as their consumption state changes | Mandatory; B06/B07; source-ID seeds only at bootstrap |
 | B09 `T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md` plus its story causal-state manifest and ordered components | One logical `story_causal_state_ledger`; all admitted story events | Sole owner retains aggregate metadata/routing; components own disjoint exact payload intervals for event, world, dependency and thread history | A after findings; append history/current revisions through the complete logical view, with preserved stable IDs and routes | Mandatory; B02/B03/B05–B07; reviewed lossless storage transition; no semantic source admission |
 | B10 `T7S_ENTITY_STATE_LEDGER.md` plus its entity-state manifest and ordered components | One logical `entity_state_ledger`; characters, knowledge, relations, units and readiness | Sole logical owner retains aggregate metadata/routing; delegated components own disjoint payload intervals under exact length/hash/order and whole-view binding | A state plus G identity/readiness metadata; preserve local horizons, stable history and one current copy | Mandatory; B03–B07/B09; reviewed lossless storage transition; no source or maturity promotion |
-| B11 `T7S_CLAIM_AND_EVIDENCE_LEDGER.md` | `claim_evidence_ledger`; claims/revisions/AV | Current claims, rivals, evidence and review queue | A; stable IDs, retained revisions | Mandatory; B02–B06; no interpretive findings initially |
+| B11 `T7S_CLAIM_AND_EVIDENCE_LEDGER.md` plus its claim-evidence manifest and ordered components | `claim_evidence_ledger`; claims/revisions/AV | Current claims, rivals, evidence and review queue | A; stable IDs, retained revisions | Mandatory; B02–B06; no interpretive findings initially |
 | B12 `T7S_BOOTSTRAP_AND_GATE_RECORD.md` | `project_initialization_record`; bootstrap generation | Base state, artifacts, checks, lock transition and source exposure | G; append verified observations, preserve prior gate history | Mandatory; all required bootstrap artifacts and X |
 | B13 `.repository/series-registry.json` | Repository series routing descriptor; this root | Register title/root/entrypoint and required initiation gate | G; mutable through governed routing process | Mandatory for real root; current schema, B01 and repository preflight |
 
@@ -467,3 +467,13 @@ Reassemble the exact owner prefix and every declared framed payload before inter
 SourceLock 12.131 records only this administrative transition at unchanged B0224 high-water. Capture, primary acquisition, proposal generation, independent verification and finite native consumers must explicitly handle the complete story view before B0225 semantics can be opened. Earlier frozen consumers, prospective receipts and their historical path literals remain unchanged. Exact preservation and negative controls, separate native preparation/application acceptance, author preflight, normal publication, full remote readback and automatic exact-head audit remain distinct obligations. The full 2034 release and the 2053 semantic block remain unchanged.
 
 - 2026-10-30 — 1.10: specify the lossless B0224 story-ledger representation and complete-view consumer gate before B0225; preserve all analytical responsibilities, source boundaries and historical receipts.
+
+## Claim and evidence physical representation V1
+
+The [claim-storage record](../09%20Audits%20and%20Manifests/T7S_CLAIM_STORAGE_TRANSITION_V1.md) and [manifest](../03%20Longitudinal%20Ledgers/T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json) extend B11 after B0230. The original address remains the sole logical owner for claims, revisions, predictions and AV evidence. Aggregate metadata and every original heading address remain there; 1,028,341 original body bytes are delegated without alteration to three ordered disjoint components in the same directory. All 306 heading routes, stable IDs, occurrence order, historical horizons and relative links remain recoverable. No second current body or new semantic source is created.
+
+Before interpretation, capture or editing, assemble the exact owner prefix and every manifest-declared payload. Check authority, safe paths, order, offsets, full-file/payload lengths/hashes, logical hash, complete heading routes and SourceLock reader/manifest/high-water bindings. Wrapper-only, partial, stale or mutated cached views fail closed. Physical files remain strictly below1MiB, ordinary active components below450KiB and native quoted arguments below28000UTF16 units. Append only through an independently reviewed exact logical projection into owner/active-component/manifest, retaining sealed components and this frozen transition. Current-row revision or rollover needs its own review.
+
+SourceLock12.138 is administrative at unchanged B0230. Fresh consumers must explicitly handle all five logical source/coverage/entity/story/claim views. The reviewed bridge returns four modules followed by those five views; captures return four snapshots followed by three complete ledgers. Earlier frozen consumers and historical path literals remain unchanged. Separate positive/negative proof, independent full-byte preservation, finite native preparation/application, repository validation, normal publication/readback and automatic exact-head audit remain mandatory. Full2034 remains incomplete;2053 blocked.
+
+- 2026-10-31 — 1.11: specify lossless B0230 claim/evidence representation and complete-view consumer gate; preserve analytical responsibilities and all earlier freezes.

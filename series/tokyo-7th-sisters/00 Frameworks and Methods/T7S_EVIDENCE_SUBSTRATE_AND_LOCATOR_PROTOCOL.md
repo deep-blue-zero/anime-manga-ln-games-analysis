@@ -4,7 +4,7 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.134"
+version: "1.135"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -448,3 +448,7 @@ At B0210 the current entity manifest declares four ordered components001–004. 
 - 2026-10-31: move exactly9 fullT7S_B0229records with explicit defaults/history; all1581other effective records retain bytes/values.
 
 - 2026-10-31: move exactly1 fullT7S_B0230records with explicit defaults/history; all1589other effective records retain bytes/values.
+
+## Complete claim/evidence storage view after B0230
+
+The [claim manifest](../03%20Longitudinal%20Ledgers/T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json) and [frozen storage record](../09%20Audits%20and%20Manifests/T7S_CLAIM_STORAGE_TRANSITION_V1.md) govern the full current ledger. Obtain its exact prefix and every declared payload with the SourceLock-bound checked reader, then freeze logical and physical fingerprints alongside source/coverage/entity/story. All component caps, native budgets, source admission and prospective semantic gates remain governing. The current owner wrapper alone is incomplete. Complete capture/primary preparation/projection/independent verification/native consumers must prove full-view support before new primary semantics. The new bridge's exact nine-item order is control, entity, story, claim modules; source, coverage, entity, story, claim views. Four snapshots precede three logical-ledger byte strings in capture. Earlier reader byte pins and frozen receipts are not redirected.
