@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.62"
+version: "1.63"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0028 through whole transactions; original I1 continuous, E0029 next after whole E0028 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0029 through whole transactions; original I1 continuous, E0030 next after whole E0029 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0028_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0029_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0029 source transaction — 2026-10-31
+
+Miyagi’s solitary dinner exposes a shared habit through automatic two-serving preparation and a qualified preference for company. Her private naming shock, perceived invitation and desire to touch add a partial account of the search; they do not become Sendai’s knowledge or blanket permission. A probable-awareness estimate and imagined within-rule commands coexist with awkwardness. The ended eraser command leaves an explicitly unreturned object, followed by a replacement purchase. After a week from the last calling day, Miyagi sends her first self-described no-errand message; a prompt reply, Sendai’s attributed prep-school report and actual next-day room arrival follow. No current eraser location, delivered private explanation, new standing term, new shared category or comprehensive repair is established.
+
+Whole introduction alone yields WEB29/431, 56/458 originalI1, 61/463 pre-LN10 and 62/464 combined. Ten novels/23 supplements remain complete. Own Miyagi24→29 and observed/reported Sendai24→29 advance; own Sendai28/observed Miyagi28, Maika/Ami/father and later adult/childhood LN10 clocks remain separate. All18 forecasts/13 attempts and known failures, ties, exposure qualifications/input-location defect remain; M0.13/S0.14 stay draft_noncurrent/UNTESTED with 0 validated domains. Narō0/290, 47 unresolved gaps, 27 discovery duties and all dependent G3–G7 duties remain unfinished. The [complete E29 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0029_DEEP_READING.md) and [transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0029_TRANSACTION_AUDIT.md) retain source/comparison/cumulative responsibilities and separate publication evidence. The continuous frozen 431/I1 run stays active, with confirmation_between_units:false and the full architectural terminal retained. E30 needs a prospective source-first freeze after whole E29 and required publication checks; the actual published head must be green before the next major push. Owner hold release and protected-main integration remain separate. No routine unit pause or full-goal completion is declared. OFF evidence stays local; raw sources/private matrices remain outside Git.
 
 ## Current E0028 source transaction — 2026-10-31
 
@@ -2290,3 +2296,13 @@ This source unit is complete only through its whole introducing transaction. The
 | Forecast/model boundary |18 forecasts/13 historical attempts retain6 first-action failures, one exposure-qualified gift match, six ordinary-baseline ties and the input-location defect. M0.13/S0.14 stay draft_noncurrent/UNTESTED with zero validated domains. |
 
 The genuine E28 entering source and original firstnotes/Q1 remain immutable. Later green E27 correction and current-main inheritance have their separate adoption receipt; they do not retroactively change the original encounter context. E29 requires its own entering freeze after whole E28. V1/future-release narrative remains unopened;both OFF archives stay local. This checkpoint does not pause the continuous program or complete the full goal.
+
+## E0029 — solitary dinner and contact without an errand — 2026-10-31
+
+All121 original WEB native nodes(73 meaningful/48 format-only)and 10 observations are complete. The separately read acquired-LN01 part 0020 prefix 1–64 contains 60 story originals plus 4 framing nodes, 9 ruby/14 readings. Its58 components partition 33 registered cases(30 changed bases, two strict annotation differences, one combined join/annotation)and 25 equal controls. Six groups preserve witness-specific timer identity, private authority rhetoric, ellipsis, week threshold, message wording and reply attachment. The prefix is not member/chapter/volume completion; native 65+ remains outside the current comparison.
+
+The four logical ledgers record 27 character events/14 relationship events, two current projections/directions, 57 new propositions/57 information transitions, 36 earlier proposition successors(11 STRENGTHEN/25 REVISE), 12 tensions, 5 new OPEN claims/38 earlier claim successors(27 STRENGTHEN/11 REVISE) and 5 existing-rule evidence successors. There is no new rule ID or adopted standing term. Joint totals are 277 claim IDs/951 versions/1458 strict rows, 1694 proposition IDs/2325 versions and 194 rule IDs/502 distinct pairs/521 physical rows, including 19 legacy repeats. All previous table rows, formulations, countercases and source/access clocks remain exact; disclosure master/continuation 01 and claims master remain unchanged.
+
+The genuine entering source is ea497d0b80cbe9940d77ce30c4b095575ede5add after its own green source audit. All19 beforeimages are exact at that source and the current ordinary main inheritance. OriginalI1, five-BW and LN10 inventories remain immutable. The published E27 arrival correction and original E28 boundary are retained; E29 departure/object aftermath is later information, not an old-source rewrite. Source/private evidence stays local.
+
+The continuous frozen 431/I1 run stays active, with confirmation_between_units:false and the full architectural terminal retained. E30 needs a prospective source-first freeze after whole E29 and required publication checks; the actual published head must be green before the next major push. Owner hold release and protected-main integration remain separate. No routine unit pause or full-goal completion is declared. OFF evidence stays local; raw sources/private matrices remain outside Git.
