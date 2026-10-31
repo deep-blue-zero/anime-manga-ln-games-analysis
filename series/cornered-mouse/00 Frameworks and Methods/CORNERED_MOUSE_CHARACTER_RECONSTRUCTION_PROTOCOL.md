@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_protocol
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.3"
+version: "0.4"
 status: active_provisional
 scope: "Future source-bounded behavioral rules, portability and separate validation"
 source_boundary: "Protocol established at bootstrap; current source enrollment and readiness are owned by the character ledger"
@@ -22,7 +22,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 # Character reconstruction protocol
 
-This is a protocol, **not a character model or readiness certification**. At bootstrap no subject had been source-enrolled or assessed; Kyoichi and Imagase were bibliographic candidates only. U01 now supplies source-enrolled character state and local evidence gaps, without proposing or validating a model. Secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
+This is a protocol, **not a character model or readiness certification**. At bootstrap no subject had been source-enrolled or assessed; Kyoichi and Imagase were bibliographic candidates only. U01–U06 now supply source-enrolled states and local evidence gaps. The title-work review separately justifies two narrow proposed U06-state models; neither is prospectively validated. Secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
 
 The live [capability specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md), [schema](../../../governance/schemas/character-reconstruction-capability.schema.json), and [maintenance policy](../../../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md) govern any later global evaluation. This project neither assigns global tiers nor writes their registry. A literary monograph is not an operational behavioral model, and a full-series synthesis cannot certify prediction readiness.
 
@@ -81,3 +81,7 @@ Future validation proceeds as follows:
 6. Report literary understanding and behavioral prediction separately, by domain and source boundary. No fabricated holdout results, accuracy figures or blanket simulation-ready status. Any metric must name the tested set, denominator, scoring rule and limitations.
 
 Global discovery, evidence curation, capability assessment and currentness checks remain with their authorized processes. If a future assessment is requested, use their exact discovery-subject binding, reviewed evidence union, immutable basis commit, evidence-set hash and staleness rules; project-local labels cannot bypass calibration or owner promotion. At bootstrap all domains remain **NOT_ASSESSED**, with no model or test result.
+
+## First title-work application — 2026-10-30
+
+The [title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) fixes the six-reading evidence set and subject/domain gaps. Proposed models under `04 Character Studies/` bind the committed U06 state and retain counterexamples, rival explanations, exclusions and abstention. Their rules and claims-ledger CM-PR-004–006 must commit before U07 inspection. Outcome records append separately; historical models/tests do not absorb later state silently. The optional repository generic reconstruction method informs evidence/model/test separation without superseding this protocol. Local proposed status is not a global capability judgment or permission to publish an unconstrained simulation.
