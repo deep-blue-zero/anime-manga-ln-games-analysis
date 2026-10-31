@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.58"
+version: "1.59"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0024 through whole transactions; original I1 continuous, E0025 next after whole E0024 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0025 through whole transactions; original I1 continuous, E0026 next after whole E0025 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0024_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0025_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0025 source transaction — 2026-10-30
+
+Whole E0025 changes the sequential current boundary to WEB25/431,52/458original I1,57/463pre-LN10 and58/464combined; ten novels/23supplements remain complete. Original154native/101meaningful/53format nodes and the current finite LN01story5–96 plus separate1–4framing have their own sealed encounter/review scope. Native40truth-value precision and cumulative modality/forgiveness qualifications preserve all original notes, source bytes and earlier rows. The complete audit owns actual acceptance/publication identities; no component alone advances coverage.
+
+Four logical ledgers at1.49 add21CHR/12REL/two principal/two directions,50PROP/13successors/50EPI/12tensions, four OPENclaims/19successors and three existing-rule successors/no newRULE. Joint totals are260claims/849versions/1356strict rows,1470PROP/2034versions and192RULE/482pairs/501rows/19legacy repeats. All5190old changing-file table lines/static masters remain exact. Own Sendai E25 and observed Miyagi E25 retain own Miyagi E24, observed Sendai E24 and later novel clocks. All18forecasts/13attempts, noncurrent UNTESTED M0.13/S0.14 and zero validated current domains remain unchanged. Full original I1/dependencies continue atE26afterwholeE25; native97+/V1/future releases remain unadmitted here.
 
 ## Current E0024 source transaction — 2026-10-30
 
@@ -2219,3 +2225,9 @@ All four logical ledgers are reconciled through four changing physical files plu
 The genuine prospective entry remains e18fb83c. Recorded normal main-adoption checkpoints eea7025f, f9481806 and fae714a7 preserve the whole Shuukura subtree/all18entering before-images. The third adoption contains four approved curation commits across five unrelated character-registry/index paths, with all nine staged A2 blobs retained. Its fresh-main guard stopped before any introducing commit or push. Actual introducing parent, current refs and final INDEX/publication results are bound by the current external transaction receipts; earlier successful preflights remain dated evidence for their actual bases. PR386 is owner-merged. The prior e18source audit succeeded486tests/10490paths. No unrelated narrative/main-CI certification, new activation gate, fabricated future result or commit selfhash is supplied.
 
 Only the whole introducing commit yields51/458I1,56/463pre-LN10,57/464combined and WEB24/431. Full original I1 and every dependent architectural duty remain active; E0025 is next only afterward. Ten novels/23supplements stay complete; Narō0/290,51gaps4resolved47unresolved,27discovery duties and downstream architecture remain unfinished. Both OFF archives remain local, and all earlier pause/NONE/LN10-completion records retain their historical scope.
+
+## E0025 execution checkpoint — 2026-10-30
+
+This record is effective only through the whole E0025 introducing transaction. Next original unit is KAK-JP-E0026 with source-first freeze/complete original encounter and every dependent duty retained. No original E26/native97+novel/V1 meaning is admitted by E25. Coverage remains52/458I1,57/463pre-LN10,58/464combined andWEB25/431 after that commit, with ten novels/23supplements complete. The full I1/architecture run remains active; `completed` is reserved for its declared terminal and dependencies.
+
+E25 distinguishes reaction-based recipient conviction from historical full awareness, private cause from received words, conditional friendship from performed acceptance and a near-completion statement from a shown result. Private let-off is retained without claiming a mutual forgiveness exchange or repaired boundary. Both OFF archives stay local. Source, finite, cumulative, whole and publication review have separate recorded scopes; all older failures, exclusions, models, forecasts and source gaps remain recoverable.
