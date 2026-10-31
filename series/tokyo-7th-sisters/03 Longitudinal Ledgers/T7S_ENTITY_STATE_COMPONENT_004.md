@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.18"
+version: "1.19"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0228; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0229; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-31
 ---
@@ -958,4 +958,52 @@ Existing focal people remain Hitoha `IDENTITY-0028 / CHAR-0025 / karakuri-hitoha
 | `REL-1267` | `karakuri-unit → 4U / wanibuchi-emoco` | Reported rival attendance produces a growth/learning judgment and a specific attempt to borrow Emoco's sharp speech. No recruitment, certified technical ranking, total moral judgment or actual confrontation with Emoco. |
 
 Totals:102IDENTITY/84CHAR/1961KNOW/1267REL/29UNIT/29READY. Both original READY0016/17 remain R2_STATE_BOUNDED at MainKARAKURI/B0024/313300802 only, MONOGRAPH_NOT_READY/performedvoiceUNREVIEWED. No historical decision is silently broadened.
+
+## B0229 Susu asks to be understood
+
+Owner [B0229](../02%20Readings/T7S_B0229_DEEP_READING.md), reading SHA256 `bdc19cb9920732970c7456177bbcdacc12d1c0c3fb84ec6f80f47e959f470fc5`; source-lock 12.136, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-I scripts/hashes and nine complete primary ranges: A0-3/B0-5/C0-5/D0-4/E0-5/F0-5/G0-5/H0-4/I0-4. All32 physical controls and complete five-source/seven-coverage/four-entity/three-story views froze at published76be1f20/B0228/12.135 before primary. All154 matching prior-state rows and whole READY0009/all nine capabilities were actually read, with fresh published entity/selected-context/READY bytes identical to the read preview. All49 literal native objects/40 Japanese/name records/nine-title/every-key projection read; one full available composite/contact/three original BGs viewed. Forty voice references/BGM/SFX unlistened; runtime unobserved. All cases are independent conditional occurrences; no menu-derived chronology.
+
+Existing Susu `IDENTITY-0021 / CHAR-0018 / alessandra-susu`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist`, Musubi `IDENTITY-0006 / CHAR-0006 / tendoji-musubi`, Coney `IDENTITY-0003 / CHAR-0003 / rokusaki-connie-presented` and reported Momoka `IDENTITY-0015 / CHAR-0012 / serizawa-momoka` retain their actually read routes. Coney is the canonical Latin spelling; the legacy route token remains an identifier. Papa/father0031, current mother0032, biological mother0033 and younger sisters0034 stay distinct. C's mama has no newly fixed maternal endpoint. Unnamed clerk, rakugo performer and bride remain local reported roles. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current case qualifier for CHAR-0018:** Susu voices affection, asks for specific support, interprets culture actively, values Musubi's seriousness despite disagreement and discloses explicit parental longing. Confidence and uncertainty vary by proposition/information route. Her claims of recipient reaction or manager motive remain attributed; initiative supplies neither reciprocity nor completed physical access. Earlier family/school/ballet/EP6 states and minor/manager limits remain active.
+
+**Current case qualifier for UNIT-0010:** Susu regards Musubi's seriousness and candid conflict as necessary resources for NI+CORA. This is Susu's account, with the original formation reason only echoed through her response. It does not establish Musubi's agreement, sole institutional motive, technical improvement, safe practice load or blanket consent to unilateral choreography. Earlier shared vulnerability, care reversal, fatigue and autonomy remain.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1962` | Susu reports shoulder stiffness and asks the cause. | A:P1; own discomfort account, no clinical cause or physical examination. |
+| `KNOW-1963` | Susu invites a massage and says nobody else is present. | A:P2; privacy claim/request, no completed contact or recipient assent. |
+| `KNOW-1964` | Susu attributes redness to Darling and begins a reversed offer. | A:P3; her perception/initiative, unseen recipient and unfinished action. |
+| `KNOW-1965` | Susu questions why Darling/Coney paired her with Musubi as apparent opposites. | B:P1; her contrast/question, not complete institutional reasoning. |
+| `KNOW-1966` | Susu echoes the opposite-because-opposite reason, then reasons toward candid serious disagreement. | B:P2-3; locally received explanation and own inference, no separate manager turn. |
+| `KNOW-1967` | Susu finds Musubi rigid but calls her seriousness necessary for NI+CORA advancement. | B:P4; own mixed appraisal, no partner interior or technical benchmark. |
+| `KNOW-1968` | Susu credits Darling with arranging her brightest presentation. | B:P5; manager-motive attribution, not independent strategic record or partner ranking. |
+| `KNOW-1969` | Susu explicitly names tonight loneliness and missing papa/mama in her home country. | C:P1-2; own stated cause now, not retrospective airport motive, named nation or resolved maternal identity. |
+| `KNOW-1970` | Susu requests exceptional kindness and predicts usual energy tomorrow. | C:P3; request/prospective self-promise, no observed recovery. |
+| `KNOW-1971` | Susu asks for reassurance until sleep and asserts only Darling can receive this request. | C:P4-5; asserted access/wanted support, no delivered care, sleep or exhaustive support-network knowledge. |
+| `KNOW-1972` | Susu reports first rakugo viewing and defends understanding its appeal. | D:P1-2; own report/claim, no complete viewed or heard performance. |
+| `KNOW-1973` | Susu describes rapid turns between represented woman/man as funny. | D:P3-4; particular role-switching access, no proof of all verbal jokes understood. |
+| `KNOW-1974` | Susu reports a book generalization about Japanese men and says she checked Yamato-nadeshiko meaning. | E:P2-3; attributed book/preference claim, unnamed book and no population finding. |
+| `KNOW-1975` | Susu quotes inner strength alongside delicacy and recognizes herself in that definition. | E:P4-5; self-inclusion, no nationality change, recipient preference or obedient replacement. |
+| `KNOW-1976` | Susu reports a recent walk past a church wedding and admiration of its bride. | F:P1-3; her account, no depicted ceremony, bride route or independent witness. |
+| `KNOW-1977` | Susu imagines her own future ceremony and protests perceived deflection. | F:P4-5; addressed wish/her reading, no joint plan, engagement, settled answer or dated cross-case progress. |
+| `KNOW-1978` | Susu invokes ballet ability and seeks a pointe-shoe hiding place. | G:P1-2; self-claim/practical concern, no new danced technical audit or completed hiding. |
+| `KNOW-1979` | Susu names Momoka as source of a feared rusty-tack yokai story. | G:P3/5; secondhand content, no actual being/tampering, direct Momoka turn or verified prank intention. |
+| `KNOW-1980` | Susu forecasts tetanus from the feared threat and recruits Darling to think of a hiding place. | G:P4-5; fear and renewed request, not injury/diagnosis or supplied resolution. |
+| `KNOW-1981` | Susu writes repeated forms of Darling and echoes a complaint that she need not repeat it. | H:P1-2; textual address/mediated reply, no heard prosody or complete recipient testimony. |
+| `KNOW-1982` | Susu describes joy/quickened heartbeat from affectionate naming and intends to continue. | H:P2-4; own affect/intention, no mutual relationship or observed future encounters. |
+| `KNOW-1983` | Susu recounts personal shopping and a clerk appearance appraisal. | I:P1-2; mediated third-party evaluation, unnamed clerk, no analyst-endorsed body judgment. |
+| `KNOW-1984` | Susu says familiar appearance gives her little comparison and asks Darling perspective. | I:P3; stated uncertainty/wanted judgment, no supplied independent answer. |
+| `KNOW-1985` | Susu claims to read the answer from his gaze and adds a playful qualification. | I:P4; her interpretation/play, no direct access to recipient desire or assent. |
+
+| ID | Directional relation | Source and retained limit |
+| --- | --- | --- |
+| `REL-1268` | `alessandra-susu → player-protagonist` | Expresses affection, requests care/reassurance and particular responses, imagines a ceremony and interprets his reactions. A/C/E/F/H/I; no completed contact, delivered support or reciprocal romance. Reciprocal1269. |
+| `REL-1269` | `player-protagonist → alessandra-susu` | Accessible only through her echoes, attributed blush/deflection/gaze and questions. A/B/D/F/H/I; no independent turn, general consent, promised marriage or established thoughtfulness motive. Reciprocal1268. |
+| `REL-1270` | `alessandra-susu → tendoji-musubi` | Values seriousness and frank disagreement for NI+CORA while retaining irritation at rigidity. B:P1-4; no permanent personality opposition, partner assent or safe-work judgment. Reciprocal1271. |
+| `REL-1271` | `tendoji-musubi → alessandra-susu` | Appears through Susu description of their difference and her needed seriousness. B:P1-4; no independent Musubi reply, private motive or agreement to all conduct. Reciprocal1270. |
+| `REL-1272` | `alessandra-susu → serizawa-momoka` | Names Momoka as source of the frightening shoe story. G:P3-5; fear is current but exact earlier speech, intent and later resolution remain unverified. Reciprocal1273. |
+| `REL-1273` | `serizawa-momoka → alessandra-susu` | Reported informant only in Susu account; no direct Momoka turn, proven malice, reliable cultural teaching or actual shoe tampering. G:P5. Reciprocal1272. |
+
+Totals:1985 KNOW/1273 REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0009 remains complete B0010/201000909 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED; all nine capabilities and counterexamples/obligations remain exact. C's present explicit homesickness does not revise an earlier unknown motive. No new identity or readiness promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
