@@ -20,7 +20,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`blue-archive`](characters/index/blue-archive.md) | 37 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
-| [`cornered-mouse`](characters/index/cornered-mouse.md) | 2 |
+| [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`harmony`](characters/index/harmony.md) | 6 |
@@ -398,6 +398,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nanahoshi Shizuka](characters/index/mushoku-tensei.md#nanahoshi) | Japanese light-novel continuity | `mushoku-tensei:nanahoshi@light-novel` | — |
 | [Narumiya Suzu](characters/index/idoly-pride.md#narumiya-suzu) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:narumiya-suzu@v2-cross-media` | — |
 | [Natsubayashi Hanabi](characters/index/tomozaki.md#natsubayashi-hanabi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:natsubayashi-hanabi@light-novel` | — |
+| [Natsuki](characters/index/cornered-mouse.md#natsuki) | Japanese manga continuity | `cornered-mouse:natsuki@manga` | 夏生 |
 | [Nazuna Ayase](characters/index/chiramune.md#nazuna-ayase) | Chiramune light novel | `chiramune:nazuna-ayase@light-novel` | — |
 | [Nene](characters/index/watayuri.md#nene) | Japanese manga continuity | `watayuri:nene@manga` | Saionji; Nishidera Nene; Saionji Nene; 西園寺; 西園寺寧々; 西寺寧々 |
 | [Nene](characters/index/project-sekai.md#nene) | Project SEKAI game — Wonderlands×Showtime | `project-sekai:nene@game` | — |
@@ -409,6 +410,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nos](characters/index/konosuba.md#nos) | Original light-novel continuity, bounded character study | `konosuba:nos@original-light-novel` | ノス |
 | [Nuaza](characters/index/harmony.md#nuaza) | Original novel, bounded comparative ethics | `harmony:nuaza@original-novel` | — |
 | [Number 21](characters/index/konosuba.md#number21) | Edited TRPG replay continuity, bounded character study | `konosuba:number21@trpg-edited-replay` | 21番 |
+| [Okamura Tamaki](characters/index/cornered-mouse.md#okamura-tamaki) | Japanese manga continuity | `cornered-mouse:okamura-tamaki@manga` | 岡村たまき |
 | [Okina](characters/index/konosuba.md#okina) | Authored TRPG component, unplayed source-specific scope | `konosuba:okina@trpg-core-supplied-scenario` | オキナ |
 | [Okuyama Sumire](characters/index/idoly-pride.md#okuyama-sumire) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:okuyama-sumire@v2-cross-media` | — |
 | [Origasa Ayumu](characters/index/tokyo-7th-sisters.md#origasa-ayumu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:origasa-ayumu@game` | — |
