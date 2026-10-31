@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 44; `SUPERSEDED` 1
+- Recorded totals: `CANDIDATE` 46; `SUPERSEDED` 1
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -96,6 +96,61 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - [`blue-archive:aru@game#chapter-1-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`blue-archive:aru@game#character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md)
   - [`blue-archive:aru@game#voice-address-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md)
+
+### Subject `cornered-mouse:natsuki@manga`
+
+#### Assessment `cornered-mouse-natsuki-manga-monograph-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:natsuki`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only cornered-mouse:natsuki@manga\#character-monograph, the active\_provisional CORNERED\_MOUSE\_NATSUKI\_MONOGRAPH at basis\_commit, read in full: its argument over Natsuki's material scenes in CM-U04 \(sp0100-sp0137\), CM-U06 \(sp0143-sp0204\) and the CM-S01 closing comic \(sp0535\) of the revised Japanese witness CM-JP-AIO2020-LOCAL, as the monograph reports them. The CM-U04, CM-U06 and CM-S01 readings it links are not curated on this subject and nothing is borrowed from them; the corpus readiness review it links is a method input, not evidence. The Reboot-only story, other editions and adaptations are outside, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Three placed horizons: the CM-U04 encounter \(her account of the earlier breakup and the lighter\), the CM-U06 sequence \(renewed proposal, refusal to withdraw, cafe choice, refused confession, holiday booking and unanswered call\), and the closing comic's reported later marriage, which the monograph places after Hummingbird only through a creator note. The interval between the unanswered call and the closing report is unshown and not assessed; no other state is assessed.
+- Basis commit: `a19a4f04e45b0b401719ef28bc35496aa34e12e5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6393ed6426cb1fbd38411e1fd2126b744c855e13995ecb9a0f0b144ca9b9df23`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The CM-U04 encounter or the CM-U06 sequence up to the unanswered holiday call; the reported later marriage is not an enacted state.; interlocutor Kyoichi as former partner she is trying to win back, or Imagase as rival; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the located scenes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `call-aftermath-unshown` (evidence-backed limitation): The title-work ending shows no answered call, cancellation or honest breakup with her; the closing comic's marriage to a younger man is a report that does not fill that gap, and its placement rests on a creator note.
+  - `fantasy-not-consent-rule` (evidence-backed limitation): Her wish for a forceful kiss despite refusal is her stated fantasy about their relation and cannot become a general instruction for reading refusal as desire or supplying anyone's consent.
+  - `interested-scenes-only` (evidence-backed limitation): Every analyzed scene is an interested romantic contest over Kyoichi; the monograph records that no repeated neutral, private or occupational baseline exists and that the corpus review withholds a portable behavioral model.
+  - `japanese-wording-not-quoted` (evidence gap): The monograph paraphrases Natsuki's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `narrator-of-the-past` (evidence-backed limitation): Her account of the earlier breakup corrects Kyoichi's but is one narrator's interpretation; she is not a neutral witness to every part of him, and her metaphors and gendered judgments are interested.
+  - `unit-readings-not-curated` (evidence gap): The CM-U04, CM-U06 and CM-S01 readings the monograph cites are not curated on this subject, so its locators and paraphrases were not checked against them. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`cornered-mouse:natsuki@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_NATSUKI_MONOGRAPH.md)
+
+### Subject `cornered-mouse:okamura-tamaki@manga`
+
+#### Assessment `cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:okamura-tamaki`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only the two reviewed items curated on cornered-mouse:okamura-tamaki@manga at basis\_commit, both active\_provisional and read in full: \#u10-deep-reading \(CORNERED\_MOUSE\_U10\_DEEP\_READING, CM-U10 sp0339-sp0499 of the revised Japanese witness CM-JP-AIO2020-LOCAL, every image inspected by the reading\) and \#character-monograph \(CORNERED\_MOUSE\_OKAMURA\_TAMAKI\_MONOGRAPH, her material scenes in CM-U07 sp0205-sp0255, CM-U09 sp0261-sp0338 and CM-U10\). CM-U07 and CM-U09 enter only through the monograph's argument; their readings are not curated on this subject and nothing is borrowed from them. The corpus readiness review and the U06 proposals are method inputs, not evidence. Hummingbird, the Reboot-only story, other editions and adaptations are outside, and the evaluator performed no primary-source inspection.
+- Temporal boundary: CM-U07 \(coworker attraction and the men's inaccurate account\) through CM-U09 \(corrected parentage, funeral exclusion, the opening after Imagase's departure\), as the monograph reports them, and CM-U10 in full: the courtship six months after that separation \(bridge at sp0353, dated by sp0382\), the stalking and hospitalization, the seated breakup \(sp0452-sp0466\) and the Mina scene \(sp0471-sp0473\), where her depicted trajectory ends. Her knowledge state is fixed at that ending: she has not been shown learning that the former partner is a man or hearing Imagase's harmful wish. No later state is assessed.
+- Basis commit: `a19a4f04e45b0b401719ef28bc35496aa34e12e5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a35ef062c6d222c5a0953d58bf82fc989573af91e5709f0a7a279b8d7cb79d02`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology Any point from CM-U07 to the end of the CM-U10 Mina scene, with her knowledge as of that point; nothing after sp0473.; interlocutor Kyoichi as partner and then former partner, Imagase as an investigator whose relation to Kyoichi she does not know, or Mina as friend; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the located scenes; Any context requiring her to know that the former partner is Imagase or a man, or that Imagase wished her harm; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `japanese-wording-not-quoted` (evidence gap): Both items paraphrase Tamaki's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `knowledge-boundary` (evidence-backed limitation): At the end of her depicted trajectory she has not been shown learning that the former partner is a man or is Imagase, and she is not shown hearing Imagase's disclosed harmful wish; Mina's inference is withheld from her. Her consent to the relationship cannot be expanded into that knowledge.
+  - `mens-account-not-her-interior` (evidence-backed limitation): The early affair inference and the attraction-to-older-men account are the men's explanations, corrected by the disclosed parentage; her no-partner report broadens Kyoichi's words without proving deliberate falsification.
+  - `no-operational-policy` (evidence-backed limitation): The monograph withholds an operational policy from these concentrated family and romantic crises, and the U10 reading records no synthetic dialogue, current-state operational release or global capability grade.
+  - `offer-not-arrangement` (evidence-backed limitation): Her offer to wait for Kyoichi's failure is declined \(he cannot ask her to wait\), no reserve relationship forms, and her stated ease collapses into tears; the father analogy explains the offer's cost without making it inevitable.
+  - `open-ending` (evidence-backed limitation): The witness ends her trajectory with friendship support and continuing feeling; no later marriage, knowledge correction or recovery is shown.
+  - `responsibility-not-transferred` (evidence-backed limitation): Her self-blame over exposed details does not transfer responsibility for the stalking from the aggressor, and her mother's retribution maxim is reported, disputed speech.
+  - `u07-u09-readings-not-curated` (evidence gap): The CM-U07 and CM-U09 readings that the monograph cites are not curated on this subject, so its account of those units, and its name spelling 岡村環 against the self-introduced 岡村たまき recorded on the row, were not checked. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`cornered-mouse:okamura-tamaki@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_OKAMURA_TAMAKI_MONOGRAPH.md)
+  - [`cornered-mouse:okamura-tamaki@manga#u10-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md)
 
 ### Subject `harmony:tuan-kirie@original-novel`
 
