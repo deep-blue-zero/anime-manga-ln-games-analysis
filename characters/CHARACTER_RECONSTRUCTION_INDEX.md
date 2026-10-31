@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 42; `STALE` 1
+- Recorded totals: `CANDIDATE` 44; `SUPERSEDED` 1
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -1286,9 +1286,34 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ### Subject `shuukura:mio-komatsu@original-light-novel`
 
+#### Assessment `shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shuukura:mio-komatsu`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the two REVIEWED discovery references on this subject at basis\_commit: kss12-company-and-curiosity \(the active\_provisional V2 KSS12 reading of the author-released story 小松澪と謎多き女, native 01p1-73, with its bounded LN05 p-006 p245-300 / p-008 p1-75 and LN09 p-012 p64-115 comparisons\) and ln10-visit-and-campus \(the active\_provisional V2 LN-JP-V10 reading, of which only the Mio material is used: chapters 3-4, p-006 p1-304 and p-007 p1-424, O026-O038, and the chapter 11 campus meal and relayed outing, p-014, O073-O078\). Mio is narrated by Sendai and Miyagi throughout LN10. LN01-LN09 Mio passages beyond the KSS12 comparisons, web/V1 material and other series artifacts are not evidence here, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Two separately clocked bodies of evidence. KSS12: a university lecture-end encounter facing summer break, with no exact day, year or college year and no established placement relative to LN10. LN10: an early-March visit to the shared home at the end of the principals' first university year, then a late-April campus meal before Golden Week in their second year; within LN10 the visit precedes the campus meal. The LN05 referral and LN09 roommate call keep their own clocks. Nothing after the LN10 chapter 11 exchange is assessed, and later knowledge is not backdated into KSS12.
+- Basis commit: `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c9f94dc2a685cc06a332bf68572b787ab09f15648f32ec726e2a5cf41aa1abde`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology The KSS12 lecture-end encounter, or the LN10 early-March visit and late-April campus meal; nothing after LN10 chapter 11, and KSS12 is not placed relative to LN10.; interlocutor Sendai Hazuki as a familiar university friend, or Miyagi Shiori as a newly met host; the refusal applies equally to any other counterpart.; settings Counterfactual, crossover or materially novel contexts beyond the located university and shared-home scenes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `coverage-and-model-gaps` (evidence gap): LN01-LN09 Mio passages beyond KSS12's bounded comparisons are not curated, the required Mio monograph is not in the evidence set, and no tested response model exists. New-interlocutor, counterfactual, ethical, romantic, professional and acoustic capability remain unestablished.
+  - `externally-focalized-ln10` (evidence-backed limitation): In LN10 Mio is narrated only by Sendai and Miyagi; their appraisals of her \(alien beauty metaphors, pushiness, sincerity\) are attributed views, and her own reasons for revising invitations or leaving are not given.
+  - `knowledge-separation` (evidence-backed limitation): Mio sees expressions, not private thoughts: LN10 keeps the principals' paid, physical and permission history withheld from her \(O030\) and certifies no omniscient guest motive \(O036\). In KSS12 her boyfriend hypothesis is her inference, and LN09 roommate-name knowledge cannot be supplied to KSS12 Mio as fact \(O005\).
+  - `outcomes-not-shown` (evidence gap): Grip assent, release and duration \(KSS12\), pizza payment, any future return visit, the trio outing and the next mixer are not shown; their absence is not proof of the opposite.
+  - `permission-is-specific` (evidence-backed limitation): Permission and refusal have their own scopes: KSS12 contrasts the LN05 contact-sharing permission with the explicit arm grip; LN10's acceptance of the Sendai-room-only limit coexists with given-name pressure, and her earlier view of a Miyagi photograph is not permission to share images \(O035/O037\).
+- Evidence at basis commit:
+  - [`shuukura:mio-komatsu@original-light-novel#kss12-company-and-curiosity`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md)
+  - [`shuukura:mio-komatsu@original-light-novel#ln10-visit-and-campus`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/shuukura/02%20Sequential%20Readings/SHUUKURA_V2_LN_V10_DEEP_READING.md)
+- Supersedes: `shuukura-mio-komatsu-ln-kss12-20261021-01`
+
 #### Assessment `shuukura-mio-komatsu-ln-kss12-20261021-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `shuukura:mio-komatsu`
 - Scope: continuity `original-light-novel`
 - Source boundary: Only the REVIEWED discovery reference kss12-company-and-curiosity: the active\_provisional V2 KSS12 reading, its preserved observations and its bounded LN05/LN09 comparisons. Native story 小松澪と謎多き女 is described at 01p1-73; comparison ranges are LN05 item/xhtml/p-006.xhtml p245-300 and item/xhtml/p-008.xhtml p1-75, LN09 item/xhtml/p-012.xhtml p64-115, as represented in that artifact. Other series artifacts inform method and scope only. No independent primary-media inspection, full-novel Mio coverage, web/V1 evidence, or cross-continuity aggregation is claimed.
@@ -1307,6 +1332,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `self-reflection-is-not-resolution` (evidence-backed limitation): 01p59 and p69-73 give Mio self-questioning and deferred inquiry alongside a renewed compensation request. Reflection does not establish that all pressure ended or that Sendai accepted the proposed mixer.
 - Evidence at basis commit:
   - [`shuukura:mio-komatsu@original-light-novel#kss12-company-and-curiosity`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/036ed43f1d2a974b5351429792bae2c733e577db/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md)
+- Superseded by: `shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`
 - Stale reason: Effectively stale at main 77c83fcbd77a957fbd7659ec222e120bcb00406d per tools/reconstruction\_status.py currentness: EVIDENCE\_MEMBERSHIP\_CHANGED, SUBJECT\_COVERAGE\_CHANGED. Discovery commit 11666123 \(PR \#383\) added reviewed evidence ln10-visit-and-campus and widened the subject's coverage beyond the KSS12 basis.
 
 ### Subject `the-idolmaster:yonai-p@u149-anime`
@@ -1370,6 +1396,32 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `uncurated-readings-ledgers-audits-and-episodes` (evidence gap): The episode deep readings, longitudinal ledgers, representational-sovereignty ledger, video and motion audits, the coin-donor audit, the name crosswalk, the project character reconstruction method, any Document 20 model and the audiovisual source are not curated evidence on this subject, so the monograph's timestamps and routes were not rechecked here. Missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`to-be-hero-x:x@animated-series#15-x-zero-godhood-fate-and-the-limit-of-public-will`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md)
+
+### Subject `tokyo-7th-sisters:aihara-miu@game`
+
+#### Assessment `tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:aihara-miu`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:aihara-miu@game\#b0217-deep-reading, the canonical T7S\_B0217 reading at basis\_commit, read in full: the complete Sub Intimacy family 200670 \(NM-INTIMACY-200670\) of seven short addresses \(episodes 401000263, 401000267, 401000614, 401000738, 401000874, 401001098, 401001286; 32 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with B0089, B0125, B0127, B0133, B0143, B0165 and B0216 are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level and no chronology across them; the reading states that A-G order supplies no fictional chronology or relationship stage, and that E and F are imagined cases, not stages toward marriage. No state before or after these occurrences is assessed.
+- Basis commit: `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `9b418cb9ff8734dd3be62c196284f74e639756e2c57571145c7dbbdde7066934`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager, as the portfolio describes him; the refusal applies equally to her mother or any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Miu readings \(B0089, B0125, B0127, B0133, B0143, B0165\) are not curated on this subject, so the reading's comparisons with them, including her professional commitment, were not checked. Missing support is not evidence of absence.
+  - `imagined-not-intended` (evidence-backed limitation): E's departure is a hypothetical she explicitly disowns, and F's married life is imagined after a reported eligibility discovery; neither is a stated intention, plan or accepted proposal.
+  - `japanese-wording-not-quoted` (evidence gap): The reading paraphrases Miu's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, music or continuous runtime was heard or watched; the fixed sprite and backgrounds do not depict the meal, gift, anniversary, departure or cinema.
+  - `unequal-knowledge` (evidence-backed limitation): Her mother's interest and judgment are reported by Miu, the manager's price concern reaches the reader through her reply, the anniversary is withheld, and simultaneous remembrance is imagined; her certainty about his importance is not his stated feeling.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; menu order cannot make any address a stage toward marriage, and cross-case comparisons are formal.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:aihara-miu@game#b0217-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/tokyo-7th-sisters/02%20Readings/T7S_B0217_DEEP_READING.md)
 
 ### Subject `tokyo-7th-sisters:araki-rena@game`
 
