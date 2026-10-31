@@ -7142,6 +7142,16 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "physical_component_caps_unchanged": true,
       "reviewed_reader_projection_sha256": "e12f05aa2d506a0671e23da861ebd15365967eada8af75ff858612e552fe549f",
       "current_binding_mutability": "Update only with corresponding reviewed complete logical and physical state; preserve the frozen storage transition receipt."
+    },
+    "claim_evidence_ledger": {
+      "schema": "t7s-analysis/claim-evidence-storage-manifest/v1",
+      "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json",
+      "sha256": "3e84a42ac1d8c042b0341c57df64b5bfe8f4cdf6e24e6420de20ac816de301cd",
+      "logical_artifact_id": "T7S_CLAIM_AND_EVIDENCE_LEDGER",
+      "current_owner": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
+      "physical_component_caps_unchanged": true,
+      "reviewed_reader_projection_sha256": "a48624671292fd45702c893a6b01b03bb70f0fa996084d0d070eb63f85344233",
+      "current_binding_mutability": "Update only with corresponding reviewed complete logical and physical state; preserve the frozen storage transition receipt."
     }
   },
   "administrative_storage_transitions": [
@@ -7202,6 +7212,33 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "reviewed_reader_projection_sha256": "e12f05aa2d506a0671e23da861ebd15365967eada8af75ff858612e552fe549f",
       "all_older_integrity_serialized_bytes": "BYTE_EXACT",
       "coverage_effective_state_sha256": "bade16f2abab8b26d0de0e851a6b0e80aae039086e4d0e32b62858214ecac75b",
+      "physical_file_limit": 1048576,
+      "native_quoted_utf16_limit": 28000
+    },
+    {
+      "operation": "T7S_CLAIM_LEDGER_STORAGE_V1",
+      "date": "2026-10-31",
+      "before_commit": "547a1e10d8f66597a525ef4a4626299cab7e7f5c",
+      "source_lock_before_version": "12.137",
+      "source_lock_after_version": "12.138",
+      "source_high_water_unchanged": "T7S_B0230",
+      "before_owner_bytes": 1035750,
+      "before_owner_sha256": "f4f0c2b4883d14921aaa5557a21b9d93c95b04a157e29438cc8c4ae81c12e151",
+      "original_prefix_bytes": 7409,
+      "original_prefix_sha256": "4806dbe352662710ca587511fe0b742311823b8ac4817a13c507d97a0bb92d4b",
+      "preserved_payload_bytes": 1028341,
+      "preserved_payload_sha256": "bbe6aabfcbba20a40f0beccbc7cd244ff493edc30230ccf3f846075e7e53cba3",
+      "original_heading_routes": 306,
+      "source_admission": "NONE",
+      "semantic_state_change": "NONE",
+      "next_unopened": "REMAINING2034; no next primary admitted by storage",
+      "source_b0230_full_publication_receipt_sha256": "0e7c538e4413f09d3ab8096f54220c5a693cc5f54217643be38ef5e24926111a",
+      "record": "09 Audits and Manifests/T7S_CLAIM_STORAGE_TRANSITION_V1.md",
+      "initial_claim_manifest_sha256": "3e84a42ac1d8c042b0341c57df64b5bfe8f4cdf6e24e6420de20ac816de301cd",
+      "reviewed_reader_projection_sha256": "a48624671292fd45702c893a6b01b03bb70f0fa996084d0d070eb63f85344233",
+      "reviewed_complete_view_bridge_sha256": "b64a45191d1523a1fd5a9ff13c59e3f838dfc40afa75e23c7cd7ae2055411c24",
+      "all_older_integrity_serialized_bytes": "BYTE_EXACT",
+      "coverage_effective_state_sha256": "ce02ebc92c9a24428faf28960058b5316362ea8f46e22931893c7694c5cd2abb",
       "physical_file_limit": 1048576,
       "native_quoted_utf16_limit": 28000
     }
