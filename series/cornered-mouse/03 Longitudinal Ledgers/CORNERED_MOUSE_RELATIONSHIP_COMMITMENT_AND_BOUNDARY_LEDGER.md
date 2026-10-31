@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.6"
+version: "1.1"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL admitted through CM-U04; narrative end sp0136, frontispiece97 and closing portrait137 separate"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U09;77 narrative images261–337/end337, closing art338 separate"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Relationship, commitment and boundary state
 
-**Records: 18. Dyads enrolled: 7. Source boundary: CM-U04.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Records: 45. Dyads enrolled: 13. Source boundary: CM-U09.** Independent directions are recorded within each paired event; reciprocity is never assumed. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schema
 
@@ -228,14 +228,148 @@ Prior NONE; A=Imagase, B=Takasugi; Otomo affected. Primary route: [CM-U04-O011](
 - **B→A:** says he confessed/dated A after A's postgraduation distress, offered reunion and believes they fit emotionally/bodily. Asks Otomo to free A if he cannot reciprocate. These are B's choices and claims, not neutral matchmaking evidence.
 - **Terms/limits:** no dates, duration, exclusivity terms or present sexual act shown. CM-INF-014/015, CM-DEC-017; U04 O007–O011,O017–O018,O025; sp0103–0107,0113–0114,0121; CM-CL-004 v4/011. High for current voices/action, qualified for history/refusal; future outcome unknown. Never merge B with U01 companion or U02 client.
 
+## U05 relationship event
+
+### CM-RS-019 — CM-REL-OTOMO-IMAGASE, consideration's unintended reception
+
+Revision 1, prior CM-RS-016, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U05; A=Otomo, B=Imagase. Primary route: [CM-U05-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U05_DEEP_READING.md#cm-u05-o004); `CM-JP-AIO2020-LOCAL::sp0141::xhtml=item/xhtml/p-0139.xhtml::image=item/image/i-0139.jpg::panel=P00`. **A→B:** privately plans that adequate care will make gay dating burdensome, then deliberately asks about/compliments B's jacket. Recognizes a warm mood that frustrates the plan. **B→A:** asks why A is distracted and receives the compliment with surprise/flushed pleasure; no knowledge of the private plan is shown. **Terms/constraints:** CM-INF-018/CM-DEC-022 preserve unequal knowledge and intended versus immediate result. No new exclusivity, mutual classification, bodily permission or general repair is established. Older consent/privacy histories remain. **After/limits:** ordinary warmth and A's renewed unease, not an enacted breakup or final love declaration. U05 O001–O004, sp0138–0141; CM-CL-001 v4/005 v3/006 v5/013. High for plan/action/response, open for persistence. Other dyads have no new evidence; imagined comparison is not a new relationship.
+
+## U06 relationship events
+
+Revision 1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U06. A/B identities and prior records are explicit. Neither a forced choice nor renewed sex is silently treated as a complete mutual contract.
+
+### CM-RS-020 — CM-REL-OTOMO-IMAGASE, withheld proposal and bodily interruption
+
+Prior CM-RS-019; A=Otomo, B=Imagase. Primary route: [CM-U06-O008](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o008); `CM-JP-AIO2020-LOCAL::sp0150::xhtml=item/xhtml/p-0148.xhtml::image=item/image/i-0148.jpg::panel=P00`. **A→B:** withholds Natsuki's actual proposal, resists contact, forcefully interrupts and apologizes after B's pain, then rejects B's self-devaluing phrasing. **B→A:** recognizes evasion, frames a rival as thief-cat and proposes taking A beyond return; after interruption calls himself at fault for failing to know his place as gay. **Terms/power:** no new bodily assent follows from habitual shared bath/bed. CM-INF-019, CM-DEC-025; O004–O008, sp0146–0150; CM-CL-004 v5/007 v3/008 v3. Refusal and recognized hurt remain separately valid; exact impact mechanics/complete repair unshown.
+
+### CM-RS-021 — CM-REL-IMAGASE-NATSUKI
+
+Prior NONE; A=Imagase, B=Natsuki; Otomo affected but initially absent. Primary route: [CM-U06-O012](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o012); `CM-JP-AIO2020-LOCAL::sp0154::xhtml=item/xhtml/p-0152.xhtml::image=item/image/i-0152.jpg::panel=P00`. **A→B:** admits old advice aimed at breaking the student couple, says he cannot win if B is serious, begs her to step aside and describes barely managing attachment. **B→A:** says she chose/loved Otomo, wants to forgive unless he ends it, refuses disappearance, calls A a ditch and challenges him to withdraw if defeated. Later claims conditional willingness not to interfere with a prepared male choice. **Knowledge/terms:** CM-INF-020/021, CM-DEC-023/024. Shared history and competing wishes are voiced, no shared moral verdict or agreed rights over Otomo. B calls him to join, correcting his assumption A controlled the meeting. O009–O017, sp0151–0159; CM-CL-011 v2/004 v5. Both show agency/pressure; no literal murder plan is inferred from A's hostile recollection.
+
+### CM-RS-022 — CM-REL-OTOMO-IMAGASE, explicit café rejection and first acceptance
+
+Prior CM-RS-020; A=Otomo, B=Imagase. Primary route: [CM-U06-O019](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o019); `CM-JP-AIO2020-LOCAL::sp0161::xhtml=item/xhtml/p-0159.xhtml::image=item/image/i-0159.jpg::panel=P00`. **A→B:** within Natsuki's binary romantic challenge/unchosen-withdraws proposal, says he cannot choose B and an ordinary man cannot do this, asking understanding. **B→A:** says yes/knows his place with no initial objection/counteroffer before A and Natsuki leave. **Terms/consequence:** rejection actually terminates this interaction; emotional pain is not disproved. CM-INF-021, CM-DEC-025/026; O014–O019, sp0156–0161; CM-CL-005 v4/014/CM-PA-003. CM-PA-003 FAILURE concerns this first response under its contextual-selection bound; later separate plea cannot replace it. No destined-love or permanent-separation conclusion.
+
+### CM-RS-023 — CM-REL-OTOMO-NATSUKI, selected ordinary life and unresolved obligation
+
+Prior CM-RS-017; A=Otomo, B=Natsuki. Primary route: [CM-U06-O022](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o022); `CM-JP-AIO2020-LOCAL::sp0164::xhtml=item/xhtml/p-0162.xhtml::image=item/image/i-0162.jpg::panel=P00`. **A→B:** surprised by renewal offer, leaves with B after rejecting Imagase, voices relief in ordinary couple appearance, then tells B his fear of dependence on Imagase. Later thanks B's trip planning while distracted, confirms a departure arrangement but is with Imagase during B's call. **B→A:** proposes, kisses, delays demanded reply, forces choice, recognizes jealousy and asks an end to false hope. Refuses to receive the absent man's confession, then offers tangible holiday planning/care. **Terms/knowledge:** CM-INF-019/021/025, CM-DEC-023/025/030/033. Renewed sexual/ongoing company is evidenced, no full explicit exclusivity clauses or final breakup/cancellation shown. Imagase does not have certified access to the private hotel admissions. O002–O003,O020–O022,O031–O035,O037,O058–O060, sp0144–0145,0162–0164,0173–0177,0179,0200–0202; CM-CL-011 v2/007 v3/005 v4. Her independent stake cannot be erased by the reunion.
+
+### CM-RS-024 — CM-REL-OTOMO-IMAGASE, renewed contact, last plea and actual absence
+
+Prior CM-RS-022; A=Otomo, B=Imagase. Primary route: [CM-U06-O029](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o029); `CM-JP-AIO2020-LOCAL::sp0171::xhtml=item/xhtml/p-0169.xhtml::image=item/image/i-0169.jpg::panel=P00`. **A→B:** rushes to an imagined bath emergency, accepts sleep correction, embraces/kisses and blocks Natsuki discussion; expects familiar routine to continue. **B→A:** denies suicidal response to rejection, asks once more for sex and says refusal means no further touch, then removes belongings/disconnects a number. No packing is shown, but convergent absence cues warrant departure. **Permission/consequence:** wet-shirt dismissal is not secure act-specific sexual assent; no completed bath-night sex is certified. Departure defeats A's expected painless continuation and makes the limit understood too late. CM-INF-022/023, CM-DEC-027/028/029; O023–O032,O036, sp0165–0174,0178; CM-CL-004 v5/005 v4/008 v3/014/015. No observed self-harm or permanent future cutoff is inferred; two-month pain/contact accounts arrive later.
+
+### CM-RS-025 — CM-REL-OTOMO-IMAGASE, pursuit, conditional return and fearful intimacy
+
+Prior CM-RS-024; A=Otomo, B=Imagase. Primary route: [CM-U06-O049](../01%20Sequential%20Readings/CORNERED_MOUSE_U06_DEEP_READING.md#cm-u06-o049); `CM-JP-AIO2020-LOCAL::sp0191::xhtml=item/xhtml/p-0189.xhtml::image=item/image/i-0189.jpg::panel=P00`. **A→B:** pursues/intercepts taxi, indirectly raises retained butts then admits inability to discard them, refuses a kiss while another arrangement exists, demands its termination and voices fear. Joins renewed intimacy/penetrative sex; his own Natsuki obligation is unresolved on the page. **B→A:** first maintains pointed formal distance, reports painful waiting/unused contact routes, corrects completed-sex assumption, then ends a proposed visit by a one-sided call and says he fears A too. **Terms/repair:** CM-INF-024/025, CM-DEC-031–033. Greater particular investment, a fidelity-like demand and changed participation do not establish all mutual terms, comprehensive permission or repair of old coercion/privacy. O037–O060, sp0179–0202; CM-CL-001 v5/005 v4/007 v3/008 v3/014/015. No recipient reply or agreed exclusivity for the unseen man invented. The open drowning/future question and unanswered call remain part of the endpoint.
+
+## U07 relationship events
+
+All revision1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U07. New role-limited dyads do not imply established romance or full independent portraits. Earlier directions/terms remain historical.
+
+### CM-RS-026 — CM-REL-OTOMO-IMAGASE, six-month domestic intimacy and pressure
+
+Prior CM-RS-025. Primary route: [CM-U07-O010](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o010); `CM-JP-AIO2020-LOCAL::sp0214::xhtml=item/xhtml/p-0212.xhtml::image=item/image/i-0212.jpg::panel=P00`. A=Otomo, B=Imagase. **A→B:** narrates new bodily understanding, ongoing no-woman history and simultaneous uncertainty/normalcy wish. **B→A:** treats kisses/results as spousal, claims body checks and threatens Tokyo Bay if A goes elsewhere; these are pressuring words, not an observed attempt. **Terms:** six-month conduct is not complete negotiated exclusivity or automatic consent; no Natsuki settlement supplied. O005–O011, sp0209–0215; CM-INF-026/027, CM-DEC-035, CM-CL-005 v5/007 v4/008 v4.
+
+### CM-RS-027 — CM-REL-OTOMO-FATHER, remembered childhood lesson
+
+Prior NONE. Primary route: [CM-U07-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o004); `CM-JP-AIO2020-LOCAL::sp0208::xhtml=item/xhtml/p-0206.xhtml::image=item/image/i-0206.jpg::panel=P00`. A=Otomo as child/retrospective narrator, B=source-unnamed father. **A→B:** pities remembered loneliness, wishes B had married someone who loved him more and says lesson shaped later consideration/partner choice. **B→A:** remembered advice to listen/smile/be kind for peace. **Boundary:** recollection, not independent whole-family/current marriage evidence. O003–O004, sp0207–0208; CM-INF-026/CM-DEC-034/CM-CL-016.
+
+### CM-RS-028 — CM-REL-OTOMO-OKAMURA, workplace help and gendered availability
+
+Prior NONE. Primary route: [CM-U07-O015](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o015); `CM-JP-AIO2020-LOCAL::sp0219::xhtml=item/xhtml/p-0217.xhtml::image=item/image/i-0217.jpg::panel=P00`. A=Otomo, B=Okamura Tamaki. **A→B:** stares/startles/apologizes, seeks gift-wine advice for acquaintance, denies having girlfriend without naming male attachment. **B→A:** offers knowledgeable friend/list and infers a cherished woman; later reports no partner. **Terms:** helpful coworker contact and apparent availability, not actual dating or a promised romance. B full name225 binds surname218/portrait, no old-woman merge. O001,O013–O015, sp0205,0217–0219; CM-INF-027/028/029, CM-DEC-036/037, CM-CL-011 v3/017.
+
+### CM-RS-029 — CM-REL-IMAGASE-OKAMURA, unannounced work delivery and broadened report
+
+Prior NONE. Primary route: [CM-U07-O022](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o022); `CM-JP-AIO2020-LOCAL::sp0226::xhtml=item/xhtml/p-0224.xhtml::image=item/image/i-0224.jpg::panel=P00`. A=Imagase, B=Okamura Tamaki. **A→B:** cold who-are-you, then pointed junior-cover politeness/girlfriend question; receives broader no-partner report, takes packet abruptly and ends visit. **B→A:** introduces self, offers work documents, denies girlfriend and reports Kyoichi no partner. **Knowledge:** source219 girlfriend differs from reported226 partner; A lacks original wording, deliberate distortion unproved. Later A apologizes to Kyoichi, no direct repaired exchange with B shown. O019–O024,O027, sp0223–0228,0231; CM-INF-029, CM-DEC-037/039, CM-CL-004 v6/017.
+
+### CM-RS-030 — CM-REL-OTOMO-IMAGASE, birthday gift and particular future offer
+
+Prior CM-RS-026. Primary route: [CM-U07-O018](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o018); `CM-JP-AIO2020-LOCAL::sp0222::xhtml=item/xhtml/p-0220.xhtml::image=item/image/i-0220.jpg::panel=P00`. A=Otomo, B=Imagase. **A→B:** remembers birthday, plans meal and midnight wine, offers another gift next year. **B→A:** surprise/thanks, kiss quip clarified as joke, reluctance to use the precious gift; the bottle is subsequently shown opened. **Terms:** genuine specific care and prospective recurrence, not full relationship/exclusivity contract; ongoing bond, not PR005 postrupture trigger. O011,O014,O016–O018, sp0215,0218,0220–0222; CM-INF-028, CM-DEC-036/038, CM-CL-015 v2.
+
+### CM-RS-031 — CM-REL-OTOMO-IMAGASE, chosen meal and unanswered feeling question
+
+Prior CM-RS-030. Primary route: [CM-U07-O029](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o029); `CM-JP-AIO2020-LOCAL::sp0233::xhtml=item/xhtml/p-0231.xhtml::image=item/image/i-0231.jpg::panel=P00`. A=Otomo, B=Imagase. **A→B:** pursues Tamaki without completed exchange, then insists at booked meal that he wants B company, apologizes sharp speech. **B→A:** apologizes visit conduct, fears outing, disclaims lover status and asks whether kindness is romantic or compensation for being loved. **Boundary:** A voluntary-company phrase is not explicit I-love-you; reader gets A still-difficult answer/effort, not shared settled reply. O025–O031, sp0229–0235; CM-INF-030, CM-DEC-040–042, CM-CL-018/005 v5, CM-PA-005 weak first-candidate limit.
+
+### CM-RS-032 — CM-REL-OKAMURA-YANAGIDA, observed company with private role unknown
+
+Prior NONE. Primary route: [CM-U07-O032](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o032); `CM-JP-AIO2020-LOCAL::sp0236::xhtml=item/xhtml/p-0234.xhtml::image=item/image/i-0234.jpg::panel=P00`. A=Okamura Tamaki, B=executive Yanagida. **Observed directions:** A arm-linked with B, both walking together; no spoken commitments, courtship history or private terms supplied. **Knowledge:** Kyoichi sees/infer affair and wine-friend identity, then tells Imagase; none is independent corroboration. This enrollment records consequential observed social company, not certified romantic dyad. O031–O034, sp0235–0238; CM-INF-031/CM-DEC-043/CM-CL-004 v6/011 v3/017.
+
+### CM-RS-033 — CM-REL-OTOMO-IMAGASE, dismissal, interrupted departure and unequal role
+
+Prior CM-RS-031. Primary route: [CM-U07-O038](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o038); `CM-JP-AIO2020-LOCAL::sp0242::xhtml=item/xhtml/p-0240.xhtml::image=item/image/i-0240.jpg::panel=P00`. A=Otomo, B=Imagase. **A→B:** transmits affair inference, dismisses B sexual wish toward cruising venue, then calls/apologizes/retracts before B completes exit. **B→A:** starts leaving with bag, says wants remain sole man, can care without return and disappear if nuisance; moth/web account later exposes growing desire/nervous dependence. **Terms:** self-protection/claim not endless real availability; no actual cruise or suicide attempt shown. O034–O041, sp0238–0245; CM-INF-031/032, CM-DEC-043–045, CM-CL-014 v2/018/008 v4.
+
+### CM-RS-034 — CM-REL-OTOMO-IMAGASE, invitation, responsibility question and active farewell
+
+Prior CM-RS-033. Primary route: [CM-U07-O042](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o042); `CM-JP-AIO2020-LOCAL::sp0246::xhtml=item/xhtml/p-0244.xhtml::image=item/image/i-0244.jpg::panel=P00`. A=Otomo, B=Imagase. **A→B:** wants feeling of equal weight, extends hand/invites, internally asks responsibility, later gives fuller farewell kiss. **B→A:** reengages/intimacy, later acknowledges wavering and offers they can manage for a while longer, reacts alone folded at door. **Permission:** tied wrists visible but tying negotiation unshown; invitation is not all-act consent. No actual role reversal from A hypothesis, no complete public/status contract or tears inferred from hidden face. O042–O049, sp0246–0253; CM-INF-033, CM-DEC-046–048, CM-CL-018/005 v5/008 v4; CM-PA-005 qualified transfer, not new clean case.
+
+### CM-RS-035 — CM-REL-OTOMO-OKAMURA, reserved greeting and continued attraction
+
+Prior CM-RS-028. Primary route: [CM-U07-O050](../01%20Sequential%20Readings/CORNERED_MOUSE_U07_DEEP_READING.md#cm-u07-o050); `CM-JP-AIO2020-LOCAL::sp0254::xhtml=item/xhtml/p-0252.xhtml::image=item/image/i-0252.jpg::panel=P00`. A=Otomo, B=Okamura Tamaki. **A→B:** image-driven cooling and self-critique, later reserved greeting/passes. **B→A:** warm greeting, privately/coworker says far more attractive. **Boundary:** her attraction continues despite A's cooling; Imagase does not see it. Executive relation, actual romantic future and complete response to house visit stay unknown. O031–O034,O049–O050, sp0235–0238,0253–0254; CM-INF-031/033, CM-DEC-043/048, CM-CL-011 v3/017.
+
+## U08 relationship event
+
+### CM-RS-036 — CM-REL-OTOMO-IMAGASE, imagined household and actual recognition
+
+Revision1/prior CM-RS-034, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U08; A=Otomo, B=Imagase. Primary route: [CM-U08-O004](../01%20Sequential%20Readings/CORNERED_MOUSE_U08_DEEP_READING.md#cm-u08-o004); `CM-JP-AIO2020-LOCAL::sp0259::xhtml=item/xhtml/p-0257.xhtml::image=item/image/i-0257.jpg::panel=P00`. **A→B actual:** works, reports eye fatigue and thanks B for refrigerator cleaning; this credit does not show knowledge of B fantasy or a negotiated wife/child/sexual schedule. **B→A:** privately imagines ordinary household care/being cherished with continued monitoring, catches conflicting imagined-child prospects; actually mentions bought yogurt and blushes at praise. **Boundary:** thought, reported purchase/attributed cleaning and observed thanks differ. No marriage/new child/permission for surveillance, medical efficacy or lasting fulfilled equality. O001–O004, sp0256–0259; CM-INF-034/CM-DEC-049/050, CM-CL-019/006 v8/007 v5/010 v2. Other dyads/actual Chikako history unchanged; no new imagined-family dyad enrollment. Both directions preserve limited knowledge.
+
+## U09 relationship events
+
+All revision1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-U09. Role-limited Otomo–Yanagida is the sole new dyad; kinship corrects an earlier uncertainty without rewriting it. Earlier consent, obligations and testimony limits remain.
+
+### CM-RS-037 — CM-REL-OTOMO-IMAGASE, comfortable routine and unshared classification
+
+Prior CM-RS-036; A=Otomo, B=Imagase. Primary route: [CM-U09-O003](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o003); `CM-JP-AIO2020-LOCAL::sp0263::xhtml=item/xhtml/p-0261.xhtml::image=item/image/i-0261.jpg::panel=P00`. **A→B:** thanks for polished shoes, kisses, privately recognizes nearly spousal gay household and assurance of being loved, still questions own love/selfish keeping. **B→A:** tries love question after ordinary departure checklist, accepts gratitude/blush/kiss without spoken answer. **Terms:** actual care/comfort, no new shared status/exclusivity contract or guarantee. O001–O004, sp0261–0264; CM-INF-035, CM-DEC-051, CM-CL-005 v6/020. High for thought/utterance, private assurance not mutual knowledge.
+
+### CM-RS-038 — CM-REL-OTOMO-YANAGIDA, hierarchy and matchmaking
+
+Prior NONE; A=Otomo, B=executive Yanagida. Primary route: [CM-U09-O008](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o008); `CM-JP-AIO2020-LOCAL::sp0268::xhtml=item/xhtml/p-0266.xhtml::image=item/image/i-0266.jpg::panel=P00`. **A→B:** polite praise conceals mistress assumption, receives daughter correction and protests divorced unsuitability; no final acceptance. **B→A:** shares confidential family account, values daughter, asks dating and directs answer to her, disavowing divorce objection. **Pressure/options:** seniority/context makes awkwardness plausible; no job threat, promotion condition or compelled assent shown. Tamaki later disclaims consultation. O005–O009, sp0265–0269; CM-INF-036, CM-DEC-052/053, CM-CL-017 v2/021. New consequential social dyad, not full personal portrait. Death293 ends observed future access, cause only reported298.
+
+### CM-RS-039 — CM-REL-OKAMURA-YANAGIDA, daughter and excluded mourning
+
+Prior CM-RS-032; A=Okamura Tamaki, B=Yanagida. Primary route: [CM-U09-O036](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o036); `CM-JP-AIO2020-LOCAL::sp0296::xhtml=item/xhtml/p-0294.xhtml::image=item/image/i-0294.jpg::panel=P00`. **B→A before death:** calls her daughter, praises mother/daughter and promotes match without consulting her (her report); not a lover relationship. **A→B:** corroborates Papa, apologizes unsolicited action, later recalls intermittent care and love, exclusion from recognized family seats makes father feel belonging to others. **Terms:** kinship established266–269; common-law/other-household/hiring history reported, grief and seating account focalized through daughter. No complete mother/sons perspective or universal family judgment. O006–O009,O033–O037, sp0266–0269,0293–0297; CM-INF-036/039, CM-DEC-052/053, CM-CL-011 v4/021. U07 uncertainty remains historical, not earlier proven affair.
+
+### CM-RS-040 — CM-REL-IMAGASE-OKAMURA, direct apology and indirect deterrence
+
+Prior CM-RS-029; A=Imagase, B=Okamura Tamaki. Primary route: [CM-U09-O012](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o012); `CM-JP-AIO2020-LOCAL::sp0272::xhtml=item/xhtml/p-0270.xhtml::image=item/image/i-0270.jpg::panel=P00`. **A→B:** directly apologizes earlier rudeness, presents profession, then describes singular unnamed love with pointed smiles and compatibility talk, a deterrent Kyoichi recognizes. **B→A:** accepts apology/apologizes visit, responds to story as overwhelming serious love; no proof identifies Kyoichi target. **Repair/limits:** new direct exchange genuinely differs from U07 apology only to Kyoichi; does not erase earlier conduct or certify complete trust. O011–O015, sp0271–0275; CM-INF-037, CM-DEC-054, CM-CL-004 v7/011 v4/017 v2. No new shared romantic status/outcome.
+
+### CM-RS-041 — CM-REL-OTOMO-OKAMURA, corrected image and grief consolation
+
+Prior CM-RS-035; A=Otomo, B=Okamura Tamaki. Primary route: [CM-U09-O037](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o037); `CM-JP-AIO2020-LOCAL::sp0297::xhtml=item/xhtml/p-0295.xhtml::image=item/image/i-0295.jpg::panel=P00`. **A→B:** now knows daughter role, abandons mistress image, permits group drinks/mutual smiles, later reassures mourning from direct lunch account and supports embrace. **B→A:** disclaims father's unrequested pitch, retains interest, shares excluded grief, embraces/thanks by message. **Terms:** no actual earlier affair from funeral embrace or drink match; context grief matters. A's household/Imagase attachment still not clearly disclosed to B. O009–O016,O034–O038, sp0269–0276,0294–0298; CM-INF-036/037/039, CM-DEC-053/055/058, CM-CL-011 v4/021. Physical comfort consequential, full courtship terms unshown.
+
+### CM-RS-042 — CM-REL-OTOMO-IMAGASE, requested role change and responsibility
+
+Prior CM-RS-037; A=Otomo, B=Imagase. Primary route: [CM-U09-O031](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o031); `CM-JP-AIO2020-LOCAL::sp0291::xhtml=item/xhtml/p-0289.xhtml::image=item/image/i-0289.jpg::panel=P00`. **B→A:** interrupts explanation before daughter, complains of divided attention, requests receptive role, reports earlier pain/selectivity, admits hoping to teach reciprocal love. **A→B:** hesitates, participates in actual reversal, embraces/invites/kisses and privately feels responsibility/freedom because loved, then privately asks whether B feels loved. **Consent/trust:** particular request, later protests/continuation request and visible restrained wrists are separately recorded; tying negotiation unshown. Changed desire and role do not repair old coercion or settle all acts/global equality. O017–O032, sp0277–0292; CM-INF-036/038, CM-DEC-055–057, CM-CL-008 v5/018 v2/020. No performed role change invented atU07; this one actual.
+
+### CM-RS-043 — CM-REL-OTOMO-IMAGASE, birthday key and chosen breakup
+
+Prior CM-RS-042; A=Otomo, B=Imagase. Primary route: [CM-U09-O045](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o045); `CM-JP-AIO2020-LOCAL::sp0305::xhtml=item/xhtml/p-0303.xhtml::image=item/image/i-0303.jpg::panel=P00`. **B→A:** unauthorized phone/inbox access after several guesses, unlocks with own birthday, treats lock/message/embrace as future displacement, hears daughter correction only302, asks ending and says wants secure attachment. **A→B:** denies hiding/romance, explains funeral, offers deleting message, begins unfinished declaration, then accepts end while questioning own presumption. **Terms/consequence:** birthday code/particular importance is not search permission; deletion offer not complete repair. B tears after agreement, so stated cooling not certified total indifference. O038–O048, sp0298–0308; CM-INF-040/041, CM-DEC-059–062, CM-CL-005 v6/008 v5/010 v3/014 v3/020. No affair observed before this rupture; breakup consent and private regret remain distinct.
+
+### CM-RS-044 — CM-REL-OTOMO-IMAGASE, farewell praise and actual departure
+
+Prior CM-RS-043; A=Otomo, B=Imagase. Primary route: [CM-U09-O066](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o066); `CM-JP-AIO2020-LOCAL::sp0326::xhtml=item/xhtml/p-0324.xhtml::image=item/image/i-0324.jpg::panel=P00`. **B→A:** proposes sea/sunrise finality, denies dating in retrospective framing, explains early conquest strategy, says any excuse would serve, praises particular kindness/company, requests self-trust and return driver, weeps at apology/thanks. **A→B:** wishes better cherishing partner, listens, apologizes/thanks; after silent return B packs/leaves with brief goodbye. **Aftermath:** A privately values happiness, grieves and acknowledges former lover/precious man, while B not shown learning it. **Terms:** actual ending/departure, future contact unknown; no new mutual promise, self-harm attempt or all-history repair. O049–O077, sp0309–0337; CM-INF-041–043, CM-DEC-062–064, CM-CL-005 v6/014 v3/015 v3/020. Retained own room/suggested cohabitation is newly reported, inferred root avoidance not independently complete plan.
+
+### CM-RS-045 — CM-REL-OTOMO-OKAMURA, candid opportunity and new intimacy
+
+Prior CM-RS-041; A=Otomo, B=Okamura Tamaki. Primary route: [CM-U09-O075](../01%20Sequential%20Readings/CORNERED_MOUSE_U09_DEEP_READING.md#cm-u09-o075); `CM-JP-AIO2020-LOCAL::sp0335::xhtml=item/xhtml/p-0333.xhtml::image=item/image/i-0333.jpg::panel=P00`. **A→B:** cries, discloses longtime-partner breakup/own withheld avowal without male identity, calls self unworthy, is embraced and later shares bed; acknowledges former lover/past affection but does not correct assumed woman. **B→A:** sees grief, admits happy at vacant place/opportunistic wish, rejects nice-girl image, initiates embrace and asks about ashtray/prior lover as woman. **Terms/ethics:** actual new intimate involvement after departure, not proof of prior affair or stable new contract; new partner's knowledge incomplete. Imagase not shown informed. O069–O078, sp0329–0338; CM-INF-043, CM-DEC-064/065, CM-CL-011 v4/017 v2/020/021. Her desire and consolation coexist, neither reduced to pure innocence or calculated total deception.
+
 ## Current projection
 
 | Dyad | Latest event | Directional endpoint / unresolved terms |
 |---|---|---|
-| CM-REL-OTOMO-IMAGASE | CM-RS-016 | General ending resisted; active kiss/manual intimacy and knowingly renewed gift; consent/memory/future terms unresolved |
+| CM-REL-OTOMO-IMAGASE | CM-RS-044 | Accepted breakup, farewell/actual departure; Kyoichi later recognizes former lover privately, Imagase later knowledge/contact unknown |
 | CM-REL-OTOMO-CHIKAKO | CM-RS-005 | B requests exit; A narrates divorce; no six-month B state or repaired marriage |
 | CM-REL-IMAGASE-COMPANION-U01 | CM-RS-006 | A reports breakup; B's account absent; violence and unknown agreements retained |
 | CM-REL-OTOMO-NISHIMURA | CM-RS-012 | Affair treated as ended by men; her aftermath/account unshown |
 | CM-REL-OTOMO-STUDENT-WOMAN-U02 | CM-RS-013 | Past kiss/contact only; identity and formal terms unverified |
-| CM-REL-OTOMO-NATSUKI | CM-RS-017 | Past dating/critique and renewed contact, no newly agreed exclusive status |
+| CM-REL-OTOMO-NATSUKI | CM-RS-023 | Renewed company/holiday planning; final call and relationship resolution unshown |
 | CM-REL-IMAGASE-TAKASUGI | CM-RS-018 | Reported former relation/rejected reunion; joint departure is not proof of resumed romance |
+| CM-REL-IMAGASE-NATSUKI | CM-RS-021 | Independent competing wishes, refused plea and shared choice challenge; no rights over Otomo established |
+| CM-REL-OTOMO-FATHER | CM-RS-027 | Remembered advice and child pity/lesson; no independent current family state |
+| CM-REL-OTOMO-OKAMURA | CM-RS-045 | Consolation then candid opportunity/new intimacy after departure; former male partner identity unshared, full new terms unknown |
+| CM-REL-IMAGASE-OKAMURA | CM-RS-040 | Direct apology accepted at drinks, singular unnamed love/deterrence; target recognition unproved |
+| CM-REL-OKAMURA-YANAGIDA | CM-RS-039 | Daughter corroborated, reported care/other household and excluded mourning after death; U07 uncertainty retained historically |
+| CM-REL-OTOMO-YANAGIDA | CM-RS-038 | Senior executive daughter disclosure/matchmaking, no stated job sanction or dating assent; death later |
+
+At U07 exit all other dyads retain their previous scopes; no Natsuki settlement or former-partner aftermath is inferred from new domestic routine. CM-RS-032 is observed social company only. Reader/private/character knowledge remains directional.
+
+At U09 exit the four newly active earlier dyads and new Otomo–Yanagida role are updated above; eight other dyads retain their earlier scopes. Tamaki is a daughter, not a proved executive lover. Actual separation does not settle Natsuki or any former partner aftermath, and new Tamaki intimacy does not certify her knowledge of Imagase.
