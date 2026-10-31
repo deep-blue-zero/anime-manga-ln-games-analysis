@@ -1,0 +1,1934 @@
+{
+  "schema": "t7s-analysis/claim-evidence-storage-manifest/v1",
+  "artifact_id": "T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST",
+  "artifact_type": "logical_claim_evidence_ledger_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "1.0",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "logical_artifact_id": "T7S_CLAIM_AND_EVIDENCE_LEDGER",
+  "current_owner_path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
+  "complete": true,
+  "disjoint_payload_intervals": true,
+  "source_boundary": "c20260909-r484; closed B0230; metadata/storage only; no new semantic source or maturity",
+  "last_source_high_water": "T7S_B0230",
+  "owner": {
+    "path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
+    "physical_bytes": 67283,
+    "physical_sha256": "be653b9e35f2c88ee5e24bf6097f26e96f878d74c267d11a6dcbe5fc32b47811",
+    "logical_prefix_bytes": 7650,
+    "logical_prefix_sha256": "cd5a7a79318e014ee4cbf966b39ce6fba7c0ac532b4bec9cf374c3fc3452de69",
+    "route_marker": "<!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->"
+  },
+  "parts": [
+    {
+      "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_001",
+      "physical_bytes": 392235,
+      "physical_sha256": "80b38e45cf1fde98871793c21e882dc0bd67affcfbf6563272235dbc5631a420",
+      "payload_offset_bytes": 907,
+      "payload_bytes": 391288,
+      "payload_sha256": "e48e067d3aefe6c40591d4cf44d8339845b9904c47f9aa070140b25901730a26",
+      "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
+      "logical_offset_bytes": 0,
+      "original_payload_interval": [
+        7409,
+        398697
+      ]
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_002",
+      "physical_bytes": 389610,
+      "physical_sha256": "2ab8d2ce598a6b8736edb3d01b84fecccb6d8307f3eb6d2ecef19160791580bc",
+      "payload_offset_bytes": 907,
+      "payload_bytes": 388663,
+      "payload_sha256": "0fa51f8c1df368c1e1dbaf18109a32ab5685b64f881e61699e70276955cbc60f",
+      "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
+      "logical_offset_bytes": 391288,
+      "original_payload_interval": [
+        398697,
+        787360
+      ]
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_003",
+      "physical_bytes": 249337,
+      "physical_sha256": "8a6eaeac0dcf19be120d2c67431a5135f181db901ee231ade232b00c7ea7fb51",
+      "payload_offset_bytes": 907,
+      "payload_bytes": 248390,
+      "payload_sha256": "f410aa5871cd298b7f8d43adce87e1b7f02b72607ae6a0e8ce1a1f72c753cece",
+      "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
+      "logical_offset_bytes": 779951,
+      "original_payload_interval": [
+        787360,
+        1035750
+      ]
+    }
+  ],
+  "parts_count": 3,
+  "logical_bytes": 1035991,
+  "logical_sha256": "4213013b99f2c3162bc1392798af857053118bc331e7649325d8a7d974398eb1",
+  "heading_routes": [
+    {
+      "original_anchor": "current-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "current-claims",
+      "heading": "Current claims"
+    },
+    {
+      "original_anchor": "t7s_b0002-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0002-claims",
+      "heading": "T7S_B0002 claims"
+    },
+    {
+      "original_anchor": "t7s_b0003-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0003-claims",
+      "heading": "T7S_B0003 claims"
+    },
+    {
+      "original_anchor": "t7s_b0004-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0004-claims",
+      "heading": "T7S_B0004 claims"
+    },
+    {
+      "original_anchor": "t7s_b0006-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0006-claims",
+      "heading": "T7S_B0006 claims"
+    },
+    {
+      "original_anchor": "t7s_b0007-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0007-claims",
+      "heading": "T7S_B0007 claims"
+    },
+    {
+      "original_anchor": "t7s_b0008-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0008-claims",
+      "heading": "T7S_B0008 claims"
+    },
+    {
+      "original_anchor": "t7s_b0009-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0009-claims",
+      "heading": "T7S_B0009 claims"
+    },
+    {
+      "original_anchor": "t7s_b0010-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0010-claims",
+      "heading": "T7S_B0010 claims"
+    },
+    {
+      "original_anchor": "t7s_b0011-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0011-claims",
+      "heading": "T7S_B0011 claims"
+    },
+    {
+      "original_anchor": "t7s_b0012-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0012-claims",
+      "heading": "T7S_B0012 claims"
+    },
+    {
+      "original_anchor": "t7s_b0013-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0013-claims",
+      "heading": "T7S_B0013 claims"
+    },
+    {
+      "original_anchor": "t7s_b0014-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0014-claims",
+      "heading": "T7S_B0014 claims"
+    },
+    {
+      "original_anchor": "t7s_b0015-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0015-claims",
+      "heading": "T7S_B0015 claims"
+    },
+    {
+      "original_anchor": "t7s_b0016-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0016-claims",
+      "heading": "T7S_B0016 claims"
+    },
+    {
+      "original_anchor": "t7s_b0017-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0017-claims",
+      "heading": "T7S_B0017 claims"
+    },
+    {
+      "original_anchor": "t7s_b0018-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0018-claims",
+      "heading": "T7S_B0018 claims"
+    },
+    {
+      "original_anchor": "t7s_b0019-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0019-claims",
+      "heading": "T7S_B0019 claims"
+    },
+    {
+      "original_anchor": "t7s_b0020-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0020-claims",
+      "heading": "T7S_B0020 claims"
+    },
+    {
+      "original_anchor": "t7s_b0021-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0021-claims",
+      "heading": "T7S_B0021 claims"
+    },
+    {
+      "original_anchor": "t7s_b0022-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0022-claims",
+      "heading": "T7S_B0022 claims"
+    },
+    {
+      "original_anchor": "t7s_b0023-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0023-claims",
+      "heading": "T7S_B0023 claims"
+    },
+    {
+      "original_anchor": "t7s_b0024-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0024-claims",
+      "heading": "T7S_B0024 claims"
+    },
+    {
+      "original_anchor": "t7s_b0025-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0025-claims",
+      "heading": "T7S_B0025 claims"
+    },
+    {
+      "original_anchor": "t7s_b0026-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0026-claims",
+      "heading": "T7S_B0026 claims"
+    },
+    {
+      "original_anchor": "t7s_b0027-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0027-claims",
+      "heading": "T7S_B0027 claims"
+    },
+    {
+      "original_anchor": "t7s_b0028-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0028-claims",
+      "heading": "T7S_B0028 claims"
+    },
+    {
+      "original_anchor": "t7s_b0029-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0029-claims",
+      "heading": "T7S_B0029 claims"
+    },
+    {
+      "original_anchor": "t7s_b0030-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0030-claims",
+      "heading": "T7S_B0030 claims"
+    },
+    {
+      "original_anchor": "t7s_b0031-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0031-claims",
+      "heading": "T7S_B0031 claims"
+    },
+    {
+      "original_anchor": "t7s_b0032-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0032-claims",
+      "heading": "T7S_B0032 claims"
+    },
+    {
+      "original_anchor": "t7s_b0033-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0033-claims",
+      "heading": "T7S_B0033 claims"
+    },
+    {
+      "original_anchor": "t7s_b0034-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0034-claims",
+      "heading": "T7S_B0034 claims"
+    },
+    {
+      "original_anchor": "t7s_b0035-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0035-claims",
+      "heading": "T7S_B0035 claims"
+    },
+    {
+      "original_anchor": "t7s_b0036-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0036-claims",
+      "heading": "T7S_B0036 claims"
+    },
+    {
+      "original_anchor": "t7s_b0037-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0037-claims",
+      "heading": "T7S_B0037 claims"
+    },
+    {
+      "original_anchor": "t7s_b0038-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0038-claims",
+      "heading": "T7S_B0038 claims"
+    },
+    {
+      "original_anchor": "t7s_b0039-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0039-claims",
+      "heading": "T7S_B0039 claims"
+    },
+    {
+      "original_anchor": "t7s_b0040-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0040-claims",
+      "heading": "T7S_B0040 claims"
+    },
+    {
+      "original_anchor": "t7s_b0041-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0041-claims",
+      "heading": "T7S_B0041 claims"
+    },
+    {
+      "original_anchor": "t7s_b0042-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0042-claims",
+      "heading": "T7S_B0042 claims"
+    },
+    {
+      "original_anchor": "t7s_b0043-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0043-claims",
+      "heading": "T7S_B0043 claims"
+    },
+    {
+      "original_anchor": "t7s_b0044-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0044-claims",
+      "heading": "T7S_B0044 claims"
+    },
+    {
+      "original_anchor": "t7s_b0045-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0045-claims",
+      "heading": "T7S_B0045 claims"
+    },
+    {
+      "original_anchor": "t7s_b0046-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0046-claims",
+      "heading": "T7S_B0046 claims"
+    },
+    {
+      "original_anchor": "t7s_b0047-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0047-claims",
+      "heading": "T7S_B0047 claims"
+    },
+    {
+      "original_anchor": "t7s_b0048-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0048-claims",
+      "heading": "T7S_B0048 claims"
+    },
+    {
+      "original_anchor": "t7s_b0049-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0049-claims",
+      "heading": "T7S_B0049 claims"
+    },
+    {
+      "original_anchor": "t7s_b0050-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0050-claims",
+      "heading": "T7S_B0050 claims"
+    },
+    {
+      "original_anchor": "t7s_b0051-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0051-claims",
+      "heading": "T7S_B0051 claims"
+    },
+    {
+      "original_anchor": "t7s_b0052-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0052-claims",
+      "heading": "T7S_B0052 claims"
+    },
+    {
+      "original_anchor": "t7s_b0053-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0053-claims",
+      "heading": "T7S_B0053 claims"
+    },
+    {
+      "original_anchor": "t7s_b0054-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0054-claims",
+      "heading": "T7S_B0054 claims"
+    },
+    {
+      "original_anchor": "t7s_b0055-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0055-claims",
+      "heading": "T7S_B0055 claims"
+    },
+    {
+      "original_anchor": "t7s_b0056-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0056-claims",
+      "heading": "T7S_B0056 claims"
+    },
+    {
+      "original_anchor": "t7s_b0057-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0057-claims",
+      "heading": "T7S_B0057 claims"
+    },
+    {
+      "original_anchor": "t7s_b0058-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0058-claims",
+      "heading": "T7S_B0058 claims"
+    },
+    {
+      "original_anchor": "t7s_b0059-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0059-claims",
+      "heading": "T7S_B0059 claims"
+    },
+    {
+      "original_anchor": "t7s_b0060-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0060-claims",
+      "heading": "T7S_B0060 claims"
+    },
+    {
+      "original_anchor": "t7s_b0064-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0064-claims",
+      "heading": "T7S_B0064 claims"
+    },
+    {
+      "original_anchor": "t7s_b0065-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0065-claims",
+      "heading": "T7S_B0065 claims"
+    },
+    {
+      "original_anchor": "t7s_b0066-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0066-claims",
+      "heading": "T7S_B0066 claims"
+    },
+    {
+      "original_anchor": "t7s_b0067-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0067-claims",
+      "heading": "T7S_B0067 claims"
+    },
+    {
+      "original_anchor": "t7s_b0068-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0068-claims",
+      "heading": "T7S_B0068 claims"
+    },
+    {
+      "original_anchor": "t7s_b0069-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0069-claims",
+      "heading": "T7S_B0069 claims"
+    },
+    {
+      "original_anchor": "t7s_b0070-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0070-claims",
+      "heading": "T7S_B0070 claims"
+    },
+    {
+      "original_anchor": "t7s_b0071-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0071-claims",
+      "heading": "T7S_B0071 claims"
+    },
+    {
+      "original_anchor": "t7s_b0072-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0072-claims",
+      "heading": "T7S_B0072 claims"
+    },
+    {
+      "original_anchor": "t7s_b0073-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0073-claims",
+      "heading": "T7S_B0073 claims"
+    },
+    {
+      "original_anchor": "t7s_b0074-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0074-claims",
+      "heading": "T7S_B0074 claims"
+    },
+    {
+      "original_anchor": "t7s_b0075-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0075-claims",
+      "heading": "T7S_B0075 claims"
+    },
+    {
+      "original_anchor": "t7s_b0076-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0076-claims",
+      "heading": "T7S_B0076 claims"
+    },
+    {
+      "original_anchor": "t7s_b0077-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0077-claims",
+      "heading": "T7S_B0077 claims"
+    },
+    {
+      "original_anchor": "t7s_b0078-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0078-claims",
+      "heading": "T7S_B0078 claims"
+    },
+    {
+      "original_anchor": "t7s_b0079-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0079-claims",
+      "heading": "T7S_B0079 claims"
+    },
+    {
+      "original_anchor": "t7s_b0080t7s_b0099-first-i-n-g-portfolio-claims",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0080t7s_b0099-first-i-n-g-portfolio-claims",
+      "heading": "T7S_B0080–T7S_B0099 first i-n-g portfolio claims"
+    },
+    {
+      "original_anchor": "frozen-predictions",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "frozen-predictions",
+      "heading": "Frozen predictions"
+    },
+    {
+      "original_anchor": "t7s_b0008-frozen-prediction",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0008-frozen-prediction",
+      "heading": "T7S_B0008 frozen prediction"
+    },
+    {
+      "original_anchor": "t7s_b0010-frozen-prediction",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0010-frozen-prediction",
+      "heading": "T7S_B0010 frozen prediction"
+    },
+    {
+      "original_anchor": "av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-reviews",
+      "heading": "AV reviews"
+    },
+    {
+      "original_anchor": "t7s_b0008-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0008-av-reviews",
+      "heading": "T7S_B0008 AV reviews"
+    },
+    {
+      "original_anchor": "t7s_b0009-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0009-av-reviews",
+      "heading": "T7S_B0009 AV reviews"
+    },
+    {
+      "original_anchor": "t7s_b0010-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0010-av-reviews",
+      "heading": "T7S_B0010 AV reviews"
+    },
+    {
+      "original_anchor": "t7s_b0011-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "t7s_b0011-av-reviews",
+      "heading": "T7S_B0011 AV reviews"
+    },
+    {
+      "original_anchor": "episode4u-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode4u-av-reviews",
+      "heading": "EPISODE.4U AV reviews"
+    },
+    {
+      "original_anchor": "episode-20-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode-20-av-reviews",
+      "heading": "EPISODE 2.0 AV reviews"
+    },
+    {
+      "original_anchor": "karakuri-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "karakuri-av-reviews",
+      "heading": "KARAKURI AV reviews"
+    },
+    {
+      "original_anchor": "episode-30-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode-30-av-reviews",
+      "heading": "EPISODE 3.0 AV reviews"
+    },
+    {
+      "original_anchor": "episode-50-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode-50-av-reviews",
+      "heading": "EPISODE 5.0 AV reviews"
+    },
+    {
+      "original_anchor": "episode-60-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode-60-av-reviews",
+      "heading": "EPISODE 6.0 AV reviews"
+    },
+    {
+      "original_anchor": "episode-nanasuta-av-reviews",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "episode-nanasuta-av-reviews",
+      "heading": "EPISODE NANASUTA AV reviews"
+    },
+    {
+      "original_anchor": "av-0046--first-twenty-i-n-g-targeted-cases",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0046--first-twenty-i-n-g-targeted-cases",
+      "heading": "`AV-0046` — first twenty i-n-g targeted cases"
+    },
+    {
+      "original_anchor": "revision-and-transaction-history",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "revision-and-transaction-history",
+      "heading": "Revision and transaction history"
+    },
+    {
+      "original_anchor": "b0100-claims-and-presentation-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0100-claims-and-presentation-review",
+      "heading": "B0100 claims and presentation review"
+    },
+    {
+      "original_anchor": "av-0047--saori-variants-and-ambulance-identification",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0047--saori-variants-and-ambulance-identification",
+      "heading": "AV-0047 — Saori variants and ambulance identification"
+    },
+    {
+      "original_anchor": "b0101-claims-and-presentation-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0101-claims-and-presentation-review",
+      "heading": "B0101 claims and presentation review"
+    },
+    {
+      "original_anchor": "av-0048--play-roles-versus-static-character-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0048--play-roles-versus-static-character-presentation",
+      "heading": "AV-0048 — play roles versus static character presentation"
+    },
+    {
+      "original_anchor": "b0102-claims-and-presentation-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0102-claims-and-presentation-review",
+      "heading": "B0102 claims and presentation review"
+    },
+    {
+      "original_anchor": "av-0049--family-work-site-and-static-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0049--family-work-site-and-static-presentations",
+      "heading": "AV-0049 — family work site and static presentations"
+    },
+    {
+      "original_anchor": "b0103-claims-and-presentation-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0103-claims-and-presentation-review",
+      "heading": "B0103 claims and presentation review"
+    },
+    {
+      "original_anchor": "av-0050--static-cues-and-the-unresolved-dream-onset",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0050--static-cues-and-the-unresolved-dream-onset",
+      "heading": "AV-0050 — static cues and the unresolved dream onset"
+    },
+    {
+      "original_anchor": "b0104-claims-access-and-static-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0104-claims-access-and-static-review",
+      "heading": "B0104 claims, access and static review"
+    },
+    {
+      "original_anchor": "av-0051--static-notebook-scene-cues-and-glasses-discrepancy",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0051--static-notebook-scene-cues-and-glasses-discrepancy",
+      "heading": "AV-0051 — static notebook-scene cues and glasses discrepancy"
+    },
+    {
+      "original_anchor": "b0105-claims-and-exact-static-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0105-claims-and-exact-static-review",
+      "heading": "B0105 claims and exact static review"
+    },
+    {
+      "original_anchor": "av-0052--still-pastries-and-unstaged-duration",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0052--still-pastries-and-unstaged-duration",
+      "heading": "AV-0052 — still pastries and unstaged duration"
+    },
+    {
+      "original_anchor": "b0106-claims-visibility-and-static-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0106-claims-visibility-and-static-review",
+      "heading": "B0106 claims, visibility and static review"
+    },
+    {
+      "original_anchor": "av-0053--office-street-park-and-elided-performance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0053--office-street-park-and-elided-performance",
+      "heading": "AV-0053 — office, street, park and elided performance"
+    },
+    {
+      "original_anchor": "b0107-consent-self-authorship-and-static-review",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0107-consent-self-authorship-and-static-review",
+      "heading": "B0107 consent, self-authorship and static review"
+    },
+    {
+      "original_anchor": "av-0054--television-ellipsis-and-night-training-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0054--television-ellipsis-and-night-training-presentation",
+      "heading": "AV-0054 — television ellipsis and night-training presentation"
+    },
+    {
+      "original_anchor": "b0108-solo-choice-adult-responsibility-and-unfinished-show",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0108-solo-choice-adult-responsibility-and-unfinished-show",
+      "heading": "B0108 solo choice, adult responsibility and unfinished show"
+    },
+    {
+      "original_anchor": "av-0055--rehearsal-strain-holocom-support-and-stage-opening",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0055--rehearsal-strain-holocom-support-and-stage-opening",
+      "heading": "AV-0055 — rehearsal strain, HoloCom support and stage opening"
+    },
+    {
+      "original_anchor": "b0109-fever-ordinary-care-and-non-scarce-kinship",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0109-fever-ordinary-care-and-non-scarce-kinship",
+      "heading": "B0109 fever, ordinary care and non-scarce kinship"
+    },
+    {
+      "original_anchor": "av-0056--fevered-hime-household-meal-and-scene-cuts",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0056--fevered-hime-household-meal-and-scene-cuts",
+      "heading": "AV-0056 — fevered Hime, household meal and scene cuts"
+    },
+    {
+      "original_anchor": "b0110-momoka-production-image-work-and-consent",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0110-momoka-production-image-work-and-consent",
+      "heading": "B0110 Momoka production image, work and consent"
+    },
+    {
+      "original_anchor": "av-0057--static-interview-rehearsal-and-broadcast-framing",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0057--static-interview-rehearsal-and-broadcast-framing",
+      "heading": "AV-0057 — static interview, rehearsal and broadcast framing"
+    },
+    {
+      "original_anchor": "b0111-sumire-authenticity-alternatives-and-present-choice",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0111-sumire-authenticity-alternatives-and-present-choice",
+      "heading": "B0111 Sumire authenticity, alternatives and present choice"
+    },
+    {
+      "original_anchor": "av-0058--sumire-expression-stage-cut-and-unauditioned-stream",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0058--sumire-expression-stage-cut-and-unauditioned-stream",
+      "heading": "AV-0058 — Sumire expression, stage cut and unauditioned stream"
+    },
+    {
+      "original_anchor": "b0112-sui-food-logic-publicity-and-labor-capacity",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0112-sui-food-logic-publicity-and-labor-capacity",
+      "heading": "B0112 Sui food logic, publicity and labor capacity"
+    },
+    {
+      "original_anchor": "av-0059--food-dialogue-reported-swim-win-and-shop-rush",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0059--food-dialogue-reported-swim-win-and-shop-rush",
+      "heading": "AV-0059 — food dialogue, reported swim win and shop rush"
+    },
+    {
+      "original_anchor": "b0113-shizuka-fish-shop-learning-and-unequal-exchange",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0113-shizuka-fish-shop-learning-and-unequal-exchange",
+      "heading": "B0113 Shizuka fish-shop learning and unequal exchange"
+    },
+    {
+      "original_anchor": "av-0060--fish-shop-rush-helicopter-and-unperformed-public-address",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0060--fish-shop-rush-helicopter-and-unperformed-public-address",
+      "heading": "AV-0060 — fish-shop rush, helicopter and unperformed public address"
+    },
+    {
+      "original_anchor": "b0114-suss-school-support-rest-and-unconsulted-reward",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0114-suss-school-support-rest-and-unconsulted-reward",
+      "heading": "B0114 Suss school support, rest and unconsulted reward"
+    },
+    {
+      "original_anchor": "av-0061--holocom-warning-study-camp-and-comic-reward-reveal",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0061--holocom-warning-study-camp-and-comic-reward-reveal",
+      "heading": "AV-0061 — HoloCom warning, study camp and comic reward reveal"
+    },
+    {
+      "original_anchor": "b0115-sawara-talent-refusal-and-role-fit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0115-sawara-talent-refusal-and-role-fit",
+      "heading": "B0115 Sawara talent, refusal and role fit"
+    },
+    {
+      "original_anchor": "av-0062--runway-costume-reported-calls-and-sealed-room-framing",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0062--runway-costume-reported-calls-and-sealed-room-framing",
+      "heading": "AV-0062 — runway costume, reported calls and sealed-room framing"
+    },
+    {
+      "original_anchor": "b0116-kajika-staged-agency-and-frame-correction",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0116-kajika-staged-agency-and-frame-correction",
+      "heading": "B0116 Kajika staged agency and frame correction"
+    },
+    {
+      "original_anchor": "av-0063--space-costume-and-robot-role-inside-a-museum-fiction",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0063--space-costume-and-robot-role-inside-a-museum-fiction",
+      "heading": "AV-0063 — space costume and robot role inside a museum fiction"
+    },
+    {
+      "original_anchor": "b0117-shinju-childlike-performance-and-intellectual-continuity",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0117-shinju-childlike-performance-and-intellectual-continuity",
+      "heading": "B0117 Shinju childlike performance and intellectual continuity"
+    },
+    {
+      "original_anchor": "av-0064--rehearsal-child-show-scene-and-shinjus-ordinary-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0064--rehearsal-child-show-scene-and-shinjus-ordinary-presentation",
+      "heading": "AV-0064 — rehearsal, child-show scene and Shinju's ordinary presentation"
+    },
+    {
+      "original_anchor": "b0118-tomoe-protective-song-and-renewed-performance-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0118-tomoe-protective-song-and-renewed-performance-limit",
+      "heading": "B0118 Tomoe protective song and renewed performance limit"
+    },
+    {
+      "original_anchor": "av-0065--tomoe-from-rehearsal-to-shared-stage-and-encore",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0065--tomoe-from-rehearsal-to-shared-stage-and-encore",
+      "heading": "AV-0065 — Tomoe from rehearsal to shared stage and encore"
+    },
+    {
+      "original_anchor": "b0119-middle-school-formation-aspiration-chain-and-safety-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0119-middle-school-formation-aspiration-chain-and-safety-limit",
+      "heading": "B0119 middle-school formation, aspiration chain and safety limit"
+    },
+    {
+      "original_anchor": "av-0066--four-person-rehearsal-and-unreviewed-streamed-live",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0066--four-person-rehearsal-and-unreviewed-streamed-live",
+      "heading": "AV-0066 — four-person rehearsal and unreviewed streamed live"
+    },
+    {
+      "original_anchor": "b0120-service-style-fidelity-and-bounded-outcome",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0120-service-style-fidelity-and-bounded-outcome",
+      "heading": "B0120 service style, fidelity and bounded outcome"
+    },
+    {
+      "original_anchor": "av-0067--ayumus-registercostume-and-unreviewed-café-event",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0067--ayumus-registercostume-and-unreviewed-café-event",
+      "heading": "AV-0067 — Ayumu's register/costume and unreviewed café event"
+    },
+    {
+      "original_anchor": "b0121-fear-choice-and-production-evidence-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0121-fear-choice-and-production-evidence-limit",
+      "heading": "B0121 fear, choice and production evidence limit"
+    },
+    {
+      "original_anchor": "av-0068--kyokos-fear-states-and-unreviewed-tv-production",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0068--kyokos-fear-states-and-unreviewed-tv-production",
+      "heading": "AV-0068 — Kyoko's fear states and unreviewed TV production"
+    },
+    {
+      "original_anchor": "b0122-selected-practice-intrusive-gaze-and-bounded-outcome",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0122-selected-practice-intrusive-gaze-and-bounded-outcome",
+      "heading": "B0122 selected practice, intrusive gaze and bounded outcome"
+    },
+    {
+      "original_anchor": "av-0069--honokas-role-expressions-and-unreviewed-drama",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0069--honokas-role-expressions-and-unreviewed-drama",
+      "heading": "AV-0069 — Honoka's role expressions and unreviewed drama"
+    },
+    {
+      "original_anchor": "b0123-capacity-privacy-and-response-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0123-capacity-privacy-and-response-boundary",
+      "heading": "B0123 capacity, privacy and response boundary"
+    },
+    {
+      "original_anchor": "av-0070--renas-letter-object-and-unauditioned-workmeeting",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0070--renas-letter-object-and-unauditioned-workmeeting",
+      "heading": "AV-0070 — Rena's letter object and unauditioned work/meeting"
+    },
+    {
+      "original_anchor": "b0124-reliance-backup-competence-and-safety-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "b0124-reliance-backup-competence-and-safety-boundary",
+      "heading": "B0124 reliance, backup competence and safety boundary"
+    },
+    {
+      "original_anchor": "av-0071--mimis-substitute-work-and-unreviewed-threat-response",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_001.md",
+      "component_anchor": "av-0071--mimis-substitute-work-and-unreviewed-threat-response",
+      "heading": "AV-0071 — Mimi's substitute work and unreviewed threat response"
+    },
+    {
+      "original_anchor": "b0125-creative-pause-ordinary-life-framing-and-injury-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0125-creative-pause-ordinary-life-framing-and-injury-limit",
+      "heading": "B0125 creative pause, ordinary-life framing and injury limit"
+    },
+    {
+      "original_anchor": "av-0072--ferb-withwithout-bass-and-unauditioned-ad-melody",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0072--ferb-withwithout-bass-and-unauditioned-ad-melody",
+      "heading": "AV-0072 — Ferb with/without bass and unauditioned ad melody"
+    },
+    {
+      "original_anchor": "b0126-false-premise-mixed-clues-and-coercive-procedure",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0126-false-premise-mixed-clues-and-coercive-procedure",
+      "heading": "B0126 false premise, mixed clues and coercive procedure"
+    },
+    {
+      "original_anchor": "av-0073--broken-tofu-detective-costume-and-unreviewed-health-state",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0073--broken-tofu-detective-costume-and-unreviewed-health-state",
+      "heading": "AV-0073 — broken tofu, detective costume and unreviewed health state"
+    },
+    {
+      "original_anchor": "b0127-friendship-disclosure-and-rehearsal-choice-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0127-friendship-disclosure-and-rehearsal-choice-limits",
+      "heading": "B0127 friendship disclosure and rehearsal choice limits"
+    },
+    {
+      "original_anchor": "av-0074--mius-holocom-contact-and-unreviewed-friend-conversation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0074--mius-holocom-contact-and-unreviewed-friend-conversation",
+      "heading": "AV-0074 — Miu's Holocom contact and unreviewed friend conversation"
+    },
+    {
+      "original_anchor": "b0128-school-observation-visibility-and-consent-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0128-school-observation-visibility-and-consent-limits",
+      "heading": "B0128 school observation, visibility and consent limits"
+    },
+    {
+      "original_anchor": "av-0075--monakas-school-disguise-and-school-life-visibility",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0075--monakas-school-disguise-and-school-life-visibility",
+      "heading": "AV-0075 — Monaka's school disguise and school-life visibility"
+    },
+    {
+      "original_anchor": "b0129-performed-care-and-recording-consent-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0129-performed-care-and-recording-consent-limits",
+      "heading": "B0129 performed care and recording-consent limits"
+    },
+    {
+      "original_anchor": "av-0076--eis-staged-transformation-and-unseen-recording",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0076--eis-staged-transformation-and-unseen-recording",
+      "heading": "AV-0076 — Ei's staged transformation and unseen recording"
+    },
+    {
+      "original_anchor": "b0130-family-role-comedy-heat-preparation-and-child-stage-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0130-family-role-comedy-heat-preparation-and-child-stage-limits",
+      "heading": "B0130 family-role comedy, heat preparation and child-stage limits"
+    },
+    {
+      "original_anchor": "av-0077--mall-trip-sprites-and-unreviewed-live-show",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0077--mall-trip-sprites-and-unreviewed-live-show",
+      "heading": "AV-0077 — mall trip sprites and unreviewed live show"
+    },
+    {
+      "original_anchor": "b0131-memory-care-and-consent-after-two-accidents",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0131-memory-care-and-consent-after-two-accidents",
+      "heading": "B0131 memory, care and consent after two accidents"
+    },
+    {
+      "original_anchor": "av-0078--yumenos-manner-variants-and-elided-accident-action",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0078--yumenos-manner-variants-and-elided-accident-action",
+      "heading": "AV-0078 — Yumeno's manner variants and elided accident action"
+    },
+    {
+      "original_anchor": "b0132-fan-visibility-guide-duty-and-media-opportunity-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0132-fan-visibility-guide-duty-and-media-opportunity-limits",
+      "heading": "B0132 fan visibility, guide duty and media opportunity limits"
+    },
+    {
+      "original_anchor": "av-0079--festival-attendee-costumes-and-unreviewed-crowdmusic",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0079--festival-attendee-costumes-and-unreviewed-crowdmusic",
+      "heading": "AV-0079 — festival-attendee costumes and unreviewed crowd/music"
+    },
+    {
+      "original_anchor": "b0133-adult-image-aspiration-child-role-work-and-listening-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0133-adult-image-aspiration-child-role-work-and-listening-limits",
+      "heading": "B0133 adult-image aspiration, child-role work and listening limits"
+    },
+    {
+      "original_anchor": "av-0080--adult-model-aspiration-and-selected-speaker-sprites",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0080--adult-model-aspiration-and-selected-speaker-sprites",
+      "heading": "AV-0080 — adult-model aspiration and selected speaker sprites"
+    },
+    {
+      "original_anchor": "b0134-distributed-craft-chosen-weakness-and-mixed-reception",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0134-distributed-craft-chosen-weakness-and-mixed-reception",
+      "heading": "B0134 distributed craft, chosen weakness and mixed reception"
+    },
+    {
+      "original_anchor": "av-0081--first-live-and-paired-comedy-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0081--first-live-and-paired-comedy-presentation",
+      "heading": "AV-0081 — first-live and paired comedy presentation"
+    },
+    {
+      "original_anchor": "b0135-pedagogy-mismatch-reciprocal-care-and-pre-event-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0135-pedagogy-mismatch-reciprocal-care-and-pre-event-boundary",
+      "heading": "B0135 pedagogy mismatch, reciprocal care and pre-event boundary"
+    },
+    {
+      "original_anchor": "av-0082--rehearsal-sprites-and-pre-event-yukata",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0082--rehearsal-sprites-and-pre-event-yukata",
+      "heading": "AV-0082 — rehearsal sprites and pre-event yukata"
+    },
+    {
+      "original_anchor": "b0136-true-gaze-false-frame-and-unremedied-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0136-true-gaze-false-frame-and-unremedied-boundary",
+      "heading": "B0136 true gaze, false frame and unremedied boundary"
+    },
+    {
+      "original_anchor": "av-0083--agent-role-play-and-watcher-reveal-sprites",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0083--agent-role-play-and-watcher-reveal-sprites",
+      "heading": "AV-0083 — agent role-play and watcher-reveal sprites"
+    },
+    {
+      "original_anchor": "b0137-support-without-cost-relational-craft-and-qualified-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0137-support-without-cost-relational-craft-and-qualified-return",
+      "heading": "B0137 support without cost, relational craft and qualified return"
+    },
+    {
+      "original_anchor": "av-0084--designer-and-friend-sprites-across-departurereturn",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0084--designer-and-friend-sprites-across-departurereturn",
+      "heading": "AV-0084 — designer and friend sprites across departure/return"
+    },
+    {
+      "original_anchor": "b0138-smile-obligation-injury-and-patient-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0138-smile-obligation-injury-and-patient-care",
+      "heading": "B0138 smile obligation, injury and patient care"
+    },
+    {
+      "original_anchor": "av-0085--saori-sawara-and-a-non-individuated-girl-sprite",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0085--saori-sawara-and-a-non-individuated-girl-sprite",
+      "heading": "AV-0085 — Saori, Sawara and a non-individuated girl sprite"
+    },
+    {
+      "original_anchor": "b0139-child-led-craft-covert-care-and-requested-comfort",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0139-child-led-craft-covert-care-and-requested-comfort",
+      "heading": "B0139 child-led craft, covert care and requested comfort"
+    },
+    {
+      "original_anchor": "av-0086--child-quartet-and-older-observer-static-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0086--child-quartet-and-older-observer-static-states",
+      "heading": "AV-0086 — child quartet and older-observer static states"
+    },
+    {
+      "original_anchor": "b0140-collaborative-voice-fan-attachment-and-bounded-cover-reception",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0140-collaborative-voice-fan-attachment-and-bounded-cover-reception",
+      "heading": "B0140 collaborative voice, fan attachment and bounded cover reception"
+    },
+    {
+      "original_anchor": "av-0087--festival-collaborators-and-omitted-cover-performance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0087--festival-collaborators-and-omitted-cover-performance",
+      "heading": "AV-0087 — festival collaborators and omitted cover performance"
+    },
+    {
+      "original_anchor": "b0141-makotos-new-audience-pleasure-and-overextended-assurance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0141-makotos-new-audience-pleasure-and-overextended-assurance",
+      "heading": "B0141 Makoto's new audience pleasure and overextended assurance"
+    },
+    {
+      "original_anchor": "av-0088--expressive-variants-and-character-bento-object",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0088--expressive-variants-and-character-bento-object",
+      "heading": "AV-0088 — expressive variants and character-bento object"
+    },
+    {
+      "original_anchor": "b0142-debt-refusal-labor-boundary-and-reciprocal-world-opening",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0142-debt-refusal-labor-boundary-and-reciprocal-world-opening",
+      "heading": "B0142 debt refusal, labor boundary and reciprocal world-opening"
+    },
+    {
+      "original_anchor": "av-0089--bar-facade-role-silhouettes-and-kazumimurasaki-stills",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0089--bar-facade-role-silhouettes-and-kazumimurasaki-stills",
+      "heading": "AV-0089 — bar facade, role silhouettes and Kazumi/Murasaki stills"
+    },
+    {
+      "original_anchor": "b0143-chosen-role-mixed-training-and-consentrole-control-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0143-chosen-role-mixed-training-and-consentrole-control-limits",
+      "heading": "B0143 chosen role, mixed training and consent/role-control limits"
+    },
+    {
+      "original_anchor": "av-0090--xiao-role-expression-stills-and-filmphysical-action-gap",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0090--xiao-role-expression-stills-and-filmphysical-action-gap",
+      "heading": "AV-0090 — Xiao role-expression stills and film/physical-action gap"
+    },
+    {
+      "original_anchor": "b0144-dreamwake-bounded-availability-and-stage-readiness",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0144-dreamwake-bounded-availability-and-stage-readiness",
+      "heading": "B0144 dream/wake, bounded availability and stage-readiness"
+    },
+    {
+      "original_anchor": "av-0091--costume-echo-and-everyday-object-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0091--costume-echo-and-everyday-object-states",
+      "heading": "AV-0091 — costume echo and everyday-object states"
+    },
+    {
+      "original_anchor": "b0145-self-authorship-fan-address-and-the-unclosed-council-decision",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0145-self-authorship-fan-address-and-the-unclosed-council-decision",
+      "heading": "B0145 self-authorship, fan address and the unclosed council decision"
+    },
+    {
+      "original_anchor": "av-0092--musubis-rolestage-sprite-states-and-unreviewed-performance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0092--musubis-rolestage-sprite-states-and-unreviewed-performance",
+      "heading": "AV-0092 — Musubi's role/stage sprite states and unreviewed performance"
+    },
+    {
+      "original_anchor": "b0146-noncopying-inspiration-child-choice-and-ronas-next-horizon",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0146-noncopying-inspiration-child-choice-and-ronas-next-horizon",
+      "heading": "B0146 noncopying inspiration, child choice and Rona's next horizon"
+    },
+    {
+      "original_anchor": "av-0093--ronas-roles-and-the-trainees-generic-silhouette",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0093--ronas-roles-and-the-trainees-generic-silhouette",
+      "heading": "AV-0093 — Rona's roles and the trainee's generic silhouette"
+    },
+    {
+      "original_anchor": "b0147-role-expansion-false-kinship-and-bounded-protective-action",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0147-role-expansion-false-kinship-and-bounded-protective-action",
+      "heading": "B0147 role expansion, false kinship and bounded protective action"
+    },
+    {
+      "original_anchor": "av-0094--himes-continuous-dress-and-changed-hair-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0094--himes-continuous-dress-and-changed-hair-presentation",
+      "heading": "AV-0094 — Hime's continuous dress and changed hair presentation"
+    },
+    {
+      "original_anchor": "b0148-nonwork-paradox-clinical-risk-and-non-advice-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0148-nonwork-paradox-clinical-risk-and-non-advice-boundary",
+      "heading": "B0148 nonwork paradox, clinical risk and non-advice boundary"
+    },
+    {
+      "original_anchor": "av-0095--holocom-and-generic-clinical-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0095--holocom-and-generic-clinical-presentation",
+      "heading": "AV-0095 — Holocom and generic clinical presentation"
+    },
+    {
+      "original_anchor": "b0149-manager-presence-self-authored-stage-motive-and-omitted-confession",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0149-manager-presence-self-authored-stage-motive-and-omitted-confession",
+      "heading": "B0149 manager presence, self-authored stage motive and omitted confession"
+    },
+    {
+      "original_anchor": "av-0096--sumires-prior-stage-and-solo-day-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0096--sumires-prior-stage-and-solo-day-states",
+      "heading": "AV-0096 — Sumire's prior stage and solo-day states"
+    },
+    {
+      "original_anchor": "b0150-youth-mentorship-date-framing-and-privacy",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0150-youth-mentorship-date-framing-and-privacy",
+      "heading": "B0150 youth mentorship, date framing and privacy"
+    },
+    {
+      "original_anchor": "av-0097--sui-outfit-states-and-generic-masaru-role-icons",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0097--sui-outfit-states-and-generic-masaru-role-icons",
+      "heading": "AV-0097 — Sui outfit states and generic Masaru role icons"
+    },
+    {
+      "original_anchor": "b0151-name-conditional-access-and-reciprocal-group-agency",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0151-name-conditional-access-and-reciprocal-group-agency",
+      "heading": "B0151 name, conditional access and reciprocal group agency"
+    },
+    {
+      "original_anchor": "av-0098--shizukas-staged-return-and-generic-production-icon",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0098--shizukas-staged-return-and-generic-production-icon",
+      "heading": "AV-0098 — Shizuka's staged return and generic production icon"
+    },
+    {
+      "original_anchor": "b0152-audition-belonging-and-bounded-vulnerability",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0152-audition-belonging-and-bounded-vulnerability",
+      "heading": "B0152 audition, belonging and bounded vulnerability"
+    },
+    {
+      "original_anchor": "av-0099--audition-notice-holocom-and-susu-costume-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0099--audition-notice-holocom-and-susu-costume-states",
+      "heading": "AV-0099 — audition notice, holocom and Susu costume states"
+    },
+    {
+      "original_anchor": "b0153-overwork-repair-and-photographic-consent",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0153-overwork-repair-and-photographic-consent",
+      "heading": "B0153 overwork, repair and photographic consent"
+    },
+    {
+      "original_anchor": "av-0100--sawaras-trip-outfits-and-generic-holocom",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0100--sawaras-trip-outfits-and-generic-holocom",
+      "heading": "AV-0100 — Sawara's trip outfits and generic holocom"
+    },
+    {
+      "original_anchor": "b0154-kajikas-fans-ordinary-visibility-and-custody",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0154-kajikas-fans-ordinary-visibility-and-custody",
+      "heading": "B0154 Kajika's fans, ordinary visibility and custody"
+    },
+    {
+      "original_anchor": "av-0101--kajikas-recorded-address-and-unpictured-correspondents",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0101--kajikas-recorded-address-and-unpictured-correspondents",
+      "heading": "AV-0101 — Kajika's recorded address and unpictured correspondents"
+    },
+    {
+      "original_anchor": "b0155-modest-care-and-dream-frame-epistemics",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0155-modest-care-and-dream-frame-epistemics",
+      "heading": "B0155 modest care and dream-frame epistemics"
+    },
+    {
+      "original_anchor": "av-0102--frog-variants-and-the-unverified-stone-gate",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0102--frog-variants-and-the-unverified-stone-gate",
+      "heading": "AV-0102 — frog variants and the unverified stone gate"
+    },
+    {
+      "original_anchor": "b0156-friendship-cover-and-own-song-answer",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0156-friendship-cover-and-own-song-answer",
+      "heading": "B0156 friendship, cover and own-song answer"
+    },
+    {
+      "original_anchor": "av-0103--tomoes-two-presentations-and-generic-friend-icons",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0103--tomoes-two-presentations-and-generic-friend-icons",
+      "heading": "AV-0103 — Tomoe's two presentations and generic friend icons"
+    },
+    {
+      "original_anchor": "b0157-film-role-interpretation-consent-and-chance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0157-film-role-interpretation-consent-and-chance",
+      "heading": "B0157 film-role interpretation, consent and chance"
+    },
+    {
+      "original_anchor": "av-0104--madokas-performerrole-costumes-and-generic-production-roles",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0104--madokas-performerrole-costumes-and-generic-production-roles",
+      "heading": "AV-0104 — Madoka's performer/role costumes and generic production roles"
+    },
+    {
+      "original_anchor": "b0158-comic-contagion-and-care-reversal",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0158-comic-contagion-and-care-reversal",
+      "heading": "B0158 comic contagion and care reversal"
+    },
+    {
+      "original_anchor": "av-0105--ayumus-rest-state-and-ensemble-expressions",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0105--ayumus-rest-state-and-ensemble-expressions",
+      "heading": "AV-0105 — Ayumu's rest state and ensemble expressions"
+    },
+    {
+      "original_anchor": "b0159-legacy-audition-and-support-after-loss",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0159-legacy-audition-and-support-after-loss",
+      "heading": "B0159 legacy, audition and support after loss"
+    },
+    {
+      "original_anchor": "av-0106--three-friends-absent-mother-and-unseen-audition",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0106--three-friends-absent-mother-and-unseen-audition",
+      "heading": "AV-0106 — three friends, absent mother and unseen audition"
+    },
+    {
+      "original_anchor": "b0160-teaching-technique-own-words-and-one-pupils-light",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0160-teaching-technique-own-words-and-one-pupils-light",
+      "heading": "B0160 teaching technique, own words and one pupil's light"
+    },
+    {
+      "original_anchor": "av-0107--honokas-clothing-states-and-generic-classroom-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0107--honokas-clothing-states-and-generic-classroom-presentation",
+      "heading": "AV-0107 — Honoka's clothing states and generic classroom presentation"
+    },
+    {
+      "original_anchor": "b0161-plural-vocations-unfinished-improvement-and-anticipated-regret",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0161-plural-vocations-unfinished-improvement-and-anticipated-regret",
+      "heading": "B0161 plural vocations, unfinished improvement and anticipated regret"
+    },
+    {
+      "original_anchor": "av-0108--renas-school-and-coordinated-costume-states-around-an-elided-live",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0108--renas-school-and-coordinated-costume-states-around-an-elided-live",
+      "heading": "AV-0108 — Rena's school and coordinated costume states around an elided live"
+    },
+    {
+      "original_anchor": "b0162-chosen-fate-effort-and-the-limits-of-protective-interpretation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0162-chosen-fate-effort-and-the-limits-of-protective-interpretation",
+      "heading": "B0162 chosen fate, effort and the limits of protective interpretation"
+    },
+    {
+      "original_anchor": "av-0109--mimis-present-and-recruit-suit-states-within-a-narrated-recollection",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0109--mimis-present-and-recruit-suit-states-within-a-narrated-recollection",
+      "heading": "AV-0109 — Mimi's present and recruit-suit states within a narrated recollection"
+    },
+    {
+      "original_anchor": "b0163-creative-adaptation-differentiated-consent-and-limits-of-reported-success",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0163-creative-adaptation-differentiated-consent-and-limits-of-reported-success",
+      "heading": "B0163 creative adaptation, differentiated consent and limits of reported success"
+    },
+    {
+      "original_anchor": "av-0110--ferbs-practice-body-changes-and-selected-collaborator-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0110--ferbs-practice-body-changes-and-selected-collaborator-states",
+      "heading": "AV-0110 — Ferb's practice-body changes and selected collaborator states"
+    },
+    {
+      "original_anchor": "b0164-personal-encounter-unequal-admiration-and-chosen-belief-in-reception",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0164-personal-encounter-unequal-admiration-and-chosen-belief-in-reception",
+      "heading": "B0164 personal encounter, unequal admiration and chosen belief in reception"
+    },
+    {
+      "original_anchor": "av-0111--chachas-school-body-presented-objects-and-farewell-states",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0111--chachas-school-body-presented-objects-and-farewell-states",
+      "heading": "AV-0111 — Chacha's school body, presented objects and farewell states"
+    },
+    {
+      "original_anchor": "b0165-reasoned-trust-awkward-care-and-the-limits-of-protective-judgment",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0165-reasoned-trust-awkward-care-and-the-limits-of-protective-judgment",
+      "heading": "B0165 reasoned trust, awkward care and the limits of protective judgment"
+    },
+    {
+      "original_anchor": "av-0112--mius-three-static-bodies-preparation-states-and-recalled-photo-object",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0112--mius-three-static-bodies-preparation-states-and-recalled-photo-object",
+      "heading": "AV-0112 — Miu's three static bodies, preparation states and recalled photo object"
+    },
+    {
+      "original_anchor": "b0166-own-purpose-search-inherited-reassurance-and-the-limits-of-knowing-by-watching",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0166-own-purpose-search-inherited-reassurance-and-the-limits-of-knowing-by-watching",
+      "heading": "B0166 own-purpose search, inherited reassurance and the limits of knowing by watching"
+    },
+    {
+      "original_anchor": "av-0113--monakas-five-static-bodies-uneven-peer-pursuit-and-report-framed-reassurance",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0113--monakas-five-static-bodies-uneven-peer-pursuit-and-report-framed-reassurance",
+      "heading": "AV-0113 — Monaka's five static bodies, uneven peer pursuit and report-framed reassurance"
+    },
+    {
+      "original_anchor": "b0167-relational-archives-wanted-mismatch-and-the-limits-of-public-understanding",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0167-relational-archives-wanted-mismatch-and-the-limits-of-public-understanding",
+      "heading": "B0167 relational archives, wanted mismatch and the limits of public understanding"
+    },
+    {
+      "original_anchor": "av-0114--distinct-coordinations-text-only-objections-and-memoryprivacy-frames",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0114--distinct-coordinations-text-only-objections-and-memoryprivacy-frames",
+      "heading": "AV-0114 — distinct coordinations, text-only objections and memory/privacy frames"
+    },
+    {
+      "original_anchor": "b0168-selective-access-interpretive-limits-and-ordinary-teaching-without-omniscience",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0168-selective-access-interpretive-limits-and-ordinary-teaching-without-omniscience",
+      "heading": "B0168 selective access, interpretive limits and ordinary teaching without omniscience"
+    },
+    {
+      "original_anchor": "av-0115--diary-objects-conditional-actor-knowledge-and-representational-exaggeration",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0115--diary-objects-conditional-actor-knowledge-and-representational-exaggeration",
+      "heading": "AV-0115 — diary objects, conditional actor knowledge and representational exaggeration"
+    },
+    {
+      "original_anchor": "b0169-appropriation-bounded-tolerance-and-imagination-without-realized-authorship",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0169-appropriation-bounded-tolerance-and-imagination-without-realized-authorship",
+      "heading": "B0169 appropriation, bounded tolerance and imagination without realized authorship"
+    },
+    {
+      "original_anchor": "av-0116--repeated-roles-uncertain-night-onset-and-the-sleeping-manuscript-coda",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0116--repeated-roles-uncertain-night-onset-and-the-sleeping-manuscript-coda",
+      "heading": "AV-0116 — repeated roles, uncertain night onset and the sleeping manuscript coda"
+    },
+    {
+      "original_anchor": "b0170-role-anxiety-transferred-care-and-discreet-morning-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0170-role-anxiety-transferred-care-and-discreet-morning-recognition",
+      "heading": "B0170 role anxiety, transferred care and discreet morning recognition"
+    },
+    {
+      "original_anchor": "av-0117--stable-portraits-local-care-transitions-and-the-answered-morning-aside",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0117--stable-portraits-local-care-transitions-and-the-answered-morning-aside",
+      "heading": "AV-0117 — stable portraits, local care transitions and the answered morning aside"
+    },
+    {
+      "original_anchor": "b0171-child-authorship-additive-family-and-gratitude-with-refusal",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0171-child-authorship-additive-family-and-gratitude-with-refusal",
+      "heading": "B0171 child authorship, additive family and gratitude with refusal"
+    },
+    {
+      "original_anchor": "av-0118--own-handed-essay-staged-competence-and-the-illustrative-family-montage",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0118--own-handed-essay-staged-competence-and-the-illustrative-family-montage",
+      "heading": "AV-0118 — own-handed essay, staged competence and the illustrative family montage"
+    },
+    {
+      "original_anchor": "b0172-corrected-grievance-chosen-work-and-limited-public-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0172-corrected-grievance-chosen-work-and-limited-public-return",
+      "heading": "B0172 corrected grievance, chosen work and limited public return"
+    },
+    {
+      "original_anchor": "av-0119--generic-adversary-sepia-alliance-and-the-ordinaryformal-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0119--generic-adversary-sepia-alliance-and-the-ordinaryformal-return",
+      "heading": "AV-0119 — generic adversary, sepia alliance and the ordinary/formal return"
+    },
+    {
+      "original_anchor": "b0173-wanted-work-family-film-memory-and-a-bounded-shared-release",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0173-wanted-work-family-film-memory-and-a-bounded-shared-release",
+      "heading": "B0173 wanted work, family film memory and a bounded shared release"
+    },
+    {
+      "original_anchor": "av-0120--wanted-hybrid-role-represented-film-and-music-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0120--wanted-hybrid-role-represented-film-and-music-recognition",
+      "heading": "AV-0120 — wanted hybrid role, represented film and music recognition"
+    },
+    {
+      "original_anchor": "b0174-leadership-shared-virtual-play-and-unfinished-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0174-leadership-shared-virtual-play-and-unfinished-limits",
+      "heading": "B0174 leadership, shared virtual play and unfinished limits"
+    },
+    {
+      "original_anchor": "av-0121--avatar-cooperation-requested-song-and-ordinary-waking",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0121--avatar-cooperation-requested-song-and-ordinary-waking",
+      "heading": "AV-0121 — avatar cooperation, requested song and ordinary waking"
+    },
+    {
+      "original_anchor": "b0175-care-shared-independence-and-room-to-receive",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0175-care-shared-independence-and-room-to-receive",
+      "heading": "B0175 care, shared independence and room to receive"
+    },
+    {
+      "original_anchor": "av-0122--ordinary-care-framed-futures-and-recipient-reversal",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0122--ordinary-care-framed-futures-and-recipient-reversal",
+      "heading": "AV-0122 — ordinary care, framed futures and recipient reversal"
+    },
+    {
+      "original_anchor": "b0176-injury-free-image-protector-burden-and-shared-happiness",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0176-injury-free-image-protector-burden-and-shared-happiness",
+      "heading": "B0176 injury-free image, protector burden and shared happiness"
+    },
+    {
+      "original_anchor": "av-0123--visible-bandaging-recipient-knowledge-and-shared-protection",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0123--visible-bandaging-recipient-knowledge-and-shared-protection",
+      "heading": "AV-0123 — visible bandaging, recipient knowledge and shared protection"
+    },
+    {
+      "original_anchor": "b0177-family-taste-distributed-work-and-another-home",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0177-family-taste-distributed-work-and-another-home",
+      "heading": "B0177 family taste, distributed work and another home"
+    },
+    {
+      "original_anchor": "av-0124--complete-b0177-native-schema-family-meal-reveal-and-static-reactions",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0124--complete-b0177-native-schema-family-meal-reveal-and-static-reactions",
+      "heading": "AV-0124 — Complete B0177 native schema, family-meal reveal and static reactions"
+    },
+    {
+      "original_anchor": "b0178-direction-reciprocity-and-the-limits-of-tailwind",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0178-direction-reciprocity-and-the-limits-of-tailwind",
+      "heading": "B0178 direction, reciprocity and the limits of tailwind"
+    },
+    {
+      "original_anchor": "av-0125--different-musical-directions-through-static-continuity-and-elided-trials",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0125--different-musical-directions-through-static-continuity-and-elided-trials",
+      "heading": "AV-0125 — Different musical directions through static continuity and elided trials"
+    },
+    {
+      "original_anchor": "b0179-chosen-return-and-the-limits-of-an-apparent-fact",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0179-chosen-return-and-the-limits-of-an-apparent-fact",
+      "heading": "B0179 chosen return and the limits of an apparent fact"
+    },
+    {
+      "original_anchor": "av-0126--body-changes-apparent-sleep-and-the-offscreen-accusation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0126--body-changes-apparent-sleep-and-the-offscreen-accusation",
+      "heading": "AV-0126 — Body changes, apparent sleep and the offscreen accusation"
+    },
+    {
+      "original_anchor": "b0180-acting-toward-viewers-and-the-limits-of-shared-creation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0180-acting-toward-viewers-and-the-limits-of-shared-creation",
+      "heading": "B0180 acting toward viewers and the limits of shared creation"
+    },
+    {
+      "original_anchor": "av-0127--the-acted-scientist-viewed-tofu-inset-and-unreceived-films",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "av-0127--the-acted-scientist-viewed-tofu-inset-and-unreceived-films",
+      "heading": "AV-0127 — The acted scientist, viewed tofu inset and unreceived films"
+    },
+    {
+      "original_anchor": "b0181-effort-without-guaranteed-full-reception",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0181-effort-without-guaranteed-full-reception",
+      "heading": "B0181 effort without guaranteed full reception"
+    },
+    {
+      "original_anchor": "b0182-participation-ordinary-company-and-perspectival-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0182-participation-ordinary-company-and-perspectival-limits",
+      "heading": "B0182 participation, ordinary company and perspectival limits"
+    },
+    {
+      "original_anchor": "b0183-becoming-recognition-and-conditional-proximity",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0183-becoming-recognition-and-conditional-proximity",
+      "heading": "B0183 becoming, recognition and conditional proximity"
+    },
+    {
+      "original_anchor": "b0184-received-courage-becomes-chosen-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0184-received-courage-becomes-chosen-care",
+      "heading": "B0184 received courage becomes chosen care"
+    },
+    {
+      "original_anchor": "b0185-ordinary-initiative-with-retained-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0185-ordinary-initiative-with-retained-limits",
+      "heading": "B0185 ordinary initiative with retained limits"
+    },
+    {
+      "original_anchor": "b0186-particular-attention-recipient-authorship-and-retained-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0186-particular-attention-recipient-authorship-and-retained-limits",
+      "heading": "B0186 particular attention, recipient authorship and retained limits"
+    },
+    {
+      "original_anchor": "b0187-situated-guidance-care-and-interpretation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0187-situated-guidance-care-and-interpretation",
+      "heading": "B0187 situated guidance, care and interpretation"
+    },
+    {
+      "original_anchor": "b0188-care-self-presentation-and-bounded-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0188-care-self-presentation-and-bounded-recognition",
+      "heading": "B0188 care, self-presentation and bounded recognition"
+    },
+    {
+      "original_anchor": "b0189-older-sister-address-reciprocity-and-open-outcomes",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0189-older-sister-address-reciprocity-and-open-outcomes",
+      "heading": "B0189 older-sister address, reciprocity and open outcomes"
+    },
+    {
+      "original_anchor": "b0190-musical-work-particular-address-and-distance-reconsidered",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0190-musical-work-particular-address-and-distance-reconsidered",
+      "heading": "B0190 musical work, particular address and distance reconsidered"
+    },
+    {
+      "original_anchor": "b0191-changing-interests-negotiated-effort-and-person-specific-continuation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_002.md",
+      "component_anchor": "b0191-changing-interests-negotiated-effort-and-person-specific-continuation",
+      "heading": "B0191 changing interests, negotiated effort and person-specific continuation"
+    },
+    {
+      "original_anchor": "b0192-selected-address-succession-and-passing-presence",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0192-selected-address-succession-and-passing-presence",
+      "heading": "B0192 selected address, succession and passing presence"
+    },
+    {
+      "original_anchor": "b0193-artistic-attention-and-differently-negotiated-exposure",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0193-artistic-attention-and-differently-negotiated-exposure",
+      "heading": "B0193 artistic attention and differently negotiated exposure"
+    },
+    {
+      "original_anchor": "b0194-intentions-mediated-reception-and-contingent-freedom",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0194-intentions-mediated-reception-and-contingent-freedom",
+      "heading": "B0194 intentions, mediated reception and contingent freedom"
+    },
+    {
+      "original_anchor": "b0195-kurts-own-categories-and-the-asymmetry-of-presentation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0195-kurts-own-categories-and-the-asymmetry-of-presentation",
+      "heading": "B0195 Kurt's own categories and the asymmetry of presentation"
+    },
+    {
+      "original_anchor": "b0196-ruis-offered-access-particular-comparisons-and-retained-refusal",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0196-ruis-offered-access-particular-comparisons-and-retained-refusal",
+      "heading": "B0196 Rui's offered access, particular comparisons and retained refusal"
+    },
+    {
+      "original_anchor": "b0197-memorus-affection-access-and-legible-participation",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0197-memorus-affection-access-and-legible-participation",
+      "heading": "B0197 Memoru's affection, access and legible participation"
+    },
+    {
+      "original_anchor": "b0198-kazumis-words-taste-and-chosen-interpreters",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0198-kazumis-words-taste-and-chosen-interpreters",
+      "heading": "B0198 Kazumi's words, taste and chosen interpreters"
+    },
+    {
+      "original_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "heading": "B0199 Rena's chosen heights and the terms of support"
+    },
+    {
+      "original_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "heading": "B0200 Honoka's ordinary self and the happiness she chooses to carry"
+    },
+    {
+      "original_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "heading": "B0201 Makoto's offered closeness and the pressure of being known"
+    },
+    {
+      "original_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "heading": "B0202 Madoka's chosen bridges and unfinished invitations"
+    },
+    {
+      "original_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "heading": "B0203 Musubi's chosen openings and the limits of disclosure"
+    },
+    {
+      "original_anchor": "b0204-rishuris-own-pattern-and-the-company-that-widens-it",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0204-rishuris-own-pattern-and-the-company-that-widens-it",
+      "heading": "B0204 Rishuri's own pattern and the company that widens it"
+    },
+    {
+      "original_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "heading": "B0205 Yumeno's looking, making and borrowed permission"
+    },
+    {
+      "original_anchor": "b0206-tashas-names-for-closeness-and-an-unfinished-future",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0206-tashas-names-for-closeness-and-an-unfinished-future",
+      "heading": "B0206 Tasha's names for closeness and an unfinished future"
+    },
+    {
+      "original_anchor": "b0207-jedas-effort-and-her-ways-of-seeing",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0207-jedas-effort-and-her-ways-of-seeing",
+      "heading": "B0207 Jeda's effort and her ways of seeing"
+    },
+    {
+      "original_anchor": "b0208-saoris-safety-and-the-reception-of-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0208-saoris-safety-and-the-reception-of-care",
+      "heading": "B0208 Saori's safety and the reception of care"
+    },
+    {
+      "original_anchor": "b0209-sumires-recognition-and-the-pace-of-closeness",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0209-sumires-recognition-and-the-pace-of-closeness",
+      "heading": "B0209 Sumire's recognition and the pace of closeness"
+    },
+    {
+      "original_anchor": "b0210-sawaras-older-sister-role-and-wanted-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0210-sawaras-older-sister-role-and-wanted-company",
+      "heading": "B0210 Sawara's older-sister role and wanted company"
+    },
+    {
+      "original_anchor": "b0211-kajikas-ordinary-self-and-wanted-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0211-kajikas-ordinary-self-and-wanted-recognition",
+      "heading": "B0211 Kajika's ordinary self and wanted recognition"
+    },
+    {
+      "original_anchor": "b0212-shinjus-dependable-company-and-chosen-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0212-shinjus-dependable-company-and-chosen-limits",
+      "heading": "B0212 Shinju's dependable company and chosen limits"
+    },
+    {
+      "original_anchor": "b0213-monakas-wanted-work-and-unevenly-received-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0213-monakas-wanted-work-and-unevenly-received-care",
+      "heading": "B0213 Monaka's wanted work and unevenly received care"
+    },
+    {
+      "original_anchor": "b0214-eis-chosen-company-and-the-ownership-of-affection",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0214-eis-chosen-company-and-the-ownership-of-affection",
+      "heading": "B0214 Ei's chosen company and the ownership of affection"
+    },
+    {
+      "original_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "heading": "B0215 Matsuri's play, wanted recognition and local corrections"
+    },
+    {
+      "original_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "heading": "B0216 Tomoe's wanted company, giving care and uncertain worth"
+    },
+    {
+      "original_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "heading": "B0217 Miu's tangible specialness and imagined shared life"
+    },
+    {
+      "original_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "heading": "B0218 Xiao's courage, company and selective disclosure"
+    },
+    {
+      "original_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "heading": "B0219 Manon's chosen company and imagined roles"
+    },
+    {
+      "original_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "heading": "B0220 ChaCha's boundaries, preferences and chosen company"
+    },
+    {
+      "original_anchor": "b0221-murasakis-own-colour-and-the-feeling-she-addresses",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0221-murasakis-own-colour-and-the-feeling-she-addresses",
+      "heading": "B0221 Murasaki's own colour and the feeling she addresses"
+    },
+    {
+      "original_anchor": "b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching",
+      "heading": "B0222 Miwako's chosen disclosures, study and reciprocal teaching"
+    },
+    {
+      "original_anchor": "b0223-ayumus-service-ideal-practice-and-fallible-explanations",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0223-ayumus-service-ideal-practice-and-fallible-explanations",
+      "heading": "B0223 Ayumu's service ideal, practice and fallible explanations"
+    },
+    {
+      "original_anchor": "b0224-shirayukis-growing-skills-and-wanted-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0224-shirayukis-growing-skills-and-wanted-company",
+      "heading": "B0224 Shirayuki's growing skills and wanted company"
+    },
+    {
+      "original_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "heading": "B0225 Hina's self-presentation and qualified resolve"
+    },
+    {
+      "original_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "heading": "B0226 Emoco's audience, refusals and particular care"
+    },
+    {
+      "original_anchor": "rev-0043--revise-current-instrument-role-precision",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "rev-0043--revise-current-instrument-role-precision",
+      "heading": "`REV-0043` — REVISE current instrument-role precision"
+    },
+    {
+      "original_anchor": "b0227-umes-account-of-herself-interrupted",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0227-umes-account-of-herself-interrupted",
+      "heading": "B0227 Ume's account of herself, interrupted"
+    },
+    {
+      "original_anchor": "b0228-hitoha-and-futaba-extend-the-duet",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0228-hitoha-and-futaba-extend-the-duet",
+      "heading": "B0228 Hitoha and Futaba extend the duet"
+    },
+    {
+      "original_anchor": "b0229-susu-asks-to-be-understood",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0229-susu-asks-to-be-understood",
+      "heading": "B0229 Susu asks to be understood"
+    },
+    {
+      "original_anchor": "b0230-coney-asks-what-the-manager-wants",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0230-coney-asks-what-the-manager-wants",
+      "heading": "B0230 Coney asks what the manager wants"
+    }
+  ],
+  "storage_transition": {
+    "operation": "T7S_CLAIM_LEDGER_STORAGE_V1",
+    "date": "2026-10-31",
+    "before_commit": "547a1e10d8f66597a525ef4a4626299cab7e7f5c",
+    "source_lock_before_version": "12.137",
+    "source_lock_after_version": "12.138",
+    "source_high_water_unchanged": "T7S_B0230",
+    "before_owner_bytes": 1035750,
+    "before_owner_sha256": "f4f0c2b4883d14921aaa5557a21b9d93c95b04a157e29438cc8c4ae81c12e151",
+    "original_prefix_bytes": 7409,
+    "original_prefix_sha256": "4806dbe352662710ca587511fe0b742311823b8ac4817a13c507d97a0bb92d4b",
+    "preserved_payload_bytes": 1028341,
+    "preserved_payload_sha256": "bbe6aabfcbba20a40f0beccbc7cd244ff493edc30230ccf3f846075e7e53cba3",
+    "original_heading_routes": 306,
+    "source_admission": "NONE",
+    "semantic_state_change": "NONE",
+    "next_unopened": "REMAINING2034; no next primary admitted by storage",
+    "source_b0230_full_publication_receipt_sha256": "0e7c538e4413f09d3ab8096f54220c5a693cc5f54217643be38ef5e24926111a"
+  }
+}
