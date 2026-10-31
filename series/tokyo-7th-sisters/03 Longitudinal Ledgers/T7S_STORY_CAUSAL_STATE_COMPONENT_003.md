@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.3"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,9 +12,9 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 Exact delegated byte interval of the complete story ledger. Read through the current owner and manifest; the payload preserves its own historical horizons and relative routes.
@@ -1409,4 +1409,64 @@ Owner [B0227](../02%20Readings/T7S_B0227_DEEP_READING.md), reading SHA256 `b5380
 | `EDGE-1565` | `EV-B0227-004 / EV-B0227-005` | FORMAL_COMPARISON: Reported criticism of sound and appearance prompts proposed counterattack and repair of an image. No objective skill/cosmetic ranking or proved common quarrel. |
 
 Totals:1440EV/25WORLD/47THREAD/1558 active EDGE, maximum1565 with seven intentional older gaps preserved. No new WORLD/THREAD, invented cross-case chronology or older-body rewrite.
+
+## B0228 Hitoha and Futaba extend the duet
+
+Owner [B0228](../02%20Readings/T7S_B0228_DEEP_READING.md), reading SHA256 `854702cbe8d1b733c47f013ff00eaf2e2d7a05e1bb388cdc24d4c1774a843815`; source-lock 12.135, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and all five whole primary ranges P0-5. All32controls/fiveSourceLock/sevencoverage/fourentity/threestory views froze at publisheddf82/B0227/12.134 before primary; all38matching priorrows and bothwholeREADY0016/17/all9fieldseach were actuallyread. Laterexecutionwitness3ae48a38 binds auditedsourceb00/audit41152866971 andCIintegratedmain d737/audit41153762151, fullrepo-treeidentical/sourceancestor, alloriginalT7Sbytes/32beforeimages exact. Originalentry/primaryreceipts remainatdf82, notbackdated. All30literalnativeobjects/25Japanese records/five-title/every-key projection read;8fullcomposites/contact/5originalBG viewed;25voices/BGM/SFX unlistened, runtimeunobserved.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0228-001` | A:401000343 P0-5 | Hitoha welcomes a fan on a first dressing-room invitation; Futaba qualifies usual exclusion by wanting representative feedback; Hitoha names an idol-conscious dance experiment; Futaba attributes Nanasta fandom to the recipient, and both ask about their cute stage. | SELECTIVE_FAN_ADDRESS_AND_ATTRIBUTED_PERFORMANCE_EXPERIMENT; no recipient reply, automatic Player/manager identity, depicted backstage meeting, heard dance or settled recruitment. |
+| `EV-B0228-002` | B:401001126 P0-5 | Hitoha reports cooking with Futaba; Futaba calls it creative training; they describe shared taste through distinct ingredient perceptions and Hitoha offers unison dance in place of an incommunicable flavor. | REPORTED_COOKING_AND_PAIR_SENSORY_SELF_ACCOUNT; no tasted meal, literal sensory-mechanism verification, recipe or outsider consent/access proof. |
+| `EV-B0228-003` | C:401001722 P0-5 | A fan-facing email/conditional stream reference introduces Mitsuba; the Mitsuba-labeled speaker claims three-in-one, falters through written pain/self-question/pronoun shift/home-return, and Hitoha acknowledges an activity limit while affirming recognized sisterhood and seeking support. | MEDIATED_THIRD_ROLE_INTRODUCTION_AND_INTERRUPTION; local person binding OPEN, no biological sister/new stable person/automatic Rona alias/hypnosis/medical cause or successful world-changing act. |
+| `EV-B0228-004` | D:401001818 P0-5 | Hitoha reports visiting Kanoraen for Nanasta's live; Futaba names Musubi/Susu and an impulsive intrusion; Hitoha praises sister-like unison; Futaba reports positive reception and shared KARAKURI songs; Hitoha considers another such approach. | TWINS_REPORTED_CROSS_UNIT_ENCOUNTER_AND_FUTURE_QUESTION; no independent peer turns, general permission, biological sisterhood, contract or completed next intrusion. |
+| `EV-B0228-005` | E:401003245 P0-5 | Hitoha reports yesterday's 4U attendance; Futaba credits growth/learning; Hitoha tries Emoco-like sharp speech on Futaba, stalls, and each says words poisoning the other cannot be found; Futaba generalizes to KARAKURI's inability. | REPORTED_RIVAL_LEARNING_AND_ENACTED_RECIPROCAL_LIMIT; no auditioned band quality, all-target incapacity, universal innocence or erased earlier harm/rivalry. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1566` | `EV-B0228-001 / EV-B0228-002` | FORMAL_COMPARISON: The public act invites feedback while the claimed shared taste cannot be transmitted. No total openness/exclusion model or encounter order. |
+| `EDGE-1567` | `EV-B0228-002 / EV-B0228-003` | FORMAL_COMPARISON: Two-in-one sensory language and three-in-one role language attempt to extend KARAKURI; claimed mechanism, new biological person and causal chronology remain unproved. |
+| `EDGE-1568` | `EV-B0228-001 / EV-B0228-004` | FORMAL_COMPARISON: Idol-conscious dance and praise of Musubi/Susu's sister-like unison make rival practice a possible resource. No certified technical equivalence or conversion/recruitment. |
+| `EDGE-1569` | `EV-B0228-003 / EV-B0228-005` | FORMAL_COMPARISON: A third-role declaration and a borrowed sharp-tongued register meet different particular limits. No common clinical cause, total incapacity or dated sequence. |
+
+Totals:1445EV/25WORLD/47THREAD/1562 active EDGE, maximum1569 with seven intentional older gaps retained. No new WORLD/THREAD or invented cross-case chronology.
+
+## B0229 Susu asks to be understood
+
+Owner [B0229](../02%20Readings/T7S_B0229_DEEP_READING.md), reading SHA256 `bdc19cb9920732970c7456177bbcdacc12d1c0c3fb84ec6f80f47e959f470fc5`; source-lock 12.136, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-I scripts/hashes and nine complete primary ranges: A0-3/B0-5/C0-5/D0-4/E0-5/F0-5/G0-5/H0-4/I0-4. All32 physical controls and complete five-source/seven-coverage/four-entity/three-story views froze at published76be1f20/B0228/12.135 before primary. All154 matching prior-state rows and whole READY0009/all nine capabilities were actually read, with fresh published entity/selected-context/READY bytes identical to the read preview. All49 literal native objects/40 Japanese/name records/nine-title/every-key projection read; one full available composite/contact/three original BGs viewed. Forty voice references/BGM/SFX unlistened; runtime unobserved. All cases are independent conditional occurrences; no menu-derived chronology.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0229-001` | A:401000357 P0-3 | Susu reports shoulder stiffness, invites a massage on a claim of privacy, attributes a blush to Darling and begins offering a reversed turn. | REQUESTED_CONTACT_AND_ATTRIBUTED_REACTION; no diagnosed cause, performed massage, completed reversed act or recipient consent. |
+| `EV-B0229-002` | B:401000420 P0-5 | Susu questions pairing with Musubi, echoes an opposite-because-opposite explanation, values serious disagreement and Musubi seriousness for NI+CORA, then credits Darling with helping her shine. | PARTNER_APPRECIATION_AND_MANAGER_MOTIVE_INTERPRETATION; no independent manager/Musubi turns, certified original design, technical rank or safe workload. |
+| `EV-B0229-003` | C:401000542 P0-5 | Susu names tonight loneliness and longing for papa/mama, requests exceptional kindness until sleep, promises usual energy tomorrow and calls Darling her only such confidant. | EXPLICIT_CURRENT_PARENTAL_LONGING_AND_REQUESTED_CARE; no retrospective explanation of old airport crying, maternal-route resolution, country, care delivered or recovery observed. |
+| `EV-B0229-004` | D:401000654 P0-4 | Susu reports first rakugo viewing, defends understanding and singles out rapid role changes through a performer turning as funny. | REPORTED_ENJOYMENT_AND_PARTICULAR_PERFORMANCE_ACCESS; no heard/viewed act, every verbal joke understood or comprehensive cultural authority. |
+| `EV-B0229-005` | E:401000718 P0-5 | Susu asks about a Yamato-nadeshiko version of herself, reports a book preference claim and checked definition, then recognizes the definition as her existing self. | REPORTED_BOOK_CATEGORY_AND_SELF_INCLUSION; no universal Japanese male preference, recipient answer, new nationality or submissive personality replacement. |
+| `EV-B0229-006` | F:401000902 P0-5 | Susu reports seeing a church wedding, admires the bride, imagines her own future ceremony and protests the recipient deflecting her. | REPORTED_WEDDING_AND_ADDRESSED_FUTURE_WISH; no bride identity, depicted church, joint promise, engagement, adult relationship or cross-case chronology. |
+| `EV-B0229-007` | G:401000982 P0-5 | Susu invokes ballet ability while seeking a hiding place for pointe shoes, fears a rusty-tack yokai and tetanus, and names Momoka as the story source. | ALARMING_SECONDHAND_BELIEF_AND_HELP_REQUEST; no actual yokai, tampering/injury/illness, verified prank intention, completed hiding or supplied resolution. |
+| `EV-B0229-008` | H:401001266 P0-4 | Susu repeats Darling in varied written forms, echoes a repetition complaint, explains the joy of naming a liked person and intends to keep doing it. | ADDRESS_AS_SELF_REPORTED_AFFECTIVE_ACTION; no heard prosody, independent recipient testimony, mutual romance or completed future encounters. |
+| `EV-B0229-009` | I:401001326 P0-4 | Susu recounts intimate-apparel shopping and clerk praise, asks for the recipient view, then playfully claims to read the answer from his gaze. | REPORTED_EXTERNAL_APPRAISAL_AND_PLAYFUL_GAZE_INTERPRETATION; no analyst body judgment, shop/recipient reverse shot, independent assent or unrestricted contact. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1570` | `EV-B0229-001 / EV-B0229-003` | FORMAL_COMPARISON: Bodily invitation and homesick comfort request seek different care; no performed response or dated sequence. |
+| `EDGE-1571` | `EV-B0229-002 / EV-B0229-007` | FORMAL_COMPARISON: Valuing partner seriousness and believing an alarming tale concern different judgments; no global competent/naive binary. |
+| `EDGE-1572` | `EV-B0229-003 / EV-B0229-008` | FORMAL_COMPARISON: Explicit loneliness and pleasure in affectionate address coexist as separate states; no required emotional recovery between cases. |
+| `EDGE-1573` | `EV-B0229-004 / EV-B0229-005` | FORMAL_COMPARISON: Enjoyed role-switching and a learned self-description show specific interpretive access, not total cultural comprehension. |
+| `EDGE-1574` | `EV-B0229-004 / EV-B0229-007` | FORMAL_COMPARISON: Confidence about comedy contrasts with an alarming secondhand belief; neither establishes universal knowledge or incapacity. |
+| `EDGE-1575` | `EV-B0229-005 / EV-B0229-006` | FORMAL_COMPARISON: A borrowed category and a wished-for ceremony seek affirmation differently; no actual change of ethnicity or relationship status. |
+| `EDGE-1576` | `EV-B0229-006 / EV-B0229-009` | FORMAL_COMPARISON: A protested deflection and a playful gaze-reading leave recipient interior bounded; no shared promise or independently proven approval. |
+| `EDGE-1577` | `EV-B0229-008 / EV-B0229-009` | FORMAL_COMPARISON: Address and interpreted looking make closeness meaningful to Susu without supplying the other person assent. |
+
+Totals:1454EV/25WORLD/47THREAD/1570 active EDGE, maximum1577 with seven intentional older gaps retained. No new WORLD/THREAD or invented cross-case chronology.
+
+## B0230 Coney asks what the manager wants
+
+Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f199b0a614c027ccdc16a0f12ebe7f92b7de17c113d5a0c8fd244729c9bc`; source-lock 12.137, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Whole401000374 / intimate_0374.json__6637fc3dfe7ca189 P0-3/log0-3, source95f4944979dcd9d6eb602ecbc2d92e69c6004145c42a85c6a6f90d4f248e6720 and normalizedacf1180e3d5fedd5d9349a3ac1ea3322715b54678679e7734ad473b2c9d63fa8. All32 controls/complete5source/7coverage/4entity/3story views froze at publishedb8c8b194/B0229/12.136 before primary. All447 matching prior rows/whole READY0018 actually read and fresh published bytes matched preview. All4 literal native objects/3 Japanese-name records/title/every-key projection/21 slots read; one full composite/contact/one original BG viewed. Three voice/BGM/SFX cues unlistened; runtime unobserved. This conditional occurrence has no menu-derived Main/2043/EP6 placement.
+
+| ID | Whole primary range | Factual event and retained frame |
+| --- | --- | --- |
+| `EV-B0230-001` | 401000374 P0-3 | Coney initiates a serious talk, asks whether the manager found his own desired purpose as well as the girls', conditionally hopes she has helped, recognizes his effort, thanks him and asks future cooperation. QUESTION_CONDITIONAL_HOPE_AND_RECOGNITION; no supplied answer, goal attainment, measured help, recipient assent or permanent return. |
+
+Totals:1455EV/25WORLD/47THREAD/1570 active EDGE, maximum1577 with seven intentional older gaps. No new edge, invented chronology, WORLD or THREAD.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->
