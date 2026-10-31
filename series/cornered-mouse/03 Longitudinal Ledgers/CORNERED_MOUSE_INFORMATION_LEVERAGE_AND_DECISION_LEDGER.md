@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Information, leverage and decision state
 
-**Information records: 43. Decision records: 65. Source boundary: CM-U09.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
+**Information records: 62. Decision records: 105. Source boundary: CM-S01.** Information mechanics and choice constraints remain separately retrievable from their relational consequences. Follow the [method](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_ANALYTICAL_METHOD.md) and [architecture](../00%20Frameworks%20and%20Methods/CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md).
 
 ## Record schemas
 
