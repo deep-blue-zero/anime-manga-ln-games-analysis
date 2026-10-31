@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.11"
+version: "1.12"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,11 +82,11 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U10; CM-U10-EXIT/CM-MAINLINE-FREEZE-01, bundle339–499,160 narrative images339–498/end498 and edition-title separator499; ten mainline components complete after this atomic commit.
-- Current operation: separately admit/read CM-S01 after the U10/mainline transaction commits; no afterword/Hummingbird image/probe inspected. CM-PA-006 closes PR004 NON_DISCRIMINATING; earlier failures/qualified tests unchanged.
-- Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
-- Hummingbird lane: OPEN for the owner-authorized CM-S01 only after committed/frozen CM-U10 closeout; all other narrative admission NOT_AUTHORIZED.
-- Selected-witness mainline complete;48 source images/full-file and G2–G9 obligations remain. No final corpus/synthesis/model-release claim exists.
+- Verified committed narrative high-water mark: CM-S01; CM-S01-EXIT after CM-MAINLINE-FREEZE-01. Eleven narrative components complete after this atomic commit; the ten earlier mainline exits remain unchanged.
+- Current operation: CM-PARA-COVERAGE after the S01 transaction commits. Full coverage525/539 (505 narrative/20 non-narrative); fourteen uninspected images1–9/500–502/538–539 remain. No afterword/front/back content claimed yet.
+- Continuous authorization remains active through source reconciliation and all required downstream artifacts; narrative completion does not terminate the goal.
+- Hummingbird lane: CLOSED after its complete authorized bundle503–536; all other narrative admission NOT_AUTHORIZED. Reboot-only story remains outside this run.
+- CM-PA-006 stays NON_DISCRIMINATING; all six historical forecasts and model qualifications remain unchanged. G3–G9 reconciliation, warranted independent artifacts, integrated synthesis, separate reconstruction disposition and final audit remain. No final corpus/synthesis/model-release claim exists.
 
 ## Transaction history
 
@@ -183,3 +183,14 @@ CM-CS-032–038/CM-RD-005, CM-RS-046–061, CM-INF-044–055, CM-DEC-066–089, 
 CM-PA-006 closes PR004 **NON_DISCRIMINATING**, complete U07–U10 window no eligible unexpected Imagase-plus-competing-male encounter. Professional colleague is never co-observed by Kyoichi as romantic rival; hospital375 known emergency/alone and snow478 alone candidates logged before later pages, same-page response limits disclosed. Hypothetical men are not encounters, later S01 cannot rescue window. All six genuine forecasts disposed without homogeneous accuracy or operational-release claim; PA004/005 qualifications and PA003 bounded failure preserved.
 
 Named-subject/reference review covers introduction, substantive consent/knowledge/secondary/future arguments, exit and each active dyad. No retroactive consent repair, clinical diagnosis, Tamaki male-identity disclosure, actual self-harm or completed ring purchase/marriage is inferred. Architecture v0.7 mainline-closure review retains four homes/EVOLVING; G1 complete for this supplied revised mainline after commit, G2–G9 remain required. Next validate/commit entire nine-path transaction, then separately admit CM-S01 under continuous authority. After supplemental reading, inspect remaining covers/colors/afterword/back matter; complete edition limits, longitudinal contradictions, all-subject readiness, justified monographs/specialists, continuous synthesis, separate reconstruction disposition and final audit. Goal remains active.
+
+
+2026-10-30 — **U10 publication checkpoint.** Atomic/published head `21413fc42a58fe011b6b96907e857f5adec23ab8` passed author preflight INDEX/10546 at complete tree `79408366dfaf3f9e4549ab8b07ed5357719eb964`. Exact paths, prior frozen bytes, member/reference/history checks and approved outgoing identities passed. [Exact-head audit41157925657 passed](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41157925657), [PR409](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/409) open/non-draft at verification. Live GitHub owns later status. No author merge.
+
+2026-10-30 — **CM-S01 atomic closeout.** After committed21413fc4/mainline freeze and a fresh source hash, all34 original images503–536 were individually received/read at847×1200, usable Japanese/no OCR. Title/frontispiece503 and framed intimate illustration504 are not independently timed story events. Primary story505–534 comprises30 images with explicit end534;535 is a distinct adjacent narrative closing comic,536 publication credits. First534/535 receipt was one two-image batch: no pre-comic blind freeze or newly prospective prediction is claimed. The comic was identified as a separate substructure before536, within the predeclared physical reserve and supplied-file scope. No original-form coda equivalence is inferred. Cumulative525/539 full images comprise505 narrative/20 non-narrative;1–9,500–502 and538–539 remain unread, colophon537 already counted.
+
+The [S01 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md) SHA-256 `bb298d226b4a01d28c6e241dad61697568d38286de91307885506458e3427b0c`, freeze recorded `2026-10-31T02:32:30.289966+00:00`, owns34 observations/member digests and CM-S01-EXIT. Private verified enlargements resolve 上村かみむら (Kamimura, not the initial unverified Uemura reading), 坂野さかの (Sakano), the comic's Natsuki-to-Imagase gendered judgment and2019 credit year. Later source clarifies rice shower and middle school/continued friendship; the delayed negation at524 prevents a false estrangement reading. These private corrections precede canonical authorship. Drink names have no secure individual assignment; exact groom name/gift giver and date/age arithmetic remain unproved. No graphic treatment of youthful attraction, enacted teacher relation or teacher misconduct is inferred.
+
+CM-CS-039–046/CM-RD-006, CM-RS-062–070, CM-INF-056–062, CM-DEC-090–105, CM-CL-023/CM-CR-064–075 give totals46 character events/20 subjects,70 relationship events/23 dyads,62 information/105 decisions,23 claims/75 revisions. Five new school/wedding subjects and six new dyads preserve independent agency and limited knowledge. Ordinary welcome/rice care is enacted; the comic's marriage and gifts are attributed reports, not a performed earlier-call resolution. Every prior state/forecast/formulation remains recoverable; all six outcomes unchanged, no new test/model/accuracy claim. Architecture remains EVOLVING with four canonical ledgers.
+
+Credits536 print *flowers* March2019; directly read author2020-01-03 announcement and indexed official publisher2020 issue record support2020/Jan28. Direct publisher fetch failed, original serial/2019 issue unacquired, no official erratum located. The source map records both and labels the probable credit error an inference. Named-subject/reference check covers opening, substantive school/friendship/knowledge/home arguments, comic, exit and all active dyads. Next validate/commit this complete eight-path transaction, then CM-PARA-COVERAGE for the remaining14 images. Full-file/edition/translation/longitudinal reconciliation, all-subject readiness, warranted monographs/specialists, continuous synthesis, separate model/domain-gap disposition and final audit remain required. Goal remains active.

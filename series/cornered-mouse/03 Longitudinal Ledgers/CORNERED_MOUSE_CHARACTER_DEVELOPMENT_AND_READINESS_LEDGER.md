@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.3"
+version: "1.4"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-U10; narrative339–498/end498, edition separator499; mainline frozen before CM-S01"
+source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-S01; story505–534/end534, distinct closing comic535, illustrations503/504 and publication credits536"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -439,18 +439,64 @@ The complete U07–U10 prospective window closes at mainline ending498. CM-PA-00
 
 Mainline evidence supports independent Kyoichi/Imagase/Tamaki monograph responsibilities and source-limited secondary/social treatment. S01, full-file coverage, contradiction/domain-gap audit and G5–G8 dispositions remain required before final scope or reconstruction release. Earlier Chikako/Nishimura/Natsuki/unnamed companion/student/client/father/Yanagida source scopes remain, with no invented aftermath. All15 subjects will receive an explicit final monograph/model disposition; no count of events substitutes for evidence sufficiency.
 
+## S01 character events and closing-comic limits
+
+All revision1, witness `CM-JP-AIO2020-LOCAL`, disclosure CM-S01. Middle-school event time is confirmed531, followed by continuing friendship and an adult wedding after the U10 warning529. The distinct comic535 has its own imprecise event time; its later physical disclosure does not establish an exact date or retroactively show the original Natsuki call resolution. Five limited new subjects bring total20. The new states do not alter any mainline freeze.
+
+### CM-CS-039 — CM-CH-OTOMO
+
+Prior CM-CS-032; identity unchanged. Primary route: [CM-S01-O032](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o032); `CM-JP-AIO2020-LOCAL::sp0534::xhtml=item/xhtml/p-0532.xhtml::image=item/image/i-0532.jpg::panel=P00`. **Observed present state:** at home eating chips, welcomes returning Imagase, says can eat the bought prepared food and removes rice from his hair, then gives practical rice/rice-shower reply. No new private Kyoichi narration or proof he knows the wedding/friendship conversation. CM-INF-061/CM-DEC-103/CM-RS-069, sp0532–0534. **Reported/indirect extension:** Imagase tells Kamimura about recent conflict/resolve/no-third warning529 and displays a ring/reports birthday gifts in comic535; gift giver/purchases not all directly shown, no exact new calendar age or marriage. **Interpretation/limits:** received ordinary care can matter to Imagase without complete mutual knowledge, perfect reform or retrospective consent repair. Prior thoughts about caring despite possible loss remain historically U10, not automatically spoken here. CM-CL-005 v8/015 v5/018 v4/020 v3/022 v2. High for displayed action, qualified for report/intent; monograph evidence substantial, model currentness not validated by a later small affectionate act.
+
+### CM-CS-040 — CM-CH-IMAGASE
+
+Prior CM-CS-033; identity unchanged. Primary route: [CM-S01-O029](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o029); `CM-JP-AIO2020-LOCAL::sp0531::xhtml=item/xhtml/p-0529.xhtml::image=item/image/i-0529.jpg::panel=P00`. **Newly disclosed history:** middle-school affection for Kamimura and pleasure in her company coexist explicit absence of further romantic/sexual interest518–519 and attraction to male teacher Sakano, not an acted teacher-student relation. He resents boys' objectification while recognizing his own appearance-focused gaze, criticizes then apologizes, hopes someday to share his love normally, and sees her defend herself without publicly naming his desired person. Friendship continues into adulthood, not estrangement. CM-INF-056–059/CM-DEC-090/093/096/098/CM-RS-062–065/068.
+
+**Adult state:** attends her wedding, asks about ordinary happiness, admits a current person yet fears repeated rupture, hears the other may also be trying, returns with prepared food and responds visibly to welcome/rice gesture. Closing comic535 adds visible ring/boast of reported birthday gifts and abrasive banter with Natsuki; exact giver/purchase/chronology limits remain. CM-INF-060–062/CM-DEC-100/102/104/CM-RS-069/070. **Contradictions/alternatives:** capacity for sustained female friendship complicates a portrait solely of intimate jealousy; it does not contradict stated attraction or prove ordinary friendship portable without temporal/context bounds. Self-criticism is not diagnosis/destiny, ring possession not proof of permanent security, gratitude not acquittal of prior coercion. **Evidence:** sp0505–0535; CM-CL-004 v9/005 v8/007 v8/011 v6/018 v4/020 v3/022 v2/023. Literary monograph warranted for final review; historical U06 tests unchanged, adolescent and adult states separately bounded.
+
+### CM-CS-041 — CM-CH-KAMIMURA
+
+Prior NONE. **Identity:** 上村, furigana かみむら verified508, Kamimura; given name unknown. Initial private Uemura was corrected before canonical enrollment and is not a source alias. Primary route: [CM-S01-O021](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o021); `CM-JP-AIO2020-LOCAL::sp0523::xhtml=item/xhtml/p-0521.xhtml::image=item/image/i-0521.jpg::panel=P00`. **Independent agency/history:** proposes uncommon bird/outing, shares tentative Atsushi interest and asks secrecy, makes a shojo-manga joke, rejects public objectification/date assumptions, retracts her crush and remains Imagase friend. Adult actual wedding and report of ordinary home pleasures; encourages Imagase to see reciprocal effort, participates in friendly photo/old-date joke. CM-INF-056–060/CM-DEC-091/092/097/099/101/CM-RS-062/066–068; sp0506–0531.
+
+**Knowledge/limits:** says Imagase likes someone else523, not publicly who/gender; teacher-facing gaze511 can support inference, not a proven full disclosure. Adult partner talk does not explicitly identify Kyoichi to her or show she knows his whole history. Genuine affection/recognition, independent romantic choices and continuing life exceed convenient rival/saint roles; advice is not omniscient verdict. High for choices/speech, bounded for thought/knowledge. CM-CL-011 v6/017 v4/021 v3/023. **Readiness:** substantive secondary/social responsibility across formative and adult scenes; standalone monograph/model scope assessed after G4, no broad model from one short component.
+
+### CM-CS-042 — CM-CH-SAITO-ATSUSHI-S01
+
+Prior NONE. **Identity:** written 斉藤篤 at513, Atsushi confirmed katakana514; surname route Saito, no merge with wedding groom or earlier cast. Primary route: [CM-S01-O019](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o019); `CM-JP-AIO2020-LOCAL::sp0521::xhtml=item/xhtml/p-0519.xhtml::image=item/image/i-0519.jpg::panel=P00`. **Bounded evidence:** spiky-haired pupil, participates in objectifying peer talk506–507/521; Kamimura reports tentative interest514 then withdraws523. Imagase is described as close but hesitates513; neither full private friendship nor mutual romance proven. CM-INF-056–058/CM-DEC-095/CM-RS-063/066, sp0506–0523. No independently verified adult aftermath, personality diagnosis or general male behavior rule. CM-CL-007 v8/011 v6/023. **Readiness:** limited peer/social role, no independent model/psychological monograph justified.
+
+### CM-CS-043 — CM-CH-CLASSMATE-S01
+
+Prior NONE; name unknown. **Identity basis:** light-haired/brown-haired boy in peer/art conversation and public yesterday-outing teaser520–522; visual continuity, not an alias to another named subject. Primary route: [CM-S01-O018](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o018); `CM-JP-AIO2020-LOCAL::sp0520::xhtml=item/xhtml/p-0518.xhtml::image=item/image/i-0518.jpg::panel=P00`. **Agency/knowledge:** says saw Imagase/Kamimura walking, labels outing date and publicly objectifies her/attributes motive; these inferences are contested by both participants. CM-INF-056/058/CM-DEC-094/CM-RS-064. Source does not show his knowledge of Imagase attraction or complete motives; actual later life unknown. High for speech/action, no inner portrait. **Readiness:** role-limited peer pressure/knowledge example, no independent model/monograph.
+
+### CM-CS-044 — CM-CH-SAKANO-S01
+
+Prior NONE. **Identity:** teacher 坂野, furigana さかの verified518, Sakano; given name unknown. Primary route: [CM-S01-O016](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o016); `CM-JP-AIO2020-LOCAL::sp0518::xhtml=item/xhtml/p-0516.xhtml::image=item/image/i-0516.jpg::panel=P00`. **Evidence:** teaches/calls class to order511, is object of Imagase's private adolescent attraction/self-critique518–519. No observed awareness, reciprocation, coercive act or teacher-student romance; private gaze is not teacher conduct. CM-INF-056/057/CM-RS-065; exact subject/age/later life unverified. **Readiness:** minimal institutional/contextual role, no independent psychology/competence model. No identity merge with Kyoichi/groom is authorized by glasses or hairstyle.
+
+### CM-CS-045 — CM-CH-KAMIMURA-GROOM-S01
+
+Prior NONE; given/full surname unresolved from partly cut family sign524. Primary route: [CM-S01-O023](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o023); `CM-JP-AIO2020-LOCAL::sp0525::xhtml=item/xhtml/p-0523.xhtml::image=item/image/i-0523.jpg::panel=P00`. **Evidence:** adult glasses-wearing groom with Kamimura at actual wedding525, friendly social image and her report that he relaxes at home but makes effort today526. No direct full interior/history; do not merge with Atsushi or Sakano without evidence. CM-INF-059/CM-RS-067; sp0524–0527. High for depicted role/wedding, qualified for her household account. **Readiness:** role-limited spouse enabling Kamimura's independent life, no standalone monograph/model.
+
+### CM-CS-046 — CM-CH-NATSUKI
+
+Prior CM-CS-020; identity 夏生 unchanged. Primary route: [CM-S01-O033](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o033); `CM-JP-AIO2020-LOCAL::sp0535::xhtml=item/xhtml/p-0533.xhtml::image=item/image/i-0533.jpg::panel=P00`. **Last disclosed scene:** distinct adjacent closing comic, Imagase congratulates marriage and describes younger husband; marriage report/tone not an actual wedding scene or full independent corroboration. She questions his display of a ring, envies the reported bag and calls his romantic vanity a decline into a trivial woman; gendered judgment is her banter, not analyst identity/ethics verdict. Imagase's earned-money retort is his, not her independent statement. Named drink orders close scene, individual attribution uncertain. CM-INF-062/CM-DEC-105/CM-RS-070, CM-CL-011 v6/015 v5.
+
+**Limits/readiness:** new reported life beyond central choice qualifies the former absence-of-aftermath state, but exact original phone-call/breakup resolution and married life remain unshown. No calendar age, groom identity, broad materialism or complete psychological recovery invented. Her independent earlier critique/history still warrants literary responsibility; final standalone/consolidation decision after G4, operational model insufficient.
+
+### CM-RD-006 — narrative boundary closed, domain review still required
+
+All11 authorized mainline/supplemental bundles now have full inspected boundaries in this atomic transaction, with S01 story and adjacent comic separately classified. Historical U06 model/test/failure/qualification bytes remain unchanged; no S01 response is counted as a fresh holdout. Youthful friendship, attraction/self-criticism and adult confidante/home interaction add distinct evidence contexts, but temporal gaps and thin unfamiliar/ordinary-work samples still require abstention from broad simulation. All20 subjects will receive explicit G5/G8 dispositions after remaining14-image/source and G4 reconciliation. Literary understanding and operational validation remain separate; no global grade or final capability release.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-032 | Costly chosen bond, actual Tamaki breakup, force/permission conflicts, thoughts about care despite possible loss and reciprocal ring plans | Independent monograph warranted after reconciliation; CM-RD-005, no clean current-state validation |
-| CM-CH-IMAGASE | CM-CS-033 | Professional coordination/harm-wish disclosure, requests/refusals, choice retreat/departure and negotiated future tokens | Independent monograph warranted after reconciliation; historical U06 proposal/qualified tests, CM-RD-005 |
+| CM-CH-OTOMO | CM-CS-039 | Ordinary welcome/rice attention; no new private access, precise gift purchases or permanent guarantee | Independent monograph final review after G4; historical models/tests unchanged, CM-RD-006 |
+| CM-CH-IMAGASE | CM-CS-040 | Middle-school/adult friendship, self-critique, current uncertainty and received home care; comic ring/gift report | Independent monograph final review after G4; no S01 holdout credit, CM-RD-006 |
 | CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
 | CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
 | CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |
 | CM-CH-STUDENT-WOMAN-U02 | CM-CS-008 | Past kiss/warning; identity and formal status unverified | Insufficient independent evidence; model unassessed |
 | CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Insufficient independent evidence; model unassessed |
-| CM-CH-NATSUKI | CM-CS-020 | Own renewal/choice challenge, critique and holiday care; final call/aftermath unknown | Independent literary responsibility justified; model unassessed |
+| CM-CH-NATSUKI | CM-CS-046 | Closing-comic marriage/younger-husband report and gift banter; original call resolution still unshown | Independent literary responsibility, final scope after G4; broad model insufficient |
 | CM-CH-TAKASUGI | CM-CS-035 | Additional concern/name-recovery call through Imagase report; no resumed romance or direct present scene | Contextual secondary responsibility, independent model/portrait evidence limited |
 | CM-CH-OKAMURA-TAMAKI | CM-CS-034 | Courtship/family plans, assault, demanded breakup conversation, grief/waiting and Mina support; male former identity unshared | Independent monograph warranted after reconciliation; operational scope insufficient |
 | CM-CH-OTOMO-FATHER | CM-CS-024 | Advice/loneliness in Kyoichi remembered childhood only | Contextual role; independent portrait/model insufficient |
@@ -458,3 +504,8 @@ Mainline evidence supports independent Kyoichi/Imagase/Tamaki monograph responsi
 | CM-CH-NOGAMI-MINA | CM-CS-036 | Independent confrontation/inference and supportive nondisclosure; surname/given name directly linked | Secondary/social study, standalone model/portrait insufficient |
 | CM-CH-OKAZAKI-U10 | CM-CS-037 | Named former hairdresser/aggressor; work/capture report limits, no mutual romance inferred | Role-limited evidence, no independent model/portrait |
 | CM-CH-IMAGASE-COLLEAGUE-U10 | CM-CS-038 | Unnamed professional colleague, distinct from aggressor/old men | Contextual role, no independent model/portrait |
+| CM-CH-KAMIMURA | CM-CS-041 | Independent peer/adult friendship, withdrawn crush, marriage and reciprocal-effort encouragement | Secondary/social responsibility; independent model not justified |
+| CM-CH-SAITO-ATSUSHI-S01 | CM-CS-042 | Named peer/objectification, reported crush then withdrawal; adult outcome unverified | Role-limited, no independent model/portrait |
+| CM-CH-CLASSMATE-S01 | CM-CS-043 | Unnamed public date-label/objectification, contested inference | Role-limited peer pressure, no model/portrait |
+| CM-CH-SAKANO-S01 | CM-CS-044 | Teacher conduct minimal; Imagase attraction private, no acted relation | Context only, no independent model/portrait |
+| CM-CH-KAMIMURA-GROOM-S01 | CM-CS-045 | Actual wedding role and bride household report, identity unmerged | Contextual spouse, no independent model/portrait |
