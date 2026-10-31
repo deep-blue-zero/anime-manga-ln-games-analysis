@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.60"
+version: "1.61"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0026 through whole transactions; original I1 continuous, E0027 next after whole E0026 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0027 through whole transactions; original I1 continuous, E0028 next after whole E0027 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0026_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0027_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0027 source transaction — 2026-10-30
+
+Whole E0027 advances WEB27/431,54/458original I1,59/463pre-LN10 and60/464combined; ten novels/23supplements remain complete. Complete199native/127meaningful/72format nodes and finite LN01story196–304/opening193–195 retain their separate source-first/review clocks. Private naming/paid warrants, chosen eating, explicit stop failure, bounded own mirroring and task preparation do not yield a shared category, waiver, repair or performed hiding/search. Current LN305+/E28/V1remain unadmitted; earlier whole-novel familiarity remains explicit.
+
+Four logical ledgers at1.51 retain both static masters/all5654old changing-file table lines, adding31CHR/14REL, two principal projections/directions,59PROP/59EPI/15PROP successors,12tensions,4OPENclaims/21CLA successors,6existing-RULE successors/1local task/0newstanding rules. Joint268CLA/886versions/1393strict rows,1576PROP/2161versions,193RULE/491pairs/510rows/19legacy repeats. OwnS27/observedM27 retain ownM24/observedS24/LN10.18forecasts/13attempts/noncurrent UNTESTED models/0validated domains persist. All corrections and actual failed/as-of review histories remain recoverable. E28follows wholeE27; full original I1/dependencies stay active, with publication/ownheadCI separate from component acceptance.
 
 ## Current E0026 source transaction — 2026-10-30
 
@@ -2245,3 +2251,17 @@ Whole source unit KAK-JP-E0026 advances WEB to26/431, original I1 to53/458, pre-
 Root/independent source reading, separately acquired finite LN01story100–192/opening97–99 and WEB-only cumulative reconciliation are distinct scopes. Only Sendai-own advances; other principal/adult/historical clocks remain. Native193+/V1/future-release meanings remain unopened. The source-sensitive limits are ungranted own permissibility inference, type-specific unsent notice versus earlier real messages/arrival/admission, later fold-maker statement versus old inferred mechanism/care, uncertain physical identity of requested books, and actual friend departure versus later outing/contact outcome. No model/forecast score is added.
 
 The original frozen I1 and BW/LN10 inventories, source bytes, both static masters and all old changing-file rows remain exact. No additional corpus or completed source unit is inferred from a finite counterpart; the canonical totals are the264claim/1517PROP/192RULE identities recorded in the whole transaction. Both OFF archives stay local. Full I1, Narō, discovery/gap work and all dependent architectural duties remain active; no routine confirmation, unit-sized pause or goal completion follows.
+
+## E0027 — refused intimacy, deliberate noncompliance and task preparation — 2026-10-30
+
+This successor belongs to one complete E27reading/audit/four-ledger/wrapper transaction. Source: work1177354054894027232/episode1177354054896161253, member KAK-JP-E0027_1177354054896161253.html,55095bytes/SHA256`f53399dbcdf0f471cf3c73fd76d6b93397936a555c28d597da9fdd1e851edfde`;body`7f55bbf736ae69d4ea0fb05a8886505a22b4fe609e348ef726cdff139021ae22`. All199native nodes/127meaningful/72LF-br,0ruby/media were read source-first in five ordered blocks before current peer/comparator meanings. Fourteen observations recover all meaningful nodes once. Genuine entering source19633and original/Q1seals remain unchanged after later owner-main inheritance.
+
+The new current boundary is WEB27/431,54/458I1,59/463pre-LN10,60/464combined only through the whole introducing commit. The separate finite LN01story196–304/opening193–195 has109paired/55registered components,12joins and19ruby27rt. Qualified counts distinguish six strict annotation-only cases, one annotated join and two join-only cases. Current305+/E28/V1remain unadmitted; previously completed LN01–10familiarity is not erased.
+
+Actual later contact/paid arrival preserves E26’s earlier unsent cutoff. Secret-based naming entitlement stays private against actual refusal; chosen eating is not acceptance of feeding/contact. A stop is deliberately not obeyed before forced separation. Own thrill/mirroring/depth interpretation retains E12earlier initiative/interest and unknown Miyagi interior. The chosen eraser task and followed turn request remain preparation only; payment/minimization supplies no objective waiver or completed search/touch/repair.
+
+The four logical ledgers at1.51 add31CHR/14REL,59PROP/59EPI/15earlierPROP successors,12tensions,4OPENclaims/21CLA successors,6RULE successors/1newlocal task/0newstanding rules, and2principal projections/directions. Joint268CLA/886versions/1393strict rows,1576PROP/2161versions,193RULE/491pairs/510rows/19legacy repeats. Both static masters/all5654old changing-file table lines remain exact. OwnS27/observedM27 retain ownM24/observedS24/laterLN10clocks. Actual corrections, as-of acceptances, genuine failed citation checks and diagnostic history remain attributed rather than silently rewritten.
+
+E26owner mergePR406/sourceaaaf/main448b has separately verified own source/main audits (486tests/10545paths at each relevant final head). Later ordinary current-main inheritance preserves all18original inputs/whole Shuukura controls and legitimate external curation work; its different current base is not an earlier entering clock or borrowed CI certification. The complete E27audit records actual parent/component/whole identities. FinalINDEX, approvedidentity commit, ordinarypush/fullblob readback, actualPR/housekeeping/ownheadCI and protected-main integration remain distinct later observations, never inferred here.
+
+The continuous run stays active with highwaterE27/nextE28only through this whole commit, confirmationfalse and full original terminal/dependencies retained. Seal E28before source exposure and continue all431/I1dependent duties. Ten novels/23supplements, Narō0/290,51gaps(fourresolved/47unresolved),27discovery duties,18forecasts/13attempts, noncurrentUNTESTED M0.13/S0.14/0validated domains remain. BothOFFarchives staylocal; no source dumps, binaries or private matrices enter Git. No unit pause or comprehensive completion is declared.
