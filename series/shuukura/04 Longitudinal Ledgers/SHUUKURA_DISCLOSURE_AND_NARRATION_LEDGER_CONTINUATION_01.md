@@ -7,7 +7,7 @@ series_id: shuukura
 generation: SHUUKURA_V2
 version: "1.51"
 status: active_provisional
-scope: "Current physical continuation of the same disclosure ledger; historical master through BW04 retained"
+scope: "Historical physical continuation01 through E0027 of the same disclosure ledger; current continuation02 from E0028"
 source_boundary: "I1 through E0027 plus five BW backfills and separately complete LN-JP-V10; original I1 continuous, E0028 follows whole E27; V1/future releases unopened"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md
 created: "2026-10-22"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Disclosure ledger — continuation01
 
-This is the current physical continuation of the [canonical disclosure master](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md), part of the same logical disclosure ledger. The master retains all historical rows through BW04; new source appendices continue here. Global proposition and tension identities are unchanged and occur once across the two parts. The four project ledger responsibilities remain unchanged.
+This physical continuation01 preserves the [canonical disclosure master](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md)'s subsequent rows through E0027. [Current continuation02](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_02.md) continues from E0028 and owns the current logical revision and joint totals. Read the master and both continuations together. Global proposition/tension identities and every earlier row remain unchanged; the four logical ledger responsibilities continue.
 
 Revision1.51 records E0027 through accepted source, finite and cumulative components; whole-transaction and publication checks remain separate. It records199native/127meaningful/72format nodes,14observations,31CHR/14REL,59newPROP/59EPI/15PROP successors,12tensions,4OPENclaims/21CLA successors,6existing-RULE successors/1newsource-local eraser task/0newstanding rules. Joint totals:268claim IDs/886versions/1393strict quoted rows;1576PROP IDs/2161versions;193RULE IDs/491pairs/510physical rows with19legacy repeats. Two projections/directions advance ownS26→27 and observedM25→27; ownM24/observedS24/LN10clocks remain. Only a whole introducing transaction yields WEB27/431,54/458I1,59/463pre-LN10,60/464combined;10novels/23supplements remain complete.18forecasts/13attempts/noncurrent UNTESTED models/0validated domains are unchanged. Source/finite/material acceptance is separate; fullI1/dependent duties continue atE28afterwholeE27, without a unit pause or goal completion.
 

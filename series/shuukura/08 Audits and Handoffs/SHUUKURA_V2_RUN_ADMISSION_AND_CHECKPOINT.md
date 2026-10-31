@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.58"
+version: "1.59"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0027 through whole transactions; original I1 continuous, E0028 next after whole E0027 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0028 through whole transactions; original I1 continuous, E0029 next after whole E0028 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0027_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0028_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+## Current E0028 source transaction — 2026-10-31
+
+The complete E0028 transaction carries actual hiding/search through shared location confirmation and reciprocal command closure, with differentiated refusal/compliance outcomes and a requested but unratified clothes-removal restriction. Source, finite and cumulative component decisions remain distinct from whole/publication checks. The unit has210 native/130 meaningful/80 format-only nodes,13 observations and an accepted finite LN01part0019 native305–425 comparison with111 components and46 registered cases. Original notes/Q1 and every earlier source clock remain unchanged.
+
+Only whole introduction yields WEB28/431, I1 55/458, pre-LN10 60/463 and combined61/464; ten novels/23 supplements stay complete. Four logical ledgers at1.52 retain272 CLA IDs/908 versions/1415 strict rows,1637 PROP IDs/2232 versions and194 RULE IDs/497 pairs/516 rows (19 legacy repeats). Physical disclosure continuation02 adds no new analytical responsibility. All8499 prior table lines in changed existing ledgers and the static claims master's1687 lines are exact. OwnS28/observedM28 retain ownM24/observedS24/LN10 clocks. All18 forecasts/13 attempts, noncurrent UNTESTED models, zero validated domains, Narō0/290,47 unresolved gaps,27 discovery duties and G3–G7 remain. Continue E29 after whole E28 and the required exact-head publication sequence; both OFF archives remain local and no routine pause or goal completion is declared.
 
 ## Current E0027 source transaction — 2026-10-30
 
@@ -1939,3 +1945,22 @@ The four logical ledgers at1.51 add31CHR/14REL,59PROP/59EPI/15earlierPROP succes
 E26owner mergePR406/sourceaaaf/main448b has separately verified own source/main audits (486tests/10545paths at each relevant final head). Later ordinary current-main inheritance preserves all18original inputs/whole Shuukura controls and legitimate external curation work; its different current base is not an earlier entering clock or borrowed CI certification. The complete E27audit records actual parent/component/whole identities. FinalINDEX, approvedidentity commit, ordinarypush/fullblob readback, actualPR/housekeeping/ownheadCI and protected-main integration remain distinct later observations, never inferred here.
 
 The continuous run stays active with highwaterE27/nextE28only through this whole commit, confirmationfalse and full original terminal/dependencies retained. Seal E28before source exposure and continue all431/I1dependent duties. Ten novels/23supplements, Narō0/290,51gaps(fourresolved/47unresolved),27discovery duties,18forecasts/13attempts, noncurrentUNTESTED M0.13/S0.14/0validated domains remain. BothOFFarchives staylocal; no source dumps, binaries or private matrices enter Git. No unit pause or comprehensive completion is declared.
+
+## E0028 — completed local task and contested limits — 2026-10-31
+
+This source unit is complete only through its whole introducing transaction. The narrator is Sendai again; no precise new date, fee or mechanical alternation is imposed. Actual right-blazer hiding, search, known-location confirmation and an explicit two-party command end remain distinct from earlier ending demands. Failed stops, achieved removals, real particular compliance and later unwanted conduct preserve their actors and order. The cause of the refused name and Miyagi's final thoughts remain unknown. Rule-language/request/joke reply does not explicitly adopt the requested clothing restriction. Extraction, departure and comprehensive repair are not narrated.
+
+| Responsibility | Current bounded result |
+| --- | --- |
+| WEB original and encounter | All210 native nodes/130 meaningful/80 exact format-only;13 observations;five ordered original deliveries/substantive firstnotes/whole Q1 before current peer or novel meanings. No body media, ruby, replacement or outside meaningful prose. |
+| Finite novel correspondence | LN01part0019 native305–425,121 nonblank originals/15 ruby/21 readings at12 loci, without separate framing or media.111 components/238 base opcodes;46 registered cases plus65 equal controls.191 raw records/632 raw opcodes/331 origins. No next-member or whole-volume credit. |
+| Character and relationships | 33 character events/14 relational events, two current projections/directions fromE27→E28. OwnM24/observedS24/later LN10 clocks retained;peers remain comparisons without new receipt. |
+| Disclosure and information | 61 new propositions/10 earlier successors/61 information transitions/12 tensions. Joint1637 IDs/2232 versions. Master through BW04, continuation01 throughE27 and current continuation02 fromE28 form one logical ledger. |
+| Claims and rules | Four OPEN claims/18 earlier claim successors/68 primary PRESERVE plus one extra screened claim;272 IDs/908 versions/1415 strict rows. Five existing-rule successors and one unratified proposal;194 IDs/497 pairs/516 rows with19 legacy repeats;zero newly adopted standing rules. |
+| Exact preservation | All8499 older table lines across the five changed existing ledger files and1687 static-master claims lines remain unchanged;complete targeted byte inverses preserve other contents. E27 arrival correction is adopted explicitly without altering genuine E28 entering freezes. |
+| Coverage through whole introduction | WEB28/431;original I1 55/458;pre-LN10 60/463;combined61/464. Ten novels/23 supplements complete;V10 is not re-read. |
+| Remaining program | Next E29;full frozen431/original I1 and all G3–G7, monograph, specialist, reconstruction, V1 comparison, synthesis and release duties remain. Narō0/290,47 unresolved gaps and27 discovery duties remain. |
+| Validation and publication | Component source/material/finite/cumulative and whole semantic/preservation decisions are distinct. Final INDEX, normal push, complete remote readback, actual PR/housekeeping and own exact-final-head audit are separately required. PR410 nightly hold remains owner controlled. |
+| Forecast/model boundary |18 forecasts/13 historical attempts retain6 first-action failures, one exposure-qualified gift match, six ordinary-baseline ties and the input-location defect. M0.13/S0.14 stay draft_noncurrent/UNTESTED with zero validated domains. |
+
+The genuine E28 entering source and original firstnotes/Q1 remain immutable. Later green E27 correction and current-main inheritance have their separate adoption receipt; they do not retroactively change the original encounter context. E29 requires its own entering freeze after whole E28. V1/future-release narrative remains unopened;both OFF archives stay local. This checkpoint does not pause the continuous program or complete the full goal.
