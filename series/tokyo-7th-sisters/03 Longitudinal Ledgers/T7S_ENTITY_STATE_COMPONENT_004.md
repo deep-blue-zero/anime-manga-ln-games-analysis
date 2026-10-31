@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.17"
+version: "1.18"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0228; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -913,4 +913,49 @@ Existing Ume `IDENTITY-0025 / CHAR-0022 / kujo-ume` is the sole focal coverage s
 | `REL-1263` | `saeki-hina → kujo-ume` | C/D: reported giver of an enjoyed snack and intervener who stops Ume. No independent current Hina words, complete reason, burden distribution or obligation to permanent mediation. Earlier capacity for decisive rupture remains at its Main horizon. Reciprocal REL-1262. |
 
 Totals:102IDENTITY/84CHAR/1940KNOW/1263REL/29UNIT/29READY. All prior identity routes, current-state bodies, sealed parts and whole historical readiness decisions remain byte exact. READY0013 stays Main4U/B0016/203001802 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY and performed-voice UNREVIEWED; no retrospective horizon expansion.
+
+## B0228 Hitoha and Futaba extend the duet
+
+Owner [B0228](../02%20Readings/T7S_B0228_DEEP_READING.md), reading SHA256 `854702cbe8d1b733c47f013ff00eaf2e2d7a05e1bb388cdc24d4c1774a843815`; source-lock 12.135, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and all five whole primary ranges P0-5. All32controls/fiveSourceLock/sevencoverage/fourentity/threestory views froze at publisheddf82/B0227/12.134 before primary; all38matching priorrows and bothwholeREADY0016/17/all9fieldseach were actuallyread. Laterexecutionwitness3ae48a38 binds auditedsourceb00/audit41152866971 andCIintegratedmain d737/audit41153762151, fullrepo-treeidentical/sourceancestor, alloriginalT7Sbytes/32beforeimages exact. Originalentry/primaryreceipts remainatdf82, notbackdated. All30literalnativeobjects/25Japanese records/five-title/every-key projection read;8fullcomposites/contact/5originalBG viewed;25voices/BGM/SFX unlistened, runtimeunobserved.
+
+Existing focal people remain Hitoha `IDENTITY-0028 / CHAR-0025 / karakuri-hitoha` and Futaba `IDENTITY-0029 / CHAR-0026 / karakuri-futaba`. Shared143presentation does not merge routes. Musubi `IDENTITY-0006 / CHAR-0006`, Susu `IDENTITY-0021 / CHAR-0018` and Emoco `IDENTITY-0026 / CHAR-0023` are explicitly named existing peers. The separate published Rona route `IDENTITY-0008 / tsunomori-rona` was revisited after C's new label; no exact prior Mitsuba/003_04 binding was found, and similarity/resource family does not silently establish an alias. Mitsuba remains an occurrence-local named presentation with person binding OPEN, no invented new biographical person. Fan/collective recipients are not automatically Player or manager. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current case qualifier for CHAR-0025:** Hitoha articulates an idol-conscious dance trial, domestic creative and sensory self-account, recognized third sister, admiration of Musubi/Susu's unison and attempted borrowing of Emoco's sharp speech. Her inability to poison Futaba is particular relational evidence; it does not erase defensive exclusivity, project injury, earlier hostility or distinct private experience.
+
+**Current case qualifier for CHAR-0026:** Futaba gives reasons for hearing a fan, describes cooking as training and her own sensory contribution, conditionally references a prior stream, reports the cross-unit encounter's unexpected welcome, credits 4U's growth and independently reciprocates the absence of insulting words for Hitoha. These turns do not make her a permanent subordinate, neutral external narrator or automatic holder of Hitoha's private states.
+
+**Current case qualifier for UNIT-0011:** The duet is used as a revisable practice across artistic borrowing, domestic creativity, temporary third-role inclusion and cross-unit contact. The twins' formulas of shared taste/three-in-one/universal sharp-speech incapacity remain their own situated claims. Legal form, guardianship, business control, consent procedures, technical performance and historical harms remain open.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1941` | Hitoha welcomes the recipient as a fan invited into the dressing room for the first time. | A:P1; Hitoha's stated invitation/firstness; no recipient reply or automatically identified manager. |
+| `KNOW-1942` | Futaba describes the usual exclusion of others and a present wish for a fan representative's impressions. | A:P2; bounded rationale, not universal access or verified audience response. |
+| `KNOW-1943` | Hitoha says today's dance consciously took idols into account as a new challenge. | A:P3; performer self-account, no technical audition or affiliation change. |
+| `KNOW-1944` | Futaba attributes Nanasta idol fandom to the recipient; the joint closing asks about the cute stage through separately marked first persons. | A:P4-5; attributed prior knowledge and explicit shared address; neither recipient assent nor automatic mental identity. |
+| `KNOW-1945` | Hitoha reports cooking with Futaba and anticipates the audience's surprise. | B:P1; no depicted cooking or independent demand measurement. |
+| `KNOW-1946` | Futaba calls cooking their creative activity and training for sensibility. | B:P2; her framing, not a measured skill outcome. |
+| `KNOW-1947` | Hitoha withholds a recommendation on the stated ground that they share taste. | B:P3; pair self-description, no established sensory physiology. |
+| `KNOW-1948` | Futaba distributes sugar/soy perception to Hitoha and salt/mirin to herself; Hitoha calls this unison taste and offers dance as substitute. | B:P4-5; retain each speaker's contribution; no tasted deliciousness or independently communicated experience. |
+| `KNOW-1949` | Hitoha situates today's email with Futaba and a special companion. | C:P1; fan-facing medium named, no receiver uptake or automatic simultaneous-body claim. |
+| `KNOW-1950` | Futaba says prior stream viewers may know a third KARAKURI named Mitsuba. | C:P2; conditional assumed familiarity, not proof every reader watched. |
+| `KNOW-1951` | The Mitsuba-labeled speaker self-names and claims Hitoha/Futaba/Mitsuba are three in one. | C:P3; occurrence-local role/person binding OPEN; no third biological sibling or certified new stable identity. |
+| `KNOW-1952` | The Mitsuba-labeled speaker interrupts a world-changing claim with written head pain, self-question, Atashi/Watashi shift and need to return home. | C:P4; speech record, no clinical cause, completed world change or pictured head-clutching. |
+| `KNOW-1953` | Hitoha acknowledges an activity limit and recognizes Mitsuba as their sister while asking for support. | C:P5; her recognition and request, not genealogy, performer consent or known audience response. |
+| `KNOW-1954` | Hitoha reports going to the named place after hearing of Nanasta's live. | D:P1; no verified geographic alias or current stage view. |
+| `KNOW-1955` | Futaba names Musubi/Susu singing a unit song and reports the twins' impulsive intrusion. | D:P2; account of an event, no independently heard song or prior invitation. |
+| `KNOW-1956` | Hitoha judges their unison good and like real sisters, revising the scope of underestimating idols. | D:P3; her evaluative comparison, not kinship or certified technique. |
+| `KNOW-1957` | Futaba reports less rejection than expected, pleasure and singing KARAKURI songs; Hitoha finds the approach interesting and considers another unit. | D:P4-5; each proposition remains holder-specific; no independent peer assent or completed future intrusion. |
+| `KNOW-1958` | Hitoha reports secretly attending 4U's live yesterday. | E:P1; this occurrence's local yesterday, no relation to A-D dates. |
+| `KNOW-1959` | Futaba credits 4U's growing performance and things to learn. | E:P2; her judgment, no audition or technical ranking. |
+| `KNOW-1960` | Hitoha admires Emoco's sharp speech, tries it on Futaba and says no poisoning words can be found. | E:P3-4; an enacted local attempt and avowal, no test of all targets or transparent access to every private motive. |
+| `KNOW-1961` | Futaba independently says there are no such words for Hitoha and generalizes to KARAKURI's inability. | E:P5; reciprocal avowal plus generalized self-description, not universal innocence or erased earlier antagonism. |
+
+| ID | Direction | Current local relation and retained limit |
+| --- | --- | --- |
+| `REL-1264` | `karakuri-hitoha → karakuri-futaba` | Sister/co-creator whose shared practice is extended through cooking/artistic trials; attempting a sharp attack stalls before words can be found. E's avowal strengthens particular affection without proving automatic shared knowledge or permanent inability to harm. Reciprocal: REL-1265. |
+| `REL-1265` | `karakuri-futaba → karakuri-hitoha` | Sister/co-creator independently articulates her sensory contribution and reciprocates the absence of poisoning words for Hitoha. No leader/follower assignment, universal gentleness or identical private experience. Reciprocal: REL-1264. |
+| `REL-1266` | `karakuri-unit → tendoji-musubi / alessandra-susu` | Twins report entering the peers' live, praising sister-like unison and receiving an unexpectedly favorable shared-song response. The peers have no independent turns; appreciation is not general permission or biological kinship. |
+| `REL-1267` | `karakuri-unit → 4U / wanibuchi-emoco` | Reported rival attendance produces a growth/learning judgment and a specific attempt to borrow Emoco's sharp speech. No recruitment, certified technical ranking, total moral judgment or actual confrontation with Emoco. |
+
+Totals:102IDENTITY/84CHAR/1961KNOW/1267REL/29UNIT/29READY. Both original READY0016/17 remain R2_STATE_BOUNDED at MainKARAKURI/B0024/313300802 only, MONOGRAPH_NOT_READY/performedvoiceUNREVIEWED. No historical decision is silently broadened.
 <!-- T7S ENTITY STATE PAYLOAD END -->

@@ -4,29 +4,29 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.129"
+version: "11.130"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 334 Intimacy primary documents across 46 family portfolios / T7S_B0182–T7S_B0227; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 339 Intimacy primary documents across 47 family portfolios / T7S_B0182–T7S_B0228; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 # Tokyo 7th Sisters claim and evidence ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 334 complete Intimacy primary documents across 46 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 339 complete Intimacy primary documents across 47 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1713`; `revisions = 43`; `predictions = 7`; `AV_reviews = 174`; `literary_findings = 1713`. Claims are bounded to their stated B0001 through B0227 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 334 complete Intimacy primary documents across 46 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1731`; `revisions = 43`; `predictions = 7`; `AV_reviews = 175`; `literary_findings = 1731`. Claims are bounded to their stated B0001 through B0228 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 339 complete Intimacy primary documents across 47 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4646,3 +4646,34 @@ Owner [B0227](../02%20Readings/T7S_B0227_DEEP_READING.md), reading SHA256 `b5380
 | `AV-0174` | All29 literal native objects/24 Japanese records/five-title schema read; four full140 composites/contact and three original backgrounds individually viewed. One body/four faces at49,66;20A-D fixed01 falseFront and E06/04/04/07 trueFront,24seven-arrays/168slots/24voices. | Static only. Navy/cream sailor clothing, pink bows, purple hair and fixed upper-chest/side hands; no instrument, snack, money, cosmetic product, independent peer or faint pictured. BG047A6 concert arena includes rendered crowd/glowsticks/stage; BG023B/C/D18 urban intersection and BG113E5 empty classroom give no verified event date/location or reported-event reenactment. BGM00510/00410/0064 and voices/se007 unlistened. Underlying5actorPNGs hash-bound, not separately claimed viewed. |
 
 Totals:1713CL/43REV/7PRED/174AV. All43 existing revision records, seven predictions, older claims/AV and29 historical READY decisions remain exact. No new revision is needed for these bounded additions; REV0043's prior explicit current-role qualification and historical limits remain intact.
+
+## B0228 Hitoha and Futaba extend the duet
+
+Owner [B0228](../02%20Readings/T7S_B0228_DEEP_READING.md), reading SHA256 `854702cbe8d1b733c47f013ff00eaf2e2d7a05e1bb388cdc24d4c1774a843815`; source-lock 12.135, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and all five whole primary ranges P0-5. All32controls/fiveSourceLock/sevencoverage/fourentity/threestory views froze at publisheddf82/B0227/12.134 before primary; all38matching priorrows and bothwholeREADY0016/17/all9fieldseach were actuallyread. Laterexecutionwitness3ae48a38 binds auditedsourceb00/audit41152866971 andCIintegratedmain d737/audit41153762151, fullrepo-treeidentical/sourceancestor, alloriginalT7Sbytes/32beforeimages exact. Originalentry/primaryreceipts remainatdf82, notbackdated. All30literalnativeobjects/25Japanese records/five-title/every-key projection read;8fullcomposites/contact/5originalBG viewed;25voices/BGM/SFX unlistened, runtimeunobserved.
+
+| ID | Claim / confidence | Warrant and limit |
+| --- | --- | --- |
+| `CL-B0228-001` | `SELECTIVE_ACCESS_INVITES_CANDID_CRITICISM`; D1-D2; high with stated bounds | A:P1-4 fan invitation/ordinary exclusion/representative feedback; no actual recipient reply or broad public access. |
+| `CL-B0228-002` | `IDOL_CONSCIOUS_EXPERIMENT_PRESERVES_SEPARATE_OWNERSHIP`; D1-D2; high with stated bounds | A:P3-5 cute-stage trial and quoted first persons; no idol conversion or acoustic unison proof. |
+| `CL-B0228-003` | `DOMESTIC_PRACTICE_CAN_BE_ARTISTIC_TRAINING`; D1-D2; high with stated bounds | B:P1-2 reported cooking and Futabas creative framing; no depicted meal or measured improvement. |
+| `CL-B0228-004` | `SHARED_TASTE_IS_AN_ATTRIBUTED_MECHANISM`; D1-D2; high with stated bounds | B:P3-4 tongue/ingredient allocation is the twins account; no independently verified physiology or nutrition/recipe judgment. |
+| `CL-B0228-005` | `PUBLIC_DANCE_SUBSTITUTES_FOR_UNTRANSMITTABLE_TASTE`; D1-D2; high with stated bounds | B:P5 offers the audience another mode of access; no total isolation or sensory fusion with spectators. |
+| `CL-B0228-006` | `MITSUBA_IS_A_NAMED_LOCAL_PRESENTATION`; D1-D2; high with stated bounds | C:P1-3 email/stream framing and third-role self-naming; no automatic established-person alias or invented biological sister. |
+| `CL-B0228-007` | `A_ROLE_DECLARATION_MEETS_A_TEXTUAL_LIMIT`; D1-D2; high with stated bounds | C:P3-4 three-in-one/world-changing claim interrupted by pain/self-question/pronoun shift/home-return; no clinical diagnosis or successful transformation. |
+| `CL-B0228-008` | `RECOGNITION_DOES_NOT_SETTLE_GENEALOGY_OR_CONSENT`; D1-D2; high with stated bounds | C:P5 twins-recognized sister/activity limit/support request; no genealogical fact or independently shown performer/audience assent. |
+| `CL-B0228-009` | `NATIVE_SUBSTITUTION_IS_NOT_A_THREE_BODY_TABLEAU`; D1-D2; high with stated bounds | C:P3-4 swaps143 for003 in one slot; fixed schoolgirl state does not identify a new stable person or show medical motion. |
+| `CL-B0228-010` | `SISTER_LIKE_UNISON_IS_RECOGNIZED_OUTSIDE_THE_TWINS`; D1-D2; high with stated bounds | D:P2-3 named Musubi/Susu performance and Hitoha evaluation; no biological kinship or technical equivalence proof. |
+| `CL-B0228-011` | `REPORTED_WELCOME_DOES_NOT_RETROACTIVELY_AUTHORIZE_INTRUSION`; D1-D2; high with stated bounds | D:P2/4 Futaba reports impulsive entry and unexpectedly pleased peers; no independent permission or general stage-access rule. |
+| `CL-B0228-012` | `A_FUTURE_APPROACH_REMAINS_A_QUESTION`; D1-D2; high with stated bounds | D:P5 next-unit speculation is not a completed encounter or contract. |
+| `CL-B0228-013` | `RIVALRY_CAN_SUPPLY_A_PARTICULAR_LESSON`; D1-D2; high with stated bounds | E:P1-3 reported4U attendance/growth/learning/Emoco speech model; no auditioned rank, conversion or moral cure. |
+| `CL-B0228-014` | `SHARP_SPEECH_FAILS_ON_A_PARTICULAR_BELOVED_TARGET`; D1-D2; high with stated bounds | E:P3-5 stalled attempt and reciprocal avowals; no all-target incapacity, universal innocence or erased prior harm. |
+| `CL-B0228-015` | `RECIPROCITY_DOES_NOT_COLLAPSE_PRIVATE_KNOWLEDGE`; D1-D2; high with stated bounds | A joint first persons/E separate turns and speakerflags; earlierB0034 private content remains distinct. |
+| `CL-B0228-016` | `REGISTER_AND_PORTRAIT_CHANGES_STOP_BEFORE_PERFORMED_AFFECT`; D1-D2; high with stated bounds | ワタシ/ボク/アタシ/私 and separate01/02/04 states support textual/static distinctions; no listened voice, timing, hidden diagnosis or personality binary. |
+| `CL-B0228-017` | `CATALOG_AND_BACKGROUND_DIFFERENCES_DO_NOT_DATE_THE_CASES`; D1-D2; high with stated bounds | IndependentA-E conditional routes/localtoday-yesterday/night-day apartment art; no total chronology, same-day sequence or reenacted reported concerts. |
+| `CL-B0228-018` | `THE_DUET_IS_REVISED_THROUGH_PARTICULAR_ENCOUNTERS`; D1-D2; high with stated bounds | A-E compare artistic/domestic/third-role/cross-unit/speech experiments and different limits; earlier survival history, chosenpair/privatepersons/AXiSrelay remain distinct horizons, no completed governance or readiness upgrade. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0175` | All30literalnativeobjects/25Japanese/name records/five-title/everykeyprojection read;8fullcomposites/contact/5originalbackgrounds viewed. Fourbodies/eightfaces at00398,92;143134,59;150235,60;151135,60. Twentyfive7-arrays/175slots/30actors: joint14318,Mitsubalabel0032,separate150/151ten. | Static only. Jointwhite/navysailors/crossedarms; pink-bobbeduniform/backpackfigure; separatewhiteblue/blackorangeflorals/gray shawls/redbelts/mirroredhands. BG048drawncrowd/stars/platforms,023street,079dressingroomwithdrinks/snacks,096/097night/dayapartment; no performedmeal/realstageintrusion/medicalcollapse orchronologicalproof. TwelveunderlyingactorPNGs onlyhash-bound.25voice/BGM/SFXunlistened. |
+
+Totals:1731CL/43REV/7PRED/175AV. All43previous revision records, sevenpredictions, priorclaims/AV and29historicalREADY decisions remain exact. No new revision required for these bounded additions; earlierREV0043 instrument precision remains unchanged.

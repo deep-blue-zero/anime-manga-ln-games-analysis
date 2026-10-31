@@ -4,18 +4,18 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.129"
+version: "11.130"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 334 Intimacy primary documents across 46 family portfolios / T7S_B0182–T7S_B0227; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 339 Intimacy primary documents across 47 family portfolios / T7S_B0182–T7S_B0228; no further non-Main/additional story or 2053 semantic source"
 storage_representation: manifest_bound_components_v1
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -28,7 +28,7 @@ Read the complete manifest-bound logical ledger through its current owner, manif
 
 ## Current state
 
-`event_records = 1440`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1558`; `last_closed_block = T7S_B0227`. The admitted horizon contains 849 primary documents: 235 Main, 280 i-n-g and 334 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 334 Intimacy documents across 46 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1445`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1562`; `last_closed_block = T7S_B0228`. The admitted horizon contains 854 primary documents: 235 Main, 280 i-n-g and 339 Intimacy, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All 280 admitted i-n-g episode documents and 339 Intimacy documents across 47 complete family portfolios are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -585,3 +585,7 @@ The complete current story ledger is the manifest-bound logical prefix plus ever
 <a id="b0227-umes-account-of-herself-interrupted"></a>
 
 [B0227 Ume's account of herself, interrupted](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0227-umes-account-of-herself-interrupted)
+
+<a id="b0228-hitoha-and-futaba-extend-the-duet"></a>
+
+[B0228 Hitoha and Futaba extend the duet](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0228-hitoha-and-futaba-extend-the-duet)

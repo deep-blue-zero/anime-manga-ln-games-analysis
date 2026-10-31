@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.128"
+version: "2.129"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 46, complete primary occurrences: 334; 15 Intimacy/360eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0228, 空栗ヒトハ/フタバ, route `NM-INTIMACY-200930` / native Sub family `200930`, 5 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 47, complete primary occurrences: 339; 10 Intimacy/355eligible story episodes and supplemental/multimodal/character/era-release obligations remain. The next authorized unread portfolio is B0229, アレサンドラ・スース, route `NM-INTIMACY-200540` / native Sub family `200540`, 9 complete Intimacy occurrences. Metadata order is routing only; no fictional chronology or primary consumption is inferred.
 
 ## Closed first i-n-g tranche
 
@@ -220,3 +220,4 @@ Each family closes exact primary members with one qualified mini-case per occurr
 | [T7S_B0225](T7S_B0225_DEEP_READING.md) | `200920` / 佐伯ヒナ / `NM-INTIMACY-200920` | `401000331 / 401000930 / 401001158 / 401001634 / 401003197` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0226](T7S_B0226_DEEP_READING.md) | `200910` / 鰐淵エモコ / `NM-INTIMACY-200910` | `401000335 / 401000978 / 401001154 / 401001614 / 401003209` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0227](T7S_B0227_DEEP_READING.md) | `200900` / 九条ウメ / `NM-INTIMACY-200900` | `401000339 / 401001030 / 401001150 / 401001622 / 401003213` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+| [T7S_B0228](T7S_B0228_DEEP_READING.md) | `200930` / 空栗ヒトハ/フタバ / `NM-INTIMACY-200930` | `401000343 / 401001126 / 401001722 / 401001818 / 401003245` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |

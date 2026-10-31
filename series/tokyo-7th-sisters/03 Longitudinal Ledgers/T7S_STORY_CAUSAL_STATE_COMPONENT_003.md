@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.3"
+version: "1.4"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,9 +12,9 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0228; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 Exact delegated byte interval of the complete story ledger. Read through the current owner and manifest; the payload preserves its own historical horizons and relative routes.
@@ -1409,4 +1409,25 @@ Owner [B0227](../02%20Readings/T7S_B0227_DEEP_READING.md), reading SHA256 `b5380
 | `EDGE-1565` | `EV-B0227-004 / EV-B0227-005` | FORMAL_COMPARISON: Reported criticism of sound and appearance prompts proposed counterattack and repair of an image. No objective skill/cosmetic ranking or proved common quarrel. |
 
 Totals:1440EV/25WORLD/47THREAD/1558 active EDGE, maximum1565 with seven intentional older gaps preserved. No new WORLD/THREAD, invented cross-case chronology or older-body rewrite.
+
+## B0228 Hitoha and Futaba extend the duet
+
+Owner [B0228](../02%20Readings/T7S_B0228_DEEP_READING.md), reading SHA256 `854702cbe8d1b733c47f013ff00eaf2e2d7a05e1bb388cdc24d4c1774a843815`; source-lock 12.135, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and all five whole primary ranges P0-5. All32controls/fiveSourceLock/sevencoverage/fourentity/threestory views froze at publisheddf82/B0227/12.134 before primary; all38matching priorrows and bothwholeREADY0016/17/all9fieldseach were actuallyread. Laterexecutionwitness3ae48a38 binds auditedsourceb00/audit41152866971 andCIintegratedmain d737/audit41153762151, fullrepo-treeidentical/sourceancestor, alloriginalT7Sbytes/32beforeimages exact. Originalentry/primaryreceipts remainatdf82, notbackdated. All30literalnativeobjects/25Japanese records/five-title/every-key projection read;8fullcomposites/contact/5originalBG viewed;25voices/BGM/SFX unlistened, runtimeunobserved.
+
+| ID | Whole primary range | Factual case | Retained frame and limit |
+| --- | --- | --- | --- |
+| `EV-B0228-001` | A:401000343 P0-5 | Hitoha welcomes a fan on a first dressing-room invitation; Futaba qualifies usual exclusion by wanting representative feedback; Hitoha names an idol-conscious dance experiment; Futaba attributes Nanasta fandom to the recipient, and both ask about their cute stage. | SELECTIVE_FAN_ADDRESS_AND_ATTRIBUTED_PERFORMANCE_EXPERIMENT; no recipient reply, automatic Player/manager identity, depicted backstage meeting, heard dance or settled recruitment. |
+| `EV-B0228-002` | B:401001126 P0-5 | Hitoha reports cooking with Futaba; Futaba calls it creative training; they describe shared taste through distinct ingredient perceptions and Hitoha offers unison dance in place of an incommunicable flavor. | REPORTED_COOKING_AND_PAIR_SENSORY_SELF_ACCOUNT; no tasted meal, literal sensory-mechanism verification, recipe or outsider consent/access proof. |
+| `EV-B0228-003` | C:401001722 P0-5 | A fan-facing email/conditional stream reference introduces Mitsuba; the Mitsuba-labeled speaker claims three-in-one, falters through written pain/self-question/pronoun shift/home-return, and Hitoha acknowledges an activity limit while affirming recognized sisterhood and seeking support. | MEDIATED_THIRD_ROLE_INTRODUCTION_AND_INTERRUPTION; local person binding OPEN, no biological sister/new stable person/automatic Rona alias/hypnosis/medical cause or successful world-changing act. |
+| `EV-B0228-004` | D:401001818 P0-5 | Hitoha reports visiting Kanoraen for Nanasta's live; Futaba names Musubi/Susu and an impulsive intrusion; Hitoha praises sister-like unison; Futaba reports positive reception and shared KARAKURI songs; Hitoha considers another such approach. | TWINS_REPORTED_CROSS_UNIT_ENCOUNTER_AND_FUTURE_QUESTION; no independent peer turns, general permission, biological sisterhood, contract or completed next intrusion. |
+| `EV-B0228-005` | E:401003245 P0-5 | Hitoha reports yesterday's 4U attendance; Futaba credits growth/learning; Hitoha tries Emoco-like sharp speech on Futaba, stalls, and each says words poisoning the other cannot be found; Futaba generalizes to KARAKURI's inability. | REPORTED_RIVAL_LEARNING_AND_ENACTED_RECIPROCAL_LIMIT; no auditioned band quality, all-target incapacity, universal innocence or erased earlier harm/rivalry. |
+
+| ID | Compared events | Typed relation and retained limit |
+| --- | --- | --- |
+| `EDGE-1566` | `EV-B0228-001 / EV-B0228-002` | FORMAL_COMPARISON: The public act invites feedback while the claimed shared taste cannot be transmitted. No total openness/exclusion model or encounter order. |
+| `EDGE-1567` | `EV-B0228-002 / EV-B0228-003` | FORMAL_COMPARISON: Two-in-one sensory language and three-in-one role language attempt to extend KARAKURI; claimed mechanism, new biological person and causal chronology remain unproved. |
+| `EDGE-1568` | `EV-B0228-001 / EV-B0228-004` | FORMAL_COMPARISON: Idol-conscious dance and praise of Musubi/Susu's sister-like unison make rival practice a possible resource. No certified technical equivalence or conversion/recruitment. |
+| `EDGE-1569` | `EV-B0228-003 / EV-B0228-005` | FORMAL_COMPARISON: A third-role declaration and a borrowed sharp-tongued register meet different particular limits. No common clinical cause, total incapacity or dated sequence. |
+
+Totals:1445EV/25WORLD/47THREAD/1562 active EDGE, maximum1569 with seven intentional older gaps retained. No new WORLD/THREAD or invented cross-case chronology.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->
