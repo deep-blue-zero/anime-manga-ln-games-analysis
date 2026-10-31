@@ -4,7 +4,7 @@ artifact_id: CORNERED_MOUSE_RUN_ADMISSION_AND_CHECKPOINT
 artifact_type: run_admission_checkpoint
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.10"
+version: "1.11"
 status: active_provisional
 scope: "Authorized continuous All-in-One run, entering boundary, checkpoint and required-artifact closeout"
 source_boundary: "CM-JP-AIO2020-LOCAL; mainline CM-U01–CM-U10, then CM-S01; Reboot-only story outside this run"
@@ -82,11 +82,11 @@ The synthesis architecture's G1–G9 gates remain controlling; this table makes 
 ## Current checkpoint
 
 - Run: ACTIVE, continuous_sequential, start CM-U01, terminal CM-S01.
-- Verified committed narrative high-water mark: CM-U08; freeze CM-U08-EXIT, bundle256–260, four narrative images256–259/end259 and separate closing portrait260.
-- Current operation: CM-U09 admission/reading after complete U08 commit; no U09 image/probe inspected. CM-PR-004 remains pending, earlier model-test qualifications unchanged.
+- Verified committed narrative high-water mark: CM-U10; CM-U10-EXIT/CM-MAINLINE-FREEZE-01, bundle339–499,160 narrative images339–498/end498 and edition-title separator499; ten mainline components complete after this atomic commit.
+- Current operation: separately admit/read CM-S01 after the U10/mainline transaction commits; no afterword/Hummingbird image/probe inspected. CM-PA-006 closes PR004 NON_DISCRIMINATING; earlier failures/qualified tests unchanged.
 - Continuous authorization remains active through CM-S01 and the required downstream artifacts; first-unit completion does not terminate the goal.
-- Hummingbird lane: CLOSED until committed/frozen CM-U10 closeout.
-- No source-completion, synthesis-readiness, model-validation or final-release claim exists.
+- Hummingbird lane: OPEN for the owner-authorized CM-S01 only after committed/frozen CM-U10 closeout; all other narrative admission NOT_AUTHORIZED.
+- Selected-witness mainline complete;48 source images/full-file and G2–G9 obligations remain. No final corpus/synthesis/model-release claim exists.
 
 ## Transaction history
 
@@ -173,3 +173,13 @@ CM-PR-004 has no eligible U09 encounter: group women, family/matchmaking, funera
 This plan is recorded before any U10 image/probe. Reserve a structural bundle from known contents start sp0339 toward the next announced paratext, never certify an end by subtraction. Read in spine order at original resolution. Maintain private prefix receipts about every6–12 images and at major information/scene boundaries; preserve what was actually received, speaker/knowledge changes and all PR004 candidates/exclusions. At any apparent trigger, record available pre-response state before later pages when separable; an inseparable same-image response cannot be called blind. Changed historical state is an applicability issue, not a post-failure excuse. No later or better encounter replaces the earliest eligible case.
 
 The full titled component remains one canonical atomic transaction. Private checkpoints support long execution/compaction, not partial canonical completion. If an explicit narrative end or separately signaled closing substructure appears, freeze the inspected prefix privately before advancing, identify collection/event/disclosure order and count the actual closing material separately. Do not import the known bibliographic chronology as already inspected fictional outcome. A new titled component outside the authorized queue must be identified before admission; ordinary title-boundary verification within this queue needs no new owner confirmation. No Hummingbird access until the complete U10/mainline transaction is committed and frozen.
+
+2026-10-30 — **U09 publication/integration checkpoint.** Atomic U09 head436346da passed [exact-head audit41147996917](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41147996917). The integration process reconciled source to163f1a32076c1865f603807a43dbd48105ac5b99, passed [audit41151092673](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41151092673), and merged PR404 as1ddb9d104bece900cc0f451b94814882839d4611. Both current heads were acquired before U10 author changes; main/source were preserved at d73714e8d1e29ca9a0f9a8f02c5103e76830b76f with the title tree unchanged. No author integration. The Current checkpoint bullets had lagged the U09 transaction history/entrypoint at U08; this U10 transaction corrects that procedural retrieval defect without changing historical source observations.
+
+2026-10-30 — **CM-U10 atomic closeout/mainline freeze.** All161 images339–499 individually displayed/read original847×1200, usable Japanese/no OCR. Title339/explicit sequel end498 establish160 narrative-sequence images;499 is a non-narrative edition-title separator, not a closing portrait. No separately titled intervening unit appeared, no coda correspondence to an unavailable original witness asserted. Cumulative491/539 full images:474 narrative-sequence/17 non-narrative; contiguous mainline bundles11–499 plus contents10/colophon537. No afterword/Hummingbird image/probe exposed. Enlarged359/365 resolved wording/name; initial private353/365 visual attributions corrected by later pages354/367–369 before canonical authorship;431 failed/truncated display repeated before counting. The [U10 reading](../01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md) SHA-256 `8d80787329f63b205b43129374f09b53c7fd20389b642b64c25d1ec805f997b7`, freeze recorded `2026-10-31T01:33:11.050703+00:00`, owns161 observation anchors/member digests, CM-U10-EXIT and **CM-MAINLINE-FREEZE-01**. All ten unit exits remain immutable after their commits.
+
+CM-CS-032–038/CM-RD-005, CM-RS-046–061, CM-INF-044–055, CM-DEC-066–089, CM-CL-022/CM-CR-049–063 synchronize new professional/client/friend roles, sixmonth gap, harmful wish after event, specific requests/refusals, chosen/performed Tamaki breakup, Mina/Tamaki unequal knowledge, departure/ashtray and renewed conditional token negotiation. Totals38 character events/15 subjects,61 relationship events/17 dyads,55 information/89 decisions,22 claims/63 revisions. Three new limited subjects and four new dyads are justified; reported mother/imagined rival/internal doubles not fabricated. Original first-case tests/models/earlier histories remain unchanged.
+
+CM-PA-006 closes PR004 **NON_DISCRIMINATING**, complete U07–U10 window no eligible unexpected Imagase-plus-competing-male encounter. Professional colleague is never co-observed by Kyoichi as romantic rival; hospital375 known emergency/alone and snow478 alone candidates logged before later pages, same-page response limits disclosed. Hypothetical men are not encounters, later S01 cannot rescue window. All six genuine forecasts disposed without homogeneous accuracy or operational-release claim; PA004/005 qualifications and PA003 bounded failure preserved.
+
+Named-subject/reference review covers introduction, substantive consent/knowledge/secondary/future arguments, exit and each active dyad. No retroactive consent repair, clinical diagnosis, Tamaki male-identity disclosure, actual self-harm or completed ring purchase/marriage is inferred. Architecture v0.7 mainline-closure review retains four homes/EVOLVING; G1 complete for this supplied revised mainline after commit, G2–G9 remain required. Next validate/commit entire nine-path transaction, then separately admit CM-S01 under continuous authority. After supplemental reading, inspect remaining covers/colors/afterword/back matter; complete edition limits, longitudinal contradictions, all-subject readiness, justified monographs/specialists, continuous synthesis, separate reconstruction disposition and final audit. Goal remains active.

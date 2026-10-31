@@ -5,7 +5,7 @@ artifact_type: synthesis_architecture
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.6"
+version: "0.7"
 status: canonical
 scope: "Responsibility ownership, synthesis dependencies, amendment and completion gates"
 source_boundary: "Owner-selected revised Japanese All-in-One; unit coverage and run state are recorded in the current entrypoint and source map"
@@ -159,3 +159,11 @@ The [frozen title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TI
 The new `04 Character Studies/` home now contains separately frozen, proposed U06-state [Otomo](../04%20Character%20Studies/CORNERED_MOUSE_OTOMO_U06_PROPOSED_MODEL.md) and [Imagase](../04%20Character%20Studies/CORNERED_MOUSE_IMAGASE_U06_PROPOSED_MODEL.md) models. These own derived response rules, not canonical source events or monographs. The review supplies the shared evidence/domain map; the character ledger owns local readiness. Claims-ledger CM-PR-004–006 alone own prospective test formulations; appended outcome records will remain separate. No global grade or operational release follows. This is the existing reconstruction dependency becoming justified, not a replacement method.
 
 G1 is IN_PROGRESS (six of ten components), G2/G3 required dispositions remain open/bounded, G4 synchronized through U06, G5/G6 final readiness outstanding, G7/G9 outstanding and G8 proposed/testing. Commit review/rules/tests before U07 access; ordinary authorized reading then continues. The whole-run terminal boundary, separate mainline/Hummingbird freeze and all downstream duties remain unchanged.
+
+## Mainline-closure review — 2026-10-30, CM-U10
+
+The [complete U10 reading/mainline freeze](../01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md) tests all ten mainline/embedded components. **PRESERVE** four-ledger ownership, observation routes and dependencies. New professional/client/aggressor/friend roles, coercion in both directions, Tamaki breakup and token/visibility asymmetry fit the existing individual/directional/information/claim responsibilities. No fifth ledger, duplicated evidence store or backfill is justified. Three new limited subjects are enrolled from actual evidence; source-required anonymity and earlier alias limits remain.
+
+**Gate state:** G1 complete for supplied revised mainline after this atomic transaction commits, ending498/separator499, CM-MAINLINE-FREEZE-01. G2 pending separate Hummingbird and explicit Reboot exclusion; G3 still requires full-file/paratext and bounded original-form/English comparison disposition. G4 synchronized through U10 but corpus-wide contradictions not yet audited. G5 independently warranted Kyoichi/Imagase/Tamaki responsibilities identified, all15 subjects still need final disposition. G6 every anticipated specialist domain remains assigned for review after G1–G4; central relationship, sexuality/intimacy, agency/ethics, manga form, secondary/social and ending duties are not discharged by the new reading. G7/G9 remain outstanding. G8 prospective window closes honestly: CM-PA-006 is NON_DISCRIMINATING, earlier first-case qualifications/failure preserved, no clean current-state release.
+
+**Lifecycle:** retain EVOLVING until S01, full-file source/contradiction and responsibility-gap reviews. At that boundary review every listed domain, declare any justified independent study or consolidation and its downstream use, then STABILIZED only if no required home/gap is unresolved. Historical first/title-work reviews and U06 models/tests remain immutable. A care despite possible loss interpretation and ring plans are literary findings, not behavioral validation or guarantee. The next operation is separately authorized CM-S01 admission only after U10/mainline transaction commit; all downstream continuous-run duties remain.
