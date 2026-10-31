@@ -4,7 +4,7 @@
   "artifact_type": "logical_story_causal_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.3",
+  "version": "1.6",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 334 Intimacy primary documents across 46 family portfolios / T7S_B0182–T7S_B0227; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
-  "last_source_high_water": "T7S_B0227",
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0230",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
-    "physical_bytes": 36875,
-    "physical_sha256": "45d630cf1529293ef6e32d86efba2640c55398df169f2b43e997f0ca2e1d188b",
+    "physical_bytes": 37388,
+    "physical_sha256": "d7447bc6d19d3422750e9c95c47d2022171c9626f576f731dae9dc8bf2cf072c",
     "logical_prefix_bytes": 5900,
-    "logical_prefix_sha256": "c94ff5c65dfe0bad24d7f550186d841f7376dc2d178ded90efe3cbb80d4b5419",
+    "logical_prefix_sha256": "56e3b0cb4c8f9f131dd7e80dd58a07fe26fe6b2e3611194af9f5bfd14e2db7a2",
     "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
-      "physical_bytes": 275977,
-      "physical_sha256": "c5e2f3dabff59601f1751a430ec37febe8cc97e1b2727d04cbae8c88032e2beb",
+      "physical_bytes": 288098,
+      "physical_sha256": "44c7eeea06a3fa2eeba3780e2fac9b015f367fc4ce20f3ccfb414c6feac8d677",
       "payload_offset_bytes": 937,
-      "payload_bytes": 274996,
-      "payload_sha256": "6c79578d79cfa8ed2c3cf837cb9e438e8953641ce192bdc8f014b6e01b040cae",
+      "payload_bytes": 287117,
+      "payload_sha256": "a553f047ae3f370154c6f53cdc51b72aa99076556e302287e31c2646ffc55093",
       "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
       "logical_offset_bytes": 779332,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1060228,
-  "logical_sha256": "d4450c1644050ed46fdbe2db9430b9beba98f2652c7cd9364fba40a7d545e73e",
+  "logical_bytes": 1072349,
+  "logical_sha256": "3954485316022ea4b7e02db0e474b409fd541f8862f8cc2c17010576a4535447",
   "heading_routes": [
     {
       "original_anchor": "current-event-records",
@@ -878,6 +878,24 @@
       "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "component_anchor": "b0227-umes-account-of-herself-interrupted",
       "heading": "B0227 Ume's account of herself, interrupted"
+    },
+    {
+      "original_anchor": "b0228-hitoha-and-futaba-extend-the-duet",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0228-hitoha-and-futaba-extend-the-duet",
+      "heading": "B0228 Hitoha and Futaba extend the duet"
+    },
+    {
+      "original_anchor": "b0229-susu-asks-to-be-understood",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0229-susu-asks-to-be-understood",
+      "heading": "B0229 Susu asks to be understood"
+    },
+    {
+      "original_anchor": "b0230-coney-asks-what-the-manager-wants",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0230-coney-asks-what-the-manager-wants",
+      "heading": "B0230 Coney asks what the manager wants"
     }
   ],
   "storage_transition": {
@@ -900,13 +918,13 @@
     "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0227",
-    "date": "2026-10-30",
-    "logical_before_sha256": "84891a1dac107acb5ca3b2e241ab3baed1856a38005f5dd9d6b7fc45115b1ef3",
-    "logical_after_sha256": "d4450c1644050ed46fdbe2db9430b9beba98f2652c7cd9364fba40a7d545e73e",
-    "addition_bytes": 4602,
-    "addition_sha256": "2862378af894b5cfdc46675be696d4b8d36f510de9ae06be033dc21e2ffba0f4",
-    "unchanged_older_body_sha256": "5526392afdf75b61dd13fd6dcaa44df2dc65d69f4f35a46f95d49001bb73d1dd",
+    "source_high_water": "T7S_B0230",
+    "date": "2026-10-31",
+    "logical_before_sha256": "04daa3952e5f753496c3b6d062e74d51c2e8b97dd90e1b6571d105f16581df33",
+    "logical_after_sha256": "3954485316022ea4b7e02db0e474b409fd541f8862f8cc2c17010576a4535447",
+    "addition_bytes": 1592,
+    "addition_sha256": "16cc5ce3625317727ed8671da3512484342a8d034678415f85d157e2a993bb29",
+    "unchanged_older_body_sha256": "dfed2c5f98eda60b926e78842083aeb07c122264e5812c2c808d969167cf4085",
     "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
