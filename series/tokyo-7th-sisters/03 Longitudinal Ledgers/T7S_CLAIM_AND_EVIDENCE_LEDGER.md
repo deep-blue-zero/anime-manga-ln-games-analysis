@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.116"
+version: "11.126"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 248 Intimacy primary documents across 33 family portfolios / T7S_B0182–T7S_B0214; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 319 Intimacy primary documents across 43 family portfolios / T7S_B0182–T7S_B0224; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-30
@@ -20,13 +20,13 @@ last_updated: 2026-10-30
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 248 complete Intimacy primary documents across 33 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 319 complete Intimacy primary documents across 43 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1474`; `revisions = 42`; `predictions = 7`; `AV_reviews = 161`; `literary_findings = 1474`. Claims are bounded to their stated B0001 through B0214 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 248 complete Intimacy primary documents across 33 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1664`; `revisions = 42`; `predictions = 7`; `AV_reviews = 171`; `literary_findings = 1664`. Claims are bounded to their stated B0001 through B0224 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 319 complete Intimacy primary documents across 43 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4228,3 +4228,323 @@ Owner [B0214](../02%20Readings/T7S_B0214_DEEP_READING.md), reading SHA256 `1d01c
 | `AV-0161` | All39fullnative states/32Japanese and whole7title/schema projection actually read. One131_01_01 composite/contact and original bg037/002/030/015 individually viewed;7command/32voice/224slots/fixedactor verified. | Static only. BG037A4pages3text;002B/D/G18/15;030C5/4;015E/F12/10. BGM01017/00515, voices/SFX unlistened. Fixed cardigan/skirt/charm-covered bag does not depict B charm making, D embrace/spirits, shrine visit or G massage; no line-specific affect/timing inference. |
 
 Totals:1474CL/42REV/7PRED/161AV. Earlier claim/revision/prediction/AV bodies and29 historical READY decisions preserved. No cross-case chronology or release-boundary rewrite.
+
+## B0215 Matsuri's play, wanted recognition and local corrections
+
+Owner [B0215](../02%20Readings/T7S_B0215_DEEP_READING.md), reading SHA256 `7d318e44bb4098ae375e3f6a31a7d8828951c047ce0a9ab3dc66aa490034e5c6`; source-lock 12.121, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published06bcc1a1/B0214/12.120 before primary. B0214 exact-source audit41051941371 and full automatic cycle passed; PR398 open at receipt. All119 published Matsuri context rows actually read before primary; whole READY subject scan found no Matsuri decision. No menu-derived chronology, performed listening or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0215-001` | `COMPETITION_AS_WANTED_COMPANY`; D1-D2; high with bounds | A:P1-3: each proposed outcome yields desired company, no actual match/dates or standing obligation. |
+| `CL-B0215-002` | `RESPONSE_SOUGHT_NOT_ASSENT_GIVEN`; D1-D2; high with bounds | A:P2: request for pleased reply even if feigned preserves missing/insufficient reception, no mutual agreement. |
+| `CL-B0215-003` | `SITUATED_SETBACK_AND_TRANSFER_LIMIT`; D1-D2; high with bounds | B:P1-3: fatigue/Sui lapping and dance-game expectation are reported; no measured physiology or total incompetence. |
+| `CL-B0215-004` | `EFFORT_WITHOUT_MEASURED_CURE`; D1-D2; high with bounds | B:P4: reported training effort/resolve, no quantified improvement or lasting practice. |
+| `CL-B0215-005` | `OPEN_ALTERNATIVE_EXPLANATION`; D1-D2; high with bounds | B:P5: city-bike recollection complicates self-blame, not sole-cause certification or erasure of effort. |
+| `CL-B0215-006` | `INVITATION_FRAMED_BY_SHARED_GAME`; D1-D2; high with bounds | C:P1-2: suggestive night invitation gains stated game purpose, no completed visit/session or invented encounter. |
+| `CL-B0215-007` | `PERSONAL_NORM_AND_PREPARED_COMPANY`; D1-D2; high with bounds | C:P3-4: noisy all-night ideal/snacks/readiness/sunrise wish remain speaker claim and plan, not universal norm or actual dawn. |
+| `CL-B0215-008` | `WANTED_PROFESSIONAL_RECOGNITION`; D1-D2; high with bounds | D:P1-2: good partnership coexists with glamorous-work grievance, no verified job history or casting motive. |
+| `CL-B0215-009` | `APPRAISAL_CONTEST_WITHOUT_GENERAL_PERMISSION`; D1-D2; high with bounds | D:P3-5 withB0136/0170: self-account/perceived gaze and qualified recognition question do not authorize uninvited observation, body adjudication or completed demonstration. |
+| `CL-B0215-010` | `METAPHOR_TRANSLATED_FOR_LISTENER`; D1-D2; high with bounds | E:P1-4: gameMAX explained as closeness after comprehension gap, not system unlock/readiness or final relationship state. |
+| `CL-B0215-011` | `TEASED_FUTURE_ROMANCE`; D1-D2; high with bounds | E:P5: next-level joke opens possibility without mutual confession or chronological route guarantee. |
+| `CL-B0215-012` | `CAPABLE_INVITER_WITHOUT_GUARANTEED_RESULT`; D1-D2; high with bounds | F:P1-2 withB0098/0174: earlier skill supports confidence, not accepted entry/verified event or future victory. |
+| `CL-B0215-013` | `PARTNER_SPECIFIC_COORDINATION`; D1-D2; high with bounds | F:P3-4: preferred manager partnership matters beyond carrying a novice, no measured synchronization, actual consent or musical-role change. |
+| `CL-B0215-014` | `DESIRED_PRESENTATION_AND_VENUE_INTEREST`; D1-D2; high with bounds | G:P1-3: no swimming plan/arcade attention scheme meets reported inconvenience objection, no actual public act/audience response. |
+| `CL-B0215-015` | `REMEMBERED_REBUKE_NOT_FULL_SHOP_HISTORY`; D1-D2; high with bounds | G:P4: cosplay/whip account recalls mild rebuke and prior interpretation, no independently observed event, named manager or verified sole cause. |
+| `CL-B0215-016` | `CHANGED_USE_WITH_WANT_RETAINED`; D1-D2; high with bounds | G:P5, compared with B: abandons arcade strategy but wants swimsuit/company, no purchase, universal reform or repair of every prior cost. |
+| `CL-B0215-017` | `SITUATED_COMPETENCE_AND_ACTIVE_COUNTEREVIDENCE`; D1-D2; high with bounds | A-G withB0098/0136/0169/0170/0174: audience-making, conduct limit and novice care coexist with work costs/shared absorption/limited knowledge, not total childishness or flawless adult reliability. |
+| `CL-B0215-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All38fullobjects/31Japanese/217slots/wholeprojection, viewed138composite/contact/5originals,119priorrows/no Matsuri READY. No hearing/runtime/maturity/full2034release/2053 promotion. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0162` | All38fullnative states/31Japanese and whole7title/schema projection actuallyread. One138_01_01composite/contact and originalbg032/030/028/023/002 individually viewed;7command/31voice/217slots/fixedactor verified. | Static only. BG032A/F9pages7text;030B6/5;028C5/4;023D6/5;002E/G12/10. BGM0107/00419/0055 and voices/SFX unlistened. Fixed wink/yellow controller shirt/prize-like objects not actual per-case winnings, coinflip, cycling, glamorous job, overnight room visit, intimacy meter or swimsuit. |
+
+Totals:1492CL/42REV/7PRED/162AV. Earlier claim/revision/prediction/AV bodies and29 historical READY decisions retained; no chronology/release-boundary rewrite.
+
+## B0216 Tomoe's wanted company, giving care and uncertain worth
+
+Owner [B0216](../02%20Readings/T7S_B0216_DEEP_READING.md), reading SHA256 `ccca18355e00775d8632b488d5dc2f5666a0f752922b46b9f9e662f017fe8397`; source-lock 12.122, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at published016fc149/B0215/12.121 before primary. B0215 exact-source audit41055835282 and full automatic cycle passed; PR400 open at receipt. Auditedmain77c83fcb is an actual parent of entering source. All138 published Tomoe rows actuallyread before primary; whole READY subjectscan has no prior Tomoe decision. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0216-001` | `REMEMBERED_PAIRING_AND_PRESENT_INITIATIVE`; D1-D2; high with bounds | A:P1-2: specific school-pairing self-account becomes own courage/request, not all-life friendlessness or permanent ease. |
+| `CL-B0216-002` | `LOW_SCALE_CONDITIONED_COMPANY`; D1-D2; high with bounds | A:P3: one-day/just-beside/ifnotunwanted preserves recipient choice, no accepted date or standing duty. |
+| `CL-B0216-003` | `GIVING_BETTER_APPEARANCE_WITHOUT_QUALITY_CERTAINTY`; D1-D2; high with bounds | B:P3-5: homemade lunch/ownburnedportion/wantedpresentability support practicalcare, no tasting/cookrating or completed consumption. |
+| `CL-B0216-004` | `SELF_CONSCIOUS_GENRE_EXPECTATION`; D1-D2; high with bounds | B:P1-3/5: excitement check/otome comparison/girlishness joke do not supply clinical state, heard delivery or predetermined romance. |
+| `CL-B0216-005` | `PARTIAL_PARTICIPATION_NOT_GLOBAL_WORTH`; D1-D2; high with bounds | C:P1-2: companions' inclusion/some singing and no selfqueue differ from actor unneededness judgment, no peer rejection or analyst endorsement. |
+| `CL-B0216-006` | `DESPAIR_TURN_AND_ACTOR_OBLIGATION`; D1-D2; high with bounds | C:P3-4: nextlife thought/rejection/repayment duty matter without supplied plan/diagnosis or endorsed debt condition for life/worth. |
+| `CL-B0216-007` | `SUSTAINING_RELATION_WITH_REQUESTED_PRESENCE`; D1-D2; high with bounds | C:P5 withB0156: ownpath and needforpraise/presence coexist, no exclusiveprotector, accepted permanent availability or cure. |
+| `CL-B0216-008` | `LOCAL_PRAISE_AND_TENTATIVE_FIRSTNESS`; D1-D2; high with bounds | D:P1-3: Coneyquote/maybeNo1 as belonging possibility, no tasted ranking/lifetimecertificate or erased older admiration. |
+| `CL-B0216-009` | `SERVICE_IDEAL_QUESTIONED`; D1-D2; high with bounds | D:P4-5: tea-idol tomorrowplan gains own rolecheck/valuepluralstrengths, no new job/regimen or wholeidentity accepted as service. |
+| `CL-B0216-010` | `PRAISE_RECEIVED_THROUGH_SPECULATION`; D1-D2; high with bounds | E:P1-3: omen/forbiddenlove/managerclaim and apology belong to Tomoe, not brother's own romantic intent or mutual manager romance. |
+| `CL-B0216-011` | `VALUED_AFFECTION_AND_PROPOSED_RETURN`; D1-D2; high with bounds | E:P3-4: pleasure/ramenforimportanttwo retains distinct roles, no new identity, shared relationship category or completed meal. |
+| `CL-B0216-012` | `INFORMATION_AND_WANTED_CLOTHING`; D1-D2; high with bounds | F:P1-3: Miurecommendation/cuteclothes resolve/littleprivatewear support own wish, no actual shopping or clothes inventory audit. |
+| `CL-B0216-013` | `PLURAL_MOTIVE_AND_RETRACTED_CLING_EXCUSE`; D1-D2; high with bounds | F:P4-5: practicaluniformreply evokes wish/retraction/newrequest, no actual contact/accepted proximity or allconcernsdisproved. |
+| `CL-B0216-014` | `QUOTED_CALL_AS_PRACTICAL_CARE`; D1-D2; high with bounds | G:P1-3: written corrections/wakeforstream retaincallingframe, no invented rehearsal/phonefilter/heardtempo or actual timetable outcome. |
+| `CL-B0216-015` | `CARE_AND_CAPACITY_LIMIT_SIMULTANEOUS`; D1-D2; high with bounds | G:P4-5: difficulty/nausea/writtenretch/hangupintent/wakerequest preserve limit, no medicalcause, successfulwaking or duty toendure. |
+| `CL-B0216-016` | `INITIATIVE_WITHOUT_COMPLETED_CURE`; D1-D2; high with bounds | A-G withB0038/0080/0118/0134/0156/0178: chosen collaboration/leadership/musicalauthority coexist with self-doubt/uneven enactment/capacity limits; neither incapacity-only nor finishedrecovery accounts suffice. |
+| `CL-B0216-017` | `DIRECTIONAL_KNOWLEDGE_AND_QUALIFIED_OTHERS`; D1-D2; high with bounds | C/D/E/F andB0213: ownrequest/report notothers'fullmind; Madoka/スース/Coney/Miu rolesdistinct, brotherunnamed, Monakaaccount notTomoeownfeeling or repairedconversation. |
+| `CL-B0216-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All39objects/32Japanese/224slots/wholeprojection, viewed120composite/contact/4originals,138priorrows/noTomoeREADY. No hearing/runtime/maturity/full2034release/2053 promotion. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0163` | All39fullnative states/32Japanese/whole7title-schema projection actuallyread. One120_01_01composite/contact and originalbg005/035/002/023 individually viewed;7command/32voice/224slots/fixedactor verified. | Static only. BG005A4pages3text;035B6/5;002C/D/F/G24/20;023E5/4. BGM0103/0055/00424 and E035_001/F035_002/G035_006 voices/SFX unlistened. Fixed uniform/greencontainer not identified as Dtea, Bfood or Gphone; no line-specific emotion, livecat reaction, eating/retch animation or achieved shopping/call outcome. |
+
+Totals:1510CL/42REV/7PRED/163AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions retained; no old-body, chronology or release rewrite.
+
+## B0217 Miu's tangible specialness and imagined shared life
+
+Owner [B0217](../02%20Readings/T7S_B0217_DEEP_READING.md), reading SHA256 `36bb34d228b886ea4c242b493bfd4d093ddba28dfc8312449c49734a2115dbc0`; source-lock 12.123, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary locators. All27 physical/five-SourceLock/six-coverage/four-entity before-controls froze at publishedbaa75e2f/B0216/12.122 before primary. B0216 exact-source audit41061255895 and full automatic cycle passed; PR400 open at cycle receipt. Auditedmain77c83fcb is preserved in entering source ancestry. All84 published Miu rows actually read before primary; whole READY subject scan has no prior Miu decision. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0217-001` | `MEDIATED_FAMILY_AND_AUTHORED_INVITATION`; D1-D2; high with bounds | A:P1-2: her home-meal request and mother-interest account retain different provenance; no actual family meeting/approval. |
+| `CL-B0217-002` | `ADMIRATION_AND_PLAYFUL_WARNING`; D1-D2; high with bounds | A:P3: his appeal and mother warning are Miu's address, no mother-own romantic intention/rivalry or property right. |
+| `CL-B0217-003` | `MATERIAL_REMEMBRANCE_AND_SPECIALNESS`; D1-D2; high with bounds | B:P1/3-5: matching sign gives recurring attention a concrete form, no inspected prop, simultaneous cognition or exclusive status. |
+| `CL-B0217-004` | `RECIPIENT_PROTEST_AND_EXPECTED_RECIPROCITY`; D1-D2; high with bounds | B:P2/4-5: removal/embarrassment protest and hoped memory do not establish own manager assent/feeling or standing control. |
+| `CL-B0217-005` | `CHOSEN_GIFT_VALUATION`; D1-D2; high with bounds | C:P1-4: reveal/unspecified gift and own desire to give qualify price concern, no identified item/price or B-strap merger. |
+| `CL-B0217-006` | `NEGOTIATED_RETURN_REMAINS_POSSIBLE`; D1-D2; high with bounds | C:P5: conditional return-gift request preserves reciprocity without debt contract/agreed value/completed exchange. |
+| `CL-B0217-007` | `SHARED_OCCASION_CLAIM_WITH_UNEQUAL_INFORMATION`; D1-D2; high with bounds | D:P1-4: important-for-both claim and deliberate withholding coexist, no identified anniversary/date or full manager memory. |
+| `CL-B0217-008` | `WANTED_RECOGNITION_AND_LOCAL_DEADLINE`; D1-D2; high with bounds | D:P3-5: proposed special time/remember-by-today frame stays unresolved, no invented milestone/booking/completed dinner. |
+| `CL-B0217-009` | `COUNTERFACTUAL_MEASURE_OF_DEVOTION`; D1-D2; high with bounds | E:P1-3: discarded roles/all-for-her as ultimate affection is actor valuation, no endorsed abandonment or manager agreement. |
+| `CL-B0217-010` | `EXPLICIT_NONDEPARTURE_QUALIFICATION`; D1-D2; high with bounds | E:P4: considering manager and not really wanting to go coexist, no enacted escape or erased professional commitment. |
+| `CL-B0217-011` | `REPORTED_ELIGIBILITY_AND_NEW_IMAGINABILITY`; D1-D2; high with bounds | F:P1-2: her discovery makes marriage concrete to her, no legal/age/date/readiness certification. |
+| `CL-B0217-012` | `IMAGINED_DOMESTIC_LIFE_AND_DIFFERENT_APPRAISALS`; D1-D2; high with bounds | F:P3-5: deictic partner/daily practices/mother reported too-early judgment/own seriousness remain hypothetical/mediated, no engagement or mature household. |
+| `CL-B0217-013` | `PREFERENCE_WITH_SOCIAL_AND_PRACTICAL_REASONS`; D1-D2; high with bounds | G:P1-3: immediate conversation/others' convenience/relaxed snacks explain home preference, no actual viewing or fixed identity. |
+| `CL-B0217-014` | `CONTEXTUAL_REVISION_AND_UNANSWERED_INVITATION`; D1-D2; high with bounds | G:P4-5: couple seat might preserve large-screen wish; proposed outing needs assent, no confirmed couple/booking/privacy guarantee. |
+| `CL-B0217-015` | `RECOGNITION_WITH_SELF_AUTHORED_INITIATIVE`; D1-D2; high with bounds | A-G withB0089: invitations/giving/remembering requests make wanted attention specific, no recipient-authored total identity or exclusivity. |
+| `CL-B0217-016` | `PROFESSIONAL_TRUST_AND_IMAGINED_RELATIONAL_FORMS`; D1-D2; high with bounds | E/F withB0165: chosen work/reasoned trust/costs coexist with imagined renunciation/domesticity, no actual abandonment/proposal or infallible manager. |
+| `CL-B0217-017` | `UNEQUAL_KNOWLEDGE_AND_QUALIFIED_RESPONSIVENESS`; D1-D2; high with bounds | A-G withB0125/0127/0133/0143/0216: report, withheld context, request and other's full mind differ; peer responsiveness/its limits retained, no perfect care or invented family/peer outcomes. |
+| `CL-B0217-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All39objects/32Japanese/224slots/wholeprojection, viewed129_06_01composite/contact/4originals,84priorrows/noMiuREADY. No hearing/runtime, certified age/readiness, full2034release or2053 promotion. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0164` | All39fullnative states/32Japanese/whole7title-schema projection actually read. One129_06_01composite/contact and originalbg027/031/002/023 individually viewed;7commands/32voice/224slots/fixedactor verified. | Static only. BG027A/D/E15pages12text;031B6/5;002C/F12/10;023G6/5. BGM0103/00529 and all32voice/SFX unlistened. Fixed uniform/bagcharms not certified B Holoconstrap/C gift, animated running-away, line-specific feeling, legal age or actual home/wedding/cinema outcome. |
+
+Totals:1528CL/42REV/7PRED/164AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions retained; no older-body, chronology or release rewrite.
+
+## B0218 Xiao's courage, company and selective disclosure
+
+Owner [B0218](../02%20Readings/T7S_B0218_DEEP_READING.md), reading SHA256 `235ea7bb9cfaae84cc728f919187baf0e574cc52bc472f78ddd55cbb4e4fcc68`; source-lock 12.124, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary ranges. All28 physical/five-SourceLock/seven-coverage/four-entity before-controls froze at published73512f41/B0217/12.123 before primary. B0217 exactaudit41067240312/full automatic cycle passed; auditedmain77c83fcb preserved in source ancestry. All117 published Xiao/Shao/stableID rows actually read before primary, including55 additional V2 alias rows; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0218-001` | `OFFERED_CARE_AND_ACTION_LIMIT`; D1-D2; high with bounds | A:P1-2: fatigue appraisal/massage-food plan gives her caregiver initiative, no diagnosis, certified effectiveness, consent or completed acts. |
+| `CL-B0218-002` | `CORRECTED_WANTED_CONTINUITY`; D1-D2; high with bounds | A:P3: lasting health and together-to-friend correction retain desire/naming tension, no heard delivery or mutual romance. |
+| `CL-B0218-003` | `SELF_APPRAISED_TRAINING_PROGRESS`; D1-D2; high with bounds | B:P1-3: timidity goal/near-final claim/proximity tolerance remain local self-assessment, no total fear cure or observed contact. |
+| `CL-B0218-004` | `NEW_UNCERTAINTY_WITHOUT_CURE_VERDICT`; D1-D2; high with bounds | B:P4: increased heartbeat/questions coexist with not-startled distinction, no diagnosis/confirmed attraction or wholesale failure. |
+| `CL-B0218-005` | `ASKED_KNOWLEDGE_AND_AVAILABLE_TIME`; D1-D2; high with bounds | C:P1-3: own unfamiliarity becomes leisure invitation when free, no global incapacity, proven manager expertise or assent. |
+| `CL-B0218-006` | `CONTRIBUTION_TO_DESIRED_COMPANY`; D1-D2; high with bounds | C:P4: handmade lunch/recommended spot plan supplies her initiative, no prepared food/taste/site or actual tour. |
+| `CL-B0218-007` | `REPORTED_PUBLIC_EXPOSURE_FOR_EVALUATION`; D1-D2; high with bounds | D:P1-2: own dance upload/wider assessment wish, no supplied external URL, analyst-viewed performance or audience result. |
+| `CL-B0218-008` | `ENCOURAGEMENT_COMPATIBLE_WITH_CORRECTION`; D1-D2; high with bounds | D:P3-4: courage-praise request/conditional criticism tolerance coexist with choreography correction request, no actual harassment or permanent resilience. |
+| `CL-B0218-009` | `PRACTICAL_SOCIAL_INVITATION`; D1-D2; high with bounds | E:P1-2: school visit/festival/class-cafe preparations remain proposed/reported, no newly named school/UNIT or completed work/event. |
+| `CL-B0218-010` | `PREFERENCE_WITHIN_PLURAL_BONDS`; D1-D2; high with bounds | E:P3-4: all peers invited but manager most wanted, prospective waitress welcome/calls promise; no exclusion or independent reciprocal assent. |
+| `CL-B0218-011` | `PLURAL_ABSENCE_AND_SELF_APPRAISAL`; D1-D2; high with bounds | F:P1-3: blue feeling/brief birthcountry wedding return/missing peers-manager, no named country/relative, completed journey or endorsed weakness. |
+| `CL-B0218-012` | `REPLY_MEDIATED_SOLACE_AND_FUTURE_CONTACT`; D1-D2; high with bounds | F:P4-5: self-judgment/apparent shared sadness/souvenirs-mail plan, no full manager mind/seen tears/actual correspondence or guaranteed cure. |
+| `CL-B0218-013` | `MEDIATED_PARENT_ACCOUNT`; D1-D2; high with bounds | G:P1-3: invitation/reported parental interest/repeated stories/overprotective-but-good appraisal retain Xiao provenance, no actual meeting/parent approval/threat. |
+| `CL-B0218-014` | `SELECTIVE_DISCLOSURE_AND_CONDITIONAL_AFFILIATION`; D1-D2; high with bounds | G:P4-5: family-only content and conditional familymembership possibility, no disclosed content, new identities, accepted proposal or settled kinship. |
+| `CL-B0218-015` | `DIFFERENTIATED_CAPACITY_AND_CARE`; D1-D2; high with bounds | A/B/D/F withB0105: offering help, claimed local progress, new worry, wider-assessment wish and loneliness need not share one success/failure verdict; no uniform cure/limitless capacity. |
+| `CL-B0218-016` | `COMMUNICATION_WITH_AGENCY_AND_UNDERSTANDING_LIMIT`; D1-D2; high with bounds | A/D/G withB0181: correction, assessment medium and deliberate secrecy differ from failed decoding; no acquired fluency or thoughtlessness presumed. |
+| `CL-B0218-017` | `CUMULATIVE_PEER_AND_MANAGER_BOUNDS`; D1-D2; high with bounds | A-G withB0143/0165/0176/0179/0208: different teachers/limits/cooperation/failed protection/partial frames and plural care remain, no exclusive solecaretaker/omniscient manager. |
+| `CL-B0218-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All36objects/29Japanese/203slots/wholeprojection, viewed147_01_01composite/contact/5originals,117priorrows/noXiaoREADY. No performed hearing/runtime, fear/readiness maturity, full2034release or2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0165` | All36fullnative states/29Japanese/whole7-title-schema projection actually read. One147_01_01composite/contact and originalbg005/004/031/002/015 individually viewed;7commands/29voice/203slots/fixedactor verified. | Static only. BG005A4pages3text/004B5/4/031C5/4/002D-E-G16/13/015F6/5. BGM0108/00513/0048 and allvoice/SFX unlistened. Fixed stance/costume not massage, approach, dancevideo, waitress work, observed tears, country/age or family-outcome proof. |
+
+Totals:1546CL/42REV/7PRED/165AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions retained; no older-body, chronology or release rewrite.
+
+## B0219 Manon's chosen company and imagined roles
+
+Owner [B0219](../02%20Readings/T7S_B0219_DEEP_READING.md), reading SHA256 `114289f15f47d93d8751d8dae1e6ecc45605ec76b5c4ac129da168ed1e4245f6`; source-lock 12.125, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-G scripts/hashes/whole primary ranges. All28 physical/five-SourceLock/seven-coverage/four-entity before-controls froze at publishedbb541676/B0218/12.124 before primary. Originalentry retains pendingpriorcycle atcapture; successfulB0218audit41073433174/fullcyclee0fc5bee checked in fresh executionwitness before semanticacceptance. Auditedmain77c83fcb actualancestor. All122 publishedManon rows andwholeREADY0025 actuallyread beforeprimary; historicalR2 remains onlycompleteMainEpisode5.0/endB0069, MONOGRAPH_NOT_READY. No backward2043SOL recovery projection, menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0219-001` | `ADDITIVE_FAMILY_VALUE_WITH_PARENT_REFERENCE`; D1-D2; high with bounds | A:P1-3: firstotheradultcompany/initialnervous-nowfun andfamilyasdearasparents remainownaccount, no parentreplacement orlegalstatus. |
+| `CL-B0219-002` | `SITUATED_COMFORT_WITHOUT_GLOBAL_CURE`; D1-D2; high with bounds | A:P2-3: manager/oldergirlskindness supportsherlocalenjoyment, no auditofeverycareact or fullreciprocalmind. |
+| `CL-B0219-003` | `IMAGINED_MAGIC_AND_PRESENT_EFFORT`; D1-D2; high with bounds | B:P1-2: notyetmagic/training/idoleffort-goodness-futurepossibility, no literalpower orendorsedmoralguarantee. |
+| `CL-B0219-004` | `PROTECTIVE_AGENCY_AND_WANTED_RECIPROCITY`; D1-D2; high with bounds | B:P3-5: futureprotection/lastingcompany/callscontract supplyherwish, no actualprotection, enforceableagreement ormanagerassent. |
+| `CL-B0219-005` | `SPECTATOR_EXCITEMENT_AS_PERFORMER_REFERENCE`; D1-D2; high with bounds | C:P1-3: anime/oldergirlsライブ reception informs own audience-directedgoal, no namednewfiction/actualperformanceverdict orachievedreception. |
+| `CL-B0219-006` | `PROFESSIONAL_BECOMING_AND_OPEN_LEARNING`; D1-D2; high with bounds | C:P4-5: managertransformimage/teachmerequest retainherlearninginitiative, no literalspell ormanagerunlimitedexpertise. |
+| `CL-B0219-007` | `FATIGUE_AND_ORDINARY_OBLIGATIONS`; D1-D2; high with bounds | D:P1: lessoncost/homework-meal-sleep needscoexist, no completedwork/meal orclinicaldiagnosis. |
+| `CL-B0219-008` | `CHOSEN_CARE_WITH_CONVERSATIONAL_PREFERENCE`; D1-D2; high with bounds | D:P2-5: hesitates/askwaituntilwake/movestoacceptance/fatherbackcomparison retaintextualcarechoice, no animatedcarry/arrival/actualpaternity orcompletedconversation. |
+| `CL-B0219-009` | `ROLE_CONTENT_IN_ENVIED_COMPANY`; D1-D2; high with bounds | E:P1-3: pleasure/question/olderbrotherlikeness/friendsactivities definewantedcompany, no reciprocalanswer orcurrentcompletedactivities. |
+| `CL-B0219-010` | `EXPLICIT_DAY_SIZED_PLAY_FRAME`; D1-D2; high with bounds | E:P4-5: todaybrotherrole/todaynotescape remainherplayfuladdress, no standingkinship/control oractualrestraint. |
+| `CL-B0219-011` | `COSTUME_ENJOYMENT_AND_IMAGINED_GROWTH`; D1-D2; high with bounds | F:P1-3: priorcat-rainbow/Haruclothes admiration/futureadultlikecutequestion, no newassetadmission/currentadultstate/ageorreadinesscertification. |
+| `CL-B0219-012` | `OWN_MOTIVATION_AND_COOPERATION_WISH`; D1-D2; high with bounds | F:P4-5: costumedesire motivatesfameeffort/pleasemanager-jointwork, no achievedcareer, onlymotive ormanagerwardrobeauthority. |
+| `CL-B0219-013` | `BORROWED_TERM_WITH_EXPLICIT_KNOWLEDGE_LIMIT`; D1-D2; high with bounds | G:P1-3: parkdatewish andadmittedpartialunderstanding/parentsreportedstory remain, no erasedword or suppliedadultunderstanding. |
+| `CL-B0219-014` | `FUTURE_INVITATION_AND_PATIENT_EFFORT`; D1-D2; high with bounds | G:P4-5: askouting/workeffort/waiting supplyherdesire, no booking/reciprocalpromise/agreedreward ormutualcourtship. |
+| `CL-B0219-015` | `DIFFERENT_RELATIONAL_FORMS_WITHOUT_STAGE_SEQUENCE`; D1-D2; high with bounds | A/B/D/E/G: familyvalue/protectioncontract/fathercomparison/daybrother/dateword serve different requests, no replacementhousehold or escalatorychronology. |
+| `CL-B0219-016` | `CHILD_AUTHORSHIP_AND_DOMAIN_SPECIFIC_ASSENT`; D1-D2; high with bounds | A-G withB0168: affection/careacceptance do not erase diaryrefusal/privateentry or grantblanketrecording/publicationaccess; owninitiativeandlimits retained. |
+| `CL-B0219-017` | `SEPARATE_MAIN_HORIZON_AND_BOUNDED_READINESS`; D1-D2; high with bounds | A-G withB0064-0069/0092/0101/0129/0130/0135/0139/0172: earlierstates/historical2043SOL crisisreturn stayqualified; READY0025 unchangedatMainE5/B0069, no backwardcure or maturitypromotion. |
+| `CL-B0219-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All40objects/33Japanese/231slots/wholeprojection, viewed132_01_01composite/contact/5originals,122priorrows/wholeREADY0025read. No hearing/runtime/newreadiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0166` | All40fullnative states/33Japanese/whole7-title-schema projection actuallyread. One132_01_01composite/contact andoriginalbg035/004/024/016/002 individuallyviewed;7commands/33voice/231slots/fixedactorverified. | Staticonly. BG035A4pages3text/004B6-5/024C-E12-10/016D6-5/002F-G12-10. BGM01013/00520 andallvoice/SFX unlistened; F039_006/G039_005 identifiersnotchronology. Wand/pose notactualmagic/carry/sleep, costume montage/grownage, actualparkdate ornewkinship. |
+
+Totals:1564CL/42REV/7PRED/166AV. Earlierclaims/revisions/predictions/AV and29historicalREADYdecisions retained; no older-body, chronology, release orreadinessrewrite.
+
+## B0220 ChaCha's boundaries, preferences and chosen company
+
+Owner [B0220](../02%20Readings/T7S_B0220_DEEP_READING.md), reading SHA256 `2c36368e95a3273d56aa4f3f5a6ba62317957a143232b8fc5c1dcd789d426230`; source-lock 12.126, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at published9357d5cd/B0219/12.125 before primary. The original entry retains its pending-cycle observation; successful B0219 audit41078969685/full cyclee317e652 were checked in the fresh execution witness before semantic acceptance. Audited main77c83fcb is an actual ancestor. All88 published ChaCha rows were actually read before primary; the whole READY subject scan has no ChaCha decision. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0220-001` | `SYMPTOM_REPORT_WITHOUT_CAUSAL_CERTIFICATION`; D1-D2; high with bounds | A:P1-2: heartburn/eating difficulty/possible overexertion/hypothetical disease/Nanasta relief retain her provenance, no diagnosis, cure or confirmed romantic cause. |
+| `CL-B0220-002` | `CONCERN_BOUNDARY_AND_QUALIFIED_ACKNOWLEDGMENT`; D1-D2; high with bounds | A:P3: decline of worry and thanks coexist, no universal wellness finding or manager full reply. |
+| `CL-B0220-003` | `APPEARANCE_CONTROL_AS_ATTRIBUTED_ACCUSATION`; D1-D2; high with bounds | B:P1-4: hairstyle proposal and doll-play/shamelessness critique preserve actor rhetoric, no independently proved total employment coercion or actual doll scene. |
+| `CL-B0220-004` | `PREFERENCE_AND_REPORTED_PROPOSAL_WITHDRAWAL`; D1-D2; high with bounds | B:P5: likes current hair/welcomes dropping the change, no completed haircut or enduring policy. |
+| `CL-B0220-005` | `MODERATED_ENTHUSIASM_AND_QUALITY_APPRAISAL`; D1-D2; high with bounds | C:P1-2: strong tea preference with qualification and criticism remain hers, no tasting/audit or unmatched expertise. |
+| `CL-B0220-006` | `TEACHING_PROPOSAL_AS_SHARED_PRACTICE`; D1-D2; high with bounds | C:P3-4: asks manager preparation/offers thorough help while attributing clumsiness, no actual lesson, certified competence or incompetence. |
+| `CL-B0220-007` | `APPEARANCE_STEREOTYPE_AND_PARTIAL_INCIDENT_ACCOUNT`; D1-D2; high with bounds | D:P1-4: kimono-demureness objection/own clerk account preserve missing intent/dialogue, no complete adjudication or validation of all her conduct. |
+| `CL-B0220-008` | `ACKNOWLEDGED_DISPLACEMENT_AND_REQUESTED_LISTENING`; D1-D2; high with bounds | D:P5: manager receives collateral anger and requested company, no proof he caused it, full assent or heard delivery. |
+| `CL-B0220-009` | `PRESENTED_MEMORY_WITH_ATTRIBUTED_ASSOCIATIONS`; D1-D2; high with bounds | E:P1-4: specialty and named dates/seasonal-astrological images remain actor knowledge claims, no master-biography admission, personality proof or current calendar setting. |
+| `CL-B0220-010` | `WITHHELD_ANSWER_AND_LISTENER_TASK`; D1-D2; high with bounds | E:P5: November1 question stays unanswered/not looked up, no hidden person assigned or actual investigation. |
+| `CL-B0220-011` | `SPECIFIC_FRIENDSHIP_AND_REPORTED_LEARNING`; D1-D2; high with bounds | F:P1-3: Shizuka conversation/dance interest/qualified footwork report/gentle-intellectual appraisal, no viewed technique or full reciprocal mind. |
+| `CL-B0220-012` | `POSITIVE_COMPANY_WITH_PROFESSIONAL_AMBIVALENCE`; D1-D2; high with bounds | F:P4 withD: chosen friend value coexists with criticism; specific gentleness differs from automatic dress stereotype, no institutional cure or total conversion. |
+| `CL-B0220-013` | `REPORTED_CELEBRATION_AND_LIFE_GRATITUDE`; D1-D2; high with bounds | G:P1-3: unnamed party/own smile/gratitude at living to an age, no E-link, exact age/date or terminal condition. |
+| `CL-B0220-014` | `GAZE_SIMILE_WITHOUT_LITERAL_TRAGEDY`; D1-D2; high with bounds | G:P4: arrow-struck-duck comparison is ChaCha uptake, no actual bird/violence, independent gaze shot or death forecast. |
+| `CL-B0220-015` | `ACT_SPECIFIC_AUTONOMY_AND_COERCION_LIMITS`; D1-D2; high with bounds | B/D withB0126: current objections to others control do not erase Player refusals/river push/reenactment pressure or certify her general method. |
+| `CL-B0220-016` | `SITUATED_EXPERTISE_AUTHORSHIP_AND_PRIVATE_KNOWLEDGE`; D1-D2; high with bounds | C/E/F withB0120/0142/0171/0181: own limits, shop authority, child authorship, local help and withheld answers remain differentiated; no omniscience or timeless disclosure rule. |
+| `CL-B0220-017` | `COMPANY_PREFERENCE_WITHOUT_UNIVERSAL_REPAIR`; D1-D2; high with bounds | A-G withB0164: ordinary-talk wish, costs and uncertain reception remain; gratitude/friendship/current happiness do not settle every prior relation or health question. |
+| `CL-B0220-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All37objects/30Japanese/210slots/wholeprojection, viewed128_01_01composite/contact/4originals,88priorrows/noChaChaREADY. No hearing/runtime/birthday lookup/newreadiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0167` | All37 full native states/30 Japanese/whole7-title-schema projection actually read. One128_01_01 composite/contact and originalbg037/023/031/002 individually viewed;7 commands/30 voice/210 slots/fixed actor verified. | Static only. BG037A4pages3text;023B6/5;031C5/4;002D/E/F/G22/18. BGM0103/00514/00413 and all voice/SFX unlistened. F040_002/G040_001 identifiers not chronology; F:P3 doubleLF preserved. Fixed smile/kimono/gesture not symptom disproof, anger delivery, haircut, tea quality, dance proof, birthday identity or actual injured duck. |
+
+Totals:1582CL/42REV/7PRED/167AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions remain unchanged; no older-body, chronology, release or readiness rewrite.
+
+## B0221 Murasaki's own colour and the feeling she addresses
+
+Owner [B0221](../02%20Readings/T7S_B0221_DEEP_READING.md), reading SHA256 `886f7e41a8d98a60bd46e5e3491fc3fee7061c5c76a4337290164927e4e455bf`; source-lock 12.127, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-H scripts/hashes/full ranges. All28 physical before-controls, five SourceLock/seven coverage/four entity components froze at publishedfb16cddc/B0220/12.126 before primary. Original pending-cycle observation retained; successful B0220 audit41086219616/fullcycle9facf4a8 and auditedmain77c ancestor checked in fresh execution witness before semantic acceptance. All159 Murasaki prior rows actually read before primary; whole READY subject scan0. H is132pages/94text/38commands within the eight-occurrence family, not omitted or reduced to the seven short cases. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0221-001` | `AGE_AND_SOCIAL_READING_AS_SELF_ACCOUNT`; D1-D2; high with bounds | A:P1: her explicit18age/ordinary-treatmentcontrast not universal age/legalstate or everyone's independentview. |
+| `CL-B0221-002` | `WANTED_CARE_AND_SURPRISED_LOCAL_ACCEPTANCE`; D1-D2; high with bounds | A:P2-3: authoredrequest/suddenpiggyback/surprise->acceptance, no blanketpermission/kinship or animatedview. |
+| `CL-B0221-003` | `COLOUR_LANGUAGE_REDIRECTED_TO_STYLE`; D1-D2; high with bounds | B:P1-2: suggestiveness and clarification retained, no supplied unspoken sexualact. |
+| `CL-B0221-004` | `COMPLETED_PEDICURE_WITH_ASSENT_GAP`; D1-D2; high with bounds | B:P3-4: commandagainstescape anddeclaredcompletion coexist, no full Playerconsent or erasingactbecauseportraitfixed. |
+| `CL-B0221-005` | `AVAILABLE_TIME_INVITATION_AND_DRINK_DISTINCTION`; D1-D2; high with bounds | C:P1-4: willingaftertime/ownsoftdrink/hischoice/extra-carepouringoffer, no completedouting/alcoholbyher/standingduty. |
+| `CL-B0221-006` | `PARTICULAR_ATMOSPHERE_AS_SHARED_VALUE`; D1-D2; high with bounds | D:P1-4: attributedretrodescription plus manager/peer theatreair, no independenttechnicalcensus. |
+| `CL-B0221-007` | `FIGURATIVE_CULTIVATION_RETAINS_SINGER`; D1-D2; high with bounds | D:P5 withB0087: jukeboxgrowthmetaphor notliteral machine or cededtotalartisticagency. |
+| `CL-B0221-008` | `PROPOSED_STAGING_AND_OUTWARD_ATTENTION`; D1-D2; high with bounds | E:P1-4: mirrorball/peerbeauty/selfreappraisal notactualinstallation orfullbiography. |
+| `CL-B0221-009` | `VALUED_CHANGE_WITHOUT_UNLIMITED_AUTHORITY`; D1-D2; high with bounds | E:P5: attributedmanagerinfluence/request notsoleauthororrighttooverridechoices. |
+| `CL-B0221-010` | `TASTE_DISTINGUISHED_FROM_ARTISTIC_REGISTER`; D1-D2; high with bounds | F:P1-3 withB0105/H: sweetcoffee/bittermusic/recipientgift localpreferences notfixedglobalpalate oranalysttasting. |
+| `CL-B0221-011` | `INDULGENCE_AS_WANTED_EXPERIENCE`; D1-D2; high with bounds | F:P4 withA: meltmetaphor/carewish notliteralcondition/completedcare orpermanenthelplessness. |
+| `CL-B0221-012` | `SELF_DIRECTED_ANGER_AND_REPORTED_REBUKE`; D1-D2; high with bounds | G:P1-3 withD: owncleaninglapse/Harureport/theatrevalue, no Haruownwords/clinicaltrait. |
+| `CL-B0221-013` | `HURT_WORDING_AND_REQUESTED_ACTION`; D1-D2; high with bounds | G:P4-5: delicateresponse/jointcleanuprequest/actionvalue, no completedcleaning orpermanentdutytransfer. |
+| `CL-B0221-014` | `DIRECT_FEEDBACK_AND_REPORTED_CRITIQUE_DIFFERENTIATED`; D1-D2; high with bounds | H:P1-23: composerinitialpraise/task vsMurasakireportedearlierlyriccritique, no acousticverification/permanentfeelingdeficit. |
+| `CL-B0221-015` | `QUALIFIED_PEER_METHOD_AND_OWN_ANSWER`; D1-D2; high with bounds | H:P24-38: Kazumiexperience/probableinterpretation/eventexperiment, no universalrequirementofactualromance/autobiography. |
+| `CL-B0221-016` | `RESERVED_ROMANCE_ANSWER_AND_PRIVATE_HISTORY`; D1-D2; high with bounds | H:P27-39 withB0039: question/secret notloveridentification orprivatewritingasautobiography. |
+| `CL-B0221-017` | `RECIPIENT_CALIBRATION_AND_DIFFERENT_TASTE_APPRAISALS`; D1-D2; high with bounds | H:P42-50: slightlysweetvsquitebitter/recipientreason/temperinguncertainty, no normalization/complete diet/tastedquality. |
+| `CL-B0221-018` | `CHOICE_AND_WAITING_WITHOUT_DIAGNOSIS`; D1-D2; high with bounds | H:P56-77: heartmoldselection/repeatedchecks/restlessreassurance, no directpropimage/clinicalcondition/guaranteedsuccess. |
+| `CL-B0221-019` | `CRAFT_COMPLETION_AND_PREDICTED_RECEIPT`; D1-D2; high with bounds | H:P78-89: finishedwrap/ribbon/nameaddressee andKazumidelightprediction, no actualgiftresponse oragreedrelationship. |
+| `CL-B0221-020` | `EXPRESSIVE_CHANNEL_AND_READER_ONLY_RECOGNITION`; D1-D2; high with bounds | H:P91-104: cannotverbalize/songcounsel/internal99-100 uptake, no automaticothersknowledge orforcedprivatedisclosure. |
+| `CL-B0221-021` | `LOCAL_PROFESSIONAL_RECEPTION_WITH_PERFORMANCE_GAP`; D1-D2; high with bounds | H:P105-108: composerpraise/acceptance/repeatworkwish directlygiven, performanceelided/unheard, no universalqualitycertificate. |
+| `CL-B0221-022` | `PLAYER_KNOWLEDGE_AND_OWN_RECEPTION_DISTINGUISHED`; D1-D2; high with bounds | H:P110-119: pastdiscouragementsecondhand/currentwarmthflutterattractionownreply, no fullcraftprocessknowledge orall-audienceverdict. |
+| `CL-B0221-023` | `EXPLICIT_ADDRESSEE_AND_VALENTINE_HOPED_RESPONSE`; D1-D2; high with bounds | H:P121-128: thoughtofhimsinging/hissurprise/secondwork/greeting, no gift-eating/endingresponse/reciprocalconfession/formalromance. |
+| `CL-B0221-024` | `ACT_SPECIFIC_CARE_LABOR_AND_ASSENT`; D1-D2; high with bounds | A/B/C/F/G withB0102/0127/0142/0156/0170: care/skill/affection do noteraseescapecommand/costs/earlierpressure or makeassentunnecessary. |
+| `CL-B0221-025` | `OWN_COLOUR_THROUGH_CHOSEN_LEARNING`; D1-D2; high with bounds | D/E/H withB0087/0140/0178: actualsinger/coauthors/reciprocaldirections andparticularfeeling preserved, no replacementideal/unlimitedmanagerauthorship. |
+| `CL-B0221-026` | `QUESTIONS_DISCLOSURE_AND_KNOWLEDGE_ACCESS`; D1-D2; high with bounds | H: Kazumireservesanswer/Murasakican'tyetexplain/readerthoughtlaterchosenaddress, no omniscience/universalowedconfession. |
+| `CL-B0221-027` | `WITHIN_OCCURRENCE_SEQUENCE_WITHOUT_MENU_CHRONOLOGY`; D1-D2; high with bounds | A-H: Hinternalproposal-craft-insight-receipt sequence retained; noyearassigned/totalorderingofindependentcases. |
+| `CL-B0221-028` | `COMPLETE_EXTENDED_NATIVE_AND_STATIC_BOUNDARY`; D1-D2; high with bounds | All169objects124JP/wholeprojection/159prior/wholeREADYscan0/19outputs-contact/10originals actualreviewed. Hslot10/PLAYERspeakerflag/absentSound/noVoice/3titles preserved; nohearing/runtime/readiness/release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0168` | All169fullobjects/124Japanese/wholeprojection actuallyread;19occurringoutputs/contact and10originals actuallyviewed;159priorrows/wholeREADYscan0. A-G37states/30voice; H132states94text38commands/noVoice;1744slots230actors/7-13arrays, H66slot10 andH122PLAYER/Murasakispeakerflag retained. | Staticonly, raw21PNGshashbound notallseparatelyviewed. Explicitall-stateBGM0108/00574/00439/00730; nineHstatesSoundabsent. No actualsong/voice/music/SFXheard/runtime. No animatedpiggyback/pedicure/chocolateprop/finishedcleaning/performedvocal orcertifiedreciprocalromance. |
+
+Totals:1610CL/42REV/7PRED/168AV. Earlier claims/revisions/predictions/AV and29 historicalREADY bodies remain exact. No source/release/readiness boundary promotion.
+
+## B0222 Miwako's chosen disclosures, study and reciprocal teaching
+
+Owner [B0222](../02%20Readings/T7S_B0222_DEEP_READING.md), reading SHA256 `6f7c30c8f47e9e0941334128a4fc27144a5e5293b11a4c9a79ec65772c58ccc3`; source-lock 12.128, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls / five SourceLock / seven coverage / four entity components froze at published0b0f00a7/B0221/12.127 before primary. Audited mainbf48d9b1 is an ancestor. The entry's then-pending cycle observation stays frozen; separate execution witness and completed predecessor cycle govern semantic acceptance. All114 published Miwako rows actually read before primary; whole READY subject scan0. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0222-001` | `PARTICULAR_RECOGNITION_WITHOUT_TOTAL_ACCESS`; D1-D2; high with bounds | A:P1-2: a noticed unnamed hobby pleases Miwako, but supposed complete understanding is her challenged interpretation, not granted mind access. |
+| `CL-B0222-002` | `OPEN_MYSTERY_AS_SUSTAINED_CURIOSITY`; D1-D2; high with bounds | A:P3: logic-limits challenge leaves an answer open; no solved romantic confession or global anti-reason doctrine. |
+| `CL-B0222-003` | `REPORTED_MUSICAL_PEER_RECOGNITION`; D1-D2; high with bounds | B:P1-3: obscure-singer conversation/appraised curiosity/invitation preserve Miwako's report; no current Ferb interior or completed outing. |
+| `CL-B0222-004` | `REVISED_BOLDNESS_AND_CHOSEN_NONDISCLOSURE`; D1-D2; high with bounds | B:P4-5: minimization becomes quite bold and details stay secret; no exact conduct or identification with B0132 front-area episode. |
+| `CL-B0222-005` | `PRESENT_IMAGE_AND_REQUESTED_TEACHING_DIFFER`; D1-D2; high with bounds | C:P1-2: peers' sexy-image question does not give Miwako a ready formula; no completed universal coaching role. |
+| `CL-B0222-006` | `YOUNGER_SELF_WITHOUT_AGE_ADJUDICATION`; D1-D2; high with bounds | C:P2-3: changed self-image/apparent younger-self prompt remain relative and mediated, no exact age or full biography. |
+| `CL-B0222-007` | `REPORTED_QUESTION_AND_INFERRED_DEVALUATION`; D1-D2; high with bounds | D:P1-3: classmate recognition/question and Miwako's inferred outdatedness stay distinct; no independently voiced insult, inspected post or era census. |
+| `CL-B0222-008` | `SHARED_GENRE_VALUE_AND_LOCAL_VENTING_RELIEF`; D1-D2; high with bounds | D:P4-5: rock/idol defense, apology/thanks and self-reported relief retain listener-specific reception; no universal critic motive or cure. |
+| `CL-B0222-009` | `STUDY_AND_MUSIC_AS_IMAGINED_PLURAL_LIFE`; D1-D2; high with bounds | E:P1-3: no prior UK visit, desired English study/ale-rock evenings and funding idea remain prospective, no proficiency or accepted workload. |
+| `CL-B0222-010` | `CONTINUING_IDOL_INTENTION_AND_ALTERNATIVE_TOUR`; D1-D2; high with bounds | E:P4-5: intended return/not quitting and manager-accompanied touring thought give alternative futures, not a booked journey or final choice. |
+| `CL-B0222-011` | `BOUNDED_MEAL_ACCEPTANCE_AND_RECIPROCAL_TEASING`; D1-D2; high with bounds | F:P1-2,5: meal/meeting premise, after-alone joke and cute/blush uptake do not establish actual eating, manager interior or later intimacy permission. |
+| `CL-B0222-012` | `SPECIFIC_TASTE_AND_REQUESTED_PRIVACY`; D1-D2; high with bounds | F:P3-5: mentaiko/spice/texture preference and secrecy request resist image-based assumptions; no allergy, all-spice refusal, age proof or actual promise. |
+| `CL-B0222-013` | `RECIPROCAL_TEACHING_AS_LOCAL_LEARNER_RECOGNITION`; D1-D2; high with bounds | G:P1-3: reported Tasha instruction follows Miwako's English help and earns affectionate teacher recognition, no uniform hierarchy reversal. |
+| `CL-B0222-014` | `UNRESOLVED_PRONUNCIATION_WITHOUT_PHONETIC_VERDICT`; D1-D2; high with bounds | G:P4: Miwako's uncertainty remains epistemic; kana greeting/text supply no performed pronunciation, diagnosis or tested fluency. |
+| `CL-B0222-015` | `ROLE_COMPETENCE_IS_TASK_AND_ACCESS_BOUND`; D1-D2; high with bounds | C/G withB0120/0160/0177/0180: teaching, consented learning and qualified analogy preserve distinct skills/limits, no omniscience or global incompetence. |
+| `CL-B0222-016` | `DISCLOSURE_PRIVACY_AND_EARLIER_UNEQUAL_KNOWLEDGE`; D1-D2; high with bounds | A/B/F withB0170: mystery, reserved concert detail and food secrecy differ from prior recall/disclosure asymmetry; no timeless withholding rule or retrospective total cure. |
+| `CL-B0222-017` | `MUSIC_COMPANY_AND_FUTURE_AUTHORSHIP`; D1-D2; high with bounds | B/D/E withB0094/0132: desired peer recognition and plural pleasures/study within continued work remain actual attitudes/prospects, not all risk consent or settled career. |
+| `CL-B0222-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All37objects/30Japanese/210slots/completeprojection; one134_01_01composite/contact/3originalBGs and114priorrows/noMiwakoREADY actually reviewed. No hearing/runtime/new readiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0169` | All37 full native states/30Japanese/whole7-title-schema projection actually read. One134_01_01composite/contact and originalbg004/031/002 individually viewed;7commands/30voice/210slots/fixedactor verified. | Static only. BG004A4/031B6/002C-G27states; BGM0103/0043/00524 and all voice/SFX unlistened. F042_004/G042__005 includingdoubleunderscore identifiers not chronology. Repeated books/glasses/dress/pose/face supply no age/credential, pronunciation, Player blush, changing anger or actual concert, campus exchange, UK trip, meal or Tasha lesson. |
+
+Totals:1628CL/42REV/7PRED/169AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions remain unchanged; no older-body, chronology, release or readiness rewrite.
+
+## B0223 Ayumu's service ideal, practice and fallible explanations
+
+Owner [B0223](../02%20Readings/T7S_B0223_DEEP_READING.md), reading SHA256 `cc2db67f5e37264205e8485d07c99df1a30aea673895f6a1863a1651397b630b`; source-lock 12.129, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts, hashes and whole primary ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at publishedbeb7bf14/B0222/12.128 before primary. Audited mainbf48d9b1 is an ancestor. The entry's pending-cycle observation stays frozen; fresh exact execution witness and completed predecessor cycle govern semantic acceptance. All94 published Ayumu rows and whole READY subject scan0 actually reviewed before primary. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0223-001` | `RECEIVED_FEELING_WITHOUT_CLOSED_ROMANTIC_CATEGORY`; D1-D2; high with bounds | A:P1-2: Nanasta/manager felt effects are Ayumu's experience, not full reciprocal mind, settled romance or institutional guarantee. |
+| `CL-B0223-002` | `PLAYFUL_SERVICE_ROLE_PERMEABILITY`; D1-D2; high with bounds | A:P3 withF:P6: proposed maid contest and imagined maid-manager reverse roles without a new identity, contest, appointment or supernatural proof. |
+| `CL-B0223-003` | `FORMAL_PRACTICE_REPORTED_EXAM_AND_WRITTEN_SLIP`; D1-D2; high with bounds | B:P1-3: formal attempt/nya/difficulty and upcoming-test explanation supply no verified examining authority, result or performed delivery. |
+| `CL-B0223-004` | `PERFECTION_IDEAL_AND_CONTINUING_EFFORT`; D1-D2; high with bounds | B:P4-5: own poepoe confidence/formal-language standard/recommitment remain situated, no universal ranking, permanent mastery or forced order with B0120. |
+| `CL-B0223-005` | `DESIRED_CHERISHING_WITHOUT_LITERAL_OWNERSHIP`; D1-D2; high with bounds | C:P1-3: pet possibilities/pink-crocodile preference/being-kept wish prioritize expected care, no adoption, contract or manager assent. |
+| `CL-B0223-006` | `CARE_OFFER_WITH_UNVERIFIED_COLD_EXPLANATION`; D1-D2; high with bounds | C:P4-5: red-face report/possible cold/nursing and power promise stay actor interpretation/offer, no independent blush, diagnosis, cure or completed care. |
+| `CL-B0223-007` | `CONDITIONAL_PERSONALIZED_FOOD_PRESENTATION`; D1-D2; high with bounds | D:P1-2: offered special omurice and requested illustration preserve welcome/customization conditions and self-appraised skill, no served/tasted result. |
+| `CL-B0223-008` | `DEFAULT_SIGN_AND_INTENDED_RECIPIENT_EFFECT`; D1-D2; high with bounds | D:P3-4: large heart if no order expresses service intent, no selected game branch, actual drawing or received kyunkyun. |
+| `CL-B0223-009` | `INDIVIDUALIZED_REPORTED_COACHING`; D1-D2; high with bounds | E:P1-3: explained Yukirin/Shirayuki and voice-based service proposal retain reported access, not heard voice, diagnosis or full pupil assent. |
+| `CL-B0223-010` | `CONTINUED_SHYNESS_AND_CONFIDENT_POTENTIAL`; D1-D2; high with bounds | E:P4-6: remaining embarrassment coexists with Ayumu's projection and renewed effort, no demonstrated cure, mastery or global superiority. |
+| `CL-B0223-011` | `PARTICULAR_GIFT_EXCHANGE_AND_ATTRIBUTED_GENERALIZATION`; D1-D2; high with bounds | F:P1-2: seat/candy report and Osaka-3rd hearsay confirmation remain different warrants, no regional census or inspected scene. |
+| `CL-B0223-012` | `SELF_EXPLANATION_AND_UNIVERSAL_SERVICE_WISH`; D1-D2; high with bounds | F:P3-6: kyunkyun-energy motive, service-heart happiness and maid-manager image stay ideals/inferences, no universal consent, enacted governance or proved power. |
+| `CL-B0223-013` | `REMEMBERED_GUIDANCE_AND_MEMORY_DISCREPANCY`; D1-D2; high with bounds | G:P1-3: Ayumu's credited statement and apparent manager non-recollection are neither certified origin quote nor conclusive denial; her joke reading does not resolve it. |
+| `CL-B0223-014` | `WORK_EFFECT_AND_PRESENT_RECIPROCITY_GOAL`; D1-D2; high with bounds | G:P4-6: increased reflection and intended gratitude service retain own effect/goal without requiring verified earlier wording or completed repayment. |
+| `CL-B0223-015` | `RECIPROCAL_CARE_WITH_CAPACITY_AND_KNOWLEDGE_LIMITS`; D1-D2; high with bounds | A/C/G withB0158: receiving and returning care do not erase illness-causation uncertainty, work burden or needed assent. |
+| `CL-B0223-016` | `TASK_LOCAL_LEARNING_AND_ADAPTIVE_TEACHING`; D1-D2; high with bounds | B/E withB0120/0163/0167: practice, chosen idiom and individual proposals coexist, no universal method, missing scheduling permission or fabricated pupil reception. |
+| `CL-B0223-017` | `SERVICE_IDEAL_WITHOUT_ETHICAL_EXONERATION`; D1-D2; high with bounds | C/F/G withB0082/0169/0179: safeguarding gaps, actual-versus-fantasy limits and trap/privacy costs survive warm ideals, no complete reform or hidden domination. |
+| `CL-B0223-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All42objects/35Japanese/245slots/wholeprojection; one122_01_01composite/contact/2originalBGs and94priorrows/noAyumuREADY actually reviewed. No hearing/runtime/new readiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0170` | All42 full native states/35Japanese/whole7-title-schema projection read. One122_01_01composite/contact and originalbg005/002 individually viewed;7commands/35voice/245slots/fixedactor/104,104offset verified. | Static only. BG005A4/002B-G38states; BGM0103/0045/00521/0086 and all voices/SFX unlistened. D043_005/F043_006/Gvo_intimate__043_001 exact resource names, not chronology. Fixed twin-tail/V-sign/cardigan/skirt pose gives no current maid costume, exam credential, diagnosis, Player blush, food drawing, Shirayuki voice, train scene or world program; lounge cat unassigned. |
+
+Totals:1646CL/42REV/7PRED/170AV. Earlier claims/revisions/predictions/AV and29 historical READY decisions remain unchanged; no older-body, chronology, release or readiness rewrite.
+
+## B0224 Shirayuki's growing skills and wanted company
+
+Owner [B0224](../02%20Readings/T7S_B0224_DEEP_READING.md), reading SHA256 `75f24605a75b9fa7dc0b92b8654adb7969e1c6e02ca64e0e52bf87df1c7623f2`; source-lock 12.130, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-G scripts/hashes/whole ranges. All28 committed before-controls/five SourceLock/seven coverage/four entity components froze at published9c271744/B0223/12.129 before primary. Captured source contains audited mainbf48d9b1. The entry's pending-cycle observation stays frozen; completed predecessor cycle and fresh exact main/source witness govern semantic acceptance. All117 prior Shirayuki rows and complete READY0024 were actually read before primary; its R2 remains at MainB0069 only. No menu chronology, performed hearing or runtime.
+
+| ID | Claim / warrant | Reading and retained limit |
+| --- | --- | --- |
+| `CL-B0224-001` | `FELT_FAMILY_RESEMBLANCE_WITHOUT_NEW_KINSHIP`; D1-D2; high with bounds | A:P1-2: familiar company motivates her bride/family question, no independent answer, new relative or current marriage. |
+| `CL-B0224-002` | `CONDITIONAL_SHARED_LANDSCAPE`; D1-D2; high with bounds | A:P3: repeated star-watching wish retains its if-condition; viewed daytime urban green supplies no actual hometown/night visit. |
+| `CL-B0224-003` | `AVAILABILITY_CONDITION_AND_WANTED_AUDIENCE`; D1-D2; high with bounds | B:P1-2: school invitation/expected encouragement, no accepted attendance, ranking or performed outcome. |
+| `CL-B0224-004` | `INSTRUMENT_SPECIFIC_DIFFICULTY_AND_PRACTICE`; D1-D2; high with bounds | B:P3-4: piano self-appraisal differs from melodicabreath task/written cough; no acoustic technique, diagnosis or global talent judgment. |
+| `CL-B0224-005` | `APPRECIATED_ATTENTION_AND_SELF_DESCRIPTION`; D1-D2; high with bounds | C:P1-2: reported Yumeno fondness and gratitude coexist with wanting beauty beyond cute; no full permission or prior ethical exoneration. |
+| `CL-B0224-006` | `QUALIFIED_FUTURE_AND_PATIENT_ATTENTION`; D1-D2; high with bounds | C:P3-5: wait/continuingidol intention/woman-look joke/patient growth request supply no agreed future, age, retirement or mature transformation. |
+| `CL-B0224-007` | `SPECIFIC_SCHOOL_RESULT_CHOSEN_FOR_A_RECIPIENT`; D1-D2; high with bounds | D:P1-3: reported100/first-show plan/praise motive, no pictured paper, supplied praise or standardized global mastery. |
+| `CL-B0224-008` | `IDOL_SCORE_AS_ASPIRATION`; D1-D2; high with bounds | D:P4: idol100 extends score-language toward future effort, no equivalent rubric or accomplished perfection. |
+| `CL-B0224-009` | `REPORTED_HELP_WITH_SITUATED_DIFFICULTY`; D1-D2; high with bounds | E:P1-3: school escort gratitude/route-bus complexity are attributed action/self-report, no new journey, census or fixed incapacity. |
+| `CL-B0224-010` | `COMPANY_DESIRED_AFTER_IMAGINED_MASTERY`; D1-D2; high with bounds | E:P4 explicitly removes practical ignorance yet retains wanting company; no accepted request or permanent duty. |
+| `CL-B0224-011` | `RECIPROCAL_REPORTED_LANGUAGE_PLAY`; D1-D2; high with bounds | F:P1-2: Madoka exchange and curiosity coexist with Tokyo-speech need; no present peer turn, complete lesson or rejected rural self. |
+| `CL-B0224-012` | `WRITTEN_IMITATION_AND_OPEN_LEARNING_AMBITION`; D1-D2; high with bounds | F:P3-4: visible ja-form contrast/appraisal question/foreign-language goal, no heard accuracy, region adjudication, fluency or later SOL causal proof. |
+| `CL-B0224-013` | `LANDSCAPE_PREFERENCE_AND_OUTING_INVITATION`; D1-D2; high with bounds | G:P1-2: actor comparison/calm and holiday proposal, no geographic census, therapy result, assent or actual hike. |
+| `CL-B0224-014` | `SELF_CLAIMED_SKILL_AS_PROSPECTIVE_GIVING`; D1-D2; high with bounds | G:P3-4: wind-based finding claim/digging offer/shared pot meal remain untested/unperformed, no harvest/taste or supernatural certification. |
+| `CL-B0224-015` | `CAPABILITY_AND_CONTINUED_COMPANY_CAN_COEXIST`; D1-D2; high with bounds | B/D/E: taskwork and a result do not force relational wishes to disappear; explicit imagined route mastery defeats automatic permanent-incapacity reading. |
+| `CL-B0224-016` | `ATTENTION_TO_SELF_AUTHORED_GROWTH`; D1-D2; high with bounds | C/D/F: beauty/skill/recognition/language interest open different future descriptions, no uniform endpoint or adult contract. |
+| `CL-B0224-017` | `RECIPROCAL_POSITIONS_WITH_SEPARATE_HORIZONS`; D1-D2; high with bounds | A/E/G withB0101/B0139/B0177/B0223: receiving and offering preserve assent/reception/privacy/task limits; no menu chronology, fixed giver roles or solved public shyness. |
+| `CL-B0224-018` | `BOUNDED_NATIVE_STATIC_INTEGRATION`; D1-D2; high with bounds | All35objects/28Japanese/196slots/wholeprojection; one148composite/contact/2originalBGs and117priorrows/completeREADY0024 actually reviewed. No listening/runtime/new readiness/full2034release/2053. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0171` | All35 full native states/28Japanese/whole7-title-schema projection read; one148_01_01composite/contact and originalbg035/002 individually viewed. SevenP0/28voice/196slots/fixedactor/112,96 offset verified. | Static only. BG035A4dayurban green/002B-G31dayoffice; BGM0103/0058/00417 and allvoices/se007 unlistened. F044_006/G044_001 literal cues, not chronology. Fixed goldenhair/blueeyes/dottedbow/apron-like front/huggedrabbit pose certifies no new blush, test/recital/escort, regional accent, night village visit, mountain/harvest/meal or current peer response. Body/face rawPNGs hash-bound, not separately claimed viewed. |
+
+Totals:1664CL/42REV/7PRED/171AV. Earlier claims/revisions/predictions/AV and all29 historical READY decisions remain exact; no older-body, chronology, release or readiness rewrite.
