@@ -4,7 +4,7 @@ artifact_id: T7S_STORY_CAUSAL_STATE_COMPONENT_003
 artifact_type: story_causal_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0229; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-31
 ---
@@ -1459,4 +1459,14 @@ Owner [B0229](../02%20Readings/T7S_B0229_DEEP_READING.md), reading SHA256 `bdc19
 | `EDGE-1577` | `EV-B0229-008 / EV-B0229-009` | FORMAL_COMPARISON: Address and interpreted looking make closeness meaningful to Susu without supplying the other person assent. |
 
 Totals:1454EV/25WORLD/47THREAD/1570 active EDGE, maximum1577 with seven intentional older gaps retained. No new WORLD/THREAD or invented cross-case chronology.
+
+## B0230 Coney asks what the manager wants
+
+Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f199b0a614c027ccdc16a0f12ebe7f92b7de17c113d5a0c8fd244729c9bc`; source-lock 12.137, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Whole401000374 / intimate_0374.json__6637fc3dfe7ca189 P0-3/log0-3, source95f4944979dcd9d6eb602ecbc2d92e69c6004145c42a85c6a6f90d4f248e6720 and normalizedacf1180e3d5fedd5d9349a3ac1ea3322715b54678679e7734ad473b2c9d63fa8. All32 controls/complete5source/7coverage/4entity/3story views froze at publishedb8c8b194/B0229/12.136 before primary. All447 matching prior rows/whole READY0018 actually read and fresh published bytes matched preview. All4 literal native objects/3 Japanese-name records/title/every-key projection/21 slots read; one full composite/contact/one original BG viewed. Three voice/BGM/SFX cues unlistened; runtime unobserved. This conditional occurrence has no menu-derived Main/2043/EP6 placement.
+
+| ID | Whole primary range | Factual event and retained frame |
+| --- | --- | --- |
+| `EV-B0230-001` | 401000374 P0-3 | Coney initiates a serious talk, asks whether the manager found his own desired purpose as well as the girls', conditionally hopes she has helped, recognizes his effort, thanks him and asks future cooperation. QUESTION_CONDITIONAL_HOPE_AND_RECOGNITION; no supplied answer, goal attainment, measured help, recipient assent or permanent return. |
+
+Totals:1455EV/25WORLD/47THREAD/1570 active EDGE, maximum1577 with seven intentional older gaps. No new edge, invented chronology, WORLD or THREAD.
 <!-- T7S STORY CAUSAL STATE PAYLOAD END -->

@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.19"
+version: "1.20"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,7 +12,7 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0229; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
 last_updated: 2026-10-31
 ---
@@ -1006,4 +1006,30 @@ Existing Susu `IDENTITY-0021 / CHAR-0018 / alessandra-susu`, Player `IDENTITY-00
 | `REL-1273` | `serizawa-momoka → alessandra-susu` | Reported informant only in Susu account; no direct Momoka turn, proven malice, reliable cultural teaching or actual shoe tampering. G:P5. Reciprocal1272. |
 
 Totals:1985 KNOW/1273 REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0009 remains complete B0010/201000909 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED; all nine capabilities and counterexamples/obligations remain exact. C's present explicit homesickness does not revise an earlier unknown motive. No new identity or readiness promotion.
+
+## B0230 Coney asks what the manager wants
+
+Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f199b0a614c027ccdc16a0f12ebe7f92b7de17c113d5a0c8fd244729c9bc`; source-lock 12.137, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Whole401000374 / intimate_0374.json__6637fc3dfe7ca189 P0-3/log0-3, source95f4944979dcd9d6eb602ecbc2d92e69c6004145c42a85c6a6f90d4f248e6720 and normalizedacf1180e3d5fedd5d9349a3ac1ea3322715b54678679e7734ad473b2c9d63fa8. All32 controls/complete5source/7coverage/4entity/3story views froze at publishedb8c8b194/B0229/12.136 before primary. All447 matching prior rows/whole READY0018 actually read and fresh published bytes matched preview. All4 literal native objects/3 Japanese-name records/title/every-key projection/21 slots read; one full composite/contact/one original BG viewed. Three voice/BGM/SFX cues unlistened; runtime unobserved. This conditional occurrence has no menu-derived Main/2043/EP6 placement.
+
+Existing Coney `IDENTITY-0003 / CHAR-0003 / rokusaki-connie-presented` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their actually read routes. Coney is the canonical Latin spelling; the old token remains an identifier. Established Nicole literary continuity/holder-specific knowledge remain, with no new disclosure, machine master identity, age or date. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current qualifier for CHAR-0003:** Coney recognizes the manager as someone with his own desired direction and expresses conditional hope that her help matters, gratitude for effort and a wish for continued cooperation. These are her expressed attitudes. Prior opportunities, uncertainty, work cover and care coexist with directive methods, privacy/consent failures and unresolved accountability. Acknowledgment does not certify all past plans or later permanent leadership.
+
+**Current qualifier for CHAR-0001:** The manager is addressed about his own purpose and recognized for trying; no answer or independently supplied interior state is present. No completed self-discovery, workload assessment, assent or institutional reform follows from Coney's question.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1986` | Coney says she wants a slightly serious talk with the manager today. | P1; written conversational intention, no heard timbre or crisis diagnosis. |
+| `KNOW-1987` | Coney asks whether he found what he truly wants to do. | P2; question, no supplied answer or goal realization. |
+| `KNOW-1988` | Coney expressly includes the manager's wish beyond the girls' wishes. | P2; widened addressed scope, no abandonment of others or complete manager interior. |
+| `KNOW-1989` | Coney would be glad if she has helped him even a little. | P2; conditional hope, no independent effect measure, sole-cause claim or ethical acquittal. |
+| `KNOW-1990` | Coney thanks him and says she too knows he is trying. | P3; her recognition, no exclusive confidant status, measured workload or complete access. |
+| `KNOW-1991` | Coney asks continued cooperation. | P3; future request, no recipient assent, new contract, dated return or permanent command. |
+
+| ID | Directional relation | Source and retained limit |
+| --- | --- | --- |
+| `REL-1274` | `rokusaki-connie-presented → player-protagonist` | P1-3; asks after his own purpose, conditionally hopes to help, recognizes effort and invites continuation. No proven benefit, total past motive or repaired boundary failure. Reciprocal1275. |
+| `REL-1275` | `player-protagonist → rokusaki-connie-presented` | P1-3; recipient of her question/support/request, with no independently supplied turn. No private response, assent or permanent joint future known. Reciprocal1274. |
+
+Totals:1991KNOW/1275REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0018 remains B0063/retrospective EP0.7 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED, with six combined capability rows, counterexamples and unresolved obligations exact. No maturity promotion or rewriting of earlier accountability/absence/motive limits.
 <!-- T7S ENTITY STATE PAYLOAD END -->

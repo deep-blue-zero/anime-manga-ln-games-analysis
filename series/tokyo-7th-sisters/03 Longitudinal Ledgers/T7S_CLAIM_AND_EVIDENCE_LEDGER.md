@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.131"
+version: "11.132"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 348 Intimacy primary documents across 48 family portfolios / T7S_B0182–T7S_B0229; no further non-Main/additional story or 2053 semantic source"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; no further non-Main/additional story or 2053 semantic source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-10-31
@@ -20,13 +20,13 @@ last_updated: 2026-10-31
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 348 complete Intimacy primary documents across 48 family portfolios. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios. Administrative authority metadata is not literary evidence.
 
 Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`claims = 1758`; `revisions = 43`; `predictions = 7`; `AV_reviews = 176`; `literary_findings = 1758`. Claims are bounded to their stated B0001 through B0229 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 348 complete Intimacy primary documents across 48 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1764`; `revisions = 43`; `predictions = 7`; `AV_reviews = 177`; `literary_findings = 1764`. Claims are bounded to their stated B0001 through B0230 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -4717,3 +4717,22 @@ Owner [B0229](../02%20Readings/T7S_B0229_DEEP_READING.md), reading SHA256 `bdc19
 | `AV-0176` | All49 literal native objects/40 Japanese/name records/nine titles/every-key projection read; one full011_01_01 composite/contact/three original BGs viewed. Body/face offset89,54; forty seven-slot arrays/280 slots/40 identical single actors in slot3, frontfalse/speakertrue/tremblefalse/fades0/slides0. | Static only: layered light floral tunic/orange-tan outer layer/red leggings, fixed small smile and turned hand-near-chin pose. BG005 communal lounge A/C10,004 mirrored studio B6,002 office D-I33. No actual massage/moon/parent/wedding/shoe/shopping/rakugo scene or animated affect; two raw actor PNGs hash-bound, not separately viewed. Forty voice/BGM/SFX cues unlistened; no runtime/technical stage claim. |
 
 Totals:1758CL/43REV/7PRED/176AV. All43 previous revision records, seven predictions, prior claims/AV and29 historical READY decisions remain exact. These bounded independent occurrences require no revision of older unknown motives or READY decisions; earlier REV0043 remains unchanged.
+
+## B0230 Coney asks what the manager wants
+
+Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f199b0a614c027ccdc16a0f12ebe7f92b7de17c113d5a0c8fd244729c9bc`; source-lock 12.137, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Whole401000374 / intimate_0374.json__6637fc3dfe7ca189 P0-3/log0-3, source95f4944979dcd9d6eb602ecbc2d92e69c6004145c42a85c6a6f90d4f248e6720 and normalizedacf1180e3d5fedd5d9349a3ac1ea3322715b54678679e7734ad473b2c9d63fa8. All32 controls/complete5source/7coverage/4entity/3story views froze at publishedb8c8b194/B0229/12.136 before primary. All447 matching prior rows/whole READY0018 actually read and fresh published bytes matched preview. All4 literal native objects/3 Japanese-name records/title/every-key projection/21 slots read; one full composite/contact/one original BG viewed. Three voice/BGM/SFX cues unlistened; runtime unobserved. This conditional occurrence has no menu-derived Main/2043/EP6 placement.
+
+| Claim ID | Qualified claim / depth / confidence | Source and retained counterexample or limit |
+| --- | --- | --- |
+| `CL-B0230-001` | `THE_HELPER_IS_ADDRESSED_AS_A_PERSON_WITH_A_PURPOSE`; D1-D2; high with stated bounds | P1-2; Coney includes his own wish beyond the girls', without supplying his answer, found purpose or a choice to abandon responsibility. |
+| `CL-B0230-002` | `CONDITIONAL_HOPE_DOES_NOT_CERTIFY_HELP_EFFECTIVENESS`; D1-D2; high with stated bounds | P2; limited/conditional helping construction expresses her desired contribution, no measured success, sole cause or all-past-plans motive. |
+| `CL-B0230-003` | `RECOGNIZING_WORK_DOES_NOT_REQUIRE_EXCLUSIVE_INTERIOR_ACCESS`; D1-D2; high with stated bounds | P3; thanks and additive recognition concern her stance, not unique confidant status, complete workload or safe staffing. |
+| `CL-B0230-004` | `CONTINUED_COOPERATION_REMAINS_A_REQUEST`; D1-D2; high with stated bounds | P3; no recipient reply, ratified contract, permanent Coney command or dated reversal of later absence. |
+| `CL-B0230-005` | `CARE_AND_ACCOUNTABILITY_REMAIN_JOINTLY_LEGIBLE`; D1-D2; high with stated bounds | Whole occurrence with actually read447 prior rows; new support does not erase coercion/privacy failures, settle Nicole/master questions or revise earlier bounded knowledge. |
+| `CL-B0230-006` | `STATIC_WARMTH_DOES_NOT_COMPLETE_THE_UNANSWERED_CONVERSATION`; D1-D2; high with stated bounds | All4 native states/composite/contact/BG016; fixed smile and golden playground frame, no heard tenderness, changed expression, manager response, measured intervention or chronological placement. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0177` | All4 full native objects/3 Japanese-name records/title/every-key projection/21 slots read. Three identical002_01_01 actors in slot3/7, frontfalse/speakertrue/tremblefalse/fades0/slides0. Whole composite/contact/one original BG016 viewed, body/face offset132,64. | Pink twin tails/turquoise accents/red glasses/pink jacket-skirt/light shirt/clover-like fasteners/yellow band/striped socks, fixed smile and hand beside glasses. Golden playground with slide/climbing sphere/spring rider/shelter/trees/orbital structure. Raw actor PNGs hash-bound not separately viewed; no changed gesture, reverse shot, playback or stage technique. Three voice/BGM/SFX cues unlistened. |
+
+Totals:1764CL/43REV/7PRED/177AV. All previous claims/AV,43 revisions,seven predictions and29 historical READY decisions remain exact. One small conditional care encounter requires no retrospective revision or maturity promotion. All349Intimacy/49families closed; full2034 release remains incomplete and2053 blocked.
