@@ -5,7 +5,7 @@ artifact_type: character_reconstruction_protocol
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "0.4"
+version: "0.5"
 status: active_provisional
 scope: "Future source-bounded behavioral rules, portability and separate validation"
 source_boundary: "Protocol established at bootstrap; current source enrollment and readiness are owned by the character ledger"
@@ -22,7 +22,7 @@ recommended_reasoning_class: DEEP_SYNTHESIS
 
 # Character reconstruction protocol
 
-This is a protocol, **not a character model or readiness certification**. At bootstrap no subject had been source-enrolled or assessed; Kyoichi and Imagase were bibliographic candidates only. U01–U06 now supply source-enrolled states and local evidence gaps. The title-work review separately justifies two narrow proposed U06-state models; neither is prospectively validated. Secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
+This is a protocol, **not a character model or readiness certification**. At bootstrap no subject had been source-enrolled or assessed; Kyoichi and Imagase were bibliographic candidates only. The completed supplied witness now supplies source-enrolled states and explicit subject/domain dispositions in CM-RD-007. The title-work review separately justifies two narrow proposed U06-state models; neither is prospectively validated. Secondary subjects require their own independent evidence. The [character ledger](../03%20Longitudinal%20Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md) owns local readiness and gaps. The [method](CORNERED_MOUSE_ANALYTICAL_METHOD.md) owns observations; the [architecture](CORNERED_MOUSE_SYNTHESIS_ARCHITECTURE.md) owns promotion and literary integration.
 
 The live [capability specification](../../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md), [schema](../../../governance/schemas/character-reconstruction-capability.schema.json), and [maintenance policy](../../../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md) govern any later global evaluation. This project neither assigns global tiers nor writes their registry. A literary monograph is not an operational behavioral model, and a full-series synthesis cannot certify prediction readiness.
 
@@ -85,3 +85,9 @@ Global discovery, evidence curation, capability assessment and currentness check
 ## First title-work application — 2026-10-30
 
 The [title-work review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_TITLE_WORK_ARCHITECTURE_AND_READINESS_REVIEW.md) fixes the six-reading evidence set and subject/domain gaps. Proposed models under `04 Character Studies/` bind the committed U06 state and retain counterexamples, rival explanations, exclusions and abstention. Their rules and claims-ledger CM-PR-004–006 must commit before U07 inspection. Outcome records append separately; historical models/tests do not absorb later state silently. The optional repository generic reconstruction method informs evidence/model/test separation without superseding this protocol. Local proposed status is not a global capability judgment or permission to publish an unconstrained simulation.
+
+## Completed-corpus application — 2026-10-30
+
+The [corpus readiness/reconstruction review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_CORPUS_READINESS_AND_RECONSTRUCTION_REVIEW.md) assesses all20 subjects and source-case/domain gaps after539-image/source and longitudinal reconciliation. Four literary monographs and the continuous synthesis are complete; neither promotes a behavioral rule. Historical U06 proposal bytes/test words remain unchanged. PA006 finds no eligible U07–U10 rival trigger; PA004/005 retain state/selection qualifications and strict historical-state abstention versus narrower transfer matches; PA003's bounded literary failure persists. No homogeneous accuracy, fresh reread holdout or acoustic voice is claimed.
+
+Operational release remains withheld. The post-reunion state supplies too few repeated independent encounters for a stable useful final policy; unfamiliar/general-work transfer is thin, and no unread required narrative remains. Retrospective source probes assess limits without pretending independent external model validation. No successor is required solely because the literary corpus is rich. Future authorized proposals need their own version/state/preconditions/counterexamples/test and abstention contract above; new evidence cannot silently rewrite the U06 models. Global discovery/capability assessment and owner/CI integration remain separately owned. This application records completion of the reconstruction responsibility with bounded nonrelease, not a lowered readiness standard.

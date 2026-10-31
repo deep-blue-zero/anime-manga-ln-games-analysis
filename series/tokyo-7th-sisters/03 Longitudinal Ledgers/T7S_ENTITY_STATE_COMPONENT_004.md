@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.17"
+version: "1.20"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0227; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -913,4 +913,123 @@ Existing Ume `IDENTITY-0025 / CHAR-0022 / kujo-ume` is the sole focal coverage s
 | `REL-1263` | `saeki-hina → kujo-ume` | C/D: reported giver of an enjoyed snack and intervener who stops Ume. No independent current Hina words, complete reason, burden distribution or obligation to permanent mediation. Earlier capacity for decisive rupture remains at its Main horizon. Reciprocal REL-1262. |
 
 Totals:102IDENTITY/84CHAR/1940KNOW/1263REL/29UNIT/29READY. All prior identity routes, current-state bodies, sealed parts and whole historical readiness decisions remain byte exact. READY0013 stays Main4U/B0016/203001802 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY and performed-voice UNREVIEWED; no retrospective horizon expansion.
+
+## B0228 Hitoha and Futaba extend the duet
+
+Owner [B0228](../02%20Readings/T7S_B0228_DEEP_READING.md), reading SHA256 `854702cbe8d1b733c47f013ff00eaf2e2d7a05e1bb388cdc24d4c1774a843815`; source-lock 12.135, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Reading owns exact A-E scripts/hashes and all five whole primary ranges P0-5. All32controls/fiveSourceLock/sevencoverage/fourentity/threestory views froze at publisheddf82/B0227/12.134 before primary; all38matching priorrows and bothwholeREADY0016/17/all9fieldseach were actuallyread. Laterexecutionwitness3ae48a38 binds auditedsourceb00/audit41152866971 andCIintegratedmain d737/audit41153762151, fullrepo-treeidentical/sourceancestor, alloriginalT7Sbytes/32beforeimages exact. Originalentry/primaryreceipts remainatdf82, notbackdated. All30literalnativeobjects/25Japanese records/five-title/every-key projection read;8fullcomposites/contact/5originalBG viewed;25voices/BGM/SFX unlistened, runtimeunobserved.
+
+Existing focal people remain Hitoha `IDENTITY-0028 / CHAR-0025 / karakuri-hitoha` and Futaba `IDENTITY-0029 / CHAR-0026 / karakuri-futaba`. Shared143presentation does not merge routes. Musubi `IDENTITY-0006 / CHAR-0006`, Susu `IDENTITY-0021 / CHAR-0018` and Emoco `IDENTITY-0026 / CHAR-0023` are explicitly named existing peers. The separate published Rona route `IDENTITY-0008 / tsunomori-rona` was revisited after C's new label; no exact prior Mitsuba/003_04 binding was found, and similarity/resource family does not silently establish an alias. Mitsuba remains an occurrence-local named presentation with person binding OPEN, no invented new biographical person. Fan/collective recipients are not automatically Player or manager. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current case qualifier for CHAR-0025:** Hitoha articulates an idol-conscious dance trial, domestic creative and sensory self-account, recognized third sister, admiration of Musubi/Susu's unison and attempted borrowing of Emoco's sharp speech. Her inability to poison Futaba is particular relational evidence; it does not erase defensive exclusivity, project injury, earlier hostility or distinct private experience.
+
+**Current case qualifier for CHAR-0026:** Futaba gives reasons for hearing a fan, describes cooking as training and her own sensory contribution, conditionally references a prior stream, reports the cross-unit encounter's unexpected welcome, credits 4U's growth and independently reciprocates the absence of insulting words for Hitoha. These turns do not make her a permanent subordinate, neutral external narrator or automatic holder of Hitoha's private states.
+
+**Current case qualifier for UNIT-0011:** The duet is used as a revisable practice across artistic borrowing, domestic creativity, temporary third-role inclusion and cross-unit contact. The twins' formulas of shared taste/three-in-one/universal sharp-speech incapacity remain their own situated claims. Legal form, guardianship, business control, consent procedures, technical performance and historical harms remain open.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1941` | Hitoha welcomes the recipient as a fan invited into the dressing room for the first time. | A:P1; Hitoha's stated invitation/firstness; no recipient reply or automatically identified manager. |
+| `KNOW-1942` | Futaba describes the usual exclusion of others and a present wish for a fan representative's impressions. | A:P2; bounded rationale, not universal access or verified audience response. |
+| `KNOW-1943` | Hitoha says today's dance consciously took idols into account as a new challenge. | A:P3; performer self-account, no technical audition or affiliation change. |
+| `KNOW-1944` | Futaba attributes Nanasta idol fandom to the recipient; the joint closing asks about the cute stage through separately marked first persons. | A:P4-5; attributed prior knowledge and explicit shared address; neither recipient assent nor automatic mental identity. |
+| `KNOW-1945` | Hitoha reports cooking with Futaba and anticipates the audience's surprise. | B:P1; no depicted cooking or independent demand measurement. |
+| `KNOW-1946` | Futaba calls cooking their creative activity and training for sensibility. | B:P2; her framing, not a measured skill outcome. |
+| `KNOW-1947` | Hitoha withholds a recommendation on the stated ground that they share taste. | B:P3; pair self-description, no established sensory physiology. |
+| `KNOW-1948` | Futaba distributes sugar/soy perception to Hitoha and salt/mirin to herself; Hitoha calls this unison taste and offers dance as substitute. | B:P4-5; retain each speaker's contribution; no tasted deliciousness or independently communicated experience. |
+| `KNOW-1949` | Hitoha situates today's email with Futaba and a special companion. | C:P1; fan-facing medium named, no receiver uptake or automatic simultaneous-body claim. |
+| `KNOW-1950` | Futaba says prior stream viewers may know a third KARAKURI named Mitsuba. | C:P2; conditional assumed familiarity, not proof every reader watched. |
+| `KNOW-1951` | The Mitsuba-labeled speaker self-names and claims Hitoha/Futaba/Mitsuba are three in one. | C:P3; occurrence-local role/person binding OPEN; no third biological sibling or certified new stable identity. |
+| `KNOW-1952` | The Mitsuba-labeled speaker interrupts a world-changing claim with written head pain, self-question, Atashi/Watashi shift and need to return home. | C:P4; speech record, no clinical cause, completed world change or pictured head-clutching. |
+| `KNOW-1953` | Hitoha acknowledges an activity limit and recognizes Mitsuba as their sister while asking for support. | C:P5; her recognition and request, not genealogy, performer consent or known audience response. |
+| `KNOW-1954` | Hitoha reports going to the named place after hearing of Nanasta's live. | D:P1; no verified geographic alias or current stage view. |
+| `KNOW-1955` | Futaba names Musubi/Susu singing a unit song and reports the twins' impulsive intrusion. | D:P2; account of an event, no independently heard song or prior invitation. |
+| `KNOW-1956` | Hitoha judges their unison good and like real sisters, revising the scope of underestimating idols. | D:P3; her evaluative comparison, not kinship or certified technique. |
+| `KNOW-1957` | Futaba reports less rejection than expected, pleasure and singing KARAKURI songs; Hitoha finds the approach interesting and considers another unit. | D:P4-5; each proposition remains holder-specific; no independent peer assent or completed future intrusion. |
+| `KNOW-1958` | Hitoha reports secretly attending 4U's live yesterday. | E:P1; this occurrence's local yesterday, no relation to A-D dates. |
+| `KNOW-1959` | Futaba credits 4U's growing performance and things to learn. | E:P2; her judgment, no audition or technical ranking. |
+| `KNOW-1960` | Hitoha admires Emoco's sharp speech, tries it on Futaba and says no poisoning words can be found. | E:P3-4; an enacted local attempt and avowal, no test of all targets or transparent access to every private motive. |
+| `KNOW-1961` | Futaba independently says there are no such words for Hitoha and generalizes to KARAKURI's inability. | E:P5; reciprocal avowal plus generalized self-description, not universal innocence or erased earlier antagonism. |
+
+| ID | Direction | Current local relation and retained limit |
+| --- | --- | --- |
+| `REL-1264` | `karakuri-hitoha → karakuri-futaba` | Sister/co-creator whose shared practice is extended through cooking/artistic trials; attempting a sharp attack stalls before words can be found. E's avowal strengthens particular affection without proving automatic shared knowledge or permanent inability to harm. Reciprocal: REL-1265. |
+| `REL-1265` | `karakuri-futaba → karakuri-hitoha` | Sister/co-creator independently articulates her sensory contribution and reciprocates the absence of poisoning words for Hitoha. No leader/follower assignment, universal gentleness or identical private experience. Reciprocal: REL-1264. |
+| `REL-1266` | `karakuri-unit → tendoji-musubi / alessandra-susu` | Twins report entering the peers' live, praising sister-like unison and receiving an unexpectedly favorable shared-song response. The peers have no independent turns; appreciation is not general permission or biological kinship. |
+| `REL-1267` | `karakuri-unit → 4U / wanibuchi-emoco` | Reported rival attendance produces a growth/learning judgment and a specific attempt to borrow Emoco's sharp speech. No recruitment, certified technical ranking, total moral judgment or actual confrontation with Emoco. |
+
+Totals:102IDENTITY/84CHAR/1961KNOW/1267REL/29UNIT/29READY. Both original READY0016/17 remain R2_STATE_BOUNDED at MainKARAKURI/B0024/313300802 only, MONOGRAPH_NOT_READY/performedvoiceUNREVIEWED. No historical decision is silently broadened.
+
+## B0229 Susu asks to be understood
+
+Owner [B0229](../02%20Readings/T7S_B0229_DEEP_READING.md), reading SHA256 `bdc19cb9920732970c7456177bbcdacc12d1c0c3fb84ec6f80f47e959f470fc5`; source-lock 12.136, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. The reading owns exact A-I scripts/hashes and nine complete primary ranges: A0-3/B0-5/C0-5/D0-4/E0-5/F0-5/G0-5/H0-4/I0-4. All32 physical controls and complete five-source/seven-coverage/four-entity/three-story views froze at published76be1f20/B0228/12.135 before primary. All154 matching prior-state rows and whole READY0009/all nine capabilities were actually read, with fresh published entity/selected-context/READY bytes identical to the read preview. All49 literal native objects/40 Japanese/name records/nine-title/every-key projection read; one full available composite/contact/three original BGs viewed. Forty voice references/BGM/SFX unlistened; runtime unobserved. All cases are independent conditional occurrences; no menu-derived chronology.
+
+Existing Susu `IDENTITY-0021 / CHAR-0018 / alessandra-susu`, Player `IDENTITY-0001 / CHAR-0001 / player-protagonist`, Musubi `IDENTITY-0006 / CHAR-0006 / tendoji-musubi`, Coney `IDENTITY-0003 / CHAR-0003 / rokusaki-connie-presented` and reported Momoka `IDENTITY-0015 / CHAR-0012 / serizawa-momoka` retain their actually read routes. Coney is the canonical Latin spelling; the legacy route token remains an identifier. Papa/father0031, current mother0032, biological mother0033 and younger sisters0034 stay distinct. C's mama has no newly fixed maternal endpoint. Unnamed clerk, rakugo performer and bride remain local reported roles. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current case qualifier for CHAR-0018:** Susu voices affection, asks for specific support, interprets culture actively, values Musubi's seriousness despite disagreement and discloses explicit parental longing. Confidence and uncertainty vary by proposition/information route. Her claims of recipient reaction or manager motive remain attributed; initiative supplies neither reciprocity nor completed physical access. Earlier family/school/ballet/EP6 states and minor/manager limits remain active.
+
+**Current case qualifier for UNIT-0010:** Susu regards Musubi's seriousness and candid conflict as necessary resources for NI+CORA. This is Susu's account, with the original formation reason only echoed through her response. It does not establish Musubi's agreement, sole institutional motive, technical improvement, safe practice load or blanket consent to unilateral choreography. Earlier shared vulnerability, care reversal, fatigue and autonomy remain.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1962` | Susu reports shoulder stiffness and asks the cause. | A:P1; own discomfort account, no clinical cause or physical examination. |
+| `KNOW-1963` | Susu invites a massage and says nobody else is present. | A:P2; privacy claim/request, no completed contact or recipient assent. |
+| `KNOW-1964` | Susu attributes redness to Darling and begins a reversed offer. | A:P3; her perception/initiative, unseen recipient and unfinished action. |
+| `KNOW-1965` | Susu questions why Darling/Coney paired her with Musubi as apparent opposites. | B:P1; her contrast/question, not complete institutional reasoning. |
+| `KNOW-1966` | Susu echoes the opposite-because-opposite reason, then reasons toward candid serious disagreement. | B:P2-3; locally received explanation and own inference, no separate manager turn. |
+| `KNOW-1967` | Susu finds Musubi rigid but calls her seriousness necessary for NI+CORA advancement. | B:P4; own mixed appraisal, no partner interior or technical benchmark. |
+| `KNOW-1968` | Susu credits Darling with arranging her brightest presentation. | B:P5; manager-motive attribution, not independent strategic record or partner ranking. |
+| `KNOW-1969` | Susu explicitly names tonight loneliness and missing papa/mama in her home country. | C:P1-2; own stated cause now, not retrospective airport motive, named nation or resolved maternal identity. |
+| `KNOW-1970` | Susu requests exceptional kindness and predicts usual energy tomorrow. | C:P3; request/prospective self-promise, no observed recovery. |
+| `KNOW-1971` | Susu asks for reassurance until sleep and asserts only Darling can receive this request. | C:P4-5; asserted access/wanted support, no delivered care, sleep or exhaustive support-network knowledge. |
+| `KNOW-1972` | Susu reports first rakugo viewing and defends understanding its appeal. | D:P1-2; own report/claim, no complete viewed or heard performance. |
+| `KNOW-1973` | Susu describes rapid turns between represented woman/man as funny. | D:P3-4; particular role-switching access, no proof of all verbal jokes understood. |
+| `KNOW-1974` | Susu reports a book generalization about Japanese men and says she checked Yamato-nadeshiko meaning. | E:P2-3; attributed book/preference claim, unnamed book and no population finding. |
+| `KNOW-1975` | Susu quotes inner strength alongside delicacy and recognizes herself in that definition. | E:P4-5; self-inclusion, no nationality change, recipient preference or obedient replacement. |
+| `KNOW-1976` | Susu reports a recent walk past a church wedding and admiration of its bride. | F:P1-3; her account, no depicted ceremony, bride route or independent witness. |
+| `KNOW-1977` | Susu imagines her own future ceremony and protests perceived deflection. | F:P4-5; addressed wish/her reading, no joint plan, engagement, settled answer or dated cross-case progress. |
+| `KNOW-1978` | Susu invokes ballet ability and seeks a pointe-shoe hiding place. | G:P1-2; self-claim/practical concern, no new danced technical audit or completed hiding. |
+| `KNOW-1979` | Susu names Momoka as source of a feared rusty-tack yokai story. | G:P3/5; secondhand content, no actual being/tampering, direct Momoka turn or verified prank intention. |
+| `KNOW-1980` | Susu forecasts tetanus from the feared threat and recruits Darling to think of a hiding place. | G:P4-5; fear and renewed request, not injury/diagnosis or supplied resolution. |
+| `KNOW-1981` | Susu writes repeated forms of Darling and echoes a complaint that she need not repeat it. | H:P1-2; textual address/mediated reply, no heard prosody or complete recipient testimony. |
+| `KNOW-1982` | Susu describes joy/quickened heartbeat from affectionate naming and intends to continue. | H:P2-4; own affect/intention, no mutual relationship or observed future encounters. |
+| `KNOW-1983` | Susu recounts personal shopping and a clerk appearance appraisal. | I:P1-2; mediated third-party evaluation, unnamed clerk, no analyst-endorsed body judgment. |
+| `KNOW-1984` | Susu says familiar appearance gives her little comparison and asks Darling perspective. | I:P3; stated uncertainty/wanted judgment, no supplied independent answer. |
+| `KNOW-1985` | Susu claims to read the answer from his gaze and adds a playful qualification. | I:P4; her interpretation/play, no direct access to recipient desire or assent. |
+
+| ID | Directional relation | Source and retained limit |
+| --- | --- | --- |
+| `REL-1268` | `alessandra-susu → player-protagonist` | Expresses affection, requests care/reassurance and particular responses, imagines a ceremony and interprets his reactions. A/C/E/F/H/I; no completed contact, delivered support or reciprocal romance. Reciprocal1269. |
+| `REL-1269` | `player-protagonist → alessandra-susu` | Accessible only through her echoes, attributed blush/deflection/gaze and questions. A/B/D/F/H/I; no independent turn, general consent, promised marriage or established thoughtfulness motive. Reciprocal1268. |
+| `REL-1270` | `alessandra-susu → tendoji-musubi` | Values seriousness and frank disagreement for NI+CORA while retaining irritation at rigidity. B:P1-4; no permanent personality opposition, partner assent or safe-work judgment. Reciprocal1271. |
+| `REL-1271` | `tendoji-musubi → alessandra-susu` | Appears through Susu description of their difference and her needed seriousness. B:P1-4; no independent Musubi reply, private motive or agreement to all conduct. Reciprocal1270. |
+| `REL-1272` | `alessandra-susu → serizawa-momoka` | Names Momoka as source of the frightening shoe story. G:P3-5; fear is current but exact earlier speech, intent and later resolution remain unverified. Reciprocal1273. |
+| `REL-1273` | `serizawa-momoka → alessandra-susu` | Reported informant only in Susu account; no direct Momoka turn, proven malice, reliable cultural teaching or actual shoe tampering. G:P5. Reciprocal1272. |
+
+Totals:1985 KNOW/1273 REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0009 remains complete B0010/201000909 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED; all nine capabilities and counterexamples/obligations remain exact. C's present explicit homesickness does not revise an earlier unknown motive. No new identity or readiness promotion.
+
+## B0230 Coney asks what the manager wants
+
+Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f199b0a614c027ccdc16a0f12ebe7f92b7de17c113d5a0c8fd244729c9bc`; source-lock 12.137, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Whole401000374 / intimate_0374.json__6637fc3dfe7ca189 P0-3/log0-3, source95f4944979dcd9d6eb602ecbc2d92e69c6004145c42a85c6a6f90d4f248e6720 and normalizedacf1180e3d5fedd5d9349a3ac1ea3322715b54678679e7734ad473b2c9d63fa8. All32 controls/complete5source/7coverage/4entity/3story views froze at publishedb8c8b194/B0229/12.136 before primary. All447 matching prior rows/whole READY0018 actually read and fresh published bytes matched preview. All4 literal native objects/3 Japanese-name records/title/every-key projection/21 slots read; one full composite/contact/one original BG viewed. Three voice/BGM/SFX cues unlistened; runtime unobserved. This conditional occurrence has no menu-derived Main/2043/EP6 placement.
+
+Existing Coney `IDENTITY-0003 / CHAR-0003 / rokusaki-connie-presented` and Player `IDENTITY-0001 / CHAR-0001 / player-protagonist` retain their actually read routes. Coney is the canonical Latin spelling; the old token remains an identifier. Established Nicole literary continuity/holder-specific knowledge remain, with no new disclosure, machine master identity, age or date. No new IDENTITY/CHAR/UNIT/READY record.
+
+**Current qualifier for CHAR-0003:** Coney recognizes the manager as someone with his own desired direction and expresses conditional hope that her help matters, gratitude for effort and a wish for continued cooperation. These are her expressed attitudes. Prior opportunities, uncertainty, work cover and care coexist with directive methods, privacy/consent failures and unresolved accountability. Acknowledgment does not certify all past plans or later permanent leadership.
+
+**Current qualifier for CHAR-0001:** The manager is addressed about his own purpose and recognized for trying; no answer or independently supplied interior state is present. No completed self-discovery, workload assessment, assent or institutional reform follows from Coney's question.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1986` | Coney says she wants a slightly serious talk with the manager today. | P1; written conversational intention, no heard timbre or crisis diagnosis. |
+| `KNOW-1987` | Coney asks whether he found what he truly wants to do. | P2; question, no supplied answer or goal realization. |
+| `KNOW-1988` | Coney expressly includes the manager's wish beyond the girls' wishes. | P2; widened addressed scope, no abandonment of others or complete manager interior. |
+| `KNOW-1989` | Coney would be glad if she has helped him even a little. | P2; conditional hope, no independent effect measure, sole-cause claim or ethical acquittal. |
+| `KNOW-1990` | Coney thanks him and says she too knows he is trying. | P3; her recognition, no exclusive confidant status, measured workload or complete access. |
+| `KNOW-1991` | Coney asks continued cooperation. | P3; future request, no recipient assent, new contract, dated return or permanent command. |
+
+| ID | Directional relation | Source and retained limit |
+| --- | --- | --- |
+| `REL-1274` | `rokusaki-connie-presented → player-protagonist` | P1-3; asks after his own purpose, conditionally hopes to help, recognizes effort and invites continuation. No proven benefit, total past motive or repaired boundary failure. Reciprocal1275. |
+| `REL-1275` | `player-protagonist → rokusaki-connie-presented` | P1-3; recipient of her question/support/request, with no independently supplied turn. No private response, assent or permanent joint future known. Reciprocal1274. |
+
+Totals:1991KNOW/1275REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0018 remains B0063/retrospective EP0.7 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED, with six combined capability rows, counterexamples and unresolved obligations exact. No maturity promotion or rewriting of earlier accountability/absence/motive limits.
 <!-- T7S ENTITY STATE PAYLOAD END -->
