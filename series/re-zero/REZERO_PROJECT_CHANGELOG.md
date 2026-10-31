@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V21
-generation: V1.29
+generation: V1.30
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6357,3 +6357,7 @@ Complete substantive candidates are measured before any selected exact historica
 ### V21 measured lossless history rollover
 
 The complete 14-file substantive set measured master 1492008 bytes; only that file exceeded1048576. After explicit path/span declaration, four whole historical spans totaling 497552 bytes moved to existing ledger-directory [archive02](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_02.md#v21-lossless-master-history-relocation), with 43 original-heading routers and exact native master/archive inverses. All 467 current claims and literal V19/V20/V21 prospects stay in master;61 protected artifacts/formal tails remain exact. No new archive/analytical owner, field, compression or limit exception. This is authoring-candidate storage evidence, not committed/main or fidelity acceptance; V22 is sealed after accepted source-facing review; its source remains unopened through all earned gates.
+
+## Meili21 construction and applied review — 2026-10-31
+
+V21/PR390full gate is CLOSED. Meili V01–V21 model and separate19-dimension review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY:26bundles,28confidence-rationale rules,30controls,eight unfamiliar/two calibration families,three matched-recipient families; five content/accounting repairs plus metadata/reference normalization. Default livingE024named tower reunion/personal response unshown; no forced silence/amnesia or shared erased history. All62prior artifacts/eighteen scopes,467claims/five owners/four literal prospects remain exact. Meili own full gate PENDING, then Petra/Reala separately full-gated before sealedV22. CI owns merges; no new source/global grade. Complete maintenance preimages remain at each original link base.
