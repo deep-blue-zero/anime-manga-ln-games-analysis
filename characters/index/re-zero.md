@@ -213,6 +213,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Liliana Masquerade: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
 
+<a id="meili"></a>
+
+### Meili
+
+- Entity ID: `re-zero:meili`
+- Entity aliases:
+  - メィリィ・ポートルート (ja, ORIGINAL_SCRIPT) — Full name from her V12 self-introduction to Subaru (p-011#B0096–0113) as recorded in the character model's voice table; keep the small-vowel spelling.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:meili@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Meili across the original Japanese main light novels V01–V21, built from targeted revisits of already-consumed V03, V10–V12, V14, V15, V20 and V21; it covers the V03 unnamed village girl (preserving Subaru's discovery order), the V11 reported naming, the V12 self-identified attacker and Elsa's destruction, the V14–V15 revised assault, Elsa loss and captivity, the V21 private play, gift, custody/Mama report, negotiated release and guide work through the failed E021/E022 states (typed as discarded), the E023 narrow-path agreement and the V21 E024 named tower-reunion default. The V20 matching-name Dainas bait and V10 braid hits are excluded from her biography. The horizon label does not assert an appearance in every volume. No V22 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Meili: V01–V21 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_MEILI_V01_V21_CHARACTER_MODEL.md)
+
 <a id="mimi"></a>
 
 ### Mimi
