@@ -1,0 +1,913 @@
+{
+  "schema": "t7s-analysis/story-causal-state-storage-manifest/v1",
+  "artifact_id": "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST",
+  "artifact_type": "logical_story_causal_state_ledger_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "1.3",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "logical_artifact_id": "T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER",
+  "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
+  "complete": true,
+  "disjoint_payload_intervals": true,
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 334 Intimacy primary documents across 46 family portfolios / T7S_B0182–T7S_B0227; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0227",
+  "owner": {
+    "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
+    "physical_bytes": 36875,
+    "physical_sha256": "45d630cf1529293ef6e32d86efba2640c55398df169f2b43e997f0ca2e1d188b",
+    "logical_prefix_bytes": 5900,
+    "logical_prefix_sha256": "c94ff5c65dfe0bad24d7f550186d841f7376dc2d178ded90efe3cbb80d4b5419",
+    "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
+  },
+  "parts": [
+    {
+      "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_001",
+      "physical_bytes": 390800,
+      "physical_sha256": "4e03f3a067ea92f3b6c2f733cafef3fbf18401e13fb04107d5ba8cf57d468b43",
+      "payload_offset_bytes": 937,
+      "payload_bytes": 389819,
+      "payload_sha256": "696dbe2f96d08378956343e4ca3a04b65547570797fe4591982d479e87ab329a",
+      "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
+      "logical_offset_bytes": 0,
+      "original_payload_interval": [
+        5688,
+        395507
+      ]
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_002",
+      "physical_bytes": 390494,
+      "physical_sha256": "20275aaf4f509ddd8feb9e99ba4b40ef9ed5b4cf8c8ee24144b8ec397d4c66b3",
+      "payload_offset_bytes": 937,
+      "payload_bytes": 389513,
+      "payload_sha256": "6bd24b351db7e72296174bb827c1b67cd9797e5e5e0f20c3af09beac128a04c7",
+      "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
+      "logical_offset_bytes": 389819,
+      "original_payload_interval": [
+        395507,
+        785020
+      ]
+    },
+    {
+      "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
+      "physical_bytes": 275977,
+      "physical_sha256": "c5e2f3dabff59601f1751a430ec37febe8cc97e1b2727d04cbae8c88032e2beb",
+      "payload_offset_bytes": 937,
+      "payload_bytes": 274996,
+      "payload_sha256": "6c79578d79cfa8ed2c3cf837cb9e438e8953641ce192bdc8f014b6e01b040cae",
+      "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
+      "logical_offset_bytes": 779332,
+      "original_payload_interval": [
+        785020,
+        1046789
+      ]
+    }
+  ],
+  "parts_count": 3,
+  "logical_bytes": 1060228,
+  "logical_sha256": "d4450c1644050ed46fdbe2db9430b9beba98f2652c7cd9364fba40a7d545e73e",
+  "heading_routes": [
+    {
+      "original_anchor": "current-event-records",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "current-event-records",
+      "heading": "Current event records"
+    },
+    {
+      "original_anchor": "first-2034-non-main-i-n-g-portfolio-tranche",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "first-2034-non-main-i-n-g-portfolio-tranche",
+      "heading": "First 2034 non-Main i-n-g portfolio tranche"
+    },
+    {
+      "original_anchor": "current-world-state-records",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "current-world-state-records",
+      "heading": "Current world-state records"
+    },
+    {
+      "original_anchor": "current-thread-records",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "current-thread-records",
+      "heading": "Current thread records"
+    },
+    {
+      "original_anchor": "current-chronology-and-dependency-edges",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "current-chronology-and-dependency-edges",
+      "heading": "Current chronology and dependency edges"
+    },
+    {
+      "original_anchor": "closeout-and-consistency",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "closeout-and-consistency",
+      "heading": "Closeout and consistency"
+    },
+    {
+      "original_anchor": "b0100-bounded-i-n-g-state-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0100-bounded-i-n-g-state-addition",
+      "heading": "B0100 bounded i-n-g state addition"
+    },
+    {
+      "original_anchor": "b0101-bounded-i-n-g-state-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0101-bounded-i-n-g-state-addition",
+      "heading": "B0101 bounded i-n-g state addition"
+    },
+    {
+      "original_anchor": "b0102-bounded-i-n-g-state-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0102-bounded-i-n-g-state-addition",
+      "heading": "B0102 bounded i-n-g state addition"
+    },
+    {
+      "original_anchor": "b0103-nightmare-and-knowledge-boundary-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0103-nightmare-and-knowledge-boundary-addition",
+      "heading": "B0103 nightmare and knowledge-boundary addition"
+    },
+    {
+      "original_anchor": "b0104-manuscript-access-and-chosen-conversation-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0104-manuscript-access-and-chosen-conversation-addition",
+      "heading": "B0104 manuscript access and chosen conversation addition"
+    },
+    {
+      "original_anchor": "b0105-self-denial-scale-and-care-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0105-self-denial-scale-and-care-addition",
+      "heading": "B0105 self-denial, scale and care addition"
+    },
+    {
+      "original_anchor": "b0106-off-day-labor-public-address-and-rumor-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0106-off-day-labor-public-address-and-rumor-addition",
+      "heading": "B0106 off-day labor, public address and rumor addition"
+    },
+    {
+      "original_anchor": "b0107-musubi-consent-craft-and-uncertain-self-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0107-musubi-consent-craft-and-uncertain-self-addition",
+      "heading": "B0107 Musubi consent, craft and uncertain self addition"
+    },
+    {
+      "original_anchor": "b0108-rona-solo-attempt-safety-dilemma-and-incomplete-performance-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0108-rona-solo-attempt-safety-dilemma-and-incomplete-performance-addition",
+      "heading": "B0108 Rona solo attempt, safety dilemma and incomplete performance addition"
+    },
+    {
+      "original_anchor": "b0109-hime-illness-competitive-care-and-reversible-sister-roles-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0109-hime-illness-competitive-care-and-reversible-sister-roles-addition",
+      "heading": "B0109 Hime illness, competitive care and reversible sister roles addition"
+    },
+    {
+      "original_anchor": "b0110-momoka-documentary-portrait-and-production-boundary-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0110-momoka-documentary-portrait-and-production-boundary-addition",
+      "heading": "B0110 Momoka documentary portrait and production boundary addition"
+    },
+    {
+      "original_anchor": "b0111-sumire-alternative-path-and-present-specialness-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0111-sumire-alternative-path-and-present-specialness-addition",
+      "heading": "B0111 Sumire alternative path and present specialness addition"
+    },
+    {
+      "original_anchor": "b0112-sui-food-rule-victory-publicity-and-hime-labor-addition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0112-sui-food-rule-victory-publicity-and-hime-labor-addition",
+      "heading": "B0112 Sui food rule, victory publicity and Hime labor addition"
+    },
+    {
+      "original_anchor": "b0113-shizuka-at-the-fish-shop-and-the-unequal-household-exchange",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0113-shizuka-at-the-fish-shop-and-the-unequal-household-exchange",
+      "heading": "B0113 Shizuka at the fish shop and the unequal household exchange"
+    },
+    {
+      "original_anchor": "b0114-suss-study-camp-rest-boundary-and-unconsulted-reward",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0114-suss-study-camp-rest-boundary-and-unconsulted-reward",
+      "heading": "B0114 Suss study camp, rest boundary and unconsulted reward"
+    },
+    {
+      "original_anchor": "b0115-sawara-ability-preference-and-collaborative-fit",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0115-sawara-ability-preference-and-collaborative-fit",
+      "heading": "B0115 Sawara ability, preference and collaborative fit"
+    },
+    {
+      "original_anchor": "b0116-kajikas-framed-space-trial-and-unequal-retrospective-consent",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0116-kajikas-framed-space-trial-and-unequal-retrospective-consent",
+      "heading": "B0116 Kajika's framed space trial and unequal retrospective consent"
+    },
+    {
+      "original_anchor": "b0117-shinju-child-show-performance-and-particular-play",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0117-shinju-child-show-performance-and-particular-play",
+      "heading": "B0117 Shinju child-show performance and particular play"
+    },
+    {
+      "original_anchor": "b0118-tomoes-protective-bridge-shared-lead-and-bodily-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0118-tomoes-protective-bridge-shared-lead-and-bodily-limit",
+      "heading": "B0118 Tomoe's protective bridge, shared lead and bodily limit"
+    },
+    {
+      "original_anchor": "b0119-four-middle-school-performers-and-a-nearer-center",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0119-four-middle-school-performers-and-a-nearer-center",
+      "heading": "B0119 four middle-school performers and a nearer center"
+    },
+    {
+      "original_anchor": "b0120-ayumus-formal-service-lesson-and-café-context-mismatch",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0120-ayumus-formal-service-lesson-and-café-context-mismatch",
+      "heading": "B0120 Ayumu's formal service lesson and café-context mismatch"
+    },
+    {
+      "original_anchor": "b0121-kyokos-horror-offer-rehearsal-and-bounded-broadcast-report",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_001.md",
+      "component_anchor": "b0121-kyokos-horror-offer-rehearsal-and-bounded-broadcast-report",
+      "heading": "B0121 Kyoko's horror offer, rehearsal and bounded broadcast report"
+    },
+    {
+      "original_anchor": "b0122-honokas-selected-role-exercise-and-peer-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0122-honokas-selected-role-exercise-and-peer-boundary",
+      "heading": "B0122 Honoka's selected role exercise and peer boundary"
+    },
+    {
+      "original_anchor": "b0123-renas-love-letter-capacity-decision-and-private-reply",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0123-renas-love-letter-capacity-decision-and-private-reply",
+      "heading": "B0123 Rena's love letter, capacity decision and private reply"
+    },
+    {
+      "original_anchor": "b0124-mimis-cover-hidden-load-and-shared-risk-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0124-mimis-cover-hidden-load-and-shared-risk-limit",
+      "heading": "B0124 Mimi's cover, hidden load and shared-risk limit"
+    },
+    {
+      "original_anchor": "b0125-ferbs-injury-unoptimized-peer-time-and-unfinished-commission",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0125-ferbs-injury-unoptimized-peer-time-and-unfinished-commission",
+      "heading": "B0125 Ferb's injury, unoptimized peer time and unfinished commission"
+    },
+    {
+      "original_anchor": "b0126-false-death-premise-unsafe-tests-and-bounded-correction",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0126-false-death-premise-unsafe-tests-and-bounded-correction",
+      "heading": "B0126 false death premise, unsafe tests and bounded correction"
+    },
+    {
+      "original_anchor": "b0127-mius-undisclosed-idol-work-and-two-valued-memberships",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0127-mius-undisclosed-idol-work-and-two-valued-memberships",
+      "heading": "B0127 Miu's undisclosed idol work and two valued memberships"
+    },
+    {
+      "original_anchor": "b0128-monakas-school-tour-under-a-mistaken-acting-requirement",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0128-monakas-school-tour-under-a-mistaken-acting-requirement",
+      "heading": "B0128 Monaka's school tour under a mistaken acting requirement"
+    },
+    {
+      "original_anchor": "b0129-eis-one-day-shrine-show-and-unanticipated-media-audience",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0129-eis-one-day-shrine-show-and-unanticipated-media-audience",
+      "heading": "B0129 Ei's one-day shrine show and unanticipated media audience"
+    },
+    {
+      "original_anchor": "b0130-manons-magiko-outing-queue-risk-and-staged-inclusion",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0130-manons-magiko-outing-queue-risk-and-staged-inclusion",
+      "heading": "B0130 Manon's Magiko outing, queue risk and staged inclusion"
+    },
+    {
+      "original_anchor": "b0131-yumenos-changed-memory-two-accidents-and-unresolved-boundary",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0131-yumenos-changed-memory-two-accidents-and-unresolved-boundary",
+      "heading": "B0131 Yumeno's changed memory, two accidents and unresolved boundary"
+    },
+    {
+      "original_anchor": "b0132-miwakos-guided-festival-outing-and-separate-stage-offer",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0132-miwakos-guided-festival-outing-and-separate-stage-offer",
+      "heading": "B0132 Miwako's guided festival outing and separate-stage offer"
+    },
+    {
+      "original_anchor": "b0133-tashas-adult-model-aspiration-and-repaired-listening",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0133-tashas-adult-model-aspiration-and-repaired-listening",
+      "heading": "B0133 Tasha's adult-model aspiration and repaired listening"
+    },
+    {
+      "original_anchor": "b0134-shisaras-chosen-weak-task-experiment-with-tomoe",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0134-shisaras-chosen-weak-task-experiment-with-tomoe",
+      "heading": "B0134 Shisara's chosen weak-task experiment with Tomoe"
+    },
+    {
+      "original_anchor": "b0135-jedahs-bon-dance-difficulty-and-reciprocal-teaching",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0135-jedahs-bon-dance-difficulty-and-reciprocal-teaching",
+      "heading": "B0135 Jedah's bon-dance difficulty and reciprocal teaching"
+    },
+    {
+      "original_anchor": "b0136-a-real-watcher-within-an-imagined-organization-mission",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0136-a-real-watcher-within-an-imagined-organization-mission",
+      "heading": "B0136 a real watcher within an imagined organization mission"
+    },
+    {
+      "original_anchor": "b0137-rishuris-internship-three-month-interval-and-chosen-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0137-rishuris-internship-three-month-interval-and-chosen-return",
+      "heading": "B0137 Rishuri's internship, three-month interval and chosen return"
+    },
+    {
+      "original_anchor": "b0138-saoris-smile-boundary-and-the-childs-chosen-timing",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0138-saoris-smile-boundary-and-the-childs-chosen-timing",
+      "heading": "B0138 Saori's smile boundary and the child's chosen timing"
+    },
+    {
+      "original_anchor": "b0139-shirayukis-one-live-quartet-and-hidden-older-peer-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0139-shirayukis-one-live-quartet-and-hidden-older-peer-care",
+      "heading": "B0139 Shirayuki's one-live quartet and hidden older-peer care"
+    },
+    {
+      "original_anchor": "b0140-murasakis-school-festival-cover-and-contested-miss-purple",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0140-murasakis-school-festival-cover-and-contested-miss-purple",
+      "heading": "B0140 Murasaki's school-festival cover and contested `Miss Purple`"
+    },
+    {
+      "original_anchor": "b0141-makotos-divided-attention-sumires-correction-and-reciprocal-gift",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0141-makotos-divided-attention-sumires-correction-and-reciprocal-gift",
+      "heading": "B0141 Makoto's divided attention, Sumire's correction and reciprocal gift"
+    },
+    {
+      "original_anchor": "b0142-kazumis-chosen-bar-work-and-reciprocal-unfamiliarity",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0142-kazumis-chosen-bar-work-and-reciprocal-unfamiliarity",
+      "heading": "B0142 Kazumi's chosen bar work and reciprocal unfamiliarity"
+    },
+    {
+      "original_anchor": "b0143-xiaos-film-offer-heterogenous-training-and-role-control-limit",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0143-xiaos-film-offer-heterogenous-training-and-role-control-limit",
+      "heading": "B0143 Xiao's film offer, heterogenous training and role-control limit"
+    },
+    {
+      "original_anchor": "b0144-harus-day-of-detours-shared-venue-labor-and-dream-costume",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0144-harus-day-of-detours-shared-venue-labor-and-dream-costume",
+      "heading": "B0144 Haru's day of detours, shared venue labor and dream costume"
+    },
+    {
+      "original_anchor": "b0145-musubis-search-estranged-perfection-and-offered-shared-work",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0145-musubis-search-estranged-perfection-and-offered-shared-work",
+      "heading": "B0145 Musubi's search, estranged perfection and offered shared work"
+    },
+    {
+      "original_anchor": "b0146-rona-passes-on-courage-without-requiring-identity-copying",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0146-rona-passes-on-courage-without-requiring-identity-copying",
+      "heading": "B0146 Rona passes on courage without requiring identity-copying"
+    },
+    {
+      "original_anchor": "b0147-himes-party-disguise-protective-action-and-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0147-himes-party-disguise-protective-action-and-recognition",
+      "heading": "B0147 Hime's party disguise, protective action and recognition"
+    },
+    {
+      "original_anchor": "b0148-momokas-imagined-nonwork-becomes-bodily-overwork",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0148-momokas-imagined-nonwork-becomes-bodily-overwork",
+      "heading": "B0148 Momoka's imagined nonwork becomes bodily overwork"
+    },
+    {
+      "original_anchor": "b0149-sumire-seeks-a-witness-while-finding-her-stage-reason",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0149-sumire-seeks-a-witness-while-finding-her-stage-reason",
+      "heading": "B0149 Sumire seeks a witness while finding her stage reason"
+    },
+    {
+      "original_anchor": "b0150-sui-masaru-and-a-reward-called-a-date",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0150-sui-masaru-and-a-reward-called-a-date",
+      "heading": "B0150 Sui, Masaru and a reward called a date"
+    },
+    {
+      "original_anchor": "b0151-shizuka-the-sponsor-and-an-on-air-answer",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0151-shizuka-the-sponsor-and-an-on-air-answer",
+      "heading": "B0151 Shizuka, the sponsor and an on-air answer"
+    },
+    {
+      "original_anchor": "b0152-susus-audition-principle-and-private-disappointment",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0152-susus-audition-principle-and-private-disappointment",
+      "heading": "B0152 Susu's audition, principle and private disappointment"
+    },
+    {
+      "original_anchor": "b0153-sawaras-phantom-thief-intervention-and-image-boundaries",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0153-sawaras-phantom-thief-intervention-and-image-boundaries",
+      "heading": "B0153 Sawara's phantom-thief intervention and image boundaries"
+    },
+    {
+      "original_anchor": "b0154-kajikas-private-club-petition-and-reciprocal-gaze",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0154-kajikas-private-club-petition-and-reciprocal-gaze",
+      "heading": "B0154 Kajika's private-club petition and reciprocal gaze"
+    },
+    {
+      "original_anchor": "b0155-shinjus-bounded-counsel-and-uncertain-frog-journey",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0155-shinjus-bounded-counsel-and-uncertain-frog-journey",
+      "heading": "B0155 Shinju's bounded counsel and uncertain frog journey"
+    },
+    {
+      "original_anchor": "b0156-tomoes-friend-two-songs-and-separate-futures",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0156-tomoes-friend-two-songs-and-separate-futures",
+      "heading": "B0156 Tomoe's friend, two songs and separate futures"
+    },
+    {
+      "original_anchor": "b0157-madokas-under-specified-casting-and-on-set-interpretation",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0157-madokas-under-specified-casting-and-on-set-interpretation",
+      "heading": "B0157 Madoka's under-specified casting and on-set interpretation"
+    },
+    {
+      "original_anchor": "b0158-proposed-maid-stage-fever-and-reciprocal-service",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0158-proposed-maid-stage-fever-and-reciprocal-service",
+      "heading": "B0158 proposed maid stage, fever and reciprocal service"
+    },
+    {
+      "original_anchor": "b0159-a-mothers-film-a-daughters-audition-and-her-present-name",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0159-a-mothers-film-a-daughters-audition-and-her-present-name",
+      "heading": "B0159 a mother's film, a daughter's audition and her present name"
+    },
+    {
+      "original_anchor": "b0160-honoka-learns-to-teach-and-receives-one-pupils-response",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0160-honoka-learns-to-teach-and-receives-one-pupils-response",
+      "heading": "B0160 Honoka learns to teach and receives one pupil's response"
+    },
+    {
+      "original_anchor": "b0161-renas-possible-recommendation-and-conditional-dual-pursuit",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0161-renas-possible-recommendation-and-conditional-dual-pursuit",
+      "heading": "B0161 Rena's possible recommendation and conditional dual pursuit"
+    },
+    {
+      "original_anchor": "b0162-mimis-search-and-chosen-relational-fate",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0162-mimis-search-and-chosen-relational-fate",
+      "heading": "B0162 Mimi's search and chosen relational fate"
+    },
+    {
+      "original_anchor": "b0163-ferbs-changed-commission-and-situated-cute-song-experiment",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0163-ferbs-changed-commission-and-situated-cute-song-experiment",
+      "heading": "B0163 Ferb's changed commission and situated cute-song experiment"
+    },
+    {
+      "original_anchor": "b0164-chachas-temporary-school-visit-and-chosen-farewell-address",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0164-chachas-temporary-school-visit-and-chosen-farewell-address",
+      "heading": "B0164 Chacha's temporary school visit and chosen farewell address"
+    },
+    {
+      "original_anchor": "b0165-mius-demanding-lead-and-consultation-before-protective-withdrawal",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0165-mius-demanding-lead-and-consultation-before-protective-withdrawal",
+      "heading": "B0165 Miu's demanding lead and consultation before protective withdrawal"
+    },
+    {
+      "original_anchor": "b0166-finding-fitting-work-without-making-belonging-permanent-retention",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0166-finding-fitting-work-without-making-belonging-permanent-retention",
+      "heading": "B0166 finding fitting work without making belonging permanent retention"
+    },
+    {
+      "original_anchor": "b0167-wanted-clothing-relational-memories-and-retained-private-knowledge",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0167-wanted-clothing-relational-memories-and-retained-private-knowledge",
+      "heading": "B0167 wanted clothing, relational memories and retained private knowledge"
+    },
+    {
+      "original_anchor": "b0168-selective-diary-access-nested-ordinary-lessons-and-retained-private-authorship",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0168-selective-diary-access-nested-ordinary-lessons-and-retained-private-authorship",
+      "heading": "B0168 selective diary access, nested ordinary lessons and retained private authorship"
+    },
+    {
+      "original_anchor": "b0169-imagined-relationships-actual-counterreplies-and-unrealized-manuscript-work",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0169-imagined-relationships-actual-counterreplies-and-unrealized-manuscript-work",
+      "heading": "B0169 imagined relationships, actual counterreplies and unrealized manuscript work"
+    },
+    {
+      "original_anchor": "b0170-adult-respite-transferred-care-and-the-teacher-container-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0170-adult-respite-transferred-care-and-the-teacher-container-disclosure",
+      "heading": "B0170 adult respite, transferred care and the teacher-container disclosure"
+    },
+    {
+      "original_anchor": "b0171-child-authored-family-account-contested-audience-and-imperfect-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0171-child-authored-family-account-contested-audience-and-imperfect-care",
+      "heading": "B0171 child-authored family account, contested audience and imperfect care"
+    },
+    {
+      "original_anchor": "b0172-assigned-exceptionalism-corrected-grievance-and-competitive-repair",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0172-assigned-exceptionalism-corrected-grievance-and-competitive-repair",
+      "heading": "B0172 assigned exceptionalism, corrected grievance and competitive repair"
+    },
+    {
+      "original_anchor": "b0173-wanted-guest-work-family-film-memory-and-a-comic-shared-release",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0173-wanted-guest-work-family-film-memory-and-a-comic-shared-release",
+      "heading": "B0173 wanted guest work, family film memory and a comic shared release"
+    },
+    {
+      "original_anchor": "b0174-game-leadership-shared-absorption-and-familiar-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0174-game-leadership-shared-absorption-and-familiar-limits",
+      "heading": "B0174 game leadership, shared absorption and familiar limits"
+    },
+    {
+      "original_anchor": "b0175-practical-care-shared-independence-and-recipient-room",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0175-practical-care-shared-independence-and-recipient-room",
+      "heading": "B0175 practical care, shared independence and recipient room"
+    },
+    {
+      "original_anchor": "b0176-injury-free-recording-reciprocal-caution-and-shared-protection",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0176-injury-free-recording-reciprocal-caution-and-shared-protection",
+      "heading": "B0176 injury-free recording, reciprocal caution and shared protection"
+    },
+    {
+      "original_anchor": "b0177-family-taste-distributed-work-and-another-home",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0177-family-taste-distributed-work-and-another-home",
+      "heading": "B0177 family taste, distributed work and another home"
+    },
+    {
+      "original_anchor": "b0178-other-directions-and-the-work-of-finding-ones-colour",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_002.md",
+      "component_anchor": "b0178-other-directions-and-the-work-of-finding-ones-colour",
+      "heading": "B0178 other directions and the work of finding one's colour"
+    },
+    {
+      "original_anchor": "b0179-competing-promises-and-the-maids-chosen-return",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0179-competing-promises-and-the-maids-chosen-return",
+      "heading": "B0179 competing promises and the maid's chosen return"
+    },
+    {
+      "original_anchor": "b0180-opening-the-role-toward-its-viewers",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0180-opening-the-role-toward-its-viewers",
+      "heading": "B0180 opening the role toward its viewers"
+    },
+    {
+      "original_anchor": "b0181-effort-gratitude-and-the-distance-between-words",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0181-effort-gratitude-and-the-distance-between-words",
+      "heading": "B0181 effort, gratitude and the distance between words"
+    },
+    {
+      "original_anchor": "b0182-sisaras-seven-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0182-sisaras-seven-ordinary-life-presentations",
+      "heading": "B0182 Sisara's seven ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0183-suis-independent-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0183-suis-independent-ordinary-life-presentations",
+      "heading": "B0183 Sui's independent ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0184-ronas-independent-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0184-ronas-independent-ordinary-life-presentations",
+      "heading": "B0184 Rona's independent ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0185-harus-independent-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0185-harus-independent-ordinary-life-presentations",
+      "heading": "B0185 Haru's independent ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0186-kyokos-requests-and-professional-restraint",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0186-kyokos-requests-and-professional-restraint",
+      "heading": "B0186 Kyoko's requests and professional restraint"
+    },
+    {
+      "original_anchor": "b0187-shizukas-independent-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0187-shizukas-independent-ordinary-life-presentations",
+      "heading": "B0187 Shizuka's independent ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0188-himes-independent-ordinary-life-presentations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0188-himes-independent-ordinary-life-presentations",
+      "heading": "B0188 Hime's independent ordinary-life presentations"
+    },
+    {
+      "original_anchor": "b0189-mimis-older-sister-address-across-independent-occasions",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0189-mimis-older-sister-address-across-independent-occasions",
+      "heading": "B0189 Mimi's older-sister address across independent occasions"
+    },
+    {
+      "original_anchor": "b0190-ferbs-short-addresses-and-complete-named-attention-episode",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0190-ferbs-short-addresses-and-complete-named-attention-episode",
+      "heading": "B0190 Ferb's short addresses and complete named-attention episode"
+    },
+    {
+      "original_anchor": "b0191-momokas-selective-investment-and-continuing-place",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0191-momokas-selective-investment-and-continuing-place",
+      "heading": "B0191 Momoka's selective investment and continuing place"
+    },
+    {
+      "original_anchor": "b0192-nicoles-selected-listeners-and-passing-idol-world",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0192-nicoles-selected-listeners-and-passing-idol-world",
+      "heading": "B0192 Nicole's selected listeners and passing idol world"
+    },
+    {
+      "original_anchor": "b0193-mitos-song-and-the-demand-to-be-visible",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0193-mitos-song-and-the-demand-to-be-visible",
+      "heading": "B0193 Mito's song and the demand to be visible"
+    },
+    {
+      "original_anchor": "b0194-manas-wishes-and-the-meanings-others-supply",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0194-manas-wishes-and-the-meanings-others-supply",
+      "heading": "B0194 Mana's wishes and the meanings others supply"
+    },
+    {
+      "original_anchor": "b0195-kurts-categories-inside-an-imposed-presentation-frame",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0195-kurts-categories-inside-an-imposed-presentation-frame",
+      "heading": "B0195 Kurt's categories inside an imposed presentation frame"
+    },
+    {
+      "original_anchor": "b0196-ruis-chosen-access-and-particular-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0196-ruis-chosen-access-and-particular-limits",
+      "heading": "B0196 Rui's chosen access and particular limits"
+    },
+    {
+      "original_anchor": "b0197-memorus-love-and-the-terms-she-sets",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0197-memorus-love-and-the-terms-she-sets",
+      "heading": "B0197 Memoru's love and the terms she sets"
+    },
+    {
+      "original_anchor": "b0198-kazumis-words-taste-and-chosen-interpreters",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0198-kazumis-words-taste-and-chosen-interpreters",
+      "heading": "B0198 Kazumi's words, taste and chosen interpreters"
+    },
+    {
+      "original_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0199-renas-chosen-heights-and-the-terms-of-support",
+      "heading": "B0199 Rena's chosen heights and the terms of support"
+    },
+    {
+      "original_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry",
+      "heading": "B0200 Honoka's ordinary self and the happiness she chooses to carry"
+    },
+    {
+      "original_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0201-makotos-offered-closeness-and-the-pressure-of-being-known",
+      "heading": "B0201 Makoto's offered closeness and the pressure of being known"
+    },
+    {
+      "original_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0202-madokas-chosen-bridges-and-unfinished-invitations",
+      "heading": "B0202 Madoka's chosen bridges and unfinished invitations"
+    },
+    {
+      "original_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0203-musubis-chosen-openings-and-the-limits-of-disclosure",
+      "heading": "B0203 Musubi's chosen openings and the limits of disclosure"
+    },
+    {
+      "original_anchor": "b0204-rishuris-own-pattern-and-the-company-that-widens-it",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0204-rishuris-own-pattern-and-the-company-that-widens-it",
+      "heading": "B0204 Rishuri's own pattern and the company that widens it"
+    },
+    {
+      "original_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0205-yumenos-looking-making-and-borrowed-permission",
+      "heading": "B0205 Yumeno's looking, making and borrowed permission"
+    },
+    {
+      "original_anchor": "b0206-tashas-names-for-closeness-and-an-unfinished-future",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0206-tashas-names-for-closeness-and-an-unfinished-future",
+      "heading": "B0206 Tasha's names for closeness and an unfinished future"
+    },
+    {
+      "original_anchor": "b0207-jedas-effort-and-her-ways-of-seeing",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0207-jedas-effort-and-her-ways-of-seeing",
+      "heading": "B0207 Jeda's effort and her ways of seeing"
+    },
+    {
+      "original_anchor": "b0208-saoris-safety-and-the-reception-of-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0208-saoris-safety-and-the-reception-of-care",
+      "heading": "B0208 Saori's safety and the reception of care"
+    },
+    {
+      "original_anchor": "b0209-sumires-recognition-and-the-pace-of-closeness",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0209-sumires-recognition-and-the-pace-of-closeness",
+      "heading": "B0209 Sumire's recognition and the pace of closeness"
+    },
+    {
+      "original_anchor": "b0210-sawaras-older-sister-role-and-wanted-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0210-sawaras-older-sister-role-and-wanted-company",
+      "heading": "B0210 Sawara's older-sister role and wanted company"
+    },
+    {
+      "original_anchor": "b0211-kajikas-ordinary-self-and-wanted-recognition",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0211-kajikas-ordinary-self-and-wanted-recognition",
+      "heading": "B0211 Kajika's ordinary self and wanted recognition"
+    },
+    {
+      "original_anchor": "b0212-shinjus-dependable-company-and-chosen-limits",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0212-shinjus-dependable-company-and-chosen-limits",
+      "heading": "B0212 Shinju's dependable company and chosen limits"
+    },
+    {
+      "original_anchor": "b0213-monakas-wanted-work-and-unevenly-received-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0213-monakas-wanted-work-and-unevenly-received-care",
+      "heading": "B0213 Monaka's wanted work and unevenly received care"
+    },
+    {
+      "original_anchor": "b0214-eis-chosen-company-and-the-ownership-of-affection",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0214-eis-chosen-company-and-the-ownership-of-affection",
+      "heading": "B0214 Ei's chosen company and the ownership of affection"
+    },
+    {
+      "original_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0215-matsuris-play-wanted-recognition-and-local-corrections",
+      "heading": "B0215 Matsuri's play, wanted recognition and local corrections"
+    },
+    {
+      "original_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0216-tomoes-wanted-company-giving-care-and-uncertain-worth",
+      "heading": "B0216 Tomoe's wanted company, giving care and uncertain worth"
+    },
+    {
+      "original_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0217-mius-tangible-specialness-and-imagined-shared-life",
+      "heading": "B0217 Miu's tangible specialness and imagined shared life"
+    },
+    {
+      "original_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0218-xiaos-courage-company-and-selective-disclosure",
+      "heading": "B0218 Xiao's courage, company and selective disclosure"
+    },
+    {
+      "original_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0219-manons-chosen-company-and-imagined-roles",
+      "heading": "B0219 Manon's chosen company and imagined roles"
+    },
+    {
+      "original_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0220-chachas-boundaries-preferences-and-chosen-company",
+      "heading": "B0220 ChaCha's boundaries, preferences and chosen company"
+    },
+    {
+      "original_anchor": "b0221-murasakis-own-colour-and-the-feeling-she-addresses",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0221-murasakis-own-colour-and-the-feeling-she-addresses",
+      "heading": "B0221 Murasaki's own colour and the feeling she addresses"
+    },
+    {
+      "original_anchor": "b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching",
+      "heading": "B0222 Miwako's chosen disclosures, study and reciprocal teaching"
+    },
+    {
+      "original_anchor": "b0223-ayumus-service-ideal-practice-and-fallible-explanations",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0223-ayumus-service-ideal-practice-and-fallible-explanations",
+      "heading": "B0223 Ayumu's service ideal, practice and fallible explanations"
+    },
+    {
+      "original_anchor": "b0224-shirayukis-growing-skills-and-wanted-company",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0224-shirayukis-growing-skills-and-wanted-company",
+      "heading": "B0224 Shirayuki's growing skills and wanted company"
+    },
+    {
+      "original_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "heading": "B0225 Hina's self-presentation and qualified resolve"
+    },
+    {
+      "original_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "heading": "B0226 Emoco's audience, refusals and particular care"
+    },
+    {
+      "original_anchor": "b0227-umes-account-of-herself-interrupted",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0227-umes-account-of-herself-interrupted",
+      "heading": "B0227 Ume's account of herself, interrupted"
+    }
+  ],
+  "storage_transition": {
+    "operation": "T7S_STORY_LEDGER_STORAGE_V1",
+    "date": "2026-10-30",
+    "before_commit": "4ba085fd0370dca0cb9202988270d75319c8e03c",
+    "source_lock_before_version": "12.130",
+    "source_lock_after_version": "12.131",
+    "source_high_water_unchanged": "T7S_B0224",
+    "before_owner_bytes": 1046789,
+    "before_owner_sha256": "d4fef8203dd3a764d6e2ce53b48a22e099d67fdbdf02704440db78deb75db91f",
+    "original_prefix_bytes": 5688,
+    "original_prefix_sha256": "f2a4b374a16706831776dd167843da3017c037699c6ded84613d8bef8a541c0f",
+    "preserved_payload_bytes": 1041101,
+    "preserved_payload_sha256": "1be8ba6bcb68237f943416b21399754f826421efab77642b39b5bbee755a8cd8",
+    "original_heading_routes": 131,
+    "source_admission": "NONE",
+    "semantic_state_change": "NONE",
+    "next_unopened": "B0225 / NM-INTIMACY-200920 / 200920 / 401000331",
+    "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
+  },
+  "latest_logical_append": {
+    "source_high_water": "T7S_B0227",
+    "date": "2026-10-30",
+    "logical_before_sha256": "84891a1dac107acb5ca3b2e241ab3baed1856a38005f5dd9d6b7fc45115b1ef3",
+    "logical_after_sha256": "d4450c1644050ed46fdbe2db9430b9beba98f2652c7cd9364fba40a7d545e73e",
+    "addition_bytes": 4602,
+    "addition_sha256": "2862378af894b5cfdc46675be696d4b8d36f510de9ae06be033dc21e2ffba0f4",
+    "unchanged_older_body_sha256": "5526392afdf75b61dd13fd6dcaa44df2dc65d69f4f35a46f95d49001bb73d1dd",
+    "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+    "sealed_older_components_byte_exact": true
+  }
+}

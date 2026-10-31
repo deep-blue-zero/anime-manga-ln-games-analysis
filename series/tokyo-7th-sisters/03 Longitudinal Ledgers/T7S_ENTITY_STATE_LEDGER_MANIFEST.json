@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.49",
+  "version": "1.52",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -12,13 +12,13 @@
   "do_not_use_as_literary_evidence": true,
   "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
   "current_owner_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 319 Intimacy primary documents across 43 family portfolios / T7S_B0182–T7S_B0224; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 334 Intimacy primary documents across 46 family portfolios / T7S_B0182–T7S_B0227; no further non-Main/additional story or 2053 semantic source; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 54523,
-    "physical_sha256": "cd591e10093332be41e604fd1a8ac6a692d791a0f2e7cb858b38fd3f202b119f",
+    "physical_bytes": 55782,
+    "physical_sha256": "1fafa99dcc2e77df3435e00c315869fce25faba7d158c901a8c6692127c561ad",
     "logical_prefix_bytes": 7715,
-    "logical_prefix_sha256": "6ae247334ad1f95d012112e1b4c569dd7f23a8c30b7a796f6d17ceec0a08fb9d",
+    "logical_prefix_sha256": "1973cbb7b0a836d7cc43118bda96d87c6dd4fc4a64ce1255d651b1f5a3e75d17",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -74,11 +74,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_004",
-      "physical_bytes": 138632,
-      "physical_sha256": "b119aeca93e4f183eb13672ccc762b85abd300f0b36880a26ece01d979a1cff3",
+      "physical_bytes": 164056,
+      "physical_sha256": "9d94d07178e35c6d81b81c9570665600b13ca649e9e850d3c524d208f2d2ea5e",
       "payload_offset_bytes": 712,
-      "payload_bytes": 137882,
-      "payload_sha256": "5d8d6234e7aab9b418e5482f81a1cab6af9bb5e4309fd8ca4740a79d15c20b67",
+      "payload_bytes": 163306,
+      "payload_sha256": "36b9be378ad4f9ef6d3edf328e69c26f6df30299ea3eb05f4d8e71dd92b7c2c8",
       "first_heading": "## B0210 Sawara's older-sister role and wanted company",
       "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
       "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->",
@@ -87,11 +87,11 @@
     }
   ],
   "parts_count": 4,
-  "logical_bytes": 1426181,
-  "logical_sha256": "4c0057f9498ca013aa689d9c593c18b7ebae9ccd2d15b6bd749914fc378b0463",
+  "logical_bytes": 1451605,
+  "logical_sha256": "115485c116dd7da771c352ccc5465df6f8d444218bd3a483ac0d38a734e1be4f",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "last_source_high_water": "T7S_B0224",
+  "last_source_high_water": "T7S_B0227",
   "storage_transition": {
     "operation": "T7S_ENTITY_LEDGER_STORAGE_V1",
     "date": "2026-10-13",
@@ -1118,17 +1118,35 @@
       "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
       "component_anchor": "b0224-shirayukis-growing-skills-and-wanted-company",
       "heading": "B0224 Shirayuki's growing skills and wanted company"
+    },
+    {
+      "original_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0225-hinas-self-presentation-and-qualified-resolve",
+      "heading": "B0225 Hina's self-presentation and qualified resolve"
+    },
+    {
+      "original_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0226-emocos-audience-refusals-and-particular-care",
+      "heading": "B0226 Emoco's audience, refusals and particular care"
+    },
+    {
+      "original_anchor": "b0227-umes-account-of-herself-interrupted",
+      "component_path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
+      "component_anchor": "b0227-umes-account-of-herself-interrupted",
+      "heading": "B0227 Ume's account of herself, interrupted"
     }
   ],
   "publication_scope": "This proposed representation has no effect until separately reviewed/applied/committed/published. Private proposal receipts remain noncurrent.",
   "latest_logical_append": {
-    "source_high_water": "T7S_B0224",
+    "source_high_water": "T7S_B0227",
     "date": "2026-10-30",
-    "logical_before_sha256": "d4b0720f6a380fb9b3d5056910269262092b8103f17f4bc5d2317145223d6fef",
-    "logical_after_sha256": "4c0057f9498ca013aa689d9c593c18b7ebae9ccd2d15b6bd749914fc378b0463",
-    "addition_bytes": 8929,
-    "addition_sha256": "99f77f2ff0f6b96d1c3512efabdd11bed9b15b3791d9a1b868d0a22988ba317e",
-    "unchanged_older_body_sha256": "2e090cd6d2f9e61a5ba12d23c86dd8e062bc805f877c67375693c22dad8629c2",
+    "logical_before_sha256": "905f825a61bfc2c4094008243583c6b3fa3a55dc664490701f060664ffbb0e4e",
+    "logical_after_sha256": "115485c116dd7da771c352ccc5465df6f8d444218bd3a483ac0d38a734e1be4f",
+    "addition_bytes": 8857,
+    "addition_sha256": "30ebfa116934c15bde66855a612f26d19af849387d4e53ee1f2803c72d2419df",
+    "unchanged_older_body_sha256": "7ae9128d5967aab42925501acb0cde938a52cc1cec522d4e7b73b958c0a667fd",
     "active_component": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_004.md",
     "sealed_older_components_byte_exact": true
   },
