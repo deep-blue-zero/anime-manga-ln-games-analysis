@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.60"
+version: "1.61"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0029 through whole transactions; original I1 continuous, E0030 next after whole E0029 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0030 through whole transactions; original I1 continuous, E0031 next after whole E0030 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0029_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0030_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+## Current E0030 source transaction — 2026-10-31
+
+Miyagi feels uneasy at Sendai’s changed uniform, gives a busy excuse she privately admits is false, and feels relief when Sendai accepts the familiar five-thousand-yen payment. She keeps homework to occupy herself beside an unspecified fear of unnecessary action. Both actually work before Sendai supplies clear but unrequested correction after a delivered refusal. Miyagi voices limits, creates distance and reverses AC activation; Sendai explicitly approaches again. A specific question about the earlier neck kiss now reaches Miyagi, beyond her earlier probable-awareness estimate. Miyagi counterquestions the timing and Sendai demands her answer first. Neither why is answered; exact old awakening, complete motives, eraser return, completed homework, a new shared category and comprehensive repair remain unresolved.
+
+Whole introduction alone yields WEB30/431,57/458 original I1,62/463 pre-LN10 and 63/464 combined. Ten novels and 23 supplements remain complete. Only Miyagi-own29→30 and Sendai observed through Miyagi29→30 advance; ownSendai28/observedMiyagi28, supporting actors and later LN10 clocks remain separate. All 18 forecasts/13 historicalattempts and their failures, ties, exposure qualifications/input-location defect remain. M0.13/S0.14 stay draft_noncurrent/UNTESTED with 0 validated domains. Narō0/290,47 unresolved gaps of 51,27 discovery duties and all dependentG3–G7 duties remain unfinished. The [complete E30 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0030_DEEP_READING.md) and [transaction audit](SHUUKURA_V2_KAK_JP_E0030_TRANSACTION_AUDIT.md) retain source/comparison/cumulative responsibilities and separate publication evidence. The frozen431/originalI1 run remains active, with confirmation_between_units:false and the complete architectural terminal retained. E31 requires its genuine source-first entering freeze and the complete preceding introducing transaction. The exact published head must be green before the next major push; that rule is separate from source-reading exposure, owner hold release and protected-main integration. No routine unit pause or full-goal completion is declared. Raw sources, private matrices and OFF/SS01 evidence stay local.
 
 ## Current E0029 source transaction — 2026-10-31
 
@@ -1980,3 +1986,13 @@ The four logical ledgers record 27 character events/14 relationship events, two 
 The genuine entering source is ea497d0b80cbe9940d77ce30c4b095575ede5add after its own green source audit. All19 beforeimages are exact at that source and the current ordinary main inheritance. OriginalI1, five-BW and LN10 inventories remain immutable. The published E27 arrival correction and original E28 boundary are retained; E29 departure/object aftermath is later information, not an old-source rewrite. Source/private evidence stays local.
 
 The continuous frozen 431/I1 run stays active, with confirmation_between_units:false and the full architectural terminal retained. E30 needs a prospective source-first freeze after whole E29 and required publication checks; the actual published head must be green before the next major push. Owner hold release and protected-main integration remain separate. No routine unit pause or full-goal completion is declared. OFF evidence stays local; raw sources/private matrices remain outside Git.
+
+## E0030 — familiar payment, useful interference and an unanswered question — 2026-10-31
+
+All 181 original WEB nodes (114 meaningful/67 format) and 11 observations are complete. The separately encountered acquired LN01 part0020 native65–168 contains 101 story nodes plus three framing nodes, with 11 ruby/15 readings. Its 101 narrative components comprise 18 changed-base cases, eight strict one-to-one annotation differences, two combined equal-base join/annotation cases and 73 equal controls. All 28 registered dispositions, six groups, eight many-WEB joins, annotation loci and original character/UTF-8/raw-gap vectors remain bounded. The private calling rationale, ongoing-versus-attempt study force, explicit approach agency, indefinite nonretrieval, exact May wording and final tone tense stay source-specific. Native169+ and member/chapter/volume completion are excluded.
+
+The four logical ledgers record 16 character events, 12 relationship events, two current channel projections/directions, 67 new propositions/67 information transitions, three earlier PROP REVISE successors, 12 tensions, four new OPEN claims, 19 earlier CLA successors (13 STRENGTHEN/6 REVISE) and two existing RULE STRENGTHEN evidence successors. There is no new rule ID or adopted standing term. Joint totals are 281 claim IDs/974 versions/1,481 strict rows, 1,761 proposition IDs/2,395 versions and 194 rule IDs/504 distinct pairs/523 physical rows, including 19 legacy repeats. Every earlier table line and countercase/access clock remains exact; disclosure master/continuation01 and claims master are unchanged.
+
+All19complete entering beforeimages remain exact at e65139d43e592c6b2d727683be69e88330398d23. Current main2b191fe176a8247888ee152f441c2837f6efbcff has no Shuukura or governing-policy changes; ordinary reconciliation remains a separate actual Git step. Immutable I1/five-BW/LN10 inventories and all original encounter notes/seals remain unchanged.
+
+The frozen431/originalI1 run remains active, with confirmation_between_units:false and the complete architectural terminal retained. E31 requires its genuine source-first entering freeze and the complete preceding introducing transaction. The exact published head must be green before the next major push; that rule is separate from source-reading exposure, owner hold release and protected-main integration. No routine unit pause or full-goal completion is declared. Raw sources, private matrices and OFF/SS01 evidence stay local.
