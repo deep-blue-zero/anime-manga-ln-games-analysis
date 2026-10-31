@@ -5,10 +5,10 @@ artifact_type: information_decision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.3"
+version: "1.4"
 status: active_provisional
 scope: "Causal information distribution, perceived choices and consequential decisions"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-S01; story505–534/end534, distinct closing comic535, illustrations503/504 and publication credits536"
+source_boundary: "CM-JP-AIO2020-LOCAL complete supplied witness,539 images; fictional state through CM-S01, paratext separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_INFORMATION_LEVERAGE_AND_DECISION_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -545,3 +545,7 @@ At U09 exit CM-INF-035–043/CM-DEC-051–065 preserve private security versus p
 At U10 exit CM-INF-044–055 and CM-DEC-066–089 preserve delayed consultation, target/colleague distinction, harmful wish after pause, contemporaneous bodily limits, promised versus performed breakup, Mina/Tamaki asymmetric knowledge, actual selective silence, departure/object discovery and received token plans versus private care despite possible loss narration. Earlier report leverage, unshown Natsuki resolution and other secondary aftermath remain scoped. No clinical inference, imagined rival or future outcome substitutes for evidence; mainline source freeze precedes S01.
 
 At S01 exit CM-INF-056–062/CM-DEC-090–105 distinguish school private liking/attraction, public inference and defense, delayed non-estrangement, adult current-person disclosure, encouragement versus omniscient knowledge, received welcome/practical rice and adjacent-comic ring/marriage reports. No new model outcome is created. Earlier knowledge/permission limits, Tamaki identity gap and unshown Natsuki original call resolution remain scoped; later reported marriage is not backdated. The source map owns the2019/2020credit disagreement.
+
+## Completed-corpus reconciliation
+
+The [source/longitudinal audit](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) checked all62 information/105 decision records and their chronology/recipient limits. Creator note502 adds an approximate Hummingbird/comic placement and intent statement, not a new fictional information transfer. Printed2019 credit536 versus primary2020 evidence, reused promotional art and digital colophon are source-map/audit responsibilities. No extra INF/DEC event is justified. Daughter266/269→interruption277→Imagase302, Mina467→unfinished Tamaki disclosure473, request411→refusals413–416→wait421→later praise443 and wedding talk→welcome532–534 retain their ordered audiences. G4 reconciled; source/current/final synthesis route every material unresolved limit without backdating knowledge or creating a new forecast.

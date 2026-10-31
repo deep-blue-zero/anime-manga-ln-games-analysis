@@ -5,10 +5,10 @@ artifact_type: character_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.4"
+version: "1.5"
 status: active_provisional
 scope: "Independent identity/state history and separate monograph/model readiness"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-S01; story505–534/end534, distinct closing comic535, illustrations503/504 and publication credits536"
+source_boundary: "CM-JP-AIO2020-LOCAL complete supplied witness,539 images; fictional state through CM-S01, paratext separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CHARACTER_DEVELOPMENT_AND_READINESS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -485,27 +485,35 @@ Prior CM-CS-020; identity 夏生 unchanged. Primary route: [CM-S01-O033](../01%2
 
 All11 authorized mainline/supplemental bundles now have full inspected boundaries in this atomic transaction, with S01 story and adjacent comic separately classified. Historical U06 model/test/failure/qualification bytes remain unchanged; no S01 response is counted as a fresh holdout. Youthful friendship, attraction/self-criticism and adult confidante/home interaction add distinct evidence contexts, but temporal gaps and thin unfamiliar/ordinary-work samples still require abstention from broad simulation. All20 subjects will receive explicit G5/G8 dispositions after remaining14-image/source and G4 reconciliation. Literary understanding and operational validation remain separate; no global grade or final capability release.
 
+## Completed-corpus readiness disposition
+
+### CM-RD-007 — all-subject literary and operational disposition
+
+After539-image coverage and G4 reconciliation, the [corpus readiness/reconstruction review](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_CORPUS_READINESS_AND_RECONSTRUCTION_REVIEW.md) assesses all20 enrolled subjects. Completed independent monographs: [Kyoichi](../04%20Character%20Studies/CORNERED_MOUSE_KYOICHI_OTOMO_MONOGRAPH.md), [Imagase](../04%20Character%20Studies/CORNERED_MOUSE_WATARU_IMAGASE_MONOGRAPH.md), [Tamaki](../04%20Character%20Studies/CORNERED_MOUSE_OKAMURA_TAMAKI_MONOGRAPH.md) and [Natsuki](../04%20Character%20Studies/CORNERED_MOUSE_NATSUKI_MONOGRAPH.md). The other16 receive explicit independent-agency/source-limit treatment in the [secondary/social study](../05%20Specialist%20Studies/CORNERED_MOUSE_SECONDARY_AGENCY_AND_SOCIAL_CONTEXT_STUDY.md), with consolidation reasons in the review. No new character event is created from paratext/illustration;46 events/20 subjects remain.
+
+G8 is assessed with operational release withheld. The historical U06 models/tests remain unchanged; PA006 has no eligible trigger, PA004/005 retain temporal/selection qualifications and PA003 its bounded failure. Rich descriptive evidence does not yield a validated final-state policy: post-reunion ordinary action is sparse, unfamiliar/general occupational transfer limited, written register not acoustic voice, and no unread holdout remains. The review supplies retrospective source-case/domain probes and abstentions without calling them fresh validation. No successor model or global grade is manufactured. This current readiness record supersedes earlier procedural readiness as a retrieval state, preserving every earlier RD/CS record and its boundary.
+
 ## Current projection
 
 | Character | Current event | Source-bounded state | Separate readiness |
 |---|---|---|---|
-| CM-CH-OTOMO | CM-CS-039 | Ordinary welcome/rice attention; no new private access, precise gift purchases or permanent guarantee | Independent monograph final review after G4; historical models/tests unchanged, CM-RD-006 |
-| CM-CH-IMAGASE | CM-CS-040 | Middle-school/adult friendship, self-critique, current uncertainty and received home care; comic ring/gift report | Independent monograph final review after G4; no S01 holdout credit, CM-RD-006 |
-| CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Independent work reviewed after corpus |
-| CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Insufficient independent evidence; model unassessed |
-| CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Independent work reviewed after corpus; model unassessed |
-| CM-CH-STUDENT-WOMAN-U02 | CM-CS-008 | Past kiss/warning; identity and formal status unverified | Insufficient independent evidence; model unassessed |
-| CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Insufficient independent evidence; model unassessed |
-| CM-CH-NATSUKI | CM-CS-046 | Closing-comic marriage/younger-husband report and gift banter; original call resolution still unshown | Independent literary responsibility, final scope after G4; broad model insufficient |
-| CM-CH-TAKASUGI | CM-CS-035 | Additional concern/name-recovery call through Imagase report; no resumed romance or direct present scene | Contextual secondary responsibility, independent model/portrait evidence limited |
-| CM-CH-OKAMURA-TAMAKI | CM-CS-034 | Courtship/family plans, assault, demanded breakup conversation, grief/waiting and Mina support; male former identity unshared | Independent monograph warranted after reconciliation; operational scope insufficient |
-| CM-CH-OTOMO-FATHER | CM-CS-024 | Advice/loneliness in Kyoichi remembered childhood only | Contextual role; independent portrait/model insufficient |
-| CM-CH-YANAGIDA | CM-CS-031 | Father role/other household reported, matchmaking, sudden death and daughter mourning | Contextual family responsibility; independent portrait/model insufficient |
-| CM-CH-NOGAMI-MINA | CM-CS-036 | Independent confrontation/inference and supportive nondisclosure; surname/given name directly linked | Secondary/social study, standalone model/portrait insufficient |
-| CM-CH-OKAZAKI-U10 | CM-CS-037 | Named former hairdresser/aggressor; work/capture report limits, no mutual romance inferred | Role-limited evidence, no independent model/portrait |
-| CM-CH-IMAGASE-COLLEAGUE-U10 | CM-CS-038 | Unnamed professional colleague, distinct from aggressor/old men | Contextual role, no independent model/portrait |
-| CM-CH-KAMIMURA | CM-CS-041 | Independent peer/adult friendship, withdrawn crush, marriage and reciprocal-effort encouragement | Secondary/social responsibility; independent model not justified |
-| CM-CH-SAITO-ATSUSHI-S01 | CM-CS-042 | Named peer/objectification, reported crush then withdrawal; adult outcome unverified | Role-limited, no independent model/portrait |
-| CM-CH-CLASSMATE-S01 | CM-CS-043 | Unnamed public date-label/objectification, contested inference | Role-limited peer pressure, no model/portrait |
-| CM-CH-SAKANO-S01 | CM-CS-044 | Teacher conduct minimal; Imagase attraction private, no acted relation | Context only, no independent model/portrait |
-| CM-CH-KAMIMURA-GROOM-S01 | CM-CS-045 | Actual wedding role and bride household report, identity unmerged | Contextual spouse, no independent model/portrait |
+| CM-CH-OTOMO | CM-CS-039 | Ordinary welcome/rice attention; no new private access, precise gift purchases or permanent guarantee | Completed independent monograph; historical U06 proposal retained, current broad release withheld; CM-RD-007 |
+| CM-CH-IMAGASE | CM-CS-040 | Middle-school/adult friendship, self-critique, current uncertainty and received home care; comic ring/gift report | Completed independent monograph; historical U06 proposal retained, current broad release withheld; CM-RD-007 |
+| CM-CH-CHIKAKO | CM-CS-003 | Requested divorce; new partner reported; later state unknown | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-COMPANION-U01 | CM-CS-004 | Violent act observed; breakup later reported; interior unavailable | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-NISHIMURA-MIZUNO | CM-CS-007 | Affair/invitations and household account; witnessed outburst, aftermath unknown | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-STUDENT-WOMAN-U02 | CM-CS-008 | Past kiss/warning; identity and formal status unverified | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-CLIENT-U02 | CM-CS-009 | Reported client, distinct from U01 companion; reacted to outburst | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-NATSUKI | CM-CS-046 | Closing-comic marriage/younger-husband report and gift banter; original call resolution still unshown | Completed independent monograph; no operational proposal justified; CM-RD-007 |
+| CM-CH-TAKASUGI | CM-CS-035 | Additional concern/name-recovery call through Imagase report; no resumed romance or direct present scene | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-OKAMURA-TAMAKI | CM-CS-034 | Courtship/family plans, assault, demanded breakup conversation, grief/waiting and Mina support; male former identity unshared | Completed independent monograph; no operational proposal justified; CM-RD-007 |
+| CM-CH-OTOMO-FATHER | CM-CS-024 | Advice/loneliness in Kyoichi remembered childhood only | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-YANAGIDA | CM-CS-031 | Father role/other household reported, matchmaking, sudden death and daughter mourning | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-NOGAMI-MINA | CM-CS-036 | Independent confrontation/inference and supportive nondisclosure; surname/given name directly linked | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-OKAZAKI-U10 | CM-CS-037 | Named former hairdresser/aggressor; work/capture report limits, no mutual romance inferred | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-IMAGASE-COLLEAGUE-U10 | CM-CS-038 | Unnamed professional colleague, distinct from aggressor/old men | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-KAMIMURA | CM-CS-041 | Independent peer/adult friendship, withdrawn crush, marriage and reciprocal-effort encouragement | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-SAITO-ATSUSHI-S01 | CM-CS-042 | Named peer/objectification, reported crush then withdrawal; adult outcome unverified | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-CLASSMATE-S01 | CM-CS-043 | Unnamed public date-label/objectification, contested inference | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-SAKANO-S01 | CM-CS-044 | Teacher conduct minimal; Imagase attraction private, no acted relation | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |
+| CM-CH-KAMIMURA-GROOM-S01 | CM-CS-045 | Actual wedding role and bride household report, identity unmerged | Secondary/social study owns evidence and limits; no independent operational proposal; CM-RD-007 |

@@ -5,10 +5,10 @@ artifact_type: relationship_state_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.3"
+version: "1.4"
 status: active_provisional
 scope: "Directional expectations, commitments, consent/boundaries and relational consequences"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-S01; story505–534/end534, distinct closing comic535, illustrations503/504 and publication credits536"
+source_boundary: "CM-JP-AIO2020-LOCAL complete supplied witness,539 images; fictional state through CM-S01, paratext separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_RELATIONSHIP_COMMITMENT_AND_BOUNDARY_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -495,3 +495,7 @@ At U09 exit the four newly active earlier dyads and new Otomo–Yanagida role ar
 At U10 exit the four new dyads and updated central/Tamaki/family states are retrieved above. CM-RS-018 retains earlier Imagase–Takasugi status with only the new reported concern call in CM-CS-035/CM-INF-047; no resumed romance is inferred. All other dyads retain their historical source scopes, including unshown Natsuki resolution. Sixteen new transitions do not erase earlier permission violations or grant private knowledge to absent people.
 
 At S01 exit, new friendship/peer/teacher/spouse contexts and the central home/comic aftermath are retrieved above. All other dyads retain source scopes, including Tamaki male-lover identity gap and Chikako/Nishimura/unnamed roles aftermath. No ordinary welcome eliminates prior coercion; Natsuki marriage report is new later evidence, not an invented solution at the old call. Mainline freezes remain unchanged, supplemental narrative admission closes after this transaction.
+
+## Completed-corpus reconciliation
+
+The [source/longitudinal audit](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) checked all23 dyad projections against70 events. Separate paratext adds creator chronology/intent and illustration provenance, no new performed relationship. The three S01-updated dyads and20 other source-bounded endpoints remain exactly as retrieved above; all earlier consent/knowledge/aftermath limits persist. The [central relationship study](../05%20Specialist%20Studies/CORNERED_MOUSE_CENTRAL_RELATIONSHIP_STUDY.md) owns the sustained comparative argument, with individual monographs and ethical study separately owned. No current projection grants Tamaki/Mina identical knowledge, Kamimura full Kyoichi history, an original-call resolution or permanent future. G4 reconciled; literary synthesis complete for supplied scope, no operational model release.

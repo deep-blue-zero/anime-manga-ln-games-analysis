@@ -5,10 +5,10 @@ artifact_type: claim_revision_ledger
 series: "The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る"
 series_id: cornered-mouse
 generation: CORNERED_MOUSE_BOOTSTRAP_V1
-version: "1.4"
+version: "1.5"
 status: active_provisional
 scope: "Interpretive claim lineage, genuine prospective forecasts and revision impact"
-source_boundary: "Japanese manga continuity; CM-JP-AIO2020-LOCAL through CM-S01; story505–534/end534, distinct closing comic535, illustrations503/504 and publication credits536"
+source_boundary: "CM-JP-AIO2020-LOCAL complete supplied witness,539 images; fictional state through CM-S01, paratext separately classified"
 canonical_home: series/cornered-mouse/03 Longitudinal Ledgers/CORNERED_MOUSE_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md
 created: "2026-10-24"
 updated: "2026-10-30"
@@ -683,6 +683,26 @@ CM-CL-001/002/003/008/009/010/012/013/016/019 retain their formulations/scopes. 
 
 All six forecasts remain disposed exactly at their original windows/first cases. No additional forecast or adjudication is invented; a newly read youthful scene is not a clean U06-state holdout, and adult encouragement/ordinary welcome/comic gifts cannot rescue PR004. CM-PA-006 stays NON_DISCRIMINATING, PA004/005 qualified/mixed and PA003 bounded failure, with PA001/002 bounded support (002 low discrimination). No homogeneous accuracy sample, global tier or broad operational release.
 
+## Corpus reconciliation revisions after separate paratext disclosure
+
+These revisions follow committed S01 at13ef6301 and the remaining14-image inspection. The [source/longitudinal audit](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) owns the new paratext observations. No fictional state, prior formulation, original forecast or outcome is rewritten. Total23 claims/78 revision events; all six forecasts remain closed with their existing limitations.
+
+### CM-CR-076 — CM-CL-004, v9 → v10, STRENGTHEN
+
+**Old v9:** S01 distinguishes private attraction/friend affection, public dating inference, unnamed-other disclosure and adult encouragement. **New v10:** creator commentary is a further, separately classified audience/evidence layer. The March2020 note places Hummingbird's adult present roughly3–4weeks after the sequel finalscene and before Cassis Orange; it describes a friend-facing facet Kyoichi likely has not seen. This supplies author chronology/intent, not proof of Kyoichi's complete ignorance or access to the wedding talk. **Evidence:** [CM-PARA-O012](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md#cm-para-o012), `CM-JP-AIO2020-LOCAL::sp0502::xhtml=item/xhtml/p-0500.xhtml::image=item/image/i-0500.jpg::panel=P00`. **Alternative/counterevidence:** a character may have unshown knowledge, and an author note can frame a work without narrating an event. **Confidence:** high for printed note, bounded for fictional inference. **Falsifier/limit:** direct contradictory story/variant evidence would revise its dependent chronology; no unavailable edition is presumed equal. **Downstream:** source map, G4 audit, Imagase/form/final synthesis; no model test credit.
+
+### CM-CR-077 — CM-CL-006, v11 → v12, STRENGTHEN
+
+**Old v11:** reference bird/exhibit/wedding bag, delayed negation and practical rice explanation shape narrative access. **New v12:** the complete edition adds a gallery cover, separately captioned reused CD/cover/promotional art, two author texts, separators and digital colophon. These frame reading and publication without creating new timed fictional actions. The2020 note calls the closing bonus comic Cassis Orange; original-form textual equivalence remains unverified. **Evidence:** [CM-PARA-O004](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md#cm-para-o004) through O014; sp0001–0009/0500–0502/0538–0539. **Alternative/counterevidence:** illustration can resonate with events, but resonance alone gives no timing/permission. Digital period-expression notice539 does not erase revised-edition identity. **Confidence:** high for classes/captions, moderate for formal integration. **Falsifier/limit:** verified original comparison can identify variants at a new disclosure boundary. **Downstream:** source audit/map, form study/final integration; no adaptation performances admitted.
+
+### CM-CR-078 — CM-CL-022, v2 → v3, STRENGTHEN
+
+**Old v2:** Hummingbird adds continuing effort, exhaustion and actual welcome without guaranteeing a lifetime. **New v3:** the spring2009 afterword invites imagined continuation; the March2020 note identifies later new material and approximately places its adult present. These support a layered/open ending interpretation as creator framing, while the argument for meaningful finite care rests on performed choice and received acts in the fiction. **Evidence:** [CM-PARA-O010](../07%20Audits%20and%20Handoffs/CORNERED_MOUSE_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md#cm-para-o010)/O012 and [sp0534](../01%20Sequential%20Readings/CORNERED_MOUSE_S01_DEEP_READING.md#cm-s01-o032). **Alternative/counterevidence:** the tender scene can remain temporary reassurance within a cycle; author intent does not settle ethical adequacy or unseen future. **Confidence:** high for note facts, moderate for integrated argument. **Falsifier/limit:** missing Reboot/original variants cannot be supplied by inference; no prediction of permanence. **Downstream:** relationship/form/final synthesis and bounded release, not operational reconstruction.
+
+### Corpus no-change and forecast disposition
+
+All other20 claims retain the versions/scopes retrieved in the source audit. G4 reconciles apparent conflicts by event/disclosure chronology, interested testimony, focalization and bounded edition unknowns; no additional demonstrated frozen-source error needs an erratum. All six original forecast formulations/outcomes and two U06 proposals remain byte-preserved. PA003 bounded failure, PA004/005 temporal qualifications, PA006 non-discriminating window and PA001/002 bounded support (002 low discrimination) are not re-scored. No new holdout or homogeneous accuracy metric is introduced.
+
 ## Current claim projection
 
 | Claim | Current formulation | Authority boundary / disposition |
@@ -690,9 +710,9 @@ All six forecasts remain disposed exactly at their original windows/first cases.
 | CM-CL-001 | v8 in CM-CR-049 | U10: U10 adds explicit costly choice, actual recipient-led breakup conversation, coercive intervention, pursuit and future limits. Kyoichi remains responsible amid drift; his claim unchanged is evidence of persistent manner, not cancellation of changed choices. STRENGTHEN |
 | CM-CL-002 | v2 in CM-CR-050 | U10: Retain the U01 mechanism and extend cumulative evidence to both directions: Imagase request411 does not nullify later refusal413–416; his later praise443 cannot retroactively supply assent, while Kyoichi wait421 remains during Imagase initiative. Roles/pleasure do not settle specific permissions. STRENGTHEN |
 | CM-CL-003 | v1 above | Chikako account preserved by CM-CR-003; no U02 new evidence |
-| CM-CL-004 | v9 in CM-CR-064 | S01: S01 contrasts youthful private attraction/friend affection with public dating inference, unnamed-other disclosure and adult encouragement. Kyoichi does not hear the wedding/school account; comic report/attribution and publication facts have separate limits. STRENGTHEN |
+| CM-CL-004 | v10 in CM-CR-076 | Corpus: creator commentary502 adds approximate chronology/intent without giving its knowledge to fictional people; all earlier interested accounts/audiences remain scoped. STRENGTHEN |
 | CM-CL-005 | v8 in CM-CR-065 | S01: Adult Imagase reports current attachment and uncertainty after the third-time warning, then actually receives ordinary welcome/rice attention. Comic visible ring/received-gift report develops the token idea beyond unperformed offer, without guaranteed permanence or all purchases shown. STRENGTHEN |
-| CM-CL-006 | v11 in CM-CR-066 | S01: Hummingbird moves from reference-book bird image to elusive exhibit, paired wedding emblem and home bag. Delayed negation protects friendship from a false estrangement inference; rice explanation preserves practical and emotional readings of touch. Story ending and distinct comic are not one continuous event. STRENGTHEN |
+| CM-CL-006 | v12 in CM-CR-077 | Corpus: color/promotion provenance, separately read2009/2020 notes, title separators and closing comic add edition framing without invented events or silent original-form equivalence. STRENGTHEN |
 | CM-CL-007 | v8 in CM-CR-067 | S01: Young Imagase explicitly distinguishes affectionate friendship with Kamimura from attraction toward the teacher while noticing his own appearance-focused gaze. This adds temporal/relational detail, does not establish an acted teacher relation or determine Kyoichi identity. Natsuki comic gendered insult remains attributed. STRENGTHEN |
 | CM-CL-008 | v6 in CM-CR-055 | U10: U10 explicitly supplies changed initiator/role and requests/refusals in succession: prior desire, contemporary stop, later preference and renewed initiative have distinct temporal authority. No fixed sexual role equals fixed global control or complete repair. STRENGTHEN |
 | CM-CL-009 | v1 above | Nishimura's independent agency/qualified family account |
@@ -708,5 +728,5 @@ All six forecasts remain disposed exactly at their original windows/first cases.
 | CM-CL-019 | v1 above | Actual gratitude echoes private wish without sharing whole imagined life |
 | CM-CL-020 | v3 in CM-CR-073 | S01: S01 extends these distinctions through youthful liking versus attraction, adult fear/encouragement and an ordinary welcome whose recipient response is visible. Closing-comic vanity and gendered banter keep attachment from becoming a pure moral achievement. STRENGTHEN |
 | CM-CL-021 | v3 in CM-CR-074 | S01: Kamimura independent wedding and Imagase inclusion as friend supply another form of belonging beside Tamaki excluded mourning and central token visibility. Marriage testimony and guest welcome can resonate without making these relations identical or proving every audience knows his sexuality. STRENGTHEN |
-| CM-CL-022 | v2 in CM-CR-075 | S01: Hummingbird makes continuing effort and its exhaustion explicit, then offers one actual ordinary return home rather than a guaranteed lifetime. The comic adds visible token/reported gifts and flawed playful selves. The ending argument gains lived continuation without erasing U10 limits or the missing Reboot story. STRENGTHEN |
+| CM-CL-022 | v3 in CM-CR-078 | Corpus: performed choice and ordinary continuation remain finite/uncertain; old afterword invites imagined future and2020 note places S01/comic approximately, without guaranteeing permanence or replacing the fiction. STRENGTHEN |
 | CM-CL-023 | v1 in S01 claim | Enduring friendship/independent wishes, affection distinct from attraction and audience-dependent recognition |
