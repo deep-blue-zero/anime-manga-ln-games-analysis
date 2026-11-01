@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.53
+generation: V0.54
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: PETRA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
+  next_permitted_operation: REALA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
 ```
 
 ```yaml
@@ -38,8 +38,8 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V21 # PR390 full source gate closed; Meili21/PR413 gate closed; Petra derived work advances no source unit
-  next_candidate_operation: PETRA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
+  committed_high_water_mark: V21 # PR390 sequential and Meili21/PR413/Petra21/PR415 gates closed; Reala derived work adds no source unit
+  next_candidate_operation: REALA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,21 +53,21 @@ sequential_execution:
 
 ## Current analytical state
 
-Verified integrated and source-facing analytical high-water is Japanese main LN V21/467claims. [V21 reading](02%20Sequential%20Readings/REZERO_LN_V21_DEEP_READING.md), preceding Arc05/Theresia20/Reinhard20/Felt20 and Meili21 gates are CLOSED. Verified integrated sequential high-water is V21/467claims. V21/PR390 full publication/integration gate is CLOSED at final source ae5d9a358e79199e3ed9098a9cd10870811bf5a4, actual merge 32da8f9d7c935107ae56332b9d479fcb6737f444 and verified main 547a1e10d8f66597a525ef4a4626299cab7e7f5c. Meili21/PR413 full gate is now CLOSED: authored41882400fad9e82af2e29473b5a80d282704432c; CI final source2f0d648e5ac4cd5dda6921e41c47f5ea4bf93ab4; actual merge2b191fe176a8247888ee152f441c2837f6efbcff; verified mainba230369f74b7aa47a4d01951221cf18b8b99b3e. The three required Meili snapshots share Re:Zero subtreedc78c6bbb699f3190ba760d4e7d535b3abd47650. Exact source/merge/main audits41218881361/41219714204/41237529090 actually executed all486unique discovered tests each with zero nonpasses and trusted success statuses57748683418/57748990688/57755410183. Source-specific housekeeping41219698723 completed with actual final SOURCE_SHA and a verified routing-current no-op; immutable remote readback and later native originals/protected/seal/inverse checks passed after the latest required verdict. No Meili model/default/local grade is extended or rewritten.
+Verified integrated and source-facing analytical high-water is Japanese main LN V21/467claims. [V21 reading](02%20Sequential%20Readings/REZERO_LN_V21_DEEP_READING.md), preceding Arc05/Theresia20/Reinhard20/Felt20, Meili21 and Petra21gates are CLOSED. Verified integrated sequential high-water is V21/467claims. V21/PR390 and Meili21/PR413 full gates remain CLOSED. Petra21/PR415 full gate is now CLOSED: final source607bf3e177f5bcf6bca3c937030675421858020c; actual merge8a01f869d7e30d00d32b7c950d2ef14557b22b78; verified current main194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17. All three share Re:Zero subtree34fe947f9a05af084e2992023e62c72c5509e5e4. Exact source/merge/current-main audits41279221176/41287574758/41311312249 actually executed486unique discovered tests each with zero nonpasses and trusted success statuses57769749400/57772466110/57780770164. Source-specific housekeeping41279835910 completed with actual SOURCE_SHA607bf3e1 and a verified routing-current no-op. Full immutable remote readback and later native originals/protected/seal/inverse checks passed after the latest required verdict/housekeeping. Earlier Petra model/default/local grade remains exact.
 
-V21 retains467claims:423predecessors227PRESERVE/141STRENGTHEN/47REVISE/8OPEN plus44NEW, all60incoming questions/ten forecasts adjudicated. Maintenance generations are masterV1.44,eventV2.11/E024,knowledgeV2.11/K814,mechanicsV1.20/M520,institutionV1.24/I428,relationshipV1.18/R181/RT450,schemaV0.45. Source-facing records/ancestry retain exact bytes; counts are traceability. The twentieth model, Petra V01–V21 generationV1.0, and its separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its29bundles/24confidence-rationale records comprise22person-behavior rules plus two MODEL_USE_GUARD records(16HIGH/8MEDIUM overall;14HIGH/8MEDIUM behavioral),24adverse controls, six unfamiliar/two calibration families and three matched-recipient families, after three targeted semantic/dependency repair groups and one wording normalization. Default V21_MANOR_DEPARTURE_LIVING_WELCOME_PENDING selects the last observed living mansion-departure care/handover and unfinished first welcome, not personal tower presence, lost affection, adult status or inherited discarded history. Petra own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows.
+V21 retains467claims:423predecessors227PRESERVE/141STRENGTHEN/47REVISE/8OPEN plus44NEW; all60incoming questions/ten forecasts adjudicated. Maintenance generations are masterV1.45,eventV2.12/E024,knowledgeV2.12/K814,mechanicsV1.21/M520,institutionV1.25/I428,relationshipV1.19/R181/RT450,schemaV0.46. Literal claim/owner/ancestry bytes remain exact; counts are traceability. The twenty-first model, Reala V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.26evidence bundles support22confidence-rationale records:20person-behavior rules plus2MODEL_USE_GUARD(12HIGH/10MEDIUM overall;10HIGH/10MEDIUM behavioral). Review applied26adverse controls, six unfamiliar/two calibration cases and three matched-recipient families, after one evidence-plane typing and two source-wording repairs. Default V21_PRISTELLA_CHILD_AUDIENCE_CODA_MEMORY_CONTENTS_UNRESOLVED preserves the last actually observed Pristella child-audience exchange, positive Garf-directed love/suggestive recognition and unreported full autobiography. Reala own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows.
 
 The original V21 is 2755387 bytes/SHA 95a3683ecaae4c7995f2dc3fee82049907f88aa369631c993b7e5694d2110eff/CRCpass. All 23 OPF members/4133 positions=4112 TEXT+21 IMAGE references/158038 base characters,all 21 original assets,original toc.ncx and every 1713 contextual ruby group/2294 rt label/555 unique pair were actually read/viewed in 36 offers. Tiny jacket print remains bounded and counts/native correspondence do not certify attention. No fresh all 43inventory/bibliography is claimed.
 
 Living E024 inside tower follows 23 observed Subaru deaths/24 arrived segments. Three actual new return pairs remain separate from ordinary faint/garden/waking, imagined fiery Ram death and earlier Pristella backfill. Eight people/two dragons are named alive; Rem remains unresponsive, Puck asleep, Julius self-memory survives while usable spirit contact is lost, human Ana waking is unproved and Shaula identity/remedy remains provisional. Meili's volunteered guide/own room, Petra's rest/welcome terms and Reala/Gallek joint preservation are performed distinctions, not a complete cure or every recipient informed.
 
-All64entering protected artifacts, nineteen earlier model scopes/defaults/local grades,467current claim rows/ancestry, four literal prospective bodies, five owner record/field contracts and formal/reserved schema tails remain exact. Derived reuse revisits consumed originals without new admission or narrative claim generation. Global livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 remain unchanged.
+All66entering protected artifacts and20earlier model scopes/defaults/local grades remain exact, as do467literal current claim rows/ancestry, five owner record/field bodies, four literal prospective bodies and formal/reserved tails. Derived reuse adds no source unit/admission. Global livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 remain unchanged. SA01 qualifies only the earlier naming-actor shorthand through existing current owners and an attributable original-source audit; no silent historical rewrite or new owner/field follows.
 
-Close the implemented Petra21 pair's own full publication/integration gate next. Only afterward construct REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW, with exact prior Japanese/design recovery, all protocol responsibilities, an actually applied separate19-dimension review and its own complete gate; repair material findings or revise readiness. Reala remains EARNED_UNIMPLEMENTED/UNGRADED. Only after Reala full gate may literal sealedV22 be consumed. V22+/nonspine/import narratives remain unopened. Continue sequential/earned work through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no ordinary-unit pause is introduced.
+Close the implemented Reala21 pair's own full publication/integration gate next. Only afterward consume admitted JapaneseV22 against its exact literal sealed60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c, with complete original text/image/navigation/ruby attention and separate postread adjudication. V22+/nonspine/import narratives remain unopened now. Continue sequential/earned work through admittedV43 plus the mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no routine-unit pause is introduced.
 
 Current 467 claims, people/ordinary/Japanese/readiness and literal incoming V19/V20/V21 prospects remain in the master; exact earlier history remains recoverable through same-base archive/heading routes. Complete substantive candidate measurements must precede any lossless storage selection under unchanged 1 MiB. The complete 21290-byte V22 body is now sealed after accepted saved-content/source/name-reference review and must remain exact through all earned operations.
 
-Retain V20 TEXTp-011 afterword, Subaru V19 pause, actual Garfiel denial to Gallek, Frederica C116/M344 subject and Roswaal source/recipient/agency bounds, Muse query and old Ram chronology. Reala coda has children present after Garfiel leaves; V17十五年前/V21十年ちょっと and graphic左右/prose上下remain original-wording queries. No silent source edit, new owner/field, current blood/Sage cure, future narrative or global grade follows.
+Retain V20 TEXTp-011 afterword, Subaru V19pause, actual Garfiel denial to Gallek, FredericaC116/M344subject, Roswaal source/recipient/agency bounds, Muse and Ram chronology queries. Reala coda has children present after Garfiel leaves; V17十五年前/V21十年ちょっと/この十年 and graphic左右/prose上下retain original-wording queries. Binding source-attribution qualification [SA01](08%20Audits%20and%20Manifests/REZERO_REALA_V01_V21_FIDELITY_REVIEW.md#2-source-attribution-erratum-sa01): originalV21text/part0015.html#B0504–0509/B0521–0523 makes Reala the speaker calling/introducing Rafiel/Fredo and claiming name authorship; Rafiel reacts to appraisal. Read the preserved C049/C095/C463/K807/R106 daughter-self-introduction shorthand subject to that correction. Frozen V21, all467literal current claim rows and five owner table-line bytes stay exact; this operative qualification changes only the naming actor, not identity, receipt, chronology or recognition contents. No new source/owner/field, blood/Sage cure, future narrative or global grade follows.
 
 ## Governing method and retrieval route
 
@@ -104,15 +104,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Analytical method/witness protocol canonical; reconstruction protocolV1.42/architectureV1.43 synchronize V21 and Meili21/PR413 gates CLOSED, Petra twentieth implementation/local pass/own gate PENDING, Reala then sealedV22. Formal19dimension tail exact; no redesign/admission. |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lockV0.46; V21/PR390 and Meili21/PR413 own gates CLOSED. Bounded Petra original-Japanese reuse adds no source unit/admission or fresh whole-volume credit. Source43/V41exception/datedgaps and V22+/nonspine/import exclusions unchanged. |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V21/four checkpoints including Arc05 fully integrated. Petra derived model adds no sequential freeze. Literal incomingV19/V20/V21 and sealed21290-byte V22body remain exact and V22unopened. |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Analytical method/witness protocol canonical. Reconstruction protocolV1.43/architectureV1.44 synchronize V21 and Petra21/PR415gates CLOSED, Reala twenty-first implementation/local pass/own gate PENDING, then sealedV22. Formal19dimension tail exact; no redesign/admission. |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lockV0.47; V21/PR390, Meili21/PR413 and Petra21/PR415gates CLOSED. Reala original-Japanese reuse:27actual deliveries/1421positions (1420TEXT+one image reference)/772ruby/56523base characters from six consumed volumes; originalV19image viewed for exclusion. No source unit/admission or fresh whole-volume credit.43/V41exception/datedgaps and exclusions unchanged. |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V21/four checkpoints including Arc05 fully integrated. Reala derived pair adds no sequential freeze. Literal incomingV19/V20/V21 and sealed21290-byteV22body remain exact; V22unopened. |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | MasterV1.44/currentV21/467claims; eventV2.11/E024(23deaths24segments),knowledgeV2.11/K814,mechanicsV1.20/M520,institutionV1.24/I428,relationshipV1.18/R181/RT450,schemaV0.45. Current routing/Petra implementation only; all source-facing claim/ordinary/JP/owner bodies and literal prospects exact. Complete maintenance preimages retained. Existing archive02V1.2 receives only25156bytes of superseded Meili/Petra routing fragments; current claim/ordinary/JP/prospect bodies remain in master. Root changelog archive01V1.1 receives only13036bytes of completed Felt/V21/Meili history. Original-heading routers and native inverses preserve both complete spans under the unchanged1MiBcap. |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | DirectoryV0.33; twenty implemented models/reviews. Nineteen prior scopes/defaults/local grades exact, with Meili21 own full gate CLOSED. Petra21 local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY/own full gate PENDING, then Reala21 earned unimplemented/ungraded construction/review/full gate before sealedV22. |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | MasterV1.45/currentV21/467claims; eventV2.12/E024(23deaths24segments),knowledgeV2.12/K814,mechanicsV1.21/M520,institutionV1.25/I428,relationshipV1.19/R181/RT450,schemaV0.46. Reala implementation/current routing and attributable SA01 naming-actor qualification only; all literal claim/owner/ordinary/JP/prospect bodies exact. Complete maintenance preimages remain recoverable. Existing archive02V1.3 additionally receives only23291bytes of superseded Reala21master routing inputs, with all15original-heading routers/native inverses; the complete15-file set was measured first (master1065970bytes,17394over the unchanged1MiBcap; all others fit). Changelog archive01V1.1 is unchanged. |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | DirectoryV0.34;21implemented models/reviews.20prior scopes/defaults/local grades exact, with Petra21 own full gate CLOSED. Reala21 local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY, own full gate PENDING before sealedV22. Default last-observed Pristella child-audience coda with positive attachment/unknown complete mnemonic contents; SA01 actor applies. |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | Nineteen entering scoped review states exact. New Petra21 review actually applies19dimensions/24controls/six unfamiliar+two calibration/three matched-recipient families after three semantic/dependency repairs and one wording normalization.22behavior+2caller-guard records; no independent/held-out/runtime/global grade. Own publication/integration gate PENDING. |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | 20entering scoped reviews remain exact. New Reala21review actually applies19dimensions/26controls/six unfamiliar+two calibration/three matched-recipient families after one evidence-plane typing and two source-wording repairs.20behavior+2caller-guard records; same-analyst nonblind documentary, no independent/held-out/runtime/global grade. SA01 attributable source actor erratum qualifies current homes. Own full gate PENDING. |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -185,13 +185,13 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Preserve all64entering protected artifacts/nineteen earlier scopes/defaults/local grades,467claims/ancestry, five owner bodies/contracts and four literal V19/V20/V21/V22prospective bodies. Verified integrated sequential high-water isV21; V21/PR390 and Meili21/PR413 own full gates are CLOSED.
-2. Publish the implemented Petra21model and separate actually applied19-dimension review through exact-path approved-identity commit, final-index author preflight, nonforce push/attached PR, full immutable commit/tree/changed-file readback, actual all-discovered exact-head execution/trusted verdict, source-specific housekeeping, CI merge/actual-merge/current-main audits and later native/source/protected/seal/inverse proof. Petra own full gate is PENDING; CI owns merges.
-3. Only after Petra full gate, construct Reala21 separately with exact earlier Japanese/design recovery, every protocol responsibility, an actually applied scoped review and its own complete gate. Reala is earned unimplemented/ungraded; failures require targeted repair or revised readiness.
-4. Twenty person implementations now comprise nineteen prior exact scopes plus Petra21. Petra default is last observed living manor departure/care handover/new welcome pending, with no personal tower presence, lost affection, adult status or inherited erased outcome. Meili retains its exact named livingE024tower/personal-response-unshown scope. No local grade becomes independent/held-out/runtime/global validation.
-5. Only after remaining Petra/Reala gates, open admitted JapaneseV22against exact60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c and consume complete OPF text/image/navigation/ruby sequence before postread adjudication. V22+/nonspine/import narratives remain unopened now.
-6. Continue sequential/earned work through admittedV43then mandatory terminal architecture/state/role-gap/acquisition review. No routine volume/model pause or published-series-completion claim.
-7. Retain source43/V41exception/datedgaps, Ram chronology, Reala/Gallek clocks and graphic/prose query, children-present/Garfiel-absent coda, FredericaC116/M344, Garfiel denial toGallek, Roswaal/Muse/RegulusH1/V20TEXTafterword and storage-measurement bounds. No old freeze/source body, owner/schema, global curation output or size cap changes.
+1. Preserve66entering protected artifacts/20prior scopes/defaults/local grades,467literal claim rows/ancestry, five owner record/field bodies and four literal prospective bodies. Verified integrated sequential high-waterV21; V21/PR390, Meili21/PR413 and Petra21/PR415full gates CLOSED.
+2. Publish the implemented Reala21model and separate actually applied19-dimension review through approved exact-path commit, final-index author preflight, nonforce push/attached PR, full immutable commit/tree/changed-file readback, actual all-discovered exact-head execution/trusted verdict, completed source-specific housekeeping, CI merge/actual-merge/current-main audits and later native originals/protected/seal/inverse proof. Reala own full gate PENDING; CI owns merges.
+3. 21person implementations now comprise20earlier exact scopes plus Reala21. Reala default is V21_PRISTELLA_CHILD_AUDIENCE_CODA_MEMORY_CONTENTS_UNRESOLVED; positive directed love and unreported complete autobiography coexist. Child-audience coda does not inform absent Garfiel; earlier Pristella backfill does not place Reala at the tower. No local grade becomes independent/held-out/runtime/global validation.
+4. Apply the SA01 original-source naming-actor qualification in existing current master/knowledge/relationship homes: Reala calls/introduces the names, Rafiel reacts. Preserved claim/owner shorthand is subject to that operative correction; no silent edit or sixth owner.
+5. Only after Reala full gate, open admitted JapaneseV22against exact60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c and consume complete OPF text/image/navigation/ruby before separate adjudication. V22+/nonspine/import narratives remain unopened now.
+6. Continue sequential/earned work through admittedV43then mandatory terminal architecture/state/role-gap/acquisition review. No routine-unit/model pause or published-series-completion claim.
+7. Retain source43/V41exception/datedgaps, Ram chronology, Reala/Gallek clocks/graphic-prose query, FredericaC116/M344, Garfiel denial toGallek, Roswaal/Muse/RegulusH1/V20TEXTafterword and storage-measurement bounds. Historical complete spans may move only after complete substantive candidates earn it, with same-base heading routers/native inverses and unchanged1MiBcap. No global curation output, source/owner/schema change.
 
 ## Bootstrap abstentions
 
@@ -651,5 +651,108 @@ Close the implemented Meili21 pair's own complete publication/integration gate n
 5. Only after all three earned derived gates, open admitted JapaneseV22against exact60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c and consume complete OPF text/image/navigation/ruby sequence before postread adjudication. V22+/nonspine/import narratives remain unopened now.
 6. Continue sequential/earned work through admittedV43then mandatory terminal architecture/state/role-gap/acquisition review. No routine volume/model pause or published-series-completion claim.
 7. Retain source43/V41exception/datedgaps, Ram chronology, Reala/Gallek clocks and graphic/prose query, children-present/Garfiel-absent coda, FredericaC116/M344, Garfiel denial toGallek, Roswaal/Muse/RegulusH1/V20TEXTafterword and storage-measurement bounds. No old freeze/source body, owner/schema, global curation output or size limit is silently changed.
+
+````````````````````
+
+### Reala21 exact entering corpus-map fragments — historical
+
+Complete displaced input fragments retain their prior horizon/link base. Earlier pending/unimplemented text is historical, not current work orders or a reopened gate.
+
+#### current   next_permitted_operation:
+
+````````````````````text
+  next_permitted_operation: PETRA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
+````````````````````
+
+#### current   committed_high_water_mark:
+
+````````````````````text
+  committed_high_water_mark: V21 # PR390 full source gate closed; Meili21/PR413 gate closed; Petra derived work advances no source unit
+````````````````````
+
+#### current   next_candidate_operation:
+
+````````````````````text
+  next_candidate_operation: PETRA_V01_V21_FULL_PUBLICATION_INTEGRATION_GATE
+````````````````````
+
+#### current Verified integrated and source-facing analytical high-water
+
+````````````````````text
+Verified integrated and source-facing analytical high-water is Japanese main LN V21/467claims. [V21 reading](02%20Sequential%20Readings/REZERO_LN_V21_DEEP_READING.md), preceding Arc05/Theresia20/Reinhard20/Felt20 and Meili21 gates are CLOSED. Verified integrated sequential high-water is V21/467claims. V21/PR390 full publication/integration gate is CLOSED at final source ae5d9a358e79199e3ed9098a9cd10870811bf5a4, actual merge 32da8f9d7c935107ae56332b9d479fcb6737f444 and verified main 547a1e10d8f66597a525ef4a4626299cab7e7f5c. Meili21/PR413 full gate is now CLOSED: authored41882400fad9e82af2e29473b5a80d282704432c; CI final source2f0d648e5ac4cd5dda6921e41c47f5ea4bf93ab4; actual merge2b191fe176a8247888ee152f441c2837f6efbcff; verified mainba230369f74b7aa47a4d01951221cf18b8b99b3e. The three required Meili snapshots share Re:Zero subtreedc78c6bbb699f3190ba760d4e7d535b3abd47650. Exact source/merge/main audits41218881361/41219714204/41237529090 actually executed all486unique discovered tests each with zero nonpasses and trusted success statuses57748683418/57748990688/57755410183. Source-specific housekeeping41219698723 completed with actual final SOURCE_SHA and a verified routing-current no-op; immutable remote readback and later native originals/protected/seal/inverse checks passed after the latest required verdict. No Meili model/default/local grade is extended or rewritten.
+````````````````````
+
+#### current V21 retains467claims:
+
+````````````````````text
+V21 retains467claims:423predecessors227PRESERVE/141STRENGTHEN/47REVISE/8OPEN plus44NEW, all60incoming questions/ten forecasts adjudicated. Maintenance generations are masterV1.44,eventV2.11/E024,knowledgeV2.11/K814,mechanicsV1.20/M520,institutionV1.24/I428,relationshipV1.18/R181/RT450,schemaV0.45. Source-facing records/ancestry retain exact bytes; counts are traceability. The twentieth model, Petra V01–V21 generationV1.0, and its separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its29bundles/24confidence-rationale records comprise22person-behavior rules plus two MODEL_USE_GUARD records(16HIGH/8MEDIUM overall;14HIGH/8MEDIUM behavioral),24adverse controls, six unfamiliar/two calibration families and three matched-recipient families, after three targeted semantic/dependency repair groups and one wording normalization. Default V21_MANOR_DEPARTURE_LIVING_WELCOME_PENDING selects the last observed living mansion-departure care/handover and unfinished first welcome, not personal tower presence, lost affection, adult status or inherited discarded history. Petra own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows.
+````````````````````
+
+#### current All64entering protected artifacts,
+
+````````````````````text
+All64entering protected artifacts, nineteen earlier model scopes/defaults/local grades,467current claim rows/ancestry, four literal prospective bodies, five owner record/field contracts and formal/reserved schema tails remain exact. Derived reuse revisits consumed originals without new admission or narrative claim generation. Global livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 remain unchanged.
+````````````````````
+
+#### current Close the implemented Petra21 pair's
+
+````````````````````text
+Close the implemented Petra21 pair's own full publication/integration gate next. Only afterward construct REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW, with exact prior Japanese/design recovery, all protocol responsibilities, an actually applied separate19-dimension review and its own complete gate; repair material findings or revise readiness. Reala remains EARNED_UNIMPLEMENTED/UNGRADED. Only after Reala full gate may literal sealedV22 be consumed. V22+/nonspine/import narratives remain unopened. Continue sequential/earned work through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no ordinary-unit pause is introduced.
+````````````````````
+
+#### current Retain V20 TEXTp-011 afterword,
+
+````````````````````text
+Retain V20 TEXTp-011 afterword, Subaru V19 pause, actual Garfiel denial to Gallek, Frederica C116/M344 subject and Roswaal source/recipient/agency bounds, Muse query and old Ram chronology. Reala coda has children present after Garfiel leaves; V17十五年前/V21十年ちょっと and graphic左右/prose上下remain original-wording queries. No silent source edit, new owner/field, current blood/Sage cure, future narrative or global grade follows.
+````````````````````
+
+#### live corpus table `00 Frameworks and Methods`
+
+````````````````````text
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Analytical method/witness protocol canonical; reconstruction protocolV1.42/architectureV1.43 synchronize V21 and Meili21/PR413 gates CLOSED, Petra twentieth implementation/local pass/own gate PENDING, Reala then sealedV22. Formal19dimension tail exact; no redesign/admission. |
+````````````````````
+
+#### live corpus table `01 Source Lock and Inventory`
+
+````````````````````text
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lockV0.46; V21/PR390 and Meili21/PR413 own gates CLOSED. Bounded Petra original-Japanese reuse adds no source unit/admission or fresh whole-volume credit. Source43/V41exception/datedgaps and V22+/nonspine/import exclusions unchanged. |
+````````````````````
+
+#### live corpus table `02 Sequential Readings`
+
+````````````````````text
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V21/four checkpoints including Arc05 fully integrated. Petra derived model adds no sequential freeze. Literal incomingV19/V20/V21 and sealed21290-byte V22body remain exact and V22unopened. |
+````````````````````
+
+#### live corpus table `04 Longitudinal Ledgers`
+
+````````````````````text
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | MasterV1.44/currentV21/467claims; eventV2.11/E024(23deaths24segments),knowledgeV2.11/K814,mechanicsV1.20/M520,institutionV1.24/I428,relationshipV1.18/R181/RT450,schemaV0.45. Current routing/Petra implementation only; all source-facing claim/ordinary/JP/owner bodies and literal prospects exact. Complete maintenance preimages retained. Existing archive02V1.2 receives only25156bytes of superseded Meili/Petra routing fragments; current claim/ordinary/JP/prospect bodies remain in master. Root changelog archive01V1.1 receives only13036bytes of completed Felt/V21/Meili history. Original-heading routers and native inverses preserve both complete spans under the unchanged1MiBcap. |
+````````````````````
+
+#### live corpus table `05 Character Analysis`
+
+````````````````````text
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | DirectoryV0.33; twenty implemented models/reviews. Nineteen prior scopes/defaults/local grades exact, with Meili21 own full gate CLOSED. Petra21 local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY/own full gate PENDING, then Reala21 earned unimplemented/ungraded construction/review/full gate before sealedV22. |
+````````````````````
+
+#### live corpus table `08 Audits and Manifests`
+
+````````````````````text
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | Nineteen entering scoped review states exact. New Petra21 review actually applies19dimensions/24controls/six unfamiliar+two calibration/three matched-recipient families after three semantic/dependency repairs and one wording normalization.22behavior+2caller-guard records; no independent/held-out/runtime/global grade. Own publication/integration gate PENDING. |
+````````````````````
+
+#### complete live current work order
+
+````````````````````text
+## Current work order
+
+1. Preserve all64entering protected artifacts/nineteen earlier scopes/defaults/local grades,467claims/ancestry, five owner bodies/contracts and four literal V19/V20/V21/V22prospective bodies. Verified integrated sequential high-water isV21; V21/PR390 and Meili21/PR413 own full gates are CLOSED.
+2. Publish the implemented Petra21model and separate actually applied19-dimension review through exact-path approved-identity commit, final-index author preflight, nonforce push/attached PR, full immutable commit/tree/changed-file readback, actual all-discovered exact-head execution/trusted verdict, source-specific housekeeping, CI merge/actual-merge/current-main audits and later native/source/protected/seal/inverse proof. Petra own full gate is PENDING; CI owns merges.
+3. Only after Petra full gate, construct Reala21 separately with exact earlier Japanese/design recovery, every protocol responsibility, an actually applied scoped review and its own complete gate. Reala is earned unimplemented/ungraded; failures require targeted repair or revised readiness.
+4. Twenty person implementations now comprise nineteen prior exact scopes plus Petra21. Petra default is last observed living manor departure/care handover/new welcome pending, with no personal tower presence, lost affection, adult status or inherited erased outcome. Meili retains its exact named livingE024tower/personal-response-unshown scope. No local grade becomes independent/held-out/runtime/global validation.
+5. Only after remaining Petra/Reala gates, open admitted JapaneseV22against exact60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c and consume complete OPF text/image/navigation/ruby sequence before postread adjudication. V22+/nonspine/import narratives remain unopened now.
+6. Continue sequential/earned work through admittedV43then mandatory terminal architecture/state/role-gap/acquisition review. No routine volume/model pause or published-series-completion claim.
+7. Retain source43/V41exception/datedgaps, Ram chronology, Reala/Gallek clocks and graphic/prose query, children-present/Garfiel-absent coda, FredericaC116/M344, Garfiel denial toGallek, Roswaal/Muse/RegulusH1/V20TEXTafterword and storage-measurement bounds. No old freeze/source body, owner/schema, global curation output or size cap changes.
 
 ````````````````````
