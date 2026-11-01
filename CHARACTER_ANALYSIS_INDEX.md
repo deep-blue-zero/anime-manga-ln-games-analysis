@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 21 |
+| [`re-zero`](characters/index/re-zero.md) | 22 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -358,6 +358,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Maxwell](characters/index/konosuba.md#maxwell) | Original light-novel continuity, scoped current monograph | `konosuba:maxwell@original-light-novel` | マクス; マクスウェル |
 | [Megumi](characters/index/konosuba.md#megumi) | Original light-novel continuity, bounded expanded cohort | `konosuba:megumi@original-light-novel` | メグミ |
 | [Megumin](characters/index/konosuba.md#megumin) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:megumin@original-light-novel` | めぐみん |
+| [Meili](characters/index/re-zero.md#meili) | Re:Zero main light novel | `re-zero:meili@light-novel` | メィリィ・ポートルート |
 | [Melvirei](characters/index/konosuba.md#melvirei) | Original light-novel continuity, scoped cohort monograph | `konosuba:melvirei@original-light-novel` | メルビレイ |
 | [Metal Mōrā](characters/index/konosuba.md#metal-mora) | Authored TRPG component, unplayed source-specific scope | `konosuba:metal-mora@trpg-advanced-supplied-scenario` | メタルモーラー |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
