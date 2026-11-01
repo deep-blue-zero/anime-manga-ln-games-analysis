@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 22 |
+| [`re-zero`](characters/index/re-zero.md) | 23 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -424,6 +424,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Pain](characters/index/konosuba.md#pain) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:pain@original-light-novel` | ペイン |
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
+| [Petra Leyte](characters/index/re-zero.md#petra-leyte) | Re:Zero main light novel | `re-zero:petra-leyte@light-novel` | ペトラ・レイテ |
 | [Pickles](characters/index/konosuba.md#pickles) | Original light-novel continuity, bounded expanded cohort | `konosuba:pickles@original-light-novel` | トランザム・ルッソ・ピクルス |
 | [Platypus tissue cover](characters/index/shuukura.md#platypus-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:platypus-tissue-cover@original-light-novel` | — |
 | [Priscilla Barielle](characters/index/re-zero.md#priscilla-barielle) | Re:Zero main light novel | `re-zero:priscilla-barielle@light-novel` | プリシラ・バーリエル |
