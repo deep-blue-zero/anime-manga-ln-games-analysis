@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Current disclosure ledger and continuation
 
-This canonical master preserves the disclosure register's complete historical body through BW04. The [current continuation01](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) is part of this **same logical disclosure ledger** and owns all subsequent propositions, tensions, current revision and totals. Read both parts together. This physical continuation adds no analytical responsibility, proposition identity or authority lane. Earlier notices below are their preserved historical states; their use of “current” is dated to those states.
+This canonical master preserves the disclosure register's complete historical body through BW04. [Continuation01](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) preserves subsequent rows through E0027; [current continuation02](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_02.md) continues from E0028 and owns the current revision and joint totals. Read all three parts as the **same logical disclosure ledger**. Physical continuation adds no analytical responsibility, proposition identity or authority lane. Earlier notices remain their dated historical states.
 
 ## Preserved register through BW04
 
