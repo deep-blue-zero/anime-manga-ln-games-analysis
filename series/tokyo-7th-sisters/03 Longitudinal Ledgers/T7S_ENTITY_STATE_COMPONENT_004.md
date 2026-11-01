@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_COMPONENT_004
 artifact_type: entity_state_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.20"
+version: "1.21"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -12,9 +12,9 @@ supersedes: []
 superseded_by: []
 canonical_logical_owner: T7S_ENTITY_STATE_LEDGER
 storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0231; every row retains its original local horizon; no identity resolution or maturity promotion from storage"
 created: 2026-10-30
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
 <!-- T7S ENTITY STATE PAYLOAD BEGIN -->
@@ -1032,4 +1032,38 @@ Existing Coney `IDENTITY-0003 / CHAR-0003 / rokusaki-connie-presented` and Playe
 | `REL-1275` | `player-protagonist → rokusaki-connie-presented` | P1-3; recipient of her question/support/request, with no independently supplied turn. No private response, assent or permanent joint future known. Reciprocal1274. |
 
 Totals:1991KNOW/1275REL;102IDENTITY/84CHAR/29UNIT/29READY retained. Historical READY0018 remains B0063/retrospective EP0.7 R2_STATE_BOUNDED, MONOGRAPH_NOT_READY, performed voice UNREVIEWED, with six combined capability rows, counterexamples and unresolved obligations exact. No maturity promotion or rewriting of earlier accountability/absence/motive limits.
+
+## B0231 Three Short messages and an unanswered recipient
+
+Owner [B0231](../02%20Readings/T7S_B0231_DEEP_READING.md), reading SHA256 `1be1162cf23e620cbec44600f6d59f990196d65f5b55542d06f5709af567eb3f`; source-lock12.139, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Exact independent Short messages402000101 / mail_0001.json__f1ab74f25b395c4b;402000201 / mail_0002.json__5fc6778831016dcf;402000301 / mail_0003.json__ddd6c0e201ed868d, each whole primaryP0-2/log0-2. Their source hashes respectively4dd197b12b9f6406749c6ac3a4e1747f7dcf13e47a2ffe804ad2514b94b731dd,165adf3537441849f199e7cf548f23eb05514d4e7cbaa8fb842172d3518ba02f,999fe2937a12a6e012bc2965e2921f7dc7fcb317a424529e105914a9426e2714; normalized39091df099d80f937319835365769dea6d02b7848810ace3493b87a667b481bb,55bb09ef4997029087b2557f7553be200ee407093dcc5f44a4e756a7ed77aba1,8f96459f6d16d5835cab95dd59fc6def292cbaf9427522736676e00a8868f399. Full38physical images/9view values/4snapshots bind publishedB0230/12.138. KNOWN_EXPOSURE_RECOVERY: complete cohort accepted2026-10-31T10:23:00.943349Z after09:02:48packet intent and early review; original failure4c825e63... is preserved, not retroactively passed. Owner exact3 recovery authorization4d5575a20a76ddc8cc8172b409c9ff6bfb56fa5b7b23e77fbf4206bf4ca54515. All9Japanese/9native objects/every-key projection/63slots actually reviewed;3composites and3bound original BGs actually viewed; contact sheet/raw actor derivatives not separately viewed. No voice carrier; BGM010unlistened, runtime unobserved. Prior current sender/Hime/Player states and two whole earlier READY decisions retained. No shared day or menu-derived Main/2043/EP6 placement is inferred.
+
+**Current qualifier for CHAR-0034 / kawasumi-shisara:** Sisara reports participating in shared cleaning, appraises Nanasta's noisy enjoyment and seeks the manager's future recognition of their result. Formal comparison with B0182's shared belonging remains undated and attributed; no cure of insecurity, erasure of earlier imposed-career costs, universal peer feeling or institutional safety follows.
+
+**Current qualifier for CHAR-0014 / kamishiro-sui:** Sui voices irritation at Hime's reported prince teasing and admiration for Hime's family work in the same message, retainsボク, then poses/retracts a family conditional toward the manager. Pride, care, irritation and possible playful closeness coexist; no self-deception verdict, total gender-role reversal, actual kinship or reciprocal romance. Earlier care/workload counterevidence is retained.
+
+**Current qualifier for CHAR-0008 / tsunomori-rona:** Rona explains a specific reported obstruction and directs an urgent help request while feeling uneasy alone. Active help seeking and vulnerability coexist; neither total helplessness nor regression from a supposed completed cure. The fault's cause, actual location/floor plan and rescue remain unshown. The current canonical prior ledger owns B0184 qualifiers; its frozen legacy reading is not promoted.
+
+**Attributed qualifier for CHAR-0009 / nonohara-hime:** Sui reports Hime's prince introduction and finds her family work kind/cool. These are Sui's reported words and appraisal, not a new Hime-authored interior or family testimony. Hime's prior chosen presentation, received help, workload complaints, unresolved vocation and situational care remain exact.
+
+**Recipient qualifier for CHAR-0001 / player-protagonist:** The manager is addressed as hoped-for witness, conditional recipient of a kindness question and requested helper. These messages do not independently establish delivery, actual reception, new manager knowledge, reply, assent, return or completed rescue.
+
+| ID | Holder / bounded proposition | Source and limit |
+| --- | --- | --- |
+| `KNOW-1992` | Sisara reports cleaning with Nanasta peers and an activity that became serious/large-cleaning-like; she calls Nanasta noisy and fun. | 402000101:P0-1; her report/appraisal, no unanimous member census or independently witnessed work. |
+| `KNOW-1993` | Sisara wants the manager soon to see the shared polished Nanasta and anticipates surprise on return. | 402000101:P2; desired recognition and prediction, no actual return, response or recipient knowledge. |
+| `KNOW-1994` | Sui reports a visit and quotes Hime identifying her to family as a prince, which Sui calls mean. | 402000201:P0-1; nested reported speech, not Hime's new own turn or a supplied family reaction. |
+| `KNOW-1995` | Sui appraises Hime working for family as kind and cool. | 402000201:P1; personal admiration, no Hime interior, exhaustive workload understanding or costless/permanent care duty. |
+| `KNOW-1996` | Sui asks whether family status would bring greater manager kindness, then expressly calls it a joke. | 402000201:P2; conditional/retraction, playful probe and wholly playful reading remain open; no actual kinship, mistreatment fact or romantic reciprocity. |
+| `KNOW-1997` | Rona reports her room door broken and herself trapped. | 402000301:P1; reported material constraint, no cause, culprit, injury, floor plan or repair observed. |
+| `KNOW-1998` | Rona says others are out on that day and she feels uneasy alone. | 402000301:P2; attributed absence and expressed feeling, not a synchronized day with Sisara or global abandonment/diagnosis. |
+| `KNOW-1999` | Rona asks whether the manager can return and appeals for help. | 402000301:P0,2; active directed request, no delivery acknowledgement, manager reply or completed rescue. |
+
+| ID | Directional relation | Source and retained limit |
+| --- | --- | --- |
+| `REL-1276` | `kawasumi-shisara → player-protagonist` | 402000101:P0-2; invites recognition of shared work and anticipated return. No sole manager authorship of belonging, heard tenderness or received answer. |
+| `REL-1277` | `kamishiro-sui → nonohara-hime` | 402000201:P0-1; reported teasing complaint coexists with admiration for family labor. Earlier REL0054/0311/0332 retain distinct source horizons; appreciation does not settle capacity costs or Hime's unprovided motive. |
+| `REL-1278` | `kamishiro-sui → player-protagonist` | 402000201:P2; poses a family-conditioned kindness question and retracts it as a joke. No actual kinship, required extra care, unilateral romantic contract or recipient response. |
+| `REL-1279` | `tsunomori-rona → player-protagonist` | 402000301:P0-2; seeks return/help for a reported obstruction while alone and uneasy. No delivered-response knowledge, completed protection or total dependency inferred. |
+
+Totals:1999KNOW/1279REL;102IDENTITY/84CHAR/29UNIT/29READY retained. No new identity, character, unit or READY ID. SuiREADY0007 and RonaREADY0003 keep their whole old scopes/capability obligations; no Sisara READY is invented. No performed-voice, mature monograph or institutional-release promotion.
 <!-- T7S ENTITY STATE PAYLOAD END -->
