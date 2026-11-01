@@ -5,13 +5,13 @@ artifact_type: execution_admission_audit
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.62"
+version: "1.63"
 status: active_provisional
 scope: "Verified foundation, bounded source admission, exposure limits and atomic recovery"
-source_boundary: "Accepted LN01–10 witnesses, 23 supplements and WEB E0001–E0031 through whole transactions; original I1 continuous, E0032 next after whole E0031 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses, 23 supplements and WEB E0001–E0032 through whole transactions; original I1 continuous, E0033 next after whole E0032 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md
 created: "2026-10-17"
-review_status: E0031_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0032_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -19,6 +19,16 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Run admission and checkpoint
+
+## Current E0032 source transaction — 2026-11-01
+
+After leaving Miyagi's door, Sendai corrects her initial blame: the attempted kiss followed a wish to learn her own response, while Miyagi retained the final choice. At home, she wishes to return the money but actually deposits five thousand yen and lifts the savings box; she cannot clearly tell its change in weight, although the amount has certainly increased. After four days without contact from Miyagi, Sendai declines a peer invitation using cram school as her reason, parts from Umina and Mariko, and takes the route toward Miyagi. Her report of never previously skipping and her present nonattendance intention do not establish when the plan was formed, a first-ever skipping intention or a completed missed session. Intercom presses, sent requests, some read markers without replies, a first telephone call and later stopped read markers remain distinct channels; Miyagi's location and reason are unknown. Sendai leaves the building, conditionally imagines losing the comfortable place, rejects this unfinished ending and returns home again. In her room, she thinks one opening would be enough, then puts Miyagi's eraser in her pencil case. There is no admission to the residence, delivered private explanation, actual refund, established termination, specified future procedure or reunion.
+
+Whole E32 introduction alone yields WEB 32/431, 59/458 original I1, 64/463 pre-LN10 and 65/464 combined. Ten novels and 23 supplements remain complete. Sendai-own E28→E32 and Miyagi represented through Sendai E28→E32 advance with separate directions; Miyagi-own E31 and Sendai observed through Miyagi E31 remain exact. Two peer-observed summaries add Umina and Mariko's E32 acts without new supporting-own, later LN10 or readiness credit. All 18 forecasts/13 historical attempts, failures/ties/exposure/input-location defect remain. M0.13/S0.14 stay draft_noncurrent/UNTESTED with zero validated domains. Narō 0/290, 51 gaps with four resolved/47 unresolved, 27 discovery duties and all dependent G3–G7 duties remain unfinished. The [complete E32 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0032_DEEP_READING.md) and [current transaction audit](SHUUKURA_V2_KAK_JP_E0032_TRANSACTION_AUDIT.md) retain separately accepted source/comparison/cumulative/reading responsibilities.
+
+Entering E31 source 909b887754d1712a4ba2505bed65d4dd330ca9fb passed its own Repository integration audit 41273259400/attempt 1 with trusted success. That audit does not certify E32. PR410 arrival and identity findings remain resolved; owner nightly-hold release and protected-main integration retain separate authority.
+
+The frozen 431/original I1 run remains active with confirmation_between_units:false and the complete architectural terminal retained. E33 requires its genuine source-first entering freeze after whole E32 and the character-ledger continuation/routing review. Each major push requires the preceding actual published head's successful audit; source exposure, owner nightly-hold release and protected-main integration remain separate. No routine unit pause or full-goal completion is declared. Raw originals, private matrices and OFF/SS01 evidence remain local.
 
 ## Current E0031 source transaction — 2026-11-01
 
