@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_HISTORICAL_CLAIMS_AND_PROJECT_INPUTS_THROUGH_V20
-generation: V1.1
+scope: VERBATIM_HISTORICAL_CLAIMS_AND_PROJECT_INPUTS_THROUGH_PETRA_V21
+generation: V1.2
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -1673,3 +1673,164 @@ V16 boundary:340currentclaims,292individualdispositions/60Q/10P, E019/18deaths19
 V16 size-bound history maintenance: the exact older V14/V13 master claim snapshots now live in the existing project changelog with original-heading stubs here. Current340claims and complete enteringV15body/prospective seals remain in master. No claims are deleted, no sixth state owner/new path is created, and no size/validator exception is requested.
 
 ````````````
+
+## Petra21 master routing history
+
+The complete substantive fifteen-file Petra set was measured before storage selection: master1058855bytes (10279over1048576) and changelog1049359bytes (783over). This conditional append preserves exactly 25156payload bytes/SHA256`91e04bf338cdba635a383444b4b77547f0b13ca0fcc9bb80961b02588facb2c1` from the master candidate. Its 22 original active headings retain routers at their old positions; archive and source share the same relative-link base. Superseded pending/current labels are historical, not a reopened gate. All64entering protected artifacts/nineteen prior model scopes,467current claims, five owner bodies, four literal prospects and formal tails remain exact. No analytical owner, field, new source or limit exception is created.
+
+Entering archive scope/generation metadata: `scope: VERBATIM_HISTORICAL_CLAIMS_AND_PROJECT_INPUTS_THROUGH_V20`; `generation: V1.1`. The old archive body is otherwise byte-exact.
+
+````````````````````````markdown
+### Meili21 exact entering master fragments — historical
+
+Complete displaced input fragments retain their prior horizon/link base. Earlier pending/unimplemented text is historical, not current work orders or a reopened gate.
+
+#### live row analytical high-water in this synchronized transaction
+
+````````````````````text
+| analytical high-water in this synchronized transaction | Verified integrated sequential high-water remains V20 while the complete source-facing V21 transaction awaits its own full publication/integration gate. Arc05/PR363, Theresia20/PR364, Reinhard20/PR367 and Felt20/PR382 full gates CLOSED before V21. Felt final source fcf7fa5800531ca8d618cec44068000753df458e, actual merge dfef61b28e057696c8d8ba46847438d6bfd0d1f8 and verified main 3e15e74e7ae3c4857bc99b2cbc50e5dee50a38df have matching Re:Zero subtrees; each required audit actually executed all 486 discovered unique tests with zero nonpasses/trusted statuses, source-specific housekeeping was a verified no-op, and later native originals/protected/seal/inverse proof passed. V21 source-facing content passed the saved-content/source/name-reference review and native preservation checks. All 467 claims, 60 incoming questions, ten forecasts and 171 entering relationships are adjudicated; V22’s whole prospective body is sealed after that acceptance and remains unopened through the earned gates. All 61 entering protected artifacts/eighteen historical model scopes/defaults/local grades and literal older seals remain exact. After complete V21 gate, Meili21 then Petra21 then Reala21 each require a distinct construction/applied review/own complete gate before sealed V22. V22+/nonspine/import narratives stay unopened. Five owners/master retain contracts; no global grade, ordinary-unit pause or final-series completion. Continue through admitted V43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges. |
+````````````````````
+
+#### live row next earned operation
+
+````````````````````text
+| next earned operation | Complete V21 atomic freeze/own full publication-integration gate, then MEILI_V01_V21_MODEL_AND_FIDELITY_REVIEW, then PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW, then REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW, each separate construction/applied review/own complete gate before sealed V22. Readiness is UNIMPLEMENTED/UNGRADED, not fidelity. |
+````````````````````
+
+#### live row dedicated ledger owners
+
+````````````````````text
+| dedicated ledger owners | Five unchanged field contracts: eventV2.9/E024;knowledgeV2.9/K814;mechanicsV1.18/M520;institutionV1.22/I428;relationshipV1.16/R181/RT450. New 53K/38M/25I/10R/44RT;171 individual relationship decisions 55 updates/116 literal preserves; all 406 older RT/ancestry/affected complete preimages exact. |
+````````````````````
+
+#### live row character models / local review
+
+````````````````````text
+| character models / local review | All 61 entering protected artifacts/eighteen historical model/review scopes/defaults/local same-analyst nonblind documentary grades remain exact. Corrected Liliana1.1/current reassessment is distinct from original 1.0 review; Regulus terminal default/H1 remains; Theresia20/Reinhard20/Felt20 retain their own accepted scopes. No V21 automatic grade, independent/held-out/runtime/global result or proxy current reply. |
+````````````````````
+
+#### live row current source-facing increments
+
+````````````````````text
+| current source-facing increments | Thirty person/readiness records are 25 targeted current-row updates (including Felt gate-only status) plus 5 new bounded entries;29 ordinary and 26 Japanese rows retain speaker, audience, limits and earlier source selectors. Meili/Petra/Reala qualitative construction duties are separately earned but unimplemented/ungraded. |
+````````````````````
+
+#### current Meili person readiness
+
+````````````````````text
+| Meili | Private play/panda response, fear of unknown Mama, volunteered guide role, actual own-room release and finite beast/sight cooperation add self-directed ordinary change. | No full rehabilitation/innocence, escaped-handler guarantee, dragon control, exact control census, every client or restored failed-route memory; V21 B07–09/B15–20 | MONOGRAPH_READY V01–V21 construction earned, UNIMPLEMENTED/UNGRADED; first separately gated construction after complete V21 gate, with earlier disguise/attacker/captive phases distinct. |
+````````````````````
+
+#### current This is a source-facing readiness decision,
+
+````````````````````text
+This is a source-facing readiness decision, not an implemented character model or a fidelity result. It follows actual V21 narrative/TEXT/ruby/navigation consumption and original-asset viewing, with jacket microprint explicitly legibility-bounded. All 423 predecessor decisions, 60 incoming questions and ten forecasts have individual adjudications. The complete saved-content/source/name-reference review and affected repair readbacks are accepted; all 44 NEW claims now have specific reasons. Repository integration and the three earned constructions remain separate duties. Historical source/model/review artifacts are protected. V22 and nonspine narratives remain unopened.
+````````````````````
+
+#### complete Meili qualitative trigger and construction status
+
+````````````````````text
+### Meili — MONOGRAPH_READY for a separately constructed V01–V21 model
+
+The new question is larger than how a child commands beasts or functions as a hired attacker. Earlier disguise/attack, Elsa attachment, Frederica rescue and protective captivity now meet actual private doll play, embarrassment, a received handmade panda and her own naming of it. A desired ordinary life is voiced rather than inferred from childish appearance. Meili fears Mama and punishment yet chooses a dangerous guide role because indefinite seclusion is unacceptable. Subaru offers materially different terms from using her as disposable bait, Emilia grants an actual own room, and future freedom remains conditioned by safety/livelihood rather than silently completed rehabilitation.
+
+The route tests that choice. Meili can summon/dismiss a huge worm and guide/control nearby beasts, but cannot control the dragons or an overwhelming whole population. Panic, her frightening demonstration, rough estimates and the need for Ram's compatible sight keep competence finite and socially fallible. She receives a gift, correction and practical cooperation as well as confinement. Her familiar teasing/scare tactics, embarrassment, fear and volunteered wish require different audiences/states; one childlike register cannot substitute for all of them. These ordinary, relational, practical, failure and choice contrasts now discriminate most protocol responsibilities. They are qualitative additions to earlier attacks, not a promotion for the number of scenes or a claim she is harmless.
+
+The separate construction must recover exact already-consumed earlier Japanese and bind identity/disguise, named client and event state. Proposed default is living E024 after the named tower reunion, a volunteer guide with negotiated protective terms, finite control and no recollection of discarded E021–E023 continuations. Earlier village/attacker/captive and current ordinary/travel phases need explicit seven-axis selection. Mama's identity/face, complete handler chain, childhood, exact horn mechanics, future safety, moral innocence and unreceived Subaru return history remain operational abstentions; none requires inventing an answer or postponing every source-bounded reconstruction until a complete biography exists. The review must actively test toy/gift choice versus intimidation, guide willingness versus coercive conditions, single command versus population overload, and current new trust versus erased culpability.
+
+Reserve `05 Character Analysis/REZERO_MEILI_V01_V21_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_MEILI_V01_V21_FIDELITY_REVIEW.md` for a later separate operation. They do not exist yet. V21 part0010#B0284–0476, part0011#B0378–0402/B0695–0801 and part0012#B0239–0270 supply the new trigger. The later construction may still require attributable repair, abstention or readiness revision when actually reviewed.
+
+````````````````````
+
+#### current Required sequence after accepted source-facing review:
+
+````````````````````text
+Required sequence after accepted source-facing review: complete V21 atomic transaction/full publication and integration gate → MEILI_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate → PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate → REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate → sealed V22. Each construction must use the existing mature-design, exact-source, seven-axis, confidence/rationale, ordinary/recipient/voice/failure/refusal/negative-control/unfamiliar-probe and separately applied nineteen-dimension fidelity-review responsibilities. Readiness is neither implemented fidelity nor repository integration. A failed application requires attributable correction or revised readiness; no independent/blind/runtime/global grade is implied. Continue the admitted sequence through V43 plus mandatory terminal architecture/state/role-gap/acquisition review. CI owns merges; no ordinary-unit pause.
+````````````````````
+
+### Petra21 exact entering master fragments — historical
+
+Complete displaced input fragments retain their prior horizon/link base. Earlier pending/unimplemented text is historical, not current work orders or a reopened gate.
+
+#### live row analytical high-water in this synchronized transaction
+
+````````````````````text
+| analytical high-water in this synchronized transaction | Verified integrated sequential high-water is V21. PR390 full publication/integration gate is CLOSED: final source ae5d9a358e79199e3ed9098a9cd10870811bf5a4, actual merge 32da8f9d7c935107ae56332b9d479fcb6737f444 and verified main 547a1e10d8f66597a525ef4a4626299cab7e7f5c have identical Re:Zero trees. Their required exact-commit audits each actually executed all486discovered unique tests with zero nonpasses/trusted success statuses; source-specific housekeeping41012017145 completed with a verified routing-current no-op, followed by complete immutable remote/readback and later native original/protected/seal/inverse checks. Captured work main a19a4f04 retains that exact Re:Zero/control projection; no separate exact-a19 audit is claimed. The nineteenth model, Meili V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its26bundles/28confidence-rationale rules(21HIGH/7MEDIUM),30adverse controls, eight unfamiliar/two calibration probe families and three matched-recipient families were applied after five content/accounting repair groups and one metadata/reference normalization. Default V21_E024_NAMED_ALIVE_TOWER_REUNION_PERSONAL_RESPONSE_UNSHOWN preserves named living reunion without invented new response, personal amnesia or erased-route receipt. Its own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows. All62entering protected artifacts, eighteen historical model scopes/defaults/local grades,467current claim rows/ancestry, four literal prospective bodies, five owner contracts and formal/reserved schema tails remain exact. Derived reuse revisits consumed originals, adding no source admission or narrative claim generation. Current livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 stay unchanged. Close the implemented Meili21 pair's own complete publication/integration gate next; only then construct PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then sealedV22. Petra/Reala remain EARNED_UNIMPLEMENTED/UNGRADED. Each requires exact earlier-source recovery, mature design references as design only, seven-axis/confidence/ordinary/recipient/voice/help/failure/refusal controls and an actually applied separate19-dimension review, with repair or readiness revision on failure. V22+/nonspine/import narratives stay unopened. Continue through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges, no ordinary-unit pause. |
+````````````````````
+
+#### live row next earned operation
+
+````````````````````text
+| next earned operation | Close the implemented Meili21 pair's own complete publication/integration gate next; only then construct PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then sealedV22. Petra/Reala remain EARNED_UNIMPLEMENTED/UNGRADED. Each requires exact earlier-source recovery, mature design references as design only, seven-axis/confidence/ordinary/recipient/voice/help/failure/refusal controls and an actually applied separate19-dimension review, with repair or readiness revision on failure. V22+/nonspine/import narratives stay unopened. Continue through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges, no ordinary-unit pause. |
+````````````````````
+
+#### live row dedicated ledger owners
+
+````````````````````text
+| dedicated ledger owners | Five unchanged contracts: eventV2.10/E024;knowledgeV2.10/K814;mechanicsV1.19/M520;institutionV1.23/I428;relationshipV1.17/R181/RT450. Maintenance generations change no owner record/field. All V21source-facing increments,171relationship decisions/406olderRT ancestry and complete preimages remain exact. |
+````````````````````
+
+#### live row character models / local review
+
+````````````````````text
+| character models / local review | All62entering protected artifacts, eighteen historical model scopes/defaults/local grades,467current claim rows/ancestry, four literal prospective bodies, five owner contracts and formal/reserved schema tails remain exact. Derived reuse revisits consumed originals, adding no source admission or narrative claim generation. Current livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 stay unchanged. The nineteenth model, Meili V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its26bundles/28confidence-rationale rules(21HIGH/7MEDIUM),30adverse controls, eight unfamiliar/two calibration probe families and three matched-recipient families were applied after five content/accounting repair groups and one metadata/reference normalization. Default V21_E024_NAMED_ALIVE_TOWER_REUNION_PERSONAL_RESPONSE_UNSHOWN preserves named living reunion without invented new response, personal amnesia or erased-route receipt. Its own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows. |
+````````````````````
+
+#### live row current source-facing increments
+
+````````````````````text
+| current source-facing increments | V21 thirty person/readiness records,29ordinary/26Japanese rows retain exact source-facing facts. This source-free operation advances only Meili implementation/readiness and current routing: nineteenth model/local review implemented, own full gate pending. Petra/Reala remain earned unimplemented/ungraded. |
+````````````````````
+
+#### live row Meili
+
+````````````````````text
+| Meili | Private play/panda response, fear of unknown Mama, volunteered guide role, actual own-room release and finite beast/sight cooperation add self-directed ordinary change. | No full rehabilitation/innocence, escaped-handler guarantee, dragon control, exact control census, every client or restored failed-route memory; V21 B07–09/B15–20 | MONOGRAPH_READY V01–V21 [Meili model](../05%20Character%20Analysis/REZERO_MEILI_V01_V21_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_MEILI_V01_V21_FIDELITY_REVIEW.md) IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY; default named livingE024tower reunion/personal response unshown. Own full gate PENDING before Petra21; no independent/runtime/global grade. |
+````````````````````
+
+#### live row Petra Leyte
+
+````````````````````text
+| Petra Leyte | Performs formal welcome/injury care and Rem handover, objects to broken rest, is disappointed in herself and negotiates a new first welcome. | Thirteen-year current phase remains child agency; no adult romance/Clind offense, completed old outing/new welcome, Rem assent or all-danger permission; V21 B03/B10/B13 | MONOGRAPH_READY V01–V21 construction earned, UNIMPLEMENTED/UNGRADED. After Meili's own full gate, implement separate Petra model/review under all existing responsibilities. |
+````````````````````
+
+#### current The V21source-facing readiness decision below
+
+````````````````````text
+The V21source-facing readiness decision below is now followed by the separate Meili construction and actually applied review. Verified integrated sequential high-water is V21. PR390 full publication/integration gate is CLOSED: final source ae5d9a358e79199e3ed9098a9cd10870811bf5a4, actual merge 32da8f9d7c935107ae56332b9d479fcb6737f444 and verified main 547a1e10d8f66597a525ef4a4626299cab7e7f5c have identical Re:Zero trees. Their required exact-commit audits each actually executed all486discovered unique tests with zero nonpasses/trusted success statuses; source-specific housekeeping41012017145 completed with a verified routing-current no-op, followed by complete immutable remote/readback and later native original/protected/seal/inverse checks. Captured work main a19a4f04 retains that exact Re:Zero/control projection; no separate exact-a19 audit is claimed. The nineteenth model, Meili V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its26bundles/28confidence-rationale rules(21HIGH/7MEDIUM),30adverse controls, eight unfamiliar/two calibration probe families and three matched-recipient families were applied after five content/accounting repair groups and one metadata/reference normalization. Default V21_E024_NAMED_ALIVE_TOWER_REUNION_PERSONAL_RESPONSE_UNSHOWN preserves named living reunion without invented new response, personal amnesia or erased-route receipt. Its own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows. Petra/Reala remain separate earned unimplemented/ungraded duties. Historical source/model/review artifacts, current467claims and literal V22body remain protected; no source/horizon/field/owner expansion follows.
+````````````````````
+
+#### complete current Meili gate/readiness status
+
+````````````````````text
+### Meili — MONOGRAPH_READY for a separately constructed V01–V21 model
+
+[Meili model](../05%20Character%20Analysis/REZERO_MEILI_V01_V21_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_MEILI_V01_V21_FIDELITY_REVIEW.md) now implement the earned V01–V21 responsibility. The nineteenth model, Meili V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its26bundles/28confidence-rationale rules(21HIGH/7MEDIUM),30adverse controls, eight unfamiliar/two calibration probe families and three matched-recipient families were applied after five content/accounting repair groups and one metadata/reference normalization. Default V21_E024_NAMED_ALIVE_TOWER_REUNION_PERSONAL_RESPONSE_UNSHOWN preserves named living reunion without invented new response, personal amnesia or erased-route receipt. Its own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows.
+
+Exact identity/disguise, lethal work, Elsa attachment/rescue/captivity, private doll play/panda, fear/volunteered exit and finite guide cooperation remain conditional. Latest named livingE024tower reunion is source-positive; unseen personal response is neither inability nor amnesia. Meili gains no Subaru-only failed flights/right-route violence, known Mama identity or full rehabilitation. The separate review applied all19dimensions/30controls/eight unfamiliar and two calibration families/three matched-recipient families after attributable repairs; no global/independent/runtime grade.
+
+All62entering protected artifacts, eighteen historical model scopes/defaults/local grades,467current claim rows/ancestry, four literal prospective bodies, five owner contracts and formal/reserved schema tails remain exact. Derived reuse revisits consumed originals, adding no source admission or narrative claim generation. Current livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 stay unchanged. Close the implemented Meili21 pair's own complete publication/integration gate next; only then construct PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then sealedV22. Petra/Reala remain EARNED_UNIMPLEMENTED/UNGRADED. Each requires exact earlier-source recovery, mature design references as design only, seven-axis/confidence/ordinary/recipient/voice/help/failure/refusal controls and an actually applied separate19-dimension review, with repair or readiness revision on failure. V22+/nonspine/import narratives stay unopened. Continue through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges, no ordinary-unit pause.
+
+````````````````````
+
+#### complete Petra qualitative construction and applied review status
+
+````````````````````text
+### Petra — MONOGRAPH_READY for a separately constructed V01–V21 model
+
+Petra's earlier chosen education/maid work, moral distrust, care, rescue courage and idealized Subaru attachment already supplied more than a passive child role. V21 adds a precise self/recipient failure contrast: she objects to a broken post-Pristella rest promise, becomes upset about her own inability to stop him rather than simply devaluing him, and negotiates a new first-welcome-home promise. Subaru admits his desire to be Rem's praised rescuer in that actual conversation. Petra can perform a professional welcome, check injury, receive household praise, issue a personal rebuke and still prepare/care for Rem's departure. These are different practical and relational positions, not one cute mannerism or an assumed future adult romance.
+
+This new accountability/self-disappointment axis joins earlier direct preferences, letters, work, instruction, imagined but unperformed retaliation, volunteered outings and real danger/failure. It is enough for a maintained source-bounded person model while respecting childhood and limits. Unknown complete home routine, birthday and future choices are abstentions, not demands for perfection. The construction must recover exact older Japanese to distinguish performed care from contemplated dirty-rag tea, the old outing from current rest/first-welcome promises, and old twelve-year phases from the later explicitly thirteen-year common-year phase. It must preserve her independent judgments about Roswaal/Clind without inventing an offense, universal wisdom, adulthood or Rem's consent.
+
+Proposed default is the latest actually observed V21 mansion-departure handover: Petra remains at the mansion after checking/arguing/caring, with her new welcome promise unfulfilled and no tower/return-history knowledge by proxy. Earlier village, frightened/escape and working-household phases need explicit selection. A current sleeping/missing/offstage counterpart is not licensed to answer her by simulation. The review must test competence versus adult status, disappointed-in-self versus lost affection, ordinary teasing versus actual sabotage, negotiated promise versus fulfilled outcome, and education choice versus blanket acceptance of danger.
+
+Reserve `05 Character Analysis/REZERO_PETRA_V01_V21_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_PETRA_V01_V21_FIDELITY_REVIEW.md` for a distinct later operation. New V21 trigger: part0010#B0003–0043/B0478–0543/B0744–0765. Earlier claimed axes require exact already-consumed source recovery at construction rather than a model fabricated from this readiness paragraph.
+
+````````````````````
+
+#### current Close the implemented Meili21 pair's
+
+````````````````````text
+Close the implemented Meili21 pair's own complete publication/integration gate next; only then construct PETRA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW/own full gate, then sealedV22. Petra/Reala remain EARNED_UNIMPLEMENTED/UNGRADED. Each requires exact earlier-source recovery, mature design references as design only, seven-axis/confidence/ordinary/recipient/voice/help/failure/refusal controls and an actually applied separate19-dimension review, with repair or readiness revision on failure. V22+/nonspine/import narratives stay unopened. Continue through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges, no ordinary-unit pause.
+````````````````````
+````````````````````````
