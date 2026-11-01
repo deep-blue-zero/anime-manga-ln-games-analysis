@@ -21,6 +21,8 @@ do_not_use_as_literary_evidence: true
 
 # Character state and reconstruction readiness
 
+This physical part preserves the character ledger through WEB E0032. [Current continuation01](SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER_CONTINUATION_01.md) carries subsequent events and owns the current logical revision, joint totals and projection routing. Read both as the same logical character ledger; original source, actor and recipient clocks remain distinct.
+
 Revision 1.56 records E0032 after separate source/typed A4, material A2, bounded finite A2, cumulative A3 and complete-reading A3 acceptance. Whole introduction and publication retain their own gates.
 
 The four logical ledgers record 28 character events (21 Sendai-own, two Miyagi representations, three Umina-observed and two Mariko-observed), 13 relationship events, 66 new propositions/66 information transitions, four earlier PROP successors (two STRENGTHEN/two REVISE), 12 OPEN tensions, four new OPEN claims and 32 earlier CLA successors (18 STRENGTHEN/14 REVISE). All 19 current WEB rules remain PRESERVE, with zero rule successors, new rule IDs or adopted standing terms. Joint totals are 289 CLA IDs/1,043 distinct versions/1,550 strict quoted physical rows; 1,901 PROP IDs/2,546 versions; 195 RULE IDs/506 pairs/525 physical rows including 19 legacy repeats. All 5,742 old table lines in changing carriers and all three static logical parts remain exact.

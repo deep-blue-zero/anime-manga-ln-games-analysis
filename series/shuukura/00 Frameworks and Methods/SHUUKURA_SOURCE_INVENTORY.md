@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.66"
+version: "1.67"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses, 23 supplements and WEB E0001–E0032 through whole transactions; original I1 continuous, E0033 next after whole E0032 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses, 23 supplements andWEB E0001–E0033 through whole transactions; original I1 continuous,E0034 next after complete E0033/publication with every dependent duty retained; immutable BW/LN10 additions;V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0032_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0033_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,16 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0033 source transaction — 2026-11-01
+
+During lunch, Sendai retrieves Miyagi’s eraser from her pencil case, gives Umina a limited next-door errand explanation and obtains public classroom access through an unnamed caller. The caller’s friend label is not a mutual category. Miyagi invokes their school non-address promise; Sendai privately admits accepting its reciprocal meaning last year and calls her outward loophole sophistry. Relocation and repeated holding coexist with Miyagi’s actual corridor release/self-walking, particular nonresistance, attempted release and later achieved release/attempted exit. Miyagi gives real finished-business/eye-task-completion answers without an exhaustive why. Sendai privately recognizes her own prompting, then voices study blame without accepted causal liability. Her spoken today-demand differs from her private sender-role stance. She forcibly makes Miyagi hold the eraser; Miyagi actually offers it, but Sendai defers receipt to Miyagi’s home and leaves without retaking it. After Sendai’s class return and candy placement, a message from Miyagi has already arrived at the next lesson’s end. Its contents, exact send/arrival times, reading, summons fulfillment, invitation and later visit remain unknown; no complete repair, new standing agreement or new payment is shown.
+
+Whole E33 introduction yields WEB 33/431, 60/458 original I1, 65/463 pre-LN10 and 66/464 combined; ten novels and 23 supplements remain complete. Sendai-own, Miyagi heard/observed/communication-attributed through Sendai and Umina-observed advance 32→33. Last direct Miyagi sighting 177 remains distinct from later sender attribution 182. Miyagi-own 31, Sendai observed through Miyagi 31, Mariko-observed 32 and all later-LN/supplement/supporting-own/readiness clocks retain. All 18 forecasts/13 historical attempts, failures/ties/exposures/input-location defect remain;M0.13/S0.14 stay noncurrent UNTESTED with zero validated domains. Narō remains 0/290; 51 mandatory gaps comprise 4 resolved/47 unresolved, with 27 discovery duties and dependent G3–G7 unfinished. The [complete E33 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0033_DEEP_READING.md) and [transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0033_TRANSACTION_AUDIT.md) retain separately accepted source, comparison, cumulative and reading responsibilities.
+
+Entering published E32 head `16a0d6041df260827ffe1ad8357a7c4e558685a5` passed its own Repository integration audit 41295436676, attempt1, with 486 discovered/executed tests and 10585 paths; that audit does not certify E33. Current main `194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17` is retained through ordinary local merge `903af0f04f4e249b0616282b8c38602fe5cd45af`, preserving all 19 source inputs and three incoming foreign discovery payloads. PR #410 steward threads are resolved; owner nightly hold and protected-main integration remain separate.
+
+The frozen 431/original I1 run stays active with confirmation_between_units:false and the full architectural terminal retained. E34 requires its genuine entering freeze only after complete E33 introduction and accepted publication. Every major push requires the preceding published head’s successful exact-head audit. Owner nightly-hold release, protected-main integration and source exposure retain separate authority. No routine unit pause or full-goal completion is declared. Raw originals, private matrices and OFF/SS01 evidence remain local.
 
 ## Current E0032 source transaction — 2026-11-01
 
