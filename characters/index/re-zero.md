@@ -279,6 +279,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Otto Suwen: V01–V13 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
 
+<a id="petra-leyte"></a>
+
+### Petra Leyte
+
+- Entity ID: `re-zero:petra-leyte`
+- Entity aliases:
+  - ペトラ・レイテ (ja, ORIGINAL_SCRIPT) — Full name from her V10 self-introduction (p-007#B0019–0043) as recorded in the character model's E07 retrieval bundle.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:petra-leyte@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Petra across the original Japanese main light novels V01–V21, built from targeted revisits of already-consumed V02, V03, V05, V09–V12, V14–V16 and V21; it covers the V03 reported dressmaking wish and forest rescue, the V05 discarded slaughter outcomes (as Subaru's recollection only), the V09 public initiative and lost Rem recognition, the V10 employment at twelve and travel cloth, the V11 E014 hostage, aid and death (typed as discarded), the V12 E017 outing promise and reported death, the V14–V15 E018 own-focalized workday, failed search, Meili plea, escape and refusal to forgive Roswaal, the V16 explicitly thirteen-year phase and chosen learning, and the V21 reunion, rebuke, care handover and living manor-departure default. The V02 village material is used only as an exclusion control. The horizon label does not assert an appearance in every volume. No V22 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Petra Leyte: V01–V21 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_PETRA_V01_V21_CHARACTER_MODEL.md)
+
 <a id="priscilla-barielle"></a>
 
 ### Priscilla Barielle
