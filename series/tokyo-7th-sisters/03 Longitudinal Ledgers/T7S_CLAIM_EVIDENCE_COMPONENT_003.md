@@ -4,7 +4,7 @@ artifact_id: T7S_CLAIM_EVIDENCE_COMPONENT_003
 artifact_type: claim_evidence_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,9 +12,9 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
 canonical_logical_owner: T7S_CLAIM_AND_EVIDENCE_LEDGER
 storage_manifest: "T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json"
-source_boundary: "c20260909-r484; payload reviewed through B0230; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
+source_boundary: "c20260909-r484; payload reviewed through B0231; every row retains its original local horizon; no chronology, source or maturity promotion from storage"
 created: 2026-10-31
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
 Exact delegated byte interval of the complete claim/evidence ledger. Read through the current owner and manifest; the payload preserves its historical horizons and relative routes.
@@ -1229,4 +1229,23 @@ Owner [B0230](../02%20Readings/T7S_B0230_DEEP_READING.md), reading SHA256 `8b70f
 | `AV-0177` | All4 full native objects/3 Japanese-name records/title/every-key projection/21 slots read. Three identical002_01_01 actors in slot3/7, frontfalse/speakertrue/tremblefalse/fades0/slides0. Whole composite/contact/one original BG016 viewed, body/face offset132,64. | Pink twin tails/turquoise accents/red glasses/pink jacket-skirt/light shirt/clover-like fasteners/yellow band/striped socks, fixed smile and hand beside glasses. Golden playground with slide/climbing sphere/spring rider/shelter/trees/orbital structure. Raw actor PNGs hash-bound not separately viewed; no changed gesture, reverse shot, playback or stage technique. Three voice/BGM/SFX cues unlistened. |
 
 Totals:1764CL/43REV/7PRED/177AV. All previous claims/AV,43 revisions,seven predictions and29 historical READY decisions remain exact. One small conditional care encounter requires no retrospective revision or maturity promotion. All349Intimacy/49families closed; full2034 release remains incomplete and2053 blocked.
+
+## B0231 Three Short messages and an unanswered recipient
+
+Owner [B0231](../02%20Readings/T7S_B0231_DEEP_READING.md), reading SHA256 `1be1162cf23e620cbec44600f6d59f990196d65f5b55542d06f5709af567eb3f`; source-lock12.139, witness `T7S_GAME_OFFLINE_JA_R484`, corpus `c20260909-r484`. Exact independent Short messages402000101 / mail_0001.json__f1ab74f25b395c4b;402000201 / mail_0002.json__5fc6778831016dcf;402000301 / mail_0003.json__ddd6c0e201ed868d, each whole primaryP0-2/log0-2. Their source hashes respectively4dd197b12b9f6406749c6ac3a4e1747f7dcf13e47a2ffe804ad2514b94b731dd,165adf3537441849f199e7cf548f23eb05514d4e7cbaa8fb842172d3518ba02f,999fe2937a12a6e012bc2965e2921f7dc7fcb317a424529e105914a9426e2714; normalized39091df099d80f937319835365769dea6d02b7848810ace3493b87a667b481bb,55bb09ef4997029087b2557f7553be200ee407093dcc5f44a4e756a7ed77aba1,8f96459f6d16d5835cab95dd59fc6def292cbaf9427522736676e00a8868f399. Full38physical images/9view values/4snapshots bind publishedB0230/12.138. KNOWN_EXPOSURE_RECOVERY: complete cohort accepted2026-10-31T10:23:00.943349Z after09:02:48packet intent and early review; original failure4c825e63... is preserved, not retroactively passed. Owner exact3 recovery authorization4d5575a20a76ddc8cc8172b409c9ff6bfb56fa5b7b23e77fbf4206bf4ca54515. All9Japanese/9native objects/every-key projection/63slots actually reviewed;3composites and3bound original BGs actually viewed; contact sheet/raw actor derivatives not separately viewed. No voice carrier; BGM010unlistened, runtime unobserved. Prior current sender/Hime/Player states and two whole earlier READY decisions retained. No shared day or menu-derived Main/2043/EP6 placement is inferred.
+
+| Claim ID | Qualified claim / depth / confidence | Source and retained counterexample or limit |
+| --- | --- | --- |
+| `CL-B0231-001` | `COLLECTIVE_WORK_SEEKS_RECOGNITION_WITHOUT_MANAGERIAL_SOLE_AUTHORSHIP`; SOURCE_REPORT_AND_BOUNDED_INFERENCE; D1-D2; high within bounds | 402000101:P0-2; Sisara reports shared cleaning already undertaken and wants its result seen. No shown managerial initiation, independent cleanliness measure or universal peer response. |
+| `CL-B0231-002` | `SISARAS_BELONGING_REMAINS_ATTRIBUTED_AND_UNDATED`; BOUNDED_FORMAL_INFERENCE; D2; qualified | 402000101:P1-2 and canonical B0182 qualifiers; shared place/work formally compares with earlier belonging, without a dated developmental ladder, cured insecurity or erased coercion/costs. |
+| `CL-B0231-003` | `SUIS_TEASING_COMPLAINT_AND_ADMIRATION_COEXIST`; SOURCE_REPORT_AND_BOUNDED_INFERENCE; D1-D2; high within bounds | 402000201:P0-1; irritation over reported prince address and kind/cool family-work appraisal occupy one message. Hime's quoted report is not her own new interior; prior workload/care limits remain. |
+| `CL-B0231-004` | `FAMILY_CONDITIONAL_AND_RETRACTION_LEAVE_INTENTION_OPEN`; BOUNDED_INFERENCE; D1-D2; qualified | 402000201:P2; a closeness probe and a wholly playful hypothetical both fit; explicit joke does not establish actual kinship, mistreatment, romance, gender cure or manager assent. |
+| `CL-B0231-005` | `RONAS_CONCRETE_HELP_SEEKING_COEXISTS_WITH_VULNERABILITY`; SOURCE_REPORT_AND_BOUNDED_INFERENCE; D1-D2; high within bounds | 402000301:P0-2; named obstacle/explained solitude/unease/directed appeal show initiative within a reported constraint. No clumsiness blame, diagnosis, total helplessness, rescue or contradiction of earlier bounded competence. |
+| `CL-B0231-006` | `THREE_SHORT_MESSAGES_PRESERVE_UNANSWERED_RECIPIENT_SPACE`; BOUNDED_FORMAL_INFERENCE; D2; qualified | All three whole P0-2 documents; recognition, conditional kindness and practical help remain different requested acts, with no manager reply. Separate today references/menu order do not synchronize cases, establish delivery or close outcomes. |
+
+| AV ID | Actual review | Retained limits |
+| --- | --- | --- |
+| `AV-0178` | All9Japanese records/9full native objects/every-key projection/63Charas slots read:9nonnull slot3 actors/54nulls, zero fades/slides, frontfalse/speakertrue/tremblefalse, AutoMoveFrame0. Exactly5top-level fields; Sound onlybgm_010,0native voice carriers. Three isolated composites and3bound original BGs actually viewed:136_01_01+BG035,009_01_01+BG029,005_01_06+BG005. | Sisara's pale-haired/cream-blouse portrait and lawn/tree/high-rise/dome BG do not depict cleaning/return; Sui's fixed slight smile/raised arms and empty arcade do not depict Hime's work or animate written kaomoji; Rona's worried portrait/pink common room has a visible closed rear purple door, but not identified damage, entrapment action or rescue. No contact-sheet/raw-actor individual viewing, audio listening, delivery UI, date, runtime movement or mix claim. IsSpeaker is a rendering flag. |
+
+Totals:1770CL/43REV/7PRED/178AV. Every older claim/AV/revision/prediction and29historical READY decisions is preserved. The known-exposure ordering failure remains disclosed, not waived for future primary. All349Intimacy/49families retain B0230 closure; full2034 release remains incomplete and2053 blocked.
 <!-- T7S CLAIM EVIDENCE PAYLOAD END -->

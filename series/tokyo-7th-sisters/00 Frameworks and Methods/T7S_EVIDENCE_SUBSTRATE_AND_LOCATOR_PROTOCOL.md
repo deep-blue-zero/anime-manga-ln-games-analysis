@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.135"
+version: "1.136"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0230; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0231; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -140,7 +140,7 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 950 current-or-consumed records and 640 routed-or-unconsumed records after B0230, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 953 current-or-consumed records and 637 routed-or-unconsumed records after B0231, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
 
 At B0191 the current-or-consumed role has four physical components: its original address, CURRENT_002, CURRENT_003 and [CURRENT_004](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl). The routed role retains two components. That six-component boundary is historical; current retrieval is the seven-component route recorded here. This bounded physical growth preserves the complete 1,590-record logical union, role defaults and decision history; frozen transition receipts retain their historical five-component boundary.
 
@@ -452,3 +452,9 @@ At B0210 the current entity manifest declares four ordered components001–004. 
 ## Complete claim/evidence storage view after B0230
 
 The [claim manifest](../03%20Longitudinal%20Ledgers/T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json) and [frozen storage record](../09%20Audits%20and%20Manifests/T7S_CLAIM_STORAGE_TRANSITION_V1.md) govern the full current ledger. Obtain its exact prefix and every declared payload with the SourceLock-bound checked reader, then freeze logical and physical fingerprints alongside source/coverage/entity/story. All component caps, native budgets, source admission and prospective semantic gates remain governing. The current owner wrapper alone is incomplete. Complete capture/primary preparation/projection/independent verification/native consumers must prove full-view support before new primary semantics. The new bridge's exact nine-item order is control, entity, story, claim modules; source, coverage, entity, story, claim views. Four snapshots precede three logical-ledger byte strings in capture. Earlier reader byte pins and frozen receipts are not redirected.
+
+## B0231 known-exposure recovery
+
+The complete five-role consumer cohort was accepted at2026-10-31T10:23:00.943349UTC, after the09:02:48packet intent and early private review of exactly402000101/402000201/402000301. The owner directed this bounded recovery on2026-11-01. The earlier failure remains hash-bound in the B0231reading and closure receipt; later code acceptance is not backdated. The existing pre-primary complete-consumer rule above remains governing for every later new source.
+
+- 2026-11-01: move exactly3fullB0231records with explicit per-script subjects/defaults/history; all1587other effective records retain values. All seven coverage parts and complete source/entity/story/claim views remain mandatory.

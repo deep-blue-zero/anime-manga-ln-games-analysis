@@ -4,7 +4,7 @@
   "artifact_type": "logical_story_causal_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.6",
+  "version": "1.7",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; no further non-Main/additional story or 2053 semantic source; manifest-bound physical story representation",
-  "last_source_high_water": "T7S_B0230",
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; three complete independent Short messages / T7S_B0231; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0231",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
-    "physical_bytes": 37388,
-    "physical_sha256": "d7447bc6d19d3422750e9c95c47d2022171c9626f576f731dae9dc8bf2cf072c",
-    "logical_prefix_bytes": 5900,
-    "logical_prefix_sha256": "56e3b0cb4c8f9f131dd7e80dd58a07fe26fe6b2e3611194af9f5bfd14e2db7a2",
+    "physical_bytes": 37712,
+    "physical_sha256": "14d562d3d35762f1ff3c61905a915a548b284a7a65633f790986062a4de001b0",
+    "logical_prefix_bytes": 6001,
+    "logical_prefix_sha256": "71a1976f490572f851a13b501eca410c7b47294ed9380a794edf64ed40d957cb",
     "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
-      "physical_bytes": 288098,
-      "physical_sha256": "44c7eeea06a3fa2eeba3780e2fac9b015f367fc4ce20f3ccfb414c6feac8d677",
+      "physical_bytes": 291183,
+      "physical_sha256": "e829919452b30c4a3dc422c91ec05854865ebf2fddff4a54e9a9006d9924fc52",
       "payload_offset_bytes": 937,
-      "payload_bytes": 287117,
-      "payload_sha256": "a553f047ae3f370154c6f53cdc51b72aa99076556e302287e31c2646ffc55093",
+      "payload_bytes": 290202,
+      "payload_sha256": "4c3312943b13b47ed067d6d8a4f96b0a4ea376e511dc4f372e6ec44e103a7085",
       "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
       "logical_offset_bytes": 779332,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1072349,
-  "logical_sha256": "3954485316022ea4b7e02db0e474b409fd541f8862f8cc2c17010576a4535447",
+  "logical_bytes": 1075535,
+  "logical_sha256": "43d2ad3c337d3fb0824201f3a222efa05564b6d6c65e84670dd87bf15bea4baa",
   "heading_routes": [
     {
       "original_anchor": "current-event-records",
@@ -896,6 +896,12 @@
       "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "component_anchor": "b0230-coney-asks-what-the-manager-wants",
       "heading": "B0230 Coney asks what the manager wants"
+    },
+    {
+      "original_anchor": "b0231-three-short-messages-and-an-unanswered-recipient",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0231-three-short-messages-and-an-unanswered-recipient",
+      "heading": "B0231 Three Short messages and an unanswered recipient"
     }
   ],
   "storage_transition": {
@@ -918,13 +924,13 @@
     "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0230",
-    "date": "2026-10-31",
-    "logical_before_sha256": "04daa3952e5f753496c3b6d062e74d51c2e8b97dd90e1b6571d105f16581df33",
-    "logical_after_sha256": "3954485316022ea4b7e02db0e474b409fd541f8862f8cc2c17010576a4535447",
-    "addition_bytes": 1592,
-    "addition_sha256": "16cc5ce3625317727ed8671da3512484342a8d034678415f85d157e2a993bb29",
-    "unchanged_older_body_sha256": "dfed2c5f98eda60b926e78842083aeb07c122264e5812c2c808d969167cf4085",
+    "source_high_water": "T7S_B0231",
+    "date": "2026-11-01",
+    "logical_before_sha256": "3954485316022ea4b7e02db0e474b409fd541f8862f8cc2c17010576a4535447",
+    "logical_after_sha256": "43d2ad3c337d3fb0824201f3a222efa05564b6d6c65e84670dd87bf15bea4baa",
+    "addition_bytes": 3085,
+    "addition_sha256": "c4c72d280475b650fae3b28492f762bcc71dffdb04d55fb5ea5e0b1a09f70fd2",
+    "unchanged_older_body_sha256": "ec739b4b7f61cc1f45e5984631a910ef4f4c54858025ab6cb3f624e23ce43df9",
     "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

@@ -4,13 +4,13 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.131"
+version: "2.132"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
 routing_audit: "../09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md"
 created: 2026-09-24
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 do_not_use_as_literary_evidence: true
 ---
 
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 49, complete primary occurrences: 349; 0 Intimacy/345eligible story episodes and supplemental/multimodal/character/era-release obligations remain. All49 Intimacy family portfolios are closed; continue the authorized occasion/Short/Legend/Many/Birthday/Event and supplemental/analytical release obligations. No next primary scope is admitted by this sentence.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 49, complete primary occurrences: 349; 0 Intimacy/342eligible story episodes and supplemental/multimodal/character/era-release obligations remain. All49 Intimacy family portfolios are closed; continue the authorized occasion/Short/Legend/Many/Birthday/Event and supplemental/analytical release obligations. No next primary scope is admitted by this sentence. B0231adds3independent Short messages;42of45remain unread. Next prepare a genuinely prospective complete-consumer/entering scope for the unread Short route (42documents, next metadata episode402000401); this sentence admits no new primary.
 
 ## Closed first i-n-g tranche
 
@@ -223,3 +223,9 @@ Each family closes exact primary members with one qualified mini-case per occurr
 | [T7S_B0228](T7S_B0228_DEEP_READING.md) | `200930` / 空栗ヒトハ/フタバ / `NM-INTIMACY-200930` | `401000343 / 401001126 / 401001722 / 401001818 / 401003245` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0229](T7S_B0229_DEEP_READING.md) | `200540` / アレサンドラ・スース / `NM-INTIMACY-200540` | `401000357 / 401000420 / 401000542 / 401000654 / 401000718 / 401000902 / 401000982 / 401001266 / 401001326` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
 | [T7S_B0230](T7S_B0230_DEEP_READING.md) | `200940` / 六咲コニー / `NM-INTIMACY-200940` | `401000374` | `COMPLETE_BOUNDED_ORDINARY_LIFE_PORTFOLIO` |
+
+## Short-message occurrence portfolios
+
+| Reading | Native route / exact members | Integrated scope and retained gate |
+| --- | --- | --- |
+| [T7S_B0231](T7S_B0231_DEEP_READING.md) | OTHER100030 / SHORT MESSAGE201500; sender layers300290/300070/300030;402000101/402000201/402000301 | Three whole P0-2 independent cases; known-exposure recovery with original ordering failure preserved.3of45Short closed,42unread; future scope requires prospective complete consumers. |
