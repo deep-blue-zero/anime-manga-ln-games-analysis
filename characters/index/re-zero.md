@@ -348,6 +348,29 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](../../series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](../../series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
+<a id="reala-thompson"></a>
+
+### Reala Thompson
+
+- Entity ID: `re-zero:reala-thompson`
+- Entity aliases:
+  - リーシア・ティンゼル (ja, ALTERNATIVE) — Earlier name given in Garfiel's remembered and trial-mediated history; the model treats her as one living person across a changed name and missing memory, not a separate individual.
+  - リアラ・トンプソン (ja, ORIGINAL_SCRIPT) — Present self-name as recorded in the character model's entry section.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:reala-thompson@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Reala across the original Japanese main light novels V01–V21, built from targeted revisits of already-consumed V13, V14, V17, V19, V20 and V21; it covers the V13 trial-mediated earlier mother and departure (as a reconstructive plane, not present memory), V14 and V17 reported family background, the V17 Pristella household visit, Gallek's rescue and naming report, the frightened request for help during the city crisis, V19–V20 indirect family stakes (context only), and the V21 post-battle visit, costly civic giving, the Gallek ice-preservation decision, the comfort of Garfiel by name, the children's names and the child-audience coda default. The horizon label does not assert an appearance in every volume. No V22 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Reala Thompson: V01–V21 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_REALA_V01_V21_CHARACTER_MODEL.md)
+
 <a id="regulus-corneas"></a>
 
 ### Regulus Corneas
