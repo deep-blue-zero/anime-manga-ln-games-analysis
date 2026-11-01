@@ -5,14 +5,14 @@ artifact_type: corpus_map
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.66"
+version: "1.67"
 status: active_provisional
 scope: "Single current entrypoint for a material analytical restart at the continuing Shuukura root"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0030 through whole transactions; original I1 continuous, E0031 next after whole E0030 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses, 23 supplements and WEB E0001–E0031 through whole transactions; original I1 continuous, E0032 next after whole E0031 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/CURRENT_STATE_AND_CORPUS_MAP.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0030_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0031_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -38,24 +38,24 @@ project_initialization:
   owner_review: CURRENT_OWNER_INSTRUCTION_AUTHORIZES_VALIDATED_BOOTSTRAP_ADOPTION
   sequential_analysis_lock: OPEN
   lock_reason: VERIFIED_FOUNDATION_AND_OWNER_RESUMED_ORIGINAL_I1
-  next_permitted_operation: KAK-JP-E0031
+  next_permitted_operation: KAK-JP-E0032
 sequential_execution:
   mode: continuous_sequential
   unit_type: other
   authorized_start: LN-JP-V01
   terminal_boundary: SHUUKURA-V2-20261017-I1
-  committed_high_water_mark: KAK-JP-E0030
-  next_candidate_operation: KAK-JP-E0031
+  committed_high_water_mark: KAK-JP-E0031
+  next_candidate_operation: KAK-JP-E0032
   confirmation_between_units: false
   run_state: active
   stop_reason: null
   inventory_freeze_state: FROZEN_AVAILABLE_UNITS_AND_EXPLICIT_MANDATORY_GAPS
   terminal_definition: "Every eligible primary narrative unit and required supplement in the verified kickoff inventory across the admitted lanes; then all required reconciliation, monographs, specialists, reconstruction, V1 comparison, integrated synthesis and release audits. No automatic future releases."
   authorization_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#continuous-i1-resumption-after-ln10--2026-10-28"
-  next_unread_unit: KAK-JP-E0031
-  original_available_completed: 57
+  next_unread_unit: KAK-JP-E0032
+  original_available_completed: 58
   original_available_total: 458
-  combined_completed: 63
+  combined_completed: 64
   combined_available_total: 464
 completed_ln10_execution:
   record_status: HISTORICAL_COMPLETED_RUN_UNCHANGED
@@ -95,10 +95,10 @@ historical_original_i1_pause_after_e0019:
   pause_scope: ORIGINAL_I1_AND_ALL_DEPENDENT_STAGES
 analytical_execution:
   authorization: OWNER_RESUMED_ORIGINAL_I1_WITH_COMPLETED_LN10_PRESERVED
-  sequential_units_admitted: 63
-  sequential_units_completed: 63
-  committed_narrative_high_water_mark: KAK-JP-E0030
-  character_reconstruction_readiness: SOURCE_FIT_THROUGH_E0030_NOT_MODEL_VALIDATION
+  sequential_units_admitted: 64
+  sequential_units_completed: 64
+  committed_narrative_high_water_mark: KAK-JP-E0031
+  character_reconstruction_readiness: SOURCE_FIT_THROUGH_E0031_NOT_MODEL_VALIDATION
 scoped_backfill:
   inventory: "00 Frameworks and Methods/SHUUKURA_V2_BW_BACKFILL_INVENTORY_20261022_A1.json"
   ordered_units: [BW-JP-V02, BW-JP-V04, BW-JP-V05, BW-JP-V08, BW-JP-V10]
@@ -113,15 +113,15 @@ web_execution:
   authorized_from: KAK-JP-E0006
   terminal_episode: KAK-JP-E0431
   frozen_episode_count: 431
-  last_complete_episode: KAK-JP-E0030
-  next_episode: KAK-JP-E0031
+  last_complete_episode: KAK-JP-E0031
+  next_episode: KAK-JP-E0032
   execution_status: active_owner_resumption_after_E0019_and_LN10
   resumption_record: "08 Audits and Handoffs/SHUUKURA_V2_RUN_ADMISSION_AND_CHECKPOINT.md#continuous-i1-resumption-after-ln10--2026-10-28"
 repository_state:
   stable_branch: series/shuukura
   routing_input: series/shuukura/.repository/series-registry.json
   materialization_status: PRESENT_UNREVIEWED
-  main_integration: LN10_AND_E0020_E0021_INTEGRATED_PR381_E0022_E0023_OWNER_MERGED_PR386_E0024_OWNER_MERGED_PR395_E0025_OWNER_MERGED_PR405_E0026_OWNER_MERGED_MAIN_VERIFIED_PR406_E0027_E0028_E0029_SOURCE_PUBLISHED_GREEN_PR410_NIGHTLY_HOLD_E0030_PUBLICATION_PENDING
+  main_integration: LN10_AND_E0020_E0021_INTEGRATED_PR381_E0022_E0023_OWNER_MERGED_PR386_E0024_OWNER_MERGED_PR395_E0025_OWNER_MERGED_PR405_E0026_OWNER_MERGED_MAIN_VERIFIED_PR406_E0027_E0028_E0029_E0030_SOURCE_PUBLISHED_GREEN_PR410_NIGHTLY_HOLD_E0031_PUBLICATION_PENDING
   integration_hold_required: NONE_FOR_COMPLETED_BOOTSTRAP
 ---
 
@@ -131,7 +131,21 @@ This is the single V2 first-read surface for **週に一度クラスメイトを
 
 `SEQUENTIAL_ANALYSIS_LOCK = OPEN`
 
-`NEXT_PERMITTED_OPERATION = KAK-JP-E0031`
+`NEXT_PERMITTED_OPERATION = KAK-JP-E0032`
+
+## E0031 complete source transaction — 2026-11-01
+
+Miyagi privately recognizes Sendai’s right to ask and her own obligation to answer, but cannot explain the deliberate neck contact she remembers. A minimizing spoken reply, clear private memory and unavailable conscious reason remain different. Present lip desire becomes actual fingertip contact and a prompted eye-closing command with particular assent/performance. Fear that a kiss might stop future room visits accompanies Miyagi’s interruption. She forces movement to the entrance, promises later contact, partly takes in protest and then expels Sendai. Calls and knocks continue beyond the closed door, the usual first-floor escort is omitted, and Miyagi realizes she forgot to ask about the eraser. No completed current kiss, full shared motive, fresh fee, new standing bodily permission, actual later message, eraser location/return or comprehensive repair is established.
+
+All 159 original WEB nodes (100 meaningful/59 format) and 11 observations are complete. The separately encountered acquired LN01 part0020 native 169–265 contains 96 text nodes and image 171, nine ruby/eleven readings, no RP/br or extra frame. Its 98 components comprise 51 equal controls, 31 changed-base cases, seven strict annotation differences, two equal-base joins, one equal-base moved component, four LN-only text components, one WEB-only thought and one LN-only illustration. All 47 registered dispositions/seven groups and seven many-WEB joins remain bounded. Native 265 is the actual member endpoint only, not chapter/volume completion. LN-only quiet-voice/feasibility/incipient face-angle and gathering/room-door wording stay separate from WEB facts. The [complete E31 reading](03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0031_DEEP_READING.md) retains all observations and complete finite dispositions.
+
+The four logical ledgers record 21 character events (14 Miyagi-own/seven Sendai-observed), 14 relationship events, 74 new propositions/74 information transitions, seven earlier PROP successors (1 STRENGTHEN/6 REVISE), 12 OPEN tensions, four new OPEN claims, 29 earlier CLA successors (18 STRENGTHEN/11 REVISE), one existing RULE STRENGTHEN annotation and one performed LOCAL eye directive; zero new adopted standing terms. Joint totals are 285 CLA IDs/1,007 distinct versions/1,514 strict quoted physical rows; 1,835 PROP IDs/2,476 versions; 195 RULE IDs/506 pairs/525 physical rows including 19 legacy repeats. All 5,104 old table lines in changing carriers and all three static logical parts remain exact.
+
+Whole E31 introduction alone yields WEB 31/431, 58/458 original I1, 63/463 pre-LN10 and 64/464 combined. Ten novels and 23 supplements remain complete. Only Miyagi-own/Sendai-observed E30→E31 and their directions advance; opposite Sendai-own/Miyagi-observed E28, supporting/later LN10 clocks and readiness remain. All 18 forecasts/13 historical attempts, failures/ties/exposure/input-location defect remain. M0.13/S0.14 stay draft_noncurrent/UNTESTED with 0 validated domains. Narō 0/290, 51 gaps with 4 resolved/47 unresolved, 27 discovery duties and all dependent G3–G7 duties remain unfinished.
+
+Entering E30 source 35793d3ad525d3ab8a0803cf3ca05f385b53528c is published and passed its own run 41240538093/attempt 1 with the trusted required status. That check certifies E30, not this new E31 payload. The [current transaction audit](08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0031_TRANSACTION_AUDIT.md) binds the separate current components and whole/publication duties. PR410 remains under the owner’s nightly hold; no protected-main merge or hold release is claimed.
+
+The frozen 431/original I1 run remains active with confirmation_between_units:false and the complete architectural terminal retained. E32 requires its genuine source-first entering freeze after the complete E31 introducing transaction. The previous published head’s own audit must be green before the next major push; this is separate from source-reading exposure, owner hold release and protected-main integration. No routine unit pause or full-goal completion is declared. Raw originals, private matrices and OFF/SS01 evidence remain local.
 
 ## E0030 complete source transaction — 2026-10-31
 

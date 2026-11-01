@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.64"
+version: "1.65"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0030 through whole transactions; original I1 continuous, E0031 next after whole E0030 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses, 23 supplements and WEB E0001–E0031 through whole transactions; original I1 continuous, E0032 next after whole E0031 with every dependent duty retained; immutable BW/LN10 additions; V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0030_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
+review_status: E0031_SOURCE_CORRESPONDENCE_CUMULATIVE_COMPONENTS_ACCEPTED
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,12 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## Current E0031 source transaction — 2026-11-01
+
+Miyagi privately recognizes Sendai’s right to ask and her own obligation to answer, but cannot explain the deliberate neck contact she remembers. A minimizing spoken reply, clear private memory and unavailable conscious reason remain different. Present lip desire becomes actual fingertip contact and a prompted eye-closing command with particular assent/performance. Fear that a kiss might stop future room visits accompanies Miyagi’s interruption. She forces movement to the entrance, promises later contact, partly takes in protest and then expels Sendai. Calls and knocks continue beyond the closed door, the usual first-floor escort is omitted, and Miyagi realizes she forgot to ask about the eraser. No completed current kiss, full shared motive, fresh fee, new standing bodily permission, actual later message, eraser location/return or comprehensive repair is established.
+
+Whole E31 introduction alone yields WEB 31/431, 58/458 original I1, 63/463 pre-LN10 and 64/464 combined. Ten novels and 23 supplements remain complete. Only Miyagi-own/Sendai-observed E30→E31 and their directions advance; opposite Sendai-own/Miyagi-observed E28, supporting/later LN10 clocks and readiness remain. All 18 forecasts/13 historical attempts, failures/ties/exposure/input-location defect remain. M0.13/S0.14 stay draft_noncurrent/UNTESTED with 0 validated domains. Narō 0/290, 51 gaps with 4 resolved/47 unresolved, 27 discovery duties and all dependent G3–G7 duties remain unfinished. The [complete E31 reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0031_DEEP_READING.md) and [transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0031_TRANSACTION_AUDIT.md) retain source/comparison/cumulative and separate publication responsibilities. The frozen 431/original I1 run remains active with confirmation_between_units:false and the complete architectural terminal retained. E32 requires its genuine source-first entering freeze after the complete E31 introducing transaction. The previous published head’s own audit must be green before the next major push; this is separate from source-reading exposure, owner hold release and protected-main integration. No routine unit pause or full-goal completion is declared. Raw originals, private matrices and OFF/SS01 evidence remain local.
 
 ## Current E0030 source transaction — 2026-10-31
 
