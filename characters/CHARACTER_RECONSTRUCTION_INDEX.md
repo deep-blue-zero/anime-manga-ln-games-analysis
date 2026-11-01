@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 39
+- Recorded totals: `CANDIDATE` 48; `SUPERSEDED` 1
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -96,6 +96,61 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - [`blue-archive:aru@game#chapter-1-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`blue-archive:aru@game#character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md)
   - [`blue-archive:aru@game#voice-address-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md)
+
+### Subject `cornered-mouse:natsuki@manga`
+
+#### Assessment `cornered-mouse-natsuki-manga-monograph-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:natsuki`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only cornered-mouse:natsuki@manga\#character-monograph, the active\_provisional CORNERED\_MOUSE\_NATSUKI\_MONOGRAPH at basis\_commit, read in full: its argument over Natsuki's material scenes in CM-U04 \(sp0100-sp0137\), CM-U06 \(sp0143-sp0204\) and the CM-S01 closing comic \(sp0535\) of the revised Japanese witness CM-JP-AIO2020-LOCAL, as the monograph reports them. The CM-U04, CM-U06 and CM-S01 readings it links are not curated on this subject and nothing is borrowed from them; the corpus readiness review it links is a method input, not evidence. The Reboot-only story, other editions and adaptations are outside, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Three placed horizons: the CM-U04 encounter \(her account of the earlier breakup and the lighter\), the CM-U06 sequence \(renewed proposal, refusal to withdraw, cafe choice, refused confession, holiday booking and unanswered call\), and the closing comic's reported later marriage, which the monograph places after Hummingbird only through a creator note. The interval between the unanswered call and the closing report is unshown and not assessed; no other state is assessed.
+- Basis commit: `a19a4f04e45b0b401719ef28bc35496aa34e12e5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6393ed6426cb1fbd38411e1fd2126b744c855e13995ecb9a0f0b144ca9b9df23`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The CM-U04 encounter or the CM-U06 sequence up to the unanswered holiday call; the reported later marriage is not an enacted state.; interlocutor Kyoichi as former partner she is trying to win back, or Imagase as rival; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the located scenes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `call-aftermath-unshown` (evidence-backed limitation): The title-work ending shows no answered call, cancellation or honest breakup with her; the closing comic's marriage to a younger man is a report that does not fill that gap, and its placement rests on a creator note.
+  - `fantasy-not-consent-rule` (evidence-backed limitation): Her wish for a forceful kiss despite refusal is her stated fantasy about their relation and cannot become a general instruction for reading refusal as desire or supplying anyone's consent.
+  - `interested-scenes-only` (evidence-backed limitation): Every analyzed scene is an interested romantic contest over Kyoichi; the monograph records that no repeated neutral, private or occupational baseline exists and that the corpus review withholds a portable behavioral model.
+  - `japanese-wording-not-quoted` (evidence gap): The monograph paraphrases Natsuki's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `narrator-of-the-past` (evidence-backed limitation): Her account of the earlier breakup corrects Kyoichi's but is one narrator's interpretation; she is not a neutral witness to every part of him, and her metaphors and gendered judgments are interested.
+  - `unit-readings-not-curated` (evidence gap): The CM-U04, CM-U06 and CM-S01 readings the monograph cites are not curated on this subject, so its locators and paraphrases were not checked against them. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`cornered-mouse:natsuki@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_NATSUKI_MONOGRAPH.md)
+
+### Subject `cornered-mouse:okamura-tamaki@manga`
+
+#### Assessment `cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `cornered-mouse:okamura-tamaki`
+- Scope: continuity `cornered-mouse-manga`
+- Source boundary: Only the two reviewed items curated on cornered-mouse:okamura-tamaki@manga at basis\_commit, both active\_provisional and read in full: \#u10-deep-reading \(CORNERED\_MOUSE\_U10\_DEEP\_READING, CM-U10 sp0339-sp0499 of the revised Japanese witness CM-JP-AIO2020-LOCAL, every image inspected by the reading\) and \#character-monograph \(CORNERED\_MOUSE\_OKAMURA\_TAMAKI\_MONOGRAPH, her material scenes in CM-U07 sp0205-sp0255, CM-U09 sp0261-sp0338 and CM-U10\). CM-U07 and CM-U09 enter only through the monograph's argument; their readings are not curated on this subject and nothing is borrowed from them. The corpus readiness review and the U06 proposals are method inputs, not evidence. Hummingbird, the Reboot-only story, other editions and adaptations are outside, and the evaluator performed no primary-source inspection.
+- Temporal boundary: CM-U07 \(coworker attraction and the men's inaccurate account\) through CM-U09 \(corrected parentage, funeral exclusion, the opening after Imagase's departure\), as the monograph reports them, and CM-U10 in full: the courtship six months after that separation \(bridge at sp0353, dated by sp0382\), the stalking and hospitalization, the seated breakup \(sp0452-sp0466\) and the Mina scene \(sp0471-sp0473\), where her depicted trajectory ends. Her knowledge state is fixed at that ending: she has not been shown learning that the former partner is a man or hearing Imagase's harmful wish. No later state is assessed.
+- Basis commit: `a19a4f04e45b0b401719ef28bc35496aa34e12e5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a35ef062c6d222c5a0953d58bf82fc989573af91e5709f0a7a279b8d7cb79d02`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology Any point from CM-U07 to the end of the CM-U10 Mina scene, with her knowledge as of that point; nothing after sp0473.; interlocutor Kyoichi as partner and then former partner, Imagase as an investigator whose relation to Kyoichi she does not know, or Mina as friend; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the located scenes; Any context requiring her to know that the former partner is Imagase or a man, or that Imagase wished her harm; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `japanese-wording-not-quoted` (evidence gap): Both items paraphrase Tamaki's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `knowledge-boundary` (evidence-backed limitation): At the end of her depicted trajectory she has not been shown learning that the former partner is a man or is Imagase, and she is not shown hearing Imagase's disclosed harmful wish; Mina's inference is withheld from her. Her consent to the relationship cannot be expanded into that knowledge.
+  - `mens-account-not-her-interior` (evidence-backed limitation): The early affair inference and the attraction-to-older-men account are the men's explanations, corrected by the disclosed parentage; her no-partner report broadens Kyoichi's words without proving deliberate falsification.
+  - `no-operational-policy` (evidence-backed limitation): The monograph withholds an operational policy from these concentrated family and romantic crises, and the U10 reading records no synthetic dialogue, current-state operational release or global capability grade.
+  - `offer-not-arrangement` (evidence-backed limitation): Her offer to wait for Kyoichi's failure is declined \(he cannot ask her to wait\), no reserve relationship forms, and her stated ease collapses into tears; the father analogy explains the offer's cost without making it inevitable.
+  - `open-ending` (evidence-backed limitation): The witness ends her trajectory with friendship support and continuing feeling; no later marriage, knowledge correction or recovery is shown.
+  - `responsibility-not-transferred` (evidence-backed limitation): Her self-blame over exposed details does not transfer responsibility for the stalking from the aggressor, and her mother's retribution maxim is reported, disputed speech.
+  - `u07-u09-readings-not-curated` (evidence gap): The CM-U07 and CM-U09 readings that the monograph cites are not curated on this subject, so its account of those units, and its name spelling 岡村環 against the self-introduced 岡村たまき recorded on the row, were not checked. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`cornered-mouse:okamura-tamaki@manga#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/04%20Character%20Studies/CORNERED_MOUSE_OKAMURA_TAMAKI_MONOGRAPH.md)
+  - [`cornered-mouse:okamura-tamaki@manga#u10-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/a19a4f04e45b0b401719ef28bc35496aa34e12e5/series/cornered-mouse/01%20Sequential%20Readings/CORNERED_MOUSE_U10_DEEP_READING.md)
 
 ### Subject `harmony:tuan-kirie@original-novel`
 
@@ -917,6 +972,50 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`re-zero:liliana-masquerade@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/re-zero/05%20Character%20Analysis/REZERO_LILIANA_V01_V19_CHARACTER_MODEL.md)
 
+### Subject `re-zero:meili@light-novel`
+
+#### Assessment `re-zero-meili-ln-v01-v21-model-20261101-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:meili`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:meili@light-novel\#character-model, the canonical generation V1.0 Meili V01-V21 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares that it was built from targeted revisits of already consumed V03, V10, V11, V12, V14, V15, V20 and V21 \(64 deliveries, four V21 illustrations viewed\), that the V01-V21 label is a horizon rather than an appearance in every volume, that the V20 matching-name Dainas bait and the V10 braid hits are excluded from her biography, and that main-LN illustrations support still-image observations only. The project's current-state entrypoint was read for method, authority order and gate state only. The frozen volume readings, the event, knowledge, relationship, mechanics, institution and master ledgers, the source lock, the reconstruction protocol, the separate Meili fidelity review and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; V22 and later, EX, IF, web-novel, supplement, translation and adaptation material is excluded.
+- Temporal boundary: The model's default V21 E024, Meili named alive in Beatrice's tower-reunion report with no fresh personal response shown, plus its explicitly selectable earlier phases: the V03 unnamed village child before discovery \(E008\), the reported V11 naming \(E014/E015\), the V12 recognized attacker \(E017, later discarded\), the V14-V15 revised assault and Elsa loss \(E018\), captivity, the V21 private play and negotiation \(E021 before the flower checkpoint\), cooperative route search, the failed E021/E022 flight and worm loss \(discarded states, never default memory\) and the E023 narrow-path agreement. The intervening year of custody is compressed, no in-world dates or exact age are fixed, and nothing after the V21 tower arrival is assessed.
+- Basis commit: `ba230369f74b7aa47a4d01951221cf18b8b99b3e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `281b16e947a2cc093b1fb29014fe6182133276900504e7890f96bd2e351be6b6`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: A phase is selected explicitly; at the E024 default any reply is labeled NONCANONICAL\_PROBE, uses only supported common history and leaves new feelings, unseen separation details and beast stock unknown.
+  - `DIALOGUE` condition: Output reproduces the section 7 speech functions for an attested recipient in paraphrase; exact Japanese is cited only from a located passage, and for an unfamiliar recipient warranted speech acts are described before any wording is invented.
+  - `DIALOGUE` condition: Familiar address such as お兄さん is used only where the relation earns it, never as romance, and the child is never sexualized.
+  - `DIALOGUE` condition: Requests for undisclosed preferences, Mama's identity, exact age or later plot end in abstention.
+  - `CROSS_SCENARIO` condition: A source-bounded phase is named; discarded loop states are selected only explicitly and never imported into the default.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation in the register and knowledge the phase allows; a stranger inherits no intimacy, demonstration or authority.
+  - `CROSS_SCENARIO` condition: Beast control stays finite and fallible \(stock, range, delay, dragon incompatibility, rough location\); no unlimited creation or mind reading.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE and keeps MEDIUM rules conditional; no rehabilitation, pardon, permanent allegiance or betrayal is assumed.
+  - `CROSS_SCENARIO` bounds: chronology One named phase from the V03 concealed village child through the V21 E023 narrow-path agreement, or the living E024 tower default with no fresh response; failed E021/E022 states only when explicitly selected; nothing after V21.; interlocutor Subaru as target, maker or recruiter by phase; Elsa as work partner before her death; Mama only as a feared, unknown-faced punitive authority; Emilia, Ram, Julius, Frederica and Petra in their attested roles; unfamiliar people without shared history or earned familiarity.; settings Roswaal's domain and mansion, the sanctuary assault, custody, the V21 desert journey, flower field and tower approach; No institution, technology or cultural assumption outside the admitted Japanese V01-V21 main light novels; No complete blessing mechanics, Mama identity, kinship or exact age; Open domains end in abstention rather than prediction
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: private play, receiving a small handmade gift, company bids, travel downtime and ordinary group conversation.
+  - `MUNDANE_SOCIAL` condition: No favorite food, literacy level, chore habit, sewing skill or schedule is supplied.
+  - `MUNDANE_SOCIAL` condition: Locked custody, Mama fear and unequal protection remain part of the situation; a gift does not erase them.
+  - `MUNDANE_SOCIAL` condition: Missing routines are not turned into evidence that she lacks them.
+  - `PROFESSIONAL_CONTEXT` condition: Only attested task types: beast handling, location, diversion and passage clearing, or the earlier operative's attack and refusal conduct, in a selected phase.
+  - `PROFESSIONAL_CONTEXT` condition: Capacity stays finite and fallible; no exact census, range law, universal taxonomy or dragon control.
+  - `PROFESSIONAL_CONTEXT` condition: Employer instructions, Mama's identity and the full commission chain end in abstention.
+  - `PROFESSIONAL_CONTEXT` condition: Cooperation is not certified as permanent allegiance, and earlier hostile work is not exonerated.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `default-no-fresh-response` (evidence-backed limitation): At the V21 E024 default Meili is named alive inside the tower, but no fresh personal line, reaction to Shaula, separation history, trial result or remaining beast stock is shown; this is a source limit, not inability to speak, and any reply must be labeled noncanonical or select an earlier phase.
+  - `discarded-states-and-knowledge-firewalls` (evidence-backed limitation): The V12 E017 encounter and the failed E021/E022 flight and worm loss are discarded loop states that Meili does not carry into the default; she has no witness memory of the underground-right violence, and Roswaal's private denials, the scarf operator secret and Return by Death never reach her.
+  - `finite-fallible-beast-control` (evidence-backed limitation): Her control is finite and fallible: dragons are incompatible, beasts can delay summons, locations are rough, eyeless candidates were not filtered, an awakened population did not obey and she states a rough cap; no unlimited creation or exact range law follows.
+  - `mama-kinship-age-unresolved` (evidence-backed limitation): Mama's face and identity are reported secret even from Meili, Elsa's sister-like relation carries no proved biological kinship, and her exact age and childhood are unknown; Mama is not to be identified as Capella or a biological parent.
+  - `no-romance-no-sexualization` (evidence-backed limitation): Familiar address, blushing, prince play and company bids are not romance or sexual invitation, and the model prohibits sexualizing the child.
+  - `ordinary-preferences-unrecorded` (evidence gap): The evidence set establishes no favorite food, literacy level, chore or study habit, sewing skill or full daily routine, and few ordinary scenes outside V21. Missing support is not evidence that she lacks these.
+  - `same-analyst-documentary-review-and-pending-gate` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary review, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood, and MONOGRAPH\_READY is a project label. At basis the model header and the project entrypoint record the pair's own full publication gate as pending; neither record is a reconstruction grade.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V03, V11, V12, V14, V15 and V21 deep readings, the event, knowledge, relationship, mechanics, institution and master ledgers, the source lock, the reconstruction protocol, the separate Meili fidelity review and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and viewed illustrations were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:meili@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba230369f74b7aa47a4d01951221cf18b8b99b3e/series/re-zero/05%20Character%20Analysis/REZERO_MEILI_V01_V21_CHARACTER_MODEL.md)
+
 ### Subject `re-zero:mimi@light-novel`
 
 #### Assessment `re-zero-mimi-ln-v01-v17-model-20261023-01`
@@ -1286,9 +1385,34 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ### Subject `shuukura:mio-komatsu@original-light-novel`
 
-#### Assessment `shuukura-mio-komatsu-ln-kss12-20261021-01`
+#### Assessment `shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`
 
 - Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shuukura:mio-komatsu`
+- Scope: continuity `original-light-novel`
+- Source boundary: Only the two REVIEWED discovery references on this subject at basis\_commit: kss12-company-and-curiosity \(the active\_provisional V2 KSS12 reading of the author-released story 小松澪と謎多き女, native 01p1-73, with its bounded LN05 p-006 p245-300 / p-008 p1-75 and LN09 p-012 p64-115 comparisons\) and ln10-visit-and-campus \(the active\_provisional V2 LN-JP-V10 reading, of which only the Mio material is used: chapters 3-4, p-006 p1-304 and p-007 p1-424, O026-O038, and the chapter 11 campus meal and relayed outing, p-014, O073-O078\). Mio is narrated by Sendai and Miyagi throughout LN10. LN01-LN09 Mio passages beyond the KSS12 comparisons, web/V1 material and other series artifacts are not evidence here, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Two separately clocked bodies of evidence. KSS12: a university lecture-end encounter facing summer break, with no exact day, year or college year and no established placement relative to LN10. LN10: an early-March visit to the shared home at the end of the principals' first university year, then a late-April campus meal before Golden Week in their second year; within LN10 the visit precedes the campus meal. The LN05 referral and LN09 roommate call keep their own clocks. Nothing after the LN10 chapter 11 exchange is assessed, and later knowledge is not backdated into KSS12.
+- Basis commit: `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c9f94dc2a685cc06a332bf68572b787ab09f15648f32ec726e2a5cf41aa1abde`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology The KSS12 lecture-end encounter, or the LN10 early-March visit and late-April campus meal; nothing after LN10 chapter 11, and KSS12 is not placed relative to LN10.; interlocutor Sendai Hazuki as a familiar university friend, or Miyagi Shiori as a newly met host; the refusal applies equally to any other counterpart.; settings Counterfactual, crossover or materially novel contexts beyond the located university and shared-home scenes; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `coverage-and-model-gaps` (evidence gap): LN01-LN09 Mio passages beyond KSS12's bounded comparisons are not curated, the required Mio monograph is not in the evidence set, and no tested response model exists. New-interlocutor, counterfactual, ethical, romantic, professional and acoustic capability remain unestablished.
+  - `externally-focalized-ln10` (evidence-backed limitation): In LN10 Mio is narrated only by Sendai and Miyagi; their appraisals of her \(alien beauty metaphors, pushiness, sincerity\) are attributed views, and her own reasons for revising invitations or leaving are not given.
+  - `knowledge-separation` (evidence-backed limitation): Mio sees expressions, not private thoughts: LN10 keeps the principals' paid, physical and permission history withheld from her \(O030\) and certifies no omniscient guest motive \(O036\). In KSS12 her boyfriend hypothesis is her inference, and LN09 roommate-name knowledge cannot be supplied to KSS12 Mio as fact \(O005\).
+  - `outcomes-not-shown` (evidence gap): Grip assent, release and duration \(KSS12\), pizza payment, any future return visit, the trio outing and the next mixer are not shown; their absence is not proof of the opposite.
+  - `permission-is-specific` (evidence-backed limitation): Permission and refusal have their own scopes: KSS12 contrasts the LN05 contact-sharing permission with the explicit arm grip; LN10's acceptance of the Sendai-room-only limit coexists with given-name pressure, and her earlier view of a Miyagi photograph is not permission to share images \(O035/O037\).
+- Evidence at basis commit:
+  - [`shuukura:mio-komatsu@original-light-novel#kss12-company-and-curiosity`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md)
+  - [`shuukura:mio-komatsu@original-light-novel#ln10-visit-and-campus`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/shuukura/02%20Sequential%20Readings/SHUUKURA_V2_LN_V10_DEEP_READING.md)
+- Supersedes: `shuukura-mio-komatsu-ln-kss12-20261021-01`
+
+#### Assessment `shuukura-mio-komatsu-ln-kss12-20261021-01`
+
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `shuukura:mio-komatsu`
 - Scope: continuity `original-light-novel`
 - Source boundary: Only the REVIEWED discovery reference kss12-company-and-curiosity: the active\_provisional V2 KSS12 reading, its preserved observations and its bounded LN05/LN09 comparisons. Native story 小松澪と謎多き女 is described at 01p1-73; comparison ranges are LN05 item/xhtml/p-006.xhtml p245-300 and item/xhtml/p-008.xhtml p1-75, LN09 item/xhtml/p-012.xhtml p64-115, as represented in that artifact. Other series artifacts inform method and scope only. No independent primary-media inspection, full-novel Mio coverage, web/V1 evidence, or cross-continuity aggregation is claimed.
@@ -1296,7 +1420,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Basis commit: `036ed43f1d2a974b5351429792bae2c733e577db`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6a7fbf7a1258cd6169441f2a382f908edf33986cc43b9da322350ed31dc6dae7`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Overall tier: historical `E` — limited/local evidence suitable for bounded canon questions only
 - Scenario readiness: `DIALOGUE` NOT_ASSESSED; `CROSS_SCENARIO` NOT_ASSESSED; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
 - Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
 - Known limits:
@@ -1307,6 +1431,8 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `self-reflection-is-not-resolution` (evidence-backed limitation): 01p59 and p69-73 give Mio self-questioning and deferred inquiry alongside a renewed compensation request. Reflection does not establish that all pressure ended or that Sendai accepted the proposed mixer.
 - Evidence at basis commit:
   - [`shuukura:mio-komatsu@original-light-novel#kss12-company-and-curiosity`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/036ed43f1d2a974b5351429792bae2c733e577db/series/shuukura/03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KSS_12_DEEP_READING.md)
+- Superseded by: `shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`
+- Stale reason: Effectively stale at main 77c83fcbd77a957fbd7659ec222e120bcb00406d per tools/reconstruction\_status.py currentness: EVIDENCE\_MEMBERSHIP\_CHANGED, SUBJECT\_COVERAGE\_CHANGED. Discovery commit 11666123 \(PR \#383\) added reviewed evidence ln10-visit-and-campus and widened the subject's coverage beyond the KSS12 basis.
 
 ### Subject `the-idolmaster:yonai-p@u149-anime`
 
@@ -1370,6 +1496,32 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`to-be-hero-x:x@animated-series#15-x-zero-godhood-fate-and-the-limit-of-public-will`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f79e49071be39667e2fc5d5be5a5f3e9ae503589/series/to-be-hero-x/03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md)
 
+### Subject `tokyo-7th-sisters:aihara-miu@game`
+
+#### Assessment `tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:aihara-miu`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:aihara-miu@game\#b0217-deep-reading, the canonical T7S\_B0217 reading at basis\_commit, read in full: the complete Sub Intimacy family 200670 \(NM-INTIMACY-200670\) of seven short addresses \(episodes 401000263, 401000267, 401000614, 401000738, 401000874, 401001098, 401001286; 32 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with B0089, B0125, B0127, B0133, B0143, B0165 and B0216 are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level and no chronology across them; the reading states that A-G order supplies no fictional chronology or relationship stage, and that E and F are imagined cases, not stages toward marriage. No state before or after these occurrences is assessed.
+- Basis commit: `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `9b418cb9ff8734dd3be62c196284f74e639756e2c57571145c7dbbdde7066934`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager, as the portfolio describes him; the refusal applies equally to her mother or any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Miu readings \(B0089, B0125, B0127, B0133, B0143, B0165\) are not curated on this subject, so the reading's comparisons with them, including her professional commitment, were not checked. Missing support is not evidence of absence.
+  - `imagined-not-intended` (evidence-backed limitation): E's departure is a hypothetical she explicitly disowns, and F's married life is imagined after a reported eligibility discovery; neither is a stated intention, plan or accepted proposal.
+  - `japanese-wording-not-quoted` (evidence gap): The reading paraphrases Miu's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, music or continuous runtime was heard or watched; the fixed sprite and backgrounds do not depict the meal, gift, anniversary, departure or cinema.
+  - `unequal-knowledge` (evidence-backed limitation): Her mother's interest and judgment are reported by Miu, the manager's price concern reaches the reader through her reply, the anniversary is withheld, and simultaneous remembrance is imagined; her certainty about his importance is not his stated feeling.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; menu order cannot make any address a stage toward marriage, and cross-case comparisons are formal.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:aihara-miu@game#b0217-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b/series/tokyo-7th-sisters/02%20Readings/T7S_B0217_DEEP_READING.md)
+
 ### Subject `tokyo-7th-sisters:araki-rena@game`
 
 #### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
@@ -1396,6 +1548,140 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology or unlock level; only episode 401006487 has an internal sequence, and cross-case comparisons are thematic.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:echizen-murasaki@game`
+
+#### Assessment `tokyo-7th-sisters-echizen-murasaki-game-b0221-portfolio-20261101-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:echizen-murasaki`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:echizen-murasaki@game\#b0221-deep-reading, the canonical T7S\_B0221 reading at basis\_commit, read in full: the complete Sub Intimacy family 200800 \(NM-INTIMACY-200800\) of seven short addresses \(episodes 401000306, 401000472, 401000610, 401000870, 401001122, 401001310, 401001450\) and the 131-page Valentine extra episode 401006536, in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with B0039, B0087, B0105, B0140 and B0178 are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Eight conditional occurrences with no inferred unlock level, year or chronology across them; the reading states that native menu, source and priority order do not date A-H against one another or place the Valentine event in a particular year. Her eighteen-year-old self-description \(A:P1\) is local to that occurrence. No state before or after these occurrences is assessed.
+- Basis commit: `ba230369f74b7aa47a4d01951221cf18b8b99b3e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `d23c590bb8988e81057339c10c1a89c0089f8eb05bb56615c44fe0d4b2895c8e`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the eight unordered occurrences; nothing before or after them.; interlocutor The manager, Kazumi or the unnamed composer as the reading describes them; the refusal applies equally to Haru, her family or any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the eight located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `assent-not-supplied` (evidence-backed limitation): Her command not to run away during the pedicure leaves the manager's assent unshown, and acceptance of the piggyback is local; neither case authorizes other bodily acts.
+  - `earlier-states-not-curated` (evidence gap): The earlier Murasaki readings \(B0039, B0087, B0105, B0140, B0178\) are not curated on this subject, so the reading's comparisons with them, including her work strains, earlier refusal of sweet food and musical development, were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): The reading paraphrases Murasaki's Japanese beyond episode titles, so self-reference, sentence endings and register are not in the curated evidence.
+  - `performance-elided-and-unheard` (evidence-backed limitation): No vocal performance, lyrics or new song resource appears in H, its reception is represented only in the composer's and manager's speech, and A-G's voice references and all music were not heard; the static images do not depict the pedicure, piggyback, cleaning, chocolate or song.
+  - `proposed-not-completed` (evidence-backed limitation): The after-work evening, the venue and the manager's drink, the theatre cleaning, the mirror-ball staging and the manager's eating of the chocolate are proposed or prospective, not shown; the pedicure and the wrapped chocolate are presented as completed.
+  - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology, unlock level or year; menu order cannot date the Valentine story against the short addresses, and cross-case comparisons are formal.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:echizen-murasaki@game#b0221-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba230369f74b7aa47a4d01951221cf18b8b99b3e/series/tokyo-7th-sisters/02%20Readings/T7S_B0221_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:enami-madoka@game`
+
+#### Assessment `tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:enami-madoka`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:enami-madoka@game\#b0202-deep-reading, the canonical T7S\_B0202 reading at basis\_commit, read in full: the complete Sub Intimacy family 200590 \(NM-INTIMACY-200590\) of seven short addresses \(episodes 401000160, 401000432, 401000782, 401001026, 401001162, 401001282, 401001434; 31 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Madoka states \(B0081, B0093, B0119, B0126, B0157, B0166\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, horn playing, dialect prosody, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level and no chronology across them; the reading forbids treating menu order as relapse or progression. The age thirteen in 401001026 belongs to a quoted practiced introduction and is not a calendar stamp for the other occurrences. No default state is designated, and no state before or after these occurrences is assessed.
+- Basis commit: `dc7d803dcf13c48e633991a9cc89e497e732aec1`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `a9ef6db32029cf11a52410001dc91acac0fd26ec12f5da327756b243d4532e09`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager \(anchan\), as the portfolio describes him; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Madoka readings \(B0081, B0093, B0119, B0126, B0157, B0166\) are not curated on this subject, so the reading's comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): Apart from one quoted introduction and the address anchan, the reading paraphrases Madoka's Japanese, so dialect forms, self-reference and sentence endings are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, horn playing, dialect delivery, music or continuous runtime was heard or watched; the static horn-holding portrait is not a performance.
+  - `reported-not-shown` (evidence-backed limitation): Visits, the horn practice, dog walks, the sauce purchase and the dorm conversation are her reports; no visit, meal or practice is enacted, and the manager's answers come only through her uptake.
+  - `story-not-heard` (evidence-backed limitation): She covered her ears during Ei's ghost story, so her testimony supplies its social frame but not its content.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; menu order cannot make any address a relapse or a progression, and cross-case comparisons are thematic.
+  - `withdrawn-invitation` (evidence-backed limitation): The home-cooking invitation in 401001282 is withdrawn before completion and must not be treated as an accepted dinner or visit.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:enami-madoka@game#b0202-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dc7d803dcf13c48e633991a9cc89e497e732aec1/series/tokyo-7th-sisters/02%20Readings/T7S_B0202_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:futagawa-mimi@game`
+
+#### Assessment `tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:futagawa-mimi`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:futagawa-mimi@game\#b0189-deep-reading, the canonical T7S\_B0189 reading at basis\_commit, read in full: the complete Sub Intimacy family 200640 \(NM-INTIMACY-200640\) of seven short addresses \(episodes 401000075, 401000079, 401000598, 401000794, 401001094, 401001302, 401001458; 36 pages, 29 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Mimi states \(B0086, B0124, B0162, B0170\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music, SFX or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven independent conditional occurrences with no inferred intimacy level and no chronology across them; the reading says the native order supplies no total fictional chronology and does not establish whether any occurrence precedes or follows B0086, B0124, B0162 or B0170. No default state is designated, and no state before or after these occurrences is assessed.
+- Basis commit: `dc7d803dcf13c48e633991a9cc89e497e732aec1`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `ef30968755e6e352f7b7cb12899d99e84950795caa73027c4850f13fd0e70785`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager \(支配人君\), as the portfolio describes him; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `counterpart-unauthored` (evidence-backed limitation): The manager's feelings, answers and assent are not authored; his apparent reactions are available only through Mimi's uptake.
+  - `earlier-states-not-curated` (evidence gap): The earlier Mimi readings \(B0086, B0124, B0162, B0170\) are not curated on this subject, so the reading's comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): The reading paraphrases rather than quoting Mimi's Japanese lines beyond the address 支配人君, so self-reference and sentence endings are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, music, SFX or continuous runtime was heard or watched, and the fixed wink portrait is not a per-line expression.
+  - `proposals-not-enacted` (evidence-backed limitation): The drive, the head stroke, nursing and the photo practice are proposals or conditional offers; none is shown completed.
+  - `role-not-competence` (evidence-backed limitation): Her older-sister role does not certify driving safety, medical expertise, sustainable work arrangements or advance consent to contact.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are independent conditional occurrences with no chronology or intimacy level; they do not establish a passage from caretaker to dependent or from idol to partner.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:futagawa-mimi@game#b0189-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dc7d803dcf13c48e633991a9cc89e497e732aec1/series/tokyo-7th-sisters/02%20Readings/T7S_B0189_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:maezono-rishuri@game`
+
+#### Assessment `tokyo-7th-sisters-maezono-rishuri-game-b0204-portfolio-20261030-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:maezono-rishuri`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:maezono-rishuri@game\#b0204-deep-reading, the canonical T7S\_B0204 reading at basis\_commit, read in full: the complete Sub Intimacy family 200770 \(NM-INTIMACY-200770\) of seven short addresses \(episodes 401000174, 401000508, 401000798, 401000910, 401001110, 401001290, 401001394; 31 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with the 66 earlier Rishuri context rows \(B0099, B0129, B0137, B0140, B0175\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level and no chronology across them; the reading forbids treating menu, priority or source order as a progression in which the manager completes her. No default state is designated, and no state before or after these occurrences is assessed.
+- Basis commit: `77c83fcbd77a957fbd7659ec222e120bcb00406d`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `e016d4198471c5deb56751d208a2b72028c1faf562e5d32c74134e7529c9cd31`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager, as the portfolio describes him; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `conditional-pretense` (evidence-backed limitation): The boyfriend role in 401001110 is a conditional, imagined pretense with a stated performance limit; it establishes neither a present partner nor an enacted deception, and the manager gives no assent.
+  - `earlier-states-not-curated` (evidence gap): The earlier Rishuri readings \(B0099, B0129, B0137, B0140, B0175\) are not curated on this subject, so the reading's comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): Apart from the phrase zonorish legend, the reading paraphrases Rishuri's Japanese, so dialect forms, self-reference and sentence endings are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, music or continuous runtime was heard or watched; the static sewing-motif portrait is not an executed craft procedure.
+  - `reception-and-work-open` (evidence-backed limitation): The club members' response to her costumes is her account, the zonorish legend is a future wish and the patchwork is an intended experiment; no audience verdict, recognition or finished design is in evidence.
+  - `reported-not-shown` (evidence-backed limitation): The soup, the play, the hometown visit and the aquarium trip are her reports or plans; no cooking, attendance, journey or performance is enacted, and the manager's replies come only through her uptake.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; menu order cannot make any address a stage in a progression, and cross-case comparisons are formal.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:maezono-rishuri@game#b0204-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/77c83fcbd77a957fbd7659ec222e120bcb00406d/series/tokyo-7th-sisters/02%20Readings/T7S_B0204_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:sakaiya-yumeno@game`
+
+#### Assessment `tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:sakaiya-yumeno`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:sakaiya-yumeno@game\#b0205-deep-reading, the canonical T7S\_B0205 reading at basis\_commit, read in full: the complete Sub Intimacy family 200710 \(NM-INTIMACY-200710\) of seven short addresses \(episodes 401000181, 401000520, 401000774, 401000834, 401001058, 401001134, 401001414; 31 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with the 155 earlier Yumeno context rows \(B0093, B0131, B0168, B0169, B0174, B0183, B0202\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level and no chronology across them; the reading forbids treating source order as a reform sequence. No default state is designated, and no state before or after these occurrences is assessed.
+- Basis commit: `77c83fcbd77a957fbd7659ec222e120bcb00406d`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cfd30ee26cade7415a7e10ae54431e5a733a31fd08b3bc2f1b4bbbaf7cd5ab84`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager, as the portfolio describes him; the refusal applies equally to peers and any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `claimed-endorsement` (evidence-backed limitation): The manager-approved plan in 401000834 is her conversion of general advice; the manager has no line endorsing it.
+  - `earlier-states-not-curated` (evidence gap): The earlier Yumeno readings \(B0093, B0131, B0168, B0169, B0174, B0183, B0202\), which the reading cites for pressure, refusal and recording objection, are not curated on this subject and were not checked. The assessed set is therefore not the full resistant record, and missing support is not evidence of absence.
+  - `japanese-wording-not-quoted` (evidence gap): Apart from a few located phrases, the reading paraphrases Yumeno's Japanese, so self-reference, sentence endings and register shifts are not in the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, laughter, music or continuous runtime was heard or watched; the reused enthusiastic sprite does not certify line-specific reactions.
+  - `peer-assent-absent` (evidence-backed limitation): No peer gives assent to the attention, advice use or planned contact Yumeno describes; her equal admiration and the joking allowance about herself confer no permission over others, and none may be supplied in generation.
+  - `single-speaker-form` (evidence-backed limitation): Yumeno is the only speaking actor in all 31 records; the manager's words and every peer's activities are known only through her account.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; source order cannot make any address a reform or relapse, and separate occasions must not be merged.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0205-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/77c83fcbd77a957fbd7659ec222e120bcb00406d/series/tokyo-7th-sisters/02%20Readings/T7S_B0205_DEEP_READING.md)
 
 ### Subject `yuru-camp:shima-rin@manga`
 
