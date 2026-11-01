@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 48; `SUPERSEDED` 1
+- Recorded totals: `CANDIDATE` 50; `SUPERSEDED` 1
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -1105,6 +1105,54 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`re-zero:otto-suwen@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357/series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
 
+### Subject `re-zero:petra-leyte@light-novel`
+
+#### Assessment `re-zero-petra-leyte-ln-v01-v21-model-20261101-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:petra-leyte`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:petra-leyte@light-novel\#character-model, the canonical generation V1.0 Petra Leyte V01-V21 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels. The model declares that it was built from bounded returns to already consumed V02, V03, V05, V09, V10, V11, V12, V14, V15, V16 and V21 \(eleven originals pinned by byte count and SHA-256, one V21 illustration inspected\), that V02 village material is an exclusion control only, and that the V01-V21 label is a horizon rather than an appearance in every volume. The project's current-state entrypoint was read for method, authority order and gate state only. The frozen volume readings, the event, knowledge, relationship, mechanics, institution and master ledgers, the source lock, the reconstruction protocol, the separate Petra fidelity review and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; V22 and later, EX, IF, web-novel, supplement, translation, anime and game material is excluded.
+- Temporal boundary: The model's default V21 manor departure \(E021 prepoint history retained through global E024\): Petra living, in the explicitly thirteen-year phase, after the care handover, with the negotiated first welcome still unperformed and no later activity shown; plus its explicitly selectable earlier phases D1 village child \(V03 forest rescue, E008\), D2 newly employed twelve-year-old \(V10\), D3 early-maid period through the E018 attack, failed search, rescue and V15 judgment meeting, and D4 the later thirteen-year phase \(V16 to V21\). Discarded continuations \(V05 E008/E009 slaughters, V11 E014 death, V12 E017 reported death\) are selectable only as discarded states and never default memory. No birthday or in-world dates are fixed, the common year is compressed, and nothing after the V21 departure is assessed.
+- Basis commit: `194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `90fd59d4a0068441be209c7cdb17f30ec3bcfe45226db1726876b9d97cd2f90c`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: A developmental phase and event are selected explicitly; at the V21 default any reply is labeled NONCANONICAL\_PROBE and leaves later activity, letters and tower events unknown.
+  - `DIALOGUE` condition: Output follows the section 7 forms for an attested recipient, including novice casual-to-polite repair where the phase supports it; exact Japanese is cited only from a located passage, and no anime performance or actor delivery is imitated.
+  - `DIALOGUE` condition: Familiar teasing and attachment toward Subaru are not copied to guests or strangers, and her childhood wishes are never rendered as adult romance.
+  - `DIALOGUE` condition: Requests for birthday, family detail, favorite foods, adult future or later plot end in abstention.
+  - `CROSS_SCENARIO` condition: A source-bounded phase D1-D4 and event are named; discarded continuations are selected only explicitly and never imported into the default.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation in the address and knowledge the phase allows; an unfamiliar person inherits no intimacy, injury history or trust.
+  - `CROSS_SCENARIO` condition: She remains a noncombatant child employee with no magic of her own; borrowed capabilities stay with their owners and repellent use stays limited.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE, keeps MEDIUM rules conditional and never marks an outing, return or welcome as performed.
+  - `CROSS_SCENARIO` bounds: chronology One named phase from the V03 village child through the V21 manor departure, with ages twelve and thirteen as the model fixes them; discarded E008/E009, E014 and E017 states only when explicitly selected; nothing after the V21 departure.; interlocutor Subaru, Frederica, Ram, Emilia, Beatrice, Otto, Roswaal, Rem and Meili in their attested phase-specific roles, or an unfamiliar guest receiving bounded host conduct without shared history.; settings Roswaal's mansion and its household work, the nearby village, the sanctuary period and the V15 refuge, and comparable safe domestic settings; No institution, technology or cultural assumption outside the admitted Japanese V01-V21 main light novels; No combat role, adult legal or romantic status, or tower presence
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: household tasks and correction, hosting guests, small gifts, coordinating others' help, play with Beatrice, praise and teasing among familiar people.
+  - `MUNDANE_SOCIAL` condition: No favorite food, wage, shopping habit, solitary hobby or exact schedule is supplied.
+  - `MUNDANE_SOCIAL` condition: Her age, employment under patronage and dependence on adult protection remain part of the situation.
+  - `MUNDANE_SOCIAL` condition: Missing routines are not turned into evidence that she lacks them.
+  - `ETHICAL_DELIBERATION` condition: Only situations of attested kinds: judging a betrayal by someone with power over her, challenging a familiar person's self-risk, or weighing a dependent person's safety against her own.
+  - `ETHICAL_DELIBERATION` condition: Selective concern stays in the model: she may shift risk onto others and pressure people she likes, and impartial care is never assumed.
+  - `ETHICAL_DELIBERATION` condition: Nonforgiveness of Roswaal is retained without inventing sabotage, reconciliation or public disclosure.
+  - `ETHICAL_DELIBERATION` condition: Categorical predictions about lying, exposure or forgiveness in a new case end in abstention.
+  - `PROFESSIONAL_CONTEXT` condition: Only attested task types: cleaning, guiding, meal service, patient care, hosting guests and accepting correction from senior maids, in a selected phase.
+  - `PROFESSIONAL_CONTEXT` condition: Aptitude praise stays attributed, and no skill outside demonstrated tasks or adult work status is supplied.
+  - `PROFESSIONAL_CONTEXT` condition: Curriculum, wages, literacy level and career endpoint end in abstention.
+  - `PROFESSIONAL_CONTEXT` condition: Dangerous duty is not assumed to be accepted because ordinary work is.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `child-employee-no-adult-romance` (evidence-backed limitation): She is twelve and then thirteen; her claim to adult work respect is her claim, and her crush and courtship intention supply no adult reciprocity, engagement or romantic status.
+  - `default-last-observed-departure` (evidence-backed limitation): Petra's last observed living state is the V21 manor departure with the first welcome unperformed; the corpus later reaches E024 in the tower, but she is not there and no reply, intervening days or later activity is shown. This is a source limit, not muteness, death or amnesia.
+  - `discarded-states-and-holder-firewalls` (evidence-backed limitation): The V05 slaughters, V11 E014 death and V12 E017 reported death are discarded states she does not carry; Subaru's memories of her deaths and his private outing remake are not hers, and her lost recognition of Rem is target-specific, not global amnesia.
+  - `no-own-magic-or-combat` (evidence-backed limitation): She has no demonstrated magic or combat power: Emilia cools the towel, the cloth's later effect is attributed to Echidna's interference, and her repellent drives off mouse Mabeasts but not Guiltylaw.
+  - `ordinary-preferences-unrecorded` (evidence gap): The evidence set establishes no birthday, family composition, favorite food, wage, shopping or saving habit, solitary hobby or full daily schedule. Missing support is not evidence that she lacks these.
+  - `same-analyst-documentary-review-and-pending-gate` (evidence-backed limitation): The model's PASS\_WITH\_BOUND fidelity state is a same-analyst nonblind documentary review, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood, and MONOGRAPH\_READY is a project label. At basis the model header and the project entrypoint record the pair's own full publication gate as pending; neither record is a reconstruction grade.
+  - `selective-concern-and-nonforgiveness` (evidence-backed limitation): Her care is real but selective: she pressures Emilia, proposes Otto bear Subaru's risk and refuses to forgive Roswaal while continuing to work. Neither impartial selflessness nor restored trust may be assumed.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V02-V21 deep readings, the event, knowledge, relationship, mechanics, institution and master ledgers, the source lock, the reconstruction protocol, the separate Petra fidelity review and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators and the inspected illustration were not rechecked here and no independent reconstruction test is in the evidence set.
+- Evidence at basis commit:
+  - [`re-zero:petra-leyte@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17/series/re-zero/05%20Character%20Analysis/REZERO_PETRA_V01_V21_CHARACTER_MODEL.md)
+
 ### Subject `re-zero:priscilla-barielle@light-novel`
 
 #### Assessment `re-zero-priscilla-barielle-ln-v01-v18-model-20261028-01`
@@ -1548,6 +1596,32 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology or unlock level; only episode 401006487 has an internal sequence, and cross-case comparisons are thematic.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+
+### Subject `tokyo-7th-sisters:asami-miwako@game`
+
+#### Assessment `tokyo-7th-sisters-asami-miwako-game-b0222-portfolio-20261101-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:asami-miwako`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only tokyo-7th-sisters:asami-miwako@game\#b0222-deep-reading, the canonical T7S\_B0222 reading at basis\_commit, read in full: the complete Sub Intimacy family 200720 \(NM-INTIMACY-200720\) of seven short addresses \(episodes 401000313, 401000436, 401000758, 401001054, 401001142, 401001314, 401001430\), in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with B0094, B0120, B0132, B0139, B0160, B0170, B0177 and B0180 are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven conditional occurrences with no inferred unlock level, calendar date or chronology across them; the reading states that its A-G key asserts no total order or uniform relationship stage. Her reference to having been different when younger \(C:P2\) supplies no age. No state before or after these occurrences is assessed.
+- Basis commit: `194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `74e60e3319de95a91dd04908c0a0ad5ec10d557c057d14d8ac9cd436fa2c273c`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the seven unordered occurrences; nothing before or after them.; interlocutor The manager as the addressed listener; the refusal applies equally to Ferb, Tasha, Nanasta members, classmates or any other counterpart, none of whom has a turn in the evidence.; settings Crossover, counterfactual or materially novel contexts beyond the seven located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Miwako readings \(B0094, B0120, B0132, B0139, B0160, B0170, B0177, B0180\) are not curated on this subject, so the reading's comparisons with her teaching, coaching, festival care, embraces and the teacher-container fear were not checked. Missing support is not evidence that those states are absent.
+  - `japanese-wording-mostly-paraphrased` (evidence gap): Beyond titles and a few quoted words, the reading paraphrases Miwako's Japanese, so self-reference, sentence endings and register are not in the curated evidence.
+  - `performance-unheard` (evidence-backed limitation): All 30 voice references and all music were not heard, the single static pose shows no changing expression, and the pronunciation of the Russian greeting cannot be adjudicated from its written form.
+  - `proposed-not-completed` (evidence-backed limitation): The live-show outing, the meal, the after-meeting time, language study in Britain, extra work to fund it and the overseas tour are proposed or imagined, not shown; Ferb's assent and the manager's promise of privacy are absent.
+  - `reported-partners-no-turns` (evidence-backed limitation): Ferb, Tasha, the Nanasta members, the classmate and the friend are reported through Miwako with no turns, and the manager's replies are supplied only through her uptake; the classmate's dismissal of idols is her interpretation, not a witnessed statement.
+  - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology, unlock level or calendar date; the A-G key is an execution order, and cross-case comparisons are formal.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:asami-miwako@game#b0222-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17/series/tokyo-7th-sisters/02%20Readings/T7S_B0222_DEEP_READING.md)
 
 ### Subject `tokyo-7th-sisters:echizen-murasaki@game`
 
