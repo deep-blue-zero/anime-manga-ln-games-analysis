@@ -4,13 +4,13 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.139"
+version: "1.140"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0234; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0235; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
 last_updated: 2026-11-02
@@ -140,7 +140,7 @@ Packets record lock digest, exact membership and ranges, query/parameters, adapt
 
 ### Exact membership and initial coverage
 
-The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 1,016 current-or-consumed records and 574 routed-or-unconsumed records after B0234, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
+The canonical coverage ledger is one authored logical consumption/routing ledger represented by the [manifest](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json), the [current-or-consumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING.jsonl), and the [routed-or-unconsumed shard](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl). Across the disjoint union it has one record per exact script and catalog episode membership plus twelve supplemental tranche records (ten active leaves and two inactive split parents): 1,019 current-or-consumed records and 571 routed-or-unconsumed records after B0235, 1,590 data records total. It contains IDs and decisions; no copied source text or bulk metadata.
 
 At B0191 the current-or-consumed role has four physical components: its original address, CURRENT_002, CURRENT_003 and [CURRENT_004](../01%20Sources%20and%20Chronology/T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl). The routed role retains two components. That six-component boundary is historical; current retrieval is the seven-component route recorded here. This bounded physical growth preserves the complete 1,590-record logical union, role defaults and decision history; frozen transition receipts retain their historical five-component boundary.
 
@@ -470,3 +470,7 @@ Actual complete5role consumer acceptance2026-11-01T23:56:03.980093UTC preceded39
 ## B0234 whole-family source and actual consumer accountability
 
 Actual5role acceptance02:00:39.766835UTC preceded39committed before-image entering freeze02:00:45.433799 and first machine-primary intent02:05:46.613779 on2026-11-02. All6existing source components,7coverage payloads and complete entity/story/claim views are mandatory before/after (9values/4snapshots); no unreviewed rollover/retirement is admitted. Each actual whole text/native/selected-static case freeze precedes the next source display; all626native pages/526Japanese records/100command-only pages were reviewed through lossless all-value reconstruction.62selected exact resources in9sheets and15original backgrounds were actually seen. Truncated case4image and case6native boundary outputs were reissued within their own case before freeze, not declared seen while missing.9whole coverage records move with1581others/defaults unchanged. Music/SFX/runtime remain unreviewed and these objects contain0nativeVoice references. HistoricalB0231/B0233failures remain preserved; no new ordering exception or retrospective receipt. Native preparation/application, publication, housekeeping and exact-head integration remain separate.
+
+## B0235 independent Birthday source and actual consumer accountability
+
+Actual5role acceptance04:34:56.542220UTC preceded39committed before-image entering freeze04:42:23.206977 and first machine-primary intent04:42:29.759802 on2026-11-02. All6existing source components,7coverage payloads and complete entity/story/claim views are mandatory before/after (9values/4snapshots); current closeout admits no rollover. All57native pages/27Japanese records/30command-only pages were reviewed through complete lossless all-value reconstruction; each actual text/native/selected-static freeze precedes the next source display.16exact resources in3contacts and9original backgrounds were actually seen. All27existing cue WAVs are hashverified but unheard: the actual audio probe was omitted because this session does not support audio input. Declared loop01/02/03content remains unresolved in the narrow registry/corpus lookup; no global source-loss claim, extra inline consumption or runtime inference. New source claims rely on text/actually seen stills with explicit restrictions. Exactly3whole records move with1587others/defaults unchanged; all173older integrity serializations and frozen histories remain exact. Earlier oversized prior-context output was fully reissued before primary; current case displays were complete. Private V1/V2 claim-status/distance refinement is preserved as superseding candidate history. No retrospective gate or maturity/2034release/2053promotion. Further source needs reviewed storage budgeting and fresh complete consumers/entering; native application/publication/integration stay separate.

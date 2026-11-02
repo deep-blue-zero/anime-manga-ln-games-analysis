@@ -4,7 +4,7 @@
   "artifact_type": "logical_story_causal_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.10",
+  "version": "1.11",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical story representation",
-  "last_source_high_water": "T7S_B0234",
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0235",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
-    "physical_bytes": 40048,
-    "physical_sha256": "c005396a7fd8cf50d37a8cc34ef88164502ff9fd8d099088223d04f014badb16",
-    "logical_prefix_bytes": 7043,
-    "logical_prefix_sha256": "d2887796bd0a4ae7cc2a6a5954d34ab33bedc16c521de96f824935c47a22d792",
+    "physical_bytes": 41190,
+    "physical_sha256": "160c435d04d791aa9515d578f5c31787c21a45d8930a0a92dada006bccb43b6e",
+    "logical_prefix_bytes": 7814,
+    "logical_prefix_sha256": "1ab61210eaf274b67da727877e57b5f1c1ded974885bfa90889199dbb923e513",
     "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
-      "physical_bytes": 446509,
-      "physical_sha256": "dfd8bdea49233924045a6a735fd5636e5602a42252947ec07fcfe40d3e598075",
+      "physical_bytes": 458454,
+      "physical_sha256": "2ea636bba448f6db14c60a8591bc2e944dd20221cae01eeb9ca38a85325c841b",
       "payload_offset_bytes": 938,
-      "payload_bytes": 445527,
-      "payload_sha256": "37a43d199c3014f61a7c18693098c64310f86fe82eedb8348302b0628c44d18a",
+      "payload_bytes": 457472,
+      "payload_sha256": "bf075ad967da300c035059e0e08c4ac92c4f35592720f0f4e1eccafa4d60d9f6",
       "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
       "logical_offset_bytes": 779332,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1231902,
-  "logical_sha256": "ad7c5d9224ee785becc74807907eb9731745839721ea097b8ceedc6e616d00a8",
+  "logical_bytes": 1244618,
+  "logical_sha256": "9382d56c9c0df18c2a24daba4a8fa26ea6850b861320459bb66472c6231f3125",
   "heading_routes": [
     {
       "original_anchor": "current-event-records",
@@ -938,6 +938,18 @@
       "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "component_anchor": "b0234-world-state-qualification",
       "heading": "B0234 world-state qualification"
+    },
+    {
+      "original_anchor": "b0235-being-known-on-three-independent-birthdays",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0235-being-known-on-three-independent-birthdays",
+      "heading": "B0235 being known on three independent birthdays"
+    },
+    {
+      "original_anchor": "b0235-source-local-chronology-edges",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0235-source-local-chronology-edges",
+      "heading": "B0235 source-local chronology edges"
     }
   ],
   "storage_transition": {
@@ -960,13 +972,13 @@
     "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0234",
+    "source_high_water": "T7S_B0235",
     "date": "2026-11-02",
-    "logical_before_sha256": "9278444a0b56408258dc7ed8de096b41b70ec5bba100170e4c19e68a812c1ac8",
-    "logical_after_sha256": "ad7c5d9224ee785becc74807907eb9731745839721ea097b8ceedc6e616d00a8",
-    "addition_bytes": 82893,
-    "addition_sha256": "02062153a000d2bbf0f686736f35336ec6138c4fd89cc273768321650edbbe47",
-    "unchanged_older_body_sha256": "aae2def41502e9a7dfed3d733a411a7a2d5ad8e73c6955236932972115b8bed8",
+    "logical_before_sha256": "ad7c5d9224ee785becc74807907eb9731745839721ea097b8ceedc6e616d00a8",
+    "logical_after_sha256": "9382d56c9c0df18c2a24daba4a8fa26ea6850b861320459bb66472c6231f3125",
+    "addition_bytes": 11945,
+    "addition_sha256": "84b8410114f07874ea381f8803b6b5b12c360a868f3e385c1a07b1536eae51e3",
+    "unchanged_older_body_sha256": "e35191a0bcf25b803f7c88de415a9c55beae2ad7d08687b2ba0f75dacdb4e8be",
     "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
