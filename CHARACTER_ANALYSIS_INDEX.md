@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 23 |
+| [`re-zero`](characters/index/re-zero.md) | 24 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -435,6 +435,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Rain](characters/index/konosuba.md#rain) | Original light-novel continuity, bounded character study | `konosuba:rain@original-light-novel` | Rein; レイン |
 | [Rakuresu](characters/index/konosuba.md#rakuresu) | Original light-novel continuity, bounded expanded cohort | `konosuba:rakuresu@original-light-novel` | ラクレス |
 | [Ram](characters/index/re-zero.md#ram) | Re:Zero main light novel | `re-zero:ram@light-novel` | — |
+| [Reala Thompson](characters/index/re-zero.md#reala-thompson) | Re:Zero main light novel | `re-zero:reala-thompson@light-novel` | リーシア・ティンゼル; リアラ・トンプソン |
 | [Regulus Corneas](characters/index/re-zero.md#regulus-corneas) | Re:Zero main light novel | `re-zero:regulus-corneas@light-novel` | — |
 | [Rei](characters/index/tokyo-7th-sisters.md#first-spirit-rei) | Tokyo 7th Sisters game | `tokyo-7th-sisters:first-spirit-rei@game` | — |
 | [Reiner Braun](characters/index/attack-on-titan.md#reiner-braun) | Attack on Titan manga | `attack-on-titan:reiner-braun@manga` | — |
