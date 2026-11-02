@@ -4,13 +4,13 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.136"
+version: "11.137"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes; all further non-Main/additional story and2053 semantic sources remain outside"
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes; all further non-Main/additional story and2053 semantic sources remain outside"
 storage_representation: manifest_bound_components_v1
 storage_manifest: "T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json"
 architecture_lifecycle: EVOLVING
@@ -22,15 +22,15 @@ last_updated: 2026-11-02
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios and all45 complete independent Short messages throughB0232; first3known-exposure, remaining42prospective. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary findings extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios and all45 complete independent Short messages throughB0232; first3known-exposure, remaining42prospective. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. Administrative authority metadata is not literary evidence.
 
 Read the complete manifest-bound logical ledger through its current owner, manifest and every ordered component before interpreting or editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`last_closed_block = T7S_B0233`
+`last_closed_block = T7S_B0234`
 
-`claims = 1848`; `revisions = 43`; `predictions = 7`; `AV_reviews = 180`; `literary_findings = 1848`. Claims are bounded to their stated B0001 through B0233 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters,349complete Intimacy primary documents across49family portfolios and45independent Short messages plus12Legend documents/6paired chapters; the recorded first3native-heading exposure is retained. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 1868`; `revisions = 43`; `predictions = 7`; `AV_reviews = 181`; `literary_findings = 1868`. Claims are bounded to their stated B0001 through B0234 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters,349complete Intimacy primary documents across49family portfolios and45independent Short messages plus12Legend documents/6paired chapters and9ManyMerryParty documents; the recorded first3native-heading exposure is retained. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -1297,3 +1297,11 @@ The complete current claim ledger is the manifest-bound logical prefix plus ever
 <a id="av-0180--legend-likenesses-public-voices-and-unperformed-fields"></a>
 
 [AV-0180 — Legend likenesses, public voices and unperformed fields](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#av-0180--legend-likenesses-public-voices-and-unperformed-fields)
+
+<a id="b0234-claims-alternatives-and-modality-responsibility"></a>
+
+[B0234 claims, alternatives and modality responsibility](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#b0234-claims-alternatives-and-modality-responsibility)
+
+<a id="av-0181--ordinary-portraits-object-images-and-memories-without-performed-evidence"></a>
+
+[AV-0181 — Ordinary portraits, object images and memories without performed evidence](T7S_CLAIM_EVIDENCE_COMPONENT_003.md#av-0181--ordinary-portraits-object-images-and-memories-without-performed-evidence)
