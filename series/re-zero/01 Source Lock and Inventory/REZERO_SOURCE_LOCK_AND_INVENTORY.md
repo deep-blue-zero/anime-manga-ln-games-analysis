@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.47
+generation: V0.48
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,13 +14,11 @@ do_not_use_as_current_authority: false
 
 ## Current lock state
 
-**PARTIALLY LOCKED — ACQUIRED JAPANESE MAIN-LN SPINE V01-V43.**
+V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water remains V21/467claims; V22 is source-complete and separately saved-content accepted at537claims, with its own full publication/integration gate PENDING. Reala21/PR419 full gate CLOSED before V22: authored07bb073bd33a7bb74dbf132bf6c7de4030a8b26c; CI final source029206778b3bbb9c037b057d38f4338475347012; actual merge4f6ba10b04197b3431f38a9fa079f02d395110ef; verified main5b7f738008c6026b64278b70a7b07aa80d8bb5d0. Their identical Re:Zero subtreef0e3e570bea448b5aadd397f19778c146175bcc6, completed exact-source/merge/main audits41346410757/41347396074/41348768518 (486unique discovered tests each, zero nonpasses), trusted statuses57793627641/57793990747/57794497398, source-specific housekeeping41347364920 verified routing-current no-op and later native proof close that gate. Meili21/PR413 and Petra21/PR415 remain CLOSED. All68entering protected artifacts and21historical model/default/local documentary grades remain exact. V22 source EOF precedes individual467claim/60question/10forecast/181relationship/450transition decisions. Separate saved-content/source/name-reference/fidelity review is ACCEPTED after nine bounded SR01–SR09 corrections and two routine copyedits were actually read back; native correspondence and protected scopes passed. Whole outgoingV23body60Q/10P is sealed after that acceptance:25551bytes/SHA256dc9d6a69786659ee6a6e625172e13e14a61c2f138e90eea1048cd45258abed19; literal through V22and earned operator gates, narrative unopened. Five owners retain contracts: E024/23deaths24segments,K874/M553/I453/R191/RT495. Scarf operator V20–V22 construction/review is earned but UNIMPLEMENTED/UNGRADED after V22full gate; its own full gate precedes V23. V23+/nonspine/import narratives remain unopened, admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
-The governed evidence locations contain a continuous Japanese main-light-novel sequence from Volume 01 through Volume 43. Those 43 objects are admitted as `MAIN_LN` witnesses. Forty-two main-volume files retain exact agreement with the 2026-08-31 manifest; the current V41 object was replaced after that manifest and is admitted under the bounded 2026-09-08 point re-audit recorded below.
+Only the already admitted JapaneseV22source is newly consumed in this operation. V23+/nonspine/import narratives stay unopened. The43-volume admission/V41exception, dated acquisition records, English/duplicate exclusions and witness hierarchy are unchanged. No fresh all43audit or bibliography is claimed.
 
-This is **not a claim that the acquired corpus is current-complete**. A bibliographic freshness check on 2026-09-04 against official KADOKAWA/Re:Zero publication surfaces establishes that Volume 44 was released on 2026-03-25 and Volume 45 on 2026-06-25. Neither appears in the audited 2026-08-31 Drive manifest. The known current main-spine acquisition gaps are therefore **V44 and V45**.
-
-The gap does **not** block a prospective Volume 01 reading. It prohibits describing the present acquisition as a complete-to-date Re:Zero main-light-novel corpus.
+OriginalV22 is2995741bytes/SHA6c89f29595000ab419d46633d1166b06200c7c0c339c50adce346f598750e25c/CRCpass. FrozenV22section1 records complete actual text/ruby/image/navigation consumption and the explicit native jacket microprint bound.
 
 ## Authority responsibility
 
@@ -978,3 +976,37 @@ Complete displaced input fragments retain their prior horizon/link base. Earlier
 ````````````````````text
 Historical V21 consumption-boundary record below: the then-pending V21source gate is now CLOSED throughPR390; current Meili implementation and its own pending gate are stated in the live summary above. Original source-consumption facts and historical timing are retained verbatim.
 ````````````````````
+
+## V22 actual original consumption — RZ-MAIN-LN-JA-V22
+
+The witness is the already admitted Japanese `Re Zero - Volume 22.epub`, source ID `RZ-MAIN-LN-JA-V22`, 2,995,741 bytes, SHA256 `6c89f29595000ab419d46633d1166b06200c7c0c339c50adce346f598750e25c`. ZIP CRC passes all 57 entries. The 25 OPF spine documents were read to EOF in 49 contiguous untruncated offers: 3,816 analytical positions, comprising 3,793 TEXT and 23 IMAGE references, with 158,227 base-text characters. All 1,380 contextual ruby groups/1,795 reading labels/491 unique base-reading pairs were read with their surrounding text; all 23 original visual assets were actually viewed, including covers, previews, illustrations, isolated glyph, designs, advertisements, jacket and logo.
+
+These are scope and identity counts, not an attention certificate. Separate explicit actual-read acknowledgments and independent raw HTMLParser lexical/ruby/image-order correspondence bind the completed delivery. Consumption receipt SHA256 `3e1d2df2004697aaf83ef4e6deb528f7785997b269e06d8e42cbe85931069351` and correspondence receipt SHA256 `f5a3113c411910f91c29e0d759c994505d4f28c5f982ac185aeaf551d954fffe` record actual EOF before postread drafting. All 93 entering canonical files, 68 protected artifacts, 467 incoming claim rows and literal horizon were unchanged at EOF. Current manifest hash `a17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d` is distinguished from the earlier historically pinned manifest; quarantined import metadata adds no admission or reading credit.
+
+`partNNNN#Bpppp` denotes the analytical body-position convention within original `text/partNNNN.html`, not a promise that the EPUB contains a DOM fragment of that name. It counts ordered body TEXT/IMAGE positions, includes headings and preserves contextual ruby and image references. Unprefixed new loci are V22. Earlier-volume ancestry retains its dated source rather than silently becoming V22. The isolated `images/00015.jpeg` supplies 牙 inside raw B0051, with the image reference represented at B0052.
+
+The full original `toc.ncx` (10,133 bytes, SHA256 `c3ec2aab383c5ffade2a9c3b27ca42d7acde567284228f80e0a65eb99aa4208e`) and all 44 labels/targets were actually read; targets/fragments resolve. Chapter 4 body section 7 lacks a matching navigation entry but was still consumed. Navigation is not an exhaustive body boundary. Some tiny biography/blurb glyphs on original 1,030×417 jacket `images/00021.jpeg` remain unreadable after direct source-pixel inspection; no verbatim completeness, reconstructed wording or analytical proposition is claimed from unclear pixels. The 2020 afterword/colophon/promotions are dated package evidence, not fresh bibliography, current schedules or later narrative admission.
+
+Earlier freezes/model/default/local scopes remain exact. No V23, supplementary, IF, WN, game or adaptation narrative was opened. This operation remains SUBSTANTIVE_ANALYSIS, LOCAL_SINGLE_ANALYST/LOCAL_ONLY with text/still-image capability. Unexposed provider/model/effort/configuration fields are unknown, not inferred; there is no delegation or routing redesign.
+
+The original V21minimum-receipt query atpart0009#B0117–0120confirms Beatrice consultation without new whole-volume reading credit. SA01/JP01corrects live naming attribution from consumed V21part0015#B0504–0509/B0521–0523 while protected artifacts remain exact. No original source is edited.
+
+
+### V22 exact entering source-lock preimages
+
+The following complete literal fragments are historical input, not current defaults or reopened pending gates. They preserve the exact entering scope/wording and remain recoverable alongside native inverse proof.
+
+#### V21 entering source-lock current state
+
+``````````markdown
+## Current lock state
+
+**PARTIALLY LOCKED — ACQUIRED JAPANESE MAIN-LN SPINE V01-V43.**
+
+The governed evidence locations contain a continuous Japanese main-light-novel sequence from Volume 01 through Volume 43. Those 43 objects are admitted as `MAIN_LN` witnesses. Forty-two main-volume files retain exact agreement with the 2026-08-31 manifest; the current V41 object was replaced after that manifest and is admitted under the bounded 2026-09-08 point re-audit recorded below.
+
+This is **not a claim that the acquired corpus is current-complete**. A bibliographic freshness check on 2026-09-04 against official KADOKAWA/Re:Zero publication surfaces establishes that Volume 44 was released on 2026-03-25 and Volume 45 on 2026-06-25. Neither appears in the audited 2026-08-31 Drive manifest. The known current main-spine acquisition gaps are therefore **V44 and V45**.
+
+The gap does **not** block a prospective Volume 01 reading. It prohibits describing the present acquisition as a complete-to-date Re:Zero main-light-novel corpus.
+
+``````````
