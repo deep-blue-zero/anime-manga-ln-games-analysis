@@ -4,7 +4,7 @@
   "artifact_type": "logical_story_causal_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.8",
+  "version": "1.9",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective); all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical story representation",
-  "last_source_high_water": "T7S_B0232",
+  "source_boundary": "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical story representation",
+  "last_source_high_water": "T7S_B0233",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
-    "physical_bytes": 38014,
-    "physical_sha256": "5f9ed8c58bfecce8a0912fed5740f49ca0d3b91cbab6ecd2952ed405123f0fb9",
-    "logical_prefix_bytes": 6049,
-    "logical_prefix_sha256": "ffa3163376cde65ee8d252368fa8adbaf56ad8919d6c59b848d7d9bb051c4147",
+    "physical_bytes": 38699,
+    "physical_sha256": "8acf9f1c630cc8193af956f66a67c2f75ab3e0310b98304e910f2ca68af0cdd2",
+    "logical_prefix_bytes": 6353,
+    "logical_prefix_sha256": "f843168ece4aa9bad6e572a8643f3b451e9765389340f13e46943f8ec018c4fa",
     "route_marker": "<!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "artifact_id": "T7S_STORY_CAUSAL_STATE_COMPONENT_003",
-      "physical_bytes": 326163,
-      "physical_sha256": "9cbda988d24b21632d613f8b8a081c2fba0021e744c17629f858282729f32ecd",
+      "physical_bytes": 363615,
+      "physical_sha256": "357029602cfe34d4ec602c9aa054a247b9935fdad621e265ac4944f27a06a207",
       "payload_offset_bytes": 937,
-      "payload_bytes": 325182,
-      "payload_sha256": "77c4b428e555ba18415d6f183fe5b3bc7a1777e95c7500233176a8c866e32671",
+      "payload_bytes": 362634,
+      "payload_sha256": "450769ad676d1555c7710a7ad58e69d6eb6499a8eefb525769cfcf8d49e4638c",
       "payload_terminator": "<!-- T7S STORY CAUSAL STATE PAYLOAD END -->",
       "logical_offset_bytes": 779332,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1110563,
-  "logical_sha256": "aa20839494c07cde8101a614fd494799923be8aab613d25632c66062f9e99312",
+  "logical_bytes": 1148319,
+  "logical_sha256": "9278444a0b56408258dc7ed8de096b41b70ec5bba100170e4c19e68a812c1ac8",
   "heading_routes": [
     {
       "original_anchor": "current-event-records",
@@ -908,6 +908,18 @@
       "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
       "component_anchor": "b0232-forty-two-short-messages-offered-selves-and-absent-answers",
       "heading": "B0232 Forty-two Short messages, offered selves and absent answers"
+    },
+    {
+      "original_anchor": "b0233-legend-encounters-inherited-images-and-present-work",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0233-legend-encounters-inherited-images-and-present-work",
+      "heading": "B0233 Legend encounters, inherited images and present work"
+    },
+    {
+      "original_anchor": "b0233-bounded-world-qualifier",
+      "component_path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
+      "component_anchor": "b0233-bounded-world-qualifier",
+      "heading": "B0233 bounded world qualifier"
     }
   ],
   "storage_transition": {
@@ -930,13 +942,13 @@
     "source_b0224_full_publication_receipt_sha256": "9e12015f0a0e15a8544f34b22bccba3ec67e8e9973cd5f4c4f364ad9221514d3"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0232",
-    "date": "2026-11-01",
-    "logical_before_sha256": "43d2ad3c337d3fb0824201f3a222efa05564b6d6c65e84670dd87bf15bea4baa",
-    "logical_after_sha256": "aa20839494c07cde8101a614fd494799923be8aab613d25632c66062f9e99312",
-    "addition_bytes": 34980,
-    "addition_sha256": "7d0d02aa168919369437923fae4846fb88c137e813d377603d4e40123fbb9531",
-    "unchanged_older_body_sha256": "ba403fbb788c2de0eaf603749ad5484f2d1146590ebb40e1b8262b2b17716b25",
+    "source_high_water": "T7S_B0233",
+    "date": "2026-11-02",
+    "logical_before_sha256": "aa20839494c07cde8101a614fd494799923be8aab613d25632c66062f9e99312",
+    "logical_after_sha256": "9278444a0b56408258dc7ed8de096b41b70ec5bba100170e4c19e68a812c1ac8",
+    "addition_bytes": 37452,
+    "addition_sha256": "78657766332594bec2b29e4651abb278447c46ef84d07704593ad953b31dc007",
+    "unchanged_older_body_sha256": "31c392e449b19b2a109e46f855fc2fa7b9e677153974eaa6d6bc629a945abd7b",
     "active_component": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }

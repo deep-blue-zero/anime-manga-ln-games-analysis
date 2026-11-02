@@ -4,18 +4,18 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.134"
+version: "11.135"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective); all further non-Main/additional story and2053 semantic sources remain outside"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes; all further non-Main/additional story and2053 semantic sources remain outside"
 storage_representation: manifest_bound_components_v1
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
@@ -28,7 +28,7 @@ Read the complete manifest-bound logical ledger through its current owner, manif
 
 ## Current state
 
-`event_records = 1500`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1570`; `last_closed_block = T7S_B0232`. The admitted horizon contains 909 primary documents: 235 Main,280i-n-g,349Intimacy and45Short, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All280 admitted i-n-g episode documents,349Intimacy across49complete family portfolios and45independent Short messages are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1539`; `world_state_records = 25`; `thread_records = 48`; `chronology_and_dependency_edges = 1608`; `last_closed_block = T7S_B0233`. The admitted horizon contains921primary documents:235Main,280i-n-g,349Intimacy,45Short and12Legend, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All280admitted i-n-g episode documents,349Intimacy across49complete family portfolios,45independent Short messages and12complete Legend documents/6native pairs are integrated; all further non-Main and every2053semantic state remain outside this ledger horizon. Legend route ordinals/recollections support bounded ordering, not an exact Main calendar or observed intervening contests. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -605,3 +605,11 @@ The complete current story ledger is the manifest-bound logical prefix plus ever
 <a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
 
 [B0232 Forty-two Short messages, offered selves and absent answers](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+<a id="b0233-legend-encounters-inherited-images-and-present-work"></a>
+
+[B0233 Legend encounters, inherited images and present work](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-legend-encounters-inherited-images-and-present-work)
+
+<a id="b0233-bounded-world-qualifier"></a>
+
+[B0233 bounded world qualifier](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-bounded-world-qualifier)
