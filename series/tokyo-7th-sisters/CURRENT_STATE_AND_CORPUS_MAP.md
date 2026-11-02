@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.140"
+version: "12.141"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g episodes / T7S_B0080–T7S_B0181 are reconstructed and integrated; remaining 2034 non-Main stays routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 349 primary documents/49 family portfolios through T7S_B0230; Short current aggregate45independent primary messages throughT7S_B0232; B0231first3known-exposure history retained"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 project_initialization:
   status: canonical
   architecture_lifecycle: EVOLVING
@@ -42,11 +42,11 @@ substantive_findings_at_bootstrap: false
 execution_scope: continuous_sequential_remaining_2034_to_era_release
 sequential_execution:
   mode: continuous_sequential
-  latest_operation: T7S_B0232_CLOSE
+  latest_operation: T7S_B0233_CLOSE
   run_state: active
   authorized_start: T7S_B0160
   terminal_boundary: T7S_STACK_2034_ERA_RELEASE_COMPLETE
-  committed_high_water_mark: T7S_B0232
+  committed_high_water_mark: T7S_B0233
   completed_run_blocks: 22
   completed_run_blocks_scope: B0160_B0181_COMPLETED_ING_CHECKPOINT
   completed_intimacy_portfolios: 49
@@ -60,7 +60,7 @@ sequential_execution:
   next_candidate_episode_id: ""
   next_candidate_family_layer_id: ""
   next_candidate_native_chapter_layer_id: ""
-  next_candidate_status: "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Short45/45;300eligible stories plus supplemental/release;freshenteringandcompleteconsumersrequired;2053blocked"
+  next_candidate_status: "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Legend12/12closed;288eligible stories plus supplemental/release;freshenteringandcompleteconsumersrequired;2053blocked"
 major_story_structures:
   T7S_STACK_2034:
     native_main_group: "2034年"
@@ -69,7 +69,7 @@ major_story_structures:
     native_main_families_total: 11
     closed_main_families: 11
     remaining_main_family_layer_ids: []
-    current_semantic_horizon: "complete Main,280i-n-g throughB0181,349Intimacy/49portfolios throughB0230 and45Short throughB0232; first3known-exposure and42prospective histories retained"
+    current_semantic_horizon: "complete Main,280i-n-g,349Intimacy/49portfolios,45Short and12Legend/6pairs throughB0233; all prior exposure and chronology qualifications retained"
     eligible_non_main_closeout: ROUTING_AUDIT_COMPLETE
     non_main_portfolio_status: IN_PROGRESS
     declared_character_release: NOT_STARTED
@@ -88,7 +88,7 @@ major_story_structures:
 
 # Tokyo 7th Sisters — current state and corpus map
 
-**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0232](02%20Readings/T7S_B0232_DEEP_READING.md) is the current closed portfolio: 42independent Short messages/126Japanese+126native pages,0command-only/0voice;42composites+18original BGs actually viewed. Genuine complete-consumer acceptance before entering/first primary;42known-then freezes precede next root exposure. Audiences, attribution, retractions and relative dates retained; no recipient answer, total chronology, readiness or audio promotion. Short45/45including B0231known-exposure first3;909primary/996consumed incl87inline;300eligible stories plus26818active supplemental and analytical release obligations remain;2034active/incomplete,2053blocked. Two authored Short tranches cover one native45-member route; all49Intimacy portfolios/349documents retainB0230closure. Next prepare the current complete-consumer/entering scope for the remaining2034 obligations (300eligible stories plus active supplemental and required analytical release); no further primary is admitted by this sentence. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
+**Continuous analysis is authorized through the complete 2034 era release.** The [completion execution record](09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) binds all remaining obligations. [B0233](02%20Readings/T7S_B0233_DEEP_READING.md) closes the whole12-document Legend route: 12whole Legend documents/6paired chapters,218native pages/183Japanese records/35command-only/85native voice-reference pages;21unique selected exact static resources in12actually viewed sheets plus6original backgrounds actually seen. Genuine five-role acceptance and39image/9view/4snapshot entry precede first machine primary. Dialogue reviews/frozen known-then states are ordered; first3native-heading preexposure is disclosed and preserved.921primary/1008consumed incl87inline;288eligible stories and26818active supplemental plus full analytical release obligations remain. Audio/runtime and2034release remain incomplete;2053blocked. All49Intimacy portfolios/349documents and all45Short retain their separate histories. Next prepare a fresh complete-consumer/entering scope for the remaining288eligible stories (9ManyMerryParty,48Birthday,231Event), active supplemental and required analytical release; this sentence admits no next primary. The previous B0100–B0159 publication completed its exact-source audit, housekeeping and final integration audit at `e9644c298f744206cd015cf23ecc5347d10183f9`; its frozen [run record](09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) and [completion audit](09%20Audits%20and%20Manifests/T7S_B0100_B0159_COMPLETION_AUDIT.md) retain their historical boundaries. Performed audio remains unauditioned; the 2034 release is incomplete and every 2053 semantic operation remains blocked.
 
 The entity ledger has a manifest-bound physical representation: its original address routes all ordered payload components and retains aggregate metadata. Read the complete bound logical view before interpreting or editing state. All983,530 transferred payload bytes, prior IDs/horizons/history and120 heading routes are preserved. At the metadata-only source-lock12.80 entity-storage cutover, B0175 was analytical high-water and B0176/chapter301480 was still unconsumed. Those historical receipt boundaries are unchanged; full2034 release obligations remain active. The current SourceLock owner/manifest and the current portfolio status above identify the current analytical high-water. Storage preparation/application/publication are governed separately by the [transition record](09%20Audits%20and%20Manifests/T7S_ENTITY_STATE_STORAGE_TRANSITION_V1.md).
 
@@ -251,7 +251,7 @@ Reader-facing Latin spelling follows first-party evidence: **Coney Rokusaki** in
 | Scope | Inventoried | Semantically screened | Factually reconstructed | Closely analyzed | Integrated state |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Main | 364 | 235 | 235 | 235 | 235 |
-| Sub | 755 | 744 | 674 | 674 | 674 |
+| Sub | 755 | 743 | 686 | 686 | 686 |
 | Event | 231 | 231 | 0 | 0 | 0 |
 | Additional scripts / logical occurrences | 228 unique scripts | 219 unique scripts | 86 / 87 | 86 / 87 | 86 / 87 |
 | Supplemental records | 30,991 | 26,844 | 0 | 0 | 0 |
@@ -260,7 +260,7 @@ Screening counts are recomputed from the logical ledger, expanding shard-local d
 
 The consumed Main horizon contains complete EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA. Recommendation ranks 1–235 are now admitted without a hole. EPISODE 3.0's 42 qualified family-`200070` documents `{611100101–611100902, 611101001–611101704}` remain chapter-defined and are not duplicated: ranks 161–162 carry its first two records and ranks 179–218 carry its remaining forty. NANASUTA is the distinct family-`200120` range `1013100101–1013100306` at ranks 219–235. Eighty-seven additional inline movie-transcript occurrences are consumed only as attachments to their invoking AXiS, EPISODE 0.7, EPISODE 5.0, or EPISODE 6.0 pages; one Episode 6.0 source document is invoked in two contexts and the coverage ledger preserves both logical occurrences. The 280 T7S_B0080–T7S_B0181 Sub documents are also consumed; remaining eligible Sub/Event resources are screened/routed but not yet reconstructed, and supplemental integration remains incomplete.
 
-Across B0001–B0232 the repository contains232bounded readings,1500causal events,25world states,47threads,1570typed edges,103identity routes,84character states,2125epistemic states,1342directional relationships,29unit/institution states,29retained R2readiness decisions,1818literary claims,43revisions,seven frozen predictions and179AV-review records. The i-n-g horizon totals 280 primary episodes / 22,852 pages / 20,230 text records / 2,622 command-only pages / 15,392 dialogue-associated voice-reference pages. The Intimacy horizon retains349documents/49portfolios throughB0230. Short45/45is closed throughB0232; B0231first3known-exposure history and remaining42prospective gate are distinct. Total909primary/996consumed incl87inline;300eligible stories plus26818active supplemental and required analytical release work remain. No shared chronology, performed audio, monograph maturity or complete era release is promoted.
+Across B0001–B0233 the repository contains233bounded readings,1539causal/event records,25world states,48threads,1608typed edges (maximum1615;7older gaps retained),104identity routes,84character states,2149epistemic states,1367directional relationships,29unit/institution states,29retained R2readiness decisions,1848literary claims,43revisions,7frozen predictions and180AV-review records. The i-n-g horizon totals 280 primary episodes / 22,852 pages / 20,230 text records / 2,622 command-only pages / 15,392 dialogue-associated voice-reference pages. The Intimacy horizon retains349documents/49portfolios;45Short and12Legend/6native pairs are closed. Total921primary/1008consumed incl87inline;288eligible stories plus26818active supplemental and required analytical release work remain. No performed audio, model/monograph maturity or complete era release is promoted.
 
 ## Major-story-structure transition state
 
@@ -324,7 +324,7 @@ The [seven EPISODE 6.0 readings](02%20Readings/T7S_B0070_DEEP_READING.md) follow
 
 The [three EPISODE NANASUTA readings](02%20Readings/T7S_B0077_DEEP_READING.md) follow Kyoko and Ferb through film-image strain and person-specific rehearsal; Sumire and Kazumi through privacy breach, mutual misreading, sexist television framing, and mismatch-compatible coordination; and Haru, Shirayuki, and a child fan through weather disruption, support, failed reception, disclosure, labor, and repair. Their [compact synthesis](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_NARRATIVE_SYNTHESIS.md) owns causal, character, knowledge, relationship, unit, and world-state closeout. The promoted [arc deep reading](07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_NANASUTA_ARC_DEEP_READING.md) independently reads the title triptych—hand offered, shoulder wetted, small umbrella—as a formal account of care that is partial, revisable, directional, and limited by reception. Rain repeatedly suspends a planned route so ordinary micro-infrastructure can become visible. Deleting the arc reading would erase the cross-chapter relation among specific attention, non-assimilative coordination, and failed-but-circulating care.
 
-There is no remaining candidate within the admitted series-`100020`2034Main recommendation range. All280i-n-g/102chapters,349Intimacy/49portfolios and45Short remain closed. Remaining300eligible stories plus supplemental/release work stay authorized. Next prepare the current complete-consumer/entering scope for the remaining2034 obligations (300eligible stories plus active supplemental and required analytical release); no further primary is admitted by this sentence. 2053semantics remain blocked.
+There is no remaining candidate within the admitted series-`100020`2034Main recommendation range. All280i-n-g/102chapters,349Intimacy/49portfolios,45Short and12Legend documents remain closed. Next prepare a fresh complete-consumer/entering scope for the remaining288eligible stories (9ManyMerryParty,48Birthday,231Event), active supplemental and required analytical release; this sentence admits no next primary. 2053semantics remain blocked.
 
 EPISODE NANASUTA is the final closed Main family **inside the still-unfinished 2034 stack**, not a route toward immediate 2053 continuation. The complete 2034 release obligations above must be resolved before the era audit can make a 2053 prerequisite decision eligible. No request to “continue to the next major unit” may be interpreted as authority to cross into 2053 while its semantic-admission status remains blocked.
 
@@ -637,3 +637,6 @@ No optional artifact is created merely for symmetry. The architecture documents 
 - 2026-11-01: close B0231 exact3 Short messages as owner-authorized known-exposure recovery. Complete cohort acceptance followed first exposure; preserve that failure and all frozen originals. No blanket exception for later primary.
 
 - 2026-11-01: close B0232remaining42whole Short messages after genuine prospective full-consumer/entering gates and casewise freezes; preserve B0231first3failure/recovery history and all frozen prior records.
+
+- 2026-11-02: B0233closes12Legend documents under the genuine complete-consumer/entering gate, with first3native-heading exposure and all dialogue-order limitations retained.
+- 2026-11-02: targeted current census correction: eligibleSub743, not the older744. The [canonical eligibility audit](09%20Audits%20and%20Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md), SHA256 `544a820b8f8295029e643ee204a5ee627cb5bd4aa363c76f231d537cfdafa13e`, excludes11metadata-only2053birthdays and1screenedHololive crossover from755Sub (743Sub+231Event=974eligible non-Main). This corrects a maintained aggregate, adds no source/alias and changes no frozen reading or receipt.

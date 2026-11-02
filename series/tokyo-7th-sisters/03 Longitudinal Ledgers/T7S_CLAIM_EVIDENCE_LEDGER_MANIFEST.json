@@ -4,7 +4,7 @@
   "artifact_type": "logical_claim_evidence_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.2",
+  "version": "1.3",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective); all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical claim representation",
-  "last_source_high_water": "T7S_B0232",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical claim representation",
+  "last_source_high_water": "T7S_B0233",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
-    "physical_bytes": 68013,
-    "physical_sha256": "9ccd977819bae3ee2bbcedb796934826aab73c472a54a3c8c3f24a4a4e198cad",
-    "logical_prefix_bytes": 7911,
-    "logical_prefix_sha256": "ac5a64902738e45038d4f6ab9dc1a69cd19d10910c5e187cea76afaea51cda7d",
+    "physical_bytes": 68713,
+    "physical_sha256": "9524a1d0d71d7023d7247de6e3ee1c94b87d366bb127af7c8295bcf374b736c2",
+    "logical_prefix_bytes": 8144,
+    "logical_prefix_sha256": "4450f364931dce20de1efbec5533efd17c4ea7154b58d7c4259ac597e30dd858",
     "route_marker": "<!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -58,11 +58,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
       "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_003",
-      "physical_bytes": 327217,
-      "physical_sha256": "2b1eaaac9b894ab9071a816ff022124b35d2d817e6ce8b4ea479edb787e27251",
+      "physical_bytes": 384484,
+      "physical_sha256": "88af416ea8ca91e85f8ad602ebfea06e4fb0a3bd753beef774b4b0a84b969340",
       "payload_offset_bytes": 907,
-      "payload_bytes": 326270,
-      "payload_sha256": "feeabb56a93a7a0eb78be30738dc02ef0f12046410c3941f70d8589cc2804dca",
+      "payload_bytes": 383537,
+      "payload_sha256": "6f0af2b75f787890f7eee6f6a85d1ebf9a0f50789cf74942d18e5268631f2a38",
       "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
       "logical_offset_bytes": 779951,
       "original_payload_interval": [
@@ -72,8 +72,8 @@
     }
   ],
   "parts_count": 3,
-  "logical_bytes": 1114132,
-  "logical_sha256": "1838bf5cb510c84e7e0af5571cb5f3a31ee8251a0c2d694da8d24d30d5569077",
+  "logical_bytes": 1171632,
+  "logical_sha256": "b8be97983abbe0a43008757d428ee4491c31377917333250c1d74a68a893ff35",
   "heading_routes": [
     {
       "original_anchor": "current-claims",
@@ -1922,6 +1922,18 @@
       "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
       "component_anchor": "b0232-forty-two-short-messages-offered-selves-and-absent-answers",
       "heading": "B0232 Forty-two Short messages, offered selves and absent answers"
+    },
+    {
+      "original_anchor": "b0233-claims-alternatives-and-modality-responsibility",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "b0233-claims-alternatives-and-modality-responsibility",
+      "heading": "B0233 claims, alternatives and modality responsibility"
+    },
+    {
+      "original_anchor": "av-0180--legend-likenesses-public-voices-and-unperformed-fields",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
+      "component_anchor": "av-0180--legend-likenesses-public-voices-and-unperformed-fields",
+      "heading": "AV-0180 — Legend likenesses, public voices and unperformed fields"
     }
   ],
   "storage_transition": {
@@ -1944,13 +1956,13 @@
     "source_b0230_full_publication_receipt_sha256": "0e7c538e4413f09d3ab8096f54220c5a693cc5f54217643be38ef5e24926111a"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0232",
-    "date": "2026-11-01",
-    "logical_before_sha256": "00463c98bdce581e3a08458989321146f9d1708421d4e9e38807cf7c49d51a3d",
-    "logical_after_sha256": "1838bf5cb510c84e7e0af5571cb5f3a31ee8251a0c2d694da8d24d30d5569077",
-    "addition_bytes": 72819,
-    "addition_sha256": "522543a24acfe499d60e9f22fe3bb818c13952e86b33ae63a1b09071bc64eb13",
-    "unchanged_older_body_sha256": "5e6e79e648bc9f8769aca8aed30fa73bb1a9db4f88a06672990ef6243724a063",
+    "source_high_water": "T7S_B0233",
+    "date": "2026-11-02",
+    "logical_before_sha256": "1838bf5cb510c84e7e0af5571cb5f3a31ee8251a0c2d694da8d24d30d5569077",
+    "logical_after_sha256": "b8be97983abbe0a43008757d428ee4491c31377917333250c1d74a68a893ff35",
+    "addition_bytes": 57267,
+    "addition_sha256": "ca0dd1259e7b153012cbe98d872ded68c9c2b2b3ce02f315e46de84700c00672",
+    "unchanged_older_body_sha256": "91267cfb3bea2102fafb4da84bfe69827d05e85d626de78137404466f526768d",
     "active_component": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_003.md",
     "sealed_older_components_byte_exact": true
   }
