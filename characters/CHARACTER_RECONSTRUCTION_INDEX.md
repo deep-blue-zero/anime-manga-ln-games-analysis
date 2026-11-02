@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 50; `SUPERSEDED` 1
+- Recorded totals: `CANDIDATE` 51; `SUPERSEDED` 1
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -1253,6 +1253,51 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`re-zero:ram@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md)
   - [`re-zero:ram@light-novel#estate-story-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/057a9b65f94da293f9eda5a5cefd11568839a094/series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
+
+### Subject `re-zero:reala-thompson@light-novel`
+
+#### Assessment `re-zero-reala-thompson-ln-v01-v21-model-20261102-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:reala-thompson`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:reala-thompson@light-novel\#character-model, the canonical generation V1.0 Reala V01-V21 source-bounded character model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares that it was built from targeted revisits of already consumed V13, V14, V17, V19, V20 and V21 \(27 bounded deliveries, one V19 image viewed that supplies no Reala portrait or action\), that the V01-V21 label is a horizon rather than an appearance in every volume, that the V13 earlier mother is a trial-mediated reconstructive plane and the V17 rescue and naming history is Gallek's report, and that V19-V20 material is indirect family context only. The project's current-state entrypoint was read for method, authority order and gate state only. The frozen volume readings, the master, event, knowledge, mechanics, institution and relationship ledgers, the source lock, the reconstruction protocol, the separate Reala fidelity review and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; V22 and later, EX, IF, web-novel, supplement, translation and adaptation material is excluded.
+- Temporal boundary: The model's default D4b, the V21 Pristella child-audience coda five days after the city battle and two days after Subaru's party leaves \(routed to E021 common prior history, not the global E024 tower state\), with Gallek preserved in ice and her recovered memory contents unreported, plus its explicitly selectable earlier phases: D1 the trial-mediated earlier mother before the accident \(V13\), D2 Gallek's reported rescue, waking and naming, D3 the V17 Pristella household visit and the city-crisis request, and D4a the V21 post-battle visit before Garfiel leaves. Her age is an adult phase without a birthday, the attributed fifteen-year and ten-plus-year clocks stay open, and nothing after the V21 coda is assessed.
+- Basis commit: `1e97b80e68c064c65263e1f3322b4544ee499500`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `0f03f49e3d54c485e43653099185bd4131837b41f919c8192921d84f596a21c7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `DIALOGUE` condition: A phase is selected explicitly; D1 is used only as the trial-represented plane, and at the D4b default any new exchange is labeled NONCANONICAL\_PROBE with her recovered memory contents left unknown.
+  - `DIALOGUE` condition: Output reproduces the section 8 speech functions for an attested recipient in paraphrase; exact Japanese is cited only from a located passage, and an unsupported voice line returns JAPANESE\_REGISTER\_SAMPLE\_TOO\_NARROW rather than an invented catchphrase.
+  - `DIALOGUE` condition: Address follows the attested shift: polite guest titles before Mimi supplies the full name, personal ガーフ address only after it; Reala, not Rafiel, delivers the children's introduction \(SA01\).
+  - `DIALOGUE` condition: Preserved Gallek gives no new awake reply unless a hypothetical waking is explicitly stipulated and labeled.
+  - `CROSS_SCENARIO` condition: A source-bounded phase is named; D1 and D2 are selected only as the trial-represented or reported planes they are, never as present memory.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested relation in the register and knowledge the phase allows; an unfamiliar person inherits no maternal intimacy, permission or family history.
+  - `CROSS_SCENARIO` condition: Neither total ignorance nor full memory restoration is assumed after the coda; the forgotten item and recognition contents stay unknown.
+  - `CROSS_SCENARIO` condition: Output is labeled NONCANONICAL\_PROBE, keeps MEDIUM rules conditional and settles no resource allocation, cure, cohabitation or family disclosure.
+  - `CROSS_SCENARIO` bounds: chronology One named phase: D1 the V13 trial-represented earlier mother, D3 the V17 Pristella household visit or city-crisis request, D4a the V21 post-battle visit, or the D4b V21 child-audience coda default; nothing after the V21 coda.; interlocutor Gallek as spouse \(awake only in D3/D4a or under a labeled hypothetical waking\); Garfiel as V17 rescuer-guest or V21 familiar visitor without a delivered genealogy; Mimi as guest; Rafiel and Fredo as her children with distinct positions; Frederica and Ryuzu only in the D1 trial plane; unfamiliar visitors without shared history.; settings The Pristella household, the post-battle mutual-aid city and the trial-represented sanctuary departure; No combat role, ice magic, medical authority, political office or patient-surrogate power; No institution, technology or cultural assumption outside the admitted Japanese V01-V21 main light novels; Open domains end in the model's section 12 abstentions rather than prediction
+  - `MUNDANE_SOCIAL` condition: Scenes of attested kinds only: hosting and tea, homemade sweets, guest arrival and departure, children's correction and farewell, and post-crisis visits.
+  - `MUNDANE_SOCIAL` condition: No favorite tea or food, timetable, wage, employment, leisure or full household division of labor is supplied.
+  - `MUNDANE_SOCIAL` condition: Resources are finite and household members can disagree; welcome is not unlimited supply or danger-blind admission.
+  - `MUNDANE_SOCIAL` condition: Missing routines are not turned into evidence that she lacks them.
+  - `ROMANCE_RELATIONSHIP` condition: Only the existing marriage with Gallek: her softening at his affectionate look, her faith in his return and her acceptance of his changed form conditional on his willingness.
+  - `ROMANCE_RELATIONSHIP` condition: Gallek is preserved in ice at D4a and D4b; any exchange with him there requires an explicitly labeled hypothetical waking and supplies no recovery, safety or domestic arrangement.
+  - `ROMANCE_RELATIONSHIP` condition: No courtship, consent or biological-father history is supplied; Gallek's rescue and naming account stays his report.
+  - `ROMANCE_RELATIONSHIP` condition: No new romance and no romantic reading of her maternal comfort of Garfiel.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `gallek-preserved-no-awake-reply` (evidence-backed limitation): Gallek is preserved in Emilia's ice pending rescue at D4a and D4b, so he gives no new awake answer; Emilia, not Reala, performs the preservation, and Reala has no ice magic, cure or patient-surrogate authority.
+  - `knowledge-firewalls-and-audiences` (evidence-backed limitation): Reala does not receive Gallek's private question or Garfiel's denial in V17, absent Garfiel and Mimi do not receive the coda, the children are not told the full genealogy, and her explicit before-coda count is two children against the four the analyst knows.
+  - `mediated-earlier-planes` (evidence-backed limitation): The D1 earlier mother is a trial-mediated reconstructive plane in which the interacting Frederica is a proxy, and the D2 rescue, naming and memory-loss history is Gallek's report with an attributed, undiagnosed cause; neither is Reala's present memory or testimony.
+  - `no-reala-focalized-interior` (evidence gap): The evidence set presents no scene focalized through Reala; her inner states are known only through her speech and others' perception. Missing support is not evidence that she lacks an inner life.
+  - `ordinary-preferences-unrecorded` (evidence gap): The evidence set establishes no birthday, daily timetable, wage, employment history, favorite tea or food, leisure, sleep pattern or full household division of labor. Missing support is not evidence that she lacks these.
+  - `recovered-memory-contents-unresolved` (evidence-backed limitation): At the D4b default the children hear tears, a forgotten-item remark and love addressed to absent Garf, but the contents and timing of any recovered memory are unreported; the evidence supports neither total ignorance nor full autobiographical restoration, and the earlier resemblance explanation is not a timeless disclosure policy.
+  - `sa01-naming-actor` (evidence-backed limitation): The original makes Reala, not Rafiel, the speaker who calls the nickname and full name, introduces both children and claims naming authorship; ledger shorthand that gives the introduction to the daughter is read under this correction.
+  - `same-analyst-documentary-review-and-pending-gate` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary review, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood, and MONOGRAPH\_READY is a project label. At basis the model header and the project entrypoint record the pair's own full publication gate as pending; neither record is a reconstruction grade.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V13, V14, V17, V19, V20 and V21 deep readings, the master, event, knowledge, mechanics, institution and relationship ledgers, the source lock, the reconstruction protocol, the separate Reala fidelity review and the Japanese EPUBs are not curated evidence on this subject, so the model's block locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:reala-thompson@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1e97b80e68c064c65263e1f3322b4544ee499500/series/re-zero/05%20Character%20Analysis/REZERO_REALA_V01_V21_CHARACTER_MODEL.md)
 
 ### Subject `re-zero:regulus-corneas@light-novel`
 
