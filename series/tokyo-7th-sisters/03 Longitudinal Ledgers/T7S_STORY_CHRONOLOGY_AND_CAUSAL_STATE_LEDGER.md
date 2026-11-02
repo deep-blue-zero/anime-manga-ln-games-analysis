@@ -4,31 +4,31 @@ artifact_id: T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER
 artifact_type: story_causal_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.134"
+version: "11.138"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective); all further non-Main/additional story and2053 semantic sources remain outside"
+source_boundary: "c20260909-r484; complete native 2034 Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; eleven authored choice groups, all in EPISODE 1.0; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes; all further non-Main/additional story and2053 semantic sources remain outside"
 storage_representation: manifest_bound_components_v1
 storage_manifest: "T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 ---
 
 # Tokyo 7th Sisters story chronology and causal state ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizon. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizon. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. B0235adds three independent Birthday portfolios: Haru receiving familiar celebration, Xiao choosing temporary respite while renewing training, and Monaka recognizing belonging within a continuing search. Their source/menu order supplies no common year or exact Main chronology. B0236adds twelve further independent Birthday portfolios: Mana, Rona, Honoka, Ei, Sisara, Hina, Nicole, Musubi, Shizuka, Kazumi, Hime and Kyoko. Gratitude can coexist with a request for preparation, refusal, embarrassment, grief, restrained thanks or a chosen exception. Named recipients and reports retain their exact case horizons; illustrations, costume gifts and unfinished future wishes do not supply new participants, assent or completed outcomes. Catalog order supplies no common year or cross-party cause. Administrative authority metadata is not literary evidence.
 
 Read the complete manifest-bound logical ledger through its current owner, manifest and every ordered component before interpreting or editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`event_records = 1500`; `world_state_records = 25`; `thread_records = 47`; `chronology_and_dependency_edges = 1570`; `last_closed_block = T7S_B0232`. The admitted horizon contains 909 primary documents: 235 Main,280i-n-g,349Intimacy and45Short, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All280 admitted i-n-g episode documents,349Intimacy across49complete family portfolios and45independent Short messages are integrated; all further non-Main and every 2053 semantic state remain outside this ledger horizon. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
+`event_records = 1640`; `world_state_records = 25`; `thread_records = 49`; `chronology_and_dependency_edges = 1694`; `last_closed_block = T7S_B0236`. The admitted horizon contains945primary documents:235Main,280i-n-g,349Intimacy,45Short,12Legend,9ManyMerryParty and15Birthday, comprising every native Main family in `T7S_STACK_2034`, together with 87 source-bound inline movie-transcript occurrences across 86 unique source documents. Recommendation ranks 1–235 are consumed exactly; the formerly discontinuous EPISODE 3.0 ranks 179–218 are not duplicated. All eleven choice-bearing episodes are in EPISODE 1.0 and retain both authored branches; the ten later units have no authored choices. B0036 remains a recounted Seven Sisters interval. EPISODE 0.0 and 0.7 are later-consumed earlier-history families; Episode 5.0 has an explicit 2043 frame. Episode 6.0 is explicitly after AXiS and its tour and calls AXiS “last year,” but supplies no exact year; placement before Episode 5.0 is a bounded state-continuity inference. NANASUTA supplies no exact date or explicit relation to every Episode 6.0 event. All280admitted i-n-g episode documents,349Intimacy across49complete family portfolios,45independent Short messages and12complete Legend documents/6native pairs plus9ManyMerryParty documents and15independent Birthday portfolios are integrated; all further non-Main and every2053semantic state remain outside this ledger horizon. Legend route ordinals/recollections support bounded ordering, not an exact Main calendar or observed intervening contests. Formal comparisons between independent Intimacy occurrences do not establish before/after or causal order. Complete 2034 Main-family reading does not complete the separate 2034-era release. Source-family/menu topology remains owned by the topology document.
 
 ## Event record contract
 
@@ -45,6 +45,12 @@ Use `EV-B0001-001` for an event, where the stable block ID remains independent o
 | Evidence/revision | Exact locators/ranges, uncertainty, later annotation marker, correction trigger, old/new claim and affected destinations |
 
 `WORLD-0001` identifies a world/institution situation; `THREAD-0001` a continuing problem, promise or conflict; `EDGE-0001` a typed dependency. Each records its supported interval, current state, grounding events and retained transition history. A closed thread records the resolving event; silence does not close it. Offscreen causes remain uncertain when the source does not establish them.
+
+B0234distinguishes presentation order from story time: the first7documents progress from search to live eve, the after-party reports an elided live, and the final other-side returns to live day and an earlier school recollection. Costume recovery/default-blame correction are current answers, not OPEN theft claims.
+
+B0235has three independent birthday dates/years left unspecified. Its nine new edges are document-local text/cut sequences; no edge joins the parties or claims later execution of a pledge. The three declared inline-loop contents and all27available voice cues remain unreviewed as performance.
+
+B0236adds twelve independent whole Birthday documents in catalog732-743. Its26new chronology edges are document-local text/cut sequences; none joins the parties or turns a wish, offered invitation or costume gift into an observed future outcome. All176current voice cues remain unheard, eleven declared loop contents unresolved and runtime unobserved; Nicole has no InlineMovie reference in this source.
 
 <!-- T7S STORY CAUSAL STATE COMPONENT ROUTES -->
 
@@ -605,3 +611,39 @@ The complete current story ledger is the manifest-bound logical prefix plus ever
 <a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
 
 [B0232 Forty-two Short messages, offered selves and absent answers](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+<a id="b0233-legend-encounters-inherited-images-and-present-work"></a>
+
+[B0233 Legend encounters, inherited images and present work](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-legend-encounters-inherited-images-and-present-work)
+
+<a id="b0233-bounded-world-qualifier"></a>
+
+[B0233 bounded world qualifier](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0233-bounded-world-qualifier)
+
+<a id="b0234-costume-search-corrected-attribution-and-delegated-performance"></a>
+
+[B0234 costume search, corrected attribution and delegated performance](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-costume-search-corrected-attribution-and-delegated-performance)
+
+<a id="b0234-local-thread-closure-and-presentationchronology-edges"></a>
+
+[B0234 local thread closure and presentation/chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-local-thread-closure-and-presentationchronology-edges)
+
+<a id="b0234-world-state-qualification"></a>
+
+[B0234 world-state qualification](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0234-world-state-qualification)
+
+<a id="b0235-being-known-on-three-independent-birthdays"></a>
+
+[B0235 being known on three independent birthdays](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0235-being-known-on-three-independent-birthdays)
+
+<a id="b0235-source-local-chronology-edges"></a>
+
+[B0235 source-local chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_003.md#b0235-source-local-chronology-edges)
+
+<a id="b0236-receiving-care-across-twelve-independent-birthdays"></a>
+
+[B0236 receiving care across twelve independent birthdays](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0236-receiving-care-across-twelve-independent-birthdays)
+
+<a id="b0236-source-local-chronology-edges"></a>
+
+[B0236 source-local chronology edges](T7S_STORY_CAUSAL_STATE_COMPONENT_004.md#b0236-source-local-chronology-edges)
