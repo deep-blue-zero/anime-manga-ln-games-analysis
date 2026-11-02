@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.44
+generation: V1.45
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese main LN V01-V43 admitted; verified V21/467claims and Petra21/PR415 full gates CLOSED;66entering protected/20prior scopes exact; Reala twenty-first model/local documentary pass, own gate pending; then sealedV22; no new admission"
+source_boundary: "Japanese main LN V01-V43 admitted; accepted source-facing V22/537claims, integrated V21/Reala21 PR419 full gate CLOSED;68protected/21old scopes exact; V22full gate then separately earned scarf operator construction/review/full gate then sealedV23; no new admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -19,26 +19,11 @@ do_not_use_as_current_authority: false
 
 ## 0. Authority and repair boundary
 
-This document is the canonical synthesis/corpus architecture for the existing Re:Zero analytical project under `series/re-zero/`. It governs where source-facing observations accumulate, how claims and state remain recoverable across volume freezes, when specialist work earns an independent home, and what must converge before later synthesis.
+This architecture remains subordinate to the governing analytical method, live source lock, witness protocol and repository authority. Source-facing freezes and older implementation/default/local-grade scopes remain historical authority.
 
-It does not replace the source-facing rules in `REZERO_ANALYTICAL_METHOD.md` or the transfer restrictions in `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`. The paired foundation is:
+V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water remains V21/467claims; V22 is source-complete and separately saved-content accepted at537claims, with its own full publication/integration gate PENDING. Reala21/PR419 full gate CLOSED before V22: authored07bb073bd33a7bb74dbf132bf6c7de4030a8b26c; CI final source029206778b3bbb9c037b057d38f4338475347012; actual merge4f6ba10b04197b3431f38a9fa079f02d395110ef; verified main5b7f738008c6026b64278b70a7b07aa80d8bb5d0. Their identical Re:Zero subtreef0e3e570bea448b5aadd397f19778c146175bcc6, completed exact-source/merge/main audits41346410757/41347396074/41348768518 (486unique discovered tests each, zero nonpasses), trusted statuses57793627641/57793990747/57794497398, source-specific housekeeping41347364920 verified routing-current no-op and later native proof close that gate. Meili21/PR413 and Petra21/PR415 remain CLOSED. All68entering protected artifacts and21historical model/default/local documentary grades remain exact. V22 source EOF precedes individual467claim/60question/10forecast/181relationship/450transition decisions. Separate saved-content/source/name-reference/fidelity review is ACCEPTED after nine bounded SR01–SR09 corrections and two routine copyedits were actually read back; native correspondence and protected scopes passed. Whole outgoingV23body60Q/10P is sealed after that acceptance:25551bytes/SHA256dc9d6a69786659ee6a6e625172e13e14a61c2f138e90eea1048cd45258abed19; literal through V22and earned operator gates, narrative unopened. Five owners retain contracts: E024/23deaths24segments,K874/M553/I453/R191/RT495. Scarf operator V20–V22 construction/review is earned but UNIMPLEMENTED/UNGRADED after V22full gate; its own full gate precedes V23. V23+/nonspine/import narratives remain unopened, admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
-- the analytical method defines **what to notice and how to judge evidence**;
-- this architecture defines **where the resulting state goes and what it must eventually support**.
-
-For character work, `REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` supplies the detailed reconstruction and fidelity responsibilities under this architecture. For non-spine corpus awareness, `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` records known candidates without admitting or opening them.
-
-The project began before the later corpus-wide project-initiation architecture gate was enforced. V01 and V02 are already frozen prospective readings. This architecture is therefore `EVOLVING`, not `INITIAL`: it repairs a missing governing role around adequate preexisting work. It neither supersedes nor retrospectively rewrites the frozen readings. Its initial longitudinal state is an explicitly labeled backfill from those readings.
-
-Higher-level dependencies are:
-
-- `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`;
-- `governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`;
-- `governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md`;
-- `governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md`;
-- the repository authority, integration, branch-lifecycle, and housekeeping controls named by root `AGENTS.md`.
-
-This architecture is governance and routing, not literary evidence. If it conflicts with later repository governance, the current repository policy governs. If a source claim conflicts with this architecture's anticipation, the source may justify an architectural amendment; the architecture may not dictate the literary conclusion.
+Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index author preflight/atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SCARF_ECHIDNA_V20_V22_MODEL_AND_FIDELITY_REVIEW and its own full gate → literal sealedV23. No routine-unit pause, independent/held-out/runtime/global grade or final goal completion.
 
 ## 1. Purpose and governed scope
 
@@ -342,20 +327,20 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 
 ## 13. Responsibility matrix
 
-| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | Verified V21/467claims and Petra21/PR415 own full gate CLOSED. Reala twenty-first model/review implemented/local scoped pass, own full gate PENDING; then sealedV22. SA01 source actor qualified through existing owners. |
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | V22source complete/537accepted claims; Reala21/PR419 full gate CLOSED before source. V22saved review ACCEPTED/outgoingV23sealed, own full gate PENDING; operator construction/review UNIMPLEMENTED/UNGRADED, then own gate before V23. |
 |---|---|---|---|---|
-| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 467 current source-facing claims; all 423 predecessors individually227P/141S/47R/8O plus 44NEW,60Q/10P separately answered; frozen V21 owns reasons and exact older preimages/seals remain retrievable. |
-| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | Living E024/23 observed Subaru deaths24 arrived segments; actual three new pairs, ordinary/nonretained/imagined/backfill distinctions and current prepoint versus late discarded costs. |
-| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K814,53 new bounded duties; Beatrice informed, incomplete intuitions/forgiveness, dying register, child-audience coda and unidentified book/different clocks. |
-| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R181/RT450;171 individual current decisions 55 updates116 literal preserves,10 new R/44 new RT,all 406 older RT/ancestry/preimages exact. |
-| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 20prior scopes/defaults/local grades remain exact. Petra21 full gate CLOSED; Reala21 separately implemented/local same-analyst nonblind documentary pass, own gate PENDING. Last observed Pristella child-audience coda keeps positive love, unknown mnemonic contents and absent Garfiel receipt distinct. |
-| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I428/25 new duties; room/guide choices, patient-specific joint preservation, craft/therapy/consumables, actual temporary council meals and claimed access/guarding. |
-| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M520/38 new models/tests; finite E.M.T/physical needle, varied hand cost, access/miasma, beast sight/echo and time-buying preservation with distinct interfaces. |
-| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 29 V21 rows preserve play/gift, child self-accountability, finite daily care, food/manners, budgeted giving, name/privacy/thanks distinctions without universal tastes. |
-| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 26 V21 rows plus full contextual ruby reading; precise speaker/body/audience, names, source clocks and graphic/prose query without emendation. |
-| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Literal V19/V20/V21 bodies exact; every incoming answer separate. The complete 21290-byte V22 body is sealed after accepted source-facing review; V22+ stays unopened through all gates. |
-| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V21 exact original/hash/CRC,23 OPF members/4133 positions,21 original assets and all inline ruby/navigation actually consumed; microprint bound explicit; counts do not certify attention. |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mastersection13 retains readiness. Reala21 implemented/local scoped pass, own full gate PENDING after Petra21 CLOSED; sealedV22 follows. Patrasche/operator/Shaula stay narrower; no final specialist/Arc6-end/sixth owner. |
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 537current propositions;467individual decisions302P/119S/37R/9O plus70NEW;60Q/10Pseparate, all older native ancestry/preimages retained. |
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | LivingE024/23deaths24segments; local terminal recognition loss after omitted interval, no new death/return. Past/book/private/reader planes remain typed. |
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K874/60new; current K775formal severance and K807actor repaired; limited recipients, conditional trust and terminal retention open. |
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R191/RT495;181individual current decisions33updates/148literal preserves;450olderRTindividually treated/literal;10newR/45newRT with complete preimages. |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 21historical models/defaults/local grades exact; current V22 selectors add no old-scope grade. Operator independently earns separate V20–V22construction/review after V22full gate. |
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I453/25new; constrained entry/exit, examiner discretion, occupied principal, coercive disclosure, nonunanimous accountability and finite care/labor. |
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M553/33new plus explicit formal-status successor; performed tests distinguished from rule/body/book/recognition hypotheses. |
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 24V22rows retain chosen work, skill exceptions, curiosity/deferral, survival wish, touch refusal and received help without universal tastes. |
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 25V22rows and actual contextual ruby; 私たち/individual pass, ボク/ウチ actor boundary, literal論考式, recovered牙, masked title and JP01. |
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Four literal V19/V20/V21/V22bodies exact; all incoming answers separate. OutgoingV23whole body sealed after accepted saved content; V23unopened through V22/operator gates. |
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V22exact2995741byte original/SHA/CRC,25OPF/3816positions,23original assets/all contextual ruby/44navlabels actually consumed; microprint bound; counts not attention. |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mastersection13/frozenV22section15:one independently earned operator construction/review, Shaula/Reid bounded; no Arc6end, final specialist, sixth owner/index or new field. |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -691,6 +676,12 @@ After interruption or ambiguous publication:
 Verified integrated sequential high-water is V21/467claims. V21/PR390 and Meili21/PR413 full gates remain CLOSED. Petra21/PR415 full gate is now CLOSED: final source607bf3e177f5bcf6bca3c937030675421858020c; actual merge8a01f869d7e30d00d32b7c950d2ef14557b22b78; verified current main194d0d5dbbc09d4cf22ede0af6a2789adf3a8a17. All three share Re:Zero subtree34fe947f9a05af084e2992023e62c72c5509e5e4. Exact source/merge/current-main audits41279221176/41287574758/41311312249 actually executed486unique discovered tests each with zero nonpasses and trusted success statuses57769749400/57772466110/57780770164. Source-specific housekeeping41279835910 completed with actual SOURCE_SHA607bf3e1 and a verified routing-current no-op. Full immutable remote readback and later native originals/protected/seal/inverse checks passed after the latest required verdict/housekeeping. Earlier Petra model/default/local grade remains exact. The twenty-first model, Reala V01–V21 generationV1.0, and separate actually applied19-dimension review are IMPLEMENTED at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY.26evidence bundles support22confidence-rationale records:20person-behavior rules plus2MODEL_USE_GUARD(12HIGH/10MEDIUM overall;10HIGH/10MEDIUM behavioral). Review applied26adverse controls, six unfamiliar/two calibration cases and three matched-recipient families, after one evidence-plane typing and two source-wording repairs. Default V21_PRISTELLA_CHILD_AUDIENCE_CODA_MEMORY_CONTENTS_UNRESOLVED preserves the last actually observed Pristella child-audience exchange, positive Garf-directed love/suggestive recognition and unreported full autobiography. Reala own full publication/integration gate remains PENDING; no independent/held-out/runtime/global result follows. All66entering protected artifacts and20earlier model scopes/defaults/local grades remain exact, as do467literal current claim rows/ancestry, five owner record/field bodies, four literal prospective bodies and formal/reserved tails. Derived reuse adds no source unit/admission. Global livingE024/23Subaru deaths24arrived segments and K814/M520/I428/R181/RT450 remain unchanged. SA01 qualifies only the earlier naming-actor shorthand through existing current owners and an attributable original-source audit; no silent historical rewrite or new owner/field follows. Close the implemented Reala21 pair's own full publication/integration gate next. Only afterward consume admitted JapaneseV22 against its exact literal sealed60Q/10Pbody21290bytes/SHA9c3b70b23f4df27a0d784ace3412fcb2abe996e4a9e6b340d05cc239624d8c0c, with complete original text/image/navigation/ruby attention and separate postread adjudication. V22+/nonspine/import narratives remain unopened now. Continue sequential/earned work through admittedV43 plus the mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no routine-unit pause is introduced.
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
+
+### Current V22 recovery binding
+
+Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index author preflight/atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SCARF_ECHIDNA_V20_V22_MODEL_AND_FIDELITY_REVIEW and its own full gate → literal sealedV23. No routine-unit pause, independent/held-out/runtime/global grade or final goal completion.
+
+Earlier pending/V22-unopened instructions are dated historical input; Reala full gate is closed and V22 is actually consumed. No future source opens from an old work order.
 
 ## 19. Initial repair decision
 
@@ -1336,3 +1327,160 @@ V21 remains fully integrated at467source-facing claims/livingE024. Derived Petra
 ````````````````````text
 Close the implemented Petra21 pair's own full publication/integration gate next. Only afterward construct REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW, with exact prior Japanese/design recovery, all protocol responsibilities, an actually applied separate19-dimension review and its own complete gate; repair material findings or revise readiness. Reala remains EARNED_UNIMPLEMENTED/UNGRADED. Only after Reala full gate may literal sealedV22 be consumed. V22+/nonspine/import narratives remain unopened. Continue sequential/earned work through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no ordinary-unit pause is introduced.
 ````````````````````
+
+## V22 source-facing responsibility review
+
+V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water remains V21/467claims; V22 is source-complete and separately saved-content accepted at537claims, with its own full publication/integration gate PENDING. Reala21/PR419 full gate CLOSED before V22: authored07bb073bd33a7bb74dbf132bf6c7de4030a8b26c; CI final source029206778b3bbb9c037b057d38f4338475347012; actual merge4f6ba10b04197b3431f38a9fa079f02d395110ef; verified main5b7f738008c6026b64278b70a7b07aa80d8bb5d0. Their identical Re:Zero subtreef0e3e570bea448b5aadd397f19778c146175bcc6, completed exact-source/merge/main audits41346410757/41347396074/41348768518 (486unique discovered tests each, zero nonpasses), trusted statuses57793627641/57793990747/57794497398, source-specific housekeeping41347364920 verified routing-current no-op and later native proof close that gate. Meili21/PR413 and Petra21/PR415 remain CLOSED. All68entering protected artifacts and21historical model/default/local documentary grades remain exact. V22 source EOF precedes individual467claim/60question/10forecast/181relationship/450transition decisions. Separate saved-content/source/name-reference/fidelity review is ACCEPTED after nine bounded SR01–SR09 corrections and two routine copyedits were actually read back; native correspondence and protected scopes passed. Whole outgoingV23body60Q/10P is sealed after that acceptance:25551bytes/SHA256dc9d6a69786659ee6a6e625172e13e14a61c2f138e90eea1048cd45258abed19; literal through V22and earned operator gates, narrative unopened. Five owners retain contracts: E024/23deaths24segments,K874/M553/I453/R191/RT495. Scarf operator V20–V22 construction/review is earned but UNIMPLEMENTED/UNGRADED after V22full gate; its own full gate precedes V23. V23+/nonspine/import narratives remain unopened, admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
+
+### Current post-V22 qualitative responsibility review
+
+V22 adds an unresolved current cognitive boundary, two different trial outcomes, directly narrated spirit-contract severance and an occupied-body disclosure that changes who can decide. The five existing owners recover chronology/durability, holders, causal models, practical authority and personal terms without a new field contract. Master retains person phases, ordinary life, Japanese wording and readiness. Counts and file length do not establish an independent retrieval responsibility or maturity. All 21 historical model/default/local review scopes and 68 entering protected artifacts remain exact; no old grade automatically covers V22.
+
+### Scarf artificial-spirit Echidna — MONOGRAPH_READY for a separate V20–V22 construction
+
+The earlier CHECKPOINT_READY judgment was warranted when her independently recoverable ordinary and self-directed evidence was concentrated in emergency borrowing and route work. V22 changes the evidence, not merely the amount of dialogue. She conducts an origin inquiry, fears a potentially dangerous ally while trying to invite trust, insists on distinction from her creator, adjusts contact to another person’s distress, expresses curiosity about birds and defers destructive research, regrets the principal’s continuing cost, wants to return the body, and independently wants to live. Her private ボク, public Ana portrayal and failed imitation before Julius are recipient-conditioned performances. Actual rescue beyond her earlier declared indifference, finite casting collapse, contested strategic explanation and provisional trust under a blade supply failure and counterevidence rather than an infallible helper. These ordinary wishes, investigative choices, different recipients, voiced boundaries and failed control make a bounded person model operationally distinguishable from an Ana-body tool description.
+
+The earned operation is `SCARF_ECHIDNA_V20_V22_MODEL_AND_FIDELITY_REVIEW`, after V22’s own complete publication/integration gate and before sealed V23. Reserve `05 Character Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md` and `08 Audits and Manifests/REZERO_SCARF_ECHIDNA_V20_V22_FIDELITY_REVIEW.md`; neither exists or is graded by this decision. The source scope is the explicitly distinguished operator in consumed V20–V22, with earlier body actions only where attribution is established. Do not silently absorb every earlier human Anastasia scene. The current personal default must select the V22 E024 post-disclosure escort, principal reported asleep, before the later Subaru awakening she is not shown receiving. Unknown creator/origin, full independent past, forced return cause, exact lifespan loss and principal’s unspoken present will become abstentions, not invented completions or reasons to demand a perfect biography.
+
+Construction must recover the exact consumed Japanese and appropriate mature design references as design only; implement seven-axis selection, conditional confidence/rationale, ordinary agency, voice/address, body/operator/principal separation, different recipients, costs, failure, care/refusal and adverse controls. In particular test the explicit earlier victim-indifference against actual costly aid, apparent commerce against public portrayal, low hostile probability against fear, love for Ana against wanting to live, and logical rescue explanation against Subaru’s incomplete inference. Recheck the narrow V21 Beatrice receipt and V22 Subaru-only formulation without erasing the former or inventing full cost receipt. Apply and separately report all existing nineteen fidelity responsibilities with unfamiliar/calibration and matched-recipient controls. Repair material findings or revise readiness. This earns construction, not a passed review, independent evaluator, blind/runtime result or global registry write.
+
+### Shaula — CHECKPOINT_READY for the bounded guard/master-belief case
+
+There is now more than a name or reputed office: former speech orders/current permission, scent recognition with poor face discrimination, admitted lethal defenses and real rescue, grief at a newly learned death, fear and collapse before Reid, voluntary care with Meili, food pleasure and attempted cooking apprenticeship, and sincere long-lived hospitality constrained by exit rules. Exercise these differences in this reading and the existing owners. The recoverable person range is still centered on an initial master-directed encounter, attributed waiting/history and a narrow shared-life interval; independent nonmaster purposes and choices under an actual rule conflict are not yet differentiated. A bounded guard/master-belief case can refuse identity and safety overclaims now, without treating missing technical rules as a demand for perfection or instantiating a redundant checkpoint file. No automatic whole-person model or inherited grade follows.
+
+### Reid — CHECKPOINT_READY for the manifested examiner case
+
+Reid’s repeated script, unscripted waking, initially nonbinding boast, negotiated condition actually honored, sexual harassment and dropped guard, hostile judgment, arbitrary session closure and deliberate nonfatal humiliation support a conditional examiner model. Julius’s training is independently real, and Emilia’s pass is an enforced local result. They do not yield a complete living historical Reid, a verified revival or cutting theory, all past relations or ordinary life outside this role; the design’s drinking prop is not performed present intoxication. Preserve the narrow question instead of producing a whole-person monograph by battle prominence.
+
+### Other changed people and exact earlier implementations
+
+Julius adds major retained-self, failed assistance, shame, resistant help and directly expressed hurt; Emilia adds practical discovery, skill, negotiated success and desired companionship; Subaru adds living reasoning and refused lethal testing but also mistaken reassurance, missed exchange and terminal local unfamiliarity. These require current selectors and reconciliation, while their historical models/defaults/local grades stay byte-exact. The terminal Subaru state cannot silently use intact later recognition or diagnose all lost contents. Meili’s genuine parent disinterest, gift/home wishes, mediation and reported Mama history extend current evidence without automatically extending Meili21’s grade; Petra’s strategy is Meili’s report, with no present child reply or fulfilled welcome. Reala has no new V22 personal scene. Apply SA01/JP01 in live successors and qualify the protected V21/Reala source-facing scope; do not rewrite the frozen artifacts.
+
+Patrasche remains CHECKPOINT_READY for externally evidenced nonhuman care/choice: treatment, scales, nuzzling, watching and tail waking extend the earlier rescue/refusal. Exact thought/speech and a fully independent developmental world model remain unavailable; inability to speak human dialogue is not itself disqualifying. Human Anastasia’s past, current reported sleep and operator acts retain separate selectors; the operator’s new motives cannot be transferred to the principal. Typhon’s received origin adds a mistaken guilt-scale formation, and Minerva’s reader-facing origin adds anger/peace motives without a shown current reader. Those histories deepen accumulating cases without establishing every ordinary, relational or technical axis of either Witch. The two maternal clocks, Ram’s older chronology and other supplied-text queries remain open.
+
+### Architecture, integration and continuation
+
+The archive clear and Emilia-only pass do not close Arc6: the party still lacks a group path, demonstrated remedies and an explained terminal condition. No arc checkpoint, final specialist, evidence index or sixth ledger is earned. Preserve current fields and native ancestry; any needed storage relocation must follow measurement of all complete substantive candidates under the unchanged file cap and retain historical text, link base, heading routes and native inverse evidence.
+
+Current work order: V22 saved-content/source/name-reference/fidelity review is ACCEPTED after actual repair readback, and the outgoing V23 whole body is sealed. Complete V22 final-index author preflight, atomic publication, exact-source all-discovered-test audit, source-specific housekeeping, actual CI merge/current-main audits and later native readback; then construct and separately review the scarf operator and close its own full gate; only then open V23. CI owns merges. The continuous admitted Japanese main-LN run remains active through V43 plus mandatory terminal architecture/state/role-gap/acquisition review. A volume, local model result or advertisement does not end the goal or admit later sources.
+
+| earned duty | reserved model | reserved separate review |
+|---|---|---|
+| Scarf operator after V22full gate | `05 Character Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_SCARF_ECHIDNA_V20_V22_FIDELITY_REVIEW.md` |
+
+
+### V22 exact entering architecture preimages
+
+The following complete literal fragments are historical input, not current defaults or reopened pending gates. They preserve the exact entering scope/wording and remain recoverable alongside native inverse proof.
+
+#### active prefix source_boundary:
+
+``````````markdown
+source_boundary: "Japanese main LN V01-V43 admitted; verified V21/467claims and Petra21/PR415 full gates CLOSED;66entering protected/20prior scopes exact; Reala twenty-first model/local documentary pass, own gate pending; then sealedV22; no new admission"
+``````````
+
+#### V21 entering architecture authority opening
+
+``````````markdown
+## 0. Authority and repair boundary
+
+This document is the canonical synthesis/corpus architecture for the existing Re:Zero analytical project under `series/re-zero/`. It governs where source-facing observations accumulate, how claims and state remain recoverable across volume freezes, when specialist work earns an independent home, and what must converge before later synthesis.
+
+It does not replace the source-facing rules in `REZERO_ANALYTICAL_METHOD.md` or the transfer restrictions in `REZERO_ROUTE_AND_WITNESS_PROTOCOL.md`. The paired foundation is:
+
+- the analytical method defines **what to notice and how to judge evidence**;
+- this architecture defines **where the resulting state goes and what it must eventually support**.
+
+For character work, `REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` supplies the detailed reconstruction and fidelity responsibilities under this architecture. For non-spine corpus awareness, `01 Source Lock and Inventory/REZERO_SUPPLEMENTAL_WITNESS_CATALOG.md` records known candidates without admitting or opening them.
+
+The project began before the later corpus-wide project-initiation architecture gate was enforced. V01 and V02 are already frozen prospective readings. This architecture is therefore `EVOLVING`, not `INITIAL`: it repairs a missing governing role around adequate preexisting work. It neither supersedes nor retrospectively rewrites the frozen readings. Its initial longitudinal state is an explicitly labeled backfill from those readings.
+
+Higher-level dependencies are:
+
+- `governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md`;
+- `governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md`;
+- `governance/source-policies/MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md`;
+- `governance/source-policies/ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md`;
+- the repository authority, integration, branch-lifecycle, and housekeeping controls named by root `AGENTS.md`.
+
+This architecture is governance and routing, not literary evidence. If it conflicts with later repository governance, the current repository policy governs. If a source claim conflicts with this architecture's anticipation, the source may justify an architectural amendment; the architecture may not dictate the literary conclusion.
+
+``````````
+
+#### current row Analytical dimension
+
+``````````markdown
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | Verified V21/467claims and Petra21/PR415 own full gate CLOSED. Reala twenty-first model/review implemented/local scoped pass, own full gate PENDING; then sealedV22. SA01 source actor qualified through existing owners. |
+``````````
+
+#### current row Claims and revisions
+
+``````````markdown
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 467 current source-facing claims; all 423 predecessors individually227P/141S/47R/8O plus 44NEW,60Q/10P separately answered; frozen V21 owns reasons and exact older preimages/seals remain retrievable. |
+``````````
+
+#### current row Route/event-state
+
+``````````markdown
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | Living E024/23 observed Subaru deaths24 arrived segments; actual three new pairs, ordinary/nonretained/imagined/backfill distinctions and current prepoint versus late discarded costs. |
+``````````
+
+#### current row Knowledge/asymmetry
+
+``````````markdown
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K814,53 new bounded duties; Beatrice informed, incomplete intuitions/forgiveness, dying register, child-audience coda and unidentified book/different clocks. |
+``````````
+
+#### current row Relationships
+
+``````````markdown
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R181/RT450;171 individual current decisions 55 updates116 literal preserves,10 new R/44 new RT,all 406 older RT/ancestry/preimages exact. |
+``````````
+
+#### current row Character state/stress
+
+``````````markdown
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 20prior scopes/defaults/local grades remain exact. Petra21 full gate CLOSED; Reala21 separately implemented/local same-analyst nonblind documentary pass, own gate PENDING. Last observed Pristella child-audience coda keeps positive love, unknown mnemonic contents and absent Garfiel receipt distinct. |
+``````````
+
+#### current row Institutions/factions/power
+
+``````````markdown
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I428/25 new duties; room/guide choices, patient-specific joint preservation, craft/therapy/consumables, actual temporary council meals and claimed access/guarding. |
+``````````
+
+#### current row Mechanics/world model
+
+``````````markdown
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M520/38 new models/tests; finite E.M.T/physical needle, varied hand cost, access/miasma, beast sight/echo and time-buying preservation with distinct interfaces. |
+``````````
+
+#### current row Ordinary life/preferences
+
+``````````markdown
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 29 V21 rows preserve play/gift, child self-accountability, finite daily care, food/manners, budgeted giving, name/privacy/thanks distinctions without universal tastes. |
+``````````
+
+#### current row Japanese wording/register
+
+``````````markdown
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 26 V21 rows plus full contextual ruby reading; precise speaker/body/audience, names, source clocks and graphic/prose query without emendation. |
+``````````
+
+#### current row Prospective questions
+
+``````````markdown
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Literal V19/V20/V21 bodies exact; every incoming answer separate. The complete 21290-byte V22 body is sealed after accepted source-facing review; V22+ stays unopened through all gates. |
+``````````
+
+#### current row Source identity/locators
+
+``````````markdown
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V21 exact original/hash/CRC,23 OPF members/4133 positions,21 original assets and all inline ruby/navigation actually consumed; microprint bound explicit; counts do not certify attention. |
+``````````
+
+#### current row Character/relationship/specialist readiness
+
+``````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mastersection13 retains readiness. Reala21 implemented/local scoped pass, own full gate PENDING after Petra21 CLOSED; sealedV22 follows. Patrasche/operator/Shaula stay narrower; no final specialist/Arc6-end/sixth owner. |
+``````````
