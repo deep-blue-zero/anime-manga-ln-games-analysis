@@ -4,7 +4,7 @@ artifact_id: T7S_2034_NON_MAIN_PORTFOLIO_INDEX
 artifact_type: analytical_portfolio_index
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.132"
+version: "2.133"
 status: in_progress
 source_lock: "../01 Sources and Chronology/T7S_SOURCE_LOCK.json"
 coverage_ledger: "../01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json"
@@ -41,7 +41,7 @@ This is the canonical router for the 974 admitted 2034 non-Main story episodes a
 5. Reconstruct all 58 Event families as complete deep envelopes.
 6. Run a non-Main factual-home and integration audit before character release or era synthesis.
 
-The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 49, complete primary occurrences: 349; 0 Intimacy/342eligible story episodes and supplemental/multimodal/character/era-release obligations remain. All49 Intimacy family portfolios are closed; continue the authorized occasion/Short/Legend/Many/Birthday/Event and supplemental/analytical release obligations. No next primary scope is admitted by this sentence. B0231adds3independent Short messages;42of45remain unread. Next prepare a genuinely prospective complete-consumer/entering scope for the unread Short route (42documents, next metadata episode402000401); this sentence admits no new primary.
+The first mandated tranche remains closed: `T7S_B0080`–`T7S_B0099`. The [B0100–B0159 record](../09%20Audits%20and%20Manifests/T7S_B0100_B0159_EXECUTION_RECORD.md) retains its historical boundary. The [remaining2034 program](../09%20Audits%20and%20Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md) has closed the B0160–B0181 i-n-g checkpoint at22source units/66episodes; overall i-n-g280/280 across102chapters. Later Intimacy portfolios: 49, complete primary occurrences: 349; 0 Intimacy/300eligible story episodes and supplemental/multimodal/character/era-release obligations remain. All49 Intimacy family portfolios are closed; continue the authorized occasion/Short/Legend/Many/Birthday/Event and supplemental/analytical release obligations. No next primary scope is admitted by this sentence. B0231first3plusB0232remaining42close all45Short messages; the first3known-exposure history stays distinct from the later prospective gate. Next prepare the current complete-consumer/entering scope for the remaining2034 obligations (300eligible stories plus active supplemental and required analytical release); no further primary is admitted by this sentence.
 
 ## Closed first i-n-g tranche
 
@@ -228,4 +228,5 @@ Each family closes exact primary members with one qualified mini-case per occurr
 
 | Reading | Native route / exact members | Integrated scope and retained gate |
 | --- | --- | --- |
-| [T7S_B0231](T7S_B0231_DEEP_READING.md) | OTHER100030 / SHORT MESSAGE201500; sender layers300290/300070/300030;402000101/402000201/402000301 | Three whole P0-2 independent cases; known-exposure recovery with original ordering failure preserved.3of45Short closed,42unread; future scope requires prospective complete consumers. |
+| [T7S_B0231](T7S_B0231_DEEP_READING.md) | OTHER100030 / SHORT MESSAGE201500; sender layers300290/300070/300030;402000101/402000201/402000301 | Three whole P0-2 independent cases; known-exposure recovery with original ordering failure preserved.First3of45Short cases at the B0231checkpoint; the remaining42are closed byB0232 under a fresh prospective gate. |
+| [T7S_B0232](T7S_B0232_DEEP_READING.md) | OTHER100030 / SHORT MESSAGE201500; exact remaining members402000401/402000501/402000601/402000701/402000801/402000901/402001001/402001101/402001201/402001301/402001401/402001501/402001601/402001701/402001801/402001901/402002001/402002101/402002201/402002301/402002401/402002501/402002601/402002701/402002801/402002901/402003001/402003101/402003201/402003301/402003401/402003501/402003601/402003701/402003801/402003901/402004001/402004101/402004201/402004301/402004401/402004901 |42whole independent P0-2cases/126pages; pre-primary complete consumers and entering freeze, each root case frozen before next. All45Short closed; no shared date or recipient answer;300eligible stories plus supplemental/release remain. |
