@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.150",
+  "version": "12.151",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first7Eventdocuments in5originalportfolios retain exact histories. B0231/B0233exposures and all earlier chronology/failure qualifications remain historical. B0242actual pre-primary5role/44-image entering and4positive/212negative code proof precede acquisition; each completeChapter1/2text/native/static freeze precedes nextchapter exposure.985primary/1072consumed incl87inline;224Eventdocs/53portfolios,26818supplemental/fullrelease remain. All144native voice references accounted:143present/hashverifiedWAVs unheard (139dialogue/4openings); onlyexactcommandendingvo_special_107_140/P65 unresolved in pinned canonicalregistry afteractualstrictfailure/currentprobe/Chapter3onlysuccessor. No missingdialogue/substitute/globalabsence/hearing/runtime claim. Differentiated proposals/judgment/selection/attention andreported dream open renewedlyricwork; finallyrics/live/fullconsensus unshown. Exactyear/Maininsertion/elapsedtime unprovided. All106identity/84character/29unit/29READY states retained with boundaries; no maturity/full2034release. All7source/8coverage/5-4-4ledgerparts mandatory; no capacity/retirement/rollover. Originalpayloadbudgets unchanged; provenance-only dedup preserves complete analysis/citations. Freshconsumers/entering/reviewedbudget before later source; publication/integration separate;2053unopened.",
+  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first22Eventdocuments in8originalportfolios retain exact histories. B0231/B0233knownexposures and earlier chronology/failure qualifications remain historical. B0243genuine pre-primary5role/44image acceptance,19positive/17capacityvectors/324negative controls precede primary;79complete chunks,14before-next case and2between-family freezes preserve all15native documents/562pages.1000primary/1087consumed incl87inline;209Eventdocs/50portfolios,26,818active supplemental records/attachments and full2034release remain. All419available WAVbindings/418distinctfiles are hashverified/unheard; onlyexactnon-dialogue112_152/P49and116_092/P33 unresolved in the pinnedregistry afterpreservedfailures/freshnarrowcase successors. Two actualItemobjects occur onlyin503011801/P2-7/P22-24;noauthoredchoicesorinline movie. No missingdialogue/substitute/globalabsence/hearing/runtime claim. Interviews/shared4Uimage/localHarumiouting retain separate source-confirmed sequences, actor-specific knowledge, privacy and future limits. No exactyear/Maininsertion, completebusiness/household model, readiness/fullAV/era-releasepromotion. All7beforeSourceLockpartsand8coveragepayloads retained;exactoptionalcapacitygrowthonlyasactualcompleteaftermanifestrequires,unchangedcaps,noretirement/trimming.181olderserializedintegritymembersand1575unrelatedeffectivecoverageunchanged. Sourceentry51d2andcurrentauditedtree-identicalmainf04291reconcilewithoutrewritingoriginalreceipts. Freshconsumers/entering beforelaterprimary;publication/integration separate;2053unopened.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -288,7 +288,8 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0239",
       "T7S_B0240",
       "T7S_B0241",
-      "T7S_B0242"
+      "T7S_B0242",
+      "T7S_B0243"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -13523,11 +13524,236 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010801",
+        "script_id": "memory_0108.json__4e249b8bdee407a0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          42
+        ],
+        "log_order_index": [
+          0,
+          42
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010802",
+        "script_id": "memory_0109.json__0496916636978e85",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          54
+        ],
+        "log_order_index": [
+          0,
+          54
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010803",
+        "script_id": "memory_0110.json__396ec1f03bb21ed3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          37
+        ],
+        "log_order_index": [
+          0,
+          37
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010804",
+        "script_id": "memory_0111.json__5bb91b74bc2c2273",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          45
+        ],
+        "log_order_index": [
+          0,
+          45
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010805",
+        "script_id": "memory_0112.json__086ff5d77db90707",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502011301",
+        "script_id": "memory_0113.json__e0cc4c09def01ea6",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          26
+        ],
+        "log_order_index": [
+          0,
+          26
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502011302",
+        "script_id": "memory_0114.json__72b4cad0b5fb55ac",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          33
+        ],
+        "log_order_index": [
+          0,
+          33
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502011303",
+        "script_id": "memory_0115.json__0d03cb21f529213c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          22
+        ],
+        "log_order_index": [
+          0,
+          22
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502011304",
+        "script_id": "memory_0116.json__efe60829b2f29b55",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          36
+        ],
+        "log_order_index": [
+          0,
+          36
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502011305",
+        "script_id": "memory_0117.json__3114b7f40cda8dae",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          25
+        ],
+        "log_order_index": [
+          0,
+          25
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "503011801",
+        "script_id": "memory_0118.json__eda70b6b245bbc1f",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          36
+        ],
+        "log_order_index": [
+          0,
+          36
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "503011802",
+        "script_id": "memory_0119.json__8b8650087552bdf3",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
+        "log_order_index": [
+          0,
+          27
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "503011803",
+        "script_id": "memory_0120.json__27c104c6cfcc911a",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "503011804",
+        "script_id": "memory_0121.json__b51421debb5de813",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          49
+        ],
+        "log_order_index": [
+          0,
+          49
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
+      },
+      {
+        "episode_id": "503011805",
+        "script_id": "memory_0122.json__c0d1c9f8ce20f0b4",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          25
+        ],
+        "log_order_index": [
+          0,
+          25
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
       }
     ],
     "next_candidate_episode_id": "",
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event7/231documents_5/58portfolios_closed;224Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
+    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event22/231documents_8/58portfolios_closed;209Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
     "authorized_story_boundary_complete": false,
     "next_candidate_family_layer_id": "",
     "next_candidate_portfolio_route_key": null
@@ -13541,160 +13767,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "bytes": 5864910848,
     "schema": "t7s-query-index/1",
     "normalized_schema": "t7s-normalized-scenario/1",
-    "verification": "FULL_FILE_SHA256_MATCH_AT_BOOTSTRAP_AND_B0002_B0003_AND_B0003_CHAPTER_CLOSE_AND_B0004_CHAPTER_CLOSE_AND_B0005_CHAPTER_CLOSE_AND_B0006_CHAPTER_CLOSE_AND_B0007_OPENING_PREFLIGHT_AND_B0007_CHAPTER_CLOSE_PREFLIGHT_AND_B0008_CHAPTER_CLOSE_PREFLIGHT_AND_B0009_CHAPTER_CLOSE_PREFLIGHT_AND_B0010_OPENING_PREFLIGHT_AND_EPISODE_1_0_CLOSE_PREFLIGHT_AND_EPISODE_4U_CLOSE_PREFLIGHT_AND_NEXT_TWO_UNITS_CLOSE_PREFLIGHT_AND_EPISODE_3_0_CLOSE_PREFLIGHT_AND_EPISODE_4_0_AXIS_CLOSE_PREFLIGHT_AND_EPISODE_0_0_CLOSE_PREFLIGHT_AND_EPISODE_0_7_CLOSE_PREFLIGHT_AND_EPISODE_5_0_CLOSE_PREFLIGHT_AND_EPISODE_6_0_CLOSE_PREFLIGHT_AND_EPISODE_NANASUTA_CLOSE_PREFLIGHT"
-  },
-  "episode_catalog": {
-    "artifact_id": "corpus:catalog/episodes.jsonl",
-    "scope": "corpus",
-    "role": "catalog_authority",
-    "size": 7810590,
-    "sha256": "cda29102ec76a4242bcbb194a37a12453510e7ca6ccffe5478e4f1358b18e625"
-  },
-  "source_artifact_manifest": {
-    "artifact": "source_artifacts.json",
-    "sha256": "7c0ac41509af9520a98129d924e42654a515ba3818683bd679f72342b3a191e5",
-    "bytes": 569048
-  },
-  "source_artifact_manifest_recipe": {
-    "query": "SELECT * FROM source_artifacts ORDER BY artifact_id COLLATE BINARY",
-    "serialization": "array of objects in SQLite column order; Python json.dumps(ensure_ascii=False, indent=2), final LF, UTF-8 without BOM",
-    "scope_resolution": "archive, corpus, media roots configured outside Git; reject path escape"
-  },
-  "masters": [
-    {
-      "table": "m_scenario",
-      "sha256": "0409286e46697e8bfe474ec607b01c7065107ae1f0e4e161c4b316a49b129c65",
-      "bytes": 531744,
-      "rows": 1350
-    },
-    {
-      "table": "m_scenario_layer",
-      "sha256": "5fac27e3e6bea2381b29eaf95a72e5c5f1c78af502554b1b0cb62106dcefafdc",
-      "bytes": 169172,
-      "rows": 462
-    },
-    {
-      "table": "m_character",
-      "sha256": "dbda7389df987ffe150500efa0d33c6af59c734cdcd835c2ccf83c561e19f5cd",
-      "bytes": 53055,
-      "rows": 74
-    },
-    {
-      "table": "m_live_music",
-      "sha256": "c2bc4a78f7f466e05d322839106cf2ad11c59b4eac2fe038619f13a17e5c684d",
-      "bytes": 82388,
-      "rows": 229
-    },
-    {
-      "table": "m_live_music_meta",
-      "sha256": "0960e010321f8ec6486f4a1d7cab10daa43de64160f1fc3108b398b5f69e2606",
-      "bytes": 411962,
-      "rows": 217
-    }
-  ],
-  "supplemental_tranches": [
-    {
-      "namespace": "card_message",
-      "count": 25711,
-      "membership_sha256": "453e0d1ff03b844eca5bc14d33971cf2f13b2d8a7a568cd12225fb374f92af82",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "card_message"
-      }
-    },
-    {
-      "namespace": "character_voice",
-      "count": 5072,
-      "membership_sha256": "3325a8aae6e87f324a58c519c97e6178c44a5520e318d6bae1458cd8056f30ae",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "character_voice"
-      }
-    },
-    {
-      "namespace": "eplive_navigation",
-      "count": 7,
-      "membership_sha256": "46bad0dab6001391c29b4392594f2fa8057ac0716973c132fc835197e97a0dac",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "eplive_navigation"
-      }
-    },
-    {
-      "namespace": "solo_stage_message",
-      "count": 196,
-      "membership_sha256": "654fa6ec270c3baf262e6beb23c72f43762c751bad5de9217226aad8a63de0a3",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "solo_stage_message"
-      }
-    },
-    {
-      "namespace": "tutorial_ui_message",
-      "count": 5,
-      "membership_sha256": "d78d0fa1753c75bed104422cff5246cb9d97fb66c94459b675bf85dd2eaeaa15",
-      "encoding": "UTF-8, no BOM, LF; canonical_id BINARY order; one ID per line, final LF",
-      "query": "SELECT canonical_id FROM supplemental_text WHERE namespace=:namespace ORDER BY canonical_id COLLATE BINARY",
-      "parameters": {
-        "namespace": "tutorial_ui_message"
-      }
-    }
-  ],
-  "counts": {
-    "catalog_episodes": 1350,
-    "Main": 364,
-    "Sub": 755,
-    "Event": 231,
-    "scenario_resources": 1578,
-    "additional_scripts": 228,
-    "text_records": 94457,
-    "catalog_text_records": 91523,
-    "pages": 110527,
-    "supplemental_records": 30991,
-    "media_assets": 95395,
-    "wav": 69520,
-    "images": 25688,
-    "movies": 187,
-    "native_wave_identities": 69647,
-    "logical_movie_resources": 189,
-    "media_relation_rows": 699298
-  },
-  "collection_seal_scope": {
-    "output_files": 112440,
-    "output_bytes": 82983925341,
-    "output_scopes": 6,
-    "evidence_artifacts": 2023,
-    "meaning": "canonical collection output counts, not raw acquisition counts"
-  },
-  "capabilities": {
-    "native_text": "Native Japanese wording, presence flags and page/command context; no automatic resolved identity",
-    "media": "Canonical decoded assets and native candidate/occurrence links; no universal timing or playback proof",
-    "lyrics": "215 nonempty of 217 m_live_music_meta records; game-master wording, not full-recording alignment",
-    "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
-  },
-  "integrity": {
-    "b0242_close_verification": {
-      "operation": "T7S_B0242_CLOSE",
-      "checked_at": "2026-11-03",
-      "status": "PASS_BOUNDED_DEEP_EVENT_TEXT_NATIVE_SELECTED_STATIC",
-      "category": "Event",
-      "portfolio_cohort": "NM-EVENT-CATALOG-792-794",
-      "native_top_layer_id": "100010",
-      "native_family_layer_ids": [
-        "200240"
-      ],
-      "original_portfolio_route_keys": [
-        "NM-EVENT-200240"
-      ],
-      "episode_ids": [
-        "502010501",
-        "502010502",
-        "502010503"
-      ],
-      "source_bindings": [
-        {
 <!-- T7S SOURCE LOCK PAYLOAD END -->
