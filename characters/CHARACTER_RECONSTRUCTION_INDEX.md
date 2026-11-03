@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 44; `STALE` 7; `SUPERSEDED` 1
+- Recorded totals: `CANDIDATE` 46; `STALE` 5; `SUPERSEDED` 3
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -1701,9 +1701,39 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ### Subject `tokyo-7th-sisters:enami-madoka@game`
 
+#### Assessment `tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-portfolio-20261103-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:enami-madoka`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the three reviewed readings curated on tokyo-7th-sisters:enami-madoka@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): b0202-deep-reading \(T7S\_B0202, read in full: the complete Sub Intimacy family 200590, seven short addresses A-G\); b0232-deep-reading \(T7S\_B0232 case 18, Short message 402002101, P0-P2, read with its entering-boundary, identity/audience/time, synthesis and exit sections\); and b0237-deep-reading \(T7S\_B0237 case 404000018, the complete Birthday portfolio P0-P24, read with its receiving, sequence/institutional-limit and adjudication sections\). The readings' comparisons with earlier Madoka states \(B0081, B0093, B0119, B0126, B0157, B0166\) and with the UNIT0018 rows are context only; those sources are not curated on this subject and nothing is borrowed from them. No performed voice, horn playing, dialect prosody, music, loop movie or runtime was reviewed by the readings, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Nine independent conditional occurrences \(seven Intimacy addresses, one Short message and one Birthday portfolio\) with no inferred unlock level, calendar year or chronology across them; each reading forbids treating menu, catalog or execution order as progression or relapse. The age thirteen in B0202 D belongs to a quoted practiced introduction, and the B0237 birthday supplies no age increment or year. No default state is designated, and no state before, between or after these occurrences is assessed.
+- Basis commit: `c9248ab8468cd8c90d3768a6187f37954bfd845a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `86824cc62891937a6762b29d3ba66fc2fa92f1715503893a119012e810b055b7`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the nine unordered occurrences; nothing before, between or after them.; interlocutor The manager \(あんちゃん\) as she addresses him, or Nanasta collectively in B0237; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the nine located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `earlier-states-not-curated` (evidence gap): The earlier Madoka readings \(B0081, B0093, B0119, B0126, B0157, B0166\) are not curated on this subject, so the readings' comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-mostly-paraphrased` (evidence gap): Apart from a quoted introduction, a few written dialect forms and short quoted words, the readings paraphrase Madoka's Japanese, so self-reference and sentence endings are largely absent from the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, horn playing, dialect delivery, music, loop movie or continuous runtime was heard or watched. Static horn-holding portraits and stand art are not performances.
+  - `reported-not-shown` (evidence-backed limitation): Visits, practice, walks, the sauce purchase, the dorm conversation, the bath visit and Yumeno's comfort are her reports. No visit, meal, practice or comforting dialogue is enacted, and the manager's answers come only through her uptake.
+  - `story-not-heard` (evidence-backed limitation): She covered her ears during Ei's ghost story, so her testimony supplies its social frame but not its content.
+  - `tears-explained-not-cured` (evidence-backed limitation): In B0237 her own explanation makes the tears happiness, and renewed tears follow her completed collective thanks. Neither sadness alone nor mastered composure fits the case.
+  - `unfinished-personal-utterances` (evidence-backed limitation): The someday wish in B0232 P2 and the personal thanks to the manager in B0237 P21-23 are unfinished. Neither may be completed with an invented confession, promise or reply.
+  - `unordered-occurrences` (evidence-backed limitation): The nine sources are independent conditional occurrences with no chronology, year or unlock level; menu, catalog or execution order cannot make any occurrence a relapse or a progression, and cross-case comparisons are thematic.
+  - `withdrawn-invitation` (evidence-backed limitation): The home-cooking invitation in B0202 F \(401001282\) is withdrawn before completion and must not be treated as an accepted dinner or visit.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:enami-madoka@game#b0202-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0202_DEEP_READING.md)
+  - [`tokyo-7th-sisters:enami-madoka@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:enami-madoka@game#b0237-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0237_DEEP_READING.md)
+- Supersedes: `tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01`
+
 #### Assessment `tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `tokyo-7th-sisters:enami-madoka`
 - Scope: continuity `tokyo-7th-sisters-game`
 - Source boundary: Only tokyo-7th-sisters:enami-madoka@game\#b0202-deep-reading, the canonical T7S\_B0202 reading at basis\_commit, read in full: the complete Sub Intimacy family 200590 \(NM-INTIMACY-200590\) of seven short addresses \(episodes 401000160, 401000432, 401000782, 401001026, 401001162, 401001282, 401001434; 31 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Madoka states \(B0081, B0093, B0119, B0126, B0157, B0166\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, horn playing, dialect prosody, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
@@ -1725,13 +1755,43 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `withdrawn-invitation` (evidence-backed limitation): The home-cooking invitation in 401001282 is withdrawn before completion and must not be treated as an accepted dinner or visit.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:enami-madoka@game#b0202-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dc7d803dcf13c48e633991a9cc89e497e732aec1/series/tokyo-7th-sisters/02%20Readings/T7S_B0202_DEEP_READING.md)
+- Superseded by: `tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-portfolio-20261103-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:enami-madoka@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `tokyo-7th-sisters:futagawa-mimi@game`
 
+#### Assessment `tokyo-7th-sisters-futagawa-mimi-game-b0189-b0232-b0237-portfolio-20261103-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:futagawa-mimi`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the three reviewed readings curated on tokyo-7th-sisters:futagawa-mimi@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): b0189-deep-reading \(T7S\_B0189, read in full: the complete Sub Intimacy family 200640, seven independent addresses A-G\); b0232-deep-reading \(T7S\_B0232 case 05, Short message 402000801, P0-P2, read with its entering-boundary, identity/audience/time, synthesis and exit sections\); and b0237-deep-reading \(T7S\_B0237 case 404000026, the complete Birthday portfolio P0-P19, read with its receiving, sequence/institutional-limit and adjudication sections\). The readings' comparisons with earlier Mimi states \(B0086, B0124, B0162, B0170\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music, SFX, loop movie or runtime was reviewed by the readings, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Nine independent conditional occurrences \(seven Intimacy addresses, one Short message and one Birthday portfolio\) with no inferred unlock level, calendar year or chronology across them; each reading forbids treating menu, catalog or execution order as progression. The B0237 birthday supplies no age, year or previous-party date, and the B0232 shopping message is not dated against other accounts. No default state is designated, and no state before, between or after these occurrences is assessed.
+- Basis commit: `c9248ab8468cd8c90d3768a6187f37954bfd845a`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `d9ed348d368cea012da7b7a68c8202005d6a9b4b99bdf7fe696bf5c503043d55`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the nine unordered occurrences; nothing before, between or after them.; interlocutor The manager \(支配人君\) as she addresses him, or Nanasta collectively in B0237; the refusal applies equally to the reported friend, the photographer or any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the nine located occurrences; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `driving-competence-unestablished` (evidence-backed limitation): B0189 B reports her driving as still developing, and B0237 states a practical difficulty and an international-licence concern. No licence, trip or driving performance is established.
+  - `earlier-states-not-curated` (evidence gap): The earlier Mimi readings \(B0086, B0124, B0162, B0170\) are not curated on this subject, so the readings' comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-mostly-paraphrased` (evidence gap): Apart from addresses, kaomoji and short quoted words, the readings paraphrase Mimi's Japanese, so self-reference and sentence endings are largely absent from the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, laughter, music, SFX, loop movie or continuous runtime was heard or watched. The fixed wink portrait and stand art are not performances.
+  - `qualified-wish-not-commitment` (evidence-backed limitation): The next-birthday group-drive wish is nested inside hypothetical overseas work, called a joke and still anticipated. It is neither a binding request nor an absent desire, and no manager assent is supplied.
+  - `reported-or-proposed-not-shown` (evidence-backed limitation): The drive, the workday, the fever check, the photo practice, the shopping trip and the friend introduction are reported or proposed. None is enacted, and the manager's answers come only through her uptake.
+  - `third-parties-unvoiced` (evidence-backed limitation): The university friend's preference, consent and reaction, and the photographer's view, are absent. They enter only through Mimi's appraisal.
+  - `unordered-occurrences` (evidence-backed limitation): The nine sources are independent conditional occurrences with no chronology, year or unlock level; menu, catalog or execution order cannot make any occurrence a progression, and cross-case comparisons are thematic.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:futagawa-mimi@game#b0189-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0189_DEEP_READING.md)
+  - [`tokyo-7th-sisters:futagawa-mimi@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:futagawa-mimi@game#b0237-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/c9248ab8468cd8c90d3768a6187f37954bfd845a/series/tokyo-7th-sisters/02%20Readings/T7S_B0237_DEEP_READING.md)
+- Supersedes: `tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01`
+
 #### Assessment `tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `tokyo-7th-sisters:futagawa-mimi`
 - Scope: continuity `tokyo-7th-sisters-game`
 - Source boundary: Only tokyo-7th-sisters:futagawa-mimi@game\#b0189-deep-reading, the canonical T7S\_B0189 reading at basis\_commit, read in full: the complete Sub Intimacy family 200640 \(NM-INTIMACY-200640\) of seven short addresses \(episodes 401000075, 401000079, 401000598, 401000794, 401001094, 401001302, 401001458; 36 pages, 29 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Mimi states \(B0086, B0124, B0162, B0170\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music, SFX or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
@@ -1753,6 +1813,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unordered-occurrences` (evidence-backed limitation): The seven sources are independent conditional occurrences with no chronology or intimacy level; they do not establish a passage from caretaker to dependent or from idol to partner.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:futagawa-mimi@game#b0189-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/dc7d803dcf13c48e633991a9cc89e497e732aec1/series/tokyo-7th-sisters/02%20Readings/T7S_B0189_DEEP_READING.md)
+- Superseded by: `tokyo-7th-sisters-futagawa-mimi-game-b0189-b0232-b0237-portfolio-20261103-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:futagawa-mimi@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `tokyo-7th-sisters:maezono-rishuri@game`
