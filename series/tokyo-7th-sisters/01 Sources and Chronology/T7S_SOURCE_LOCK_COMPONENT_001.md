@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.149",
+  "version": "12.150",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first4Event documents/4original portfolios retain exact histories. B0231/B0233exposures and every earlier chronology/failure qualification remain historical. B0241genuine pre-primary5role/44-image entering and4positive/209negative code proof precede acquisition; first whole text/native/static freeze precedes anniversary exposure.982primary/1069consumed incl87inline;227Event docs/54portfolios,26818supplemental/full release remain. All306native voice references accounted:304present/hashverifiedWAVs unheard, two exact command-only endingsvo_special_103_127/P131andvo_special_104_177/P179 unresolved only in pinned canonical registry with separate actual failures/probes/case-only successors. No missing dialogue, substitute cue, inferred performer, global absence or performance claim. Runtime/music/SFX unreviewed. Independent NewYear/anniversary frames preserve recollection, branch-conditioned appraisal, failed timetable reform, differentiated gratitude, mediated uptake and institutional costs; no exact year/Main placement or elapsed366-day bridge. No readiness/mature character/institution/full2034release;2053unopened. All7retained source/8coverage/5-4-4ledger parts mandatory; no capacity/retirement/rollover. Fresh consumers/entering/reviewed budget before next source; publication/integration separate.",
+  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first7Eventdocuments in5originalportfolios retain exact histories. B0231/B0233exposures and all earlier chronology/failure qualifications remain historical. B0242actual pre-primary5role/44-image entering and4positive/212negative code proof precede acquisition; each completeChapter1/2text/native/static freeze precedes nextchapter exposure.985primary/1072consumed incl87inline;224Eventdocs/53portfolios,26818supplemental/fullrelease remain. All144native voice references accounted:143present/hashverifiedWAVs unheard (139dialogue/4openings); onlyexactcommandendingvo_special_107_140/P65 unresolved in pinned canonicalregistry afteractualstrictfailure/currentprobe/Chapter3onlysuccessor. No missingdialogue/substitute/globalabsence/hearing/runtime claim. Differentiated proposals/judgment/selection/attention andreported dream open renewedlyricwork; finallyrics/live/fullconsensus unshown. Exactyear/Maininsertion/elapsedtime unprovided. All106identity/84character/29unit/29READY states retained with boundaries; no maturity/full2034release. All7source/8coverage/5-4-4ledgerparts mandatory; no capacity/retirement/rollover. Originalpayloadbudgets unchanged; provenance-only dedup preserves complete analysis/citations. Freshconsumers/entering/reviewedbudget before later source; publication/integration separate;2053unopened.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -287,7 +287,8 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0238",
       "T7S_B0239",
       "T7S_B0240",
-      "T7S_B0241"
+      "T7S_B0241",
+      "T7S_B0242"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -13477,11 +13478,56 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0241_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010501",
+        "script_id": "memory_0105.json__eb05d66bce652790",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          43
+        ],
+        "log_order_index": [
+          0,
+          43
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010502",
+        "script_id": "memory_0106.json__df79a4f71b44dd01",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010503",
+        "script_id": "memory_0107.json__9172d8f0ddb6c0d7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
       }
     ],
     "next_candidate_episode_id": "",
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event4/231documents_4/58portfolios_closed;227Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
+    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event7/231documents_5/58portfolios_closed;224Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
     "authorized_story_boundary_complete": false,
     "next_candidate_family_layer_id": "",
     "next_candidate_portfolio_route_key": null
@@ -13631,43 +13677,24 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
   },
   "integrity": {
-    "b0241_close_verification": {
-      "operation": "T7S_B0241_CLOSE",
+    "b0242_close_verification": {
+      "operation": "T7S_B0242_CLOSE",
       "checked_at": "2026-11-03",
       "status": "PASS_BOUNDED_DEEP_EVENT_TEXT_NATIVE_SELECTED_STATIC",
       "category": "Event",
-      "portfolio_cohort": "NM-EVENT-CATALOG-790-791",
+      "portfolio_cohort": "NM-EVENT-CATALOG-792-794",
       "native_top_layer_id": "100010",
       "native_family_layer_ids": [
-        "200220",
-        "200230"
+        "200240"
       ],
       "original_portfolio_route_keys": [
-        "NM-EVENT-200220",
-        "NM-EVENT-200230"
+        "NM-EVENT-200240"
       ],
       "episode_ids": [
-        "502010301",
-        "502010401"
+        "502010501",
+        "502010502",
+        "502010503"
       ],
       "source_bindings": [
         {
-          "episode_id": "502010301",
-          "script_id": "memory_0103.json__f1b34f77294df61c",
-          "source_sha256": "0a98f0c1fff011f41b4febefcf34b2a8e52527f182947b7afa2d2a1e7a15d6f0",
-          "decoded_sha256": "827956fd1b5b6ab4bcc51bf6589cd132956389c092ed0ecf1eedacb30d7712ee",
-          "normalized_sha256": "86c0956093a9a81a13aec5edcfbf1f8660991a8db7a26f95bcf0e18176150541",
-          "structured_sha256": "86c0956093a9a81a13aec5edcfbf1f8660991a8db7a26f95bcf0e18176150541",
-          "pages": 132,
-          "text_records": 128,
-          "command_only_pages": 4,
-          "voice_pages": 126,
-          "native_pages_verified": 132
-        },
-        {
-          "episode_id": "502010401",
-          "script_id": "memory_0104.json__56426d9869cf0134",
-          "source_sha256": "0e9408ef587c3ec2c0ff9f40ba20025f8551e9d56f56423a206c167724b6e499",
-          "decoded_sha256": "8d5ff1423dbe21248ca01bcc99eee9523762ed130381a21e2f8a2c70ce29f1b3",
-          "normalized_sha256": "60f75e01fa4f7d256ec4e0cd0517fe6a9d6f6efc41adbb26cfb4ba5c80ec1b90",
 <!-- T7S SOURCE LOCK PAYLOAD END -->
