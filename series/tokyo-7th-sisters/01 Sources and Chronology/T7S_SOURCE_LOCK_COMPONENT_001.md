@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.147",
+  "version": "12.150",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty and all48Birthday portfolios retain exact histories. B0231/B0233exposures and qualified Murasaki/Ferb chronology remain historical. B0239genuine pre-primary5role/43image entry,4positive/197negative capacity proof and each actual complete case freeze before next.978primary/1065consumed incl87inline;231eligible Event stories,26818active supplemental and full release remain.169WAVs available/hash-verified but unheard; six Kajika space-valued voice commands preserved.10actual movie contents unresolved(Kajika2,others1),runtime unobserved.34new links distinguish27document-local sequences and7graphic inclusions without shared birthday calendar. Later written Yamai/Saori resolution explicitly preserves original Sawara/Miu freezes; Jersey, unsigned Memoru authors and anonymous S remain unbound. No maturity/full2034release;2053unopened. Fresh complete consumers, entering and reviewed budget before next source; publication/integration separate.",
+  "scope_admission": "Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first7Eventdocuments in5originalportfolios retain exact histories. B0231/B0233exposures and all earlier chronology/failure qualifications remain historical. B0242actual pre-primary5role/44-image entering and4positive/212negative code proof precede acquisition; each completeChapter1/2text/native/static freeze precedes nextchapter exposure.985primary/1072consumed incl87inline;224Eventdocs/53portfolios,26818supplemental/fullrelease remain. All144native voice references accounted:143present/hashverifiedWAVs unheard (139dialogue/4openings); onlyexactcommandendingvo_special_107_140/P65 unresolved in pinned canonicalregistry afteractualstrictfailure/currentprobe/Chapter3onlysuccessor. No missingdialogue/substitute/globalabsence/hearing/runtime claim. Differentiated proposals/judgment/selection/attention andreported dream open renewedlyricwork; finallyrics/live/fullconsensus unshown. Exactyear/Maininsertion/elapsedtime unprovided. All106identity/84character/29unit/29READY states retained with boundaries; no maturity/full2034release. All7source/8coverage/5-4-4ledgerparts mandatory; no capacity/retirement/rollover. Originalpayloadbudgets unchanged; provenance-only dedup preserves complete analysis/citations. Freshconsumers/entering/reviewedbudget before later source; publication/integration separate;2053unopened.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -285,7 +285,10 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0236",
       "T7S_B0237",
       "T7S_B0238",
-      "T7S_B0239"
+      "T7S_B0239",
+      "T7S_B0240",
+      "T7S_B0241",
+      "T7S_B0242"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -13415,11 +13418,116 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0239_DEEP_READING.md"
+      },
+      {
+        "episode_id": "501010101",
+        "script_id": "memory_0101.json__08465f83f8b75895",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          209
+        ],
+        "log_order_index": [
+          0,
+          209
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0240_DEEP_READING.md"
+      },
+      {
+        "episode_id": "501010201",
+        "script_id": "memory_0102.json__a855aef7f1664174",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          29
+        ],
+        "log_order_index": [
+          0,
+          29
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0240_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010301",
+        "script_id": "memory_0103.json__f1b34f77294df61c",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          131
+        ],
+        "log_order_index": [
+          0,
+          131
+        ],
+        "choice_scope": "ALL_AUTHORED_CHOICES",
+        "canonical_artifact": "02 Readings/T7S_B0241_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010401",
+        "script_id": "memory_0104.json__56426d9869cf0134",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          179
+        ],
+        "log_order_index": [
+          0,
+          179
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0241_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010501",
+        "script_id": "memory_0105.json__eb05d66bce652790",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          43
+        ],
+        "log_order_index": [
+          0,
+          43
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010502",
+        "script_id": "memory_0106.json__df79a4f71b44dd01",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          41
+        ],
+        "log_order_index": [
+          0,
+          41
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
+      },
+      {
+        "episode_id": "502010503",
+        "script_id": "memory_0107.json__9172d8f0ddb6c0d7",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          65
+        ],
+        "log_order_index": [
+          0,
+          65
+        ],
+        "choice_scope": "NONE",
+        "canonical_artifact": "02 Readings/T7S_B0242_DEEP_READING.md"
       }
     ],
     "next_candidate_episode_id": "",
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Birthday48/48closed;231eligible Event stories plus supplemental/release;freshconsumers_entering_and_reviewed_storage_budget_required;2053blocked",
+    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event7/231documents_5/58portfolios_closed;224Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
     "authorized_story_boundary_complete": false,
     "next_candidate_family_layer_id": "",
     "next_candidate_portfolio_route_key": null
@@ -13569,93 +13677,24 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
   },
   "integrity": {
-    "b0239_close_verification": {
-      "operation": "T7S_B0239_CLOSE",
-      "checked_at": "2026-11-02",
-      "status": "PASS_BOUNDED_ORDINARY_LIFE_BIRTHDAY_TEXT_NATIVE_SELECTED_STATIC",
-      "portfolio_cohort": "NM-BIRTHDAY-CATALOG-768-776",
-      "native_top_layer_id": "100025",
+    "b0242_close_verification": {
+      "operation": "T7S_B0242_CLOSE",
+      "checked_at": "2026-11-03",
+      "status": "PASS_BOUNDED_DEEP_EVENT_TEXT_NATIVE_SELECTED_STATIC",
+      "category": "Event",
+      "portfolio_cohort": "NM-EVENT-CATALOG-792-794",
+      "native_top_layer_id": "100010",
       "native_family_layer_ids": [
-        "201260",
-        "201270",
-        "201110",
-        "201070",
-        "201440",
-        "201360",
-        "201180",
-        "201100",
-        "201220"
+        "200240"
       ],
       "original_portfolio_route_keys": [
-        "NM-BIRTHDAY-201260",
-        "NM-BIRTHDAY-201270",
-        "NM-BIRTHDAY-201110",
-        "NM-BIRTHDAY-201070",
-        "NM-BIRTHDAY-201440",
-        "NM-BIRTHDAY-201360",
-        "NM-BIRTHDAY-201180",
-        "NM-BIRTHDAY-201100",
-        "NM-BIRTHDAY-201220"
+        "NM-EVENT-200240"
       ],
       "episode_ids": [
-        "404000040",
-        "404000041",
-        "404000042",
-        "404000043",
-        "404000044",
-        "404000045",
-        "404000046",
-        "404000047",
-        "404000048"
+        "502010501",
+        "502010502",
+        "502010503"
       ],
       "source_bindings": [
         {
-          "episode_id": "404000040",
-          "script_id": "bdmemory_024_0129.json__20abae83773c2c16",
-          "source_sha256": "45facc16d44e3c490918e273d45982ac177198a3ff55b1050301d695f0cc7165",
-          "decoded_sha256": "a037f1ba0bb56ba020d0cd4a5d90810f2b267c43b6299367a3c382ba49ed05e3",
-          "normalized_sha256": "19f70f3e21012dc844050b3a72a9ed71840433433fe95c1986e4811ce7b3bd95",
-          "structured_sha256": "19f70f3e21012dc844050b3a72a9ed71840433433fe95c1986e4811ce7b3bd95",
-          "pages": 32,
-          "text_records": 17,
-          "command_only_pages": 15,
-          "voice_pages": 17,
-          "native_pages_verified": 32
-        },
-        {
-          "episode_id": "404000041",
-          "script_id": "bdmemory_042_0205.json__86fe51189e019dd8",
-          "source_sha256": "5386af1ac59a51ea929d7399aa84c0e3481e166a213679f407871103d06030ad",
-          "decoded_sha256": "df3916179496d80162541834981676d984730a5d508a5195a39f233836dba070",
-          "normalized_sha256": "537f552aa0eb83216a566c5275061cdde630387f53cbea8f1d6d80d218fbd11c",
-          "structured_sha256": "537f552aa0eb83216a566c5275061cdde630387f53cbea8f1d6d80d218fbd11c",
-          "pages": 31,
-          "text_records": 15,
-          "command_only_pages": 16,
-          "voice_pages": 15,
-          "native_pages_verified": 31
-        },
-        {
-          "episode_id": "404000042",
-          "script_id": "bdmemory_030_0214.json__0f0733969419f33c",
-          "source_sha256": "3ad5f3062da2795ecbe5c47ea5c2ff3e6c80126f0dcc650c2c7fa59a92c2cfe7",
-          "decoded_sha256": "4d0d0b069f66413b6735556543ee7a054499d71d487b71900e4bda87b51d53f8",
-          "normalized_sha256": "a03642581ce372a8550e245db557a8e98723bfb5bc169e3077281801b2385180",
-          "structured_sha256": "a03642581ce372a8550e245db557a8e98723bfb5bc169e3077281801b2385180",
-          "pages": 28,
-          "text_records": 13,
-          "command_only_pages": 15,
-          "voice_pages": 13,
-          "native_pages_verified": 28
-        },
-        {
-          "episode_id": "404000043",
-          "script_id": "bdmemory_002_0222.json__0f68b90d27a2bdca",
-          "source_sha256": "499616100d11a419865bebbaf3ac0be8884121b11c10023c8af26df527d32aed",
-          "decoded_sha256": "89585d92fbf35ea9dca112b177e4d1ef565319bc7b99a9c23ae1dd2e57ed2a3b",
-          "normalized_sha256": "a8bd9d313fe9e5e92b73cc1739dc82f9814e7a4ade6259df5f1e55a76f665c02",
-          "structured_sha256": "a8bd9d313fe9e5e92b73cc1739dc82f9814e7a4ade6259df5f1e55a76f665c02",
-          "pages": 30,
-          "text_records": 13,
-          "command_only_pages": 17,
 <!-- T7S SOURCE LOCK PAYLOAD END -->

@@ -4,16 +4,16 @@ artifact_id: T7S_TOPOLOGY_AND_CHRONOLOGY
 artifact_type: source_topology_and_chronology
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.140"
+version: "12.143"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g documents / T7S_B0080–T7S_B0181 and seven independent Sisara Intimacy occurrences / T7S_B0182 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 349 primary documents/49 family portfolios through T7S_B0230; Short current aggregate45independent primary messages throughT7S_B0232; B0231first3known-exposure history retained"
+source_boundary: "c20260909-r484; complete 235-document 2034 Main horizon plus first 280 non-Main i-n-g documents / T7S_B0080–T7S_B0181 and seven independent Sisara Intimacy occurrences / T7S_B0182 are closed; remaining 2034 non-Main is routed; 2053 and crossover semantics remain gated; Intimacy current aggregate 349 primary documents/49 family portfolios through T7S_B0230; Short current aggregate45independent primary messages throughT7S_B0232; B0231first3known-exposure history retained; B0240 closes two complete Event portfolios501010101and501010201; all previous source/chronology qualifications retained; B0241 closes two complete Event portfolios502010301and502010401; all previous source/chronology qualifications retained; B0242 closes complete three-chapter Event family200240/502010501-503; all previous source/chronology qualifications retained"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 # Tokyo 7th Sisters source topology and chronology
@@ -560,3 +560,15 @@ The active [remaining-2034 execution record](../09%20Audits%20and%20Manifests/T7
 - 2026-11-02: B0238 retains native top100025 and twelve original one-document routes with page counts30/69/23/26/20/23/160/28/38/34/26/44 in catalog756-767. Execution supplies no common party/year.44factual facets add21disjoint local sequence links,10graphic-component dependencies and1Rui-attributed recollection of earlier grand birthdays, without equating annual instances. Overlapping factual serialization is not a temporal/causal claim. Illustrated magic, cake01817, royal portraits, animals and a music-box drawing do not supply extra people or completed runtime.
 
 - 2026-11-02: B0239 retains native top100025 and nine original one-document routes with page counts32/31/28/30/51/28/30/63/28 in catalog768-776.48factual facets add27disjoint document-local sequence links and7graphic-component inclusions; no common party/year or exact Main placement. Sawara retains explicit March31night→April1local birthday order without numerical age/year; the dream is reported, the monster proposal unperformed. The written Yamai/Saori adjudication is later than the original case freezes and supplies no attendance. Cake01915 is a prop, same-Sui outgoing/incoming fades one person, Citrus pet/duo distinct and Jersey unbound.
+
+## B0240 — category-qualified Event pair and bounded meal continuation
+
+Native Event root100010/families200200and200210 bind two separate original one-document portfolios501010101/501010201, scriptsmemory_0101andmemory_0102,210and30pages, catalog788-789. Numeric root/family IDs also occur in the Sub namespace; category-qualified membership is mandatory and no Sub source was newly consumed. Fourteen document-sequence edges and one particular same-meal continuation add15links, not fifteen objective causes or a date relation to Main. The first Event contains a festival break, a later date-framed meeting and the accepted lunch offer. The special’s particular Nico-themed meal, ongoing eating, Rona/Player, park and brown dress support scene continuation; its eating/taste is later-known than the original first freeze. No exact gap, seven-day duration, annual instance or event year follows. Native title carriers are separately counted; specialP29ending voicevo_special_title_101_01is narrowly unresolved in the pinned canonical registry. All older chronology qualifications and freezes remain.
+
+## B0241 — independent New Year and anniversary Event portfolios
+
+Native Event root100010/families200220and200230 bind two independent original one-document portfolios502010301/502010401, scriptsmemory_0103andmemory_0104,132and180pages, catalog790-791. Category-qualified membership is mandatory despite reused numeric Sub IDs; no Sub source is newly consumed. NewYear dialogue supplies NewYear, prior-year recollections and previous-month twelve-person debut; anniversary title/native1周年Episode and thanks supply a year-based occasion. They do not establish an absolute year, a leap year, exact Main placement, formation date or366days between these adjacent menu entries. All27new edges are within-document order, not a bridge between cases or27objective causes. NewYearP86Group1 has Number1P87-88 and Number2P89-90, common ungroupedP91; both alternatives consumed, no runtime choice claimed. Anniversary has no choices; neither document has InlineMovie. Exact command-only endingsvo_special_103_127/P131andvo_special_104_177/P179 are separately unresolved in the pinned canonical registry, with actual failures/probes retained. Both original freezes and all older chronology qualifications remain exact.
+
+## B0242 — one complete three-chapter Event family, 夢を、あなたと
+
+Native category2/Eventroot100010/family200240/EVENT.005 binds502010501-503, scriptsmemory_0105-0107,44/42/66pages, catalog792-794. This is one complete original portfolio, not three independent families. Chapter1-3 order and the continued lyric task warrant23within-document facet links plus2native chapter-presentation links; they do not supply25objective causes, an exact elapsed interval, absolute year, fixed Main insertion or completed next-week live. Tonight/next-week and rooftop/stars/sleep are situated reports/relative anchors. Nicole’s dream supplies reported handholding/dance/ascent and a galaxy-like mirror ball; the visual background remains the ordinary lounge, so no literal flight or shared prophetic experience is established. Complete first and second known-then freezes precede later chapter exposure; later resolutions do not rewrite earlier uncertainty. NoChoices/ChoiceGroup/InlineMovie/Itemfield occurs in all3complete native documents. Exactcommandending vo_special_107_140/P65 lacks a quoted-name match only in the pinned canonical registry; its actual failure/probe/narrow successor remain. All earlier chronology qualifications, identity continuity, edge-ID gaps and original freezes remain exact.
