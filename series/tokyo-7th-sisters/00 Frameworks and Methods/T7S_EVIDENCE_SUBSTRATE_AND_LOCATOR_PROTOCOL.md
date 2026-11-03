@@ -4,16 +4,16 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.144"
+version: "1.145"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0239; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components"
+source_boundary: "c20260909-r484; preserved offline Japanese game; analysis integrated through T7S_B0239; complete source-lock JSON and two logical coverage roles maintained through checked manifest-bound physical components; B0240 closes two complete Event portfolios501010101and501010201; all previous source/chronology qualifications retained"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 # Tokyo 7th Sisters evidence substrate and locator protocol
@@ -490,3 +490,7 @@ Actual five-role acceptance 2026-11-02T14:11:43.331320+00:00 preceded committed 
 ## B0239 complete-consumer and actual-source accountability
 
 Actual five-role acceptance 2026-11-02T19:17:46.790870+00:00 preceded committed entering freeze 2026-11-02T19:17:55.303405+00:00 and first machine-primary intent 2026-11-02T19:22:17.911342+00:00. All43before-images/nine complete values/four snapshots were bound. Actual4positive/197negative prospective controls covered source6/7with eight retained coverage payloads and every finite intermediate. All six retained SourceLock components and eight coverage components remain mandatory; only manifest-declared absent Source007 may be add-only if unchanged384KiB partitioning needs it. CURRENT_006 is already retained, never a new path. No ledger rollover or consumer shrink. All321native pages/169text/152command-only were losslessly reviewed in23chunks; every complete case froze before next primary.105selected resources and31distinct original backgrounds in41case-bound views were actually inspected.169hash-verified named WAVs remain unheard; six Kajika literal-space command fields remain exact.10actual loop contents unresolved (Kajika2,others1), runtime unobserved. The independent semantic checker resolves1208locator occurrences and preserves48facts/81analytical paragraphs; only the exact eight already-admitted Saori self-reference nodes are allowed outside the current nine scripts. That post-case adjudication preserves both original frozen uncertainties. Exactly9whole records move;1581other effective records/defaults and177older serialized integrity members remain exact preservation obligations. Eleven existing character annotations and seven intervals for five existing units retain their bounds. No missing reply, contact consent, maturity or2034release is invented;2053blocked.
+
+## B0240 complete-view and exact Event evidence receipt
+
+Actual five-role acceptance 2026-11-02T23:19:38.452124+00:00 preceded fresh44-image entering freeze 2026-11-02T23:19:45.780537+00:00 and machine-primary intent 2026-11-02T23:26:44.072031+00:00. Nine complete values/four snapshots, all7retained source components,8coverage payloads and stable entity5/story4/claim4 were bound;4positive/206negative actual code controls passed. Source007is retained, never add-only; no new capacity or ledger rollover is admitted. Both whole Event documents/240pages were verified;15complete text/native review chunks and both actual complete case freezes preserve before-next ordering. Thirtycase-bound renderable instances/24distinct resources and9views/8original backgrounds were actually seen. The separate direct-source check resolves433locator occurrences and90exact speaker/content assertions;16factual facets and13arguments/rivals are preserved. Current school/club/knowledge retrieval occurred after first primary and before its freeze, never relabeled prospective.139availableWAVs, including all138dialogue cues, remain unheard. Special ending voicevo_special_title_101_01/P29is exact-registry unresolved; the actual failed guard, pinned probe and narrow successor remain. No global source absence, unheard performance, incomplete transcript, hidden branch or runtime claim. The first freeze and all178older integrity serializations remain exact. Independent candidate, actual changed-field review, finite native preparation/application, author preflight and publication gates remain separate.
