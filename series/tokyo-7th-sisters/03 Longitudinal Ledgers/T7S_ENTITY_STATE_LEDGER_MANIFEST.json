@@ -4,7 +4,7 @@
   "artifact_type": "logical_entity_state_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.69",
+  "version": "1.70",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -15,10 +15,10 @@
   "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical entity representation",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
-    "physical_bytes": 79025,
-    "physical_sha256": "5b6f796f41024c40302a1db973b07b6ec8f2e5566aa5f649e4b89dc574bccca3",
-    "logical_prefix_bytes": 14653,
-    "logical_prefix_sha256": "d9f50653f0c025b6ffede2ad78c1020d7958c4354483a0311c6763c446b23db5",
+    "physical_bytes": 79336,
+    "physical_sha256": "879375a3b008970530128f221bbbe1154d514ef651e8a9b514494f97a5c20ba5",
+    "logical_prefix_bytes": 14964,
+    "logical_prefix_sha256": "ddd5c270e38383a4f846a79faf86cf3e9eee5defc3fb564a69a5f91cbf1e915f",
     "route_marker": "<!-- T7S ENTITY STATE COMPONENT ROUTES -->"
   },
   "assembly_rule": "Read the exact owner prefix before the unique route marker, then append every ordered component payload byte range. Validate all full-file and payload byte lengths/hashes, paths, intervals, owner IDs, LF/UTF8 and complete ordering before treating the result as the logical ledger. Component terminators are metadata outside the declared payload range; original final blank lines remain inside that exact payload.",
@@ -102,11 +102,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_006.md",
       "artifact_id": "T7S_ENTITY_STATE_COMPONENT_006",
-      "physical_bytes": 283526,
-      "physical_sha256": "35cbd0e3ce2551586994385c57bd6bde1690bd649d52ffc63fb82e1f803b9135",
+      "physical_bytes": 283744,
+      "physical_sha256": "a9376caba3d9b007787090c4e69e67d6b1776b69239ce60a9cd10ae967ed7513",
       "payload_offset_bytes": 711,
-      "payload_bytes": 282777,
-      "payload_sha256": "1d58227e62d0363360f371e2975c1cdce0d0ce31859f9ca135a757a628b00464",
+      "payload_bytes": 282995,
+      "payload_sha256": "67e0ee6b2714c77a1faea7a34d465856d46a58f9e1d0f85480ea18768f06e959",
       "first_heading": "## B0243 differentiated character, knowledge, relationship and work intervals",
       "authority": "Canonical delegated component of one logical entity ledger; no duplicated owner or independent interpretation",
       "payload_terminator": "<!-- T7S ENTITY STATE PAYLOAD END -->",
@@ -115,8 +115,8 @@
     }
   ],
   "parts_count": 6,
-  "logical_bytes": 2494455,
-  "logical_sha256": "d0221eef00f0db43638ec59efc98be3a788486820b08b03de4801555c5175ae1",
+  "logical_bytes": 2494984,
+  "logical_sha256": "7dd9edc9af500ccbbcfc9cb28ad122ecd92f38d30dd4aed4620f816bc7658c46",
   "complete": true,
   "disjoint_payload_intervals": true,
   "last_source_high_water": "T7S_B0244",
@@ -1599,5 +1599,20 @@
     "new_component_payload_sha256": "b3349861ab197809a6115224d231be8d67880453849b041d8f6d66b27e37ced1",
     "semantic_body_change": "Only separately reviewed B0243 appended state; no earlier body, horizon, ID, path or frozen transition changed",
     "physical_caps_and_native_budget": "UNCHANGED"
+  },
+  "latest_current_row_revision": {
+    "operation": "T7S_B0244_DEPARTURE_ERRATUM_01",
+    "revision_id": "REV-0044",
+    "source_high_water": "T7S_B0244",
+    "date": "2026-11-03",
+    "target": "REL-1652",
+    "logical_before_sha256": "d0221eef00f0db43638ec59efc98be3a788486820b08b03de4801555c5175ae1",
+    "logical_after_sha256": "7dd9edc9af500ccbbcfc9cb28ad122ecd92f38d30dd4aed4620f816bc7658c46",
+    "old_row_sha256": "3f49a64109fdf491325ea2c9b51ae0c8b13b3c59a30d8c207c4d07802d88fc23",
+    "new_row_sha256": "5639aa1915d50fe9924677a7f4f005344d7492553f0b8893358da272eb5322cf",
+    "unchanged_other_payload_bytes": true,
+    "sealed_older_components_byte_exact": true,
+    "earlier_latest_append_receipt": "UNCHANGED_HISTORICAL",
+    "erratum_path": "09 Audits and Manifests/T7S_B0244_MUSUBI_DEPARTURE_ERRATUM_01.md"
   }
 }

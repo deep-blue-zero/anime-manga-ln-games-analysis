@@ -4,7 +4,7 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.146"
+version: "11.147"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -56,6 +56,9 @@ Every readiness decision requires `subject_id`, `witness_id`, `state_horizon`, `
 The capability fields are `textual_characterization`, `japanese_linguistic_voice`, `performed_voice`, `visual_identity`, `embodied_presentation`, `stage_identity`, `relationship_coverage`, `ordinary_life_coverage`, `chronology_coverage`. Each is an object with `scope`, `review_status`, `evidence_routes`, `limits`, `review_ref`. Status is `UNREVIEWED`, `PARTIAL`, `REVIEWED_WITH_BOUNDS`, `INSUFFICIENT_SOURCE`, or `NOT_APPLICABLE_WITH_REASON`. A capability score/sum cannot substitute for evidence. An available, unexamined visual/voice modality cannot be waived as non-applicable to monograph maturity.
 
 The current monograph declaration must match its ledger decision and scope. At textual readiness mark its integrated multimodal identity responsibility `PENDING_MULTIMODAL_MATURITY`. Mature status requires both representative visual and actual listened-to voice review, integration, counterexamples and passing audit under the architecture. Broadening scope reopens affected checks while retaining the prior bounded decision.
+
+
+Current correction: REL-1652 records Musubi's announced departure, with actual completion unestablished in503012803; [REV-0044](T7S_CLAIM_AND_EVIDENCE_LEDGER.md#rev-0044--revise-announced-departure-without-a-completed-exit) and the attributable B0244 erratum preserve the original wording and frozen reading.
 
 <!-- T7S ENTITY STATE COMPONENT ROUTES -->
 

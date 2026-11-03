@@ -4,7 +4,7 @@ artifact_id: T7S_CLAIM_AND_EVIDENCE_LEDGER
 artifact_type: claim_evidence_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "11.147"
+version: "11.148"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -30,7 +30,7 @@ Read the complete manifest-bound logical ledger through its current owner, manif
 
 `last_closed_block = T7S_B0244`
 
-`claims = 2332`; `revisions = 43`; `predictions = 7`; `AV_reviews = 191`; `literary_findings = 2332`. Claims are bounded to their stated B0001 through B0244 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters,349complete Intimacy primary documents across49family portfolios and45independent Short messages plus12Legend documents/6paired chapters and9ManyMerryParty documents plus48Birthday and36Event documents in11original portfolios; the recorded first3native-heading exposure is retained. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
+`claims = 2332`; `revisions = 44`; `predictions = 7`; `AV_reviews = 191`; `literary_findings = 2332`. Claims are bounded to their stated B0001 through B0244 horizons and integrated across complete admitted Main through EPISODE NANASUTA and the first 102 complete i-n-g chapters,349complete Intimacy primary documents across49family portfolios and45independent Short messages plus12Legend documents/6paired chapters and9ManyMerryParty documents plus48Birthday and36Event documents in11original portfolios; the recorded first3native-heading exposure is retained. No performed-voice, singing, instrumental-technique, choreography, continuous-motion, or music-affect interpretation is admitted. NANASUTA tests care across three ordinary relational scales: person-specific professional attention, mismatch-compatible cooperation, and a well-meant gift whose first reception fails. Its deletion-tested result is that care is material, directional, partial, revisable, and limited by reception rather than guaranteed by sincerity. Seventeen exact character composites and nine decoded backgrounds are reviewed; all 989 NANASUTA voice-reference pages remain unauditioned. Kyoko, Ferb, and Kazumi reach state-bounded reconstruction readiness, but no claim has earned character-monograph or specialist-synthesis promotion.
 
 ## Claim record contract
 
@@ -53,6 +53,9 @@ Native page value, derived effective state, interpreted transition and proven ru
 Record `OBSERVED VISUAL FEATURE` separately from `ANALYTICAL INTERPRETATION`; illustrative/card representation is not automatically a literal event. Linguistic voice needs native wording; performed voice needs actually heard resolved recordings; seiyuu performance is not actor personality. Music/lyric claims distinguish stored game wording, edition, speaker/persona, recording, in-story act and stage realization.
 
 At a monograph promotion audit, record the visual and voice selection pools, covered modes, common alternatives and counterexamples, diminishing-return stopping rationale, integration decisions, exact evidence routes, scope and audit outcome. The entity readiness record owns the promotion decision; the monograph owns the integrated argument. AV-D for individual textual claims does not waive either mature-monograph modality review.
+
+
+Current correction: REV-0044 qualifies Musubi's announced departure in503012803; the frozen B0244 reading is governed by its attributable erratum, with no new source or readiness horizon.
 
 <!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->
 
@@ -1385,3 +1388,7 @@ The complete current claim ledger is the manifest-bound logical prefix plus ever
 <a id="av-0191--fourteen-complete-event-textnativestill-cases-with-one-exact-command-only-gap"></a>
 
 [AV-0191 — Fourteen complete Event text/native/still cases with one exact command-only gap](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#av-0191--fourteen-complete-event-textnativestill-cases-with-one-exact-command-only-gap)
+
+<a id="rev-0044--revise-announced-departure-without-a-completed-exit"></a>
+
+[`REV-0044` — REVISE announced departure without a completed exit](T7S_CLAIM_EVIDENCE_COMPONENT_005.md#rev-0044--revise-announced-departure-without-a-completed-exit)

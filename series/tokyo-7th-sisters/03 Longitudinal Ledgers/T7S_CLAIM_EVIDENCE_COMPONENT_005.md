@@ -4,7 +4,7 @@ artifact_id: T7S_CLAIM_EVIDENCE_COMPONENT_005
 artifact_type: claim_evidence_ledger_component
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.2"
 status: canonical
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
@@ -294,4 +294,14 @@ B0244 closes fourteen complete Event documents in three separate original famili
 | 503013205 | 35/33/2/23 | 13resource instances in preserved actual review | 24resolved/unheard; {} |
 
 All283resolved WAV-binding instances are metadata/hash verified and unheard;266dialogue-associated voice pages are not a count of distinct assets. The sole unresolved named cue vo_special_127_018 occurs at503012305/P24, with noTextArea. All dialogue-associated named cues resolve. Static facial/resource differences and native field values do not establish a performed voice, exact emotion, transformation timing, actual concert, camera recording, medical diagnosis or automatic possession rule. BGM/SFX/runtime and mature multimedia remain unreviewed. All Item/Choices/InlineMovie absences refer to the complete actual fourteen-source inventory. The earlier strict failure, narrow successor, blank-marker disposition and image display recoveries remain preserved; no new global exemption follows.
+
+### `REV-0044` — REVISE announced departure without a completed exit
+
+- Old formulation: Leaves and regrets the provocation; extreme self-reproach is not an inferred act, plan or diagnosis.
+- New formulation: Announces that she will leave and regrets having accepted Susu's provocation; completed departure is not established in this chapter. Extreme self-reproach is not an inferred act, plan or diagnosis.
+- Trigger and material counterevidence: bounded review of the previously admitted503012803 P44-P52. Musubi announces going home atP44 and still has written turns atP46-P47/P49; the native resource remains through subsequent turns andP52 supplies a whole-scene white fade. Completed departure is not established. Evidence: `t7s://c20260909-r484/v1/script/memory_0130.json__d9258acfd32bc6b0?doc=primary&log=44#/Pages/44`; `t7s://c20260909-r484/v1/script/memory_0130.json__d9258acfd32bc6b0?doc=primary&log=46#/Pages/46`; `t7s://c20260909-r484/v1/script/memory_0130.json__d9258acfd32bc6b0?doc=primary&log=47#/Pages/47`; `t7s://c20260909-r484/v1/script/memory_0130.json__d9258acfd32bc6b0?doc=primary&log=49#/Pages/49`; `t7s://c20260909-r484/v1/script/memory_0130.json__d9258acfd32bc6b0?doc=primary&log=52#/Pages/52`.
+- Classification and rival: REVISE an unsupported completed-action formulation to SOURCE_FACT for an announced intention plus OPEN for completion. P44 can invite an immediate-departure inference, but that inference must stay distinct from observation; no runtime movement was observed. Extreme self-reproach remains neither an inferred act nor plan/diagnosis.
+- Affected artifact IDs and old/new scope: T7S_B0244_DEEP_READING line1039 and REL-1652 only. EV-B0244-039 and KNOW-2429 already preserve the announcement/uncertainty and remain unchanged.
+- Dependency repairs: current REL-1652 uses the corrected formulation; [B0244 departure erratum01](../09%20Audits%20and%20Manifests/T7S_B0244_MUSUBI_DEPARTURE_ERRATUM_01.md) qualifies the byte-exact frozen reading. The current entrypoint, portfolio route and execution record disclose the correction. No whole-artifact supersession or new source admission.
+- Effective horizon and history: sameB0244/503012803 endpoint, retrospective correction of authored wording only. Frozen reading/source/case/family receipts remain unchanged; published Git and this revision preserve the old formulation. No counts except the revision total, readiness, maturity, listening, runtime, full2034release or2053 status are promoted.
 <!-- T7S CLAIM EVIDENCE PAYLOAD END -->

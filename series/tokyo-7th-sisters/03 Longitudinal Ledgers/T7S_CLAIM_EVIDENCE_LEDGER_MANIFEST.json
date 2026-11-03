@@ -4,7 +4,7 @@
   "artifact_type": "logical_claim_evidence_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.14",
+  "version": "1.15",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -18,10 +18,10 @@
   "last_source_high_water": "T7S_B0244",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
-    "physical_bytes": 80901,
-    "physical_sha256": "e0cf4e05606db4e5035746c8ce8453730c911a94712b862b231e9b7e419e1d50",
-    "logical_prefix_bytes": 14312,
-    "logical_prefix_sha256": "12486139015fb6f512ad998523f993a5fbb060fb6b21df4498bd3eff55d868ab",
+    "physical_bytes": 81336,
+    "physical_sha256": "00f71d205bfa288ab57a22da07bd9abb2e9d13e935a1edafd9066bf049ae8404",
+    "logical_prefix_bytes": 14502,
+    "logical_prefix_sha256": "ab10d28aa37cc5c5470290c533e9534f06e7444c07a9c08f5a8baae41350cf60",
     "route_marker": "<!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -88,11 +88,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_005.md",
       "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_005",
-      "physical_bytes": 406576,
-      "physical_sha256": "1bd6cd1f6c3a6f5ecbeaf5b0719720c027b38835371eeb7f67cebcee18ce878d",
+      "physical_bytes": 409064,
+      "physical_sha256": "584460a17c30623d447de912df008a4c2e90e118b262b05a0a4e84244183aedf",
       "payload_offset_bytes": 726,
-      "payload_bytes": 405810,
-      "payload_sha256": "5bf2e950e09e932834ef4bb4aff19ba6f8ae540c6fda117eca52c5487f9b38c2",
+      "payload_bytes": 408298,
+      "payload_sha256": "3509c1a2b21da23e337901e8a9df52b8b4ab3c026b037614023896a3282d0e98",
       "first_heading": "## B0243 public images, distinct recipients and prospective freedom",
       "authority": "Canonical delegated component of one logical claim ledger; no duplicated owner or independent interpretation",
       "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
@@ -102,8 +102,8 @@
     }
   ],
   "parts_count": 5,
-  "logical_bytes": 2008783,
-  "logical_sha256": "378c89827ccd618516c1cfc7122d22f06abb89df770da42b6f201608717a65f5",
+  "logical_bytes": 2011461,
+  "logical_sha256": "744701a7449ceb24dd72aaf1ac0d7a9918fc24d51e5388ff4521b5e777250a08",
   "heading_routes": [
     {
       "original_anchor": "current-claims",
@@ -2096,6 +2096,12 @@
       "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_005.md",
       "component_anchor": "av-0191--fourteen-complete-event-textnativestill-cases-with-one-exact-command-only-gap",
       "heading": "AV-0191 — Fourteen complete Event text/native/still cases with one exact command-only gap"
+    },
+    {
+      "original_anchor": "rev-0044--revise-announced-departure-without-a-completed-exit",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_005.md",
+      "component_anchor": "rev-0044--revise-announced-departure-without-a-completed-exit",
+      "heading": "`REV-0044` — REVISE announced departure without a completed exit"
     }
   ],
   "storage_transition": {
@@ -2120,11 +2126,11 @@
   "latest_logical_append": {
     "source_high_water": "T7S_B0244",
     "date": "2026-11-03",
-    "logical_before_sha256": "4da4f7470b1172af3ebd491c11a7beee7c986782b75578ab45411025f890e49d",
-    "logical_after_sha256": "378c89827ccd618516c1cfc7122d22f06abb89df770da42b6f201608717a65f5",
-    "addition_bytes": 161865,
-    "addition_sha256": "c4ac40d595366d1c347d4ba886099fa727b878ac95281d3481abcb6e1b420736",
-    "unchanged_older_body_sha256": "c3aa99f979c60c1e1bb0a74c6063e6390eed97ffff434d2e006074f4dc0a9602",
+    "logical_before_sha256": "378c89827ccd618516c1cfc7122d22f06abb89df770da42b6f201608717a65f5",
+    "logical_after_sha256": "744701a7449ceb24dd72aaf1ac0d7a9918fc24d51e5388ff4521b5e777250a08",
+    "addition_bytes": 2488,
+    "addition_sha256": "9a483764852bf034b2c85cba3b8a9ed401693a190253ce6adbfc2d446394ff1b",
+    "unchanged_older_body_sha256": "ccffc1093cf407b9fdfd47b6a4e7319ecfdcbff7aa4128df008638dc5d9541a4",
     "active_component": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_005.md",
     "sealed_older_components_byte_exact": true
   },
