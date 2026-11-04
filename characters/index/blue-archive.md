@@ -41,15 +41,39 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Analysis subject ID: `blue-archive:alice@game`
 - Series: `blue-archive`
 - Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-monograph-scope`: GAME OTHER: Dedicated bounded interpretation of Alice/AL-1S (variants 10015/10066/10134) from her private bond and message accounts, main-story Volume 2 Chapters 1–2, the arcade group story, Event E825, the Final volume and Event E854. This describes the monograph's analytical corpus, not every appearance. Origin, Key/Kei/file lineage and future safety stay open.; continuity `blue-archive-game`
   - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
 - Reviewed current evidence:
+  - [`bounded-character-monograph` — Alice (Aris) bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_CHARACTER_MONOGRAPH.md) — **active provisional authority**
   - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
   - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
+
+<a id="arona"></a>
+
+### Arona
+
+- Entity ID: `blue-archive:arona`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:arona@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-main-story-scope`: GAME OTHER: Dedicated interpretation drawn from maintained analytical accounts of the main-story Prologue, Volume 1 (documentary Abydos backfill), the Final volume, and Series 2 Volumes 0, 1 and 3 (with the Volume 3 Chapter 1 checkpoint). This describes the monograph's analytical corpus, not every Arona appearance. No bond, event, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Arona character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md)
 
 <a id="aru"></a>
 
@@ -213,6 +237,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Reviewed current evidence:
   - [`rabbit-1` — Rabbit of Caerbannog Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_004_%E3%82%AB%E3%83%AB%E3%83%90%E3%83%8E%E3%81%AE%E5%85%8E%E7%B7%A8/BLUE_ARCHIVE_MAIN_V004_C001_CHECKPOINT.md)
 
+<a id="eimi"></a>
+
+### Eimi
+
+- Entity ID: `blue-archive:eimi`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:eimi@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-retrieval-bounded-scope`: GAME OTHER: Dedicated interpretation of the private bond and message routes of variants 10001 and 20032 (BA_PERSON_EIMI), with the separately keyed 10136 route (BA_PERSON_CH0337) and the G150 speaker compared without being merged into this person; plus group story G150, Events E831 and E854, and the Final volume as maintained public contexts. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`retrieval-bounded-character-monograph` — Eimi retrieval-bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md)
+
 <a id="hanako"></a>
 
 ### Hanako
@@ -285,6 +331,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+<a id="himari"></a>
+
+### Himari
+
+- Entity ID: `blue-archive:himari`
+- Entity aliases:
+  - 明星ヒマリ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:himari@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-bounded-scope`: GAME OTHER: Dedicated interpretation of the CH0159 retrieval family (printed 明星ヒマリ; selected variants 20020 and 20054) across eight paired private accounts and four written objects, with bounded public comparisons including main-story Volume 2 Chapter 2 and Event E854. This describes the monograph's analytical corpus, not every appearance. No performed-voice or full-series coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`bounded-character-monograph` — Himari bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md) — **active provisional authority**
 
 <a id="hina"></a>
 
@@ -460,13 +528,15 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Analysis subject ID: `blue-archive:midori@game`
 - Series: `blue-archive`
 - Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of BA_PERSON_MIDORI (variants 10016/10095) from her private bond account, the arcade group story G250, Events E825 and E854, main-story Volume 2 and the Final volume. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
   - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
 - Reviewed current evidence:
+  - [`character-monograph` — Midori character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md)
   - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
   - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
 
@@ -574,13 +644,15 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Analysis subject ID: `blue-archive:momoi@game`
 - Series: `blue-archive`
 - Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of BA_PERSON_MOMOI (routes 13011 and 10094) from her private bond account, the arcade group story G250 and Event E825, with selected connected main-story and event accounts. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
   - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
 - Reviewed current evidence:
+  - [`character-monograph` — Momoi character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md)
   - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
   - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
 
@@ -633,6 +705,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - [`eden-3` — Eden Treaty Chapter 3 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md)
   - [`eden-4` — Eden Treaty Chapter 4 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md)
 
+<a id="nomasa-rei"></a>
+
+### Nomasa Rei
+
+- Entity ID: `blue-archive:nomasa-rei`
+- Entity aliases:
+  - 野正レイ (ja, ORIGINAL_SCRIPT)
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:nomasa-rei@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-bounded-scope`: GAME OTHER: Dedicated interpretation of the baseball student CH0245 from her private contextualization checkpoint, four paired bond/message readings, two written-repertoire readings, group story G330, Events E832 and E845, Sumire's private account and the E126 gift reading. This describes the monograph's analytical corpus, not every appearance. The separately unresolved diving Rei is excluded.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`bounded-character-monograph` — Rei (baseball, CH0245) bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+
 <a id="nonomi"></a>
 
 ### Nonomi
@@ -656,6 +750,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - [`chapter-1-checkpoint` — Countermeasures Committee Arc Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`character-state-ledger` — Cumulative character-state ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
+
+<a id="plana"></a>
+
+### Plana
+
+- Entity ID: `blue-archive:plana`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:plana@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-main-story-scope`: GAME OTHER: Dedicated interpretation drawn from maintained analytical accounts of the main-story Prologue, Volume 1 (Abydos), the Final volume (including the Chapter 4 checkpoint and E008 deep reading), and Series 2 Volumes 0, 1 and 3 (with the Volume 3 Chapter 1 checkpoint). This describes the monograph's analytical corpus, not every appearance of the OS. No bond, event, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Plana character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md)
 
 <a id="saki"></a>
 
@@ -822,6 +938,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - [`character-state-ledger` — Cumulative character-state ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md) — **active provisional authority**
   - [`voice-address-ledger` — Cumulative Japanese voice and address ledger](../../series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md) — **active provisional authority**
 
+<a id="sumire"></a>
+
+### Sumire
+
+- Entity ID: `blue-archive:sumire`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:sumire@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of BA_PERSON_SUMIRE (variants 10012/20044 and a costume route) from her private contextual account, group story G330, Event E832 and main-story Volume 2. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Sumire character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md)
+
 <a id="yuuka"></a>
 
 ### Yuuka
@@ -858,12 +996,14 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Analysis subject ID: `blue-archive:yuzu@game`
 - Series: `blue-archive`
 - Continuity: `blue-archive-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
   - `pavane-reviewed-chapters`: GAME STORY_CHAPTER: Substantial distributed analysis across main-story Volume 2 Chapter 1 E001–E020 and Chapter 2 E001–E025, at their canonical checkpoints. This describes the analytical corpus, not character presence in every episode. No later-volume, side-story, bond, MomoTalk or performed-voice coverage is claimed.; continuity `blue-archive-game`
+  - `two-key-monograph-scope`: GAME OTHER: Dedicated interpretation of BA_PERSON_YUZU (variants 10018/26009) from her private bond account, main-story Volume 2, the arcade group story G250 and Event E825. The separately keyed 20055 route (BA_PERSON_CH0336) is compared, not identified with this person. This describes the monograph's analytical corpus, not every appearance.; continuity `blue-archive-game`
 - Reviewed current evidence:
   - [`pavane-chapter-1` — Pavane Chapter 1 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md)
   - [`pavane-chapter-2` — Pavane Chapter 2 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md)
+  - [`two-key-bounded-character-monograph` — Yuzu two-key bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md)
