@@ -487,6 +487,29 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - [`estate-story-checkpoint` — V02–V03 estate-story character and relationship synthesis](../../series/re-zero/02%20Sequential%20Readings/REZERO_ARC_ESTATE_STORY_CHECKPOINT.md)
   - [`master-longitudinal-ledger` — Cumulative character, information and relationship states (cited here for V02–V03)](../../series/re-zero/04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md)
 
+<a id="scarf-echidna"></a>
+
+### Scarf Echidna
+
+- Entity ID: `re-zero:scarf-echidna`
+- Entity aliases:
+  - Echidna (en, ALTERNATIVE, ambiguous) — Name of the artificial spirit based in Anastasia Hoshin's scarf; shared with the tea-party Witch Echidna, whom the model treats as a separate actor whose identity or continuity with the operator is not established.
+  - 襟ドナ (ja, ALTERNATIVE) — Subaru's coined scarf nickname, which the operator mildly resists; not a self-label or identity proof.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:scarf-echidna@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the artificial spirit operating from Anastasia's scarf across the original Japanese main light novels V20–V22, built from 28 contextual intervals of already-consumed V20, V21 and V22; it covers reported prior companionship and borrowings (as report, not displayed history), the V20 Al/Ferris encounter and disclosure to Subaru, the V21 public portrayal, Julius defense, route guidance and the discarded E023 route including the stabbing of Ram, and the V22 E024 tower inquiry, failed Ziwald rescue of Julius, balcony inquiry with Subaru, coercive disclosure to Julius and escort default. Human Anastasia and the Witch Echidna are not covered. No V23 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Scarf Echidna: V20–V22 explicit artificial-operator character model](../../series/re-zero/05%20Character%20Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md)
+
 <a id="subaru"></a>
 
 ### Subaru

@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 24 |
+| [`re-zero`](characters/index/re-zero.md) | 25 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -480,6 +480,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Sara](characters/index/mushoku-tensei.md#sara) | Japanese light-novel continuity | `mushoku-tensei:sara@light-novel` | — |
 | [Satou Kazuma](characters/index/konosuba.md#satou-kazuma) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:satou-kazuma@original-light-novel` | — |
 | [Sayuri Ichinose](characters/index/rent-a-girlfriend.md#sayuri-ichinose) | Main manga continuity | `rent-a-girlfriend:sayuri-ichinose@manga` | — |
+| [Scarf Echidna](characters/index/re-zero.md#scarf-echidna) | Re:Zero main light novel | `re-zero:scarf-echidna@light-novel` | Echidna; 襟ドナ |
 | [Seia](characters/index/blue-archive.md#seia) | Blue Archive game | `blue-archive:seia@game` | — |
 | [Seibu Rio](characters/index/shine-post.md#seibu-rio) | SHINE POST television anime | `shine-post:seibu-rio@television-anime` | — |
 | [Sena](characters/index/konosuba.md#sena) | Original light-novel continuity, scoped current monograph | `konosuba:sena@original-light-novel` | セナ |
