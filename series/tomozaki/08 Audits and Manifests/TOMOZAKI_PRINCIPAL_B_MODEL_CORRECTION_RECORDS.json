@@ -1,0 +1,249 @@
+{
+  "schema": "tomozaki_principal_B_portable_historical_records/v1",
+  "artifact_type": "derived_model_historical_evidence_records",
+  "record_group": "CORRECTION",
+  "status": "canonical",
+  "release_state": "fixed_historical_evidence",
+  "repository_authority": false,
+  "do_not_use_as_current_authority": true,
+  "do_not_use_as_primary_literary_authority": true,
+  "historical_value_policy": "Complete values are preserved unchanged and attributable. Creation-stage pending/no-admission statements do not supersede later root decisions. Historical scratch/helper-identity strings are provenance only; no helper body/argv/raw primary is included.",
+  "records": [
+    {
+      "record_id": "producer.NM_ACTUAL_READBACK_DEFECT_AND_V2_SUCCESSOR.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_READBACK_DEFECT_AND_V2_SUCCESSOR.json",
+        "bytes": 2581,
+        "sha256": "4c8da6a7ae9fc4cfed763c414a2ecc3ec1a8725aa0fc50bebf319591652af352"
+      },
+      "semantic_value_sha256": "cb8005843bbfab626255bf19d270516ae423598eb997ce2214016e43d4ea6d00",
+      "value": {
+        "schema": "tomozaki_principal_B3_actual_model_defect_successor/v1",
+        "utc": "2026-11-04T02:57:37.304306+00:00",
+        "defect_id": "NM-D01",
+        "detected_by": "Producer actual full saved-body readback, after initial V1 applications and slice creation",
+        "original_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 21893,
+          "sha256": "efaaabcf0f4b331fd39ee403bfc3a6fd7de2460aa383b148cfe095db9a46f22f"
+        },
+        "original_traces": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+          "bytes": 51636,
+          "sha256": "2f7f9800e7ce6ea2e299007cbe8d5f061052019d12017532df2fc390ed6ee977"
+        },
+        "original_slice": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_IMMUTABLE_REVIEW_SLICE.json",
+          "bytes": 2365,
+          "sha256": "8403bb159d0835d82e2ec6d0308d280ce56483018f6ffaf627554abf8e883120"
+        },
+        "observed_defect": "MM7 used earlier measured athletic test, which can imply an attested timing measurement despite source and other model constraints explicitly withholding a verified personal-best time. It is unnecessary ambiguous wording and is withdrawn.",
+        "classification": "Actual model wording defect caught in readback, not a manufactured failed behavior attempt. V1 outputs themselves explicitly withheld measured records; no observed output time invention is alleged.",
+        "repair": "Replace that phrase by earlier farewell100-metre contest and change only version metadata. No literary/source/criterion interpretation or other mechanism changes.",
+        "successor_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+          "bytes": 21897,
+          "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+        },
+        "exact_delta": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_V1_TO_V2_EXACT_DELTA.patch",
+          "bytes": 2348,
+          "sha256": "6b8e59ff381fe6e32d9f1f552c080b52c0b826dff4f421c307718214e9248c25"
+        },
+        "affected_frozen_tests": [
+          "NM-R2",
+          "NM-R6"
+        ],
+        "required_retest_suboutputs": 8,
+        "unchanged_other_tests": "NM-R1/R3/R4/R5/H1/H2 original actual outputs retained; mechanically unchanged model portions/mechanisms justify retaining their review, not inventing full new reruns.",
+        "preregistration_changed": false,
+        "primary_return_required": false,
+        "originals_retained": true,
+        "root_and_independent_review": "PENDING_V2_DELTA_AND_ACTUAL_AFFECTED_RETEST",
+        "producer_final_PASS": false
+      }
+    },
+    {
+      "record_id": "producer.NM_V1_TO_V2_EXACT_DELTA.patch",
+      "value_kind": "complete_utf8_text",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_principal_models_b_20261103/NM_V1_TO_V2_EXACT_DELTA.patch",
+        "bytes": 2348,
+        "sha256": "6b8e59ff381fe6e32d9f1f552c080b52c0b826dff4f421c307718214e9248c25"
+      },
+      "semantic_value_sha256": "016c10ddcbc655bf72efaadd3fe4e5a7c7c1beb5d5340131da89c2e053ccb7ee",
+      "value": "--- NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md\n@@ -3,7 +3,7 @@\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n subject: NANAMI_MINAMI_MIMIMI\n-model_version: NM_BOUNDED_V1_20261103\n+model_version: NM_BOUNDED_V2_20261103\n status: draft_noncurrent\n release_state: draft_noncurrent\n repository_authority: false\n@@ -102,7 +102,7 @@\n \n At the V12 interview, her contribution is not merely information handed to an author. Under a severe abstract question, she can change the medium to a bodily run, bring different participants into it, compete impulsively and check another participant's condition afterward. Her account of refusing opportunistic acquisition weighs Fumiya's good and the self she would have to live with. Continuing love and pride in that choice coexist. V09 already gave positive self-regard; this is a further ground, not the first appearance of agency or proof of a universal sacrifice rule.\n \n-Operationally, when reconstructing this state, identify the act she endorses rather than rank how much she suffers. A hypothetical new ethical choice still requires facts about the desired act and affected people. Her reflective account cannot erase previous intrusive methods or guarantee the next one. The 200-metre sudden-start interview race is a local playful/embodied method, not the earlier measured athletic test or a perfectly fair moral demonstration.\n+Operationally, when reconstructing this state, identify the act she endorses rather than rank how much she suffers. A hypothetical new ethical choice still requires facts about the desired act and affected people. Her reflective account cannot erase previous intrusive methods or guarantee the next one. The 200-metre sudden-start interview race is a local playful/embodied method, not the earlier farewell 100-metre contest or a perfectly fair moral demonstration.\n \n **Evidence:** NM-E30–31; NM-P30: V12 `item/xhtml/p-0013.xhtml` P1–180, particularly P82–154; prior NM-P19/P27. CS-MIM-01/02/04, REL-C07, JVL §13, monograph §17.2–17.4. Strong for addressed self-account and acts; the counterfactual romantic success she considered is unproved. Kikuchi/Fumiya are explicit listeners to the romantic account; shared location does not ensure identical access for Mizusawa.\n \n"
+    },
+    {
+      "record_id": "independent.MIMIMI_V2_PRESEAL_COUNT_CORRECTION.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_b_independent_review_20261103/MIMIMI_V2_PRESEAL_COUNT_CORRECTION.json",
+        "bytes": 1159,
+        "sha256": "41f13c2146b570c9d0eba4d2464950c24f580cbf4c92427f41f5dffa6dff8d05"
+      },
+      "semantic_value_sha256": "7e62fc7248338da76e30fe988617b73a061fb81650ed5b74b4c9ab79173541d5",
+      "value": {
+        "schema": "tomozaki_independent_review_preseal_count_correction/v1",
+        "utc": "2026-11-04T03:04:11.946937+00:00",
+        "detected_by": "Independent reviewer before final seal during full saved-output readback/count replay",
+        "defect": "Carry-forward prose incorrectly said ten original suboutputs for four unchanged inputs; actual original record arrays contain nine. No output body/model/frozen input/criterion altered.",
+        "actual_count": 9,
+        "preserved_preimage": {
+          "path": "MIMIMI_V2_RETESTS_BEFORE_PRESEAL_COUNT_CORRECTION.json",
+          "bytes": 9888,
+          "sha256": "67b35b05f2cd79eb06ea34e57e3ae29a67fec640a83898ce81bb8737ebfed727"
+        },
+        "corrected": {
+          "path": "MIMIMI_V2_TWO_INDEPENDENT_ACTUAL_RETESTS.json",
+          "bytes": 9889,
+          "sha256": "79b918774cc09d672bd7b7e1af98147ff80778278ca4af49a85c0a9eff477126"
+        },
+        "exact_only_replacement": {
+          "before": "Other four exact frozen independent inputs PB-MIM01/03/04/06 retain ten actual V1 suboutputs",
+          "after": "Other four exact frozen independent inputs PB-MIM01/03/04/06 retain nine actual V1 suboutputs"
+        },
+        "semantic_outputs_unchanged": true,
+        "old_sealed_files_changed": false
+      }
+    },
+    {
+      "record_id": "independent.MIMIMI_V2_RETESTS_BEFORE_PRESEAL_COUNT_CORRECTION.json",
+      "value_kind": "complete_json_semantic_value",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_b_independent_review_20261103/MIMIMI_V2_RETESTS_BEFORE_PRESEAL_COUNT_CORRECTION.json",
+        "bytes": 9888,
+        "sha256": "67b35b05f2cd79eb06ea34e57e3ae29a67fec640a83898ce81bb8737ebfed727"
+      },
+      "semantic_value_sha256": "2aae237b1b9681c6b909b238cda88f26c3941e8c0ce0919ef45311aa2f7c2b8e",
+      "value": {
+        "schema": "tomozaki_principal_B_Mimimi_V2_two_independent_actual_retests/v1",
+        "utc": "2026-11-04T03:03:08.402943+00:00",
+        "preregistration": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/PRE_REGISTERED_PRINCIPAL_B_REVIEW.json",
+          "bytes": 26487,
+          "sha256": "ce53cbe22fe4344841ae9c564489d0113d323a3f957006c9cc201fc4213fe5e5"
+        },
+        "original_six_actual_independent_cases": {
+          "path": ".scratch/principal_models_b_independent_review_20261103/MIMIMI_SIX_INDEPENDENT_ACTUAL_TRACES.json",
+          "bytes": 24719,
+          "sha256": "83d372acc8f9e10210916533f45828e2def4acacbf36912b455387f37dbb2cf8"
+        },
+        "actual_V2_model": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+          "bytes": 21897,
+          "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+        },
+        "producer_defect_receipt": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_ACTUAL_READBACK_DEFECT_AND_V2_SUCCESSOR.json",
+          "bytes": 2581,
+          "sha256": "4c8da6a7ae9fc4cfed763c414a2ecc3ec1a8725aa0fc50bebf319591652af352"
+        },
+        "producer_exact_delta": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_V1_TO_V2_EXACT_DELTA.patch",
+          "bytes": 2348,
+          "sha256": "6b8e59ff381fe6e32d9f1f552c080b52c0b826dff4f421c307718214e9248c25"
+        },
+        "producer_actual_eight_retests": {
+          "path": ".scratch/constructed_principal_models_b_20261103/NM_V2_ACTUAL_AFFECTED_RETESTS.json",
+          "bytes": 20128,
+          "sha256": "42142059aec3fe86d9d5962a8f1c3f3862c4f5b9dfa4569260d184afd4a86c48"
+        },
+        "records": [
+          {
+            "frozen_challenge": {
+              "id": "PB-MIM02",
+              "person": "Nanami Minami / Mimimi",
+              "kind": "hypothetical_constraint",
+              "input": "A familiar admired friend outperforms Mimimi in a wanted activity. Compare the V02 comparison configuration with the later running-story resources and the actual 100-metre win/rematch refusal. Give state-conditioned attention/action ranges without prescribing sabotage, permanent calm or a measured personal best.",
+              "criteria": [
+                "competing ends and changed attention",
+                "local stopping versus universal cure",
+                "positive ambition/process pleasure",
+                "no exact unshown forecast"
+              ],
+              "source_route": "Mimimi §§3.3–3.11/6; NM-P01–11; CS9"
+            },
+            "actual_model": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 21897,
+              "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+            },
+            "execution": "Independent reviewer actually manually applied the full immutable prose model to this exact frozen input after full body and all producer outputs were acquired. These are reviewer-authored semantic/action outputs, not execution by a hidden persona engine or unexposed canonical truth test.",
+            "actual_output": {
+              "selector_and_access": "Fresh actual V2 application to NM-S2 versus NM-S4 using MM2/MM3/MM7 after full21897B V2body and exact two-line delta acquisition.",
+              "actual_suboutputs": [
+                {
+                  "branch": "Loaded comparison remains a branch",
+                  "actual_output": "A familiar admired friend outperforming her does not alone select V02. If the activity/Hinami comparison is carrying a worth verdict, retain moving-target attention, shame about envy toward a loved hardworking friend and stopping cost; withhold sabotage, a new severe result and more effort as a guaranteed remedy.",
+                  "competing_ends_and_causal_constraint": "Personal significance and era, not the presence of a score alone, determine which observed mechanism is relevant."
+                },
+                {
+                  "branch": "Finite contest without measured record",
+                  "actual_output": "Use own-stride/pleasure resources and actual earlier farewell100mwin/rematch refusal as local evidence while retaining wanted victory. No verified measured time or personal best follows from the stated aim. The later200minterview run is another event. A hypothetical finite low-stakes practice is possible conditional on its actual significance, not an all-domain cure.",
+                  "competing_ends_and_causal_constraint": "The V2 replacement removes the timing implication while preserving ambition, sensory practice and the limit of one local stop."
+                }
+              ],
+              "counterevidence_and_limits": "No measured record, athletic supremacy, permanent calm, diagnosis, sabotage or guaranteed severe stopping outcome. No frozen criterion changed.",
+              "local_register_review": "Competitive banter and joking refusal remain local; private loaded comparison is not every public cheerful line.",
+              "result": "PASS_WITHIN_PREREGISTERED_BOUNDED_SEMANTIC_CONSTRAINTS"
+            },
+            "material_defect_detected": false,
+            "exposure": "hypothetical_constraint",
+            "correction_or_retest": "Actual fresh independent V2 retest after producer NM-D01; original V1 application remains preserved, not silently repaired."
+          },
+          {
+            "frozen_challenge": {
+              "id": "PB-MIM05",
+              "person": "Nanami Minami / Mimimi",
+              "kind": "known_canon_retrospective",
+              "input": "At V12 the living Mimimi answers the Tama/self-liking question, proposes the 200-metre run and describes liking a chosen self; later she defends message-bearing stories before Kikuchi stops the meeting. Keep trust in Tama, conditional separation fear, continuing love, physical play and a real counterargument distinct from a completed ethics policy or Hinami's private Nana portrait.",
+              "criteria": [
+                "actual contribution and positive agency",
+                "200m versus earlier100m",
+                "speaker/author/focalizer layers",
+                "self-regard not first ever or cure"
+              ],
+              "source_route": "Mimimi §17.2–17.6, NM-P30–32; ensemble7/16; JVL13"
+            },
+            "actual_model": {
+              "path": ".scratch/constructed_principal_models_b_20261103/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 21897,
+              "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+            },
+            "execution": "Independent reviewer actually manually applied the full immutable prose model to this exact frozen input after full body and all producer outputs were acquired. These are reviewer-authored semantic/action outputs, not execution by a hidden persona engine or unexposed canonical truth test.",
+            "actual_output": {
+              "selector_and_access": "Fresh actual V2 application to NM-S12 with MM3/MM7/MM8; preserved trust/self-liking fear, own200membodied contribution and real contributor dispute remain separate.",
+              "actual_suboutputs": [
+                {
+                  "branch": "Trust and absent reply",
+                  "actual_output": "Return trust in Tama bond and fear about sustaining own self-liking during possible physical separation. A conditional next-Tama question is not an appointed replacement and Fumiya imagined future is his inference. Supply no absent Tama reply or future pledge.",
+                  "competing_ends_and_causal_constraint": "Wanted recognition can remain a pressure while the existing friend is trusted; it is not proof of desired dependence cultivation."
+                },
+                {
+                  "branch": "200m, ethical account and contributor stop",
+                  "actual_output": "Keep sudden protested200mstart/competition/breath/Kikuchi condition distinct from earlierfarewell100mcontest; no measured time is added. Both Fumiya good and liking her own nonopportunistic choice matter while love continues, strengthening priorV09self-regard. Her reasonable defense of message-bearing fiction can fail to solve this project imposition; Kikuchi owns the stop, Nana remains authored fiction, and Hinami private portrait remains incomplete private judgment.",
+                  "competing_ends_and_causal_constraint": "Positive embodied play, continued love and real objection survive the boundary. They certify neither first agency, a universal sacrifice/contact rule nor complete subject authorization."
+                }
+              ],
+              "counterevidence_and_limits": "No first-ever self-love, identical hearing by all, future arrangement, counterfactual romantic success, Hinami-interior transfer or ethics doctrine. The exact V2 wording correction resolves NM-D01 without revising literary claims.",
+              "local_register_review": "Small concern, bodily competition, serious retrospective account and contributor objection are different acts; no complete idiolect/acoustic claim.",
+              "result": "PASS_WITHIN_PREREGISTERED_BOUNDED_SEMANTIC_CONSTRAINTS"
+            },
+            "material_defect_detected": false,
+            "exposure": "known_canon_retrospective",
+            "correction_or_retest": "Actual fresh independent V2 retest after producer NM-D01; original V1 application remains preserved, not silently repaired."
+          }
+        ],
+        "fresh_independent_retested_inputs": 2,
+        "fresh_independent_suboutputs": 4,
+        "carry_forward": "Other four exact frozen independent inputs PB-MIM01/03/04/06 retain ten actual V1 suboutputs for mechanically unchanged mechanisms. They were fully read back and semantically reviewed; they are not relabeled fresh V2 applications. Complete V2body/complete delta acquired and no new impact identified. Original PB-MIM02/05 outputs and no-error observations remain honest initial-review history; later producer wording defect is explicitly preserved here.",
+        "V1_status": "Superseded model wording candidate, all body/20producer/14independent original suboutputs preserved. Producer found ambiguous model wording; no output time invention was observed.",
+        "new_primary_calls": 0,
+        "canonical_Git_source_producer_global_writes": false,
+        "root_acceptance_publication_global_grade": false
+      }
+    }
+  ]
+}
