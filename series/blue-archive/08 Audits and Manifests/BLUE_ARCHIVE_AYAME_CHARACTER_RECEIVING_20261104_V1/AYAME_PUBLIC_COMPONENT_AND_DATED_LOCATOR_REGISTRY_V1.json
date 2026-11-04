@@ -47,7 +47,7 @@
       "original_value_sha256": "e70bdc88af9bab13321ca4eff61f16625eae00436455c98f81c3de49737949f4",
       "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
       "public_pointer": "/records/1/content",
-      "stored_public_value_sha256": "a38a12c9fbdc3afca7d0828bd290e02be532fb9720dcc60a6e8b22ddc9216bd1",
+      "stored_public_value_sha256": "9d700c6095416112bbe2a66f56a1680a8871db89915e1a93088c5b3fbb162149",
       "resolved_public_value_sha256": "84b0dfd2351472c9b19c8a863130c98fa99881e22ddf8049083814e941bc44e7"
     },
     {
@@ -661,6 +661,125 @@
       "public_pointer": "/records/6/content",
       "stored_public_value_sha256": "0404d37f8905ee34ba114a48a513ac82622db5385df563ac9ce274e9f523cfa1",
       "resolved_public_value_sha256": "0404d37f8905ee34ba114a48a513ac82622db5385df563ac9ce274e9f523cfa1"
+    },
+    {
+      "record_id": "AYAME-P015-RENGE-ACTING-APOLOGY-QUALIFICATION-20261104-V1",
+      "original_filename": "OWN_PROPOSED_CURRENT_P015_ACTING_APOLOGY_COMPLETE_CLAIM_REASONING_V2.json",
+      "original_author_or_reader": "/root/ayame_p015_correction_plan",
+      "original_role": "Complete bounded planner claim reasoning; actual Root plan/byte adoption and publication are later separate acts.",
+      "role_basis": "Exact original record_role field in this new note;no invented original wording or Root personal approval.",
+      "original_date_or_UTC": "2026-11-04T17:13:50.217152+00:00",
+      "date_basis": "Exact original UTC field.",
+      "original_pointer": "",
+      "original_file_bytes": 7929,
+      "original_file_sha256": "ba13f404c3392c47019e6180d3e8a92d59e7ea965aa54b1e834d76375a3527e8",
+      "original_value_sha256": "e090386e48e018a38e0361bba984094c25957e2b4b20b9b2e1f346762de47366",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "public_pointer": "/current_P015_Renge_acting_apology_qualification_20261104_V1",
+      "stored_public_value_sha256": "95aadeec6e41bb874a2e4870ca910ec03e24a255d6d027013a792dc3452a702f",
+      "resolved_public_value_sha256": "e090386e48e018a38e0361bba984094c25957e2b4b20b9b2e1f346762de47366"
+    },
+    {
+      "record_id": "AYAME-P015-CORRECTION-PLAN-PROVENANCE-20261104-V1",
+      "original_filename": "OWN_PROPOSED_CURRENT6_CORRECTION_PLAN_COMPLETE_SIX_REASONS_AND_PROVENANCE_V2.json",
+      "original_author_or_reader": "/root/ayame_p015_correction_plan",
+      "original_role": "Dated complete planner reasoning,not Root implementation/newbyte adoption or a new independent body review.",
+      "role_basis": "Exact original record_role field in this new note;no invented original wording or Root personal approval.",
+      "original_date_or_UTC": "2026-11-04T17:13:50.217152+00:00",
+      "date_basis": "Exact original UTC field.",
+      "original_pointer": "",
+      "original_file_bytes": 4772,
+      "original_file_sha256": "c0360c031c3657048926c09f620e68aafbfc101ef5cf8ca78d0724fd09e5fadf",
+      "original_value_sha256": "f594bc62bae5f282bc971aa65b965c6be776c6cd3b8e281fa9a475fdf7b73163",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "public_pointer": "/current_P015_Renge_correction_plan_provenance_20261104_V1",
+      "stored_public_value_sha256": "f594bc62bae5f282bc971aa65b965c6be776c6cd3b8e281fa9a475fdf7b73163",
+      "resolved_public_value_sha256": "f594bc62bae5f282bc971aa65b965c6be776c6cd3b8e281fa9a475fdf7b73163"
+    },
+    {
+      "record_id": "AYAME-P015-ROOT-SOURCE-RECEIVING-BASIS-20261104-V1",
+      "original_filename": "ROOT_ACTUAL_PUBLISHED_P015_C00148_A01_BINDING_AND_BOUNDED_CURRENT_CLAIM_PRECISION_BASIS_V1.json",
+      "original_author_or_reader": "/root",
+      "original_role": "Actual Root supported directional sourceclaim precision and finite correction-plan basis.",
+      "role_basis": "Planner-assigned retention role from the positively supplied Root sourcefinding/decision,not a literal original_role field or future Rootplan/publicbyte approval.",
+      "original_date_or_UTC": "2026-11-04T17:06:59.990Z",
+      "date_basis": "Exact original UTC field.",
+      "original_pointer": "",
+      "original_file_bytes": 6844,
+      "original_file_sha256": "8bf94a23fe9475c2bdc01d84b6a4a8b2176e6d55896042dc9994d195b72ba764",
+      "original_value_sha256": "b2bac4f8f462485bef6767613e3db1f65856890e6e016d51d2dc5b08bfbd0b2e",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "public_pointer": "/current_P015_Renge_Root_source_receiving_basis_20261104_V1",
+      "stored_public_value_sha256": "132ebde8943fc96032c091ff213a08c37d8a68d419905f01ea5ac1ee5dd60ec8",
+      "resolved_public_value_sha256": "b2bac4f8f462485bef6767613e3db1f65856890e6e016d51d2dc5b08bfbd0b2e"
+    },
+    {
+      "record_id": "AYAME-P015-CORRECTION-PLAN-DIFFERENT-QA-REASONS-20261104-V1",
+      "original_filename": "OWN_AYAME_P015_CURRENT6_COMPLETE_PLAN_QA_SIX_CONCLUSIONS_CURRENT_REVISE_ROUTE_AND_NO_ADDITIONAL_FINDING_V1.json",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_role": "Different from planner /root/ayame_p015_correction_plan. I previously worked on Ayame readiness/public-form composition/currentmetadata QA and authored the separate Ayame–Nagusa original28 and finite acting-apology V2 repair. I am not blind to original Ayame25 or the source issue;this is a different finite plan review,not a new independent original-body literary clearance.",
+      "role_basis": "Exact original actual_roles field.",
+      "original_date_or_UTC": "2026-11-04T17:34:32.250758+00:00",
+      "date_basis": "Exact original UTC/date field when present;null invents no date.",
+      "original_pointer": "",
+      "original_file_bytes": 10305,
+      "original_file_sha256": "d44a64d82be4c2542d0ba54acca6cf6002f626bb117cdd8958068cdf79dd0bbc",
+      "original_value_sha256": "9b8951a8576ce7198e0adfb61418757680c4a04e01e2aacb491e183d4539abe8",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "public_pointer": "/current_P015_Renge_correction_plan_independent_QA_full_reasons_20261104_V1",
+      "stored_public_value_sha256": "9b8951a8576ce7198e0adfb61418757680c4a04e01e2aacb491e183d4539abe8",
+      "resolved_public_value_sha256": "9b8951a8576ce7198e0adfb61418757680c4a04e01e2aacb491e183d4539abe8"
+    },
+    {
+      "record_id": "AYAME-P015-CORRECTION-PLAN-DIFFERENT-QA-READBACK-20261104-V1",
+      "original_filename": "OWN_AYAME_P015_CURRENT6_PLAN_QA_ACTUAL_SAVED_FULL_MEANING_READBACK_AND_FINITE_CLOSEOUT_V1.json",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_role": "Actual different finite-plan QA/readback.",
+      "role_basis": "Composer-assigned retention role from the explicit commission/actual actor and stage;not an invented original field.",
+      "original_date_or_UTC": "2026-11-04T17:36:04.651795+00:00",
+      "date_basis": "Exact original UTC/date field when present;null invents no date.",
+      "original_pointer": "",
+      "original_file_bytes": 3066,
+      "original_file_sha256": "a22e97e1d6a1e1cb1ea708c6a75cc04c14914ab35817c8bc8828305c97146e31",
+      "original_value_sha256": "afafb0b6ad2a1024a71019b31ec72e17bb8954dae4edc427ff39d2d88c096eac",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "public_pointer": "/current_P015_Renge_correction_plan_independent_QA_saved_readback_20261104_V1",
+      "stored_public_value_sha256": "afafb0b6ad2a1024a71019b31ec72e17bb8954dae4edc427ff39d2d88c096eac",
+      "resolved_public_value_sha256": "afafb0b6ad2a1024a71019b31ec72e17bb8954dae4edc427ff39d2d88c096eac"
+    },
+    {
+      "record_id": "AYAME-P015-CORRECTION-PLAN-ROOT-ADOPTION-20261104-V1",
+      "original_filename": "ROOT_ACTUAL_P015_FULL_PLAN10305_QA3066_OWN971_ADOPTION_AND_EXPLICIT_CURRENT6_PLUS_THREE_LATER_MEANINGS_COMPOSITION_COMMISSION_V1.json",
+      "original_author_or_reader": "/root",
+      "original_role": "Actual Root finite-plan adoption and explicit composition commission;not current-byte approval.",
+      "role_basis": "Composer-assigned retention role from the explicit commission/actual actor and stage;not an invented original field.",
+      "original_date_or_UTC": "2026-11-04T17:38:51.816Z",
+      "date_basis": "Exact original UTC/date field when present;null invents no date.",
+      "original_pointer": "",
+      "original_file_bytes": 8496,
+      "original_file_sha256": "9a8ba3b4475de3322ff775d493d3b9c2057b528299015c74c75847306e48ce74",
+      "original_value_sha256": "5f0dcfaafa44275db63884500baec6be4a8b7795c5b572d183633b3824f643aa",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "public_pointer": "/current_P015_Renge_correction_plan_Root_adoption_and_composition_commission_20261104_V1",
+      "stored_public_value_sha256": "5f0dcfaafa44275db63884500baec6be4a8b7795c5b572d183633b3824f643aa",
+      "resolved_public_value_sha256": "5f0dcfaafa44275db63884500baec6be4a8b7795c5b572d183633b3824f643aa"
+    },
+    {
+      "record_id": "AYAME-P015-CORRECTION-COMPOSER-FULL-REASONS-AND-READBACK-20261104-V1",
+      "original_filename": "OWN_P015_CURRENT6_COMPOSER_COMPLETE_PROSPECTIVES_SIX_REASONS_AND_ACTUAL_SAVED_MEANING_READBACK_V1.json",
+      "original_author_or_reader": "/root/current_preflight_requirements",
+      "original_role": "Actual finite current6 composition author and saved-meaning reader;earlier Ayame participant disclosed. Not this plan author,its different plan reviewer,Root adopter or future independent current-byte QA.",
+      "role_basis": "Exact original record_role field.",
+      "original_date_or_UTC": "2026-11-04T17:59:36.162593+00:00",
+      "date_basis": "Exact original UTC/date field when present;null invents no date.",
+      "original_pointer": "",
+      "original_file_bytes": 10217,
+      "original_file_sha256": "ec6eb84689637573c6a5116eb0dd23cdf94a96dee758fa7613776d28a72dbff7",
+      "original_value_sha256": "4e6baaa499ae5163b28a8aae5a65297699559de4c4a44a0ffa70afd7d671b4b6",
+      "public_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "public_pointer": "/current_P015_correction_composer_full_questions_reasons_and_readback_20261104_V1",
+      "stored_public_value_sha256": "4e6baaa499ae5163b28a8aae5a65297699559de4c4a44a0ffa70afd7d671b4b6",
+      "resolved_public_value_sha256": "4e6baaa499ae5163b28a8aae5a65297699559de4c4a44a0ffa70afd7d671b4b6"
     }
   ],
   "locator_registry": [
@@ -1307,33 +1426,33 @@
     "whole_files": "SHA256 exact UTF8/LF bytes",
     "typed_values": "UTF8 JSON ensure_ascii=False,sort_keys=True,compact comma/colon separators; strings hash complete JSON value"
   },
-  "coverage_contract": "Every record row maps the full original root to its public root; recursively append descendant pointers, resolving exact complete typed/body span selectors and finite historical derivations. Only explicitly listed private custody/implementation fields are restored from unchanged private originals; no unique intellectual value is omitted. Full locator before/after inverses remain private.",
+  "coverage_contract": "Every record row maps the full original root to its public root; recursively append descendant pointers, resolving exact complete typed/body span selectors and finite historical derivations. Only explicitly listed private custody/implementation fields are restored from unchanged private originals; no unique intellectual value is omitted. Full locator before/after inverses remain private. The original38 records keep their exact resolved original meanings. Three new dated intellectual notes supply the current P015 acting-apology qualification,actual Root sourcefinding and planner reasoning;they add no literary package/source/model credit. The adopted base-plan41 count is dated scope. This composition additionally retains whole different-plan-QA reasons/readback and Root plan adoption at three declared routes:44 registered roots at this stage,not an eligibility quota or current-byte approval. The44 stage above is dated phase1. One additional complete composer questions/reasons/actualsavedmeaning record is now retained in AUTHOR:45 actual registered roots,not a quota or independent final-byte approval.",
   "selector_contract": "Resolve $public_selector by exact repository owner/JSONpointer or UTF8 byte span, checking the complete value hash. $historical_derivation applies exact inverse operations to a full current value; every nonidentical older reason is visible in full, alongside its current complete qualification. Value self-file routes are not whole-file self hashes.",
   "current_components": [
     {
       "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-      "bytes": 17334,
-      "sha256": "36177df68f4611d9792d7adfef9b9119b21116ba3908396e4d9545cf9e53de78"
+      "bytes": 17327,
+      "sha256": "7ea75c14cc56ef3a29c0760e06acd426f90ca26c18f1feff2076bd3401f55dd3"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
-      "bytes": 100054,
-      "sha256": "1ecbbd180bc23b564a5d37440e12bc9909b8c85bc231c3a757fdf1b546afebe4"
+      "bytes": 109111,
+      "sha256": "b2aa899f9d236cd3b73a24b593b588ddb3f95d0e1db0e7a2e4f3cd7f37ba7d3c"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
-      "bytes": 111393,
-      "sha256": "8cdb2168f7ac976285404354f51bdf77be12c47a65c33f8fc1c3e88b0552d727"
+      "bytes": 121817,
+      "sha256": "974fe5ca46c8e88e697cd7fa1a6cdd1e93405dad7bfe448b3a2a6f11af6a0298"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
-      "bytes": 133839,
-      "sha256": "4da60e1d86749c1c9ec0c60517774050a3bd5acd722bcfc958ccd5963e411d40"
+      "bytes": 147602,
+      "sha256": "9f702262b6d6c52b3938d87d19439b6900ceb4f1c43e050a972eafb0a221fa05"
     },
     {
       "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
-      "bytes": 113566,
-      "sha256": "4d18607877b1428fda6ce12eaf6bcb0ff9b6f1e496a4188a54c8590609525fe0"
+      "bytes": 133013,
+      "sha256": "73100bf2173c5b2c57ddc92d11a942cabdf39c89f6a5ff6ce48ecb42de51e954"
     }
   ],
   "self_binding": "No whole-file self pin or reciprocal hash to this registry. The private final external manifest binds all6 public files and own reasoning/inverse proof.",

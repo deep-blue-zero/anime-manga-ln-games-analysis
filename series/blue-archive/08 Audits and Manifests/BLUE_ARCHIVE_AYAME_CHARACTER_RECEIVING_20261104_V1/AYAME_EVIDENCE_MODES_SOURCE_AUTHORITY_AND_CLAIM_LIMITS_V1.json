@@ -1231,27 +1231,13 @@
             "paragraph_id": "AYAME-P015",
             "section": "An answer at the castle",
             "body_physical_line": 63,
-            "complete_literal_paragraph": {
-              "$public_selector": {
-                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [10283,10909],
-                "value_sha256": "5cc0c1b2af3080443b2c6955c39bad80852acd031c9becabcd29fe3be38ae37e",
-                "kind": "EXACT_UTF8_STRING"
-              }
-            },
+            "complete_literal_paragraph": "**AYAME-P015.** The juniors make this relation possible without merging into one approving chorus. Kikyou wants Nagusa herself while retaining resentment and later consents to witness. Renge wants reunion and apology; Yukari's chosen membership survives hurt. Their cooperation and later exposure of fears have different owners and costs. They can support Nagusa's approach to Ayame, but none can turn group affection into Ayame's awakened agreement. Keeping their directions distinct also preserves the difficulty of repairing relationships after attention, truth or care has been withheld. [A01:26,28,48,52,62; A02:48,50,57]",
             "literal_utf8_sha256": "ae1de18eb03e42dc008de0cfe4d691ec775b69ceff946267360f1fe2c89943bc",
             "body_utf8_byte_span_excluding_LF": [
               9641,
               10267
             ],
-            "argument_meaning": {
-              "$public_selector": {
-                "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [10299,10874],
-                "value_sha256": "f14b17f98672231b3544713b5c69f617122977bb7c914c74e38f5be22d513887",
-                "kind": "EXACT_UTF8_STRING"
-              }
-            },
+            "argument_meaning": "The juniors make this relation possible without merging into one approving chorus. Kikyou wants Nagusa herself while retaining resentment and later consents to witness. Renge wants reunion and apology; Yukari's chosen membership survives hurt. Their cooperation and later exposure of fears have different owners and costs. They can support Nagusa's approach to Ayame, but none can turn group affection into Ayame's awakened agreement. Keeping their directions distinct also preserves the difficulty of repairing relationships after attention, truth or care has been withheld.",
             "maintained_loci": [
               {
                 "source": "A01",
@@ -1314,7 +1300,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [10911,11504],
+                "utf8_byte_span": [10904,11497],
                 "value_sha256": "e9ac1f46289bc38fbbfabeb93fa731252344e9ce0b6b26b49a23bcd287d9f71b",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1327,7 +1313,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [10927,11477],
+                "utf8_byte_span": [10920,11470],
                 "value_sha256": "c37cf832c2c0af0381a1f6b961ed47eb5b4106074cf0fa637316488a61929fd5",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1385,7 +1371,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [11547,12150],
+                "utf8_byte_span": [11540,12143],
                 "value_sha256": "43abc4c0800aaa27f9512db9b6553073a463671f55fdfb0ae120d17f382ebdcd",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1398,7 +1384,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [11563,12119],
+                "utf8_byte_span": [11556,12112],
                 "value_sha256": "9e63cf77bd9b95230eae962c478064afabe8742fd0e461f9b8f84ec91fef2221",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1458,7 +1444,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [12152,12737],
+                "utf8_byte_span": [12145,12730],
                 "value_sha256": "ab890384d2e34b3bd5dd7117a3b5f07dc91cdc410a354b2707b5918b3fa1644d",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1471,7 +1457,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [12168,12709],
+                "utf8_byte_span": [12161,12702],
                 "value_sha256": "253865089c4f9b5e43c1892374ea225fa6f9095d81985ce6cb6abd6c752a0c3e",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1526,7 +1512,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [12739,13347],
+                "utf8_byte_span": [12732,13340],
                 "value_sha256": "46e69509caeca646a76d1e4768e6f7c193fd953ae193281a738d6d692de98f46",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1539,7 +1525,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [12755,13326],
+                "utf8_byte_span": [12748,13319],
                 "value_sha256": "639155c84c101e03a4ce207384fdcd39c6c4025035f749dd734a79b5a06e7b43",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1586,7 +1572,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [13349,14033],
+                "utf8_byte_span": [13342,14026],
                 "value_sha256": "3091d3c56840379df11a1f49d4670448bd858a96c7ba2997695e8568379cd2a9",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1599,7 +1585,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [13365,13992],
+                "utf8_byte_span": [13358,13985],
                 "value_sha256": "f3412b7290b5ff8bd3e483f4545ae5466943f502b548c49c2a8de3801f465097",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1675,7 +1661,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [14035,14695],
+                "utf8_byte_span": [14028,14688],
                 "value_sha256": "24b2e00c5933c6dfa50cc3a41770b4c6309e45a7b1312109b7aa8c801c01e168",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1688,7 +1674,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [14051,14653],
+                "utf8_byte_span": [14044,14646],
                 "value_sha256": "d6acfcce449640bca26f1d20261cbf5092f01034758ca0196ab3021daf9c9703",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1764,7 +1750,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [14697,15367],
+                "utf8_byte_span": [14690,15360],
                 "value_sha256": "162d481191267f9f32dd2fe96090de9c8b7458a82d1cf78165528d6b40fc4af6",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1777,7 +1763,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [14713,15317],
+                "utf8_byte_span": [14706,15310],
                 "value_sha256": "809aab2d7ab8d0783c55bcb7dbed5a22e430ab8551d77f2e50a2138521a2e540",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1862,7 +1848,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [15405,16114],
+                "utf8_byte_span": [15398,16107],
                 "value_sha256": "a813426ea11e65ce331da4331eb20ce560185554ec450079fa557c02707755f1",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1875,7 +1861,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [15421,16087],
+                "utf8_byte_span": [15414,16080],
                 "value_sha256": "f699da5338d0a6ca94d9637b7b73f81ece9febe6ecfe42a2579e703078c18d6f",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1934,7 +1920,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [16116,16687],
+                "utf8_byte_span": [16109,16680],
                 "value_sha256": "7c2910602d5e7b95edb3cbdac24b67b843dfacfca2cf8425324582063eeb2486",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -1947,7 +1933,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [16132,16649],
+                "utf8_byte_span": [16125,16642],
                 "value_sha256": "2d40b2852579583de5607c81b123ec7683c8bd456125266810b2f6f82a6c4986",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -2019,7 +2005,7 @@
             "complete_literal_paragraph": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [16689,17333],
+                "utf8_byte_span": [16682,17326],
                 "value_sha256": "f9325cb40b1ccbdeb695f1969ded065a3168dcb89b0f8c928b2e66c4db280559",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -2032,7 +2018,7 @@
             "argument_meaning": {
               "$public_selector": {
                 "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-                "utf8_byte_span": [16705,17303],
+                "utf8_byte_span": [16698,17296],
                 "value_sha256": "bc28035c6142a00bd360ec8da763bf89e3e4a4dae163c15948a114f220fb0f08",
                 "kind": "EXACT_UTF8_STRING"
               }
@@ -2384,82 +2370,83 @@
     {
       "paragraph_id": "AYAME-P015",
       "physical_line": 68,
-      "utf8_byte_span_excluding_LF": [10283,10909],
-      "whole_paragraph_sha256": "ae1de18eb03e42dc008de0cfe4d691ec775b69ceff946267360f1fe2c89943bc",
-      "full_original_map_pointer": "/records/1/content/paragraphs/14"
+      "utf8_byte_span_excluding_LF": [10283,10902],
+      "whole_paragraph_sha256": "b70621c5a3afdad40dfe105bc0d56dbbdacfc89083353b7e5fcc9062da1618a6",
+      "full_original_map_pointer": "/records/1/content/paragraphs/14",
+      "effective_current_meaning_pointer": "/current_P015_Renge_acting_apology_qualification_20261104_V1/current_meaning"
     },
     {
       "paragraph_id": "AYAME-P016",
       "physical_line": 70,
-      "utf8_byte_span_excluding_LF": [10911,11504],
+      "utf8_byte_span_excluding_LF": [10904,11497],
       "whole_paragraph_sha256": "7b928104b3fe341de8018326ac7635bb3ff3099d35b048f048f0512e860161fc",
       "full_original_map_pointer": "/records/1/content/paragraphs/15"
     },
     {
       "paragraph_id": "AYAME-P017",
       "physical_line": 74,
-      "utf8_byte_span_excluding_LF": [11547,12150],
+      "utf8_byte_span_excluding_LF": [11540,12143],
       "whole_paragraph_sha256": "3b5bbc6832178de4c8dc7ce264f5594a1d3b39712dedeb28ee02af42b1a3db04",
       "full_original_map_pointer": "/records/1/content/paragraphs/16"
     },
     {
       "paragraph_id": "AYAME-P018",
       "physical_line": 76,
-      "utf8_byte_span_excluding_LF": [12152,12737],
+      "utf8_byte_span_excluding_LF": [12145,12730],
       "whole_paragraph_sha256": "9b2f23e340e385de9635527c12c36ccbe38e592a0b77953c42978c088d3de1e2",
       "full_original_map_pointer": "/records/1/content/paragraphs/17"
     },
     {
       "paragraph_id": "AYAME-P019",
       "physical_line": 78,
-      "utf8_byte_span_excluding_LF": [12739,13347],
+      "utf8_byte_span_excluding_LF": [12732,13340],
       "whole_paragraph_sha256": "5c6a585a3a6cd8a3a4b86dc07aab9bef378b13a601f5583903f0169dabe32b91",
       "full_original_map_pointer": "/records/1/content/paragraphs/18"
     },
     {
       "paragraph_id": "AYAME-P020",
       "physical_line": 80,
-      "utf8_byte_span_excluding_LF": [13349,14033],
+      "utf8_byte_span_excluding_LF": [13342,14026],
       "whole_paragraph_sha256": "afadcc74fb69c43798ead4ef6ee5dc8299b02a81776a953c8baff6c6a270b375",
       "full_original_map_pointer": "/records/1/content/paragraphs/19"
     },
     {
       "paragraph_id": "AYAME-P021",
       "physical_line": 82,
-      "utf8_byte_span_excluding_LF": [14035,14695],
+      "utf8_byte_span_excluding_LF": [14028,14688],
       "whole_paragraph_sha256": "1a9eac5f727e9ccd03195772d456c4f4170c7ff48313429676bec04c4869b86e",
       "full_original_map_pointer": "/records/1/content/paragraphs/20"
     },
     {
       "paragraph_id": "AYAME-P022",
       "physical_line": 84,
-      "utf8_byte_span_excluding_LF": [14697,15367],
+      "utf8_byte_span_excluding_LF": [14690,15360],
       "whole_paragraph_sha256": "697a848c9b522e63c0e294731469d9317c878a17b46e2455e064e21fc94327e6",
       "full_original_map_pointer": "/records/1/content/paragraphs/21"
     },
     {
       "paragraph_id": "AYAME-P023",
       "physical_line": 88,
-      "utf8_byte_span_excluding_LF": [15405,16114],
+      "utf8_byte_span_excluding_LF": [15398,16107],
       "whole_paragraph_sha256": "4adb52df161f60e0338f488bfcb5475bbe80589035d503c6b011b0e104b17954",
       "full_original_map_pointer": "/records/1/content/paragraphs/22"
     },
     {
       "paragraph_id": "AYAME-P024",
       "physical_line": 90,
-      "utf8_byte_span_excluding_LF": [16116,16687],
+      "utf8_byte_span_excluding_LF": [16109,16680],
       "whole_paragraph_sha256": "06d378a6aa19d757fad346fcae434060e4eed98ff06f1ded118839804ce3d153",
       "full_original_map_pointer": "/records/1/content/paragraphs/23"
     },
     {
       "paragraph_id": "AYAME-P025",
       "physical_line": 92,
-      "utf8_byte_span_excluding_LF": [16689,17333],
+      "utf8_byte_span_excluding_LF": [16682,17326],
       "whole_paragraph_sha256": "4d84c97fdf495a7bd5f8a13cbd79bc5bc9f9ff3018f00c352f0f959386216b20",
       "full_original_map_pointer": "/records/1/content/paragraphs/24"
     }
   ],
-  "current_use": "Complete original map fields remain at their stated modes/limits. Original physical-line/spans/private tuples remain dated; actual public body selectors and the separate current geometry above use the normalized body. Current source modes and effective limits below govern reuse.",
+  "current_use": "Complete original map fields remain at their stated modes/limits. Original physical-line/spans/private tuples remain dated; actual public body selectors and the separate current geometry above use the normalized body. Current source modes and effective limits below govern reuse. For AYAME-P015, /current_P015_Renge_acting_apology_qualification_20261104_V1/current_meaning is the operative current meaning and direction. The complete original map row remains dated history; its full_original_map_pointer is not an unqualified current apology-direction claim.",
   "effective_current_lifecycle": {
     "private_connected_body": "ACCEPTED_BY_ROOT_WITH_LIMITS",
     "prior_readiness": "Full intellectual history preserved, not blanket Root readiness/source authority adoption",
@@ -2491,14 +2478,144 @@
       "id": "ACTOR_COURSE",
       "reason": "Author694 plus current whole187/selected50 refresh; prior readiness peer330, different body peer330 and Root330 are distinct actual maintained analytical courses. Composer reuses only own dated readiness330 and receives current intellectual meanings; no new source/native/raw/private/AV course.",
       "current_composer_referent_qualification_20261104_V2": "In this unchanged ACTOR_COURSE reason, 'Composer' means /root/sumire_v2_finite_qa, the original public-form composer and readiness peer. This metadata derivative is composed by /root/recover_yuzu_saved_review and gains or transfers no source-course credit; prior courses retain their original readers, tasks, grades and dates."
+    },
+    {
+      "id": "AP06_RENGE_ACTING_APOLOGY_P015",
+      "reason": "For current AYAME-P015 Renge expresses a wish to apologize. A01/C00148 does not specify recipient or a completed exchange and does not support the opposite wish-to-receive direction. Original map/approvals remain dated; use the explicit current qualification.",
+      "qualification_pointer": "/current_P015_Renge_acting_apology_qualification_20261104_V1/current_meaning"
     }
   ],
   "operative_source_keys_pointer": "/records/0/content/source_keys",
   "current_components": [
     {
       "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
-      "bytes": 17334,
-      "sha256": "36177df68f4611d9792d7adfef9b9119b21116ba3908396e4d9545cf9e53de78"
+      "bytes": 17327,
+      "sha256": "7ea75c14cc56ef3a29c0760e06acd426f90ca26c18f1feff2076bd3401f55dd3"
     }
-  ]
+  ],
+  "current_P015_Renge_acting_apology_qualification_20261104_V1": {
+    "schema": "AYAME_P015_RENGE_ACTING_APOLOGY_COMPLETE_CURRENT_CLAIM_QUALIFICATION_PROPOSED_V1",
+    "UTC": "2026-11-04T17:13:50.217152+00:00",
+    "reasoned_by": "/root/ayame_p015_correction_plan",
+    "record_role": "Complete bounded planner claim reasoning; actual Root plan/byte adoption and publication are later separate acts.",
+    "claim_id": "AYAME-P015-RENGE-ACTING-APOLOGY-QUALIFICATION-20261104-V1",
+    "claim_revision_status": "REVISE",
+    "paragraph_id": "AYAME-P015",
+    "earlier_formulation": "Renge wants reunion and apology",
+    "current_formulation": "Renge wants to apologize",
+    "current_authority": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "pointer": "/current_P015_Renge_acting_apology_qualification_20261104_V1/current_meaning",
+      "basis": "Maintained A01/C00148 with exact A01 binding and Root actual supported sourcefinding. This proposed value becomes operative only after actual Root newbyte adoption/implementation; no future approval is invented."
+    },
+    "evidence_route": {
+      "SOURCE_source_key_pointer": "/records/0/content/source_keys/0",
+      "maintained_repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+      "physical_line": 48,
+      "claim_grade": "Maintained analytical report of expressed wish;recipient/completedexchange unprinted."
+    },
+    "old_ambiguous_clause": "Renge wants reunion and apology",
+    "corrected_clause": "Renge wants to apologize",
+    "prior_complete_literal_retained_as_dated_history": "**AYAME-P015.** The juniors make this relation possible without merging into one approving chorus. Kikyou wants Nagusa herself while retaining resentment and later consents to witness. Renge wants reunion and apology; Yukari's chosen membership survives hurt. Their cooperation and later exposure of fears have different owners and costs. They can support Nagusa's approach to Ayame, but none can turn group affection into Ayame's awakened agreement. Keeping their directions distinct also preserves the difficulty of repairing relationships after attention, truth or care has been withheld. [A01:26,28,48,52,62; A02:48,50,57]",
+    "prior_argument_meaning_retained_as_dated_history": "The juniors make this relation possible without merging into one approving chorus. Kikyou wants Nagusa herself while retaining resentment and later consents to witness. Renge wants reunion and apology; Yukari's chosen membership survives hurt. Their cooperation and later exposure of fears have different owners and costs. They can support Nagusa's approach to Ayame, but none can turn group affection into Ayame's awakened agreement. Keeping their directions distinct also preserves the difficulty of repairing relationships after attention, truth or care has been withheld.",
+    "historical_map_route": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "pointer": "/records/1/content/paragraphs/14",
+      "resolved_value_sha256": "a7f39ad943b25df934b2e3b2ad2ba37b61f32f99c924294364b69347b5b17b4a",
+      "role": "Complete original map meaning,including old literal/argument,remains dated;not the unqualified current apology direction."
+    },
+    "current_meaning": {
+      "complete_literal_paragraph": {
+        "$public_selector": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
+          "utf8_byte_span": [
+            10283,
+            10902
+          ],
+          "value_sha256": "3b09998b374c95a82279c271abdaed34cc9346616ab5e0f49553386cfcaf6c06",
+          "kind": "EXACT_UTF8_STRING"
+        }
+      },
+      "argument_meaning": {
+        "$public_selector": {
+          "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
+          "utf8_byte_span": [
+            10299,
+            10867
+          ],
+          "value_sha256": "1fd3613e711211c862eb0e3c2fde371bbdcabccfcff8aa9bdbb8c15ccb91f6f3",
+          "kind": "EXACT_UTF8_STRING"
+        }
+      },
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              26,
+              26
+            ],
+            [
+              28,
+              28
+            ],
+            [
+              48,
+              48
+            ],
+            [
+              52,
+              52
+            ],
+            [
+              62,
+              62
+            ]
+          ]
+        },
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              48,
+              48
+            ],
+            [
+              50,
+              50
+            ],
+            [
+              57,
+              57
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        5,
+        8,
+        10
+      ],
+      "attribution_modes": "Distinct junior wishes,witness and coerced fear. Renge owns the expressed wish to apologize; the maintained seam does not specify recipient or a completed apology exchange.",
+      "own_authoring_question": "How do peers support without surrogate assent?",
+      "own_serious_contrary": "An undirected apology wish can be mistaken for Renge wanting to receive an apology. The maintained C00148 instead names her wish to apologize. Kikyou resentment and Yukari hurt remain their own; no junior reply supplies sleeping Ayame assent.",
+      "own_finite_claim_limit": "Renge expressed wish to apologize is retained. This source seam doesnot establish the recipient,a completed apology exchange or a wish to receive an apology; other directed support doesnot supply awakened Ayame agreement."
+    },
+    "source_warrant": {
+      "source_key": "A01",
+      "SOURCE_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "source_key_pointer": "/records/0/content/source_keys/0",
+      "maintained_repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+      "bytes": 18949,
+      "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+      "physical_line": 48,
+      "exact_relevant_maintained_clause": "Renge also wants to apologize.",
+      "own_actual_reading": "Selected maintainedC00140–54,15physicaladdresses,personally received after saved prospective6. Not whole95,Root734,author330 or primaryE022/native/raw/AV."
+    },
+    "precedence": "For current AYAME-P015 use this current_meaning. The full_original_map_pointer remains historical; effective_current_meaning_pointer is the explicit current route. All other24 paragraphs/modes stay unchanged.",
+    "ordinary_agency": "Renge wish to apologize remains positive relational agency. The correction is actor precision,not a stakes filter or a claim that reunion/cooperation lacks value.",
+    "scope": "One P015 clause/current mode plus necessary geometry/selectors/current tuple/registry provenance only. No source admission,identity/home/required or named/model/count change.",
+    "count_and_stage": "ExistingM004 alreadycompleted;this correction adds0packages/named/models/sourceadmissions. Root reported164sourcepublished/19named. Actual Root newbyte acceptance,Ninstallation and publication remain separate."
+  }
 }
