@@ -7,7 +7,7 @@ series_id: shuukura
 generation: SHUUKURA_V2
 version: "1.59"
 status: active_provisional
-scope: "Current physical continuation of the same claims/predictions/revisions ledger; historical master throughE20 retained"
+scope: "Historical physical continuation of the same claims/predictions/revisions ledger throughE0035; master throughE20 retained"
 source_boundary: "Accepted LN01–10 witnesses,23supplements and WEB E0001–E0035 operative through the complete introducing transaction; original I1 continuous,E0036 next after accepted E35 publication; immutable BW/LN10 addenda and unopened V1/future releases retained"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER_CONTINUATION_01.md
 created: "2026-10-29"
@@ -20,7 +20,7 @@ do_not_use_as_literary_evidence: true
 
 # Claims/predictions/revisions ledger — continuation01
 
-This is the current physical continuation of the [canonical claims master](SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md), within the same logical ledger. The master preserves every historical claim/version, forecast, failure and countercase throughE20; new source appendices continue here. Counts below apply across both files. The four project ledger responsibilities remain unchanged, with no new forecast or model promotion.
+This physical continuation preserves E0021–E0035 appendices within the same logical claims/predictions/revisions ledger. Read the [canonical claims master](SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md), this continuation01 and the [current claims continuation02](SHUUKURA_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER_CONTINUATION_02.md) for the complete history. Current append work continues in02 only through its complete accepted introducing transaction; a private noncurrent structural prototype is not operative authority. The dated joint totals and prospective/pending words below retain their own E35-or-earlier source clocks; later current totals belong to the accepted current append home and joint character projection. Every old claim/version, forecast, failure and countercase remains. The four logical responsibilities are unchanged, with no new forecast or model promotion from this split.
 
 ## E0035 cumulative revision 1.59 — introducing transaction
 
