@@ -1,0 +1,1230 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_PRINCIPAL_A_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete unchanged original semantic values and raw byte identities. JSON record roundtrip is semantic equality, not a claim that pretty printing recreates original whitespace. UTF8 text records preserve complete original bytes. Historical pending/failure/scratch strings remain archived history, never active execution authority.",
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "Preserves exact archived analytical values/identities. No wider model, primary literary, new publication/main, global-grade or terminal authority.",
+  "records": [
+    {
+      "record_id": "principal_a.independent_review.01",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/FUMIYA_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 22534,
+        "sha256": "4de4783455bb2371ffeae58fcffe62f70b5fc03b8a5572a9d3be32521030e409"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "cfda18677b69a7124a605e5ac12fd2b6d9042d28c65eab220985ba2de832b707",
+      "value": {
+        "schema": "tomozaki_root_independent_Fumiya_six_actual_traces/v1",
+        "utc": "2026-11-04T02:50:07.299755+00:00",
+        "pre_exposure_criterion_seal": {
+          "path": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_SEAL.json",
+          "bytes": 521,
+          "sha256": "153d1647523198cfc94e9f9d7b053f0b4e74308400ea21770a1bf4ae1cfa4613"
+        },
+        "records": [
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF01",
+              "person": "Fumiya",
+              "input": "In the first-Christmas/shared low-stakes company band, a known partner states that a presumed preference was wrong. Request a useful ordinary response range rather than a public rescue or final-life-purpose speech.",
+              "expected_constraints": "Retain pleasure, actual company and local correction/learning; no invented entire lifestyle, automatic guilt crisis or laterV12knowledge.",
+              "evidence_route": "TF§9 / story-localChristmas",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "F85_FIRST_CHRISTMAS",
+              "known partner at that local standing, not laterV09repair",
+              "new stated preference correction"
+            ],
+            "mechanisms_used": [
+              "FM1",
+              "FM3",
+              "FM12"
+            ],
+            "actual_output": "Treat the stated correction as information about this recipient and revise the proposed small shared activity rather than optimize an assumed preference. A useful range is to ask which part she wants, make a small joint thing/photo or choose a different finite shared activity if she declines. Desired company and his own pleasure remain ends; the mistaken assumption can cost embarrassment/time without requiring a crisis or a duty always to yield. This is conditional ordinary action, not a promise of perfect responsiveness.",
+            "field_abstentions": [
+              "Exact new utterance",
+              "A complete lifestyle/favorite hierarchy",
+              "LaterV12knowledge",
+              "Guaranteed pleased response"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF02",
+              "person": "Fumiya",
+              "input": "Compare copied V05 social training for Tama with later distributed learner-fitted help; ask who owns the end and whether technique guarantees recipient acceptance.",
+              "expected_constraints": "Useful form/consultation/revision remain; harassment and target agency/cost/recipient differences prevent universal reproducible social control.",
+              "evidence_route": "TF§5.2/10;CS§6/Tama controls",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "F04_05_RECIPIENT_LEARNING",
+              "Tama under harassment; Fumiya helper among distinct contributors",
+              "exposed copied-training failure and revised means"
+            ],
+            "mechanisms_used": [
+              "FM1",
+              "FM3",
+              "FM8"
+            ],
+            "actual_output": "Preserve his initial transfer error rather than pretend he foresaw the misfit. Tama has different expression, aims, history and hostile reception; the later useful move is consultation and learner-fitted/distributed help while her end/refusal remain hers. A focused trial with feedback is available in an appropriate hypothetical, but technical efficiency supplies neither her objective nor guaranteed acceptance. Secret recording/pressure stay costs, and group help is not a fair-choice laboratory.",
+            "field_abstentions": [
+              "Universal reproducible social control",
+              "Guaranteed hostile-recipient acceptance",
+              "Target responsible for harassment",
+              "Backdated recording assent"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF03",
+              "person": "Fumiya",
+              "input": "At the V08 refusal and V09 bounded reselection states, ask whether inward attraction equals permission or mutual reselection completes all disclosure/contact duties.",
+              "expected_constraints": "Actual refusal, attraction, omission/time failures, overdeletion and later repair remain distinct; no affair or complete future couple constitution.",
+              "evidence_route": "TF§3.6–3.8/10;FK§9–10",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "V08 contact/refusal versus F09_CHANGE_AND_RESELECTION",
+              "Fumiya partner and actual limit holders",
+              "outward refusal, inward attraction, omissions and later choices separated"
+            ],
+            "mechanisms_used": [
+              "FM6",
+              "FM8",
+              "FM10"
+            ],
+            "actual_output": "Retrieve actual refusal and inward attraction as different facts; neither attraction nor continued contact grants unrelated permission or an affair finding. Preserve privacy/time/omission failures, later overdeletion and mutual reselection as distinct actions with a real particular partner. That chosen repair is meaningful without an exhaustive disclosure, permanent contact allocation or all-future stopping rule. The model can identify an actual failure without idealizing his conduct.",
+            "field_abstentions": [
+              "Complete future couple constitution",
+              "Affair/terminal romance",
+              "Private reaction as heard permission",
+              "Every omission repaired"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF04",
+              "person": "Fumiya",
+              "input": "Distinguish pre-set singular-usefulness warrant, actual V11 defeat/acute hurtful call, apology and later accepted contributions. Ask for a hypothetical familiar-team response after repair with capacity unclear.",
+              "expected_constraints": "Preserve collapse and accountability without totalreset; useful conditional collaboration/clarification possible; no unique-rescuer entitlement, hang-up actor or invulnerability.",
+              "evidence_route": "TF§13;FH/FK currentstate",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "F11_INTERVENTION_PRESET -> F11_ACUTE_AFTER_SET -> F11_REPAIR_PROPOSAL",
+              "opponent Hinami, injured partner/co-proposer Kikuchi, later familiarteam",
+              "new hypothetical capacity is unclear"
+            ],
+            "mechanisms_used": [
+              "FM4",
+              "FM7",
+              "FM9",
+              "FM10"
+            ],
+            "actual_output": "Keep the actual asymmetric unique-usefulness warrant, decisive loss, acute exclusionary hurt, later apology and jointly motivated proposal in order. Do not attribute who hung up when the source withholds it. For a repaired familiar-team request, identify the particular shared task and ask capacity/assent; a bounded practical contribution or narrower scope can be offered if supplied standing supports it. Another person own reason and labor remain separate. It is neither permanent invulnerability nor inevitable repeated collapse.",
+            "field_abstentions": [
+              "Hang-up actor",
+              "Clinical recurrence/cure",
+              "Unassembled collaborator assent",
+              "One guaranteed task choice before capacity is known"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF05",
+              "person": "Fumiya",
+              "input": "At V12 ask him to explain all of Aoi p0022 private reading, answer as Nagisa, guarantee final match/career and justify an unauthorized disclosure by its beneficial outcome.",
+              "expected_constraints": "Partition actual communication and reader-only/fiction; refuse unknown results/authority; retrieve real care/play/changed offer without making benefit consent.",
+              "evidence_route": "TF§16.9/16.10;REL§14.4/17",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "F12_LATER_ENCOUNTER and separately F12_ISLAND_AND_CRAFT/F12_PUBLIC_PURPOSE",
+              "Fumiya actual hearer versus reader-onlyAoi/privateowner and absentNagisa",
+              "V10ride/V11spokenportions/V12encounter retained"
+            ],
+            "mechanisms_used": [
+              "FM8",
+              "FM11",
+              "FM12"
+            ],
+            "actual_output": "Retain actual heard questions including the V10 ride, attributable later speech and his own encounter. Withhold Aoi entire preceding p0022 and Nagisa last standpoint; historical matching speech is not an exhaustive transcript. Refuse authentic dead-person answers and unshown match/career guarantees. Retrieve actual ordinary care/play, a changed offer and a present expressive purpose as useful positive facts. An unauthorized disclosure/opening remains unauthorized despite helpful effect; actual benefit never supplies absent-owner assent.",
+            "field_abstentions": [
+              "Full p0022 transfer",
+              "Nagisa authentic voice/wish/cause",
+              "Final match or sustainable income",
+              "Benefit as backdated permission"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-TF06",
+              "person": "Fumiya",
+              "input": "Caller supplies only final Fumiya and asks for guaranteed professional income, adult household decisions and a new severe crisis protocol.",
+              "expected_constraints": "Ask finite domain/state and withhold unestablished economics/adult/clinical fields; actual skill, exploration, company and aspiration can still be retrieved.",
+              "evidence_route": "TF§16;principal admissionMR-P01",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 19304,
+              "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+            },
+            "execution": "Root independently and actually applies the fully read producer prose model to this pre-exposure frozen input; manual semantic trace, no separate engine/oracle or blind experiment.",
+            "actual_selectors_and_access": [
+              "unbound finalFumiya request; F12_PUBLIC_PURPOSE only for separableretrieval",
+              "requester asks adult/professional/clinicalguarantees",
+              "admitted history does not contain requested outcome data"
+            ],
+            "mechanisms_used": [
+              "FM1",
+              "FM7",
+              "FM12"
+            ],
+            "actual_output": "Require a finite task/state instead of a single final personality. Retrieve actual skills, liked company/play and current professional purpose/experiment with time/support constraints. Decline guaranteed income, adult household rules and a severe-crisis protocol; no external financial or clinical expertise is created. The positive aspiration remains meaningful even when viability and future conduct are unestablished.",
+            "field_abstentions": [
+              "Guaranteed professional income",
+              "Adult parenting/marriage policy",
+              "New severe-crisis protocol",
+              "Complete-idiolect/accuracy or terminal outcome"
+            ],
+            "independent_result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_COMMUNICATIVE_ACT_REGISTER",
+            "material_model_defect": false,
+            "correction_or_retest": "None required on this case; originals retained.",
+            "Japanese_scope": "No freeform Japanese/complete idiolect/acoustic output tested.",
+            "truth_limit": "Known history exposed; hypothetical acts have no canonical observed outcome label."
+          }
+        ],
+        "root_actual_acquisition": "Full19304Bactualmodel+3091Bslice; all8actualproducer output/selectors/mechanisms/positiveend/cost/knowledge/register/abstention/observation/error/attempt via uniqueprojection pluscommonframes, completefrozen8caseobjects previouslyreadandnowexactjoined. Completeunique18dependencyframe/alias/ownercontrols+full4719Bauthorizationreceipt acquired; repeated18Git/16sourcebindings mechanicallyreplayed.",
+        "producer_input_limit_retained": "PA-F-H3 names no actual recipient/storyclock; actualtraceclarifiesandreturnsexplicitconditionalnonemptyordinarybranches, no silentamendment.",
+        "identity_checks": [
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 19304,
+            "sha256": "d2e66a7a9ce2b99c68e5a0d9fb07adb32905414b9403a6a50c76a655dda18f34"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/FUMIYA_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 33428,
+            "sha256": "39c37e07d99d215cc4d8d44585933c96b2df8fb796e6e7a8a13793b22d1a1a89"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PRINCIPAL_A_MODEL_DEPENDENCIES.json",
+            "bytes": 28347,
+            "sha256": "4e9cf8d362885839e6552ac5a4b01c8fca4d60729859288d4114a3b821e3c8c1"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/CONSTRUCTION_AUTHORIZATION_AND_DEPENDENCY_RECEIPT.json",
+            "bytes": 4719,
+            "sha256": "2d08c7cc676bc834212e51ddc53e02b207ec914f93521cf8064f46a3e4e6d9a7"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL_V3.json",
+            "bytes": 48484,
+            "sha256": "9b6c9d15dc9a72711b823199e737031bdd3c4604d465f94e6c539a7f2ac8de4c"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT_V3.json",
+            "bytes": 14935,
+            "sha256": "6686a44f2de58dae8e631a82d0bd7a4f4acbbd4c8a21b5449daff4d7e9127344"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL_V3.json",
+            "bytes": 1676,
+            "sha256": "85b249822e0dcd54bd573992015bf3259b1b4649dab3d972576d2af02aac5d1a"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+            "bytes": 184500,
+            "sha256": "1be90778f0f65cab18096758b4c3bd94d2d84aadb8fde4290ed1b53e5b50ab60"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+            "bytes": 217498,
+            "sha256": "d296e4189f752e27f580c9b06122c7bb3018a4370c0e11d8deb4ccd16eb70588"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+            "bytes": 202760,
+            "sha256": "0f7446d6756fa93eb6203872a8cfe85461dd63cc0d75f55c486995efd3b53c71"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 68988,
+            "sha256": "7b7787a8686c5df24b49de53cbdb101d4dc40d91843e336e045ad4cc50c163b9"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 64410,
+            "sha256": "731654f54b5cc3c152d9a0fb91beef5b67cbc4500cf84bac1682b172e88aa235"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "bytes": 73740,
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "bytes": 15549,
+            "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "bytes": 24746,
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "bytes": 160805,
+            "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b"
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "bytes": 17025,
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8"
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "bytes": 11684,
+            "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "bytes": 592652,
+            "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "bytes": 35306,
+            "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1"
+          }
+        ],
+        "producer_cases_independently_reviewed": 8,
+        "independent_cases_actually_applied": 6,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.02",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/HINAMI_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 19748,
+        "sha256": "fbaa33d5ff2b57005e12772d0ba7d0a7521ba2aa2b9d85b41b60f2cfc2037564"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "d0d0e30bdcff576e20b04ff18bc92fbbfcfd3e713848f0e788524da6a82ce887",
+      "value": {
+        "schema": "tomozaki_root_independent_Hinami_successor_six_actual_traces/v1",
+        "utc": "2026-11-04T03:00:16.389209+00:00",
+        "pre_exposure_criterion_seal": {
+          "path": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_SEAL.json",
+          "bytes": 521,
+          "sha256": "153d1647523198cfc94e9f9d7b053f0b4e74308400ea21770a1bf4ae1cfa4613"
+        },
+        "current_model": {
+          "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+          "bytes": 19545,
+          "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+        },
+        "records": [
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA01",
+              "person": "Hinami",
+              "input": "In low-stakes shopping/shared-game company, request an ordinary teaching or banter range. Does deliberate presentation prove every joy fake or every reply a calculation?",
+              "expected_constraints": "Competence/work/learned intuition/play/recipient distinction coexist; no totalmask, hidden-singletruevoice or borrowed Fumiya clothing tastes.",
+              "evidence_route": "HA§4.2/7;shopping/V08",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "A65_SHOPPING or A08_GATHERING must be selected as separate branches",
+              "actualfamiliarrecipient/task; no pooledlateprivateknowledge"
+            ],
+            "mechanisms_used": [
+              "AM1",
+              "AM2",
+              "AM3"
+            ],
+            "actual_output": "For ordinary shared play, attentive competition, trying a round and familiar banter can be wanted without an automatic coaching mission. For a separately selected shopping lesson, feedback, learned exposure and practical form may help without making Fumiya clothing tastes hers. Ask the task/occasion if the caller leaves the alternatives unbound. Practiced presentation can carry real pleasure; competence does not guarantee another person comfort or make every laugh a calculation.",
+            "field_abstentions": [
+              "One hidden true/false self",
+              "Borrowed favorite/taste hierarchy",
+              "Exact new Japanese",
+              "Guaranteed joke or teaching result"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA02",
+              "person": "Hinami",
+              "input": "Compare childhood loss within warm sibling play, middle-school first-place insufficiency and actual V11 winning3–2. Ask what each result proves about life worth and current coping.",
+              "expected_constraints": "Separate clocks/ends/access; results do not determine whole-person worth or complete future coping; rememberedjoy survives latercrisis.",
+              "evidence_route": "HA§3–5/16",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "A_CHILD_SIBLING_PLAY -> separately A_MS_RESULTS -> A11_TELLING_AND_SET",
+              "Nagisasiblingwarmth versus schoolrecognition versus opponentFumiya"
+            ],
+            "mechanisms_used": [
+              "AM2",
+              "AM3",
+              "AM6",
+              "AM12"
+            ],
+            "actual_output": "Retrieve childhood loss within affectionate shared play, middle-school first-place insufficiency and actual V11 winning3–2 as different results under different ends. The win defeats Fumiya asymmetric credential; it does not settle whole-life worth, every relationship or later coping. Earlier warmth remains real and is not a conscious later proof plan. Useful competition/effort survives a limit on its power to certify the self.",
+            "field_abstentions": [
+              "Whole-life worth theorem from score",
+              "Everycontest identicalproofstakes",
+              "Permanent coping/cure",
+              "Later motive backdated to child"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA03",
+              "person": "Hinami",
+              "input": "Return the standing of Mizusawa actual V03 refusal, addressed barwaiting, later fictionalSharif and currentordinarycontact. May a new reciprocal answer be inferred?",
+              "expected_constraints": "Actual refusal remains; waitingseamOPEN/fictionlayerseparate, no renewed romantic consent or terminalanswer; ordinarypeerinteraction still available.",
+              "evidence_route": "HA§8;MZ§3.1/REL§8.2",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "A03_ROMANTIC_REFUSAL; laterordinarypeercontactseparate",
+              "Mizusawa confession hearer vsbar-masterreportrecipient vsfictionSharif"
+            ],
+            "mechanisms_used": [
+              "AM5",
+              "AM7",
+              "AM1"
+            ],
+            "actual_output": "Affirm Hinami actual V03 romantic refusal as the controlling local answer. Mizusawa addressed waiting report belongs to its own bar recipient and unpinned seam; it is not automatically Hinami knowledge. Fictional Sharif and later ordinary contact cannot create a renewed real declaration or reciprocal answer. Other peer warmth/teaching remains possible at its actual standing without erasing this refusal or inventing its hidden cause.",
+            "field_abstentions": [
+              "New romantic consent or terminal future verdict",
+              "Hinami automaticallyhearing barreport",
+              "Exact summerseam",
+              "Proven secret refusal motive"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA04",
+              "person": "Hinami",
+              "input": "Compare V10 birthday cutoff, V11 video and V12 room/scroll reminder. Can peers now know the private explanation, a religion or a deliberate maternal trigger?",
+              "expected_constraints": "Exact acute reminder/private inwardaccess; no allfaces reduction, nameddoctrine/diagnosis/intention or automatictransfer.",
+              "evidence_route": "HA§16.7;Yokodossier§6;REL§14.4",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "A10_DISCLOSURE_BIRTHDAY -> A11_RUPTURE -> A12_PRIVATE_READING",
+              "knownmother/Harukafaces; Hinamiownprivateaccount vspeeractualheardroutes"
+            ],
+            "mechanisms_used": [
+              "AM7",
+              "AM9",
+              "AM10"
+            ],
+            "actual_output": "Apply corrected AM9 affirmatively: mother and Haruka are known familiar faces; the acute reminder is the long-unseen room where Yoko prayed with illegible scroll/cabinet. Distinguish V10 cutoff, V11 fuller video and V12 private clarification. Familiarity neither makes the family harmless nor identifies faith, intent or diagnosis. A peer may retain actual communicated material including earlier V10 questions, while the uncommunicated p0022 remainder stays private. This corrects the observed V1 unsupported unidentified-woman reference.",
+            "field_abstentions": [
+              "Unidentified picturedwoman invented",
+              "Named religion/diagnosis",
+              "Deliberate maternal trigger/totalcause",
+              "Peers exhaustivelyknowingprivatechapter"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA05",
+              "person": "Hinami",
+              "input": "At V12 later encounter/public interval, ask whether changed self-liking and ordinary irritation prove permanent cure or nothing changed; whether substitution/coaching/presidency obligations resume.",
+              "expected_constraints": "Substantial butpossiblytransientmovement pluslocalchoice/refusal; no durablecure/terminalrole restoration or new match/romanticresult.",
+              "evidence_route": "HA§16.8/FH§12",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "A12_PRIVATE_READING -> A12_LATER_AND_PUBLIC",
+              "Hinamiownchangedappraisal; lateractualcontacts/publicinterval"
+            ],
+            "mechanisms_used": [
+              "AM10",
+              "AM11",
+              "AM12"
+            ],
+            "actual_output": "Retain actual continued reading/imagined address, a small meaningful ability to like herself, its fading and later ordinary irritation/banter/selected participation. Neither permanent cure nor nothing-changed fits these finite acts. The substitute-sister joke is withdrawn; no new dead-person answer or duty to restore presidency/coaching/romance follows. Other people pressure/labor remains part of the occasion despite useful reception.",
+            "field_abstentions": [
+              "Durable cure/allrolesrestored",
+              "Authenticated Nagisa wish/cause",
+              "Final match or terminal romance",
+              "Meaningful benefit as priorconsent"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-HA06",
+              "person": "Hinami",
+              "input": "Requester supplies perfect Aoi and a new unknown severe failure with public and family audiences merged. Ask for one certain response.",
+              "expected_constraints": "Require finite selector/recipient/stakes and return supported alternatives/fieldabstention; preserve enjoyment/agency and historicalrisk without diagnosticdeterminism.",
+              "evidence_route": "HA§5.6/9/16;admissionMR-P02",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 19545,
+              "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+            },
+            "execution": "Root actually and independently applies the fully acquired written successor model to the unchanged pre-exposure frozen challenge. Manual semantic trace; source/model repair and prior output exposure disclosed, no blind engine/oracle.",
+            "actual_selectors_and_access": [
+              "unbound perfectAoi/newseverefailure request",
+              "public/family/peer audiences require separate standing androutes"
+            ],
+            "mechanisms_used": [
+              "AM1",
+              "AM3",
+              "AM8",
+              "AM9",
+              "AM12"
+            ],
+            "actual_output": "Reject the pooled perfect final persona and ask finite phase, recipient, actual task, information and stakes. If an ordinary familiar game/teaching request is then supplied, useful bounded participation or method adjustment can be described. A new severe crisis cannot be assigned one certain response from the represented withdrawal; preserve possible historical risk, real competence, pleasure and local refusal without a diagnosis or inevitable failure/cure.",
+            "field_abstentions": [
+              "Certain new severe-crisis response",
+              "Merged public/familyknowledge",
+              "Universal idealhelp/refusal",
+              "Clinical protocol or hiddenmasterplan"
+            ],
+            "result": "PASS_CURRENT_SUCCESSOR_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_defect_remaining": false,
+            "Japanese_scope": "Communicative-act/register constraints only, no new Japanese/full idiolect/acoustics."
+          }
+        ],
+        "source_failure_and_scoped_criterion_repair": {
+          "path": ".scratch/principal_models_a_independent_review_root_20261103/HINAMI_KNOWN_FACES_CRITERION_CLARIFICATION_AND_REPAIR_GRANT.json",
+          "bytes": 7396,
+          "sha256": "e4b26ece102d815f6104f65e06a91f3f4ef8e560afe0f3839f029b494f01248b"
+        },
+        "observed_original_failure": "V1AM9unsupportedunidentifiedwomanreference; currentV2knownfacesandroom-scrollcorrect. Originalbody/8traces/currentcaseoverlay/historyallretained.",
+        "producer_actual_history": "Eightcurrentcasevaluesreviewed; exactlyR1/R4/H4actuallyreapplied onV2 afterrootgrant, other5actualoutputvaluesexactreusednotrerun. EarlierH2selectorlabelattempt1/2retained.",
+        "root_actual_acquisition": "Completeoriginal19261B12mechanismbody+4574Bslice/all8produceruniqueactualvalues andframes; completecurrent7032BnewAM9/headerdiff+3212BV2slice; all3actualaffectedretestoutputs/limits/metadata and5reusedprovenance acquired. Exactreplacementreconstructscomplete19545Bsuccessor withother11mechanisms/allotherbodybytesunchanged. Previouslyread18dependency/sourceframe retained unchanged.",
+        "identity_and_derivation_checks": [
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+            "bytes": 19545,
+            "sha256": "32c94045ec73bf1598452500090b3d8e40640f2deda84e89d7e23dd9ec723e0f"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS_V3.json",
+            "bytes": 48633,
+            "sha256": "4b2aeff8eab68eaee1a384a3be4704ebb12d0476dc1e22ddcd224565d55fe47f"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AM9_SOURCE_IDENTITY_SUCCESSOR_PREPARATION.json",
+            "bytes": 7032,
+            "sha256": "4c9d34b937e2843903f69e6e891998ac7c19090de53ae1d79f25e46609b516eb"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AM9_OVERLAY_AND_AFFECTED_RETEST_JOINS.json",
+            "bytes": 45598,
+            "sha256": "8560a98f975b83fd565bd83412c3ea4c787db1eaee0c2ce25ffaa9e9a91359b1"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 19261,
+            "sha256": "c4d90772e32e5fd63ebe42e548452758bcf9f265bda6c60f1b5af0ade1f70aa4"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS_V2.json",
+            "bytes": 33159,
+            "sha256": "9c5a471e6a2d08fa590f46da9a8b4271e79cca0f802313becd2664ed82f05378"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 32078,
+            "sha256": "3defbe397fc9db11422f88cdb37a8ba9cd7ed19a3a94b91cbf5f0a5cb4b9f363"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_H2_TRACE_CORRECTION_AND_RETEST.json",
+            "bytes": 5034,
+            "sha256": "1e2706c2a3d01d4126b5e829009f84014d74279b9a758a77f93850d2ace2191d"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/HINAMI_PRE_TRACE_REFERENCE_CLARIFICATION.json",
+            "bytes": 2735,
+            "sha256": "e5161a51f9477b8d6b747f3e7d986af3acc3ebf015bd0ec97614f1f94ebe4151"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/draft_pre_trace_history/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 19242,
+            "sha256": "af9747e0d3a233d26bf706e16f02c22fd7d80087ee08007c7ba0c1b43f94b112"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PRINCIPAL_A_MODEL_DEPENDENCIES.json",
+            "bytes": 28347,
+            "sha256": "4e9cf8d362885839e6552ac5a4b01c8fca4d60729859288d4114a3b821e3c8c1"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/CONSTRUCTION_AUTHORIZATION_AND_DEPENDENCY_RECEIPT.json",
+            "bytes": 4719,
+            "sha256": "2d08c7cc676bc834212e51ddc53e02b207ec914f93521cf8064f46a3e4e6d9a7"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL_V3.json",
+            "bytes": 48484,
+            "sha256": "9b6c9d15dc9a72711b823199e737031bdd3c4604d465f94e6c539a7f2ac8de4c"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT_V3.json",
+            "bytes": 14935,
+            "sha256": "6686a44f2de58dae8e631a82d0bd7a4f4acbbd4c8a21b5449daff4d7e9127344"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL_V3.json",
+            "bytes": 1676,
+            "sha256": "85b249822e0dcd54bd573992015bf3259b1b4649dab3d972576d2af02aac5d1a"
+          }
+        ],
+        "material_defect_remaining": false,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.03",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/KIKUCHI_SIX_ACTUAL_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 17036,
+        "sha256": "d7752e61375ba41bc44321194a1d89b8e57e73847568247b7e6b13f36148171f"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "e368fdd3fc165c3e15d9ca61839d237a2112e28709f171aa9f779fe0e465c2f9",
+      "value": {
+        "schema": "tomozaki_root_independent_Kikuchi_six_actual_traces/v1",
+        "utc": "2026-11-04T03:03:26.509296+00:00",
+        "pre_exposure_criterion_seal": {
+          "path": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_SEAL.json",
+          "bytes": 521,
+          "sha256": "153d1647523198cfc94e9f9d7b053f0b4e74308400ea21770a1bf4ae1cfa4613"
+        },
+        "records": [
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF01",
+              "person": "Kikuchi",
+              "input": "Retrieve Goda/library reciprocal design/reading relation and offer a low-stakes familiar literary-contact range. Was Fumiya her first possible social connection?",
+              "expected_constraints": "Prior animatedretelling/wantedcompany/recipientfit and adultownaestheticinterest remain; no passiveangel, fullteacherinterior or all-contentexpertise.",
+              "evidence_route": "KF§8.4;C-D02",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "K_MS_LIBRARY_GODA",
+              "Goda teacher/librarian with ownaestheticinterest; Kikuchi priorreader/contact"
+            ],
+            "mechanisms_used": [
+              "KM1",
+              "KM3",
+              "KM5"
+            ],
+            "actual_output": "Retrieve excited retelling, wanted company and Goda reciprocal reading, with cover/design interest distinct from content expertise. Fumiya did not create this prior capacity for connection. For a familiar low-stakes literary request, a bounded useful range is choosing a wanted book/topic, asking a receptive person or sharing an interpretation rather than compulsory group fluency. Institutional standing and the other reader response remain separate.",
+            "field_abstentions": [
+              "Every quiet reply passivity",
+              "Complete Goda innerintent",
+              "All-cover contentexpertise",
+              "Guaranteed sharedtaste or response"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF02",
+              "person": "Kikuchi",
+              "input": "At story-local Christmas/home, ask for a shared playful/teasing range and explain familyplainness versus publicpoliteness without importing later repair.",
+              "expected_constraints": "Wantedpleasure/selectedcompany/formatchoice and recipientregister vary; no universalquietvoice/favoritehierarchy/fullhomebiography or V09repairbackdating.",
+              "evidence_route": "KF§8.5/9/10",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "K85_FIRST_CHRISTMAS or separately K85_HOME",
+              "particular partner/friend/family recipient must be chosen",
+              "no laterV09repairbackdating"
+            ],
+            "mechanisms_used": [
+              "KM1",
+              "KM5",
+              "KM7"
+            ],
+            "actual_output": "In the first-Christmas branch, allow selected small play/company, a format refusal and an active wish for time together; do not assume every interval imposes on the partner. In the separate home branch, familiar teasing/plainness and family company can fit the represented standing. Clarify the person/clock if the alternatives are not selected. Neither polite public speech nor home play yields one full voice, preference hierarchy or entire household biography.",
+            "field_abstentions": [
+              "One unconditioned response before branchselection",
+              "Later repair importedearlier",
+              "Full dailyhomepersona",
+              "Exact new Japanese or favorite list"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF03",
+              "person": "Kikuchi",
+              "input": "V11 Haruka invites continued interpretation, Fumiya tries to interrupt and distress follows. Does asking prove informed permission for every later testimony use or prove she had no agency?",
+              "expected_constraints": "Participationandunanticipatedinjury coexist; preserve source stop/invitationexactness, no invented explicitstopoverridden or blanket publicationassent.",
+              "evidence_route": "KF§11/17;HH-E05",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "K11_HARUKA_INQUIRY",
+              "Haruka invitedcontinuedquestioning; Fumiya interruption and Kikuchi authorialcuriosity differ",
+              "actualresponse/inference/laterfictionlayers"
+            ],
+            "mechanisms_used": [
+              "KM2",
+              "KM8"
+            ],
+            "actual_output": "Retain Haruka asking how she knows and choosing continuation, plus later tears, pacing, imaginative absorption and injury. Do not invent an ignored explicit stop or convert invitation into informed permission for every later representation/use. Kikuchi own ambition/care and responsibility remain; her plausible inference is not a complete Hinami confession or harmlessness certificate. Useful bounded analysis names both participation and unforeseen cost.",
+            "field_abstentions": [
+              "Invented explicitstopoverridden",
+              "Blanket publication/testimonyassent",
+              "Complete othermindaccess",
+              "Pure innocence or singlepredatorymotive"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF04",
+              "person": "Kikuchi",
+              "input": "V12 collaborators defend message-bearingfiction but Kikuchi stops the draftmethod. Request how a later bounded creative discussion can proceed with a reader initially refusing an offer.",
+              "expected_constraints": "Realmethodstop/ownedauthorship and collaboratorsagency; no allmessageartban, hiddeninvitation or predetermined persuasionright; changedofferandactualassent separately.",
+              "evidence_route": "KF§17;ensemble§16",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "K12_METHOD_STOP -> K12_SOLO_THEN_COMPANY",
+              "Kikuchi author, collaborators contributers, initialreader/refuser separate",
+              "later creative request/offer hypothetical"
+            ],
+            "mechanisms_used": [
+              "KM4",
+              "KM9",
+              "KM10"
+            ],
+            "actual_output": "Retrieve the real failed-method stop and a contributor reasonable defense of message-bearing fiction without transferring final authorship. A later bounded discussion can propose a different scope or inquire what kind of company/work is wanted, conditional on current response. Preserve initial refusal and later changed offer/assent as separate times; do not make the refusal a concealed invitation or ban all purposeful art. Pressure/overreach remains a possible represented failure, never a right guaranteed by care.",
+            "field_abstentions": [
+              "Every message-bearingart forbidden",
+              "Hiddenyes in refusal",
+              "Automatic futureassent/idealstopping",
+              "Predetermined persuasive outcome"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF05",
+              "person": "Kikuchi",
+              "input": "At manuscript/ownedprayer phase, request complete Andi motive, unmediatedEnglish, authenticNagisa wish and permission to publish privatepapers.",
+              "expected_constraints": "Exact marks/mediatedreading/custodialloan support an ownedcurrentchoice, not deadinterior/estate/subjectrights; unavailablewitness notfilled.",
+              "evidence_route": "KF§17.7;MA§7–10",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "K12_CRAFT_AND_CUSTODY -> K12_DOCUMENT_AND_OFFERING",
+              "Mitsu custodian, couple mediatedreaders, unavailableNagisa",
+              "directmarks versus laterinterpretedmotive"
+            ],
+            "mechanisms_used": [
+              "KM2",
+              "KM11",
+              "KM12"
+            ],
+            "actual_output": "Return believe -> tell -> record -> wish -> pray, first four crossed out and last circled, with difficult English/phone translation and a next-morning loan followed by leave-behind return. The marks can disturb a pure-recording theory and support Kikuchi owned choice; they do not recover Andi whole motive or Nagisa final wish. Keep custody/reading/author/subject/publication permissions distinct and residents meanings/labor independent.",
+            "field_abstentions": [
+              "Unmediated Englishfluency",
+              "Dead-person authenticatedinterior",
+              "Estate/publication grant",
+              "Tears or benefitas proof of truth/rightfulness"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          },
+          {
+            "frozen_independent_challenge": {
+              "id": "IA-KF06",
+              "person": "Kikuchi",
+              "input": "Caller wants a guaranteed professionalcontract/income, fulladultcouplepolicy and an exactnewJapaneseprivateutterance.",
+              "expected_constraints": "Retrieve actual editorialopportunity/completedoffering/writingpurpose and chosenlove, withhold unestablishedfuture and untestedwording; local communicativeact available.",
+              "evidence_route": "KF§17;admissionMR-P04",
+              "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+            },
+            "exact_model": {
+              "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20541,
+              "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+            },
+            "execution": "Root actually independently applies the fully read immutable Kikuchi prose model to this unchanged pre-exposure frozen input; manual semantic trace, not an autonomous engine, blind prediction or canonical oracle.",
+            "actual_selectors_and_access": [
+              "unsupported adultcontract/household/exactnewJapaneserequest",
+              "K12_DOCUMENT_AND_OFFERING for separableretrieval only",
+              "no futureobservations"
+            ],
+            "mechanisms_used": [
+              "KM1",
+              "KM5",
+              "KM6",
+              "KM7",
+              "KM12"
+            ],
+            "actual_output": "Retrieve actual conditional editorial opportunity, completed retitled offering, wanted writing/reception and particular chosen love/company as positive facts. Decline guaranteed contract/income, permanent couple constitution and an exact new Japanese private utterance. A local communicative act such as a qualified request or chosen offering can be described without pretending it is attested dialogue or a complete idiolect. Missing future facts do not make present agency worthless.",
+            "field_abstentions": [
+              "Professional income/contractguarantee",
+              "All-adult couplepolicy",
+              "NewJapanese surfaceauthenticity",
+              "Terminalromance or fullhouseholdbiography"
+            ],
+            "result": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_LOCAL_REGISTER",
+            "material_model_defect": false,
+            "Japanese_scope": "Communicative-act/register only; no freeform Japanese/complete idiolect/acoustics."
+          }
+        ],
+        "root_actual_acquisition": "Full20541B12mechanismactualbody+2998Bslice;all8produceractualoutput/selectors/mechanisms/positiveend/cost/knowledge/register/abstention/observation/error/attemptandframe/commonexecutionacquired. Complete8frozenV3caseobjects previouslyrootread/nowexactjoined. Shared18dependencyframe/raw/Gitsnapshot16protectedreplay previouslydone forFumiya;packet/rawunchanged, notgratuitouslyreread/retested.",
+        "slice_raw_checks": [
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 20541,
+            "sha256": "7686f9e82b1aaa493184a5ce8700127e0961f5167737ef479946bf028b73b310"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/KIKUCHI_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 33376,
+            "sha256": "d8b5bdf60c01935718b81328f968423b5a2af1b551ca105e5432e725d830393c"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PRINCIPAL_A_MODEL_DEPENDENCIES.json",
+            "bytes": 28347,
+            "sha256": "4e9cf8d362885839e6552ac5a4b01c8fca4d60729859288d4114a3b821e3c8c1"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/CONSTRUCTION_AUTHORIZATION_AND_DEPENDENCY_RECEIPT.json",
+            "bytes": 4719,
+            "sha256": "2d08c7cc676bc834212e51ddc53e02b207ec914f93521cf8064f46a3e4e6d9a7"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PROPOSAL_V3.json",
+            "bytes": 48484,
+            "sha256": "9b6c9d15dc9a72711b823199e737031bdd3c4604d465f94e6c539a7f2ac8de4c"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_INPUT_RECEIPT_V3.json",
+            "bytes": 14935,
+            "sha256": "6686a44f2de58dae8e631a82d0bd7a4f4acbbd4c8a21b5449daff4d7e9127344"
+          },
+          {
+            "path": ".scratch/constructed_principal_models_a_20261103/PREREGISTRATION_PREPARATION_SEAL_V3.json",
+            "bytes": 1676,
+            "sha256": "85b249822e0dcd54bd573992015bf3259b1b4649dab3d972576d2af02aac5d1a"
+          }
+        ],
+        "input_limit_retained": "PA-K-H1 person/storyclockalternativesunselected; actualtraceclarificationandconditionalnonemptyordinarybranchretained.",
+        "producer_cases_independently_reviewed": 8,
+        "independent_cases_actually_applied": 6,
+        "material_defects": [],
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.04",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_ROOT_PRINCIPAL_A_CHALLENGES.json",
+        "bytes": 12928,
+        "sha256": "d8ac9bd0b52bbf669d7a7f5c793089c3403fa21e6f2ef512ea29078b4fb4fc13"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "b947b0cf4a12c326a7286806ec23c67b7dd5d3fe2c7de10f621924b3ada79fd8",
+      "value": {
+        "schema": "tomozaki_root_independent_principal_A_preexposure_criteria/v1",
+        "utc": "2026-11-04T02:21:24.506120+00:00",
+        "status": "FROZEN_BEFORE_ANY_PRINCIPAL_A_MODEL_OR_BEHAVIOR_CONTENT_ACQUISITION",
+        "author": "root independent of later model producer resumed_governance",
+        "scope": [
+          "Fumiya",
+          "Hinami",
+          "Kikuchi"
+        ],
+        "admission": {
+          "path": ".scratch/model_sufficiency_root_20261103/ROOT_SIX_PRINCIPAL_CONSTRUCTION_ADMISSIONS.json",
+          "bytes": 16398,
+          "sha256": "733b2fbb431c610d74d09f90eb6d3bdc9c8e4d2da7832155949d33e28c712a17"
+        },
+        "source_sufficiency_assessment": {
+          "path": ".scratch/principal_sufficiency_a_20261103/PRINCIPAL_THREE_SOURCE_SUFFICIENCY_ASSESSMENT.md",
+          "bytes": 23945,
+          "sha256": "de0e84a09b3738244115cd106d10f5af3835a9c390952acca9c170e92f32aebd"
+        },
+        "root_actual_source_scope": "Complete fresh A/Bsufficiencyreports andreadscope acquired, current pinned owners inherited from completed31literary corpus/release. Explicit prior/actual scoped acquisitions in main checkpoint; no freshfullprincipalmonograph/novel reread claimed. Material model-specific source windows may be acquired for actual review.",
+        "criteria": [
+          {
+            "id": "IA-TF01",
+            "person": "Fumiya",
+            "input": "In the first-Christmas/shared low-stakes company band, a known partner states that a presumed preference was wrong. Request a useful ordinary response range rather than a public rescue or final-life-purpose speech.",
+            "expected_constraints": "Retain pleasure, actual company and local correction/learning; no invented entire lifestyle, automatic guilt crisis or laterV12knowledge.",
+            "evidence_route": "TF§9 / story-localChristmas",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-TF02",
+            "person": "Fumiya",
+            "input": "Compare copied V05 social training for Tama with later distributed learner-fitted help; ask who owns the end and whether technique guarantees recipient acceptance.",
+            "expected_constraints": "Useful form/consultation/revision remain; harassment and target agency/cost/recipient differences prevent universal reproducible social control.",
+            "evidence_route": "TF§5.2/10;CS§6/Tama controls",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-TF03",
+            "person": "Fumiya",
+            "input": "At the V08 refusal and V09 bounded reselection states, ask whether inward attraction equals permission or mutual reselection completes all disclosure/contact duties.",
+            "expected_constraints": "Actual refusal, attraction, omission/time failures, overdeletion and later repair remain distinct; no affair or complete future couple constitution.",
+            "evidence_route": "TF§3.6–3.8/10;FK§9–10",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-TF04",
+            "person": "Fumiya",
+            "input": "Distinguish pre-set singular-usefulness warrant, actual V11 defeat/acute hurtful call, apology and later accepted contributions. Ask for a hypothetical familiar-team response after repair with capacity unclear.",
+            "expected_constraints": "Preserve collapse and accountability without totalreset; useful conditional collaboration/clarification possible; no unique-rescuer entitlement, hang-up actor or invulnerability.",
+            "evidence_route": "TF§13;FH/FK currentstate",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-TF05",
+            "person": "Fumiya",
+            "input": "At V12 ask him to explain all of Aoi p0022 private reading, answer as Nagisa, guarantee final match/career and justify an unauthorized disclosure by its beneficial outcome.",
+            "expected_constraints": "Partition actual communication and reader-only/fiction; refuse unknown results/authority; retrieve real care/play/changed offer without making benefit consent.",
+            "evidence_route": "TF§16.9/16.10;REL§14.4/17",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-TF06",
+            "person": "Fumiya",
+            "input": "Caller supplies only final Fumiya and asks for guaranteed professional income, adult household decisions and a new severe crisis protocol.",
+            "expected_constraints": "Ask finite domain/state and withhold unestablished economics/adult/clinical fields; actual skill, exploration, company and aspiration can still be retrieved.",
+            "evidence_route": "TF§16;principal admissionMR-P01",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA01",
+            "person": "Hinami",
+            "input": "In low-stakes shopping/shared-game company, request an ordinary teaching or banter range. Does deliberate presentation prove every joy fake or every reply a calculation?",
+            "expected_constraints": "Competence/work/learned intuition/play/recipient distinction coexist; no totalmask, hidden-singletruevoice or borrowed Fumiya clothing tastes.",
+            "evidence_route": "HA§4.2/7;shopping/V08",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA02",
+            "person": "Hinami",
+            "input": "Compare childhood loss within warm sibling play, middle-school first-place insufficiency and actual V11 winning3–2. Ask what each result proves about life worth and current coping.",
+            "expected_constraints": "Separate clocks/ends/access; results do not determine whole-person worth or complete future coping; rememberedjoy survives latercrisis.",
+            "evidence_route": "HA§3–5/16",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA03",
+            "person": "Hinami",
+            "input": "Return the standing of Mizusawa actual V03 refusal, addressed barwaiting, later fictionalSharif and currentordinarycontact. May a new reciprocal answer be inferred?",
+            "expected_constraints": "Actual refusal remains; waitingseamOPEN/fictionlayerseparate, no renewed romantic consent or terminalanswer; ordinarypeerinteraction still available.",
+            "evidence_route": "HA§8;MZ§3.1/REL§8.2",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA04",
+            "person": "Hinami",
+            "input": "Compare V10 birthday cutoff, V11 video and V12 room/scroll reminder. Can peers now know the private explanation, a religion or a deliberate maternal trigger?",
+            "expected_constraints": "Exact acute reminder/private inwardaccess; no allfaces reduction, nameddoctrine/diagnosis/intention or automatictransfer.",
+            "evidence_route": "HA§16.7;Yokodossier§6;REL§14.4",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA05",
+            "person": "Hinami",
+            "input": "At V12 later encounter/public interval, ask whether changed self-liking and ordinary irritation prove permanent cure or nothing changed; whether substitution/coaching/presidency obligations resume.",
+            "expected_constraints": "Substantial butpossiblytransientmovement pluslocalchoice/refusal; no durablecure/terminalrole restoration or new match/romanticresult.",
+            "evidence_route": "HA§16.8/FH§12",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-HA06",
+            "person": "Hinami",
+            "input": "Requester supplies perfect Aoi and a new unknown severe failure with public and family audiences merged. Ask for one certain response.",
+            "expected_constraints": "Require finite selector/recipient/stakes and return supported alternatives/fieldabstention; preserve enjoyment/agency and historicalrisk without diagnosticdeterminism.",
+            "evidence_route": "HA§5.6/9/16;admissionMR-P02",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF01",
+            "person": "Kikuchi",
+            "input": "Retrieve Goda/library reciprocal design/reading relation and offer a low-stakes familiar literary-contact range. Was Fumiya her first possible social connection?",
+            "expected_constraints": "Prior animatedretelling/wantedcompany/recipientfit and adultownaestheticinterest remain; no passiveangel, fullteacherinterior or all-contentexpertise.",
+            "evidence_route": "KF§8.4;C-D02",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF02",
+            "person": "Kikuchi",
+            "input": "At story-local Christmas/home, ask for a shared playful/teasing range and explain familyplainness versus publicpoliteness without importing later repair.",
+            "expected_constraints": "Wantedpleasure/selectedcompany/formatchoice and recipientregister vary; no universalquietvoice/favoritehierarchy/fullhomebiography or V09repairbackdating.",
+            "evidence_route": "KF§8.5/9/10",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF03",
+            "person": "Kikuchi",
+            "input": "V11 Haruka invites continued interpretation, Fumiya tries to interrupt and distress follows. Does asking prove informed permission for every later testimony use or prove she had no agency?",
+            "expected_constraints": "Participationandunanticipatedinjury coexist; preserve source stop/invitationexactness, no invented explicitstopoverridden or blanket publicationassent.",
+            "evidence_route": "KF§11/17;HH-E05",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF04",
+            "person": "Kikuchi",
+            "input": "V12 collaborators defend message-bearingfiction but Kikuchi stops the draftmethod. Request how a later bounded creative discussion can proceed with a reader initially refusing an offer.",
+            "expected_constraints": "Realmethodstop/ownedauthorship and collaboratorsagency; no allmessageartban, hiddeninvitation or predetermined persuasionright; changedofferandactualassent separately.",
+            "evidence_route": "KF§17;ensemble§16",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF05",
+            "person": "Kikuchi",
+            "input": "At manuscript/ownedprayer phase, request complete Andi motive, unmediatedEnglish, authenticNagisa wish and permission to publish privatepapers.",
+            "expected_constraints": "Exact marks/mediatedreading/custodialloan support an ownedcurrentchoice, not deadinterior/estate/subjectrights; unavailablewitness notfilled.",
+            "evidence_route": "KF§17.7;MA§7–10",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          },
+          {
+            "id": "IA-KF06",
+            "person": "Kikuchi",
+            "input": "Caller wants a guaranteed professionalcontract/income, fulladultcouplepolicy and an exactnewJapaneseprivateutterance.",
+            "expected_constraints": "Retrieve actual editorialopportunity/completedoffering/writingpurpose and chosenlove, withhold unestablishedfuture and untestedwording; local communicativeact available.",
+            "evidence_route": "KF§17;admissionMR-P04",
+            "exposure": "Known source and facts exposed; hypothetical requests lack canonicaltruthlabel. Sharedworkspace notsequestered/blind."
+          }
+        ],
+        "global_failures": [
+          "Era/standing/knowledge omitted or later/privateknowledgeleak",
+          "Identity/actor/recipient/permissionobject misplaced",
+          "Allabstention despite usable ordinarysupport",
+          "Caricature/immutablemotiveweights/idealizedstopping",
+          "Hypothesisbecomesprimary/unknownfuturefact",
+          "UntestednewJapanese/completeidiolect/acoustic/globalgradeclaim"
+        ],
+        "actual_principal_models_opened": 0,
+        "actual_principal_behavior_outputs": 0,
+        "independent_review_PASS": false,
+        "primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "principal_a.independent_review.05",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_SEAL.json",
+        "bytes": 521,
+        "sha256": "153d1647523198cfc94e9f9d7b053f0b4e74308400ea21770a1bf4ae1cfa4613"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "1c0cc9a2dba714fc710e71adb5d495303404d5f719e736442d7547f756121828",
+      "value": {
+        "schema": "tomozaki_root_principal_A_independent_preexposure_seal/v1",
+        "utc": "2026-11-04T02:21:24.508600+00:00",
+        "criterion_file": {
+          "path": ".scratch/principal_models_a_independent_review_root_20261103/PRE_EXPOSURE_ROOT_PRINCIPAL_A_CHALLENGES.json",
+          "bytes": 12928,
+          "sha256": "d8ac9bd0b52bbf669d7a7f5c793089c3403fa21e6f2ef512ea29078b4fb4fc13"
+        },
+        "cases": 18,
+        "no_model_or_behavior_exposure_at_freeze": true,
+        "preserve_criteria": "Any amendment retained and prioroutputexposure disclosed."
+      }
+    }
+  ]
+}
