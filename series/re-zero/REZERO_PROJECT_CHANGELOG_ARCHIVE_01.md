@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ROOT_ENTRYPOINT_HISTORY_THROUGH_V21_AND_REALA21
-generation: V1.2
+scope: VERBATIM_ROOT_ENTRYPOINT_HISTORY_THROUGH_V22
+generation: V1.3
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -579,3 +579,27 @@ All66entering protected artifacts and20earlier model scopes/defaults/local grade
 All15complete substantive candidates were measured first: only master1065970bytes exceeded1048576by17394. Existing same-base [archive02V1.3](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_02.md#reala21-master-routing-history) receives the whole23291-byte superseded master-routing span/SHA256`0fa5a80c64a1c93a35e9bf39d6feeae2dc20d10fe152afd1f5fe6a175aaeee63`; all15original active headings retain routers and native full inverses recover exact pre-storage candidates/entering files. No current claim/owner/ordinary/JP/prospect body moved;66protected/20prior scopes remain exact. No new archive, owner, field, source or cap exception. Reala own full gate remains PENDING before sealedV22; CI owns merges.
 
 ````````````````````````
+
+## Scarf22 root changelog V22 historical entry
+
+All15complete substantive candidates were measured before this selection. Root changelog1049058bytes exceeded the unchanged1048576cap by482. The complete prior V22entry below is5738bytes/SHA25631dfdf7cd45ec065fb26098d33e1e2f9fae7a67832302ad4d1f81f4d4334d7ed. It is moved verbatim with the same root-directory relative-link base; the root changelog retains its original-heading router. This is historical storage, without a new owner or source. Full native inverse restores the exact entering root and archive bytes.
+
+````````markdown
+## V22 source-facing transaction — recognition, useful knowledge and received care
+
+Reala21/PR419actual merge and complete source/merge/main/housekeeping/later-native gate are verified before source. The admitted JapaneseV22original is actually consumed through all25OPFmembers/3816positions,23original assets,full contextual ruby and original navigation, with bounded jacket microprint. No V23/nonspine/import narrative is opened.
+
+V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water remains V21/467claims; V22 is source-complete and separately saved-content accepted at537claims, with its own full publication/integration gate PENDING. Reala21/PR419 full gate CLOSED before V22: authored07bb073bd33a7bb74dbf132bf6c7de4030a8b26c; CI final source029206778b3bbb9c037b057d38f4338475347012; actual merge4f6ba10b04197b3431f38a9fa079f02d395110ef; verified main5b7f738008c6026b64278b70a7b07aa80d8bb5d0. Their identical Re:Zero subtreef0e3e570bea448b5aadd397f19778c146175bcc6, completed exact-source/merge/main audits41346410757/41347396074/41348768518 (486unique discovered tests each, zero nonpasses), trusted statuses57793627641/57793990747/57794497398, source-specific housekeeping41347364920 verified routing-current no-op and later native proof close that gate. Meili21/PR413 and Petra21/PR415 remain CLOSED. All68entering protected artifacts and21historical model/default/local documentary grades remain exact. V22 source EOF precedes individual467claim/60question/10forecast/181relationship/450transition decisions. Separate saved-content/source/name-reference/fidelity review is ACCEPTED after nine bounded SR01–SR09 corrections and two routine copyedits were actually read back; native correspondence and protected scopes passed. Whole outgoingV23body60Q/10P is sealed after that acceptance:25551bytes/SHA256dc9d6a69786659ee6a6e625172e13e14a61c2f138e90eea1048cd45258abed19; literal through V22and earned operator gates, narrative unopened. Five owners retain contracts: E024/23deaths24segments,K874/M553/I453/R191/RT495. Scarf operator V20–V22 construction/review is earned but UNIMPLEMENTED/UNGRADED after V22full gate; its own full gate precedes V23. V23+/nonspine/import narratives remain unopened, admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
+
+Current537propositions include all467individual predecessor reasons and70NEW. All181relationships and450dated transitions were actually read/individually treated;33current-row updates/148literal preserves and10newR/45newRTretain complete ancestry/native preimages. Source-based current revisions include nonfatal trials/books, individual pass, explicit spirit-contract severance, limited operator disclosure/recipient hurt and unexplained final local recognition loss. No new observed death/return, group cure or Arc6closure.
+
+SA01/JP01current C049/C095/C463,K807,R106and Japanese row identify Reala introduction; protected V21/Reala bytes/grade stay exact and erroneous shorthand is explicitly qualified. K01narrow primary query confirms earlier Beatrice minimum receipt without every cost detail. Exact draft locator normalization is attributable; original private decisions and full earlier ancestry remain preserved. Literal論考式, recovered inline牙, masked title, damage-rule contrast and older source/chronology controls remain bounded.
+
+The operator independently earns a V20–V22construction/applied19dimension review, UNIMPLEMENTED/UNGRADED after V22full gate; Shaula/Reid remain narrower cases. All68protected artifacts/21old defaults/local grades remain exact. No sixth owner/new field/index or final specialist.
+
+Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index author preflight/atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SCARF_ECHIDNA_V20_V22_MODEL_AND_FIDELITY_REVIEW and its own full gate → literal sealedV23. No routine-unit pause, independent/held-out/runtime/global grade or final goal completion.
+
+Complete14-file measurement found only master1662599bytes over cap by614023. Two whole historical spans/686400bytes now reside verbatim in same-base [archive03](04%20Longitudinal%20Ledgers/REZERO_PROJECT_HISTORY_ARCHIVE_03.md), with124original-heading routers/full native inverses. Current537claims/four literal bodies stay in master. Saved-content review accepted and outgoingV23whole25551bytebody sealed; V22publication/integration remains pending; V43/terminal review active.
+
+Final15-file measurement after acceptance/V23seal found root changelog1048979bytes,403over cap. One complete5045bytehistorical Reala21entry now resides verbatim in existing same-base [root archive01](REZERO_PROJECT_CHANGELOG_ARCHIVE_01.md#v22-root-changelog-reala21-historical-entry), with its original heading router/full native inverse. This adds one maintained archive path, no analytical owner; all current evidence and five literal V19–V23bodies remain in their original homes.
+````````
