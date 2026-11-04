@@ -7,7 +7,7 @@ series_id: shuukura
 generation: SHUUKURA_V2
 version: "1.58"
 status: active_provisional
-scope: "Current physical continuation02 of the same disclosure ledger; master through BW04 and continuation01 through E0027 retained"
+scope: "Historical physical continuation02 through E0034 of the same disclosure ledger; continuation03 is the subsequent append home through its complete introducing transaction"
 source_boundary: "Accepted LN01–10 witnesses, 23 supplements andWEB E0001–E0034 through whole transactions; original I1 continuous,E0035 next after complete E0034/publication with every dependent duty retained; immutable BW/LN10 additions;V1/future releases unopened"
 canonical_home: series/shuukura/04 Longitudinal Ledgers/SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_02.md
 created: "2026-10-31"
@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Disclosure ledger — continuation02
 
-This is the current physical continuation of the same logical disclosure ledger. Read the [historical master through BW04](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md), [continuation01 through E0027](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) and this continuation02 from E0028 together. All prior rows, versions and source/access clocks remain in their original parts. Global proposition, information-transition and tension identities continue without reset. No fifth logical ledger, duplicate source unit or authority lane is created.
+This physical continuation02 preserves E0028 through E0034 within the same logical disclosure ledger. Read the [historical master through BW04](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER.md), [continuation01 through E0027](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md), this part and [current continuation03 for subsequent appends](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_03.md) together. The complete introducing transaction establishes the later current append home. All prior rows, versions and source/access clocks remain in their original parts; global proposition, information-transition and tension identities continue without reset. The [character continuation01](SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER_CONTINUATION_01.md) remains the joint-count and projection home. The retained E34 introductions and notices below describe that transaction at its own source/review stages. No fifth logical ledger, duplicate source unit or authority lane is created.
 
 ## E0034 cumulative revision 1.58 — complete introducing transaction
 
