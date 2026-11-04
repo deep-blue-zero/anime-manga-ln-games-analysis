@@ -1,0 +1,1850 @@
+{
+  "schema": "RELATION_SIX_ROLE_PUBLIC_FORM_PREPARATION_V1",
+  "series": "BLUE_ARCHIVE",
+  "scope": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire/baseballReiCH0245",
+  "generation": "V1",
+  "authority": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "composer": "/root/current_preflight_requirements",
+  "preparation_date": "2026-11-04",
+  "lifecycle_state": "PUBLIC_FORM_PREPARATION_20261104_PRIVATE_CONNECTED20_ROOT_ACCEPTED",
+  "review_at_creation": "Private body and plan accepted at their exact recorded scopes; new public bytes await different complete public-form QA and Root actual new-byte adjudication. Stable preparation-date state, no future publication/count certificate.",
+  "history_qualification": "Every dated original actor/date/null/source grade remains. Original pending/counters/heads/filenames/private tuple scopes are original creation history; current portable bindings live only in top component_refs/current registry/geometry. No new source/course/identity/named/extraREL/model/install/publication/count credit.",
+  "artifact_role": "REGISTRY",
+  "component_refs": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14075,
+      "sha256": "014b5b1d58cc5cf99f8380520b6e79e7f9ab9c783f55908fa97d7817c6ddde53"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 97357,
+      "sha256": "26a9eba4e38c3bfc698e7eb7a7ef3c433c667f150ac907c5439d358e8500d6a1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 337137,
+      "sha256": "920849d8f359daf09a4892c4634154610df3a86cbe839b7b520d9f31656609b3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "bytes": 89984,
+      "sha256": "0aab5d36a928ef3d1b9e87b7306cbb6660a15e54ea4de6c13b0a8640f200c9fe"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "bytes": 93593,
+      "sha256": "e6ac72d55e2ee735ddf61cfc13bd28e5757255973d9fd99d9b8cef4881f8c7da"
+    }
+  ],
+  "dated_records": {
+    "A07": {
+      "record_id": "A07",
+      "original_filename": "SUMIRE_BASEBALL_REI_CONNECTED20_BODY_FIRST_COMPLETE_FROZEN_EXTERNAL_ALLOWLIST_V1.json",
+      "original_file_bytes": 2585,
+      "original_file_sha256": "fd792cd799fa07e83cb3370cda35f7a4c33c674ed2ec51f3e82a9e7ce10ec9ec",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "01d81b7966ba4d4f94064a672b9046c970acf5b3d2a1e81ecdde6cf196b2c31a"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_CONNECTED_RELATION_BODY_COMPLETE_FROZEN_EXTERNAL_ALLOWLIST_V1",
+        "author": "/root/current_preflight_requirements",
+        "members": [
+          {
+            "relative_path": "OWN_RELATION_SIX_NEW_COMPOSITION_QUESTIONS_AND_VERIFIED_REUSE_GATE_BEFORE_BODY_V1.json",
+            "bytes": 3058,
+            "sha256": "ec79414084c65ab2a97862dd7f438727c6fc492b8c04ce1a0d508deadf3ed7d7"
+          },
+          {
+            "relative_path": "RELATION_BODY_SOURCE_AUTHORITY_VERIFIED_OWN_TWO_MONOGRAPHS_SELECTED240_AND_OPERATIVE_QUALIFIERS_V1.json",
+            "bytes": 22493,
+            "sha256": "64c8905f7f4d99d912d22dfd22df7cc91cdd8a3e63730b186710cbb2cfd4ea1f"
+          },
+          {
+            "relative_path": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS_C_ONLY_DRAFT_V1.md",
+            "bytes": 13991,
+            "sha256": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd"
+          },
+          {
+            "relative_path": "OWN_PRE_FREEZE_THREE_READBACK_SCOPE_PRECISION_EDITS_BEFORE_FINAL_BODY_V1.json",
+            "bytes": 1553,
+            "sha256": "97686eb95ef72a207724d06c12b0d18c0095ef95f81e050922e4c1b0782afd70"
+          },
+          {
+            "relative_path": "own_relation_map_reason_and_modest_fidelity_builder.py",
+            "bytes": 20855,
+            "sha256": "53d64efddded1cf444bd150cf3600abd3a4697422225319ce43ff6082755d3d4"
+          },
+          {
+            "relative_path": "RELATION_COMPLETE20_LITERAL_PARAGRAPH_PURPOSE_DIRECTION_MODE_ENDPOINT_AND_TWELVE_DIMENSION_MAP_V1.json",
+            "bytes": 44645,
+            "sha256": "fd9f0719eb5a545dda6ce1b2f6a53db0d672884febf947ae2547c6a7978d93c6"
+          },
+          {
+            "relative_path": "OWN_RELATION_CONNECTED20_ORIGINAL_CHOICES_TWELVE_DIMENSIONS_EIGHT_RIVALS_AND_MEANINGFUL_READBACK_V1.json",
+            "bytes": 26109,
+            "sha256": "7947abc53f88e4550fda787b14fa70f1091e499d3c08fd1394e5314c1732d11a"
+          },
+          {
+            "relative_path": "own_relation_modest_literal_source_and_tuple_fidelity_checker.py",
+            "bytes": 7735,
+            "sha256": "9b8a185f9a67ee9008d90fc8224a981c4b12ac4e70c937cd2e44202bed972880"
+          },
+          {
+            "relative_path": "OWN_RELATION_MODEST_COMPLETE20_GEOMETRY_SOURCE_RANGE_QUALIFIER_FROZEN_INPUT_AND_CURRENT_TUPLE_RESULTS_V1.json",
+            "bytes": 31766,
+            "sha256": "b7c8cc309af9877bcf42fd84d80de8e050782376410e31f08289440540cca6db"
+          }
+        ],
+        "member_count": 9,
+        "scope": "Nine private ownC members only, no rawwhole-input transport/codec. Source inputs stay at exact frozen paths. Manifest andterminal external to members.",
+        "authority": "draft_noncurrent;differentcompletebodyQA andRootfullreceiving separate; no repository/currentauthority/count/publication."
+      }
+    },
+    "B07": {
+      "record_id": "B07",
+      "original_filename": "SUMIRE_BASEBALL_REI_RELATION_READINESS_COMPLETE_FROZEN_EXTERNAL_MANIFEST_V1.json",
+      "original_file_bytes": 1503,
+      "original_file_sha256": "9a567c0c82b6fec373d626f7defd964249e46e3af571ba40c84a9a8e8dd92b69",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "a9163c3122bd1a74d30148a4d401e11de6b6f07cb8c600256ce6fdbd10d28495"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_READINESS_FROZEN_MANIFEST_V1",
+        "members": [
+          {
+            "C_relative_path": "OWN12_PROSPECTIVE_RELATION_QUESTIONS_ROLE_EXPOSURE_AND_EXACT24_INPUT_ALLOWLIST_BEFORE_READING_V1.json",
+            "bytes": 27800,
+            "sha256": "f112c0955e70b77e226cd1d3c34d848fd4000d778fc4bd9e4eaa73d2d36185ba"
+          },
+          {
+            "C_relative_path": "ACTUAL_OWN_TWO_COMPLETE_MONOGRAPHS_SELECTED_COMPANION_AUTHORITY_COURSE_AND_SOURCE_GRADE_BOUNDARIES_V1.json",
+            "bytes": 9144,
+            "sha256": "1e22deba57d1223a96772089c8a4e553033d91637a18ca180eb1a2fda7b99271"
+          },
+          {
+            "C_relative_path": "EXACT_POSITIVE_G330_E832_E845_RETAINED_SOURCE_ROUTE_REQUESTS_AND_UNOPENED_STRONGER_CLAIM_SEAMS_V1.json",
+            "bytes": 8266,
+            "sha256": "79e7045edd20f2bd97c135340398436daf2faa3031a468894af0ff0f5b1db0de"
+          },
+          {
+            "C_relative_path": "OWN12_COMPLETE_RELATION_READINESS_ANSWERS_EIGHT_RIVALS_ARGUMENT_SCOPE_AND_REASONED_VERDICT_V1.json",
+            "bytes": 12315,
+            "sha256": "916ac4fb835c621a371dd951e97643ead786fd55713f2a0fc46e1f06ab7a71e2"
+          },
+          {
+            "C_relative_path": "OWN_ACTUAL_MEANING_READBACK_SIX_INPUT_CONTINUITY_AND_FROZEN_READINESS_CLOSEOUT_V1.json",
+            "bytes": 3302,
+            "sha256": "cb18f3c00cbc3f5e23612ed170e479678b86261f97b422ef2a0e90d0a7589ad4"
+          }
+        ],
+        "member_count": 5,
+        "boundaries": "Own C readiness metadata only; no copied source payloads or monographs, no new package body or shared installation. Manifest/terminal do not self-bind."
+      }
+    },
+    "C06": {
+      "record_id": "C06",
+      "original_filename": "SELECTED240_RELATION_SOURCE_DEPTH_READINESS_COMPLETE_FROZEN_EXTERNAL_MANIFEST_V1.json",
+      "original_file_bytes": 1292,
+      "original_file_sha256": "59e10dc84704aaa89c1a23a19425bf3242579e803437f0e241167b28af79ba64",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "8d0163f94a5671a677081c1e3ef1e140a417308e6f81d5c4a013e55148a775ef"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SELECTED240_RELATION_READINESS_EXTERNAL_MANIFEST_V1",
+        "members": [
+          {
+            "C_relative_path": "OWN8_COMPACT_SOURCE_DEPTH_QUESTIONS_AND_ACTUAL_EXPOSURE_BEFORE_SELECTED240_RECEIVING_V1.json",
+            "bytes": 3696,
+            "sha256": "3416b50fb69da75f1ae9e3fd4c0a556c3e930aa4d09ea67f6330ab1f455c5b3b"
+          },
+          {
+            "C_relative_path": "ACTUAL_PERSONAL_SELECTED240_COURSE_EXACT_PHYSICAL_ADDRESSES_FIVE_INPUT_PINS_AND_OPERATIVE_QUALIFIERS_V1.json",
+            "bytes": 16942,
+            "sha256": "cdf63aff710db2d4483f22c1036074ab68caeff33f755a60130d5a6cc2036bac"
+          },
+          {
+            "C_relative_path": "OWN8_COMPLETE_SELECTED_SOURCE_ANSWERS_EIGHT_RELATIONAL_CASES_AND_UPDATED_BOUNDED_READINESS_V1.json",
+            "bytes": 12914,
+            "sha256": "fb0b71984c3139e1434a1b00008c689051b8fd40c0b1398076ed6bd91a7f8b3d"
+          },
+          {
+            "C_relative_path": "OWN_SOURCE_DEPTH_ACTUAL_MEANING_READBACK_SELECTED240_GRADE_AND_FIVE_CAPTURE_STABILITY_CLOSEOUT_V1.json",
+            "bytes": 3000,
+            "sha256": "9399f25786fd8e28a2643855457fa1b8a0f6cb1d4b5259b131820e76f0e332a5"
+          }
+        ],
+        "member_count": 4,
+        "scope": "Only own compact source-depth questions/course/answers/closure; no source payload copies, raw transport, package manuscript or target edits. Externalmanifest/terminal not selfbound."
+      }
+    },
+    "Q05": {
+      "record_id": "Q05",
+      "original_filename": "SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_BODY_QA_FROZEN_EXTERNAL_MANIFEST_V1.json",
+      "original_file_bytes": 1846,
+      "original_file_sha256": "f0d6d1ee08209ac1b07335bd29c0ec0d273b876c2165bba8cb87305ab9f0845c",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "74ef8ee95e93502031ae6be4e01d7f4ff92abd754abc819e78953d20d53537e3"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI20_DISTINCT_COMPLETE_BODY_QA_EXTERNAL_MANIFEST_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "members": [
+          {
+            "relative_path": "OWN_ACTUAL_SELECTED240_TWO_WHOLE_ACCEPTED_MONOGRAPHS_QUALIFIERS_METHOD_AND_RECEIVING_BOUNDS_V1.json",
+            "bytes": 10338,
+            "sha256": "a649efeaffb266018484ce51fe5d11dcb309ed5befb47126eed16cb9067e5c64"
+          },
+          {
+            "relative_path": "OWN_COMPLETE_RELATION20_LITERARY_REASONS_12_ANSWERS_12_METHOD_DIMENSIONS_8_RIVALS_AND_REFERENCE_LIMITS_V1.json",
+            "bytes": 30936,
+            "sha256": "5cffd4b8a6539562aa242506638cb253178b8792b5b06198fe03ae556a28ae2e"
+          },
+          {
+            "relative_path": "OWN_INDEPENDENT_RELATION20_CURRENT_PINS_GEOMETRY_SELECTED240_QUALIFIERS_AND_NONSELF_DAG_PROOF_V1.json",
+            "bytes": 46193,
+            "sha256": "63d85f6daac78a7bdf9470e8c1f7c0a139780cfdf798be59f71ef386070b261c"
+          },
+          {
+            "relative_path": "OWN_RELATION_QA_PROSPECTIVE12_ACTUAL_ROLES_AND_SOURCE_EXPOSURE_BEFORE_CURRENT_BODY_V1.json",
+            "bytes": 3818,
+            "sha256": "b66ca955d7b53c647cbf6050df84e5e8b6bdbd9275097202110b309a07a66ef0"
+          },
+          {
+            "relative_path": "own_relation_modest_saved_fidelity_checker.py",
+            "bytes": 11440,
+            "sha256": "a730e5a639e5ee07c05a541d0f0d0b9aa94308cd34b697b90d887df6a7596005"
+          },
+          {
+            "relative_path": "own_relation_review_records.py",
+            "bytes": 27336,
+            "sha256": "af9686552ffc3ad60464a8f14b5db61cc158f6818018d013caa9f97669f8ae60"
+          }
+        ],
+        "member_count": 6,
+        "scope": "Six own C-only review artifacts, including complete unique intellectual reasons and actual source grade; no target/captured source copy, public form or raw codec. Manifest/terminal external for nonself binding.",
+        "credit": "No Root adoption/current authority/identity/named/extraREL/model/count/install/publication."
+      }
+    }
+  },
+  "complete_intellectual_registry": [
+    {
+      "record_id": "A01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "220a712d534ecc8dc7673f810c281f454204b496a02ff2eabe702e95eb983d02",
+      "projected_value_typed_sha256": "220a712d534ecc8dc7673f810c281f454204b496a02ff2eabe702e95eb983d02",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements",
+        "role": "Original bounded relation-readiness/source-depth reader; now commissioned relationbody author, not its later independentQA or Rootadopter. Prior Sumire privatefiniteauthor/publicmetadata/class roles disclosed; original characterbody authors and their950/1839 courses remain attributed. Verify actualown frozen336/117 monographs andselected240 pins/identity before reuse; no freshprimary/sourcecourse planned."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:13:09.284365+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/A02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "da9114fb81d60ab14f793dfbb9b2815bd1da0d398857b68649f8a50814bdcd68",
+      "projected_value_typed_sha256": "bbf294bebcb90236fb1b417f5b9d47dbe2b8c83d45a7f1c7f8a575a21b964129",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:17:12.318899+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/A03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "d6d444012320c9281329d7cacd90c94c9fd6d7ca4de4a8440c7f8cc0402890b0",
+      "projected_value_typed_sha256": "4161487a2dddaff15b313d614f82a920b588ab929d05cc358dd3be2d10226202",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "2732832cb8109fbaaf7d8bee51dded8d2568796a467e1523c31b6e915a84caa1",
+      "projected_value_typed_sha256": "6bc0c6362b17ae4aa92aa903ae96962856922a0babb4548647e2b181cadbc941",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:26:01.312043+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "1e9ed6c3ab6918067bf223bd5aa6264c769077fdd11d14466f2a797a4edbd81a",
+      "projected_value_typed_sha256": "1e9ed6c3ab6918067bf223bd5aa6264c769077fdd11d14466f2a797a4edbd81a",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:22:15.918016+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A06/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "4d5c2e3d85ed456476ef3a4213b09a07dad6d1fbf69b9ee98a29312d927f76c0",
+      "projected_value_typed_sha256": "4d5c2e3d85ed456476ef3a4213b09a07dad6d1fbf69b9ee98a29312d927f76c0",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:31:45.702173+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A07",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "JSON_pointer": "/dated_records/A07/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "01d81b7966ba4d4f94064a672b9046c970acf5b3d2a1e81ecdde6cf196b2c31a",
+      "projected_value_typed_sha256": "01d81b7966ba4d4f94064a672b9046c970acf5b3d2a1e81ecdde6cf196b2c31a",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1schema",
+      "original_JSON_pointer": "/schema",
+      "original_typed_sha256": "c12fa343e536948ba8c1543b48cf79480e62516bcd31bbd04300442ee444c7fc",
+      "projected_value_typed_sha256": "c12fa343e536948ba8c1543b48cf79480e62516bcd31bbd04300442ee444c7fc",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1author",
+      "original_JSON_pointer": "/author",
+      "original_typed_sha256": "b842c2129f14287e92b67bfeb1be82d3ba38ce0a2a64008cd40c98bbc7db2376",
+      "projected_value_typed_sha256": "b842c2129f14287e92b67bfeb1be82d3ba38ce0a2a64008cd40c98bbc7db2376",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1predicates",
+      "original_JSON_pointer": "/predicates",
+      "original_typed_sha256": "4a8596a7790b5ca9e067da401c018b3206befbcf95c38121854d1a0158e7678a",
+      "projected_value_typed_sha256": "4a8596a7790b5ca9e067da401c018b3206befbcf95c38121854d1a0158e7678a",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1false",
+      "original_JSON_pointer": "/false",
+      "original_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "projected_value_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1counts",
+      "original_JSON_pointer": "/counts",
+      "original_typed_sha256": "d2de95b839edff5cde5faf5778733ed928dd24f96554d0a6e943b75eb5e1a918",
+      "projected_value_typed_sha256": "d2de95b839edff5cde5faf5778733ed928dd24f96554d0a6e943b75eb5e1a918",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1scope",
+      "original_JSON_pointer": "/scope",
+      "original_typed_sha256": "0058d84bdbc5180c9cd89a9aa1d6772e1c02b8865a75ad8258118648965cde89",
+      "projected_value_typed_sha256": "0058d84bdbc5180c9cd89a9aa1d6772e1c02b8865a75ad8258118648965cde89",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "A08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/A08/selected_original_values/~1diagnostics",
+      "original_JSON_pointer": "/diagnostics",
+      "original_typed_sha256": "1d58cd651c9b3813535e538c7cd3714acefe8f153cdec42c64d80889ba4efbea",
+      "projected_value_typed_sha256": "1d58cd651c9b3813535e538c7cd3714acefe8f153cdec42c64d80889ba4efbea",
+      "source_actor_fields": {
+        "author": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/B01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "03d1901b50be340a6f2a3355482e796a1fdb2367debc4afad4d058b21575c577",
+      "projected_value_typed_sha256": "d300788946c7557e4eed77ce480a97064ea5d52cd9060266fe9a681795b546f1",
+      "source_actor_fields": {
+        "role": "New relation-readiness author; not commissioned to write the relation body or adopt/publish/count it."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T11:59:09.157668+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/B02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "833fd7562b2c9717633398600a7864d4f285a4afee6bd665158b1d5ab2447ad5",
+      "projected_value_typed_sha256": "2c0fc0f54f5ac6cbe31fce9d86a335ba548a783399220ef92c1fc671889f100a",
+      "source_actor_fields": {
+        "reader": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "JSON_pointer": "/dated_records/B03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "28d4d9027278e60f1729d44148f08f42495433be9c65409a2febd48d09c2e4a7",
+      "projected_value_typed_sha256": "28d4d9027278e60f1729d44148f08f42495433be9c65409a2febd48d09c2e4a7",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/B04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "c8914c28e876ae4fb4ee92ee86b5a1ba45bb6e3afba74a6eca85119d10a97a9c",
+      "projected_value_typed_sha256": "c8914c28e876ae4fb4ee92ee86b5a1ba45bb6e3afba74a6eca85119d10a97a9c",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/B05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "1e4b797dea527448588be11d6988d6f537fbffab09ed938c0deddc38a4cfd2ac",
+      "projected_value_typed_sha256": "1e4b797dea527448588be11d6988d6f537fbffab09ed938c0deddc38a4cfd2ac",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/B06/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "7a6e6c290360b3be799978425a054a851ae0967f9f7052c7df9454f0354251f1",
+      "projected_value_typed_sha256": "7a6e6c290360b3be799978425a054a851ae0967f9f7052c7df9454f0354251f1",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "B07",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "JSON_pointer": "/dated_records/B07/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "a9163c3122bd1a74d30148a4d401e11de6b6f07cb8c600256ce6fdbd10d28495",
+      "projected_value_typed_sha256": "a9163c3122bd1a74d30148a4d401e11de6b6f07cb8c600256ce6fdbd10d28495",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/C01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "efc21d9e3e109db3996228cce19a91281d6424807681d679eed6214d529890d6",
+      "projected_value_typed_sha256": "efc21d9e3e109db3996228cce19a91281d6424807681d679eed6214d529890d6",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T12:13:59.952641+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/C02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "b7353aea3eb3d5967ea78d9b84b966b76c589ee6e4443514af2d79556ce625c8",
+      "projected_value_typed_sha256": "4927f09cc1011511df11be058bc60ffaa3d465086fb923efa71c7a95cc463131",
+      "source_actor_fields": {
+        "reader": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/C03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "dfc94fcafb9ed20c2afa57a4dae2d3b589bc4a47ff613d2407e8cbe9c3acda69",
+      "projected_value_typed_sha256": "f7c5fe1b13fd4cc6a74208a30b9358cbe6f4f18844897ce12210065dca5ec27b",
+      "source_actor_fields": {
+        "reader": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/C04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "bd1e90796b7a90723655ae8f38d565ad3ef4039bd87eb9708f03f3d713d1c28d",
+      "projected_value_typed_sha256": "bd1e90796b7a90723655ae8f38d565ad3ef4039bd87eb9708f03f3d713d1c28d",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/C05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "1c21391318c073d858149db8b99db6a32212ccc8b966cc423cffd355cf5d7588",
+      "projected_value_typed_sha256": "1c21391318c073d858149db8b99db6a32212ccc8b966cc423cffd355cf5d7588",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "C06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "JSON_pointer": "/dated_records/C06/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "8d0163f94a5671a677081c1e3ef1e140a417308e6f81d5c4a013e55148a775ef",
+      "projected_value_typed_sha256": "8d0163f94a5671a677081c1e3ef1e140a417308e6f81d5c4a013e55148a775ef",
+      "source_actor_fields": {},
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "93569bfc3aaae673675021ebe6b0a043a30a2239bb4d5bc384f8ffb8479e716e",
+      "projected_value_typed_sha256": "93569bfc3aaae673675021ebe6b0a043a30a2239bb4d5bc384f8ffb8479e716e",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "saved_at_utc": "2026-11-04T13:33:51.710373+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "19c5bdc11e9306b224e0461bcdc95e009c61285cf6601ec4f1c8bddf21fb1ee1",
+      "projected_value_typed_sha256": "bde0b2faba5706355fdd687ceb9311606861f1a05d23e66ee939d7282df98214",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "b97df9007f487d54114d7835814b171ed53b5cd92e96c9cf94012b8fbdbc6c7a",
+      "projected_value_typed_sha256": "b97df9007f487d54114d7835814b171ed53b5cd92e96c9cf94012b8fbdbc6c7a",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "date": "2026-11-04"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "4df1df91a28fadfaf5da56221dca2ed4297441c2e1b85bd9fb4cc0228e2f8110",
+      "projected_value_typed_sha256": "f954c7ccdacd79e46b636d28b5e4e1844dd079903d7efaaabebf7b458fa9f231",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:46:54.763173+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "JSON_pointer": "/dated_records/Q05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "74ef8ee95e93502031ae6be4e01d7f4ff92abd754abc819e78953d20d53537e3",
+      "projected_value_typed_sha256": "74ef8ee95e93502031ae6be4e01d7f4ff92abd754abc819e78953d20d53537e3",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1schema",
+      "original_JSON_pointer": "/schema",
+      "original_typed_sha256": "dd1fdd138dc0c1efb9ca7d9fbfb3381cd9387a4ffc256487073df4bf58beb325",
+      "projected_value_typed_sha256": "dd1fdd138dc0c1efb9ca7d9fbfb3381cd9387a4ffc256487073df4bf58beb325",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1reviewer",
+      "original_JSON_pointer": "/reviewer",
+      "original_typed_sha256": "f143663450b6132f424bf3ecd219875220f47dbf55ea9f4831124b461efecff7",
+      "projected_value_typed_sha256": "f143663450b6132f424bf3ecd219875220f47dbf55ea9f4831124b461efecff7",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1method",
+      "original_JSON_pointer": "/method",
+      "original_typed_sha256": "fe387c45849b90205e9348d867ca9e1112dea2d338fb5df64ea5d2c281dd89fe",
+      "projected_value_typed_sha256": "fe387c45849b90205e9348d867ca9e1112dea2d338fb5df64ea5d2c281dd89fe",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1predicate_count",
+      "original_JSON_pointer": "/predicate_count",
+      "original_typed_sha256": "27d719c754aacd492a6dc8a1b76619355abcf5ef473cbec02018d3c57ebbf0d5",
+      "projected_value_typed_sha256": "27d719c754aacd492a6dc8a1b76619355abcf5ef473cbec02018d3c57ebbf0d5",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1false",
+      "original_JSON_pointer": "/false",
+      "original_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "projected_value_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1counts",
+      "original_JSON_pointer": "/counts",
+      "original_typed_sha256": "2e87869038a211c6958d3ad033ecaa67427e011b16ee7dcc351033cf6ab7c53e",
+      "projected_value_typed_sha256": "2e87869038a211c6958d3ad033ecaa67427e011b16ee7dcc351033cf6ab7c53e",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1explicit_limits",
+      "original_JSON_pointer": "/explicit_limits",
+      "original_typed_sha256": "ab33393deb34faa92a9a32a4df0f9f797005006a48485f05c14c87d77413cd43",
+      "projected_value_typed_sha256": "ab33393deb34faa92a9a32a4df0f9f797005006a48485f05c14c87d77413cd43",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "Q06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q06/selected_original_values/~1remaining",
+      "original_JSON_pointer": "/remaining",
+      "original_typed_sha256": "5cf7f4ff9f3ba7ed37564c0176cfb4ef11a46ef47b0652a298362857802314fe",
+      "projected_value_typed_sha256": "5cf7f4ff9f3ba7ed37564c0176cfb4ef11a46ef47b0652a298362857802314fe",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "6163d4545fabc201b691187ae6c7bb6e765cf0d747fec57eaa888ade38ec16c0",
+      "projected_value_typed_sha256": "682f24b657d260b6312f410f8e30306236175cff982d2f69df9b0c936e00685e",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T12:21:14.504922+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "764f9adde2ca2cb80f5869b70141c976e89ccca06c9a5fe54d39728a17d2c53e",
+      "projected_value_typed_sha256": "fa58ffa6988093fb5d6ddc1029d63e73f79b8b879d113d85b5e02e925c887f3c",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:49:35.084Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "1bb6d7d1f4e33d68e570190a8f22656bb2a1c7eeb252ba1dc2fe0181f8f7ab6d",
+      "projected_value_typed_sha256": "1bb6d7d1f4e33d68e570190a8f22656bb2a1c7eeb252ba1dc2fe0181f8f7ab6d",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:04:48.073Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R04/selected_original_values/~1schema",
+      "original_JSON_pointer": "/schema",
+      "original_typed_sha256": "bce7b189240ae374f93f647b4021cebd05ab906115f271e1b285ed1cb4a190e3",
+      "projected_value_typed_sha256": "bce7b189240ae374f93f647b4021cebd05ab906115f271e1b285ed1cb4a190e3",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R04/selected_original_values/~1UTC",
+      "original_JSON_pointer": "/UTC",
+      "original_typed_sha256": "f1ad2019df141fe7ca06cc71288546e8a9dd740143b47cdba7d36012755a98eb",
+      "projected_value_typed_sha256": "f1ad2019df141fe7ca06cc71288546e8a9dd740143b47cdba7d36012755a98eb",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R04/selected_original_values/~1number_of_checks",
+      "original_JSON_pointer": "/number_of_checks",
+      "original_typed_sha256": "c75cb66ae28d8ebc6eded002c28a8ba0d06d3a78c6b5cbf9b2ade051f0775ac4",
+      "projected_value_typed_sha256": "c75cb66ae28d8ebc6eded002c28a8ba0d06d3a78c6b5cbf9b2ade051f0775ac4",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R04/selected_original_values/~1false",
+      "original_JSON_pointer": "/false",
+      "original_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "projected_value_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R04/selected_original_values/~1scope",
+      "original_JSON_pointer": "/scope",
+      "original_typed_sha256": "d16a3f76cb167af84917658862f6f0f9cb90fae6ff8b579124cb68c9faac2376",
+      "projected_value_typed_sha256": "d16a3f76cb167af84917658862f6f0f9cb90fae6ff8b579124cb68c9faac2376",
+      "source_actor_fields": {},
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:40:15.067Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "ac17ab5bfafec3c2b6c747c274b8011c93af10024649ffde2310a3193b0b1da2",
+      "projected_value_typed_sha256": "ac17ab5bfafec3c2b6c747c274b8011c93af10024649ffde2310a3193b0b1da2",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:34:47.208Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R06/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "cd98911278fe6e220d56da1d776fd412db6a297a913500636db2f264ba6879b3",
+      "projected_value_typed_sha256": "cd98911278fe6e220d56da1d776fd412db6a297a913500636db2f264ba6879b3",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:34:23.459Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R07",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R07/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "e13276f85ff11fa555f4a34f844353e72180964f140c138e5aed63e6eabf37e4",
+      "projected_value_typed_sha256": "b9e5c9b4ae47ae15fde80cab2b4a875c31df95ad8f721a509561bf0c05abd004",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:52:48.638Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "d93559abdf369002690cdd16090d573a7bdcc02d81583a3684dffc95b0b03fe1",
+      "projected_value_typed_sha256": "d93559abdf369002690cdd16090d573a7bdcc02d81583a3684dffc95b0b03fe1",
+      "source_actor_fields": {
+        "planner": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "date": "2026-11-04"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "d0f3966b01ac6dda7e1fa9a3d44ed67e33a9074f7faed8900c18fdc02d7329ae",
+      "projected_value_typed_sha256": "a867b6ca59278706c14e40e96616a75817203bbe9e1fc794f92813e91eac0947",
+      "source_actor_fields": {
+        "planner": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "date": "2026-11-04"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "4dc9e9ad59f73be25894edea6c304e8c48f8b80c680da2335574741addecfd97",
+      "projected_value_typed_sha256": "4dc9e9ad59f73be25894edea6c304e8c48f8b80c680da2335574741addecfd97",
+      "source_actor_fields": {
+        "actor": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {},
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "S01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/S01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "b49303bff9cd23115324fe4348ff294bd1b4745bda1359dd00d068febadec27e",
+      "projected_value_typed_sha256": "b49303bff9cd23115324fe4348ff294bd1b4745bda1359dd00d068febadec27e",
+      "source_actor_fields": {
+        "actor": "/root/current_preflight_requirements",
+        "role": "Original accepted connected relation body author and selected240 source reader; now finite successor planner, distinct from original public planner recover and later independent reviewer/Root adopter. Existing source-course credits remain attributed; no new source attendance."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T14:53:48.436814+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "S02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/S02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "f97fa9b5a3ae419a1ce3cfdf2294dadefd86332c7cee969950213c6dc21882a5",
+      "projected_value_typed_sha256": "f97fa9b5a3ae419a1ce3cfdf2294dadefd86332c7cee969950213c6dc21882a5",
+      "source_actor_fields": {
+        "actor": "/root/current_preflight_requirements",
+        "role": "Original connected20 body author and selected240 reader; finite successor public planner. Distinct from original public planner recover and future independent public-form QA/Root adopter."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:02:38.869709+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "8bf0a13ab78f1d552d3829998327b69e0600a4f0350dd6203e0319ad22c3c50f",
+      "projected_value_typed_sha256": "cd254e6a5a3f5e5e8a51f54bda1f9c9f6b0840e38e103687b2ef0b3caa29c9b7",
+      "source_actor_fields": {
+        "planner": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "date": "2026-11-04"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "da3b55f9ae5cd60d6e16d37d823f4b505e071cc11599944efc1535b1d8c91a64",
+      "projected_value_typed_sha256": "dcf52e1a02bcfeb260cb72ffaadc586dbc85453109ea02d51f502803c2526545",
+      "source_actor_fields": {
+        "actor": "/root/current_preflight_requirements",
+        "role": "Original connected20 body author and selected240 reader; finite successor public planner. Distinct from original public planner recover and future independent public-form QA/Root adopter."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:15:20.663257+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "P06",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/P06/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "98a181414c97a4c6043a6ca751071cb4428c13df44984f612f0d7bfae52980f6",
+      "projected_value_typed_sha256": "69df0eedcd43a416b9498903c45683803fbf4ba8bd6bf204173285430a9b4002",
+      "source_actor_fields": {
+        "actor": "/root/current_preflight_requirements"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:15:20.682732+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R08/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "97c64f4988b96a3835d806b9815b46e21695bd7743887907eaf09a7a937ef5ed",
+      "projected_value_typed_sha256": "6b4c7c0e65133925857e130432d3490d800b922a801860b7b52256f0847d863e",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:22:06.256Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "R09",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R09/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "b0df3d196e0afdfd61340d927d82e8fb8e492fa4378f537889ed9e67e9e896fa",
+      "projected_value_typed_sha256": "ca921d06753af5837f4a5be2cbbc634969681323c9a122516247c2db05a4d3d1",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:27:26.856Z"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "S03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/S03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "a6566f2e04f84a773a9db952c27719887865d55d4328ba1b7f7356e4a61bd4a5",
+      "projected_value_typed_sha256": "a6566f2e04f84a773a9db952c27719887865d55d4328ba1b7f7356e4a61bd4a5",
+      "source_actor_fields": {
+        "composer": "/root/current_preflight_requirements",
+        "role": "Original connected20 privatebody author and finite V3 successorplanner, now publiccomposer; not later independentpublicQA/Rootadopter. Same-reader own2WHOLE336/117+SELECTED240 are dated original courses, not new source credit; peer and Root grades remain separate."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:24:17.078724+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "S04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/S04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "0d19d971b8f839ce7f08c42dd40f887ea7b1678703bfb7562395359eca36f950",
+      "projected_value_typed_sha256": "0d19d971b8f839ce7f08c42dd40f887ea7b1678703bfb7562395359eca36f950",
+      "source_actor_fields": {
+        "composer": "/root/current_preflight_requirements",
+        "role": "Originalprivatebodyauthor/finiteV3planner nowpubliccomposer; different publicQA/Rootnewbyteadoption remain separate. No new underlying sourcecourse."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:29:59.646037+00:00"
+      },
+      "scope": "Complete unique original/selected analytical value under exact private inverse; a current logical selector, not the original filename as public alias."
+    },
+    {
+      "record_id": "S05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/S05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "18837a9b94072597795c6a41596930c4b2f2e7406f6993bb4a4f5422a0c081b8",
+      "projected_value_typed_sha256": "18837a9b94072597795c6a41596930c4b2f2e7406f6993bb4a4f5422a0c081b8",
+      "source_actor_fields": {
+        "composer": "/root/current_preflight_requirements",
+        "role": "Originalprivatebodyauthor/finiteV3planner nowpubliccomposer; this is own compositioncloseout, not later independent publicQA/Root adoption."
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T15:41:22.585873+00:00"
+      },
+      "scope": "Complete actual own composer meaning with exact original private source binding; no projection, Root/owner signer or independent reviewer credit."
+    },
+    {
+      "record_id": "M01",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/M01/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "978bcc3226a1d4ee92013199f4f4384d133fc60b21477b5f1798472cd6931888",
+      "projected_value_typed_sha256": "978bcc3226a1d4ee92013199f4f4384d133fc60b21477b5f1798472cd6931888",
+      "source_actor_fields": {
+        "actor": "/root/prenapates_r02_plan_successor"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T17:56:13.673Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "M02",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/M02/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "524aa095a7e371f454e8c563ee5821ce9f7c3744e81947e34afbfaed02d525f5",
+      "projected_value_typed_sha256": "524aa095a7e371f454e8c563ee5821ce9f7c3744e81947e34afbfaed02d525f5",
+      "source_actor_fields": {
+        "actor": "/root/prenapates_r02_plan_successor"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:00:54.926Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "M03",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/M03/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "ceb0701acf1717565e94c9341dbc496a4020f91753167619599d849d2429f6cb",
+      "projected_value_typed_sha256": "ceb0701acf1717565e94c9341dbc496a4020f91753167619599d849d2429f6cb",
+      "source_actor_fields": {
+        "actor": "/root/prenapates_r02_plan_successor"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T17:59:40.588Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "M04",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/M04/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "aeb44bb882512fe53d1da5d0d9a7234de8cc9488c66270f07c4edeefce495457",
+      "projected_value_typed_sha256": "aeb44bb882512fe53d1da5d0d9a7234de8cc9488c66270f07c4edeefce495457",
+      "source_actor_fields": {
+        "actor": "/root/prenapates_r02_plan_successor"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:03:53.629Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "Q07",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q07/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "9c80d169266bfecdc8679f44610db09e8820af3d2f0da55dfeaabe38e02de016",
+      "projected_value_typed_sha256": "e31b0e5349969878cf50363ce3d71b44f2c896b9e4c218a0b4cf7b0f5bd320d3",
+      "source_actor_fields": {
+        "reviewer": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T16:09:59.592634+00:00"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "Q08",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/Q08/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "f0a4f92f7565956fb5b9dea9676a925c58602d25ab40cb14707cabbcb60ac5ba",
+      "projected_value_typed_sha256": "f0a4f92f7565956fb5b9dea9676a925c58602d25ab40cb14707cabbcb60ac5ba",
+      "source_actor_fields": {
+        "reviewer": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T16:11:27.384288+00:00"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "R10",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R10/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "16e6ce53b0670f95feba0676ea684bc3d38a747a75b35a3470ff48a728d8a39d",
+      "projected_value_typed_sha256": "16e6ce53b0670f95feba0676ea684bc3d38a747a75b35a3470ff48a728d8a39d",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T17:53:14.058Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "R11",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R11/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "0fa9b0c282ce69dccc51960e8a02223a17e83617dfe196b18f91e00f667aaf20",
+      "projected_value_typed_sha256": "4fa96ad6f0418d5c88eaa570b5ebf38da2e3083aab48ef9da81c2914449319b4",
+      "source_actor_fields": {
+        "actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:00:40.919Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "R12",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "JSON_pointer": "/dated_records/R12/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "cffdf247f99d972ceb0d6e11c17cb3db86a8e4a43520784267c95ffbaa7f043e",
+      "projected_value_typed_sha256": "cffdf247f99d972ceb0d6e11c17cb3db86a8e4a43520784267c95ffbaa7f043e",
+      "source_actor_fields": {
+        "recorded_by": "/root/prenapates_r02_plan_successor",
+        "authorizing_actor": "/root"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:04:28.893Z"
+      },
+      "scope": "Complete actual dated unique metadata/publicQA/Root authority meaning with exact private normalization inverse;not future metadataQA or rawfilename alias."
+    },
+    {
+      "record_id": "M05",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "JSON_pointer": "/dated_records/M05/original_value",
+      "original_JSON_pointer": "",
+      "original_typed_sha256": "b99b44682c1209658e912b44bf18801e0e3e46737f026eb2e6d2c8fc2e9f3275",
+      "projected_value_typed_sha256": "b99b44682c1209658e912b44bf18801e0e3e46737f026eb2e6d2c8fc2e9f3275",
+      "source_actor_fields": {
+        "actor": "/root/prenapates_r02_plan_successor"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T18:13:38.933Z"
+      },
+      "scope": "Complete actual metadataauthor savedmeaning/readback reasons;recorded beforeitsappend/finalbytecheck,not futureQA/Rootsignature."
+    }
+  ],
+  "safe_dated_locator_registry": [
+    {
+      "id": "DATED-LOCATOR-B94A9535AF8D28B8",
+      "safe_original_leaf": "ACTUAL_OWN_TWO_COMPLETE_MONOGRAPHS_SELECTED_COMPANION_AUTHORITY_COURSE_AND_SOURCE_GRADE_BOUNDARIES_V1.json",
+      "original_locator_value_utf8_sha256": "b94a9535af8d28b8335559d8095d8964c1f098a71526027d467f7be6c396bdf3",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/B02",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-8C01F65A6E841F8D",
+      "safe_original_leaf": "ACTUAL_PERSONAL_SELECTED240_COURSE_EXACT_PHYSICAL_ADDRESSES_FIVE_INPUT_PINS_AND_OPERATIVE_QUALIFIERS_V1.json",
+      "original_locator_value_utf8_sha256": "8c01f65a6e841f8da517a595bc0881874cc953a2165dfc31262304e53ea72905",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/C02",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-20A9EE05D6842779",
+      "safe_original_leaf": "BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+      "original_locator_value_utf8_sha256": "20a9ee05d6842779a84d4223679dbffa66eccb70957c0ec3b70150886691b824",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-45F94A4C91A56BFD",
+      "safe_original_leaf": "BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_locator_value_utf8_sha256": "45f94a4c91a56bfd66aa7fb50dde187e8bbc590f96a637d157284ed09b259c8b",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-2B02A6A44CD61C86",
+      "safe_original_leaf": "BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_locator_value_utf8_sha256": "2b02a6a44cd61c86614636f99ed8bd559db9937853eee6e5cbb5481516cd9b1b",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-2AFC2B9F287F6223",
+      "safe_original_leaf": "SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+      "original_locator_value_utf8_sha256": "2afc2b9f287f62232fcd8fa2426134efe6d70b6ace1c39a4b9360c8e31716e07",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-154A114203099511",
+      "safe_original_leaf": "REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "original_locator_value_utf8_sha256": "154a1142030995114e77dfb0cc632eca7c03f677e28737348cc469478ef5d0b0",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-3CAF7873D19786C8",
+      "safe_original_leaf": "BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md",
+      "original_locator_value_utf8_sha256": "3caf7873d19786c8980d7585cd431035778e68fe7111a614e837da2b2a05cf75",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D9E5EE182C43C6C8",
+      "safe_original_leaf": "SUMIRE_SOURCE4_COMPLETE12_ANSWERS_NEW105_QUESTIONS_GRADES_AND_CURRENT_COMMON_QUALIFICATIONS_V1.json",
+      "original_locator_value_utf8_sha256": "d9e5ee182c43c6c8ce87e034c536d3c84ef76d782ec5c8ec57f341827f0dd73d",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-7DBC2B032BE89BBF",
+      "safe_original_leaf": "SUMIRE_CURRENT_COMPLETE_LITERAL52_SOURCE_QUESTION_NEW105_RIVAL_END_GAP_REGISTER_V1.json",
+      "original_locator_value_utf8_sha256": "7dbc2b032be89bbf271ac7e6fc8948fc7c559bd2a86793536937e2abbb137ab6",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-36AB1B854875CDD1",
+      "safe_original_leaf": "BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "original_locator_value_utf8_sha256": "36ab1b854875cdd1c98657c29fcd2c43c65fabeb59b3ffd1519e7ea088f30d9d",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-2080B77AD3164AAC",
+      "safe_original_leaf": "REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1.json",
+      "original_locator_value_utf8_sha256": "2080b77ad3164aac0d1fb6c5ee595ab23004a888342e55256abd41d1ad429f8e",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D404EC80D1DB99D0",
+      "safe_original_leaf": "REI_CURRENT173_COMPLETE_LITERAL65_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V3.json",
+      "original_locator_value_utf8_sha256": "d404ec80d1db99d06e82c006c7c8a63be5643652ce053e2f5ecc24b15a9f1386",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D23A4E273F3B3785",
+      "safe_original_leaf": "ROOT_CURRENT_PROJECT_METHOD_ARCHITECTURE_ROUTE_MANIFEST_V1.json",
+      "original_locator_value_utf8_sha256": "d23a4e273f3b378580d14b4f5b73f0fe5950ad1a1c394dd2f216740d26df06d8",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-76A9D030852113F3",
+      "safe_original_leaf": "PROPOSED_CURRENT106_EXACT_EXTERNAL_SOURCE_SELECTION_CURRENT_ELIGIBLE_METADATA_V4.json",
+      "original_locator_value_utf8_sha256": "76a9d030852113f3b0b030bad05144fb32790a20fba6a5e640cc0af46e0419df",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-CD66FAF8EC4ABB79",
+      "safe_original_leaf": "REI_ALL105_NEW_PURPOSES_RIP000_RIP035_V3.json",
+      "original_locator_value_utf8_sha256": "cd66faf8ec4abb791d06324268097dda3b7f47c5fec82fe7aeb28848501bfa46",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A8A92F592A328D21",
+      "safe_original_leaf": "REI_ALL105_NEW_PURPOSES_RIP036_RIP070_V2.json",
+      "original_locator_value_utf8_sha256": "a8a92f592a328d215981cd715df12051b734887ca05e598bdd82e5bdbff147d0",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D2144D99B7383821",
+      "safe_original_leaf": "REI_ALL105_NEW_PURPOSES_RIP071_RIP104_V1.json",
+      "original_locator_value_utf8_sha256": "d2144d99b73838219d969de23a244506d3f48c2554d0874c13ca3e0a930d1a92",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-E313E2D1607DF8D0",
+      "safe_original_leaf": "REI_ALL105_NEW_PURPOSE_EXACT_PART_AND_BODY_RELATION_INDEX_V3.json",
+      "original_locator_value_utf8_sha256": "e313e2d1607df8d0d2d194a8a755f99a9a5b698319a36f3fa3faccf6038fea33",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-419CDA5BD2F37A8F",
+      "safe_original_leaf": "REI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CONDITIONAL_TRANSPORT_RECEIPT_V3.json",
+      "original_locator_value_utf8_sha256": "419cda5bd2f37a8f2cfb6411e333c5e5bfd815158cfe6045a44e6de02425b155",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-6EDD057D37863FD1",
+      "safe_original_leaf": "REI_COMPLETE_PRIOR_CURRENT_V3_COMPONENT_QA_TRUTHFUL_PUBLIC_INPUT_REPORT_V1.json",
+      "original_locator_value_utf8_sha256": "6edd057d37863fd1046f22480449033ffc07d89c03f59be9ac210249ba9da16f",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-9C142A1809F2DB1B",
+      "safe_original_leaf": "ROOT_REI_CURRENT_V3_COMPONENT_SEMANTIC_ACCEPTANCE_DATED_PUBLIC_REPORT_V1.json",
+      "original_locator_value_utf8_sha256": "9c142a1809f2db1b41235c4a0595cf0fe62c83314c8c366070c4d81c679d83f1",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A212E077CC3C0873",
+      "safe_original_leaf": "REI_CURRENT_PUBLIC12_NAVIGATION_CUSTODY_AND_DATED_SCOPE_V1.json",
+      "original_locator_value_utf8_sha256": "a212e077cc3c0873672cdf91c89f141472fdaeae18a2e7e8489dafbee7cffad9",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-94C0E2044E03B4D3",
+      "safe_original_leaf": "REI_CURRENT_PUBLIC12_REVIEW_COMPOSITION_AND_SEPARATE_FUTURE_GATES_CONTROL_V1.json",
+      "original_locator_value_utf8_sha256": "94c0e2044e03b4d32521eb9c730c055a1ff6549d26cb885351a2135e341871d1",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-B280E403B9576310",
+      "safe_original_leaf": "SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP000_SMP035_V1.json",
+      "original_locator_value_utf8_sha256": "b280e403b9576310ae43d1b74f566e8fe9d6bc5205f4fddafc16d52bd7a2b2ac",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-FCD6F0FB62F03404",
+      "safe_original_leaf": "SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP036_SMP070_V1.json",
+      "original_locator_value_utf8_sha256": "fcd6f0fb62f03404d6e8cc13a83abecc5c3a9c09aabb81af68c9cbf8359c7a4d",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-EBE945181078024F",
+      "safe_original_leaf": "SUMIRE_ALL105_GENUINE_NEW_PURPOSES_SMP071_SMP104_V1.json",
+      "original_locator_value_utf8_sha256": "ebe945181078024f2c13fa9b6b3b4d910d6e8c665c547933da2600c28bf72647",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A2B4E8988E8329E2",
+      "safe_original_leaf": "SUMIRE_ALL105_GENUINE_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "original_locator_value_utf8_sha256": "a2b4e8988e8329e243965efbddf58e94a468be4a3e0c5b87ba868081a26c4913",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-1324C19B0CEF02F8",
+      "safe_original_leaf": "SUMIRE_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "original_locator_value_utf8_sha256": "1324c19b0cef02f8de9a91d2c0335986c9510adede7af0d9d7e879de7a2c7c83",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-F799631AE4650C40",
+      "safe_original_leaf": "SUMIRE_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+      "original_locator_value_utf8_sha256": "f799631ae4650c40d623f76ae1cef88857ce2b462e61095839c0706ffbeb396c",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D763A4294020F4E8",
+      "safe_original_leaf": "SUMIRE_ACTUAL_ROOT_PRIVATE_V3_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "original_locator_value_utf8_sha256": "d763a4294020f4e8244c89368e8fc238e2711a527d87c1e0c0ac0c2408f5c7c0",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-5C2535061FFA6149",
+      "safe_original_leaf": "SUMIRE_CURRENT_PUBLIC_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1.json",
+      "original_locator_value_utf8_sha256": "5c2535061ffa61492a77f03290af1496e228e7cce563b1df068ada96d1e2cabc",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-7A127F3A8BE7AE60",
+      "safe_original_leaf": "SUMIRE_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+      "original_locator_value_utf8_sha256": "7a127f3a8be7ae605fa66bd368f940e48e9975458b64b510e23236716a1f69b1",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-8F3F3C9D94A8142B",
+      "safe_original_leaf": "OWN8_COMPACT_SOURCE_DEPTH_QUESTIONS_AND_ACTUAL_EXPOSURE_BEFORE_SELECTED240_RECEIVING_V1.json",
+      "original_locator_value_utf8_sha256": "8f3f3c9d94a8142b58ec2be1bc665cfb5f89dbc39d53000c3e0e9cd2d917cc1b",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/C01",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-083E0BAFBB34BD90",
+      "safe_original_leaf": "ROOT_CURRENT_THREE_MAINTAINED_OWNERS_AND_TWO_OPERATIVE_SOURCE_QUALIFIERS_MANIFEST_V1.json",
+      "original_locator_value_utf8_sha256": "083e0bafbb34bd90f0ca24fb7fbe1f43b743a6031523e97b850e5a6fff9088d5",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-3A69FA39C6A8BAD9",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CHOSEN_GOALS_CONNECTED_RELATION_BODY_C_ONLY_20261104_V1",
+      "original_locator_value_utf8_sha256": "3a69fa39c6a8bad9711eba8facaa05dd039f1987f229ef9466ee5b429b6d70b7",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-D2511DAE68DD27CB",
+      "safe_original_leaf": "OWN12_COMPLETE_RELATION_READINESS_ANSWERS_EIGHT_RIVALS_ARGUMENT_SCOPE_AND_REASONED_VERDICT_V1.json",
+      "original_locator_value_utf8_sha256": "d2511dae68dd27cb2770361e1816b4b848555d89b1a3e8083e362d05e7689f26",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/B04",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-D032366CD7C02C10",
+      "safe_original_leaf": "OWN8_COMPLETE_SELECTED_SOURCE_ANSWERS_EIGHT_RELATIONAL_CASES_AND_UPDATED_BOUNDED_READINESS_V1.json",
+      "original_locator_value_utf8_sha256": "d032366cd7c02c1003119f88c8cf10025150a165ae08eaffc44cea90e3b5d542",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/C03",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-131E4882B5D2E5A6",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CHOSEN_GOALS_CONNECTED_RELATION_BODY_C_ONLY_20261104_V1",
+      "original_locator_value_utf8_sha256": "131e4882b5d2e5a6b7d193bc6f62080317f64e286390640a1145f56e3266af43",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-F625B895D6A820BA",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_RELATION_BODY_QA_C_ONLY_20261104_V1",
+      "original_locator_value_utf8_sha256": "f625b895d6a820ba474bb6f276029b645323e29a51f35bff6d4d998959ed4549",
+      "meaning": "Dated private custody identity, not a public path or current authority. Original parent record keeps the separately recorded target bytes/hash/repository role. No unrecorded target hash or existence inferred.",
+      "target_payload_access": "NOT_OPENED_BY_PLANNER; this is string metadata only.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-7EEEF48F77E99B83",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CONNECTED20_COMPLETE_SIX_ROLE_PUBLIC_REQUIREMENTS_AND_EXACT_NORMALIZATION_PLAN_V2.json",
+      "original_locator_value_utf8_sha256": "7eeef48f77e99b83db536deae28f0ce62b0525c403598c1fc38eb5227dda3605",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/P02",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-A63B102FEB5A1C5D",
+      "safe_original_leaf": "BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+      "original_locator_value_utf8_sha256": "a63b102feb5a1c5d602b0140ca656095eb1db7d4734facc83fdba620cf5fa697",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-98FE10393ED05946",
+      "safe_original_leaf": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS_C_ONLY_DRAFT_V1.md",
+      "original_locator_value_utf8_sha256": "98fe10393ed0594651991b90239645adcd61142ea10be8e71ec4ab8c7b934ee8",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-0B1692911E6C5641",
+      "safe_original_leaf": "ROOT_SIX_PROSPECTIVE_CONNECTED_RELATION_ARGUMENT_QUESTIONS_PRIOR_OWN240_AND_NO_TRANSFER_BEFORE_CURRENT20_BODY_V1.json",
+      "original_locator_value_utf8_sha256": "0b1692911e6c564128ef5c9ce2c82acbb51202d7251d30a6d94872003fef3a89",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+        "JSON_pointer": "/dated_records/R05",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-F2875D4AB32C27FA",
+      "safe_original_leaf": "ROOT_SIX_PUBLIC_PLAN_FIELD_ACTOR_AND_LITERAL_PRESERVATION_QUESTIONS_BEFORE_COMPLETE_CURRENT_PLAN_V1.json",
+      "original_locator_value_utf8_sha256": "f2875d4ab32c27fab80021f2ba7d152cad0e4a6deaa027f077a6517a79ce758f",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+        "JSON_pointer": "/dated_records/R06",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-C5C0CB33B88B6661",
+      "safe_original_leaf": "ARTIFACT_ELIGIBILITY.md",
+      "original_locator_value_utf8_sha256": "c5c0cb33b88b66616661e8e4239eba65a1eb5dc0c30e819a79f55546bb6687d5",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-F8E37CC775C1041E",
+      "safe_original_leaf": "CURRENT_MAIN7E358_ANALYTICAL_HANDOFF_CONTRACT_EXACT_TRACKED_COPY_V1.md",
+      "original_locator_value_utf8_sha256": "f8e37cc775c1041e6170a2e1834147190a92eb92f229396a6326efb8dcc06ebb",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A61729F72596187B",
+      "safe_original_leaf": "CURRENT_MAIN7E358_CHARACTER_ARTIFACT_AUTHORITY_README_EXACT_TRACKED_COPY_V1.md",
+      "original_locator_value_utf8_sha256": "a61729f72596187b919e2b597f752692a45631ac6b29222c22833fb4e89793c6",
+      "meaning": "Dated private custody identity only, not a public file or current authority. Separately represented intellectual content resolves through declared record selectors; private-only payloads remain private.",
+      "target_payload_access": "No target access/reading credit arises from this locator row. Actual permitted receiving is separately documented.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-79A627875047EF05",
+      "safe_original_leaf": "EXACT_HEADER_ONLY_PROPOSAL_AND_THREE_HISTORICAL_PRECISION_INVERSES_V1.json",
+      "original_locator_value_utf8_sha256": "79a627875047ef05fb0a4e804cac056fd1dd45431cac9920ffa89b71a05a9af7",
+      "meaning": "Dated private custody identity only, not public runtime file or current authority. Actual retained intellectual selector is separately declared if positively represented; otherwise private-only.",
+      "target_payload_access": "No target was followed from this locator string; fixed permitted input receiving is independently recorded.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-871A307F3DEF40E3",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CONNECTED20_FINITE_PUBLIC_PLAN_ACTOR_MEMORY_AND_ROOT_PROSPECTIVES_SUCCESSOR_C_ONLY_20261104_V3",
+      "original_locator_value_utf8_sha256": "871a307f3def40e3d3b29e9a10cb302e0e013ce5a7efb8ea383a7f186c99216f",
+      "meaning": "Dated private custody identity only, not public runtime file or current authority. Actual retained intellectual selector is separately declared if positively represented; otherwise private-only.",
+      "target_payload_access": "No target was followed from this locator string; fixed permitted input receiving is independently recorded.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-05E4BF37C79720D8",
+      "safe_original_leaf": "SUMIRE_BASEBALL_REI_CONNECTED20_FINITE_CORRECTED_SIX_ROLE_PUBLIC_REQUIREMENTS_AND_EXACT_NORMALIZATION_PLAN_V3.json",
+      "original_locator_value_utf8_sha256": "05e4bf37c79720d8a1879d9ab4c2d7037115d73c7191b88a9519b4c0248f5f9b",
+      "meaning": "Dated private custody identity only, not public runtime file or current authority. Actual retained intellectual selector is separately declared if positively represented; otherwise private-only.",
+      "target_payload_access": "No target was followed from this locator string; fixed permitted input receiving is independently recorded.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/P04",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-566130027AFAAE5D",
+      "safe_original_leaf": "ROOT_OWN_V3_EXACT39_57_369_SCOPE_TYPED_INVERSES_F01_F02_AND_BODY_HEADER_PROOF_V1.json",
+      "original_locator_value_utf8_sha256": "566130027afaae5d31178380a3b15e4511e4648fda444128c5d63c8cdc3823ce",
+      "meaning": "Dated private custody identity only, not public runtime file or current authority. Actual retained intellectual selector is separately declared if positively represented; otherwise private-only.",
+      "target_payload_access": "No target was followed from this locator string; fixed permitted input receiving is independently recorded.",
+      "private_only_scope": "Original delivery/source/helper/proof target is private or not a selected whole intellectual record; no current runtime file/dependency is promised."
+    },
+    {
+      "id": "DATED-LOCATOR-F86B70B84DD50E70",
+      "safe_original_leaf": "OWN_INDEPENDENT_RELATION20_CURRENT_PINS_GEOMETRY_SELECTED240_QUALIFIERS_AND_NONSELF_DAG_PROOF_V1.json",
+      "original_locator_value_utf8_sha256": "f86b70b84dd50e70e27adb38cf7f650e77894cda5ce7557dde13121a5d76ddf6",
+      "meaning": "Dated private custody identity only, not public runtime file or current authority. Actual retained intellectual selector is separately declared if positively represented; otherwise private-only.",
+      "target_payload_access": "No target was followed from this locator string; fixed permitted input receiving is independently recorded.",
+      "retained_intellectual_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+        "JSON_pointer": "/dated_records/Q06",
+        "scope": "Actual retained logical meaning, not a claim original filename was published."
+      }
+    },
+    {
+      "id": "DATED-LOCATOR-9BA83DB4D8F3B555",
+      "safe_original_leaf": "OWN_SIX_PUBLIC_FORM_QUESTIONS_AND_PRIOR_PLAN_AUTHOR_ROLE_BEFORE_PUBLIC6_CONTENT_V1.json",
+      "original_locator_value_utf8_sha256": "9ba83db4d8f3b555db7900fcc04ff6b17ec4724c5cf52a9ed09001d888ccb35e",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-BC79D1E98E027216",
+      "safe_original_leaf": "START_HERE_SUMIRE_BASEBALL_REI_CONNECTED20_SIX_ROLE_PUBLIC_COMPOSITION_COMPLETE_FROZEN_WITH_LIMITS_V1.json",
+      "original_locator_value_utf8_sha256": "bc79d1e98e0272162d52a3cab0c166025ac769c9c9f9d4a967b6317d84461d58",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-E6F2BCE8069F5903",
+      "safe_original_leaf": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+      "original_locator_value_utf8_sha256": "e6f2bce8069f590345c8e0ac0ddd2e096a9f45a9c7c6bc013ca9e8d4f765b587",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-E0BA1DC29231423C",
+      "safe_original_leaf": "RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "original_locator_value_utf8_sha256": "e0ba1dc29231423c502487a19dc624ce86c4be19795130b38dc4307468934208",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-0D3D0A06A2ACDE3D",
+      "safe_original_leaf": "RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "original_locator_value_utf8_sha256": "0d3d0a06a2acde3db16bc14031692e540afacee4ce5804dc2eaa08a29c2d0bd2",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-C8EA71A869E792B7",
+      "safe_original_leaf": "RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+      "original_locator_value_utf8_sha256": "c8ea71a869e792b7c1402f28f04a4392a9f4b491469e0cfe238a9be2f5146f9d",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-631F5AB49BFF256E",
+      "safe_original_leaf": "RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+      "original_locator_value_utf8_sha256": "631f5ab49bff256ee789a7943e11a7855246ba6aa8691bd54ac65a0219dfcdff",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-C104CA8D16EC28CE",
+      "safe_original_leaf": "RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+      "original_locator_value_utf8_sha256": "c104ca8d16ec28ce3e90fa59ca9a3438382ca99b527842ba569fdd8b6ba84e8b",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A26CCD40B56C1734",
+      "safe_original_leaf": "OWN_RELATION_PUBLIC6_COMPLETE47_64_FULL_INVERSES_53LOCATORS_AND_CURRENT_DAG_FIDELITY_V2.json",
+      "original_locator_value_utf8_sha256": "a26ccd40b56c1734a22e7b50747b6cd3b67f56f8f7c5f0b99fd1bf5c0661116a",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    },
+    {
+      "id": "DATED-LOCATOR-A85C02C4DBC562B3",
+      "safe_original_leaf": "OWN_RELATION_PUBLIC6_HISTORY_SOURCE_BOUNDS_WRAPPERS_AND_DIAGNOSTICS_SUPPLEMENT_V2.json",
+      "original_locator_value_utf8_sha256": "a85c02c4dbc562b32eacd5e1ee474ca112c226eb9a36aa0ca7e2bba1fcd8b84c",
+      "meaning": "Dated exact private custody identity only. New canonical metadata components retain accepted intellectual meanings;this ID doesnotclaim the original filename/rawbytes are a published runtime file.",
+      "target_payload_access": "Registration doesnotfollow any contained locator. Exactapproved public6 derivative access is separately authorized;underlying source/proof/helper targets remain unopened.",
+      "private_only_scope": "Original snapshot/prospective/proof/helper custody is private. No whole-private-file alias or current runtime existence promised."
+    }
+  ],
+  "current_body_geometry_owner": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+    "JSON_pointer": "/current_body_geometry"
+  },
+  "base_scope": {
+    "original_private_inventory": "39/57/369 retained frozen; exactQ06 one-array class exception controls public base56/315; later unique values not quota-limited.",
+    "actual_current_records": 57,
+    "actual_current_public_roots": 74,
+    "private_Q06277_array_typed_sha256": "eb4a1527ec8c0062885d19f0b96ae80d43bf159ffd0956b3a03340769e355068",
+    "current_graph_rule": "Only top component_refs are operative current file edges; dated nested tuples/refs are data. Registry does not bind its own raw hash."
+  }
+}
