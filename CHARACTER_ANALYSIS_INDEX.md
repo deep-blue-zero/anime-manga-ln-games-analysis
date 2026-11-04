@@ -49,7 +49,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 51 |
-| [`tomozaki`](characters/index/tomozaki.md) | 7 |
+| [`tomozaki`](characters/index/tomozaki.md) | 13 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
 | [`yuru-camp`](characters/index/yuru-camp.md) | 5 |
@@ -94,6 +94,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Arnes](characters/index/konosuba.md#arnes) | Original light-novel continuity, scoped current monograph | `konosuba:arnes@original-light-novel` | アーネス |
 | [Aru](characters/index/blue-archive.md#aru) | Blue Archive game | `blue-archive:aru@game` | — |
 | [Arue](characters/index/konosuba.md#arue) | Original light-novel continuity, scoped current monograph | `konosuba:arue@original-light-novel` | あるえ |
+| [Ashigaru](characters/index/tomozaki.md#ashigaru) | Bottom-Tier Character Tomozaki light novel | `tomozaki:ashigaru@light-novel` | 足軽 |
 | [Assassin (Yorimichi 4)](characters/index/konosuba.md#yorimichi04-retired-assassin) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-retired-assassin@original-light-novel` | — |
 | [Asui Tsuyu](characters/index/my-hero-academia.md#asui-tsuyu) | My Hero Academia manga | `my-hero-academia:asui-tsuyu@manga` | — |
 | [Asuka Nishino](characters/index/chiramune.md#asuka-nishino) | Chiramune light novel | `chiramune:asuka-nishino@light-novel` | — |
@@ -305,6 +306,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Koharu](characters/index/blue-archive.md#koharu) | Blue Archive game | `blue-archive:koharu@game` | — |
 | [Komekko](characters/index/konosuba.md#komekko) | Original light-novel continuity, bounded character study | `konosuba:komekko@original-light-novel` | こめっこ |
 | [Komiyama Ai](characters/index/idoly-pride.md#komiyama-ai) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:komiyama-ai@v2-cross-media` | — |
+| [Konno Erika](characters/index/tomozaki.md#konno-erika) | Bottom-Tier Character Tomozaki light novel | `tomozaki:konno-erika@light-novel` | 紺野エリカ |
 | [Kujo Ume](characters/index/tokyo-7th-sisters.md#kujo-ume) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kujo-ume@game` | — |
 | [Kuonji Shizuka](characters/index/tokyo-7th-sisters.md#kuonji-shizuka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kuonji-shizuka@game` | — |
 | [Kuramoto China](characters/index/the-idolmaster.md#kuramoto-china) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:kuramoto-china@mobile-game-phase-3-core` | 倉本千奈 |
@@ -391,12 +393,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Nagisa](characters/index/blue-archive.md#nagisa) | Blue Archive game | `blue-archive:nagisa@game` | — |
 | [Nagomi Kinoshita](characters/index/rent-a-girlfriend.md#nagomi-kinoshita) | Main manga continuity | `rent-a-girlfriend:nagomi-kinoshita@manga` | — |
 | [Nagumo Miyabi](characters/index/classroom-of-the-elite.md#nagumo-miyabi) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:nagumo-miyabi@original-light-novels-through-year-2` | — |
+| [Nakamura Shuji](characters/index/tomozaki.md#nakamura-shuji) | Bottom-Tier Character Tomozaki light novel | `tomozaki:nakamura-shuji@light-novel` | 中村修二 |
 | [Nakiri Alice](characters/index/shokugeki-no-soma.md#nakiri-alice) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-alice@manga` | — |
 | [Nakiri Azami](characters/index/shokugeki-no-soma.md#nakiri-azami) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-azami@manga` | — |
 | [Nakiri Erina](characters/index/shokugeki-no-soma.md#nakiri-erina) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-erina@manga` | — |
 | [Nakiri Mana](characters/index/shokugeki-no-soma.md#nakiri-mana) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-mana@manga` | — |
 | [Nakiri Senzaemon](characters/index/shokugeki-no-soma.md#nakiri-senzaemon) | Shokugeki no Soma manga | `shokugeki-no-soma:nakiri-senzaemon@manga` | — |
 | [Nanahoshi Shizuka](characters/index/mushoku-tensei.md#nanahoshi) | Japanese light-novel continuity | `mushoku-tensei:nanahoshi@light-novel` | — |
+| [Narita Tsugumi](characters/index/tomozaki.md#narita-tsugumi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:narita-tsugumi@light-novel` | 成田つぐみ; Gumi |
 | [Narumiya Suzu](characters/index/idoly-pride.md#narumiya-suzu) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:narumiya-suzu@v2-cross-media` | — |
 | [Natsubayashi Hanabi](characters/index/tomozaki.md#natsubayashi-hanabi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:natsubayashi-hanabi@light-novel` | — |
 | [Natsuki](characters/index/cornered-mouse.md#natsuki) | Japanese manga continuity | `cornered-mouse:natsuki@manga` | 夏生 |
@@ -527,6 +531,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Takao](characters/index/azur-lane.md#takao) | Azur Lane mobile game | `azur-lane:takao@mobile-game` | — |
 | [Takeda](characters/index/ntr-netsuzou-trap.md#takeda) | Japanese manga mainline | `ntr-netsuzou-trap:takeda@manga` | — |
 | [Takeda Miho](characters/index/idoly-pride.md#takeda-miho) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:takeda-miho@v2-cross-media` | — |
+| [Takei](characters/index/tomozaki.md#takei) | Bottom-Tier Character Tomozaki light novel | `tomozaki:takei@light-novel` | 竹井 |
 | [Tamaki Kyoka](characters/index/shine-post.md#tamaki-kyoka) | SHINE POST television anime | `shine-post:tamaki-kyoka@television-anime` | — |
 | [Tamasaka Makoto](characters/index/tokyo-7th-sisters.md#tamasaka-makoto) | Tokyo 7th Sisters game | `tokyo-7th-sisters:tamasaka-makoto@game` | — |
 | [Tamura Manami](characters/index/oreimo.md#tamura-manami) | Oreimo original light novels | `oreimo:tamura-manami@original-light-novels` | — |
@@ -550,6 +555,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Tuuli](characters/index/ascendance-of-a-bookworm.md#tuuli) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:tuuli@light-novel` | — |
 | [Twice / Bubaigawara Jin](characters/index/my-hero-academia.md#bubaigawara-jin) | My Hero Academia manga | `my-hero-academia:bubaigawara-jin@manga` | — |
 | [Tōji](characters/index/peach-girl.md#tojigamori-kazuya) | Japanese manga | `peach-girl:tojigamori-kazuya@manga` | とーじ; カズヤ; 東寺ヶ森; Tōjigamori |
+| [Umayahara Mitsu](characters/index/tomozaki.md#umayahara-mitsu) | Bottom-Tier Character Tomozaki light novel | `tomozaki:umayahara-mitsu@light-novel` | 馬屋原ミツ |
 | [Umi](characters/index/rent-a-girlfriend.md#umi) | Main manga continuity | `rent-a-girlfriend:umi@manga` | — |
 | [Uraraka Ochako](characters/index/my-hero-academia.md#uraraka-ochako) | My Hero Academia manga | `my-hero-academia:uraraka-ochako@manga` | — |
 | [Usuta Sumire](characters/index/tokyo-7th-sisters.md#usuta-sumire) | Tokyo 7th Sisters game | `tokyo-7th-sisters:usuta-sumire@game` | — |
