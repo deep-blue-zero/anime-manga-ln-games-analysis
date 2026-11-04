@@ -4,7 +4,7 @@ artifact_type: synthesis_corpus_architecture
 scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Historical Japanese main V01-V11 plus routed V06.5/V08.5; additive verified V12 local witness dated 2026-10-22; complete source consultation and six-owner semantic candidate, repository/publication gates separately recorded"
 analytical_generation: V2_REMEDIATION
-architecture_version: "1.14"
+architecture_version: "1.15"
 architecture_lifecycle: STABILIZED
 status: canonical
 release_state: mutable_active
@@ -464,7 +464,7 @@ Practical remediation order:
 12. validate and release the literary corpus;
 13. only then create evidence-sufficient reconstruction models.
 
-The full-series synthesis gate is PASS_AT_R11_BOUNDARY under the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json). The revised argument is mutable current literary authority through V12; its complete prior V11 hypothesis bank remains historical evidence. R12 must still validate backward traceability, authority/routing, source and history preservation, uncertainty, repository state and intentional release. Derived models remain blocked until actual literary release and then require their own evidence-sufficiency and validation.
+The full-series synthesis gate is PASS_AT_R11_BOUNDARY under the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json). The revised argument is mutable current literary authority through V12; its complete prior V11 hypothesis bank remains historical evidence. R12 Edition 1 now passes these checks for the exact released versions under the [fixed release audit](../08%20Audits%20and%20Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md). Root separately selects the edition; each derived model still requires its own evidence-sufficiency decision, construction and validation.
 
 ## 13. Completion gates
 
@@ -478,8 +478,8 @@ The full-series synthesis gate is PASS_AT_R11_BOUNDARY under the [R11 integratio
 | Cross-specialist convergence | Shared terms, time states, claims, and relationship facts agree or record explicit unresolved conflicts. | **PASS at the declared fourteen-witness/local-role scope under the [R10 audit](../08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md) and [evidence/review packet](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json); source-open tensions remain explicitly OPEN.** |
 | Full-series synthesis readiness | Longitudinal and specialist gates pass; a convergence audit authorizes integrated drafting. | **SATISFIED BY ACCEPTED R11:** input readiness and R10 convergence preceded the independently reviewed integrated argument; this is not a release/model decision. |
 | Full-series synthesis completion | One integrated argument answers the series-wide problem without becoming synopsis or erasing open publication-boundary questions. | **PASS AT R11:** the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [R11 evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) bind the revised argument, independent review, preserved predecessor/dispositions and source-open limits. |
-| Validation/audit completion | Backward traceability, source boundary, contradictions, uncertainty, architecture roles, repository checks, and release state all pass. | **NEXT R12 / NOT YET PASSED:** R11 acceptance and architectural stabilization do not constitute literary validation/release or exact-head publication. |
-| Frozen/release state | Exact reviewed artifacts are versioned, validated, and intentionally release-locked under repository governance. | **NOT REACHED** |
+| Validation/audit completion | Backward traceability, source boundary, contradictions, uncertainty, architecture roles, repository checks, and release state all pass. | **PASS FOR FIXED EDITION 1:** the fixed release audit binds substantive checks, preserved sources and actual verified PR 302 integration; the separate root decision intentionally selects the edition. New release-record publication follows its own exact-head checks. |
+| Frozen/release state | Exact reviewed artifacts are versioned, validated, and intentionally release-locked under repository governance. | **REACHED FOR THE 31 IDENTIFIED EDITION 1 INSTANCES AND FIXED RELEASE RECORDS.** Current working-owner maintenance remains explicitly separate under §17.2; architecture is STABILIZED, not FROZEN. |
 
 Passing a later gate never retroactively changes a frozen earlier reading. V11 source-boundary completion is not series-ending closure.
 
@@ -516,7 +516,7 @@ The owner directed Max reasoning for this remediation's synthesis documents and 
 - this architecture remains mutable while `EVOLVING` or `STABILIZED`; intentional validated release is separate;
 - the corpus map is updated in place as current routing changes;
 - cumulative ledgers and the claim/evidence index are maintained through targeted edits;
-- literary monographs and specialists are mutable until an explicit validated release;
+- literary monographs and specialists are mutable until an explicit validated release; §17.2 distinguishes immutable Edition 1 historical instances from explicitly mutable current working paths after that release;
 - the source lock changes only through a documented source-admission operation.
 
 Material document-wide revision is permissible during this owner-directed remediation only with identity/provenance preserved and the full diff reviewed. Authored ledgers must not be regenerated from summaries.
@@ -568,6 +568,10 @@ Promotion from `EVOLVING` to `STABILIZED` requires:
 
 Root records STABILIZED only after separately accepting R11 and explicitly adjudicating all five conditions above in the [R11 integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md): the role-gap audit enumerates mature responsibilities; all six longitudinal homes retain stable schemas; seven A, eleven B, C38/D1/six-group and primary relationship decisions are explicit; all seven specialist domains and the dependency order are known; and every material observation class has a destination, including distributed ordinary-life and local visual/paratext evidence. No role, count or cumulative schema is removed. This fixes a workable responsibility architecture rather than freezing interpretations, discharging source OPENs or passing R12.
 
+### 17.2 Intentional literary Edition 1 and per-instance maintenance — 2026-11-03
+
+Root explicitly selects `TOMOZAKI_JP_LN_V12_EDITION_1_20261103` at verified main `b498a20457e4debeb70895fca8ebd37717e91017` under the [fixed decision](../08%20Audits%20and%20Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json), [register](../08%20Audits%20and%20Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json) and [audit](../08%20Audits%20and%20Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md). Each of the 31 released `path@commit` instances and all three new fixed release records are immutable; later corrections require a separately identified erratum or successor release. Root explicitly retains all 31 current working paths as `mutable_active`: reviewed corrections must preserve the released identities, identify changed versions and update current claim/revision routing. This policy never permits in-place edits to any separately byte-immutable, hash-locked, archival or NONE_FROZEN instance. The six cumulative owners, map, source lock, architecture and evidence infrastructure retain their own policies; pinning dependency versions does not freeze every owner. Architecture remains STABILIZED, without an intentional architecture FROZEN decision. No model admission, global grade, new source unit or terminal closure follows from this literary release.
+
 ## 18. Responsibility matrix
 
 | Analytical dimension | Sequential capture | Canonical cumulative home | Mature destination | Remediation state |
@@ -576,20 +580,20 @@ Root records STABILIZED only after separately accepting R11 and explicitly adjud
 | Prospective questions, predictions, falsifiers | yes | frozen source-facing reading; material crosswalk in claim index | relevant specialist | satisfied locally; crosswalk and defined retrieval queues reconciled |
 | Character developmental state | yes | character-state ledger | monograph + relationships + final synthesis | historical V11 backfill plus reviewed V12 extension; substantive reconciliation PASS, repository/publication separate |
 | Directional relationship/network state | yes | relationship-state ledger | relationship/ensemble specialists | historical V11 backfill plus reviewed V12 extension; substantive reconciliation PASS, repository/publication separate |
-| Effort, competition, rank, goal ownership | yes | existing effort/competition ledger | effort specialist + character studies | current through V12; effort/mastery/goal-ownership specialist independently accepted; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
+| Effort, competition, rank, goal ownership | yes | existing effort/competition ledger | effort specialist + character studies | current through V12; effort/mastery/goal-ownership specialist independently accepted; R10 convergence reviewed, R11 integration independently accepted; exact version included in fixed Edition 1 |
 | Major claims and revision history | yes | claim-revision/evidence index | all mature synthesis | L1 crosswalk through V12; 359 claims/154 questions, 160/44 promoted and 199/110 local |
 | Source locators | uneven but substantial | claim-revision/evidence index; source readings | audit + mature synthesis | L1 current; historical twelve defined L2/L3 queues reviewed PASS; V12 routes added |
-| Social atmosphere, reputation, punishment, repair | yes across several volumes | social-atmosphere/group-systems ledger | social-system specialist | reviewed V12 cumulative extension and independently accepted social-systems specialist; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
-| Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | independently accepted game/form/self-authorship specialist; R10 convergence reviewed, R11 integration independently accepted; R12 release pending |
-| Causality, result, reason, meaning | yes, especially V08.5–V12 | claim index + character/relationship ledgers | control/causality/meaning specialist | independently accepted control/causality/meaning specialist; source-open causal limits preserved through R10, R11 integration independently accepted; R12 release pending |
-| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | three primary dyads and romance/care/disclosure/intervention specialist independently accepted; R10 recipient/permission checks reviewed, R11 integration independently accepted; R12 release pending |
-| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | Kikuchi monograph and independent authorship/fiction/personhood specialist accepted; R10 authorship/access limits preserved, R11 integration independently accepted; R12 release pending |
+| Social atmosphere, reputation, punishment, repair | yes across several volumes | social-atmosphere/group-systems ledger | social-system specialist | reviewed V12 cumulative extension and independently accepted social-systems specialist; R10 convergence reviewed, R11 integration independently accepted; exact version included in fixed Edition 1 |
+| Technique, learned form, authenticity, authorship | yes | character/relationship ledgers + claim index | game/form/self-authorship specialist | independently accepted game/form/self-authorship specialist; R10 convergence reviewed, R11 integration independently accepted; exact version included in fixed Edition 1 |
+| Causality, result, reason, meaning | yes, especially V08.5–V12 | claim index + character/relationship ledgers | control/causality/meaning specialist | independently accepted control/causality/meaning specialist; source-open causal limits preserved through R10, R11 integration independently accepted; exact version included in fixed Edition 1 |
+| Romance, privacy, disclosure, consent, intervention | yes | relationship ledger + claim index | three relationship specialists + ethics specialist | three primary dyads and romance/care/disclosure/intervention specialist independently accepted; R10 recipient/permission checks reviewed, R11 integration independently accepted; exact version included in fixed Edition 1 |
+| Fiction, observation, personhood, publication | yes | character ledger + claim index | Kikuchi monograph + authorship specialist | Kikuchi monograph and independent authorship/fiction/personhood specialist accepted; R10 authorship/access limits preserved, R11 integration independently accepted; exact version included in fixed Edition 1 |
 | Japanese key terms | intermittent | voice/register/key-terms ledger | all language-sensitive specialists | attested ledger and Japanese conceptual-language/voice/register specialist independently accepted; R10 wording/access checks reviewed |
 | Character-specific voice, address, register | intermittent | voice/register/key-terms ledger | monographs + later reconstruction models | selective state/recipient samples and language/voice specialist independently accepted; no complete habitual model or derived reconstruction claimed |
 | Ordinary-life preferences and habits | local as relevant | character/relationship ledgers | monographs; later models | distributed across accepted character/relationship owners and R11; no separate ledger required or complete habitual model inferred |
 | Professional play, school, work, future | yes | effort/goal ledger | Tomozaki monograph; possible future-path specialist | substantially routed |
 | Visual/paratext evidence | diagnostic only | source reading/source lock | local specialist claim if needed | intentionally local/distributed |
-| Reconstruction readiness | not a source-reading obligation | future reconstruction readiness entries/audit | derived-use models | R11 integration accepted; blocked until actual R12 literary release, then each model requires separate evidence-sufficiency and validation |
+| Reconstruction readiness | not a source-reading obligation | future reconstruction readiness entries/audit | derived-use models | Edition 1 literary prerequisite satisfied; each model still requires its own era/domain evidence-sufficiency decision, construction and independent validation |
 
 Every new recurring observation must route to a cumulative home, a named direct synthesis responsibility, or an explicit local-only status.
 
@@ -607,6 +611,10 @@ Start with `../CURRENT_STATE_AND_CORPUS_MAP.md`. Before changing project state, 
 The corpus map must always expose the exact completed source boundary, architecture lifecycle, current ledgers, mature versus provisional character/specialist status, open synthesis gate, and next required operation.
 
 ## 20. Revision history
+
+### v1.15 — 2026-11-03 — intentional literary Edition 1
+
+The fixed Edition 1 register/audit/decision select all 31 accepted literary versions at actual verified integrated main, with source preservation, immutable released instances and explicit current-owner maintenance. Model-specific sufficiency, construction and independent validation follow as distinct responsibilities. STABILIZED architecture, all source/terminal fields, schemas, roles, counts and earlier histories remain intact; no global capability or owner calibration promotion is implied.
 
 ### v1.14 — 2026-10-23 — independently accepted R11 and explicit architectural stabilization
 
