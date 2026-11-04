@@ -6,10 +6,10 @@
   "supersedes": [],
   "superseded_by": [],
   "intended_canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
-  "release_status": "PENDING",
-  "intentional_release_id": null,
-  "release_id_state": "ROOT_SELECTION_REQUIRED_AFTER_FINAL_TARGET_VALIDATION",
-  "model_gate": "BLOCKED_PENDING_LITERARY_RELEASE",
+  "release_status": "EDITION_1_RELEASED_AT_VERIFIED_MAIN_SNAPSHOT",
+  "intentional_release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+  "release_id_state": "ROOT_INTENTIONAL_EDITION_DECISION_EXECUTED",
+  "model_gate": "LITERARY_PREREQUISITE_SATISFIED_INDIVIDUAL_SUFFICIENCY_REQUIRED",
   "utc": "2026-10-23T11:55:52.989191+00:00",
   "literary_release_set_contract": "31 exact accepted canonical artifact versions:7A+11B+3dyads+R08+7themes+C38/D1/G6companion+R11. This is an edition/version selection, not automatic freezing of every mutable live file instance.",
   "version_count": 31,
@@ -1593,21 +1593,20 @@
     "scope": "Both remote heads reconciled and61worktree/staging bytes restored at297bc; final R12expanded stage/preflight/publication remains pending."
   },
   "required_final_pending": [
-    "Exact expanded path manifest, full staged diff and final author preflight",
-    "Normal publication/readback, exact resulting-head audit and owner/CI integration",
-    "Explicit intentional31-version release and validated snapshot decision",
-    "Separate justified derived-model construction/validation after literary release"
+    "Publish new release-record transaction through ordinary authorpreflight/normalpush/openPR/exacthead audit; do not claim a future main merge.",
+    "Individual model era/domain evidence-sufficiency decisions, construction and independent validation.",
+    "Separately authorized owner-merged formal terminal transaction if requested; no author selfmerge."
   ],
-  "release_or_model_or_publication_pass": false,
+  "pre_release_aggregate_gate_flag_history": false,
   "new_R12_primary_calls": 0,
   "new_R12_pixels": 0,
-  "authority": "Root-accepted current local findings and pending31-version edition contract. Actual release, final repository validation, publication and model admission remain separate pending gates.",
+  "authority": "Maintained localfindings/history and currentrouting to immutable Edition1 register/audit/rootdecision. Earlier PENDING values retain dated creation-stage scope. No individualmodel or globalgrade is awarded.",
   "actual_live_R11_rebind": {
     "path": ".scratch/R12_final_execution_middle/INDEPENDENT_ACTUAL_LIVE_R11_REBIND.json",
     "bytes": 35088,
     "sha256": "33a6f177423d884fb097f0ade59959306cf991db18519c4e71ed750805183497"
   },
-  "current_dependency_snapshots_not_automatic_frozen_owners": [
+  "accepted_pre_release_dependency_snapshots_history": [
     {
       "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
       "bytes": 129891,
@@ -1689,7 +1688,7 @@
       "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b"
     }
   ],
-  "project_preflight_currentness": "Actual earlier64tree exit1; exact sole reported stale generated-index finding. New map/R12objects are outside that run. See current overlay; no completed final author preflight claimed.",
+  "project_preflight_currentness": "Selected literarybasis b498 isgreen afteractualPR302integration; currentexactcommit character generatorpasses. Historicalauthorpreflights remain dated. Newrelease-record transaction has its ownpendingordinaryexacthead checks.",
   "public_record_limits": {
     "raw_preflight_receipt": "Identity-only/private because it contains local executable/log/output paths; explicit portable command summary and exact50-byte log are published above. No inverse reconstruction of excluded private values is claimed.",
     "large_repeated_evidence": "Existing71/184/33complete packets are referenced by their already accepted canonical identities; not duplicated.",
@@ -1933,7 +1932,7 @@
     ]
   },
   "repository_authority": true,
-  "accepted_scope": "LOCAL_FINDINGS_AND_PENDING_EDITION_CONTRACT_ONLY",
+  "accepted_scope": "LOCAL_FINDINGS_HISTORY_AND_FIXED_EDITION_ROUTING",
   "bounded_canonical_adoption": {
     "schema": "R12_root_bounded_canonical_local_findings_acceptance/v1",
     "status": "PASS_LOCAL_FINDINGS_AND_PENDING_EDITION_CONTRACT_ONLY",
@@ -1991,7 +1990,7 @@
       "Separate justified derived-model construction/validation after literary release"
     ]
   },
-  "live_map_dependency_overlay": {
+  "accepted_pre_release_live_map_dependency_overlay": {
     "historical_preparation_identity": {
       "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
       "bytes": 63377,
@@ -7782,5 +7781,155 @@
       "sha256": "297f988b7e36fd91d8e3e575f43b2e3fecb91452436a159de8f11ec0de2e0556"
     },
     "historical_record_qualification": "All earlier bounded decisions, preparation/currentness records and failed64/67preflight receipts retain their dated values. Their historical pending-authority statements are not current authorization status."
+  },
+  "pre_release_top_level_gate_history": {
+    "basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+    "values": {
+      "release_status": "PENDING",
+      "intentional_release_id": null,
+      "release_id_state": "ROOT_SELECTION_REQUIRED_AFTER_FINAL_TARGET_VALIDATION",
+      "model_gate": "BLOCKED_PENDING_LITERARY_RELEASE",
+      "required_final_pending": [
+        "Exact expanded path manifest, full staged diff and final author preflight",
+        "Normal publication/readback, exact resulting-head audit and owner/CI integration",
+        "Explicit intentional31-version release and validated snapshot decision",
+        "Separate justified derived-model construction/validation after literary release"
+      ],
+      "release_or_model_or_publication_pass": false,
+      "authority": "Root-accepted current local findings and pending31-version edition contract. Actual release, final repository validation, publication and model admission remain separate pending gates.",
+      "accepted_scope": "LOCAL_FINDINGS_AND_PENDING_EDITION_CONTRACT_ONLY",
+      "project_preflight_currentness": "Actual earlier64tree exit1; exact sole reported stale generated-index finding. New map/R12objects are outside that run. See current overlay; no completed final author preflight claimed."
+    }
+  },
+  "versions_semantics": "The unchanged versions array retains complete accepted pre-release proposal values/pointers. Fixed released31-instance selection now lives in intentional_edition_release.version_register; do not call historical proposal labels current nonrelease decisions.",
+  "intentional_edition_release": {
+    "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+    "validated_literary_snapshot": "b498a20457e4debeb70895fca8ebd37717e91017",
+    "version_register": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+      "bytes": 73740,
+      "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec"
+    },
+    "release_audit": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+      "bytes": 15549,
+      "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb"
+    },
+    "root_decision": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+      "bytes": 24746,
+      "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90"
+    },
+    "new_record_publication_state": "Separateordinaryauthortransaction; futureownCI/mainnotasserted",
+    "literary_prerequisite": "SATISFIED",
+    "individual_models_admitted": 0,
+    "global_grades_awarded": 0,
+    "source_calls": 0,
+    "pixels": 0
+  },
+  "current_dependency_snapshots_not_automatic_frozen_owners": [
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "bytes": 129891,
+      "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 145033,
+      "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "bytes": 160805,
+      "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+      "bytes": 198814,
+      "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+      "bytes": 115139,
+      "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+      "bytes": 52873,
+      "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3"
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "bytes": 11684,
+      "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md",
+      "bytes": 8697,
+      "sha256": "f6bf15e6fa5d5cb84f520def0b6ccf2bd7316ca7c3c611c41f17eae1c0471313"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 588915,
+      "sha256": "9c48719f90e5ad6e8ca372fb60905af5b40321a1b67bda7ab462329b78571614"
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "bytes": 72802,
+      "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593"
+    },
+    {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 67904,
+      "sha256": "3bacbe924c3b0c5ecfc158b255eecbea29313b8451478d36dda5fd2aa341b57f"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+      "bytes": 48029,
+      "sha256": "cab47e5ea13f371d755a7ce69447dd729f78ee7ff5a738d076c19fdceac2e05f"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/README.md",
+      "bytes": 9799,
+      "sha256": "4969b42e1b4f73d61790ed3db20fc71500cfaeee47cf3df4efe716d8a441d27f"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+      "bytes": 5425,
+      "sha256": "5812725062deb01990661f371c36d0ce4b87d822ad942adb7006ccfb71810527"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 592652,
+      "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "bytes": 160805,
+      "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b"
+    }
+  ],
+  "live_map_dependency_overlay": {
+    "historical_edition_basis_identity": {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 65397,
+      "sha256": "297f988b7e36fd91d8e3e575f43b2e3fecb91452436a159de8f11ec0de2e0556"
+    },
+    "current_mutable_routing_identity": {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 67904,
+      "sha256": "3bacbe924c3b0c5ecfc158b255eecbea29313b8451478d36dda5fd2aa341b57f"
+    },
+    "scope": "TargetedEdition1routingoverlay; releasedbasis snapshots remainfixed, no literary/sourcebyteschanged."
+  },
+  "index_freshness_20261103": {
+    "root_index_sha256": "e61931fd6b02f936aedb07cdd50d84a8064510d5cc33a6975560b830e654b59a",
+    "bytes": 92159,
+    "unchanged_since_last_run": true,
+    "exact_main_generator_check_exit": 0,
+    "all7_Tomozaki_records_cover_V12": true,
+    "repair_needed": false,
+    "independent_review": ".scratch/index_freshness_review_20261103/INDEX_FRESHNESS_REVIEW.md",
+    "independent_review_sha256": "7ccb2a4aa392d99fa7187a080e8f85daca020d6ec8c925b8f97db5ba609d7927"
   }
 }

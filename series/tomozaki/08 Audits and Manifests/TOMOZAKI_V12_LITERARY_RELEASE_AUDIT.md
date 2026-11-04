@@ -6,15 +6,19 @@ status: canonical
 release_state: mutable_active
 do_not_use_as_current_authority: false
 repository_authority: true
-accepted_scope: LOCAL_FINDINGS_AND_PENDING_EDITION_CONTRACT_ONLY
+accepted_scope: LOCAL_FINDINGS_HISTORY_AND_FIXED_EDITION_ROUTING
 supersedes: []
 superseded_by: []
-literary_release_status: PENDING
-model_admission_status: BLOCKED_PENDING_LITERARY_RELEASE
+literary_release_status: EDITION_1_RELEASED_AT_VERIFIED_MAIN_SNAPSHOT
+model_admission_status: LITERARY_PREREQUISITE_SATISFIED_INDIVIDUAL_SUFFICIENCY_REQUIRED
 intended_canonical_path: series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_AUDIT.md
 ---
 
-# Tomozaki literary release audit — pending final version and repository binding
+# Tomozaki literary release findings and fixed-edition routing
+
+**Current scope — 2026-11-03:** This maintained wrapper routes the completed Edition 1 to its fixed successor-scope audit/register/decision in §8. All preceding preparation-stage statements in §§1–7 and the introductory historical narrative below retain their dated scope; they are not current integration holds. This wrapper remains mutable and is not the immutable released-edition audit.
+
+### Historical introduction at preparation
 
 The substantive literary responsibilities through the fourteen admitted Japanese witnesses now have local and convergence acceptance, and the exact complete R11 argument has independent whole-argument and root acceptance. **Literary release remains PENDING.** The accepted canonical R11 render and coherent installed controls are now independently rebound below; the final validated repository target and intentional release decision remain pending. A semantic PASS does not waive those remaining checks or admit reconstruction models.
 
@@ -95,3 +99,10 @@ This adoption installs project-local findings and the two-link/one-checkpoint ma
 On2026-10-23 the owner authorized the narrow generated-index repair if the fresh check still found it stale. Worktree, staged and current-main bytes remained exactly4f515eb4, and the official generator check still failed. The designated generator then produced4126a645, independently reconstructable as only three obsolete provisional-authority-marker removals for Izumi Yuzu, Mizusawa Takahiro and Natsubayashi Hanabi. No registry or other generated-index bytes changed. The complete authorization, execution and three-line diff are preserved in the version/path manifests. Earlier statements that this repair lacked authorization describe their dated preparation stages.
 
 The publication transaction now comprises the unchanged67-path project responsibility plus one separately committed generated-index repair. Final68-index author preflight and publication/exact-head/main gates must be recorded from their actual execution. This update grants no intentional literary release, model admission or terminal closure and changes no literary argument,31-version selection or source OPEN.
+
+
+## 8. Intentional Edition 1 after verified integration — 2026-11-03
+
+The [fixed Edition 1 audit](TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md), [version register](TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json) and [root decision](TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json) now bind `TOMOZAKI_JP_LN_V12_EDITION_1_20261103` to verified main `b498a20457e4debeb70895fca8ebd37717e91017`. PR 302 actually merged as `45ca1c897467ab67c2a2c443ef75ad1979cd5997`; its final source-head audit, source-bound housekeeping and main-merge audit passed. The accepted literary bytes, protected source states and whole project subtree are exact. The earlier failed/stale-index findings and subsequent narrow repair remain authentic history; current root/index namespace output passes the designated generator and no new repair is needed.
+
+Root intentionally releases only the exact 31 literary instances and fixes the three new release records; the current working corpus retains the explicit maintenance policy in the decision. The historical R12 review values and seven contract rules remain preserved in the maintained manifest. Model-specific sufficiency, construction, independent validation, new-record exact-head publication and separately authorized terminal governance remain distinct. No model or global capability grade is passed here.
