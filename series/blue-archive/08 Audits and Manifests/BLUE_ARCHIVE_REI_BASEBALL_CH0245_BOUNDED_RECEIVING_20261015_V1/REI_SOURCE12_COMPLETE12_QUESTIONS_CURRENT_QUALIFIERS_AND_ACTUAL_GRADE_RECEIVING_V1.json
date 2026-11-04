@@ -1,0 +1,677 @@
+{
+  "schema": "REI_SOURCE12_COMPLETE12_QUESTIONS_CURRENT_QUALIFIERS_AND_ACTUAL_GRADE_RECEIVING_V1",
+  "author": "/root/publishing_shared7_review",
+  "role": "BODY_AND_NEW105_AUTHOR",
+  "existing_home": {
+    "home_zero": 46,
+    "home_ordinal": 47,
+    "required_CSV_line": 48,
+    "family_key": "F071",
+    "required_id": "P3-CHAR-NOMASA-REI-CH0245",
+    "person": "BA_PERSON_CH0245",
+    "character": "CH0245",
+    "student_id": "10115",
+    "nominal_private_objects": "B4/MM4/W2",
+    "inside_named_duty": null,
+    "separate_REL307": "PENDING_NOT_COMPLETED_BY_THIS_CHARACTER_BODY"
+  },
+  "body": {
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 36632,
+    "sha256": "c81171441d97a67a18c9388101893249a4de8b76fc739e3f20860d9bb5361966",
+    "git_blob_oid_of_actual_bytes": "997eab62f2bf61cd2fddf801d586b219f1b85fa0"
+  },
+  "source12": {
+    "REIB": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28880,
+        "sha256": "f79430e028199b3e159bc3e6850ef532eedead1ac535dc90f9867500d65fc3f4",
+        "git_blob_oid_of_actual_bytes": "89d5cd9147314e14ee75a514451c7813a28b1c06",
+        "physical_lines": 213,
+        "capture_grade": "COMPLETE_FIXED_F93_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_METADATA_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          213
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "6fcc29",
+        "35896b"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "G330": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+        "bytes": 28668,
+        "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+        "git_blob_oid_of_actual_bytes": "199da3f35af1f6ab9802b7396d2d844c8638b0d3",
+        "physical_lines": 176,
+        "capture_grade": "COMPLETE_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_NAVIGATION_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          176
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "7e8819",
+        "ce9e1d"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "E832": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 23709,
+        "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+        "git_blob_oid_of_actual_bytes": "c86f892caa1c88cfb9efacd14007408df834945b",
+        "physical_lines": 115,
+        "capture_grade": "COMPLETE_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_NAVIGATION_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          115
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "912f22",
+        "215972"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "E845": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 32500,
+        "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252",
+        "git_blob_oid_of_actual_bytes": "4daee761776362b12e6ee46b9632e9062c0c2d3c",
+        "physical_lines": 175,
+        "capture_grade": "COMPLETE_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_NAVIGATION_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          175
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "101507",
+        "f68ce5"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "SUMI": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SUMIRE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 32702,
+        "sha256": "a4d9e272de8bca85407fd8955f09a02b8c838da6f46333d87295671b8380352f",
+        "git_blob_oid_of_actual_bytes": "ad699ece11140c0c737357f4e4687f1c420d100a",
+        "physical_lines": 402,
+        "capture_grade": "COMPLETE_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_OR_ELIGIBILITY_NAVIGATION_BYTE_CAPTURE_ONLY_NO_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          402
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "072262",
+        "0ff870"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "B002": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E002_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E002_DEEP_READING.md",
+        "bytes": 15577,
+        "sha256": "961c5b8dc2bfc825d1483015d977920c6dd2d08c2028984386d3fdfa6839b47f",
+        "git_blob_oid_of_actual_bytes": "464254b2a33576292bda6eb8bb0e5953782c8d12",
+        "physical_lines": 106,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          106
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "398a28"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "B003": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E003_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E003_DEEP_READING.md",
+        "bytes": 16166,
+        "sha256": "dd62810ef20bbfa74f0691876b961545c6ac7d39ac9f43b5113c53463ed80a46",
+        "git_blob_oid_of_actual_bytes": "2d28b38867ec6afca213c2579418d85c399d63e2",
+        "physical_lines": 110,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          110
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "e56b38"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "B005": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E005_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E005_DEEP_READING.md",
+        "bytes": 17135,
+        "sha256": "6757678b87dc47cb68f48af4aceb31f7d955454f648331b39947c23ecd62ecdb",
+        "git_blob_oid_of_actual_bytes": "40dd171c71ea2a274a0963a6ef85b575a9efe0e6",
+        "physical_lines": 120,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          120
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "e70bf5"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "B006": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E006_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_BOND_10115_E006_DEEP_READING.md",
+        "bytes": 15628,
+        "sha256": "780dfa1916f0bce5a10194dd060c10ddbd2820f992a968250b15cee3c6bbfe33",
+        "git_blob_oid_of_actual_bytes": "17ab3878679065c25978017bc0d0a32405f90ec2",
+        "physical_lines": 116,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          116
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "8bbc69"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "WBASE": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_CHARACTER_DATA_10115_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_CHARACTER_DATA_10115_READING.md",
+        "bytes": 15356,
+        "sha256": "7caee443a487f1489ccb5d7b845c82339ef53370caebbc479122a9c9197b5b55",
+        "git_blob_oid_of_actual_bytes": "02d5b2f98351d2ae5997a706b45055f7a57cf375",
+        "physical_lines": 117,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          117
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "f95e9d"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "WSTADIUM": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_CHARACTER_DATA_10115_EVENT_COSTUME_1900936001_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/NOMASA_REI/BLUE_ARCHIVE_NOMASA_REI_CHARACTER_DATA_10115_EVENT_COSTUME_1900936001_READING.md",
+        "bytes": 15257,
+        "sha256": "e28286accd42a672979820dd566487bacaf274449a437c6b1de879944469be1d",
+        "git_blob_oid_of_actual_bytes": "5d8ecde4e64956dcf0979a192fbb8fe382e79935",
+        "physical_lines": 121,
+        "capture_grade": "FIXED_F93_COMPLETE_MAINTAINED_ANALYTICAL_COMPANION_BYTES_NOT_ORIGINAL_PRIMARY_OR_HUMAN_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          121
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "a2a2be"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    },
+    "E126": {
+      "fixed_current_maintained_source": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E126_DEEP_READING.md",
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E126_DEEP_READING.md",
+        "bytes": 8486,
+        "sha256": "c4a0eee6b4f620b68e76ab1c35b21886caaa30c5ac732c5d69bc04180d00d01d",
+        "git_blob_oid_of_actual_bytes": "94c73c9fa4d8cec199e6a2ce0db59263193625e8",
+        "physical_lines": 68,
+        "capture_grade": "FULL_FIXED_F93_ADMITTED_MAINTAINED_ANALYTICAL_E126_ONLY_NOT_PRIMARY_OR_HUMAN_SOURCE_RECEIVING"
+      },
+      "own_actual_receiving_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENT_NOT_PRIMARY",
+      "physical_intervals_inclusive": [
+        [
+          1,
+          68
+        ]
+      ],
+      "actual_tool_receiving_captures": [
+        "97d050"
+      ],
+      "underlying_primary_native_raw_AV_receiving_credit": 0
+    }
+  },
+  "actual_source_totals": {
+    "WHOLE_maintained_files": 12,
+    "physical_lines": 1839,
+    "bytes": 250064,
+    "overlap": "REIB checkpoint and four paired/two written companions overlap the same ten owned primary objects; twelve maintained files are not twelve independent primary corpora. SUMI is a comparator rather than extra Rei private scenes. E126 is one admitted maintained gift argument, not whole EVENT80001 or a primary inspection.",
+    "primary_native_raw_AV_normal105": 0
+  },
+  "complete_original12_pre_reading_questions_NOT_rewritten": {
+    "schema": "REI_HOME46_F071_TWELVE_GENUINE_MAINTAINED_SOURCE_QUESTIONS_BEFORE_BODY_AUTHORING_V1",
+    "author": "/root/publishing_shared7_review",
+    "stage": "QUESTIONS_BEFORE_ACTUAL_SOURCE_READING_NOT_READINESS_OR_BODY_ACCEPTANCE",
+    "existing_scope": "P3-CHAR-NOMASA-REI-CH0245/F071/home46/ordinal47/CSV48; no inside named duty. Distinct directed Sumire–baseballRei home307 remains pending.",
+    "questions": [
+      {
+        "question_id": "RQ01",
+        "question": "What exact source-local and declared metadata evidence identifies baseball Rei as 野正レイ/CH0245/BA_PERSON_CH0245/10115, and how do REIB and GROUP3301–3303 distinguish this student from diving Rei, employees, merchants and Tsukuyo/Junko comparand appearances? Which role descriptions must remain local rather than becoming new persons or registry joins?",
+        "necessary_named_scope": "REIB identity/binding controls; G330 full actor course; captured existing home/family/eligibility metadata only. No guessed registry route."
+      },
+      {
+        "question_id": "RQ02",
+        "question": "Across all four selected BOND encounters, what does Rei actually want or enjoy besides improved ability or institutional recognition: the shape of a home run, caught balls, cards, stadium food, quiet tasks, praise or company? Which particular tastes or acts resist a generic sports-ambition summary?",
+        "necessary_named_scope": "Whole maintained REIB account, including every encounter and contrary tail; corroborating G330/E845 context where supplied."
+      },
+      {
+        "question_id": "RQ03",
+        "question": "What do the four whole MomoTalk pairings supply about who initiates, asks, withholds, agrees or refuses, and where do alternative Sensei replies or reported tails prevent mutual knowledge, completed practice, blanket permission or a permanent commitment?",
+        "necessary_named_scope": "Whole REIB paired-message analytical course, not raw B4/MM4 primary objects."
+      },
+      {
+        "question_id": "RQ04",
+        "question": "What do the two selected written objects add about self-reference, address, qualification, ordinary preferences, repeated/conditional audiences and private/public roles? Which profile, UI, inward, narrator or empty fields limit biography, performed voice, enacted actions or inferred variant development?",
+        "necessary_named_scope": "Whole REIB written-object argument and mode controls; no native/raw/AV performance claims."
+      },
+      {
+        "question_id": "RQ05",
+        "question": "How do actual coaching requests and declined or changed methods distinguish Rei's chosen goal from permission for every machine, bodily contact, training schedule or adult intervention? What are the particular later answers rather than a single permanent consent verdict?",
+        "necessary_named_scope": "REIB/G330/E845 full request–method–response chains, including refusal, fatigue, physical or social costs and later contrary acts."
+      },
+      {
+        "question_id": "RQ06",
+        "question": "What exactly occurs in GROUP3301–3303 among Rei, the local director, members, robotic referee, audience and stadium announcer? Which decisions, criticism, rules, status or score effects are represented, and how do those local roles constrain command, impartiality and personhood inferences?",
+        "necessary_named_scope": "Whole G330; exact local role metadata. Retain anonymous/member distinctions without invented names or automatic persons."
+      },
+      {
+        "question_id": "RQ07",
+        "question": "What actual E845 acts resolve the eligibility review's mandatory source debt: accepted cheering, match contribution, reverse walk-off grand slam, first victory and the professional-contract answer? How do following-day machine results, the reported8%→7.9%, wrist uncertainty, rest refusal and other costs limit lasting skill, clinical recovery or universal mentoring claims without erasing the achievement?",
+        "necessary_named_scope": "Whole maintained E845, contrasted with dated eligibility section9. No inherited no-final-home-run as a current whole-corpus absence claim."
+      },
+      {
+        "question_id": "RQ08",
+        "question": "How does Rei's directed relation to Sumire retain different wanted goals, task-specific help, implicit judgments, objections, body boundaries and rest? Which evidence belongs inside this character account, and which fuller directed relationship argument would still be required for independent home307?",
+        "necessary_named_scope": "REIB/G330/E845 plus whole maintained Sumire account; no automatic symmetric trust or relationship completion."
+      },
+      {
+        "question_id": "RQ09",
+        "question": "What source-specific comparison does E832 permit about Sumire's training, clothes, participation, ordinary enjoyment and limits, and does it actually place Rei there? Keep a Sumire comparator from becoming Rei attendance, a shared private/event date or a causal growth sequence.",
+        "necessary_named_scope": "Whole maintained E832 and Sumire scope; preserve absent/unjoined actors only at inspected local evidence, not global absence."
+      },
+      {
+        "question_id": "RQ10",
+        "question": "How do team membership, chosen club rather than professional opportunity, local rules, schedules and resources alter what Rei can ask, refuse, know or owe? Where do teammates, staff, helpers and audiences have their own ends or costs rather than merely serving Rei's dream?",
+        "necessary_named_scope": "REIB/G330/E845/Sumire/E832 at their actual modes, with formal instruments, payment, permanent employment and general legal authority left unproved unless supplied."
+      },
+      {
+        "question_id": "RQ11",
+        "question": "Which literal written Japanese examples and actor/mode distinctions support Rei's hesitant confidence, aesthetic desire, politeness, gratitude, refusal or correction? How do implied replies, alternatives, narrator descriptions, reported numbers and comic exaggeration restrict a stable voice, diagnosis or causal explanation?",
+        "necessary_named_scope": "Exact maintained source locators in REIB/G330/E845 and necessary comparators. No reconstructed dialogue, heard prosody or silent actor repair."
+      },
+      {
+        "question_id": "RQ12",
+        "question": "Which serious rival readings preserve both genuine ordinary goods and actual failure: only an incompetent athlete, permanent skill breakthrough, pure coercion, harmless encouragement, office-as-whole-person, helpless dependence, one stable improvement policy or pleasure as mere utility? What finite actual endings and missing evidence discriminate them while all14 gaps stay OPEN/models0?",
+        "necessary_named_scope": "Complete adequately received source course, with actor-specific afterstates and noncumulative local chronology. No new105, model, source admission, body/count or ROOT acceptance from this preparation."
+      }
+    ],
+    "source_capture_credit": "Both ROOT captures bind exact bytes only; none of the five literary sources has been personally received in this new Rei task at this question-writing stage.",
+    "current_primary_native_raw_AV_normal105_identity_registry_model_count_runtime_merge_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  },
+  "complete_current12_own_answers_NOT_rewritten": {
+    "schema": "REI_TWELVE_GENUINE_SOURCE_QUESTION_OWN_ANSWERS_AT_ACTUAL_TWELVE_WHOLE_MAINTAINED_SCOPE_V2",
+    "author": "/root/publishing_shared7_review",
+    "role": "SOURCE_READER_AND_FUTURE_BODY_AUTHOR_NOT_INDEPENDENT_SELF_QA",
+    "status": "TWELVE_NAMED_MAINTAINED_ARGUMENTS_ACTUALLY_WHOLE_RECEIVED;BODY_FIRST_AUTHOR_READINESS_ONLY",
+    "answers": [
+      {
+        "question_id": "RQ01",
+        "own_actual_bounded_answer": "The maintained four pair arguments bind baseball/full-name continuity to 野正レイ/CH0245/BA_PERSON_CH0245/BA_VARIANT_10115. B002's message explicitly self-introduces Millennium baseball affiliation; G3303301s2 names the newcomer and her provisional Training Club request. Raw unaffiliated versus later Rei labels share the declared join, without replacing printed baseball affiliation by a gacha TrainingClub tag or Club=None. REIB138–185 distinguishes art employee and merchants with raw-generic/derived-person joins, and E005 child display/text seams; none earns a baseball appearance or a new person. Diving Rei is separate. Director, membersA–D, stadium announcer and robotic referee remain local unjoined roles, not an automatic census or self-aware AI.",
+        "source_ids": [
+          "REIB",
+          "G330",
+          "B002",
+          "WBASE",
+          "WSTADIUM"
+        ],
+        "finite_disposition": "READY_WITH_LITERAL_IDENTITY_AND_MODE_LIMITS_NO_REGISTRY_MERGE"
+      },
+      {
+        "question_id": "RQ02",
+        "own_actual_bounded_answer": "Rei wants a home run's beautiful arc and brief shared attention, but also values a calmer reserve stadium, hot dog and ginger ale, admired effort, arcade skill, quiet stadium accompaniment and inspecting club objects. A caught childhood home-run ball has memory value distinct from an achieved hit. Base written contexts retain cards, yearbook/statistical interests, cream temptation, rest, birthdays and a narrowly qualified outdoor self-description; stadium UI retains food invitations, wage/glove hopes, chance and imperfect scheduling. E845 adds film enthusiasm, weak-team hope, equipment and chosen own-club fidelity. Whole E126 now supplies the completed hesitant gift approach, reported glove scan/data/mold assistance, her own melting/polishing, bat/ball/glove chocolates, alternative gratitude/pun and actual shared eating/baseball talk. Its imagined commentary is not a played match. These are intrinsic ordinary goods at their distinct modes, not disposable low-stakes utility or proof of general skill.",
+        "source_ids": [
+          "REIB",
+          "G330",
+          "E845",
+          "B002",
+          "B005",
+          "B006",
+          "WBASE",
+          "WSTADIUM",
+          "E126"
+        ],
+        "finite_disposition": "READY_WITH_ORDINARY_GIFT_FULLY_RECEIVED_AT_MAINTAINED_SCOPE"
+      },
+      {
+        "question_id": "RQ03",
+        "own_actual_bounded_answer": "All four complete maintained paired arguments have now been read, including their invitation/boundary explanations. B002 gives9 messages/7 groups, home-run practice invitation and two Answer records in separate groups, not one alternative group. B003 gives12/9, thanks for prior help and an invitation when convenient with separate teacher groups and explicit previous arcade continuity. B005 gives12/8: hard-won two tickets, pleasure in planned company, a playful lateness warning, and two same-group Answer alternatives with different continuations. B006 gives15/12: inspection versus a separate maintenance day, a teacher-requested visit, Rei's warning it may be dull, welcomed help, four serial separate teacher groups and final NextGroup0. These are actual whole maintained analytical receiving, not primary48-message inspection; schedules, favour ranks and source ordering do not date a whole franchise chronology.",
+        "source_ids": [
+          "B002",
+          "B003",
+          "B005",
+          "B006"
+        ],
+        "finite_disposition": "READY_WITH_SERIAL_ALTERNATIVE_AND_LOCAL_CONTINUITY_DISTINCTIONS"
+      },
+      {
+        "question_id": "RQ04",
+        "own_actual_bounded_answer": "WBASE supplies the whole maintained profile/48-context argument and WSTADIUM the complete114-context argument. They are two underlying written objects: one profile plus162 context records, with57 pairs repeated under845/10845, not162 lived events or two games. Profile age/height/birthday/hobbies are assertions; one-tenth batting is a goal. Café Think/rest/cream, seasonal/birthday modes, schedule/data help, limited cards and batting-centre invitation retain conditional or prospective status. Stadium Close home-run wording has its own available-repertoire grade; actual E845 separately supplies a swing, without dating the UI against bonds. Touch refusal has no inspected response; wages seem available and a glove is contemplated, not paid/bought. No new costume person, permanent discipline, completed outing or performed voice follows.",
+        "source_ids": [
+          "WBASE",
+          "WSTADIUM",
+          "E845"
+        ],
+        "finite_disposition": "READY_WITH_PROFILE_UI_REUSE_AND_PERFORMANCE_LIMITS"
+      },
+      {
+        "question_id": "RQ05",
+        "own_actual_bounded_answer": "Rei welcomes help but B002 prints push discomfort and an unexplained destination; later apology does not erase that. B003 evaluates darts, rejects its material relevance and then directs frisbee throwing, including pressure on the adult. B005 praise is experienced as embarrassing despite denied teasing intent. B006 protects her keepsake during welcomed sorting. G330 has a genuine voluntary training request, an accepted break and an affirmation after an enjoyable outing, followed by changing endpoints and objection to a foot-restraint device whose activation/release is not independently shown. E832 repeats a wish to stop and refusal to release before a menu ends. E845 has an initially resisted at-bat request, strong shoulder contact judged too close, a chosen appearance and later rest objections. No one act fixes all future permission, harmlessness or universal victim/mentor status.",
+        "source_ids": [
+          "B002",
+          "B003",
+          "B005",
+          "B006",
+          "G330",
+          "E832",
+          "E845"
+        ],
+        "finite_disposition": "READY_WITH_TASK_SPECIFIC_REQUEST_METHOD_RESPONSE_AND_AFTERSTATE"
+      },
+      {
+        "question_id": "RQ06",
+        "own_actual_bounded_answer": "G330's director calls practice relaxed and repeats a Seminar-improvement report without inspected safety proof. MembersA–D have different local praise, theory/material/form suggestions and a preference for ordinary hits; their knowledge does not make Rei's wanted home run irrational. The director acknowledges lacking training expertise and refers her. The robotic referee's out call has a rule function; the practice machine's results and member reports are not verified repairs, an embodied person or a full sports dataset. The stadium announcer's local failed advance/close-defeat reports do not become Rei's competition results. Eleven staged-display/text actor receipts qualify first-person aspiration, food request and coaching lines. There is no Sensei utterance, choice or reported direction in G330, so the peer mentoring is not secretly authored by the adult.",
+        "source_ids": [
+          "G330",
+          "REIB"
+        ],
+        "finite_disposition": "READY_WITH_FULL_LOCAL_ROSTER_AND_UNJOINED_SYSTEM_ROLE_LIMITS"
+      },
+      {
+        "question_id": "RQ07",
+        "own_actual_bounded_answer": "E845104–110 resolves the exact eligibility debt positively. After requested cheering, practical clues, failed tactics and an injured fourth batter, Rei objects to an unreasonable request, receives strong too-close shoulder support and chooses to bat. The narration and announcer then supply a reverse walk-off bases-loaded home run and Braves first victory, not merely anticipation or UI wording. Equipment is received as thanks, and she refuses a professional contract to rebuild her own club. Next-day narration defeats her badly at the machine and her8%→7.9% is a report, not analyst measurement. Wrist examination is Sumire's attributed assessment, not clinical credentials or cure. Rest is again resisted despite a moderation maxim. Old eligibility no-final-home-run is a dated received-boundary statement, not a current whole-corpus absence warrant; no reliable skill, ethical absolution, first-career date or global chronology is inferred.",
+        "source_ids": [
+          "E845",
+          "WSTADIUM",
+          "G330",
+          "REIB"
+        ],
+        "finite_disposition": "READY_WITH_ACTUAL_ACHIEVEMENT_AND_CONTRARY_NEXT_DAY_SCOPE"
+      },
+      {
+        "question_id": "RQ08",
+        "own_actual_bounded_answer": "Rei asks Sumire because she lacks solo-training knowledge; Sumire can praise, accept a break, stop a session, share spectating and formulate a goal/process distinction. Rei offers food, explains rules and questions whether more legs/whole-body strength or restraint serves her chosen batting aim. E845 adds Sumire's domain reflection, studied Morse, admitted negotiation limit and meaningful clothes memory beside false suspicion, unwanted shakes, exhausted nonculprits and renewed overwork. Whole SUMI's separate private account supplies further actual taste, qualified pacing, accepted exits and unresolved worker boundaries; those are comparisons, not new Rei private scenes. The character argument can preserve these directed exchanges without calling every standard right, every help unwanted, trust symmetric or separate relationship307 complete.",
+        "source_ids": [
+          "G330",
+          "E845",
+          "E832",
+          "SUMI",
+          "WBASE"
+        ],
+        "finite_disposition": "READY_FOR_CHARACTER_CONTEXT_ONLY_REL307_PENDING"
+      },
+      {
+        "question_id": "RQ09",
+        "own_actual_bounded_answer": "Whole E832 supplies an actual local baseball-oriented Rei with Sumire at the accepted owner's grade; it is not only a general Sumire analogy, nor a new raw variant join. Rei wants long-hit strength rather than shouting/cardio, reports a sore throat, questions danger and repeatedly wants to stop. Training Club diversion helps with a bear that later leaves, but no full chase/injury audit appears; bear growls under Rei labels are not her species. A summit run is imposed over renewed protest. Veritas praise of dedication and Sumire's safety claim do not replace the recipient's answer. Meal, cocoa, sunrise and the game's simulated ten-kilogram coda belong to their actual actors/modes; none supplies Rei's completed breakfast, clinical outcome, stable fitness conversion or a dated bridge to G330/E845/private stories.",
+        "source_ids": [
+          "E832",
+          "SUMI",
+          "G330"
+        ],
+        "finite_disposition": "READY_WITH_ACCEPTED_LOCAL_REI_IDENTITY_GRADE_NO_NEW_REGISTRY_OR_DATE"
+      },
+      {
+        "question_id": "RQ10",
+        "own_actual_bounded_answer": "Rei's club is a positive chosen affiliation, not merely a failed athlete's workplace. Her reform aim, schedules and equipment work coexist with members' data/theory preference and their referral limit. Temporary Training participation and later professional-contract refusal have different durations and warrants; neither proves a charter, permanent exit, completed reform or payroll. Stadium staff/family help, players, fans, Hanae, Sumire and the adult contribute independently. E845 threats, sign leaks, ejection and injury constrain authority; a local win does not establish disarmament, police/court/restitution or safe mechanisms. Sumire's asserted health responsibility is a character claim, not a general license to override Rei. Other people's food, rest, work, fear and company remain intrinsic ends too.",
+        "source_ids": [
+          "REIB",
+          "G330",
+          "E845",
+          "E832",
+          "SUMI",
+          "B006",
+          "WBASE",
+          "WSTADIUM"
+        ],
+        "finite_disposition": "READY_WITH_FORMAL_MATERIAL_AND_DISTRIBUTED_AUTHORSHIP_LIMITS"
+      },
+      {
+        "question_id": "RQ11",
+        "own_actual_bounded_answer": "Maintained witnesses preserve 自分/先輩, batting専業 and future二刀流, 戦場 as a field of committed effort, 地味な部分 and 注目されにくい, probabilistic たぶん/可能性, お守り/ような気がして, explicit大切な生徒 and やり遂げられる/やめられない. WBASE first-goal self-correction, limited outdoor claim, reported insult and birthday stammer differ from WSTADIUMみたい/かも/できる気がしません and触らないでください. Raw Korean text differences do not replace pinned Japanese sentences; reactive sensei_internal and private-style dialogue retain audience uncertainty. Eleven G330 actor seams and five child/Rei seams are material without silent canonical repair. Written voice, posture narration or nonempty VoiceIds are not listened acting, pixels or diagnosis. E126 adds reader-visible rehearsal, アレ, the 手作り/手 pun and playful 三種の神器. Rei's inward-mode seam receives an answer without proving inaudibility or telepathy; choice gratitude and pun remain alternatives, not two accumulated teacher answers.",
+        "source_ids": [
+          "B002",
+          "B003",
+          "B005",
+          "B006",
+          "G330",
+          "WBASE",
+          "WSTADIUM",
+          "E845",
+          "E832",
+          "E126"
+        ],
+        "finite_disposition": "READY_WITH_LITERAL_MODE_AUDIENCE_AND_PERFORMANCE_ABSTENTION"
+      },
+      {
+        "question_id": "RQ12",
+        "own_actual_bounded_answer": "Eight serious rivals will be tested in the body: wholly incompetent athlete; permanent breakthrough after one success; purely coerced pupil; harmless ideal coaching; numbers-versus-feeling as total opposition; stage glory as her only want; adult-only authorship/exclusive dependency; and one merged Rei biography or orderly growth timeline. Actual arcade/darts skill, baseball defeat, wanted request/accepted break, repeated method objections, quiet child accompaniment, technical/keepsake coexistence, G330's no-adult peer exchange and real E845 grand slam with next-day failure defeat those reductions without erasing their supporting cases. Finite ends must distinguish actual play, choice, reported claims, memory, offered care and unperformed repairs/payments/food/medical outcomes. All14 stronger gaps remain OPEN/models0; no fitted behavioral rule, prospective validation, source admission, new105 or extra home/count follows. Whole E126 now defeats a stage-glory-only account through enacted gift approach and actual eating/talk, while leaving reported workshop operations, unplayed match, romantic status and future gifts finite.",
+        "source_ids": [
+          "REIB",
+          "G330",
+          "E845",
+          "E832",
+          "SUMI",
+          "B002",
+          "B003",
+          "B005",
+          "B006",
+          "WBASE",
+          "WSTADIUM",
+          "E126"
+        ],
+        "finite_disposition": "READY_AT_COMPLETE_TWELVE_MAINTAINED_ARGUMENT_SCOPE_FOR_BODY_FIRST_AUTHORING_ONLY"
+      }
+    ],
+    "actual_source_grade": "WHOLE_MAINTAINED_ANALYTICAL_ARGUMENTS_12_FILES_1839_PHYSICAL_LINES_250064_BYTES; overlapping checkpoint/companion reports are not12 independent primary corpora",
+    "source_reading_credit_limits": "Underlying primary B4/MM4/W2, producer source/control inspections, field-profile measurements and historical ROOT readings remain attributed. No raw primary, native, AV, fresh normal105, registry or source admission credit.",
+    "body_new105_ROOT_count_model_publication_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "prior_eleven_source_answers_preserved_literal_at": {
+      "C_path": "REI_PRIVATE_LOCATION_SHA256_be4fe71ed6c146b693d0b46df0c1db82e61e3bb85a0b24d5710feef3a69385c6",
+      "bytes": 13816,
+      "sha256": "2a883373a3812fb7de8f82a17d4a7e8b691af382b2edd38eb817d25661aa3ca9",
+      "git_blob_oid_of_actual_bytes": "b582d69681990daf4ca090a90ee41390581d3fc6"
+    },
+    "E126_complete_own_answer_addition": {
+      "actual_whole_receiving": "97d050",
+      "physical_scope": [
+        1,
+        68
+      ],
+      "own_reason": "The delivered glove/bat/ball chocolates and narrated eating/talk give ordinary making and company their own completed local results. Rei reports scan/data/printed mold rather than an inspected workshop; her own finishing does not become no effort because it was technically assisted. Teacher alternatives recognize effort without proving all competence. Rehearsal/audience seams and imagined commentary constrain knowledge and performed sport. This is sufficient to integrate the exact admitted gift context without inventing a new variant, romance, main date, primary or full event receipt."
+    }
+  },
+  "source_receiving_book": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_d87e2510adb3d5a80e367aeef91345720f76b4896f9d7b47537d75ec4108d466",
+    "bytes": 19674,
+    "sha256": "a644fa59e8a8157c9bd8c71eb74ae72250f93633e3cf9fc1f31abce4e3cdecaa",
+    "git_blob_oid_of_actual_bytes": "844d36a13aa4be9585e4d1747ad9fd39ce65593b"
+  },
+  "original_common105_qualifier_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "original_common105_qualifier_scope": "Original source629 audit, PR152 frozen fields and later current effective qualifications remain operative at their disclosed snapshots; original source payloads are retained as dated owner history.",
+  "full_narrow61767_and59334_raw_copies": {
+    "frozen_25": {
+      "source_C_path": "REI_PRIVATE_LOCATION_SHA256_3f593a9cddf55a9ef6e8cf6ba5bea84cc00f8fe19f622f65072f96d6e16d9090",
+      "current_exact_C_raw_copy": "REI_PRIVATE_LOCATION_SHA256_38d5b85d2f6777303af4fe7defdbf0bf5814afd04830a8c0d6e7b9138ba92b96",
+      "bytes": 61767,
+      "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+      "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+    },
+    "frozen_26": {
+      "source_C_path": "REI_PRIVATE_LOCATION_SHA256_c4285415742f3128d0b4c3f3c84f8351d3bf45eab9d6b93760a0895c72751910",
+      "current_exact_C_raw_copy": "REI_PRIVATE_LOCATION_SHA256_b7f574f421c2646e1846f0586090e5d1cd9bd9517d814872c6cb50b1d265baa9",
+      "bytes": 59334,
+      "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+      "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+    }
+  },
+  "current_common_source_use_qualifications": {
+    "O087": "Actual no-force one-week agreement and unpacking, not evidence that the week was fulfilled.",
+    "O094": "Teacher reading of Miyo wanted romance novels is refused; not Miyo authorship or refusal to write/share authored writing.",
+    "O096": "Reported foodlessness; food supplied before later bill/printing bargaining; contract follows rejected9:1, final agreed terms/ratio unprinted; no demonstrated deliberate withholding or clinical starvation mechanism.",
+    "actor_mode_chronology": "Original grades and local actors/modes retained; no inferred Rei attendance beyond actual own sources, shared calendar, universal audience, voice performance, registry join or global absence."
+  },
+  "original_normal105_scope": "Original26WHOLE79SELECTED owner extents remain attributed. My prior complete original report-meaning receiving during independent Alice review and unchanged original-value comparison is not a fresh whole-normal105 or primary pass. The105 Rei fivefields are genuinely new author functions.",
+  "actual_body_only_QA": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_e3873a6ad618968653c0ff2cd98999e3d90925a213a9c7b605b54357e73b4bc9",
+    "bytes": 206148,
+    "sha256": "171ea7e3e855af0643a048f1ea66f8c687ad999cccdfa7b86d648ad0aba5199c",
+    "git_blob_oid_of_actual_bytes": "39bf64c3fdbd26d16bbabcebc7172c04237ae769"
+  },
+  "actual_author_complete_QA_reason_concurrence": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_e0ac1e5b3b6ab12989ed4c522de59aea3bca0ba8dcc10f74d9a327b65ed36ded",
+    "bytes": 2358,
+    "sha256": "9edbcc5e3daad904ef1d4033dc050d95c1465acf1d13783b1820918bfb99a907",
+    "git_blob_oid_of_actual_bytes": "41aed27f40be45bd5981503f20477d4126688db4"
+  },
+  "actual_ROOT_body_only_permission_for_genuine_new105": {
+    "C_path": "REI_PRIVATE_LOCATION_SHA256_a1dbfc903e58d06dbe49d946ff46b4b19bebeb070fafbc79142b6cdcc583dee7",
+    "bytes": 10071,
+    "sha256": "cb438e3fed5d504eb335adfe23292813f085cea5da684a11a14eb5b6c415fabd",
+    "git_blob_oid_of_actual_bytes": "4e886f90bc6a07962861b60889f15b872d1cda6d"
+  },
+  "body_metadata_qualification": "Unchanged body-first draft metadata and no105/bodyQA/ROOTpending prose describe the original body-authoring stage. Actual10071 body-only adoption governs new105 permission; no current exact8 acceptance or public lifecycle promotion is granted.",
+  "current_P026": "Displayed teacher human-pitcher option; Rei probable-machine qualification; no unique option execution or forensic certainty.",
+  "current_food_mode_precision": "G33099 gives wanted food/allowed one hotdog/offered treat, not an inspected purchase or Sumire meal; currentO012/O058 use wanted stadium food. E126 actual eating remains literal.",
+  "all14_original_gaps": [
+    {
+      "original_gap_id": "G01",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G02",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G03",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G04",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G05",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G06",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G07",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G08",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G09",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G10",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G11",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G12",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G13",
+      "status": "OPEN"
+    },
+    {
+      "original_gap_id": "G14",
+      "status": "OPEN"
+    }
+  ],
+  "fourteen_own_CL_limits_are_NOT_canonical_gap_titles": true,
+  "models": 0,
+  "no_inside_named_or_REL307_completion": true,
+  "component_distinct_QA_ROOT_byte_literary_adoption_publication_count": "PENDING_SEPARATE_ACTUAL_RECEIVING"
+}
