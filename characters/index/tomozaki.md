@@ -80,6 +80,54 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
   - [`bounded-character-dossier` — Hinami Haruka bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md)
   - [`bounded-reconstruction-model` — Hinami Haruka bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
+<a id="hinami-nagisa"></a>
+
+### Hinami Nagisa
+
+- Entity ID: `tomozaki:hinami-nagisa`
+- Entity aliases:
+  - 日南渚 (ja, ORIGINAL_SCRIPT) — Per the bounded posthumous dossier's subject identity; Aoi and Haruka's deceased younger sister.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami-nagisa@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `attributed-retrieval-model`: LIGHT_NOVEL VOLUME: Manual attributed retrieval over the dossier's play, intervention, doubt, death-report and fiction/address bands; returns attributed acts with separate abstentions and enacts no posthumous voice. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded posthumous account through Japanese V12: V08.5 childhood rematch, tactical change and shared play; V11 disclosure-framed history of advice-seeking, chosen intervention for a targeted classmate, retaliation, reassurance under strain and her question whether doing right had meaning; V10/V11/V12 death reports with intent and preventability explicitly unknown; the V12 imagined reunion kept separate as fiction/address. The V10/V11 school-year conflict is preserved unharmonized.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`attributed-retrieval-model` — Hinami Nagisa attributed retrieval model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`bounded-character-dossier` — Hinami Nagisa bounded posthumous character dossier](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md)
+
+<a id="hinami-yoko"></a>
+
+### Hinami Yoko
+
+- Entity ID: `tomozaki:hinami-yoko`
+- Entity aliases:
+  - 日南陽子 (ja, ORIGINAL_SCRIPT) — Per the bounded dossier's subject identity; mother of Aoi, Nagisa and Haruka. Distinct from Mamiya 葉子, the similarly romanized Yoko.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami-yoko@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `attributed-retrieval-model`: LIGHT_NOVEL VOLUME: Manual attributed retrieval over HY1–HY5: practical comfort, recipient-varying social warmth, affection with harmful explanatory persistence, separate disclosure clocks, and later rereadings that are not a current maternal answer. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded account through Japanese V12: V08.5 domestic cooking and game observation (mother not yet named in-window), V09 restaurant encounter with classmates, V11 childhood comfort, advice to Nagisa, reassurance without concrete change and the hospital meaning explanation, the V10/V11 birthday video, and V12 Aoi's private room/scroll reminder and birth-thanks re-reception. No new direct maternal testimony after V11.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`attributed-retrieval-model` — Hinami Yoko attributed retrieval model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`bounded-character-dossier` — Hinami Yoko bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md)
+
 <a id="izumi-yuzu"></a>
 
 ### Izumi Yuzu
@@ -151,6 +199,31 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`bounded-character-dossier` — Konno Erika bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Konno%20Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md)
   - [`bounded-reconstruction-model` — Konno Erika bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
+<a id="michael-andi"></a>
+
+### Michael Andi
+
+- Entity ID: `tomozaki:michael-andi`
+- Entity aliases:
+  - Andy (en, ALTERNATIVE) — Project English retrieval variant for the same reported author.
+  - マイケル・アンディ (ja, ORIGINAL_SCRIPT) — Source appellation spoken in V12; whether it is a legal or pen name is not established.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:michael-andi@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `attributed-retrieval-model`: LIGHT_NOVEL VOLUME: Manual attributed retrieval of reported conduct, material traces, documentary marks and reception, with the couple's psychological reconstruction kept as their hypothesis. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded posthumous account with positive person evidence from Japanese V12: islanders' attributed memories (innkeeper, fish workers, shopkeeper, liquor seller), the tower and cloth archive, Mitsu's testimony on story nights and the festival, and the private continuation's believe → tell → record → wish → pray revision marks. Earlier volumes are reader-reception context carried by Kikuchi, not biography.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`attributed-retrieval-model` — Michael Andi attributed retrieval model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`bounded-character-dossier` — Michael Andi bounded posthumous character dossier](../../series/tomozaki/04%20Character%20Analysis/Michael%20Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md)
 
 <a id="mimimi"></a>
 
