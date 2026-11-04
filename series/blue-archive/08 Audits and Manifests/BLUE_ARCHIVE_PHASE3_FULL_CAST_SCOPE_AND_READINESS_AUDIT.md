@@ -7,7 +7,7 @@ drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
 updated: 2026-11-04
 generation: V1
-version: "1.29"
+version: "1.30"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,26 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+## Current Ayame transaction record163 and verified pretransaction baselines — 2026-11-04
+
+Root has accepted **Ayame**, existing required character parent `P3-CHAR-M004` / responsibility `P3-M004`, and the exact six current-eligible metadata V2 files **WITH LIMITS**. The accepted study preserves all25 literary paragraphs and distinguishes Nagusa testimony, Shuro taunt, form-local company and challenge, and returned sleep. Nagusa's request, apology, hand pledge, waiting and gardening retain their actors and recipients; ordinary company and care keep intrinsic value. The metadata referent qualification assigns the original public-form composer's course to its actual reader and transfers no course credit.
+
+**Verified PRETRANSACTION source publication baseline:162/355 at `0ee6b47683bef594060587a49a32f6d09172ac82`, comprising117 character,19 directed relationship,five ensemble and21 institution packages; named duties19/29.** Root reports486 checks/zero skips and housekeeping NOOP for that exact pretransaction source head. Verified pretransaction main `7e35832244b1ac1e0831b0bc1c08efbcf2c00d20` contains152 packages by the separately scoped content census; [PR455](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/455) was open/unmerged at that check. These are fixed pretransaction receipts, not permanent current counts or certification of a later source/main head. Actual subsequent publication, audit and integration results require their own receipts.
+
+**This transaction records163/355 (45.9155%):118 character,19 directed relationship,five ensemble and21 institution packages, effective only upon complete installation and commitment of the accepted Ayame six plus these seven shared-state files.** Before that persistence, the verified baseline is162 and private C copies add zero progress. Named duties remain19/29; the176-row legacy tracker is not the355-package denominator. At the recorded163 state, the next178 milestone remains unreached with15 packages remaining (16 at the pretransaction162 baseline). This transaction asserts no successful subsequent Ayame publication, audit or main integration.
+
+Required scope stays355 packages/29 named duties/25 parents/384 homes/788 original heterogeneous responsibilities. First89 integration remains historical, all14 original claim-specific gaps remain OPEN and operational models remain zero. The fixed150-package source/semantic consistency audit remains active. Separate stable duties `P3-REL-AYAME-NAGUSA`, `P3-SECTION-HYAKKA-JUNIOR-SENIOR-REPAIR` and `P3-INST-HYAKKA-CHOSEN-SERVICE-SUCCESSION` remain incomplete; historical REL188/named284/institution283 labels do not reassign current IDs. No new source, primary/native/raw/private/audiovisual course, identity, named, relationship or model credit follows.
+
+The previous ten-tranche pending labels and older progress/gate statements below are retained as dated producer-state history. In particular, unchanged non-Ayame CSV publication labels record their earlier preparation; this section and the current metadata control distinguish the verified pretransaction source0ee162/main7e152 baselines from the163 state recorded by complete persistence of this transaction. Other354 required rows, all175 preceding legacy rows,29 named rows and384-home partition remain unchanged by this transaction. Quiet, sparse and low-stakes evidence is not excluded.
+
+Current continuation: track actual source publication, remote readback, exact-head audit/housekeeping/final-head and protected main integration receipts as they are obtained, while continuing the full355 required work toward178. Distinct finite shared-state QA, Root actual transaction acceptance, fresh base/remote and exact-path guards, complete six+shared7 installation, author preflight, full diff review and approved-identity commitment are PRE-PERSISTENCE requirements; after complete persistence they are completed transaction prerequisites, not a standing claim that preparation remains undone. Ordinary non-forced publication and successful actual integration-SHA audit retain their separate gates. Prior486/zero-skip/NOOP results certify only source0ee. Existing owner-authorized interim/milestone routing continues; Claude tooling execution and reserved tooling merge remain separate.
+
+| Required parent | Accepted argument |
+|---|---|
+| `P3-CHAR-M004` | [Ayame](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md) |
+
+Earlier current-ten preparation sections remain literal dated pretransaction history. Their pending/source152 statements retain that earlier scope; this section distinguishes the transaction record from verified pretransaction baselines and later receipts. Their analytical/source limits remain operative.
 
 ## Current ten-character tranche and publication boundary — 2026-11-04
 

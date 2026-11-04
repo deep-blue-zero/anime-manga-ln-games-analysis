@@ -1,0 +1,1669 @@
+{
+  "schema": "AYAME_DISTINCT_REVIEWS_COMPLETE_CURRENT_AND_DATED_PUBLIC_V1",
+  "authority": {
+    "artifact_id": "AYAME_DISTINCT_REVIEWS_COMPLETE_CURRENT_AND_DATED_PUBLIC_V1",
+    "scope": "MAIN_AYAME_M004",
+    "generation": "PUBLIC_FORM_V1",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "private_body_review": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS",
+    "public_composition_review": "PRIOR_PUBLIC6_ROOT_ACCEPTED_WITH_LIMITS;METADATA_DERIVATIVE_QA_ROOT_PENDING"
+  },
+  "prepared": "2026-11-04",
+  "composer": "/root/recover_yuzu_saved_review",
+  "role": "Full readiness/body reviewer reasoning/source courses and nonidentical preliminary values, attributed",
+  "historical_record_contract": "Each complete original intellectual value retains its original actor/date/grade/stage. Original pending/next/first-person/merge language is dated history, not current instruction or another reader’s cognition. Current artifact authority is scoped to this accepted content; metadata-derivative QA/Root acceptance and installation/publication remain separate. Declared locator normalization changes only locator tokens; exact raw originals stay private.",
+  "records": [
+    {
+      "record_id": "AYAME-READINESS-15",
+      "original_filename": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V2.json",
+      "original_file_bytes": 28193,
+      "original_file_sha256": "88ad48e5db21735e3331c399e94feac99637a1260d561e2eae4596344599c26d",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "AYAME_M004_DISTINCT_READINESS_OWN12_ALL18_11_EIGHT_16_SUBSTANTIVE_QA_V2",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T04:59:13.494957+00:00",
+        "verdict": "ADEQUATE_WITH_LIMITS_FOR_SEPARATELY_COMMISSIONED_BOUNDED_BODY_READINESS_ONLY",
+        "material_findings": [],
+        "finding_status": "No supported material defect in the received readiness design. This is a positive bounded judgment, not a whole-original-source or body acceptance.",
+        "own12_answers": [
+          {
+            "id": "AYQ01",
+            "own_answer": "The same name appears in incompatible local presentations. The pleasant account’s denied snowfield, hostile speaker, announced shadow, eye story and castle participant each have a mode-specific warrant. Returning a body is a further fact, not a proof that every prior speaker is one original mind. I retain each local act without deciding a split or merger.",
+            "actual_basis": "C00148,73; C00228,32,36,42,50,70; V005433"
+          },
+          {
+            "id": "AYQ02",
+            "own_answer": "Nagusa supplies an actual firsthand account of the snowfield and later search; that deserves a testimony grade stronger than rumor. Shuro’s never-friend quotation is a hostile taunt contested by Nagusa. Neither testimony nor taunt is a recovered replay of original Ayame’s full intentions, and the later companion’s alternate story does not settle it.",
+            "actual_basis": "C00148,73; C00228,32"
+          },
+          {
+            "id": "AYQ03",
+            "own_answer": "Warm company, appetite and desired regard belong to the particular presentation that voices or enacts them. The eye story’s mask and fatigue supply story-framed ordinary burden. Nagusa’s waiting and gardening are directly retained as her care, not Ayame’s gardening hobby. Uncertain original preferences remain uncertain while these local goods retain value.",
+            "actual_basis": "C00232,42,50; V005407–435"
+          },
+          {
+            "id": "AYQ04",
+            "own_answer": "Nagusa wants a place beside Ayame rather than successfully replacing her. In the castle she requests the chair-burden challenge; Ayame accepts that local request. Nagusa later apologizes, offers hand/company and waits. The returned recipient remains asleep, so those real acts do not print an awakened answer, mutual restoration or original-history reconciliation.",
+            "actual_basis": "C00126,48,52; C00238,48,50; V005435"
+          },
+          {
+            "id": "AYQ05",
+            "own_answer": "Kikyou wants Nagusa herself yet has resentment; Renge’s desired reunion includes an apology; Yukari’s chosen membership and hurt remain her own. Their cooperation and witness acts do not erase earlier coercion or convert each into Ayame’s consent. A character body may explain these directions without discharging the separate directed-relation and named-repair packages.",
+            "actual_basis": "C00126,28,40,48,52; C00248,50,57"
+          },
+          {
+            "id": "AYQ06",
+            "own_answer": "Shuro’s harmful plan, failed intended outcome and escape are distinct from every later book-generated form. A pleasant mode is not thereby harmless in all circumstances, while the eye story’s pressures do not prove total controller ownership. The castle has an accepted challenge and an apparent participant result; its skipped moves and finish remain unprinted.",
+            "actual_basis": "C00130,52,54; C00236,42–50,72"
+          },
+          {
+            "id": "AYQ07",
+            "own_answer": "The account establishes a physically returned Ayame and restored arm while Ayame remains asleep. Kikyou relays a psychological-doctor explanation; I cannot turn that into a chart, prognosis, cure or evidence of current consciousness. Nagusa’s refusal to force awakening is a choice about care, not completed clinical recovery or recipient assent.",
+            "actual_basis": "C00222,50,56,72; V005431,435,503"
+          },
+          {
+            "id": "AYQ08",
+            "own_answer": "Held dissolution, one local succession bout, an apparent castle victory/title and book-material reconstruction are different endpoints. None prints a full emblem or formal office handoff, universal book control, restored text or complete school governance. The ritual explanation is explicitly withdrawn; its asserted law cannot carry a cure inference.",
+            "actual_basis": "C00152,54,70,71; C00244,48,50,67–72"
+          },
+          {
+            "id": "AYQ09",
+            "own_answer": "The maintained sequence places earlier snowfield testimony before the later mansion/shadow/story/castle events and returned sleep. Modes, inward tags and retrospective material prevent treating that order as an uninterrupted authenticated original biography. The old miko is not Ayame by default; private arm references and S2/other-person metadata do not supply a global calendar or new appearance authority.",
+            "actual_basis": "C00174,75; C00228–50,70,76–79; V005431,503"
+          },
+          {
+            "id": "AYQ10",
+            "own_answer": "Each extreme has some warrant: shared names and the returned body encourage continuity; enemy-created framing encourages skepticism; actual care invites a warm completion. Contradictory presentations, local acts, continuing sleep and institutional gaps defeat the stronger total claims. I can preserve ordinary company and limited agency while declining identity, reciprocity and universal restoration verdicts.",
+            "actual_basis": "C00232,36,38,42,48,50,56,70,72"
+          },
+          {
+            "id": "AYQ11",
+            "own_answer": "I have received the author’s complete18 answers,11 dimensions,eight rivals and16 limits, not just their counts. My330 maintained lines independently test their consequential distinctions. All are adequate at the bounded grades for which they are stated; the author’s694 course and earlier54/301 source accounting are not mine and are not converted into primary evidence.",
+            "actual_basis": "Own source330 record; complete author18/11/eight/16"
+          },
+          {
+            "id": "AYQ12",
+            "own_answer": "Home3/M004 has enough local role, conflict, company, choice and finite consequence for a separately commissioned modest character argument. Readiness does not require invented original tastes or a spectacular outcome. The current task grants no body authority, Root acceptance, separate-debt completion or publication/count/model credit.",
+            "actual_basis": "Whole chapter checkpoints plus selected working tail; required CSV5 and attributed metadata debt report"
+          }
+        ],
+        "all18_author_answer_concurrences": [
+          {
+            "author_question_id": "AYQ01",
+            "judgment": "CONCUR_WITH_MODE_LIMIT",
+            "own_particular_reason": "The answer distinguishes each authority instead of using common tags as an identity test. C00232,36,42,50 and70 give concrete counterpressure to either one-mind or all-meaningless shortcuts."
+          },
+          {
+            "author_question_id": "AYQ02",
+            "judgment": "CONCUR_WITH_ORIGINAL_PREFERENCE_LIMIT",
+            "own_particular_reason": "Pleasant friendship, hostile idealization attack, eye-story exhaustion and castle acceptance have different local speakers/modes. The answer retains those wants without authenticating original private wishes."
+          },
+          {
+            "author_question_id": "AYQ03",
+            "judgment": "CONCUR_WITH_RECIPIENT_LIMIT",
+            "own_particular_reason": "C00250 and especially V005435 positively support Nagusa waiting/gardening as actual care. This is not a defect, but Ayame’s preference/reciprocity remains absent; ordinary significance does not depend on a high-stakes payoff."
+          },
+          {
+            "author_question_id": "AYQ04",
+            "judgment": "CONCUR_WITH_TESTIMONY_LIMIT",
+            "own_particular_reason": "C00148 places Nagusa’s firsthand account beside Shuro’s disputed taunt. The answer preserves that asymmetry and refuses an original-history replay or complete intention diagnosis."
+          },
+          {
+            "author_question_id": "AYQ05",
+            "judgment": "CONCUR_WITH_DISTINCT_JUNIORS",
+            "own_particular_reason": "C00126,28,48 and C00257 give Kikyou, Renge and Yukari different wishes, wounds and acts. Their actual contributions cannot become a collective junior consent or close REL188/named284."
+          },
+          {
+            "author_question_id": "AYQ06",
+            "judgment": "CONCUR_WITH_ENDPOINT_LIMIT",
+            "own_particular_reason": "The held dissolution and resolved earlier bout are printed local outcomes; the castle has accepted challenge/apparent result. C00154,70 and C00250,72 leave formal office, emblem and funding instruments unprinted."
+          },
+          {
+            "author_question_id": "AYQ07",
+            "judgment": "CONCUR_WITH_MEDICAL_LIMIT",
+            "own_particular_reason": "C00222 and50 establish returned sleep and relayed psychological account. The answer does not add a chart, cure, prognosis or awakened response."
+          },
+          {
+            "author_question_id": "AYQ08",
+            "judgment": "CONCUR_WITH_DISTRIBUTED_ACTORS",
+            "own_particular_reason": "C00232,44,50 and58 bound Sensei’s firsthand knowledge and witness role. Help and new writing have multiple contributors, so a sole adult’s cure or omniscient solution would overstate the account."
+          },
+          {
+            "author_question_id": "AYQ09",
+            "judgment": "CONCUR_WITH_REAL_RIVALS",
+            "own_particular_reason": "The eight rivals are consequential competing explanations rather than decorative denials. C002’s mixture of shared names, enemy-created framing, local acts and unfinished sleep supports partial pressure on each."
+          },
+          {
+            "author_question_id": "AYQ10",
+            "judgment": "CONCUR_WITH_CHRONOLOGY_LIMIT",
+            "own_particular_reason": "C00174 and C00228–50 support local sequencing, not identification of the old miko as Ayame or a precise private/global calendar."
+          },
+          {
+            "author_question_id": "AYQ11",
+            "judgment": "CONCUR_READINESS_ONLY",
+            "own_particular_reason": "The11 dimensions have actual bounded material and explicit holes. Existing home3 remains eligible while original biography and separate packages stay incomplete; no105/F or source/model/count authority follows."
+          },
+          {
+            "author_question_id": "AYQ12",
+            "judgment": "CONCUR_NO_FURTHER_CAPTURE_NEEDED_FOR_THIS_DESIGN",
+            "own_particular_reason": "The two complete chapter accounts answer the actual mode/request/end-state questions. E021/E027 would matter only for a stronger exact utterance or original-motive claim that this design declines."
+          },
+          {
+            "author_question_id": "AYX01",
+            "judgment": "CONCUR_LOCAL_MEANING_WITHOUT_IDENTITY_VERDICT",
+            "own_particular_reason": "The warm form and castle participant supply company and acceptance, while shadow and eye-story framing prevent wholesale original-person attribution. Local meaningful acts survive that qualification."
+          },
+          {
+            "author_question_id": "AYX02",
+            "judgment": "CONCUR_SOURCE_SEQUENCE_NOT_MERGE",
+            "own_particular_reason": "The companion’s denial of snowfield and later shadow contradiction are actual competing accounts. Ordering them after testimony explains the problem without resolving all forms into one or several people."
+          },
+          {
+            "author_question_id": "AYX03",
+            "judgment": "CONCUR_REQUEST_ACCEPTANCE_RESULT_DISTINCT",
+            "own_particular_reason": "C00250 assigns the request to Nagusa and acceptance to Ayame. The late apparent victory is supported but the skipped finish and unprinted office/emblem instrument remain different evidentiary questions."
+          },
+          {
+            "author_question_id": "AYX04",
+            "judgment": "CONCUR_CARE_WITHOUT_RECIPROCITY",
+            "own_particular_reason": "At the castle Nagusa apologizes and pledges to hold the local Ayame participant’s hand. After physical return she waits beside Ayame, who remains asleep. Those are distinct stages and recipient modes. V005435 positively supports Nagusa’s later gardening care; neither stage proves original continuity, Ayame gardening preference, awake reciprocity or cure."
+          },
+          {
+            "author_question_id": "AYX05",
+            "judgment": "CONCUR_AGENCY_AND_COERCION_DISTINCT",
+            "own_particular_reason": "The juniors’ self-scrutiny occurs under pressure, so it is neither an objective complete biography nor interchangeable consent. Their distinct witness and repair acts still have meaning."
+          },
+          {
+            "author_question_id": "AYX06",
+            "judgment": "CONCUR_SEPARATE_FINITE_ENDS",
+            "own_particular_reason": "Held dissolution, actual earlier bout, physical return, restored arm and festival completion concern different objects. C00250’s official simplification does not authenticate every speaker or complete all offices and books."
+          }
+        ],
+        "all11_dimension_judgments": [
+          {
+            "dimension": 1,
+            "name": "Core thesis",
+            "judgment": "ADEQUATE_WITH_LIMITS",
+            "own_particular_reason": "Role burden and wanted company join the material, but story-framed inwardness cannot be labeled the original person’s complete motive. A thesis must preserve that asymmetry.",
+            "actual_basis": "C00126,48; C00238,42,50"
+          },
+          {
+            "dimension": 2,
+            "name": "Longitudinal/local arc",
+            "judgment": "ADEQUATE_LOCAL_ARC_ONLY",
+            "own_particular_reason": "The sequence from narrated loss through conflicting appearances to returned sleep has direction and consequences. It ends with presence and unfinished response, not a complete original biography.",
+            "actual_basis": "C00228–50,56"
+          },
+          {
+            "dimension": 3,
+            "name": "Public role and inward/private self",
+            "judgment": "ADEQUATE_AT_STORY_FRAME_GRADE",
+            "own_particular_reason": "Ideal chair praise and the eye story’s fatigue are meaningful public/inward tension. The story frame does not become an authenticated original private transcript.",
+            "actual_basis": "C00126; C00238,42,70"
+          },
+          {
+            "dimension": 4,
+            "name": "School/club/institution",
+            "judgment": "ADEQUATE_FOR_CHARACTER_CONTEXT",
+            "own_particular_reason": "Held dissolution and contests matter to a chair role. Formal office/emblem and funding remain unknown; character discussion cannot discharge institution283.",
+            "actual_basis": "C00152,54,70,71; C00250,72"
+          },
+          {
+            "dimension": 5,
+            "name": "Ordinary life and intrinsic value",
+            "judgment": "ADEQUATE_WITH_RECIPIENT_PRECISION",
+            "own_particular_reason": "Warm company, fatigue, desired regard and Nagusa’s waiting are real analytical goods. They need no major crisis payoff; none licenses an Ayame gardening hobby or awakened reciprocity.",
+            "actual_basis": "C00232,38,42,50; V005435"
+          },
+          {
+            "dimension": 6,
+            "name": "Crisis acts and bodily cost",
+            "judgment": "ADEQUATE_LOCAL_AGENCY_ONLY",
+            "own_particular_reason": "The account supports threatened harm, local challenge acceptance and physical return/arm change. It does not settle every controller, original motive or mental cure.",
+            "actual_basis": "C00130,48,52; C00236,48,50"
+          },
+          {
+            "dimension": 7,
+            "name": "Sensei relation",
+            "judgment": "ADEQUATE_WITH_EPISTEMIC_LIMIT",
+            "own_particular_reason": "Sensei’s inquiry and witness choice matter while he lacks firsthand old-Ayame knowledge. The argument should not invent a private dyad or single-adult cure.",
+            "actual_basis": "C00232,50,58"
+          },
+          {
+            "dimension": 8,
+            "name": "Major peers and directed relation",
+            "judgment": "ADEQUATE_BUT_DEBTS_SEPARATE",
+            "own_particular_reason": "Nagusa’s request and waiting, Ayame’s local acceptance, and three different juniors support directed analysis. Their distinction prevents surrogate assent and leaves REL188/named284 incomplete.",
+            "actual_basis": "C00126,28,48; C00248,50,57"
+          },
+          {
+            "dimension": 9,
+            "name": "Language/voice/representation",
+            "judgment": "ADEQUATE_WRITTEN_MODE_ONLY",
+            "own_particular_reason": "Tags, inward/log seams, narration and skipped result explain why testimony and mode-local speech carry different authority. None supplies heard performance or a global omniscient voice.",
+            "actual_basis": "C00175; C00242,70,76–79"
+          },
+          {
+            "dimension": 10,
+            "name": "Competing interpretations",
+            "judgment": "ADEQUATE_SERIOUS_COUNTERPRESSURE",
+            "own_particular_reason": "The packet supplies actual warrants for continuity, falsity, warm completion and passivity, then holds those against conflicting forms, local agency and unfinished sleep. These remain genuine rivals.",
+            "actual_basis": "C00232–50,56,70,72"
+          },
+          {
+            "dimension": 11,
+            "name": "Evidence routes and readiness",
+            "judgment": "ADEQUATE_READINESS_ONLY",
+            "own_particular_reason": "My source330 tests the claim-limits adequately; author694 and prior54/301 authority remain attributed. No source promotion, body acceptance or model credit is obtained from the route checks.",
+            "actual_basis": "Own course and all18/16; V005379,394,401–403,491"
+          }
+        ],
+        "all8_serious_rival_judgments": [
+          {
+            "id": "AYR01",
+            "judgment": "REJECT_TOTALIZATION_RETAIN_CONTINUITY_PRESSURE",
+            "own_particular_reason": "Shared names, related memories and physical return give the continuity reading a real basis. Denied snowfield, shadow contradiction and story framing prevent asserting that every presentation is the same original consciousness."
+          },
+          {
+            "id": "AYR02",
+            "judgment": "REJECT_TOTAL_MEANINGLESSNESS_RETAIN_FABRICATION_WARNING",
+            "own_particular_reason": "Enemy-created/fear-book framing seriously challenges authenticity. Nonetheless local company, voiced fatigue, an accepted request and embodied consequences remain meaningful at their actual grades; uncertainty does not erase them."
+          },
+          {
+            "id": "AYR03",
+            "judgment": "REJECT_EXHAUSTIVE_ROLE_VALUE",
+            "own_particular_reason": "Admiration and chair succession make role central. The eye story’s mask burden and Nagusa’s refusal simply to substitute for Ayame show why a person’s value cannot be exhausted by ideal performance; original motive remains qualified."
+          },
+          {
+            "id": "AYR04",
+            "judgment": "REJECT_DEFINITE_NEVER_CARED",
+            "own_particular_reason": "A cold friend-denial is painful testimony, and Shuro’s taunt is sharper contrary pressure on idealization. Neither is an original-person omniscient account proving an entire history of uncaring."
+          },
+          {
+            "id": "AYR05",
+            "judgment": "REJECT_COMPLETED_SALVATION_RECIPROCITY",
+            "own_particular_reason": "Nagusa’s love, accepted local challenge and actual care give a warm reading substance. She does not become Ayame, and the sleeping recipient supplies no awakened reciprocal answer or completed restoration."
+          },
+          {
+            "id": "AYR06",
+            "judgment": "REJECT_TOTAL_PASSIVITY_KEEP_CONTROLLER_UNKNOWN",
+            "own_particular_reason": "Fear-book and adversarial pressure make constrained agency plausible. Local speech and castle acceptance nevertheless have an actor; the packet neither proves total passivity nor full independence from every controller."
+          },
+          {
+            "id": "AYR07",
+            "judgment": "REJECT_CURE_AND_FULL_RESTORATION",
+            "own_particular_reason": "Return, arm restoration and festival/company offer positive endpoints. Continuing sleep, relayed clinical explanation, retracted ritual law and unprinted office/book custody block a cure or complete institutional-restoration conclusion."
+          },
+          {
+            "id": "AYR08",
+            "judgment": "REJECT_EXCLUSION_FOR_SPARSE_PRIVATE_GOODS",
+            "own_particular_reason": "Original preferences are sparse and uncertain, but the existing required home has role conflict, local wanted company, burden, choice and meaningful waiting. Eligibility does not require an invented F course, ordinary hobby or high-stakes payoff."
+          }
+        ],
+        "all16_claim_limit_judgments": [
+          {
+            "id": "AYCL01",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Names and representations are not automatic continuity proof or a new-person count; local mode distinctions are sufficient here.",
+            "actual_basis": "C00232,36,70; V005433"
+          },
+          {
+            "id": "AYCL02",
+            "judgment": "RETAIN",
+            "own_particular_reason": "The eye-story mask/exhaustion is inward story material, not an authenticated original-person transcript.",
+            "actual_basis": "C00242,70"
+          },
+          {
+            "id": "AYCL03",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Nagusa’s firsthand history warrants testimony; it does not print a replay, a death certificate or the full past.",
+            "actual_basis": "C00148,73; C00228"
+          },
+          {
+            "id": "AYCL04",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Shuro’s never-friend phrase is an adversarial taunt protested by Nagusa, not confirmed original speech.",
+            "actual_basis": "C00148,73"
+          },
+          {
+            "id": "AYCL05",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Warmth and appetite stay with their local form. Original taste is not supplied by a shared name.",
+            "actual_basis": "C00232,70"
+          },
+          {
+            "id": "AYCL06",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Castle acceptance answers a particular challenge at a particular locus; no future or awakened universal assent follows.",
+            "actual_basis": "C00250"
+          },
+          {
+            "id": "AYCL07",
+            "judgment": "RETAIN",
+            "own_particular_reason": "The apparent participant victory/title is supported, but does not supply the skipped finish or a formal office/emblem instrument.",
+            "actual_basis": "C00250,72; C00170"
+          },
+          {
+            "id": "AYCL08",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Physical return/restored arm coexist with sleep. The relayed doctor account is not a chart, prognosis or cure.",
+            "actual_basis": "C00222,50,56,72; V005431"
+          },
+          {
+            "id": "AYCL09",
+            "judgment": "RETAIN_WITH_POSITIVE_NAGUSA_ACT",
+            "own_particular_reason": "Waiting and gardening are positively Nagusa’s care at V005435. They neither state Ayame’s gardening preference nor establish reciprocal response.",
+            "actual_basis": "C00250; V005435"
+          },
+          {
+            "id": "AYCL10",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Different junior fears, coercion and witness acts remain directed and incomplete; no objective total biography or surrogate consent.",
+            "actual_basis": "C00126,28,48; C00248,57"
+          },
+          {
+            "id": "AYCL11",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Sensei’s choices and witness role have meaning while his original firsthand knowledge is limited; no adult-only cure.",
+            "actual_basis": "C00232,50,58"
+          },
+          {
+            "id": "AYCL12",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Held dissolution, bout and festival are local institutional facts, not complete institution283 or office restoration.",
+            "actual_basis": "C00152,54,70; C00250"
+          },
+          {
+            "id": "AYCL13",
+            "judgment": "RETAIN",
+            "own_particular_reason": "Books/material/text/control are distinct; song/joy has a local effect and the asserted ritual rule is withdrawn. No universal mechanics or harmlessness inference.",
+            "actual_basis": "C00242,44,48,67–72; V005415"
+          },
+          {
+            "id": "AYCL14",
+            "judgment": "RETAIN",
+            "own_particular_reason": "The old miko is not Ayame by default; private/event ordering and metadata do not settle a global calendar or a new source boundary.",
+            "actual_basis": "C00174; C00228,70; V005431,503"
+          },
+          {
+            "id": "AYCL15",
+            "judgment": "RETAIN_DATED_STAGE_QUALIFICATION",
+            "own_particular_reason": "Current Cycle008 adoption and old intake/queue language refer to different stages; the current override is printed rather than silently rewriting dated source accounting.",
+            "actual_basis": "V005379,394,401,437–491"
+          },
+          {
+            "id": "AYCL16",
+            "judgment": "RETAIN_COURSE_AND_GAP_SEPARATION",
+            "own_particular_reason": "Author694 is maintained reading, not underlying54/301/native/AV. My330 is separately stated. Sixteen local limits do not close or rename the14 open project gaps.",
+            "actual_basis": "Author course/limits; own course; V005394,401–403,491"
+          }
+        ],
+        "name_role_agency_sample": {
+          "intro": "Nagusa’s snowfield account and Shuro’s taunt have different speakers and authority; Ayame is not presumed identical to the old miko. C00148,73–74/C00228.",
+          "middle": "Pleasant speaker, hostile speaker, announced shadow and eye story are named by mode; original person and source narrator remain separate. C00232,36,42,70.",
+          "end": "Nagusa requests the challenge; castle Ayame accepts. Nagusa waits; returned Ayame sleeps. Requests, actors, recipients and result grades are not reversed. C00250/V005435.",
+          "major_relations": "Nagusa’s wished company is not Ayame’s awake assent; Kikyou wants Nagusa herself, Renge wants apology and Yukari chooses membership with hurt. Sensei’s witness/inquiry is limited by firsthand knowledge. C00126,28,48/C00232,50,57–58.",
+          "limit": "These are bounded readiness name/role/agency checks, not a new complete literary-body §15 acceptance or alias/person registration."
+        },
+        "source_grade": "Own330 maintained lines across3files: WHOLE187+SELECTED143. No author694, primary54, private301, raw/native/AV or whole507 claim. See own source report for exact pins and ranges.",
+        "ordinary_priority_rule": "Company, wanted regard, fatigue and care retain intrinsic analytical value even when no clinical awakening, major victory or institutional resolution follows. Uncertainty controls attribution, not worth or eligibility.",
+        "documentary_qualification": "Author whole694 and old preliminary56-versus-final54 negative no-primary-credit wording remain dated author history. Final boundaries state54 and never award primary54; that is a transparent accounting qualification, not an uncorrected claim of my source attendance.",
+        "remaining_limits": "Original continuity/history/intention, awakened reciprocity, clinical prognosis, formal office/emblem and book control stay unresolved. E021/E027 remain conditional stronger-claim seams; no current exact stronger claim needs them.",
+        "fixed_scope": "Home3/P3-CHAR-M004/P3-M004 only. Required REL188,namedrepair284,institution283 remain separate incomplete; fixed355/29,published152/19,14OPEN/models0. No new home/person/named/REL/source/count/model/adoption/publication.",
+        "authorization_limit": "Root actual receiving, readiness acceptance and any body commission are separate. I have written only own C QA artifacts and executed only my own stdlib checker.",
+        "readback_precision_qualification": {
+          "dated_preliminary_report": {
+            "relative_path": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V1.json",
+            "bytes": 26500,
+            "sha256": "a7b8650e03cdb34e2b52feccac81ee2cbfd47bdd46c9356cf035e8827a228edf"
+          },
+          "exact_pointer": "/all18_author_answer_concurrences/15/own_particular_reason",
+          "old_preliminary_reason": "Apology, hand, company and waiting have Nagusa as actor and sleeping Ayame as recipient. V005435 strengthens actual gardening attribution to Nagusa; it does not turn silence/sleep into acceptance or cure.",
+          "current_reason": "At the castle Nagusa apologizes and pledges to hold the local Ayame participant’s hand. After physical return she waits beside Ayame, who remains asleep. Those are distinct stages and recipient modes. V005435 positively supports Nagusa’s later gardening care; neither stage proves original continuity, Ayame gardening preference, awake reciprocity or cure.",
+          "why": "My first readback wording grouped the castle apology/hand pledge and later waiting under a sleeping recipient. Re-reading maintained C002physical50 confirms the castle and aftermath stages. This reviewer-owned V2 preserves that distinction; the author packet itself did not require repair. The V1 is retained unchanged as dated preliminary history, not the operative concurrence at this pointer.",
+          "unchanged_scope": "Same bounded readiness verdict, no author defect, no source/body/Root acceptance or count credit."
+        }
+      }
+    },
+    {
+      "record_id": "AYAME-READINESS-14",
+      "original_filename": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V1.json",
+      "original_file_bytes": 26500,
+      "original_file_sha256": "a7b8650e03cdb34e2b52feccac81ee2cbfd47bdd46c9356cf035e8827a228edf",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "$historical_derivation": {
+          "base": {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+            "pointer": "/records/0/content",
+            "value_sha256": "438dfd46c22c28b6c4384efe2246202d20cc54e7a88a04a16ba6bd499f862116"
+          },
+          "inverse_operations": [
+            {
+              "operation": "SET",
+              "pointer": "/UTC",
+              "value": "2026-11-04T04:57:18.435022+00:00"
+            },
+            {
+              "operation": "SET",
+              "pointer": "/all18_author_answer_concurrences/15/own_particular_reason",
+              "value": "Apology, hand, company and waiting have Nagusa as actor and sleeping Ayame as recipient. V005435 strengthens actual gardening attribution to Nagusa; it does not turn silence/sleep into acceptance or cure."
+            },
+            {
+              "operation": "DELETE",
+              "pointer": "/readback_precision_qualification"
+            },
+            {
+              "operation": "SET",
+              "pointer": "/schema",
+              "value": "AYAME_M004_DISTINCT_READINESS_OWN12_ALL18_11_EIGHT_16_SUBSTANTIVE_QA_V1"
+            }
+          ],
+          "resolved_value_sha256": "599b2a2c003500ee5ba22e49d4b613f382d8aa0bd28a6099beef8423bea576a1",
+          "qualification": "Complete preliminary value preserved through exact finite inverse; full nonidentical old text appears in operations and current full qualification remains directly readable. No candidate/source defect or backdated approval."
+        }
+      }
+    },
+    {
+      "record_id": "AYAME-READINESS-16",
+      "original_filename": "AYAME_QA_OWN12_PROSPECTIVE_QUESTIONS_AND_EXACT_EXPOSURE_BEFORE_NEW_SOURCE_V1.json",
+      "original_file_bytes": 5513,
+      "original_file_sha256": "8d2e7902440a03231413fc35875ddcb56aaff8dd6a58bcf08d23b913a48a664a",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "AYAME_M004_DISTINCT_READINESS_OWN12_PROSPECTIVE_AND_EXPOSURE_BEFORE_SOURCE_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "exposure": [
+          "Root supplies form/continuity, Nagusa testimony/Shuro taunt, waiting/reciprocity and unawakened-body endpoints as questions. These are disclosed leads, not independent findings.",
+          "I received the Suou/Ayame metadata-only route/debt report10202/SHA62cea62219b5287352c8a8c4772a9c4117bc6442ad556d73d3b8ad4c94914950 and terminal4496/SHA88434a794ac9cdf2e38ecb5f2c00bf4eecada045e4c9f6d2bf94d0e69bc0accd. Their Ayame modes/relationships are navigation questions, not my source course or identity evidence.",
+          "My prior maintained courses concerned Arona, Plana, Prenapates and Suou. V100 working/checkpoint context included Nagusa reporting destroyed Twilight Temple and Ayame inaccessible. That is attributed collateral exposure, not a V005 course or a fully authenticated Ayame history.",
+          "No V005working507/C00195/C00292 source body or current Ayame author answers have been received before this prospective file. No author694/54primary/301private, native/raw/AV cognition is borrowed. No body is commissioned."
+        ],
+        "own12_questions": [
+          {
+            "id": "AYQ01",
+            "question": "Which local Ayame presentation speaks or acts in each passage, and what exact evidence warrants or limits continuity with the original person?",
+            "test": "Separate pleasant, hostile, shadow, story-framed, castle-challenge and returned-body presentations without treating shared name as full identity proof or erasing local meaning."
+          },
+          {
+            "id": "AYQ02",
+            "question": "What does Nagusa testify about original Ayame history and wishes, and how does Shuro taunt or adversarial framing differ?",
+            "test": "Keep recollection, guilt, allegation and direct action distinct; no complete original biography from a trusted or hostile speaker alone."
+          },
+          {
+            "id": "AYQ03",
+            "question": "Which wants or ordinary goods are actually voiced or enacted by a specific presentation, and can any be assigned to original Ayame?",
+            "test": "Do not import a form appetite, Nagusa wish or a gardening motif into a secure original private preference."
+          },
+          {
+            "id": "AYQ04",
+            "question": "What does Nagusa request, remember, wait for and receive, and what does Ayame herself answer?",
+            "test": "Waiting and wanted company can matter intrinsically while reciprocity, awake assent or original continuity remains unproved."
+          },
+          {
+            "id": "AYQ05",
+            "question": "How do Yukari, Kikyou and Renge differ as juniors, recipients and actors in injury, admiration, resentment, request and repair?",
+            "test": "No collective junior voice or surrogate consent; retain directed acts and separate REL188/named-section284 duties."
+          },
+          {
+            "id": "AYQ06",
+            "question": "What actual conflict, violence or challenge belongs to each presentation, and what remains a story-frame or interpreted result?",
+            "test": "Do not turn a local contest or harmful act into universal original motive or total harmlessness."
+          },
+          {
+            "id": "AYQ07",
+            "question": "What does the returned unawakened body establish about presence, sleep, clinical condition and response?",
+            "test": "Distinguish reported/depicted return from awakening, medical cure, confirmed original consciousness or restored mutual relation."
+          },
+          {
+            "id": "AYQ08",
+            "question": "What institutional role, office, book or emblem endpoint is actually performed, reported, requested or still absent?",
+            "test": "Do not convert title, memory or object into complete appointment, succession, identity authentication or book-custody proof; institution283 remains independent."
+          },
+          {
+            "id": "AYQ09",
+            "question": "What local chronology connects appearances and how does narration or story framing interrupt a seamless personal trajectory?",
+            "test": "No global calendar, source-processing sequence, form collapse or S2/other-person expansion from metadata."
+          },
+          {
+            "id": "AYQ10",
+            "question": "Which serious rival readings challenge complete return, automatic reciprocity, one true evil/good form or total meaninglessness?",
+            "test": "Retain strongest partial warrants and contrary evidence without forced identity resolution or sacrificing ordinary value."
+          },
+          {
+            "id": "AYQ11",
+            "question": "Are the eighteen author answers, eleven dimensions, eight rivals and sixteen limits adequately grounded at their actual source grades?",
+            "test": "Receive their complete meanings and test consequential points in positively pinned maintained context; no count or custody proxy."
+          },
+          {
+            "id": "AYQ12",
+            "question": "Is existing home3/M004 ready for a separately commissioned bounded study while identity, history and relationship debts remain open?",
+            "test": "No privateF/common105/newhome/name/identity/REL/count/model/publication credit; no compulsory54/694/301 ritual or E021/E027 unless a stronger exact claim needs it."
+          }
+        ],
+        "fixed_scope": "Existinghome3/P3-CHAR-M004/P3-M004,V005. REL188/namedrepair284/institution283 remain separate required incomplete. Fixed355/29,published152/named19,14gapsOPEN/models0.",
+        "boundary": "Only own new C directory writes; no body/candidate/source edit, R/Git/provider/shared/excluded writes/access, external chats, foreign-helper execution/import or primary/native/raw/AV."
+      }
+    },
+    {
+      "record_id": "AYAME-READINESS-17",
+      "original_filename": "AYAME_QA_OWN_ACTUAL_WHOLE187_SELECTED143_MAINTAINED330_SOURCE_MEANINGS_AND_LIMITS_V1.json",
+      "original_file_bytes": 8476,
+      "original_file_sha256": "7d80aa50cbc6fa45d68890c0d95122c0198156ecc5d62f90c8bfe465ebcac92c",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "AYAME_M004_DISTINCT_QA_OWN_ACTUAL_MAINTAINED330_SOURCE_COURSE_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T04:57:18.435022+00:00",
+        "prospective": "AYAME_QA_OWN12_PROSPECTIVE_QUESTIONS_AND_EXACT_EXPOSURE_BEFORE_NEW_SOURCE_V1.json",
+        "source_rows": [
+          {
+            "owner": "V005 C001 maintained chapter checkpoint",
+            "relative_author_path": "immutable_declared_inputs/AYAME_V005_C001_WHOLE95_MAINTAINED_CHECKPOINT_RAW_COPY.md",
+            "bytes": 18949,
+            "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+            "physical_lines": 95,
+            "actual_intervals": [
+              [
+                1,
+                95
+              ]
+            ],
+            "grade": "WHOLE_MAINTAINED_ACCOUNT_95_NOT_UNDERLYING_EPISODE_OR_PRIMARY",
+            "own_meaning": "Nagusa’s wish to stand alongside Ayame develops through an acknowledged failure to replace the ideal chair, actual help requests and distinct junior responses. Nagusa’s snowfield history is testimony; Shuro’s never-friend phrase is an adversarial taunt that Nagusa protests. Their authority cannot be made equivalent. The resolved Yukari–Nagusa bout and the held dissolution are local outcomes; neither prints an office/emblem instrument or closes all grievances.",
+            "particular_loci": {
+              "22,26,28,30": "Local held dissolution, Nagusa role burden, Yukari choice and hurt; Shuro’s failed intended outcome and escape.",
+              "36,40,44,48": "Role/object setup, separate juniors and contests; firsthand snowfield testimony versus taunt, not a replay or a death diagnosis.",
+              "52,54": "Directed requests, landed attack, lost succession bout, repairs and held dissolution, with arm impairment and future adversary plan still present.",
+              "60–82": "Domain, object, contest, source mode and unknown-history controls. Old next-queue wording is historical stage information."
+            }
+          },
+          {
+            "owner": "V005 C002 maintained chapter checkpoint",
+            "relative_author_path": "immutable_declared_inputs/AYAME_V005_C002_WHOLE92_MAINTAINED_CHECKPOINT_RAW_COPY.md",
+            "bytes": 18737,
+            "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+            "physical_lines": 92,
+            "actual_intervals": [
+              [
+                1,
+                92
+              ]
+            ],
+            "grade": "WHOLE_MAINTAINED_ACCOUNT_92_NOT_UNDERLYING_EPISODE_OR_PRIMARY",
+            "own_meaning": "The account distinguishes a pleasant companion, hostile speaker, announced shadow, first-person eye story and castle participant. Contradictory memories and source-framing prevent a single authenticated original-person history, while their local company, burden and acts remain interpretable. Nagusa requests the castle challenge and Ayame accepts it; a late participant result is stronger than mere silence but weaker than a printed finish or formal office transfer. Physical return and restored arm coexist with Ayame’s sleep. The doctor’s explanation is relayed, and Nagusa’s chosen waiting does not supply awake assent or reciprocal repair.",
+            "particular_loci": {
+              "22,28": "Returned body and arm, unfinished history and separate firsthand account rather than replay; no total mental recovery.",
+              "32,36,38": "Pleasant and hostile speakers, announced shadow and conflicting accounts; Sensei lacks original firsthand knowledge, Nagusa cannot define the real Ayame but wants company.",
+              "42,44": "Eye-story burden remains story-framed. Chise’s heard song has a local reported effect; rebuilt book material is blank and Shuro’s new writing does not prove universal authorial control.",
+              "48,50": "Distinct junior self-scrutiny, three-book claim, castle request/acceptance and apparent outcome; apology/hand/company, physical return and continuing sleep.",
+              "56–86": "Unknown original continuity, separate juniors and witness, books and mode distinctions, explicit ritual-claim withdrawal, and still-open office/awakening questions."
+            }
+          },
+          {
+            "owner": "V005 maintained working account",
+            "relative_author_path": "immutable_declared_inputs/AYAME_V005_WHOLE507_MAINTAINED_WORKING_ACCOUNT_RAW_COPY.md",
+            "bytes": 39118,
+            "sha256": "c04118271472b1a02144789b2659976a513ee619d3d5049d26062f8ee4d6303b",
+            "physical_lines": 507,
+            "actual_intervals": [
+              [
+                365,
+                507
+              ]
+            ],
+            "grade": "SELECTED_MAINTAINED_ACCOUNT_143_NOT_WHOLE507_OR_PRIVATE301",
+            "own_meaning": "The selected working-account tail clarifies current adoption versus old queue wording and retains the ordinary goods of several separate actors. Its Ayame controls distinguish modes and returned sleep from history, mental restoration and clinical cure. Line435 positively assigns actual waiting and gardening beside sleeping Ayame to Nagusa. That strengthens the description of Nagusa’s care beyond a generic group-gardening inference, while leaving Ayame’s own gardening preference and reciprocal response unproved. Later arm/private-story references do not awaken Ayame or complete office succession. Other family arguments in this selected tail remain maintained summaries rather than a fresh private-source course.",
+            "particular_loci": {
+              "365–403": "Partial source-header tail, dated54 MAIN/301-family accounting, Cycle008 current-adoption override and exact positive C001/C002 routes. No new private301 or original54 attendance.",
+              "407–427": "Different juniors’ wishes and ordinary tastes; observed song/joy endpoint with ritual law retracted. Their preferences are not Ayame’s.",
+              "431–435": "Arm impairment/return and Ayame’s returned sleep; mode map; Nagusa’s actual waiting and gardening are care, not reciprocal cure or Ayame taste.",
+              "437–491": "Open gaps and historical queues; selected other-family maintained meanings do not transfer individual primary/private authority.",
+              "497–507": "Finite later effects, inward Ayame address without awakening, and no whole-arc/model completion."
+            }
+          }
+        ],
+        "actual_totals": {
+          "whole_account_lines": 187,
+          "selected_account_lines": 143,
+          "total_physical_lines_received": 330,
+          "distinct_maintained_files": 3
+        },
+        "receiving_method": "Personally received complete C0011–95 and C0021–92 and selected V005365–507 in this task; meanings above are my judgments. Raw copies are maintained written syntheses, not primary text, original dialogue, audiovisual performance or fresh unit admissions.",
+        "no_borrowed_course": "Author whole694, underlying54 MAIN and301 private families remain author/earlier producer grades. My prior other-character courses and collateral V100 Ayame mention are disclosed in the prospective file and do not become a V005 whole course.",
+        "means_and_ends": "Nagusa’s wish for company supplies a positive care aim, while requests, challenge acceptance, waiting and actual return are distinct means or endpoints. Being unable to authenticate original identity does not erase the meaning of a mode-local act; observing care does not establish its recipient’s mental recovery or assent.",
+        "conditional_seams": "E021/E027 were neither requested nor opened. This design does not require exact original utterance, original motive or a full duel-attribution claim beyond the existing maintained account. A stronger load-bearing claim would need its own question and positive maintained capture.",
+        "selection_reason": "Whole two chapter checkpoints answer the form/history/request/end-state questions; the working tail tests current-stage qualifications, ordinary care and later arm/sleep limits. Repeating the other364 working lines or underlying54/301 would not answer an unresolved claim in this modest design.",
+        "non_source_metadata": "Whole prior concise metadata report10202 and terminal4496 are navigation only. In this task I additionally received exact required CSV physical5 (P3-CHAR-M004/P3-M004, no named-section ID, pending literary acceptance, empty canonical path, unaccepted/unpublished/unintegrated, completed=false) and scope355/29. The first attempted large metadata display was truncated and is not a whole metadata-course claim.",
+        "scope": "Existing home3/M004 only. REL188, namedrepair284 and institution283 remain separate incomplete duties. Fixed355/29, published152/19, all14OPEN/models0. No body, source/name/identity/REL/count/model/adoption/publication credit."
+      }
+    },
+    {
+      "record_id": "AYAME-READINESS-19",
+      "original_filename": "AYAME_QA_OWN_SEVEN_CLOSEOUT_REASONS_ACTUAL_SAVED_READBACK_AND_READINESS_ONLY_FREEZE_V1.json",
+      "original_file_bytes": 6658,
+      "original_file_sha256": "235bb550a6f79f5e7334e9e5c456f32bffdb1c3822aa8adf787ac21e13103629",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "AYAME_M004_DISTINCT_QA_OWN_SEVEN_SUBSTANTIVE_CLOSEOUT_AND_READBACK_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "status": "COMPLETE_READINESS_ONLY_WITH_LIMITS_PENDING_ROOT_RECEIVING",
+        "verdict": "ADEQUATE_WITH_LIMITS_FOR_SEPARATELY_COMMISSIONED_BOUNDED_BODY_READINESS_ONLY",
+        "material_author_findings": [],
+        "own_seven_reasons": [
+          {
+            "id": "C01",
+            "reason": "The original-history problem is not resolved by a name. Nagusa's firsthand snowfield testimony, Shuro's disputed taunt, pleasant and hostile presentations, an announced shadow, an eye story, a castle speaker and a returned sleeping body supply different warrants. Their local meanings can be analyzed without authenticating every presentation as original Ayame or creating new people."
+          },
+          {
+            "id": "C02",
+            "reason": "Local wants, burdens and company have positive analytical value. The warm presentation and eye-story exhaustion need no spectacular payoff to matter. Nagusa's actual waiting and gardening are explicitly supported in V005physical435, while Ayame's gardening taste, awakened response and reciprocal healing remain unprinted. Sparseness of original private goods is not an exclusion rule."
+          },
+          {
+            "id": "C03",
+            "reason": "Directed agency remains precise. Nagusa requests the castle challenge and Ayame accepts; Nagusa later apologizes and pledges a hand to that local castle participant. After physical return she waits beside sleeping Ayame. Kikyou, Renge and Yukari have different wishes, injuries and witness or repair acts. Sensei's inquiry and witness matter within his limited firsthand knowledge. These do not become a collective junior voice or Ayame's awake assent."
+          },
+          {
+            "id": "C04",
+            "reason": "The printed finite outcomes carry weight without being totalized: held dissolution, an earlier succession bout, apparent castle victory, arm restoration, physical body return and festival completion concern different objects. Continuing sleep, relayed medical explanation, skipped finish, unprinted office/emblem and unresolved book custody block cure or complete institutional restoration. The explicitly retracted ritual law cannot carry a universal cure inference."
+          },
+          {
+            "id": "C05",
+            "reason": "I actually received all18 author answers, all11 dimensions, eight serious rivals and16 local limits, and saved my own12 answers and particular judgments for each. My questions required WHOLE C0011–95 and C0021–92 plus SELECTED working365–507:330 maintained lines, not the author's694, whole507, underlying54 MAIN, private301, original dialogue or performance. The conditional E021/E027 seams were not needed for the modest claims retained."
+          },
+          {
+            "id": "C06",
+            "reason": "Saved semantic readback exposed a precision issue in my preliminary AYX04 reason, which grouped castle apology/hand pledge and later waiting under a sleeping recipient. I re-received the existing maintained C002physical50 and saved a V2 that separates the stages. The V1 remains unchanged dated history. My own final checker proves that only the concurrence value and its explicit qualification/schema/time differ. This is an own-review wording correction, not a defect in the frozen author packet or a candidate repair."
+          },
+          {
+            "id": "C07",
+            "reason": "The author packet is adequate with limits for Root to consider a separate bounded home3/M004 body commission. Root has not adopted this QA merely because it is handed off. REL188, namedrepair284 and institution283 remain required and incomplete;355 packages/29 named sections, published152/19, all14 open gaps and zero models are preserved. No source, identity, named, relationship, count, model, installation, publication or merge credit follows."
+          }
+        ],
+        "actual_saved_readback": {
+          "complete_source_report": {
+            "relative_path": "AYAME_QA_OWN_ACTUAL_WHOLE187_SELECTED143_MAINTAINED330_SOURCE_MEANINGS_AND_LIMITS_V1.json",
+            "bytes": 8476,
+            "sha256": "7d80aa50cbc6fa45d68890c0d95122c0198156ecc5d62f90c8bfe465ebcac92c"
+          },
+          "complete_preliminary_semantics_received_in_two_untruncated_displays": {
+            "relative_path": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V1.json",
+            "bytes": 26500,
+            "sha256": "a7b8650e03cdb34e2b52feccac81ee2cbfd47bdd46c9356cf035e8827a228edf"
+          },
+          "operative_V2_current_delta_and_whole_qualification_personally_received": {
+            "relative_path": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V2.json",
+            "bytes": 28193,
+            "sha256": "88ad48e5db21735e3331c399e94feac99637a1260d561e2eae4596344599c26d",
+            "unchanged_values": "All other reason meanings retain the previously received exact values, proved by my own finite structural diff; no fresh whole-source course is claimed from this comparison."
+          },
+          "mechanical_summary_and_all50_predicate_results_personally_received": {
+            "relative_path": "AYAME_QA_OWN_FINAL_V2_POST_READBACK_AUTHOR14_NOOP_AND_EXACT_FINITE_PRECISION_CHECKS_V1.json",
+            "bytes": 9895,
+            "sha256": "41a586a969308f9cb3ee64c7aef7d1c93587ccf826f026fe6e555c161c8934ff",
+            "checks": 50,
+            "failures": 0,
+            "dated_initial_checks": "Initial101 predicates also passed before my own readback precision; neither set is source cognition or literary acceptance."
+          }
+        },
+        "custody_separate_from_meaning": "All12 manifest members plus author terminal and manifest match their exact frozen pins after review. Sizes were checked before opening manifest members and only positive supplied paths used. No foreign helper was imported or executed.",
+        "disclosed_tool_diagnostics": "An early manifest inspection expected members rather than files and stopped with KeyError before author semantic receiving; it was corrected with the actual schema. An oversized metadata display was truncated and is not claimed as whole metadata receiving; later compact exact required row5 and scope355/29 were actually received. Neither diagnostic caused source/candidate mutation or changes to any author artifact.",
+        "write_access_limit": "Only own new C directory artifacts were written. No body/candidate/source edit, R/Git/provider/shared/global write, excluded protected/private/opaque access, primary/native/raw/AV acquisition or external chat message occurred.",
+        "freeze": "This closure and the current V2 semantic report are final. The external manifest binds all prior saved own artifacts, including the unchanged preliminary V1 and both reviewer-owned scripts. Further Root acceptance or body commissioning remains separate."
+      }
+    },
+    {
+      "record_id": "AYAME-READINESS-24",
+      "original_filename": "START_HERE_AYAME_M004_DISTINCT_MAINTAINED330_READINESS_QA_FINAL_FROZEN_HANDOFF_V1.json",
+      "original_file_bytes": 3848,
+      "original_file_sha256": "28746fe24c2841b425ea2ed23d0692743d30df0888ad1653503c0d5df5dda8b2",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "AYAME_M004_DISTINCT_READINESS_QA_FINAL_FROZEN_HANDOFF_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T05:01:07.646254+00:00",
+        "status": "COMPLETE_FROZEN_READINESS_ONLY_WITH_LIMITS_PENDING_ROOT_RECEIVING",
+        "verdict": "ADEQUATE_WITH_LIMITS_FOR_SEPARATELY_COMMISSIONED_BOUNDED_BODY_READINESS_ONLY",
+        "material_author_findings": [],
+        "external_manifest": {
+          "relative_path": "AYAME_M004_DISTINCT_READINESS_QA_COMPLETE_FROZEN_EXTERNAL_MANIFEST_V1.json",
+          "bytes": 2736,
+          "sha256": "0080cd4c1f7be6fef5e470edc6af9cc8f95aafa20372611927463f26f554cc53"
+        },
+        "operative_semantic_review": {
+          "relative_path": "AYAME_QA_OWN12_ALL18_11_EIGHT_16_PARTICULAR_REASONS_AND_BOUNDED_VERDICT_V2.json",
+          "bytes": 28193,
+          "sha256": "88ad48e5db21735e3331c399e94feac99637a1260d561e2eae4596344599c26d"
+        },
+        "own_actual_source_course": {
+          "relative_path": "AYAME_QA_OWN_ACTUAL_WHOLE187_SELECTED143_MAINTAINED330_SOURCE_MEANINGS_AND_LIMITS_V1.json",
+          "bytes": 8476,
+          "sha256": "7d80aa50cbc6fa45d68890c0d95122c0198156ecc5d62f90c8bfe465ebcac92c"
+        },
+        "own_closeout_and_actual_saved_readback": {
+          "relative_path": "AYAME_QA_OWN_SEVEN_CLOSEOUT_REASONS_ACTUAL_SAVED_READBACK_AND_READINESS_ONLY_FREEZE_V1.json",
+          "bytes": 6658,
+          "sha256": "235bb550a6f79f5e7334e9e5c456f32bffdb1c3822aa8adf787ac21e13103629"
+        },
+        "final_mechanical_predicates": {
+          "relative_path": "AYAME_QA_OWN_FINAL_V2_POST_READBACK_AUTHOR14_NOOP_AND_EXACT_FINITE_PRECISION_CHECKS_V1.json",
+          "bytes": 9895,
+          "sha256": "41a586a969308f9cb3ee64c7aef7d1c93587ccf826f026fe6e555c161c8934ff"
+        },
+        "author_input": {
+          "relative_directory": "AYAME_M004_V005_MAINTAINED_SOURCE_COURSE_AND_BODY_FIRST_READINESS_C_ONLY_20261103_V1",
+          "terminal": "START_HERE_AYAME_M004_WHOLE694_MAINTAINED_SOURCE_COURSE_BOUNDED_BODY_READINESS_FROZEN_HANDOFF_V1.json",
+          "bytes": 4495,
+          "sha256": "806f221c0a33777833c67281feb2872477bc245577760ea1b7b28c401a5bd01c",
+          "author14_after_state": "All12 manifest members+manifest+terminal exact frozen byte NOOP."
+        },
+        "actual_own_receiving": "Complete18 author answers,11dimensions,eight serious rivals,16local limits; own12answers/all18concurrences/11/eight/16 particular judgments. Own maintained330: C001whole1–95+C002whole1–92+V005selected365–507143. Author694/primary54/private301/native/raw/AV not borrowed. No E021/E027 opened/requested.",
+        "ordinary_and_mode_limits": "Positive local company, wanted regard, burden, choice and waiting retained without stakes-based exclusion. Nagusa waiting/gardening is supported by V005435, not Ayame preference/reciprocity. Testimony/taunt/form/castle/returned-sleep modes remain distinct.",
+        "own_readback_precision": "Current V2 separates castle apology/hand pledge to local participant from later waiting beside returned sleeping Ayame. Prior own V1 and checker remain unchanged dated; this is not an author defect or candidate correction.",
+        "mechanics": "Initial101 predicates0failures; final current-V2 50predicates0failures. Exact source geometry, author14NOOP, prospective retention and finite V2diff checked with own stdlib only. No source cognition inferred from predicates.",
+        "remaining": "Original continuity/history/intention, awakened reciprocity, clinical prognosis, office/emblem and books unresolved. Existing home3/M004; separate required REL188/named284/institution283 incomplete. Fixed355/29,published152/19,all14OPEN/models0.",
+        "authorization_boundary": "No body/candidate/source repair, Root adoption, new source/person/home/name/REL/count/model/publication/merge permission. Only own C outputs; no R/Git/provider/shared/global/excluded access or writes, no external chats or foreign-helper execution.",
+        "next": "Root must personally receive and judge the QA; any body commission is separate. Packet frozen."
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_current_full_reasons",
+      "original_filename": "OWN_AYAME_COMPLETE25_BODY_JUDGMENTS_12_ANSWERS_11_DIMENSIONS_EIGHT_RIVALS_AND_REFERENCE_MODES_V2.json",
+      "original_file_bytes": 27959,
+      "original_file_sha256": "e1d8e90663213d5728e3f1eed42ebb210cc6cb1e9a4e58e228a2579d78820bb0",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "INDEPENDENT_AYAME_CURRENT87_LITERAL25_COMPLETE_BODY_SOURCE_AND_ARGUMENT_QA_OWN_REASONS_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "date": "2026-11-04",
+        "status": "SUBSTANTIVE_AND_DOCUMENTARY_REVIEW_COMPLETE_WITH_LIMITS_PENDING_OWN_TERMINAL_FREEZE",
+        "verdict": "ADEQUATE_WITH_LIMITS_FOR_EXISTING_HOME_CONNECTED_BODY_FIRST_STAGE_NO_MATERIAL_CORRECTION_IDENTIFIED",
+        "independence": "Different from author /root/current_preflight_requirements and readiness reviewer /root/sumire_v2_finite_qa. I did not author this Ayame body or inherit their readings. Candidate remained frozen. Full Root personal receiving/adoption is separate.",
+        "connected_judgment": "The body makes a sustained argument about unequal recognition: a familiar person can be wanted through an admired role while her intentions remain incompletely known. Its progression from witnessed loss, through conflicting presentations and a scene-local answer, to a returned body without an awakened response gives the thesis concrete development. The strongest feature is the refusal to make uncertainty cancel local goods: companionship, an answer to a challenge and actual care retain value. Equally, those goods do not authorize original-motive, identity, clinical or reciprocal completion. This is a character interpretation rather than an identity taxonomy or a list of unresolved mechanisms.",
+        "own_actual_source_course": {
+          "grade": "WHOLE_MAINTAINED_C00195_AND_C00292_PLUS_SELECTED_WORKING365_507_143_PHYSICAL_LINES; no primary/private/native/AV course",
+          "A01": {
+            "intervals": [
+              [
+                1,
+                95
+              ]
+            ],
+            "outputs": [
+              "08d8e3",
+              "0ae42a"
+            ],
+            "meaning": "Firsthand Nagusa testimony is distinguished from Shuro hostile quotation; care and help refute total worthlessness without absolving concealment. Earlier miko, emblem custody, separate contests and held dissolution remain bounded."
+          },
+          "A02": {
+            "intervals": [
+              [
+                1,
+                92
+              ]
+            ],
+            "outputs": [
+              "74231b",
+              "c24770"
+            ],
+            "meaning": "Pleasant and hostile forms, announced shadow, framed inward story, accepted castle request, participant-supported apparent result and returned sleep are distinct. Apology/hand pledge occurs at castle; waiting, relayed doctor and gardening occur afterward. Chise joy and new writing work locally; ritual law is retracted."
+          },
+          "A03": {
+            "intervals": [
+              [
+                365,
+                507
+              ]
+            ],
+            "outputs": [
+              "35372e",
+              "523f08"
+            ],
+            "meaning": "Current contextual adoption qualifies older queue labels. Working435 positively attributes actual waiting and gardening to Nagusa;431/433 preserve arm/sleep/identity limits. Wider private/event comparisons keep actor/consent/chronology limits and intrinsic ordinary value. Reading this maintained synthesis does not give direct private301 or event31 receiving."
+          },
+          "extent": "187 whole-checkpoint lines plus143 selected working-account lines, acquired after my own saved prospective questions. Same number as another reviewer330 by coincidence of an adequate bounded plan, not inherited cognition or whole507. Full metadata before365 was not personally read.",
+          "overlap": "Three analytical accounts overlap; they do not represent three independent events or primary courses.",
+          "source_adequacy": "All actual body citations fall within these personally received intervals. The supplied paraphrases support this bounded thesis. Exact original E021 utterance/motive or E027 finishing-action attribution would need a Root capture, but no such stronger assertion is necessary here."
+        },
+        "actual_receiving": {
+          "prospective": "403854eb745dea6cf4a833d677cbd5ddc95ed62833e8bcc112b68c214a96fe7c saved before body/source inspection; exact source plan ad78fa68869d8d670e1deff19248cbc91beeb164ab510cd391113d4af91e781d before source reading.",
+          "body": "Whole87-line/25-paragraph body plus metadata and preface edbb83; no clipped paragraphs credited.",
+          "SOURCE": "Whole29877 source authority722fe1 including three grades/routes and dated25 input tuples.",
+          "original_author_and_map": "All25 paragraph arguments/questions/modes/contraries/limits 43a9be+863a20; map and author rows proved exactly equal before reusing those same values. Whole map nonrow/11 routes and complete two-operation history eb08cc. All11 substantive author dimensions and nonrow chronology863a20.",
+          "author_closeout": "Whole16843 six answers/eight rivals/seven reference judgments and diagnostics8ba235.",
+          "prior_readiness": "Only positively declared terminal metadata and SOURCE role/binding descriptions received in this QA. I do not claim full prior18/11/eight/16 readiness intellectual receiving; it remains losslessly retrievable and attributed. The complete current body-author25/11/closeout is received here.",
+          "not_delegated": "No literary or source reading delegated and no foreign helper executed or imported."
+        },
+        "all25_particular_judgments": [
+          {
+            "paragraph_id": "AYAME-P001",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The opening gives an interpretable thesis rather than treating identity as a prerequisite to characterization. A01:26/48 and A02:32/38/42/50/70 actually supply unequal access: admiration, witness, disputed presentation and local response. Recognition remains a question about how these presentations matter, not a proof of one consciousness."
+          },
+          {
+            "paragraph_id": "AYAME-P002",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "Nagusa is the owner of performed seniority and the desire to stand beside Ayame. The body properly infers a tension between wanted person and admired standard from A01:26/44 and A02:38. It does not manufacture Ayame original ambition or make office replacement equivalent to company."
+          },
+          {
+            "paragraph_id": "AYAME-P003",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A01:48/60/73 plus A02:28 warrant a substantial reported past: transformation, separation, search and painful denial. The paragraph both credits the witness and preserves mediation. Its fear/self-blame language belongs to Nagusa; nothing turns testimony into death, complete motive or replay."
+          },
+          {
+            "paragraph_id": "AYAME-P004",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The never-friend quotation in A01:48 is Shuro taunting speech protested by Nagusa, while later chosen help/care supplies direct counterpressure to total fraud. The paragraph tests the accusation without erasing hurt from concealment. It does not merge Shuro quotation with Nagusa firsthand account."
+          },
+          {
+            "paragraph_id": "AYAME-P005",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The ordering is a local sequence of modes, not an authenticated personal biography. A02:28/32/36/42/50/70/77/78 support each transition; A01:74 blocks the old miko identification. Warm later evidence is not allowed to retroactively erase hostile or painful earlier evidence."
+          },
+          {
+            "paragraph_id": "AYAME-P006",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The pleasant companion has scene-local company, warmth and appetite; Kikyou questions the convenient presentation in A02:32. The prose preserves those ordinary goods intrinsically while withholding original Ayame tastes. This is adequate without assigning the questioned figure canonical identity or a secure hobby."
+          },
+          {
+            "paragraph_id": "AYAME-P007",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:32 supports the hostile attack on idealization, proposed book route and unverified safety/asleep claims. The analogy to wish-led acceptance is a defensible interpretive test: hostility does not automatically grant truth. No new motive or biography is deduced from the accusation."
+          },
+          {
+            "paragraph_id": "AYAME-P008",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:38 states Nagusa cannot define real Ayame yet wants to remain near her. Treating that as a positive aim is warranted; the paragraph explicitly assigns its ownership and withholds future reciprocity. Uncertainty therefore does not discard company, and desire does not become consent."
+          },
+          {
+            "paragraph_id": "AYAME-P009",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:42 and representation controls77/78 support the mask/exhaustion reading as Ayame-tagged inward story. The paragraph retains public/inward conflict without presenting the prose as a verified original transcript. That is a substantive limited dimension rather than fabricated private baseline."
+          },
+          {
+            "paragraph_id": "AYAME-P010",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "Azami proposal/naming speech and the local eyes/danger in A02:42/68 are distinct from an original person controller. Read “names Hitotsume” as the local naming address recorded there, not acceptance of a canonical identity resolution. The paragraph includes danger and neither grants total voluntary harm nor declares total innocence."
+          },
+          {
+            "paragraph_id": "AYAME-P011",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:48 supports Nagusa acknowledged weakness and movement toward the other without becoming Ayame; its coerced introspection qualification is important. A01:26/A02:38 connect that revision to earlier ideal-performance pressure. It does not make compelled self-disclosure exhaustive biography."
+          },
+          {
+            "paragraph_id": "AYAME-P012",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:50 directly supports the request, witnesses and castle participant acceptance. The prose correctly treats this as a meaningful situated answer while leaving identity continuity open. Neither Sensei nor Kikyou is made a proxy source of Ayame consent, and later sleeping assent is not imported."
+          },
+          {
+            "paragraph_id": "AYAME-P013",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The apparent positive result is supported by late participant lines in A02:50/72, while moves/finish are omitted. Its strong-but-apparent grade is explicit across the paragraph. The final distinction between encounter and full succession prevents “winning” from silently becoming witnessed action, emblem delivery or administrative proof."
+          },
+          {
+            "paragraph_id": "AYAME-P014",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The apology and hand pledge are attached to the castle participant immediately after accepted challenge in A02:50/56. This is the decisive recipient/time precision: the paragraph does not reassign that response to a sleeping afterward body. Its promised company remains positive without future reciprocal guarantee."
+          },
+          {
+            "paragraph_id": "AYAME-P015",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A01:26/28/48/52/62 and A02:48/50/57 support different junior roles: Kikyou resentment/wish/witness, Renge reunion/apology, Yukari wanted membership despite hurt. The body makes their support relevant without using a group chorus as Ayame awakened assent or completing separate relation duties."
+          },
+          {
+            "paragraph_id": "AYAME-P016",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:32 states Sensei lacks firsthand old-Ayame knowledge, and50/58 give witness/inquiry activity. Distributed festival/club/writing work in22/42/44/79 prevents adult-only repair. Limited knowledge becomes a meaningful relational stance, not invented omniscience or an unsupported private dyad."
+          },
+          {
+            "paragraph_id": "AYAME-P017",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:50/56/72 and A03:431/433 warrant body and arm return with continuing sleep. The paragraph gives that change weight while explicitly refusing all-change reversal and authenticated original memory/relation recovery. It neither cancels the positive endpoint nor clinically overstates it."
+          },
+          {
+            "paragraph_id": "AYAME-P018",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:50 and A03:431 give a doctor explanation relayed by Kikyou, not a chart or forecast. Nagusa refusal to force awakening belongs to the caregiver; the unavailable recipient response remains a limit. This avoids making care evidence of consent, completed treatment or promised waking."
+          },
+          {
+            "paragraph_id": "AYAME-P019",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A03:435 explicitly supplies Nagusa actual waiting AND gardening beside sleeping Ayame, resolving any ambiguity in chapter group-care wording. The paragraph assigns the activity to Nagusa and keeps it valuable without crisis utility. It does not fabricate Ayame gardening, mutual repair or a cure."
+          },
+          {
+            "paragraph_id": "AYAME-P020",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A01:54/64/71/81 holds dissolution and distinguishes contests; A02:50/72 withholds formal office/emblem result. These are separate finite institutional outcomes. The discussion situates Ayame role without finishing institution283 or making title a reward that repairs all relations."
+          },
+          {
+            "paragraph_id": "AYAME-P021",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:42/44/67–69/72 and A03:415 distinguish local song/joy effects, new writing and book claims, with Niya ritual law withdrawn. The paragraph does not borrow a mechanism or assign every controller to original Ayame. It keeps other actors and public danger materially relevant."
+          },
+          {
+            "paragraph_id": "AYAME-P022",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A02:50/70/76–79 and A03:433 support public explanation plus distinct representational seams; A01:75 supplies earlier log/voice cautions. Institutional simplification is not an identity test. The prose analyzes written access without claiming an unheard performance or one uniform voice."
+          },
+          {
+            "paragraph_id": "AYAME-P023",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "Both continuity hope (name/relations/body return) and skepticism (creation/contradictory histories/story framing) have actual warrants in A02:32/36/42/50/56/70/78. The paragraph refuses both total conclusions without rendering local friendship, exhaustion and challenge meaningless. This is an argued middle position, not evasion by missing data."
+          },
+          {
+            "paragraph_id": "AYAME-P024",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "A01:26/48/73 and A02:28/38/42/50/56/72 let the argument test role-only, never-cared and warm-completion readings against different evidence. Each fails as total explanation for a concrete reason. The available positive goods stay finite and do not become awakened reciprocity."
+          },
+          {
+            "paragraph_id": "AYAME-P025",
+            "verdict": "ADEQUATE_WITH_STATED_LIMITS",
+            "own_reason": "The conclusion returns to familiar person versus wanted role through three concrete endpoints: represented burden, castle answer and waiting recipient. Its revised last line precisely concerns returned Ayame unshown PRESENT response, not denial that earlier mode-local speech might be hers. It ends literarily rather than making a false technical acceptance promise."
+          }
+        ],
+        "own12_prospective_answers": [
+          "The thesis develops through loss, different local presentations, an accepted request and returned sleep. A demonstrated original current response or authenticated continuity would change its final limit; those are not supplied.",
+          "Nagusa testimony is stronger than rumor; Shuro quotation is a hostile protested taunt. Pleasant/hostile/shadow/story/castle/sleep remain explicitly different modes; none silently authenticates all others.",
+          "Ayame local warmth and story-framed exhaustion are analyzable ordinary dimensions. Nagusa owns wanted company, waiting and actual gardening. No unsupported original taste or reciprocity is filled in.",
+          "Scene-local acceptance in P012 and represented inward burden in P009 prevent Ayame becoming only a plot token; the body does not fabricate unavailable original private biography.",
+          "The castle challenge receives acceptance and participant-supported apparent outcome, followed by apology/hand pledge to that participant. Later waiting addresses unawakened returned Ayame; its recipient response remains absent.",
+          "Nagusa asks/apologizes/pledges/waits; local castle participant accepts; Kikyou witnesses/relays doctor; Renge and Yukari support with distinct wishes; Sensei participates without prior acquaintance. Directions remain clear.",
+          "P005/P022 and relevant source routes explicitly distinguish modes and local chronology. Neither the earlier miko nor a later private/event comparison is silently identified or dated into Ayame history.",
+          "The body retains distress, coercion, danger, withheld truth, hostile claims, incomplete offices and continuing sleep. Successful local relief does not absolve them.",
+          "P003/P008 preserve whose knowledge and desire Nagusa owns. P009 is story-framed, not independently authenticated intention, and P023 rejects both all-original and all-meaningless conclusions.",
+          "Awakening/cure/prognosis/original motive/office/emblem/books remain unestablished. Physical return, apparent victory and care are not weakened to zero, but each stops at its actual endpoint.",
+          "Beginning/middle/end and every major relation identify the actor and role without a forced name-frequency rule. Ayame remains a possible responding person beyond office, presentation and care recipient.",
+          "The exact supplied maintained contexts adequately support the finite argument. I find no consequential claim requiring stronger E021/E027 context, native material or additional admission."
+        ],
+        "own11_dimension_judgments": [
+          {
+            "dimension": 1,
+            "name": "Core thesis",
+            "own_reason": "Recognition is an unfinished relation with positive local acts; P001/P023–025 give it both opposing warrants and an earned conclusion.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 2,
+            "name": "Local longitudinal arc",
+            "own_reason": "P003/P005/P011–019 follow changed access and encounters, not a fabricated continuous original development. Return with sleep is a finite changed endpoint.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 3,
+            "name": "Public/inward/private self",
+            "own_reason": "P002/P009 connect admired role and story-framed exhaustion. Sparse original private evidence is acknowledged instead of replaced with Nagusa preferences.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 4,
+            "name": "School/club/institution",
+            "own_reason": "P012/013/020 distinguish burden, witnesses, local result, held dissolution and missing office/emblem instruments; a monograph does not complete institution283.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 5,
+            "name": "Ordinary intrinsic value",
+            "own_reason": "P006/P008/P014/P019 retain warmth, company, apology and actual waiting/gardening, with Nagusa declining forced awakening. Uncertain attribution bounds whose goods they are, without rejecting them for scale.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 6,
+            "name": "Crisis agency/body/cost",
+            "own_reason": "P010–014/P017–021 keep accepted acts, contested control, danger, physical return and sleep separate. Neither puppet-only innocence nor total controller guilt is forced.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 7,
+            "name": "Sensei relation",
+            "own_reason": "P012/P016 give actual inquiry/witness participation and admitted limited acquaintance, with distributed student/club agency. No fabricated private or adult-savior completion.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 8,
+            "name": "Peers/directed relations",
+            "own_reason": "Nagusa dominant relation is developed through aspiration, testimony, request and waiting. Juniors, hostile framers and adult retain distinct directions. Separate REL188/named284 remain open.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 9,
+            "name": "Language/voice/representation",
+            "own_reason": "P003/004/009/013/022 analyze testimony, hostile quotation, first-person story, italics and official account at maintained written grades. No exact original quotation or audible performance is invented.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 10,
+            "name": "Serious rivals",
+            "own_reason": "P023/024 and earlier contrary passages test continuity/skepticism, role, indifference, replacement, agency and cure using actual counterevidence, not straw opponents.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          },
+          {
+            "dimension": 11,
+            "name": "Routes/limits",
+            "own_reason": "All consequential body citations are within my actual three-route bounded course. Full25 map/author equality and source geometry are separate documentary checks, not a substitute for these reasons.",
+            "verdict": "SUBSTANTIVELY_ADDRESSED_WITH_LIMITS"
+          }
+        ],
+        "own8_serious_rivals": [
+          {
+            "id": "AYQR01",
+            "rival": "All forms are original Ayame",
+            "own_reason": "Shared name, recognized relationships and physical return make continuity plausible. A02:32/36/42/70 conflicts and story framing prevent total authentication. Body preserves hope and local acts without a new ontology."
+          },
+          {
+            "id": "AYQR02",
+            "rival": "All uncertain forms are meaningless fakes",
+            "own_reason": "Hostile production and official account warrant skepticism. They do not erase represented exhaustion, warmth or actual castle response. P006–014/P023 retain those facts without claiming secure original identity."
+          },
+          {
+            "id": "AYQR03",
+            "rival": "The sufficient chair exhausts Ayame",
+            "own_reason": "Office and admiration dominate access, but the eye-story cost and Nagusa desire to stay beside a person exceed office replacement. P002/009/020 keep institutional reality and personal uncertainty together."
+          },
+          {
+            "id": "AYQR04",
+            "rival": "She never cared",
+            "own_reason": "Painful reported denial and Shuro taunt must hurt this reading of care, yet they have different authority and do not establish a whole original life. P003/004/024 do not infer the opposite universal benevolence either."
+          },
+          {
+            "id": "AYQR05",
+            "rival": "Nagusa replacement fully saves the relation",
+            "own_reason": "Taking burdens and winning apparently supply a real change, but Nagusa does not become Ayame and the returned body still has no awakened answer. P011–019 make company possible without completed mutual repair."
+          },
+          {
+            "id": "AYQR06",
+            "rival": "Ayame is either only passive or responsible for every harm",
+            "own_reason": "Azami/Kokuriko pressure and story claims complicate agency, while castle acceptance is a meaningful local act. Neither general exoneration nor every-eye/book control follows from P010/012/021."
+          },
+          {
+            "id": "AYQR07",
+            "rival": "Return and care complete cure/restoration",
+            "own_reason": "Body/arm return and local festival effects are genuine positives. Sleep, mediated doctor report, missing office/emblem and retracted ritual law defeat universal restoration. P017–021 preserve both achievement and limits."
+          },
+          {
+            "id": "AYQR08",
+            "rival": "Sparse original tastes disqualify this study",
+            "own_reason": "Evidence is narrow for original hobbies, so no hobby is invented. Wanted regard, mode-local company, exhaustion, response and ordinary waiting nevertheless support a required character argument. No stakes/privatepool/model eligibility test is imposed."
+          }
+        ],
+        "semantic_reference_and_mode_checks": [
+          {
+            "scope": "BEGINNING P001–005",
+            "own_reason": "Nagusa owns testimony/fear; Kokuriko is reported actor; Shuro owns protested quotation. Earlier missing miko remains separate. “Her fear” in P003 has Nagusa as its established witness antecedent."
+          },
+          {
+            "scope": "MIDDLE P006–010",
+            "own_reason": "Companion/hostile speaker/story-first-person/Ayame-like addressed figure are qualified roles. Kikyou questions instead of certifies; Azami local naming proposal is not canonical person resolution. Pleasant warmth stays local."
+          },
+          {
+            "scope": "CASTLE P011–014",
+            "own_reason": "Nagusa requests and apologizes; castle participant accepts; Sensei/Kikyou witness. Apparent result is participant grade, not shown finishing action. P014 recipient and chronology are explicit."
+          },
+          {
+            "scope": "JUNIOR RELATIONS P015",
+            "own_reason": "Kikyou wish/resentment/witness, Renge reunion/apology and Yukari chosen membership are distinct; their support cannot speak for sleeping Ayame."
+          },
+          {
+            "scope": "ADULT/HOSTILE RELATIONS P010/P016/P021",
+            "own_reason": "Sensei limited inquiry differs from Kokuriko claims/pressure, Azami naming/control claims, Shuro taunts/writing and Niya strategy. Chise effect is not Ayame power. No actor is silently merged."
+          },
+          {
+            "scope": "AFTERMATH P017–022",
+            "own_reason": "Ayame is physically returned sleeping recipient; Nagusa owns arm return and care; Kikyou relays doctor; official institutional statement has public scope. No Ayame gardening or reciprocal assent."
+          },
+          {
+            "scope": "END P023–025",
+            "own_reason": "The final returned Ayame unshown response leaves room for a person beyond role without denying earlier local speech. Technical stage declarations remain metadata/closeout."
+          }
+        ],
+        "findings": [],
+        "remaining_limits": [
+          "Original continuity/history/intention and exact private baseline unresolved",
+          "Returned sleep gives no awakening/prognosis/cure/reciprocal repair",
+          "Formal chair/emblem/books/controller scope unresolved",
+          "E021/E027 stronger exact/original-motive/finish seams conditional and unopened",
+          "Root personal full receiving/adoption still required; public composition and installation not commissioned here"
+        ],
+        "diagnostics": [
+          "Root initial330 attribution corrected: prior reviewer was sumire_v2_finite_qa, not this agent. My prospective file withheld the claim before inspection.",
+          "Initial prospective command exited1 without output; exact directory absence confirmed, then own Node standard-library note created before source/body inspection.",
+          "Initial source output failed cp1252 encoding before displaying the page. Reissued with -X utf8; A01 1–48 actual received08d8e3, and no failed output credited.",
+          "Author two own wording edits and initial broad count/encounter checker false positive are retained as dated history; they are not current reviewer findings."
+        ],
+        "scope": "Only new own C outputs. No candidate alteration, R/Git/provider/shared/global/source/control/schema/tool writes/calls, excluded bodies/stat/hash/alias, foreign helper execution/import or external chats. All14OPEN/models0/fixed355/29/published152/19 unchanged. No new source/person/home/identity/named/REL/institution/model/count/install/publication credit. Phase3 integration is separate from reserved tooling merge."
+      }
+    },
+    {
+      "record_id": "AYAME-BODY-QA-V1",
+      "original_filename": "OWN_AYAME_COMPLETE25_BODY_JUDGMENTS_12_ANSWERS_11_DIMENSIONS_EIGHT_RIVALS_AND_REFERENCE_MODES_V1.json",
+      "original_file_bytes": 27917,
+      "original_file_sha256": "66f1e6b71208e2c21214cc19b8bcb8e706eadb14987eb03faa920b81fcc35eee",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "$historical_derivation": {
+          "base": {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+            "pointer": "/records/6/content",
+            "value_sha256": "f3b47481fc3908bb875d4db69a457d54b3c7e38631037dbd8255830a8a77cc5a"
+          },
+          "inverse_operations": [
+            {
+              "operation": "SET",
+              "pointer": "/own11_dimension_judgments/4/own_reason",
+              "value": "P006/P008/P014/P019 retain warmth, company, apology and actual unforced waiting/gardening. Uncertain attribution bounds whose goods they are, without rejecting them for scale."
+            },
+            {
+              "operation": "SET",
+              "pointer": "/status",
+              "value": "SUBSTANTIVE_REVIEW_COMPLETE_WITH_LIMITS_DOCUMENTARY_VERIFICATION_PENDING"
+            }
+          ],
+          "resolved_value_sha256": "74fdd6df4214c4bb537b5d5427884d47138b31aedcb9b1d50b62ccd872df33cd",
+          "qualification": "Complete preliminary value preserved through exact finite inverse; full nonidentical old text appears in operations and current full qualification remains directly readable. No candidate/source defect or backdated approval."
+        }
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_closeout",
+      "original_filename": "OWN_AYAME_CURRENT87_LITERAL25_FULL_QA_SEVEN_CLOSURE_REASONS_ACTUAL_READBACK_AND_LIMITS_V1.json",
+      "original_file_bytes": 8227,
+      "original_file_sha256": "1b48bcd8ff30c8aa07468e2c59809c3eb50b1644e6444b74571ee35e6091d432",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "INDEPENDENT_AYAME_COMPLETE_CURRENT_BODY_QA_OWN_FINAL_CLOSURE_AND_ACTUAL_READBACK_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "date": "2026-11-04",
+        "decision": "ADEQUATE_WITH_LIMITS_FOR_CONNECTED_EXISTING_HOME3_M004_BODY_FIRST_ARGUMENT; NO_MATERIAL_CANDIDATE_FINDING",
+        "scope": "Complete actual87-line/25-paragraph body and metadata/preface; complete map/SOURCE/current original25+11 author judgments and full author finalcloseout. My own source course and full reasons are distinct from author and prior readiness QA.",
+        "own_seven_closure_reasons": [
+          {
+            "issue": "Sustained character argument",
+            "reason": "The interpretation is earned by a sequence of unequal access and local responses, rather than a list of identity uncertainties. Its opening asks how admiration, loss, burden and company remain meaningful; its ending returns to the unshown present response of the physically returned Ayame. The middle gives those ideas consequential scenes: questioned warmth, framed exhaustion, accepted challenge and offered hand."
+          },
+          {
+            "issue": "Positive value and finite outcome",
+            "reason": "The body neither downgrades apparent victory/physical return/care to nothing nor uses them to settle everything. It gives the castle speaker a situated acceptance and Nagusa an apparent result, while keeping skipped action/office instruments open. Later actual waiting/gardening is valuable ordinary company and belongs to Nagusa; it neither invents an Ayame hobby nor supplies reciprocity."
+          },
+          {
+            "issue": "Evidence modes and agency",
+            "reason": "Nagusa testimony and Shuro taunt have different authority; pleasant, hostile, shadow, story, castle and sleeping aftermath remain distinct. An eye-story can meaningfully represent burden without becoming verified original private biography. Azami naming/control claims and observed danger are not an exhaustive identity or guilt test. Official public explanation also does not close the ontology."
+          },
+          {
+            "issue": "Recipient and chronology precision",
+            "reason": "The castle participant receives the accepted challenge/apology/hand pledge in P012–014; later returned sleeping Ayame receives company without a shown present response in P017–019. Kikyou witnesses and relays the doctor; Renge/Yukari support with separate desires and hurts. Sensei limited acquaintance and distributed relief avoid a proxy response or adult-only cure."
+          },
+          {
+            "issue": "Meaningful contrary readings",
+            "reason": "Full continuity and total fabrication each have actual warrants and limits. Role-only, never-cared, replacement-salvation, passive-or-controller extremes, cure/restoration and taste-sparsity ineligibility are tested with concrete contrary evidence. No rival is settled by count, stakes, name frequency or mechanical pass."
+          },
+          {
+            "issue": "Adequate independent course",
+            "reason": "After own prospective questions I personally received whole maintained C00195 and C00292, plus working365–507 selected143. All142 cited intervals lie within that course, but the semantic adequacy comes from the witnessed/taunt distinction, castle/aftercare separation, participant-result grade, local joy effect and explicit contextual gardening attribution I actually understood. No inherited330, author694, primary54/private301/native/AV credit is claimed. E021/E027 stronger exact/original-motive seams are unnecessary for these bounded statements and remain unopened."
+          },
+          {
+            "issue": "Custody without authority inflation",
+            "reason": "Own documentary checks show all15 frozen packet files, complete core4 plus history2 raw inverses/forwards, exact prior25 custody, geometry and current tuple fidelity. These proofs protect the material I reviewed; they do not perform source cognition or Root acceptance. The body remains draft_noncurrent. Separate REL188/named284/institution283, all355 duties, source/identity and publication requirements remain."
+          }
+        ],
+        "actual_saved_readback": {
+          "candidate_body": "Whole edbb83, then complete argument/mode/warrant rows43a9be+863a20, equal to map/body values by independent full literal/range checks. No additional fresh whole source or performed course inferred.",
+          "candidate_SOURCE": "Whole722fe1; all three exact source keys, actual author/peer chronology and25 custody rows understood as attribution. The earlier original readiness arguments were not newly personally received in full by this QA.",
+          "candidate_map_and_original_author": "Every unique25 own question/contrary/mode/finite limit and all11 current author reasons received43a9be+863a20, with complete nonrow map/11 routes/historyeb08cc. Literal duplicate rows are exactly equal and have not been counted as separate intellectual judgments.",
+          "author_finalcloseout": "Whole8ba235, including six answers/eight rivals/seven reference judgments, author prior course and own checker/history diagnostics.",
+          "my_saved_full_reasons": "Complete V1 read back596f32 (metadata/course/first13),617a8c (remaining12/all12/all11),ea92d1(all8/seven). Whole V1 remains dated; actual V2 two-scalar change/readbackf2b129 and inverseproofe9ee10 establish the complete current27,959-byte version without pretending a new full source course.",
+          "documentary": "Own scriptb158cc records722 predicates0false; f2b129 personally received exact counts, role/scope and diagnostics. Human reading is not claimed for each repetitive predicate payload.",
+          "prior_controls": "Own previously personally received captured architecture/method/handoff15/authority/eligibility/publication controls remain the declared governance basis, at exact pins already retained in my frozen Yuzu requirements note. This QA does not acquire new remote currentness or infer current authority from historical source headers."
+        },
+        "review_diagnostics": [
+          "Initial prospective command failed before directory creation; exact absence confirmed; own Node stdlib saved questions before current source/body inspection.",
+          "An initial cp1252 output failed without displayed source page; explicit UTF8 output then received the complete page. Failed output provides no source credit.",
+          "Parent prior330 attribution was corrected to sumire_v2_finite_qa; my prospective note withheld the claim and my new course is independently recorded.",
+          "My V1 dimension5 overbroad unforced adjective is corrected by exact full V2 plus whole V1 inverse. The supplied source establishes Nagusa declining forced awakening, not a global voluntariness claim about every care circumstance. This is a QA wording precision only.",
+          "Checker stdout packet15:16696 was a display-only reused-variable error; authoritative saved result inventory/count proves15 and all722 predicates0false. Original script/result are preserved unchanged.",
+          "Author two prefreeze wording precisions and broad count/encounter false positive remain dated author diagnostics. No candidate or source repair is requested by this QA."
+        ],
+        "remaining": "Root must personally receive and assess the complete actual body, current independent25/12/11/eight/reference reasons, author reasons and necessary evidence before adoption. No new source seam is needed for my bounded verdict. Root later handles actual target/collision/currentness, publication eligibility and required integration. This QA confers no completion/count/publication/model credit.",
+        "lifecycle": "QA closure may bind complete frozen input and own output pins, but does not promote the draft body to current/canonical. Public composition remains outside this commission. Phase3 milestone integration authority remains separate from reserved tooling merge authority.",
+        "access_and_write": "Only own new C directory written. No frozen old bytes modified; no R/Git/provider/shared/global/control/schema/tool/source calls or writes, excluded39/private9/opaque target stat/read/hash/alias, foreign helper execution/import or external chats.",
+        "freeze_rule": "This closeout and the full reasons become immutable at terminal freeze; any later finding requires a separately dated successor or addendum preserving every original byte."
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_precision",
+      "original_filename": "OWN_AYAME_REVIEW_READBACK_EXACT_TWO_SCALAR_PRECISION_AND_DISPLAY_DIAGNOSTIC_V1.json",
+      "original_file_bytes": 2483,
+      "original_file_sha256": "78185f5543788398b835e71d9c188d2aa3180ae4cbce6b79e5e89a7fdcb0071b",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "OWN_AYAME_REVIEW_READBACK_PRECISION_AND_STDOUT_DISPLAY_DIAGNOSTIC_V1",
+        "date": "2026-11-04",
+        "candidate_change": false,
+        "V1_beforeimage": {
+          "relative_path": "OWN_AYAME_COMPLETE25_BODY_JUDGMENTS_12_ANSWERS_11_DIMENSIONS_EIGHT_RIVALS_AND_REFERENCE_MODES_V1.json",
+          "bytes": 27917,
+          "sha256": "66f1e6b71208e2c21214cc19b8bcb8e706eadb14987eb03faa920b81fcc35eee"
+        },
+        "V2_current_full_reasons": {
+          "relative_path": "OWN_AYAME_COMPLETE25_BODY_JUDGMENTS_12_ANSWERS_11_DIMENSIONS_EIGHT_RIVALS_AND_REFERENCE_MODES_V2.json",
+          "bytes": 27959,
+          "sha256": "e1d8e90663213d5728e3f1eed42ebb210cc6cb1e9a4e58e228a2579d78820bb0"
+        },
+        "exact_operations": [
+          {
+            "pointer": "/status",
+            "old": "SUBSTANTIVE_REVIEW_COMPLETE_WITH_LIMITS_DOCUMENTARY_VERIFICATION_PENDING",
+            "new": "SUBSTANTIVE_AND_DOCUMENTARY_REVIEW_COMPLETE_WITH_LIMITS_PENDING_OWN_TERMINAL_FREEZE"
+          },
+          {
+            "pointer": "/own11_dimension_judgments/4/own_reason",
+            "old": "P006/P008/P014/P019 retain warmth, company, apology and actual unforced waiting/gardening. Uncertain attribution bounds whose goods they are, without rejecting them for scale.",
+            "new": "P006/P008/P014/P019 retain warmth, company, apology and actual waiting/gardening, with Nagusa declining forced awakening. Uncertain attribution bounds whose goods they are, without rejecting them for scale."
+          }
+        ],
+        "reason": "The source specifically says Nagusa declines forced awakening, and reports actual care/gardening. The broad adjective unforced was unnecessary for gardening/whole waiting circumstances. Current reason uses only these positive exact source claims. All25 verdicts, other dimensions/rivals/answers/reference judgments and source courses are unchanged. No author/source defect is alleged.",
+        "mechanical_display_diagnostic": "Checker b158cc stdout packet15:16696 was the final full beforeimage BYTE length because a local variable was reused. The saved112130-byte result explicitly counts full_author_packet15; its exact inventory predicate confirms all15 files, and its722 recorded predicates have0false. Display-only typo does not change result, raw recovery, candidate or QA conclusion. Original script and result remain unchanged.",
+        "inverse": "Apply exact inverse two scalar JSON-pointer operations to current parsed V2 and serialize with ensure_ascii=False/indent2/LF to recover whole original27917-byte V1; both complete files remain. No raw candidate changes."
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_questions",
+      "original_filename": "OWN_PROSPECTIVE_AYAME_BODY_QA_QUESTIONS_EXPOSURE_AND_MODE_RIVALS_V1.json",
+      "original_file_bytes": 3551,
+      "original_file_sha256": "403854eb745dea6cf4a833d677cbd5ddc95ed62833e8bcc112b68c214a96fe7c",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "independent-ayame-body-qa-prospective-questions-v1",
+        "date": "2026-11-04",
+        "role": "Different-author independent literary/source QA, not author or Root acceptance",
+        "stage": "PROSPECTIVE_BEFORE_CURRENT_BODY_AND_SOURCE_INSPECTION",
+        "prior_exposure": "Parent mentions a prior reviewer330 course. I have not positively located a saved own record and do not claim it from that message or author694. Arona/Plana/Prenapates and Yuzu grades do not establish Ayame attendance. Any exact own prior course must be positively bound before reuse.",
+        "questions": [
+          "What sustained interpretation does this body make, and which concrete contrary endpoints could disconfirm it?",
+          "Which claims rest on Nagusa testimony, Shuro taunting speech, experienced images/shadows, stories, castle encounters or returned sleeping presence? Are these modes distinct?",
+          "What ordinary wants and company belong to Ayame? Does the prose assign Nagusa gardening or waiting to Ayame without warrant?",
+          "Does Ayame retain particular agency amid Nagusa memories and symbolic plot work without invented original motives or private biography?",
+          "What do castle apology, hand and pledge actually accomplish, and what remains unestablished by later waiting?",
+          "Who speaks, acts, receives, asks, refuses and waits in each major relation; is direction/completion precise?",
+          "Are pleasant, hostile, shadow, story, castle and returned-sleep contexts separate in chronology and epistemic status?",
+          "Are troubling evidence and finite failed or partial outcomes allowed to matter?",
+          "Does the argument distinguish Nagusa understanding from directly established Ayame intention?",
+          "Are awakening, cure, prognosis, original motive, office/emblem and books-completion claims bounded?",
+          "Do beginning/middle/end and major relations use names/roles clearly without flattening Ayame into an office, mechanism or patient?",
+          "Is every material claim adequately supported, or does a consequential ambiguity require a positively located seam request to Root?"
+        ],
+        "dimensions_to_adjudicate": [
+          "chronology",
+          "ordinary wants",
+          "self-understanding and uncertainty",
+          "directed relationships",
+          "agency and refusal",
+          "attribution modes",
+          "contradictions/rivals",
+          "change/endpoints",
+          "institutional context",
+          "symbolic role with limits",
+          "source grades/stronger claims"
+        ],
+        "prospective_rivals": [
+          "Nagusa testimony becomes direct Ayame motives",
+          "Shuro taunt becomes narration",
+          "shadow/story/castle becomes continuous encounter",
+          "castle repair becomes waking cure",
+          "Nagusa gardening/waiting becomes Ayame commitment",
+          "ordinary company becomes mere plot utility",
+          "uncertainty eliminates sustained interpretation",
+          "warm ending erases cost or unpromised future"
+        ],
+        "constraints": "Own new C directory only; candidate frozen. No R/Git/provider/shared/tooling, excluded targets, foreign helpers, source admission/model/count/install/publication credit. Report genuine defects first.",
+        "acceptance_boundary": "QA does not perform Root personal receiving/adoption; Phase3 milestone integration authority is separate from tooling merge authority.",
+        "initial_execution_diagnostic": "Initial PowerShell/Python prospective-note command returned exit1 with empty output. A subsequent exact Test-Path showed the assigned directory absent. No current target/source had been read. This own standard-library write creates the questions before inspection."
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_source_plan",
+      "original_filename": "OWN_AYAME_EXACT_SOURCE_PINS_AND_BOUNDED_PROSPECTIVE_COURSE_V1.json",
+      "original_file_bytes": 6864,
+      "original_file_sha256": "ad78fa68869d8d670e1deff19248cbc91beeb164ab510cd391113d4af91e781d",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "independent-ayame-exact-source-plan-before-reading-v1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "source_plan": [
+          {
+            "source_key": "A01",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+            "pin": {
+              "C_path": "maintained-source:A01",
+              "bytes": 18949,
+              "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+              "git_blob_oid_of_actual_bytes": "9389368b8a33266379908c254301113bd1364a29"
+            },
+            "physical_lines": 95,
+            "planned_intervals": [
+              [
+                1,
+                95
+              ]
+            ],
+            "planned_grade": "WHOLE_MAINTAINED_CHECKPOINT",
+            "source_receiving_status": "NOT_YET_PERSONALLY_RECEIVED_IN_THIS_TASK"
+          },
+          {
+            "source_key": "A02",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+            "pin": {
+              "C_path": "maintained-source:A02",
+              "bytes": 18737,
+              "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+              "git_blob_oid_of_actual_bytes": "7a02b2d6eeb2404f2373fe66c149f47b3f83a41b"
+            },
+            "physical_lines": 92,
+            "planned_intervals": [
+              [
+                1,
+                92
+              ]
+            ],
+            "planned_grade": "WHOLE_MAINTAINED_CHECKPOINT",
+            "source_receiving_status": "NOT_YET_PERSONALLY_RECEIVED_IN_THIS_TASK"
+          },
+          {
+            "source_key": "A03",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "pin": {
+              "C_path": "maintained-source:A03",
+              "bytes": 39118,
+              "sha256": "c04118271472b1a02144789b2659976a513ee619d3d5049d26062f8ee4d6303b",
+              "git_blob_oid_of_actual_bytes": "04fa995598c89a51c5ed241e4ad33a88736e3283"
+            },
+            "physical_lines": 507,
+            "planned_intervals": [
+              [
+                365,
+                507
+              ]
+            ],
+            "planned_grade": "SELECTED_MAINTAINED_WORKING_CONTEXT",
+            "source_receiving_status": "NOT_YET_PERSONALLY_RECEIVED_IN_THIS_TASK"
+          }
+        ],
+        "why": "Complete chapter contexts establish testimony/taunt, forms, challenge and returned sleep; selected working365–507 tests later contextual qualifications, ordinary waiting/gardening and stronger-claim boundaries. This is an independent own new bounded course, not inherited330 or author694. Expand only if a consequential claim needs it.",
+        "diagnostic": "Root confirmed prior330 belonged to sumire_v2_finite_qa; commission attribution was wrong. Prospective file withheld that claim; no past attendance is retroactively asserted.",
+        "old_input_preservation": [
+          {
+            "relative_path": "AYAME_COMPLETE25_PARAGRAPH_EVIDENCE_MODE_RIVAL_AND_ELEVEN_DIMENSION_MAP_V1.json",
+            "bytes": 72332,
+            "sha256": "69c8025c9eded5b8b2431b0fec6734468b5836a4c23f55fe5ed3713cd116fbea"
+          },
+          {
+            "relative_path": "AYAME_COMPLETE_CORE_RAW_FORWARD_INVERSE_AND_INITIAL_BODY_HISTORY_RECOVERY_V1.json",
+            "bytes": 290377,
+            "sha256": "c5dce63e6b6795de001b87eec2d2b1464da713b68eb772839e02fcbc05043806"
+          },
+          {
+            "relative_path": "AYAME_EXACT_SOURCE_AUTHORITY_DATED_COURSE_AND_FROZEN_READINESS_INPUTS_V1.json",
+            "bytes": 29877,
+            "sha256": "ebf1b10826c025912248e40e76472ef62a3aa45789ad823b5c477297005998fc"
+          },
+          {
+            "relative_path": "AYAME_M004_CONNECTED_BODY_COMPLETE_FROZEN_PACKET_EXTERNAL_MANIFEST_V1.json",
+            "bytes": 4883,
+            "sha256": "a9adc3a18d38a3c3053a8d5da7f7e532195cef257e9d6fef8545134fd653d485"
+          },
+          {
+            "relative_path": "BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH_C_ONLY_BODY_FIRST_V1.md",
+            "bytes": 16692,
+            "sha256": "9129f1d548d4d4a7d60ff08ee5b3610c8c2aa8e3a0f3d1ad34bdb9de9a360fe1"
+          },
+          {
+            "relative_path": "own_ayame_body_first_supporting_map_source_author_values_and_recovery_v1.py",
+            "bytes": 26328,
+            "sha256": "5ebed3ce221e91d6abd3b59467d860acf90b77a9a9996e8c3faff48d4dbbbbdc"
+          },
+          {
+            "relative_path": "OWN_AYAME_COMPLETE_SAVED_BODY_READBACK_SIX_ANSWERS_EIGHT_RIVALS_SEVEN_REFERENCE_JUDGMENTS_AND_CLOSEOUT_V1.json",
+            "bytes": 16843,
+            "sha256": "bef33b28375cdd7afad2cdad562cb2e7dc54fb415592a2288311c66631ee9be2"
+          },
+          {
+            "relative_path": "OWN_AYAME_COMPLETE_SAVED_CORE_FIDELITY_SOURCE_BOUNDS_RAW6_AND_FROZEN25_INPUT_FINAL_RESULTS_V2.json",
+            "bytes": 58005,
+            "sha256": "2473a00a3a984b55154f613ce1fd4c87d7ba1e808c7450e7b762e74deb153a7e"
+          },
+          {
+            "relative_path": "OWN_AYAME_COMPLETE_SAVED_CORE_FIDELITY_SOURCE_BOUNDS_RAW6_AND_FROZEN25_INPUT_RESULTS_V1.json",
+            "bytes": 57766,
+            "sha256": "2c6fac4fa076a8c90faa10932e5372cd3b8e13a49defed34a5d66f63e92e66fb"
+          },
+          {
+            "relative_path": "OWN_AYAME_CONNECTED_BODY_AUTHORING_SIX_PROSPECTIVE_QUESTIONS_AND_PRIOR694_EXPOSURE_BEFORE_DRAFT_V1.json",
+            "bytes": 4931,
+            "sha256": "f284b494122e6cb764bf176742f8657ae85391d282ae4d4ca2aa472655b0d95f"
+          },
+          {
+            "relative_path": "own_ayame_independent_saved_body_geometry_source_raw6_and_input_preservation_checker_v1.py",
+            "bytes": 9928,
+            "sha256": "df7a74bcb98dec19ada3814ab619fc01d27d15e0a9f74522bb47896f99a40cd6"
+          },
+          {
+            "relative_path": "OWN_AYAME_INITIAL_SAVED_BODY_READBACK_TWO_PRECISIONS_EXACT_OLD_NEW_AND_RAW_HISTORY_V1.json",
+            "bytes": 1866,
+            "sha256": "12a768297e5246b05b1373dbddb0cb1dac4d9fd99c44db0c37c9e557752024c9"
+          },
+          {
+            "relative_path": "OWN_AYAME_ORIGINAL_CONNECTED25_AUTHORING_DECISIONS_FULL_REASONS_AND_ELEVEN_DIMENSIONS_V1.json",
+            "bytes": 75790,
+            "sha256": "1c5991f04a0fe39af7c0327875401704fe89db671cec32902a98a95792251514"
+          },
+          {
+            "relative_path": "START_HERE_AYAME_M004_CURRENT87_LITERAL25_CONNECTED_BODY_COMPLETE_AUTHOR_FROZEN_HANDOFF_V1.json",
+            "bytes": 6516,
+            "sha256": "d318358302e589478670a6bb913e869db1ed41c7a90cdd3fc7c0939747d1a24c"
+          }
+        ]
+      }
+    },
+    {
+      "record_id": "AYAME-INPUT-Body_QA_terminal",
+      "original_filename": "START_HERE_INDEPENDENT_AYAME_CURRENT87_LITERAL25_COMPLETE_BODY_QA_FINAL_FROZEN_HANDOFF_V1.json",
+      "original_file_bytes": 8732,
+      "original_file_sha256": "c57d203cfb4f74042cf03ba4cebc09f3843dd99bf1b72801b9ea132dc473c899",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "INDEPENDENT_AYAME_M004_CURRENT87_LITERAL25_COMPLETE_BODY_QA_FINAL_FROZEN_HANDOFF_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "date": "2026-11-04",
+        "status": "COMPLETE_FROZEN_DIFFERENT_AUTHOR_BODY_QA_ADEQUATE_WITH_LIMITS_PENDING_ACTUAL_ROOT_RECEIVING_AND_ADOPTION",
+        "verdict": "ADEQUATE_WITH_LIMITS_FOR_EXISTING_HOME3_M004_CONNECTED_BODY_FIRST_ARGUMENT",
+        "material_findings": [],
+        "external_manifest": {
+          "relative_path": "INDEPENDENT_AYAME_CURRENT87_LITERAL25_COMPLETE_BODY_QA_EXTERNAL_FROZEN_MANIFEST_V1.json",
+          "bytes": 2883,
+          "sha256": "df4cf6431f197616fe191c0fd64b948631ced0ca5bf4cdcb1ed1704916b55130"
+        },
+        "full_current_own25_12_11_eight_seven_reasons": {
+          "relative_path": "OWN_AYAME_COMPLETE25_BODY_JUDGMENTS_12_ANSWERS_11_DIMENSIONS_EIGHT_RIVALS_AND_REFERENCE_MODES_V2.json",
+          "bytes": 27959,
+          "sha256": "e1d8e90663213d5728e3f1eed42ebb210cc6cb1e9a4e58e228a2579d78820bb0"
+        },
+        "whole_own_closeout_and_actual_readback": {
+          "relative_path": "OWN_AYAME_CURRENT87_LITERAL25_FULL_QA_SEVEN_CLOSURE_REASONS_ACTUAL_READBACK_AND_LIMITS_V1.json",
+          "bytes": 8227,
+          "sha256": "1b48bcd8ff30c8aa07468e2c59809c3eb50b1644e6444b74571ee35e6091d432"
+        },
+        "dated_review_precision_and_display_diagnostic": {
+          "relative_path": "OWN_AYAME_REVIEW_READBACK_EXACT_TWO_SCALAR_PRECISION_AND_DISPLAY_DIAGNOSTIC_V1.json",
+          "bytes": 2483,
+          "sha256": "78185f5543788398b835e71d9c188d2aa3180ae4cbce6b79e5e89a7fdcb0071b"
+        },
+        "own_prospective_questions_exposure": {
+          "relative_path": "OWN_PROSPECTIVE_AYAME_BODY_QA_QUESTIONS_EXPOSURE_AND_MODE_RIVALS_V1.json",
+          "bytes": 3551,
+          "sha256": "403854eb745dea6cf4a833d677cbd5ddc95ed62833e8bcc112b68c214a96fe7c"
+        },
+        "own_exact_source_plan_and_pins": {
+          "relative_path": "OWN_AYAME_EXACT_SOURCE_PINS_AND_BOUNDED_PROSPECTIVE_COURSE_V1.json",
+          "bytes": 6864,
+          "sha256": "ad78fa68869d8d670e1deff19248cbc91beeb164ab510cd391113d4af91e781d"
+        },
+        "complete_full6_raw_current15_source142_fidelity": {
+          "relative_path": "OWN_AYAME_FULL6_RAW_INVERSIONS_CURRENT15_BINDINGS_SOURCE_RANGES_AND_FROZEN_INPUT_FIDELITY_RESULTS_V1.json",
+          "bytes": 112130,
+          "sha256": "1fe67d3bf9778ea9ff3633b8fdbb923cc770a009247477f2fe9e721636f57e74"
+        },
+        "final60_post_readback_noop_and_full_review_inverse": {
+          "relative_path": "OWN_AYAME_POST_READBACK_FINAL_INPUT_NOOP_AND_CURRENT_REASON_FULL_INVERSE_RESULTS_V1.json",
+          "bytes": 11657,
+          "sha256": "88cef3cb9258816df2426392741ac0c15bad493e067847b866d358c64be2f15e"
+        },
+        "exact_input_terminal": {
+          "relative_path": "START_HERE_AYAME_M004_CURRENT87_LITERAL25_CONNECTED_BODY_COMPLETE_AUTHOR_FROZEN_HANDOFF_V1.json",
+          "bytes": 6516,
+          "sha256": "d318358302e589478670a6bb913e869db1ed41c7a90cdd3fc7c0939747d1a24c",
+          "C_path": "historical-locator:AYAME-LOC-f7d0bbf449ac846b90d2"
+        },
+        "exact_input_manifest": {
+          "relative_path": "AYAME_M004_CONNECTED_BODY_COMPLETE_FROZEN_PACKET_EXTERNAL_MANIFEST_V1.json",
+          "bytes": 4883,
+          "sha256": "a9adc3a18d38a3c3053a8d5da7f7e532195cef257e9d6fef8545134fd653d485",
+          "C_path": "historical-locator:AYAME-LOC-a5ff9d99ee9e3cfa5dab"
+        },
+        "exact_input_body": {
+          "relative_path": "BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH_C_ONLY_BODY_FIRST_V1.md",
+          "bytes": 16692,
+          "sha256": "9129f1d548d4d4a7d60ff08ee5b3610c8c2aa8e3a0f3d1ad34bdb9de9a360fe1",
+          "C_path": "historical-locator:AYAME-LOC-ba947d875ef37c5344a5"
+        },
+        "full_review_judgment": "The connected argument makes unequal recognition substantive: role admiration, testimony, contested forms, story-framed burden, a situated castle answer and returned sleep permit finite goods without authenticating every original motive or future response. Ordinary warmth, company and actual care remain intrinsically valuable. Source modes, recipient direction and incomplete outcomes are preserved.",
+        "own_source_grade": "After saved own questions: WHOLE maintained C0011–95 and C0021–92=187 checkpoint lines; SELECTED working365–507=143 lines. All consequential body citations received; no new whole507/author694/primary54/private301/native/raw-dialogue/AV course. Prior peer330 belongs to sumire_v2_finite_qa, not this reviewer.",
+        "actual_complete_receiving": "Whole bodyedbb83; SOURCE722fe1; all25 unique author/map arguments/questions/modes/contraries/limits43a9be+863a20 and all11 author dimensions; full map controls/two historical operations eb08cc; complete author finalcloseout8ba235. My full reasons read596f32/617a8c/ea92d1 plus precise V2f2b129 and whole inverse; my whole closeout265d64.",
+        "mechanical_limits": "Own stdlib722 recorded predicates0false validate full6 raw forward/inverses, all15 candidate files,25 frozen inputs,142 source intervals, geometry/current tuples and acyclic core dependencies. Later60 predicates0false recheck final own reason inverse and candidate/input NOOP. These are documentary predicates, not additional intellectual verdicts or source cognition.",
+        "diagnostic_history": "All historical author/readiness files unchanged. Own V1 reason remains whole; only V2 status and dimension5 wording changed as exact two-scalar precision, with full inverse. Checker stdout packet15:16696 was a preserved display typo; saved result correctly proves15. No candidate/source defect is inferred.",
+        "receiving_contract": [
+          "Verify this external terminal pin, then exact manifest9members. Treat all paths as exact declared C inputs; do not execute the included checker or any author/reviewer helper.",
+          "Read the complete current27959-byte reason record V2, whole8227-byte closeout and2483-byte precision diagnostic, preserving original V1 history. These include every25 particular reason,12 prospective answers,11 dimensions,eight serious rivals and seven semantic reference/mode judgments.",
+          "Receive the complete candidate body25 and all meaningful author/map/SOURCE/closure reasoning, or identify exact previously personally received identical values. Hash/parser coverage alone is not full semantic receiving. Duplicate author/map rows are literally equal; all unique reasoning remains accessible.",
+          "For source testing use exact three SOURCE C captures at stated maintained grades. Current QA personally read whole187 checkpoint and selected143 working lines. No primary/private/native attendance transfers. E021/E027 stronger seams remain conditional; Root capture first if genuinely needed.",
+          "Full core4 plus history2 recovery lives whole in the frozen candidate raw6 object; the own result independently decoded/re-encoded all6 in memory against exact original bytes and complete two-operation body history. Do not replace this with selected snippets or run foreign helpers.",
+          "Root must personally adjudicate the complete argument and consequential evidence; this terminal is independent QA, not Root adoption or public/current authority."
+        ],
+        "remaining_boundaries": [
+          "Original identity continuity/motives and sparse private baseline unresolved",
+          "No awakened response, reciprocal repair, prognosis/cure or Ayame gardening hobby",
+          "Office/emblem/books/controller and institution283 unresolved",
+          "REL188/named284 remain separate incomplete; no new home/privateF/common105 mandate",
+          "All14OPEN/models0/fixed355/29/published152/19 unchanged"
+        ],
+        "authority": "Phase3 milestone integration authorization is separate from reserved tooling merge authority. Current review requests no repository operation; Root later handles target/currentness/preservation, normal gates and actual acceptance.",
+        "write_access": "Only this unique own C directory written; frozen target and prior packets unchanged. No R/Git/provider/shared/global/control/schema/tool/source calls/writes, protected39/private9/opaque target stat/read/hash/alias, foreign helper execution/import or external chats. No source/person/identity/named/REL/institution/model/count/install/publication credit.",
+        "freeze": "Final immutable QA handoff. Later findings require a separately dated successor/addendum; no silent revision."
+      }
+    },
+    {
+      "record_id": "AYAME-BODY-QA-FINAL60-CLOSURE",
+      "original_filename": "OWN_AYAME_POST_READBACK_FINAL_INPUT_NOOP_AND_CURRENT_REASON_FULL_INVERSE_RESULTS_V1.json",
+      "original_file_bytes": 11657,
+      "original_file_sha256": "88cef3cb9258816df2426392741ac0c15bad493e067847b866d358c64be2f15e",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "INDEPENDENT_AYAME_FINAL_POST_SEMANTIC_READBACK_FROZEN_INPUT_AND_OWN_REVIEW_INVERSE_FIDELITY_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "checks_count": 60,
+        "failures": [],
+        "semantic_readback": "Whole current full reasons = whole V1 readback596f32/617a8c/ea92d1 plus exact finite V2 f2b129/full inverse; whole final8227 closeout actually read265d64. These finite later documentary predicates do not repeat or confer source cognition.",
+        "scope": "Exact declared C packet/readiness tuples only, no foreign helper execution/import, excluded target/R/Git/provider/shared writes or calls. Candidate unchanged. Different author body QA adequate with limits, actual Root receiving/adoption still separate."
+      },
+      "private_custody_omissions": [
+        {
+          "pointer": "/checks",
+          "class_reason": "Private final60 repeated documentary predicate rows; actual full semantic_readback, scope, closure count and failures stay public, not new source cognition.",
+          "original_value_sha256": "c3d4c4b15a9e8584e82a55ded90310e85ce4dc69298bdd9edd8b2447e6528940"
+        },
+        {
+          "pointer": "/own_prior8_exact_pins",
+          "class_reason": "Private repetitive prior8 custody inventory; exact intellectual records and current public registry retain complete attributed meaning.",
+          "original_value_sha256": "bcf68585595bea3e3aeb8fef21e35bc443b4b438ab8ad2ca58de421cb55c5d7e"
+        }
+      ]
+    },
+    {
+      "record_id": "AYAME-PUBLIC-PLAN-ACTOR-PRECISION-20261104-V2",
+      "original_filename": "OWN_AYAME_PUBLIC_PLAN_FINAL_EXACT_PIN_AND_UNFROZEN_ACTOR_WORDING_PRECISION_PROOF_V2.json",
+      "original_file_bytes": 2563,
+      "original_file_sha256": "a0fe9463e84cdc9dca141df407af969b8ba98dd9db54e5f937c7848e5cc9f9cd",
+      "original_author_or_reader": "/root/recover_yuzu_saved_review",
+      "original_status": "DATED_HISTORY_NOT_CURRENT_WRAPPER_AUTHORITY",
+      "content": {
+        "schema": "OWN_AYAME_PUBLIC_PLAN_FINAL_WORDING_PRECISION_EXACT_CURRENT_PIN_AND_PRIOR_PROOF_RECEIVING_V2",
+        "date": "2026-11-04",
+        "planner": "/root/recover_yuzu_saved_review",
+        "current_plan": {
+          "filename": "AYAME_CONNECTED25_PUBLIC_FORM_EXACT_REQUIREMENTS_NORMALIZATION_AND_LOSSLESS_ROLE_PLAN_V1.json",
+          "bytes": 41450,
+          "sha256": "eb345bdaa6d32f47a195abf96408e6377195801b7ee486e3833093562c91c7fa"
+        },
+        "prior_complete_documentary_proof": {
+          "filename": "OWN_AYAME_PUBLIC_PLAN_EXACT_INPUT_TWO_SPAN_BODY_INVERSE_AND_LOSSLESS_SELECTOR_PROOF_V1.json",
+          "bytes": 31170,
+          "sha256": "a43b71c3a712f8c0c9454eb3f3dfcd7274e0ce81a83dca1286db795f04c2ccf2",
+          "checks": 129,
+          "failures": []
+        },
+        "own_unfrozen_plan_precision": {
+          "pointer": "/critical_meaning_and_source_qualifications/4",
+          "old_literal": "Castle apology/hand pledge belongs to that local participant before the separate sleeping aftermath.",
+          "new_literal": "Nagusa makes the castle apology and hand pledge to the local Ayame participant before the separate sleeping aftermath.",
+          "why": "Name the actual actor and recipient directly in this plan qualifier. No body/source/claim change: the source already states Nagusa apologizes and pledges to the castle participant. All25 literary bytes and both proposed technical replacements stay identical.",
+          "full_old_plan_beforeimage": {
+            "bytes": 41432,
+            "sha256": "3ef6f3984a2304e0ec3b198eb1f2a2256aa40829461edc73b43f0152d1a35706"
+          },
+          "whole_old_plan_byte_inverse_exact": true
+        },
+        "proof_reuse_scope": "The complete prior41432-byte note is recovered by this one lexical inverse. Every input, proposed2bodyspans,25literal/headings/order/citation checks,25author/map equality/substrings,15normative selectors,2peer difference sets and10policy captures remain unchanged. All129 prior results remain applicable to identical tested fields; current exact plan and20inputpins separately rechecked. No new source/candidate work.",
+        "current_checks": {
+          "whole_old_plan_inverse": true,
+          "all20_input_pins_unchanged": true,
+          "no_candidate_written": true,
+          "all_body_proposal_data_unchanged": true
+        },
+        "diagnostic": "An initial PowerShell quoting attempt containing a smart apostrophe failed at shell parse before Python started or any write. This own stdlib operation applies the single ASCII clause precision; no old frozen artifacts touched.",
+        "scope": "Own plan/proof only; no candidate/source/R/Git/provider/shared/excluded access/change, foreignhelpers or new source course."
+      }
+    }
+  ],
+  "current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AYAME_CHARACTER_MONOGRAPH.md",
+      "bytes": 17334,
+      "sha256": "36177df68f4611d9792d7adfef9b9119b21116ba3908396e4d9545cf9e53de78"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 100054,
+      "sha256": "1ecbbd180bc23b564a5d37440e12bc9909b8c85bc231c3a757fdf1b546afebe4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AYAME_CHARACTER_RECEIVING_20261104_V1/AYAME_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+      "bytes": 111393,
+      "sha256": "8cdb2168f7ac976285404354f51bdf77be12c47a65c33f8fc1c3e88b0552d727"
+    }
+  ]
+}
