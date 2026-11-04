@@ -1,0 +1,1677 @@
+{
+  "schema": "tomozaki_additional_three_portable_evidence_and_review_packet/v1",
+  "packet_id": "TOMOZAKI_ADDITIONAL_THREE_PORTABLE_EVIDENCE_REVIEW_20261103_V1",
+  "artifact_type": "derived_model_evidence_and_review_packet",
+  "status": "canonical",
+  "release_state": "mutable_active",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "prepared_utc": "2026-11-04T03:10:46.048763+00:00",
+  "date_local": "2026-11-03",
+  "literary_basis_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+  "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+  "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+  "current_disposition": "THREE_ROOT_ACCEPTED_BOUNDED_DERIVED_MODELS_CANONICAL_PUBLICATION_PENDING",
+  "root_acceptance_record": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+    "json_pointer": "/records/1/value"
+  },
+  "root_acceptance_raw_sha256": "eeb39b8331a2cf380d06504e3f95ed81911170c6f321b4f49a3836b8a1429a55",
+  "validation_scope": "Bounded semantic operation and selective source-derived communicative-act/local text-register constraints in manual prose models; Rena strictly non-graphic ordinary/advice/third-person accountability.",
+  "actual_trace_counts": {
+    "producer": 15,
+    "independent": 12,
+    "total": 27
+  },
+  "record_index": [
+    {
+      "record_id": "suff.assessment",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_sufficiency_root_20261103/THREE_PERSON_SOURCE_SUFFICIENCY_AND_ROOT_ADMISSION.md",
+        "bytes": 14766,
+        "sha256": "7181e9a91059a0fa37088484782387bc8378322d9e55b46bc34d47be01f4525f"
+      },
+      "semantic_value_sha256": "235e515a4a863ebbe3031dab9bee27b0d8650763263621f8de5bf8701f35469b"
+    },
+    {
+      "record_id": "suff.read_scope",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_sufficiency_root_20261103/ROOT_COMPLETED_READ_SCOPE.json",
+        "bytes": 6338,
+        "sha256": "27249c62af3076a463c18ed89591143a12b428faa10242662a76983537a28366"
+      },
+      "semantic_value_sha256": "92fa52e8ecb7fa6fd40380d181fe2fb48de4ebeade2c8ade3058371e6567db1e"
+    },
+    {
+      "record_id": "root.construction_admissions",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_sufficiency_root_20261103/ROOT_THREE_DOMAIN_CONSTRUCTION_ADMISSIONS.json",
+        "bytes": 5004,
+        "sha256": "19e701f811f7cc78972df287116b767031bb1d20ea1de4dcf61297694d94539d"
+      },
+      "semantic_value_sha256": "3ad4ee1dbbc482793d8306783c249cfd1acc3c8a39f0b0ac5a989026b69ab400"
+    },
+    {
+      "record_id": "producer.dependencies",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+        "bytes": 34394,
+        "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+      },
+      "semantic_value_sha256": "519299088e97cbb1bf9faaa0388110267c531cdd7d16b066d13f7988e3887e1d"
+    },
+    {
+      "record_id": "producer.preparation",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+        "bytes": 11845,
+        "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+      },
+      "semantic_value_sha256": "edf082d033b67187ab909da89d21266cceaa6bd0903aa13a66699d66a1320052"
+    },
+    {
+      "record_id": "producer.freeze_request",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+        "bytes": 1077,
+        "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+      },
+      "semantic_value_sha256": "c8268a6730a69acb83a0e7343e40cfae0d142cef44708b6157bda49c205525ac"
+    },
+    {
+      "record_id": "producer.preregistration",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+        "bytes": 15309,
+        "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+      },
+      "semantic_value_sha256": "0d20064e1dfbd8f66163578884a6288d8356406c6409f9bb11dc38384d2036c2"
+    },
+    {
+      "record_id": "producer.authorization",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+        "bytes": 2681,
+        "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+      },
+      "semantic_value_sha256": "61d1475aa915ef4753db0c75167d8c58cafe3c9ae4170152680a4e9406525ed6"
+    },
+    {
+      "record_id": "producer.packet",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+        "bytes": 12425,
+        "sha256": "bec1f6fa4b34a16b2346fd1e153af93f6c1c4ffdef437555563913863c09d3e1"
+      },
+      "semantic_value_sha256": "97c48b7ff22a72227146e63edc2430a7f2a7caa2a5ba9416e50b3ab6a92d87af"
+    },
+    {
+      "record_id": "producer.readback",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/6/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/FINAL_PRODUCER_READBACK.json",
+        "bytes": 1922,
+        "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+      },
+      "semantic_value_sha256": "b5de7f2935afb5ccd32460a395e078a93fd06ffb21280316fdb7781b4e3f59d5"
+    },
+    {
+      "record_id": "producer.handoff",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/7/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_HANDOFF.md",
+        "bytes": 3946,
+        "sha256": "a1e7e5e450c781a717e5f5b2d0725599081b87cf7059665571821141d388ecd8"
+      },
+      "semantic_value_sha256": "df032f2cd3d0f396e665b366c25e3ae786e6ffa432461182f41ce3adcdcef1ce"
+    },
+    {
+      "record_id": "producer.inspection_log",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/8/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/actual_inspection_log.jsonl",
+        "bytes": 7824,
+        "sha256": "ed56d1f9ea0fb8bdbd24234b2ec8730503b64643c26bc3579d8e98d27c10c196"
+      },
+      "semantic_value_sha256": "511fdae4c8b60df87819c30e527299f214f1fcebf5d2f1596f9a4cab083d76c7"
+    },
+    {
+      "record_id": "producer.MZ.slice",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/9/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/MZ_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2495,
+        "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+      },
+      "semantic_value_sha256": "15837ca831d6f7dae10d3a5f83525a20c4a940a56a1be2c32744451953071f84"
+    },
+    {
+      "record_id": "producer.HH.slice",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/10/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/HH_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2491,
+        "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+      },
+      "semantic_value_sha256": "4c998ebf15bb9aa00361dffb4a784c6b166886eb002701d41fb84a5756bda69e"
+    },
+    {
+      "record_id": "producer.RE.slice",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/11/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/RE_IMMUTABLE_REVIEW_SLICE.json",
+        "bytes": 2482,
+        "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+      },
+      "semantic_value_sha256": "e455241d2cfb9f04539a91bdc77d0eabfd3b075ddedf09c3fa4eea78186640c8"
+    },
+    {
+      "record_id": "producer.seal",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/12/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/FINAL_ADDITIONAL_THREE_CONSTRUCTION_HANDOFF_SEAL.json",
+        "bytes": 6044,
+        "sha256": "7f62ccf54b97522dde41b9e64a2cf655a649150f216a004a27bbb207f5bd5760"
+      },
+      "semantic_value_sha256": "48a261763735c59ac9ee1b3d97e3f5cf18e45295db89c0991ef95440c7e1f0ec"
+    },
+    {
+      "record_id": "root.preregistration_freeze",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+        "json_pointer": "/records/13/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PREREGISTRATION_FREEZE.json",
+        "bytes": 2097,
+        "sha256": "7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc"
+      },
+      "semantic_value_sha256": "07e9fe2449d1ab44d7d788da316c3dc57c4c3c15a02cefde522d24210f1e7843"
+    },
+    {
+      "record_id": "original.MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12093,
+        "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+      },
+      "semantic_value_sha256": "ec941c822fac6bef639e6de91252f098534003c2e4f2e8771e144893a6966c37"
+    },
+    {
+      "record_id": "original.HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11598,
+        "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+      },
+      "semantic_value_sha256": "d9905ad4407a59da5d369e02e6b3d3c2d060854345eb129f2dc82e21a93f693a"
+    },
+    {
+      "record_id": "original.RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 13182,
+        "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+      },
+      "semantic_value_sha256": "252c3d79533f0cb9473e3ee10346281bf66e36ab2379e7f64e8310ed875666b3"
+    },
+    {
+      "record_id": "producer.MZ.traces",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 15917,
+        "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+      },
+      "semantic_value_sha256": "e6622579e9eeb43ce90ddb4194d105b4a87d55cbf31be027ef61e1a59ac6f84d"
+    },
+    {
+      "record_id": "producer.HH.traces",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 14649,
+        "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+      },
+      "semantic_value_sha256": "09417cf655e7af50e0b16bf6f7437e43519d49c9c1dab841379500f7a5adeb44"
+    },
+    {
+      "record_id": "producer.RE.traces",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/constructed_additional_models_20261103/RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+        "bytes": 15986,
+        "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+      },
+      "semantic_value_sha256": "7cfb976413c07ce96d641e2c269386ff185eb9336f239f76e6db915b71e1c120"
+    },
+    {
+      "record_id": "independent.preregistration",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/PRE_REGISTERED_ADDITIONAL_REVIEW.json",
+        "bytes": 24627,
+        "sha256": "c09b99954d201de4bd6baca9782fbec4da861fa004b07bf5166320f8b7476348"
+      },
+      "semantic_value_sha256": "b510eace59539efe9f4a907941a6cea67ff7fae96c7eede1d3350c01ae3b70c0"
+    },
+    {
+      "record_id": "independent.preregistration_seal",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/PRE_REGISTRATION_SEAL.json",
+        "bytes": 650,
+        "sha256": "8f79675a1fdb1f8631a23e69a0eaa3b17883276fad82a0c2f4fc737d625e98a4"
+      },
+      "semantic_value_sha256": "ebd352f0241dcf80afb567aa97e11e148ded24c1e79937a9b110c367e4f5e794"
+    },
+    {
+      "record_id": "independent.preexposure_integrity",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/PRE_EXPOSURE_INTEGRITY_PROOF.json",
+        "bytes": 3948,
+        "sha256": "81298f8266658c4056bda5d053a408d13a1beff477049a08f98518036dd6d8b1"
+      },
+      "semantic_value_sha256": "d7f974fa49123118fdfe6080edecfc3f9debd980a293fbf56f714c1d8380f2c9"
+    },
+    {
+      "record_id": "independent.binding_proof",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/ACTUAL_INPUT_AND_DEPENDENCY_BINDING_PROOF.json",
+        "bytes": 32534,
+        "sha256": "e647613498a21cf38a684d8ae5c401ada9557680be404855a16e794dff34071d"
+      },
+      "semantic_value_sha256": "045a604733354ed6163c82bd367e43f4d11c86727fe42730f6ee066fb76cd861"
+    },
+    {
+      "record_id": "independent.traces",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/TWELVE_INDEPENDENT_ACTUAL_CHALLENGE_TRACES.json",
+        "bytes": 45280,
+        "sha256": "ea9cbe24f60571aee12054e90415df482b574e9353cf2c7928583586c0fa6e93"
+      },
+      "semantic_value_sha256": "cfa4fea7f2ae5432414e50ff786a0a9a5ff35b9d4711b1fd0ab02ceee0a4fddf"
+    },
+    {
+      "record_id": "independent.review",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/MIZUSAWA_HARUKA_RENA_INDEPENDENT_REVIEW.md",
+        "bytes": 14007,
+        "sha256": "bd4d3db2d5f2e6072ac1cce9054eba9b6bb6c75b28971bf444b934b9731c43a4"
+      },
+      "semantic_value_sha256": "a845b7a130223af11c7db3434103ab8e59ab6202223d1be7840ee1012ab9eaaf"
+    },
+    {
+      "record_id": "independent.seal",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/6/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/additional_models_independent_review_20261103/FINAL_ADDITIONAL_THREE_INDEPENDENT_REVIEW_SEAL.json",
+        "bytes": 6333,
+        "sha256": "31d3d88e36ca0d598730fc3bc1f4e5c75bc60571aea9f82dedf8f5c3f7fa5ff1"
+      },
+      "semantic_value_sha256": "cbabc6025416290411c15e36ef8ee16815ddde2d32ceb525488eceed86da11aa"
+    },
+    {
+      "record_id": "root.producer_binding_proof",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PRODUCER_ACQUISITION_AND_BINDINGS.json",
+        "bytes": 14646,
+        "sha256": "d6674cd33752cf07e9fbe52410521f31c4e34d4883ce630ecc6172685bf100f8"
+      },
+      "semantic_value_sha256": "e5fa0238c9d9d4324bf8a11c0e577bcda89af3ce405654c1cd874fba92de7bc1"
+    },
+    {
+      "record_id": "root.acceptance",
+      "portable_value": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 12205,
+        "sha256": "eeb39b8331a2cf380d06504e3f95ed81911170c6f321b4f49a3836b8a1429a55"
+      },
+      "semantic_value_sha256": "2e0c47b0765566286c42a47645da251649438ed6b3512703bcf76a18d6660cef"
+    }
+  ],
+  "historical_record_policy": "Every complete archived value is unchanged and attributable. Earlier pending/no-admission labels describe creation-stage history; later actual root decisions remain separate. Archived scratch strings and helper identities are provenance only, never active retrieval requirements. No helper body, argv, raw primary extraction or media is included.",
+  "dependency_snapshots": [
+    {
+      "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 27744,
+      "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 16539,
+      "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 20131,
+      "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 25457,
+      "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 17025,
+      "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 129891,
+      "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 145033,
+      "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 52873,
+      "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 72543,
+      "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 198814,
+      "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 20236,
+      "sha256": "1566fcada5d71f27f3d75d9cb884f45fef1ec261c0e00926f8cc43da3b07f4c4",
+      "acquisition_scope": "Preceding personally acquired scoped windows retained exactly; see source sufficiency receipt. Not a new whole-file reading.",
+      "portable_resolution": {
+        "repository_path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 11684,
+      "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+      "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 160805,
+      "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b",
+      "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 35306,
+      "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+      "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 14151,
+      "sha256": "1c2628ede4a780de5de44cd0c057b7281a41d80310c518c1a0cfd2c4d3db4343",
+      "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 592652,
+      "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+      "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 72802,
+      "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+      "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+        "git_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "git_object_expression": "164a593d8ee6998cf735442d855135ababfee497:series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 24746,
+      "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90",
+      "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+        "git_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "git_object_expression": "164a593d8ee6998cf735442d855135ababfee497:series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 73740,
+      "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+      "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+        "git_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "git_object_expression": "164a593d8ee6998cf735442d855135ababfee497:series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+      "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+      "bytes": 15549,
+      "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb",
+      "acquisition_scope": "Architecture16/17.2 and full fixed audit; decision/register complete unique frames read, repeated instance arrays mechanically joined without fresh literary-reading credit.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+        "git_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "git_object_expression": "164a593d8ee6998cf735442d855135ababfee497:series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 115139,
+      "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022",
+      "acquisition_scope": "Identity-only binding for inherited dossier SOC references; no new complete social-ledger semantic reading.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 39886,
+      "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+      "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 21156,
+      "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+      "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 36387,
+      "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+      "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md"
+      },
+      "raw_identity_replayed": true
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "bytes": 18196,
+      "sha256": "6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a",
+      "acquisition_scope": "Exact inherited acceptance/provenance binding; not a fresh complete review-body reading in this task.",
+      "portable_resolution": {
+        "repository_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+        "git_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_object_expression": "b498a20457e4debeb70895fca8ebd37717e91017:series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md"
+      },
+      "raw_identity_replayed": true
+    }
+  ],
+  "three_individual_release_joins": [
+    {
+      "person": "Mizusawa Takahiro",
+      "admission_id": "MR-P06",
+      "scope": "Finite represented peer/social-learning, family/occasional-work, negotiation and V12friendship/collaboration eras; no universal pursuit/consent/career policy.",
+      "literary_input": {
+        "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+        "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "bytes": 39886,
+        "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1",
+        "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+      },
+      "released_version_record": {
+        "release_slot": 6,
+        "role": "A",
+        "version": {
+          "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+          "bytes": 39886,
+          "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1"
+        },
+        "snapshot_git": {
+          "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+          "git_blob_sha1": "eb194aba2135d76fb490f49b5f560b6ede6b4b74",
+          "git_mode": "100644"
+        },
+        "source_selection_record": {
+          "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+          "json_pointer": "/versions/5",
+          "complete_original_record_value_sha256": "88169c1236d1370c398041c414c056b3f5031a63bef784bbcfe4825b2b784bad"
+        },
+        "observed_working_authority_at_snapshot": {
+          "status": "canonical",
+          "release_state": "mutable_active",
+          "do_not_use_as_current_authority": "false"
+        },
+        "released_instance_edit_policy_id": "released_literary_instance",
+        "current_working_owner_edit_policy_id": "current_literary_working_owner"
+      }
+    },
+    {
+      "person": "Hinami Haruka",
+      "admission_id": "MR-B05",
+      "scope": "Representedplay, school/modelaspiration, selectivecontact/disclosure, inquiryandreading/relay eras; no broadfamilyrepair/therapy/completeinterior.",
+      "literary_input": {
+        "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+        "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "bytes": 21156,
+        "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681",
+        "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+      },
+      "released_version_record": {
+        "release_slot": 12,
+        "role": "B",
+        "version": {
+          "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+          "bytes": 21156,
+          "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681"
+        },
+        "snapshot_git": {
+          "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+          "git_blob_sha1": "14fa488fc1cceb8e20e018e2efbf74fb48c72afe",
+          "git_mode": "100644"
+        },
+        "source_selection_record": {
+          "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+          "json_pointer": "/versions/11",
+          "complete_original_record_value_sha256": "0044e8a7756b68086cf11e808020ba974fe2402c04caaab84ef650970f3b2436"
+        },
+        "observed_working_authority_at_snapshot": {
+          "status": "canonical",
+          "release_state": "mutable_active",
+          "do_not_use_as_current_authority": "false"
+        },
+        "released_instance_edit_policy_id": "released_literary_instance",
+        "current_working_owner_edit_policy_id": "current_literary_working_owner"
+      }
+    },
+    {
+      "person": "Rena",
+      "admission_id": "MR-B07",
+      "scope": "Non-graphic ordinarygaming/taste/status/attention, attributedformationcomparison,situatedadvice andthirdpersonaccountabilityanalysis; no erotic/sexualresponsegenerator or generalizedstopping/reform.",
+      "literary_input": {
+        "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+        "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "bytes": 36387,
+        "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174",
+        "acquisition_scope": "Complete literary body personally acquired in preparation; actual intervals in unchanged preparation receipt."
+      },
+      "released_version_record": {
+        "release_slot": 17,
+        "role": "B",
+        "version": {
+          "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+          "bytes": 36387,
+          "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174"
+        },
+        "snapshot_git": {
+          "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+          "git_blob_sha1": "8adc746e61d3a2ee583ab0bd10afe09c15b0b4b3",
+          "git_mode": "100644"
+        },
+        "source_selection_record": {
+          "manifest_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_LITERARY_RELEASE_VERSION_MANIFEST.json",
+          "json_pointer": "/versions/16",
+          "complete_original_record_value_sha256": "0195b6d09f08c4cfdf69dcb5e73c8f184fd9fe3962889b8acc546e596cf071ae"
+        },
+        "observed_working_authority_at_snapshot": {
+          "status": "canonical",
+          "release_state": "mutable_active",
+          "do_not_use_as_current_authority": "false"
+        },
+        "released_instance_edit_policy_id": "released_literary_instance",
+        "current_working_owner_edit_policy_id": "current_literary_working_owner"
+      }
+    }
+  ],
+  "protected_reading_route_bindings": [
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+        "bytes": 48947,
+        "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "4970807e6f1f04fbd739ecb2efc42d1fc71de47c",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/0",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+        "bytes": 48429,
+        "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "fc3c2af113f8368dbc3aa3e81c5d827260eba955",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/1",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+        "bytes": 54677,
+        "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "45d320db51908ed45c8681414403f06e64efb665",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/2",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+        "bytes": 55108,
+        "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "0dae0952e05a70afdd6512ce50abcb70a07b7c84",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/3",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+        "bytes": 62512,
+        "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "fbdef6ebbcc7959ab5df8f55df815bb2180820d9",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/4",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+        "bytes": 34031,
+        "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "f9ecf8c4e4196aa775e3563a23f5c7a02c214068",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/5",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+        "bytes": 57844,
+        "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "208441bbe854b5079f3675d56af0422980c2ab44",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/6",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+        "bytes": 67696,
+        "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "7f791c1a901b30d566429592c7cec9ff69de334b",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/7",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+        "bytes": 39200,
+        "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "2f43a962453058a7840125e2b1cc45fc39a7bfdc",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/8",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+        "bytes": 50690,
+        "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "f1e646caae98ad0964a8f95fe83a5f8fde0ae7c0",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/9",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+        "bytes": 60208,
+        "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "c960c20be2b225548b068facc03fc98c39e08f52",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/10",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+        "bytes": 57797,
+        "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "a0d3c98300efad576863aa4f1a11548a6c1d58e3",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/11",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+        "bytes": 75055,
+        "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "d314dbc8e48ec4842691a0bc9d7af2d834f89f73",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/12",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V12_DEEP_READING.md",
+        "bytes": 68805,
+        "sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "7a4d2acdfb056815f97624dadbab49da5233edaf",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/13",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md",
+        "bytes": 61110,
+        "sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "679a7b3b926a6f8814c00a31feb4b667754b184f",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/14",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    },
+    {
+      "identity": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md",
+        "bytes": 22379,
+        "sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00"
+      },
+      "snapshot_git": {
+        "commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "git_blob_sha1": "a7af930f0ee584e6f4da3f4c6c83565ccf445a24",
+        "git_mode": "100644"
+      },
+      "source_preservation_record_pointer": "/protected_source_facing_entering_and_admission_states/15",
+      "historical_source_transaction_commit": "406b26c4591a9bce99c83a54600286f56a35678e",
+      "historical_source_transaction_sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00",
+      "owner_edit_policy_id": "protected_source_entering_admission"
+    }
+  ],
+  "protected_route_pointer_owner": {
+    "manifest": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_PATH_AND_VALIDATION_MANIFEST.json",
+      "bytes": 101778,
+      "sha256": "643c900ac2e29cf570b7f8e4c7f7d8f18335ec80d56543328f976be2ab08af79",
+      "git_blob_sha1": "3e8c2cd6ae69214e9f3415f46b7bcbf77de7fa64",
+      "git_mode": "100644",
+      "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017"
+    },
+    "json_pointer_base": "/protected_source_facing_entering_and_admission_states",
+    "scope": "Every protected-state source_preservation_record_pointer is relative to this explicitly identified edition-basis manifest, not the separate literary-selection input manifest."
+  },
+  "protected_route_pointer_owner_replay": {
+    "owner_raw_identity_exact": true,
+    "all16_bindings_equal_fixed_register": true,
+    "all16_pointer_owner_values_and_Git_blobs_exact": true
+  },
+  "source_member_alias_rules": {
+    "V01_partNNNN": "text/partNNNN.html",
+    "V04_pNNNN": "OEBPS/Text/p-NNNN.xhtml",
+    "V05_partNNNN": "text/partNNNN.html",
+    "V06_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V06.5_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V07_partNNNN": "OEBPS/Text/partNNNN.xhtml",
+    "V08_V09_V10_partNNNN": "text/partNNNN.html",
+    "V11_V12_pNNNN": "item/xhtml/p-NNNN.xhtml",
+    "DRNN": "Exact source-facing path/identity in protected_reading_route_bindings; source evidence handles remain dossier-defined.",
+    "V03_partNNNN": "text/partNNNN.html",
+    "V08.5_partNNNN": "text/partNNNN.html"
+  },
+  "source_locator_convention": "One-based all HTML p including empty/image-bearing elements, reset per exact member, ruby retained. Dossier local source handles preserve actual prior inspection scopes; no new primary inspection.",
+  "inherited_primary_lineage_route": {
+    "supporting": {
+      "canonical_manifest": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "bytes": 592652,
+        "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53",
+        "acquisition_scope": "Exact identity/provenance binding only in this construction task. Material scene claims derive from personally read complete dossier and scoped owners, not a claimed fresh full read of this dependency."
+      },
+      "records": [
+        "family.producer_read",
+        "family.independent_source",
+        "family.Haruka_delta_rebind",
+        "rena.producer_read",
+        "rena.independent_source",
+        "rena.delta_rebind"
+      ],
+      "scope": "Existing supporting manifest Haruka/Rena records retain actual witness/member/window identities and review deltas. They remain inherited; no new primary inspection."
+    },
+    "mizusawa": {
+      "route": "Exact released Mizusawa monograph section14 MZ-P01–05, pinned source lock and protected reading routes, plus principal/R06 integration review dependency.",
+      "scope": "Actual selective source-return register supplies witness/member/all-P scope. This model producer personally read that complete register, not raw novel members or the entire acceptance packet anew."
+    },
+    "scope": "Retained prior actual provenance only; no new primary return."
+  },
+  "original_model_records": [
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "json_pointer": "/records/0/value"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "json_pointer": "/records/1/value"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "json_pointer": "/records/2/value"
+    }
+  ],
+  "current_model_instances": [
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "bytes": 13281,
+      "sha256": "40784d1fa96cae7d3453ef689d84a6b62eebfbf06c61c704e52a0d8bbdbafe3f"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "bytes": 12786,
+      "sha256": "3eb3d4018c54f5169767080e61d9230ab42dd12e19fa4a295f3a5eb9e3705a62"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "bytes": 14370,
+      "sha256": "0897af539acda0b8ac51a99c87a7643fe178f96d75de11ce3be79f19425749cd"
+    }
+  ],
+  "operator_guide": {
+    "path": "series/tomozaki/07 Character Reconstruction Models/README.md",
+    "bytes": 8649,
+    "sha256": "6ce54c1f2fa72d38644ec192384b13707f845d686702191e28f3e4ee17fb3c83"
+  },
+  "evidence_shards": [
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_SOURCE_SUFFICIENCY_RECORDS.json",
+      "bytes": 30812,
+      "sha256": "4f403194f6d85ee81ba957476f23ff20c5868f898068bccc1cd3c9390eb7a62e"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_CONSTRUCTION_RECORDS.json",
+      "bytes": 126496,
+      "sha256": "b71dbee4335abf46b63d53a11bcc36e4479ec5057f9f94993214b758bb13ddee"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+      "bytes": 39866,
+      "sha256": "d76c55a0b6f8e740595d48c5cf9c88286e63709a70d4e0718f5ac2445ddd3715"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+      "bytes": 52992,
+      "sha256": "be72ce910047e0414e6809d9a406b4adf1dcd52f5e36c626414af47a492aa376"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+      "bytes": 142938,
+      "sha256": "58d2400664e8e325276022fc89e8ffc555edb5e3ea7f41785f63ad5244792d4b"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+      "bytes": 32400,
+      "sha256": "b0598ebe41b7004489e6a48cf9ac3501342b320ceb7e997a45bb1e77be326ffb"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_DERIVATION_RECORDS.json",
+      "bytes": 17105,
+      "sha256": "5d8ce19fb2911e93e3e401d4e15107161d711a9fc24979cf9e6c81c34e8a3276"
+    }
+  ],
+  "integration_review_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md",
+  "actual_case_index": [
+    {
+      "case_id": "MZ-R1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/0"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "MZ-R2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/1"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "MZ-R3",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/2"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "MZ-H1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/3"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "MZ-H2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/0/value/records/4"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "HH-R1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value/records/0"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "HH-R2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value/records/1"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "HH-R3",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value/records/2"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "HH-H1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value/records/3"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "HH-H2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/1/value/records/4"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "RE-R1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/0"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "RE-R2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/1"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "RE-R3",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/2"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "RE-H1",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/3"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "RE-H2",
+      "role": "producer",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_PRODUCER_TEST_RECORDS.json",
+        "json_pointer": "/records/2/value/records/4"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete literal frozen input/range, selector/exposure, actual output, abstention, observation/error and attempt remain in the pointed historical record; no invented truth label."
+    },
+    {
+      "case_id": "ADD-MZ01",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/0"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-MZ02",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/1"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-MZ03",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/2"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-MZ04",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/3"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-HH01",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/4"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-HH02",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/5"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-HH03",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/6"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-HH04",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/7"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-RE01",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/8"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-RE02",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/9"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-RE03",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/10"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    },
+    {
+      "case_id": "ADD-RE04",
+      "role": "independent",
+      "complete_input_output_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INDEPENDENT_REVIEW_RECORDS.json",
+        "json_pointer": "/records/4/value/records/11"
+      },
+      "original_model_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "current_administrative_render": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "scope": "Complete independently frozen challenge, model/selector, actual output, criterion result and truth-label limit remain in the pointed record."
+    }
+  ],
+  "material_model_defects_found": [],
+  "corrections_or_retests_required": false,
+  "limits": [
+    "Known-canon checks exposed; hypothetical outputs have no observed canonical truth labels. Shared source knowledge is not a blind test.",
+    "Written model-guided manual applications, no separate autonomous runtime persona engine or canonical truth oracle.",
+    "Selective local Japanese-text/register controls only; no freeform Japanese/full idiolect/acoustic authenticity.",
+    "Output-domain/permission gates do not prove ideal character compliance, reform or a universal stopping rule.",
+    "No global capability grade, owner calibration, human REVIEWED promotion, new source admission or terminal closure."
+  ],
+  "source_new_inspection": {
+    "primary": 0,
+    "pixels": 0,
+    "audio": 0
+  },
+  "remaining_campaign": "Six principal models and historical/documentary retrieval/context responsibilities continue through separate exact-candidate gates. Cumulative nine bounded acceptances do not decide them.",
+  "publication_boundary": "Scratch candidate packaging only. Root owns installation, exact-head preflight/CI, publication and main integration; no future pass or merge is certified here. Edition1 fixed records/31 literary instances/16 protected states and STABILIZED architecture are unchanged.",
+  "self_hash_policy": "No recursive containing-file identity; separate candidate manifest/replay/seal binds this complete payload.",
+  "packaging_generation": "STAGE1_IMMUTABLE_RECORDS_PLUS_CONTAINED_FINALIZATION_V1"
+}
