@@ -60,7 +60,7 @@
   ],
   "main43_retrieval_witnesses": "COMPLETE_ARGUMENT_AND_SOURCE_SCOPED_DISPOSITION_ACCEPTED_WITH_LIMITS",
   "quarter_reached": true,
-  "progress_percentage": "TRANSACTION164/355 (46.1972%) ONLY_ON_COMPLETE_ACCEPTED_SUOU6_SHARED7_INSTALL_AND_COMMIT; ACTUAL_PRETRANSACTION_SOURCE7b65_MAINe7bb163/355_NAMED19/29_FULL486_ZERO_FAILURE_ERROR_SKIP; NEXT178_UNREACHED14_REMAINING_AT164; FUTURE_SUOU_PUBLICATION_INTEGRATION_REQUIRE_ACTUAL_RECEIPTS",
+  "progress_percentage": "TRANSACTION165/355 (46.4789%) ONLY_ON_COMPLETE_ACCEPTED_SUMIRE_REI6_SHARED7_INSTALL_AND_COMMIT; ACTUAL_PRETRANSACTION_SOURCE8d7209_164_MAIN58f6_163_NAMED19/29; SOURCE8d7209_FULL486_ZERO_FAILURE_ERROR_SKIP; NEXT178_UNREACHED13_REMAINING_AT165; SUCCESSOR_PUBLICATION_INTEGRATION_REQUIRE_ACTUAL_RECEIPTS",
   "opening_candidate_responsibility_rows": 761,
   "new_source_local_or_non_character_headers": 27,
   "completed_owner_roster_reviews": 105,
@@ -80,7 +80,7 @@
     "P3-XMI-R001"
   ],
   "initial_761_still_pending_rows": 0,
-  "milestone_scope_state": "FULL355_29_25_384_788; FIRST89_HISTORY_COMPLETE; VERIFIED_SOURCE7b65_MAINe7bb163_19; TRANSACTION164_19_ONLY_AFTER_COMPLETE_PERSISTENCE; NEXT178_UNREACHED14_REMAINING_AT164; ALL14OPEN_MODELS0_BROAD150_AUDIT_ACTIVE",
+  "milestone_scope_state": "FULL355_29_25_384_788; FIRST89_HISTORY_COMPLETE; VERIFIED_SOURCE8d7209_164_MAIN58f6_163_NAMED19; TRANSACTION165_19_ONLY_AFTER_COMPLETE_PERSISTENCE; NEXT178_UNREACHED13_REMAINING_AT165; ALL14OPEN_MODELS0_BROAD150_AUDIT_ACTIVE",
   "accepted_literary_character_packages": [
     "Asuna",
     "Toki",
@@ -227,9 +227,9 @@
     "P3-XMI-R005"
   ],
   "package_tracking_rows": 177,
-  "completed_literary_packages": 164,
+  "completed_literary_packages": 165,
   "completed_literary_character_packages": 119,
-  "completed_literary_directed_relationship_packages": 19,
+  "completed_literary_directed_relationship_packages": 20,
   "accepted_literary_directed_relationship_packages": [
     "Noa–Yuuka: privacy, memory and wanted company",
     "Meg–Kasumi: craft, care and leverage",
@@ -249,7 +249,8 @@
     "Haruka, Aru and Mutsuki: repayment, recognition and independent wants",
     "Odysseia and Sammy: directed care, clinical urgency and survivor responsibility",
     "GSC differentiated work and recognition: finite mediation, practical care and dissent",
-    "Toki and Game Development Department: recognition and belonging under chosen responsibility"
+    "Toki and Game Development Department: recognition and belonging under chosen responsibility",
+    "Sumire–baseball Rei: chosen goals, disputed means and wanted company"
   ],
   "historical_pre_full_scope_frontier": {
     "eligible_package_denominator": "NOT_YET_FIXED; complete census adjudication required before progress thresholds",
@@ -311,7 +312,7 @@
   ],
   "required_package_index_rows": 355,
   "legacy_package_tracking_rows": 177,
-  "canonical_persistence_qualification": "Root has accepted **Asagiri Suou**, existing required character parent `P3-CHAR-M003` / responsibility `P3-M003`, and the exact six current-eligible metadata files **WITH LIMITS**. The connected24-paragraph study distinguishes procedural leverage, uneven knowledge and unsettled purpose; Nonomi's choices and the other parties' orders remain their own. Suou's supervisory work, inquiry and departure retain intrinsic value; Nonomi's pleasures and the twins' wanted work and company remain their own. No loyalty, site history, mechanism, clinical state or reconciliation is inferred beyond the maintained accounts.\n\n**Verified pretransaction publication and integration:163/355 (118 character,19 directed relationship,five ensemble,21 institution),19/29 named.** Published source `7b65ab9e6c12d851bc545524ba5bb826db2e5c48` passed its actual full486-test audit with zero failures, errors or skips. [PR457](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/457) was actually merged at `27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c`, whose full486/zero-skip postmerge audit also passed. Current main `e7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8` preserves that163 content and has its own actual full486/zero-failure/error/skip audit (run41844303934). These receipts close the earlier Ayame preparation labels at their proper heads; they certify no future Suou head.\n\n**This transaction records164/355 (46.1972%):119 character,19 directed relationship,five ensemble,21 institution, effective only upon complete accepted Suou six plus shared7 installation and commitment.** Private C preparation earns zero credit. Named duties stay19/29. The177-row legacy tracker is not the denominator. At164, next178 remains unreached with14 packages remaining; the pretransaction163 baseline has15 remaining. Suou publication, exact-head audit, protected integration and postmerge success require their actual later receipts.\n\nActual full public-form/different metadata review and Root new-byte adoption preserve all16193 post-YAML bytes/24 paragraphs,62 complete old records/48 histories and source14. The current six files distinguish accepted content authority from dated preparation, installfalse/publicationnull/count0 snapshots. Later actual persistence and receipts govern execution; old pending text is dated history. The five real retained logical locators and seven express nonruntime private witnesses do not grant a new source course. Metadata QA's676 checks and Root's independently implemented592 checks remain separate documentary scopes.\n\nRequired scope stays355 packages/29 named duties/25 parents/384 homes/788 original responsibilities; all14 claim-specific gaps stay OPEN, models0 and the fixed150-package source/semantic consistency audit remain active. Only existing M003 is completed by this transaction; the other354 required rows, preceding176 legacy rows,29 named rows and384-home partition are preserved. Nonomi–Suou relationship and rail-corporate institutional duties, Sumire–baseball Rei, Prenapates, Ayame–Nagusa and its junior–senior named repair remain separately incomplete. Ordinary, sparse and low-stakes evidence is not excluded.\n\nCurrent continuation: finish the actual exact13-path transaction, production author preflight, full diff and approved-identity commitment, then normal nonforced publication, complete remote readback, exact-head audit/housekeeping and protected integration/postmerge. After actual persistence, those completed prerequisites must not be restated as permanently pending. No future audit, integration,178 milestone, new source/identity/named/model or tooling authority is claimed. Claude's scoped tooling implementation and reserved tooling merge remain separate.",
+  "canonical_persistence_qualification": "Root has accepted **Sumire–baseball Rei: chosen goals and disputed means**, existing required relationship P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS / responsibility P3-XMI-R001, and the exact six canonical-metadata files **WITH LIMITS**. Baseball Rei is CH0245. Rei chooses batting help; Sumire wants to develop another person. Granted pauses, shared watching, Rei’s food interest and treat offer, Sumire’s allowance, company and clothes memory, renewed demands and refusals retain their particular actors and local outcomes. Quiet company, pleasure and rest have intrinsic value. The study does not infer a consumed Sumire meal, permanent consent, lasting moderation or another Rei identity.\n\n**Verified pretransaction source publication:164/355 (119 character,19 directed relationship,five ensemble,21 institution),19/29 named, at source 8d7209f857cb20dd57c3ad2b0c62e460c81c6190.** Complete remote readback and its [actual exact-head full486-test audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41890001158) passed with every discovered test executed once and zero failures, errors or skips. [PR461](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/461) remains open and unmerged at this receipt. The P015 correction at that head adds no package or source credit. Fresh main 58f6f432370a93b475dd3969df838dfff184ea42 preserves the separately verified163-package content; PR457’s actual integration27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c and main e7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8 retain their own full486/zero-skip receipts. These are exact-head receipts, not certification of a later source or integration head.\n\n**This transaction records165/355 (46.4789%):119 character,20 directed relationship,five ensemble,21 institution, effective only upon complete accepted Sumire–Rei six plus shared7 installation and commitment.** Private C preparation adds zero progress. Named duties remain19/29. The existing P3-XMI-R001 legacy row is updated; its177-row table is not the355-package denominator. At165, next178 remains unreached with13 packages remaining (14 at the verified source164 baseline). New publication, exact-head audit, protected integration and postmerge success require their actual receipts.\n\nDifferent finite metadata review2803/0 and Root’s separately implemented1046/0 document-fidelity checks are complete, followed by Root’s actual acceptance of these exact new bytes. All13196 post-YAML literary bytes/20 paragraphs,47 earlier records/64 resolved meanings/53 dated IDs remain preserved; current metadata has57 records/74 meaningful roots/63 IDs and14 acyclic nonself component bindings. SOURCE retains source modes and operative qualifiers; AUTHOR retains full questions, reasons and resolved access history; PEER retains full independent earlier public-form judgments; ROOT’s R12 distinguishes the recorder from the authorizing Root and supplies the canonical-metadata decision. Dated preparation, pending review and C-only snapshots remain literal history. Actual subsequent review and persistence close those conditions at their proper stages.\n\nSource courses remain attributable: Root personally owns selected240 maintained addresses; the original body author and different body reviewer independently own the two complete maintained character analyses (336 lines/117 paragraphs) plus selected240. Original950/1839 character courses belong to their actual readers. The metadata composer acquires no underlying source course. No native/raw/primary/audiovisual source, model readiness, new person or named-section credit follows.\n\nRequired scope remains355 packages/29 named duties/25 parents/384 homes/788 original responsibilities. First89 integration remains historical; all14 claim-specific gaps stay OPEN, operational models remain0 and the fixed150-package source/semantic consistency audit stays active. Other354 required rows, other176 legacy rows, all29 named rows and the384-home partition remain unchanged. Prenapates, Ayame–Nagusa and its junior–senior named repair, Nonomi–Suou and the rail-corporate institution retain separate unfinished publication duties. Earlier current headings below preserve their dated transaction states; the verified source8d7209 receipts close the preceding Suou preparation/publication labels without rewriting original accepted pins or intellectual records.\n\nCurrent continuation: complete the exact13-path shared-state review, fresh beforeimage/ref guards, full installation, unmodified staged author preflight, complete diff review and approved-identity commitment, followed by ordinary nonforced publication, complete remote readback and this successor’s exact-head full audit. After each actual step, its completed prerequisite is closed rather than permanently restated as pending. Protected integration and the actual integration-SHA audit remain separate. Continue the complete355-package/29-duty goal toward178; this transaction grants no tooling or merge authority.",
   "source_units_in_selected_public_census": 1107,
   "literal_source_local_header_routes": 8326,
   "literal_choice_routes": 742,
@@ -327,11 +328,11 @@
     "Pandemonium–Ibuki: different directions of company and care",
     "Gourmet Club: differentiated pleasure and unreliable mutual care"
   ],
-  "quarter_reached_qualification": "First89 integrated. Actualpublishedandintegrated163/355,named19/29,full486zero-skip source/Main receipts. Suou164/355 onlyuponcompleteaccepted6+shared7installation/commit. Next178unreached14remainingat164. Futureheadsaudits/integrationrequireactualreceipts.",
+  "quarter_reached_qualification": "First89 integrated. Actual source8d7209_164/355 named19/29 complete486 once zero-failure/error/skip audit41890001158;main58f6 preserves separately verified163 content/integrationreceipts. SumireRei165 onlyuponcompleteaccepted6+shared7install/commit;next178unreached13remainingafter165. Successorpublication/integration requireactualreceipts.",
   "goal_quarter_milestone_complete": true,
   "goal_quarter_milestone_remaining_prerequisites": [],
-  "currently_source_published_packages_before_successor_publication": 163,
-  "main_integration": "ACTUAL_PR457_MERGE27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c_FULL486_ZERO_SKIP; CURRENT_MAINe7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8_163_FULL486_ZERO_FAILURE_ERROR_SKIP_RUN41844303934; SUOU_NEW164_TRANSACTION_NOT_YET_INTEGRATED_NO_FUTURE_PASS",
+  "currently_source_published_packages_before_successor_publication": 164,
+  "main_integration": "ACTUAL_PR457_MERGE27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c_FULL486_ZERO_SKIP; VERIFIED163CONTENT_PRESERVED_BY_FRESH_MAIN58f6f432370a93b475dd3969df838dfff184ea42; EARLIER_MAINe7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8_163_OWN486_RUN41844303934; CURRENT_PR461_OPEN_UNMERGED_SOURCE8d7209_164_FULL486_AUDIT41890001158; SUMIRE_REI165_NOT_YET_INTEGRATED_NO_FUTURE_PASS",
   "completed_literary_institution_packages": 21,
   "accepted_literary_institution_packages": [
     "Justice Task Force: work, leisure and answerability",
@@ -5767,5 +5768,159 @@
       "scope": "Exact prepublication shared-summary qualifier only; three new firstparagraphs and matching currentmetadata qualification/ordinarygoods. AcceptedSuou6 including all24paragraphs/source14,old355rowsother354,CSV M003,currentcounts164conditional19named,alloldhistory/frozenV1 unchanged. No new source or literaryrevision.",
       "stages": "Root caught and corrected the summary before publication; fullV1 Cbytes/plan/proof preserved. Different finite shared7 QA and Root actualsuccessor receiving precede Ninstallation. No current164/publication/audit/mergecredit."
     }
+  },
+  "current_Sumire_baseball_Rei_single_relationship165_control_20261104": {
+    "schema": "SUMIRE_BASEBALL_REI_SINGLE_REQUIRED_RELATIONSHIP_TRANSACTION165_WITH_EXACT_PRETRANSACTION_RECEIPTS_V1",
+    "date": "2026-11-04",
+    "author": "/root",
+    "state": "CONDITIONAL_TRANSACTION165_ONLY_AFTER_COMPLETE_ACCEPTED6_SHARED7_INSTALL_AND_COMMIT",
+    "existing_required_id": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS",
+    "source_responsibility": "P3-XMI-R001",
+    "canonical_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+    "actual_credit_from_C_only_preparation": 0,
+    "condition": "ExactsixalreadyRootaccepted;allsevenwholecurrent targeted updates andsix must be installedtogether andcommitted throughordinarygoverned route before165counts. Source publication/integration receive later actualreceipts.",
+    "verified_pretransaction_source": {
+      "commit": "8d7209f857cb20dd57c3ad2b0c62e460c81c6190",
+      "packages": 164,
+      "character": 119,
+      "directed_relationship": 19,
+      "ensemble": 5,
+      "institution": 21,
+      "named": 19,
+      "audit_run": 41890001158,
+      "discovered_run_unique": 486,
+      "failures": 0,
+      "errors": 0,
+      "skips": 0,
+      "complete_remote_readback": true,
+      "PR": 461,
+      "PR_state": "OPEN_UNMERGED_AT_THIS_RECEIPT",
+      "P015_correction_count_credit": 0
+    },
+    "verified_pretransaction_main": {
+      "fresh_head": "58f6f432370a93b475dd3969df838dfff184ea42",
+      "preserved_packages": 163,
+      "named": 19,
+      "actual_original_integration": "27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c",
+      "separately_audited_main": "e7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8",
+      "separately_audited_main_run": 41844303934,
+      "scope": "Freshmainhead preserves163content. Originalintegration/postmerge/mainfull486receipts remain at their ownheads;no new58f6orSumire165integrationaudit claimed."
+    },
+    "after_complete_persistence": {
+      "packages": 165,
+      "percentage": "46.4789%",
+      "character": 119,
+      "directed_relationship": 20,
+      "ensemble": 5,
+      "institution": 21,
+      "named": 19,
+      "next178_remaining": 13,
+      "publication": "PENDING_ACTUAL_SUCCESSOR_PUSH_READBACK_EXACT_HEAD_AUDIT",
+      "integration": "NOT_YET_INTEGRATED"
+    },
+    "sole_accepted_six_selection": {
+      "filename": "RELATION_METADATA6_FINAL_EXACT_CURRENT6_SELECTION_V2.json",
+      "bytes": 5074,
+      "sha256": "50ccd5f990721c8eed45b8317c372466926e6485ec2ece579cc70ca0b67a8711",
+      "scope": "Dated exactaccepted transaction selection,not a rawfilenamepublicalias. Currentcomponentbindings remain inactualsix."
+    },
+    "accepted_six": [
+      {
+        "role": "BODY",
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+        "bytes": 14075,
+        "sha256": "014b5b1d58cc5cf99f8380520b6e79e7f9ab9c783f55908fa97d7817c6ddde53"
+      },
+      {
+        "role": "SOURCE",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+        "bytes": 97357,
+        "sha256": "26a9eba4e38c3bfc698e7eb7a7ef3c433c667f150ac907c5439d358e8500d6a1"
+      },
+      {
+        "role": "AUTHOR",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+        "bytes": 337137,
+        "sha256": "920849d8f359daf09a4892c4634154610df3a86cbe839b7b520d9f31656609b3"
+      },
+      {
+        "role": "PEER",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+        "bytes": 89984,
+        "sha256": "0aab5d36a928ef3d1b9e87b7306cbb6660a15e54ea4de6c13b0a8640f200c9fe"
+      },
+      {
+        "role": "ROOT",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+        "bytes": 93593,
+        "sha256": "e6ac72d55e2ee735ddf61cfc13bd28e5757255973d9fd99d9b8cef4881f8c7da"
+      },
+      {
+        "role": "REGISTRY",
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+        "bytes": 134886,
+        "sha256": "867d5f9c86fd112cd496aee09b4a7702db0e81e3bdaf6f77d8804fe4afa17925"
+      }
+    ],
+    "actual_metadata_review_and_Root_new_byte_adoption": {
+      "authorizing_actor": "/root",
+      "date": "2026-11-04",
+      "different_metadata_reviewer": "/root/current_preflight_requirements",
+      "full_review_bytes": 14354,
+      "full_review_sha256": "3a005758c39072984e5ac5a47974bf0bfe8a243f1a8421baa887ff5e3b0a40e2",
+      "actual_saved_review_closeout_bytes": 3728,
+      "actual_saved_review_closeout_sha256": "22a76ced8fce739f583a0cf55b92921e4b14aabeaa5b634950a5e68a40f5dafb",
+      "different_fidelity_checks": 2803,
+      "different_fidelity_false": 0,
+      "Root_own_fidelity_checks": 1046,
+      "Root_own_fidelity_false": 0,
+      "Root_actual_new_byte_adoption_bytes": 14029,
+      "Root_actual_new_byte_adoption_sha256": "aa398d269e4b5733fbeb1b3dc5eca5cb33d56142fbe3baaf79ac95554fd7e158",
+      "scope": "Complete actualnewmeanings/exactcurrentbytes received andaccepted. Fullsubstantiveprovenance inpublicM01–05/Q07Q08/R10R11R12;these finite no-new-literary/source-claim byteclosure witnesses remain privateoperationalrecords. No inherited sourcecourse or repositorygate."
+    },
+    "retention": {
+      "postYAML_bytes": 13196,
+      "paragraphs": 20,
+      "earlier_records": 47,
+      "earlier_resolved_roots": 64,
+      "earlier_dated_IDs": 53,
+      "current_records": 57,
+      "current_roots": 74,
+      "current_dated_IDs": 63,
+      "current_nonself_edges": 14,
+      "new_whole_pure_custody_fields": 16,
+      "new_private_only_IDs": 10,
+      "meaning": "Allnonidenticalarguments/actors/dates/grades/oldwrongandcorrectedjudgments remain. Q06private277array boundary and8readable roots/A08scalar173 exact. Earlierpendingwrappers describeoldstages;actualcompletedRootbyteadoption closeslatercondition without rewriting them."
+    },
+    "source_and_ordinary_meaning_limits": "Root has accepted **Sumire–baseball Rei: chosen goals and disputed means**, existing required relationship P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS / responsibility P3-XMI-R001, and the exact six canonical-metadata files **WITH LIMITS**. Baseball Rei is CH0245. Rei chooses batting help; Sumire wants to develop another person. Granted pauses, shared watching, Rei’s food interest and treat offer, Sumire’s allowance, company and clothes memory, renewed demands and refusals retain their particular actors and local outcomes. Quiet company, pleasure and rest have intrinsic value. The study does not infer a consumed Sumire meal, permanent consent, lasting moderation or another Rei identity. Source courses remain attributable: Root personally owns selected240 maintained addresses; the original body author and different body reviewer independently own the two complete maintained character analyses (336 lines/117 paragraphs) plus selected240. Original950/1839 character courses belong to their actual readers. The metadata composer acquires no underlying source course. No native/raw/primary/audiovisual source, model readiness, new person or named-section credit follows.",
+    "separate_duties": "Other354required/176legacyrows,all29namedrows,384homepartition andglobalcurationunchanged. No newnamed/person/model/sourceadmission. Prenapates/AyameNagusa/namedrepair/NonomiSuou/railcorporate remain separatelyunfinishedpublication duties.",
+    "scope_unchanged": {
+      "required_packages": 355,
+      "required_named": 29,
+      "parents": 25,
+      "homes": 384,
+      "original_responsibilities": 788,
+      "operational_models": 0,
+      "all14_claim_specific_gaps": "OPEN",
+      "fixed150_consistency_audit": "ACTIVE"
+    },
+    "prior164_mutable_top_values_retained_as_dated_history": {
+      "completed_literary_packages": 164,
+      "completed_literary_directed_relationship_packages": 19,
+      "currently_source_published_packages_before_successor_publication": 163,
+      "currently_main_integrated_packages_before_successor_publication": 163,
+      "progress_percentage": "TRANSACTION164/355 (46.1972%) ONLY_ON_COMPLETE_ACCEPTED_SUOU6_SHARED7_INSTALL_AND_COMMIT; ACTUAL_PRETRANSACTION_SOURCE7b65_MAINe7bb163/355_NAMED19/29_FULL486_ZERO_FAILURE_ERROR_SKIP; NEXT178_UNREACHED14_REMAINING_AT164; FUTURE_SUOU_PUBLICATION_INTEGRATION_REQUIRE_ACTUAL_RECEIPTS",
+      "milestone_scope_state": "FULL355_29_25_384_788; FIRST89_HISTORY_COMPLETE; VERIFIED_SOURCE7b65_MAINe7bb163_19; TRANSACTION164_19_ONLY_AFTER_COMPLETE_PERSISTENCE; NEXT178_UNREACHED14_REMAINING_AT164; ALL14OPEN_MODELS0_BROAD150_AUDIT_ACTIVE",
+      "canonical_persistence_qualification": "Root has accepted **Asagiri Suou**, existing required character parent `P3-CHAR-M003` / responsibility `P3-M003`, and the exact six current-eligible metadata files **WITH LIMITS**. The connected24-paragraph study distinguishes procedural leverage, uneven knowledge and unsettled purpose; Nonomi's choices and the other parties' orders remain their own. Suou's supervisory work, inquiry and departure retain intrinsic value; Nonomi's pleasures and the twins' wanted work and company remain their own. No loyalty, site history, mechanism, clinical state or reconciliation is inferred beyond the maintained accounts.\n\n**Verified pretransaction publication and integration:163/355 (118 character,19 directed relationship,five ensemble,21 institution),19/29 named.** Published source `7b65ab9e6c12d851bc545524ba5bb826db2e5c48` passed its actual full486-test audit with zero failures, errors or skips. [PR457](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/457) was actually merged at `27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c`, whose full486/zero-skip postmerge audit also passed. Current main `e7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8` preserves that163 content and has its own actual full486/zero-failure/error/skip audit (run41844303934). These receipts close the earlier Ayame preparation labels at their proper heads; they certify no future Suou head.\n\n**This transaction records164/355 (46.1972%):119 character,19 directed relationship,five ensemble,21 institution, effective only upon complete accepted Suou six plus shared7 installation and commitment.** Private C preparation earns zero credit. Named duties stay19/29. The177-row legacy tracker is not the denominator. At164, next178 remains unreached with14 packages remaining; the pretransaction163 baseline has15 remaining. Suou publication, exact-head audit, protected integration and postmerge success require their actual later receipts.\n\nActual full public-form/different metadata review and Root new-byte adoption preserve all16193 post-YAML bytes/24 paragraphs,62 complete old records/48 histories and source14. The current six files distinguish accepted content authority from dated preparation, installfalse/publicationnull/count0 snapshots. Later actual persistence and receipts govern execution; old pending text is dated history. The five real retained logical locators and seven express nonruntime private witnesses do not grant a new source course. Metadata QA's676 checks and Root's independently implemented592 checks remain separate documentary scopes.\n\nRequired scope stays355 packages/29 named duties/25 parents/384 homes/788 original responsibilities; all14 claim-specific gaps stay OPEN, models0 and the fixed150-package source/semantic consistency audit remain active. Only existing M003 is completed by this transaction; the other354 required rows, preceding176 legacy rows,29 named rows and384-home partition are preserved. Nonomi–Suou relationship and rail-corporate institutional duties, Sumire–baseball Rei, Prenapates, Ayame–Nagusa and its junior–senior named repair remain separately incomplete. Ordinary, sparse and low-stakes evidence is not excluded.\n\nCurrent continuation: finish the actual exact13-path transaction, production author preflight, full diff and approved-identity commitment, then normal nonforced publication, complete remote readback, exact-head audit/housekeeping and protected integration/postmerge. After actual persistence, those completed prerequisites must not be restated as permanently pending. No future audit, integration,178 milestone, new source/identity/named/model or tooling authority is claimed. Claude's scoped tooling implementation and reserved tooling merge remain separate.",
+      "quarter_reached_qualification": "First89 integrated. Actualpublishedandintegrated163/355,named19/29,full486zero-skip source/Main receipts. Suou164/355 onlyuponcompleteaccepted6+shared7installation/commit. Next178unreached14remainingat164. Futureheadsaudits/integrationrequireactualreceipts.",
+      "main_integration": "ACTUAL_PR457_MERGE27a3e1eae8c7aa6e0c52f6ead2d3860bb67f7a0c_FULL486_ZERO_SKIP; CURRENT_MAINe7bb1c2448c36988d36b5f1f1bdcf5bca5fd73f8_163_FULL486_ZERO_FAILURE_ERROR_SKIP_RUN41844303934; SUOU_NEW164_TRANSACTION_NOT_YET_INTEGRATED_NO_FUTURE_PASS"
+    },
+    "prior_frontmatter_values_retained_as_dated_history": {
+      "semantic_scope": "\"Accepted Suou M003;164/355 only on complete six+shared7 persistence;actual published/integrated163 source7b65/main e7bb full486 zero-skip;named19/29;355/29/25/384/788/all14OPEN/models0 fixed\"",
+      "semantic_version": "1.35",
+      "full_cast_version": "1.31",
+      "execution_version": "1.5"
+    },
+    "actual_stage_and_next": "Current continuation: complete the exact13-path shared-state review, fresh beforeimage/ref guards, full installation, unmodified staged author preflight, complete diff review and approved-identity commitment, followed by ordinary nonforced publication, complete remote readback and this successor’s exact-head full audit. After each actual step, its completed prerequisite is closed rather than permanently restated as pending. Protected integration and the actual integration-SHA audit remain separate. Continue the complete355-package/29-duty goal toward178; this transaction grants no tooling or merge authority."
   }
 }
