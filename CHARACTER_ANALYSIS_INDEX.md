@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 24 |
+| [`re-zero`](characters/index/re-zero.md) | 25 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -49,7 +49,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 51 |
-| [`tomozaki`](characters/index/tomozaki.md) | 13 |
+| [`tomozaki`](characters/index/tomozaki.md) | 15 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
 | [`yuru-camp`](characters/index/yuru-camp.md) | 5 |
@@ -234,6 +234,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Himiko Toga](characters/index/my-hero-academia.md#himiko-toga) | My Hero Academia manga | `my-hero-academia:himiko-toga@manga` | — |
 | [Hina](characters/index/blue-archive.md#hina) | Blue Archive game | `blue-archive:hina@game` | — |
 | [Hinami](characters/index/tomozaki.md#hinami) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami@light-novel` | — |
+| [Hinami Haruka](characters/index/tomozaki.md#hinami-haruka) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-haruka@light-novel` | 日南遥 |
 | [Hinase Naoki](characters/index/shine-post.md#hinase-naoki) | SHINE POST television anime | `shine-post:hinase-naoki@television-anime` | — |
 | [Hisakawa Hayate](characters/index/the-idolmaster.md#hisakawa-hayate) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-hayate@cinderella-girls-mobile-games` | — |
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
@@ -446,6 +447,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Reinhard](characters/index/re-zero.md#reinhard) | Re:Zero main light novel | `re-zero:reinhard@light-novel` | — |
 | [Reinhard von Lohengramm](characters/index/legend-of-the-galactic-heroes.md#reinhard-von-lohengramm) | Legend of the Galactic Heroes original novels | `legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels` | Reinhard von Müsel; ラインハルト・フォン・ローエングラム |
 | [Rem](characters/index/re-zero.md#rem) | Re:Zero main light novel | `re-zero:rem@light-novel` | — |
+| [Rena](characters/index/tomozaki.md#rena) | Bottom-Tier Character Tomozaki light novel | `tomozaki:rena@light-novel` | レナ |
 | [Replacement transfer angel](characters/index/konosuba.md#replacement-transfer-angel) | Original light-novel continuity, bounded source-specific study | `konosuba:replacement-transfer-angel@original-light-novel` | — |
 | [Rex](characters/index/konosuba.md#rex) | Original light-novel continuity, scoped current monograph | `konosuba:rex@original-light-novel` | レックス |
 | [Rionor](characters/index/konosuba.md#rionor) | Original light-novel continuity, bounded character study | `konosuba:rionor@original-light-novel` | リオノール |
@@ -478,6 +480,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Sara](characters/index/mushoku-tensei.md#sara) | Japanese light-novel continuity | `mushoku-tensei:sara@light-novel` | — |
 | [Satou Kazuma](characters/index/konosuba.md#satou-kazuma) | Original light-novel continuity, main-principal and expanded analysis | `konosuba:satou-kazuma@original-light-novel` | — |
 | [Sayuri Ichinose](characters/index/rent-a-girlfriend.md#sayuri-ichinose) | Main manga continuity | `rent-a-girlfriend:sayuri-ichinose@manga` | — |
+| [Scarf Echidna](characters/index/re-zero.md#scarf-echidna) | Re:Zero main light novel | `re-zero:scarf-echidna@light-novel` | Echidna; 襟ドナ |
 | [Seia](characters/index/blue-archive.md#seia) | Blue Archive game | `blue-archive:seia@game` | — |
 | [Seibu Rio](characters/index/shine-post.md#seibu-rio) | SHINE POST television anime | `shine-post:seibu-rio@television-anime` | — |
 | [Sena](characters/index/konosuba.md#sena) | Original light-novel continuity, scoped current monograph | `konosuba:sena@original-light-novel` | セナ |

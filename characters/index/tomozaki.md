@@ -48,11 +48,37 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected phases: childhood sibling play, the middle-school results, Hattori, seniors and team/game bands, the V01 reciprocal coach, V02 election, V03 refusal and hybrid negotiation, V04–V06 Tama and revenge, the story-placed shopping unit, V08 gathering, V09 paused teaching, V10 disclosure and birthday, the V11 rupture, withdrawal and telling/set, and the V12 private reading and later/public states. Its domain is represented competence, play, attachment, refusal and limited post-reading movement under access and phase gates; no cause, diagnosis, cure or Nagisa last standpoint. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed formation, developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local placements; V12 is a dedicated current band (§16) overlaying the preserved V11 state. V08.5 private focalization and the V11/V12 private family retrospectives are treated as reader access, not as knowledge held by other characters. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Hinami Aoi bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`reviewed-character-monograph` — Hinami Aoi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Hinami analysis in shared synthesis](../../series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
+<a id="hinami-haruka"></a>
+
+### Hinami Haruka
+
+- Entity ID: `tomozaki:hinami-haruka`
+- Entity aliases:
+  - 日南遥 (ja, ORIGINAL_SCRIPT) — Per the bounded dossier's subject identity; Aoi's younger sister.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami-haruka@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V08.5 at its story-local retrospective placement: V08.5 childhood three-sister play and the later shared game with Aoi, the V09 restaurant introduction, V11 first contact, channel choice, campaign report, food-court inquiry and sister-directed appeal, and V12 independent reading, pressured relay and departure DM. Earlier UNKNOWN cells are not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model over seven selectors from childhood play to the V12 reading and relay. Its domain is ordinary play, school/model aspiration, selective contact and disclosure, inquiry and practical relay. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Hinami Haruka bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Hinami Haruka bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 <a id="izumi-yuzu"></a>
 
@@ -72,8 +98,10 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states IY-S1–IY-S11: the V01 early learner, V03–V04 peer/captain, V04 discreet inquiry, V05 re-entry, V06–V07 public work, V06.5 private uncertainty, V08–V09 ordinary future/collaboration, the V10 birthday planner, the V11 absent handoff, V12 delivery and the V12 ordinary audience. Its domain is chosen affiliation, reciprocal expertise, ordinary taste, situated inquiry and competent familiar event work with finite access/capacity; no private agreement, permanent burden threshold or career outcome. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Izumi Yuzu bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`provisional-character-study` — Izumi Yuzu reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
 
 <a id="kikuchi-fuka"></a>
@@ -94,8 +122,10 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states: middle-school library reception, V01–V03 affinity, V04–V07 shared authorship and choice, the story-placed V08.5 Christmas, Mimimi and home units, the V08 prize aim, V09 privacy and reselection, V10 wider participation, the V11 editorial, Haruka-inquiry, call/fiction and co-proposal states, and the V12 method stop, solo-then-company, craft/custody, observer-block and document/offering states. Its domain is chosen reception/company, craft, ambition and love with inquiry-injury, author/subject and document/custody distinctions; no publication grant or guaranteed profession. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Kikuchi Fuka bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/KIKUCHI_FUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
 
 <a id="konno-erika"></a>
@@ -141,9 +171,11 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states NM-S1–NM-S13: ordinary V01/V03 peer exchange, the V02 loaded comparison and recognition, post-V05 private running, the V06 declaration, V07 joint work and non-selection, year-end V08.5, the V09 separation, corrective resumption and later comfort, V11 council/commentary, and the V12 contribution and event/audience states. Its domain is wanted exchange, ordinary movement/play, finite comparison, friendship/love, selected novice public work and contributor responsibility; no measured time, general cure or future arrangement. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with V06.5/V08.5 only at their story-local routes and the V07 Special Edition main novel only; V12 is a dedicated current band (§17) overlaying the preserved V11 state. The V08.5 parallel story and V07 art material are excluded. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Nanami Minami / Mimimi bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`reviewed-character-monograph` — Nanami Minami (Mimimi) reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Mimimi analysis in shared synthesis](../../series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
@@ -165,8 +197,10 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states: early peer form, the V03 post-refusal camp, the V06.5 bar and waiting statement, V05–V06 peer help, V08 exploration, the V10 negotiation, the V11 hero question and V12 friendship and collaboration. Its domain is familiar peer, family/occasional-work, negotiation and friendship contexts; the V03/V06.5 seam stays open. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Mizusawa Takahiro bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`provisional-character-study` — Mizusawa Takahiro reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
 <a id="nakamura-shuji"></a>
@@ -236,9 +270,35 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states TH-S1–TH-S11: earlier ordinary/bonus company, V04–V05 harassment, V05 revised training and the reversed crowd/apology, V06 selected participation, V07 structured acting, V08 family craft, year-end V08.5 privacy, and the V12 practiced service, cake decision and addressed retrospective account. Its domain is learner-owned ends and recipient fit, reciprocal teaching/thanks, selected company, practiced craft and conditional quality/cost reasoning; no universal remake rule, succession choice or unheard reply to Mimimi. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Natsubayashi Hanabi / Tama bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`provisional-character-study` — Natsubayashi Hanabi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+
+<a id="rena"></a>
+
+### Rena
+
+- Entity ID: `tomozaki:rena`
+- Entity aliases:
+  - レナ (ja, ORIGINAL_SCRIPT) — Game-community appellation per the bounded dossier; a full legal name is not established.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:rena@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12: the V08.5 Unit 4 age-seventeen retrospective and adult year-end gathering (with Rena's interiority) at its separately routed story clock, the V08 gathering and call, the V09 incidents, refusals and consultation, and the V11 encounter. V12 supplies only afterword paratext and no new conduct test; other volumes are not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded non-graphic third-person decision/constraint model limited to ordinary gaming, taste, status and attention selection, attributed formation, situated advice and accountability analysis. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Rena bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Rena bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 <a id="takei"></a>
 
@@ -282,9 +342,11 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states: the V01–V02 game expert and social novice, the V03 hybrid, V04–V05 recipient learning, the V06–V07 festival, the story-placed shopping and first-Christmas units, V08 aspiration, V09 reselection, V10 collaboration and unauthorized disclosure, the V11 intervention, acute aftermath and repair proposal, and the V12 partner-care, island-craft, later-encounter and public-purpose states. Its domain is finite learning, game/work/company, ordinary choices and represented relationship/intervention decisions; no universal competence, full voice or unseen future. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-character-monograph`: LIGHT_NOVEL VOLUME: Reviewed developmental, ethical and recipient-conditioned analysis through Japanese V12, with only the monograph's explicitly routed V06.5/V08.5 supplemental units at their story-local positions; V12 is a dedicated current band (§16) overlaying the preserved V11 argument. Speech coverage is selective Japanese prose/register analysis, not acoustic performance or an exhaustive idiolect. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations, parallel/VR bonus material and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
   - `reviewed-foundation-corpus`: LIGHT_NOVEL VOLUME: Reviewed V01–V02 effort, competition and goal-ownership analysis, including the source's explicitly distinguished gaming, social, electoral and athletic contexts. Coverage is this specialist domain, not a general completed character model; no V03 or later outcomes are claimed.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Tomozaki Fumiya bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Tomozaki analysis in shared synthesis](../../series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
