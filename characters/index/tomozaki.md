@@ -54,6 +54,30 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
   - [`reviewed-character-monograph` — Hinami Aoi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Hinami analysis in shared synthesis](../../series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
 
+<a id="hinami-haruka"></a>
+
+### Hinami Haruka
+
+- Entity ID: `tomozaki:hinami-haruka`
+- Entity aliases:
+  - 日南遥 (ja, ORIGINAL_SCRIPT) — Per the bounded dossier's subject identity; Aoi's younger sister.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:hinami-haruka@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V08.5 at its story-local retrospective placement: V08.5 childhood three-sister play and the later shared game with Aoi, the V09 restaurant introduction, V11 first contact, channel choice, campaign report, food-court inquiry and sister-directed appeal, and V12 independent reading, pressured relay and departure DM. Earlier UNKNOWN cells are not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model over seven selectors from childhood play to the V12 reading and relay. Its domain is ordinary play, school/model aspiration, selective contact and disclosure, inquiry and practical relay. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Hinami Haruka bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Hinami%20Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Hinami Haruka bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 <a id="izumi-yuzu"></a>
 
 ### Izumi Yuzu
@@ -165,8 +189,10 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model derived from the monograph over separately selected states: early peer form, the V03 post-refusal camp, the V06.5 bar and waiting statement, V05–V06 peer help, V08 exploration, the V10 negotiation, the V11 hero question and V12 friendship and collaboration. Its domain is familiar peer, family/occasional-work, negotiation and friendship contexts; the V03/V06.5 seam stays open. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
+  - [`bounded-reconstruction-model` — Mizusawa Takahiro bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`provisional-character-study` — Mizusawa Takahiro reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
 <a id="nakamura-shuji"></a>
@@ -239,6 +265,30 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`provisional-character-study` — Natsubayashi Hanabi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+
+<a id="rena"></a>
+
+### Rena
+
+- Entity ID: `tomozaki:rena`
+- Entity aliases:
+  - レナ (ja, ORIGINAL_SCRIPT) — Game-community appellation per the bounded dossier; a full legal name is not established.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:rena@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12: the V08.5 Unit 4 age-seventeen retrospective and adult year-end gathering (with Rena's interiority) at its separately routed story clock, the V08 gathering and call, the V09 incidents, refusals and consultation, and the V11 encounter. V12 supplies only afterword paratext and no new conduct test; other volumes are not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded non-graphic third-person decision/constraint model limited to ordinary gaming, taste, status and attention selection, attributed formation, situated advice and accountability analysis. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Rena bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Rena bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 <a id="takei"></a>
 
