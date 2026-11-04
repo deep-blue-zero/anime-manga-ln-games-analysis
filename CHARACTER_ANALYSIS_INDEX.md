@@ -17,7 +17,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`ascendance-of-a-bookworm`](characters/index/ascendance-of-a-bookworm.md) | 9 |
 | [`attack-on-titan`](characters/index/attack-on-titan.md) | 9 |
 | [`azur-lane`](characters/index/azur-lane.md) | 5 |
-| [`blue-archive`](characters/index/blue-archive.md) | 43 |
+| [`blue-archive`](characters/index/blue-archive.md) | 44 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
@@ -101,6 +101,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Asuka Nishino](characters/index/chiramune.md#asuka-nishino) | Chiramune light novel | `chiramune:asuka-nishino@light-novel` | — |
 | [Atsuko](characters/index/blue-archive.md#atsuko) | Blue Archive game | `blue-archive:atsuko@game` | — |
 | [Aulip](characters/index/konosuba.md#aulip) | Original light-novel continuity, scoped current monograph | `konosuba:aulip@original-light-novel` | アウリープ |
+| [Ayame](characters/index/blue-archive.md#ayame) | Blue Archive game | `blue-archive:ayame@game` | — |
 | [Ayane](characters/index/blue-archive.md#ayane) | Blue Archive game | `blue-archive:ayane@game` | — |
 | [Ayanokōji Kiyotaka](characters/index/classroom-of-the-elite.md#ayanokoji-kiyotaka) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:ayanokoji-kiyotaka@original-light-novels-through-year-2` | — |
 | [Azu](characters/index/maebashi-witches.md#azu) | Maebashi Witches anime | `maebashi-witches:azu@anime` | — |
