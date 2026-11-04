@@ -1236,7 +1236,9 @@
   "operator_guide": {
     "path": "series/tomozaki/07 Character Reconstruction Models/README.md",
     "bytes": 8649,
-    "sha256": "6ce54c1f2fa72d38644ec192384b13707f845d686702191e28f3e4ee17fb3c83"
+    "sha256": "6ce54c1f2fa72d38644ec192384b13707f845d686702191e28f3e4ee17fb3c83",
+    "snapshot_commit": "bf3b900f7831f372d91ba7097f46135347737d48",
+    "retrieval_scope": "Exact historical operator-guide instance accompanying this package; current common navigation may advance under reviewed maintenance."
   },
   "evidence_shards": [
     {

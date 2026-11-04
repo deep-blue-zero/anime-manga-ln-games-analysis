@@ -6,6 +6,30 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 
 ## Reviewed entries
 
+<a id="ashigaru"></a>
+
+### Ashigaru
+
+- Entity ID: `tomozaki:ashigaru`
+- Entity aliases:
+  - 足軽 (ja, ORIGINAL_SCRIPT) — Public handle, with あしがる ruby; legal name not established.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:ashigaru@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account across V08–V12: the V08 gathering, wager and test set with route advice, V09 conversations, V10 professional introduction and payment, V11 commentary, recruitment, tournament and agreed school role, and the V12 school guest appearance. Other volumes are unknown review cells, not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model separating the V08 requested opponent/adviser, V09 peer conversation, V10 intermediary, V11 planned work/commentary and V12 actual guest. Its domain is specified competitive/game-peer discussion, situated professional-route conversation and negotiated public/community work. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Ashigaru bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Ashigaru bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 <a id="hinami"></a>
 
 ### Hinami
@@ -74,6 +98,30 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`provisional-character-study` — Kikuchi Fuka reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Kikuchi%20Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md)
 
+<a id="konno-erika"></a>
+
+### Konno Erika
+
+- Entity ID: `tomozaki:konno-erika`
+- Entity aliases:
+  - 紺野エリカ (ja, ORIGINAL_SCRIPT) — Per the bounded dossier's subject identity; Konno and Erika are one person.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:konno-erika@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V06.5 at its story-local placement: V01 public mockery, V04 role pressure, V05 harassment, escalation and reverse targeting, V06 cold-war coexistence, V06.5 consultation and practical help for Yuzu, and V07 script collaboration. V08–V12 supply no new accountability episode in the completed audit; that is not proof of no off-page change.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model over distinct states: early public challenge, V04 role pressure, V05 harassment/reversal, V06 coexistence, the story-local V06.5 outing and V07 collaboration. Its domain is recipient-specific familiar status encounters, trusted-friend consultation and practical peer collaboration while retaining responsibility for harm. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Konno Erika bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Konno%20Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Konno Erika bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 <a id="mimimi"></a>
 
 ### Mimimi
@@ -121,6 +169,55 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`provisional-character-study` — Mizusawa Takahiro reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
 
+<a id="nakamura-shuji"></a>
+
+### Nakamura Shuji
+
+- Entity ID: `tomozaki:nakamura-shuji`
+- Entity aliases:
+  - 中村修二 (ja, ORIGINAL_SCRIPT) — Per the bounded dossier's subject identity.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:nakamura-shuji@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V06.5 at its routed concurrent placement: V01–V02 competition and acknowledgment, V03 privacy demand, V04 relationship beginning, V07 shared-history account of Yuzu, V08 family-mediated route, V09–V10 practical care, V11 refusal of further cooperation and V12 delivery participation. Yuzu's V06.5 private fear is reader access, not his knowledge.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model separating the early opponent from the acknowledged rival/friend across source-selected V01–V12 acts: peer competition and recognition, rough friend advice, ordinary hosting, particular care for Yuzu and refusal of a specified perceived-unfair demand. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Nakamura Shuji bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Nakamura%20Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Nakamura Shuji bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md)
+
+<a id="narita-tsugumi"></a>
+
+### Narita Tsugumi
+
+- Entity ID: `tomozaki:narita-tsugumi`
+- Entity aliases:
+  - 成田つぐみ (ja, ORIGINAL_SCRIPT) — V04 and V06.5 name attestations, per the bounded dossier.
+  - Gumi (ja-latn, ALTERNATIVE) — Workplace nickname she permits (V04, V06.5); not a separate person and not Haruka.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:narita-tsugumi@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V06.5 at its story-local placement: V04–V05 workplace coordination, advice and an unasked relay, V06 festival connection, V06.5 private friends unit, V07 festival visit and V08 future discussion. V12 supplies cast identification only, with no new conduct.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model over represented V04–V08 episodes and each separately placed V06.5 unit: familiar low-stakes part-time work, peer leisure, comparative inconvenience and casual advice. V12 identification supplies no fresh behavior. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Narita Tsugumi bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Narita%20Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Narita Tsugumi bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 <a id="natsubayashi-hanabi"></a>
 
 ### Natsubayashi Hanabi
@@ -142,6 +239,30 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
   - `reviewed-provisional-study`: LIGHT_NOVEL VOLUME: Reviewed thematic, developmental and recipient-conditioned interpretation in the current monograph through Japanese V12, with only its explicitly routed V06.5/V08.5 supplemental references. Coverage follows material episodes and stated gaps, not uniform analysis in every volume; adaptations and hypothetical literary probes are excluded.; continuity `tomozaki-light-novel`
 - Reviewed current evidence:
   - [`provisional-character-study` — Natsubayashi Hanabi reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+
+<a id="takei"></a>
+
+### Takei
+
+- Entity ID: `tomozaki:takei`
+- Entity aliases:
+  - 竹井 (ja, ORIGINAL_SCRIPT) — Surname only; the dossier supplies no given name.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:takei@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account through Japanese V12 with V06.5/V08.5 at story-local placements: V03 camp use as an uninformed channel, V04 captaincy greeting, V05 safe practice, V06 volunteering and noticing, V07 surname introduction, V08 family/education report, V11 successive choices between two recipients and V12 reach versus occlusion. V01–V02 and V08.5 remain unknown review cells, not absence findings.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model over finite selectors TK03–TK12 (camp, captaincy, practice, volunteering, festival/restaurant, education, V11 two recipients, V12 delivery). Its domain is familiar school-group joining, supportive practice, introductions and education talk; it is derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Takei bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Takei bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 <a id="tomozaki"></a>
 
@@ -166,3 +287,27 @@ Reviewed analysis subjects in the `tomozaki` namespace of the [Character Analysi
 - Reviewed current evidence:
   - [`reviewed-character-monograph` — Tomozaki Fumiya reviewed character monograph](../../series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Tomozaki analysis in shared synthesis](../../series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+
+<a id="umayahara-mitsu"></a>
+
+### Umayahara Mitsu
+
+- Entity ID: `tomozaki:umayahara-mitsu`
+- Entity aliases:
+  - 馬屋原ミツ (ja, ORIGINAL_SCRIPT) — V12 name attestations, per the bounded dossier.
+
+#### Subject: Bottom-Tier Character Tomozaki light novel
+
+- Analysis subject ID: `tomozaki:umayahara-mitsu@light-novel`
+- Series: `tomozaki`
+- Continuity: `tomozaki-light-novel`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `bounded-dossier`: LIGHT_NOVEL VOLUME: Reviewed bounded individual account of the V12 island visit through departure: shop and craft judgment, refusal and negotiated access, the costume revision, tower custody, storm recovery of damaged birds, and her self-account of receiving Andi's fiction. Andi-era history is attributed retrospective testimony, not independently witnessed earlier scenes.; continuity `tomozaki-light-novel`
+  - `bounded-model`: LIGHT_NOVEL VOLUME: Bounded decision/constraint model limited to the witnessed V12 island encounter through departure: current shop/craft attention, scoped practical help, custody/access and imperfect communal continuity. Earlier Andi material stays attributed historical retrieval, not an enacted earlier persona. Derived-use, not primary literary evidence.; continuity `tomozaki-light-novel`
+- Reviewed current evidence:
+  - [`bounded-character-dossier` — Umayahara Mitsu bounded character dossier](../../series/tomozaki/04%20Character%20Analysis/Umayahara%20Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`bounded-reconstruction-model` — Umayahara Mitsu bounded reconstruction model](../../series/tomozaki/07%20Character%20Reconstruction%20Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md)
