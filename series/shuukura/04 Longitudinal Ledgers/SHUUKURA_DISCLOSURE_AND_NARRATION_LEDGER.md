@@ -21,7 +21,7 @@ do_not_use_as_literary_evidence: true
 
 # Current disclosure ledger and continuation
 
-This canonical master preserves the disclosure register's complete historical body through BW04. [Continuation01](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) preserves subsequent rows through E0027; [current continuation02](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_02.md) continues from E0028 and owns the current revision and joint totals. Read all three parts as the **same logical disclosure ledger**. Physical continuation adds no analytical responsibility, proposition identity or authority lane. Earlier notices remain their dated historical states.
+This canonical master preserves the disclosure register's complete historical body through BW04. [Continuation01](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_01.md) preserves subsequent rows through E0027; [continuation02](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_02.md) preserves E0028 through E0034. Subsequent appends continue in [current continuation03](SHUUKURA_DISCLOSURE_AND_NARRATION_LEDGER_CONTINUATION_03.md) through its complete introducing transaction. Read all four parts as the same logical disclosure ledger. The [character continuation01](SHUUKURA_CHARACTER_STATE_AND_READINESS_LEDGER_CONTINUATION_01.md) remains the joint-count and projection home. Physical routing adds no analytical responsibility, proposition identity or authority lane; earlier dated notices retain their historical states.
 
 ## Preserved register through BW04
 
