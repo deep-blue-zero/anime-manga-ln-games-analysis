@@ -19,7 +19,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
   "schema": "t7s-analysis/source-lock/v1",
   "artifact_id": "T7S_SOURCE_LOCK",
   "artifact_type": "source_lock",
-  "version": "12.154",
+  "version": "12.155",
   "generation": "V1",
   "status": "canonical",
   "supersedes": [],
@@ -44,7 +44,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "resource_revision": 100005,
     "build_version": "Bound by external preservation manifest; no unverified version string supplied"
   },
-  "scope_admission": "Historical admission through B0244/SourceLock12.153 (preserved below, including its historical counts, not the current remaining-count statement): Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first36Eventdocuments in11originalportfolios retain exact histories. Earlier known-exposures/failures and prospective freezes remain. B0244genuine pre-primary5role/47image acceptance,17capacityvectors/339negativecontrols precede primary;52completechunks,13before-nextcase+2between-family orderings preserve14documents/417pages in5/4/5chapters.1014primary/1101consumed;195Eventdocs/47portfolios,26818active supplemental records/attachments and full2034release remain.283availableWAVbindings/283distinctfiles hashverified/unheard;onlyexactcommand-onlyvo_special_127_018/503012305P24unresolvedinpinnedregistryafterpreservedfailure/freshexactprobe/case-onlysuccessor. NoItem/Choices/InlineMovie;nohearing/runtime/globalabsence/substitutecueclaim. Ordinary-lifeprivacy,NI+CORApressure/partialrepair,andhip-hopdistributedcare/Eiagencycostsretainseparatecausal/epistemic/literarymodels. LaterJacobnameandself-identificationdonotrewriteearlierunnamedfreeze;KajikamessageattributionP16andpartyreportP17remainreported. Noexactyear/Maininsertion/crossfamilycause,readiness/fullAV/erareleasepromotion. AlleightbeforeSourceLockpartsandeightcoveragepayloadsretained;exactoptionalnewledgertailsonlyasactualcompleteaftermanifestsrequire,unchangedcaps,noretirement/trimming.182olderserializedintegritymembersand1576unrelatedeffectivecoverageunchanged. Sourceentryc69fandtree-identicalauditedmain5f13798creconcilewithoutrewritingreceipts. Freshconsumers/enteringbeforelaterprimary;publication/integrationseparate;2053unopened. CURRENT_B0245_ADMISSION: fifteen complete Event documents in three original5/5/5families200310/200320/200330;674native/625written/49command pages,93actual chunks,14before-nextcase/2between-family freezes. Genuine pre-primary5role/50image acceptance with17capacityvectors/394negativecontrols. First51Eventdocuments in14originalportfolios;1029primary/1116consumed;180Eventdocuments/44families,26818active supplementalrecords/attachments and full2034release remain. All551namedWAVbindings resolved/unheard,325selected static/20background/fourtitle-image instances reviewed; Item/Title presences retained, noChoices/InlineMovie/runtime or maturity promotion. Only camp front/back source-explicit continuity; care boundary, limited permission, disputed appraisals and unperformed live remain. All184oldintegrityserializations,1575outside effective records and protected frozen B0244reading/erratum unchanged. B0244departure intention remains qualified by REV44. Exact V3reading/state and semantic/source reviews bound; native gates, publication and integration separate.2053unopened.",
+  "scope_admission": "Historical admission through B0245/SourceLock12.154 (preserved below with historical counts, not the current remaining statement): Historical admission through B0244/SourceLock12.153 (preserved below, including its historical counts, not the current remaining-count statement): Complete235Main+87inline,280i-n-g/102chapters,349Intimacy/49portfolios,45Short,12Legend/6pairs,9ManyMerryParty,48Birthday and first36Eventdocuments in11originalportfolios retain exact histories. Earlier known-exposures/failures and prospective freezes remain. B0244genuine pre-primary5role/47image acceptance,17capacityvectors/339negativecontrols precede primary;52completechunks,13before-nextcase+2between-family orderings preserve14documents/417pages in5/4/5chapters.1014primary/1101consumed;195Eventdocs/47portfolios,26818active supplemental records/attachments and full2034release remain.283availableWAVbindings/283distinctfiles hashverified/unheard;onlyexactcommand-onlyvo_special_127_018/503012305P24unresolvedinpinnedregistryafterpreservedfailure/freshexactprobe/case-onlysuccessor. NoItem/Choices/InlineMovie;nohearing/runtime/globalabsence/substitutecueclaim. Ordinary-lifeprivacy,NI+CORApressure/partialrepair,andhip-hopdistributedcare/Eiagencycostsretainseparatecausal/epistemic/literarymodels. LaterJacobnameandself-identificationdonotrewriteearlierunnamedfreeze;KajikamessageattributionP16andpartyreportP17remainreported. Noexactyear/Maininsertion/crossfamilycause,readiness/fullAV/erareleasepromotion. AlleightbeforeSourceLockpartsandeightcoveragepayloadsretained;exactoptionalnewledgertailsonlyasactualcompleteaftermanifestsrequire,unchangedcaps,noretirement/trimming.182olderserializedintegritymembersand1576unrelatedeffectivecoverageunchanged. Sourceentryc69fandtree-identicalauditedmain5f13798creconcilewithoutrewritingreceipts. Freshconsumers/enteringbeforelaterprimary;publication/integrationseparate;2053unopened. CURRENT_B0245_ADMISSION: fifteen complete Event documents in three original5/5/5families200310/200320/200330;674native/625written/49command pages,93actual chunks,14before-nextcase/2between-family freezes. Genuine pre-primary5role/50image acceptance with17capacityvectors/394negativecontrols. First51Eventdocuments in14originalportfolios;1029primary/1116consumed;180Eventdocuments/44families,26818active supplementalrecords/attachments and full2034release remain. All551namedWAVbindings resolved/unheard,325selected static/20background/fourtitle-image instances reviewed; Item/Title presences retained, noChoices/InlineMovie/runtime or maturity promotion. Only camp front/back source-explicit continuity; care boundary, limited permission, disputed appraisals and unperformed live remain. All184oldintegrityserializations,1575outside effective records and protected frozen B0244reading/erratum unchanged. B0244departure intention remains qualified by REV44. Exact V3reading/state and semantic/source reviews bound; native gates, publication and integration separate.2053unopened. CURRENT_B0246_ADMISSION: fifteen complete Event documents/original5/5/5families200340/200350/200360,579native/521written/58command pages,108actual chunks,14before-nextcase/2between-family freezes. Genuine pre-primary5role/54image acceptance,17capacityvectors/422negativecontrols. First66Eventdocuments/17portfolios;1044primary/1131consumed;165Event/41families plus26818active supplementalrecords/attachments/full2034release remain. All485availableWAVbindings UNHEARD;five command-only cues/sixcarrierpages remain exact scoped gaps,dialogueallbound.238sprites/20backgrounds/sixTitle occurrences reviewed;Item/Choices/InlineMovie absent. Reports, imagined scenes, provisional plans, recipient objections and differentiated enjoyment retain sources. All185oldintegrityserializations,1575outside effective rows and five frozen/protected documents unchanged. B0244REV44 and full readiness histories current; no completeAV/maturity/era promotion. V4exact reading/state reviews pinned; candidate/native/publication/integration gates remain separate.2053unopened.",
   "analysis_horizon": {
     "closed_blocks": [
       "T7S_B0001",
@@ -291,7 +291,8 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "T7S_B0242",
       "T7S_B0243",
       "T7S_B0244",
-      "T7S_B0245"
+      "T7S_B0245",
+      "T7S_B0246"
     ],
     "in_progress_blocks": [],
     "consumed_sources": [
@@ -13709,51 +13710,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       },
       {
         "episode_id": "503011803",
-        "script_id": "memory_0120.json__27c104c6cfcc911a",
-        "document_ref": "primary",
-        "page_index": [
-          0,
-          41
-        ],
-        "log_order_index": [
-          0,
-          41
-        ],
-        "choice_scope": "NONE",
-        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
-      },
-      {
-        "episode_id": "503011804",
-        "script_id": "memory_0121.json__b51421debb5de813",
-        "document_ref": "primary",
-        "page_index": [
-          0,
-          49
-        ],
-        "log_order_index": [
-          0,
-          49
-        ],
-        "choice_scope": "NONE",
-        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
-      },
-      {
-        "episode_id": "503011805",
-        "script_id": "memory_0122.json__c0d1c9f8ce20f0b4",
-        "document_ref": "primary",
-        "page_index": [
-          0,
-          25
-        ],
-        "log_order_index": [
-          0,
-          25
-        ],
-        "choice_scope": "NONE",
-        "canonical_artifact": "02 Readings/T7S_B0243_DEEP_READING.md"
-      },
-      {
-        "episode_id": "503012301",
-        "script_id": "memory_0123.json__e4da279669d7f153",
-        "document_ref": "primary",
 <!-- T7S SOURCE LOCK PAYLOAD END -->
