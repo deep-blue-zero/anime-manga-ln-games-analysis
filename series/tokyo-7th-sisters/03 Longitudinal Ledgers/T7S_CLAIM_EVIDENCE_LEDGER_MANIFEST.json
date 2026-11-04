@@ -4,7 +4,7 @@
   "artifact_type": "logical_claim_evidence_ledger_manifest",
   "series": "Tokyo 7th Sisters",
   "generation": "V1",
-  "version": "1.18",
+  "version": "1.19",
   "status": "canonical",
   "supersedes": [],
   "superseded_by": [],
@@ -14,14 +14,14 @@
   "current_owner_path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
   "complete": true,
   "disjoint_payload_intervals": true,
-  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical claim representation",
-  "last_source_high_water": "T7S_B0247",
+  "source_boundary": "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200400/200410/200420 in5/4/6chapters throughT7S_B0248 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside; manifest-bound physical claim representation",
+  "last_source_high_water": "T7S_B0248",
   "owner": {
     "path": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
-    "physical_bytes": 84973,
-    "physical_sha256": "20c2947544894d9dc4f9d561d6338eeb18609777b91287c3b0fba430f80c99cd",
-    "logical_prefix_bytes": 16515,
-    "logical_prefix_sha256": "70bbea99aaaa861c4748d79cc9095e640aac06b6734053774121340c6fc4e674",
+    "physical_bytes": 86145,
+    "physical_sha256": "654398383595a4f47f7b5ffdd3c9b91c54a8f41ef2c4f3669d53d9735e7cdbe8",
+    "logical_prefix_bytes": 17195,
+    "logical_prefix_sha256": "9d1f898f6cc61bd6cd4684a3c3e6b0f6ca4715a548f041f3609bff406589f53e",
     "route_marker": "<!-- T7S CLAIM EVIDENCE COMPONENT ROUTES -->"
   },
   "parts": [
@@ -118,11 +118,11 @@
     {
       "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md",
       "artifact_id": "T7S_CLAIM_EVIDENCE_COMPONENT_007",
-      "physical_bytes": 183962,
-      "physical_sha256": "d885f1a56c9450205b182e7eafa0fb7fbee0fafef3e39269d48bf0fb9fd9acdc",
+      "physical_bytes": 443027,
+      "physical_sha256": "a2fbea48a414054f14eaf22021519e7bd0a244879848fb54c65b09aeca77ecfd",
       "payload_offset_bytes": 726,
-      "payload_bytes": 183196,
-      "payload_sha256": "f197032bee7998be04a3f2c5a08b29bf1e75637b1bb2e5fb617a8d1d6a3f7ef4",
+      "payload_bytes": 442261,
+      "payload_sha256": "7124d5596b1576f35f576462dc673fc4cd02296e11b95ac4d0437970a2badb0f",
       "first_heading": "## B0247 recognition, performance and shared-work interpretations",
       "authority": "Canonical delegated component of one logical claim ledger; no duplicated owner or independent interpretation",
       "payload_terminator": "<!-- T7S CLAIM EVIDENCE PAYLOAD END -->",
@@ -132,8 +132,8 @@
     }
   ],
   "parts_count": 7,
-  "logical_bytes": 2568824,
-  "logical_sha256": "cc8da93b9136277745f7d88f835d75d07d813c14d39f5b1b68afc6ea441ee51e",
+  "logical_bytes": 2828569,
+  "logical_sha256": "8c7422ea2e770e03431eeffa84a27bac0262b1d0cd488153d014610c8d9cf86f",
   "heading_routes": [
     {
       "original_anchor": "current-claims",
@@ -2168,6 +2168,18 @@
       "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md",
       "component_anchor": "av-0194--eleven-complete-event-textnativestill-cases-and-unheard-audio",
       "heading": "AV-0194 — Eleven complete Event text/native/still cases and unheard audio"
+    },
+    {
+      "original_anchor": "b0248-preparing-collective-occasions-interpretations",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md",
+      "component_anchor": "b0248-preparing-collective-occasions-interpretations",
+      "heading": "B0248 preparing collective occasions: interpretations"
+    },
+    {
+      "original_anchor": "av-0195--fifteen-complete-event-textnativestill-cases-with-unheard-audio",
+      "component_path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md",
+      "component_anchor": "av-0195--fifteen-complete-event-textnativestill-cases-with-unheard-audio",
+      "heading": "AV-0195 — Fifteen complete Event text/native/still cases with unheard audio"
     }
   ],
   "storage_transition": {
@@ -2190,13 +2202,13 @@
     "source_b0230_full_publication_receipt_sha256": "0e7c538e4413f09d3ab8096f54220c5a693cc5f54217643be38ef5e24926111a"
   },
   "latest_logical_append": {
-    "source_high_water": "T7S_B0247",
+    "source_high_water": "T7S_B0248",
     "date": "2026-11-04",
-    "logical_before_sha256": "ae5af937b0f035190392b3cea0899c019cf8e1d9be2a341a811e511b41595aed",
-    "logical_after_sha256": "cc8da93b9136277745f7d88f835d75d07d813c14d39f5b1b68afc6ea441ee51e",
-    "addition_bytes": 183196,
-    "addition_sha256": "f197032bee7998be04a3f2c5a08b29bf1e75637b1bb2e5fb617a8d1d6a3f7ef4",
-    "unchanged_older_body_sha256": "856a72338b34ae8e8679b98d1d1ba859cf56a7b28e13df5437a68323a8a5047d",
+    "logical_before_sha256": "cc8da93b9136277745f7d88f835d75d07d813c14d39f5b1b68afc6ea441ee51e",
+    "logical_after_sha256": "8c7422ea2e770e03431eeffa84a27bac0262b1d0cd488153d014610c8d9cf86f",
+    "addition_bytes": 259065,
+    "addition_sha256": "f5fb64f74c2cfd9719ea15c0658fba16923ae1139cd8fe5ed3cdc5dbde6da0ee",
+    "unchanged_older_body_sha256": "b36bc4104e22c9ac7ea4be72415235487ead7d1cae27737789c6322615dcfd61",
     "active_component": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md",
     "sealed_older_components_byte_exact": true
   },
