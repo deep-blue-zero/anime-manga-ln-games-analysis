@@ -49,7 +49,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
 | [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 51 |
-| [`tomozaki`](characters/index/tomozaki.md) | 15 |
+| [`tomozaki`](characters/index/tomozaki.md) | 18 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
 | [`yuru-camp`](characters/index/yuru-camp.md) | 5 |
@@ -235,6 +235,8 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Hina](characters/index/blue-archive.md#hina) | Blue Archive game | `blue-archive:hina@game` | — |
 | [Hinami](characters/index/tomozaki.md#hinami) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami@light-novel` | — |
 | [Hinami Haruka](characters/index/tomozaki.md#hinami-haruka) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-haruka@light-novel` | 日南遥 |
+| [Hinami Nagisa](characters/index/tomozaki.md#hinami-nagisa) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-nagisa@light-novel` | 日南渚 |
+| [Hinami Yoko](characters/index/tomozaki.md#hinami-yoko) | Bottom-Tier Character Tomozaki light novel | `tomozaki:hinami-yoko@light-novel` | 日南陽子 |
 | [Hinase Naoki](characters/index/shine-post.md#hinase-naoki) | SHINE POST television anime | `shine-post:hinase-naoki@television-anime` | — |
 | [Hisakawa Hayate](characters/index/the-idolmaster.md#hisakawa-hayate) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-hayate@cinderella-girls-mobile-games` | — |
 | [Hisakawa Nagi](characters/index/the-idolmaster.md#hisakawa-nagi) | Cinderella Girls mobile games | `the-idolmaster:hisakawa-nagi@cinderella-girls-mobile-games` | — |
@@ -365,6 +367,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Melvirei](characters/index/konosuba.md#melvirei) | Original light-novel continuity, scoped cohort monograph | `konosuba:melvirei@original-light-novel` | メルビレイ |
 | [Metal Mōrā](characters/index/konosuba.md#metal-mora) | Authored TRPG component, unplayed source-specific scope | `konosuba:metal-mora@trpg-advanced-supplied-scenario` | メタルモーラー |
 | [Miach Mihie](characters/index/harmony.md#miach-mihie) | Original novel, bounded comparative ethics | `harmony:miach-mihie@original-novel` | Miaha |
+| [Michael Andi](characters/index/tomozaki.md#michael-andi) | Bottom-Tier Character Tomozaki light novel | `tomozaki:michael-andi@light-novel` | Andy; マイケル・アンディ |
 | [Midori](characters/index/blue-archive.md#midori) | Blue Archive game | `blue-archive:midori@game` | — |
 | [Midoriya Izuku](characters/index/my-hero-academia.md#midoriya-izuku) | My Hero Academia manga | `my-hero-academia:midoriya-izuku@manga` | — |
 | [Mika](characters/index/blue-archive.md#mika) | Blue Archive game | `blue-archive:mika@game` | — |
