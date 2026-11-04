@@ -1,0 +1,443 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_SIX_PILOT_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete original semantic values and raw byte identities. Historical statuses, pending gates and scratch strings retain their original meaning; current acceptance is resolved through the main catalog, never by executing historical routes.",
+  "records": [
+    {
+      "record_id": "root.first_pair_acceptance",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_NARITA_TAKEI_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 2565,
+        "sha256": "641f50c7a30ad38610ea9d130834c07528c2988fd2b01432abbf75ce82fa8e08"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "4a32a6a8566c2b6a4d2d5e3434e341ea9a1534b0fac2c1d5412faf6a40e596b1",
+      "value": {
+        "schema": "tomozaki_root_first_pair_model_acceptance/v1",
+        "status": "ACCEPTED_BOUNDED_DERIVED_MODELS_CANONICAL_RENDER_AND_PUBLICATION_PENDING",
+        "utc": "2026-11-04T01:49:18.247099+00:00",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "models": [
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          }
+        ],
+        "root_read_scope": "Both completeactualmodelarguments; full14655Bpreregistration; all8actualproducertraceoutputs/inputs/expectedconstraints/abstentions andall12completeindependentchallengeinputs/outputs/abstentions; fullindependenthumanandseal; completeuniquedependencyframe/schema/memberaliasrules. Repeated28dependency/16protected/6joins mechanicallyreplayed, not newlyreadprimarybodies.",
+        "raw_slice_payloads_replayed": 7,
+        "exact_dependency_snapshots_replayed": 28,
+        "protected_source_rows_exact": 16,
+        "producer_traces_reviewed": 8,
+        "independent_traces_reviewed": 12,
+        "semantic_decision": "Narita has usable qualitative alternativesforfamiliarwork/rest/company/advice withoutnumericoptimizer/oracle. Takeihasusablejoining/noticing/education/recipientchannelmechanisms withoutconcealedplanknowledge/fool-or-mastermindcaricature. Bothreturnconditionalin-domainacts andfieldabstentions; no materialconstraintdefectfound.",
+        "register_decision": "PASS_selectivecommunicative-act/localtext-registerconstraintsONLY; nofreeformJapaneseoutputtest,completeidiolect oracousticclaim.",
+        "validation_limits": [
+          "Manualprose-modelapplication andexposedretrospectiveconsistency/synthetichypothesisconstraints,notexecutabletrainedpersona orblindpredictiveaccuracy.",
+          "Casesaretinyandadmitteddomainsbounded; no guaranteeallfuturebehavior.",
+          "No globalgrade/humanREVIEWED/ownercalibrationpromotion orsourceclaim."
+        ],
+        "canonical_render_authorized": "Targetedauthority/currentreview/provenancewrapperafterpreservingtheseimmutablecandidatebytes; no unreviewedmechanismchange. Renderderivation/core/evidencejoins mustbeverified beforepublication.",
+        "other4pilot_models": "NOT_COVERED_BY_THIS_ACCEPTANCE",
+        "new_source_calls": 0,
+        "pixels": 0,
+        "global_grade": false
+      }
+    },
+    {
+      "record_id": "root.final_identity_replay",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_FINAL_SIX_MODEL_IDENTITY_REPLAY.json",
+        "bytes": 11318,
+        "sha256": "84ec84d5a7d16cf61ca85230b50795e9e1859812a2630184bdcb2b05d750cfe7"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "b69a7d31beead02ca038ddeec578797cf26abb9f76a164c3c9017c9fa185ff60",
+      "value": {
+        "schema": "tomozaki_root_final_six_model_raw_identity_replay/v1",
+        "utc": "2026-11-04T02:03:18.352190+00:00",
+        "checked": [
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12274,
+            "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/CONSTRUCTION_INPUT_AND_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2898,
+            "sha256": "dedbfc7b9b93b4f39e783f4a68b2432bad3a905ebc36f28b32c880bcc4e2211c"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/FIRST_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 21816,
+            "sha256": "4ef7e798515f5ec0de1484f2a71db2efdaaaa2bef5c9e4cd91cea92c7b8ba319"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/FIRST_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2313,
+            "sha256": "407acb798c40e649e613e5a862b13874946b047596c104f16bbbb8ac8537c657"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11023,
+            "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11528,
+            "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/PREREGISTERED_TESTS.md",
+            "bytes": 14655,
+            "sha256": "97fe862127b5a408fdb7874ccb0365ab4b43480b85850a5f4e7ec4a3323ffa62"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/PREREGISTRATION_FREEZE.json",
+            "bytes": 972,
+            "sha256": "94724c8b8c4059d4b261cecf39235cb35156bd84881a63873e7316cba9095a96"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/PRODUCER_FINAL_READBACK.json",
+            "bytes": 2236,
+            "sha256": "c3683e578404c7e0465062ab439ebc0fd4c1ed7107f177fa89d4d9211a4ed2dc"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/SECOND_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 21687,
+            "sha256": "6b05e818660079a6b489392e810c532303d0eddd861011a3551e78659a7e2a4f"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/SECOND_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 1273,
+            "sha256": "94fcbf88f7e93e79f208ce174385cd3610e31662b51ebfe6b6cc22b4d6a7a55c"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/START_HERE.md",
+            "bytes": 5797,
+            "sha256": "4ee43064e107bc245e71f3cfe1a9ba7b82f11b8de781db72165646758699f9a4"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/THIRD_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "bytes": 22766,
+            "sha256": "68a54ab8ea0f5a14cbc0d2250b02ef177f351e21278c1b953ab89c6fe05ff168"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/THIRD_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 1269,
+            "sha256": "f69da52aced12a8ae9b461f1ee9ecda112a961e890def88cec17ad8c19a39c2f"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/TOMOZAKI_PILOT_MODEL_DEPENDENCIES.json",
+            "bytes": 41736,
+            "sha256": "03a6def55c5f69637d607837a9ddae744059c95985f010cc0b2e1b3b5d79d85d"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/TOMOZAKI_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+            "bytes": 21168,
+            "sha256": "3c9d8e5ebb05ece5a1a208d2f5ebbf0106421e9acbbf11c600204761c9815755"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11925,
+            "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/build_dependency_packet.py",
+            "bytes": 7260,
+            "sha256": "8fbd76c59a10edd0b78d5c12f13f94d23f0d32bff561bc36acfd9a64481959dc"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/build_review_packet.py",
+            "bytes": 8308,
+            "sha256": "a58b1f272d71551cac61db2785c44d2bc2da146d374a6f7152a61d230d4d99eb"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/finalize_construction_handoff.py",
+            "bytes": 6481,
+            "sha256": "81b97e56637af07537a6b338a8534ae2da9d69b3ea9039e71e13ce63ef2ff5e0"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/record_remaining_traces.py",
+            "bytes": 20577,
+            "sha256": "7b27276eca61422519711e20f9cb7f82bd7f05e6a8eb824e21e5fd1f98373ade"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/run_first_pair_traces.py",
+            "bytes": 10868,
+            "sha256": "7143675f756cc5c2cd886b7d11818342c43662a8cf1d0143357ebdebf833072d"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+            "bytes": 22434,
+            "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/PREPARATION_READ_SCOPE.json",
+            "bytes": 3816,
+            "sha256": "81fd535a16f8f4dd69569cd8a83bd6211aca994c9fb39146f0b3a1a9b306ca55"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/PREPARATION_SEAL.json",
+            "bytes": 706,
+            "sha256": "a44c956f5a597ca9bb7bcf8088d02d1e197c508c4e52bedbfb9cef76ff3e17bb"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_REVIEW.md",
+            "bytes": 4551,
+            "sha256": "7bf5629ae8345b94b5c47af32270a09c4831baf57d6e472d52d624a8222721d4"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_REVIEW_SEAL.json",
+            "bytes": 1715,
+            "sha256": "87c276e99c6dab3f923a96c69f0101eca9c50c6cff564b804ea1d4a7c175e8b1"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+            "bytes": 29952,
+            "sha256": "b47e1cf7f8d18581ede36fa7b9c2ddb62682ba76bc14f1f4d16bec4b4749ee6e"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_IDENTITY_AND_SCOPE_REPLAY.json",
+            "bytes": 8024,
+            "sha256": "d72403ad8220451d154fbbd4d65cf464c82e3ee3047421d75ad7994a36b974c9"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_PROTECTED_ROUTE_REPLAY.json",
+            "bytes": 506,
+            "sha256": "92ee8058535743652bcf2e1a5af47826e0769ddeef8be8e2203d0292227853eb"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/NAKAMURA_INDEPENDENT_CHALLENGE_TRACES.json",
+            "bytes": 15170,
+            "sha256": "77e900c1cee96f7ff41780ad74ef0033d095dd2a29f3f1d76e6a062cbcc3da60"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/NAKAMURA_IDENTITY_AND_SCOPE_REPLAY.json",
+            "bytes": 2177,
+            "sha256": "8a8ace91964138a725f3e6cf43a507f1438f7975b85690e982d4b2becb34eac2"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FINAL_THREE_PERSON_REVIEW.md",
+            "bytes": 5056,
+            "sha256": "35b59029051a8eeeec74c27d5aca7f632b76b4fa52b1cd52738e4c79f0596b31"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11528,
+            "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/ACQUIRED_CUMULATIVE_WINDOWS_B.json",
+            "bytes": 3695,
+            "sha256": "ba5cc4984149082022c9a845f8d8b4e9f2f6d1d42d43a53d8f50bdd6e5b6adee"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/KONNO_MITSU_ASHIGARU_INDEPENDENT_REVIEW_B.md",
+            "bytes": 9810,
+            "sha256": "a5550bef98bc8d7d10acb017d79933ea60485d9c4285581f71fc072b1cf415ad"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/MODEL_INPUT_AND_TRACE_BINDING_PROOF_B.json",
+            "bytes": 11298,
+            "sha256": "eadc4f0379f730501e9326ab13c6d36e7d34521514093953d9bc27a5aec79db9"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTERED_REVIEW_B.json",
+            "bytes": 20982,
+            "sha256": "aa2b2260369b940d7d92dd67cbbbd464d988633e2677fcf42024324f655e35c7"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/PRE_REGISTRATION_SEAL.json",
+            "bytes": 537,
+            "sha256": "cec1372c9d15773bf5ce13e72f6c83701f1fc736a2902ecea29e657c94d73809"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/TWELVE_INDEPENDENT_CHALLENGE_TRACES_B.json",
+            "bytes": 38428,
+            "sha256": "1bca4307c2963903a8809b7d9384479d2ec4ff2f73e898357565fd5a3d1baabf"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11023,
+            "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11925,
+            "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12274,
+            "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+          }
+        ],
+        "reviewed_seals": [
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/FINAL_SIX_MODEL_CONSTRUCTION_HANDOFF_SEAL.json",
+            "bytes": 5913,
+            "sha256": "ba3423a82cde9685796709ad4d5182d9390054f7068f1802a1006f24f1870abd"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FINAL_THREE_PERSON_REVIEW_SEAL.json",
+            "bytes": 3767,
+            "sha256": "257b3b2c399ce591fc6ba052350c26703bd851c596dfb679801c60d5b7779619"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/FINAL_PILOT_MODEL_INDEPENDENT_REVIEW_B_SEAL.json",
+            "bytes": 3975,
+            "sha256": "80ccdcf0136e51447b7cf29f555ca9b8c49374469d900e1137807e5384558dcd"
+          }
+        ],
+        "private_helpers_executed": false,
+        "all_exact": true,
+        "prior_dependency_replay": "28 snapshot dependencies /16 protected rows /6 released joins previously replayed; unchanged literature and source owners, no gratuitous repeat read"
+      }
+    },
+    {
+      "record_id": "root.six_acceptance",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_SIX_PILOT_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 5865,
+        "sha256": "88f3af4be27c422d7b32a03998787e1b8c9da53bfb7f881f94f1a63b5863d3ab"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "0e8c6de439bc184f3e44769f1caade32f64139d0bf38907a3181961ee089f8e4",
+      "value": {
+        "schema": "tomozaki_root_six_pilot_model_acceptance/v1",
+        "utc": "2026-11-04T02:03:18.352190+00:00",
+        "status": "ACCEPTED_BOUNDED_DERIVED_MODELS_CANONICAL_RENDER_AND_PUBLICATION_PENDING",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "models": [
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11528,
+            "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11023,
+            "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11925,
+            "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+          },
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12274,
+            "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+          }
+        ],
+        "reviewed_seals": [
+          {
+            "path": ".scratch/constructed_pilot_models_20261103/FINAL_SIX_MODEL_CONSTRUCTION_HANDOFF_SEAL.json",
+            "bytes": 5913,
+            "sha256": "ba3423a82cde9685796709ad4d5182d9390054f7068f1802a1006f24f1870abd"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_a_20261103/FINAL_THREE_PERSON_REVIEW_SEAL.json",
+            "bytes": 3767,
+            "sha256": "257b3b2c399ce591fc6ba052350c26703bd851c596dfb679801c60d5b7779619"
+          },
+          {
+            "path": ".scratch/pilot_model_independent_review_b_20261103/FINAL_PILOT_MODEL_INDEPENDENT_REVIEW_B_SEAL.json",
+            "bytes": 3975,
+            "sha256": "80ccdcf0136e51447b7cf29f555ca9b8c49374469d900e1137807e5384558dcd"
+          }
+        ],
+        "root_identity_replay": {
+          "path": ".scratch/model_review_root_20261103/ROOT_FINAL_SIX_MODEL_IDENTITY_REPLAY.json",
+          "bytes": 11318,
+          "sha256": "84ec84d5a7d16cf61ca85230b50795e9e1859812a2630184bdcb2b05d750cfe7"
+        },
+        "root_read_scope": {
+          "models": "All six complete actual model bodies; 37 person-specific mechanisms",
+          "producer": "Complete preregistration plus all24 actual producer traces: literal inputs, exposure, expected constraints, selectors, actual bounded output, abstentions and errors. Unique fields acquired fully; repeated common frames separately acquired and mechanically bound.",
+          "independent_A": "All18 actual independent challenge inputs/outputs/abstentions, human reports and final seals.",
+          "independent_B": "All12 actual independent challenge inputs/outputs/abstentions, human report and final seal. Final raw window3 acquired in this root turn.",
+          "source_frame": "Complete unique dependency schema/alias rules and prior replay of28 snapshot dependencies,16 protected source rows and6 released-literature joins. No new primary reading."
+        },
+        "producer_traces_reviewed": 24,
+        "independent_traces_reviewed": 30,
+        "semantic_decisions": {
+          "Narita": "Usable ordinary work/rest/company/advice conditional alternatives, no numeric optimizer or oracle.",
+          "Takei": "Usable joining/noticing/education/recipient channels, no secret-plan knowledge or fool/mastermind caricature.",
+          "Nakamura": "Competition, rough advice, particular Yuzu care and refusal preserve early/later standing and costs; no invented V12 repair.",
+          "Konno": "Status, trusted friendship and collaboration retain ordinary agency and actual harm; no borrowed apology or automatic reform.",
+          "Mitsu": "Craft/help requires separate technical, custody, permission and feasibility channels; no universal consent or unobserved new conduct.",
+          "Ashigaru": "Competition/career/community use actual-versus-estimate and reciprocal labor limits; invitation, broadcast scope, match results and private history remain separate."
+        },
+        "input_limitations_not_model_repairs": [
+          "B-K02 unnamed classmate: clarify Hirabayashi identity or abstain new-target forecast.",
+          "B-A03 role supports supplied permission constraint; person-specific forecast remains identity/standing conditional."
+        ],
+        "material_model_defects_found": [],
+        "corrections_or_retests_required": false,
+        "register_decision": "PASS selective source-derived communicative-act/local text-register constraints only. No freeform Japanese output, full idiolect or acoustic validation.",
+        "limits": [
+          "Manual prose decision/constraint models and exposed retrospective consistency/hypothetical constraints; no executable trained persona, blind prediction or accuracy percentage.",
+          "Small bounded tests do not certify all possible behavior. Primary evidence vetoes these derived models.",
+          "No global capability grade, owner calibration, human REVIEWED promotion or terminal governance pass."
+        ],
+        "canonical_render_authorized": "Preserve immutable scratch candidates. Reviewed current-authority/review/provenance administrative derivatives are authorized; unchanged mechanism cores and exact diffs/evidence joins require verification before publication.",
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0,
+        "full_corpus_campaign": "ACTIVE: additional3 admitted and preregistered separately; remaining6 principal investigations/retrieval/context responsibilities continue."
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "This exact public record instance preserves its archived analytical values and identities. It cannot grant wider model authority, primary literary evidence or future publication/main acceptance."
+}
