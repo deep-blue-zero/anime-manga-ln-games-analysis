@@ -15,6 +15,3884 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+              "canonical_audio_asset_id": "wav:f1f451f78c67f2c4be89a22f767668fb5e16cb6fd2820cad2c33ee2e9ff5ede2",
+              "wav_sha256": "f1f451f78c67f2c4be89a22f767668fb5e16cb6fd2820cad2c33ee2e9ff5ede2"
+            },
+            {
+              "cue": "vo_special_165_007",
+              "canonical_audio_asset_id": "wav:01c368d9639f09bdc55d950efc21be71f3efe75fb13cd0bd62df38bb0e2e582e",
+              "wav_sha256": "01c368d9639f09bdc55d950efc21be71f3efe75fb13cd0bd62df38bb0e2e582e"
+            },
+            {
+              "cue": "vo_special_165_008",
+              "canonical_audio_asset_id": "wav:6961fec0209303c923c357e599c1d67ce7a60f4d2f8aa1eb35bbfce0ebb57aca",
+              "wav_sha256": "6961fec0209303c923c357e599c1d67ce7a60f4d2f8aa1eb35bbfce0ebb57aca"
+            },
+            {
+              "cue": "vo_special_165_009",
+              "canonical_audio_asset_id": "wav:b8cc4a928a50b1639c455102b3eb12f3a82f29ceead224abbda2b1ee283f37d6",
+              "wav_sha256": "b8cc4a928a50b1639c455102b3eb12f3a82f29ceead224abbda2b1ee283f37d6"
+            },
+            {
+              "cue": "vo_special_165_010",
+              "canonical_audio_asset_id": "wav:a283dc83e443344ea7a179b07715f05a3aa5e223e96e78cc27723c0c011b48bf",
+              "wav_sha256": "a283dc83e443344ea7a179b07715f05a3aa5e223e96e78cc27723c0c011b48bf"
+            },
+            {
+              "cue": "vo_special_165_011",
+              "canonical_audio_asset_id": "wav:1b43d4ec2e92556d49620c5df2cce282ec31da8c0ad38e6b7c7b99932838ce60",
+              "wav_sha256": "1b43d4ec2e92556d49620c5df2cce282ec31da8c0ad38e6b7c7b99932838ce60"
+            },
+            {
+              "cue": "vo_special_165_012",
+              "canonical_audio_asset_id": "wav:4227f4fa6f00e0bbf655e9baccdde758af53fd44a1fa7c64b04270ce61a12ee4",
+              "wav_sha256": "4227f4fa6f00e0bbf655e9baccdde758af53fd44a1fa7c64b04270ce61a12ee4"
+            },
+            {
+              "cue": "vo_special_165_013",
+              "canonical_audio_asset_id": "wav:6a69c1e7e77d0d93e4bd98a6f17b95d47d8a38d484ebf99b8ffc7daf1c26f0a2",
+              "wav_sha256": "6a69c1e7e77d0d93e4bd98a6f17b95d47d8a38d484ebf99b8ffc7daf1c26f0a2"
+            },
+            {
+              "cue": "vo_special_165_014",
+              "canonical_audio_asset_id": "wav:190979ddef3fb2c56d7854f48397a999bf5e5031c5b61d71ebce190f0cafa85a",
+              "wav_sha256": "190979ddef3fb2c56d7854f48397a999bf5e5031c5b61d71ebce190f0cafa85a"
+            },
+            {
+              "cue": "vo_special_165_015",
+              "canonical_audio_asset_id": "wav:918c94419f9516ce473de8d56216a1fb708ec5e27089a2bab022d6fa808e0d38",
+              "wav_sha256": "918c94419f9516ce473de8d56216a1fb708ec5e27089a2bab022d6fa808e0d38"
+            },
+            {
+              "cue": "vo_special_165_016",
+              "canonical_audio_asset_id": "wav:06e88da3b4bc65708c15053abd1c5a9fcaf1d36d8570d7e86598f95bd29471a7",
+              "wav_sha256": "06e88da3b4bc65708c15053abd1c5a9fcaf1d36d8570d7e86598f95bd29471a7"
+            },
+            {
+              "cue": "vo_special_165_017",
+              "canonical_audio_asset_id": "wav:4ffd74d2a17c527a8f222651a2f1114eca875f4cb8ba2d9883a3d912afbbb3a5",
+              "wav_sha256": "4ffd74d2a17c527a8f222651a2f1114eca875f4cb8ba2d9883a3d912afbbb3a5"
+            },
+            {
+              "cue": "vo_special_165_018",
+              "canonical_audio_asset_id": "wav:816651df5df620a6efb20d211cea64d7fb4b4025020187ba0fdade7d123d956a",
+              "wav_sha256": "816651df5df620a6efb20d211cea64d7fb4b4025020187ba0fdade7d123d956a"
+            },
+            {
+              "cue": "vo_special_165_019",
+              "canonical_audio_asset_id": "wav:a3a75466e1b7c3c8db863c1a771e0601b736bd847ca2ee392293032bf3f3481a",
+              "wav_sha256": "a3a75466e1b7c3c8db863c1a771e0601b736bd847ca2ee392293032bf3f3481a"
+            },
+            {
+              "cue": "vo_special_165_020",
+              "canonical_audio_asset_id": "wav:874e2b6e32af6eb6089d5c5006888c8c2c3ccd13a80eba9d24ce1620329ac9e3",
+              "wav_sha256": "874e2b6e32af6eb6089d5c5006888c8c2c3ccd13a80eba9d24ce1620329ac9e3"
+            },
+            {
+              "cue": "vo_special_165_021",
+              "canonical_audio_asset_id": "wav:c9e0ce347e1162278ee1b48f777216ed31bf7aa94f0f156a4deaed971a3b73e0",
+              "wav_sha256": "c9e0ce347e1162278ee1b48f777216ed31bf7aa94f0f156a4deaed971a3b73e0"
+            },
+            {
+              "cue": "vo_special_165_022",
+              "canonical_audio_asset_id": "wav:e7f09b5925f767ad2d24fe6820017897a07904045e69a2fcfdf5f4b44b82034a",
+              "wav_sha256": "e7f09b5925f767ad2d24fe6820017897a07904045e69a2fcfdf5f4b44b82034a"
+            },
+            {
+              "cue": "vo_special_165_023",
+              "canonical_audio_asset_id": "wav:6549c400cacdfc4448079ad1f08e85208a950d08dbfb2d9eed5e1be0e8e1adad",
+              "wav_sha256": "6549c400cacdfc4448079ad1f08e85208a950d08dbfb2d9eed5e1be0e8e1adad"
+            },
+            {
+              "cue": "vo_special_165_024",
+              "canonical_audio_asset_id": "wav:d13fa6dc2c5cfab7edf53da57f026a21e170078821736606a9ca0f10c572f281",
+              "wav_sha256": "d13fa6dc2c5cfab7edf53da57f026a21e170078821736606a9ca0f10c572f281"
+            },
+            {
+              "cue": "vo_special_165_025",
+              "canonical_audio_asset_id": "wav:4301012986fa57ec53d8e122c58fcc3ee1d46661ffb30d3d52a7d110bcf3107f",
+              "wav_sha256": "4301012986fa57ec53d8e122c58fcc3ee1d46661ffb30d3d52a7d110bcf3107f"
+            },
+            {
+              "cue": "vo_special_165_026",
+              "canonical_audio_asset_id": "wav:da49bd267ea02bdcd5b58dab5fe5ea7c9ce539b122a824d40d83318b2bec41df",
+              "wav_sha256": "da49bd267ea02bdcd5b58dab5fe5ea7c9ce539b122a824d40d83318b2bec41df"
+            },
+            {
+              "cue": "vo_special_165_027",
+              "canonical_audio_asset_id": "wav:aff0f0e5b7cd16bc6619ef8464f90b3c8a58d5b70caef48db8d24f6a58383841",
+              "wav_sha256": "aff0f0e5b7cd16bc6619ef8464f90b3c8a58d5b70caef48db8d24f6a58383841"
+            },
+            {
+              "cue": "vo_special_165_028",
+              "canonical_audio_asset_id": "wav:c26262fdf2dda70664251c6b5169ac5c338dba7d4bbbb9fd2bfaf712b3f7af32",
+              "wav_sha256": "c26262fdf2dda70664251c6b5169ac5c338dba7d4bbbb9fd2bfaf712b3f7af32"
+            },
+            {
+              "cue": "vo_special_165_029",
+              "canonical_audio_asset_id": "wav:3431ae35bc11a46ca28b45bd34918790683037a0e261704836343efb9f41abba",
+              "wav_sha256": "3431ae35bc11a46ca28b45bd34918790683037a0e261704836343efb9f41abba"
+            },
+            {
+              "cue": "vo_special_165_030",
+              "canonical_audio_asset_id": "wav:795e855a6dd656071d04b6fde8740520d13fa70783ea8e8d0dbe746ce206e077",
+              "wav_sha256": "795e855a6dd656071d04b6fde8740520d13fa70783ea8e8d0dbe746ce206e077"
+            },
+            {
+              "cue": "vo_special_165_031",
+              "canonical_audio_asset_id": "wav:f1e5457ebbb032c6eb995920354d6e12e54a4af66ade0a7fffc8c643f32619e8",
+              "wav_sha256": "f1e5457ebbb032c6eb995920354d6e12e54a4af66ade0a7fffc8c643f32619e8"
+            },
+            {
+              "cue": "vo_special_165_032",
+              "canonical_audio_asset_id": "wav:ee844c56d90b6b6c29e0e875255f04c945fa8c4f2a89c7ca330bd6090e85c142",
+              "wav_sha256": "ee844c56d90b6b6c29e0e875255f04c945fa8c4f2a89c7ca330bd6090e85c142"
+            },
+            {
+              "cue": "vo_special_165_033",
+              "canonical_audio_asset_id": "wav:9cd1f309279f4419d5872d99d33c3f02b59865aa6e1b0c18d2efaf71f2c3dc66",
+              "wav_sha256": "9cd1f309279f4419d5872d99d33c3f02b59865aa6e1b0c18d2efaf71f2c3dc66"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_165_001",
+            "vo_special_165_002",
+            "vo_special_165_003",
+            "vo_special_165_004",
+            "vo_special_165_005",
+            "vo_special_165_006",
+            "vo_special_165_007",
+            "vo_special_165_008",
+            "vo_special_165_009",
+            "vo_special_165_010",
+            "vo_special_165_011",
+            "vo_special_165_012",
+            "vo_special_165_013",
+            "vo_special_165_014",
+            "vo_special_165_015",
+            "vo_special_165_016",
+            "vo_special_165_017",
+            "vo_special_165_018",
+            "vo_special_165_019",
+            "vo_special_165_020",
+            "vo_special_165_021",
+            "vo_special_165_022",
+            "vo_special_165_023",
+            "vo_special_165_024",
+            "vo_special_165_025",
+            "vo_special_165_026",
+            "vo_special_165_027",
+            "vo_special_165_028",
+            "vo_special_165_029",
+            "vo_special_165_030",
+            "vo_special_165_031",
+            "vo_special_165_032",
+            "vo_special_165_033"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_165_002",
+            "vo_special_165_003",
+            "vo_special_165_004",
+            "vo_special_165_005",
+            "vo_special_165_006",
+            "vo_special_165_007",
+            "vo_special_165_008",
+            "vo_special_165_009",
+            "vo_special_165_010",
+            "vo_special_165_011",
+            "vo_special_165_012",
+            "vo_special_165_013",
+            "vo_special_165_014",
+            "vo_special_165_015",
+            "vo_special_165_016",
+            "vo_special_165_017",
+            "vo_special_165_018",
+            "vo_special_165_019",
+            "vo_special_165_020",
+            "vo_special_165_021",
+            "vo_special_165_022",
+            "vo_special_165_023",
+            "vo_special_165_024",
+            "vo_special_165_025",
+            "vo_special_165_026",
+            "vo_special_165_027",
+            "vo_special_165_028",
+            "vo_special_165_029",
+            "vo_special_165_030",
+            "vo_special_165_031",
+            "vo_special_165_032",
+            "vo_special_165_033"
+          ],
+          "dialogue_voice_page_count": 32,
+          "exact_unresolved_command_voice_carrier_pages": {},
+          "exact_gap_acceptance_sha256": null,
+          "static_preparation_sha256": "0fd2e2af1e5ed7f4ca23a97b2e68c1d6320040b2585ff332310afe17c729dfcf",
+          "root_case_actual_review_sha256": "7134bf1fe039ae581d7ee926a954bd0e44e2b7070f6ae1e4ee444205f3d6981b",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504016205",
+          "binding_sha256": "9b1b89c65640349e0ca4059ad095d85bd3fd6a5e51bf2ae11394be9f18ff4b8b",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_166_001",
+              "canonical_audio_asset_id": "wav:766659f1433b7319bd85ce147616ed914ac259c4f2229fe65554ee0f6e00766c",
+              "wav_sha256": "766659f1433b7319bd85ce147616ed914ac259c4f2229fe65554ee0f6e00766c"
+            },
+            {
+              "cue": "vo_special_166_002",
+              "canonical_audio_asset_id": "wav:9634bf51efb92a93f87180d85796d7f50e8b90e744071b5d6ad82c62b8569c9f",
+              "wav_sha256": "9634bf51efb92a93f87180d85796d7f50e8b90e744071b5d6ad82c62b8569c9f"
+            },
+            {
+              "cue": "vo_special_166_003",
+              "canonical_audio_asset_id": "wav:a0fc139237cddf0f111e0fdb1d017804bd14b9ead96ff3d70199fba4303893b9",
+              "wav_sha256": "a0fc139237cddf0f111e0fdb1d017804bd14b9ead96ff3d70199fba4303893b9"
+            },
+            {
+              "cue": "vo_special_166_004",
+              "canonical_audio_asset_id": "wav:e5a5c23bfb31829155f538960a2604173e82b631f5775ce4af99cbaefc1cbba0",
+              "wav_sha256": "e5a5c23bfb31829155f538960a2604173e82b631f5775ce4af99cbaefc1cbba0"
+            },
+            {
+              "cue": "vo_special_166_005",
+              "canonical_audio_asset_id": "wav:f04aa0e68c3d2cb629bf51e8b84988fa1084aedb19d7e4693a5ad7480526f22e",
+              "wav_sha256": "f04aa0e68c3d2cb629bf51e8b84988fa1084aedb19d7e4693a5ad7480526f22e"
+            },
+            {
+              "cue": "vo_special_166_006",
+              "canonical_audio_asset_id": "wav:f8995495d61f6cc32072eb954012cee8574f190f52d733ad53ca161ca69f7390",
+              "wav_sha256": "f8995495d61f6cc32072eb954012cee8574f190f52d733ad53ca161ca69f7390"
+            },
+            {
+              "cue": "vo_special_166_007",
+              "canonical_audio_asset_id": "wav:c423bdedfaf80553fec14228f6d96b7ca6aa869b71c993afcb5e560bbc87881d",
+              "wav_sha256": "c423bdedfaf80553fec14228f6d96b7ca6aa869b71c993afcb5e560bbc87881d"
+            },
+            {
+              "cue": "vo_special_166_008",
+              "canonical_audio_asset_id": "wav:b8e0b181c5854bea2c7fa9ea6e992fa8deb28b6cee491eb1e8c39529816a3f38",
+              "wav_sha256": "b8e0b181c5854bea2c7fa9ea6e992fa8deb28b6cee491eb1e8c39529816a3f38"
+            },
+            {
+              "cue": "vo_special_166_009",
+              "canonical_audio_asset_id": "wav:b6372cb4b3182dde7a91b5a51f96b0206a25d505f1c3103d7e73b5339649f607",
+              "wav_sha256": "b6372cb4b3182dde7a91b5a51f96b0206a25d505f1c3103d7e73b5339649f607"
+            },
+            {
+              "cue": "vo_special_166_010",
+              "canonical_audio_asset_id": "wav:509d02134930ceb9ebabdfe7211533470c7882e7e34946b621cd90a4fb6ab53c",
+              "wav_sha256": "509d02134930ceb9ebabdfe7211533470c7882e7e34946b621cd90a4fb6ab53c"
+            },
+            {
+              "cue": "vo_special_166_011",
+              "canonical_audio_asset_id": "wav:b993ea8fca00c05b6c2e2aaba98858804f0f25a649c2554c346a3772d07d9bd8",
+              "wav_sha256": "b993ea8fca00c05b6c2e2aaba98858804f0f25a649c2554c346a3772d07d9bd8"
+            },
+            {
+              "cue": "vo_special_166_012",
+              "canonical_audio_asset_id": "wav:a10b2e6cda9ee6fd0d57f1e21c62489d51b5b013a0a09e7220fc91fc64f96e33",
+              "wav_sha256": "a10b2e6cda9ee6fd0d57f1e21c62489d51b5b013a0a09e7220fc91fc64f96e33"
+            },
+            {
+              "cue": "vo_special_166_013",
+              "canonical_audio_asset_id": "wav:c7b6842fa752b66889ce063f6f1ba34a8655da6affd56743c5e732cffaedc839",
+              "wav_sha256": "c7b6842fa752b66889ce063f6f1ba34a8655da6affd56743c5e732cffaedc839"
+            },
+            {
+              "cue": "vo_special_166_014",
+              "canonical_audio_asset_id": "wav:d6abf09f2cf7ff1edd67e09171b8d2bb9527cfae96882ff95731f62d74a55e7f",
+              "wav_sha256": "d6abf09f2cf7ff1edd67e09171b8d2bb9527cfae96882ff95731f62d74a55e7f"
+            },
+            {
+              "cue": "vo_special_166_015",
+              "canonical_audio_asset_id": "wav:18e387aad948dea1e6e07ffe32e106f495da71a5653206a8c61581fe2bc785d6",
+              "wav_sha256": "18e387aad948dea1e6e07ffe32e106f495da71a5653206a8c61581fe2bc785d6"
+            },
+            {
+              "cue": "vo_special_166_016",
+              "canonical_audio_asset_id": "wav:910356744366ab1fc9d29cd94aea25382e38cd576d5f78455a1cd90cc5a2cacd",
+              "wav_sha256": "910356744366ab1fc9d29cd94aea25382e38cd576d5f78455a1cd90cc5a2cacd"
+            },
+            {
+              "cue": "vo_special_166_017",
+              "canonical_audio_asset_id": "wav:236fd9dceb36deea36c063360b2276c2a00f610cee28b0afdc91b83454df0751",
+              "wav_sha256": "236fd9dceb36deea36c063360b2276c2a00f610cee28b0afdc91b83454df0751"
+            },
+            {
+              "cue": "vo_special_166_018",
+              "canonical_audio_asset_id": "wav:c3d96fb0fdd2878c225e9f201b034e9678b810ea83b14808fd227c0c65de71bf",
+              "wav_sha256": "c3d96fb0fdd2878c225e9f201b034e9678b810ea83b14808fd227c0c65de71bf"
+            },
+            {
+              "cue": "vo_special_166_019",
+              "canonical_audio_asset_id": "wav:36f8d578fb26c15b16bf0ac70bea2fe95557bffecb88d9d1c8fee7b4a82d8b23",
+              "wav_sha256": "36f8d578fb26c15b16bf0ac70bea2fe95557bffecb88d9d1c8fee7b4a82d8b23"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_166_001",
+            "vo_special_166_002",
+            "vo_special_166_003",
+            "vo_special_166_004",
+            "vo_special_166_005",
+            "vo_special_166_006",
+            "vo_special_166_007",
+            "vo_special_166_008",
+            "vo_special_166_009",
+            "vo_special_166_010",
+            "vo_special_166_011",
+            "vo_special_166_012",
+            "vo_special_166_013",
+            "vo_special_166_014",
+            "vo_special_166_015",
+            "vo_special_166_016",
+            "vo_special_166_017",
+            "vo_special_166_018",
+            "vo_special_166_019"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_166_002",
+            "vo_special_166_003",
+            "vo_special_166_004",
+            "vo_special_166_005",
+            "vo_special_166_006",
+            "vo_special_166_007",
+            "vo_special_166_008",
+            "vo_special_166_009",
+            "vo_special_166_010",
+            "vo_special_166_011",
+            "vo_special_166_012",
+            "vo_special_166_013",
+            "vo_special_166_014",
+            "vo_special_166_015",
+            "vo_special_166_016",
+            "vo_special_166_017",
+            "vo_special_166_018",
+            "vo_special_166_019"
+          ],
+          "dialogue_voice_page_count": 18,
+          "exact_unresolved_command_voice_carrier_pages": {},
+          "exact_gap_acceptance_sha256": null,
+          "static_preparation_sha256": "283528e19d50848ba17853e04f5a1db7d0649b36075430048385d84cfb537e79",
+          "root_case_actual_review_sha256": "c0f8fc89d189a00f858354811f41ed3d9fc2a425f53eea7c31b187bf1e517845",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        }
+      ],
+      "exact_unresolved_command_cue_probes": {
+        "504015202": "21213e446a9702192fcbd42fcfaaf47a35993f3152cda1e81da768d22c3fe22b",
+        "504015204": "84889d6d2726c3695514ac83e93a09efc5a19e44c0e810e0dbedd825a1e6031c",
+        "504015205": "a4fb22d1cb9308d54548659f7314d11da5770ede08057abb4aba1b31496e26df",
+        "504015705": "d2deabca33b7d1a278f39357194dd980a4748220b1c3214767320ffbdd72cf8d",
+        "504016203": "8d4ce3b0cac2bb8df1669a2441e1c0f43f8c6efa3e6b807ecb1594226c81a769"
+      },
+      "exact_unresolved_command_voice_carriers": {
+        "504015202": {
+          "vo_special_153_047": [
+            31
+          ]
+        },
+        "504015204": {
+          "vo_special_155_086": [
+            30
+          ]
+        },
+        "504015205": {
+          "vo_special_156_118": [
+            40,
+            41
+          ]
+        },
+        "504015705": {
+          "vo_special_161_194": [
+            39
+          ]
+        },
+        "504016203": {
+          "vo_special_164_042": [
+            48
+          ]
+        }
+      },
+      "performed_audio": "ALL485_AVAILABLE_BINDING_INSTANCES_UNHEARD;NO_PERFORMANCE_REVIEW",
+      "native_item_inventory": [],
+      "additional_title_bindings": [
+        {
+          "episode_id": "504015201",
+          "resource": "scenariotetitle_ep1113.png.enc",
+          "sha256": "b025f8cb4a27659b2270ef16403ab75f0f2c5e95633b9d8a31bd5f03882941ae",
+          "actual_view_receipt_sha256": "8e4a0abdbfaaa6ed2eaa8c98a6b549716bc183129df8a81b874c5304a359d80f"
+        },
+        {
+          "episode_id": "504015201",
+          "resource": "scenariotetitle_ep1152op.png.enc",
+          "sha256": "3b57bea311e193254296f1a7bc8d6d36e20fad1252ab8602fd2a98f8db5f15e2",
+          "actual_view_receipt_sha256": "8e4a0abdbfaaa6ed2eaa8c98a6b549716bc183129df8a81b874c5304a359d80f"
+        },
+        {
+          "episode_id": "504015701",
+          "resource": "scenariotetitle_ep1113.png.enc",
+          "sha256": "b025f8cb4a27659b2270ef16403ab75f0f2c5e95633b9d8a31bd5f03882941ae",
+          "actual_view_receipt_sha256": "c7dc30221b13837c828a0490a784a97269b99de5df5b4d27742251be9d717420"
+        },
+        {
+          "episode_id": "504015701",
+          "resource": "scenariotetitle_ep1157op.png.enc",
+          "sha256": "f7fd1bb554cb9e68653af442cd794ebfce2cb352ba86bbf2689c76d457aaeb6c",
+          "actual_view_receipt_sha256": "c7dc30221b13837c828a0490a784a97269b99de5df5b4d27742251be9d717420"
+        },
+        {
+          "episode_id": "504016201",
+          "resource": "scenariotetitle_ep1113.png.enc",
+          "sha256": "b025f8cb4a27659b2270ef16403ab75f0f2c5e95633b9d8a31bd5f03882941ae",
+          "actual_view_receipt_sha256": "9917f2a8d84d2a52570f77fca4e484e1a339a71bdae21eced03897e06bf8c5f7"
+        },
+        {
+          "episode_id": "504016201",
+          "resource": "scenariotetitle_ep1162op.png.enc",
+          "sha256": "243d26e15dbd33f1f33812ad5bf09f6428d892c24d66bc7dc97b9a7edcac3f82",
+          "actual_view_receipt_sha256": "9917f2a8d84d2a52570f77fca4e484e1a339a71bdae21eced03897e06bf8c5f7"
+        }
+      ],
+      "selected_static_scope": {
+        "selected_static_instances": 238,
+        "selected_sprite_instances": 238,
+        "selected_Item_instances": 0,
+        "distinct_static_resources": 72,
+        "distinct_sprite_resources": 72,
+        "background_instances": 20,
+        "distinct_backgrounds": 10,
+        "additional_title_instances": 6,
+        "distinct_additional_title_images": 4
+      },
+      "inline_movie_state": "NO_INLINE_MOVIE_FIELDS_IN_ALL15_COMPLETE_NATIVE_DOCUMENTS",
+      "native_choices": {
+        "504015201": {
+          "groups": []
+        },
+        "504015202": {
+          "groups": []
+        },
+        "504015203": {
+          "groups": []
+        },
+        "504015204": {
+          "groups": []
+        },
+        "504015205": {
+          "groups": []
+        },
+        "504015701": {
+          "groups": []
+        },
+        "504015702": {
+          "groups": []
+        },
+        "504015703": {
+          "groups": []
+        },
+        "504015704": {
+          "groups": []
+        },
+        "504015705": {
+          "groups": []
+        },
+        "504016201": {
+          "groups": []
+        },
+        "504016202": {
+          "groups": []
+        },
+        "504016203": {
+          "groups": []
+        },
+        "504016204": {
+          "groups": []
+        },
+        "504016205": {
+          "groups": []
+        }
+      },
+      "runtime": "UNOBSERVED",
+      "subject_integration_by_script": {
+        "memory_0152.json__5f5ba66689844882": [
+          "player-protagonist",
+          "rokusaki-connie-presented",
+          "tendoji-musubi",
+          "origasa-ayumu",
+          "enami-madoka"
+        ],
+        "memory_0153.json__09358d19cb0535d3": [
+          "enami-madoka",
+          "origasa-ayumu",
+          "tendoji-musubi",
+          "player-protagonist"
+        ],
+        "memory_0154.json__e386d1ce16578bde": [
+          "enami-madoka",
+          "tendoji-musubi",
+          "origasa-ayumu",
+          "player-protagonist"
+        ],
+        "memory_0155.json__fcab009b091cfbe1": [
+          "origasa-ayumu",
+          "tendoji-musubi",
+          "enami-madoka",
+          "player-protagonist"
+        ],
+        "memory_0156.json__ba359676fb66c3a1": [
+          "enami-madoka",
+          "origasa-ayumu",
+          "tendoji-musubi",
+          "player-protagonist",
+          "rokusaki-connie-presented"
+        ],
+        "memory_0157.json__03b4d55f5ff74a00": [
+          "kasukabe-haru",
+          "tsunomori-rona",
+          "nonohara-hime",
+          "serizawa-momoka",
+          "player-protagonist"
+        ],
+        "memory_0158.json__bcaf9a76052adc5c": [
+          "serizawa-momoka",
+          "kasukabe-haru",
+          "nonohara-hime",
+          "tsunomori-rona"
+        ],
+        "memory_0159.json__25c2323ace5f7690": [
+          "serizawa-momoka",
+          "tsunomori-rona",
+          "kasukabe-haru",
+          "nonohara-hime",
+          "player-protagonist"
+        ],
+        "memory_0160.json__be5174371aa36ddc": [
+          "nonohara-hime",
+          "serizawa-momoka",
+          "tsunomori-rona",
+          "kasukabe-haru"
+        ],
+        "memory_0161.json__5db6300993c8afa7": [
+          "player-protagonist",
+          "kasukabe-haru",
+          "tsunomori-rona",
+          "nonohara-hime",
+          "serizawa-momoka",
+          "kuonji-shizuka"
+        ],
+        "memory_0162.json__0c26c3f780677ca6": [
+          "katsuragi-kazumi",
+          "futagawa-mimi",
+          "aihara-miu",
+          "rokusaki-connie-presented",
+          "player-protagonist"
+        ],
+        "memory_0163.json__a16ee412b97b84e5": [
+          "aihara-miu",
+          "katsuragi-kazumi",
+          "futagawa-mimi"
+        ],
+        "memory_0164.json__45531e50dbbd3888": [
+          "futagawa-mimi",
+          "aihara-miu",
+          "katsuragi-kazumi",
+          "player-protagonist"
+        ],
+        "memory_0165.json__8afcfd2dc9624e38": [
+          "katsuragi-kazumi",
+          "futagawa-mimi",
+          "aihara-miu"
+        ],
+        "memory_0166.json__f8bcacc3f04449cf": [
+          "aihara-miu",
+          "futagawa-mimi",
+          "katsuragi-kazumi",
+          "player-protagonist",
+          "rokusaki-connie-presented"
+        ]
+      },
+      "coverage_effective_state_sha256": "f6ea9460fea6f6e4a98f6204caf98cff882b95dc62a36377b53d4df9edab709d",
+      "older_integrity_serialized_bytes": "BYTE_EXACT_REQUIRED_ALL185",
+      "frozen_storage_transitions": "UNCHANGED_REQUIRED",
+      "prospective_capacity": {
+        "source_before_count": 9,
+        "source_after_allowed_counts": [
+          9,
+          10
+        ],
+        "coverage_before_role_part_counts": [
+          6,
+          2
+        ],
+        "coverage_after_role_part_counts": [
+          [
+            6,
+            2
+          ]
+        ],
+        "entity_parts": 7,
+        "story_parts": 5,
+        "claim_parts": 6,
+        "ledger_after_counts": {
+          "entity": [
+            7,
+            8
+          ],
+          "story": [
+            5,
+            6
+          ],
+          "claim": [
+            6,
+            7
+          ]
+        },
+        "physical_before_images": 54,
+        "physical_after_images_allowed": [
+          54,
+          55,
+          56,
+          57,
+          58
+        ],
+        "physical_file_cap_exclusive": 1048576,
+        "active_ledger_cap_exclusive": 460800,
+        "quoted_native_argument_UTF16_cap_exclusive": 28000,
+        "source_new_integrity_limit_bytes": 262144,
+        "source_logical_limit_bytes": 3932160,
+        "ledger_new_payload_limit_bytes_by_role": {
+          "entity": 350000,
+          "story": 350000,
+          "claim": 350000
+        },
+        "active_ledger_room_before": {
+          "entity": 279702,
+          "story": 237518,
+          "claim": 293110
+        },
+        "optional_new_capacity_paths": [
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_010.md",
+          "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_008.md",
+          "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_006.md",
+          "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_007.md"
+        ],
+        "source_physical_delta_optional_only_when_byte_unchanged": [
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_002.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_003.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_004.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_005.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_006.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_007.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_008.md",
+          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_009.md"
+        ],
+        "source_component_rule": "Retain all nine older SourceLock parts and all eight coverage payloads. Optional Source010 only if lossless393216-byte line partition of the actual whole after requires it; no retirement or coverage growth.",
+        "cohort_budget_rule": "Three complete Event families with5/5/5chapters,15documents and579nativepages. Freeze every chapter and each family independently. At most one actually required new SourceLock part and one per ledger. Fresh integrity remains at most262144bytes; whole source capacity is prospectively bounded at10*393216bytes without changing physical caps. Excess stops for a reviewed successor; never trim findings to fit.",
+        "unreviewed_rollover": "STOP for Source011 or higher, coverage growth, extra ledger component, retirement, missing complete view or relaxed physical/native cap."
+      },
+      "ledger_storage": "All existing components retained; only actual preaccepted optional capacity tails/source010 if needed under complete after-manifests",
+      "actual_literal_addition_bytes": {
+        "entity": 182144,
+        "story": 72016,
+        "claim": 205230
+      },
+      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
+      "source_menu_and_chronology": "Threeoriginal5/5/5families/catalog839-853;46document+12familyorderedges;noautomaticcause,crossfamilytime,exactyearorMaininsertion. Cafe/partyreportedcomplete,campcandidateonly;originalfreezesretained.",
+      "source2053": "BLOCKED"
+    },
+    "b0245_close_verification": {
+      "operation": "T7S_B0245_CLOSE",
+      "checked_at": "2026-11-04",
+      "status": "PASS_BOUNDED_DEEP_EVENT_TEXT_NATIVE_SELECTED_STATIC",
+      "category": "Event",
+      "portfolio_cohort": "NM-EVENT-CATALOG-824-838",
+      "native_top_layer_id": "100010",
+      "native_family_layer_ids": [
+        "200310",
+        "200320",
+        "200330"
+      ],
+      "original_portfolio_route_keys": [
+        "NM-EVENT-200310",
+        "NM-EVENT-200320",
+        "NM-EVENT-200330"
+      ],
+      "original_family_cardinalities": [
+        5,
+        5,
+        5
+      ],
+      "episode_ids": [
+        "503013701",
+        "503013702",
+        "503013703",
+        "503013704",
+        "503013705",
+        "504014201",
+        "504014202",
+        "504014203",
+        "504014204",
+        "504014205",
+        "504014701",
+        "504014702",
+        "504014703",
+        "504014704",
+        "504014705"
+      ],
+      "source_bindings": [
+        {
+          "episode_id": "503013701",
+          "script_id": "memory_0137.json__29303b34340e0c2b",
+          "source_sha256": "6ba6f733083df6ad1e7502517c676e99095e1e6c9194c58bcd51ac56f50f171f",
+          "decoded_sha256": "0691833783bc2db18a7cc77081ab5897a307648f0fba980f6abc22c6d5b49836",
+          "normalized_sha256": "b2b20e88df9e511b17daa197ccf9fc67c64c2af0a031024862f06615e60b58b8",
+          "structured_sha256": "b2b20e88df9e511b17daa197ccf9fc67c64c2af0a031024862f06615e60b58b8",
+          "pages": 47,
+          "text_records": 42,
+          "command_only_pages": 5,
+          "voice_pages": 41,
+          "native_pages_verified": 47
+        },
+        {
+          "episode_id": "503013702",
+          "script_id": "memory_0138.json__b419815569c6334e",
+          "source_sha256": "704d56cb09182f2fa3f0cff6239ed5c4a24ad5fdf1592f97044f0bad0be30c42",
+          "decoded_sha256": "912035b1eed02f0cf655bb4e6ff0c9f4aa1683bbad381b2412cde98eff9b55e3",
+          "normalized_sha256": "b8d6e5b5a971e560ee6645ede25c1753fc20be983beb4429a3b415c6944a8e89",
+          "structured_sha256": "b8d6e5b5a971e560ee6645ede25c1753fc20be983beb4429a3b415c6944a8e89",
+          "pages": 32,
+          "text_records": 27,
+          "command_only_pages": 5,
+          "voice_pages": 27,
+          "native_pages_verified": 32
+        },
+        {
+          "episode_id": "503013703",
+          "script_id": "memory_0139.json__54f3aa0dc0b5f2f4",
+          "source_sha256": "afe2a7e4b9bb065b23eb7eb23e4f35ee14fda6a59afdde0382f2df027cca9262",
+          "decoded_sha256": "d9ae8b57fce74f926158db0ed06509fcc186855414b0fb3197fa8f4b6637b81b",
+          "normalized_sha256": "55ad21fe56e35e574f5271781287caa23aa3b96217b4437c725af769f673a140",
+          "structured_sha256": "55ad21fe56e35e574f5271781287caa23aa3b96217b4437c725af769f673a140",
+          "pages": 45,
+          "text_records": 43,
+          "command_only_pages": 2,
+          "voice_pages": 43,
+          "native_pages_verified": 45
+        },
+        {
+          "episode_id": "503013704",
+          "script_id": "memory_0140.json__98c36470316504e9",
+          "source_sha256": "9cb1ba07b0526b9227f14a1e272ae736235931aef0555184623365dbf1db7091",
+          "decoded_sha256": "8069774a9058cd06f99e6f129039de32efc2b7a923ed0ae7a0c5fd46cb40d8d9",
+          "normalized_sha256": "b2b24d267cbc8a316db26366ce35d18a93393bc26d8bf9c40ac3b0100e60a3b2",
+          "structured_sha256": "b2b24d267cbc8a316db26366ce35d18a93393bc26d8bf9c40ac3b0100e60a3b2",
+          "pages": 41,
+          "text_records": 38,
+          "command_only_pages": 3,
+          "voice_pages": 29,
+          "native_pages_verified": 41
+        },
+        {
+          "episode_id": "503013705",
+          "script_id": "memory_0141.json__398b818dcaac78bf",
+          "source_sha256": "1f42d4d2ed9d9b0bc29974801264ad1a2e51e534b9c61bbe13eefa25ede882d0",
+          "decoded_sha256": "4f7ad3d161bf5ebe560b6c83e68be626391fe81d7c91a25fdb61eec42345c1de",
+          "normalized_sha256": "9e3d7f9bdd1df1b43d31f04ebae9e4a3ddc5cd0662368bddb5d3ead0b6afe4ec",
+          "structured_sha256": "9e3d7f9bdd1df1b43d31f04ebae9e4a3ddc5cd0662368bddb5d3ead0b6afe4ec",
+          "pages": 42,
+          "text_records": 39,
+          "command_only_pages": 3,
+          "voice_pages": 30,
+          "native_pages_verified": 42
+        },
+        {
+          "episode_id": "504014201",
+          "script_id": "memory_0142.json__45e73ed10708c908",
+          "source_sha256": "5edd3c69f50f423f0fa8923f1809070b13883222623e45eca6bf58d1604aaad8",
+          "decoded_sha256": "acaa00517393ae8095d9bebdaf4dc08b1f04e61d084b0981883b1afde8300550",
+          "normalized_sha256": "dc05d19874ef0118336821ce4b5314c2beb49ab636f96395a0de3d04ef383009",
+          "structured_sha256": "dc05d19874ef0118336821ce4b5314c2beb49ab636f96395a0de3d04ef383009",
+          "pages": 70,
+          "text_records": 66,
+          "command_only_pages": 4,
+          "voice_pages": 57,
+          "native_pages_verified": 70
+        },
+        {
+          "episode_id": "504014202",
+          "script_id": "memory_0143.json__986f4b2077e05354",
+          "source_sha256": "eed3a2efd8b3cfa9948eb1ef6dec49f9d6beb59913995f9e0afcb098e0aa6587",
+          "decoded_sha256": "32834d205cc3313833dbeb7dffa7740922a54a6d9cb4b50d19f64972c6539bce",
+          "normalized_sha256": "8578b6d0d8ed2ada05284d02f77c2d7e978bb769254f2f8ef95ee9cc6ce4f5fc",
+          "structured_sha256": "8578b6d0d8ed2ada05284d02f77c2d7e978bb769254f2f8ef95ee9cc6ce4f5fc",
+          "pages": 29,
+          "text_records": 27,
+          "command_only_pages": 2,
+          "voice_pages": 21,
+          "native_pages_verified": 29
+        },
+        {
+          "episode_id": "504014203",
+          "script_id": "memory_0144.json__ab76258a2996dc4b",
+          "source_sha256": "0e5a79f2df5b9bd9d4a67eda06302230abc3f9292572357d1800885ccc934153",
+          "decoded_sha256": "1104af425fb687804dd0b512071c5d6949c51a4cb2dc960195e0670aa4d1dd41",
+          "normalized_sha256": "3fb53430641dac28212c85a24f3a786c692ea0320fa6d43edceb8a8ef2677eb3",
+          "structured_sha256": "3fb53430641dac28212c85a24f3a786c692ea0320fa6d43edceb8a8ef2677eb3",
+          "pages": 37,
+          "text_records": 34,
+          "command_only_pages": 3,
+          "voice_pages": 26,
+          "native_pages_verified": 37
+        },
+        {
+          "episode_id": "504014204",
+          "script_id": "memory_0145.json__3adac1ac46cc6300",
+          "source_sha256": "adb4557be6d73813c57efc3922bee44b16b4284f23e680ab33ada3efa2c73202",
+          "decoded_sha256": "a4ff6fd450197548fbc6c9e40d20b22b83049349002cea20bb6be22ff599ad9e",
+          "normalized_sha256": "643c43e4104ed05b352627c639245d3f9266971fa6e2212a7830a9bbfc81bf01",
+          "structured_sha256": "643c43e4104ed05b352627c639245d3f9266971fa6e2212a7830a9bbfc81bf01",
+          "pages": 36,
+          "text_records": 34,
+          "command_only_pages": 2,
+          "voice_pages": 28,
+          "native_pages_verified": 36
+        },
+        {
+          "episode_id": "504014205",
+          "script_id": "memory_0146.json__3a6691de024e6a64",
+          "source_sha256": "e7af7994be598a61bdcef7c8f72ab784faaa38ea99b179a745c34f6fb8f78812",
+          "decoded_sha256": "e95c98eba7390de6d9f4816a74cda3804d4de889381a2a96678139c61cf879fe",
+          "normalized_sha256": "44f3bbea93b62297bfba5ee8bd275a4c82ee04dff49e4f8dd87f587ad3cea76e",
+          "structured_sha256": "44f3bbea93b62297bfba5ee8bd275a4c82ee04dff49e4f8dd87f587ad3cea76e",
+          "pages": 48,
+          "text_records": 45,
+          "command_only_pages": 3,
+          "voice_pages": 38,
+          "native_pages_verified": 48
+        },
+        {
+          "episode_id": "504014701",
+          "script_id": "memory_0147.json__fd3b4714105966e6",
+          "source_sha256": "aa0f72794b335b9fdb4ed6099b8a0a52af5b29c947cf73cb5283817395c4c978",
+          "decoded_sha256": "06c3869c3fab22c3e0c0da003ff6b49e426b6936fed6b9cd64be667ae7654888",
+          "normalized_sha256": "802b8508b1b002a76378b5408e5f3c19dd91b220dd4f50240898a96d03ad425f",
+          "structured_sha256": "802b8508b1b002a76378b5408e5f3c19dd91b220dd4f50240898a96d03ad425f",
+          "pages": 48,
+          "text_records": 44,
+          "command_only_pages": 4,
+          "voice_pages": 32,
+          "native_pages_verified": 48
+        },
+        {
+          "episode_id": "504014702",
+          "script_id": "memory_0148.json__9e8b798c3071cb60",
+          "source_sha256": "e339dfe1c244e93bb03d2a849aed053b0d9b492cb89873367e180d476002fd77",
+          "decoded_sha256": "f67cf15a1e7a68a41c9a5bc7847076bfbbb52c72b405e41ffbd4143cda92209f",
+          "normalized_sha256": "59c3bddc4289ba9d431c4bf8d35029f95eccc2a136f90074efd799214550b0ea",
+          "structured_sha256": "59c3bddc4289ba9d431c4bf8d35029f95eccc2a136f90074efd799214550b0ea",
+          "pages": 40,
+          "text_records": 38,
+          "command_only_pages": 2,
+          "voice_pages": 35,
+          "native_pages_verified": 40
+        },
+        {
+          "episode_id": "504014703",
+          "script_id": "memory_0149.json__eb00b3488ff8bb5f",
+          "source_sha256": "d9ba35b5f23d79b67ecc4c10b9c60ee7fdeec950963438c65bd4eccc8f842555",
+          "decoded_sha256": "676009bcb968624b2a65e7b723dc6e47332519bcef674e382ca2c831a607bb81",
+          "normalized_sha256": "e00892a921b941590a11cca77a174ade8fac6c673ae3931100618b1c01291f9d",
+          "structured_sha256": "e00892a921b941590a11cca77a174ade8fac6c673ae3931100618b1c01291f9d",
+          "pages": 36,
+          "text_records": 33,
+          "command_only_pages": 3,
+          "voice_pages": 32,
+          "native_pages_verified": 36
+        },
+        {
+          "episode_id": "504014704",
+          "script_id": "memory_0150.json__585960b6d4804436",
+          "source_sha256": "808af449cad3eb5f04a85a7eb4524449daa53563b4913d4a2f505d979e1ad6bb",
+          "decoded_sha256": "2a8dec4e3d2b174050118122562d06ca13bda6b207267a98eaa954001d1bcd7d",
+          "normalized_sha256": "3a7c851d630af47daf862ab0b5b57cefee9f214b20028bf60168469deb2eda18",
+          "structured_sha256": "3a7c851d630af47daf862ab0b5b57cefee9f214b20028bf60168469deb2eda18",
+          "pages": 34,
+          "text_records": 31,
+          "command_only_pages": 3,
+          "voice_pages": 30,
+          "native_pages_verified": 34
+        },
+        {
+          "episode_id": "504014705",
+          "script_id": "memory_0151.json__7661f717bbeca30b",
+          "source_sha256": "f27bf5704295cbb63c2101284efc5f7324d530e66f1ac591bd903e709f77bc19",
+          "decoded_sha256": "273a118b9faf87e3381c9e8e1a7c6ab0b5ecc312e7049d49d10a7f0808905778",
+          "normalized_sha256": "2ae96f731ac4c18dd422049754425343c129f57c3270b24f55f605a3b58856d7",
+          "structured_sha256": "2ae96f731ac4c18dd422049754425343c129f57c3270b24f55f605a3b58856d7",
+          "pages": 89,
+          "text_records": 84,
+          "command_only_pages": 5,
+          "voice_pages": 64,
+          "native_pages_verified": 89
+        }
+      ],
+      "totals": {
+        "pages": 674,
+        "text_records": 625,
+        "command_only_pages": 49,
+        "voice_pages": 533,
+        "visual_refs": 4375
+      },
+      "native_packet_sha256": "eb482cf63b99c273b24bb6df4881bb4ee32658b7be4cdccbe6637a697ac78dc4",
+      "dialogue_packet_sha256": "f25bb4ff8e51dbc74c5dea7d86f8a3e410c3bb6e6cb1f92bdac32fdbbb5cd0a7",
+      "source_entry_commit": "9c7edcc0fc784dc1bffa074f3815a587265dcba6",
+      "published_prior_source": "9c7edcc0fc784dc1bffa074f3815a587265dcba6",
+      "execution_base": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "current_audited_main": "b498a20457e4debeb70895fca8ebd37717e91017",
+      "live_git_reconciliation_sha256": "2e6756751e4a90b02561a6d87fe31e124c231c4300b3d56df7e2fc16ef7d09f8",
+      "prior_source_publication_cycle_sha256": "cc737f5706896a39e474322196db82217b42f1c42ed6cacf8eacd47776d76570",
+      "t7s_entering_tree": "c4869e0d35c81b4009fc46edd537e402eeba0b8e",
+      "source_lock_logical_before_sha256": "4003bf008f9402312c9c9d5fd2eaf4e97eba01f72ea653615ab8a5e1de58a281",
+      "source_lock_physical_owner_before_sha256": "339f315bfcd9f71c3e53d4a78161d6e39578f7eeb25bd1f7b650e074c0c15599",
+      "prospective_scope_sha256": "8a1d10f83cf8e6bdc1e251cb03b16037e6e761d0ffdf5bd644ff6c6b57902ebb",
+      "entering_state_sha256": "0bfe73deb237b0d7e857f212200db0e31e7804a1e15afb6fe03964ee8184ea1c",
+      "evidence_receipt_sha256": "ddec7050ad3545d1db76749554b1fd1e0aa8da1fd78a1534d84baa305e719d66",
+      "primary_preparation_intent_sha256": "9c997e7584a38c7f6589ceea95a2c05b2ae1d708065553c4ce8a45547396e0f8",
+      "reading_sha256": "c55dafd446361fa94abe807bac189b37138a82b9ddc43ac847d3009aafb9fc5e",
+      "literal_state_sha256": "558362285ef714730c3a7e75ca1bb1f12ff1f6c473a8fce51b957e9055e98ec6",
+      "root_semantic_review_sha256": "4323bd1518a1ab30d477e7dbbf0ea6fee70ed16754305711a081e447234f845b",
+      "complete_consumer_acceptance_sha256": "eb2e0a6de6ab2f0c7bec3e4b7866518c8823e3e3145375f1ef228a601e3f8bd6",
+      "operation_spec_sha256": "5fb7d08964e48128c5ce2b2c4b7d363424f6b5108ec75e5269af0d95561ed08a",
+      "current_operation_ordering_satisfied": true,
+      "ordering_scope": "Actual2026-11-03complete5roleacceptancebeforeentryandprimaryintent; all14before-nextcasesand2between-familycompletefreezes. Laterdraft/sourcechecksarenotneworretrospectiveprospectivegates.",
+      "casewise_order_review_sha256": "dc83e8a6547ca4a1206b5064cbaface5a30e255d980b5d4907a792e37a802d90",
+      "root_case_freeze_sha256": {
+        "503013701": "b705ecb41a3214776407dbab750f9bf7326f29ee9b225541443f419a595505d1",
+        "503013702": "3855ce90190f60fb2005f3e7dc387ae23202af78f2c806e5262cf48f9127889f",
+        "503013703": "4e579518f705c3e6686b65f7975a90cf53f3602778ae4c8c2259943ce17782fc",
+        "503013704": "d8704edbe4b263ae832a7bc61c07d56e8b42a347e2684284f30484c5301aecc8",
+        "503013705": "3e6391e187c09c62b4d80ed1860274797316e61a3c49b8f8b573fe54c45ca23a",
+        "504014201": "32b7a10f8628117c56bb8ae6619d7e0e69fdf7ecffe65977cf46e567b3edb7e0",
+        "504014202": "08e7775b225fe088eca4d6ee8e948470385430d87ac4db2a548370df89ce9393",
+        "504014203": "69c6ba0d25346c0030272a8227661caf48768b0992726437461b741e6004c4f0",
+        "504014204": "cd0c4195cdf6fe02e95cedd048fe31cb35e46dd2583c9442d430e47a9cf24124",
+        "504014205": "638652ad6bcee50a11b3013cdb5a8a02bf7cce78e3e773135747d128d5569558",
+        "504014701": "325597d333d3c5c5dc5742b806b4a0a4b5de1b7b705ceec0c26973c63846d783",
+        "504014702": "543afb769ee44e3a26830ba20c669ae26ce2430dba66b9f442b966dbc46cd20e",
+        "504014703": "16b7e25a5f8dd3ed3a44d9839ed53876034ad76f4fbf53e1a32205c91569b18d",
+        "504014704": "a2a72800e55d1d27bea4cc364212f81f014d4decbf3584966a861a46aa551a6a",
+        "504014705": "a23432c04c1182d742c447e2f0f9bca5ecbd8b079efb645118d016d9a6d7291e"
+      },
+      "root_family_freeze_sha256": {
+        "NM-EVENT-200310": "9f6808611cda2f735d6a1b3195a45b573cacbf4330a4585ac2b2a1d23c4eaeb2",
+        "NM-EVENT-200320": "3ed86474c6d2897add8a629f6694af253740c055c2d1f3d5bb2cfdd36d4d877c",
+        "NM-EVENT-200330": "23e1e9b660c9eb0ff1c8f493d026803134eaaa12583c452d9143b3f580ff5f0f"
+      },
+      "complete_native_packet_sha256": "eb482cf63b99c273b24bb6df4881bb4ee32658b7be4cdccbe6637a697ac78dc4",
+      "locator_content_review_sha256": "fcd187be94d92a5555e9ac3fa37525e70fcc1916d57483dd825e3dac4a054d9a",
+      "actual_complete_draft_and_precision_review_sha256": "4ca3389b0730edd9ad4af822d66aee96e6e38251d9a11b4709c79989fd6cd88d",
+      "private_supported_precision_chain_sha256": [
+        "e8639b7adeee407505ecebd2910223fc9761d854905df25bd0c20490d5ac4d98",
+        "0c2849b2236086bf40eec242795fafc58929f373352d1dfc5c6976fed0e8dbc9"
+      ],
+      "source_local_identity_normalization": {
+        "Coney": "Canonical admitted IDENTITY-0003 spelling; stable lower-case subject token unchanged. Original private Connie spelling preserved in frozen checkpoint with separate normalization note.",
+        "Mana_and_Shizuka": "Mana is Shizuka admired absent model and nested reporter; Shizuka is the present speaker/learner. No conflation.",
+        "Nicole_and_Coney": "Project-level established identity retained without fabricating a new all-cast scene disclosure or current action by absent referents.",
+        "group_and_units": "Literal 一同 and seven-slot graphics do not redefine twelve-person777☆SISTERS or create a new sister unit.",
+        "unnamed_references": "Grandfather/company/unspecified school retain source-given anonymity and attributed report status."
+      },
+      "source_media_capability": [
+        {
+          "episode_id": "503013701",
+          "binding_sha256": "70f35cf7ea503e2fb51a17afaf125a265800bb07e64597122df943759392e48f",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_137_001",
+              "canonical_audio_asset_id": "wav:ec438537df60c9e9c4321dd42e28a9d0e064d00b370d0436a32001d0639e2155",
+              "wav_sha256": "ec438537df60c9e9c4321dd42e28a9d0e064d00b370d0436a32001d0639e2155"
+            },
+            {
+              "cue": "vo_special_137_002",
+              "canonical_audio_asset_id": "wav:3f432cf02b734224fbd5a79364e99db488afee2432b4b5ee037e2d18937f9736",
+              "wav_sha256": "3f432cf02b734224fbd5a79364e99db488afee2432b4b5ee037e2d18937f9736"
+            },
+            {
+              "cue": "vo_special_137_003",
+              "canonical_audio_asset_id": "wav:4352fbed1c2e719e0a66e9c9d4de6c63571a6c5aaea10cf1c6e793d9ced77aef",
+              "wav_sha256": "4352fbed1c2e719e0a66e9c9d4de6c63571a6c5aaea10cf1c6e793d9ced77aef"
+            },
+            {
+              "cue": "vo_special_137_004",
+              "canonical_audio_asset_id": "wav:f8ec3aef28146b3e0ee9e55404258e9ca79cf32ff5b79a1b6dc6a244b3debc60",
+              "wav_sha256": "f8ec3aef28146b3e0ee9e55404258e9ca79cf32ff5b79a1b6dc6a244b3debc60"
+            },
+            {
+              "cue": "vo_special_137_005",
+              "canonical_audio_asset_id": "wav:79fda24d9724a0fbe51161834df310a056ed96976f3df8a582fdadd52475f963",
+              "wav_sha256": "79fda24d9724a0fbe51161834df310a056ed96976f3df8a582fdadd52475f963"
+            },
+            {
+              "cue": "vo_special_137_006",
+              "canonical_audio_asset_id": "wav:e0eda7a9ed200d2de5911c4337304cf86bdbe906cb7e3543d2126d989c77f48a",
+              "wav_sha256": "e0eda7a9ed200d2de5911c4337304cf86bdbe906cb7e3543d2126d989c77f48a"
+            },
+            {
+              "cue": "vo_special_137_007",
+              "canonical_audio_asset_id": "wav:fbdfe320fb5f335b8375bfed2195acc77cdfa507468ee9415dcebf3e046768af",
+              "wav_sha256": "fbdfe320fb5f335b8375bfed2195acc77cdfa507468ee9415dcebf3e046768af"
+            },
+            {
+              "cue": "vo_special_137_008",
+              "canonical_audio_asset_id": "wav:34c5539d4f6d0bf74c5279c83b3d5988f3bb81811b2ff2e81572bd1ea21c6458",
+              "wav_sha256": "34c5539d4f6d0bf74c5279c83b3d5988f3bb81811b2ff2e81572bd1ea21c6458"
+            },
+            {
+              "cue": "vo_special_137_009",
+              "canonical_audio_asset_id": "wav:1d85e6a58daf2fd90587eb8bb198a443d042725ec7506f71120bdf3d658c1c51",
+              "wav_sha256": "1d85e6a58daf2fd90587eb8bb198a443d042725ec7506f71120bdf3d658c1c51"
+            },
+            {
+              "cue": "vo_special_137_010",
+              "canonical_audio_asset_id": "wav:449659372377098ac2a7e2aae25e5287fb7bad73c5d867f95ba1fce6c50a84f5",
+              "wav_sha256": "449659372377098ac2a7e2aae25e5287fb7bad73c5d867f95ba1fce6c50a84f5"
+            },
+            {
+              "cue": "vo_special_137_011",
+              "canonical_audio_asset_id": "wav:117efc5cedbf30e27d94e29ee6874763c1a9b56ef2a34ba29ad18a45e62db07e",
+              "wav_sha256": "117efc5cedbf30e27d94e29ee6874763c1a9b56ef2a34ba29ad18a45e62db07e"
+            },
+            {
+              "cue": "vo_special_137_012",
+              "canonical_audio_asset_id": "wav:18b32914cea74c4f32d980d408859b3709ee83412add762d65fce0293ce11964",
+              "wav_sha256": "18b32914cea74c4f32d980d408859b3709ee83412add762d65fce0293ce11964"
+            },
+            {
+              "cue": "vo_special_137_013",
+              "canonical_audio_asset_id": "wav:64f8631755d804a3a1f62a8be532f0956a4d70514fbffd9e3de79ff02c8ee991",
+              "wav_sha256": "64f8631755d804a3a1f62a8be532f0956a4d70514fbffd9e3de79ff02c8ee991"
+            },
+            {
+              "cue": "vo_special_137_014",
+              "canonical_audio_asset_id": "wav:5dc4fa13bb547246e4d50c8224d3fe490b44a8cf3a8b7fd1693f05b9c16be1ca",
+              "wav_sha256": "5dc4fa13bb547246e4d50c8224d3fe490b44a8cf3a8b7fd1693f05b9c16be1ca"
+            },
+            {
+              "cue": "vo_special_137_015",
+              "canonical_audio_asset_id": "wav:5e1becb133c20c0724ba4dfd73d9d43fe001fb571a33fcbdd83e966e0d8818ef",
+              "wav_sha256": "5e1becb133c20c0724ba4dfd73d9d43fe001fb571a33fcbdd83e966e0d8818ef"
+            },
+            {
+              "cue": "vo_special_137_016",
+              "canonical_audio_asset_id": "wav:eb957e1df366e53a678864f62dbbf3e493bd8b0a6258a2432d7f6977c8a2f99b",
+              "wav_sha256": "eb957e1df366e53a678864f62dbbf3e493bd8b0a6258a2432d7f6977c8a2f99b"
+            },
+            {
+              "cue": "vo_special_137_017",
+              "canonical_audio_asset_id": "wav:9380c526a9f639d43705e36287dc3d3c6a4c46983e4e5d01c8c7fefe6d20e469",
+              "wav_sha256": "9380c526a9f639d43705e36287dc3d3c6a4c46983e4e5d01c8c7fefe6d20e469"
+            },
+            {
+              "cue": "vo_special_137_018",
+              "canonical_audio_asset_id": "wav:74b88f26993bb21a0b6935a7158d52e79b97d52e5b0c4913177e934b226301c7",
+              "wav_sha256": "74b88f26993bb21a0b6935a7158d52e79b97d52e5b0c4913177e934b226301c7"
+            },
+            {
+              "cue": "vo_special_137_019",
+              "canonical_audio_asset_id": "wav:97327d55f7d13cb9caf57d7f017f99214a7186d9b27cfa849c00ac39b4177f7f",
+              "wav_sha256": "97327d55f7d13cb9caf57d7f017f99214a7186d9b27cfa849c00ac39b4177f7f"
+            },
+            {
+              "cue": "vo_special_137_020",
+              "canonical_audio_asset_id": "wav:6d5ccd9d685df7489fe32ee98ee75d31f9fc8dfa4668cffe091578be172ddd6f",
+              "wav_sha256": "6d5ccd9d685df7489fe32ee98ee75d31f9fc8dfa4668cffe091578be172ddd6f"
+            },
+            {
+              "cue": "vo_special_137_021",
+              "canonical_audio_asset_id": "wav:e4e09e8597e860f2491508d0c618dc7e21754096f93eb9ce65400998bab99d0c",
+              "wav_sha256": "e4e09e8597e860f2491508d0c618dc7e21754096f93eb9ce65400998bab99d0c"
+            },
+            {
+              "cue": "vo_special_137_022",
+              "canonical_audio_asset_id": "wav:5a9f19cf4142526dc19d4fccbdf8f271c64e75c8cc359a5032620fca686874f0",
+              "wav_sha256": "5a9f19cf4142526dc19d4fccbdf8f271c64e75c8cc359a5032620fca686874f0"
+            },
+            {
+              "cue": "vo_special_137_023",
+              "canonical_audio_asset_id": "wav:eb55a2978674e90506d5d96f58b7bde06955d48949097fd8fbbb02e16a8c720e",
+              "wav_sha256": "eb55a2978674e90506d5d96f58b7bde06955d48949097fd8fbbb02e16a8c720e"
+            },
+            {
+              "cue": "vo_special_137_024",
+              "canonical_audio_asset_id": "wav:ada2469dabd1460cd917123058e4da1e1b3a00974eb5e0a959da3685db69433d",
+              "wav_sha256": "ada2469dabd1460cd917123058e4da1e1b3a00974eb5e0a959da3685db69433d"
+            },
+            {
+              "cue": "vo_special_137_025",
+              "canonical_audio_asset_id": "wav:656a04e47ba4e22c675ed3d1c2ce913887e6d6093bfa38609c866284b95305a9",
+              "wav_sha256": "656a04e47ba4e22c675ed3d1c2ce913887e6d6093bfa38609c866284b95305a9"
+            },
+            {
+              "cue": "vo_special_137_026",
+              "canonical_audio_asset_id": "wav:52d6360b1e783c8257325cc274b4c1b124baf177e84f833d6eeb2e8c36db70a1",
+              "wav_sha256": "52d6360b1e783c8257325cc274b4c1b124baf177e84f833d6eeb2e8c36db70a1"
+            },
+            {
+              "cue": "vo_special_137_027",
+              "canonical_audio_asset_id": "wav:798b684c2798584d045a129d42b399c0e4b26ff61e010afbf546f5474eac0fc5",
+              "wav_sha256": "798b684c2798584d045a129d42b399c0e4b26ff61e010afbf546f5474eac0fc5"
+            },
+            {
+              "cue": "vo_special_137_028",
+              "canonical_audio_asset_id": "wav:50ef242b767f3ef5906886bce971831bda2c422667d058d23fd31348aaf2b222",
+              "wav_sha256": "50ef242b767f3ef5906886bce971831bda2c422667d058d23fd31348aaf2b222"
+            },
+            {
+              "cue": "vo_special_137_029",
+              "canonical_audio_asset_id": "wav:fe65b20d5610aec79c2c7a499f058a51be103989e132fa624ca0c5c3ccd8e89e",
+              "wav_sha256": "fe65b20d5610aec79c2c7a499f058a51be103989e132fa624ca0c5c3ccd8e89e"
+            },
+            {
+              "cue": "vo_special_137_030",
+              "canonical_audio_asset_id": "wav:1fbc058633f705eeef4cab7c29c879cb7d2c6e0e2ad4d0f005eff51466cf7104",
+              "wav_sha256": "1fbc058633f705eeef4cab7c29c879cb7d2c6e0e2ad4d0f005eff51466cf7104"
+            },
+            {
+              "cue": "vo_special_137_031",
+              "canonical_audio_asset_id": "wav:a0cb079ce85c0e0c07ddb00c8ea41f0680f3c0c0622f5c41561b4d529a966c59",
+              "wav_sha256": "a0cb079ce85c0e0c07ddb00c8ea41f0680f3c0c0622f5c41561b4d529a966c59"
+            },
+            {
+              "cue": "vo_special_137_032",
+              "canonical_audio_asset_id": "wav:00a1d92df1c5bea21cd48496cfe257311f60b1fe881c4c44c95d976656507297",
+              "wav_sha256": "00a1d92df1c5bea21cd48496cfe257311f60b1fe881c4c44c95d976656507297"
+            },
+            {
+              "cue": "vo_special_137_033",
+              "canonical_audio_asset_id": "wav:ad48f7b041f12790818b267eb0f9074098bbcbc6e594906b61f43202e5484553",
+              "wav_sha256": "ad48f7b041f12790818b267eb0f9074098bbcbc6e594906b61f43202e5484553"
+            },
+            {
+              "cue": "vo_special_137_034",
+              "canonical_audio_asset_id": "wav:be1bab4af0e2c682815cb87df6ddd49d6077c6fdf854dc70c8fc836660b31194",
+              "wav_sha256": "be1bab4af0e2c682815cb87df6ddd49d6077c6fdf854dc70c8fc836660b31194"
+            },
+            {
+              "cue": "vo_special_137_035",
+              "canonical_audio_asset_id": "wav:f64a4169f0e775953f4cd939dec789730446efc793a6b555b2e3cb3c8f3f30a6",
+              "wav_sha256": "f64a4169f0e775953f4cd939dec789730446efc793a6b555b2e3cb3c8f3f30a6"
+            },
+            {
+              "cue": "vo_special_137_036",
+              "canonical_audio_asset_id": "wav:7abdb190be59d5c6998c21322387d642ab0e4e72a1e0d005336c63566accc083",
+              "wav_sha256": "7abdb190be59d5c6998c21322387d642ab0e4e72a1e0d005336c63566accc083"
+            },
+            {
+              "cue": "vo_special_137_037",
+              "canonical_audio_asset_id": "wav:5965cd6a45b2dea75a367360e49bcab2aec3bdc68fefd0af32088b5a0bc6cd33",
+              "wav_sha256": "5965cd6a45b2dea75a367360e49bcab2aec3bdc68fefd0af32088b5a0bc6cd33"
+            },
+            {
+              "cue": "vo_special_137_038",
+              "canonical_audio_asset_id": "wav:4dfb573661cc56ffc3bd3b6711634d09cb5bbd7f73490b1323f0590c121ac202",
+              "wav_sha256": "4dfb573661cc56ffc3bd3b6711634d09cb5bbd7f73490b1323f0590c121ac202"
+            },
+            {
+              "cue": "vo_special_137_039",
+              "canonical_audio_asset_id": "wav:d67a9be2a01354069442cd37973777eeb3a066bda40a6f467848b730edda5623",
+              "wav_sha256": "d67a9be2a01354069442cd37973777eeb3a066bda40a6f467848b730edda5623"
+            },
+            {
+              "cue": "vo_special_137_040",
+              "canonical_audio_asset_id": "wav:47ca601dabe3105496b2300c84eb502f0b70503d8267938c115f11db9273af0a",
+              "wav_sha256": "47ca601dabe3105496b2300c84eb502f0b70503d8267938c115f11db9273af0a"
+            },
+            {
+              "cue": "vo_special_137_041",
+              "canonical_audio_asset_id": "wav:59b9a674b468cd9621b0fd1bfda7b12b4ae96811871b6d4c7fcd04f656408ebd",
+              "wav_sha256": "59b9a674b468cd9621b0fd1bfda7b12b4ae96811871b6d4c7fcd04f656408ebd"
+            },
+            {
+              "cue": "vo_special_title_137_00",
+              "canonical_audio_asset_id": "wav:619cd694301fd134acc60c614e831b0443e3c2ad0ef45e25116ad88024bc39f1",
+              "wav_sha256": "619cd694301fd134acc60c614e831b0443e3c2ad0ef45e25116ad88024bc39f1"
+            },
+            {
+              "cue": "vo_special_title_137_00_01",
+              "canonical_audio_asset_id": "wav:2df9f465656247d55a48873906786452438a2447f9d4d63710f3481b23a9e151",
+              "wav_sha256": "2df9f465656247d55a48873906786452438a2447f9d4d63710f3481b23a9e151"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_137_001",
+            "vo_special_137_002",
+            "vo_special_137_003",
+            "vo_special_137_004",
+            "vo_special_137_005",
+            "vo_special_137_006",
+            "vo_special_137_007",
+            "vo_special_137_008",
+            "vo_special_137_009",
+            "vo_special_137_010",
+            "vo_special_137_011",
+            "vo_special_137_012",
+            "vo_special_137_013",
+            "vo_special_137_014",
+            "vo_special_137_015",
+            "vo_special_137_016",
+            "vo_special_137_017",
+            "vo_special_137_018",
+            "vo_special_137_019",
+            "vo_special_137_020",
+            "vo_special_137_021",
+            "vo_special_137_022",
+            "vo_special_137_023",
+            "vo_special_137_024",
+            "vo_special_137_025",
+            "vo_special_137_026",
+            "vo_special_137_027",
+            "vo_special_137_028",
+            "vo_special_137_029",
+            "vo_special_137_030",
+            "vo_special_137_031",
+            "vo_special_137_032",
+            "vo_special_137_033",
+            "vo_special_137_034",
+            "vo_special_137_035",
+            "vo_special_137_036",
+            "vo_special_137_037",
+            "vo_special_137_038",
+            "vo_special_137_039",
+            "vo_special_137_040",
+            "vo_special_137_041",
+            "vo_special_title_137_00",
+            "vo_special_title_137_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_137_001",
+            "vo_special_137_002",
+            "vo_special_137_003",
+            "vo_special_137_004",
+            "vo_special_137_005",
+            "vo_special_137_006",
+            "vo_special_137_007",
+            "vo_special_137_008",
+            "vo_special_137_009",
+            "vo_special_137_010",
+            "vo_special_137_011",
+            "vo_special_137_012",
+            "vo_special_137_013",
+            "vo_special_137_014",
+            "vo_special_137_015",
+            "vo_special_137_016",
+            "vo_special_137_017",
+            "vo_special_137_018",
+            "vo_special_137_019",
+            "vo_special_137_020",
+            "vo_special_137_021",
+            "vo_special_137_022",
+            "vo_special_137_023",
+            "vo_special_137_024",
+            "vo_special_137_025",
+            "vo_special_137_026",
+            "vo_special_137_027",
+            "vo_special_137_028",
+            "vo_special_137_029",
+            "vo_special_137_030",
+            "vo_special_137_031",
+            "vo_special_137_032",
+            "vo_special_137_033",
+            "vo_special_137_034",
+            "vo_special_137_035",
+            "vo_special_137_036",
+            "vo_special_137_037",
+            "vo_special_137_038",
+            "vo_special_137_039",
+            "vo_special_137_040",
+            "vo_special_137_041"
+          ],
+          "dialogue_voice_page_count": 41,
+          "static_preparation_sha256": "d5cebc5a4a1aa00ed9bef6fc159ca91876e86f8c09affb226183655dc990c8cd",
+          "root_case_actual_review_sha256": "b705ecb41a3214776407dbab750f9bf7326f29ee9b225541443f419a595505d1",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "503013702",
+          "binding_sha256": "7a5548031d1a6c057229996320cbff9cdaab00572fa009e7921ade9e7c3456e0",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_138_001",
+              "canonical_audio_asset_id": "wav:a1ebadaac38bee3276f7e7b4cb57711d3cb4b80c37798cce04b24297b88cf43b",
+              "wav_sha256": "a1ebadaac38bee3276f7e7b4cb57711d3cb4b80c37798cce04b24297b88cf43b"
+            },
+            {
+              "cue": "vo_special_138_002",
+              "canonical_audio_asset_id": "wav:30a3f61e990f863a85529eae7a522f1c665aa0bbd920e76a3deac79251669839",
+              "wav_sha256": "30a3f61e990f863a85529eae7a522f1c665aa0bbd920e76a3deac79251669839"
+            },
+            {
+              "cue": "vo_special_138_003",
+              "canonical_audio_asset_id": "wav:dc970fc2a2dad77db410c9a3f333b2344d4f906887e06c7c6fdfcef308913081",
+              "wav_sha256": "dc970fc2a2dad77db410c9a3f333b2344d4f906887e06c7c6fdfcef308913081"
+            },
+            {
+              "cue": "vo_special_138_004",
+              "canonical_audio_asset_id": "wav:ab4564e86b459479c1474d9afd8efe87599c4e16842f22a0685cff15da89959e",
+              "wav_sha256": "ab4564e86b459479c1474d9afd8efe87599c4e16842f22a0685cff15da89959e"
+            },
+            {
+              "cue": "vo_special_138_005",
+              "canonical_audio_asset_id": "wav:458119824ded9c7e7aa1972af015b21061966101368612381120aab8e73ac5c7",
+              "wav_sha256": "458119824ded9c7e7aa1972af015b21061966101368612381120aab8e73ac5c7"
+            },
+            {
+              "cue": "vo_special_138_006",
+              "canonical_audio_asset_id": "wav:5f9f92537bc4cf408ce88afe3f21c989802cdaaf23bf3fb24853f93e7a4d7d8c",
+              "wav_sha256": "5f9f92537bc4cf408ce88afe3f21c989802cdaaf23bf3fb24853f93e7a4d7d8c"
+            },
+            {
+              "cue": "vo_special_138_007",
+              "canonical_audio_asset_id": "wav:121f6d07e506959f28c1c61a9714c5874c611478efdf904249ebb17098a0ee99",
+              "wav_sha256": "121f6d07e506959f28c1c61a9714c5874c611478efdf904249ebb17098a0ee99"
+            },
+            {
+              "cue": "vo_special_138_008",
+              "canonical_audio_asset_id": "wav:b8cf4dd0cffd05f9c403367c3252c5baf30a08448ba66a15cabaee31037c36c3",
+              "wav_sha256": "b8cf4dd0cffd05f9c403367c3252c5baf30a08448ba66a15cabaee31037c36c3"
+            },
+            {
+              "cue": "vo_special_138_009",
+              "canonical_audio_asset_id": "wav:49f6028d1e836b4c8f99e92e48f5e4ea3acd4b1bd70b113dcc80441bf8179e72",
+              "wav_sha256": "49f6028d1e836b4c8f99e92e48f5e4ea3acd4b1bd70b113dcc80441bf8179e72"
+            },
+            {
+              "cue": "vo_special_138_010",
+              "canonical_audio_asset_id": "wav:49d42b4904d858e1c2319d544413783072d749927837226b2fdfa2e3887f003d",
+              "wav_sha256": "49d42b4904d858e1c2319d544413783072d749927837226b2fdfa2e3887f003d"
+            },
+            {
+              "cue": "vo_special_138_011",
+              "canonical_audio_asset_id": "wav:b86bcffb4860da176bf24deba5f75e88c438fe5fc0d6f7b97ceaaf6206f6034b",
+              "wav_sha256": "b86bcffb4860da176bf24deba5f75e88c438fe5fc0d6f7b97ceaaf6206f6034b"
+            },
+            {
+              "cue": "vo_special_138_012",
+              "canonical_audio_asset_id": "wav:7aea99a9c381d48a52a64ddf85af7e630786c1f411b7329eca0c68329f509b41",
+              "wav_sha256": "7aea99a9c381d48a52a64ddf85af7e630786c1f411b7329eca0c68329f509b41"
+            },
+            {
+              "cue": "vo_special_138_013",
+              "canonical_audio_asset_id": "wav:885e76ac9e839f13dccbdac46f5fd258c1ecbf84c6309ed2d91d1759b09412c2",
+              "wav_sha256": "885e76ac9e839f13dccbdac46f5fd258c1ecbf84c6309ed2d91d1759b09412c2"
+            },
+            {
+              "cue": "vo_special_138_014",
+              "canonical_audio_asset_id": "wav:7b586e44617dd886afddd1e582040a27730e8648ff10e92c3d7123b53aa11e91",
+              "wav_sha256": "7b586e44617dd886afddd1e582040a27730e8648ff10e92c3d7123b53aa11e91"
+            },
+            {
+              "cue": "vo_special_138_015",
+              "canonical_audio_asset_id": "wav:434fd21733d7b259cb6471b9561eaee30daea35c4536fcaf0b3ded259d8f6979",
+              "wav_sha256": "434fd21733d7b259cb6471b9561eaee30daea35c4536fcaf0b3ded259d8f6979"
+            },
+            {
+              "cue": "vo_special_138_016",
+              "canonical_audio_asset_id": "wav:8618e4fdf0f890bdd630a888b9385c7a90669577eb85c347b308436bc639477b",
+              "wav_sha256": "8618e4fdf0f890bdd630a888b9385c7a90669577eb85c347b308436bc639477b"
+            },
+            {
+              "cue": "vo_special_138_017",
+              "canonical_audio_asset_id": "wav:4cc4cb720d3927c37b1a1dc855d3a0ac6ff70370fdeca92544f15efa3dd0666e",
+              "wav_sha256": "4cc4cb720d3927c37b1a1dc855d3a0ac6ff70370fdeca92544f15efa3dd0666e"
+            },
+            {
+              "cue": "vo_special_138_018",
+              "canonical_audio_asset_id": "wav:a86deb2c7d4cc147ceaf153adeed6395af72050244d37726f92c0e28acd57ff2",
+              "wav_sha256": "a86deb2c7d4cc147ceaf153adeed6395af72050244d37726f92c0e28acd57ff2"
+            },
+            {
+              "cue": "vo_special_138_019",
+              "canonical_audio_asset_id": "wav:ea6af93143644c1b4798671f31607acd7e2b558bc1284d78ffff63e9b269f3ca",
+              "wav_sha256": "ea6af93143644c1b4798671f31607acd7e2b558bc1284d78ffff63e9b269f3ca"
+            },
+            {
+              "cue": "vo_special_138_020",
+              "canonical_audio_asset_id": "wav:8c1ce6a2190132e15538c5c04e83bcb88f2f268a6068eca3348ccb890492fc4d",
+              "wav_sha256": "8c1ce6a2190132e15538c5c04e83bcb88f2f268a6068eca3348ccb890492fc4d"
+            },
+            {
+              "cue": "vo_special_138_021",
+              "canonical_audio_asset_id": "wav:e026fbac64ab4e4dccdc0262380e84c15eb375f49f0e0b57eceba98db723863f",
+              "wav_sha256": "e026fbac64ab4e4dccdc0262380e84c15eb375f49f0e0b57eceba98db723863f"
+            },
+            {
+              "cue": "vo_special_138_022",
+              "canonical_audio_asset_id": "wav:7b856a86439887103479307b7638a317d8a62f4cafe5d38440f2a4ec47d944b4",
+              "wav_sha256": "7b856a86439887103479307b7638a317d8a62f4cafe5d38440f2a4ec47d944b4"
+            },
+            {
+              "cue": "vo_special_138_023",
+              "canonical_audio_asset_id": "wav:b1725404bd6963ecb14068b36b03a19f724be576020f9476b0fd94dc69c712fc",
+              "wav_sha256": "b1725404bd6963ecb14068b36b03a19f724be576020f9476b0fd94dc69c712fc"
+            },
+            {
+              "cue": "vo_special_138_024",
+              "canonical_audio_asset_id": "wav:4210c96d2dc40067cd8c217dec2d0dd446c83ecbad60aec8025cd176efb749e4",
+              "wav_sha256": "4210c96d2dc40067cd8c217dec2d0dd446c83ecbad60aec8025cd176efb749e4"
+            },
+            {
+              "cue": "vo_special_138_025",
+              "canonical_audio_asset_id": "wav:5a41d69df9ae86d0212273a83ece990dab081c70bb0b0f6cac449e2c602221fd",
+              "wav_sha256": "5a41d69df9ae86d0212273a83ece990dab081c70bb0b0f6cac449e2c602221fd"
+            },
+            {
+              "cue": "vo_special_138_026",
+              "canonical_audio_asset_id": "wav:b6428d60bb1ae50a4e38b79688c5206732b853a6560ca68ad058e68d01d9e252",
+              "wav_sha256": "b6428d60bb1ae50a4e38b79688c5206732b853a6560ca68ad058e68d01d9e252"
+            },
+            {
+              "cue": "vo_special_138_027",
+              "canonical_audio_asset_id": "wav:4312247055963a42a06f2aa64816a1f340cb3d1ec81d92ee45f93b72e843c1a7",
+              "wav_sha256": "4312247055963a42a06f2aa64816a1f340cb3d1ec81d92ee45f93b72e843c1a7"
+            },
+            {
+              "cue": "vo_special_title_138_00_01",
+              "canonical_audio_asset_id": "wav:8fb329824de1ff54f8e9b0dc7d4f92837937df0378e19889a2d175898d5e6ac6",
+              "wav_sha256": "8fb329824de1ff54f8e9b0dc7d4f92837937df0378e19889a2d175898d5e6ac6"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_138_001",
+            "vo_special_138_002",
+            "vo_special_138_003",
+            "vo_special_138_004",
+            "vo_special_138_005",
+            "vo_special_138_006",
+            "vo_special_138_007",
+            "vo_special_138_008",
+            "vo_special_138_009",
+            "vo_special_138_010",
+            "vo_special_138_011",
+            "vo_special_138_012",
+            "vo_special_138_013",
+            "vo_special_138_014",
+            "vo_special_138_015",
+            "vo_special_138_016",
+            "vo_special_138_017",
+            "vo_special_138_018",
+            "vo_special_138_019",
+            "vo_special_138_020",
+            "vo_special_138_021",
+            "vo_special_138_022",
+            "vo_special_138_023",
+            "vo_special_138_024",
+            "vo_special_138_025",
+            "vo_special_138_026",
+            "vo_special_138_027",
+            "vo_special_title_138_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_138_001",
+            "vo_special_138_002",
+            "vo_special_138_003",
+            "vo_special_138_004",
+            "vo_special_138_005",
+            "vo_special_138_006",
+            "vo_special_138_007",
+            "vo_special_138_008",
+            "vo_special_138_009",
+            "vo_special_138_010",
+            "vo_special_138_011",
+            "vo_special_138_012",
+            "vo_special_138_013",
+            "vo_special_138_014",
+            "vo_special_138_015",
+            "vo_special_138_016",
+            "vo_special_138_017",
+            "vo_special_138_018",
+            "vo_special_138_019",
+            "vo_special_138_020",
+            "vo_special_138_021",
+            "vo_special_138_022",
+            "vo_special_138_023",
+            "vo_special_138_024",
+            "vo_special_138_025",
+            "vo_special_138_026",
+            "vo_special_138_027"
+          ],
+          "dialogue_voice_page_count": 27,
+          "static_preparation_sha256": "f348ec33728359228a9d09e800508aa93eff0386282c2ab633476876587f3396",
+          "root_case_actual_review_sha256": "3855ce90190f60fb2005f3e7dc387ae23202af78f2c806e5262cf48f9127889f",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "503013703",
+          "binding_sha256": "1abc114400d2978705c8d3e03a0e854f3485d50e368345df5c1aed1582e3e1b1",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_139_001",
+              "canonical_audio_asset_id": "wav:d0ad574f06ad56fcbeb9f588dc97e5c24fc42359c9cb984eb048f984b8009ead",
+              "wav_sha256": "d0ad574f06ad56fcbeb9f588dc97e5c24fc42359c9cb984eb048f984b8009ead"
+            },
+            {
+              "cue": "vo_special_139_002",
+              "canonical_audio_asset_id": "wav:cd1f4c4cbecb87fd7d31fcfd8d6a812f6a54c3b6ad75a27d9611bb6ec2501716",
+              "wav_sha256": "cd1f4c4cbecb87fd7d31fcfd8d6a812f6a54c3b6ad75a27d9611bb6ec2501716"
+            },
+            {
+              "cue": "vo_special_139_003",
+              "canonical_audio_asset_id": "wav:b8463c0031ab142853306dd42f08b5b960caee8f69b6586dab62962a678bcf7c",
+              "wav_sha256": "b8463c0031ab142853306dd42f08b5b960caee8f69b6586dab62962a678bcf7c"
+            },
+            {
+              "cue": "vo_special_139_004",
+              "canonical_audio_asset_id": "wav:5bb78b4511ed349a3de1dde0c9c89acf5182cfb35d4dc31c9d9d0d66e70717e7",
+              "wav_sha256": "5bb78b4511ed349a3de1dde0c9c89acf5182cfb35d4dc31c9d9d0d66e70717e7"
+            },
+            {
+              "cue": "vo_special_139_005",
+              "canonical_audio_asset_id": "wav:31f6abc83f5f7343dec311f4bade404f5a8f07690729ccdd139a37069a32f7ca",
+              "wav_sha256": "31f6abc83f5f7343dec311f4bade404f5a8f07690729ccdd139a37069a32f7ca"
+            },
+            {
+              "cue": "vo_special_139_006",
+              "canonical_audio_asset_id": "wav:14a5a5e0b500f8ab0c25b5a35d5855fc21bdb17fd3334c00587ef3031fe3055c",
+              "wav_sha256": "14a5a5e0b500f8ab0c25b5a35d5855fc21bdb17fd3334c00587ef3031fe3055c"
+            },
+            {
+              "cue": "vo_special_139_007",
+              "canonical_audio_asset_id": "wav:c251e909e59fe7369c149c44dd309d19dc4939fe41cbe3b900830a6b67e735ad",
+              "wav_sha256": "c251e909e59fe7369c149c44dd309d19dc4939fe41cbe3b900830a6b67e735ad"
+            },
+            {
+              "cue": "vo_special_139_008",
+              "canonical_audio_asset_id": "wav:6aa50e9a493853fb9439dffa6a68f700567ebefcbbd8d7259471cd84b9cf83f7",
+              "wav_sha256": "6aa50e9a493853fb9439dffa6a68f700567ebefcbbd8d7259471cd84b9cf83f7"
+            },
+            {
+              "cue": "vo_special_139_009",
+              "canonical_audio_asset_id": "wav:3d818080e79c018ea91ac1bcb06375f410976a22b362ebcf0a5aec2f058a036d",
+              "wav_sha256": "3d818080e79c018ea91ac1bcb06375f410976a22b362ebcf0a5aec2f058a036d"
+            },
+            {
+              "cue": "vo_special_139_010",
+              "canonical_audio_asset_id": "wav:eedaa64729c1c5008d1c065c23d85115e251020856d807451b80322ccdb7d5a3",
+              "wav_sha256": "eedaa64729c1c5008d1c065c23d85115e251020856d807451b80322ccdb7d5a3"
+            },
+            {
+              "cue": "vo_special_139_011",
+              "canonical_audio_asset_id": "wav:21348bce5f0ab3ff9161c42be81f927bd3b25362c27ec6671f35da3ac7b13df1",
+              "wav_sha256": "21348bce5f0ab3ff9161c42be81f927bd3b25362c27ec6671f35da3ac7b13df1"
+            },
+            {
+              "cue": "vo_special_139_012",
+              "canonical_audio_asset_id": "wav:79b6292a7d8e6ed975332081dcbee896b55f048e71956ae5c1ac53c9a58dcbef",
+              "wav_sha256": "79b6292a7d8e6ed975332081dcbee896b55f048e71956ae5c1ac53c9a58dcbef"
+            },
+            {
+              "cue": "vo_special_139_013",
+              "canonical_audio_asset_id": "wav:10dfc7883144c5b141fbe09ae7f697d3850063d0b53b95bf5e780f38a44c5b0f",
+              "wav_sha256": "10dfc7883144c5b141fbe09ae7f697d3850063d0b53b95bf5e780f38a44c5b0f"
+            },
+            {
+              "cue": "vo_special_139_014",
+              "canonical_audio_asset_id": "wav:f72f1ff95c2e809f688cb6e16d96d5815eb1175809f8a2c19775c6bd8523d0d7",
+              "wav_sha256": "f72f1ff95c2e809f688cb6e16d96d5815eb1175809f8a2c19775c6bd8523d0d7"
+            },
+            {
+              "cue": "vo_special_139_015",
+              "canonical_audio_asset_id": "wav:51ddce3e3119f28649bde1f5e25f26f41d5891a2053cbd9f9c1c1b550bca5648",
+              "wav_sha256": "51ddce3e3119f28649bde1f5e25f26f41d5891a2053cbd9f9c1c1b550bca5648"
+            },
+            {
+              "cue": "vo_special_139_016",
+              "canonical_audio_asset_id": "wav:733e4c7a2e197e7df6890fd512af619c601ca64d0543f741e31980db6d7aed00",
+              "wav_sha256": "733e4c7a2e197e7df6890fd512af619c601ca64d0543f741e31980db6d7aed00"
+            },
+            {
+              "cue": "vo_special_139_017",
+              "canonical_audio_asset_id": "wav:dc390fd49111a07dc724806fe7517fc35bc5a496a05bb870294dff763ae5f1d7",
+              "wav_sha256": "dc390fd49111a07dc724806fe7517fc35bc5a496a05bb870294dff763ae5f1d7"
+            },
+            {
+              "cue": "vo_special_139_018",
+              "canonical_audio_asset_id": "wav:4ae04880b2e47062bc3eaa95f85b8f0ca5f34dd76892ad007cfbef5db65d9965",
+              "wav_sha256": "4ae04880b2e47062bc3eaa95f85b8f0ca5f34dd76892ad007cfbef5db65d9965"
+            },
+            {
+              "cue": "vo_special_139_019",
+              "canonical_audio_asset_id": "wav:359d9de7d8e9fdb44214b8383c8272044235387d792f6d86e7323582834b393d",
+              "wav_sha256": "359d9de7d8e9fdb44214b8383c8272044235387d792f6d86e7323582834b393d"
+            },
+            {
+              "cue": "vo_special_139_020",
+              "canonical_audio_asset_id": "wav:f265e3d43a14def6383400d22f417c240cadf83ade022701811d97fcc20e1d42",
+              "wav_sha256": "f265e3d43a14def6383400d22f417c240cadf83ade022701811d97fcc20e1d42"
+            },
+            {
+              "cue": "vo_special_139_021",
+              "canonical_audio_asset_id": "wav:c90da98bcbc9da8c67022e908bee3866cfbdd023232675321dd54c9a4e686332",
+              "wav_sha256": "c90da98bcbc9da8c67022e908bee3866cfbdd023232675321dd54c9a4e686332"
+            },
+            {
+              "cue": "vo_special_139_022",
+              "canonical_audio_asset_id": "wav:41afa3aef858e01ca7b17043a23208efc3d24f8ca177a3d9eba72a9fe1aa6092",
+              "wav_sha256": "41afa3aef858e01ca7b17043a23208efc3d24f8ca177a3d9eba72a9fe1aa6092"
+            },
+            {
+              "cue": "vo_special_139_023",
+              "canonical_audio_asset_id": "wav:1212b4fb638acf94c891118a3c4a0547c1381a326fe7369309bfd761a27160cd",
+              "wav_sha256": "1212b4fb638acf94c891118a3c4a0547c1381a326fe7369309bfd761a27160cd"
+            },
+            {
+              "cue": "vo_special_139_024",
+              "canonical_audio_asset_id": "wav:7de8fdd4ab21b9994e432d819d22e41d660a775afe018ba0be40e43abfa6f545",
+              "wav_sha256": "7de8fdd4ab21b9994e432d819d22e41d660a775afe018ba0be40e43abfa6f545"
+            },
+            {
+              "cue": "vo_special_139_025",
+              "canonical_audio_asset_id": "wav:1824861b757821acb9dae962e555783d9e3b61c0b8be287699b99760dbfa7c56",
+              "wav_sha256": "1824861b757821acb9dae962e555783d9e3b61c0b8be287699b99760dbfa7c56"
+            },
+            {
+              "cue": "vo_special_139_026",
+              "canonical_audio_asset_id": "wav:f3e6c133fd842b49b5a8ea9b39424f22c222cae51d84c1c75ae99e37103e202a",
+              "wav_sha256": "f3e6c133fd842b49b5a8ea9b39424f22c222cae51d84c1c75ae99e37103e202a"
+            },
+            {
+              "cue": "vo_special_139_027",
+              "canonical_audio_asset_id": "wav:719f356f9be480ab24aec371d1c48a89923ee4a6323b9a52e9a7f9bf1a90bb10",
+              "wav_sha256": "719f356f9be480ab24aec371d1c48a89923ee4a6323b9a52e9a7f9bf1a90bb10"
+            },
+            {
+              "cue": "vo_special_139_028",
+              "canonical_audio_asset_id": "wav:a1c569bb2663d3b70c703c58e17516ffb0d7833c3d63d94ded4615f1be3d89c5",
+              "wav_sha256": "a1c569bb2663d3b70c703c58e17516ffb0d7833c3d63d94ded4615f1be3d89c5"
+            },
+            {
+              "cue": "vo_special_139_029",
+              "canonical_audio_asset_id": "wav:44febf8535eccddc4df438692e72c854435b8ddc73faee107270ace1c37b5485",
+              "wav_sha256": "44febf8535eccddc4df438692e72c854435b8ddc73faee107270ace1c37b5485"
+            },
+            {
+              "cue": "vo_special_139_030",
+              "canonical_audio_asset_id": "wav:b3f3b363c8328943a57a65b589da6d9214616fc9e2bba5b5d60a002ae33f5bba",
+              "wav_sha256": "b3f3b363c8328943a57a65b589da6d9214616fc9e2bba5b5d60a002ae33f5bba"
+            },
+            {
+              "cue": "vo_special_139_031",
+              "canonical_audio_asset_id": "wav:4c13337cabbd40ae42973a47015f9f3ee67bfd5017ab07b5ac7ce9f06572b098",
+              "wav_sha256": "4c13337cabbd40ae42973a47015f9f3ee67bfd5017ab07b5ac7ce9f06572b098"
+            },
+            {
+              "cue": "vo_special_139_032",
+              "canonical_audio_asset_id": "wav:db1b8a084aad323bddb358505ae1d6630686f9106d4f5204c3f1d24fc42dbdc4",
+              "wav_sha256": "db1b8a084aad323bddb358505ae1d6630686f9106d4f5204c3f1d24fc42dbdc4"
+            },
+            {
+              "cue": "vo_special_139_033",
+              "canonical_audio_asset_id": "wav:35d6152fa4876f1d09e6da9279a356bcacc43233c06fe44a7c99724c29ea089a",
+              "wav_sha256": "35d6152fa4876f1d09e6da9279a356bcacc43233c06fe44a7c99724c29ea089a"
+            },
+            {
+              "cue": "vo_special_139_034",
+              "canonical_audio_asset_id": "wav:ef65ab63587f071f1154a5400788dfadd56bda82a386423602e5a836fa9c7db5",
+              "wav_sha256": "ef65ab63587f071f1154a5400788dfadd56bda82a386423602e5a836fa9c7db5"
+            },
+            {
+              "cue": "vo_special_139_035",
+              "canonical_audio_asset_id": "wav:0ba9419b09536050b68c8c190fa4ce7db87aa3e128bba026fc87c57edcb6c7da",
+              "wav_sha256": "0ba9419b09536050b68c8c190fa4ce7db87aa3e128bba026fc87c57edcb6c7da"
+            },
+            {
+              "cue": "vo_special_139_036",
+              "canonical_audio_asset_id": "wav:68c3b2e30c1ae51b8c86075aa07e964a0166590992ea8d87ae151ccafa287027",
+              "wav_sha256": "68c3b2e30c1ae51b8c86075aa07e964a0166590992ea8d87ae151ccafa287027"
+            },
+            {
+              "cue": "vo_special_139_037",
+              "canonical_audio_asset_id": "wav:40d606c2fd2164236c03327b06c57e2e499952f22238b30b73b60f5657c82978",
+              "wav_sha256": "40d606c2fd2164236c03327b06c57e2e499952f22238b30b73b60f5657c82978"
+            },
+            {
+              "cue": "vo_special_139_038",
+              "canonical_audio_asset_id": "wav:44ff47d6ce21e4c680bd72f00df5efb9843209bf7233bc932bc2de5f3b24933e",
+              "wav_sha256": "44ff47d6ce21e4c680bd72f00df5efb9843209bf7233bc932bc2de5f3b24933e"
+            },
+            {
+              "cue": "vo_special_139_039",
+              "canonical_audio_asset_id": "wav:528c0b8ac0f1b0ce84396e1603907f0c67193a6b47cbc5842229637a8fc480b7",
+              "wav_sha256": "528c0b8ac0f1b0ce84396e1603907f0c67193a6b47cbc5842229637a8fc480b7"
+            },
+            {
+              "cue": "vo_special_139_040",
+              "canonical_audio_asset_id": "wav:f49c1a7d2cd6627f939e50018bede1dac4e203f092d562b5cd331d40c5ab84fd",
+              "wav_sha256": "f49c1a7d2cd6627f939e50018bede1dac4e203f092d562b5cd331d40c5ab84fd"
+            },
+            {
+              "cue": "vo_special_139_041",
+              "canonical_audio_asset_id": "wav:91211d0798ebe16bc84a722515ca0efc315b3dce1b6f5af89ed95fefc08c786b",
+              "wav_sha256": "91211d0798ebe16bc84a722515ca0efc315b3dce1b6f5af89ed95fefc08c786b"
+            },
+            {
+              "cue": "vo_special_139_042",
+              "canonical_audio_asset_id": "wav:48934c62ff483204685f8bd23c5da7935d6f12f0708ed1b0bc6cf295030165ca",
+              "wav_sha256": "48934c62ff483204685f8bd23c5da7935d6f12f0708ed1b0bc6cf295030165ca"
+            },
+            {
+              "cue": "vo_special_139_043",
+              "canonical_audio_asset_id": "wav:1d55c2c2408673592d3c3ec3422673ccde86d8fafaeafa8862c62ca41f9be637",
+              "wav_sha256": "1d55c2c2408673592d3c3ec3422673ccde86d8fafaeafa8862c62ca41f9be637"
+            },
+            {
+              "cue": "vo_special_title_139_00_01",
+              "canonical_audio_asset_id": "wav:54aa436e22294157dc70b586561f54b44359e7da2c97d783db335f3d95dcbc35",
+              "wav_sha256": "54aa436e22294157dc70b586561f54b44359e7da2c97d783db335f3d95dcbc35"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_139_001",
+            "vo_special_139_002",
+            "vo_special_139_003",
+            "vo_special_139_004",
+            "vo_special_139_005",
+            "vo_special_139_006",
+            "vo_special_139_007",
+            "vo_special_139_008",
+            "vo_special_139_009",
+            "vo_special_139_010",
+            "vo_special_139_011",
+            "vo_special_139_012",
+            "vo_special_139_013",
+            "vo_special_139_014",
+            "vo_special_139_015",
+            "vo_special_139_016",
+            "vo_special_139_017",
+            "vo_special_139_018",
+            "vo_special_139_019",
+            "vo_special_139_020",
+            "vo_special_139_021",
+            "vo_special_139_022",
+            "vo_special_139_023",
+            "vo_special_139_024",
+            "vo_special_139_025",
+            "vo_special_139_026",
+            "vo_special_139_027",
+            "vo_special_139_028",
+            "vo_special_139_029",
+            "vo_special_139_030",
+            "vo_special_139_031",
+            "vo_special_139_032",
+            "vo_special_139_033",
+            "vo_special_139_034",
+            "vo_special_139_035",
+            "vo_special_139_036",
+            "vo_special_139_037",
+            "vo_special_139_038",
+            "vo_special_139_039",
+            "vo_special_139_040",
+            "vo_special_139_041",
+            "vo_special_139_042",
+            "vo_special_139_043",
+            "vo_special_title_139_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_139_001",
+            "vo_special_139_002",
+            "vo_special_139_003",
+            "vo_special_139_004",
+            "vo_special_139_005",
+            "vo_special_139_006",
+            "vo_special_139_007",
+            "vo_special_139_008",
+            "vo_special_139_009",
+            "vo_special_139_010",
+            "vo_special_139_011",
+            "vo_special_139_012",
+            "vo_special_139_013",
+            "vo_special_139_014",
+            "vo_special_139_015",
+            "vo_special_139_016",
+            "vo_special_139_017",
+            "vo_special_139_018",
+            "vo_special_139_019",
+            "vo_special_139_020",
+            "vo_special_139_021",
+            "vo_special_139_022",
+            "vo_special_139_023",
+            "vo_special_139_024",
+            "vo_special_139_025",
+            "vo_special_139_026",
+            "vo_special_139_027",
+            "vo_special_139_028",
+            "vo_special_139_029",
+            "vo_special_139_030",
+            "vo_special_139_031",
+            "vo_special_139_032",
+            "vo_special_139_033",
+            "vo_special_139_034",
+            "vo_special_139_035",
+            "vo_special_139_036",
+            "vo_special_139_037",
+            "vo_special_139_038",
+            "vo_special_139_039",
+            "vo_special_139_040",
+            "vo_special_139_041",
+            "vo_special_139_042",
+            "vo_special_139_043"
+          ],
+          "dialogue_voice_page_count": 43,
+          "static_preparation_sha256": "ba54815f864eb5569baae3988002cf5f8a075dabf08ff9e9c08681b6f56b86e6",
+          "root_case_actual_review_sha256": "4e579518f705c3e6686b65f7975a90cf53f3602778ae4c8c2259943ce17782fc",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "503013704",
+          "binding_sha256": "aa5f7e7207c3875a17549e61c1f40b9e2552bff838ec07a1b0c9f2dccc593280",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_140_001",
+              "canonical_audio_asset_id": "wav:c880adbe365799b4080996ab16b0c94c70e9a4ff156058de13ade728d9c531f4",
+              "wav_sha256": "c880adbe365799b4080996ab16b0c94c70e9a4ff156058de13ade728d9c531f4"
+            },
+            {
+              "cue": "vo_special_140_002",
+              "canonical_audio_asset_id": "wav:e307f96bd7f220cfe6c56bd8f72329636e7e227101f854432c946a365be282d2",
+              "wav_sha256": "e307f96bd7f220cfe6c56bd8f72329636e7e227101f854432c946a365be282d2"
+            },
+            {
+              "cue": "vo_special_140_003",
+              "canonical_audio_asset_id": "wav:287407a8ff66e4433d9da24a42698bb6115395de7dfa53e07bdfdae46aa61454",
+              "wav_sha256": "287407a8ff66e4433d9da24a42698bb6115395de7dfa53e07bdfdae46aa61454"
+            },
+            {
+              "cue": "vo_special_140_004",
+              "canonical_audio_asset_id": "wav:d38cfec37a0a512d05d45e95b1e60454558499e6e4c38f9b76f89a170fb25a52",
+              "wav_sha256": "d38cfec37a0a512d05d45e95b1e60454558499e6e4c38f9b76f89a170fb25a52"
+            },
+            {
+              "cue": "vo_special_140_005",
+              "canonical_audio_asset_id": "wav:c1da29793847f05dd7d49d06d000b95de0a197eae5014a23f47a1060f9d09276",
+              "wav_sha256": "c1da29793847f05dd7d49d06d000b95de0a197eae5014a23f47a1060f9d09276"
+            },
+            {
+              "cue": "vo_special_140_006",
+              "canonical_audio_asset_id": "wav:18a24961555b1562f3629cef5bdd1531c6d48042e1eb347ee4bcc284a79f0338",
+              "wav_sha256": "18a24961555b1562f3629cef5bdd1531c6d48042e1eb347ee4bcc284a79f0338"
+            },
+            {
+              "cue": "vo_special_140_007",
+              "canonical_audio_asset_id": "wav:69f85c7dc944d15cc465779ac97d6d31f7ef55e6a2a97952ed42dc5ccff7c718",
+              "wav_sha256": "69f85c7dc944d15cc465779ac97d6d31f7ef55e6a2a97952ed42dc5ccff7c718"
+            },
+            {
+              "cue": "vo_special_140_008",
+              "canonical_audio_asset_id": "wav:3c1b90bbbdfcdd0d7483e955ca42420d424a43b2a220fcc1e2daa629284b0c35",
+              "wav_sha256": "3c1b90bbbdfcdd0d7483e955ca42420d424a43b2a220fcc1e2daa629284b0c35"
+            },
+            {
+              "cue": "vo_special_140_009",
+              "canonical_audio_asset_id": "wav:60552394f664c05016b26e138acbc27d810a06256bbaa65bf4ce368c96a0d2d1",
+              "wav_sha256": "60552394f664c05016b26e138acbc27d810a06256bbaa65bf4ce368c96a0d2d1"
+            },
+            {
+              "cue": "vo_special_140_010",
+              "canonical_audio_asset_id": "wav:3886df4ccd9f6e8518b149d1368abe1f8aa4090aaca5a2732108c9ed66b9dc2e",
+              "wav_sha256": "3886df4ccd9f6e8518b149d1368abe1f8aa4090aaca5a2732108c9ed66b9dc2e"
+            },
+            {
+              "cue": "vo_special_140_011",
+              "canonical_audio_asset_id": "wav:731d66f95e55d16eb96c857b17419b63c9d855a35e3ce0aa0b16a5197c542afb",
+              "wav_sha256": "731d66f95e55d16eb96c857b17419b63c9d855a35e3ce0aa0b16a5197c542afb"
+            },
+            {
+              "cue": "vo_special_140_012",
+              "canonical_audio_asset_id": "wav:cfee316822050788542b3ceb143041fc292f49a84ee920a7debd10ba4b2f5940",
+              "wav_sha256": "cfee316822050788542b3ceb143041fc292f49a84ee920a7debd10ba4b2f5940"
+            },
+            {
+              "cue": "vo_special_140_013",
+              "canonical_audio_asset_id": "wav:b24facf8331694af617741576f65d7b9fb2726a6081d5ae0d0bdee1b44122640",
+              "wav_sha256": "b24facf8331694af617741576f65d7b9fb2726a6081d5ae0d0bdee1b44122640"
+            },
+            {
+              "cue": "vo_special_140_014",
+              "canonical_audio_asset_id": "wav:c3f0c0acea193aa4e6d64a1f2e9fd24fc4059ad5b22b57f5d9d2204289fda4e5",
+              "wav_sha256": "c3f0c0acea193aa4e6d64a1f2e9fd24fc4059ad5b22b57f5d9d2204289fda4e5"
+            },
+            {
+              "cue": "vo_special_140_015",
+              "canonical_audio_asset_id": "wav:e4d494b01da3fe7930945bed6130527a6ef78aa196778a173827f92e687be1fa",
+              "wav_sha256": "e4d494b01da3fe7930945bed6130527a6ef78aa196778a173827f92e687be1fa"
+            },
+            {
+              "cue": "vo_special_140_016",
+              "canonical_audio_asset_id": "wav:4ab4755bd65d008a963e61aec43ca2182f8440c5835e620ac7ad13710fbb35ca",
+              "wav_sha256": "4ab4755bd65d008a963e61aec43ca2182f8440c5835e620ac7ad13710fbb35ca"
+            },
+            {
+              "cue": "vo_special_140_017",
+              "canonical_audio_asset_id": "wav:b251ca8c395b7eedb8c2e5f55f78b7a56b978367fd320be7a309c665443b6d0a",
+              "wav_sha256": "b251ca8c395b7eedb8c2e5f55f78b7a56b978367fd320be7a309c665443b6d0a"
+            },
+            {
+              "cue": "vo_special_140_018",
+              "canonical_audio_asset_id": "wav:68d3287bbf2e7c8a82c34229340f8fed3618a3c0acfdc215c22b1e4427dcac07",
+              "wav_sha256": "68d3287bbf2e7c8a82c34229340f8fed3618a3c0acfdc215c22b1e4427dcac07"
+            },
+            {
+              "cue": "vo_special_140_019",
+              "canonical_audio_asset_id": "wav:cfa1fb0dece71973aaa269d0ce264a1da1b8d7cc7bb7190f87a53d3624c56232",
+              "wav_sha256": "cfa1fb0dece71973aaa269d0ce264a1da1b8d7cc7bb7190f87a53d3624c56232"
+            },
+            {
+              "cue": "vo_special_140_020",
+              "canonical_audio_asset_id": "wav:cc3c7301761e89bb7b09c2b5e3c1fe40e3e36e409637b3849525074f357d6bd5",
+              "wav_sha256": "cc3c7301761e89bb7b09c2b5e3c1fe40e3e36e409637b3849525074f357d6bd5"
+            },
+            {
+              "cue": "vo_special_140_021",
+              "canonical_audio_asset_id": "wav:9d553d008f3af29ee5b3acacb32f7f8e82827a256bf1326a2f369b98570d619f",
+              "wav_sha256": "9d553d008f3af29ee5b3acacb32f7f8e82827a256bf1326a2f369b98570d619f"
+            },
+            {
+              "cue": "vo_special_140_022",
+              "canonical_audio_asset_id": "wav:e46dc1e5b83a6dc290fd0aeb47e05fc688b6490a61a42909c3e13f970f337c97",
+              "wav_sha256": "e46dc1e5b83a6dc290fd0aeb47e05fc688b6490a61a42909c3e13f970f337c97"
+            },
+            {
+              "cue": "vo_special_140_023",
+              "canonical_audio_asset_id": "wav:74fdaa3c8caf7f841549bcdc05cdd98c2891c7b9b3d0bb403a1b2fdef2cafcfd",
+              "wav_sha256": "74fdaa3c8caf7f841549bcdc05cdd98c2891c7b9b3d0bb403a1b2fdef2cafcfd"
+            },
+            {
+              "cue": "vo_special_140_024",
+              "canonical_audio_asset_id": "wav:bbfbd87c1f1d782709c6a4ae9bac18b13aef2cb2efd56adcfa530ab18b29318f",
+              "wav_sha256": "bbfbd87c1f1d782709c6a4ae9bac18b13aef2cb2efd56adcfa530ab18b29318f"
+            },
+            {
+              "cue": "vo_special_140_025",
+              "canonical_audio_asset_id": "wav:8a60e7c3beb6a2f7a8f6fa6ebab3dc0a6d5cf12d94f3cdafc6eb5c78345c2568",
+              "wav_sha256": "8a60e7c3beb6a2f7a8f6fa6ebab3dc0a6d5cf12d94f3cdafc6eb5c78345c2568"
+            },
+            {
+              "cue": "vo_special_140_026",
+              "canonical_audio_asset_id": "wav:10a73316f0f1bab70d1040a6da6db566db56c0fea176463cf94866d9448067ed",
+              "wav_sha256": "10a73316f0f1bab70d1040a6da6db566db56c0fea176463cf94866d9448067ed"
+            },
+            {
+              "cue": "vo_special_140_027",
+              "canonical_audio_asset_id": "wav:88ceb4f990da6c01867d5e15285e76156b8e370114b5351da6dd3655f94fdc83",
+              "wav_sha256": "88ceb4f990da6c01867d5e15285e76156b8e370114b5351da6dd3655f94fdc83"
+            },
+            {
+              "cue": "vo_special_140_028",
+              "canonical_audio_asset_id": "wav:58653f69d8e6b8f36439a6f4014e180272f1e772be71bbfd5630e1bb05b53725",
+              "wav_sha256": "58653f69d8e6b8f36439a6f4014e180272f1e772be71bbfd5630e1bb05b53725"
+            },
+            {
+              "cue": "vo_special_140_029",
+              "canonical_audio_asset_id": "wav:98bafa645b3ebb78b4db5811918ea6db71301cfb078b6710656bd166341f8316",
+              "wav_sha256": "98bafa645b3ebb78b4db5811918ea6db71301cfb078b6710656bd166341f8316"
+            },
+            {
+              "cue": "vo_special_title_140_00_01",
+              "canonical_audio_asset_id": "wav:87648c94990c9d2f6bb44160191c2f2559a02ee4b27bec1b02bf1e0d68c6102e",
+              "wav_sha256": "87648c94990c9d2f6bb44160191c2f2559a02ee4b27bec1b02bf1e0d68c6102e"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_140_001",
+            "vo_special_140_002",
+            "vo_special_140_003",
+            "vo_special_140_004",
+            "vo_special_140_005",
+            "vo_special_140_006",
+            "vo_special_140_007",
+            "vo_special_140_008",
+            "vo_special_140_009",
+            "vo_special_140_010",
+            "vo_special_140_011",
+            "vo_special_140_012",
+            "vo_special_140_013",
+            "vo_special_140_014",
+            "vo_special_140_015",
+            "vo_special_140_016",
+            "vo_special_140_017",
+            "vo_special_140_018",
+            "vo_special_140_019",
+            "vo_special_140_020",
+            "vo_special_140_021",
+            "vo_special_140_022",
+            "vo_special_140_023",
+            "vo_special_140_024",
+            "vo_special_140_025",
+            "vo_special_140_026",
+            "vo_special_140_027",
+            "vo_special_140_028",
+            "vo_special_140_029",
+            "vo_special_title_140_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_140_001",
+            "vo_special_140_002",
+            "vo_special_140_003",
+            "vo_special_140_004",
+            "vo_special_140_005",
+            "vo_special_140_006",
+            "vo_special_140_007",
+            "vo_special_140_008",
+            "vo_special_140_009",
+            "vo_special_140_010",
+            "vo_special_140_011",
+            "vo_special_140_012",
+            "vo_special_140_013",
+            "vo_special_140_014",
+            "vo_special_140_015",
+            "vo_special_140_016",
+            "vo_special_140_017",
+            "vo_special_140_018",
+            "vo_special_140_019",
+            "vo_special_140_020",
+            "vo_special_140_021",
+            "vo_special_140_022",
+            "vo_special_140_023",
+            "vo_special_140_024",
+            "vo_special_140_025",
+            "vo_special_140_026",
+            "vo_special_140_027",
+            "vo_special_140_028",
+            "vo_special_140_029"
+          ],
+          "dialogue_voice_page_count": 29,
+          "static_preparation_sha256": "b59f01f24736de8d1524520d3b88a8d1f946c20be3ccd5ea2d3c36cdbb5b9578",
+          "root_case_actual_review_sha256": "d8704edbe4b263ae832a7bc61c07d56e8b42a347e2684284f30484c5301aecc8",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "503013705",
+          "binding_sha256": "66495e2954be04eafe0d042030f468d311919ed7b5108d792c0dc650d818b80d",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_141_001",
+              "canonical_audio_asset_id": "wav:e862bc2eff01c18fa1c00b01a6a311877170b313716d19e021d48f68b4c39315",
+              "wav_sha256": "e862bc2eff01c18fa1c00b01a6a311877170b313716d19e021d48f68b4c39315"
+            },
+            {
+              "cue": "vo_special_141_002",
+              "canonical_audio_asset_id": "wav:8c2aafab07348dba47acf9e425a09c9acccb981f764ba006fba833e375f7cc19",
+              "wav_sha256": "8c2aafab07348dba47acf9e425a09c9acccb981f764ba006fba833e375f7cc19"
+            },
+            {
+              "cue": "vo_special_141_003",
+              "canonical_audio_asset_id": "wav:3dd2ab5b1b3b4e0f3be7a78604743586a95bf5c6df5ac0c2d115ba5106a9eddf",
+              "wav_sha256": "3dd2ab5b1b3b4e0f3be7a78604743586a95bf5c6df5ac0c2d115ba5106a9eddf"
+            },
+            {
+              "cue": "vo_special_141_004",
+              "canonical_audio_asset_id": "wav:6cd7604e133c7facdaa83d96581233a4c4c51318f97e84ee3d61a42a53861b8b",
+              "wav_sha256": "6cd7604e133c7facdaa83d96581233a4c4c51318f97e84ee3d61a42a53861b8b"
+            },
+            {
+              "cue": "vo_special_141_005",
+              "canonical_audio_asset_id": "wav:a78f148f41f6f77b614bc28469c58e1d30cd39fef61bcae1e0e61e7b4a9d0cca",
+              "wav_sha256": "a78f148f41f6f77b614bc28469c58e1d30cd39fef61bcae1e0e61e7b4a9d0cca"
+            },
+            {
+              "cue": "vo_special_141_006",
+              "canonical_audio_asset_id": "wav:ce5f6fd759e2de949b39101529b533f80a4001a87a9e008e5253160b5bc16422",
+              "wav_sha256": "ce5f6fd759e2de949b39101529b533f80a4001a87a9e008e5253160b5bc16422"
+            },
+            {
+              "cue": "vo_special_141_007",
+              "canonical_audio_asset_id": "wav:cb6a26b0d16197995f9fe8c110e3a5dc45e9c839a45ea8a2149308ae50fd37c8",
+              "wav_sha256": "cb6a26b0d16197995f9fe8c110e3a5dc45e9c839a45ea8a2149308ae50fd37c8"
+            },
+            {
+              "cue": "vo_special_141_008",
+              "canonical_audio_asset_id": "wav:52036eda526cbf6c89881d7fd9b873d1c9958b2a766462e06aee1b98083c3785",
+              "wav_sha256": "52036eda526cbf6c89881d7fd9b873d1c9958b2a766462e06aee1b98083c3785"
+            },
+            {
+              "cue": "vo_special_141_009",
+              "canonical_audio_asset_id": "wav:e1774d8bdef0dea3481da2d975eecc82e895f526c3442a1b173804eb3f2cd756",
+              "wav_sha256": "e1774d8bdef0dea3481da2d975eecc82e895f526c3442a1b173804eb3f2cd756"
+            },
+            {
+              "cue": "vo_special_141_010",
+              "canonical_audio_asset_id": "wav:0b76ca92ea0aab705d60dbf3645c1eaeecec74b80a396782ce26123fffb8ddcd",
+              "wav_sha256": "0b76ca92ea0aab705d60dbf3645c1eaeecec74b80a396782ce26123fffb8ddcd"
+            },
+            {
+              "cue": "vo_special_141_011",
+              "canonical_audio_asset_id": "wav:f8a8e0553e9dd39e7b53e2b8174cbeb8a5975741dee05ebdfe96fed981ce8090",
+              "wav_sha256": "f8a8e0553e9dd39e7b53e2b8174cbeb8a5975741dee05ebdfe96fed981ce8090"
+            },
+            {
+              "cue": "vo_special_141_012",
+              "canonical_audio_asset_id": "wav:fc6aa463060f8495d26f6da7fcd256750560f9e58e04dffc9138ac0b98189fc6",
+              "wav_sha256": "fc6aa463060f8495d26f6da7fcd256750560f9e58e04dffc9138ac0b98189fc6"
+            },
+            {
+              "cue": "vo_special_141_013",
+              "canonical_audio_asset_id": "wav:fad51e8000c3944a8c42e13fde03a76e8366f7fbe468d1cd40fa92dbfbe5e0c6",
+              "wav_sha256": "fad51e8000c3944a8c42e13fde03a76e8366f7fbe468d1cd40fa92dbfbe5e0c6"
+            },
+            {
+              "cue": "vo_special_141_014",
+              "canonical_audio_asset_id": "wav:ba29f318a397d442ee34385568fadd0084aa1ea9ebc4fd0a67bff04bc03bc651",
+              "wav_sha256": "ba29f318a397d442ee34385568fadd0084aa1ea9ebc4fd0a67bff04bc03bc651"
+            },
+            {
+              "cue": "vo_special_141_015",
+              "canonical_audio_asset_id": "wav:d65602ebab2add794fa347fdd7762c79606f12da17a98e0ca9709c45b5aeb54a",
+              "wav_sha256": "d65602ebab2add794fa347fdd7762c79606f12da17a98e0ca9709c45b5aeb54a"
+            },
+            {
+              "cue": "vo_special_141_016",
+              "canonical_audio_asset_id": "wav:5ae038ce1ef65f8f7067b4099395c90d100e4cd0f3025fa694dda70795a0392a",
+              "wav_sha256": "5ae038ce1ef65f8f7067b4099395c90d100e4cd0f3025fa694dda70795a0392a"
+            },
+            {
+              "cue": "vo_special_141_017",
+              "canonical_audio_asset_id": "wav:4d56d867b7f19785a98c9ff5479ca3221073bb87b69ad74835f8ddfe0d6ca0d9",
+              "wav_sha256": "4d56d867b7f19785a98c9ff5479ca3221073bb87b69ad74835f8ddfe0d6ca0d9"
+            },
+            {
+              "cue": "vo_special_141_018",
+              "canonical_audio_asset_id": "wav:d8af2f6e9eb3cbd7362469ab36b601dce85c293f36b8d1ec2a48a2b91ac9b8b1",
+              "wav_sha256": "d8af2f6e9eb3cbd7362469ab36b601dce85c293f36b8d1ec2a48a2b91ac9b8b1"
+            },
+            {
+              "cue": "vo_special_141_019",
+              "canonical_audio_asset_id": "wav:ffa3d0ecc5de064dae3cdec910a30b5a638ecbe19972e556869b1eda241621dc",
+              "wav_sha256": "ffa3d0ecc5de064dae3cdec910a30b5a638ecbe19972e556869b1eda241621dc"
+            },
+            {
+              "cue": "vo_special_141_020",
+              "canonical_audio_asset_id": "wav:01d23651bccbc8ce28c0f97e3c61d3a4b137ce57e8175fb657312ad834728877",
+              "wav_sha256": "01d23651bccbc8ce28c0f97e3c61d3a4b137ce57e8175fb657312ad834728877"
+            },
+            {
+              "cue": "vo_special_141_021",
+              "canonical_audio_asset_id": "wav:87c6202d83495601f86e97c917559b7ac67b77eea9a9b0cb41c912797274ec47",
+              "wav_sha256": "87c6202d83495601f86e97c917559b7ac67b77eea9a9b0cb41c912797274ec47"
+            },
+            {
+              "cue": "vo_special_141_022",
+              "canonical_audio_asset_id": "wav:e0b2833bad1d98d706d0a1d6f27c6798460fa736771d64d90392843b56301ef9",
+              "wav_sha256": "e0b2833bad1d98d706d0a1d6f27c6798460fa736771d64d90392843b56301ef9"
+            },
+            {
+              "cue": "vo_special_141_023",
+              "canonical_audio_asset_id": "wav:33a2a8ba34284f78194c7792bbec3e3373893079cbecdc3833c29285d526c0cd",
+              "wav_sha256": "33a2a8ba34284f78194c7792bbec3e3373893079cbecdc3833c29285d526c0cd"
+            },
+            {
+              "cue": "vo_special_141_024",
+              "canonical_audio_asset_id": "wav:9e20f3ce349b3929d549d1e3bb7239f8513134bd44855c79de20d4cc024a6020",
+              "wav_sha256": "9e20f3ce349b3929d549d1e3bb7239f8513134bd44855c79de20d4cc024a6020"
+            },
+            {
+              "cue": "vo_special_141_025",
+              "canonical_audio_asset_id": "wav:fda0f51d9b0e1f8f4aaa62a0838366c5e51179df8bf4ec001a9ee03814cbdd2b",
+              "wav_sha256": "fda0f51d9b0e1f8f4aaa62a0838366c5e51179df8bf4ec001a9ee03814cbdd2b"
+            },
+            {
+              "cue": "vo_special_141_026",
+              "canonical_audio_asset_id": "wav:b0e89e9a25a2b69e1289561eafd96f61cb596c437319e49e197e37b93d7afc78",
+              "wav_sha256": "b0e89e9a25a2b69e1289561eafd96f61cb596c437319e49e197e37b93d7afc78"
+            },
+            {
+              "cue": "vo_special_141_027",
+              "canonical_audio_asset_id": "wav:cb59691d8979ec2aa41ffe7a515943aaa8cb91bb79abd02aca94830a52b1a008",
+              "wav_sha256": "cb59691d8979ec2aa41ffe7a515943aaa8cb91bb79abd02aca94830a52b1a008"
+            },
+            {
+              "cue": "vo_special_141_028",
+              "canonical_audio_asset_id": "wav:aa7d37d126d045b881c48be8f1b43ff4945c34ce3523e19708b23cf52073a29b",
+              "wav_sha256": "aa7d37d126d045b881c48be8f1b43ff4945c34ce3523e19708b23cf52073a29b"
+            },
+            {
+              "cue": "vo_special_141_029",
+              "canonical_audio_asset_id": "wav:519f942d0dc6f34b47fae3669f81d61e8f35c679e3e1b1e37539d13118fe84c6",
+              "wav_sha256": "519f942d0dc6f34b47fae3669f81d61e8f35c679e3e1b1e37539d13118fe84c6"
+            },
+            {
+              "cue": "vo_special_141_030",
+              "canonical_audio_asset_id": "wav:d0a9481940c047bf08b75645ceee72db172af0ec76ed7dc35543eab7375f5d34",
+              "wav_sha256": "d0a9481940c047bf08b75645ceee72db172af0ec76ed7dc35543eab7375f5d34"
+            },
+            {
+              "cue": "vo_special_title_141_00_01",
+              "canonical_audio_asset_id": "wav:fcea08b2d4fa7901371f1c6e2a48520d44d7fa4ad1c6f7bf7c9b978cd83af2d7",
+              "wav_sha256": "fcea08b2d4fa7901371f1c6e2a48520d44d7fa4ad1c6f7bf7c9b978cd83af2d7"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_141_001",
+            "vo_special_141_002",
+            "vo_special_141_003",
+            "vo_special_141_004",
+            "vo_special_141_005",
+            "vo_special_141_006",
+            "vo_special_141_007",
+            "vo_special_141_008",
+            "vo_special_141_009",
+            "vo_special_141_010",
+            "vo_special_141_011",
+            "vo_special_141_012",
+            "vo_special_141_013",
+            "vo_special_141_014",
+            "vo_special_141_015",
+            "vo_special_141_016",
+            "vo_special_141_017",
+            "vo_special_141_018",
+            "vo_special_141_019",
+            "vo_special_141_020",
+            "vo_special_141_021",
+            "vo_special_141_022",
+            "vo_special_141_023",
+            "vo_special_141_024",
+            "vo_special_141_025",
+            "vo_special_141_026",
+            "vo_special_141_027",
+            "vo_special_141_028",
+            "vo_special_141_029",
+            "vo_special_141_030",
+            "vo_special_title_141_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_141_001",
+            "vo_special_141_002",
+            "vo_special_141_003",
+            "vo_special_141_004",
+            "vo_special_141_005",
+            "vo_special_141_006",
+            "vo_special_141_007",
+            "vo_special_141_008",
+            "vo_special_141_009",
+            "vo_special_141_010",
+            "vo_special_141_011",
+            "vo_special_141_012",
+            "vo_special_141_013",
+            "vo_special_141_014",
+            "vo_special_141_015",
+            "vo_special_141_016",
+            "vo_special_141_017",
+            "vo_special_141_018",
+            "vo_special_141_019",
+            "vo_special_141_020",
+            "vo_special_141_021",
+            "vo_special_141_022",
+            "vo_special_141_023",
+            "vo_special_141_024",
+            "vo_special_141_025",
+            "vo_special_141_026",
+            "vo_special_141_027",
+            "vo_special_141_028",
+            "vo_special_141_029",
+            "vo_special_141_030"
+          ],
+          "dialogue_voice_page_count": 30,
+          "static_preparation_sha256": "d260b9b9eb86e604662889a2a1a892c6617f543cef018d0f06e15a010333f86a",
+          "root_case_actual_review_sha256": "3e6391e187c09c62b4d80ed1860274797316e61a3c49b8f8b573fe54c45ca23a",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014201",
+          "binding_sha256": "2671285012a0eb2df474fb48f175534ac3a49dac6eb60bd30247c69dbe58170a",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_142_001",
+              "canonical_audio_asset_id": "wav:deeb1ba655f3839a38a91bb9617d7612e2276c9986eaeb42235443d7fb065a49",
+              "wav_sha256": "deeb1ba655f3839a38a91bb9617d7612e2276c9986eaeb42235443d7fb065a49"
+            },
+            {
+              "cue": "vo_special_142_002",
+              "canonical_audio_asset_id": "wav:af74caec429fa3ddd0567918d5dde09f99b599c448ae00c5695fc16abef1db44",
+              "wav_sha256": "af74caec429fa3ddd0567918d5dde09f99b599c448ae00c5695fc16abef1db44"
+            },
+            {
+              "cue": "vo_special_142_003",
+              "canonical_audio_asset_id": "wav:516247aaf1eda789de9249e86a1a8401a11d386641691e6c8939feba64e5d4f1",
+              "wav_sha256": "516247aaf1eda789de9249e86a1a8401a11d386641691e6c8939feba64e5d4f1"
+            },
+            {
+              "cue": "vo_special_142_004",
+              "canonical_audio_asset_id": "wav:3a06674b37f40a31f4e1f45c82fd043880b5ca6ea10b267f563b7bf8ae42cc8f",
+              "wav_sha256": "3a06674b37f40a31f4e1f45c82fd043880b5ca6ea10b267f563b7bf8ae42cc8f"
+            },
+            {
+              "cue": "vo_special_142_005",
+              "canonical_audio_asset_id": "wav:0129a505963671e97916be7aff83f9ca694d06ec9b06174d0ab8217c341675f1",
+              "wav_sha256": "0129a505963671e97916be7aff83f9ca694d06ec9b06174d0ab8217c341675f1"
+            },
+            {
+              "cue": "vo_special_142_006",
+              "canonical_audio_asset_id": "wav:602fdce2f82f9861f8e6f6ed29659066fff4a22a72931edff46e0d00c3c76d99",
+              "wav_sha256": "602fdce2f82f9861f8e6f6ed29659066fff4a22a72931edff46e0d00c3c76d99"
+            },
+            {
+              "cue": "vo_special_142_007",
+              "canonical_audio_asset_id": "wav:f8083d9249155b1c0305dce1c62cce89fca35fa179e5bef8583b857e6691f0cd",
+              "wav_sha256": "f8083d9249155b1c0305dce1c62cce89fca35fa179e5bef8583b857e6691f0cd"
+            },
+            {
+              "cue": "vo_special_142_008",
+              "canonical_audio_asset_id": "wav:1a8ac9fa61cca0f4d1be2eae78200369793d38dbc8a0a91f5f4a704029afde5a",
+              "wav_sha256": "1a8ac9fa61cca0f4d1be2eae78200369793d38dbc8a0a91f5f4a704029afde5a"
+            },
+            {
+              "cue": "vo_special_142_009",
+              "canonical_audio_asset_id": "wav:517d5993cbaf5664fd777433315a1987bfe5e9d4f87ef5d667a484e6b994ed47",
+              "wav_sha256": "517d5993cbaf5664fd777433315a1987bfe5e9d4f87ef5d667a484e6b994ed47"
+            },
+            {
+              "cue": "vo_special_142_010",
+              "canonical_audio_asset_id": "wav:74b870b6b78b325bee43a5846537ad856c45132b224229bf089e9373302c0f71",
+              "wav_sha256": "74b870b6b78b325bee43a5846537ad856c45132b224229bf089e9373302c0f71"
+            },
+            {
+              "cue": "vo_special_142_011",
+              "canonical_audio_asset_id": "wav:9436464b659085ef1627426cd6e8bf0374a0b76d5a3c06eaa455fa6b9dcf6f7a",
+              "wav_sha256": "9436464b659085ef1627426cd6e8bf0374a0b76d5a3c06eaa455fa6b9dcf6f7a"
+            },
+            {
+              "cue": "vo_special_142_012",
+              "canonical_audio_asset_id": "wav:f876dd1eb96144321b018216a37251fb68c7bfcd86571ca8b844f5f05c4048aa",
+              "wav_sha256": "f876dd1eb96144321b018216a37251fb68c7bfcd86571ca8b844f5f05c4048aa"
+            },
+            {
+              "cue": "vo_special_142_013",
+              "canonical_audio_asset_id": "wav:83943556bc479de82578a2df0049e404b99614618b7cdda666f7247553320eb8",
+              "wav_sha256": "83943556bc479de82578a2df0049e404b99614618b7cdda666f7247553320eb8"
+            },
+            {
+              "cue": "vo_special_142_014",
+              "canonical_audio_asset_id": "wav:34333bb4b7a2f197c55d7ca01a99ca8ffa3df9ca2f7e01037889aec40ff0a1b6",
+              "wav_sha256": "34333bb4b7a2f197c55d7ca01a99ca8ffa3df9ca2f7e01037889aec40ff0a1b6"
+            },
+            {
+              "cue": "vo_special_142_015",
+              "canonical_audio_asset_id": "wav:44976d1284bc69bb413542d5bea35146014e7c47be7586693a17120c2a84c8a7",
+              "wav_sha256": "44976d1284bc69bb413542d5bea35146014e7c47be7586693a17120c2a84c8a7"
+            },
+            {
+              "cue": "vo_special_142_016",
+              "canonical_audio_asset_id": "wav:bec42b08da70cc91eef72e1361faee4d9667c3d696e8fa3d8074968fa994949c",
+              "wav_sha256": "bec42b08da70cc91eef72e1361faee4d9667c3d696e8fa3d8074968fa994949c"
+            },
+            {
+              "cue": "vo_special_142_017",
+              "canonical_audio_asset_id": "wav:ec86d4153ddb186ae30891d242117ca94750b02e4580a50301f8e7cb97c7272d",
+              "wav_sha256": "ec86d4153ddb186ae30891d242117ca94750b02e4580a50301f8e7cb97c7272d"
+            },
+            {
+              "cue": "vo_special_142_018",
+              "canonical_audio_asset_id": "wav:4db0d265d4669707a98868906db00eb9084c2b56c91072869c034dea5e07ea4a",
+              "wav_sha256": "4db0d265d4669707a98868906db00eb9084c2b56c91072869c034dea5e07ea4a"
+            },
+            {
+              "cue": "vo_special_142_019",
+              "canonical_audio_asset_id": "wav:d513f3ad7b5e549e07e5b9579964057c4afa5d7d16f36734f57e2537add8cfb9",
+              "wav_sha256": "d513f3ad7b5e549e07e5b9579964057c4afa5d7d16f36734f57e2537add8cfb9"
+            },
+            {
+              "cue": "vo_special_142_020",
+              "canonical_audio_asset_id": "wav:e9a885f33471d62d5b233d7767928515d47d57078a4aea94880ea7673bb5dadc",
+              "wav_sha256": "e9a885f33471d62d5b233d7767928515d47d57078a4aea94880ea7673bb5dadc"
+            },
+            {
+              "cue": "vo_special_142_021",
+              "canonical_audio_asset_id": "wav:a807bd1c3414293364b9e492af0a61f731e985f2d9891d81b7ecbb7d56a1d928",
+              "wav_sha256": "a807bd1c3414293364b9e492af0a61f731e985f2d9891d81b7ecbb7d56a1d928"
+            },
+            {
+              "cue": "vo_special_142_022",
+              "canonical_audio_asset_id": "wav:2dc4a7c365d052f8768f5eacf04d0cb33257682e7d8ee59ba735bc4f412fb4e3",
+              "wav_sha256": "2dc4a7c365d052f8768f5eacf04d0cb33257682e7d8ee59ba735bc4f412fb4e3"
+            },
+            {
+              "cue": "vo_special_142_023",
+              "canonical_audio_asset_id": "wav:09627001eed862eef436e5d15afa815bcc8ca8eba19b496311e204f8aab3f510",
+              "wav_sha256": "09627001eed862eef436e5d15afa815bcc8ca8eba19b496311e204f8aab3f510"
+            },
+            {
+              "cue": "vo_special_142_024",
+              "canonical_audio_asset_id": "wav:f77c18d640e297a14dc7d6c89d2f9ecc436d3d3a97d2c4bc3e9ffacccc85388a",
+              "wav_sha256": "f77c18d640e297a14dc7d6c89d2f9ecc436d3d3a97d2c4bc3e9ffacccc85388a"
+            },
+            {
+              "cue": "vo_special_142_025",
+              "canonical_audio_asset_id": "wav:6345228e48cc0c8adcd3011c20cf82da1634343ca0c7deaa80d9cc36a50901cb",
+              "wav_sha256": "6345228e48cc0c8adcd3011c20cf82da1634343ca0c7deaa80d9cc36a50901cb"
+            },
+            {
+              "cue": "vo_special_142_026",
+              "canonical_audio_asset_id": "wav:0bcb6aa673fc151d26179a4627832a7893c0c2e54072e59664a59cba5f1b1d8a",
+              "wav_sha256": "0bcb6aa673fc151d26179a4627832a7893c0c2e54072e59664a59cba5f1b1d8a"
+            },
+            {
+              "cue": "vo_special_142_027",
+              "canonical_audio_asset_id": "wav:bf061dba290d25e6788e2ca21da3391bcdd37b7f4406a1eaa8f1ef4d8ec2092c",
+              "wav_sha256": "bf061dba290d25e6788e2ca21da3391bcdd37b7f4406a1eaa8f1ef4d8ec2092c"
+            },
+            {
+              "cue": "vo_special_142_028",
+              "canonical_audio_asset_id": "wav:a6355abf1eed40af3f3b6608913a884b73686d1f6fecc892f404da6a01597a49",
+              "wav_sha256": "a6355abf1eed40af3f3b6608913a884b73686d1f6fecc892f404da6a01597a49"
+            },
+            {
+              "cue": "vo_special_142_029",
+              "canonical_audio_asset_id": "wav:eca17fdfbc8ef40e2e1c991476c4f29e146f6d89c408c5cf00c8fdbda76d7643",
+              "wav_sha256": "eca17fdfbc8ef40e2e1c991476c4f29e146f6d89c408c5cf00c8fdbda76d7643"
+            },
+            {
+              "cue": "vo_special_142_030",
+              "canonical_audio_asset_id": "wav:919c3cc1c5b88d591d275ade6147e3141ee69fd14991571b65327987ef35b6f3",
+              "wav_sha256": "919c3cc1c5b88d591d275ade6147e3141ee69fd14991571b65327987ef35b6f3"
+            },
+            {
+              "cue": "vo_special_142_031",
+              "canonical_audio_asset_id": "wav:0f45eda2b806ce783471e0713582f3b0411d4fee96e45eab21e19bdbfc577622",
+              "wav_sha256": "0f45eda2b806ce783471e0713582f3b0411d4fee96e45eab21e19bdbfc577622"
+            },
+            {
+              "cue": "vo_special_142_032",
+              "canonical_audio_asset_id": "wav:8f3e7b3a0c19f9a759ba159cb96699ced199d57413c8e3d008e334474fd12975",
+              "wav_sha256": "8f3e7b3a0c19f9a759ba159cb96699ced199d57413c8e3d008e334474fd12975"
+            },
+            {
+              "cue": "vo_special_142_033",
+              "canonical_audio_asset_id": "wav:4b189982de65c8bff3f59e4cfe0aaa13f1bc0dca8166e2f2778e29b98434897f",
+              "wav_sha256": "4b189982de65c8bff3f59e4cfe0aaa13f1bc0dca8166e2f2778e29b98434897f"
+            },
+            {
+              "cue": "vo_special_142_034",
+              "canonical_audio_asset_id": "wav:fc0be2bbe085afd7468ac549c5edf72cb83d7e52850ca7f010790618085fb0e1",
+              "wav_sha256": "fc0be2bbe085afd7468ac549c5edf72cb83d7e52850ca7f010790618085fb0e1"
+            },
+            {
+              "cue": "vo_special_142_035",
+              "canonical_audio_asset_id": "wav:6bca150c7d08a7deceafe0aeec5224f9b01c58ed6f9f54d805e6b01854c3801c",
+              "wav_sha256": "6bca150c7d08a7deceafe0aeec5224f9b01c58ed6f9f54d805e6b01854c3801c"
+            },
+            {
+              "cue": "vo_special_142_036",
+              "canonical_audio_asset_id": "wav:388f0729306f821dbf9b0f767e07ce432b93180169a757e36a3777531a6bd6df",
+              "wav_sha256": "388f0729306f821dbf9b0f767e07ce432b93180169a757e36a3777531a6bd6df"
+            },
+            {
+              "cue": "vo_special_142_037",
+              "canonical_audio_asset_id": "wav:348fb4f933a49a8c1f4b3d19f256e93ba8d26a072f738d8c8ffa25a5f1834ed1",
+              "wav_sha256": "348fb4f933a49a8c1f4b3d19f256e93ba8d26a072f738d8c8ffa25a5f1834ed1"
+            },
+            {
+              "cue": "vo_special_142_038",
+              "canonical_audio_asset_id": "wav:9d605c3e3fe06c14005bffe2b33560ea66b5a09c47f7d7e203d688ae7cbb39fe",
+              "wav_sha256": "9d605c3e3fe06c14005bffe2b33560ea66b5a09c47f7d7e203d688ae7cbb39fe"
+            },
+            {
+              "cue": "vo_special_142_039",
+              "canonical_audio_asset_id": "wav:528df87181c28f23b1768de49c0297d6f315e1ef928ebcf358656b3f859e0808",
+              "wav_sha256": "528df87181c28f23b1768de49c0297d6f315e1ef928ebcf358656b3f859e0808"
+            },
+            {
+              "cue": "vo_special_142_040",
+              "canonical_audio_asset_id": "wav:7f2dad3726963045f9a903e8118f23d548347c2e2af3924d06fb7502703534d7",
+              "wav_sha256": "7f2dad3726963045f9a903e8118f23d548347c2e2af3924d06fb7502703534d7"
+            },
+            {
+              "cue": "vo_special_142_041",
+              "canonical_audio_asset_id": "wav:7fb66df4fb922df6a02854571f316bb44dee35bdb95843bb52dfe4227da9b539",
+              "wav_sha256": "7fb66df4fb922df6a02854571f316bb44dee35bdb95843bb52dfe4227da9b539"
+            },
+            {
+              "cue": "vo_special_142_042",
+              "canonical_audio_asset_id": "wav:2370d3c178e1b10b13d9c65faec2db520ed773d144b04ecba799ee77e0ddf5ee",
+              "wav_sha256": "2370d3c178e1b10b13d9c65faec2db520ed773d144b04ecba799ee77e0ddf5ee"
+            },
+            {
+              "cue": "vo_special_142_043",
+              "canonical_audio_asset_id": "wav:d3d295b79aee810628cc1885f45efb6cdf8615e234b577d4b26e770bbf1ffc35",
+              "wav_sha256": "d3d295b79aee810628cc1885f45efb6cdf8615e234b577d4b26e770bbf1ffc35"
+            },
+            {
+              "cue": "vo_special_142_044",
+              "canonical_audio_asset_id": "wav:5472088b0b3ae91ec78920744c1d4cb577aa0d832b8d04471baea450deef884a",
+              "wav_sha256": "5472088b0b3ae91ec78920744c1d4cb577aa0d832b8d04471baea450deef884a"
+            },
+            {
+              "cue": "vo_special_142_045",
+              "canonical_audio_asset_id": "wav:a5ba85b39f7e0a2c270f435ab493493232c0033aa2654c1f9e9f97e0a59cca59",
+              "wav_sha256": "a5ba85b39f7e0a2c270f435ab493493232c0033aa2654c1f9e9f97e0a59cca59"
+            },
+            {
+              "cue": "vo_special_142_046",
+              "canonical_audio_asset_id": "wav:ac6fa0ab83b0fcedb7f37cc870ccf84b00e73fd5e7ed07a95e21ef179a053581",
+              "wav_sha256": "ac6fa0ab83b0fcedb7f37cc870ccf84b00e73fd5e7ed07a95e21ef179a053581"
+            },
+            {
+              "cue": "vo_special_142_047",
+              "canonical_audio_asset_id": "wav:7b734a0a28d1363740e0f030a43172b951dd9f8a1091e09e16b0b9ca26c1f8c0",
+              "wav_sha256": "7b734a0a28d1363740e0f030a43172b951dd9f8a1091e09e16b0b9ca26c1f8c0"
+            },
+            {
+              "cue": "vo_special_142_048",
+              "canonical_audio_asset_id": "wav:3e8b6fcaf808b4f43783ea94f487f391a820e70430031504efb4503ec07de9e7",
+              "wav_sha256": "3e8b6fcaf808b4f43783ea94f487f391a820e70430031504efb4503ec07de9e7"
+            },
+            {
+              "cue": "vo_special_142_049",
+              "canonical_audio_asset_id": "wav:94ef8b5209b1ab7612aee3b44b8c6f08ef8e17f7806167f9dae9be8a685dd746",
+              "wav_sha256": "94ef8b5209b1ab7612aee3b44b8c6f08ef8e17f7806167f9dae9be8a685dd746"
+            },
+            {
+              "cue": "vo_special_142_050",
+              "canonical_audio_asset_id": "wav:58177f8d20ec9c0bf133d136cc5cab3c0f3cc60decdd7d4aae5b5c5bad878669",
+              "wav_sha256": "58177f8d20ec9c0bf133d136cc5cab3c0f3cc60decdd7d4aae5b5c5bad878669"
+            },
+            {
+              "cue": "vo_special_142_051",
+              "canonical_audio_asset_id": "wav:d8f1f2e154387ee55400b88e42931908dad162b7655c739a4feef94b7b284af9",
+              "wav_sha256": "d8f1f2e154387ee55400b88e42931908dad162b7655c739a4feef94b7b284af9"
+            },
+            {
+              "cue": "vo_special_142_052",
+              "canonical_audio_asset_id": "wav:f867d438c2083fa2fd4c7a4535d87556f93a49a96bee7d328bf5f5d478148953",
+              "wav_sha256": "f867d438c2083fa2fd4c7a4535d87556f93a49a96bee7d328bf5f5d478148953"
+            },
+            {
+              "cue": "vo_special_142_053",
+              "canonical_audio_asset_id": "wav:710a3366fc5e5a8f6a7ff451528672963d38e3996297d0ea6d2f0a706907f769",
+              "wav_sha256": "710a3366fc5e5a8f6a7ff451528672963d38e3996297d0ea6d2f0a706907f769"
+            },
+            {
+              "cue": "vo_special_142_054",
+              "canonical_audio_asset_id": "wav:d50cb6aa1d29526139c5fae0f1f624f4559148562bb6e8fb1a11cc39aa834c94",
+              "wav_sha256": "d50cb6aa1d29526139c5fae0f1f624f4559148562bb6e8fb1a11cc39aa834c94"
+            },
+            {
+              "cue": "vo_special_142_055",
+              "canonical_audio_asset_id": "wav:12f9e502486d8f82e997eff3d71439a4eb45f208eb7812adbbf51c7512e89ccd",
+              "wav_sha256": "12f9e502486d8f82e997eff3d71439a4eb45f208eb7812adbbf51c7512e89ccd"
+            },
+            {
+              "cue": "vo_special_142_056",
+              "canonical_audio_asset_id": "wav:b5ca1f776dbc82498151ab03e8a990edc194e2b00832f38d216dddc4bfefe8f9",
+              "wav_sha256": "b5ca1f776dbc82498151ab03e8a990edc194e2b00832f38d216dddc4bfefe8f9"
+            },
+            {
+              "cue": "vo_special_142_057",
+              "canonical_audio_asset_id": "wav:569136f1a296e822f70d5781c4ea931abc8b3cd881bcb92145058218edec4eda",
+              "wav_sha256": "569136f1a296e822f70d5781c4ea931abc8b3cd881bcb92145058218edec4eda"
+            },
+            {
+              "cue": "vo_special_title_142_00",
+              "canonical_audio_asset_id": "wav:682f27cbe6247a4b590e1481e6fd6df8ec60b30dbc799b52c28a0aaf970ff38a",
+              "wav_sha256": "682f27cbe6247a4b590e1481e6fd6df8ec60b30dbc799b52c28a0aaf970ff38a"
+            },
+            {
+              "cue": "vo_special_title_142_00_01",
+              "canonical_audio_asset_id": "wav:6c648cce09110873d42aef76205d144eac0823c681a2f79d023ad71973aaf19f",
+              "wav_sha256": "6c648cce09110873d42aef76205d144eac0823c681a2f79d023ad71973aaf19f"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_142_001",
+            "vo_special_142_002",
+            "vo_special_142_003",
+            "vo_special_142_004",
+            "vo_special_142_005",
+            "vo_special_142_006",
+            "vo_special_142_007",
+            "vo_special_142_008",
+            "vo_special_142_009",
+            "vo_special_142_010",
+            "vo_special_142_011",
+            "vo_special_142_012",
+            "vo_special_142_013",
+            "vo_special_142_014",
+            "vo_special_142_015",
+            "vo_special_142_016",
+            "vo_special_142_017",
+            "vo_special_142_018",
+            "vo_special_142_019",
+            "vo_special_142_020",
+            "vo_special_142_021",
+            "vo_special_142_022",
+            "vo_special_142_023",
+            "vo_special_142_024",
+            "vo_special_142_025",
+            "vo_special_142_026",
+            "vo_special_142_027",
+            "vo_special_142_028",
+            "vo_special_142_029",
+            "vo_special_142_030",
+            "vo_special_142_031",
+            "vo_special_142_032",
+            "vo_special_142_033",
+            "vo_special_142_034",
+            "vo_special_142_035",
+            "vo_special_142_036",
+            "vo_special_142_037",
+            "vo_special_142_038",
+            "vo_special_142_039",
+            "vo_special_142_040",
+            "vo_special_142_041",
+            "vo_special_142_042",
+            "vo_special_142_043",
+            "vo_special_142_044",
+            "vo_special_142_045",
+            "vo_special_142_046",
+            "vo_special_142_047",
+            "vo_special_142_048",
+            "vo_special_142_049",
+            "vo_special_142_050",
+            "vo_special_142_051",
+            "vo_special_142_052",
+            "vo_special_142_053",
+            "vo_special_142_054",
+            "vo_special_142_055",
+            "vo_special_142_056",
+            "vo_special_142_057",
+            "vo_special_title_142_00",
+            "vo_special_title_142_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_142_001",
+            "vo_special_142_002",
+            "vo_special_142_003",
+            "vo_special_142_004",
+            "vo_special_142_005",
+            "vo_special_142_006",
+            "vo_special_142_007",
+            "vo_special_142_008",
+            "vo_special_142_009",
+            "vo_special_142_010",
+            "vo_special_142_011",
+            "vo_special_142_012",
+            "vo_special_142_013",
+            "vo_special_142_014",
+            "vo_special_142_015",
+            "vo_special_142_016",
+            "vo_special_142_017",
+            "vo_special_142_018",
+            "vo_special_142_019",
+            "vo_special_142_020",
+            "vo_special_142_021",
+            "vo_special_142_022",
+            "vo_special_142_023",
+            "vo_special_142_024",
+            "vo_special_142_025",
+            "vo_special_142_026",
+            "vo_special_142_027",
+            "vo_special_142_028",
+            "vo_special_142_029",
+            "vo_special_142_030",
+            "vo_special_142_031",
+            "vo_special_142_032",
+            "vo_special_142_033",
+            "vo_special_142_034",
+            "vo_special_142_035",
+            "vo_special_142_036",
+            "vo_special_142_037",
+            "vo_special_142_038",
+            "vo_special_142_039",
+            "vo_special_142_040",
+            "vo_special_142_041",
+            "vo_special_142_042",
+            "vo_special_142_043",
+            "vo_special_142_044",
+            "vo_special_142_045",
+            "vo_special_142_046",
+            "vo_special_142_047",
+            "vo_special_142_048",
+            "vo_special_142_049",
+            "vo_special_142_050",
+            "vo_special_142_051",
+            "vo_special_142_052",
+            "vo_special_142_053",
+            "vo_special_142_054",
+            "vo_special_142_055",
+            "vo_special_142_056",
+            "vo_special_142_057"
+          ],
+          "dialogue_voice_page_count": 57,
+          "static_preparation_sha256": "e9ccf8c43b0b0db78c890e0528d0584b4123fd2e7aef3db3b85bd6d728b3c369",
+          "root_case_actual_review_sha256": "32b7a10f8628117c56bb8ae6619d7e0e69fdf7ecffe65977cf46e567b3edb7e0",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014202",
+          "binding_sha256": "0f4c9dbfa8becdce73596e56f6cec95f41bb9087a975702d39cfe3b6e447d323",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_143_058",
+              "canonical_audio_asset_id": "wav:e3a33680d7b46132948bec6e54032ff75e92b594a65aae34d012c3fd09da2f64",
+              "wav_sha256": "e3a33680d7b46132948bec6e54032ff75e92b594a65aae34d012c3fd09da2f64"
+            },
+            {
+              "cue": "vo_special_143_059",
+              "canonical_audio_asset_id": "wav:8c901765499d178a083434e1448f330a445f5a491019099a0a968142e986a09d",
+              "wav_sha256": "8c901765499d178a083434e1448f330a445f5a491019099a0a968142e986a09d"
+            },
+            {
+              "cue": "vo_special_143_060",
+              "canonical_audio_asset_id": "wav:cd99293b55f0d9929caf970a11ecfabb7892844dfc0201bc9c992bfe1fdc866f",
+              "wav_sha256": "cd99293b55f0d9929caf970a11ecfabb7892844dfc0201bc9c992bfe1fdc866f"
+            },
+            {
+              "cue": "vo_special_143_061",
+              "canonical_audio_asset_id": "wav:41d94d1676d4b3e32b430a0004b251a302a0cb6ad2019d2aa5136842532e0b83",
+              "wav_sha256": "41d94d1676d4b3e32b430a0004b251a302a0cb6ad2019d2aa5136842532e0b83"
+            },
+            {
+              "cue": "vo_special_143_062",
+              "canonical_audio_asset_id": "wav:65307f1fa4a5ea4945d438add275795d3d084b5ecb6e2ce2e3556c0b4f18c44a",
+              "wav_sha256": "65307f1fa4a5ea4945d438add275795d3d084b5ecb6e2ce2e3556c0b4f18c44a"
+            },
+            {
+              "cue": "vo_special_143_063",
+              "canonical_audio_asset_id": "wav:8e2ace83aade3eb9308ae5a38b9f13c2fe41fe05d34d6a30f002c889ad4dd65b",
+              "wav_sha256": "8e2ace83aade3eb9308ae5a38b9f13c2fe41fe05d34d6a30f002c889ad4dd65b"
+            },
+            {
+              "cue": "vo_special_143_064",
+              "canonical_audio_asset_id": "wav:95c62ae0ea26c126b7a5568517bba244c0e63456bd5c932aafab92b02d949ae3",
+              "wav_sha256": "95c62ae0ea26c126b7a5568517bba244c0e63456bd5c932aafab92b02d949ae3"
+            },
+            {
+              "cue": "vo_special_143_065",
+              "canonical_audio_asset_id": "wav:8449538a230dd850fab6a7d7a5f594f4843f521d3f685dd3fff9381755efe370",
+              "wav_sha256": "8449538a230dd850fab6a7d7a5f594f4843f521d3f685dd3fff9381755efe370"
+            },
+            {
+              "cue": "vo_special_143_066",
+              "canonical_audio_asset_id": "wav:b074310fe94c4f95e64689b7aecae9ffaaed77e5ec8d2942793aea49a17b6767",
+              "wav_sha256": "b074310fe94c4f95e64689b7aecae9ffaaed77e5ec8d2942793aea49a17b6767"
+            },
+            {
+              "cue": "vo_special_143_067",
+              "canonical_audio_asset_id": "wav:b0443ae99e8414eabd4cb2e3f3f7385b22d7d23d3d2c58a2b6f097a79c0f7f19",
+              "wav_sha256": "b0443ae99e8414eabd4cb2e3f3f7385b22d7d23d3d2c58a2b6f097a79c0f7f19"
+            },
+            {
+              "cue": "vo_special_143_068",
+              "canonical_audio_asset_id": "wav:025a5b9f12b4edba5fb92896113e7831c15c6fcb60107c45206f383dc2ed19af",
+              "wav_sha256": "025a5b9f12b4edba5fb92896113e7831c15c6fcb60107c45206f383dc2ed19af"
+            },
+            {
+              "cue": "vo_special_143_069",
+              "canonical_audio_asset_id": "wav:9f2798d5dfcc55528df09f8f2645917f870b010a9ae1022e19960ce80dba9f96",
+              "wav_sha256": "9f2798d5dfcc55528df09f8f2645917f870b010a9ae1022e19960ce80dba9f96"
+            },
+            {
+              "cue": "vo_special_143_070",
+              "canonical_audio_asset_id": "wav:c0b68805261592d986a5f865a2ad6fe7c790ec2603cf2781206ba2d0abb76135",
+              "wav_sha256": "c0b68805261592d986a5f865a2ad6fe7c790ec2603cf2781206ba2d0abb76135"
+            },
+            {
+              "cue": "vo_special_143_071",
+              "canonical_audio_asset_id": "wav:863380673362a9e3c84f58b9b440cce9851855a063bbddba07dd1ce1c9dd0391",
+              "wav_sha256": "863380673362a9e3c84f58b9b440cce9851855a063bbddba07dd1ce1c9dd0391"
+            },
+            {
+              "cue": "vo_special_143_072",
+              "canonical_audio_asset_id": "wav:01da4947e99bc6785385e7632130207c697a548ef0be9caf5a4f00e67368cbfe",
+              "wav_sha256": "01da4947e99bc6785385e7632130207c697a548ef0be9caf5a4f00e67368cbfe"
+            },
+            {
+              "cue": "vo_special_143_073",
+              "canonical_audio_asset_id": "wav:ee34c85317f560b0605c57d0b57410852e7df01b149009a5c826e36cc8a31f52",
+              "wav_sha256": "ee34c85317f560b0605c57d0b57410852e7df01b149009a5c826e36cc8a31f52"
+            },
+            {
+              "cue": "vo_special_143_074",
+              "canonical_audio_asset_id": "wav:d4f57d0fc7eb9aa1d65ec9a5b9ff7a57c07198445d1306396fbdb96c516246fc",
+              "wav_sha256": "d4f57d0fc7eb9aa1d65ec9a5b9ff7a57c07198445d1306396fbdb96c516246fc"
+            },
+            {
+              "cue": "vo_special_143_075",
+              "canonical_audio_asset_id": "wav:f8a0732ad7320a76159f6472270c3ffc964336dae892899d9154b92bfadee15f",
+              "wav_sha256": "f8a0732ad7320a76159f6472270c3ffc964336dae892899d9154b92bfadee15f"
+            },
+            {
+              "cue": "vo_special_143_076",
+              "canonical_audio_asset_id": "wav:967833c1ffb94d65e38419a5f24a4d088731a49a0b9795ddd0a3896a767fbefd",
+              "wav_sha256": "967833c1ffb94d65e38419a5f24a4d088731a49a0b9795ddd0a3896a767fbefd"
+            },
+            {
+              "cue": "vo_special_143_077",
+              "canonical_audio_asset_id": "wav:3f28dbf8df80a0f073d0948376623da8c82357a88d12ba958addeaaf5bfbfb67",
+              "wav_sha256": "3f28dbf8df80a0f073d0948376623da8c82357a88d12ba958addeaaf5bfbfb67"
+            },
+            {
+              "cue": "vo_special_143_078",
+              "canonical_audio_asset_id": "wav:9c522f05fcb33b1ae480a9a9862700908ae205dc831d9871f8011339ff47a8ff",
+              "wav_sha256": "9c522f05fcb33b1ae480a9a9862700908ae205dc831d9871f8011339ff47a8ff"
+            },
+            {
+              "cue": "vo_special_title_143_00_01",
+              "canonical_audio_asset_id": "wav:98e3d4fb1b3815635eef772dd67c3263a604a1677f269201bb6b3b9bf09b71dd",
+              "wav_sha256": "98e3d4fb1b3815635eef772dd67c3263a604a1677f269201bb6b3b9bf09b71dd"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_143_058",
+            "vo_special_143_059",
+            "vo_special_143_060",
+            "vo_special_143_061",
+            "vo_special_143_062",
+            "vo_special_143_063",
+            "vo_special_143_064",
+            "vo_special_143_065",
+            "vo_special_143_066",
+            "vo_special_143_067",
+            "vo_special_143_068",
+            "vo_special_143_069",
+            "vo_special_143_070",
+            "vo_special_143_071",
+            "vo_special_143_072",
+            "vo_special_143_073",
+            "vo_special_143_074",
+            "vo_special_143_075",
+            "vo_special_143_076",
+            "vo_special_143_077",
+            "vo_special_143_078",
+            "vo_special_title_143_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_143_058",
+            "vo_special_143_059",
+            "vo_special_143_060",
+            "vo_special_143_061",
+            "vo_special_143_062",
+            "vo_special_143_063",
+            "vo_special_143_064",
+            "vo_special_143_065",
+            "vo_special_143_066",
+            "vo_special_143_067",
+            "vo_special_143_068",
+            "vo_special_143_069",
+            "vo_special_143_070",
+            "vo_special_143_071",
+            "vo_special_143_072",
+            "vo_special_143_073",
+            "vo_special_143_074",
+            "vo_special_143_075",
+            "vo_special_143_076",
+            "vo_special_143_077",
+            "vo_special_143_078"
+          ],
+          "dialogue_voice_page_count": 21,
+          "static_preparation_sha256": "82a720d52a8959202705b58fc694c494c362f2d2adcb224efb2ae13518312948",
+          "root_case_actual_review_sha256": "08e7775b225fe088eca4d6ee8e948470385430d87ac4db2a548370df89ce9393",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014203",
+          "binding_sha256": "fade115112ee424b41a34f7fc0d2eeb89547b78b2b301779d6015aa310ee1181",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_144_079",
+              "canonical_audio_asset_id": "wav:6b863b91b70c8b059cb6c2fb6617ad7088094e9270c1b4588b735945527f7843",
+              "wav_sha256": "6b863b91b70c8b059cb6c2fb6617ad7088094e9270c1b4588b735945527f7843"
+            },
+            {
+              "cue": "vo_special_144_080",
+              "canonical_audio_asset_id": "wav:72ba9b82110f3e4502a794a23326df4b9129695adc42098f03bc7972753307c0",
+              "wav_sha256": "72ba9b82110f3e4502a794a23326df4b9129695adc42098f03bc7972753307c0"
+            },
+            {
+              "cue": "vo_special_144_081",
+              "canonical_audio_asset_id": "wav:a83827c827d18d6af18ee16171e9fe221c62d6f4c43d46abb25cb1eacf113755",
+              "wav_sha256": "a83827c827d18d6af18ee16171e9fe221c62d6f4c43d46abb25cb1eacf113755"
+            },
+            {
+              "cue": "vo_special_144_082",
+              "canonical_audio_asset_id": "wav:8e99b6234b7b4739fec980a31b1de16154f9c57effc73946df62050e475d3a8d",
+              "wav_sha256": "8e99b6234b7b4739fec980a31b1de16154f9c57effc73946df62050e475d3a8d"
+            },
+            {
+              "cue": "vo_special_144_083",
+              "canonical_audio_asset_id": "wav:6b26bb1d49903c1c08a617f96f8ee0255ad3dcd8677be3529184e384f74eefbe",
+              "wav_sha256": "6b26bb1d49903c1c08a617f96f8ee0255ad3dcd8677be3529184e384f74eefbe"
+            },
+            {
+              "cue": "vo_special_144_084",
+              "canonical_audio_asset_id": "wav:c373ee152f8891f16cb743c424672b44dae06a2e8058d0660ae4b57bea42da4d",
+              "wav_sha256": "c373ee152f8891f16cb743c424672b44dae06a2e8058d0660ae4b57bea42da4d"
+            },
+            {
+              "cue": "vo_special_144_085",
+              "canonical_audio_asset_id": "wav:6dd7efe157e22b249400d47b968aa1d8fd65d6ed62f5ad526fb15c0f45da4402",
+              "wav_sha256": "6dd7efe157e22b249400d47b968aa1d8fd65d6ed62f5ad526fb15c0f45da4402"
+            },
+            {
+              "cue": "vo_special_144_086",
+              "canonical_audio_asset_id": "wav:38f47cd3aa6f7a8b9dc455b9e7be22bb627eaa1bf5642cfd0ae2d1246364fb08",
+              "wav_sha256": "38f47cd3aa6f7a8b9dc455b9e7be22bb627eaa1bf5642cfd0ae2d1246364fb08"
+            },
+            {
+              "cue": "vo_special_144_087",
+              "canonical_audio_asset_id": "wav:a83fec700d6dbd8d1047326c07444b537210eff1969ae3674387deaec57308dc",
+              "wav_sha256": "a83fec700d6dbd8d1047326c07444b537210eff1969ae3674387deaec57308dc"
+            },
+            {
+              "cue": "vo_special_144_088",
+              "canonical_audio_asset_id": "wav:f7cf7b99ee8ab26dfd3629e4de20be1b3a3f14acd2e9f5f0dc0d64d21bda8ff4",
+              "wav_sha256": "f7cf7b99ee8ab26dfd3629e4de20be1b3a3f14acd2e9f5f0dc0d64d21bda8ff4"
+            },
+            {
+              "cue": "vo_special_144_089",
+              "canonical_audio_asset_id": "wav:c2ef7f8f2f7c00877af11c5fdecc93709acd24cccb7b3ab701f04b7fced5ad15",
+              "wav_sha256": "c2ef7f8f2f7c00877af11c5fdecc93709acd24cccb7b3ab701f04b7fced5ad15"
+            },
+            {
+              "cue": "vo_special_144_090",
+              "canonical_audio_asset_id": "wav:2765ba650bfed6a0670121b7e76d099836f7a2643036466a035b2266a5fe0d9a",
+              "wav_sha256": "2765ba650bfed6a0670121b7e76d099836f7a2643036466a035b2266a5fe0d9a"
+            },
+            {
+              "cue": "vo_special_144_091",
+              "canonical_audio_asset_id": "wav:33e51270d0f94ae8b36efe1108f9d455daae9ed7600a6242b679d0918c82cb73",
+              "wav_sha256": "33e51270d0f94ae8b36efe1108f9d455daae9ed7600a6242b679d0918c82cb73"
+            },
+            {
+              "cue": "vo_special_144_092",
+              "canonical_audio_asset_id": "wav:260552d0fad195474ae06f785be4ba18b4e294d4537cdb5894dd5b8e4a5404b5",
+              "wav_sha256": "260552d0fad195474ae06f785be4ba18b4e294d4537cdb5894dd5b8e4a5404b5"
+            },
+            {
+              "cue": "vo_special_144_093",
+              "canonical_audio_asset_id": "wav:f99a7d34711fbd16e20f1576c06a87cc15d8d075e66531f37328b9aad7178902",
+              "wav_sha256": "f99a7d34711fbd16e20f1576c06a87cc15d8d075e66531f37328b9aad7178902"
+            },
+            {
+              "cue": "vo_special_144_094",
+              "canonical_audio_asset_id": "wav:979c86e8297334050f042c5ff8f19f1e9e8a9caac128b13be3147697fdfbe26c",
+              "wav_sha256": "979c86e8297334050f042c5ff8f19f1e9e8a9caac128b13be3147697fdfbe26c"
+            },
+            {
+              "cue": "vo_special_144_095",
+              "canonical_audio_asset_id": "wav:d7d4583169e709339400e82c76a83cdcbfa346a32ef2910801e2df76942cdf88",
+              "wav_sha256": "d7d4583169e709339400e82c76a83cdcbfa346a32ef2910801e2df76942cdf88"
+            },
+            {
+              "cue": "vo_special_144_096",
+              "canonical_audio_asset_id": "wav:3d5507097f232ef09a4141f5d2e1d4137b5da7fc1334e6682df8cd61813d09c5",
+              "wav_sha256": "3d5507097f232ef09a4141f5d2e1d4137b5da7fc1334e6682df8cd61813d09c5"
+            },
+            {
+              "cue": "vo_special_144_097",
+              "canonical_audio_asset_id": "wav:2811b5d8af550d5b1abac78b0692756424df962e02387d8269f71861a2432fa9",
+              "wav_sha256": "2811b5d8af550d5b1abac78b0692756424df962e02387d8269f71861a2432fa9"
+            },
+            {
+              "cue": "vo_special_144_098",
+              "canonical_audio_asset_id": "wav:6c12fd7d55499ab4cfb88dc2de100657ca6a8ecf46a2e424a017c1877d131243",
+              "wav_sha256": "6c12fd7d55499ab4cfb88dc2de100657ca6a8ecf46a2e424a017c1877d131243"
+            },
+            {
+              "cue": "vo_special_144_099",
+              "canonical_audio_asset_id": "wav:a6d40c030788fcf804c784589aa2de8fb403e5fd916708aef998c36059f281d1",
+              "wav_sha256": "a6d40c030788fcf804c784589aa2de8fb403e5fd916708aef998c36059f281d1"
+            },
+            {
+              "cue": "vo_special_144_100",
+              "canonical_audio_asset_id": "wav:f0ddd0d10c1ec2b8b78769656200ba67b076d745d4b6d86a2d8ece28ad90c277",
+              "wav_sha256": "f0ddd0d10c1ec2b8b78769656200ba67b076d745d4b6d86a2d8ece28ad90c277"
+            },
+            {
+              "cue": "vo_special_144_101",
+              "canonical_audio_asset_id": "wav:913eab7ab2c30ef36c2cc0a1073053ed408fe53dc361cfd0f14d80c6f9147abf",
+              "wav_sha256": "913eab7ab2c30ef36c2cc0a1073053ed408fe53dc361cfd0f14d80c6f9147abf"
+            },
+            {
+              "cue": "vo_special_144_102",
+              "canonical_audio_asset_id": "wav:ae5aada6ea6fd939972be7fd0134c35e1409e8c6fa0b5309ba3aac530a60dcd4",
+              "wav_sha256": "ae5aada6ea6fd939972be7fd0134c35e1409e8c6fa0b5309ba3aac530a60dcd4"
+            },
+            {
+              "cue": "vo_special_144_103",
+              "canonical_audio_asset_id": "wav:8aecabe8ca9ed4fbe13d8767b4cd1dc6fa82ef98fdd85e4d7845e4216e3afb74",
+              "wav_sha256": "8aecabe8ca9ed4fbe13d8767b4cd1dc6fa82ef98fdd85e4d7845e4216e3afb74"
+            },
+            {
+              "cue": "vo_special_144_104",
+              "canonical_audio_asset_id": "wav:e2bef6a2c09bf4ddeb3e64f8cd0fcb740d6f51ebb7b5a49ce43f4ba10de4bb9b",
+              "wav_sha256": "e2bef6a2c09bf4ddeb3e64f8cd0fcb740d6f51ebb7b5a49ce43f4ba10de4bb9b"
+            },
+            {
+              "cue": "vo_special_title_144_00_01",
+              "canonical_audio_asset_id": "wav:1596650b410a49a444d774638d2481de226f9e38ee6345820652e3737d9fd533",
+              "wav_sha256": "1596650b410a49a444d774638d2481de226f9e38ee6345820652e3737d9fd533"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_144_079",
+            "vo_special_144_080",
+            "vo_special_144_081",
+            "vo_special_144_082",
+            "vo_special_144_083",
+            "vo_special_144_084",
+            "vo_special_144_085",
+            "vo_special_144_086",
+            "vo_special_144_087",
+            "vo_special_144_088",
+            "vo_special_144_089",
+            "vo_special_144_090",
+            "vo_special_144_091",
+            "vo_special_144_092",
+            "vo_special_144_093",
+            "vo_special_144_094",
+            "vo_special_144_095",
+            "vo_special_144_096",
+            "vo_special_144_097",
+            "vo_special_144_098",
+            "vo_special_144_099",
+            "vo_special_144_100",
+            "vo_special_144_101",
+            "vo_special_144_102",
+            "vo_special_144_103",
+            "vo_special_144_104",
+            "vo_special_title_144_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_144_079",
+            "vo_special_144_080",
+            "vo_special_144_081",
+            "vo_special_144_082",
+            "vo_special_144_083",
+            "vo_special_144_084",
+            "vo_special_144_085",
+            "vo_special_144_086",
+            "vo_special_144_087",
+            "vo_special_144_088",
+            "vo_special_144_089",
+            "vo_special_144_090",
+            "vo_special_144_091",
+            "vo_special_144_092",
+            "vo_special_144_093",
+            "vo_special_144_094",
+            "vo_special_144_095",
+            "vo_special_144_096",
+            "vo_special_144_097",
+            "vo_special_144_098",
+            "vo_special_144_099",
+            "vo_special_144_100",
+            "vo_special_144_101",
+            "vo_special_144_102",
+            "vo_special_144_103",
+            "vo_special_144_104"
+          ],
+          "dialogue_voice_page_count": 26,
+          "static_preparation_sha256": "f9803becbd321a63c464463ea71a8a6511550bd7c9fd0e965aa2053abfc572d8",
+          "root_case_actual_review_sha256": "69c6ba0d25346c0030272a8227661caf48768b0992726437461b741e6004c4f0",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014204",
+          "binding_sha256": "0b9dd7ddfb30ef15506d3050cede6981e59ece2448cccac1382bd593bb4eac21",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_145_105",
+              "canonical_audio_asset_id": "wav:356ce57b240949b587b88ee93055f6fb4fe9a411d2500a08fdd998a4c7540402",
+              "wav_sha256": "356ce57b240949b587b88ee93055f6fb4fe9a411d2500a08fdd998a4c7540402"
+            },
+            {
+              "cue": "vo_special_145_106",
+              "canonical_audio_asset_id": "wav:e190e29557c003afde9b6bd6a5407c109e7bfc49c4bb080ef5a9cfaa6fd4d036",
+              "wav_sha256": "e190e29557c003afde9b6bd6a5407c109e7bfc49c4bb080ef5a9cfaa6fd4d036"
+            },
+            {
+              "cue": "vo_special_145_107",
+              "canonical_audio_asset_id": "wav:d88234bee43183bfdfa39cb7ef06ec956934e9184bfd7098fb9787195243da3a",
+              "wav_sha256": "d88234bee43183bfdfa39cb7ef06ec956934e9184bfd7098fb9787195243da3a"
+            },
+            {
+              "cue": "vo_special_145_108",
+              "canonical_audio_asset_id": "wav:720849b9252fd5271b9f54ec68741145494d4282d6280c0c32704786fffd1355",
+              "wav_sha256": "720849b9252fd5271b9f54ec68741145494d4282d6280c0c32704786fffd1355"
+            },
+            {
+              "cue": "vo_special_145_109",
+              "canonical_audio_asset_id": "wav:e7ac374c499b2671bc94896fe654f70aefdd173c623dba25e4165f6b718a6325",
+              "wav_sha256": "e7ac374c499b2671bc94896fe654f70aefdd173c623dba25e4165f6b718a6325"
+            },
+            {
+              "cue": "vo_special_145_110",
+              "canonical_audio_asset_id": "wav:db89a92969eb1d85acfc860056710409d773c1e5ed47a931c68b7d9099cf90e8",
+              "wav_sha256": "db89a92969eb1d85acfc860056710409d773c1e5ed47a931c68b7d9099cf90e8"
+            },
+            {
+              "cue": "vo_special_145_111",
+              "canonical_audio_asset_id": "wav:24be1bce8abcf66ebb1cb85f15785c9e75bace3f7397219b5e60e2a1bcd334c6",
+              "wav_sha256": "24be1bce8abcf66ebb1cb85f15785c9e75bace3f7397219b5e60e2a1bcd334c6"
+            },
+            {
+              "cue": "vo_special_145_112",
+              "canonical_audio_asset_id": "wav:cab696b0e7795affdf45ef995b3c851d4345dee84fe4c8a1c549bba999e3f9b1",
+              "wav_sha256": "cab696b0e7795affdf45ef995b3c851d4345dee84fe4c8a1c549bba999e3f9b1"
+            },
+            {
+              "cue": "vo_special_145_113",
+              "canonical_audio_asset_id": "wav:d25c3d0202b46867f1a1ffbcffcf82b22589f2854c0c26dcacc064679737385c",
+              "wav_sha256": "d25c3d0202b46867f1a1ffbcffcf82b22589f2854c0c26dcacc064679737385c"
+            },
+            {
+              "cue": "vo_special_145_114",
+              "canonical_audio_asset_id": "wav:96d036141ed3843a0917433b0530567238bbbad6cf75c01bf0352ee6b0de80fa",
+              "wav_sha256": "96d036141ed3843a0917433b0530567238bbbad6cf75c01bf0352ee6b0de80fa"
+            },
+            {
+              "cue": "vo_special_145_115",
+              "canonical_audio_asset_id": "wav:218d3457dea2d7629e9d2e1213b2c2720c7018dd785bc0bf247f09f250aa0cf6",
+              "wav_sha256": "218d3457dea2d7629e9d2e1213b2c2720c7018dd785bc0bf247f09f250aa0cf6"
+            },
+            {
+              "cue": "vo_special_145_116",
+              "canonical_audio_asset_id": "wav:4f04ff737b434bb0e38fdf134c2de2ca3d20c626181c781ab3fc7be118756ade",
+              "wav_sha256": "4f04ff737b434bb0e38fdf134c2de2ca3d20c626181c781ab3fc7be118756ade"
+            },
+            {
+              "cue": "vo_special_145_117",
+              "canonical_audio_asset_id": "wav:7033e92614c2899e2a5e59b30d6c42bd7504e0d8c53b7b7e5913dc79342a167b",
+              "wav_sha256": "7033e92614c2899e2a5e59b30d6c42bd7504e0d8c53b7b7e5913dc79342a167b"
+            },
+            {
+              "cue": "vo_special_145_118",
+              "canonical_audio_asset_id": "wav:e6f0b1e996976ea2aa476a5b01c9d9ca3e6871d10133d443bf4104304ea5896f",
+              "wav_sha256": "e6f0b1e996976ea2aa476a5b01c9d9ca3e6871d10133d443bf4104304ea5896f"
+            },
+            {
+              "cue": "vo_special_145_119",
+              "canonical_audio_asset_id": "wav:d383300c3e17a8cb1c514f6af1bf047734dc055f0852bb82dea94f815b4cfd4f",
+              "wav_sha256": "d383300c3e17a8cb1c514f6af1bf047734dc055f0852bb82dea94f815b4cfd4f"
+            },
+            {
+              "cue": "vo_special_145_120",
+              "canonical_audio_asset_id": "wav:73125ccc98a3d2bfba5a8495ab79ff16a448eb4b8e91f599658203081b8fbb8a",
+              "wav_sha256": "73125ccc98a3d2bfba5a8495ab79ff16a448eb4b8e91f599658203081b8fbb8a"
+            },
+            {
+              "cue": "vo_special_145_121",
+              "canonical_audio_asset_id": "wav:d259fa4afce4204b0712d0bbff9b7dcb959975fde6a39571c09ee3176077d9ae",
+              "wav_sha256": "d259fa4afce4204b0712d0bbff9b7dcb959975fde6a39571c09ee3176077d9ae"
+            },
+            {
+              "cue": "vo_special_145_122",
+              "canonical_audio_asset_id": "wav:f7c199b709f8fc0e58b6c97377eca8421b2754e829e02faaae8e63ba0e7c1ac5",
+              "wav_sha256": "f7c199b709f8fc0e58b6c97377eca8421b2754e829e02faaae8e63ba0e7c1ac5"
+            },
+            {
+              "cue": "vo_special_145_123",
+              "canonical_audio_asset_id": "wav:3418892f89e3bcdc8ea407041e8355a8f3dbb1bf4aaeb379d7aac6d388bbe5f0",
+              "wav_sha256": "3418892f89e3bcdc8ea407041e8355a8f3dbb1bf4aaeb379d7aac6d388bbe5f0"
+            },
+            {
+              "cue": "vo_special_145_124",
+              "canonical_audio_asset_id": "wav:5f8167daec0be9c9fef686e2aac58f9ea654e5ca267e03fb00e96b5190a52194",
+              "wav_sha256": "5f8167daec0be9c9fef686e2aac58f9ea654e5ca267e03fb00e96b5190a52194"
+            },
+            {
+              "cue": "vo_special_145_125",
+              "canonical_audio_asset_id": "wav:4b7fd4e06ad45257ce01d1a58b1b6d22bf7e8ff2823b948c26b546eea9e51313",
+              "wav_sha256": "4b7fd4e06ad45257ce01d1a58b1b6d22bf7e8ff2823b948c26b546eea9e51313"
+            },
+            {
+              "cue": "vo_special_145_126",
+              "canonical_audio_asset_id": "wav:99702bde4e1d7f200c29f892d7162ecb12b6bca7daf08987bb8223f94510e5fd",
+              "wav_sha256": "99702bde4e1d7f200c29f892d7162ecb12b6bca7daf08987bb8223f94510e5fd"
+            },
+            {
+              "cue": "vo_special_145_127",
+              "canonical_audio_asset_id": "wav:6167b3b56d39c1d6b16fc86622b81146eceeb11927ee552e315bb43c6d66785e",
+              "wav_sha256": "6167b3b56d39c1d6b16fc86622b81146eceeb11927ee552e315bb43c6d66785e"
+            },
+            {
+              "cue": "vo_special_145_128",
+              "canonical_audio_asset_id": "wav:03518cd23f40b711db50f9fcfc462934c939e94b6de036c8b478f9b34bc854af",
+              "wav_sha256": "03518cd23f40b711db50f9fcfc462934c939e94b6de036c8b478f9b34bc854af"
+            },
+            {
+              "cue": "vo_special_145_129",
+              "canonical_audio_asset_id": "wav:d0f4ca57afc856de90104116b126ca9c9fde4353646248ca806653bfaf075a58",
+              "wav_sha256": "d0f4ca57afc856de90104116b126ca9c9fde4353646248ca806653bfaf075a58"
+            },
+            {
+              "cue": "vo_special_145_130",
+              "canonical_audio_asset_id": "wav:6dc971782ea68fddf577af104bcbea551e7fc21b6cdf2685834c1aca623cd827",
+              "wav_sha256": "6dc971782ea68fddf577af104bcbea551e7fc21b6cdf2685834c1aca623cd827"
+            },
+            {
+              "cue": "vo_special_145_131",
+              "canonical_audio_asset_id": "wav:20e66e7b8c13bffe6840031b0de55887e330ea5bb962f5db7fddb1b8accf5ff5",
+              "wav_sha256": "20e66e7b8c13bffe6840031b0de55887e330ea5bb962f5db7fddb1b8accf5ff5"
+            },
+            {
+              "cue": "vo_special_145_132",
+              "canonical_audio_asset_id": "wav:2b8b1cf593e0aa0b4d8fbae928d222910ccf3c73a0c0de1d6cf766d7620a7286",
+              "wav_sha256": "2b8b1cf593e0aa0b4d8fbae928d222910ccf3c73a0c0de1d6cf766d7620a7286"
+            },
+            {
+              "cue": "vo_special_title_145_00_01",
+              "canonical_audio_asset_id": "wav:ce772bf60b998508db81f0ccc073b78ada013be0833b96c5621effaac5e460cc",
+              "wav_sha256": "ce772bf60b998508db81f0ccc073b78ada013be0833b96c5621effaac5e460cc"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_145_105",
+            "vo_special_145_106",
+            "vo_special_145_107",
+            "vo_special_145_108",
+            "vo_special_145_109",
+            "vo_special_145_110",
+            "vo_special_145_111",
+            "vo_special_145_112",
+            "vo_special_145_113",
+            "vo_special_145_114",
+            "vo_special_145_115",
+            "vo_special_145_116",
+            "vo_special_145_117",
+            "vo_special_145_118",
+            "vo_special_145_119",
+            "vo_special_145_120",
+            "vo_special_145_121",
+            "vo_special_145_122",
+            "vo_special_145_123",
+            "vo_special_145_124",
+            "vo_special_145_125",
+            "vo_special_145_126",
+            "vo_special_145_127",
+            "vo_special_145_128",
+            "vo_special_145_129",
+            "vo_special_145_130",
+            "vo_special_145_131",
+            "vo_special_145_132",
+            "vo_special_title_145_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_145_105",
+            "vo_special_145_106",
+            "vo_special_145_107",
+            "vo_special_145_108",
+            "vo_special_145_109",
+            "vo_special_145_110",
+            "vo_special_145_111",
+            "vo_special_145_112",
+            "vo_special_145_113",
+            "vo_special_145_114",
+            "vo_special_145_115",
+            "vo_special_145_116",
+            "vo_special_145_117",
+            "vo_special_145_118",
+            "vo_special_145_119",
+            "vo_special_145_120",
+            "vo_special_145_121",
+            "vo_special_145_122",
+            "vo_special_145_123",
+            "vo_special_145_124",
+            "vo_special_145_125",
+            "vo_special_145_126",
+            "vo_special_145_127",
+            "vo_special_145_128",
+            "vo_special_145_129",
+            "vo_special_145_130",
+            "vo_special_145_131",
+            "vo_special_145_132"
+          ],
+          "dialogue_voice_page_count": 28,
+          "static_preparation_sha256": "bd2d6d47d6fa68b60131c006b9216e43676f0d841bef7f9530db37fc44795530",
+          "root_case_actual_review_sha256": "cd0c4195cdf6fe02e95cedd048fe31cb35e46dd2583c9442d430e47a9cf24124",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014205",
+          "binding_sha256": "00089a4e9c7f78503bf24ab716f1e8f3eb9918eda0736505c06ceef4d2292afb",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_146_133",
+              "canonical_audio_asset_id": "wav:f15bf8dbadcb23767239f2cb2488755415c5da11f5146302056ae8dc0997c733",
+              "wav_sha256": "f15bf8dbadcb23767239f2cb2488755415c5da11f5146302056ae8dc0997c733"
+            },
+            {
+              "cue": "vo_special_146_134",
+              "canonical_audio_asset_id": "wav:5346c9873665fe0961023a22ef66ffdd18f0dd118121b6b824c5bb4d454a7cfb",
+              "wav_sha256": "5346c9873665fe0961023a22ef66ffdd18f0dd118121b6b824c5bb4d454a7cfb"
+            },
+            {
+              "cue": "vo_special_146_135",
+              "canonical_audio_asset_id": "wav:f09953780d28f280d178e72bf49810d1972a09d9cb9b7f3353d9b9fd4bed6733",
+              "wav_sha256": "f09953780d28f280d178e72bf49810d1972a09d9cb9b7f3353d9b9fd4bed6733"
+            },
+            {
+              "cue": "vo_special_146_136",
+              "canonical_audio_asset_id": "wav:c5505d82099261838fecd604e785471f3bd68b1c3336be72a8340770dd3e07e0",
+              "wav_sha256": "c5505d82099261838fecd604e785471f3bd68b1c3336be72a8340770dd3e07e0"
+            },
+            {
+              "cue": "vo_special_146_137",
+              "canonical_audio_asset_id": "wav:1235a74dd6faa6e827c26489e1992b1568e8d6e2467ac0f737c8ee3f81d79478",
+              "wav_sha256": "1235a74dd6faa6e827c26489e1992b1568e8d6e2467ac0f737c8ee3f81d79478"
+            },
+            {
+              "cue": "vo_special_146_138",
+              "canonical_audio_asset_id": "wav:5908f8c0664d1b1e023c7226306bf8a973717f2f6b5b95b47861e7ecb0fb8716",
+              "wav_sha256": "5908f8c0664d1b1e023c7226306bf8a973717f2f6b5b95b47861e7ecb0fb8716"
+            },
+            {
+              "cue": "vo_special_146_139",
+              "canonical_audio_asset_id": "wav:c8fa223cd4b487ed34935c5e5cf51df142bfeab2005404b175f5a3571a0150e6",
+              "wav_sha256": "c8fa223cd4b487ed34935c5e5cf51df142bfeab2005404b175f5a3571a0150e6"
+            },
+            {
+              "cue": "vo_special_146_140",
+              "canonical_audio_asset_id": "wav:54420736f6aa12e4cf79d8e25ce737b47f22fc0b387a2a9c3262f8efebee4450",
+              "wav_sha256": "54420736f6aa12e4cf79d8e25ce737b47f22fc0b387a2a9c3262f8efebee4450"
+            },
+            {
+              "cue": "vo_special_146_141",
+              "canonical_audio_asset_id": "wav:37f1df34d742e1000a844e43a20b0984f97cf69c6bc8559e17f28ba937261942",
+              "wav_sha256": "37f1df34d742e1000a844e43a20b0984f97cf69c6bc8559e17f28ba937261942"
+            },
+            {
+              "cue": "vo_special_146_142",
+              "canonical_audio_asset_id": "wav:5a04393d183911ae368a69a72d7469b03907ae62a5e318d590c1c39c9076c789",
+              "wav_sha256": "5a04393d183911ae368a69a72d7469b03907ae62a5e318d590c1c39c9076c789"
+            },
+            {
+              "cue": "vo_special_146_143",
+              "canonical_audio_asset_id": "wav:45b89fd00518e08b8aacd1359ce4a50370507db9216f33c5fcb952ffd620e0d6",
+              "wav_sha256": "45b89fd00518e08b8aacd1359ce4a50370507db9216f33c5fcb952ffd620e0d6"
+            },
+            {
+              "cue": "vo_special_146_144",
+              "canonical_audio_asset_id": "wav:28236f602b80ef370f37d8e77c5d042f906768a1808b658d16bc811105687895",
+              "wav_sha256": "28236f602b80ef370f37d8e77c5d042f906768a1808b658d16bc811105687895"
+            },
+            {
+              "cue": "vo_special_146_145",
+              "canonical_audio_asset_id": "wav:31a0d631c9b1fae28fa60b0b7521b2af490f5006b950711861bbedc5f738be0c",
+              "wav_sha256": "31a0d631c9b1fae28fa60b0b7521b2af490f5006b950711861bbedc5f738be0c"
+            },
+            {
+              "cue": "vo_special_146_146",
+              "canonical_audio_asset_id": "wav:2d49f328abdacfef3cc42c9aeee27f7445b7e1d90c92e8b4009ac0f53cc8e9ed",
+              "wav_sha256": "2d49f328abdacfef3cc42c9aeee27f7445b7e1d90c92e8b4009ac0f53cc8e9ed"
+            },
+            {
+              "cue": "vo_special_146_147",
+              "canonical_audio_asset_id": "wav:4be575507f140187ca4aae76f98f7e1f2a59b8a4bad54dacc6f4d7e215757665",
+              "wav_sha256": "4be575507f140187ca4aae76f98f7e1f2a59b8a4bad54dacc6f4d7e215757665"
+            },
+            {
+              "cue": "vo_special_146_148",
+              "canonical_audio_asset_id": "wav:5e5164db2a7bb7dc4fe0174cdca9c384d065e12a784a2f5d49c8c0ffc37b5400",
+              "wav_sha256": "5e5164db2a7bb7dc4fe0174cdca9c384d065e12a784a2f5d49c8c0ffc37b5400"
+            },
+            {
+              "cue": "vo_special_146_149",
+              "canonical_audio_asset_id": "wav:784dee5b9eb51a6ad77ed33199ecb57338473e17692e3cd79fb73b98cd50de3f",
+              "wav_sha256": "784dee5b9eb51a6ad77ed33199ecb57338473e17692e3cd79fb73b98cd50de3f"
+            },
+            {
+              "cue": "vo_special_146_150",
+              "canonical_audio_asset_id": "wav:30b670f3cb9f03805cfcff8d508421f3c7f3b73e772d7652726274cf8e1ae6e1",
+              "wav_sha256": "30b670f3cb9f03805cfcff8d508421f3c7f3b73e772d7652726274cf8e1ae6e1"
+            },
+            {
+              "cue": "vo_special_146_151",
+              "canonical_audio_asset_id": "wav:b4ea148338535d5acf8917f2194e0ead6f7a88a6b5bb0057ab2bf085cecd935e",
+              "wav_sha256": "b4ea148338535d5acf8917f2194e0ead6f7a88a6b5bb0057ab2bf085cecd935e"
+            },
+            {
+              "cue": "vo_special_146_152",
+              "canonical_audio_asset_id": "wav:318e467d3c0578e4962ec4a682bfbf951e4878eeb41669f455318bfb96ec25a0",
+              "wav_sha256": "318e467d3c0578e4962ec4a682bfbf951e4878eeb41669f455318bfb96ec25a0"
+            },
+            {
+              "cue": "vo_special_146_153",
+              "canonical_audio_asset_id": "wav:fffd41a6f19b1f863a7a4fb4a034c796d0eed949a388eecedddf8232ab51e846",
+              "wav_sha256": "fffd41a6f19b1f863a7a4fb4a034c796d0eed949a388eecedddf8232ab51e846"
+            },
+            {
+              "cue": "vo_special_146_155",
+              "canonical_audio_asset_id": "wav:8ce794a0b6437db6b43ab7971b3b13ed227d2fae8acc2fdcc7d7c4821b473cc0",
+              "wav_sha256": "8ce794a0b6437db6b43ab7971b3b13ed227d2fae8acc2fdcc7d7c4821b473cc0"
+            },
+            {
+              "cue": "vo_special_146_156",
+              "canonical_audio_asset_id": "wav:875a77c7b172dd3f54eacb01b3bda30d9e8ced5c7d4beefc16474077dea59a56",
+              "wav_sha256": "875a77c7b172dd3f54eacb01b3bda30d9e8ced5c7d4beefc16474077dea59a56"
+            },
+            {
+              "cue": "vo_special_146_157",
+              "canonical_audio_asset_id": "wav:cc9e375b3b6c690602fb1b56f4ee7700fa35e5dbaa0bd604a7f73c54ca41d534",
+              "wav_sha256": "cc9e375b3b6c690602fb1b56f4ee7700fa35e5dbaa0bd604a7f73c54ca41d534"
+            },
+            {
+              "cue": "vo_special_146_158",
+              "canonical_audio_asset_id": "wav:cc32af2837dc1385559daad8016bba69c118055de42e9311379e472f72f03305",
+              "wav_sha256": "cc32af2837dc1385559daad8016bba69c118055de42e9311379e472f72f03305"
+            },
+            {
+              "cue": "vo_special_146_159",
+              "canonical_audio_asset_id": "wav:2321a00698a678fd63a2ff5c26448da5bc5ff93cf9eed66911582ca9ca621489",
+              "wav_sha256": "2321a00698a678fd63a2ff5c26448da5bc5ff93cf9eed66911582ca9ca621489"
+            },
+            {
+              "cue": "vo_special_146_160",
+              "canonical_audio_asset_id": "wav:fbb2f89deeb06aed8f3d6acb4497202ac913e917895d393ca5c54ad1ed3a6892",
+              "wav_sha256": "fbb2f89deeb06aed8f3d6acb4497202ac913e917895d393ca5c54ad1ed3a6892"
+            },
+            {
+              "cue": "vo_special_146_161",
+              "canonical_audio_asset_id": "wav:eb3eb4374f15bd1228dc989b404e4ae503812d51273c975bdc3e3b0665d613b7",
+              "wav_sha256": "eb3eb4374f15bd1228dc989b404e4ae503812d51273c975bdc3e3b0665d613b7"
+            },
+            {
+              "cue": "vo_special_146_162",
+              "canonical_audio_asset_id": "wav:f3ee7d2c3209dbd80d1f2254f86097c24daf847ad91ac45c2555bb585a84169f",
+              "wav_sha256": "f3ee7d2c3209dbd80d1f2254f86097c24daf847ad91ac45c2555bb585a84169f"
+            },
+            {
+              "cue": "vo_special_146_163",
+              "canonical_audio_asset_id": "wav:4ff03935d81163b8b1c55cd98dcc37c8915f4e6cc147195e4934027fed8df6ed",
+              "wav_sha256": "4ff03935d81163b8b1c55cd98dcc37c8915f4e6cc147195e4934027fed8df6ed"
+            },
+            {
+              "cue": "vo_special_146_164",
+              "canonical_audio_asset_id": "wav:8af9521d5834683d747a6d07f868b456b1084c5c36d15569d70796d7e8467675",
+              "wav_sha256": "8af9521d5834683d747a6d07f868b456b1084c5c36d15569d70796d7e8467675"
+            },
+            {
+              "cue": "vo_special_146_165",
+              "canonical_audio_asset_id": "wav:e30b0a04735618f57aa5b62006b3400b0d0199fe58e7a5f1f456ed6cc9766461",
+              "wav_sha256": "e30b0a04735618f57aa5b62006b3400b0d0199fe58e7a5f1f456ed6cc9766461"
+            },
+            {
+              "cue": "vo_special_146_166",
+              "canonical_audio_asset_id": "wav:8dc05fa19fd287918036498b97e9588279309cdb5d5905610998e5dd0d4e8390",
+              "wav_sha256": "8dc05fa19fd287918036498b97e9588279309cdb5d5905610998e5dd0d4e8390"
+            },
+            {
+              "cue": "vo_special_146_167",
+              "canonical_audio_asset_id": "wav:50d940cbab3abc6ea2ec1ff964141b73d2aed0a0c3937dc5b460c64a2f92ea34",
+              "wav_sha256": "50d940cbab3abc6ea2ec1ff964141b73d2aed0a0c3937dc5b460c64a2f92ea34"
+            },
+            {
+              "cue": "vo_special_146_168",
+              "canonical_audio_asset_id": "wav:a0b727bb3fceca6a1b7524e60d3342d7561235e1fb69e65b300f1ad773edc949",
+              "wav_sha256": "a0b727bb3fceca6a1b7524e60d3342d7561235e1fb69e65b300f1ad773edc949"
+            },
+            {
+              "cue": "vo_special_146_169",
+              "canonical_audio_asset_id": "wav:53943fbc3cd2aeff72a660ccbbeca98f29ad516faa8bc3ce91cd83bbc0a1958f",
+              "wav_sha256": "53943fbc3cd2aeff72a660ccbbeca98f29ad516faa8bc3ce91cd83bbc0a1958f"
+            },
+            {
+              "cue": "vo_special_146_170",
+              "canonical_audio_asset_id": "wav:e8f2749a2fb308f8f9051c51e3251cc3a707d9d3f82438ff533244e969610aea",
+              "wav_sha256": "e8f2749a2fb308f8f9051c51e3251cc3a707d9d3f82438ff533244e969610aea"
+            },
+            {
+              "cue": "vo_special_146_171",
+              "canonical_audio_asset_id": "wav:c99815631f3314e6a78e012e365678451e85a77a871cc9e31eb650e1282c4859",
+              "wav_sha256": "c99815631f3314e6a78e012e365678451e85a77a871cc9e31eb650e1282c4859"
+            },
+            {
+              "cue": "vo_special_title_146_00_01",
+              "canonical_audio_asset_id": "wav:068a4b8737f874a43b9845a2218627af160ad453d786387b43a15b59b94e2f40",
+              "wav_sha256": "068a4b8737f874a43b9845a2218627af160ad453d786387b43a15b59b94e2f40"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_146_133",
+            "vo_special_146_134",
+            "vo_special_146_135",
+            "vo_special_146_136",
+            "vo_special_146_137",
+            "vo_special_146_138",
+            "vo_special_146_139",
+            "vo_special_146_140",
+            "vo_special_146_141",
+            "vo_special_146_142",
+            "vo_special_146_143",
+            "vo_special_146_144",
+            "vo_special_146_145",
+            "vo_special_146_146",
+            "vo_special_146_147",
+            "vo_special_146_148",
+            "vo_special_146_149",
+            "vo_special_146_150",
+            "vo_special_146_151",
+            "vo_special_146_152",
+            "vo_special_146_153",
+            "vo_special_146_155",
+            "vo_special_146_156",
+            "vo_special_146_157",
+            "vo_special_146_158",
+            "vo_special_146_159",
+            "vo_special_146_160",
+            "vo_special_146_161",
+            "vo_special_146_162",
+            "vo_special_146_163",
+            "vo_special_146_164",
+            "vo_special_146_165",
+            "vo_special_146_166",
+            "vo_special_146_167",
+            "vo_special_146_168",
+            "vo_special_146_169",
+            "vo_special_146_170",
+            "vo_special_146_171",
+            "vo_special_title_146_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_146_133",
+            "vo_special_146_134",
+            "vo_special_146_135",
+            "vo_special_146_136",
+            "vo_special_146_137",
+            "vo_special_146_138",
+            "vo_special_146_139",
+            "vo_special_146_140",
+            "vo_special_146_141",
+            "vo_special_146_142",
+            "vo_special_146_143",
+            "vo_special_146_144",
+            "vo_special_146_145",
+            "vo_special_146_146",
+            "vo_special_146_147",
+            "vo_special_146_148",
+            "vo_special_146_149",
+            "vo_special_146_150",
+            "vo_special_146_151",
+            "vo_special_146_152",
+            "vo_special_146_153",
+            "vo_special_146_155",
+            "vo_special_146_156",
+            "vo_special_146_157",
+            "vo_special_146_158",
+            "vo_special_146_159",
+            "vo_special_146_160",
+            "vo_special_146_161",
+            "vo_special_146_162",
+            "vo_special_146_163",
+            "vo_special_146_164",
+            "vo_special_146_165",
+            "vo_special_146_166",
+            "vo_special_146_167",
+            "vo_special_146_168",
+            "vo_special_146_169",
+            "vo_special_146_170",
+            "vo_special_146_171"
+          ],
+          "dialogue_voice_page_count": 38,
+          "static_preparation_sha256": "79bce3e014494c37f51c463d4beb846a88f8fe20e2ac97144d8c88e2cb78ce42",
+          "root_case_actual_review_sha256": "638652ad6bcee50a11b3013cdb5a8a02bf7cce78e3e773135747d128d5569558",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014701",
+          "binding_sha256": "dd68011de4a58a88e76a8c5093bbefd35c3ecfbd5c65235417ec8f1705dd5e71",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_147_001",
+              "canonical_audio_asset_id": "wav:7ca2d5011b11a868f77b1b5ba7438a8997cd0cc028694d9b7bd2b3153d8fc906",
+              "wav_sha256": "7ca2d5011b11a868f77b1b5ba7438a8997cd0cc028694d9b7bd2b3153d8fc906"
+            },
+            {
+              "cue": "vo_special_147_002",
+              "canonical_audio_asset_id": "wav:4b8797cbc744259058071004637152ca6259f80e5b81ec0a847aae460fcf2e69",
+              "wav_sha256": "4b8797cbc744259058071004637152ca6259f80e5b81ec0a847aae460fcf2e69"
+            },
+            {
+              "cue": "vo_special_147_003",
+              "canonical_audio_asset_id": "wav:d8c40c7dadd9679b823624d52b492311d022dc5727a2006448407c27d0fc0f08",
+              "wav_sha256": "d8c40c7dadd9679b823624d52b492311d022dc5727a2006448407c27d0fc0f08"
+            },
+            {
+              "cue": "vo_special_147_004",
+              "canonical_audio_asset_id": "wav:bae1e602565cbdcc34d951d3ab0055c6316252527be9ce173f409bd58f8d7b6c",
+              "wav_sha256": "bae1e602565cbdcc34d951d3ab0055c6316252527be9ce173f409bd58f8d7b6c"
+            },
+            {
+              "cue": "vo_special_147_005",
+              "canonical_audio_asset_id": "wav:1afbcaed7e5d665415df49af5ef37f4aade3b1cf1a8114230799b4fe6f2ff812",
+              "wav_sha256": "1afbcaed7e5d665415df49af5ef37f4aade3b1cf1a8114230799b4fe6f2ff812"
+            },
+            {
+              "cue": "vo_special_147_006",
+              "canonical_audio_asset_id": "wav:aaa4069de9f676bbada7b8b919d16b4be0c297b76a9677ab2498cb3a2bbb2ea8",
+              "wav_sha256": "aaa4069de9f676bbada7b8b919d16b4be0c297b76a9677ab2498cb3a2bbb2ea8"
+            },
+            {
+              "cue": "vo_special_147_007",
+              "canonical_audio_asset_id": "wav:873223b7e8884979c01a3855a226c02fc9b56f96762468302e6febc81c4d72e0",
+              "wav_sha256": "873223b7e8884979c01a3855a226c02fc9b56f96762468302e6febc81c4d72e0"
+            },
+            {
+              "cue": "vo_special_147_008",
+              "canonical_audio_asset_id": "wav:e8189464cbb30aed85fc5c65807ed5c790c12fbf63c2a09443b29754995d9b37",
+              "wav_sha256": "e8189464cbb30aed85fc5c65807ed5c790c12fbf63c2a09443b29754995d9b37"
+            },
+            {
+              "cue": "vo_special_147_009",
+              "canonical_audio_asset_id": "wav:81458001429beb9840a28934b56994e87c96109b5de0d2f632caedab24ea9468",
+              "wav_sha256": "81458001429beb9840a28934b56994e87c96109b5de0d2f632caedab24ea9468"
+            },
+            {
+              "cue": "vo_special_147_010",
+              "canonical_audio_asset_id": "wav:6b00ce0a257e302e590ec29246192cfea14ca7bdeabc113254ee953490cca3a7",
+              "wav_sha256": "6b00ce0a257e302e590ec29246192cfea14ca7bdeabc113254ee953490cca3a7"
+            },
+            {
+              "cue": "vo_special_147_011",
+              "canonical_audio_asset_id": "wav:9b2e29b4e5640741c629cca932d00980cb569c06077e8780d4adcc71c453e65e",
+              "wav_sha256": "9b2e29b4e5640741c629cca932d00980cb569c06077e8780d4adcc71c453e65e"
+            },
+            {
+              "cue": "vo_special_147_012",
+              "canonical_audio_asset_id": "wav:53eecb97d84242c79f0fcfa9e0146dda963256240e818953e8733885c14adf55",
+              "wav_sha256": "53eecb97d84242c79f0fcfa9e0146dda963256240e818953e8733885c14adf55"
+            },
+            {
+              "cue": "vo_special_147_013",
+              "canonical_audio_asset_id": "wav:9e9063a352f9b4ff90716b6a2e29017a22d5fb1b81e3624b2c900e4feff397ab",
+              "wav_sha256": "9e9063a352f9b4ff90716b6a2e29017a22d5fb1b81e3624b2c900e4feff397ab"
+            },
+            {
+              "cue": "vo_special_147_014",
+              "canonical_audio_asset_id": "wav:2916f0c1f9477d87adcc5ade5fb9382779cb91edee147e0079cfca07ee6b7d1b",
+              "wav_sha256": "2916f0c1f9477d87adcc5ade5fb9382779cb91edee147e0079cfca07ee6b7d1b"
+            },
+            {
+              "cue": "vo_special_147_015",
+              "canonical_audio_asset_id": "wav:94cf529cce3fdcc6676f64ec93692d05da0116d5b2923dde6fe3262c60307e04",
+              "wav_sha256": "94cf529cce3fdcc6676f64ec93692d05da0116d5b2923dde6fe3262c60307e04"
+            },
+            {
+              "cue": "vo_special_147_016",
+              "canonical_audio_asset_id": "wav:f975eeb9bb1de2c1f754cea9923f45a3ed8a71edb9aa3afea5a5a243e9a4424d",
+              "wav_sha256": "f975eeb9bb1de2c1f754cea9923f45a3ed8a71edb9aa3afea5a5a243e9a4424d"
+            },
+            {
+              "cue": "vo_special_147_017",
+              "canonical_audio_asset_id": "wav:3cb474eb596042a6d477af638e53565e249931425ccbfcb301147045e24c6f47",
+              "wav_sha256": "3cb474eb596042a6d477af638e53565e249931425ccbfcb301147045e24c6f47"
+            },
+            {
+              "cue": "vo_special_147_018",
+              "canonical_audio_asset_id": "wav:6769d6e5cb6a661157d8cfeb42f0b4f73e995cec5585aee65467b0d0f5d7a2ed",
+              "wav_sha256": "6769d6e5cb6a661157d8cfeb42f0b4f73e995cec5585aee65467b0d0f5d7a2ed"
+            },
+            {
+              "cue": "vo_special_147_019",
+              "canonical_audio_asset_id": "wav:a7dbaaf05dc90fbd3a29d4a2c5975d01087751077bf15db2a2509cc2752d6e9d",
+              "wav_sha256": "a7dbaaf05dc90fbd3a29d4a2c5975d01087751077bf15db2a2509cc2752d6e9d"
+            },
+            {
+              "cue": "vo_special_147_020",
+              "canonical_audio_asset_id": "wav:c186569a73189afc54902dc05e9cfd4ce74eede192cde0e32e0ab4ca135ca3db",
+              "wav_sha256": "c186569a73189afc54902dc05e9cfd4ce74eede192cde0e32e0ab4ca135ca3db"
+            },
+            {
+              "cue": "vo_special_147_021",
+              "canonical_audio_asset_id": "wav:e383283a543178709f0a711f395528233ea91884729d4d876df357a2e24a5f8e",
+              "wav_sha256": "e383283a543178709f0a711f395528233ea91884729d4d876df357a2e24a5f8e"
+            },
+            {
+              "cue": "vo_special_147_022",
+              "canonical_audio_asset_id": "wav:860b798c7a907b9da3b399fa2aaeb65b113c2ae811fcd69ea454daaf61635f07",
+              "wav_sha256": "860b798c7a907b9da3b399fa2aaeb65b113c2ae811fcd69ea454daaf61635f07"
+            },
+            {
+              "cue": "vo_special_147_023",
+              "canonical_audio_asset_id": "wav:ab9ddb2b34219024d29a282a726987b333c75749aeeb8c71742aecae6cd5ef09",
+              "wav_sha256": "ab9ddb2b34219024d29a282a726987b333c75749aeeb8c71742aecae6cd5ef09"
+            },
+            {
+              "cue": "vo_special_147_024",
+              "canonical_audio_asset_id": "wav:d7f1d48cd4b3ebba67ef14766737c29d1956e4fb6d98bb5f243e39bb9a54d7a2",
+              "wav_sha256": "d7f1d48cd4b3ebba67ef14766737c29d1956e4fb6d98bb5f243e39bb9a54d7a2"
+            },
+            {
+              "cue": "vo_special_147_025",
+              "canonical_audio_asset_id": "wav:0848e0137b5010e10d0d8de7620a484c180ae7b3db3ec3a9e6390f4825227c7c",
+              "wav_sha256": "0848e0137b5010e10d0d8de7620a484c180ae7b3db3ec3a9e6390f4825227c7c"
+            },
+            {
+              "cue": "vo_special_147_026",
+              "canonical_audio_asset_id": "wav:72999a45f3713ccf31a4a7214051e2fbd702e97cbcd264635c758f8954edf607",
+              "wav_sha256": "72999a45f3713ccf31a4a7214051e2fbd702e97cbcd264635c758f8954edf607"
+            },
+            {
+              "cue": "vo_special_147_027",
+              "canonical_audio_asset_id": "wav:0a83fe29b7821275e45f7dcebf8df9e22ac34145df58a30fd58176e22a5146e3",
+              "wav_sha256": "0a83fe29b7821275e45f7dcebf8df9e22ac34145df58a30fd58176e22a5146e3"
+            },
+            {
+              "cue": "vo_special_147_028",
+              "canonical_audio_asset_id": "wav:867d01f54fbfd98e89c1722eaa68ea4ae4499b125f97ded34e233272b2786bb9",
+              "wav_sha256": "867d01f54fbfd98e89c1722eaa68ea4ae4499b125f97ded34e233272b2786bb9"
+            },
+            {
+              "cue": "vo_special_147_029",
+              "canonical_audio_asset_id": "wav:c226a23120fbd00f6b90933d90866d938766501387e89c3ab99e68167376cbd9",
+              "wav_sha256": "c226a23120fbd00f6b90933d90866d938766501387e89c3ab99e68167376cbd9"
+            },
+            {
+              "cue": "vo_special_147_030",
+              "canonical_audio_asset_id": "wav:9e0768551374baf9f3812277c852894966fff9b7c87768b8b9ea0b19d8fb6101",
+              "wav_sha256": "9e0768551374baf9f3812277c852894966fff9b7c87768b8b9ea0b19d8fb6101"
+            },
+            {
+              "cue": "vo_special_147_031",
+              "canonical_audio_asset_id": "wav:bd8518b2cd1a7209e73e8b60a73bc5897d060fc2717212caa1a77802f86e50a5",
+              "wav_sha256": "bd8518b2cd1a7209e73e8b60a73bc5897d060fc2717212caa1a77802f86e50a5"
+            },
+            {
+              "cue": "vo_special_147_032",
+              "canonical_audio_asset_id": "wav:aa68794b9d0916ec930ec9dd8e6602bdcca6572c7a56172a9cfd7a42f9486637",
+              "wav_sha256": "aa68794b9d0916ec930ec9dd8e6602bdcca6572c7a56172a9cfd7a42f9486637"
+            },
+            {
+              "cue": "vo_special_title_147_00",
+              "canonical_audio_asset_id": "wav:808922cf21bc2e746dc7bf0de41443aedb7fe3814f2366077e8398a045c82504",
+              "wav_sha256": "808922cf21bc2e746dc7bf0de41443aedb7fe3814f2366077e8398a045c82504"
+            },
+            {
+              "cue": "vo_special_title_147_00_01",
+              "canonical_audio_asset_id": "wav:6c0c2c45a8ec8fc975fe683b4f43fc96576257f234c926af3d15fdeb8deecd43",
+              "wav_sha256": "6c0c2c45a8ec8fc975fe683b4f43fc96576257f234c926af3d15fdeb8deecd43"
+            }
+          ],
+          "all_named_native_voice_cues": [
+            "vo_special_147_001",
+            "vo_special_147_002",
+            "vo_special_147_003",
+            "vo_special_147_004",
+            "vo_special_147_005",
+            "vo_special_147_006",
+            "vo_special_147_007",
+            "vo_special_147_008",
+            "vo_special_147_009",
+            "vo_special_147_010",
+            "vo_special_147_011",
+            "vo_special_147_012",
+            "vo_special_147_013",
+            "vo_special_147_014",
+            "vo_special_147_015",
+            "vo_special_147_016",
+            "vo_special_147_017",
+            "vo_special_147_018",
+            "vo_special_147_019",
+            "vo_special_147_020",
+            "vo_special_147_021",
+            "vo_special_147_022",
+            "vo_special_147_023",
+            "vo_special_147_024",
+            "vo_special_147_025",
+            "vo_special_147_026",
+            "vo_special_147_027",
+            "vo_special_147_028",
+            "vo_special_147_029",
+            "vo_special_147_030",
+            "vo_special_147_031",
+            "vo_special_147_032",
+            "vo_special_title_147_00",
+            "vo_special_title_147_00_01"
+          ],
+          "dialogue_voice_cues": [
+            "vo_special_147_001",
+            "vo_special_147_002",
+            "vo_special_147_003",
+            "vo_special_147_004",
+            "vo_special_147_005",
+            "vo_special_147_006",
+            "vo_special_147_007",
+            "vo_special_147_008",
+            "vo_special_147_009",
+            "vo_special_147_010",
+            "vo_special_147_011",
+            "vo_special_147_012",
+            "vo_special_147_013",
+            "vo_special_147_014",
+            "vo_special_147_015",
+            "vo_special_147_016",
+            "vo_special_147_017",
+            "vo_special_147_018",
+            "vo_special_147_019",
+            "vo_special_147_020",
+            "vo_special_147_021",
+            "vo_special_147_022",
+            "vo_special_147_023",
+            "vo_special_147_024",
+            "vo_special_147_025",
+            "vo_special_147_026",
+            "vo_special_147_027",
+            "vo_special_147_028",
+            "vo_special_147_029",
+            "vo_special_147_030",
+            "vo_special_147_031",
+            "vo_special_147_032"
+          ],
+          "dialogue_voice_page_count": 32,
+          "static_preparation_sha256": "926564feb81eab1dfbf8125f8d4c7ad3702f4bdd1fe23690e049e2b0eb3eb552",
+          "root_case_actual_review_sha256": "325597d333d3c5c5dc5742b806b4a0a4b5de1b7b705ceec0c26973c63846d783",
+          "performed_voice": "UNHEARD",
+          "runtime": "UNOBSERVED",
+          "inline_references": {}
+        },
+        {
+          "episode_id": "504014702",
+          "binding_sha256": "428054a1e2fbbf7436df62f85ae6c3a5de6d782b6d190c58c21fb41b769ed9eb",
+          "voice_bindings": [
+            {
+              "cue": "vo_special_148_033",
+              "canonical_audio_asset_id": "wav:0f105ebb7e5bf2cbdbe01df9caa687f19b770658be9da1fc9feb7ad1c4132d48",
+              "wav_sha256": "0f105ebb7e5bf2cbdbe01df9caa687f19b770658be9da1fc9feb7ad1c4132d48"
+            },
+            {
+              "cue": "vo_special_148_034",
+              "canonical_audio_asset_id": "wav:d6dfb3f1f6a258cbfcafc666f60ec62a329c85072ac9dc5784cb5b666f6ce543",
+              "wav_sha256": "d6dfb3f1f6a258cbfcafc666f60ec62a329c85072ac9dc5784cb5b666f6ce543"
+            },
+            {
+              "cue": "vo_special_148_035",
+              "canonical_audio_asset_id": "wav:f1dae4a22d5e8dbcb8064c657452721e44d01e2c05bae708d6b7349c316d9321",
+              "wav_sha256": "f1dae4a22d5e8dbcb8064c657452721e44d01e2c05bae708d6b7349c316d9321"
+            },
+            {
+              "cue": "vo_special_148_036",
               "canonical_audio_asset_id": "wav:dbd4f213e7c86fc428e07d8819d4a5e685cc7c6d5ca3ec5173907e860b22e630",
               "wav_sha256": "dbd4f213e7c86fc428e07d8819d4a5e685cc7c6d5ca3ec5173907e860b22e630"
             },
@@ -4236,3961 +8114,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
           "dialogue_voice_page_count": 23,
           "unresolved_non_dialogue_cues": [],
           "unresolved_native_pages": {},
-          "static_preparation_sha256": "fad05bfb0f4f45ae772cb839afa416db72fbf44cc94d20c15c41b8610cffe56d",
-          "root_case_actual_review_sha256": "95c406ee552d4de68ac55c487532f4641849d5f5430bf4d6ed6d29c85857f024",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        }
-      ],
-      "exact_unresolved_command_cue_probes": [
-        {
-          "episode_id": "503012305",
-          "exact_probe_sha256": "7b292565f51210278b45950537db453d454e6ba4c286e9ae3978e9ce836cb894",
-          "case_only_acceptance_sha256": "32435b8dad80a6105cd0883d3558cabcda23c79d7f8306e6fc53693e09a7835d",
-          "unresolved": {
-            "vo_special_127_018": [
-              24
-            ]
-          }
-        }
-      ],
-      "performed_audio": "ALL283_BINDING_INSTANCES_283_DISTINCT_WAVS_UNHEARD;NO_MISSING_DIALOGUE_OR_GLOBAL_ABSENCE",
-      "native_item_inventory": [],
-      "selected_static_scope": {
-        "selected_sprite_instances": 137,
-        "distinct_sprite_resources": 53,
-        "background_instances": 17,
-        "distinct_backgrounds": 10
-      },
-      "inline_movie_state": "NO_INLINE_MOVIE_FIELDS_IN_ALL14_COMPLETE_NATIVE_DOCUMENTS",
-      "native_choices": {
-        "503012301": {
-          "groups": []
-        },
-        "503012302": {
-          "groups": []
-        },
-        "503012303": {
-          "groups": []
-        },
-        "503012304": {
-          "groups": []
-        },
-        "503012305": {
-          "groups": []
-        },
-        "503012801": {
-          "groups": []
-        },
-        "503012802": {
-          "groups": []
-        },
-        "503012803": {
-          "groups": []
-        },
-        "503012804": {
-          "groups": []
-        },
-        "503013201": {
-          "groups": []
-        },
-        "503013202": {
-          "groups": []
-        },
-        "503013203": {
-          "groups": []
-        },
-        "503013204": {
-          "groups": []
-        },
-        "503013205": {
-          "groups": []
-        }
-      },
-      "runtime": "UNOBSERVED",
-      "subject_integration_by_script": {
-        "memory_0123.json__e4da279669d7f153": [
-          "player-protagonist",
-          "saionji-honoka",
-          "aihara-miu",
-          "echizen-murasaki"
-        ],
-        "memory_0124.json__bf084897775a651d": [
-          "saionji-honoka"
-        ],
-        "memory_0125.json__95b11a7514d909f5": [
-          "aihara-miu"
-        ],
-        "memory_0126.json__9a88c497f501074e": [
-          "echizen-murasaki",
-          "murasaki-rescued-cat"
-        ],
-        "memory_0127.json__99fbf8e744e82975": [
-          "player-protagonist",
-          "saionji-honoka",
-          "aihara-miu",
-          "echizen-murasaki",
-          "murasaki-rescued-cat"
-        ],
-        "memory_0128.json__1fae639d99960583": [
-          "player-protagonist",
-          "tendoji-musubi",
-          "alessandra-susu"
-        ],
-        "memory_0129.json__ae943c60bf1acbc1": [
-          "player-protagonist",
-          "tendoji-musubi",
-          "alessandra-susu"
-        ],
-        "memory_0130.json__d9258acfd32bc6b0": [
-          "player-protagonist",
-          "tendoji-musubi",
-          "alessandra-susu"
-        ],
-        "memory_0131.json__d057d236360b1fb7": [
-          "player-protagonist",
-          "tendoji-musubi",
-          "alessandra-susu"
-        ],
-        "memory_0132.json__89c4cb9fe58745e9": [
-          "player-protagonist",
-          "jeda-diamond",
-          "yukuhashi-ei",
-          "kawasumi-shisara",
-          "yamai-saori",
-          "rokusaki-connie-presented"
-        ],
-        "memory_0133.json__99fa85ea3ae23611": [
-          "player-protagonist",
-          "yukuhashi-ei",
-          "kawasumi-shisara",
-          "jacob-through-ei",
-          "tom-in-jacob-account"
-        ],
-        "memory_0134.json__a1eda971570575ee": [
-          "player-protagonist",
-          "jeda-diamond",
-          "yamai-saori"
-        ],
-        "memory_0135.json__68b8e974871def09": [
-          "player-protagonist",
-          "jeda-diamond",
-          "yukuhashi-ei",
-          "kawasumi-shisara",
-          "yamai-saori",
-          "jacob-through-ei",
-          "tom-in-jacob-account"
-        ],
-        "memory_0136.json__d14b961d6d37bfc2": [
-          "player-protagonist",
-          "jeda-diamond",
-          "yukuhashi-ei",
-          "kawasumi-shisara",
-          "yamai-saori",
-          "jacob-through-ei",
-          "harumi-kajika"
-        ]
-      },
-      "coverage_effective_state_sha256": "b92d78187f5e4b27e12bbd3c9580ac9d14dbcaac68b977ab426ffe8bbee0b63d",
-      "older_integrity_serialized_bytes": "BYTE_EXACT_REQUIRED_ALL182",
-      "frozen_storage_transitions": "UNCHANGED_REQUIRED",
-      "prospective_capacity": {
-        "source_before_count": 8,
-        "source_after_allowed_counts": [
-          8
-        ],
-        "coverage_before_role_part_counts": [
-          6,
-          2
-        ],
-        "coverage_after_role_part_counts": [
-          [
-            6,
-            2
-          ]
-        ],
-        "entity_parts": 6,
-        "story_parts": 4,
-        "claim_parts": 5,
-        "ledger_after_counts": {
-          "entity": [
-            6,
-            7
-          ],
-          "story": [
-            4,
-            5
-          ],
-          "claim": [
-            5,
-            6
-          ]
-        },
-        "physical_before_images": 47,
-        "physical_after_images_allowed": [
-          47,
-          48,
-          49,
-          50
-        ],
-        "physical_file_cap_exclusive": 1048576,
-        "active_ledger_cap_exclusive": 460800,
-        "quoted_native_argument_UTF16_cap_exclusive": 28000,
-        "source_new_integrity_limit_bytes": 262144,
-        "source_logical_limit_bytes": 3145728,
-        "ledger_new_payload_limit_bytes_by_role": {
-          "entity": 350000,
-          "story": 350000,
-          "claim": 350000
-        },
-        "active_ledger_room_before": {
-          "entity": 313860,
-          "story": 5399,
-          "claim": 216089
-        },
-        "optional_new_capacity_paths": [
-          "03 Longitudinal Ledgers/T7S_ENTITY_STATE_COMPONENT_007.md",
-          "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_COMPONENT_005.md",
-          "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_COMPONENT_006.md"
-        ],
-        "source_physical_delta_optional_only_when_byte_unchanged": [
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_002.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_003.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_004.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_005.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_006.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_007.md",
-          "01 Sources and Chronology/T7S_SOURCE_LOCK_COMPONENT_008.md"
-        ],
-        "source_component_rule": "Retain all eight SourceLock and eight coverage payloads; no retirement or new source/coverage component.",
-        "cohort_budget_rule": "Three complete Event families with 5/4/5 chapters, 14 documents and 417 native pages. Preserve every actual chapter/family boundary and full-depth reconstruction. At most one actually required new component per ledger. The tighter 262144-byte fresh integrity limit preserves the existing complete-source ceiling. Excess stops for a reviewed successor; no trimming findings to fit.",
-        "unreviewed_rollover": "STOP for any new source/coverage component, extra ledger component, retirement, missing complete view or relaxed cap."
-      },
-      "ledger_storage": "Actualcompleteaftermanifestsownexactpartcounts;allolderpartsretained;onlyexactprospectiveabsentcapacitypathspermittedwhenrequired",
-      "actual_literal_addition_bytes": {
-        "entity": 136586,
-        "story": 142412,
-        "claim": 161865
-      },
-      "execution_record": "09 Audits and Manifests/T7S_2034_COMPLETION_EXECUTION_RECORD.md",
-      "source_menu_and_chronology": "Threecompletecategoryqualifiedfamilies/catalog810-823in5/4/5chapters;52within-document+11within-familyorderlinks;nocrossfamilycause,exactyear/Maininsertionorcompletedfutureparty/remedy. Originalfreezesretained.",
-      "source2053": "BLOCKED",
-      "presentation_successor": {
-        "scope": "Only two trailing ASCII spaces removed and coupled reading/state hashes rebound; all analytical/source/known-then content unchanged",
-        "equivalence_receipt_sha256": "2d071b31794a7db61f4b0212e47a52efb8bcb2a6843fce78be822adc021a5bc8",
-        "original_native_complete_sha256": "59cd855988950ffa7c6f4f7e73281d38243521e78362d8b38ba19c96e4a4fae7",
-        "original_independent_worktree_sha256": "1720e6869d685868747d0edcb2b4b3d19296538047610f81a29eddb03099e48d",
-        "source_content_check_reuse": "a3023316a00f4be82491674b6a07a1cc4b79557647f8167251ef85b4514ff1c2",
-        "original_complete_draft_review_reuse": "5c832415e422263fb0843c0eeeddacf1196552c4189ad2239d9abcef4859afe8",
-        "new_primary_exposure": "NONE",
-        "same_horizon": "T7S_B0244/12.152",
-        "separate_corrective_native_gates": "REQUIRED_BEFORE_APPLICATION"
-      }
-    },
-    "b0243_close_verification": {
-      "operation": "T7S_B0243_CLOSE",
-      "checked_at": "2026-11-03",
-      "status": "PASS_BOUNDED_DEEP_EVENT_TEXT_NATIVE_SELECTED_STATIC",
-      "category": "Event",
-      "portfolio_cohort": "NM-EVENT-CATALOG-795-809",
-      "native_top_layer_id": "100010",
-      "native_family_layer_ids": [
-        "200250",
-        "200260",
-        "200270"
-      ],
-      "original_portfolio_route_keys": [
-        "NM-EVENT-200250",
-        "NM-EVENT-200260",
-        "NM-EVENT-200270"
-      ],
-      "episode_ids": [
-        "502010801",
-        "502010802",
-        "502010803",
-        "502010804",
-        "502010805",
-        "502011301",
-        "502011302",
-        "502011303",
-        "502011304",
-        "502011305",
-        "503011801",
-        "503011802",
-        "503011803",
-        "503011804",
-        "503011805"
-      ],
-      "source_bindings": [
-        {
-          "episode_id": "502010801",
-          "script_id": "memory_0108.json__4e249b8bdee407a0",
-          "source_sha256": "e76b08625710fc5c60a4221b7df0b0d45e7b513596386b8c168564d764271a8b",
-          "decoded_sha256": "412d129a619216016f47fd2d28663a0eed0b40a9ab5c3cf7e2d7966ab7f76d96",
-          "normalized_sha256": "0cb552518627cb008658a39b3db839d92ce52a8ae60e6b3bb6b3a49d59b6994c",
-          "structured_sha256": "0cb552518627cb008658a39b3db839d92ce52a8ae60e6b3bb6b3a49d59b6994c",
-          "pages": 43,
-          "text_records": 40,
-          "command_only_pages": 3,
-          "voice_pages": 23,
-          "native_pages_verified": 43
-        },
-        {
-          "episode_id": "502010802",
-          "script_id": "memory_0109.json__0496916636978e85",
-          "source_sha256": "6031f602937054496ba46682e5659408f51e1146b2eebbd117d427dad129bf15",
-          "decoded_sha256": "f12903d73fd638dfb4f8c57b534ca2090fb3436dc8f3149508601f2fab3b1c3f",
-          "normalized_sha256": "7a780851c3b9167778c924947ab586e4d58d84b112ab7da571a231d7cf2b8a45",
-          "structured_sha256": "7a780851c3b9167778c924947ab586e4d58d84b112ab7da571a231d7cf2b8a45",
-          "pages": 55,
-          "text_records": 51,
-          "command_only_pages": 4,
-          "voice_pages": 36,
-          "native_pages_verified": 55
-        },
-        {
-          "episode_id": "502010803",
-          "script_id": "memory_0110.json__396ec1f03bb21ed3",
-          "source_sha256": "fd2b021d57dcac735faa3ec9d6f30170455b4d6bacfd7baea6292eca482582fc",
-          "decoded_sha256": "c79aaf893eaf9281755e3c403e32b815aa8007059cebccc21a9fb0ecd172dfbe",
-          "normalized_sha256": "894d33bfc8d6b415b24141fc6d9856d3cb23c868673f519e728b2085cc5cd169",
-          "structured_sha256": "894d33bfc8d6b415b24141fc6d9856d3cb23c868673f519e728b2085cc5cd169",
-          "pages": 38,
-          "text_records": 36,
-          "command_only_pages": 2,
-          "voice_pages": 31,
-          "native_pages_verified": 38
-        },
-        {
-          "episode_id": "502010804",
-          "script_id": "memory_0111.json__5bb91b74bc2c2273",
-          "source_sha256": "007521f2b2c68b6e9feda0a7fbe2cd64012fcd67fad797ff864af71c0697a707",
-          "decoded_sha256": "d6796bf2f348d93d61d5ef2e0d9dca50c42607d741bdb107fcfa42c051f4257c",
-          "normalized_sha256": "bb616d8b78a1a3ac325094ab4a396b4c85d6226a707fdb058bc218a9c14264c0",
-          "structured_sha256": "bb616d8b78a1a3ac325094ab4a396b4c85d6226a707fdb058bc218a9c14264c0",
-          "pages": 46,
-          "text_records": 44,
-          "command_only_pages": 2,
-          "voice_pages": 30,
-          "native_pages_verified": 46
-        },
-        {
-          "episode_id": "502010805",
-          "script_id": "memory_0112.json__086ff5d77db90707",
-          "source_sha256": "2648ce6e8d0f961f78b7c27228860389e24daf387f38361646ed05088e5340dd",
-          "decoded_sha256": "dd13c8ec345845fa24128193a9a039f092b4c024f073efeae7ca8ba56cf25e16",
-          "normalized_sha256": "d46b2ba7a4454509526200f6e43c0b9841ab7e1ce8b514329159cf354c5ed144",
-          "structured_sha256": "d46b2ba7a4454509526200f6e43c0b9841ab7e1ce8b514329159cf354c5ed144",
-          "pages": 50,
-          "text_records": 48,
-          "command_only_pages": 2,
-          "voice_pages": 31,
-          "native_pages_verified": 50
-        },
-        {
-          "episode_id": "502011301",
-          "script_id": "memory_0113.json__e0cc4c09def01ea6",
-          "source_sha256": "e8f08b213e43ef42f3713a448070655d2bdd19b7b65d2a29f864179e1c7c2b9f",
-          "decoded_sha256": "97a118f8c1843efeff527e8ed57f2bf24d5ec03ac571335b48e7d26848228d01",
-          "normalized_sha256": "f55afdc5922d8a9db352d8819e6aee38c8c43be8a3a143f89a7c0ac6af343c81",
-          "structured_sha256": "f55afdc5922d8a9db352d8819e6aee38c8c43be8a3a143f89a7c0ac6af343c81",
-          "pages": 27,
-          "text_records": 23,
-          "command_only_pages": 4,
-          "voice_pages": 19,
-          "native_pages_verified": 27
-        },
-        {
-          "episode_id": "502011302",
-          "script_id": "memory_0114.json__72b4cad0b5fb55ac",
-          "source_sha256": "137cc57250d3f5b9a642fe9dffdd7300de6c974fdaeb73a4b6e6cb5de93086c5",
-          "decoded_sha256": "3154aac91c5042477521c850447e6c45b4c24f6785a29ac30d9d59b7729be95a",
-          "normalized_sha256": "403ea65d93ba8350f16d5c6839ebfb936f3cc9f2d59788f1b350bd643bc13186",
-          "structured_sha256": "403ea65d93ba8350f16d5c6839ebfb936f3cc9f2d59788f1b350bd643bc13186",
-          "pages": 34,
-          "text_records": 30,
-          "command_only_pages": 4,
-          "voice_pages": 25,
-          "native_pages_verified": 34
-        },
-        {
-          "episode_id": "502011303",
-          "script_id": "memory_0115.json__0d03cb21f529213c",
-          "source_sha256": "70c094d1c49973c456a56919f13096a2fcc9c3f498e8d94e945457851ddff25f",
-          "decoded_sha256": "be927f0a18c073c9b0d50000ce9d66c547643136c2d1ec7a55d276fd7b369c55",
-          "normalized_sha256": "49366e2c475cffc5b6b183e308c3a1931c560894529fb55f7bed3b8ef4528c38",
-          "structured_sha256": "49366e2c475cffc5b6b183e308c3a1931c560894529fb55f7bed3b8ef4528c38",
-          "pages": 23,
-          "text_records": 21,
-          "command_only_pages": 2,
-          "voice_pages": 16,
-          "native_pages_verified": 23
-        },
-        {
-          "episode_id": "502011304",
-          "script_id": "memory_0116.json__efe60829b2f29b55",
-          "source_sha256": "d13204db5357a87929d895f22383be0daa8b89392e65ace2ac8f0b6417a632c1",
-          "decoded_sha256": "da250275158324109ebc4540ec7ac5e96b01e6c35136f25425fcab3f1d4d9acb",
-          "normalized_sha256": "90a678d13529febed57fd97bf8eefc99535ad1ceb79d1627a031ff456709a917",
-          "structured_sha256": "90a678d13529febed57fd97bf8eefc99535ad1ceb79d1627a031ff456709a917",
-          "pages": 37,
-          "text_records": 34,
-          "command_only_pages": 3,
-          "voice_pages": 31,
-          "native_pages_verified": 37
-        },
-        {
-          "episode_id": "502011305",
-          "script_id": "memory_0117.json__3114b7f40cda8dae",
-          "source_sha256": "f6d3b7b62eb3b35b92346d4ac102c0158bc9a43ce5c9f6fc3f3dd852862ae2f2",
-          "decoded_sha256": "f860dd9b55de6fcdab47b52d7ea335d18397c74856737b66ecc1d30a73765459",
-          "normalized_sha256": "6c121ff9a60706fecfd267207220fdaa9ce13ccb4393f0f48065045a73b7f1f2",
-          "structured_sha256": "6c121ff9a60706fecfd267207220fdaa9ce13ccb4393f0f48065045a73b7f1f2",
-          "pages": 26,
-          "text_records": 23,
-          "command_only_pages": 3,
-          "voice_pages": 17,
-          "native_pages_verified": 26
-        },
-        {
-          "episode_id": "503011801",
-          "script_id": "memory_0118.json__eda70b6b245bbc1f",
-          "source_sha256": "242d6c3e63a83f3e04a1228bf70e98568d8c4e6ab8df60ce5165689591b84095",
-          "decoded_sha256": "8f3eaa19467b380de2b6c228f490fdeaf009c83fbfedaec8f1d948d607f7f210",
-          "normalized_sha256": "e355cb9428259b85fc90dec1087fb1b27c2cd03e013f069a3845e09cd71151bb",
-          "structured_sha256": "e355cb9428259b85fc90dec1087fb1b27c2cd03e013f069a3845e09cd71151bb",
-          "pages": 37,
-          "text_records": 32,
-          "command_only_pages": 5,
-          "voice_pages": 28,
-          "native_pages_verified": 37
-        },
-        {
-          "episode_id": "503011802",
-          "script_id": "memory_0119.json__8b8650087552bdf3",
-          "source_sha256": "c66955dfcb690c257180e6df9c57cfb00542b5235d03f5b943a6f2dd97eae8cd",
-          "decoded_sha256": "2c7179a6fe8b0278cea79caa704205e1150b1748bb84ee1c54d50e700dda1d9f",
-          "normalized_sha256": "98ff147161e62fc0cb18e8e1d74017edc4aeaa80d0b3b6c25c16e0778cdd3c7c",
-          "structured_sha256": "98ff147161e62fc0cb18e8e1d74017edc4aeaa80d0b3b6c25c16e0778cdd3c7c",
-          "pages": 28,
-          "text_records": 26,
-          "command_only_pages": 2,
-          "voice_pages": 26,
-          "native_pages_verified": 28
-        },
-        {
-          "episode_id": "503011803",
-          "script_id": "memory_0120.json__27c104c6cfcc911a",
-          "source_sha256": "109dce821467f995b643fe062a86b23556a08f860ae2887480cae776cfc9dad6",
-          "decoded_sha256": "d51915bf6694421281df20297252256c8b9e5650131ce9b7eb09b040516a5907",
-          "normalized_sha256": "4c0e749a46c3ad48cc40015c311ed48fdbf46c47db3f457f3e999dbcdfc3afa9",
-          "structured_sha256": "4c0e749a46c3ad48cc40015c311ed48fdbf46c47db3f457f3e999dbcdfc3afa9",
-          "pages": 42,
-          "text_records": 39,
-          "command_only_pages": 3,
-          "voice_pages": 25,
-          "native_pages_verified": 42
-        },
-        {
-          "episode_id": "503011804",
-          "script_id": "memory_0121.json__b51421debb5de813",
-          "source_sha256": "4c029429e8ac59f818f9312c4c81ab49e476f0cdb867a09a81f3dc536425b046",
-          "decoded_sha256": "4b31d92c8c0575899581fff3d776fdcabeb7351ed3a85f0a60384f175056b10d",
-          "normalized_sha256": "b06d0ba6dda282a92fdc862eb683fdec26d89cda7baf5c2aa51c680789d7eac1",
-          "structured_sha256": "b06d0ba6dda282a92fdc862eb683fdec26d89cda7baf5c2aa51c680789d7eac1",
-          "pages": 50,
-          "text_records": 47,
-          "command_only_pages": 3,
-          "voice_pages": 47,
-          "native_pages_verified": 50
-        },
-        {
-          "episode_id": "503011805",
-          "script_id": "memory_0122.json__c0d1c9f8ce20f0b4",
-          "source_sha256": "ce92acdb8870111488f4bd58abf755be41428194ffe11161c853aaceefc7f1ab",
-          "decoded_sha256": "2cb99b11ba497d89dc189cf6ef47660f8ee0c2771ff63f68b7fb5641613bae9f",
-          "normalized_sha256": "c06bad7fe4f016d1477e5b4388069a615aa772b330bd2ead78fe5fbdb5367e2c",
-          "structured_sha256": "c06bad7fe4f016d1477e5b4388069a615aa772b330bd2ead78fe5fbdb5367e2c",
-          "pages": 26,
-          "text_records": 22,
-          "command_only_pages": 4,
-          "voice_pages": 15,
-          "native_pages_verified": 26
-        }
-      ],
-      "totals": {
-        "pages": 562,
-        "text_records": 516,
-        "command_only_pages": 46,
-        "voice_pages": 400,
-        "visual_refs": 3890
-      },
-      "native_packet_sha256": "d7cc7344a7177b94837e51068b92db5204d0aa4bd8dcee24354887b0f17be45c",
-      "dialogue_packet_sha256": "f36d5464776aa4db3d06db9ef8538208bc11ffa8b449de9892cda078e8d89c2d",
-      "source_entry_commit": "51d2c5ea6c55dfe54b13219689f81811fe6b014a",
-      "published_prior_source": "51d2c5ea6c55dfe54b13219689f81811fe6b014a",
-      "execution_base": "f04291f0d4d265f2a73ff9d5e118e7212449e5a4",
-      "current_audited_main": "f04291f0d4d265f2a73ff9d5e118e7212449e5a4",
-      "live_git_reconciliation_sha256": "d5ab2ab301d5c73dff61049605305da22e38be1811f9f851bad19f708cff0977",
-      "prior_source_publication_cycle_sha256": "864c86e91a2a9d3280a6e2ec43036ad49f3f41562a472bb88bf4b8a078babfba",
-      "t7s_entering_tree": "1bd963fc6bac3deaa63e501310520841154e8d18",
-      "source_lock_logical_before_sha256": "e60ae54790c8be3494b53135475463c87f8d238e81f94f1dbb50269b9bd44903",
-      "source_lock_physical_owner_before_sha256": "2d799ebad8f8778a5b838c283dfc45e812d0b0a4e745d57d37af31908908ea5c",
-      "prospective_scope_sha256": "217d9c821b49a007268fb3d2c03c59e9d636cb22859ee28d4bb163d51c20cef2",
-      "entering_state_sha256": "33c140b78cef008913e86aa141b7deb673c588fdd4e60e9028b58702fd819b26",
-      "evidence_receipt_sha256": "51c18d00b1d9ef2fea1472b6c6dd44e098a4d65470943d487ebbd5d842517fd4",
-      "primary_preparation_intent_sha256": "e6211f2dda6f72fe19bdea5ed337112c78542f0def07076999cd5fda77849a9f",
-      "reading_sha256": "777281ab09423b834e3758f048dbdde540ce72b419ea9a78290d61dc7ff7ef1f",
-      "literal_state_sha256": "6b6a8f9196a1831d153ccac72639aa55abca67d352ba0a01a090621bcc23f269",
-      "root_semantic_review_sha256": "fb40d902e67e2e1cd106ece9969ddd5a822e58a985002b45e6106a217648474b",
-      "complete_consumer_acceptance_sha256": "8163721cb1f5670f8812e2fdcc875a6f13f2b3d14c8ae456fcddf562852ccc25",
-      "operation_spec_sha256": "b73b210b7763ebe4a274232556ffde8d24167c2330c2429937a2f32f71c6c7a4",
-      "current_operation_ordering_satisfied": true,
-      "ordering_scope": "Originalactual10:23five-roleacceptancebeforefreshentryand10:29primaryintent;all14before-nextcasesand2between-familycompletefreezes. Post-readinghistorycheckisnotaneworretrospectiveprospectivegate.",
-      "casewise_order_status": "ROOT_VERIFIED_B0243_ACTUAL_PREPRIMARY_AND_ORDERED_CASE_FAMILY_FREEZE_HISTORY_POST_READING",
-      "casewise_order_review_sha256": "b8c048ebb24fe9267a1359dbf7c18f49dfba966e14c27d3a6226509ab1105095",
-      "root_case_freeze_sha256": {
-        "502010801": "cdb1e15550cf0fa0c8ffd6fc784b44ae2295446ce710088afa178632de10ea70",
-        "502010802": "0f9ec669d144bdf985a6623902e203db6af0270f2f69e766c2e1725797d71942",
-        "502010803": "5677d606785bdb1eff90a9426de492fb0c546a1c58edfa407c54fa0c3b446db7",
-        "502010804": "5e3c66eda4d5d9f2bf9396945ea5163243ab979fd38bdb0cf44e2876d04c8cce",
-        "502010805": "2f63f1905dec5b4c8e83fd11bc7f5589f0add8c60481cfe7513b42795df36acd",
-        "502011301": "43e849ae4681c84dd70a2abe3424494c2ce39c58ef5efc4f179e0cb3094033d3",
-        "502011302": "d02fe137cd4fc573261b138a3a057ad4edffb9c309c2e5bfc273b1693151fcd0",
-        "502011303": "00aae409962360ccd9a81db885b896822602605e4b27d27d9a3facbef436eeed",
-        "502011304": "32856dd2cb30f2f731655ca55b56534aa08eae490dc28ca7cddc5ae6a3a48f51",
-        "502011305": "234906582506d103a38e0e2ae2e36a76fd6cdd59979af80789583f984592925d",
-        "503011801": "81588b2234ac6d19badb4c5d249ee6d44f1fad15ec74432deed1529c5bac9e6d",
-        "503011802": "473a727d4115adc73a2221437425bd30e2080bd468596c9c201dece3a217e7a4",
-        "503011803": "e4bb0c15fc36339c0c39dcfdd20db1ba011ccfb288ff41a212a42ddb67270388",
-        "503011804": "b38d5e94ad47fe18dbd55d1cc2549cf648aef836b9cb6546d18a124b91e9cc5f",
-        "503011805": "9ebd1ee5f3a2b27381b434cf0347ef9740fd8110559c762b0ffe29f4744f5a29"
-      },
-      "root_family_freeze_sha256": {
-        "NM-EVENT-200250": "57d14e9c12739974fc3f3af05bcb0e01ca8560f0fed9d00982ee1c4e2bcf36c8",
-        "NM-EVENT-200260": "f68acf5fc267b1fd01ed18d937557ff3e61bcbd040d22260b1d2b9a791862570",
-        "NM-EVENT-200270": "735592f7a02dcb23c4938c70989ce7605731bdb9f2c7121943ba01ddacc2cdf9"
-      },
-      "root_native_static_inventory_sha256": "c79f913ed4a85a8fb144aa6d4a9320a3c71ade54cc7d3b5770f1ce670279a271",
-      "complete_native_packet_sha256": "d7cc7344a7177b94837e51068b92db5204d0aa4bd8dcee24354887b0f17be45c",
-      "locator_content_review_sha256": "b88e51166c84e74f9add6760944cdc75da77fbe3ef10c04c2a7aa520af85b6b7",
-      "actual_complete_draft_and_delta_review_sha256": "8cce4659ae42e2328e0135ba2616be515f49f9e98b48acf0f1f299e640f4daa9",
-      "private_supported_precision_chain_sha256": "be571047c1dbe9a4ca164b76be1e04ebb5e17c6bb2dd9f102c25216f820ca5ab",
-      "private_v4_citation_readability_review_sha256": "a6af4a60e2dffde8f881e155e6602832d341f87a51d0da3001e3694b997318c0",
-      "source_local_identity_normalization": "Useallactualfrozenresolvedsubjectroutesincludingpluralreportedreferents;ShizukadistinctManaandShinju;Shii-chanisShinju;Coneyreportedplan/directionwitholderNicole/machinequalifiersunchanged;predictedEmocoquotationisUme,HaruMusubiquoteisHaru;generic025/026/027graphicsnevermergeknownandlocalroles. Existingunnamedclubpresidenthasnoinventedname/READY. Staff/youth/studentrolesremainproperlyscoped.",
-      "post_primary_context_actual_review_sha256": {
-        "shops_after_case3": "f4a127efd10de7f40c3d8ee273ca46bc3458d9d3861e0654fb886f6619efabeb",
-        "4U_after_case6": "f686e48e08e48eb11fe915c930caa290937854f118c06f0e8bd3919e064ba300",
-        "club_after_case13": "2abf0c80518f313f94a46e0aaa99458d319fd4fc0893bc688e60c3c0b7b4e49e"
-      },
-      "source_media_capability": [
-        {
-          "episode_id": "502010801",
-          "binding_sha256": "ad34c46ab7a4e6f0741eb5f5463e5dcd7bc21e9ab4325bfa2561725a52e7db93",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_108_001",
-              "canonical_audio_asset_id": "wav:61a41ee4f58b202a2123dedb368b04e1fe4e8a8c64931c5b7591c4333f78a112",
-              "wav_sha256": "61a41ee4f58b202a2123dedb368b04e1fe4e8a8c64931c5b7591c4333f78a112"
-            },
-            {
-              "cue": "vo_special_108_002",
-              "canonical_audio_asset_id": "wav:4bf9d1972db93c9105a5de784d3a3f035226215c3ed6775ea0162bbb4e2387c0",
-              "wav_sha256": "4bf9d1972db93c9105a5de784d3a3f035226215c3ed6775ea0162bbb4e2387c0"
-            },
-            {
-              "cue": "vo_special_108_003",
-              "canonical_audio_asset_id": "wav:8509afca2602219af57c11e2b39e07e79d0367be7523fdabd9fd831229c22a20",
-              "wav_sha256": "8509afca2602219af57c11e2b39e07e79d0367be7523fdabd9fd831229c22a20"
-            },
-            {
-              "cue": "vo_special_108_004",
-              "canonical_audio_asset_id": "wav:7ede9b8f166385254e6c8ca084420fcb26fa1d8fc05dc8172ce6a2fc818a6b07",
-              "wav_sha256": "7ede9b8f166385254e6c8ca084420fcb26fa1d8fc05dc8172ce6a2fc818a6b07"
-            },
-            {
-              "cue": "vo_special_108_005",
-              "canonical_audio_asset_id": "wav:889f71567dc01c8e9b2195bc6fdb4e31065808245fc5a013b7d0dc2274ff549e",
-              "wav_sha256": "889f71567dc01c8e9b2195bc6fdb4e31065808245fc5a013b7d0dc2274ff549e"
-            },
-            {
-              "cue": "vo_special_108_006",
-              "canonical_audio_asset_id": "wav:01018691421c861f161da3711d0fe7eb30ccd58bc6c667ba8cd52168113e6239",
-              "wav_sha256": "01018691421c861f161da3711d0fe7eb30ccd58bc6c667ba8cd52168113e6239"
-            },
-            {
-              "cue": "vo_special_108_007",
-              "canonical_audio_asset_id": "wav:a83ec5cd0be337eb87105c7f50e7ab244f35ebbdb8965818ebcf9bc3e29f1baa",
-              "wav_sha256": "a83ec5cd0be337eb87105c7f50e7ab244f35ebbdb8965818ebcf9bc3e29f1baa"
-            },
-            {
-              "cue": "vo_special_108_008",
-              "canonical_audio_asset_id": "wav:cd0cfb171bca64dcdb83b59f6f3ac597124cfaf5d4bb3824ed322c723c0f917e",
-              "wav_sha256": "cd0cfb171bca64dcdb83b59f6f3ac597124cfaf5d4bb3824ed322c723c0f917e"
-            },
-            {
-              "cue": "vo_special_108_009",
-              "canonical_audio_asset_id": "wav:fdaa20c02633ef4a2da3e8dbf17faf570e661deda15c672c1be55bffff05cbb0",
-              "wav_sha256": "fdaa20c02633ef4a2da3e8dbf17faf570e661deda15c672c1be55bffff05cbb0"
-            },
-            {
-              "cue": "vo_special_108_010",
-              "canonical_audio_asset_id": "wav:e1204c6ed78127d7d063bd1748d141002a68107a299f14dad871c8e46387f150",
-              "wav_sha256": "e1204c6ed78127d7d063bd1748d141002a68107a299f14dad871c8e46387f150"
-            },
-            {
-              "cue": "vo_special_108_011",
-              "canonical_audio_asset_id": "wav:3a7c35c09e7369d452953c60fdc34831c01822d255d5cad8e7eade6a1a97147d",
-              "wav_sha256": "3a7c35c09e7369d452953c60fdc34831c01822d255d5cad8e7eade6a1a97147d"
-            },
-            {
-              "cue": "vo_special_108_012",
-              "canonical_audio_asset_id": "wav:edd2922d71f8777bb4fdf92ab763ccf6f441c10f2c8dc5f047d13dafb69977b2",
-              "wav_sha256": "edd2922d71f8777bb4fdf92ab763ccf6f441c10f2c8dc5f047d13dafb69977b2"
-            },
-            {
-              "cue": "vo_special_108_013",
-              "canonical_audio_asset_id": "wav:c8bd33890da50ca37d75a72ecca74a51da7516f852a58564c66e20bad9266ffa",
-              "wav_sha256": "c8bd33890da50ca37d75a72ecca74a51da7516f852a58564c66e20bad9266ffa"
-            },
-            {
-              "cue": "vo_special_108_014",
-              "canonical_audio_asset_id": "wav:17afb8806ce285319fc0f2b2c3a112a9ce00ef2ea4881e758bbf0ddb4456ec54",
-              "wav_sha256": "17afb8806ce285319fc0f2b2c3a112a9ce00ef2ea4881e758bbf0ddb4456ec54"
-            },
-            {
-              "cue": "vo_special_108_015",
-              "canonical_audio_asset_id": "wav:a1e3e133444625aa7b12874b5ee12ff6c5489ac4581a38ebdaa9f7309c739539",
-              "wav_sha256": "a1e3e133444625aa7b12874b5ee12ff6c5489ac4581a38ebdaa9f7309c739539"
-            },
-            {
-              "cue": "vo_special_108_016",
-              "canonical_audio_asset_id": "wav:c39f79197a671b8b6ddf98d4055e50e8b9ff8c64d0c9218d6e14ac0dbd4d77cc",
-              "wav_sha256": "c39f79197a671b8b6ddf98d4055e50e8b9ff8c64d0c9218d6e14ac0dbd4d77cc"
-            },
-            {
-              "cue": "vo_special_108_017",
-              "canonical_audio_asset_id": "wav:459475af665b81213f0ec64ef76914c56ae105894fa83a49d30f79a62087a727",
-              "wav_sha256": "459475af665b81213f0ec64ef76914c56ae105894fa83a49d30f79a62087a727"
-            },
-            {
-              "cue": "vo_special_108_018",
-              "canonical_audio_asset_id": "wav:ae0ff0be8dc7b0ddeae42c9d8cf852321b8865ed763b9b3276d4d19188910fac",
-              "wav_sha256": "ae0ff0be8dc7b0ddeae42c9d8cf852321b8865ed763b9b3276d4d19188910fac"
-            },
-            {
-              "cue": "vo_special_108_019",
-              "canonical_audio_asset_id": "wav:8350c7386844cd26237a673e75f71d378e1a082e22498bc98c610c05ed4418f9",
-              "wav_sha256": "8350c7386844cd26237a673e75f71d378e1a082e22498bc98c610c05ed4418f9"
-            },
-            {
-              "cue": "vo_special_108_020",
-              "canonical_audio_asset_id": "wav:f73d80dcaedeaaae8b455d456e7ccef4bc67952272d0a99b29728c06aa40566b",
-              "wav_sha256": "f73d80dcaedeaaae8b455d456e7ccef4bc67952272d0a99b29728c06aa40566b"
-            },
-            {
-              "cue": "vo_special_108_021",
-              "canonical_audio_asset_id": "wav:979bb7f8179d70101ddfb8782b53d5a9dd2a0fc538258563ade4143b0fec3bd6",
-              "wav_sha256": "979bb7f8179d70101ddfb8782b53d5a9dd2a0fc538258563ade4143b0fec3bd6"
-            },
-            {
-              "cue": "vo_special_108_022",
-              "canonical_audio_asset_id": "wav:d5e6fd9ff13b2b3fa6e847dca774437881404c6e1d2e1477c315b5cf0410cede",
-              "wav_sha256": "d5e6fd9ff13b2b3fa6e847dca774437881404c6e1d2e1477c315b5cf0410cede"
-            },
-            {
-              "cue": "vo_special_108_023",
-              "canonical_audio_asset_id": "wav:f6ade1f4d5100eff207e1f234d3b0b2eb26fd334002fb6d97dd5167d5a3bfe0c",
-              "wav_sha256": "f6ade1f4d5100eff207e1f234d3b0b2eb26fd334002fb6d97dd5167d5a3bfe0c"
-            },
-            {
-              "cue": "vo_special_title_108_00",
-              "canonical_audio_asset_id": "wav:fdaaf86c484507a93573945ec9bb18fa602589180255fb9a9a68479f0caff869",
-              "wav_sha256": "fdaaf86c484507a93573945ec9bb18fa602589180255fb9a9a68479f0caff869"
-            },
-            {
-              "cue": "vo_special_title_108_00_001",
-              "canonical_audio_asset_id": "wav:bfc298390d85997093542c0a39be8bdb404e4c73ff31db592a7b66d40db1ca68",
-              "wav_sha256": "bfc298390d85997093542c0a39be8bdb404e4c73ff31db592a7b66d40db1ca68"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_108_001",
-            "vo_special_108_002",
-            "vo_special_108_003",
-            "vo_special_108_004",
-            "vo_special_108_005",
-            "vo_special_108_006",
-            "vo_special_108_007",
-            "vo_special_108_008",
-            "vo_special_108_009",
-            "vo_special_108_010",
-            "vo_special_108_011",
-            "vo_special_108_012",
-            "vo_special_108_013",
-            "vo_special_108_014",
-            "vo_special_108_015",
-            "vo_special_108_016",
-            "vo_special_108_017",
-            "vo_special_108_018",
-            "vo_special_108_019",
-            "vo_special_108_020",
-            "vo_special_108_021",
-            "vo_special_108_022",
-            "vo_special_108_023",
-            "vo_special_title_108_00",
-            "vo_special_title_108_00_001"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_108_001",
-            "vo_special_108_002",
-            "vo_special_108_003",
-            "vo_special_108_004",
-            "vo_special_108_005",
-            "vo_special_108_006",
-            "vo_special_108_007",
-            "vo_special_108_008",
-            "vo_special_108_009",
-            "vo_special_108_010",
-            "vo_special_108_011",
-            "vo_special_108_012",
-            "vo_special_108_013",
-            "vo_special_108_014",
-            "vo_special_108_015",
-            "vo_special_108_016",
-            "vo_special_108_017",
-            "vo_special_108_018",
-            "vo_special_108_019",
-            "vo_special_108_020",
-            "vo_special_108_021",
-            "vo_special_108_022",
-            "vo_special_108_023"
-          ],
-          "dialogue_voice_page_count": 23,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "f2cc8380aae1510d55ccfc4fa0aff0728f947a5f14b8350c35c86b2c9cecdbe4",
-          "actual_static_review_sha256": "12d5c0edc1f9ccd12f40e8797a99262db802add1f0d107ef67a9af9416bed195",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502010802",
-          "binding_sha256": "361c3c1f878b8471472505f891bc484a7c503e03c508b32fcbb6c3f4f99b6292",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_109_024",
-              "canonical_audio_asset_id": "wav:e9ce968e04dc5ec1782f15985340b0b8e815b836698ffb336d37fbec3a9470da",
-              "wav_sha256": "e9ce968e04dc5ec1782f15985340b0b8e815b836698ffb336d37fbec3a9470da"
-            },
-            {
-              "cue": "vo_special_109_025",
-              "canonical_audio_asset_id": "wav:4235369df58a37a78abf1fa8d1054739528b599ac40a67841cda73700a74ca4b",
-              "wav_sha256": "4235369df58a37a78abf1fa8d1054739528b599ac40a67841cda73700a74ca4b"
-            },
-            {
-              "cue": "vo_special_109_026",
-              "canonical_audio_asset_id": "wav:616add5c92d4c7f9d6ae8df1ecbdd35492de4d7b4a4d7610c6b9c04bc3e98929",
-              "wav_sha256": "616add5c92d4c7f9d6ae8df1ecbdd35492de4d7b4a4d7610c6b9c04bc3e98929"
-            },
-            {
-              "cue": "vo_special_109_027",
-              "canonical_audio_asset_id": "wav:87ebd373a1872344b82ad3438c0c9e0756e232c62d8662287873c02c23f3b713",
-              "wav_sha256": "87ebd373a1872344b82ad3438c0c9e0756e232c62d8662287873c02c23f3b713"
-            },
-            {
-              "cue": "vo_special_109_028",
-              "canonical_audio_asset_id": "wav:d6113d2cb83674f7e573b2ee6a54556cd3639e950d6d0ba700419292541be28d",
-              "wav_sha256": "d6113d2cb83674f7e573b2ee6a54556cd3639e950d6d0ba700419292541be28d"
-            },
-            {
-              "cue": "vo_special_109_029",
-              "canonical_audio_asset_id": "wav:2f400ef8fc0f5f2803ad8c21e492e522730f1b88629f70745d740f70ba734291",
-              "wav_sha256": "2f400ef8fc0f5f2803ad8c21e492e522730f1b88629f70745d740f70ba734291"
-            },
-            {
-              "cue": "vo_special_109_030",
-              "canonical_audio_asset_id": "wav:0286b434105b952b40c019b51453e5c9c0029a6964a6006edfafb13ecf54a26a",
-              "wav_sha256": "0286b434105b952b40c019b51453e5c9c0029a6964a6006edfafb13ecf54a26a"
-            },
-            {
-              "cue": "vo_special_109_031",
-              "canonical_audio_asset_id": "wav:c22c09e9b9b9ceaa7290a92f5370afc0ac20fb299a8e04fc2fc8503a0834f362",
-              "wav_sha256": "c22c09e9b9b9ceaa7290a92f5370afc0ac20fb299a8e04fc2fc8503a0834f362"
-            },
-            {
-              "cue": "vo_special_109_032",
-              "canonical_audio_asset_id": "wav:989ae5d83daa3e34e4938e1717519ed656a23e4d63e8e7852a9b5fa461325ede",
-              "wav_sha256": "989ae5d83daa3e34e4938e1717519ed656a23e4d63e8e7852a9b5fa461325ede"
-            },
-            {
-              "cue": "vo_special_109_033",
-              "canonical_audio_asset_id": "wav:9ef04b3c914405898e7ec2924d149ca819d0329b6a3fb54a6706a94a388dc95e",
-              "wav_sha256": "9ef04b3c914405898e7ec2924d149ca819d0329b6a3fb54a6706a94a388dc95e"
-            },
-            {
-              "cue": "vo_special_109_034",
-              "canonical_audio_asset_id": "wav:653f8a1fff4980959a4d3d7d44938c805f2fb429680ef665e61374b214aa8dda",
-              "wav_sha256": "653f8a1fff4980959a4d3d7d44938c805f2fb429680ef665e61374b214aa8dda"
-            },
-            {
-              "cue": "vo_special_109_035",
-              "canonical_audio_asset_id": "wav:7e71261ced71ad494696cc226e6af180226abd8a3464cdada4049786aa8713e9",
-              "wav_sha256": "7e71261ced71ad494696cc226e6af180226abd8a3464cdada4049786aa8713e9"
-            },
-            {
-              "cue": "vo_special_109_036",
-              "canonical_audio_asset_id": "wav:c0764138d78aa1271b6626625c55d16c3f1458d764041f98ea4f81917ce1a664",
-              "wav_sha256": "c0764138d78aa1271b6626625c55d16c3f1458d764041f98ea4f81917ce1a664"
-            },
-            {
-              "cue": "vo_special_109_037",
-              "canonical_audio_asset_id": "wav:e748abb817414b5b93cfc84f2340bd78948c431ca9ef41cac0493c78561c032e",
-              "wav_sha256": "e748abb817414b5b93cfc84f2340bd78948c431ca9ef41cac0493c78561c032e"
-            },
-            {
-              "cue": "vo_special_109_038",
-              "canonical_audio_asset_id": "wav:3e389d66ceb10c282d32262f6b83d9ae0da8dc8a1599b60effa5ee0bcd09d795",
-              "wav_sha256": "3e389d66ceb10c282d32262f6b83d9ae0da8dc8a1599b60effa5ee0bcd09d795"
-            },
-            {
-              "cue": "vo_special_109_039",
-              "canonical_audio_asset_id": "wav:9db7f2ec2dacbc26a088116587d221896042c9c9ebf91541a479fe33d2d9356c",
-              "wav_sha256": "9db7f2ec2dacbc26a088116587d221896042c9c9ebf91541a479fe33d2d9356c"
-            },
-            {
-              "cue": "vo_special_109_040",
-              "canonical_audio_asset_id": "wav:91be7a11a71bc04ee772c5191a3f2524b545b710e2730c8761998fb283e4e21a",
-              "wav_sha256": "91be7a11a71bc04ee772c5191a3f2524b545b710e2730c8761998fb283e4e21a"
-            },
-            {
-              "cue": "vo_special_109_041",
-              "canonical_audio_asset_id": "wav:edcce42465b33f6a78d8e6c131638a3612c72561c47659235003bdc061c6d3aa",
-              "wav_sha256": "edcce42465b33f6a78d8e6c131638a3612c72561c47659235003bdc061c6d3aa"
-            },
-            {
-              "cue": "vo_special_109_042",
-              "canonical_audio_asset_id": "wav:762c79d8397ed3b8c23ffacf0c0709a2f933bda1fbd72b8adf1bf8ce4ff3a8d9",
-              "wav_sha256": "762c79d8397ed3b8c23ffacf0c0709a2f933bda1fbd72b8adf1bf8ce4ff3a8d9"
-            },
-            {
-              "cue": "vo_special_109_043",
-              "canonical_audio_asset_id": "wav:43772dc4c94ac74a136084d98ee72846d6f14a2bd810748f4ccbda3bfce809e3",
-              "wav_sha256": "43772dc4c94ac74a136084d98ee72846d6f14a2bd810748f4ccbda3bfce809e3"
-            },
-            {
-              "cue": "vo_special_109_044",
-              "canonical_audio_asset_id": "wav:ad4e1b5c3122d7ff46c2c2a810e597bda1b7757129847785f36124ec1f8c2581",
-              "wav_sha256": "ad4e1b5c3122d7ff46c2c2a810e597bda1b7757129847785f36124ec1f8c2581"
-            },
-            {
-              "cue": "vo_special_109_045",
-              "canonical_audio_asset_id": "wav:8f33cd9c9a6c6094367be852417ef5ce946d732229a24e3e7382819559c270f0",
-              "wav_sha256": "8f33cd9c9a6c6094367be852417ef5ce946d732229a24e3e7382819559c270f0"
-            },
-            {
-              "cue": "vo_special_109_046",
-              "canonical_audio_asset_id": "wav:823410d8206cdeb1e9198d9d60ce65aa1cd08e2e4370e00aafc3edf64bf3a791",
-              "wav_sha256": "823410d8206cdeb1e9198d9d60ce65aa1cd08e2e4370e00aafc3edf64bf3a791"
-            },
-            {
-              "cue": "vo_special_109_047",
-              "canonical_audio_asset_id": "wav:e0c323991fa3af64d0f95548582ee7d3c3f224da5b639abb7d95434dfdf96916",
-              "wav_sha256": "e0c323991fa3af64d0f95548582ee7d3c3f224da5b639abb7d95434dfdf96916"
-            },
-            {
-              "cue": "vo_special_109_048",
-              "canonical_audio_asset_id": "wav:1a711b0b85314c4961399ed07872a7eedb71eac2c8547de038db94aacf368ae5",
-              "wav_sha256": "1a711b0b85314c4961399ed07872a7eedb71eac2c8547de038db94aacf368ae5"
-            },
-            {
-              "cue": "vo_special_109_049",
-              "canonical_audio_asset_id": "wav:3824ecfb5cf47633af67472bff046033776b0604284783e0ae4830b71fc7e89a",
-              "wav_sha256": "3824ecfb5cf47633af67472bff046033776b0604284783e0ae4830b71fc7e89a"
-            },
-            {
-              "cue": "vo_special_109_050",
-              "canonical_audio_asset_id": "wav:a5bd2714f79909445594fa6e56974da42f6f870fc73efa422ee1ce3454254ea3",
-              "wav_sha256": "a5bd2714f79909445594fa6e56974da42f6f870fc73efa422ee1ce3454254ea3"
-            },
-            {
-              "cue": "vo_special_109_051",
-              "canonical_audio_asset_id": "wav:e0fe33a6d436a0ccf1fae71fc734bc5d9a4b6c55dae177d5315ed9d4fa804d21",
-              "wav_sha256": "e0fe33a6d436a0ccf1fae71fc734bc5d9a4b6c55dae177d5315ed9d4fa804d21"
-            },
-            {
-              "cue": "vo_special_109_052",
-              "canonical_audio_asset_id": "wav:2491b82b1b296df30fdb88b6be56a9e15a3410facb679ace06aa67203807c4f6",
-              "wav_sha256": "2491b82b1b296df30fdb88b6be56a9e15a3410facb679ace06aa67203807c4f6"
-            },
-            {
-              "cue": "vo_special_109_053",
-              "canonical_audio_asset_id": "wav:1a55b0fd3c2748de283494944c20a162db3da31b877e69585493ca79f8b1dd3d",
-              "wav_sha256": "1a55b0fd3c2748de283494944c20a162db3da31b877e69585493ca79f8b1dd3d"
-            },
-            {
-              "cue": "vo_special_109_054",
-              "canonical_audio_asset_id": "wav:931729b497143cf9a15af3fba307980ceebc81963a6fcf1803e63913c2dd3d2e",
-              "wav_sha256": "931729b497143cf9a15af3fba307980ceebc81963a6fcf1803e63913c2dd3d2e"
-            },
-            {
-              "cue": "vo_special_109_055",
-              "canonical_audio_asset_id": "wav:649ff9f147a9be9ac97f9be0cafa82cdf0cc069e3f62843322130db85d99d779",
-              "wav_sha256": "649ff9f147a9be9ac97f9be0cafa82cdf0cc069e3f62843322130db85d99d779"
-            },
-            {
-              "cue": "vo_special_109_056",
-              "canonical_audio_asset_id": "wav:2cdb18f304bbe44f2a4c03955f2ed3aabe960a8b93be0132c7f2ddab17b7faaa",
-              "wav_sha256": "2cdb18f304bbe44f2a4c03955f2ed3aabe960a8b93be0132c7f2ddab17b7faaa"
-            },
-            {
-              "cue": "vo_special_109_057",
-              "canonical_audio_asset_id": "wav:8da8b458e593024e423b9328bfbb9e7526b6a58bb8288cd26bb71d9e07edb3b3",
-              "wav_sha256": "8da8b458e593024e423b9328bfbb9e7526b6a58bb8288cd26bb71d9e07edb3b3"
-            },
-            {
-              "cue": "vo_special_109_058",
-              "canonical_audio_asset_id": "wav:7c1f93b072ae32f061b4105d88d7cfed997c9b18bd92a1cd5cc59e040f73ff11",
-              "wav_sha256": "7c1f93b072ae32f061b4105d88d7cfed997c9b18bd92a1cd5cc59e040f73ff11"
-            },
-            {
-              "cue": "vo_special_109_059",
-              "canonical_audio_asset_id": "wav:078b28c841b984c50d4ba7a2ad3cfa77b94e3446718b639b9ee670c84f241aed",
-              "wav_sha256": "078b28c841b984c50d4ba7a2ad3cfa77b94e3446718b639b9ee670c84f241aed"
-            },
-            {
-              "cue": "vo_special_title_109_00_001",
-              "canonical_audio_asset_id": "wav:b67b9369bc1916d6b83d313bcdc13e8f3b008e7708c226a5e6a82921b88a0521",
-              "wav_sha256": "b67b9369bc1916d6b83d313bcdc13e8f3b008e7708c226a5e6a82921b88a0521"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_109_024",
-            "vo_special_109_025",
-            "vo_special_109_026",
-            "vo_special_109_027",
-            "vo_special_109_028",
-            "vo_special_109_029",
-            "vo_special_109_030",
-            "vo_special_109_031",
-            "vo_special_109_032",
-            "vo_special_109_033",
-            "vo_special_109_034",
-            "vo_special_109_035",
-            "vo_special_109_036",
-            "vo_special_109_037",
-            "vo_special_109_038",
-            "vo_special_109_039",
-            "vo_special_109_040",
-            "vo_special_109_041",
-            "vo_special_109_042",
-            "vo_special_109_043",
-            "vo_special_109_044",
-            "vo_special_109_045",
-            "vo_special_109_046",
-            "vo_special_109_047",
-            "vo_special_109_048",
-            "vo_special_109_049",
-            "vo_special_109_050",
-            "vo_special_109_051",
-            "vo_special_109_052",
-            "vo_special_109_053",
-            "vo_special_109_054",
-            "vo_special_109_055",
-            "vo_special_109_056",
-            "vo_special_109_057",
-            "vo_special_109_058",
-            "vo_special_109_059",
-            "vo_special_title_109_00_001"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_109_024",
-            "vo_special_109_025",
-            "vo_special_109_026",
-            "vo_special_109_027",
-            "vo_special_109_028",
-            "vo_special_109_029",
-            "vo_special_109_030",
-            "vo_special_109_031",
-            "vo_special_109_032",
-            "vo_special_109_033",
-            "vo_special_109_034",
-            "vo_special_109_035",
-            "vo_special_109_036",
-            "vo_special_109_037",
-            "vo_special_109_038",
-            "vo_special_109_039",
-            "vo_special_109_040",
-            "vo_special_109_041",
-            "vo_special_109_042",
-            "vo_special_109_043",
-            "vo_special_109_044",
-            "vo_special_109_045",
-            "vo_special_109_046",
-            "vo_special_109_047",
-            "vo_special_109_048",
-            "vo_special_109_049",
-            "vo_special_109_050",
-            "vo_special_109_051",
-            "vo_special_109_052",
-            "vo_special_109_053",
-            "vo_special_109_054",
-            "vo_special_109_055",
-            "vo_special_109_056",
-            "vo_special_109_057",
-            "vo_special_109_058",
-            "vo_special_109_059"
-          ],
-          "dialogue_voice_page_count": 36,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "3a1b50dac290d800fea695ed59b4a8f9b20d8525bed5282ce865c4d359cf3e09",
-          "actual_static_review_sha256": "df8409fb6a488eb4795b0611244329d159588be3f9e95ab98cf35f5982e4f75e",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502010803",
-          "binding_sha256": "d43d20472d56f22b1c4ddf386e165df7253e0c0b13e3178bdab2ac446a04df0a",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_110_060",
-              "canonical_audio_asset_id": "wav:8d3b79a0c15ff1d6aae1ce882fb9994f5fa39a62c21b83220e90ca2efc19941a",
-              "wav_sha256": "8d3b79a0c15ff1d6aae1ce882fb9994f5fa39a62c21b83220e90ca2efc19941a"
-            },
-            {
-              "cue": "vo_special_110_061",
-              "canonical_audio_asset_id": "wav:c851a9ed7a93255c7b95610205d254dc5a8d39503ac9dafcd21997dfe72393a3",
-              "wav_sha256": "c851a9ed7a93255c7b95610205d254dc5a8d39503ac9dafcd21997dfe72393a3"
-            },
-            {
-              "cue": "vo_special_110_062",
-              "canonical_audio_asset_id": "wav:bfb4cf65d90e685b88ad977355bb40e07721cd0fd2845759e19b1dc126de0af5",
-              "wav_sha256": "bfb4cf65d90e685b88ad977355bb40e07721cd0fd2845759e19b1dc126de0af5"
-            },
-            {
-              "cue": "vo_special_110_063",
-              "canonical_audio_asset_id": "wav:ec45c56d79c5c3b364d9fa29dd68c5ac7b9e17f3ea1db3328bdacbb41eebc9b8",
-              "wav_sha256": "ec45c56d79c5c3b364d9fa29dd68c5ac7b9e17f3ea1db3328bdacbb41eebc9b8"
-            },
-            {
-              "cue": "vo_special_110_064",
-              "canonical_audio_asset_id": "wav:5fea5e32c68be2f7e3d60a71762302052e6ff17b2e162bed850fa477a56157c0",
-              "wav_sha256": "5fea5e32c68be2f7e3d60a71762302052e6ff17b2e162bed850fa477a56157c0"
-            },
-            {
-              "cue": "vo_special_110_065",
-              "canonical_audio_asset_id": "wav:25a7fc51b35364a0acdc4b0823cb9bb5e175f0d43c177baa439f0ab0e31c67b6",
-              "wav_sha256": "25a7fc51b35364a0acdc4b0823cb9bb5e175f0d43c177baa439f0ab0e31c67b6"
-            },
-            {
-              "cue": "vo_special_110_066",
-              "canonical_audio_asset_id": "wav:4c53e8cafe6c9d012a3b2c533c6b78319c7d4c05bba1a9a40149e5b93e180957",
-              "wav_sha256": "4c53e8cafe6c9d012a3b2c533c6b78319c7d4c05bba1a9a40149e5b93e180957"
-            },
-            {
-              "cue": "vo_special_110_067",
-              "canonical_audio_asset_id": "wav:2415e68f4b29601ac7bf70c22f01fc3f420b3f59df781abce74500cdb24bf175",
-              "wav_sha256": "2415e68f4b29601ac7bf70c22f01fc3f420b3f59df781abce74500cdb24bf175"
-            },
-            {
-              "cue": "vo_special_110_068",
-              "canonical_audio_asset_id": "wav:6ed0ee7f1ddfaf045e431c20e68acc0758fc63e939d74baa6e8c033fc065854b",
-              "wav_sha256": "6ed0ee7f1ddfaf045e431c20e68acc0758fc63e939d74baa6e8c033fc065854b"
-            },
-            {
-              "cue": "vo_special_110_069",
-              "canonical_audio_asset_id": "wav:94da42183339ba167b9b850350e9af6ee4b38a5c2e0bd3e51a71c4ceb693f157",
-              "wav_sha256": "94da42183339ba167b9b850350e9af6ee4b38a5c2e0bd3e51a71c4ceb693f157"
-            },
-            {
-              "cue": "vo_special_110_070",
-              "canonical_audio_asset_id": "wav:ce7b9b7098ef5f171d5ace38a9085be709ef7e37741cf0ab9a77a104c50228c0",
-              "wav_sha256": "ce7b9b7098ef5f171d5ace38a9085be709ef7e37741cf0ab9a77a104c50228c0"
-            },
-            {
-              "cue": "vo_special_110_071",
-              "canonical_audio_asset_id": "wav:044d4c3cd83467e08f76d17f2724310b6e3acc19d591808253092a5a92888d3a",
-              "wav_sha256": "044d4c3cd83467e08f76d17f2724310b6e3acc19d591808253092a5a92888d3a"
-            },
-            {
-              "cue": "vo_special_110_072",
-              "canonical_audio_asset_id": "wav:b37ee9d6036778b9398dce1852a255558b3bb124257bd32d2bd1f305de5737cb",
-              "wav_sha256": "b37ee9d6036778b9398dce1852a255558b3bb124257bd32d2bd1f305de5737cb"
-            },
-            {
-              "cue": "vo_special_110_073",
-              "canonical_audio_asset_id": "wav:61bbcc7866a1564761dc3615256cd1488da520db8b9fb20554141ea73e548dd9",
-              "wav_sha256": "61bbcc7866a1564761dc3615256cd1488da520db8b9fb20554141ea73e548dd9"
-            },
-            {
-              "cue": "vo_special_110_074",
-              "canonical_audio_asset_id": "wav:04d32cf65302d8777d47cc16f03ee2c988f87c34e4c7c14ca2d9ddb280af0f6d",
-              "wav_sha256": "04d32cf65302d8777d47cc16f03ee2c988f87c34e4c7c14ca2d9ddb280af0f6d"
-            },
-            {
-              "cue": "vo_special_110_075",
-              "canonical_audio_asset_id": "wav:9cef0d8e8affe339966e221a9287bd046dc5b729884572980cb5a1a781c846f5",
-              "wav_sha256": "9cef0d8e8affe339966e221a9287bd046dc5b729884572980cb5a1a781c846f5"
-            },
-            {
-              "cue": "vo_special_110_076",
-              "canonical_audio_asset_id": "wav:652398d7531b2bd255febd1dc047730bef28524614a49cd4d320c2dd7cf651dd",
-              "wav_sha256": "652398d7531b2bd255febd1dc047730bef28524614a49cd4d320c2dd7cf651dd"
-            },
-            {
-              "cue": "vo_special_110_077",
-              "canonical_audio_asset_id": "wav:cbc18fb59f7709d2b23461458bddbc603a8486974505da864c0b8c311ad707c3",
-              "wav_sha256": "cbc18fb59f7709d2b23461458bddbc603a8486974505da864c0b8c311ad707c3"
-            },
-            {
-              "cue": "vo_special_110_078",
-              "canonical_audio_asset_id": "wav:2106e2dbbafde664aeca98a53bbe109c3784b1a6594b698f1aa1acf733c65227",
-              "wav_sha256": "2106e2dbbafde664aeca98a53bbe109c3784b1a6594b698f1aa1acf733c65227"
-            },
-            {
-              "cue": "vo_special_110_079",
-              "canonical_audio_asset_id": "wav:bd90ab1507ad4ab72d838403df5c09152bc1a8bbe5e861c5368c93b3e111c0fb",
-              "wav_sha256": "bd90ab1507ad4ab72d838403df5c09152bc1a8bbe5e861c5368c93b3e111c0fb"
-            },
-            {
-              "cue": "vo_special_110_080",
-              "canonical_audio_asset_id": "wav:48139657ac45663d7ee5752252c02473a74adb319d66f2c79c38e0aeb959b8ab",
-              "wav_sha256": "48139657ac45663d7ee5752252c02473a74adb319d66f2c79c38e0aeb959b8ab"
-            },
-            {
-              "cue": "vo_special_110_081",
-              "canonical_audio_asset_id": "wav:3ba1b28708c5efe1a56756060810e2a3b2c9ab834b60b52a8a9b15d279ea270a",
-              "wav_sha256": "3ba1b28708c5efe1a56756060810e2a3b2c9ab834b60b52a8a9b15d279ea270a"
-            },
-            {
-              "cue": "vo_special_110_082",
-              "canonical_audio_asset_id": "wav:80f94378eda83519ad5a6a15bd215d421c7833ec938dc72dbe2539848e9bbb89",
-              "wav_sha256": "80f94378eda83519ad5a6a15bd215d421c7833ec938dc72dbe2539848e9bbb89"
-            },
-            {
-              "cue": "vo_special_110_083",
-              "canonical_audio_asset_id": "wav:1c551e8a42a329c9ba9943a0ca035a42eadda3bd7440c9a548769becc8c345ba",
-              "wav_sha256": "1c551e8a42a329c9ba9943a0ca035a42eadda3bd7440c9a548769becc8c345ba"
-            },
-            {
-              "cue": "vo_special_110_084",
-              "canonical_audio_asset_id": "wav:c06f620914b7ddb2df6c73c5b5784c844653499c470a94630def90f2f0a7847f",
-              "wav_sha256": "c06f620914b7ddb2df6c73c5b5784c844653499c470a94630def90f2f0a7847f"
-            },
-            {
-              "cue": "vo_special_110_085",
-              "canonical_audio_asset_id": "wav:fdde1ae2e7543b29e57eecdb9f8b44b34d0dc1470b39dedc9ebd3beae9929a9f",
-              "wav_sha256": "fdde1ae2e7543b29e57eecdb9f8b44b34d0dc1470b39dedc9ebd3beae9929a9f"
-            },
-            {
-              "cue": "vo_special_110_086",
-              "canonical_audio_asset_id": "wav:f3efb52d284028ddd1f6b7b20422d49c468c9109795e1fc279e09b138936bb4a",
-              "wav_sha256": "f3efb52d284028ddd1f6b7b20422d49c468c9109795e1fc279e09b138936bb4a"
-            },
-            {
-              "cue": "vo_special_110_087",
-              "canonical_audio_asset_id": "wav:3ccd0d2d787447bb907c0ed3ff7e20649adcf5fe9afe3a0a550735ae16f9dc20",
-              "wav_sha256": "3ccd0d2d787447bb907c0ed3ff7e20649adcf5fe9afe3a0a550735ae16f9dc20"
-            },
-            {
-              "cue": "vo_special_110_088",
-              "canonical_audio_asset_id": "wav:e2da4853589019ed3b7f3aa87ce4670fcb1d45dad2104a8b2b6512fc484c841d",
-              "wav_sha256": "e2da4853589019ed3b7f3aa87ce4670fcb1d45dad2104a8b2b6512fc484c841d"
-            },
-            {
-              "cue": "vo_special_110_089",
-              "canonical_audio_asset_id": "wav:e0e8febeb0e3bbd74e6ab62397a328a2b4d5d0a46632a0c035fc3ffe619dea89",
-              "wav_sha256": "e0e8febeb0e3bbd74e6ab62397a328a2b4d5d0a46632a0c035fc3ffe619dea89"
-            },
-            {
-              "cue": "vo_special_110_090",
-              "canonical_audio_asset_id": "wav:e8d772f1d2faa2936c434a18cf11a9abf9a45fedf5f1781efa62ec338cfe04a0",
-              "wav_sha256": "e8d772f1d2faa2936c434a18cf11a9abf9a45fedf5f1781efa62ec338cfe04a0"
-            },
-            {
-              "cue": "vo_special_title_110_00_001",
-              "canonical_audio_asset_id": "wav:e021e5aee5d4fdbbbc546feccb577af250d1c1593d475bfeb93e28d0409b8b12",
-              "wav_sha256": "e021e5aee5d4fdbbbc546feccb577af250d1c1593d475bfeb93e28d0409b8b12"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_110_060",
-            "vo_special_110_061",
-            "vo_special_110_062",
-            "vo_special_110_063",
-            "vo_special_110_064",
-            "vo_special_110_065",
-            "vo_special_110_066",
-            "vo_special_110_067",
-            "vo_special_110_068",
-            "vo_special_110_069",
-            "vo_special_110_070",
-            "vo_special_110_071",
-            "vo_special_110_072",
-            "vo_special_110_073",
-            "vo_special_110_074",
-            "vo_special_110_075",
-            "vo_special_110_076",
-            "vo_special_110_077",
-            "vo_special_110_078",
-            "vo_special_110_079",
-            "vo_special_110_080",
-            "vo_special_110_081",
-            "vo_special_110_082",
-            "vo_special_110_083",
-            "vo_special_110_084",
-            "vo_special_110_085",
-            "vo_special_110_086",
-            "vo_special_110_087",
-            "vo_special_110_088",
-            "vo_special_110_089",
-            "vo_special_110_090",
-            "vo_special_title_110_00_001"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_110_060",
-            "vo_special_110_061",
-            "vo_special_110_062",
-            "vo_special_110_063",
-            "vo_special_110_064",
-            "vo_special_110_065",
-            "vo_special_110_066",
-            "vo_special_110_067",
-            "vo_special_110_068",
-            "vo_special_110_069",
-            "vo_special_110_070",
-            "vo_special_110_071",
-            "vo_special_110_072",
-            "vo_special_110_073",
-            "vo_special_110_074",
-            "vo_special_110_075",
-            "vo_special_110_076",
-            "vo_special_110_077",
-            "vo_special_110_078",
-            "vo_special_110_079",
-            "vo_special_110_080",
-            "vo_special_110_081",
-            "vo_special_110_082",
-            "vo_special_110_083",
-            "vo_special_110_084",
-            "vo_special_110_085",
-            "vo_special_110_086",
-            "vo_special_110_087",
-            "vo_special_110_088",
-            "vo_special_110_089",
-            "vo_special_110_090"
-          ],
-          "dialogue_voice_page_count": 31,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "89c67ba8a4da6d4191731e803e000f638d5a73a96ad708bdb0aa2f26ee235a86",
-          "actual_static_review_sha256": "3976349c8e18a364100c430e1d2f1f9e9a546c24cfce2e13631f7b493ce6e6d9",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502010804",
-          "binding_sha256": "8e691b549434274cc12a4cd04483d07e3d533e03af38dba65e75172b10824d36",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_111_091",
-              "canonical_audio_asset_id": "wav:9d8bc7f2394d8fcb6d41de326ceac8bd3c900e6b697666573e59114a9325a486",
-              "wav_sha256": "9d8bc7f2394d8fcb6d41de326ceac8bd3c900e6b697666573e59114a9325a486"
-            },
-            {
-              "cue": "vo_special_111_092",
-              "canonical_audio_asset_id": "wav:b6c2322efdd2017d5bbdcf7a95e568d1e8d9de134174eb3c51cef7397d39c2ca",
-              "wav_sha256": "b6c2322efdd2017d5bbdcf7a95e568d1e8d9de134174eb3c51cef7397d39c2ca"
-            },
-            {
-              "cue": "vo_special_111_093",
-              "canonical_audio_asset_id": "wav:6507b30db8424ea9672809ff25f94d86ceb1c65694b2bb912f04f7eb6a4e8b2b",
-              "wav_sha256": "6507b30db8424ea9672809ff25f94d86ceb1c65694b2bb912f04f7eb6a4e8b2b"
-            },
-            {
-              "cue": "vo_special_111_094",
-              "canonical_audio_asset_id": "wav:d79b8f872e4a1fe48f1d8c7c609f34b2a39ee61327bd0598e2b767925fd25345",
-              "wav_sha256": "d79b8f872e4a1fe48f1d8c7c609f34b2a39ee61327bd0598e2b767925fd25345"
-            },
-            {
-              "cue": "vo_special_111_095",
-              "canonical_audio_asset_id": "wav:2a6c1861c453d0f46c69ff27f30e7eeb825045f3c8b5b829d6cc4f6ceb078f0f",
-              "wav_sha256": "2a6c1861c453d0f46c69ff27f30e7eeb825045f3c8b5b829d6cc4f6ceb078f0f"
-            },
-            {
-              "cue": "vo_special_111_096",
-              "canonical_audio_asset_id": "wav:9b76a293704bbaa143a0fba6cacd3b0bf77001290275a71aff887d0a16001d6c",
-              "wav_sha256": "9b76a293704bbaa143a0fba6cacd3b0bf77001290275a71aff887d0a16001d6c"
-            },
-            {
-              "cue": "vo_special_111_097",
-              "canonical_audio_asset_id": "wav:3e7cfe60667ca4fe9463438079eace3aa26d85bfa3fc20675d1da5122a78d797",
-              "wav_sha256": "3e7cfe60667ca4fe9463438079eace3aa26d85bfa3fc20675d1da5122a78d797"
-            },
-            {
-              "cue": "vo_special_111_098",
-              "canonical_audio_asset_id": "wav:9d4ca34b95cf2514092a02d43bcf5573d24bd2f7c2f60a30fb7cfbd4a383a383",
-              "wav_sha256": "9d4ca34b95cf2514092a02d43bcf5573d24bd2f7c2f60a30fb7cfbd4a383a383"
-            },
-            {
-              "cue": "vo_special_111_099",
-              "canonical_audio_asset_id": "wav:6a1dfbca19c4fca76beb0e4e6e0d5522c654af58579280d53a7a3b83081445de",
-              "wav_sha256": "6a1dfbca19c4fca76beb0e4e6e0d5522c654af58579280d53a7a3b83081445de"
-            },
-            {
-              "cue": "vo_special_111_100",
-              "canonical_audio_asset_id": "wav:164a65a8f70e5be8ec16d047534e8f29ef0a4cab577fb58a0b690be1dceead95",
-              "wav_sha256": "164a65a8f70e5be8ec16d047534e8f29ef0a4cab577fb58a0b690be1dceead95"
-            },
-            {
-              "cue": "vo_special_111_101",
-              "canonical_audio_asset_id": "wav:773b663fa4848c849ca4a6d33170f430ffffd65e5926e0e52f487bb126ec8bd0",
-              "wav_sha256": "773b663fa4848c849ca4a6d33170f430ffffd65e5926e0e52f487bb126ec8bd0"
-            },
-            {
-              "cue": "vo_special_111_102",
-              "canonical_audio_asset_id": "wav:bd17e54abac06e2b966f7c832264521be12901e2348e3ac2080b873899b7fedc",
-              "wav_sha256": "bd17e54abac06e2b966f7c832264521be12901e2348e3ac2080b873899b7fedc"
-            },
-            {
-              "cue": "vo_special_111_103",
-              "canonical_audio_asset_id": "wav:7eb90174baeb8461e52b439a9e937013698eae98427c2b87d2c902392fe5d0ac",
-              "wav_sha256": "7eb90174baeb8461e52b439a9e937013698eae98427c2b87d2c902392fe5d0ac"
-            },
-            {
-              "cue": "vo_special_111_104",
-              "canonical_audio_asset_id": "wav:ca97882fa623cd52695a3acf91eeffaa789e2e5f6ba42801f008ba280ea3adec",
-              "wav_sha256": "ca97882fa623cd52695a3acf91eeffaa789e2e5f6ba42801f008ba280ea3adec"
-            },
-            {
-              "cue": "vo_special_111_105",
-              "canonical_audio_asset_id": "wav:82978ad0070c558ef4694ddee651ef23239180a614d7c62bb8ed3a7f21fcab1b",
-              "wav_sha256": "82978ad0070c558ef4694ddee651ef23239180a614d7c62bb8ed3a7f21fcab1b"
-            },
-            {
-              "cue": "vo_special_111_106",
-              "canonical_audio_asset_id": "wav:46b1400fef8bbb4f6ec6c27981f3bf24e86e7820b37c06db7d088fe8353f1017",
-              "wav_sha256": "46b1400fef8bbb4f6ec6c27981f3bf24e86e7820b37c06db7d088fe8353f1017"
-            },
-            {
-              "cue": "vo_special_111_107",
-              "canonical_audio_asset_id": "wav:6191bf9a37c3b4d5ce08dcdc0c28b1dc24097c52f906c518ee5a18d0a0334b6a",
-              "wav_sha256": "6191bf9a37c3b4d5ce08dcdc0c28b1dc24097c52f906c518ee5a18d0a0334b6a"
-            },
-            {
-              "cue": "vo_special_111_108",
-              "canonical_audio_asset_id": "wav:aed13ba88c2d02b89723975a81f4785be717f83e39b95fcd42812c39ed94a287",
-              "wav_sha256": "aed13ba88c2d02b89723975a81f4785be717f83e39b95fcd42812c39ed94a287"
-            },
-            {
-              "cue": "vo_special_111_109",
-              "canonical_audio_asset_id": "wav:f9f3be2f5a2fdaa63428b626ea078bd49b1e7e373d96af1d675ee0e79ea8c53d",
-              "wav_sha256": "f9f3be2f5a2fdaa63428b626ea078bd49b1e7e373d96af1d675ee0e79ea8c53d"
-            },
-            {
-              "cue": "vo_special_111_110",
-              "canonical_audio_asset_id": "wav:ff749174b8987b73ca0c5426c0c3f18dbcc1d1307b18b2f4bfd47e8bfe95851c",
-              "wav_sha256": "ff749174b8987b73ca0c5426c0c3f18dbcc1d1307b18b2f4bfd47e8bfe95851c"
-            },
-            {
-              "cue": "vo_special_111_111",
-              "canonical_audio_asset_id": "wav:048f59c9d8512f694e8e501bd22d75a115ff2e3002a7b41cbaa597d3cebde7c6",
-              "wav_sha256": "048f59c9d8512f694e8e501bd22d75a115ff2e3002a7b41cbaa597d3cebde7c6"
-            },
-            {
-              "cue": "vo_special_111_112",
-              "canonical_audio_asset_id": "wav:4821da148e807dffbdf5bf5e8a5affae68e7e191643c30cc6b8330f6433a3e6f",
-              "wav_sha256": "4821da148e807dffbdf5bf5e8a5affae68e7e191643c30cc6b8330f6433a3e6f"
-            },
-            {
-              "cue": "vo_special_111_113",
-              "canonical_audio_asset_id": "wav:edc06d117ad184cdb7504b7ab68c62f4b2393a1dbf41033b566d627900b7a01e",
-              "wav_sha256": "edc06d117ad184cdb7504b7ab68c62f4b2393a1dbf41033b566d627900b7a01e"
-            },
-            {
-              "cue": "vo_special_111_114",
-              "canonical_audio_asset_id": "wav:5a281f80ab6b127fa101b34f927d4525c23a654632d64766a1445e79e6215386",
-              "wav_sha256": "5a281f80ab6b127fa101b34f927d4525c23a654632d64766a1445e79e6215386"
-            },
-            {
-              "cue": "vo_special_111_115",
-              "canonical_audio_asset_id": "wav:d190ea832ac9b4cd4c812432549537dceb58373eb6f4db61a4256d0accdfac19",
-              "wav_sha256": "d190ea832ac9b4cd4c812432549537dceb58373eb6f4db61a4256d0accdfac19"
-            },
-            {
-              "cue": "vo_special_111_116",
-              "canonical_audio_asset_id": "wav:3848d3e6cd100cd69207a4d4ee76cc3c024861e1b3559450eb39778723839bd0",
-              "wav_sha256": "3848d3e6cd100cd69207a4d4ee76cc3c024861e1b3559450eb39778723839bd0"
-            },
-            {
-              "cue": "vo_special_111_117",
-              "canonical_audio_asset_id": "wav:02051d165f45fad199e1243be767469f576d2d208a9d5cbb4b0ff9eac706e20d",
-              "wav_sha256": "02051d165f45fad199e1243be767469f576d2d208a9d5cbb4b0ff9eac706e20d"
-            },
-            {
-              "cue": "vo_special_111_118",
-              "canonical_audio_asset_id": "wav:cce94d99f5350c1408b7a498dc511e670e41280c87b667f9ea3ee780903b783c",
-              "wav_sha256": "cce94d99f5350c1408b7a498dc511e670e41280c87b667f9ea3ee780903b783c"
-            },
-            {
-              "cue": "vo_special_111_119",
-              "canonical_audio_asset_id": "wav:92c9519eb4fb959f091dca9345f9731c179c331091e8338c78750b90852629ca",
-              "wav_sha256": "92c9519eb4fb959f091dca9345f9731c179c331091e8338c78750b90852629ca"
-            },
-            {
-              "cue": "vo_special_111_120",
-              "canonical_audio_asset_id": "wav:9e0b62509b8c5898f6dd6125623f08fcf69e08a739a3a51c7645839d19ff2759",
-              "wav_sha256": "9e0b62509b8c5898f6dd6125623f08fcf69e08a739a3a51c7645839d19ff2759"
-            },
-            {
-              "cue": "vo_special_title_111_00_001",
-              "canonical_audio_asset_id": "wav:5aea76569317fc6a702722ae24e629790a9a13c6f5331fc8738008fbcbd9c532",
-              "wav_sha256": "5aea76569317fc6a702722ae24e629790a9a13c6f5331fc8738008fbcbd9c532"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_111_091",
-            "vo_special_111_092",
-            "vo_special_111_093",
-            "vo_special_111_094",
-            "vo_special_111_095",
-            "vo_special_111_096",
-            "vo_special_111_097",
-            "vo_special_111_098",
-            "vo_special_111_099",
-            "vo_special_111_100",
-            "vo_special_111_101",
-            "vo_special_111_102",
-            "vo_special_111_103",
-            "vo_special_111_104",
-            "vo_special_111_105",
-            "vo_special_111_106",
-            "vo_special_111_107",
-            "vo_special_111_108",
-            "vo_special_111_109",
-            "vo_special_111_110",
-            "vo_special_111_111",
-            "vo_special_111_112",
-            "vo_special_111_113",
-            "vo_special_111_114",
-            "vo_special_111_115",
-            "vo_special_111_116",
-            "vo_special_111_117",
-            "vo_special_111_118",
-            "vo_special_111_119",
-            "vo_special_111_120",
-            "vo_special_title_111_00_001"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_111_091",
-            "vo_special_111_092",
-            "vo_special_111_093",
-            "vo_special_111_094",
-            "vo_special_111_095",
-            "vo_special_111_096",
-            "vo_special_111_097",
-            "vo_special_111_098",
-            "vo_special_111_099",
-            "vo_special_111_100",
-            "vo_special_111_101",
-            "vo_special_111_102",
-            "vo_special_111_103",
-            "vo_special_111_104",
-            "vo_special_111_105",
-            "vo_special_111_106",
-            "vo_special_111_107",
-            "vo_special_111_108",
-            "vo_special_111_109",
-            "vo_special_111_110",
-            "vo_special_111_111",
-            "vo_special_111_112",
-            "vo_special_111_113",
-            "vo_special_111_114",
-            "vo_special_111_115",
-            "vo_special_111_116",
-            "vo_special_111_117",
-            "vo_special_111_118",
-            "vo_special_111_119",
-            "vo_special_111_120"
-          ],
-          "dialogue_voice_page_count": 30,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "114d1205015c2b1c4628e5fd764fd1a82c1adab13b3ebafb5f553f6c91203818",
-          "actual_static_review_sha256": "9e6371914963576977eade836175dd66e60403e66ce3a1b81483fc3d2880bd9f",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502010805",
-          "binding_sha256": "b8a468ff7c78c53655fb9c5503f55ba9ebb6b1db1b8e8d6650502bd936fe7993",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_112_121",
-              "canonical_audio_asset_id": "wav:015f56f2e8307bb8cce8756d3537b427e300b8cf6676a75353b878a8229ca895",
-              "wav_sha256": "015f56f2e8307bb8cce8756d3537b427e300b8cf6676a75353b878a8229ca895"
-            },
-            {
-              "cue": "vo_special_112_122",
-              "canonical_audio_asset_id": "wav:787d3b20331674bd8ab4c1ac4be1c111a2dc1ba1957798a70bb76327872c1493",
-              "wav_sha256": "787d3b20331674bd8ab4c1ac4be1c111a2dc1ba1957798a70bb76327872c1493"
-            },
-            {
-              "cue": "vo_special_112_123",
-              "canonical_audio_asset_id": "wav:1f15ae68368d0a21699153f8c547b078752df6389de3213be98a3f9f7cc3bf83",
-              "wav_sha256": "1f15ae68368d0a21699153f8c547b078752df6389de3213be98a3f9f7cc3bf83"
-            },
-            {
-              "cue": "vo_special_112_124",
-              "canonical_audio_asset_id": "wav:80a271210bc03de0bd6ef4045fa33413a2f1d4a0d54e0be8f05b89649a88c2db",
-              "wav_sha256": "80a271210bc03de0bd6ef4045fa33413a2f1d4a0d54e0be8f05b89649a88c2db"
-            },
-            {
-              "cue": "vo_special_112_125",
-              "canonical_audio_asset_id": "wav:bfe1da0023ca4b7197596acc53a8d81450579f8fdf8db527106905005424c512",
-              "wav_sha256": "bfe1da0023ca4b7197596acc53a8d81450579f8fdf8db527106905005424c512"
-            },
-            {
-              "cue": "vo_special_112_126",
-              "canonical_audio_asset_id": "wav:a9b5c22905f34256dfa83a1d06ae6608ea8ea3767b49c022342db2323e6060f8",
-              "wav_sha256": "a9b5c22905f34256dfa83a1d06ae6608ea8ea3767b49c022342db2323e6060f8"
-            },
-            {
-              "cue": "vo_special_112_127",
-              "canonical_audio_asset_id": "wav:12dfb2ded1a4b1a249b2a46c29cbae85d992a193986e9761ea9b4675736f0f27",
-              "wav_sha256": "12dfb2ded1a4b1a249b2a46c29cbae85d992a193986e9761ea9b4675736f0f27"
-            },
-            {
-              "cue": "vo_special_112_128",
-              "canonical_audio_asset_id": "wav:34b5a1676b673814473222b9f8ed846d2360c50b9b72331ed2e5fba94e2364e1",
-              "wav_sha256": "34b5a1676b673814473222b9f8ed846d2360c50b9b72331ed2e5fba94e2364e1"
-            },
-            {
-              "cue": "vo_special_112_129",
-              "canonical_audio_asset_id": "wav:ed73dbd8f5dbd01be03ee9e2a23190dac135f38183dd6b1b712043785dcfd3b9",
-              "wav_sha256": "ed73dbd8f5dbd01be03ee9e2a23190dac135f38183dd6b1b712043785dcfd3b9"
-            },
-            {
-              "cue": "vo_special_112_130",
-              "canonical_audio_asset_id": "wav:0c185c206206e62a8b2a821418868388d12bbcee631c895cc334f57c7a82a87f",
-              "wav_sha256": "0c185c206206e62a8b2a821418868388d12bbcee631c895cc334f57c7a82a87f"
-            },
-            {
-              "cue": "vo_special_112_131",
-              "canonical_audio_asset_id": "wav:becbe4d6f66374338aed82ee0fd71c18ef8573ddcc2d0f48a4d6c7c72e1feaae",
-              "wav_sha256": "becbe4d6f66374338aed82ee0fd71c18ef8573ddcc2d0f48a4d6c7c72e1feaae"
-            },
-            {
-              "cue": "vo_special_112_132",
-              "canonical_audio_asset_id": "wav:085b07d9fae01f3f06c2abc6be3ec66fddd137f087ed77a42adb092bfe659bad",
-              "wav_sha256": "085b07d9fae01f3f06c2abc6be3ec66fddd137f087ed77a42adb092bfe659bad"
-            },
-            {
-              "cue": "vo_special_112_133",
-              "canonical_audio_asset_id": "wav:789fa14a63c65bf8acad9d1097f420f213823eb678ab1acb7f286bf4335020c2",
-              "wav_sha256": "789fa14a63c65bf8acad9d1097f420f213823eb678ab1acb7f286bf4335020c2"
-            },
-            {
-              "cue": "vo_special_112_134",
-              "canonical_audio_asset_id": "wav:2ecfd103a54d8349f924f32f89c3dfd17ac523c74e35178cea137f5c21c7c517",
-              "wav_sha256": "2ecfd103a54d8349f924f32f89c3dfd17ac523c74e35178cea137f5c21c7c517"
-            },
-            {
-              "cue": "vo_special_112_135",
-              "canonical_audio_asset_id": "wav:dfdad1634b4c959c98d43bf9d355963d82a2f9a965b812ccc5019f9747e33644",
-              "wav_sha256": "dfdad1634b4c959c98d43bf9d355963d82a2f9a965b812ccc5019f9747e33644"
-            },
-            {
-              "cue": "vo_special_112_136",
-              "canonical_audio_asset_id": "wav:3fc61def3eddbf01763c17954d25e1417d9353b445560d5759c1261534608f9f",
-              "wav_sha256": "3fc61def3eddbf01763c17954d25e1417d9353b445560d5759c1261534608f9f"
-            },
-            {
-              "cue": "vo_special_112_137",
-              "canonical_audio_asset_id": "wav:75f10187789ed0d717237766edc166835ca273142547368babb965c3da14f23b",
-              "wav_sha256": "75f10187789ed0d717237766edc166835ca273142547368babb965c3da14f23b"
-            },
-            {
-              "cue": "vo_special_112_138",
-              "canonical_audio_asset_id": "wav:51b7e1f4ff101f77f0b70cbeaca5a20fcdb2a13d73be3e66d4ebbbc1802495a0",
-              "wav_sha256": "51b7e1f4ff101f77f0b70cbeaca5a20fcdb2a13d73be3e66d4ebbbc1802495a0"
-            },
-            {
-              "cue": "vo_special_112_139",
-              "canonical_audio_asset_id": "wav:13450cb18e233cca6f4939f9130b54772de578553fad71b5942d241b19ee373c",
-              "wav_sha256": "13450cb18e233cca6f4939f9130b54772de578553fad71b5942d241b19ee373c"
-            },
-            {
-              "cue": "vo_special_112_140",
-              "canonical_audio_asset_id": "wav:886c3379a88847a30bc5a4640db8024a1a031b3ddfe011214f56eedb6976b488",
-              "wav_sha256": "886c3379a88847a30bc5a4640db8024a1a031b3ddfe011214f56eedb6976b488"
-            },
-            {
-              "cue": "vo_special_112_141",
-              "canonical_audio_asset_id": "wav:371dba91733681780710505aca41bb991588e5c83ae327bf2d4dab74a8b8cd0c",
-              "wav_sha256": "371dba91733681780710505aca41bb991588e5c83ae327bf2d4dab74a8b8cd0c"
-            },
-            {
-              "cue": "vo_special_112_142",
-              "canonical_audio_asset_id": "wav:bcdfbe5b66f384d5aa0fd3ae5e10866a64e9e74563ac7e53fe5984b1c3931fb3",
-              "wav_sha256": "bcdfbe5b66f384d5aa0fd3ae5e10866a64e9e74563ac7e53fe5984b1c3931fb3"
-            },
-            {
-              "cue": "vo_special_112_143",
-              "canonical_audio_asset_id": "wav:fa1db51a1c283560b468aeaff6b569b1fdb401ba912d4792fdce684064e1bc0f",
-              "wav_sha256": "fa1db51a1c283560b468aeaff6b569b1fdb401ba912d4792fdce684064e1bc0f"
-            },
-            {
-              "cue": "vo_special_112_144",
-              "canonical_audio_asset_id": "wav:7e08ca994b644bc206d69950c522031a0e7647721928d667ca2f7a8c0860ec6c",
-              "wav_sha256": "7e08ca994b644bc206d69950c522031a0e7647721928d667ca2f7a8c0860ec6c"
-            },
-            {
-              "cue": "vo_special_112_145",
-              "canonical_audio_asset_id": "wav:5012d5b1f9838a8c4d759dd9d9b902c8631cadf827f0793fbd7203b12d2e71fa",
-              "wav_sha256": "5012d5b1f9838a8c4d759dd9d9b902c8631cadf827f0793fbd7203b12d2e71fa"
-            },
-            {
-              "cue": "vo_special_112_146",
-              "canonical_audio_asset_id": "wav:d88c0ff072b3101fef25f00fa5435393df7f63af1fe4f4344660f2425e388115",
-              "wav_sha256": "d88c0ff072b3101fef25f00fa5435393df7f63af1fe4f4344660f2425e388115"
-            },
-            {
-              "cue": "vo_special_112_147",
-              "canonical_audio_asset_id": "wav:7fe9f429480717dc2188f0ae2f0fcb8bf96d4477a4a1afddbdc61689f0deb3fe",
-              "wav_sha256": "7fe9f429480717dc2188f0ae2f0fcb8bf96d4477a4a1afddbdc61689f0deb3fe"
-            },
-            {
-              "cue": "vo_special_112_148",
-              "canonical_audio_asset_id": "wav:f4629003d1837c31d6c7bb0a80810250de7cc77bf5dfd7cfc12c7f566b6652c6",
-              "wav_sha256": "f4629003d1837c31d6c7bb0a80810250de7cc77bf5dfd7cfc12c7f566b6652c6"
-            },
-            {
-              "cue": "vo_special_112_149",
-              "canonical_audio_asset_id": "wav:e23baef2d314e512b1e46ffd5a6ce5f7b06e077566e8ce152dcae73bfc48d038",
-              "wav_sha256": "e23baef2d314e512b1e46ffd5a6ce5f7b06e077566e8ce152dcae73bfc48d038"
-            },
-            {
-              "cue": "vo_special_112_150",
-              "canonical_audio_asset_id": "wav:87fad81098d21f3d457fd4f660ed3583ba65c652ffd03f35af9a9aec031e2a16",
-              "wav_sha256": "87fad81098d21f3d457fd4f660ed3583ba65c652ffd03f35af9a9aec031e2a16"
-            },
-            {
-              "cue": "vo_special_112_151",
-              "canonical_audio_asset_id": "wav:af199d91a5212a9fc17b52b0771433839f7a7e0d61772a78758e2b8bb4e36e82",
-              "wav_sha256": "af199d91a5212a9fc17b52b0771433839f7a7e0d61772a78758e2b8bb4e36e82"
-            },
-            {
-              "cue": "vo_special_title_112_00_001",
-              "canonical_audio_asset_id": "wav:66e7fe5718439af7585b8ebb01a5c1b8dabac099c6b625e5a118b5067aa30f94",
-              "wav_sha256": "66e7fe5718439af7585b8ebb01a5c1b8dabac099c6b625e5a118b5067aa30f94"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_112_121",
-            "vo_special_112_122",
-            "vo_special_112_123",
-            "vo_special_112_124",
-            "vo_special_112_125",
-            "vo_special_112_126",
-            "vo_special_112_127",
-            "vo_special_112_128",
-            "vo_special_112_129",
-            "vo_special_112_130",
-            "vo_special_112_131",
-            "vo_special_112_132",
-            "vo_special_112_133",
-            "vo_special_112_134",
-            "vo_special_112_135",
-            "vo_special_112_136",
-            "vo_special_112_137",
-            "vo_special_112_138",
-            "vo_special_112_139",
-            "vo_special_112_140",
-            "vo_special_112_141",
-            "vo_special_112_142",
-            "vo_special_112_143",
-            "vo_special_112_144",
-            "vo_special_112_145",
-            "vo_special_112_146",
-            "vo_special_112_147",
-            "vo_special_112_148",
-            "vo_special_112_149",
-            "vo_special_112_150",
-            "vo_special_112_151",
-            "vo_special_112_152",
-            "vo_special_title_112_00_001"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_112_121",
-            "vo_special_112_122",
-            "vo_special_112_123",
-            "vo_special_112_124",
-            "vo_special_112_125",
-            "vo_special_112_126",
-            "vo_special_112_127",
-            "vo_special_112_128",
-            "vo_special_112_129",
-            "vo_special_112_130",
-            "vo_special_112_131",
-            "vo_special_112_132",
-            "vo_special_112_133",
-            "vo_special_112_134",
-            "vo_special_112_135",
-            "vo_special_112_136",
-            "vo_special_112_137",
-            "vo_special_112_138",
-            "vo_special_112_139",
-            "vo_special_112_140",
-            "vo_special_112_141",
-            "vo_special_112_142",
-            "vo_special_112_143",
-            "vo_special_112_144",
-            "vo_special_112_145",
-            "vo_special_112_146",
-            "vo_special_112_147",
-            "vo_special_112_148",
-            "vo_special_112_149",
-            "vo_special_112_150",
-            "vo_special_112_151"
-          ],
-          "dialogue_voice_page_count": 31,
-          "unresolved_non_dialogue_cues": [
-            "vo_special_112_152"
-          ],
-          "unresolved_native_pages": {
-            "vo_special_112_152": [
-              49
-            ]
-          },
-          "root_modality_disposition_sha256": "e55e761ef97ec5d963f895a968f0942a156c67293692496db3b1f1181e9cd27e",
-          "actual_static_review_sha256": "7739764ced6ec236971d5cabbb5ee1ed2d81c2d65925bd6ece6106ebe3ae4d67",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502011301",
-          "binding_sha256": "708a4538954b6d197b53490f379c603214f9b566575239924123b5707eeed158",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_113_001",
-              "canonical_audio_asset_id": "wav:21991d7ebbc22c33781f221bc0166e12894098f3069984db77b7226d294aa5cd",
-              "wav_sha256": "21991d7ebbc22c33781f221bc0166e12894098f3069984db77b7226d294aa5cd"
-            },
-            {
-              "cue": "vo_special_113_002",
-              "canonical_audio_asset_id": "wav:f0a3d88cd62117e2210a4725ce7340c07e8ccb996f2a0a386e545d0debbc3572",
-              "wav_sha256": "f0a3d88cd62117e2210a4725ce7340c07e8ccb996f2a0a386e545d0debbc3572"
-            },
-            {
-              "cue": "vo_special_113_003",
-              "canonical_audio_asset_id": "wav:1b3597e950be02b06e10ec2dde3a1ca5f7d54cdb1ac2785b0cc191e1d2cd8352",
-              "wav_sha256": "1b3597e950be02b06e10ec2dde3a1ca5f7d54cdb1ac2785b0cc191e1d2cd8352"
-            },
-            {
-              "cue": "vo_special_113_004",
-              "canonical_audio_asset_id": "wav:8c9f199a9fd592b315a9ad2a3b8b975a906fef7f2cea25f42ef8dd6c725fdbab",
-              "wav_sha256": "8c9f199a9fd592b315a9ad2a3b8b975a906fef7f2cea25f42ef8dd6c725fdbab"
-            },
-            {
-              "cue": "vo_special_113_005",
-              "canonical_audio_asset_id": "wav:12f807e5bf8d528aae61630deb6640b9a12cfe862313614f1ceb57bf10bc4788",
-              "wav_sha256": "12f807e5bf8d528aae61630deb6640b9a12cfe862313614f1ceb57bf10bc4788"
-            },
-            {
-              "cue": "vo_special_113_006",
-              "canonical_audio_asset_id": "wav:c69bc9fc91e83678f0c0b5b8ff38b002ae17e1f90c55c344cc6c7a385b9e732e",
-              "wav_sha256": "c69bc9fc91e83678f0c0b5b8ff38b002ae17e1f90c55c344cc6c7a385b9e732e"
-            },
-            {
-              "cue": "vo_special_113_007",
-              "canonical_audio_asset_id": "wav:039d417b1c34f1ae2aa5928726ffbcd8d725161dc7a3bf6cd5d36095b598a4b4",
-              "wav_sha256": "039d417b1c34f1ae2aa5928726ffbcd8d725161dc7a3bf6cd5d36095b598a4b4"
-            },
-            {
-              "cue": "vo_special_113_008",
-              "canonical_audio_asset_id": "wav:70bcc1f8e637a7df614a44160b42b6e786ceb87d9cc4581b49a4ac612e66221e",
-              "wav_sha256": "70bcc1f8e637a7df614a44160b42b6e786ceb87d9cc4581b49a4ac612e66221e"
-            },
-            {
-              "cue": "vo_special_113_009",
-              "canonical_audio_asset_id": "wav:0b3df5a7da34061411321a8c8aa83b0cd32bf6806ce75339e6ac8fe8eed5bdbc",
-              "wav_sha256": "0b3df5a7da34061411321a8c8aa83b0cd32bf6806ce75339e6ac8fe8eed5bdbc"
-            },
-            {
-              "cue": "vo_special_113_010",
-              "canonical_audio_asset_id": "wav:c10b4e7f86ef535f3176fc402bd5a25b3d928539b358a2e8b8ceade33c93aae0",
-              "wav_sha256": "c10b4e7f86ef535f3176fc402bd5a25b3d928539b358a2e8b8ceade33c93aae0"
-            },
-            {
-              "cue": "vo_special_113_011",
-              "canonical_audio_asset_id": "wav:1b989ee3208cb282de15b7819fd9bdb6ea143568e47f87aa3eb5665fc3bb4c2d",
-              "wav_sha256": "1b989ee3208cb282de15b7819fd9bdb6ea143568e47f87aa3eb5665fc3bb4c2d"
-            },
-            {
-              "cue": "vo_special_113_012",
-              "canonical_audio_asset_id": "wav:7bad91ab7e9eb5e2cc19cd2cffa645774e4f64706df6036d51d722b1348c5aec",
-              "wav_sha256": "7bad91ab7e9eb5e2cc19cd2cffa645774e4f64706df6036d51d722b1348c5aec"
-            },
-            {
-              "cue": "vo_special_113_013",
-              "canonical_audio_asset_id": "wav:be46be89ff9fc12e337a3bca29b3a34017cf44ddc0c913e137f824d926638c86",
-              "wav_sha256": "be46be89ff9fc12e337a3bca29b3a34017cf44ddc0c913e137f824d926638c86"
-            },
-            {
-              "cue": "vo_special_113_014",
-              "canonical_audio_asset_id": "wav:6340cc4ff35a76cfea3c67304d9117e10f14cb4b16598349251aae1e56b7630d",
-              "wav_sha256": "6340cc4ff35a76cfea3c67304d9117e10f14cb4b16598349251aae1e56b7630d"
-            },
-            {
-              "cue": "vo_special_113_015",
-              "canonical_audio_asset_id": "wav:965afc35959ba1c5cb2dbba1366b1d769ddbb9350796543f36e98f4a6eb34909",
-              "wav_sha256": "965afc35959ba1c5cb2dbba1366b1d769ddbb9350796543f36e98f4a6eb34909"
-            },
-            {
-              "cue": "vo_special_113_016",
-              "canonical_audio_asset_id": "wav:182eb4578f83ffbb202fa5e2e8dc2a7cfda74ea6117f49f362a36736d186134e",
-              "wav_sha256": "182eb4578f83ffbb202fa5e2e8dc2a7cfda74ea6117f49f362a36736d186134e"
-            },
-            {
-              "cue": "vo_special_113_017",
-              "canonical_audio_asset_id": "wav:819d5cc8f869d4ca7ffdd52017ab6e22584a10f5f95cf150386debfe8eac6fce",
-              "wav_sha256": "819d5cc8f869d4ca7ffdd52017ab6e22584a10f5f95cf150386debfe8eac6fce"
-            },
-            {
-              "cue": "vo_special_113_018",
-              "canonical_audio_asset_id": "wav:f626cb0b3502252d5eb5c06f2340a97652a77ab37fa95e702e1a8346b9432dc7",
-              "wav_sha256": "f626cb0b3502252d5eb5c06f2340a97652a77ab37fa95e702e1a8346b9432dc7"
-            },
-            {
-              "cue": "vo_special_113_019",
-              "canonical_audio_asset_id": "wav:4fa3053fef8170a2773f13400f34a585f0d71159781138118c6a20a1fbc13022",
-              "wav_sha256": "4fa3053fef8170a2773f13400f34a585f0d71159781138118c6a20a1fbc13022"
-            },
-            {
-              "cue": "vo_special_title_113_00",
-              "canonical_audio_asset_id": "wav:a317cdb1a6df4ea0eba2c878d8a7c259b64e9e996e56f6cacd0f717f779890c8",
-              "wav_sha256": "a317cdb1a6df4ea0eba2c878d8a7c259b64e9e996e56f6cacd0f717f779890c8"
-            },
-            {
-              "cue": "vo_special_title_113_00_01",
-              "canonical_audio_asset_id": "wav:56c91e149d517cbee872317297b14d48705eafd62e2d034998589be1da07f2c3",
-              "wav_sha256": "56c91e149d517cbee872317297b14d48705eafd62e2d034998589be1da07f2c3"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_113_001",
-            "vo_special_113_002",
-            "vo_special_113_003",
-            "vo_special_113_004",
-            "vo_special_113_005",
-            "vo_special_113_006",
-            "vo_special_113_007",
-            "vo_special_113_008",
-            "vo_special_113_009",
-            "vo_special_113_010",
-            "vo_special_113_011",
-            "vo_special_113_012",
-            "vo_special_113_013",
-            "vo_special_113_014",
-            "vo_special_113_015",
-            "vo_special_113_016",
-            "vo_special_113_017",
-            "vo_special_113_018",
-            "vo_special_113_019",
-            "vo_special_title_113_00",
-            "vo_special_title_113_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_113_001",
-            "vo_special_113_002",
-            "vo_special_113_003",
-            "vo_special_113_004",
-            "vo_special_113_005",
-            "vo_special_113_006",
-            "vo_special_113_007",
-            "vo_special_113_008",
-            "vo_special_113_009",
-            "vo_special_113_010",
-            "vo_special_113_011",
-            "vo_special_113_012",
-            "vo_special_113_013",
-            "vo_special_113_014",
-            "vo_special_113_015",
-            "vo_special_113_016",
-            "vo_special_113_017",
-            "vo_special_113_018",
-            "vo_special_113_019"
-          ],
-          "dialogue_voice_page_count": 19,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "84c7400babe713cfd6893298f124a97f81cc7ae006014fd27c064316baa74f3b",
-          "actual_static_review_sha256": "1266a7706bb276ea8f40b0426b6d6e1140b6dd1c5a69d33b7608fdc8ca8093b2",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502011302",
-          "binding_sha256": "33db936d3adf0462036af33aa62d2ad01e413d5f3aa778a7569efe1604f3ff0e",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_114_020",
-              "canonical_audio_asset_id": "wav:c5676a0dad15f9bec373617bb0a0d8c5f3ae114483a889aa100b9c22c6a34d12",
-              "wav_sha256": "c5676a0dad15f9bec373617bb0a0d8c5f3ae114483a889aa100b9c22c6a34d12"
-            },
-            {
-              "cue": "vo_special_114_021",
-              "canonical_audio_asset_id": "wav:1d231b13df36bf8c6d85bb691af8d3231b6b2e278e07b7381ccc3fb98f69c982",
-              "wav_sha256": "1d231b13df36bf8c6d85bb691af8d3231b6b2e278e07b7381ccc3fb98f69c982"
-            },
-            {
-              "cue": "vo_special_114_022",
-              "canonical_audio_asset_id": "wav:29bbf76c0103a25b72363b88a32ee87ed803ed38d590ab577dfd3ae321916f3a",
-              "wav_sha256": "29bbf76c0103a25b72363b88a32ee87ed803ed38d590ab577dfd3ae321916f3a"
-            },
-            {
-              "cue": "vo_special_114_023",
-              "canonical_audio_asset_id": "wav:c451da9dd66d439847fcd36eb8086974edfe22df8f15492d73f579379cafb227",
-              "wav_sha256": "c451da9dd66d439847fcd36eb8086974edfe22df8f15492d73f579379cafb227"
-            },
-            {
-              "cue": "vo_special_114_024",
-              "canonical_audio_asset_id": "wav:e351d3e4a67b421e6ee711da0b246bf60bf4aaa9ac021726cd2ad96a10d48b0a",
-              "wav_sha256": "e351d3e4a67b421e6ee711da0b246bf60bf4aaa9ac021726cd2ad96a10d48b0a"
-            },
-            {
-              "cue": "vo_special_114_025",
-              "canonical_audio_asset_id": "wav:af7188706cf921ee9aad66c716760a5d3232ac3218cb8de4ca411b176858b686",
-              "wav_sha256": "af7188706cf921ee9aad66c716760a5d3232ac3218cb8de4ca411b176858b686"
-            },
-            {
-              "cue": "vo_special_114_026",
-              "canonical_audio_asset_id": "wav:0060e94bb3b35c3fe9e470cc918437e068e48a7cf362c908707e5170f855e6a4",
-              "wav_sha256": "0060e94bb3b35c3fe9e470cc918437e068e48a7cf362c908707e5170f855e6a4"
-            },
-            {
-              "cue": "vo_special_114_027",
-              "canonical_audio_asset_id": "wav:a9fadced0557326903f30dedbccae2cb1a0cef44f76e1dfc17b4e27c78bb72ab",
-              "wav_sha256": "a9fadced0557326903f30dedbccae2cb1a0cef44f76e1dfc17b4e27c78bb72ab"
-            },
-            {
-              "cue": "vo_special_114_028",
-              "canonical_audio_asset_id": "wav:d8a736858eda15a851877fc361aa302fe879b7935b14f136593334ffe0079241",
-              "wav_sha256": "d8a736858eda15a851877fc361aa302fe879b7935b14f136593334ffe0079241"
-            },
-            {
-              "cue": "vo_special_114_029",
-              "canonical_audio_asset_id": "wav:f602dda3c4f2356e87e5ebd3d0e857551540cab57d3abd1b8be1326e5ab669d6",
-              "wav_sha256": "f602dda3c4f2356e87e5ebd3d0e857551540cab57d3abd1b8be1326e5ab669d6"
-            },
-            {
-              "cue": "vo_special_114_030",
-              "canonical_audio_asset_id": "wav:fdeae074a9feabdb547adb99d32f5b059307bd150c58af47d5b83cfa309daa5f",
-              "wav_sha256": "fdeae074a9feabdb547adb99d32f5b059307bd150c58af47d5b83cfa309daa5f"
-            },
-            {
-              "cue": "vo_special_114_031",
-              "canonical_audio_asset_id": "wav:64a40c5746f37944c80e5c985878a77efcff41ee9c7c55a9eda492e0ff3ece75",
-              "wav_sha256": "64a40c5746f37944c80e5c985878a77efcff41ee9c7c55a9eda492e0ff3ece75"
-            },
-            {
-              "cue": "vo_special_114_032",
-              "canonical_audio_asset_id": "wav:f8d2965aa4339458d6c427fe96b719b821722b6c9443db1175b832122cfbbabb",
-              "wav_sha256": "f8d2965aa4339458d6c427fe96b719b821722b6c9443db1175b832122cfbbabb"
-            },
-            {
-              "cue": "vo_special_114_033",
-              "canonical_audio_asset_id": "wav:34e5be5ed74422e60cb09ce9cb722fea02310f28086d8120d22b5f7861e23dd4",
-              "wav_sha256": "34e5be5ed74422e60cb09ce9cb722fea02310f28086d8120d22b5f7861e23dd4"
-            },
-            {
-              "cue": "vo_special_114_034",
-              "canonical_audio_asset_id": "wav:06a7b554952cb0d2fd049c478845da81677dbe6c10a2e5c8a3d8a87b07adab76",
-              "wav_sha256": "06a7b554952cb0d2fd049c478845da81677dbe6c10a2e5c8a3d8a87b07adab76"
-            },
-            {
-              "cue": "vo_special_114_035",
-              "canonical_audio_asset_id": "wav:1d0844edbdcbeb14176e2a86ad2060c21beb423030f5972ff734bbd94551e298",
-              "wav_sha256": "1d0844edbdcbeb14176e2a86ad2060c21beb423030f5972ff734bbd94551e298"
-            },
-            {
-              "cue": "vo_special_114_036",
-              "canonical_audio_asset_id": "wav:b30cccda3031d40ca012693d8a4ec571a2111943e246624540e117c9e0340e3a",
-              "wav_sha256": "b30cccda3031d40ca012693d8a4ec571a2111943e246624540e117c9e0340e3a"
-            },
-            {
-              "cue": "vo_special_114_037",
-              "canonical_audio_asset_id": "wav:db366fd82d3570b2a0fe246e4c6aabdd2a8afac969db641adba775431eba8f1b",
-              "wav_sha256": "db366fd82d3570b2a0fe246e4c6aabdd2a8afac969db641adba775431eba8f1b"
-            },
-            {
-              "cue": "vo_special_114_038",
-              "canonical_audio_asset_id": "wav:2ae930acb4791225939d254d6fd44f2888a50f63e57d2fd690b6075f0e321cd1",
-              "wav_sha256": "2ae930acb4791225939d254d6fd44f2888a50f63e57d2fd690b6075f0e321cd1"
-            },
-            {
-              "cue": "vo_special_114_039",
-              "canonical_audio_asset_id": "wav:6d587f841470287d56f04f845a2f5be6bf98091deef12e3bb8ae6a2aebec6a0f",
-              "wav_sha256": "6d587f841470287d56f04f845a2f5be6bf98091deef12e3bb8ae6a2aebec6a0f"
-            },
-            {
-              "cue": "vo_special_114_040",
-              "canonical_audio_asset_id": "wav:9645699c2cc89157a90747ee15bcc71ca075176b5d7ac532f71248cd3f87a688",
-              "wav_sha256": "9645699c2cc89157a90747ee15bcc71ca075176b5d7ac532f71248cd3f87a688"
-            },
-            {
-              "cue": "vo_special_114_041",
-              "canonical_audio_asset_id": "wav:80222f3c74c2cc6dd19830a76d895904e37f33b0d76035eac66e147b576aa1f8",
-              "wav_sha256": "80222f3c74c2cc6dd19830a76d895904e37f33b0d76035eac66e147b576aa1f8"
-            },
-            {
-              "cue": "vo_special_114_042",
-              "canonical_audio_asset_id": "wav:df967486d652ae0b295b196ca1f7b4d0c51c75ae6729c42e4462e7cb83d18216",
-              "wav_sha256": "df967486d652ae0b295b196ca1f7b4d0c51c75ae6729c42e4462e7cb83d18216"
-            },
-            {
-              "cue": "vo_special_114_043",
-              "canonical_audio_asset_id": "wav:5185123cb41ed3573fa2c10c13956003605e920fca511560d340b9326fd3a548",
-              "wav_sha256": "5185123cb41ed3573fa2c10c13956003605e920fca511560d340b9326fd3a548"
-            },
-            {
-              "cue": "vo_special_114_044",
-              "canonical_audio_asset_id": "wav:3689d0e7046c90dcb88fb49468f05d6f57a133c036d38de199857e5ef44ab89f",
-              "wav_sha256": "3689d0e7046c90dcb88fb49468f05d6f57a133c036d38de199857e5ef44ab89f"
-            },
-            {
-              "cue": "vo_special_title_114_00_01",
-              "canonical_audio_asset_id": "wav:4e816e443b2f9f7043b5e0bf76e6b76409569e7d0511485d5f9976b2943f3072",
-              "wav_sha256": "4e816e443b2f9f7043b5e0bf76e6b76409569e7d0511485d5f9976b2943f3072"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_114_020",
-            "vo_special_114_021",
-            "vo_special_114_022",
-            "vo_special_114_023",
-            "vo_special_114_024",
-            "vo_special_114_025",
-            "vo_special_114_026",
-            "vo_special_114_027",
-            "vo_special_114_028",
-            "vo_special_114_029",
-            "vo_special_114_030",
-            "vo_special_114_031",
-            "vo_special_114_032",
-            "vo_special_114_033",
-            "vo_special_114_034",
-            "vo_special_114_035",
-            "vo_special_114_036",
-            "vo_special_114_037",
-            "vo_special_114_038",
-            "vo_special_114_039",
-            "vo_special_114_040",
-            "vo_special_114_041",
-            "vo_special_114_042",
-            "vo_special_114_043",
-            "vo_special_114_044",
-            "vo_special_title_114_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_114_020",
-            "vo_special_114_021",
-            "vo_special_114_022",
-            "vo_special_114_023",
-            "vo_special_114_024",
-            "vo_special_114_025",
-            "vo_special_114_026",
-            "vo_special_114_027",
-            "vo_special_114_028",
-            "vo_special_114_029",
-            "vo_special_114_030",
-            "vo_special_114_031",
-            "vo_special_114_032",
-            "vo_special_114_033",
-            "vo_special_114_034",
-            "vo_special_114_035",
-            "vo_special_114_036",
-            "vo_special_114_037",
-            "vo_special_114_038",
-            "vo_special_114_039",
-            "vo_special_114_040",
-            "vo_special_114_041",
-            "vo_special_114_042",
-            "vo_special_114_043",
-            "vo_special_114_044"
-          ],
-          "dialogue_voice_page_count": 25,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "617a2a99e939da9e7552f624bdf703ba1ed9b3269afe529652b02df2a690efda",
-          "actual_static_review_sha256": "739e4e553b3999146e8874e59241e3f6f0822cc86e746bca6b044f7e8add4a14",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502011303",
-          "binding_sha256": "99105375a788f0496f6a59f3c6b9cfd0499fbace6fcb189e614a356126eaabb8",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_115_045",
-              "canonical_audio_asset_id": "wav:040f8e71ab45a5d9e928e5c8565642f7f03ffa4db586b62b214ccc101111ad49",
-              "wav_sha256": "040f8e71ab45a5d9e928e5c8565642f7f03ffa4db586b62b214ccc101111ad49"
-            },
-            {
-              "cue": "vo_special_115_046",
-              "canonical_audio_asset_id": "wav:4903a761660d9594ab9ecde678607bc97ac7ae5c2fd3ae8659159667f5139c27",
-              "wav_sha256": "4903a761660d9594ab9ecde678607bc97ac7ae5c2fd3ae8659159667f5139c27"
-            },
-            {
-              "cue": "vo_special_115_047",
-              "canonical_audio_asset_id": "wav:b4992f9751112e55fc50929245af36795aa5b00f617719a80368d1ee36214222",
-              "wav_sha256": "b4992f9751112e55fc50929245af36795aa5b00f617719a80368d1ee36214222"
-            },
-            {
-              "cue": "vo_special_115_048",
-              "canonical_audio_asset_id": "wav:7daacf285dea8c319f3b3e30e4540aab772e7d6a5c9e4d7e4022fa385b1a947c",
-              "wav_sha256": "7daacf285dea8c319f3b3e30e4540aab772e7d6a5c9e4d7e4022fa385b1a947c"
-            },
-            {
-              "cue": "vo_special_115_049",
-              "canonical_audio_asset_id": "wav:23db239cf9307992132f4ef37b5cc92cb4481b951dabbefcddd5b6d2bdea0eff",
-              "wav_sha256": "23db239cf9307992132f4ef37b5cc92cb4481b951dabbefcddd5b6d2bdea0eff"
-            },
-            {
-              "cue": "vo_special_115_050",
-              "canonical_audio_asset_id": "wav:28c3ca3d12b289cef8d3582dc3e786daf27b6f0d632540a1b26206b200ca2a3f",
-              "wav_sha256": "28c3ca3d12b289cef8d3582dc3e786daf27b6f0d632540a1b26206b200ca2a3f"
-            },
-            {
-              "cue": "vo_special_115_051",
-              "canonical_audio_asset_id": "wav:098b8e925f3d02da6a84bdfc299dfdcf2db3614e036c8da21c007673d7da6bf3",
-              "wav_sha256": "098b8e925f3d02da6a84bdfc299dfdcf2db3614e036c8da21c007673d7da6bf3"
-            },
-            {
-              "cue": "vo_special_115_052",
-              "canonical_audio_asset_id": "wav:e186c48ebc70abaa077a4aee8487ceb99269b5f7fb624941f96c8691a28e7445",
-              "wav_sha256": "e186c48ebc70abaa077a4aee8487ceb99269b5f7fb624941f96c8691a28e7445"
-            },
-            {
-              "cue": "vo_special_115_053",
-              "canonical_audio_asset_id": "wav:446e119c4483dc80e50e8014e2309ca9bbb7356fbb1bf0250f628e230a88017b",
-              "wav_sha256": "446e119c4483dc80e50e8014e2309ca9bbb7356fbb1bf0250f628e230a88017b"
-            },
-            {
-              "cue": "vo_special_115_054",
-              "canonical_audio_asset_id": "wav:38df1d2945510c1d336d45016b1e8ad1739aef1bc7425efdec76199b8d415810",
-              "wav_sha256": "38df1d2945510c1d336d45016b1e8ad1739aef1bc7425efdec76199b8d415810"
-            },
-            {
-              "cue": "vo_special_115_055",
-              "canonical_audio_asset_id": "wav:f3746c8dc54aeda25911393a5b3690d9efca50da2500946535280bac249cb41a",
-              "wav_sha256": "f3746c8dc54aeda25911393a5b3690d9efca50da2500946535280bac249cb41a"
-            },
-            {
-              "cue": "vo_special_115_056",
-              "canonical_audio_asset_id": "wav:30502ccf7e23a00a468f8e6229fb7e37c344a352c7c4d2ed32c079769830d1ef",
-              "wav_sha256": "30502ccf7e23a00a468f8e6229fb7e37c344a352c7c4d2ed32c079769830d1ef"
-            },
-            {
-              "cue": "vo_special_115_057",
-              "canonical_audio_asset_id": "wav:8305b2a8912bdda1641ff592ac59d6f3656c03fd66cb32780376c2274e87336b",
-              "wav_sha256": "8305b2a8912bdda1641ff592ac59d6f3656c03fd66cb32780376c2274e87336b"
-            },
-            {
-              "cue": "vo_special_115_058",
-              "canonical_audio_asset_id": "wav:11fc61f5caaf1293443ff14546d7623f980171f5a802c1fc1939edfdc07b286e",
-              "wav_sha256": "11fc61f5caaf1293443ff14546d7623f980171f5a802c1fc1939edfdc07b286e"
-            },
-            {
-              "cue": "vo_special_115_059",
-              "canonical_audio_asset_id": "wav:0e7af42eb5d6261f8fb978758132fd36934f30d1bfc8e14f683efc8909383382",
-              "wav_sha256": "0e7af42eb5d6261f8fb978758132fd36934f30d1bfc8e14f683efc8909383382"
-            },
-            {
-              "cue": "vo_special_115_060",
-              "canonical_audio_asset_id": "wav:ff879d1829985753595862e195f09cb3189365f11af091e616ad9f69944f791c",
-              "wav_sha256": "ff879d1829985753595862e195f09cb3189365f11af091e616ad9f69944f791c"
-            },
-            {
-              "cue": "vo_special_title_115_00_01",
-              "canonical_audio_asset_id": "wav:3dde0e2ce29e89fe42a92a0860fc5cc2dfd2e1fa420c9bd32c5b8f3ec6befade",
-              "wav_sha256": "3dde0e2ce29e89fe42a92a0860fc5cc2dfd2e1fa420c9bd32c5b8f3ec6befade"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_115_045",
-            "vo_special_115_046",
-            "vo_special_115_047",
-            "vo_special_115_048",
-            "vo_special_115_049",
-            "vo_special_115_050",
-            "vo_special_115_051",
-            "vo_special_115_052",
-            "vo_special_115_053",
-            "vo_special_115_054",
-            "vo_special_115_055",
-            "vo_special_115_056",
-            "vo_special_115_057",
-            "vo_special_115_058",
-            "vo_special_115_059",
-            "vo_special_115_060",
-            "vo_special_title_115_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_115_045",
-            "vo_special_115_046",
-            "vo_special_115_047",
-            "vo_special_115_048",
-            "vo_special_115_049",
-            "vo_special_115_050",
-            "vo_special_115_051",
-            "vo_special_115_052",
-            "vo_special_115_053",
-            "vo_special_115_054",
-            "vo_special_115_055",
-            "vo_special_115_056",
-            "vo_special_115_057",
-            "vo_special_115_058",
-            "vo_special_115_059",
-            "vo_special_115_060"
-          ],
-          "dialogue_voice_page_count": 16,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "0a4285e291dac65bbde3ad635b74193888588300430b528e7b3ea76d6ac86c2a",
-          "actual_static_review_sha256": "bca30f9f50163654aeb2a41816f9afaf21111aa392fec5888909f3e4fd5ce958",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502011304",
-          "binding_sha256": "a80e4484db4da96280d24bde146619d211f17d4905de419a805f046cfd0e4e0a",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_116_061",
-              "canonical_audio_asset_id": "wav:d5192a3f42291557177bb5c4791fa867e998f3b656f4262ca1288f87e6f50c62",
-              "wav_sha256": "d5192a3f42291557177bb5c4791fa867e998f3b656f4262ca1288f87e6f50c62"
-            },
-            {
-              "cue": "vo_special_116_062",
-              "canonical_audio_asset_id": "wav:a56870e731ef47d74cfd43cb70b3e257abd59f00a1ea5daa43d4ae5f5d72bb2a",
-              "wav_sha256": "a56870e731ef47d74cfd43cb70b3e257abd59f00a1ea5daa43d4ae5f5d72bb2a"
-            },
-            {
-              "cue": "vo_special_116_063",
-              "canonical_audio_asset_id": "wav:c1adcfb2c44dcd5b5fce61214b9db972284594711a61295d21cf491e463fac55",
-              "wav_sha256": "c1adcfb2c44dcd5b5fce61214b9db972284594711a61295d21cf491e463fac55"
-            },
-            {
-              "cue": "vo_special_116_064",
-              "canonical_audio_asset_id": "wav:e60f9aeba8f2dccb3e38e5af10c87bb994cd6353946e5eac0dc6c19cf51d5a82",
-              "wav_sha256": "e60f9aeba8f2dccb3e38e5af10c87bb994cd6353946e5eac0dc6c19cf51d5a82"
-            },
-            {
-              "cue": "vo_special_116_065",
-              "canonical_audio_asset_id": "wav:6065d7eabe5043fa66b4cad2b450235d06305006fb2b975c36eaedf6e77ce0c9",
-              "wav_sha256": "6065d7eabe5043fa66b4cad2b450235d06305006fb2b975c36eaedf6e77ce0c9"
-            },
-            {
-              "cue": "vo_special_116_066",
-              "canonical_audio_asset_id": "wav:3c445199eac2937574e7607fe37ff571d0f87292737a861f2975cb77bb7f00b9",
-              "wav_sha256": "3c445199eac2937574e7607fe37ff571d0f87292737a861f2975cb77bb7f00b9"
-            },
-            {
-              "cue": "vo_special_116_067",
-              "canonical_audio_asset_id": "wav:6c205875b4000fa86d05735311aafb1093cfe0fff886b1cba4ba8ce96f478e1d",
-              "wav_sha256": "6c205875b4000fa86d05735311aafb1093cfe0fff886b1cba4ba8ce96f478e1d"
-            },
-            {
-              "cue": "vo_special_116_068",
-              "canonical_audio_asset_id": "wav:09e0d00b094c66a36e08ca5d435a1dbaf5e6346d35f3e9eed8f55e0293c8bf30",
-              "wav_sha256": "09e0d00b094c66a36e08ca5d435a1dbaf5e6346d35f3e9eed8f55e0293c8bf30"
-            },
-            {
-              "cue": "vo_special_116_069",
-              "canonical_audio_asset_id": "wav:a1b67a6254c6de80c5accca29feea64e4af954bc4f5041b5d708eba15c52a8f3",
-              "wav_sha256": "a1b67a6254c6de80c5accca29feea64e4af954bc4f5041b5d708eba15c52a8f3"
-            },
-            {
-              "cue": "vo_special_116_070",
-              "canonical_audio_asset_id": "wav:6909e67869d667feadc0d589bea3bfc01d7d103b4d9af0401f9e3eebd163da57",
-              "wav_sha256": "6909e67869d667feadc0d589bea3bfc01d7d103b4d9af0401f9e3eebd163da57"
-            },
-            {
-              "cue": "vo_special_116_071",
-              "canonical_audio_asset_id": "wav:adc8f2b4a10a7c172c886bb5ca8ec2b187609de49271317e402fb3b49d3b0ee6",
-              "wav_sha256": "adc8f2b4a10a7c172c886bb5ca8ec2b187609de49271317e402fb3b49d3b0ee6"
-            },
-            {
-              "cue": "vo_special_116_072",
-              "canonical_audio_asset_id": "wav:dab4f1df71a28ae7913052ec64b7abdb7d64e0892aa1ddc753b371683af8998d",
-              "wav_sha256": "dab4f1df71a28ae7913052ec64b7abdb7d64e0892aa1ddc753b371683af8998d"
-            },
-            {
-              "cue": "vo_special_116_073",
-              "canonical_audio_asset_id": "wav:0d59570f0c0ee8f7c8ea1e387df3b02f7fa6c43d27ddc86ede182b15660a13f1",
-              "wav_sha256": "0d59570f0c0ee8f7c8ea1e387df3b02f7fa6c43d27ddc86ede182b15660a13f1"
-            },
-            {
-              "cue": "vo_special_116_074",
-              "canonical_audio_asset_id": "wav:b5a5711485f26f2708ca1356e9a6a09132490b1a76bbb5e184b6e69ca9e4449c",
-              "wav_sha256": "b5a5711485f26f2708ca1356e9a6a09132490b1a76bbb5e184b6e69ca9e4449c"
-            },
-            {
-              "cue": "vo_special_116_075",
-              "canonical_audio_asset_id": "wav:2e78f5a2e36d4133ef533017e0c0077f667da403081ad7f1a6f9eee1acc20c62",
-              "wav_sha256": "2e78f5a2e36d4133ef533017e0c0077f667da403081ad7f1a6f9eee1acc20c62"
-            },
-            {
-              "cue": "vo_special_116_076",
-              "canonical_audio_asset_id": "wav:80ab1d1f91a7008324e9e9b5d7883319ff9bea1088f5e08fa9b9786a3130d32a",
-              "wav_sha256": "80ab1d1f91a7008324e9e9b5d7883319ff9bea1088f5e08fa9b9786a3130d32a"
-            },
-            {
-              "cue": "vo_special_116_077",
-              "canonical_audio_asset_id": "wav:31318b741220324511a8150eb6f1606c2c23b6eed8c43cb595d63f07eb6d98b8",
-              "wav_sha256": "31318b741220324511a8150eb6f1606c2c23b6eed8c43cb595d63f07eb6d98b8"
-            },
-            {
-              "cue": "vo_special_116_078",
-              "canonical_audio_asset_id": "wav:6b4e1dfafbc34858bf7d2d71eb6ee3a17d5dc731103c85dacb65b45a7e8ffff6",
-              "wav_sha256": "6b4e1dfafbc34858bf7d2d71eb6ee3a17d5dc731103c85dacb65b45a7e8ffff6"
-            },
-            {
-              "cue": "vo_special_116_079",
-              "canonical_audio_asset_id": "wav:a6a7971b6a6060fad3b4be021fab5764f8ccea975fff4b908e3fdb736d6b76bf",
-              "wav_sha256": "a6a7971b6a6060fad3b4be021fab5764f8ccea975fff4b908e3fdb736d6b76bf"
-            },
-            {
-              "cue": "vo_special_116_080",
-              "canonical_audio_asset_id": "wav:44de731aace9b615e41a5778560bea16e75c7f980da07f33df831379745562f1",
-              "wav_sha256": "44de731aace9b615e41a5778560bea16e75c7f980da07f33df831379745562f1"
-            },
-            {
-              "cue": "vo_special_116_081",
-              "canonical_audio_asset_id": "wav:341b3f994d2fee9f72084606c497ea884528acc0d16acc8da402096e7f8b8cdc",
-              "wav_sha256": "341b3f994d2fee9f72084606c497ea884528acc0d16acc8da402096e7f8b8cdc"
-            },
-            {
-              "cue": "vo_special_116_082",
-              "canonical_audio_asset_id": "wav:d0a81b02edc2f2d88f393391c72423b4622a1ba9704408b195fe03e3111a1f62",
-              "wav_sha256": "d0a81b02edc2f2d88f393391c72423b4622a1ba9704408b195fe03e3111a1f62"
-            },
-            {
-              "cue": "vo_special_116_083",
-              "canonical_audio_asset_id": "wav:baa20232ef0b9a001f0ce58868b79de7a69a003778a2352636e7ba1a378c7b07",
-              "wav_sha256": "baa20232ef0b9a001f0ce58868b79de7a69a003778a2352636e7ba1a378c7b07"
-            },
-            {
-              "cue": "vo_special_116_084",
-              "canonical_audio_asset_id": "wav:aa1e8306936c2000c24771c45b3597b56c859d2a8d69a4840e10874b08f1d798",
-              "wav_sha256": "aa1e8306936c2000c24771c45b3597b56c859d2a8d69a4840e10874b08f1d798"
-            },
-            {
-              "cue": "vo_special_116_085",
-              "canonical_audio_asset_id": "wav:6c10a5c935c93e1b7afc8931ed387e63d035a04ccfc285287917377cc2a7b325",
-              "wav_sha256": "6c10a5c935c93e1b7afc8931ed387e63d035a04ccfc285287917377cc2a7b325"
-            },
-            {
-              "cue": "vo_special_116_086",
-              "canonical_audio_asset_id": "wav:8136fac95adf1ed0d228fbd363e9b3317b3dfdd32b41fb61c522e4ad3c8dd638",
-              "wav_sha256": "8136fac95adf1ed0d228fbd363e9b3317b3dfdd32b41fb61c522e4ad3c8dd638"
-            },
-            {
-              "cue": "vo_special_116_087",
-              "canonical_audio_asset_id": "wav:3ac4266ec57ce9d1efe05bd9c6dc0e8ae4db13fa9c2841b8bba21c10914360b3",
-              "wav_sha256": "3ac4266ec57ce9d1efe05bd9c6dc0e8ae4db13fa9c2841b8bba21c10914360b3"
-            },
-            {
-              "cue": "vo_special_116_088",
-              "canonical_audio_asset_id": "wav:5e99b9d983127cccd0740e78b6b0851b97ab4f5432ba14cbd525bc4b06a33936",
-              "wav_sha256": "5e99b9d983127cccd0740e78b6b0851b97ab4f5432ba14cbd525bc4b06a33936"
-            },
-            {
-              "cue": "vo_special_116_089",
-              "canonical_audio_asset_id": "wav:5e0a4d372aba0ff46c0ef66207106183c83f7d5233cc9e8508220f704a89daac",
-              "wav_sha256": "5e0a4d372aba0ff46c0ef66207106183c83f7d5233cc9e8508220f704a89daac"
-            },
-            {
-              "cue": "vo_special_116_090",
-              "canonical_audio_asset_id": "wav:ad990e657eee4a231e84fab233f02ab65652f4dbf8a4782d6efaa6db5cd8c88b",
-              "wav_sha256": "ad990e657eee4a231e84fab233f02ab65652f4dbf8a4782d6efaa6db5cd8c88b"
-            },
-            {
-              "cue": "vo_special_116_091",
-              "canonical_audio_asset_id": "wav:cc12a1068a2d483b4f4b018b4232b8cda61a949cd183b62036c5018b5c37ac27",
-              "wav_sha256": "cc12a1068a2d483b4f4b018b4232b8cda61a949cd183b62036c5018b5c37ac27"
-            },
-            {
-              "cue": "vo_special_title_116_00_01",
-              "canonical_audio_asset_id": "wav:1552591968b05026aeeccd610f4942f8633d73d73ec1dc420b95a0f1abc1324b",
-              "wav_sha256": "1552591968b05026aeeccd610f4942f8633d73d73ec1dc420b95a0f1abc1324b"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_116_061",
-            "vo_special_116_062",
-            "vo_special_116_063",
-            "vo_special_116_064",
-            "vo_special_116_065",
-            "vo_special_116_066",
-            "vo_special_116_067",
-            "vo_special_116_068",
-            "vo_special_116_069",
-            "vo_special_116_070",
-            "vo_special_116_071",
-            "vo_special_116_072",
-            "vo_special_116_073",
-            "vo_special_116_074",
-            "vo_special_116_075",
-            "vo_special_116_076",
-            "vo_special_116_077",
-            "vo_special_116_078",
-            "vo_special_116_079",
-            "vo_special_116_080",
-            "vo_special_116_081",
-            "vo_special_116_082",
-            "vo_special_116_083",
-            "vo_special_116_084",
-            "vo_special_116_085",
-            "vo_special_116_086",
-            "vo_special_116_087",
-            "vo_special_116_088",
-            "vo_special_116_089",
-            "vo_special_116_090",
-            "vo_special_116_091",
-            "vo_special_116_092",
-            "vo_special_title_116_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_116_061",
-            "vo_special_116_062",
-            "vo_special_116_063",
-            "vo_special_116_064",
-            "vo_special_116_065",
-            "vo_special_116_066",
-            "vo_special_116_067",
-            "vo_special_116_068",
-            "vo_special_116_069",
-            "vo_special_116_070",
-            "vo_special_116_071",
-            "vo_special_116_072",
-            "vo_special_116_073",
-            "vo_special_116_074",
-            "vo_special_116_075",
-            "vo_special_116_076",
-            "vo_special_116_077",
-            "vo_special_116_078",
-            "vo_special_116_079",
-            "vo_special_116_080",
-            "vo_special_116_081",
-            "vo_special_116_082",
-            "vo_special_116_083",
-            "vo_special_116_084",
-            "vo_special_116_085",
-            "vo_special_116_086",
-            "vo_special_116_087",
-            "vo_special_116_088",
-            "vo_special_116_089",
-            "vo_special_116_090",
-            "vo_special_116_091"
-          ],
-          "dialogue_voice_page_count": 31,
-          "unresolved_non_dialogue_cues": [
-            "vo_special_116_092"
-          ],
-          "unresolved_native_pages": {
-            "vo_special_116_092": [
-              33
-            ]
-          },
-          "root_modality_disposition_sha256": "82960539d9c768732f0262593e2d893737f8c9c071bf7e7b17ea3f202b0d2913",
-          "actual_static_review_sha256": "f1758752be8ca21d3c52e3d7a4f614d08f3daac1d00627fe4fcd1e3aa0836148",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "502011305",
-          "binding_sha256": "8cf88321c77992015379f2a4e028b6806c3f48c78efa79153e732fd2e555fdc4",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_117_092",
-              "canonical_audio_asset_id": "wav:25ef903b91c707fc96a528be8f996776d09ecfa0d435f90412ed387052f9a385",
-              "wav_sha256": "25ef903b91c707fc96a528be8f996776d09ecfa0d435f90412ed387052f9a385"
-            },
-            {
-              "cue": "vo_special_117_093",
-              "canonical_audio_asset_id": "wav:2c6ef346cddab5e8938138511c0d584b951c9706e3e03f0716ed31b9450cfbd6",
-              "wav_sha256": "2c6ef346cddab5e8938138511c0d584b951c9706e3e03f0716ed31b9450cfbd6"
-            },
-            {
-              "cue": "vo_special_117_094",
-              "canonical_audio_asset_id": "wav:e7b4e2d7426d8bec62cf1177d21a78edece423c4f07c84f53bfecfbdb4193688",
-              "wav_sha256": "e7b4e2d7426d8bec62cf1177d21a78edece423c4f07c84f53bfecfbdb4193688"
-            },
-            {
-              "cue": "vo_special_117_095",
-              "canonical_audio_asset_id": "wav:f4542147f33565452f4e2b20de049ffd4130485212961dd8ed7f7b8c8c2b4035",
-              "wav_sha256": "f4542147f33565452f4e2b20de049ffd4130485212961dd8ed7f7b8c8c2b4035"
-            },
-            {
-              "cue": "vo_special_117_096",
-              "canonical_audio_asset_id": "wav:a52b69832b8e9c7f81952cfcf8a04ec7a147976356524c8d6eaa983380839444",
-              "wav_sha256": "a52b69832b8e9c7f81952cfcf8a04ec7a147976356524c8d6eaa983380839444"
-            },
-            {
-              "cue": "vo_special_117_097",
-              "canonical_audio_asset_id": "wav:aef6541187383f999f081438736384f2f6ae1e62e5845154e8fee2349ef08025",
-              "wav_sha256": "aef6541187383f999f081438736384f2f6ae1e62e5845154e8fee2349ef08025"
-            },
-            {
-              "cue": "vo_special_117_098",
-              "canonical_audio_asset_id": "wav:0dfe36ced393da724b897a74be3b966f95c9959ac6d024c0dc50cb46b9b5ab67",
-              "wav_sha256": "0dfe36ced393da724b897a74be3b966f95c9959ac6d024c0dc50cb46b9b5ab67"
-            },
-            {
-              "cue": "vo_special_117_099",
-              "canonical_audio_asset_id": "wav:457e1e9c5ce2296ff212f95136744e16b9a50957e141241c0611bc4785e9a305",
-              "wav_sha256": "457e1e9c5ce2296ff212f95136744e16b9a50957e141241c0611bc4785e9a305"
-            },
-            {
-              "cue": "vo_special_117_100",
-              "canonical_audio_asset_id": "wav:f2502049aabd951cd3a9120a675f1eef58049fce5c3aeb5fe057e441920e4f93",
-              "wav_sha256": "f2502049aabd951cd3a9120a675f1eef58049fce5c3aeb5fe057e441920e4f93"
-            },
-            {
-              "cue": "vo_special_117_101",
-              "canonical_audio_asset_id": "wav:b75279fbe097ea434c04b031eb264e096ab76aeda653f23725524eafe9537786",
-              "wav_sha256": "b75279fbe097ea434c04b031eb264e096ab76aeda653f23725524eafe9537786"
-            },
-            {
-              "cue": "vo_special_117_102",
-              "canonical_audio_asset_id": "wav:dc589a104f0b4200d9f7e3d581800c2799272bd09e726b8009220d8767636b16",
-              "wav_sha256": "dc589a104f0b4200d9f7e3d581800c2799272bd09e726b8009220d8767636b16"
-            },
-            {
-              "cue": "vo_special_117_103",
-              "canonical_audio_asset_id": "wav:7d7bf92a6f4603ed6710e176df667faaee61cd835af985babb2b53cbfb423227",
-              "wav_sha256": "7d7bf92a6f4603ed6710e176df667faaee61cd835af985babb2b53cbfb423227"
-            },
-            {
-              "cue": "vo_special_117_104",
-              "canonical_audio_asset_id": "wav:edb6c07c813b462b6078878d799024217617b2da359b294849889c492c3377f2",
-              "wav_sha256": "edb6c07c813b462b6078878d799024217617b2da359b294849889c492c3377f2"
-            },
-            {
-              "cue": "vo_special_117_105",
-              "canonical_audio_asset_id": "wav:71a01713dbfc6f35a6443376e91ce26aef928ac3e05d6d1de594dcffb3df4404",
-              "wav_sha256": "71a01713dbfc6f35a6443376e91ce26aef928ac3e05d6d1de594dcffb3df4404"
-            },
-            {
-              "cue": "vo_special_117_106",
-              "canonical_audio_asset_id": "wav:2ca754311c6be2df673f3423bed920441e5c8bfe417ce01ed2321f6ff845cd6a",
-              "wav_sha256": "2ca754311c6be2df673f3423bed920441e5c8bfe417ce01ed2321f6ff845cd6a"
-            },
-            {
-              "cue": "vo_special_117_107",
-              "canonical_audio_asset_id": "wav:4987f1b45a18e1a32cc69b99bf968cd7fdb627c8ac8fa350ec9506e04ae87ad8",
-              "wav_sha256": "4987f1b45a18e1a32cc69b99bf968cd7fdb627c8ac8fa350ec9506e04ae87ad8"
-            },
-            {
-              "cue": "vo_special_117_108",
-              "canonical_audio_asset_id": "wav:d29d4eb50a4addb2a4060a5c9b30ef1bbf0c47404e585a4a0435926ede6bbad7",
-              "wav_sha256": "d29d4eb50a4addb2a4060a5c9b30ef1bbf0c47404e585a4a0435926ede6bbad7"
-            },
-            {
-              "cue": "vo_special_title_113_00",
-              "canonical_audio_asset_id": "wav:a317cdb1a6df4ea0eba2c878d8a7c259b64e9e996e56f6cacd0f717f779890c8",
-              "wav_sha256": "a317cdb1a6df4ea0eba2c878d8a7c259b64e9e996e56f6cacd0f717f779890c8"
-            },
-            {
-              "cue": "vo_special_title_117_00_01",
-              "canonical_audio_asset_id": "wav:3ed180a700a1e61a9b12efb4364abce816be3ac13bea751447660854d3fd9985",
-              "wav_sha256": "3ed180a700a1e61a9b12efb4364abce816be3ac13bea751447660854d3fd9985"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_117_092",
-            "vo_special_117_093",
-            "vo_special_117_094",
-            "vo_special_117_095",
-            "vo_special_117_096",
-            "vo_special_117_097",
-            "vo_special_117_098",
-            "vo_special_117_099",
-            "vo_special_117_100",
-            "vo_special_117_101",
-            "vo_special_117_102",
-            "vo_special_117_103",
-            "vo_special_117_104",
-            "vo_special_117_105",
-            "vo_special_117_106",
-            "vo_special_117_107",
-            "vo_special_117_108",
-            "vo_special_title_113_00",
-            "vo_special_title_117_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_117_092",
-            "vo_special_117_093",
-            "vo_special_117_094",
-            "vo_special_117_095",
-            "vo_special_117_096",
-            "vo_special_117_097",
-            "vo_special_117_098",
-            "vo_special_117_099",
-            "vo_special_117_100",
-            "vo_special_117_101",
-            "vo_special_117_102",
-            "vo_special_117_103",
-            "vo_special_117_104",
-            "vo_special_117_105",
-            "vo_special_117_106",
-            "vo_special_117_107",
-            "vo_special_117_108"
-          ],
-          "dialogue_voice_page_count": 17,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "daa56369ffc12964b943aa7f0057d9d337323b51b6a915c0e063bddf3cdf1e18",
-          "actual_static_review_sha256": "4cec6b6fdc405fa12d62ad03e362c32a4a1a45458a7a126cb3ec44d6777a787f",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "503011801",
-          "binding_sha256": "5f2c3de0df0f103d7c36248c90e908af60e700cb51c6a51fb99734a7058be6ad",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_118_001",
-              "canonical_audio_asset_id": "wav:497d110ae934247ba73ee1497d44abfebee191b75e9d23cdea0e15e4244be33b",
-              "wav_sha256": "497d110ae934247ba73ee1497d44abfebee191b75e9d23cdea0e15e4244be33b"
-            },
-            {
-              "cue": "vo_special_118_002",
-              "canonical_audio_asset_id": "wav:be101d01871b105e4585e840604bfb3d1f944982775f750f20d3607cc0e3a35f",
-              "wav_sha256": "be101d01871b105e4585e840604bfb3d1f944982775f750f20d3607cc0e3a35f"
-            },
-            {
-              "cue": "vo_special_118_003",
-              "canonical_audio_asset_id": "wav:1ab6cc6bfaa3bc6553f51b679bf906abf0b41aa99d21385167197bb23b60840b",
-              "wav_sha256": "1ab6cc6bfaa3bc6553f51b679bf906abf0b41aa99d21385167197bb23b60840b"
-            },
-            {
-              "cue": "vo_special_118_004",
-              "canonical_audio_asset_id": "wav:041d36e536be37974cba376fb7f9611d1003e38febd9c39c5b6292c34a08c4ea",
-              "wav_sha256": "041d36e536be37974cba376fb7f9611d1003e38febd9c39c5b6292c34a08c4ea"
-            },
-            {
-              "cue": "vo_special_118_005",
-              "canonical_audio_asset_id": "wav:3ead991f1c020fde44868b5381e47774e20e0c227fe5c7f963dcee2281b3923c",
-              "wav_sha256": "3ead991f1c020fde44868b5381e47774e20e0c227fe5c7f963dcee2281b3923c"
-            },
-            {
-              "cue": "vo_special_118_006",
-              "canonical_audio_asset_id": "wav:bc8c0ccca79e4ccdd08a90e7380ac50bd72904280916d4d89347988668bcd026",
-              "wav_sha256": "bc8c0ccca79e4ccdd08a90e7380ac50bd72904280916d4d89347988668bcd026"
-            },
-            {
-              "cue": "vo_special_118_007",
-              "canonical_audio_asset_id": "wav:12ad800ad4bc39c95c0400c25dd21620f8bb0c5058676b6668625c3443c5122a",
-              "wav_sha256": "12ad800ad4bc39c95c0400c25dd21620f8bb0c5058676b6668625c3443c5122a"
-            },
-            {
-              "cue": "vo_special_118_008",
-              "canonical_audio_asset_id": "wav:2bcc554bca01509d93c39b7e7ef1585a18144c0f6b029e5e6e3204b225b1084e",
-              "wav_sha256": "2bcc554bca01509d93c39b7e7ef1585a18144c0f6b029e5e6e3204b225b1084e"
-            },
-            {
-              "cue": "vo_special_118_009",
-              "canonical_audio_asset_id": "wav:37a317d6b656f82a03409e07078d10b3f0104732e27c62089307de4ba7467e53",
-              "wav_sha256": "37a317d6b656f82a03409e07078d10b3f0104732e27c62089307de4ba7467e53"
-            },
-            {
-              "cue": "vo_special_118_010",
-              "canonical_audio_asset_id": "wav:d6821ea6b36fae820f5cb037a8b1f495838d1428dd1f0e01de495271b6dc9f6a",
-              "wav_sha256": "d6821ea6b36fae820f5cb037a8b1f495838d1428dd1f0e01de495271b6dc9f6a"
-            },
-            {
-              "cue": "vo_special_118_011",
-              "canonical_audio_asset_id": "wav:a772b8818d84d3c42c0af6c04a1bf0ebe13db230690984d0e75dec5926425fbf",
-              "wav_sha256": "a772b8818d84d3c42c0af6c04a1bf0ebe13db230690984d0e75dec5926425fbf"
-            },
-            {
-              "cue": "vo_special_118_012",
-              "canonical_audio_asset_id": "wav:1e32477183a4334f73f1f089bb51028cf7f7860be8225a03963da124bdfca94e",
-              "wav_sha256": "1e32477183a4334f73f1f089bb51028cf7f7860be8225a03963da124bdfca94e"
-            },
-            {
-              "cue": "vo_special_118_013",
-              "canonical_audio_asset_id": "wav:639f7972b7251731d91cf9f30d90fb0ad155f5874163a790487cb121ac36b113",
-              "wav_sha256": "639f7972b7251731d91cf9f30d90fb0ad155f5874163a790487cb121ac36b113"
-            },
-            {
-              "cue": "vo_special_118_014",
-              "canonical_audio_asset_id": "wav:b7a908d79e6546236927a1fe266988763b62a986fda4c4bba8263d55c46e3470",
-              "wav_sha256": "b7a908d79e6546236927a1fe266988763b62a986fda4c4bba8263d55c46e3470"
-            },
-            {
-              "cue": "vo_special_118_015",
-              "canonical_audio_asset_id": "wav:5672f140ed1936d77e2be5faea909a86371d037edba89883e27a9e2a8bc77717",
-              "wav_sha256": "5672f140ed1936d77e2be5faea909a86371d037edba89883e27a9e2a8bc77717"
-            },
-            {
-              "cue": "vo_special_118_016",
-              "canonical_audio_asset_id": "wav:c7c8b91bdf0b83621f7f487bc66c866f6b990543ae05b48d15bf4ff8d30f574a",
-              "wav_sha256": "c7c8b91bdf0b83621f7f487bc66c866f6b990543ae05b48d15bf4ff8d30f574a"
-            },
-            {
-              "cue": "vo_special_118_017",
-              "canonical_audio_asset_id": "wav:388b39e3f9a5edaa64c164207d32831b0034b850071a19189bb73bdd6c6af5d0",
-              "wav_sha256": "388b39e3f9a5edaa64c164207d32831b0034b850071a19189bb73bdd6c6af5d0"
-            },
-            {
-              "cue": "vo_special_118_018",
-              "canonical_audio_asset_id": "wav:a4d693608a02c96860000d4202abe2a2edca2306af3c093b9cb4ee37dbbd1492",
-              "wav_sha256": "a4d693608a02c96860000d4202abe2a2edca2306af3c093b9cb4ee37dbbd1492"
-            },
-            {
-              "cue": "vo_special_118_019",
-              "canonical_audio_asset_id": "wav:7a1c019c8081d9f779e5a67409a963dfb8c6dd8f3380989d59e19899a001d53f",
-              "wav_sha256": "7a1c019c8081d9f779e5a67409a963dfb8c6dd8f3380989d59e19899a001d53f"
-            },
-            {
-              "cue": "vo_special_118_020",
-              "canonical_audio_asset_id": "wav:563d31a7f7d658b32b2c5056041ecec945eaf225530f9459b863ccaee6fd1e57",
-              "wav_sha256": "563d31a7f7d658b32b2c5056041ecec945eaf225530f9459b863ccaee6fd1e57"
-            },
-            {
-              "cue": "vo_special_118_021",
-              "canonical_audio_asset_id": "wav:35361f8860e7505fe95cb2b6f5a6103c1fef9c1bef4aaea59b28d19921e28c8c",
-              "wav_sha256": "35361f8860e7505fe95cb2b6f5a6103c1fef9c1bef4aaea59b28d19921e28c8c"
-            },
-            {
-              "cue": "vo_special_118_022",
-              "canonical_audio_asset_id": "wav:25989b7f40d21414590f77179a47038cc8a2c21fe515d5b19fe48b0df3da0502",
-              "wav_sha256": "25989b7f40d21414590f77179a47038cc8a2c21fe515d5b19fe48b0df3da0502"
-            },
-            {
-              "cue": "vo_special_118_023",
-              "canonical_audio_asset_id": "wav:35e7819066a80d6947bf4017404f802fcc283840fe50d09a1e5df603cf85a275",
-              "wav_sha256": "35e7819066a80d6947bf4017404f802fcc283840fe50d09a1e5df603cf85a275"
-            },
-            {
-              "cue": "vo_special_118_024",
-              "canonical_audio_asset_id": "wav:6919b607a126e058a224196bd439ccffeff395531752021f6f512cf75d4e5cef",
-              "wav_sha256": "6919b607a126e058a224196bd439ccffeff395531752021f6f512cf75d4e5cef"
-            },
-            {
-              "cue": "vo_special_118_025",
-              "canonical_audio_asset_id": "wav:9732dc1aab00400cdc5b49ea48e5d9d2ee6f2f35f4f3ad3abc17c130ca3a66e4",
-              "wav_sha256": "9732dc1aab00400cdc5b49ea48e5d9d2ee6f2f35f4f3ad3abc17c130ca3a66e4"
-            },
-            {
-              "cue": "vo_special_118_026",
-              "canonical_audio_asset_id": "wav:a4588120a68d1704b21c04b18517b916f2e14800824e705f61c41071b511d2ae",
-              "wav_sha256": "a4588120a68d1704b21c04b18517b916f2e14800824e705f61c41071b511d2ae"
-            },
-            {
-              "cue": "vo_special_118_027",
-              "canonical_audio_asset_id": "wav:16947e9f1be70cce9e02c759847e11097fa718ba7b6790f068c144cd1ef4d349",
-              "wav_sha256": "16947e9f1be70cce9e02c759847e11097fa718ba7b6790f068c144cd1ef4d349"
-            },
-            {
-              "cue": "vo_special_118_028",
-              "canonical_audio_asset_id": "wav:9bba30d526b4cfbd7e9f951c13c7894da76a53e6c6c4d3f3c31ccfd11736d990",
-              "wav_sha256": "9bba30d526b4cfbd7e9f951c13c7894da76a53e6c6c4d3f3c31ccfd11736d990"
-            },
-            {
-              "cue": "vo_special_title_118_00",
-              "canonical_audio_asset_id": "wav:04cc8d0730ae5ac5889d76ad44039ab92a0672249587c2606eb6080173a3db6d",
-              "wav_sha256": "04cc8d0730ae5ac5889d76ad44039ab92a0672249587c2606eb6080173a3db6d"
-            },
-            {
-              "cue": "vo_special_title_118_00_01",
-              "canonical_audio_asset_id": "wav:cbd69fa6c12f46da2f3da517f2550365dbb4a9b29d6ca56d8758ebc9afc8a083",
-              "wav_sha256": "cbd69fa6c12f46da2f3da517f2550365dbb4a9b29d6ca56d8758ebc9afc8a083"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_118_001",
-            "vo_special_118_002",
-            "vo_special_118_003",
-            "vo_special_118_004",
-            "vo_special_118_005",
-            "vo_special_118_006",
-            "vo_special_118_007",
-            "vo_special_118_008",
-            "vo_special_118_009",
-            "vo_special_118_010",
-            "vo_special_118_011",
-            "vo_special_118_012",
-            "vo_special_118_013",
-            "vo_special_118_014",
-            "vo_special_118_015",
-            "vo_special_118_016",
-            "vo_special_118_017",
-            "vo_special_118_018",
-            "vo_special_118_019",
-            "vo_special_118_020",
-            "vo_special_118_021",
-            "vo_special_118_022",
-            "vo_special_118_023",
-            "vo_special_118_024",
-            "vo_special_118_025",
-            "vo_special_118_026",
-            "vo_special_118_027",
-            "vo_special_118_028",
-            "vo_special_title_118_00",
-            "vo_special_title_118_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_118_001",
-            "vo_special_118_002",
-            "vo_special_118_003",
-            "vo_special_118_004",
-            "vo_special_118_005",
-            "vo_special_118_006",
-            "vo_special_118_007",
-            "vo_special_118_008",
-            "vo_special_118_009",
-            "vo_special_118_010",
-            "vo_special_118_011",
-            "vo_special_118_012",
-            "vo_special_118_013",
-            "vo_special_118_014",
-            "vo_special_118_015",
-            "vo_special_118_016",
-            "vo_special_118_017",
-            "vo_special_118_018",
-            "vo_special_118_019",
-            "vo_special_118_020",
-            "vo_special_118_021",
-            "vo_special_118_022",
-            "vo_special_118_023",
-            "vo_special_118_024",
-            "vo_special_118_025",
-            "vo_special_118_026",
-            "vo_special_118_027",
-            "vo_special_118_028"
-          ],
-          "dialogue_voice_page_count": 28,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "94a3ae619e7190f7f226fbc85fb45df9c0801273bf4d0a469d8b15d92404b04d",
-          "actual_static_review_sha256": "100d9a7e525a7f494596876bce0275fa2a6a6a81b17032232aaeb20291d54e37",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "503011802",
-          "binding_sha256": "f1e221a6c53b35c8d3ff4486c9dcaea8a8e2bad3d9c8b04d8170ea78a1ba7a49",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_119_001",
-              "canonical_audio_asset_id": "wav:4c007ed060cce3199a80baf721700984645cd08ae8d17fc673dcb431d0f20d15",
-              "wav_sha256": "4c007ed060cce3199a80baf721700984645cd08ae8d17fc673dcb431d0f20d15"
-            },
-            {
-              "cue": "vo_special_119_002",
-              "canonical_audio_asset_id": "wav:5d53e4c7337b5cb940f81f504c576aab6c9b1af6311c384e4c33b5d1acefe52a",
-              "wav_sha256": "5d53e4c7337b5cb940f81f504c576aab6c9b1af6311c384e4c33b5d1acefe52a"
-            },
-            {
-              "cue": "vo_special_119_003",
-              "canonical_audio_asset_id": "wav:518043832129d5bf39ffd8283046fd354fda15b3413c42ec7f7c02d8e6588ee0",
-              "wav_sha256": "518043832129d5bf39ffd8283046fd354fda15b3413c42ec7f7c02d8e6588ee0"
-            },
-            {
-              "cue": "vo_special_119_004",
-              "canonical_audio_asset_id": "wav:c537c557a7b6656cf9b01c65c5c9b26f1acd38497d8c93879f9f3a04863d7248",
-              "wav_sha256": "c537c557a7b6656cf9b01c65c5c9b26f1acd38497d8c93879f9f3a04863d7248"
-            },
-            {
-              "cue": "vo_special_119_005",
-              "canonical_audio_asset_id": "wav:0276ad4dd6041ecf2e2014ba0ed7c047e9906e0fc10140f54e81778b41f1db34",
-              "wav_sha256": "0276ad4dd6041ecf2e2014ba0ed7c047e9906e0fc10140f54e81778b41f1db34"
-            },
-            {
-              "cue": "vo_special_119_006",
-              "canonical_audio_asset_id": "wav:a90044fb0b8f49bbf7e35a30d2b842971232d31a6d270e53d3a8f9b7bea70ff1",
-              "wav_sha256": "a90044fb0b8f49bbf7e35a30d2b842971232d31a6d270e53d3a8f9b7bea70ff1"
-            },
-            {
-              "cue": "vo_special_119_007",
-              "canonical_audio_asset_id": "wav:1d553f1589cac287531ba5d1939cd3d5c28b46b74a96cf200e7dd842a4db0583",
-              "wav_sha256": "1d553f1589cac287531ba5d1939cd3d5c28b46b74a96cf200e7dd842a4db0583"
-            },
-            {
-              "cue": "vo_special_119_008",
-              "canonical_audio_asset_id": "wav:bb5d2d5b352ac616d9f5fdf622a98eeff1d98310e5ccd9d08f87a8a67e99deab",
-              "wav_sha256": "bb5d2d5b352ac616d9f5fdf622a98eeff1d98310e5ccd9d08f87a8a67e99deab"
-            },
-            {
-              "cue": "vo_special_119_009",
-              "canonical_audio_asset_id": "wav:88a4cbdf6f7da830f1cb3856a1fa55b6d9e51286d834044025d68e9a9d5f1d8b",
-              "wav_sha256": "88a4cbdf6f7da830f1cb3856a1fa55b6d9e51286d834044025d68e9a9d5f1d8b"
-            },
-            {
-              "cue": "vo_special_119_010",
-              "canonical_audio_asset_id": "wav:49bc393a90563fe33e091bd35f60b4a6eef6a6ef6c71a94ff0ee8ce733b628f6",
-              "wav_sha256": "49bc393a90563fe33e091bd35f60b4a6eef6a6ef6c71a94ff0ee8ce733b628f6"
-            },
-            {
-              "cue": "vo_special_119_011",
-              "canonical_audio_asset_id": "wav:dcc343a1307cccc381dbe49a4f2c70f4caadebea639de4133d61e4798cef1f19",
-              "wav_sha256": "dcc343a1307cccc381dbe49a4f2c70f4caadebea639de4133d61e4798cef1f19"
-            },
-            {
-              "cue": "vo_special_119_012",
-              "canonical_audio_asset_id": "wav:f3de9e4f5ea7ea81f0e669856964a0701a0246ec68ad8893589c0a3989b6d2d6",
-              "wav_sha256": "f3de9e4f5ea7ea81f0e669856964a0701a0246ec68ad8893589c0a3989b6d2d6"
-            },
-            {
-              "cue": "vo_special_119_013",
-              "canonical_audio_asset_id": "wav:5cd1f8077bcb7433eef42918754255bfb3fee4063653cc99d41cec6c9888f67d",
-              "wav_sha256": "5cd1f8077bcb7433eef42918754255bfb3fee4063653cc99d41cec6c9888f67d"
-            },
-            {
-              "cue": "vo_special_119_014",
-              "canonical_audio_asset_id": "wav:af3b957726cd7f51a5224a135c5ff9397b28ce3a3730223f7cb20e73671e6d68",
-              "wav_sha256": "af3b957726cd7f51a5224a135c5ff9397b28ce3a3730223f7cb20e73671e6d68"
-            },
-            {
-              "cue": "vo_special_119_015",
-              "canonical_audio_asset_id": "wav:7285d4c3f997378e791893d8923d753a7b2f14cd425830bc4f68264298e03600",
-              "wav_sha256": "7285d4c3f997378e791893d8923d753a7b2f14cd425830bc4f68264298e03600"
-            },
-            {
-              "cue": "vo_special_119_016",
-              "canonical_audio_asset_id": "wav:bc7c9b95baede9753695aed5efa707fd4a075f054bae005807e912c569e00b4f",
-              "wav_sha256": "bc7c9b95baede9753695aed5efa707fd4a075f054bae005807e912c569e00b4f"
-            },
-            {
-              "cue": "vo_special_119_017",
-              "canonical_audio_asset_id": "wav:f7007a95dffc9cbefbf35f97862652d2db942f9590e7fe8fd1f2fe48dd228c7c",
-              "wav_sha256": "f7007a95dffc9cbefbf35f97862652d2db942f9590e7fe8fd1f2fe48dd228c7c"
-            },
-            {
-              "cue": "vo_special_119_018",
-              "canonical_audio_asset_id": "wav:8b99332c6d7ac07344518e64c820644c0ad58323fb3197fbde97c46585c57ea3",
-              "wav_sha256": "8b99332c6d7ac07344518e64c820644c0ad58323fb3197fbde97c46585c57ea3"
-            },
-            {
-              "cue": "vo_special_119_019",
-              "canonical_audio_asset_id": "wav:1c584d3299f7f75e84fab0af23482921f6d13e0041a83c9fd419e36e41109447",
-              "wav_sha256": "1c584d3299f7f75e84fab0af23482921f6d13e0041a83c9fd419e36e41109447"
-            },
-            {
-              "cue": "vo_special_119_020",
-              "canonical_audio_asset_id": "wav:c3b7aabb440c03fcf851d297e82b7f339cebf8dfd8ca860da5850032ca9614ff",
-              "wav_sha256": "c3b7aabb440c03fcf851d297e82b7f339cebf8dfd8ca860da5850032ca9614ff"
-            },
-            {
-              "cue": "vo_special_119_021",
-              "canonical_audio_asset_id": "wav:f48451de8b6572841f87a27d0ec5df95edc4dc7aa733d2f3312a739bd54be338",
-              "wav_sha256": "f48451de8b6572841f87a27d0ec5df95edc4dc7aa733d2f3312a739bd54be338"
-            },
-            {
-              "cue": "vo_special_119_022",
-              "canonical_audio_asset_id": "wav:aae99086852156255210ab4116c6375e1155f3899e6696d56cede3ea347baccf",
-              "wav_sha256": "aae99086852156255210ab4116c6375e1155f3899e6696d56cede3ea347baccf"
-            },
-            {
-              "cue": "vo_special_119_023",
-              "canonical_audio_asset_id": "wav:b16bd0a6cf812d56980a54b1a6e19432d4088197c231363ce01f6395e682cbe3",
-              "wav_sha256": "b16bd0a6cf812d56980a54b1a6e19432d4088197c231363ce01f6395e682cbe3"
-            },
-            {
-              "cue": "vo_special_119_024",
-              "canonical_audio_asset_id": "wav:36caae161ef21ae92d127b946e1a03d6f7a969d7deda7f4c90f19bf7b8f8d784",
-              "wav_sha256": "36caae161ef21ae92d127b946e1a03d6f7a969d7deda7f4c90f19bf7b8f8d784"
-            },
-            {
-              "cue": "vo_special_119_025",
-              "canonical_audio_asset_id": "wav:a0e33c1b57669f775a36a55236c43b30dad3dcfff10ebedf7e811f6e7dadae8e",
-              "wav_sha256": "a0e33c1b57669f775a36a55236c43b30dad3dcfff10ebedf7e811f6e7dadae8e"
-            },
-            {
-              "cue": "vo_special_119_026",
-              "canonical_audio_asset_id": "wav:4a74a145cf8c1842109f610fb8d0aa3927ff9f2c5b11f83073b0f1324bf4bd9b",
-              "wav_sha256": "4a74a145cf8c1842109f610fb8d0aa3927ff9f2c5b11f83073b0f1324bf4bd9b"
-            },
-            {
-              "cue": "vo_special_title_119_00_01",
-              "canonical_audio_asset_id": "wav:c6b8e00d71f155c883f0638e97759c1819f69a55d08ec2676f99481a6c5dcd3c",
-              "wav_sha256": "c6b8e00d71f155c883f0638e97759c1819f69a55d08ec2676f99481a6c5dcd3c"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_119_001",
-            "vo_special_119_002",
-            "vo_special_119_003",
-            "vo_special_119_004",
-            "vo_special_119_005",
-            "vo_special_119_006",
-            "vo_special_119_007",
-            "vo_special_119_008",
-            "vo_special_119_009",
-            "vo_special_119_010",
-            "vo_special_119_011",
-            "vo_special_119_012",
-            "vo_special_119_013",
-            "vo_special_119_014",
-            "vo_special_119_015",
-            "vo_special_119_016",
-            "vo_special_119_017",
-            "vo_special_119_018",
-            "vo_special_119_019",
-            "vo_special_119_020",
-            "vo_special_119_021",
-            "vo_special_119_022",
-            "vo_special_119_023",
-            "vo_special_119_024",
-            "vo_special_119_025",
-            "vo_special_119_026",
-            "vo_special_title_119_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_119_001",
-            "vo_special_119_002",
-            "vo_special_119_003",
-            "vo_special_119_004",
-            "vo_special_119_005",
-            "vo_special_119_006",
-            "vo_special_119_007",
-            "vo_special_119_008",
-            "vo_special_119_009",
-            "vo_special_119_010",
-            "vo_special_119_011",
-            "vo_special_119_012",
-            "vo_special_119_013",
-            "vo_special_119_014",
-            "vo_special_119_015",
-            "vo_special_119_016",
-            "vo_special_119_017",
-            "vo_special_119_018",
-            "vo_special_119_019",
-            "vo_special_119_020",
-            "vo_special_119_021",
-            "vo_special_119_022",
-            "vo_special_119_023",
-            "vo_special_119_024",
-            "vo_special_119_025",
-            "vo_special_119_026"
-          ],
-          "dialogue_voice_page_count": 26,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "418355599b82dd13f2655ddef0421c2f54de3511cf96cc6efec424306bfe8249",
-          "actual_static_review_sha256": "b94c67ff1a9050c772d22bf6813d44ea7e5bea02c2ca2a23cfbe571a27f81bd0",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "503011803",
-          "binding_sha256": "af34d13053ee6c663532c87993d2b89e152ff4286b96cd965d1367bd1612f0aa",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_120_001",
-              "canonical_audio_asset_id": "wav:e94a498939576ddcb92e4789cceca1ce8ad220b2d82fcfb5167b36509a960df7",
-              "wav_sha256": "e94a498939576ddcb92e4789cceca1ce8ad220b2d82fcfb5167b36509a960df7"
-            },
-            {
-              "cue": "vo_special_120_002",
-              "canonical_audio_asset_id": "wav:fbadd452e9b4622adea4dc98621c1990b332381f1918eade92ac01e3e7ba47f7",
-              "wav_sha256": "fbadd452e9b4622adea4dc98621c1990b332381f1918eade92ac01e3e7ba47f7"
-            },
-            {
-              "cue": "vo_special_120_003",
-              "canonical_audio_asset_id": "wav:c073259c2fc138e26a1359a6dade74ae5027faa3d42764fd17b436e10790d234",
-              "wav_sha256": "c073259c2fc138e26a1359a6dade74ae5027faa3d42764fd17b436e10790d234"
-            },
-            {
-              "cue": "vo_special_120_004",
-              "canonical_audio_asset_id": "wav:56a946b2ea87e366f15015bfa537c51d77a5073919e5a3c096b35f0d921570e0",
-              "wav_sha256": "56a946b2ea87e366f15015bfa537c51d77a5073919e5a3c096b35f0d921570e0"
-            },
-            {
-              "cue": "vo_special_120_005",
-              "canonical_audio_asset_id": "wav:d49a8a21e1b78bc0faaec80c81a0b62fc3ab5580de7a9d9e839339b32505e831",
-              "wav_sha256": "d49a8a21e1b78bc0faaec80c81a0b62fc3ab5580de7a9d9e839339b32505e831"
-            },
-            {
-              "cue": "vo_special_120_006",
-              "canonical_audio_asset_id": "wav:463fff75506525cba8c5e86a5f9ebd10d58127beff42a56058965b2c863f7f26",
-              "wav_sha256": "463fff75506525cba8c5e86a5f9ebd10d58127beff42a56058965b2c863f7f26"
-            },
-            {
-              "cue": "vo_special_120_007",
-              "canonical_audio_asset_id": "wav:6ea86c8aadcf1f4385dd53244434a8685c98ea8fc10206ca6bc05e3defe71dbb",
-              "wav_sha256": "6ea86c8aadcf1f4385dd53244434a8685c98ea8fc10206ca6bc05e3defe71dbb"
-            },
-            {
-              "cue": "vo_special_120_008",
-              "canonical_audio_asset_id": "wav:f26355a38a8b38c9f54bc30b6ff86e38ef44c3cca1410a8ceaa4d69f5e73c77e",
-              "wav_sha256": "f26355a38a8b38c9f54bc30b6ff86e38ef44c3cca1410a8ceaa4d69f5e73c77e"
-            },
-            {
-              "cue": "vo_special_120_009",
-              "canonical_audio_asset_id": "wav:4fbf718fd614bb189727d5886908ecdec5cd5b8c96bc21b834ec52acd2a8f10a",
-              "wav_sha256": "4fbf718fd614bb189727d5886908ecdec5cd5b8c96bc21b834ec52acd2a8f10a"
-            },
-            {
-              "cue": "vo_special_120_010",
-              "canonical_audio_asset_id": "wav:0f086cfd63c2940d0d83e01fc73cfefb1f9b1d0f2d35aa40ddeea34dad495ec5",
-              "wav_sha256": "0f086cfd63c2940d0d83e01fc73cfefb1f9b1d0f2d35aa40ddeea34dad495ec5"
-            },
-            {
-              "cue": "vo_special_120_011",
-              "canonical_audio_asset_id": "wav:28dd2df9e188bef57778fe92f2c3e0723b75db0c3218cd6bec8d95709b1729bc",
-              "wav_sha256": "28dd2df9e188bef57778fe92f2c3e0723b75db0c3218cd6bec8d95709b1729bc"
-            },
-            {
-              "cue": "vo_special_120_012",
-              "canonical_audio_asset_id": "wav:cb4412d98d581e5322284d735807b12095f23cdaee8d666f2ceec58f65da328f",
-              "wav_sha256": "cb4412d98d581e5322284d735807b12095f23cdaee8d666f2ceec58f65da328f"
-            },
-            {
-              "cue": "vo_special_120_013",
-              "canonical_audio_asset_id": "wav:2477b98469fa51d288e00277d44d21cab821900f349a04c2611ec31e16f1fd53",
-              "wav_sha256": "2477b98469fa51d288e00277d44d21cab821900f349a04c2611ec31e16f1fd53"
-            },
-            {
-              "cue": "vo_special_120_014",
-              "canonical_audio_asset_id": "wav:1df8e91f5ef5fcd5c56fd71aeda1ce6655962de46fa5f61cf0a3de9f89e91231",
-              "wav_sha256": "1df8e91f5ef5fcd5c56fd71aeda1ce6655962de46fa5f61cf0a3de9f89e91231"
-            },
-            {
-              "cue": "vo_special_120_015",
-              "canonical_audio_asset_id": "wav:fa1cf9895f8ae7e0b0c706de5d7c675c43e14e9479dedc420dc6c9d099e15fac",
-              "wav_sha256": "fa1cf9895f8ae7e0b0c706de5d7c675c43e14e9479dedc420dc6c9d099e15fac"
-            },
-            {
-              "cue": "vo_special_120_016",
-              "canonical_audio_asset_id": "wav:9d74ce3b0eb6b33b14b55cbb634b84e6d7c64ca25d0f6e77e9312b6ad033fbf7",
-              "wav_sha256": "9d74ce3b0eb6b33b14b55cbb634b84e6d7c64ca25d0f6e77e9312b6ad033fbf7"
-            },
-            {
-              "cue": "vo_special_120_017",
-              "canonical_audio_asset_id": "wav:03ceba083c15aa80fcc6aff204bb48fba28dfd6afe6fcdcd3290da3c581e90ce",
-              "wav_sha256": "03ceba083c15aa80fcc6aff204bb48fba28dfd6afe6fcdcd3290da3c581e90ce"
-            },
-            {
-              "cue": "vo_special_120_018",
-              "canonical_audio_asset_id": "wav:24e41798cd9a240578ff2f888d7f9d905506469db4aca720e6de60bafc0e2410",
-              "wav_sha256": "24e41798cd9a240578ff2f888d7f9d905506469db4aca720e6de60bafc0e2410"
-            },
-            {
-              "cue": "vo_special_120_019",
-              "canonical_audio_asset_id": "wav:f7599275065c231aec188807fc65e165e3aeaf43ed7bbb7a305e3ef2bc143d0b",
-              "wav_sha256": "f7599275065c231aec188807fc65e165e3aeaf43ed7bbb7a305e3ef2bc143d0b"
-            },
-            {
-              "cue": "vo_special_120_020",
-              "canonical_audio_asset_id": "wav:082c194305c70991e1dc0e9507815de1913c1a209fec3bb957e53b830e5bc86e",
-              "wav_sha256": "082c194305c70991e1dc0e9507815de1913c1a209fec3bb957e53b830e5bc86e"
-            },
-            {
-              "cue": "vo_special_120_021",
-              "canonical_audio_asset_id": "wav:0f2a7ed13508fc700b8fa8092bfa104303b2b73fc0f9b2cb4dc88111e42700e9",
-              "wav_sha256": "0f2a7ed13508fc700b8fa8092bfa104303b2b73fc0f9b2cb4dc88111e42700e9"
-            },
-            {
-              "cue": "vo_special_120_022",
-              "canonical_audio_asset_id": "wav:6202c85be32cda676c4e47362cf4a29548fbc574161cdb468b0cb9aba00439df",
-              "wav_sha256": "6202c85be32cda676c4e47362cf4a29548fbc574161cdb468b0cb9aba00439df"
-            },
-            {
-              "cue": "vo_special_120_023",
-              "canonical_audio_asset_id": "wav:2599d6773ef7f915ebb426baf84443333eee49af02824dfa85b52d4c7bcec075",
-              "wav_sha256": "2599d6773ef7f915ebb426baf84443333eee49af02824dfa85b52d4c7bcec075"
-            },
-            {
-              "cue": "vo_special_120_024",
-              "canonical_audio_asset_id": "wav:07c0d92f80cd55a8eb26fcb86132ec3b88fb161bdfec9c33b5940c05473cebc2",
-              "wav_sha256": "07c0d92f80cd55a8eb26fcb86132ec3b88fb161bdfec9c33b5940c05473cebc2"
-            },
-            {
-              "cue": "vo_special_120_025",
-              "canonical_audio_asset_id": "wav:1500c8239634ef1ab40d8d186285c65a08f791ed4012b30b617a51e397713248",
-              "wav_sha256": "1500c8239634ef1ab40d8d186285c65a08f791ed4012b30b617a51e397713248"
-            },
-            {
-              "cue": "vo_special_title_120_00_01",
-              "canonical_audio_asset_id": "wav:e654d86ce7d0050fc10874ecc8da097e438ef8da946a7102cba169d059af7e55",
-              "wav_sha256": "e654d86ce7d0050fc10874ecc8da097e438ef8da946a7102cba169d059af7e55"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_120_001",
-            "vo_special_120_002",
-            "vo_special_120_003",
-            "vo_special_120_004",
-            "vo_special_120_005",
-            "vo_special_120_006",
-            "vo_special_120_007",
-            "vo_special_120_008",
-            "vo_special_120_009",
-            "vo_special_120_010",
-            "vo_special_120_011",
-            "vo_special_120_012",
-            "vo_special_120_013",
-            "vo_special_120_014",
-            "vo_special_120_015",
-            "vo_special_120_016",
-            "vo_special_120_017",
-            "vo_special_120_018",
-            "vo_special_120_019",
-            "vo_special_120_020",
-            "vo_special_120_021",
-            "vo_special_120_022",
-            "vo_special_120_023",
-            "vo_special_120_024",
-            "vo_special_120_025",
-            "vo_special_title_120_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_120_001",
-            "vo_special_120_002",
-            "vo_special_120_003",
-            "vo_special_120_004",
-            "vo_special_120_005",
-            "vo_special_120_006",
-            "vo_special_120_007",
-            "vo_special_120_008",
-            "vo_special_120_009",
-            "vo_special_120_010",
-            "vo_special_120_011",
-            "vo_special_120_012",
-            "vo_special_120_013",
-            "vo_special_120_014",
-            "vo_special_120_015",
-            "vo_special_120_016",
-            "vo_special_120_017",
-            "vo_special_120_018",
-            "vo_special_120_019",
-            "vo_special_120_020",
-            "vo_special_120_021",
-            "vo_special_120_022",
-            "vo_special_120_023",
-            "vo_special_120_024",
-            "vo_special_120_025"
-          ],
-          "dialogue_voice_page_count": 25,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "d246fd34f63956aedc77882f565c5107e609126af35d1e25753464f6c0d3fef9",
-          "actual_static_review_sha256": "2163057bfa58a9df513d7dfb2b8625d5bf199e58f5af577dfa447c15b4d5004d",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "503011804",
-          "binding_sha256": "574e37dd8f763d66562baa5058a2864568277adde63891c5a0766b4fdf745b32",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_121_001",
-              "canonical_audio_asset_id": "wav:74acd1e1e56d60299995a1da84c1a83d3c2540d27fbf3d964726e12a698cc314",
-              "wav_sha256": "74acd1e1e56d60299995a1da84c1a83d3c2540d27fbf3d964726e12a698cc314"
-            },
-            {
-              "cue": "vo_special_121_002",
-              "canonical_audio_asset_id": "wav:ad4b8ee310cb579ebf8566bab55770672d2db1ed31f61fcdf96e65e9b3fc207c",
-              "wav_sha256": "ad4b8ee310cb579ebf8566bab55770672d2db1ed31f61fcdf96e65e9b3fc207c"
-            },
-            {
-              "cue": "vo_special_121_003",
-              "canonical_audio_asset_id": "wav:3863ddeefdfd0311bc3599dc8d15c6ba304de749dadf3944179ad0e61707609d",
-              "wav_sha256": "3863ddeefdfd0311bc3599dc8d15c6ba304de749dadf3944179ad0e61707609d"
-            },
-            {
-              "cue": "vo_special_121_004",
-              "canonical_audio_asset_id": "wav:5cfe174e1fde818e06fd6377a60dfd1802c83205610afd1366eb7a82d8191514",
-              "wav_sha256": "5cfe174e1fde818e06fd6377a60dfd1802c83205610afd1366eb7a82d8191514"
-            },
-            {
-              "cue": "vo_special_121_005",
-              "canonical_audio_asset_id": "wav:56a6a67ce50954cb67fad5775941e74af9d73e0fbbeea83b2bd7094cf2435b45",
-              "wav_sha256": "56a6a67ce50954cb67fad5775941e74af9d73e0fbbeea83b2bd7094cf2435b45"
-            },
-            {
-              "cue": "vo_special_121_006",
-              "canonical_audio_asset_id": "wav:cd58a5baaa304348ebfca276ef6a5479b8e4657e01f900bef41bf18d724cee55",
-              "wav_sha256": "cd58a5baaa304348ebfca276ef6a5479b8e4657e01f900bef41bf18d724cee55"
-            },
-            {
-              "cue": "vo_special_121_007",
-              "canonical_audio_asset_id": "wav:b734350fdb7fd8a29a5ff3249a6291dbfc35c3213645226c6eb7f792b5010df6",
-              "wav_sha256": "b734350fdb7fd8a29a5ff3249a6291dbfc35c3213645226c6eb7f792b5010df6"
-            },
-            {
-              "cue": "vo_special_121_008",
-              "canonical_audio_asset_id": "wav:df591fd510def9c559294dac45b5f753214b0663f41ee2b4ae19c602d9d11ee5",
-              "wav_sha256": "df591fd510def9c559294dac45b5f753214b0663f41ee2b4ae19c602d9d11ee5"
-            },
-            {
-              "cue": "vo_special_121_009",
-              "canonical_audio_asset_id": "wav:6222f9ca52e83deba8df0eb0cf5b7aa6f4c669df0b14fc7d7a493b990c614b23",
-              "wav_sha256": "6222f9ca52e83deba8df0eb0cf5b7aa6f4c669df0b14fc7d7a493b990c614b23"
-            },
-            {
-              "cue": "vo_special_121_010",
-              "canonical_audio_asset_id": "wav:7c028437aedb73b3b1876843776eb2517143b3bfa8a4f948209ce3a9abf29cf6",
-              "wav_sha256": "7c028437aedb73b3b1876843776eb2517143b3bfa8a4f948209ce3a9abf29cf6"
-            },
-            {
-              "cue": "vo_special_121_011",
-              "canonical_audio_asset_id": "wav:08b762fd70791c2a2cc2f3dc3681ecb44e3a168dbdceda8afd5e0e289da6aed6",
-              "wav_sha256": "08b762fd70791c2a2cc2f3dc3681ecb44e3a168dbdceda8afd5e0e289da6aed6"
-            },
-            {
-              "cue": "vo_special_121_012",
-              "canonical_audio_asset_id": "wav:111b2c812fbe0c20c0e77d708f09a1dac3769b51efa73d95255146a41943c54e",
-              "wav_sha256": "111b2c812fbe0c20c0e77d708f09a1dac3769b51efa73d95255146a41943c54e"
-            },
-            {
-              "cue": "vo_special_121_013",
-              "canonical_audio_asset_id": "wav:fa47ffda2f434f97bb20d70cd74617a502ca65d820ea1ea4db17e9c6ef189d5d",
-              "wav_sha256": "fa47ffda2f434f97bb20d70cd74617a502ca65d820ea1ea4db17e9c6ef189d5d"
-            },
-            {
-              "cue": "vo_special_121_014",
-              "canonical_audio_asset_id": "wav:d44aac3b93a166a3acb49385f3e570a7c1f7a696279e026aa6d3e59ad26654e3",
-              "wav_sha256": "d44aac3b93a166a3acb49385f3e570a7c1f7a696279e026aa6d3e59ad26654e3"
-            },
-            {
-              "cue": "vo_special_121_015",
-              "canonical_audio_asset_id": "wav:2c90a7e209da39193ebcdc0f1867dd2a0b9779afb81af11768d0e82413ce85da",
-              "wav_sha256": "2c90a7e209da39193ebcdc0f1867dd2a0b9779afb81af11768d0e82413ce85da"
-            },
-            {
-              "cue": "vo_special_121_016",
-              "canonical_audio_asset_id": "wav:25eab9776039fde622fdde0709384a94eddf3cf37ad2f695ae0212ea12ee3573",
-              "wav_sha256": "25eab9776039fde622fdde0709384a94eddf3cf37ad2f695ae0212ea12ee3573"
-            },
-            {
-              "cue": "vo_special_121_017",
-              "canonical_audio_asset_id": "wav:331b0b353c25d60e5417293dcf86da45f5227b14b272ed7d3e47ea0e5a083644",
-              "wav_sha256": "331b0b353c25d60e5417293dcf86da45f5227b14b272ed7d3e47ea0e5a083644"
-            },
-            {
-              "cue": "vo_special_121_018",
-              "canonical_audio_asset_id": "wav:4bf8fcdb61a8ca37f9a1276a874c91ab78d77969881c0f917ea4fffcace98db9",
-              "wav_sha256": "4bf8fcdb61a8ca37f9a1276a874c91ab78d77969881c0f917ea4fffcace98db9"
-            },
-            {
-              "cue": "vo_special_121_019",
-              "canonical_audio_asset_id": "wav:820551b01a9a1f44938ddabf03ad3d7e72a7a3d4a3b841c156319872462499ea",
-              "wav_sha256": "820551b01a9a1f44938ddabf03ad3d7e72a7a3d4a3b841c156319872462499ea"
-            },
-            {
-              "cue": "vo_special_121_020",
-              "canonical_audio_asset_id": "wav:e779e55a92bd272248154d814537b5ced74ba4dbb548b950c037f33044b603e1",
-              "wav_sha256": "e779e55a92bd272248154d814537b5ced74ba4dbb548b950c037f33044b603e1"
-            },
-            {
-              "cue": "vo_special_121_021",
-              "canonical_audio_asset_id": "wav:277bdc75da336c97741bc2c6337ee8c31b312e0c27850ba9b1c8a1526b3dcd19",
-              "wav_sha256": "277bdc75da336c97741bc2c6337ee8c31b312e0c27850ba9b1c8a1526b3dcd19"
-            },
-            {
-              "cue": "vo_special_121_022",
-              "canonical_audio_asset_id": "wav:f27146752c7fec967783cbc8a31349a3f34bce16f27aa5d7ad936182682a27f2",
-              "wav_sha256": "f27146752c7fec967783cbc8a31349a3f34bce16f27aa5d7ad936182682a27f2"
-            },
-            {
-              "cue": "vo_special_121_023",
-              "canonical_audio_asset_id": "wav:a416f42b3818c702419f218bb14599aee5681107206e275b81c873a21ca1cb36",
-              "wav_sha256": "a416f42b3818c702419f218bb14599aee5681107206e275b81c873a21ca1cb36"
-            },
-            {
-              "cue": "vo_special_121_024",
-              "canonical_audio_asset_id": "wav:dbcf25c3785e2984b01aa493f1e62bda2a2ca5c5545d44c9f12e9ffc6bf53190",
-              "wav_sha256": "dbcf25c3785e2984b01aa493f1e62bda2a2ca5c5545d44c9f12e9ffc6bf53190"
-            },
-            {
-              "cue": "vo_special_121_025",
-              "canonical_audio_asset_id": "wav:5417150d3f5faa8106a7c3f48893becbc245d88976cded4746555ccf1a719176",
-              "wav_sha256": "5417150d3f5faa8106a7c3f48893becbc245d88976cded4746555ccf1a719176"
-            },
-            {
-              "cue": "vo_special_121_026",
-              "canonical_audio_asset_id": "wav:e0b2969f4459d3bb76b3fdf91c5770f48073e9ca40ab22485f95b187a3c1afbd",
-              "wav_sha256": "e0b2969f4459d3bb76b3fdf91c5770f48073e9ca40ab22485f95b187a3c1afbd"
-            },
-            {
-              "cue": "vo_special_121_027",
-              "canonical_audio_asset_id": "wav:c081ef50b20935c956d20e89a76e4b3bf814fcf110d8c0714ac9aceb210366d6",
-              "wav_sha256": "c081ef50b20935c956d20e89a76e4b3bf814fcf110d8c0714ac9aceb210366d6"
-            },
-            {
-              "cue": "vo_special_121_028",
-              "canonical_audio_asset_id": "wav:84a154e6e427d64bf8adc5e97d54d1ee6e0b1ff90b3029bd788164dc6a9602b0",
-              "wav_sha256": "84a154e6e427d64bf8adc5e97d54d1ee6e0b1ff90b3029bd788164dc6a9602b0"
-            },
-            {
-              "cue": "vo_special_121_029",
-              "canonical_audio_asset_id": "wav:51c13a1dc90d6e4fe64164202a3107e51efdc5ad7a8e43124917d60dc38c4863",
-              "wav_sha256": "51c13a1dc90d6e4fe64164202a3107e51efdc5ad7a8e43124917d60dc38c4863"
-            },
-            {
-              "cue": "vo_special_121_030",
-              "canonical_audio_asset_id": "wav:bb9d7d47fb207c70b8c605de015e9994b5871423e5267f111882882069dced66",
-              "wav_sha256": "bb9d7d47fb207c70b8c605de015e9994b5871423e5267f111882882069dced66"
-            },
-            {
-              "cue": "vo_special_121_031",
-              "canonical_audio_asset_id": "wav:2efba5c602138ccba8147c21868b8ae5abfb7a76c8512a4eab7ae3f5114125be",
-              "wav_sha256": "2efba5c602138ccba8147c21868b8ae5abfb7a76c8512a4eab7ae3f5114125be"
-            },
-            {
-              "cue": "vo_special_121_032",
-              "canonical_audio_asset_id": "wav:d97d64366f78c2ba87c0a41112e9d4a8d1b9674c5a679e1b373ba569fcbb33ad",
-              "wav_sha256": "d97d64366f78c2ba87c0a41112e9d4a8d1b9674c5a679e1b373ba569fcbb33ad"
-            },
-            {
-              "cue": "vo_special_121_033",
-              "canonical_audio_asset_id": "wav:c3b88c4f9e8b375be11014560f0f96ed90aefaa8092924a699b5519d48355c58",
-              "wav_sha256": "c3b88c4f9e8b375be11014560f0f96ed90aefaa8092924a699b5519d48355c58"
-            },
-            {
-              "cue": "vo_special_121_034",
-              "canonical_audio_asset_id": "wav:2f5c8e6de828bfb255d214be63c3c0cb927cf25f130ab9e9b97cfa598d1afdea",
-              "wav_sha256": "2f5c8e6de828bfb255d214be63c3c0cb927cf25f130ab9e9b97cfa598d1afdea"
-            },
-            {
-              "cue": "vo_special_121_035",
-              "canonical_audio_asset_id": "wav:eb1fb7a10f6b6914373a7a63b603423087385a62eaa3cf41973f3a10b949f95f",
-              "wav_sha256": "eb1fb7a10f6b6914373a7a63b603423087385a62eaa3cf41973f3a10b949f95f"
-            },
-            {
-              "cue": "vo_special_121_036",
-              "canonical_audio_asset_id": "wav:f3682c184d0668cdd4fd80add9c3263d32a81f44209d411281386452a8cf957b",
-              "wav_sha256": "f3682c184d0668cdd4fd80add9c3263d32a81f44209d411281386452a8cf957b"
-            },
-            {
-              "cue": "vo_special_121_037",
-              "canonical_audio_asset_id": "wav:3f8565615d8362924e831e039a142d041676ac28feba94344e1906de853dbd1c",
-              "wav_sha256": "3f8565615d8362924e831e039a142d041676ac28feba94344e1906de853dbd1c"
-            },
-            {
-              "cue": "vo_special_121_038",
-              "canonical_audio_asset_id": "wav:7dddda36d0444ffe3fb123bece4ba9446dcf5faf44a8e6f2ad49be90af97c817",
-              "wav_sha256": "7dddda36d0444ffe3fb123bece4ba9446dcf5faf44a8e6f2ad49be90af97c817"
-            },
-            {
-              "cue": "vo_special_121_039",
-              "canonical_audio_asset_id": "wav:32d6ea543e01f89c17d4c54882c63ea24a2b6465be5ca34796251024665290be",
-              "wav_sha256": "32d6ea543e01f89c17d4c54882c63ea24a2b6465be5ca34796251024665290be"
-            },
-            {
-              "cue": "vo_special_121_040",
-              "canonical_audio_asset_id": "wav:f653248f6d9ae73f81829a9efb9a25607a3357c43a64d9c16ddd252d96b90d09",
-              "wav_sha256": "f653248f6d9ae73f81829a9efb9a25607a3357c43a64d9c16ddd252d96b90d09"
-            },
-            {
-              "cue": "vo_special_121_041",
-              "canonical_audio_asset_id": "wav:76eca14c382d86fed450ad5b826236dfe5878aac30b477088445f08973f39d12",
-              "wav_sha256": "76eca14c382d86fed450ad5b826236dfe5878aac30b477088445f08973f39d12"
-            },
-            {
-              "cue": "vo_special_121_042",
-              "canonical_audio_asset_id": "wav:12f2675d4b751df03f9a22a3ee40b494e5000ba787934d466f7e51c165840385",
-              "wav_sha256": "12f2675d4b751df03f9a22a3ee40b494e5000ba787934d466f7e51c165840385"
-            },
-            {
-              "cue": "vo_special_121_043",
-              "canonical_audio_asset_id": "wav:18edeba69a64344b13460da916c3ca062e51a1fd8b9cfdf36f4b7c5b1b239ef7",
-              "wav_sha256": "18edeba69a64344b13460da916c3ca062e51a1fd8b9cfdf36f4b7c5b1b239ef7"
-            },
-            {
-              "cue": "vo_special_121_044",
-              "canonical_audio_asset_id": "wav:5656ce7d1f64f2046577d6db1332abb1695ea9645bdc790f1d3db5996d1018b9",
-              "wav_sha256": "5656ce7d1f64f2046577d6db1332abb1695ea9645bdc790f1d3db5996d1018b9"
-            },
-            {
-              "cue": "vo_special_121_045",
-              "canonical_audio_asset_id": "wav:bf35f18c9f178c945f6de33565f27c660fdd5066bc873838ae30b2480ebd88a8",
-              "wav_sha256": "bf35f18c9f178c945f6de33565f27c660fdd5066bc873838ae30b2480ebd88a8"
-            },
-            {
-              "cue": "vo_special_121_046",
-              "canonical_audio_asset_id": "wav:0f1b9b7c9c8355a7ea4f19ad2ab06426315075b0449085a27f8990bfee046908",
-              "wav_sha256": "0f1b9b7c9c8355a7ea4f19ad2ab06426315075b0449085a27f8990bfee046908"
-            },
-            {
-              "cue": "vo_special_121_047",
-              "canonical_audio_asset_id": "wav:f7dc7c7035b4bbf048c591b9771ec017aae27bfdc125534acab5cca413d8e9dd",
-              "wav_sha256": "f7dc7c7035b4bbf048c591b9771ec017aae27bfdc125534acab5cca413d8e9dd"
-            },
-            {
-              "cue": "vo_special_title_121_00_01",
-              "canonical_audio_asset_id": "wav:3c05cbe4dbe651be1444ad83ae2bcdb4280efda00b58fe9e66e7f5747e6c7a70",
-              "wav_sha256": "3c05cbe4dbe651be1444ad83ae2bcdb4280efda00b58fe9e66e7f5747e6c7a70"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_121_001",
-            "vo_special_121_002",
-            "vo_special_121_003",
-            "vo_special_121_004",
-            "vo_special_121_005",
-            "vo_special_121_006",
-            "vo_special_121_007",
-            "vo_special_121_008",
-            "vo_special_121_009",
-            "vo_special_121_010",
-            "vo_special_121_011",
-            "vo_special_121_012",
-            "vo_special_121_013",
-            "vo_special_121_014",
-            "vo_special_121_015",
-            "vo_special_121_016",
-            "vo_special_121_017",
-            "vo_special_121_018",
-            "vo_special_121_019",
-            "vo_special_121_020",
-            "vo_special_121_021",
-            "vo_special_121_022",
-            "vo_special_121_023",
-            "vo_special_121_024",
-            "vo_special_121_025",
-            "vo_special_121_026",
-            "vo_special_121_027",
-            "vo_special_121_028",
-            "vo_special_121_029",
-            "vo_special_121_030",
-            "vo_special_121_031",
-            "vo_special_121_032",
-            "vo_special_121_033",
-            "vo_special_121_034",
-            "vo_special_121_035",
-            "vo_special_121_036",
-            "vo_special_121_037",
-            "vo_special_121_038",
-            "vo_special_121_039",
-            "vo_special_121_040",
-            "vo_special_121_041",
-            "vo_special_121_042",
-            "vo_special_121_043",
-            "vo_special_121_044",
-            "vo_special_121_045",
-            "vo_special_121_046",
-            "vo_special_121_047",
-            "vo_special_title_121_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_121_001",
-            "vo_special_121_002",
-            "vo_special_121_003",
-            "vo_special_121_004",
-            "vo_special_121_005",
-            "vo_special_121_006",
-            "vo_special_121_007",
-            "vo_special_121_008",
-            "vo_special_121_009",
-            "vo_special_121_010",
-            "vo_special_121_011",
-            "vo_special_121_012",
-            "vo_special_121_013",
-            "vo_special_121_014",
-            "vo_special_121_015",
-            "vo_special_121_016",
-            "vo_special_121_017",
-            "vo_special_121_018",
-            "vo_special_121_019",
-            "vo_special_121_020",
-            "vo_special_121_021",
-            "vo_special_121_022",
-            "vo_special_121_023",
-            "vo_special_121_024",
-            "vo_special_121_025",
-            "vo_special_121_026",
-            "vo_special_121_027",
-            "vo_special_121_028",
-            "vo_special_121_029",
-            "vo_special_121_030",
-            "vo_special_121_031",
-            "vo_special_121_032",
-            "vo_special_121_033",
-            "vo_special_121_034",
-            "vo_special_121_035",
-            "vo_special_121_036",
-            "vo_special_121_037",
-            "vo_special_121_038",
-            "vo_special_121_039",
-            "vo_special_121_040",
-            "vo_special_121_041",
-            "vo_special_121_042",
-            "vo_special_121_043",
-            "vo_special_121_044",
-            "vo_special_121_045",
-            "vo_special_121_046",
-            "vo_special_121_047"
-          ],
-          "dialogue_voice_page_count": 47,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "bb0248d635adab95fd6e4be220a27b05261dd4cd99c11d8143f3d8976b10c6f9",
-          "actual_static_review_sha256": "0230a5903ca1f4fcfbf4d012c0fed9f1085fb6e9024ed295e52fa8470fedf96e",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        },
-        {
-          "episode_id": "503011805",
-          "binding_sha256": "12592166e3ce761cde8e6ec3182214af049e6f745d60a6a561b71b7867ff822b",
-          "voice_bindings": [
-            {
-              "cue": "vo_special_122_001",
-              "canonical_audio_asset_id": "wav:bd2189355b2d83a8b61e1025abacfb5bf540d5b4942de331cd13de938f083b0b",
-              "wav_sha256": "bd2189355b2d83a8b61e1025abacfb5bf540d5b4942de331cd13de938f083b0b"
-            },
-            {
-              "cue": "vo_special_122_002",
-              "canonical_audio_asset_id": "wav:bbaddba200d53c58da23d0c501c9abc2688290145f703dde9be31bc881bb0d7f",
-              "wav_sha256": "bbaddba200d53c58da23d0c501c9abc2688290145f703dde9be31bc881bb0d7f"
-            },
-            {
-              "cue": "vo_special_122_003",
-              "canonical_audio_asset_id": "wav:de9c67a52eed737b90feebee7bea8f039b08443fbbc98c6944b8c9f8d9473e7c",
-              "wav_sha256": "de9c67a52eed737b90feebee7bea8f039b08443fbbc98c6944b8c9f8d9473e7c"
-            },
-            {
-              "cue": "vo_special_122_004",
-              "canonical_audio_asset_id": "wav:2b3bffc848cf0be986386c819bb1bfdc51941d28b83b1d81229ea22113500d2f",
-              "wav_sha256": "2b3bffc848cf0be986386c819bb1bfdc51941d28b83b1d81229ea22113500d2f"
-            },
-            {
-              "cue": "vo_special_122_005",
-              "canonical_audio_asset_id": "wav:3bf689f52aa741a5dcc09d6f23484038e168321e5a3f36dab217dd570cfd9ccb",
-              "wav_sha256": "3bf689f52aa741a5dcc09d6f23484038e168321e5a3f36dab217dd570cfd9ccb"
-            },
-            {
-              "cue": "vo_special_122_006",
-              "canonical_audio_asset_id": "wav:065ca1e31d94e02e90377d54faec11453d20123c5785d94cd993749be872b4b3",
-              "wav_sha256": "065ca1e31d94e02e90377d54faec11453d20123c5785d94cd993749be872b4b3"
-            },
-            {
-              "cue": "vo_special_122_007",
-              "canonical_audio_asset_id": "wav:64b737e410f56bb6a1dff3eb67c5d22e6d96c9e8af8b334e9ba0a9d71475ff39",
-              "wav_sha256": "64b737e410f56bb6a1dff3eb67c5d22e6d96c9e8af8b334e9ba0a9d71475ff39"
-            },
-            {
-              "cue": "vo_special_122_008",
-              "canonical_audio_asset_id": "wav:e4725c04996375e3394e4e1531e958e55acfc46f93ddf6dfd5bc165b862428d5",
-              "wav_sha256": "e4725c04996375e3394e4e1531e958e55acfc46f93ddf6dfd5bc165b862428d5"
-            },
-            {
-              "cue": "vo_special_122_009",
-              "canonical_audio_asset_id": "wav:6d04323ec2bb9099906e6f9f3bfda148e327c835e2e4fc9a82bb58fabb309c8a",
-              "wav_sha256": "6d04323ec2bb9099906e6f9f3bfda148e327c835e2e4fc9a82bb58fabb309c8a"
-            },
-            {
-              "cue": "vo_special_122_010",
-              "canonical_audio_asset_id": "wav:5fe05ef8e1a507475bb5e04aa6a2aaf8b7900604c00d4b62af053a85a5bd2fd1",
-              "wav_sha256": "5fe05ef8e1a507475bb5e04aa6a2aaf8b7900604c00d4b62af053a85a5bd2fd1"
-            },
-            {
-              "cue": "vo_special_122_011",
-              "canonical_audio_asset_id": "wav:ed6dd12576e2c1145e6c34571e226d0a23f28ff56e1e4ef64bdc1d63ed7c75c6",
-              "wav_sha256": "ed6dd12576e2c1145e6c34571e226d0a23f28ff56e1e4ef64bdc1d63ed7c75c6"
-            },
-            {
-              "cue": "vo_special_122_012",
-              "canonical_audio_asset_id": "wav:17d69e2ac97f08595a057e0efb1d61060d8b3eddd7cbf2f1888a017967e7892a",
-              "wav_sha256": "17d69e2ac97f08595a057e0efb1d61060d8b3eddd7cbf2f1888a017967e7892a"
-            },
-            {
-              "cue": "vo_special_122_013",
-              "canonical_audio_asset_id": "wav:564fac648898a039dc618def47b6c1037a3c01ce61a7798d0e532da8906db854",
-              "wav_sha256": "564fac648898a039dc618def47b6c1037a3c01ce61a7798d0e532da8906db854"
-            },
-            {
-              "cue": "vo_special_122_014",
-              "canonical_audio_asset_id": "wav:e3521eac87ad4225efda147cf6888d3ee2ece69f25e8305efceb0cb704344152",
-              "wav_sha256": "e3521eac87ad4225efda147cf6888d3ee2ece69f25e8305efceb0cb704344152"
-            },
-            {
-              "cue": "vo_special_122_015",
-              "canonical_audio_asset_id": "wav:a00611e33ab45205fa4bafb069d60004a831df93ab54f103f8b1a35e2ebc6f2e",
-              "wav_sha256": "a00611e33ab45205fa4bafb069d60004a831df93ab54f103f8b1a35e2ebc6f2e"
-            },
-            {
-              "cue": "vo_special_title_122_00_01",
-              "canonical_audio_asset_id": "wav:75c5dce0326235dcb04c00c3ae41e1dd32b509b5ffd1c20fd7aa987eaf9d7e5e",
-              "wav_sha256": "75c5dce0326235dcb04c00c3ae41e1dd32b509b5ffd1c20fd7aa987eaf9d7e5e"
-            }
-          ],
-          "all_named_native_voice_cues": [
-            "vo_special_122_001",
-            "vo_special_122_002",
-            "vo_special_122_003",
-            "vo_special_122_004",
-            "vo_special_122_005",
-            "vo_special_122_006",
-            "vo_special_122_007",
-            "vo_special_122_008",
-            "vo_special_122_009",
-            "vo_special_122_010",
-            "vo_special_122_011",
-            "vo_special_122_012",
-            "vo_special_122_013",
-            "vo_special_122_014",
-            "vo_special_122_015",
-            "vo_special_title_122_00_01"
-          ],
-          "dialogue_voice_cues": [
-            "vo_special_122_001",
-            "vo_special_122_002",
-            "vo_special_122_003",
-            "vo_special_122_004",
-            "vo_special_122_005",
-            "vo_special_122_006",
-            "vo_special_122_007",
-            "vo_special_122_008",
-            "vo_special_122_009",
-            "vo_special_122_010",
-            "vo_special_122_011",
-            "vo_special_122_012",
-            "vo_special_122_013",
-            "vo_special_122_014",
-            "vo_special_122_015"
-          ],
-          "dialogue_voice_page_count": 15,
-          "unresolved_non_dialogue_cues": [],
-          "unresolved_native_pages": {},
-          "root_modality_disposition_sha256": "9fb109265504b5c7c84b8fc49ad62c8ece25d6d5d3f207d4ea71e7bb5c727e7e",
-          "actual_static_review_sha256": "8cf7d372227e3a5b1d3099627f23a72341334bcd84a2cd9be9c63a8758381bbe",
-          "performed_voice": "UNHEARD",
-          "runtime": "UNOBSERVED",
-          "inline_references": {}
-        }
-      ],
-      "exact_unresolved_command_cue_probes": [
-        {
-          "episode_id": "502010805",
-          "exact_probe_sha256": "22ec74fb178105523704fce5fee7256a14358ca3dc943550861b650b69c366d0",
-          "case_only_acceptance_sha256": "09c7b9700f1acd51fc276d179039f1dde8919bffc8347dfb6b12124801dcd81a",
-          "unresolved": {
-            "vo_special_112_152": [
-              49
-            ]
-          }
-        },
-        {
-          "episode_id": "502011304",
-          "exact_probe_sha256": "3dc4dd7b836a3b26d2fbf0cde097381b87435534ef4a7f473e4623b7d13ddc03",
-          "case_only_acceptance_sha256": "fdd9d61f24dd506041485a76bc561ca36c171258a0680b5e7a1d941d61d28d05",
-          "unresolved": {
-            "vo_special_116_092": [
-              33
-            ]
-          }
-        }
-      ],
-      "performed_audio": "ALL419_BINDING_INSTANCES_418_DISTINCT_WAVS_UNHEARD;NO_MISSING_DIALOGUE_OR_GLOBAL_ABSENCE",
-      "native_item_inventory": [
-        {
-          "episode_id": "503011801",
-          "page": 2,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 3,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 4,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 5,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 6,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 7,
-          "value": {
-            "FileName": "adv_obj_0085",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 22,
-          "value": {
-            "FileName": "adv_obj_0086",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 23,
-          "value": {
-            "FileName": "adv_obj_0086",
-            "PositionX": 0
-          }
-        },
-        {
-          "episode_id": "503011801",
-          "page": 24,
-          "value": {
-            "FileName": "adv_obj_0086",
-            "PositionX": 0
-          }
-        }
-      ],
-      "selected_static_scope": {
-        "selected_sprite_instances": 203,
-        "foreground_object_instances": 2,
-        "distinct_sprite_object_resources": 118,
-        "distinct_backgrounds": 8
-      },
-      "inline_movie_state": "NO_INLINE_MOVIE_FIELDS_IN_ALL15_COMPLETE_NATIVE_DOCUMENTS",
-      "native_choices": {
-        "502010801": {
-          "groups": []
-        },
-        "502010802": {
-          "groups": []
-        },
-        "502010803": {
-          "groups": []
-        },
-        "502010804": {
-          "groups": []
-        },
-        "502010805": {
-          "groups": []
-        },
-        "502011301": {
-          "groups": []
-        },
-        "502011302": {
-          "groups": []
-        },
-        "502011303": {
-          "groups": []
-        },
-        "502011304": {
-          "groups": []
-        },
-        "502011305": {
-          "groups": []
-        },
-        "503011801": {
-          "groups": []
-        },
-        "503011802": {
-          "groups": []
-        },
-        "503011803": {
-          "groups": []
-        },
-        "503011804": {
-          "groups": []
-        },
-        "503011805": {
-          "groups": []
-        }
-      },
-      "runtime": "UNOBSERVED",
-      "subject_integration_by_script": {
-        "memory_0108.json__4e249b8bdee407a0": [
-          "player-protagonist",
-          "tendoji-musubi",
-          "tsunomori-rona",
-          "rokusaki-connie-presented"
-        ],
-        "memory_0109.json__0496916636978e85": [
-          "player-protagonist",
-          "kuonji-shizuka",
-          "harumi-shinju",
-          "rokusaki-connie-presented",
-          "harumi-sawara",
-          "serizawa-momoka",
-          "kasukabe-haru",
-          "tendoji-musubi"
-        ],
-        "memory_0110.json__396ec1f03bb21ed3": [
-          "player-protagonist",
-          "nonohara-hime",
-          "harumi-kajika",
-          "kamishiro-sui",
-          "serizawa-momoka"
-        ],
-        "memory_0111.json__5bb91b74bc2c2273": [
-          "player-protagonist",
-          "usuta-sumire",
-          "alessandra-susu"
-        ],
-        "memory_0112.json__086ff5d77db90707": [
-          "player-protagonist",
-          "kasukabe-haru",
-          "harumi-sawara",
-          "harumi-kajika",
-          "kamishiro-sui",
-          "usuta-sumire",
-          "tsunomori-rona",
-          "nonohara-hime",
-          "harumi-shinju",
-          "serizawa-momoka",
-          "tendoji-musubi"
-        ],
-        "memory_0113.json__e0cc4c09def01ea6": [
-          "kujo-ume",
-          "wanibuchi-emoco",
-          "saeki-hina"
-        ],
-        "memory_0114.json__72b4cad0b5fb55ac": [
-          "kujo-ume",
-          "wanibuchi-emoco",
-          "saeki-hina"
-        ],
-        "memory_0115.json__0d03cb21f529213c": [
-          "kujo-ume",
-          "wanibuchi-emoco",
-          "saeki-hina"
-        ],
 <!-- T7S SOURCE LOCK PAYLOAD END -->
