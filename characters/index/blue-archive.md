@@ -746,8 +746,10 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - _None._
 - Analytical coverage:
   - `monograph-bounded-scope`: GAME OTHER: Dedicated interpretation of the baseball student CH0245 from her private contextualization checkpoint, four paired bond/message readings, two written-repertoire readings, group story G330, Events E832 and E845, Sumire's private account and the E126 gift reading. This describes the monograph's analytical corpus, not every appearance. The separately unresolved diving Rei is excluded.; continuity `blue-archive-game`
+  - `sumire-rei-relationship-scope`: GAME OTHER: Dedicated reading of Rei's chosen coaching association with Sumire across group story G330 and Events E832 and E845: her request, objections, rule corrections, renewed agreement and refusals. This describes the synthesis's analytical corpus, not every appearance. The separately unresolved diving Rei is excluded.; continuity `blue-archive-game`
 - Reviewed current evidence:
   - [`bounded-character-monograph` — Rei (baseball, CH0245) bounded character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md) — **active provisional authority**
+  - [`sumire-rei-relationship-synthesis` — Sumire–baseball Rei chosen-goals relationship synthesis](../../series/blue-archive/04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md)
 
 <a id="nonomi"></a>
 
@@ -979,8 +981,32 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - _None._
 - Analytical coverage:
   - `monograph-scope`: GAME OTHER: Dedicated interpretation of BA_PERSON_SUMIRE (variants 10012/20044 and a costume route) from her private contextual account, group story G330, Event E832 and main-story Volume 2. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
+  - `sumire-rei-relationship-scope`: GAME OTHER: Dedicated reading of Sumire's coaching association with the baseball student Rei (CH0245) across group story G330 and Events E832 and E845. E845 is new coverage for this row. This describes the synthesis's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
 - Reviewed current evidence:
   - [`character-monograph` — Sumire character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md)
+  - [`sumire-rei-relationship-synthesis` — Sumire–baseball Rei chosen-goals relationship synthesis](../../series/blue-archive/04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md)
+
+<a id="suou"></a>
+
+### Suou
+
+- Entity ID: `blue-archive:suou`
+- Entity aliases:
+  - Asagiri Suou (ja-latn, TRANSLITERATION) — Family-name-first order, as given in the subject field and title of the Suou monograph.
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:suou@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of Suou across main-story Volume 1 (対策委員会編) as maintained in episode accounts E003, E004, E005, E011, E013, E016, E018, E020 and E042, a chapter checkpoint and the Volume 1 working account. This describes the monograph's analytical corpus, not every appearance. No performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Suou character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUOU_CHARACTER_MONOGRAPH.md)
 
 <a id="yuuka"></a>
 
