@@ -1,0 +1,672 @@
+{
+  "schema": "ARONA_M002_PUBLIC_SOURCE_AUTHORITY_QUALIFICATIONS_V1",
+  "author": "/root/recover_yuzu_saved_review",
+  "existing_required_id": "P3-CHAR-M002",
+  "home_zero": 1,
+  "main_only_responsibility": "P3-M002",
+  "source_keys": [
+    {
+      "key": "A01",
+      "owner": "V000",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "V000",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_7ebbbf96a5de6dc137ff64c858a9209898296ecae7f8a08de4c16b360f7a9510",
+        "bytes": 29927,
+        "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+        "git_blob_oid_of_actual_bytes": "92dad8777648f85badaf47ce7e8d8741eda1cc2a",
+        "physical_lines": 146,
+        "metadata_relevance_only": [
+          "Arona"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a2b615092ddf53a0a51c806b51a2ff58dfc9d310e2002896c9c0d70634328c52",
+        "bytes": 29927,
+        "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+        "git_blob_oid_of_actual_bytes": "92dad8777648f85badaf47ce7e8d8741eda1cc2a"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          146
+        ]
+      ],
+      "prior_actual_outputs": [
+        "e5c081",
+        "6747e2"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          40,
+          66
+        ],
+        [
+          80,
+          88
+        ],
+        [
+          102,
+          110
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "f78743"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A02",
+      "owner": "V001",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "V001",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_78bcfc81461027f5784662658b56c77ca38b3bc6765f4a69a4008b86342ddc5e",
+        "bytes": 64540,
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "git_blob_oid_of_actual_bytes": "edf78e92072c46e72147e27c2f2c6b98ae3c521a",
+        "physical_lines": 349,
+        "metadata_relevance_only": [
+          "Arona",
+          "route_discovery_only"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_fe4435160bb3a8fbb9f12eaafba0999a6275aebbf8b1656440433423389d3e3d",
+        "bytes": 64540,
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "git_blob_oid_of_actual_bytes": "edf78e92072c46e72147e27c2f2c6b98ae3c521a"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          349
+        ]
+      ],
+      "prior_actual_outputs": [
+        "8b9c56",
+        "74df15",
+        "725659",
+        "1d2c22"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          115,
+          117
+        ],
+        [
+          171,
+          187
+        ],
+        [
+          289,
+          299
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "40acb4"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A03",
+      "owner": "V100",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "V100",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4523fe23c7b5ee0c26498cafb230bae5662fda4c26b03445369de6c70b44cd5d",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+        "physical_lines": 452,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana",
+          "Prenapates"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_2a4f8f6ae5c1d4decd245298353153f3908552316a6d5f164e64ca8533e5d558",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          452
+        ]
+      ],
+      "prior_actual_outputs": [
+        "2ae15b",
+        "3ce962",
+        "c68e80",
+        "3235bc"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          138,
+          175
+        ],
+        [
+          233,
+          251
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "1e7f90"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A04",
+      "owner": "S2V000",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "S2V000",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_112f7123a9b09d1be55bd11e7558abd2ae5bca50ec082781f7295720cb0c5f7b",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+        "physical_lines": 259,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_aabff2dfc7b276c6efc0cf4514f73882500b7282e32e4290e92fd4f81ecf2a53",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          259
+        ]
+      ],
+      "prior_actual_outputs": [
+        "985aa8",
+        "f79cb5",
+        "842bf5"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          64,
+          107
+        ],
+        [
+          184,
+          193
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "1ba0d8"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A05",
+      "owner": "S2V001",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "S2V001",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_81a239f5e96c2d910bb0e01a52f362c8b3d5da4aa13fb7368c3ca5db74a856cf",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+        "physical_lines": 94,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_7cc35046d1d8240c6b78dc9ad6f37cf8d5bb735b3850aa32b59ea6b9f710eec7",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          94
+        ]
+      ],
+      "prior_actual_outputs": [
+        "51b76c"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          51,
+          76
+        ],
+        [
+          86,
+          94
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "40acb4"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A06",
+      "owner": "S2V003",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "exact_original": {
+        "owner": "S2V003",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4eeabd72095f6569613c2a6f6b1f946c2095122023ff99af037696c8a2843f7f",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+        "physical_lines": 677,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a65cedfe2ebfd2fdab4f224b7c8e3d510131ccfc370f738dfaa4dff6b99215d1",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "prior_own_actual_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_ACCOUNT_THROUGH_EOF",
+      "prior_whole_intervals": [
+        [
+          1,
+          677
+        ]
+      ],
+      "prior_actual_outputs": [
+        "3a8a53",
+        "b7f6c2",
+        "298278"
+      ],
+      "present_selected_refresh_intervals": [
+        [
+          67,
+          85
+        ],
+        [
+          616,
+          625
+        ],
+        [
+          657,
+          677
+        ]
+      ],
+      "present_selected_refresh_outputs": [
+        "40acb4"
+      ],
+      "present_grade": "SELECTED_REFRESH_OF_PRIOR_OWN_WHOLE_MAINTAINED_ACCOUNT;NOT_NEW_PRIMARY",
+      "original_substantive_receiving": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "not_independent_observation_count": true
+    },
+    {
+      "key": "A07",
+      "owner": "S2V003_C001_CHECKPOINT",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+      "exact_original": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a2417ede82b526e96ffc7f25b9f7c23ef48317cd9d435aa5e8a9c0fd94fa18e2",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+        "physical_lines": 58,
+        "reading_claim": "RAW_CUSTODY_ONLY_NOT_PERSONAL_MEANING_RECEIVING"
+      },
+      "immutable_copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4c49186f06b23bd3df4e59808ebe53a1ffecb5fd9d560fc46ef00f32ea1b4a88",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "present_own_actual_grade": "WHOLE_MAINTAINED_CHAPTER58_THROUGH_EOF",
+      "physical_intervals": [
+        [
+          1,
+          58
+        ]
+      ],
+      "actual_output": "e7735b",
+      "source_credit": "58 maintained analytical lines; no14 individual deep-reading/primary course or14 Arona appearance/absence claim"
+    }
+  ],
+  "whole_dated_custody": [
+    {
+      "original": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_95bebccc1e5343c8f8a0fa008c2b16cb2799f1f0f7ff46572a8af16d69f757a0",
+        "bytes": 16948,
+        "sha256": "d725448bae03843483d217d2bbf800d4d5c238a15dd94a3f4c2d07a073f5acaf",
+        "git_blob_oid_of_actual_bytes": "7e26085bbce39fd433c3f9c20aa9134b8a63d986"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_f5ecf3e54d495d143f56c227b12648a9ab3ed4fc0b84712b1883ecb0897ba85f",
+        "bytes": 16948,
+        "sha256": "d725448bae03843483d217d2bbf800d4d5c238a15dd94a3f4c2d07a073f5acaf",
+        "git_blob_oid_of_actual_bytes": "7e26085bbce39fd433c3f9c20aa9134b8a63d986"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_e78137a83e5e8615427b1c32c4a40790d1d348c3ac8211b5175f38a356f169de",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_469a5248a84e22c1cf6b922f6fb60b159ca6a716f4e41ac380f3d25f27d2683f",
+        "bytes": 12650,
+        "sha256": "d49df326b7757ebc082735407d2baa7b9681d06762ed9280a3dd31df490f379a",
+        "git_blob_oid_of_actual_bytes": "409127d4d3d4559fbe04b2511b39312503edba45"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a52d4d7478f0a6f26a2141d5d30d520c8e6d88a001050f93597ee327f357871f",
+        "bytes": 14439,
+        "sha256": "5c9eeecd36d640fd335b3f4f0be8a7b5c05d33493de9706d29a58eb02353e249"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_3e97ae5fc5948a88fabbc670a1d347dad95c0b7657edc7e709de4bb99e4ff462",
+        "bytes": 14439,
+        "sha256": "5c9eeecd36d640fd335b3f4f0be8a7b5c05d33493de9706d29a58eb02353e249",
+        "git_blob_oid_of_actual_bytes": "b58f0ee1a34b79bdeac57d4d8d5ec48adc534f17"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_09c6e11f6eaf37364039d265093563f1eea611e864b1a3fe408fa7290fb9a55d",
+        "bytes": 13589,
+        "sha256": "407a7d5c31dbac510373982d06c4b4909ca752bd4ea488bb1a443d9aa96e60ec"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_8a98b838bb1745a79d442def7df9e52dd09da25858cfe182ffa22189fb62c82a",
+        "bytes": 13589,
+        "sha256": "407a7d5c31dbac510373982d06c4b4909ca752bd4ea488bb1a443d9aa96e60ec",
+        "git_blob_oid_of_actual_bytes": "4687705a4b7d62a1b0d6e128b9944b73c6a0a590"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_fd9521a240fa814579c7bff4017732f6172799d12b205fea40f26009a171c767",
+        "bytes": 21489,
+        "sha256": "b4683b8152067769507a8b2676571f01d76efcfd911794089fa60dacc8c1113f"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_f19b38ff5a0ef384266fcb82c1447e46837c7b926c6365de3a6ac054d65816cf",
+        "bytes": 21489,
+        "sha256": "b4683b8152067769507a8b2676571f01d76efcfd911794089fa60dacc8c1113f",
+        "git_blob_oid_of_actual_bytes": "f3e06c44b50c5f761fe66f39fbe1b789eb96887d"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "V000",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_7ebbbf96a5de6dc137ff64c858a9209898296ecae7f8a08de4c16b360f7a9510",
+        "bytes": 29927,
+        "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+        "git_blob_oid_of_actual_bytes": "92dad8777648f85badaf47ce7e8d8741eda1cc2a",
+        "physical_lines": 146,
+        "metadata_relevance_only": [
+          "Arona"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a2b615092ddf53a0a51c806b51a2ff58dfc9d310e2002896c9c0d70634328c52",
+        "bytes": 29927,
+        "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+        "git_blob_oid_of_actual_bytes": "92dad8777648f85badaf47ce7e8d8741eda1cc2a"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "V001",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_78bcfc81461027f5784662658b56c77ca38b3bc6765f4a69a4008b86342ddc5e",
+        "bytes": 64540,
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "git_blob_oid_of_actual_bytes": "edf78e92072c46e72147e27c2f2c6b98ae3c521a",
+        "physical_lines": 349,
+        "metadata_relevance_only": [
+          "Arona",
+          "route_discovery_only"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_fe4435160bb3a8fbb9f12eaafba0999a6275aebbf8b1656440433423389d3e3d",
+        "bytes": 64540,
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "git_blob_oid_of_actual_bytes": "edf78e92072c46e72147e27c2f2c6b98ae3c521a"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "V100",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4523fe23c7b5ee0c26498cafb230bae5662fda4c26b03445369de6c70b44cd5d",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+        "physical_lines": 452,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana",
+          "Prenapates"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_2a4f8f6ae5c1d4decd245298353153f3908552316a6d5f164e64ca8533e5d558",
+        "bytes": 49292,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "S2V000",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_112f7123a9b09d1be55bd11e7558abd2ae5bca50ec082781f7295720cb0c5f7b",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+        "physical_lines": 259,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_aabff2dfc7b276c6efc0cf4514f73882500b7282e32e4290e92fd4f81ecf2a53",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "S2V001",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_81a239f5e96c2d910bb0e01a52f362c8b3d5da4aa13fb7368c3ca5db74a856cf",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+        "physical_lines": 94,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_7cc35046d1d8240c6b78dc9ad6f37cf8d5bb735b3850aa32b59ea6b9f710eec7",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "owner": "S2V003",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4eeabd72095f6569613c2a6f6b1f946c2095122023ff99af037696c8a2843f7f",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1",
+        "physical_lines": 677,
+        "metadata_relevance_only": [
+          "Arona",
+          "Plana"
+        ],
+        "reading_claim": "RAW_CUSTODY_ONLY;NO_PERSONAL_SOURCE_COURSE_OR_APPEARANCE_CREDIT"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a65cedfe2ebfd2fdab4f224b7c8e3d510131ccfc370f738dfaa4dff6b99215d1",
+        "bytes": 19594,
+        "sha256": "f6438d5cccc1582c1a86b1e68be27a9321ef3f8bdb4ce21862fffbaad4fc3df9",
+        "git_blob_oid_of_actual_bytes": "3c5bdbe922e2ecb13e74c415affe1fa6a4392cf1"
+      },
+      "whole_raw_equal": true
+    },
+    {
+      "original": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_a2417ede82b526e96ffc7f25b9f7c23ef48317cd9d435aa5e8a9c0fd94fa18e2",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d",
+        "physical_lines": 58,
+        "reading_claim": "RAW_CUSTODY_ONLY_NOT_PERSONAL_MEANING_RECEIVING"
+      },
+      "copy": {
+        "historical_locator_id": "ARONA_DATED_LOCATOR_SHA256_4c49186f06b23bd3df4e59808ebe53a1ffecb5fd9d560fc46ef00f32ea1b4a88",
+        "bytes": 11521,
+        "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+        "git_blob_oid_of_actual_bytes": "c02222a483d24e1275c1d0ed4b83cc326efcb49d"
+      },
+      "whole_raw_equal": true
+    }
+  ],
+  "grade_continuity": "Earlier own six WHOLE maintained accounts1977 physical lines remain dated actual prior exposure. Present task reread selected272 of those physical lines plus the new whole58 chapter, not another fresh1977 course. Shared S2V000/S2V001 meanings are not independent observations. All sources are maintained analytical accounts, not newly inspected underlying primary/native/raw-dialogue/AV.",
+  "present_refresh_line_sum": 272,
+  "current_contextual_adoption": "Cycle008 governs. Old source-count, queue and pending/unadmitted creation-stage prose remains dated witness; no reset of Phase2 or current canonical152 is performed.",
+  "ARL01": "Original limit and source-course records preserved whole. New A07 WHOLE58 resolves general chapter context for bounded body, not every individual late act or all14 underlying readings. E001 remains conditional for a stronger individual assertion.",
+  "identity_and_routing": [
+    "Existing M002/home1 retained; no new person, F-family or common105.",
+    "Candidate V000 path is a retrieval seed beside broader maintained boundary; V001 was positively received as coverage-revealed backfill.",
+    "Plana M028 V000 seed versus V100-start discrepancy remains its separate future scope; no identity/route substitution.",
+    "Blank canonical accepted path and filename-only absence do not prove no older starter exists. The commissioned future path is a convention for this existing home.",
+    "Separate P3-REL-ARONA-PLANA-SENSEI/home185 remains required and incomplete; no mandatory named section assigned here."
+  ],
+  "form_and_claim_limits": [
+    "Written register only; no heard tone, performance age, native quotation, runtime or image claim.",
+    "Arona and Plana retain different memories, hypotheses and local acts. No whole-object unjoined-written ownership.",
+    "Local order is permitted; source release/processing order is not global world-time.",
+    "No law/clinical/technical/ontology conclusion beyond the finite maintained source meaning."
+  ],
+  "current_scope": {
+    "published_required": 152,
+    "required_total": 355,
+    "named_completed": 19,
+    "named_total": 29,
+    "models": 0,
+    "all14_original_gaps": "OPEN",
+    "new_source_admission_identity_named_REL_count_installation_publication_runtime_merge_credit": 0
+  },
+  "forbidden_access_or_writes": 0,
+  "authority": {
+    "artifact_id": "ARONA_SOURCE_AUTHORITY_QUALIFICATIONS_V1",
+    "intended_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ARONA_CHARACTER_RECEIVING_20261104_V1/ARONA_SOURCE_AUTHORITY_QUALIFICATIONS_V1.json",
+    "status": "canonical",
+    "generation": "V1",
+    "authority_generation": "ARONA_MAIN_M002_V1",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "prepared": "2026-11-04"
+  },
+  "portable_navigation": {
+    "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md",
+    "paragraph_map_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ARONA_CHARACTER_RECEIVING_20261104_V1/ARONA_PARAGRAPH_EVIDENCE_MAP_V1.json",
+    "qualification": "Paths identify intended candidate destinations; no source-to-map hash cycle or current dependency on historical local copies is asserted."
+  },
+  "dated_locator_contract": "Safe historical locator IDs distinguish original/copy/prior-reading locations. Their private literal beforeimages and exact raw bytes remain in frozen private custody; these IDs are not invented current repository dependencies. Source repository_path fields are the seven positive portable maintained-owner routes.",
+  "distinct_reading_chronology": {
+    "author": "Prior six WHOLE1977; body task selected272 refresh plus new WHOLE58.",
+    "distinct_body_reviewer": "SELECTED296+WHOLE156=452 across9 maintained files; supplementary C004/E008 belongs only to reviewer.",
+    "Root_body_acceptance": "New404 (twoWHOLE240+fourSELECTED164) plus priorWHOLE58=462 across7 accounts.",
+    "composer": "Dated prior body QA452 reused as history. Current composition receives complete declared normative records and changed public form; no new source/native/raw/AV attendance.",
+    "current_candidate_lifecycle": "Private body accepted with limits; this normalized public candidate remains pending separate composition QA and Root acceptance."
+  }
+}

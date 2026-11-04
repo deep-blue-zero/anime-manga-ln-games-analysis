@@ -3,14 +3,14 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_execution_plan
 scope: Phase 3 character, relationship and institution packages across the full eligible cast at the admitted Japanese boundary
 generation: V1
-version: "1.2"
+version: "1.3"
 status: canonical
 source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; BA_REFRESH_20260928T032248159554Z; 480 MAIN units and 3940 supplemental objects admitted with limits through Cycle008; written Japanese"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-10-09
-updated: 2026-10-16
+updated: 2026-11-04
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
@@ -59,7 +59,7 @@ Semantic acceptance requires full received arguments, consequential evidence che
 
 ## 5. Progress and the four merges
 
-**Required denominator: 355. Mandatory substantial named sections: 29. Milestones: 89/178/267/355.** Current verified published source `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d` contains **152 accepted and persisted packages (about 42.8%) and 19 completed named duties**. The first 89-package milestone is integrated; the next 178-package threshold remains unreached, with 26 packages remaining. The owner explicitly authorizes the current 152-package tranche and Rio binding repair to integrate now. This is an authorized interim integration, not completion of the 50% milestone. Inventory, source/header mechanics and indexes add no completed literary packages. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-publication-and-integration-authorization--2026-10-16) owns current progress and routes the existing PR receipts for actual publication/integration results.
+**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** Complete persistence of the accepted ten-character tranche yields162/355 (45.6338%), including117CHAR/19REL/5ENS/21INST, with19/29 named duties. Proposed private copies alone earn no credit. Verified published inventory remains152 at source `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d`; the new ten are not yet published/integrated. The first89 milestone remains integrated; next178 is unreached,16 remaining after persistence. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-ten-character-tranche-and-publication-boundary--2026-11-04) owns current routing. Earlier runtime and integration receipts retain their exact heads and scopes.
 
 The adopted required scope fixes `N=355`, including character, directed relationship, ensemble, institutional, Sensei and register packages. Each package counts once when its declared responsibility has passed semantic acceptance and its complete work is persisted on the series branch. Track drafting, acceptance, source publication and main integration separately. Package rows cannot be marked complete merely because supporting sources have been read.
 
@@ -81,5 +81,13 @@ The owner instruction supplies publication, push and merge authorization at 25%,
 The current arrangement is local Codex synthesis with bounded parallel target authors and one integration owner. Repository and pinned source files are actually accessible here; written Japanese and source structure are inspected through complete analytical owners and targeted primary recovery. The owner's instruction to focus on completion and discontinue artifact integration handoffs is preserved. No cloud task, paid API, new allowance pool or unobserved audiovisual capability is assumed. Major packages retain `DEEP_SYNTHESIS` responsibility and receive independent acceptance review; environment choice does not lower evidentiary standards.
 
 The first evidence-supported structural leads are Yuuka (public/institutional and ordinary comparison), Asuna (private/ordinary and peer comparison), Toki (role, belonging and variant-context comparison), with Karin in the same early Millennium cluster. C&C directed ensemble and Millennium governance are separately justified questions. These leads do not fix the full cast or excuse any later eligible package. The complete current scope owns their explicit required homes and unfinished literary responsibilities; drafts and census mechanics are not completion credit.
+
+Next: finish final current-authority/binding review, exact installation and persistence of the ten accepted character packages with their targeted shared7 state, then ordinary publication/readback/exact-head auditing and protected integration. Continue the full required literary scope and29 independently locatable mandatory sections toward178. Ayame and other unfinished packages remain outside this transaction. All788 original responsibilities,460 accepted home/route dispositions and328 dated-provenance limits remain preserved. Quiet, sparse and low-stakes evidence keeps intrinsic value. The canonical [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the sole series entrypoint. Phases4–6 require their distinct architecture gates.
+
+## Dated progress and first-operation text retained — preceding 2026-10-16 control
+
+The two complete preceding paragraphs are historical. Current progress and next-operation routing are stated in Sections5–6 above.
+
+**Required denominator: 355. Mandatory substantial named sections: 29. Milestones: 89/178/267/355.** Current verified published source `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d` contains **152 accepted and persisted packages (about 42.8%) and 19 completed named duties**. The first 89-package milestone is integrated; the next 178-package threshold remains unreached, with 26 packages remaining. The owner explicitly authorizes the current 152-package tranche and Rio binding repair to integrate now. This is an authorized interim integration, not completion of the 50% milestone. Inventory, source/header mechanics and indexes add no completed literary packages. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-publication-and-integration-authorization--2026-10-16) owns current progress and routes the existing PR receipts for actual publication/integration results.
 
 Next: install/publish the exactly reviewed eight-monograph plus full-scope batch, then continue complete required literary packages and29 independently locatable mandatory sections. All788 original tracking responsibilities and their460 positive home/route dispositions or328 explicit dated-provenance limits remain preserved. No low-stakes, quiet, sparse or source-mode evidence is excluded. The canonical [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) remains the only series entrypoint. This plan does not extend into architecture Phases 4–6 by implication.
