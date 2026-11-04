@@ -9,11 +9,45 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-11-04
 canonical_home: series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md
 ---
 
 # BLUE ARCHIVE — CURRENT STATE AND CORPUS MAP
+
+## Current ten-character tranche and publication boundary — 2026-11-04
+
+The ten existing required character parents are **Alice, Himari, Rei (baseball, CH0245), Eimi, Momoi, Midori, Sumire, Arona, Yuzu and Plana**. Root accepted their complete arguments and public forms **WITH LIMITS** after distinct review. Current authority and live bindings are promoted separately from the frozen preparation history; the earlier three `active_provisional` bodies and four `canonical` bodies retain their states. Arona, Yuzu and Plana require final current-eligible authority derivatives before installation and publication. This is not an owner signature or approval of a protected merge.
+
+**Complete installation and commitment of this tranche yields 162/355 literary packages (45.6338%): 117 character, 19 directed relationship, five ensemble and 21 institution packages.** Named duties stay **19/29**. The 175-row legacy tracker is not the denominator. At preparation, the verified published inventory remains **152/355** at `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d`; the new ten are **not yet remotely published or integrated**. The independent author checkout reconciles main `7e35832244b1ac1e0831b0bc1c08efbcf2c00d20` and source `a24697fc249f69b8c27e59a92de172ac6f514f0d` through ordinary merge `98be2787484c417d69dccc24214bffd9cd31e6cb`. No check on that old reconciliation tree certifies these new bytes.
+
+Quiet pleasure, chosen making and work, play, wanted company, refusal, rest and ordinary care remain intrinsically meaningful evidence. They are not ranked out by low stakes. The original source classes, local chronology, identity seams, attributed author/reviewer receiving limits, serious rivals and unresolved stronger claims remain operative in each package. Publication metadata adds no primary/native/raw/audiovisual receiving, source admission, discovery join, reconstruction grade or new model.
+
+Required scope stays **355 packages / 29 named duties / 25 parents / 384 homes / 788 original heterogeneous responsibilities**. First-quarter integration at 89 remains historical; the next milestone is **178**, with **16 packages remaining after this tranche is actually persisted**. All 14 original claim-specific gaps remain OPEN; standalone operational models remain zero. The fixed 150-package source/semantic consistency audit remains active. Related directed relationship, ensemble, institution and named-section duties are not discharged by these character monographs.
+
+The pending sequence is final authority/binding review, exact-path installation, staged author preflight and complete diff review, approved-identity commit, ordinary non-forced source push, actual remote readback, exact-head audit, housekeeping where applicable, and protected integration with a successful post-merge audit. A prepared local derivative is not a published package or a passed future audit. Existing owner-authorized interim publication and milestone integration routing continues; the separate tooling PR retains reserved merge approval.
+
+| Required parent | Accepted character argument |
+|---|---|
+| `P3-CHAR-M002` | [Arona](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-M028` | [Plana](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-ALICE-ARIS-BOUNDED` | [Alice](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-HIMARI-CH0159` | [Himari](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-NOMASA-REI-CH0245` | [Rei](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-EIMI-RETRIEVAL-BOUNDED` | [Eimi](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-MIDORI` | [Midori](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-MOMOI` | [Momoi](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-SUMIRE` | [Sumire](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-YUZU-TWO-KEY-BOUNDED` | [Yuzu](04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md) |
+
+### Dated values retained from the preceding entrypoint
+
+The preceding `updated` value was `2026-10-16`. The following two complete lines are retained as dated routing history, superseded for current progress and next-operation routing by the section above. Their source and analytical limits are preserved.
+
+| Phase3 and later analytical layers | Full eligible-cast analysis ACTIVE. ROOT completed M008/current11 adoption WITH LIMITS; complete approved installation yields **140** packages (104CHAR/17REL/5ENS/14INST), **14** named duties. Actual published source2aa **139**/**14** has full301 SOURCE/HOUSEKEEPING-no-op/FINAL/selectionfalse/fivezero closure; current mainbf7 **133**/**13**. M008 and operative Odysseia O103 module publication/newchain/main pending; next178 UNREACHED/all14OPEN/models0. | [Phase3 scope/readiness audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) and [execution/milestone plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md) |
+
+Phase2 content, publication and PR144 integration remain complete with limits. Continue full eligible-cast Phase3 from actual published source2aa139/14 and current mainbf7133/13. ROOT completed M008181/54/20/105/current CP103 and final11 composition adoption WITH LIMITS. Review and install exact18 (M00811, operative Odysseia O103 module1, shared metadata6) to yield140 packages/14named, then perform normal source publication and a fresh exact-head full SOURCE→HOUSEKEEPING→FINAL chain. The existing139 green certifies its exact2aa head only. GSC and Library drafts remain outside this installation. Continue under the [execution plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md);178 UNREACHED, required355/29/25/384/788, first89 history, all14OPEN/models0 and PR158draft/mergeReserved remain fixed.
+
 
 
 ## Current publication and integration authorization — 2026-10-16
@@ -294,7 +328,7 @@ The [Cycle008 checkpoint](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXT
 | Remaining required intake | **0** required selected sources unaccepted; all whole-message/written and source-specific limits retained | [Cycle008 current acceptance](02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) |
 | Full tracked scope | **3940 required**;148 typed responsibilities/152 literal keys plus27 unjoined written;444 outside-selection objects stay visible | [Scope extension002](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE2_PRINCIPAL_SCOPE_EXTENSION_002.md) |
 | Longitudinal integration | All7 ledgers reconcile480-main history and accepted cycles001–008 | Ledger routes in §5 |
-| Phase3 and later analytical layers | Full eligible-cast analysis ACTIVE. ROOT completed M008/current11 adoption WITH LIMITS; complete approved installation yields **140** packages (104CHAR/17REL/5ENS/14INST), **14** named duties. Actual published source2aa **139**/**14** has full301 SOURCE/HOUSEKEEPING-no-op/FINAL/selectionfalse/fivezero closure; current mainbf7 **133**/**13**. M008 and operative Odysseia O103 module publication/newchain/main pending; next178 UNREACHED/all14OPEN/models0. | [Phase3 scope/readiness audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) and [execution/milestone plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md) |
+| Phase3 and later analytical layers | Full eligible-cast analysis ACTIVE. Complete ten-character installation and commit yields **162/355** (117CHAR/19REL/5ENS/21INST), **19/29** named duties; prepared copies alone add no credit. Verified published inventory remains152 at sourcef93; the new ten are not yet published/integrated. Next178 remains UNREACHED with16 remaining after persistence; all14OPEN/models0. | [Phase3 scope/readiness audit](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md) and [execution/milestone plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md) |
 
 All required private/written responsibilities,61/1010 EVENT packages,65 GROUP and32 MINI now have scoped current acceptance. Cycle008 preserves266 prior admissions and adds3674. All1189 documentary Schedule edges retain1161 BOND/1161 whole-thread pairing without global chronology. The27 unjoined written and main-only43/MINI3 dispositions preserve absent typed joins and uncertain continuity. Performed voice and444 outside-selection objects remain unadmitted.
 
@@ -353,7 +387,7 @@ For a substantive question: this map → coverage or relevant checkpoint → app
 
 ## 6. Active gaps and next valid operation
 
-Phase2 content, publication and PR144 integration remain complete with limits. Continue full eligible-cast Phase3 from actual published source2aa139/14 and current mainbf7133/13. ROOT completed M008181/54/20/105/current CP103 and final11 composition adoption WITH LIMITS. Review and install exact18 (M00811, operative Odysseia O103 module1, shared metadata6) to yield140 packages/14named, then perform normal source publication and a fresh exact-head full SOURCE→HOUSEKEEPING→FINAL chain. The existing139 green certifies its exact2aa head only. GSC and Library drafts remain outside this installation. Continue under the [execution plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md);178 UNREACHED, required355/29/25/384/788, first89 history, all14OPEN/models0 and PR158draft/mergeReserved remain fixed.
+Phase2 remains complete with limits. Complete the final current-authority and binding review for the ten accepted character packages, install and persist their exact files with the seven current-state updates, then perform the normal source publication, actual readback, exact-head audit and protected integration sequence. This yields162/355 and19/29 only after actual persistence; the new ten remain unpublished/unintegrated at preparation. Continue the full eligible cast toward178 under the [execution plan](08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md); required355/29/25/384/788, first89 history, all14OPEN/models0 remain fixed. Ayame and other unfinished candidates stay outside this ten-package transaction. The current owner-authorized interim publication routing supersedes the old PR158 draft/HOLD reservation; tooling merge approval remains separately reserved.
 
 All14 stronger claim gaps remainOPEN: ordinary/private/cross-school breadth is now complete within the current selection, while transfer/generalization, accountability, missing afterstates, chronology/title/attribution/performance/record/identity and broader source modes retain their exact limits. Kaguya and MINI Sora/Akemi/Arata have bounded no-positive typed private joins in this generation, not invented biographies or global absence. Current gap/readiness owners separate completed intake from unprinted outcomes.
 

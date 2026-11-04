@@ -5,9 +5,9 @@ status: canonical
 source_boundary: "480 MAIN and3940 admitted selected supplemental objects; a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; Japanese textual evidence only"
 drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
-updated: 2026-10-14
+updated: 2026-11-04
 generation: V1
-version: "1.28"
+version: "1.29"
 supersedes: []
 superseded_by: []
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md
@@ -17,6 +17,33 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+## Current ten-character tranche and publication boundary — 2026-11-04
+
+The ten existing required character parents are **Alice, Himari, Rei (baseball, CH0245), Eimi, Momoi, Midori, Sumire, Arona, Yuzu and Plana**. Root accepted their complete arguments and public forms **WITH LIMITS** after distinct review. Current authority and live bindings are promoted separately from the frozen preparation history; the earlier three `active_provisional` bodies and four `canonical` bodies retain their states. Arona, Yuzu and Plana require final current-eligible authority derivatives before installation and publication. This is not an owner signature or approval of a protected merge.
+
+**Complete installation and commitment of this tranche yields 162/355 literary packages (45.6338%): 117 character, 19 directed relationship, five ensemble and 21 institution packages.** Named duties stay **19/29**. The 175-row legacy tracker is not the denominator. At preparation, the verified published inventory remains **152/355** at `f93ab42fc3cfdeedd8df37455d9c8da4c88ae49d`; the new ten are **not yet remotely published or integrated**. The independent author checkout reconciles main `7e35832244b1ac1e0831b0bc1c08efbcf2c00d20` and source `a24697fc249f69b8c27e59a92de172ac6f514f0d` through ordinary merge `98be2787484c417d69dccc24214bffd9cd31e6cb`. No check on that old reconciliation tree certifies these new bytes.
+
+Quiet pleasure, chosen making and work, play, wanted company, refusal, rest and ordinary care remain intrinsically meaningful evidence. They are not ranked out by low stakes. The original source classes, local chronology, identity seams, attributed author/reviewer receiving limits, serious rivals and unresolved stronger claims remain operative in each package. Publication metadata adds no primary/native/raw/audiovisual receiving, source admission, discovery join, reconstruction grade or new model.
+
+Required scope stays **355 packages / 29 named duties / 25 parents / 384 homes / 788 original heterogeneous responsibilities**. First-quarter integration at 89 remains historical; the next milestone is **178**, with **16 packages remaining after this tranche is actually persisted**. All 14 original claim-specific gaps remain OPEN; standalone operational models remain zero. The fixed 150-package source/semantic consistency audit remains active. Related directed relationship, ensemble, institution and named-section duties are not discharged by these character monographs.
+
+The pending sequence is final authority/binding review, exact-path installation, staged author preflight and complete diff review, approved-identity commit, ordinary non-forced source push, actual remote readback, exact-head audit, housekeeping where applicable, and protected integration with a successful post-merge audit. A prepared local derivative is not a published package or a passed future audit. Existing owner-authorized interim publication and milestone integration routing continues; the separate tooling PR retains reserved merge approval.
+
+| Required parent | Accepted character argument |
+|---|---|
+| `P3-CHAR-M002` | [Arona](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-M028` | [Plana](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-ALICE-ARIS-BOUNDED` | [Alice](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-HIMARI-CH0159` | [Himari](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_HIMARI_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-NOMASA-REI-CH0245` | [Rei](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-EIMI-RETRIEVAL-BOUNDED` | [Eimi](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-MIDORI` | [Midori](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MIDORI_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-MOMOI` | [Momoi](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-SUMIRE` | [Sumire](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md) |
+| `P3-CHAR-YUZU-TWO-KEY-BOUNDED` | [Yuzu](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md) |
+
+Earlier sections below are dated acceptance and custody history. They remain literal, including then-pending counts and checks; this section owns the present ten-package routing and does not retroactively certify them.
 
 
 ## Current Kei acceptance, conditional local152/19 and verified published151/18
