@@ -17,7 +17,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`ascendance-of-a-bookworm`](characters/index/ascendance-of-a-bookworm.md) | 9 |
 | [`attack-on-titan`](characters/index/attack-on-titan.md) | 9 |
 | [`azur-lane`](characters/index/azur-lane.md) | 5 |
-| [`blue-archive`](characters/index/blue-archive.md) | 44 |
+| [`blue-archive`](characters/index/blue-archive.md) | 45 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
@@ -532,6 +532,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Sumi Sakurasawa](characters/index/rent-a-girlfriend.md#sumi-sakurasawa) | Main manga continuity | `rent-a-girlfriend:sumi-sakurasawa@manga` | — |
 | [Sumire](characters/index/blue-archive.md#sumire) | Blue Archive game | `blue-archive:sumire@game` | — |
 | [Sung Jinwoo](characters/index/solo-leveling.md#sung-jinwoo) | Solo Leveling original Korean novel | `solo-leveling:sung-jinwoo@original-korean-novel` | — |
+| [Suou](characters/index/blue-archive.md#suou) | Blue Archive game | `blue-archive:suou@game` | Asagiri Suou |
 | [Suzuki Chiho](characters/index/konosuba.md#suzuki-chiho) | Edited TRPG replay continuity, bounded character study | `konosuba:suzuki-chiho@trpg-edited-replay` | スズキ・チホ; チホ |
 | [Suzumura Yu](characters/index/idoly-pride.md#suzumura-yu) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:suzumura-yu@v2-cross-media` | — |
 | [Sylphiette](characters/index/mushoku-tensei.md#sylphiette) | Japanese light-novel continuity | `mushoku-tensei:sylphiette@light-novel` | — |
