@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0173
+current_event_boundary: EVENT_0174
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0173
+## Current coverage — all five human units synchronized through EVENT_0174
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0173 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0173` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0174 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0174` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0174 — complete envelope integrated
+
+All **23 stories / 36 scenes / 1,628 records / 221,553 canonical bytes** are read and integrated: eight core chapters, ten card halves and five event areas. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. No monthly, separately listed unlock-dependent or additional cross-linked story is omitted. The release manifest owns noncore association.
+
+**EVENT_0174 is fully integrated:** new scoped `MMJ-REL-MINORI-HIKARIN-E0174` records received practical help, Minori's later recognition of Hikarin's continuing wish, reciprocal fandom and an actual further shared conversation. Minori E0122, group E0168 and existing Haruka/Airi/Shizuku scopes receive high I2; no principal-human successor is created. The preliminary competition starts and its rules become known, but no qualifying result is shown. Stage advice remains local and private; Leo/need has an incidental Shiho-photo I1 reference, VBS/WxS/N25 I0. The complete envelope is 23 stories / 36 scenes / 1,628 records, reconciled against frozen canonical/raw/structured and chronology sources.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0174_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0174--forward-discovery-and-integrated-routing) cover all five human units, local manifestations, all cards/areas and seven lenses. Six ledger updates preserve received evidence and open contest outcomes. Four of 42 newly authorized events are closed; EVENT_0175 is next, 38 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0173 — complete envelope integrated
 
