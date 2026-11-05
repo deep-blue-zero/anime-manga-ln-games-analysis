@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: literary_relationship_synthesis
 subject: "Tomozaki Fumiya ↔ Hinami Aoi / 友崎文也 ↔ 日南葵"
-generation: R07_LOCAL_LITERARY_ROLE
+generation: R07_POST_RELEASE_CHANNEL_ERRATUM_20261104
 authority_class: canonical
 status: canonical
 repository_authority: true
@@ -22,6 +22,8 @@ canonical_destination: "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_
 ---
 
 # Fumiya and Hinami — credibility, closeness, and the right to decide
+
+> **Current-version erratum — 2026-11-04 (PRA-L01).** Section 11 now distinguishes the initial role-play from the later written-manuscript criticism and Kikuchi’s actual suspension. The [claim-history erratum](../03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md#26-post-release-erratum--performed-dialogue-and-later-written-critique) and [post-release review](../08%20Audits%20and%20Manifests/TOMOZAKI_POST_RELEASE_AUDIT_REVIEW.md) preserve the prior wording, evidence and independent judgment. This maintained version differs from the fixed Edition 1 instance at `b498a20457e4debeb70895fca8ebd37717e91017`; that released instance and the original R07/R10/R11 records remain unchanged. The dyad’s substantive thesis and all other body text are preserved.
 
 ## 1. What this relationship makes possible, and what it cannot authorize
 
@@ -189,7 +191,7 @@ Hinami's victory is equally resistant to a single lesson. She can admire the bea
 
 ## 11. V12 changes the offered support, not the past's permissions
 
-The collective project initially risks repeating the dyad's familiar error. Aoi is supposed to become self-luminous; other people's accounts are gathered to support that desired answer. Kikuchi's performed Alcia then challenges the author for hearing only an echo of what she wants. The actual Hinami has not attended that exchange or endorsed its criticism, but the modeled resistance makes the participants stop. This is a material correction of method: neither Fumiya's devotion nor a larger cast is sufficient if the question cannot be changed by what is heard. [FH-P16; EFF §80; CRI-REL-005]
+The collective project initially risks repeating the dyad's familiar error. Aoi is supposed to become self-luminous; other people's accounts are gathered to support that desired answer. The initial Kikuchi–Mizusawa role-play supports that remedy. Later, the Alcia in Kikuchi's written manuscript challenges Chris for hearing only an echo of a preferred answer. The actual Hinami is absent from both layers. At the later meeting, Kikuchi recognizes the criticism as applying to her method; after Mimimi and Mizusawa's counterargument, she asks them to wait and the meeting ends. This is a material correction of method: neither Fumiya's devotion nor a larger cast is sufficient if the question cannot be changed by what is heard. [FH-P16; EFF §80; CRI-REL-005]
 
 The later practice preserves more than observation. Experiences and contextual craft alter perception, but they cannot supply Nagisa's unavailable final thought or remove the writer's responsibility to choose. Kikuchi ultimately offers an observed yet personally wished-for story, while withholding a claim that its effect proves it right. The method is no guarantee against intrusion. It changes what can be offered and makes its authorship more answerable; it does not turn an authored model into a witness. [FH-P16; CRI-EPI-001/KIK-002]
 

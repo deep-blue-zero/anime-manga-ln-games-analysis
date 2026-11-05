@@ -14,6 +14,7 @@ superseded_by: []
 release_state: mutable_active
 review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS
 accepted_scope: C38_D1_GROUP6
+current_routing_revision: POST_RELEASE_COUNT_CLARIFICATION_20261104
 canonical_destination: "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md"
 ---
 
@@ -21,9 +22,9 @@ canonical_destination: "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORT
 
 This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.
 
-This companion gives the 37 C individual/member responsibilities and one D reference their actual source-proportionate accounts, followed by six separately indexed source-group contexts. C means a necessary bounded relational-evidence section, not a failed or incomplete attempt at a mature monograph. D here means that the inspected reference supports identification and attributed expectations while richer reconstruction must stop. Neither label measures a person's worth. The six contexts are not six additional individuals, and the co-indexed parents remain two source-anonymous people with distinct acts.
+This companion gives the current 38 C individual/member responsibilities and one D reference their actual source-proportionate accounts, followed by six separately indexed source-group contexts. The original implementation snapshot had 37 C accounts; the accepted R10 extension below adds C-D39 and strengthens C-D37. C means a necessary bounded relational-evidence section, not a failed or incomplete attempt at a mature monograph. D here means that the inspected reference supports identification and attributed expectations while richer reconstruction must stop. Neither label measures a person's worth. The six contexts are not six additional individuals, and the co-indexed parents remain two source-anonymous people with distinct acts.
 
-The current root scope decision is A7/B11/C37/D1. The sealed integrated audit's A6/B12 recommendation and Yuzu A rival are preserved as historical review evidence. This companion preserves that audit and now owns the independently accepted bounded C/D accounts. It does not pass the separate ensemble, thematic, convergence or release gates. Seven monographs' installation and review are root-owned proceedings; their status is not certified here. Source authority remains the admitted Japanese novels; historical sequential readings retain their original knowledge boundaries.
+The current root scope decision is A7/B11/C38/D1 plus six source-group contexts (63 responsibilities); A7/B11/C37/D1 is the preserved original implementation snapshot. The sealed integrated audit's A6/B12 recommendation and Yuzu A rival are preserved as historical review evidence. This companion preserves that audit and now owns the independently accepted bounded C/D accounts. It does not pass the separate ensemble, thematic, convergence or release gates. Seven monographs' installation and review are root-owned proceedings; their status is not certified here. Source authority remains the admitted Japanese novels; historical sequential readings retain their original knowledge boundaries.
 
 ## Reading and use contract
 
@@ -601,3 +602,7 @@ The midnight exchange adds uneven family knowledge. Riku's teasing provokes the 
 **Abstentions.** Do not invent a name, occupation, employer, income, reason for the annual workload, completed later script reading, universal parenting rule, sexuality conversation, hidden opposition or approval, or authority to settle the couple's private choices. His direct speech differs from Fuka's expectation and from other family members' reports. A bounded positive account does not require a fuller biography.
 
 **Routes and responsibility.** No dedicated original COV row is added or fabricated. The existing Kikuchi/Riku household context is a contextual retrieval bridge, not proof that the father's acts occur in COV-M087's original part0033 window. Positive source routes are `V08.5 text/part0035.html P13` and `text/part0037.html P31–38/P59–66`. Current Kikuchi monograph §8.5/L419 already carries the narrower work/script-interest evidence. Downstream: ordinary family and author/reader relations; work time versus chosen response; household knowledge/disclosure; named-subject retrieval with source anonymity.
+
+## Post-release routing clarification — 2026-11-04
+
+PRA-D02/SUP-D01 correct the opening's stale “current” C37 count to the already accepted C38 scope. No account, source row, named-scope extension or literary claim changed. The original acceptance and fixed Edition 1 remain recoverable. See the [post-release audit](../08%20Audits%20and%20Manifests/TOMOZAKI_POST_RELEASE_AUDIT_REPORT.md) for exact baseline and review.
