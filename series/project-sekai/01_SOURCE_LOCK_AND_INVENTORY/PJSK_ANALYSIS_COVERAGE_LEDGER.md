@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0177
+current_event_boundary: EVENT_0178
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0177
+## Current coverage — all five human units synchronized through EVENT_0178
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0177 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0177` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0178 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0178` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0178 — complete envelope integrated
+
+The complete frozen envelope is **25 stories / 37 scenes / 1,722 records / 225,859 canonical bytes**: eight core chapters, ten halves of cards 1229–1233, two monthly areas and five event areas. Every canonical text is read. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-30T06:00:00Z`; cards 1229–1231 `03:00:00Z`, cards 1232–1233 and event areas `06:00:00Z` that day. Two monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. Manifest noncore association remains authoritative where chronology linkage is blank. Workshop, rehearsal, contest and later training retain separate action times.
+
+**EVENT_0178 is fully integrated:** `WXS-EP-TSUKASA-E0160 → WXS-EP-TSUKASA-E0178` adds a researched hypothetical loss-of-recipient route to embodied role construction, with particular contest receipt and explicit costs. New `WXS-REL-TSUKASA-ASAHI-E0178` records mutually received rivalry. `REL-WXS-G-E0167 → REL-WXS-G-E0178` records chosen competition, concrete reciprocal craft and a confirmed special award sharing future THE CENTER THEATRE performance rights. Arcland wins the top award; duration allocation, public run and any overseas invitation remain unshown. Other humans and Wonderland locals remain I2; VBS actual school I1, Leo/need recalled family I1, MMJ/N25 I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0178_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0178--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six cumulative updates keep play, deliberate imagined world and actual contest separate. Particular audience/judge reception is text evidence; nightmares, rest displacement and unresolved public engagement remain explicit limits. Existing history and independent scopes are preserved. 8 of 42 newly authorized events are closed; EVENT_0179 is next, 34 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0177 — complete envelope integrated
 
