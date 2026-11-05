@@ -1,8 +1,8 @@
 ---
 series: RE_ZERO
 artifact_type: project_changelog
-scope: VERBATIM_ROOT_ENTRYPOINT_HISTORY_THROUGH_V22
-generation: V1.3
+scope: VERBATIM_ROOT_ENTRYPOINT_HISTORY_THROUGH_V23
+generation: V1.4
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -603,3 +603,26 @@ Complete14-file measurement found only master1662599bytes over cap by614023. Two
 
 Final15-file measurement after acceptance/V23seal found root changelog1048979bytes,403over cap. One complete5045bytehistorical Reala21entry now resides verbatim in existing same-base [root archive01](REZERO_PROJECT_CHANGELOG_ARCHIVE_01.md#v22-root-changelog-reala21-historical-entry), with its original heading router/full native inverse. This adds one maintained archive path, no analytical owner; all current evidence and five literal V19–V23bodies remain in their original homes.
 ````````
+
+## v23-moved-scarf22-complete-historical-entry
+
+Selected only after all fourteen complete V23substantive candidates were measured. Root changelog1049071bytes exceeds unchanged1048576by495. This whole4595byte historical scarf22entry/SHA256`8f7fe634bf64e85751d4535340da3b8fa19d7e9209980289f88a2091e2112a61` is preserved in the same root relative-link base; both original headings remain routed. PR445is verified closed before V23; old pending wording below stays historical. No analytical owner/source/grade changes.
+
+````````````````````````````````markdown
+## Scarf Echidna V20–V22 implementation and V22 integration verification — 2026-11-03
+
+V22/PR424 full gate is CLOSED before this construction: author5c60ec08c4de2cc4926ed2eef7d37ff7c027517f; final source d719f1261bac3f5565151baa17cc4b91f7f26588; actual merge70eb71f945bf843c55204e0b8cc3a3af76707bbd; verified main b498a20457e4debeb70895fca8ebd37717e91017. Source/merge/main audits41389817734/41390865373/41749395196 each actually ran486discovered unique tests with zero nonpasses/trusted statuses57810469952/57810893795/58002758349. Completed source-specific housekeeping41390833126 echoed final source and verified routing-current no-op. Later immutable native snapshots matched95project files, all required protected/claim/owner/seal/original/inverse obligations and the exact integrated Re:Zero tree.
+
+The twenty-second implementation is [scarf Echidna V20–V22 modelV1.0](05%20Character%20Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SCARF_ECHIDNA_V20_V22_FIDELITY_REVIEW.md). Local result PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY binds model71434bytes/SHA256c22117b0e1c075e814e909372e061d8237830e760bebaed161a7999252da4ee3 and review34241bytes/SHA256a5d4e6ca3d8c7f2a90654f77c0fac909b092aa4ff2c166fd33f209d6834ccacc.27retrieval bundles/24behavior+4MODEL_USE_GUARD records retain eight fields and confidence reasons(16HIGH/12MEDIUM overall). Applied nineteen dimensions,32adverse controls,eight unfamiliar+two calibration and four matched-recipient families. F01retrieval correspondence/F02source spans/F03confidence typing/F04named referents were repaired and affected cases checked again. Initial complete model69974bytes/SHAdd8a3a5bd73bd64548ec60579f5bff74ebaf293561bb84e0e6dbb0a19b5cd7f4 remains a private failed implementation candidate; no protected literary artifact was rewritten to repair it.
+
+Exact consumed JapaneseV20–V22targeted recovery covered28intervals/2095positions(2091TEXT/fourIMAGE),91560rendered characters/908contextualruby groups/1253reading labels in38actual deliveries. Four mature designs were read as design only at pinned whole hashes. No new source admission, narrative-unit or fresh whole-volume credit, audio performance, independent/held-out/runtime trial, global character grade or discovery write follows. Early affection, victim indifference, actual E023 stabbing, costly failed rescue, own-life wish, creator boundary, fear, concealment and incomplete repair remain mutually visible. Contract severance is reader/private status without enacted voluntary cancellation or operator receipt; Ferris’s chest is the earlier blade-cut recipient. Beatrice’s explicit minimum survives later Subaru-only wording.
+
+Default V22_E024_POST_DISCLOSURE_ESCORT_WITH_JULIUS_PRINCIPAL_REPORTED_ASLEEP_BEFORE_UNRECEIVED_SUBARU_AWAKENING keeps the last personal escort, Ana reported asleep, old Julius familiarity absent, wider telling prospective and later cognition unreceived. All69entering protected artifacts/21historical scopes/defaults/local grades,537current claim formulations/five owner records,E024/23deaths24segments/K874/M553/I453/R191/RT495,five literal V19–V23bodies/formal tails/source admission remain exact. Current routing, corpus table and stale Reala work order are reconciled together. The source-backed master readiness judgment and architecture mirror record implementation, while other people’s decisions remain unchanged.
+
+All15complete substantive candidates must be measured before any historical-storage choice under the unchanged1048576byte cap. Required storage keeps complete historical text, the same relative-link base, original-heading routes and full native inverses. This pair’s own complete source/publication/CI integration gate remains pending; it precedes literal sealed unopenedV23. CI owns merges. The admittedV43plus mandatory terminal architecture/state/role-gap/acquisition review goal remains unfinished.
+
+### Scarf22 measured historical-storage receipt
+
+Complete15-file measurement found only root changelog1049058bytes/482over unchanged1048576cap. One whole5738byteprior V22historical entry moved verbatim to existing same-base root archive01V1.3, with one original-heading router/full native inverse. Final author set16files/14maintained inverses; all537current claims/five owner record sets/five literal bodies remain in their original homes. PayloadSHA25631dfdf7cd45ec065fb26098d33e1e2f9fae7a67832302ad4d1f81f4d4334d7ed. The complete candidate measurement preceded selection; no cap/field/source relaxation.
+
+````````````````````````````````
