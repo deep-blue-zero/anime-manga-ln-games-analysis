@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Accepted Prenapates existing M029;166/355 only on complete six+shared7 persistence;verified source3fce/main7339_165 each full486 zero-skip;named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
+scope: "Final Kokuriko V3 six Root-accepted WITH LIMITS/F01 closed; candidate V3 QA complete; intended localSource167/CHAR121 effective only on actual accepted6+reviewed7+currentaccession persistence/commitment; main remains166; new publication/audits/merge pending; named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
 generation: V1
-version: "1.37"
+version: "1.38"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -16,6 +16,30 @@ updated: 2026-11-04
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+<a id="kokuriko167-local-installation-root-v3-accepted"></a>
+## Current Kokuriko167 local installation and completed final V3 acceptance — 2026-11-04
+
+Root has actually adopted the exact final Kokuriko V3 six **WITH LIMITS** and closed the supported public-six authority finding **F01 for those bytes**. Final candidate receiving and reconstruction, the genuinely different finite V3 review, and Root’s disposition of that review are complete. These are completed candidate stages; this statement does not claim that the new metadata transaction has been reviewed, installed, committed or validated. The separate [current accession record](BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_CURRENT_PUBLIC_ACCESSION_AND_ROOT_ACCEPTANCE_V1.json) records the actual adoption and the later installation stages without changing any of the frozen six bytes.
+
+This is the existing single character duty `P3-CHAR-M019` / `P3-M019` at `/homes/14`, with dated navigation `P3-A159`. No person, home, source admission, named duty or operational model is added. The candidate’s original scope-only words and its accepted BODY/current-accession evidence routes remain intact.
+
+The verified pre-installation baseline reported by Root is **local/main166 and published source166: 120 character, 20 directed relationship, five ensemble and 21 institution packages, with 19/29 named duties**. Main `7ed6a81d9799b83a762b18921649cabda9be74bd` and remote source `9c724ef06ddc78aab2c58f8788d2b7e95e4c6a2a` preserve the same tree. Root’s C acceptance alone adds zero packages.
+
+**The intended completed local-installation state is local Source167/355 (47.0423%): 121 character, 20 directed relationship, five ensemble and 21 institution packages, with 19/29 named duties. It becomes effective only when Root actually persists the accepted six, the reviewed seven local metadata files and the factual current accession, with the required commitment.** Before that complete persistence, the state remains166/120. Main remains166; the new source push, remote readback, exact-head audit and protected merger remain pending until their actual receipts exist. No future validation result is claimed.
+
+Only the existing M019 required row changes; the other354 required rows and all29 named rows remain exact. One Kokuriko acceptance row appends after178 existing legacy rows, producing179 legacy rows. That tracker length is not the178-package milestone. First89 remains integrated; next178 remains unreached,12 packages away at166 and11 after the actual local167 installation. Required355/29/25/384/788, all14 claim-specific gaps OPEN, operational models0 and the fixed150 consistency audit ACTIVE remain unchanged. Other character, relationship and institutional duties remain separate.
+
+All earlier166/Prenapates and older statements, tuple values and source boundaries remain dated history. The six keep their truthful creation-time pending labels; the actual current accession closes the completed V3 review and Root-adoption gates externally. Separately attributed maintained694 courses and the complete literary argument retain their original grade and limits. Ordinary and sparse creative or personal goods retain their intrinsic value. No source body, private baseline, primary/native/performed evidence or proof queue is added by this installation.
+
+Current continuation: finish Root’s concrete N installation transaction review and factual accession finalization, apply the exact accepted six and reviewed seven, inspect the complete actual diff and read back all installed bytes, then run the final staged author preflight and full gate. After approved-identity commitment, publish without force, read back every remote path and require the actual exact-head audit. Pushed work uses a **draft PR; merge approval remains reserved**. These remaining operations do not repeat completed candidate Root adoption or V3 QA. No N persistence, metadata-QA result, commit, push, audit or merge is invented by this prospective C proposal.
+
+### Dated frontmatter before conditional Kokuriko167
+
+```yaml
+version: "1.37"
+scope: "Accepted Prenapates existing M029;166/355 only on complete six+shared7 persistence;verified source3fce/main7339_165 each full486 zero-skip;named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
+```
 
 ## Current Prenapates transaction166 and verified165 source and main — 2026-11-04
 
