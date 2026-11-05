@@ -5,7 +5,7 @@ scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
 source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-12 plus story-locally routed Volumes 06.5 and 08.5"
 analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: V1.5_DISCLOSURE_CHRONOLOGY_PRECISION
+generation: V1.6_POST_RELEASE_CHANNEL_PRECISION
 status: canonical
 release_state: mutable_active
 governing_method: ../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md
@@ -20,7 +20,7 @@ do_not_use_as_current_authority: false
 
 # Tomozaki — claim revision and evidence index through Volume 12
 
-Latest cumulative state: **V12** in §18, with dated retrospective precision in §§19–21. The accepted V11/R01-R05 family, open-question, locator and gate records in §§5-17 remain historical; their earlier current labels do not override these amendments.
+Latest cumulative state: **V12** in §18, with dated retrospective precision in §§19–26. Section 26 overrides the performed/written shorthand in the preserved V12-C08 row; that row retains the frozen reading’s earlier formulation, not the current channel adjudication. The accepted V11/R01-R05 family, open-question, locator and gate records in §§5-17 remain historical; their earlier current labels do not override these amendments.
 
 ## 1. Responsibility and authority
 
@@ -1192,3 +1192,15 @@ These revisions are source/retrieval corrections within the continuing R10 audit
 FS-C01–30 are thirty local derived claims and FS-L01–26 are retrieval routes. They do not add or renumber global source claims, change the 359-claim/154-question universe, alter its 160/44 promoted and 199/110 local partition, or rewrite any ledger family/source-facing freeze. The complete V11 predecessor and all forty historical confidence/open entries receive separate preserved dispositions in the R11 evidence packet. Their old epistemic horizon remains historical; the current argument records actual V12 assembly, completion, reception and limited public return while retaining source OPENs.
 
 Root separately records STABILIZED after explicitly adjudicating all five architecture §17 conditions. R11 acceptance and stabilization do not pass R12 literary validation/release, permit derived models before actual release, certify repository publication/main integration or perform owner-level terminal governance. This routing append makes no new primary reading or pixel-inspection claim; all earlier §1–24 bytes and stable source/claim/question identities remain unchanged.
+
+## 26. Post-release erratum — performed dialogue and later written critique
+
+**2026-11-04; PRA-L01; REVISE attribution/sequence, PRESERVE claim identities and methodological conclusion.** The preserved V12 reading and its exact V12-C08 wording copied in §18.2 say “Improvisation falsifies the prescribed independent-star answer.” That shorthand is not the current account. The initial Kikuchi–Mizusawa role-play supports the desired star remedy; the objection appears later in Kikuchi's written manuscript. This amendment corrects current use of V12-C08 within `CRI-EPI-001`, `CRI-KIK-002` and `CRI-REL-005` without changing the frozen reading or the 359-claim/154-question universe.
+
+The admitted V12 `item/xhtml/p-0013.xhtml` distinguishes the stages. P250–277 returns Kikuchi to her own voice and endorses the star conclusion. P350 advances to another meeting; P362–364 produces and circulates manuscript pages; P382 turns a page; P401–430 presents the written accusation and Kikuchi's acknowledgment. P464 identifies words on paper; P481–488 gives her actual request to wait and the meeting ending. Root and the independent thematic reviewer separately inspected these windows, with the reviewer also reading P206–249 and P431–449. The witness SHA-256 remains `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; member SHA-256 is `963980486bd9f0b6deaba4711abf5b4c7501bbfd7f1d4912649b62842cfa3d27`. Locators count all HTML p elements, including empty/image paragraphs; no new visual claim is made.
+
+**Current proposition:** later authored resistance reveals the preselected answer and contributes to Kikuchi suspending that method. The actual Hinami is absent; fictional speech is neither her disclosure nor subject consent. Mimimi and Mizusawa's objection that fiction may carry a message remains substantive counterevidence. The correction changes medium, sequence and the agency of stopping, not the conclusion that the desired method can be challenged.
+
+The current [Fumiya–Hinami dyad §11](../06%20Specialist%20Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md#11-v12-changes-the-offered-support-not-the-pasts-permissions) now replaces “Kikuchi's performed Alcia then challenges the author” with the two-stage account. REL §17.1 likewise clarifies “its challenge” as the later written Alcia's challenge. The accepted integrated §13/FS-C20/FS-L16, Kikuchi dyad §9, effort §80.1 and other checked thematic owners already distinguish the stages; no thesis rewrite follows. Current Kikuchi model KM10 refers to the simulation/method stop without assigning it to the earlier performance, so this finding establishes no model-core defect.
+
+The [post-release report](../08%20Audits%20and%20Manifests/TOMOZAKI_POST_RELEASE_AUDIT_REPORT.md) and [independent review](../08%20Audits%20and%20Manifests/TOMOZAKI_POST_RELEASE_AUDIT_REVIEW.md) retain the exact beforeimages, alternative reading, dependent-owner check and acceptance. This is a current-version erratum to the relevant fixed Edition 1 passage, not alteration or silent replacement of that released path-at-commit. No successor edition is recommended for this bounded residual propagation error. All prior §1–25 body bytes, source-facing records, prior failures and R10/R11 acceptance evidence remain preserved.
