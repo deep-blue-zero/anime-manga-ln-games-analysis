@@ -1,9 +1,9 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Accepted Sumire–baseball Rei P3-XMI-R001;165/355 only on complete six+shared7 persistence;actual source8d7209_164/full486 zero-skip and preservedmain58f6_163;named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
+scope: "Accepted Prenapates existing M029;166/355 only on complete six+shared7 persistence;verified source3fce/main7339_165 each full486 zero-skip;named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
 generation: V1
-version: "1.36"
+version: "1.37"
 status: canonical
 source_boundary: "Accepted textual meanings at main 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c preserved by reconciliation c5f85a6921067abf031a920dbab7d84e12361b89; Phase 3 controls 2927442fef0daa17df1098d82bb62e0d8a46f19f; Japanese a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z"
 supersedes: []
@@ -16,6 +16,33 @@ updated: 2026-11-04
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+## Current Prenapates transaction166 and verified165 source and main — 2026-11-04
+
+Root has accepted **Prenapates**, existing character duty `P3-CHAR-M029` / `P3-M029`, home23/A201 at V100, and its exact six canonical-metadata files **WITH LIMITS**. The twenty-paragraph argument distinguishes the represented card gesture from uncertain threat ownership, an OS-reported escape gift, interpretation and incompletely marked inward wording. The possible care has a particular recipient and wanted end; it is not discarded because the ordinary baseline is sparse. It does not establish an authenticated sacrifice, death, controller diagnosis, completed rescue, inner plan or numerical identity with current Sensei.
+
+**Verified pretransaction source and main both contain165/355 packages:119 character,20 directed relationship,five ensemble and21 institution; named duties remain19/29.** [PR461](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/461) actually merged at `e0f0c6b7c5042540439d4d93e0e04a7bac7dd1a2`; its [full486-test postmerge audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41903933994) passed. Main `7339a31a2eab57184064917319131ab1935f8c87` preserves that165-package content and passed its [own full486-test audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41906691701). Published source `3fce9204fbcd8eefe8d74540ddfe9688868a62b1` has complete remote readback and its [own full486-test audit](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/41910781511), with every discovered test executed once and zero failures, errors or skips. [PR462](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/462) is open and unmerged at this receipt; its two maintained-main-story wish-attribution corrections add zero packages and zero source admissions. These receipts close earlier preparation/publication labels at their actual heads and certify no future head.
+
+**Complete accepted Prenapates six plus shared7 installation and commitment records166/355 (46.7606%):120 character,20 directed relationship,five ensemble and21 institution, with19/29 named duties.** Before that persistence, private preparation adds zero progress. Only the existing M029 required row changes; the other354 required rows retain their complete values. Prenapates has no existing legacy tracker row, so exactly one is appended after all177 preceding rows. The resulting178 legacy rows are not the178-package merge milestone. First89 remains integrated; next178 is unreached,13 packages away at the verified165 baseline and12 after complete166 persistence.
+
+Root has actually accepted the current metadata6 after receiving the complete different metadata review and saved readback and independently checking the complete raw/typed inverses. All14210 post-YAML literary bytes and20 paragraphs are preserved. The94 records,208 resolved roots and92 dated locator classes retain the actual authors, readers, stages and limits; metadata acceptance does not transfer a source course. SOURCE keeps the distinctions among represented action, allegation, OS report, interpretation and inward wording. Earlier pending/preparation statements remain their literal dated states; later actual review, adoption and persistence receipts govern the operative state.
+
+The original body author and different body reviewer each own five complete maintained accounts (250 lines) plus V100 selected83. Root owns its own333 maintained addresses. The original readiness author owns six complete maintained accounts (702 lines); the distinct readiness reviewer owns333:166 reused and167 new, five complete accounts (250 lines) plus83 selected V100 lines. These remain separately attributed courses. Planning, documentary fidelity and metadata work add no primary/native/raw/private-source/audiovisual attendance. No hobby, meal, routine, private biography, performed voice or unprinted outcome is invented to fill a sparse dimension.
+
+Required scope stays355 packages/29 named duties/25 parents/384 homes/788 original responsibilities. All29 named rows and the384-home partition remain unchanged. All14 claim-specific gaps stay OPEN, operational models remain0 and the fixed150-package source/semantic consistency audit stays active. Ayame–Nagusa and its junior–senior named repair, Kokuriko, Nonomi–Suou and the rail-corporate institution remain separate unfinished duties. Quiet, ordinary, sparse and low-stakes evidence retains intrinsic literary value; neither stakes nor model readiness filters eligibility.
+
+Current continuation: finish any remaining exact13-path shared-state acceptance, fresh-head/beforeimage guards, unmodified staged author preflight, complete diff review and approved-identity commitment, then ordinary nonforced publication, full remote readback and the actual successor-head audit. Actual receipts close each completed prerequisite; protected integration and its actual-SHA postmerge audit remain separately required. Continue all355 packages and29 named duties toward178. The separate Claude tooling assignment grants no tooling or main-merge authority here.
+
+Accepted six: [BODY](../04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md) · [SOURCE](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json) · [AUTHOR](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json) · [PEER](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json) · [ROOT](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json) · [REGISTRY](../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PRENAPATES_CHARACTER_RECEIVING_20261104_V1/PRENAPATES_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json).
+
+### Dated frontmatter values before Prenapates166
+
+These complete preceding header values retain their earlier scope/version.
+
+```yaml
+scope: "Accepted Sumire–baseball Rei P3-XMI-R001;165/355 only on complete six+shared7 persistence;actual source8d7209_164/full486 zero-skip and preservedmain58f6_163;named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
+version: "1.36"
+```
 
 ## Current Sumire–baseball Rei transaction165 and verified164 source publication — 2026-11-04
 
