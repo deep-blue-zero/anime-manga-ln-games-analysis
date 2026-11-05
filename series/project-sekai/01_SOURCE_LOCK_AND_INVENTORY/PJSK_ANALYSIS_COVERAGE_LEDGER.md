@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0172
+current_event_boundary: EVENT_0173
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0172
+## Current coverage — all five human units synchronized through EVENT_0173
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0172 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0172` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0173 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0173` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0173 — complete envelope integrated
+
+All **27 stories / 59 scenes / 1,226 records / 170,458 canonical bytes** are read and integrated: eight core chapters, ten card halves and nine areas. Canonical and normalized pinned-raw hashes, normalized content, ordered structured identities and all chronology identity/timestamps reconcile. The frozen release manifest supplies noncore association; four monthly rows retain anomalous 2023 dates. No separate unlock-dependent or additional cross-link is listed.
+
+**EVENT_0173 is fully integrated:** no new I3 is created. Honami's `LN-EP-HONAMI-E0121` and independent E0158 receive very strong/high I2 through enacted planning, audience research and a private recognition of unresolved decision pressure. The replacement festival commission is withdrawn before she chooses; the band has not selected a strategy or accepted the later invitation. `LN-REL-G-E0171`, `LN-REL-SOLIS-E0147`, the other three humans and local School relationships remain high/bounded I2. A cover is published and the first professional solo show booked, with performance outcomes unshown. WxS has actual mall I1; MMJ/VBS/N25 I0. The complete envelope is 27 stories / 59 scenes / 1,226 records, fully reconciled against frozen canonical/raw/structured and chronology sources.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0173_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0173--forward-discovery-and-integrated-routing) own all five dispositions, every card/area route and seven-lens interpretation. Six ledger sections preserve the open decision problem without a successor. Public concert Miku, School manifestations and human recipient knowledge remain distinct. This is the third of 42 newly authorized events; EVENT_0174 is next, 39 source-present events remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0172 — complete envelope integrated
 
