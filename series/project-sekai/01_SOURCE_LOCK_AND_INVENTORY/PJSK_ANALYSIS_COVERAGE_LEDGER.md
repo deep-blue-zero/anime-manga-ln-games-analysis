@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0174
+current_event_boundary: EVENT_0175
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0174
+## Current coverage — all five human units synchronized through EVENT_0175
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0174 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0174` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0175 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0175` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0175 — complete envelope integrated
+
+The complete frozen envelope is **25 stories / 35 scenes / 1,371 records / 179,521 canonical bytes**: eight core chapters, ten halves of cards 1213–1217, two monthly areas and five event areas. Every canonical text is read. Canonical and normalized pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-07-31T06:00:00Z`; cards 1213–1215 `03:00:00Z`, cards 1216–1217 and five event areas `06:00:00Z` that day. Two monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. The release manifest owns noncore association while chronology linkage is blank. The final New York days, returned school life and local areas remain separately contextualized.
+
+**EVENT_0175 is fully integrated:** new scoped `VBS-REL-GROUP-ILLYS-E0175` records reciprocal performance exposure, chosen family-stakes disclosure, received rumor-resistant rival commitment and an actual send-off. Group E0169, Akito–Slade E0146 and all four distinct human operatives remain high I2. A local open-mic set is completed, while RUSH BEATS registration, school/family arrangements and a qualifying result remain unshown. Participant testimony about Douglas and sponsorship is not an independent corruption finding. Street singers remain local; Leo/need has actual school-contact I1, N25 an Ena-gift reference I1, WxS a venue-only I1 route, and MMJ I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0175_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0175--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The full reading and six-ledger updates preserve actual performance, testimony, private thought and future intentions separately. A traceable claim-ledger extension corrects the EVENT_0169 relationship ledger's Street/Stage label while preserving the historical text. 5 of 42 newly authorized events are closed; EVENT_0176 is next, 37 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0174 — complete envelope integrated
 
