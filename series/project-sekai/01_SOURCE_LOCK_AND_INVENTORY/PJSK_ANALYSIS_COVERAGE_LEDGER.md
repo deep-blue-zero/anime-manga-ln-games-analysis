@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0176
+current_event_boundary: EVENT_0177
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0176
+## Current coverage — all five human units synchronized through EVENT_0177
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0176 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0176` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0177 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0177` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0177 — complete envelope integrated
+
+The complete frozen envelope is **27 stories / 43 scenes / 1,533 records / 194,766 canonical bytes**: eight core chapters, ten halves of cards 1223–1227, four monthly areas and five event areas. Every canonical text is read. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-22T06:00:00Z`; cards 1223–1225 `03:00:00Z`, cards 1226–1227 and event areas `06:00:00Z` that day. Four monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. The manifest owns noncore association where chronology linkage is blank. The actual pop-up, its preparations and later ordinary exchanges retain their separate timing.
+
+**EVENT_0177 is fully integrated:** Mizuki names a wish to protect others’ self-expression and sees clothing as a possible future means after a bounded customer encounter and Yuuki’s testimony. `MZ-E0150-01`, its E0117 support lineage, sibling E0117, group E0170 and all other human scopes remain high/very high I2; no settled vocation or I3 successor is invented. The full group introduction, actual reciprocal gift and continuing ordinary life have specific recipients. VBS and WxS receive actual cross-unit I2; MMJ and Leo/need actual I1. All six Empty singers remain locally differentiated.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0177_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0177--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six-ledger updates preserve tentative vocational language, customer-authored preference, first-meeting limits, private knowledge, actual gift receipt and imperfect support. The earlier conditional boutique life does not become actual biography. 7 of 42 newly authorized events are closed; EVENT_0178 is next, 35 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0176 — complete envelope integrated
 
