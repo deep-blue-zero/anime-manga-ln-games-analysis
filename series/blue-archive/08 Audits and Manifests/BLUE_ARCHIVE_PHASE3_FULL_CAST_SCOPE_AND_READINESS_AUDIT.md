@@ -5,7 +5,7 @@ status: canonical
 source_boundary: "480 MAIN and3940 admitted selected supplemental objects; a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; Japanese textual evidence only"
 drafted_against_commit: "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
 created: 2026-10-09
-updated: 2026-11-04
+updated: 2026-11-05
 generation: V1
 version: "1.34"
 supersedes: []
@@ -17,6 +17,17 @@ do_not_use_as_current_authority: false
 ---
 
 # Phase 3 full-cast scope and readiness audit
+
+<a id="trio168-relationship-accession"></a>
+## Shuro–Kokuriko–Azami relationship accession — 2026-11-05
+
+Root accepted [the directed relationship synthesis](../04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md) with limits after independent review and exact recovery. The [current accession](BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_CURRENT_PUBLIC_ACCESSION_AND_ROOT_ACCEPTANCE_V1.json) records the six accepted components and activation conditions.
+
+The accepted reading distinguishes Shuro’s private authorship and choice of path, Azami’s escort work and threat, and Kokuriko’s intervention and retained discretion. The maintained account supports an unequal relationship in the represented episode. The wider history of these ties and the manuscript’s text, genre and intended audience remain open.
+
+The Source tracker advances from 167 to 168 when the complete accession is persisted, verified and committed. The breakdown is 121 character, 21 directed relationship, 5 ensemble and 21 institution packages. The named-section count is 19 of 29. The preceding verified remote Source count is 167 and the verified main count is 166. Publication and main integration take effect through their respective receipts.
+
+The existing directed relationship occupies `/homes/189` in the accepted partition. It contributes one package after effective installation. The scope remains 355 packages and 29 named sections.
 
 <a id="kokuriko167-local-installation-root-v3-accepted"></a>
 ## Current Kokuriko167 local installation and completed final V3 acceptance — 2026-11-04

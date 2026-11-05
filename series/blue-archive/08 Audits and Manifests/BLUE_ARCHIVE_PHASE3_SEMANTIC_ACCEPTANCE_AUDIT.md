@@ -1,7 +1,7 @@
 ---
 series: BLUE_ARCHIVE
 artifact_type: semantic_acceptance_audit
-scope: "Final Kokuriko V3 six Root-accepted WITH LIMITS/F01 closed; candidate V3 QA complete; intended localSource167/CHAR121 effective only on actual accepted6+reviewed7+currentaccession persistence/commitment; main remains166; new publication/audits/merge pending; named19/29;355/29/25/384/788/all14OPEN/models0 fixed"
+scope: "Shuro–Kokuriko–Azami exact relationship accepted with limits. Local Source 168 after complete verified persistence and commitment. Preceding verified remote Source 167 and main 166. Named 19/29."
 generation: V1
 version: "1.38"
 status: canonical
@@ -12,10 +12,21 @@ do_not_use_as_current_authority: false
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 created: 2026-10-09
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # Blue Archive Phase 3 — semantic acceptance of literary packages
+
+<a id="trio168-relationship-accession"></a>
+## Shuro–Kokuriko–Azami relationship accession — 2026-11-05
+
+Root accepted [the directed relationship synthesis](../04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md) with limits after independent review and exact recovery. The [current accession](BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_CURRENT_PUBLIC_ACCESSION_AND_ROOT_ACCEPTANCE_V1.json) records the six accepted components and activation conditions.
+
+The accepted reading distinguishes Shuro’s private authorship and choice of path, Azami’s escort work and threat, and Kokuriko’s intervention and retained discretion. The maintained account supports an unequal relationship in the represented episode. The wider history of these ties and the manuscript’s text, genre and intended audience remain open.
+
+The Source tracker advances from 167 to 168 when the complete accession is persisted, verified and committed. The breakdown is 121 character, 21 directed relationship, 5 ensemble and 21 institution packages. The named-section count is 19 of 29. The preceding verified remote Source count is 167 and the verified main count is 166. Publication and main integration take effect through their respective receipts.
+
+The accession records the bounded literary decision and the exact six files. Its record of the later review governs the pending creation-stage fields in those immutable files.
 
 <a id="kokuriko167-local-installation-root-v3-accepted"></a>
 ## Current Kokuriko167 local installation and completed final V3 acceptance — 2026-11-04

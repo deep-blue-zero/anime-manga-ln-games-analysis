@@ -1,0 +1,160 @@
+{
+  "series": "BLUE_ARCHIVE",
+  "artifact_type": "phase3_directed_relationship_accession_and_root_acceptance",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "canonical_target": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+  "subject": "Shuro–Kokuriko–Azami",
+  "required_home": {
+    "id": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "partition": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+    "pointer": "/homes/189",
+    "required_csv_physical_line": 191
+  },
+  "source_responsibility": "P3-REL-SHURO-KOKURIKO-AZAMI",
+  "role": "Current Root accession for the exact six accepted components and the associated tracker updates. It records the later decisions separately from the dated creation-stage values inside the immutable components.",
+  "activation_requirements": [
+    "Complete the exact thirteen-path local snapshot, verify the full staged snapshot and commit it for local Source credit.",
+    "Use the exact remote publication and protected main integration receipts for those states."
+  ],
+  "bound_frozen_six": {
+    "SOURCE": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 20794,
+      "sha256": "a18ff402cbb7a847b39f59fa033b521bc61338d996fba60b6a1dc8ab9d6b1891"
+    },
+    "BODY": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14583,
+      "sha256": "4fa34bfc307c403cd5b8be2b8f8ab95e923a44bc975041a7aa7a55d3bc11da20"
+    },
+    "AUTHOR": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_AUTHOR_READINESS_AND_LITERAL_BODY_HISTORY_V1.json",
+      "bytes": 133464,
+      "sha256": "07347f3890469d82520e6d9e1113e3c44dae4f45a326b58f2469eea428a182a4"
+    },
+    "PEER": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_DIFFERENT_READINESS_AND_BODY_REVIEWS_V1.json",
+      "bytes": 114586,
+      "sha256": "c9592aebadcfab0b6b1dbea075115e1ee016664b1ac61f4f9ef70c83d8d5c156"
+    },
+    "ROOT": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ROOT_ADOPTION_AND_STAGE_PROVENANCE_V1.json",
+      "bytes": 20213,
+      "sha256": "306a0c9355a9ff12ac044c84daef3a2420b31e26ba8b2a6d758d10cf8afe5c8f"
+    },
+    "REGISTRY": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ORIGINAL_MEMBER_AND_COMPONENT_REGISTRY_V1.json",
+      "bytes": 30813,
+      "sha256": "3833a5f081718d05ff8017c15560c468ce80f2538922dc2e2eff051add846a92"
+    }
+  },
+  "review": {
+    "disposition": "ROOT_ACCEPTED_EXACT_SIX_WITH_LIMITS",
+    "independent_exact_six": {
+      "bytes": 8221,
+      "sha256": "cbcf092f7120b52de262d473183044666f94ea44a0c539bdd4abcb76811124cf",
+      "material_findings": 0
+    },
+    "root_exact_adoption": {
+      "bytes": 7752,
+      "sha256": "d36b25b9559b534c1ec58098cb5a0cc5203517701625e977833c4f15bcc1d561"
+    },
+    "actual_recovery": {
+      "raw_records": 33,
+      "ordered_values": 31,
+      "earlier_component_bindings": 15,
+      "authority_locations": 11
+    },
+    "section_15": {
+      "sample": "Whole accepted literal body and all 11 notes, including the opening, escort and manuscript, new writing, intervention, rival motive, imposed darkness, audience comparison and final disappearance/wait.",
+      "roles": [
+        "JUSTIFIED_ROLE_REFERENCE: Sensei, escort, audience and travellers identify story positions relevant to the argument.",
+        "SOURCE_REQUIRED_ANONYMITY: The student credited with repairing material stays unnamed and the Kokuriko–Shuro tie stays unspecified.",
+        "KNOWLEDGE_BOUNDARY_REQUIRED: Azami’s early role differs for the reader and travellers; Niya’s later reported disappearance is distinct from Kokuriko’s represented escape."
+      ],
+      "observation": "In the paragraph on Azami’s service, she could have two antecedents if the sentence were isolated. The immediately prior description names Azami as the actor and Kokuriko as restrainer, and the paragraph continues the same enforcement action. The exact source-grade reading is clear in context. This is a local clarity opportunity and does not require a change to the frozen body.",
+      "material": []
+    }
+  },
+  "literary_limits": [
+    "Shuro’s act of writing precedes the allowance. Azami’s position as would-be enforcer and Kokuriko’s interruption alter the practical latitude available to Shuro. The expected return is inferred from the pairing and the terms of Kokuriko’s statement. An order, Azami’s answer, future allegiance and the effect on the three after the encounter remain unresolved.",
+    "A conditional act of restraint can have that local effect alongside destructive intent, coercion and strategic motives. Shuro’s fear, later coercion and separate harmless authorship each carry their own evidentiary and ethical weight. Chise authored her poem, Kaho received it, Niya prompted Shuro and the unnamed material repair and audience laughter belong to their actual roles.",
+    "Kokuriko’s represented escape and Niya’s later report of three disappearances establish different things. The maintained written analysis leaves the tie unnamed, the private manuscript’s intended audience and genre open and joint escape, later reunion or repair unestablished."
+  ],
+  "creation_stage_status_rule": "Creation-stage pending fields inside the six record what was pending at their freeze. The current accession records actual later review and adoption. Repository and remote status depend on the applicable receipts.",
+  "state_after_root_actual_adoption_and_complete_local_persistence": {
+    "local_Source_completed": 168,
+    "completed_by_kind": {
+      "CHARACTER": 121,
+      "DIRECTED_RELATIONSHIP": 21,
+      "ENSEMBLE": 5,
+      "INSTITUTION": 21
+    },
+    "required_packages": 355,
+    "named_sections_completed": 19,
+    "named_sections_required": 29,
+    "verified_prior_remote_Source_completed": 167,
+    "verified_main_completed": 166,
+    "fixed_scope_tuple": [
+      355,
+      29,
+      25,
+      384,
+      788
+    ],
+    "open_source_gaps": 14,
+    "standalone_reconstruction_models": 0
+  },
+  "actual_publication_and_integration_receipts": {
+    "previous_verified_Source": "42b0f2efd139f39052a14e268c86b3d331b7519a",
+    "previous_verified_main": "bafcfee6641688245f3731423c4fbd053fdda172",
+    "previous_Source_audit_run": 41976850528,
+    "new_publication": "PENDING",
+    "new_main_integration": "PENDING"
+  },
+  "source_and_scope_limits": "Authority is limited to the cited maintained written analysis and contextual projections, with the represented event and attributed testimony kept distinct. The existing required home supplies one package at complete local commitment. Source admission, identity adjudication and model authority stay outside this accession.",
+  "record_creation_stage": {
+    "UTC": "2026-11-05T06:20:12.984Z",
+    "actor": "ROOT",
+    "stage": "EXACT_SIX_ACCEPTED_AND_TWELVE_PREDECESSORS_LOCALLY_PERSISTED; FINAL_STAGED_GATES_AND_COMMIT_PENDING"
+  },
+  "actual_local_predecessor_persistence": {
+    "exact_predecessor_paths_verified": 12,
+    "lookup_only_pins_verified": 2
+  },
+  "bound_reviewed_local_metadata": [
+    {
+      "repository_path": "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 174523,
+      "sha256": "d92b0611d42018e1de8af2ffd11d81e9827d16691bd8c5aaa3d759c933d97a08"
+    },
+    {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+      "bytes": 117910,
+      "sha256": "490a74b447bb77d29fd0a8083e20abe21efb20caff3940e735c9a7cc5ebcf053"
+    },
+    {
+      "repository_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+      "bytes": 98182,
+      "sha256": "e0f3fa0c1b73a95bdd92fee901ac2a5c3b9b894966a47cc246a61d291927ac5d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+      "bytes": 242280,
+      "sha256": "c6acfada0b9b0335f8981b024ef6a6df98c34b487d8b841389c94d0c9996c2a2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+      "bytes": 242863,
+      "sha256": "16dbbb929b5f3e370c4c22138fceae714813de261dd8890021a3a5475a02f78a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md",
+      "bytes": 30331,
+      "sha256": "3942baaefa77731750653270a7a59f9ee0b3fc11538afcd6a8f6bf22fec60ff6"
+    }
+  ]
+}
