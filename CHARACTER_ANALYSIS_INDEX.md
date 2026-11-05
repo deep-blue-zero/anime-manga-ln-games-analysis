@@ -17,7 +17,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`ascendance-of-a-bookworm`](characters/index/ascendance-of-a-bookworm.md) | 9 |
 | [`attack-on-titan`](characters/index/attack-on-titan.md) | 9 |
 | [`azur-lane`](characters/index/azur-lane.md) | 5 |
-| [`blue-archive`](characters/index/blue-archive.md) | 45 |
+| [`blue-archive`](characters/index/blue-archive.md) | 46 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
@@ -441,6 +441,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Pickles](characters/index/konosuba.md#pickles) | Original light-novel continuity, bounded expanded cohort | `konosuba:pickles@original-light-novel` | トランザム・ルッソ・ピクルス |
 | [Plana](characters/index/blue-archive.md#plana) | Blue Archive game | `blue-archive:plana@game` | — |
 | [Platypus tissue cover](characters/index/shuukura.md#platypus-tissue-cover) | Original Japanese light-novel continuity and author supplements | `shuukura:platypus-tissue-cover@original-light-novel` | — |
+| [Prenapates](characters/index/blue-archive.md#prenapates) | Blue Archive game | `blue-archive:prenapates@game` | — |
 | [Priscilla Barielle](characters/index/re-zero.md#priscilla-barielle) | Re:Zero main light novel | `re-zero:priscilla-barielle@light-novel` | プリシラ・バーリエル |
 | [Pucchin](characters/index/konosuba.md#pucchin) | Original light-novel continuity, scoped current monograph | `konosuba:pucchin@original-light-novel` | ぷっちん |
 | [Queen](characters/index/to-be-hero-x.md#queen) | To Be Hero X animated series | `to-be-hero-x:queen@animated-series` | — |
