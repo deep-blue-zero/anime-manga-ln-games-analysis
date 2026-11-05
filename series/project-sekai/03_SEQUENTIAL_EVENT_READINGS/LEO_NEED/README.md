@@ -70,3 +70,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0147 — Happy Enjoy Music！](PJSK_EVENT_0147_DEEP_READING.md): complete 26-story envelope; Saki turns sincere enjoyment, room-reading, invitation, and adaptation into a tested audience-participation method, Iori opens a scoped professional/community channel, and one song-specific Solis commission reaches completed public execution.
 
 - [EVENT_0162 — Find the dream view](PJSK_EVENT_0162_DEEP_READING.md): complete 33-story envelope; Shiho and the quartet co-design an audience-tested arena opening set while preserving the difference between an offered opener, a possible later co-bill, and an unearned self-headline aspiration. Honami and Interstice Luka's fragment encounters remain exceptional and bounded.
+
+- [EVENT_0171 — ordinary,yet special us](PJSK_EVENT_0171_DEEP_READING.md): complete 24-story envelope; a shared alternative life clarifies that affection alone does not maintain shared time. Actual reciprocal recognition and ordinary follow-through advance the group, while observed station-tree change remains distinct from proposed mechanisms and four character histories are preserved.

@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0170
+current_event_boundary: EVENT_0171
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0170
+## Current coverage — all five human units synchronized through EVENT_0171
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0170 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0170` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0171 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0171` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0171 — new continuation transaction closed
+
+The complete envelope, not merely the core, has been read and integrated: **24 stories / 69 scenes / 2,047 records / 248,975 canonical bytes**, comprising eleven chapters, eight card halves and five World Link areas. All 24 canonical digests and normalized pinned raw segments match; structured story/scene/utterance identities and record order reconcile. Chronology identity/timestamps match all 24 rows. Card/area association is explicit in the frozen release manifest, while their chronology `linked_event_id` cells are blank. No separate unlock-dependent or additional cross-linked story is listed.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0171_DEEP_READING.md) owns the shared field and actual aftermath. The [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0171--forward-discovery-and-integrated-routing) lists each canonical surface and digest. Leo/need is scoped group I3 with School-local epistemic I3 and four human I2 refinements. WxS/Tsukasa and N25/Kanade have scenario-only I1 routes; MMJ and VBS are I0. These are five complete unit dispositions, not claims that scenario participants acquired actual knowledge. All six cumulative ledgers record the corresponding changes and exclusions.
+
+The 2026-11-05 owner authorization starts EVENT_0171–0213 without reopening the historical EVENT_0170 closure. EVENT_0172 is next; 41 source-present events remain, with EVENT_0186 absent. Reconstruction packages remain R3 only through EVENT_0140; this event adds bounded later deltas. Embedded video/CG and performed audio are uninspected. Shard mechanism, unshown performance results and the separate terminal synthesis audit remain open; none prevents this text-envelope closure.
 
 ## Purpose
 
