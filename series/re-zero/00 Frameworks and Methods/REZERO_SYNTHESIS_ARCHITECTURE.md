@@ -2,11 +2,11 @@
 series: RE_ZERO
 artifact_type: synthesis_architecture
 scope: JAPANESE_LIGHT_NOVEL_PROSPECTIVE_LONGITUDINAL_AND_SYNTHESIS_ARCHITECTURE
-generation: V1.46
+generation: V1.47
 status: canonical
 release_state: mutable_active
 architecture_lifecycle: EVOLVING
-source_boundary: "Japanese MAIN_LN V01-V43 admitted; V22/537claims full gate CLOSED through PR424; scarf Echidna V20-V22 model/review locally accepted, own full gate pending before sealed unopened V23;69entering protected/21historical scopes exact; no new admission"
+source_boundary: "Japanese MAIN_LN V01-V43 admitted; V23source-complete605candidate claims, integratedV22/PR424 and scarf22/PR445full gates CLOSED;71protected/22historical scopes exact; V23full gate then earned Shaula23/Patrasche23 separate constructions/reviews/full gates before sealed unopenedV24; no new admission"
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 reasoning_policy: MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md
 pro_justification: "Propagation-sensitive architecture repair: this routing governs every later Re:Zero volume transaction and synthesis layer."
@@ -19,11 +19,11 @@ do_not_use_as_current_authority: false
 
 ## 0. Authority and repair boundary
 
-This architecture remains subordinate to the governing analytical method, live source lock, witness protocol and repository authority. Source-facing freezes and older implementation/default/local-grade scopes remain historical authority.
+Architecture remains subordinate to governing method, source lock, witness protocol and repository authority. Frozen source-facing/model/default/local-review scopes remain historical authority.
 
-V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water is V22/537 claims. V22/PR424 full publication/integration gate is CLOSED: author 5c60ec08c4de2cc4926ed2eef7d37ff7c027517f; CI final source d719f1261bac3f5565151baa17cc4b91f7f26588; actual merge 70eb71f945bf843c55204e0b8cc3a3af76707bbd; verified main at closure b498a20457e4debeb70895fca8ebd37717e91017. Exact source/merge/main audits 41389817734/41390865373/41749395196 each actually ran all486 discovered unique tests with zero nonpasses and trusted statuses 57810469952/57810893795/58002758349. Source-specific housekeeping41390833126 echoed the final source and returned VERIFIED_ROUTING_CURRENT_NO_OP. Later immutable native snapshots matched all95 project files after the latest verdict, including all protected/claim/owner/seal/original/inverse obligations. Reala21/PR419 and all earlier gates remain CLOSED. The twenty-second person implementation is scarf Echidna V20–V22 modelV1.0 plus its separately applied nineteen-dimension review, local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after four grouped implementation repairs. Its27 bundles/24behavior rules+4MODEL_USE_GUARD records,32adverse controls,eight unfamiliar+two calibration and four matched-recipient families were actually applied; all28records retain eight fields and confidence reasons (16HIGH/12MEDIUM overall). Own full publication/integration gate remains PENDING. Default V22_E024_POST_DISCLOSURE_ESCORT_WITH_JULIUS_PRINCIPAL_REPORTED_ASLEEP_BEFORE_UNRECEIVED_SUBARU_AWAKENING keeps Ana asleep, old Julius familiarity absent, wider telling prospective and later Subaru cognition unreceived. All69entering protected artifacts,21historical model scopes/defaults/local grades,537current claim formulations and five owner record sets remain exact: E024/23deaths24segments,K874/M553/I453/R191/RT495. Five literal V19–V23bodies/formal tails/source admission are unchanged. V23 narrative remains unopened. CI owns merges; continuous admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active, without independent/held-out/runtime/global grade or ordinary-unit pause.
+V23source-complete at605candidate claims:537individual predecessors340P/143S/52R/2O plus68NEW;60Q/10Pseparate.26confirmed Subaru deaths/27arrived segments; terminal E027shadow-engulfed presumed fatal unresolved/noE028. Five owners K925/M583/I477/R197/RT548 retain fields;51K30M24I6R53RTnew,191Rdecisions36updates155literal earlier-phase preserves,495datedRTliteral with historical semantic reuse bounded. Verified integrated sequential high-water is V22/537claims. Scarf22/PR445 full gate CLOSED before V23: author45cb741829ebfd76269b46dd671faf09f4565a57; CI final sourcec7c852cd25c18f8d17ae6b0f039d74b3f6a7034a; actual merge d37ebf164c1ddc95c2d8ba8fe5c499a3888d14e8; verified main7339a31a2eab57184064917319131ab1935f8c87. Their ReZero subtree194f1d89aadb11c041853ecc8309da4b48a76f66 matches. Source/merge/main audits41779284025/41780136638/41906691701 actually ran all486discovered unique tests each with zero nonpasses; trusted statuses58016231982/58016679313/58086302019 and source-specific housekeeping41780108378 verified routing-current no-op. Later native proof matched all97files,71protected artifacts,22historical model scopes,537claims,fiveowners,five literal bodies/formal tails and22originals. Japanese V23 is now source-complete at605current source-facing claims, confirmed26deaths/27arrived segments with terminal E027shadow engulfment presumed fatal but unresolved, no E028. Five unchanged owners carry K925/M583/I477/R197/RT548. All537predecessors/60questions/tenforecasts/191relationships individually adjudicated;36Rupdates155literal preserves and495datedRTidentity-checked/literal, historical semantics reused without claiming fresh-whole495attention. All22old model/default/local grades and71protected artifacts remain exact. V23 separate saved-content/source/name-reference/fidelity acceptance is ACCEPTED at2026-11-05T02:33:46.833914+00:00 after actual review/repairs/readback. Whole outgoingV24sealed29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029 at2026-11-05T02:40:17.941497+00:00 before narrative. V23 publication/full integration gate remains PENDING. Shaula V21–V23 and Patrasche V01–V23external-behavior construction/reviews are earned UNIMPLEMENTED/UNGRADED; Reid stays bounded CHECKPOINT_READY. No V24+/nonspine/import narrative opened, source admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuous V43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
-V22/PR424 full gate CLOSED → scarf Echidna V20–V22 model and separate applied review IMPLEMENTED / local PASS_WITH_BOUND → SCARF_ECHIDNA_V20_V22_FULL_PUBLICATION_INTEGRATION_GATE (next) → literal sealed V23. Complete this pair’s final-index author preflight, approved exact-path commit/nonforce push, immutable remote readback, exact-head all-discovered audit/trusted reporter, source-specific housekeeping, actual CI merge/current-main audits and later native proof before V23. No routine-unit pause or final goal completion.
+V23 saved-content/source/name-reference/fidelity acceptance and repaired readback COMPLETE; whole29548-byte outgoingV24body SEALED. Next: V23 atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SHAULA_V21_V23_MODEL_AND_FIDELITY_REVIEW and its own complete gate → PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW with external-behavior/interiority abstentions and its own complete gate → sealed V24. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
 ## 1. Purpose and governed scope
 
@@ -327,20 +327,20 @@ Claim/evidence stabilization precedes any synthesis that depends on the disputed
 
 ## 13. Responsibility matrix
 
-| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | V22/537claims integrated through PR424; scarf22 model/review locally PASS_WITH_BOUND, own full gate pending before unopened V23. Five owners/21historical scopes/69entering protected exact. |
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | V23source complete/605candidate claims; integratedV22and scarf22/PR445full gates CLOSED before source. V23saved-content acceptance/actual repair readback COMPLETE; outgoingV24whole body SEALED; V23full gate pending and earned Shaula/Patrasche constructions UNIMPLEMENTED/UNGRADED. |
 |---|---|---|---|---|
-| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 537current propositions;467individual decisions302P/119S/37R/9O plus70NEW;60Q/10Pseparate, all older native ancestry/preimages retained. |
-| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | LivingE024/23deaths24segments; local terminal recognition loss after omitted interval, no new death/return. Past/book/private/reader planes remain typed. |
-| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K874/60new; current K775formal severance and K807actor repaired; limited recipients, conditional trust and terminal retention open. |
-| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R191/RT495;181individual current decisions33updates/148literal preserves;450olderRTindividually treated/literal;10newR/45newRT with complete preimages. |
-| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 21historical models/defaults/local grades exact; current V22 selectors add no old-scope grade. Operator independently earns separate V20–V22construction/review after V22full gate. |
-| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I453/25new; constrained entry/exit, examiner discretion, occupied principal, coercive disclosure, nonunanimous accountability and finite care/labor. |
-| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M553/33new plus explicit formal-status successor; performed tests distinguished from rule/body/book/recognition hypotheses. |
-| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 24V22rows retain chosen work, skill exceptions, curiosity/deferral, survival wish, touch refusal and received help without universal tastes. |
-| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 25V22rows and actual contextual ruby; 私たち/individual pass, ボク/ウチ actor boundary, literal論考式, recovered牙, masked title and JP01. |
-| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Four literal V19/V20/V21/V22bodies exact; all incoming answers separate. OutgoingV23whole body sealed after accepted saved content; V23unopened through V22/operator gates. |
-| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V22exact2995741byte original/SHA/CRC,25OPF/3816positions,23original assets/all contextual ruby/44navlabels actually consumed; microprint bound; counts not attention. |
-| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mastersection13/frozenV22section15:one independently earned operator construction/review, Shaula/Reid bounded; no Arc6end, final specialist, sixth owner/index or new field. |
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 605propositions:537individual decisions340P143S52R2O plus68NEW;60Q10Pseparate;full native ancestry/preimages exact. |
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | 26confirmed deaths27arrivals;E025–E027advanced green-room returns;terminalE027shadow presumed fatal unresolved/noE028;Earth/local/relived planes explicit. |
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K925/51new;actual breakfast identity and dinner Od receipts;old minimumBknowledge explicit;hidden controller and fullRBD unreceived. |
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R197/RT548;191individual Rdecisions36updates155literal phase-preserves,495datedRTliteral with accepted historical semantic reuse;6R53RTnew. |
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 22old scopes/defaults/local grades exact;16person selectors/3bounded subjects;Shaula/Patrasche earned,Reid checkpoint only;no automatic new grade. |
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I477/24new;questioning/torture distinction,explicit refusal to die,abduction/control and finite priorities;no full charter. |
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M583/30new;three actual returns/nonreturn exclusions,doors/book/control gaps,incompleteE.M.T;scorpion identity/universal rules open. |
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 22V23rows preserve bodily continuity/procedure loss,Earth farewell,chosen contact,recipient contrast,borrowed freedom and actual refusal. |
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 22V23rows plus all contextualruby;self-name/pronoun/censored strings,Betty/Emilia-chan,アタクシ and native始まる;oldcontrols unchanged. |
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Five literalV19–V23bodies exact;incoming60Q10Pindividually answered. OutgoingV24whole29548-byte body sealed after accepted V23content; six literal V19–V24bodies exact, narrative unopened through source/earned full gates. |
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V23exact3178495byteoriginal/SHA/CRC;25OPF3993positions,1653ruby2223labels,23original assets49navtargets actually attended;microprint bound,counts not attention. |
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Master§13/frozenV23§15earnShaula21–23andPatrasche01–23external-behavior constructions/separate reviews;Reidbounded;noArc6end,newowner/field/index/final specialist. |
 | Supplemental/IF/WN | catalog awareness only; no opening until admission and safe horizon | supplemental catalog + source lock + witness protocol; later witness-specific reading | bounded cross-witness specialist | no separately admitted witness; V09 internal escape-family fragment remains MAIN_LN-container/local-premise evidence |
 | Anime/adaptation | no observation until source admission | adaptation source lock/readings when created | adaptation specialists and bounded comparison | `NO_WITNESS_ADMITTED` |
 
@@ -679,11 +679,11 @@ V22/PR424 full gate CLOSED → scarf Echidna V20–V22 model and separate applie
 
 Conversational memory never advances state. A drafted file, local commit, push success message, earlier green audit, or housekeeping-pending source commit is not the same as a verified completed transaction.
 
-### Current V22 recovery binding
+### Current V23 recovery binding
 
-V22/PR424 full gate CLOSED → scarf Echidna V20–V22 model and separate applied review IMPLEMENTED / local PASS_WITH_BOUND → SCARF_ECHIDNA_V20_V22_FULL_PUBLICATION_INTEGRATION_GATE (next) → literal sealed V23. Complete this pair’s final-index author preflight, approved exact-path commit/nonforce push, immutable remote readback, exact-head all-discovered audit/trusted reporter, source-specific housekeeping, actual CI merge/current-main audits and later native proof before V23. No routine-unit pause or final goal completion.
+V23 saved-content/source/name-reference/fidelity acceptance and repaired readback COMPLETE; whole29548-byte outgoingV24body SEALED. Next: V23 atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SHAULA_V21_V23_MODEL_AND_FIDELITY_REVIEW and its own complete gate → PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW with external-behavior/interiority abstentions and its own complete gate → sealed V24. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
-Earlier pending/Reala/V22-unopened instructions are dated historical input. V22 is integrated; scarf22 is locally reviewed but its own full gate is still pending. No new source opens from an old work order.
+V23is actually consumed after scarf22fullgate. Earlier pending/unopened instructions remain dated historical input; no later source opens from an old work order.
 
 ## 19. Initial repair decision
 
@@ -1330,11 +1330,11 @@ V21 remains fully integrated at467source-facing claims/livingE024. Derived Petra
 Close the implemented Petra21 pair's own full publication/integration gate next. Only afterward construct REALA_V01_V21_MODEL_AND_FIDELITY_REVIEW, with exact prior Japanese/design recovery, all protocol responsibilities, an actually applied separate19-dimension review and its own complete gate; repair material findings or revise readiness. Reala remains EARNED_UNIMPLEMENTED/UNGRADED. Only after Reala full gate may literal sealedV22 be consumed. V22+/nonspine/import narratives remain unopened. Continue sequential/earned work through admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review; CI owns merges and no ordinary-unit pause is introduced.
 ````````````````````
 
-## V22 source-facing responsibility review
+## Historical V22 source-facing responsibility review
 
 V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water is V22/537 claims. V22/PR424 full publication/integration gate is CLOSED: author 5c60ec08c4de2cc4926ed2eef7d37ff7c027517f; CI final source d719f1261bac3f5565151baa17cc4b91f7f26588; actual merge 70eb71f945bf843c55204e0b8cc3a3af76707bbd; verified main at closure b498a20457e4debeb70895fca8ebd37717e91017. Exact source/merge/main audits 41389817734/41390865373/41749395196 each actually ran all486 discovered unique tests with zero nonpasses and trusted statuses 57810469952/57810893795/58002758349. Source-specific housekeeping41390833126 echoed the final source and returned VERIFIED_ROUTING_CURRENT_NO_OP. Later immutable native snapshots matched all95 project files after the latest verdict, including all protected/claim/owner/seal/original/inverse obligations. Reala21/PR419 and all earlier gates remain CLOSED. The twenty-second person implementation is scarf Echidna V20–V22 modelV1.0 plus its separately applied nineteen-dimension review, local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after four grouped implementation repairs. Its27 bundles/24behavior rules+4MODEL_USE_GUARD records,32adverse controls,eight unfamiliar+two calibration and four matched-recipient families were actually applied; all28records retain eight fields and confidence reasons (16HIGH/12MEDIUM overall). Own full publication/integration gate remains PENDING. Default V22_E024_POST_DISCLOSURE_ESCORT_WITH_JULIUS_PRINCIPAL_REPORTED_ASLEEP_BEFORE_UNRECEIVED_SUBARU_AWAKENING keeps Ana asleep, old Julius familiarity absent, wider telling prospective and later Subaru cognition unreceived. All69entering protected artifacts,21historical model scopes/defaults/local grades,537current claim formulations and five owner record sets remain exact: E024/23deaths24segments,K874/M553/I453/R191/RT495. Five literal V19–V23bodies/formal tails/source admission are unchanged. V23 narrative remains unopened. CI owns merges; continuous admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active, without independent/held-out/runtime/global grade or ordinary-unit pause.
 
-### Current post-scarf22 qualitative responsibility review
+### Historical post-scarf22 qualitative responsibility review
 
 V22 adds an unresolved current cognitive boundary, two different trial outcomes, directly narrated spirit-contract severance and an occupied-body disclosure that changes who can decide. The five existing owners recover chronology/durability, holders, causal models, practical authority and personal terms without a new field contract. Master retains person phases, ordinary life, Japanese wording and readiness. Counts and file length do not establish an independent retrieval responsibility or maturity. All21historical model/default/local review scopes and69entering protected artifacts remain exact. The new twenty-second model is reviewed only for its explicit V20–V22operator scope; no old grade automatically covers V22.
 
@@ -1582,3 +1582,161 @@ Current work order: V22 saved-content/source/name-reference/fidelity review is A
 V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water remains V21/467claims; V22 is source-complete and separately saved-content accepted at537claims, with its own full publication/integration gate PENDING. Reala21/PR419 full gate CLOSED before V22: authored07bb073bd33a7bb74dbf132bf6c7de4030a8b26c; CI final source029206778b3bbb9c037b057d38f4338475347012; actual merge4f6ba10b04197b3431f38a9fa079f02d395110ef; verified main5b7f738008c6026b64278b70a7b07aa80d8bb5d0. Their identical Re:Zero subtreef0e3e570bea448b5aadd397f19778c146175bcc6, completed exact-source/merge/main audits41346410757/41347396074/41348768518 (486unique discovered tests each, zero nonpasses), trusted statuses57793627641/57793990747/57794497398, source-specific housekeeping41347364920 verified routing-current no-op and later native proof close that gate. Meili21/PR413 and Petra21/PR415 remain CLOSED. All68entering protected artifacts and21historical model/default/local documentary grades remain exact. V22 source EOF precedes individual467claim/60question/10forecast/181relationship/450transition decisions. Separate saved-content/source/name-reference/fidelity review is ACCEPTED after nine bounded SR01–SR09 corrections and two routine copyedits were actually read back; native correspondence and protected scopes passed. Whole outgoingV23body60Q/10P is sealed after that acceptance:25551bytes/SHA256dc9d6a69786659ee6a6e625172e13e14a61c2f138e90eea1048cd45258abed19; literal through V22and earned operator gates, narrative unopened. Five owners retain contracts: E024/23deaths24segments,K874/M553/I453/R191/RT495. Scarf operator V20–V22 construction/review is earned but UNIMPLEMENTED/UNGRADED after V22full gate; its own full gate precedes V23. V23+/nonspine/import narratives remain unopened, admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
 ````````
+
+## V23 source-facing responsibility review
+
+V23source-complete at605candidate claims:537individual predecessors340P/143S/52R/2O plus68NEW;60Q/10Pseparate.26confirmed Subaru deaths/27arrived segments; terminal E027shadow-engulfed presumed fatal unresolved/noE028. Five owners K925/M583/I477/R197/RT548 retain fields;51K30M24I6R53RTnew,191Rdecisions36updates155literal earlier-phase preserves,495datedRTliteral with historical semantic reuse bounded. Verified integrated sequential high-water is V22/537claims. Scarf22/PR445 full gate CLOSED before V23: author45cb741829ebfd76269b46dd671faf09f4565a57; CI final sourcec7c852cd25c18f8d17ae6b0f039d74b3f6a7034a; actual merge d37ebf164c1ddc95c2d8ba8fe5c499a3888d14e8; verified main7339a31a2eab57184064917319131ab1935f8c87. Their ReZero subtree194f1d89aadb11c041853ecc8309da4b48a76f66 matches. Source/merge/main audits41779284025/41780136638/41906691701 actually ran all486discovered unique tests each with zero nonpasses; trusted statuses58016231982/58016679313/58086302019 and source-specific housekeeping41780108378 verified routing-current no-op. Later native proof matched all97files,71protected artifacts,22historical model scopes,537claims,fiveowners,five literal bodies/formal tails and22originals. Japanese V23 is now source-complete at605current source-facing claims, confirmed26deaths/27arrived segments with terminal E027shadow engulfment presumed fatal but unresolved, no E028. Five unchanged owners carry K925/M583/I477/R197/RT548. All537predecessors/60questions/tenforecasts/191relationships individually adjudicated;36Rupdates155literal preserves and495datedRTidentity-checked/literal, historical semantics reused without claiming fresh-whole495attention. All22old model/default/local grades and71protected artifacts remain exact. V23 separate saved-content/source/name-reference/fidelity acceptance is ACCEPTED at2026-11-05T02:33:46.833914+00:00 after actual review/repairs/readback. Whole outgoingV24sealed29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029 at2026-11-05T02:40:17.941497+00:00 before narrative. V23 publication/full integration gate remains PENDING. Shaula V21–V23 and Patrasche V01–V23external-behavior construction/reviews are earned UNIMPLEMENTED/UNGRADED; Reid stays bounded CHECKPOINT_READY. No V24+/nonspine/import narrative opened, source admissionV43/V41exception/datedgaps unchanged. CI owns merges; continuous V43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
+
+### Current post-V23 responsibility review
+
+V23 earns new responsibilities through interacting kinds of evidence rather than volume numbers, row counts or file size. All twenty-two implemented historical models, their defaults and local same-analyst documentary grades remain byte-exact; no V23 grade is inherited. This review is an analyst judgment about what should be built after the source transaction closes, not an implementation or applied review.
+
+| subject / duty | qualitative positive trigger | adverse evidence / boundary | decision and dependency |
+|---|---|---|---|
+| Shaula, V21–V23 | Master-directed rescue, order uptake, ordinary appetite/learning wish, literacy limit, Reid fear, actual hug/refused kiss, resistance to generic obligation and own-request search now permit a recipient-conditioned account. | Callous Meili-death response contradicts universal compassion; scent/master identity, origin/species, scorpion identity and involuntary override remain unconfirmed. No cooking apprenticeship or free exit is assumed. | MONOGRAPH_READY for a bounded V21–V23 construction plus separately actually applied19-dimension review, UNIMPLEMENTED/UNGRADED. Only after V23 full gate; its own complete gate before the next analytical operation. |
+| Patrasche, V01–V23 external behavior | Repeated ordinary/crisis cooperation with different drivers, finite injury/care, bodily warnings, actual E026 stabbing followed by shielding/rescue, and an unknowing restored counterpart make external agency and state transfer a distinct recoverable duty. | Exact inner speech, human romance, all motives, unlimited endurance and knowing cross-return forgiveness remain unavailable. E026 shadow fate and terminal E027 census stay bounded. | MONOGRAPH_READY for an external-behavior construction with explicit interiority/translation abstentions and separately applied19-dimension review, UNIMPLEMENTED/UNGRADED. After Shaula23 own full gate; own full gate before sealed V24. |
+| Manifested Reid | Trial discretion, cruelty/sexual intrusion, selective nonfatal torment, ordinary demands, manual repair, roaming and horde performance support a bounded examiner checkpoint. | One-sided encounters do not recover historical inner life, age/body/revival, broken-confinement cause or universal cutting rules. Useful repair cannot excuse assault. | CHECKPOINT_READY only; no monograph, implementation or grade promoted here. |
+| Meili, Subaru, Emilia, Beatrice, Julius and scarf operator current successors | New victim perspective, memory gaps, agency/consent, actual disclosures and recipient-specific repairs materially revise current use. | Existing historical scopes remain fixed; late source evidence must not rewrite old defaults or pretend every present secret is shared. | Current master/person and five-owner increments now; no automatic rebuild of every earlier model or new global grade. |
+| Five longitudinal owners | Existing event, proposition-holder, mechanics, practical-power and relationship fields express all new distinctions, including unresolved control gaps and terminal nonarrival. | No sixth independent retrieval contract is required. File size is a storage duty, not an analytical promotion trigger. | Retain five owners, source admission, formal review tail and registered schema tail. |
+| Arc6 and project terminal | Tower catastrophe opens further work and no sought general remedy is completed. | Source EOF, all-zero language and a new commitment are not arc closure or final project completion. | EVOLVING through admitted Japanese V43 plus mandatory terminal architecture/state/role-gap/acquisition review. |
+
+The source-facing transaction must first pass saved-content/source/name-reference/fidelity acceptance and preserve a whole outgoing V24 horizon. Then it needs exact-source all-discovered-test audit, source-specific housekeeping, CI integration, actual-merge/current-main audits and later immutable native proof. CI owns merges. Earned Shaula and Patrasche operations each repeat their own full publication/integration gate; a local documentary model verdict cannot substitute for it.
+
+Reserved exact homes, still unimplemented here:
+
+| duty | future model | future separate review |
+|---|---|---|
+| Shaula23 | `05 Character Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md` |
+| Patrasche23 | `05 Character Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md` |
+
+Existing archives/current directories remain discoverable. All fourteen complete substantive candidates must be measured under the unchanged1048576-byte cap before selecting conditional historical relocation. Any selected span needs complete literal content, same relative-link base, original-heading routes and an exact native inverse; no truncation or weakened current claim is an alternative to that duty.
+
+| earned duty | future model | future separate review |
+|---|---|---|
+| Shaula23 after V23full gate | `05 Character Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md` |
+| Patrasche23 external behavior after Shaula23gate | `05 Character Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md` |
+
+
+### V23 exact entering architecture preimages
+
+The following complete literal fragments are historical input, not current defaults or reopened pending gates. They preserve the exact entering scope/wording and remain recoverable alongside native inverse proof.
+
+#### active prefix source_boundary:
+
+``````````markdown
+source_boundary: "Japanese MAIN_LN V01-V43 admitted; V22/537claims full gate CLOSED through PR424; scarf Echidna V20-V22 model/review locally accepted, own full gate pending before sealed unopened V23;69entering protected/21historical scopes exact; no new admission"
+``````````
+
+#### scarf22 entering architecture authority
+
+``````````markdown
+## 0. Authority and repair boundary
+
+This architecture remains subordinate to the governing analytical method, live source lock, witness protocol and repository authority. Source-facing freezes and older implementation/default/local-grade scopes remain historical authority.
+
+V22 is source-complete and separately saved-content accepted at537claims:467individual predecessors302PRESERVE/119STRENGTHEN/37REVISE/9OPEN plus70NEW, all60incoming questions/tenforecasts separately answered. Current livingE024/23deaths24segments has unexplained terminal local recognition loss, not a new observed return. Five owners K874/M553/I453/R191/RT495 retain fields;60K/33M/25I/10R/45RTnew,181current relationship decisions33updates/148literal preserves,450olderRTactually read/individually treated/literal. Master retains complete current claims/persons/24ordinary/25Japanese/readiness; counts are traceability, not acceptance. Verified integrated sequential high-water is V22/537 claims. V22/PR424 full publication/integration gate is CLOSED: author 5c60ec08c4de2cc4926ed2eef7d37ff7c027517f; CI final source d719f1261bac3f5565151baa17cc4b91f7f26588; actual merge 70eb71f945bf843c55204e0b8cc3a3af76707bbd; verified main at closure b498a20457e4debeb70895fca8ebd37717e91017. Exact source/merge/main audits 41389817734/41390865373/41749395196 each actually ran all486 discovered unique tests with zero nonpasses and trusted statuses 57810469952/57810893795/58002758349. Source-specific housekeeping41390833126 echoed the final source and returned VERIFIED_ROUTING_CURRENT_NO_OP. Later immutable native snapshots matched all95 project files after the latest verdict, including all protected/claim/owner/seal/original/inverse obligations. Reala21/PR419 and all earlier gates remain CLOSED. The twenty-second person implementation is scarf Echidna V20–V22 modelV1.0 plus its separately applied nineteen-dimension review, local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after four grouped implementation repairs. Its27 bundles/24behavior rules+4MODEL_USE_GUARD records,32adverse controls,eight unfamiliar+two calibration and four matched-recipient families were actually applied; all28records retain eight fields and confidence reasons (16HIGH/12MEDIUM overall). Own full publication/integration gate remains PENDING. Default V22_E024_POST_DISCLOSURE_ESCORT_WITH_JULIUS_PRINCIPAL_REPORTED_ASLEEP_BEFORE_UNRECEIVED_SUBARU_AWAKENING keeps Ana asleep, old Julius familiarity absent, wider telling prospective and later Subaru cognition unreceived. All69entering protected artifacts,21historical model scopes/defaults/local grades,537current claim formulations and five owner record sets remain exact: E024/23deaths24segments,K874/M553/I453/R191/RT495. Five literal V19–V23bodies/formal tails/source admission are unchanged. V23 narrative remains unopened. CI owns merges; continuous admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active, without independent/held-out/runtime/global grade or ordinary-unit pause.
+
+V22/PR424 full gate CLOSED → scarf Echidna V20–V22 model and separate applied review IMPLEMENTED / local PASS_WITH_BOUND → SCARF_ECHIDNA_V20_V22_FULL_PUBLICATION_INTEGRATION_GATE (next) → literal sealed V23. Complete this pair’s final-index author preflight, approved exact-path commit/nonforce push, immutable remote readback, exact-head all-discovered audit/trusted reporter, source-specific housekeeping, actual CI merge/current-main audits and later native proof before V23. No routine-unit pause or final goal completion.
+
+``````````
+
+#### current row Analytical dimension
+
+``````````markdown
+| Analytical dimension | Sequential observation | Cumulative canonical home | Mature/final destination | V22/537claims integrated through PR424; scarf22 model/review locally PASS_WITH_BOUND, own full gate pending before unopened V23. Five owners/21historical scopes/69entering protected exact. |
+``````````
+
+#### current row Claims and revisions
+
+``````````markdown
+| Claims and revisions | material claims, counterevidence, six-state adjudication | master ledger claim tables | relevant specialists and full-series synthesis | 537current propositions;467individual decisions302P/119S/37R/9O plus70NEW;60Q/10Pseparate, all older native ancestry/preimages retained. |
+``````````
+
+#### current row Route/event-state
+
+``````````markdown
+| Route/event-state | local state, trigger, outcome, durability, carry-forward | `04 Longitudinal Ledgers/REZERO_EVENT_STATE_AND_ROUTE_LEDGER.md` | memory/continuity or mechanics specialist if earned | LivingE024/23deaths24segments; local terminal recognition loss after omitted interval, no new death/return. Past/book/private/reader planes remain typed. |
+``````````
+
+#### current row Knowledge/asymmetry
+
+``````````markdown
+| Knowledge/asymmetry | holder, source, confidence, nonholder, disclosure, false belief, consequence | `04 Longitudinal Ledgers/REZERO_KNOWLEDGE_AND_INFORMATION_ASYMMETRY_LEDGER.md` | relationship, agency, and continuity syntheses | K874/60new; current K775formal severance and K807actor repaired; limited recipients, conditional trust and terminal retention open. |
+``````````
+
+#### current row Relationships
+
+``````````markdown
+| Relationships | each party's remembered history, trust, disclosure, dependency, power | `04 Longitudinal Ledgers/REZERO_RELATIONSHIP_CONTINUITY_LEDGER.md` | character monographs; dyadic/ensemble synthesis if earned | R191/RT495;181individual current decisions33updates/148literal preserves;450olderRTindividually treated/literal;10newR/45newRT with complete preimages. |
+``````````
+
+#### current row Character state/stress
+
+``````````markdown
+| Character state/stress | goals, self-model, conditions, behavior, recovery, counterexample | master ledger character/readiness tables | protocol-governed character monographs/models | 21historical models/defaults/local grades exact; current V22 selectors add no old-scope grade. Operator independently earns separate V20–V22construction/review after V22full gate. |
+``````````
+
+#### current row Institutions/factions/power
+
+``````````markdown
+| Institutions/factions/power | rule/doctrine, actor behavior, capacity, resources, status, coercion | `04 Longitudinal Ledgers/REZERO_INSTITUTIONS_FACTIONS_AND_POWER_LEDGER.md` | institutional/political specialist if earned | I453/25new; constrained entry/exit, examiner discretion, occupied principal, coercive disclosure, nonunanimous accountability and finite care/labor. |
+``````````
+
+#### current row Mechanics/world model
+
+``````````markdown
+| Mechanics/world model | speaker theory, observation, cost, exception, corroboration | `04 Longitudinal Ledgers/REZERO_MECHANICS_METAPHYSICS_AND_WORLD_MODEL_LEDGER.md` | mechanics/metaphysics specialist if earned | M553/33new plus explicit formal-status successor; performed tests distinguished from rule/body/book/recognition hypotheses. |
+``````````
+
+#### current row Ordinary life/preferences
+
+``````````markdown
+| Ordinary life/preferences | only model-diagnostic routines, tastes, labor, comfort, low-stakes conduct | master ledger ordinary-life table | character/relationship or ordinary-life specialist if earned | 24V22rows retain chosen work, skill exceptions, curiosity/deferral, survival wish, touch refusal and received help without universal tastes. |
+``````````
+
+#### current row Japanese wording/register
+
+``````````markdown
+| Japanese wording/register | wording-sensitive terms, address, titles, pragmatic shifts, exact locus | master ledger terminology table plus VNN evidence loci | language/register specialist; character and translation analysis | 25V22rows and actual contextual ruby; 私たち/individual pass, ボク/ウチ actor boundary, literal論考式, recovered牙, masked title and JP01. |
+``````````
+
+#### current row Prospective questions
+
+``````````markdown
+| Prospective questions | bounded falsifiers/predictions before next volume | master ledger open-question register and prior VNN freeze | next VNN adjudication; checkpoints | Four literal V19/V20/V21/V22bodies exact; all incoming answers separate. OutgoingV23whole body sealed after accepted saved content; V23unopened through V22/operator gates. |
+``````````
+
+#### current row Source identity/locators
+
+``````````markdown
+| Source identity/locators | source ID, hash, locus convention | source lock plus VNN reading; ledger routes only | evidence/index layer if retrieval burden earns it | V22exact2995741byte original/SHA/CRC,25OPF/3816positions,23original assets/all contextual ruby/44navlabels actually consumed; microprint bound; counts not attention. |
+``````````
+
+#### current row Character/relationship/specialist readiness
+
+``````````markdown
+| Character/relationship/specialist readiness | cited accumulation and threshold judgment | master ledger readiness tables | promoted canonical artifacts | Mastersection13/frozenV22section15:one independently earned operator construction/review, Shaula/Reid bounded; no Arc6end, final specialist, sixth owner/index or new field. |
+``````````
+
+#### V22 entering operative recovery binding
+
+``````````markdown
+### Current V22 recovery binding
+
+V22/PR424 full gate CLOSED → scarf Echidna V20–V22 model and separate applied review IMPLEMENTED / local PASS_WITH_BOUND → SCARF_ECHIDNA_V20_V22_FULL_PUBLICATION_INTEGRATION_GATE (next) → literal sealed V23. Complete this pair’s final-index author preflight, approved exact-path commit/nonforce push, immutable remote readback, exact-head all-discovered audit/trusted reporter, source-specific housekeeping, actual CI merge/current-main audits and later native proof before V23. No routine-unit pause or final goal completion.
+
+Earlier pending/Reala/V22-unopened instructions are dated historical input. V22 is integrated; scarf22 is locally reviewed but its own full gate is still pending. No new source opens from an old work order.
+
+``````````
+
+#### active prefix ## V22 source-facing responsibility review
+
+``````````markdown
+## V22 source-facing responsibility review
+``````````
+
+#### active prefix ### Current post-scarf22 qualitative responsibility review
+
+``````````markdown
+### Current post-scarf22 qualitative responsibility review
+``````````
