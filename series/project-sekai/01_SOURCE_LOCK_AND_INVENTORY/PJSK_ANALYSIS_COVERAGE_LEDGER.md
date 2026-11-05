@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0175
+current_event_boundary: EVENT_0176
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0175
+## Current coverage — all five human units synchronized through EVENT_0176
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0175 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0175` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0176 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0176` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0176 — complete envelope integrated
+
+The complete frozen envelope is **25 stories / 83 scenes / 1,937 records / 245,557 canonical bytes**: eleven core chapters, eight halves of cards 1218–1221, one monthly area and five World Link areas. All canonical texts are read; canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. No separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-08T11:00:00Z`; all cards publish at `03:00:00Z`, World Link areas at `11:00:00Z` that day. The monthly row retains anomalous `2023-09-29T15:00:00Z` metadata; the release manifest owns noncore association where chronology linkage is blank. Actual opening/waking, shared nonactual alternatives and actual card follow-through remain distinct.
+
+**EVENT_0176 is fully integrated:** `MMJ-REL-GROUP-E0168 → MMJ-REL-GROUP-E0176` records actual reciprocal recognition of self-acceptance, complementary skill and hope, supported by shared practice, a mini-live, delegation, gratitude and chosen ordinary time. New `EPI-MMJ-STAGE-TREE-E0176` records bounded tree/contact/sleep/alternative/growth evidence; the fear-regret-guilt explanation remains tentative and `EPI-MMJ-STAGE-FLOWERS-E0130` remains separate. Four human operatives stay high I2; conditional careers are not actual regressions or biographies. Leo/need has actual and scenario I1, WxS a scenario reference I1, VBS/N25 I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0176_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0176--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading and six cumulative updates distinguish scenario experience from actual follow-through, individual knowledge from compatible recall, and observed changes from hypothesized mechanisms. Prior IDs and historical closure remain preserved. 6 of 42 newly authorized events are closed; EVENT_0177 is next, 36 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0175 — complete envelope integrated
 
