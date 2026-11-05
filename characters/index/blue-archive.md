@@ -797,6 +797,28 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
 - Reviewed current evidence:
   - [`character-monograph` — Plana character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md)
 
+<a id="prenapates"></a>
+
+### Prenapates
+
+- Entity ID: `blue-archive:prenapates`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:prenapates@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of Prenapates across main-story Final volume (最終編) as maintained in the Chapter 3 and Chapter 4 checkpoints, Chapter 4 episode deep readings E006, E007 and E008, and the Final-volume working account. This describes the monograph's analytical corpus, not every appearance. No ordinary-life, event, bond or performed-voice coverage is claimed.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Prenapates character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md)
+
 <a id="saki"></a>
 
 ### Saki
