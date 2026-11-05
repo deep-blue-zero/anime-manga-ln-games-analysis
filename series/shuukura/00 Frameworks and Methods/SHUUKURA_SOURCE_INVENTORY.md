@@ -5,14 +5,14 @@ artifact_type: source_inventory
 series: "Shuukura / 週に一度クラスメイトを買う話"
 series_id: shuukura
 generation: SHUUKURA_V2
-version: "1.69"
+version: "1.70"
 status: active_provisional
 scope: "Exact acquired source identities, edition boundaries, supplemental provenance and future inventory freeze"
-source_boundary: "Accepted LN01–10 witnesses,23supplements andWEB E0001–E0035 through accepted whole transactions; originalI1 continuous,E0036 next after complete E0035/publication with every dependent duty retained; immutable BW/LN10 additions;V1/future releases unopened"
+source_boundary: "Accepted LN01–10 witnesses,23 supplements and WEB E0001–E0036 through complete accepted whole transactions; originalI1 continuous,E0037 next after complete E0036/publication with all dependent duties retained; immutable BW/LN10 additions;V1/future releases unopened"
 canonical_home: series/shuukura/00 Frameworks and Methods/SHUUKURA_SOURCE_INVENTORY.md
 created: "2026-10-17"
 planning_date: "2026-10-16"
-review_status: E0035_COMPONENTS_AND_WHOLE_INTRODUCTION_AUDITED_SEPARATELY
+review_status: E0036_COMPONENTS_AND_WHOLE_INTRODUCTION_AUDITED_SEPARATELY
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -20,6 +20,32 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Source inventory and edition/witness architecture
+
+## E0036 complete source transaction — 2026-11-04
+
+Current retrieval: [E0036 deep reading](../03%20Web%20and%20Supplemental%20Readings/SHUUKURA_V2_KAK_JP_E0036_DEEP_READING.md) and [E0036 transaction audit](../08%20Audits%20and%20Handoffs/SHUUKURA_V2_KAK_JP_E0036_TRANSACTION_AUDIT.md). The current source, finite, material, cumulative, complete-reading and whole receipts have distinct scopes. These current values become operative through the complete accepted introducing transaction; final INDEX validation, ordinary publication, resulting-head CI and protected-main integration retain their actual separate records. The dated E35 section below is preserved history.
+
+E36 is the genuine continuation of the existing room occurrence, with Miyagi still narrating. The complete title/native1–153 encounter contains93 meaningful and60 formatting nodes, with no ruby/media or meaningful outside-body prose. Ordered original blocks and immediate substantive notes preceded the whole-WEB Q1. The separately admitted acquired Japanese LN02 item/xhtml/p-003.xhtml99–186 counterpart comprises88 story nodes with13 ruby fragments/20 RT at12 native loci, all received with raw/base/tails/gaps before current finite meanings. Native186 is a comparison cutoff, not chapter end; no new187+ original inspection or additional completed novel unit is claimed by this comparison.
+
+Miyagi's proper-room-order relief, particular amusement and actual chosen close contact coexist with deliberately painful pulling and refused stopping demands. Her disavowed heartbeat and sensory familiarity remain beside real single-contract, graduation-ceiling and no-more avowals. A future status limit may coexist with present desire; a defensive self-description is an alternative, not a proven lie. Sendai's actual forceful hand removal, local stillness, distinct counteractions and achieved push-aside/sit-up retain their body sites, force qualifications and outcomes. The later extra bite is attempted and interrupted; the earlier light teeth contact is performed. Neither bodily response nor ordinary bed continuation supplies blanket assent or full repair.
+
+Sendai actually grants prospective given-name permission from now on, and Miyagi declines its use. The grant remains real and future-available without a reciprocal duty, revocation, bodily consent or shared confession. Miyagi's later pillow-pain word is actually voiced and locally available to Sendai; only the supplied little-pain/exaggeration qualification is private. Belief and knowing exaggeration are unproved, and this local qualification cannot invalidate Sendai's earlier pain.
+
+The finite comparison retains40 registered cases and19 matched-control groups:38 unequal mapped nodes,50 equal-base nodes, a separate look/utterance presentation-order relation and the bounded WEB55–56 omission. Equal bases and one-to-many mappings do not multiply changed source occurrences. Novel-only nonacceptance/June-May/bite-specific/name/no-sex/probable-attribution/downward-gaze wording stays novel-local; WEB preference/testing, whim, satisfaction/no-more and sensory-protest meanings retain their own witnesses. Earlier cause, message, eraser, grades, magazine and peer-knowledge gaps acquire no invented completion.
+
+The material comparison covers65 complete selected current CLA cases,23 WEB RULE histories and relevant retained origins. Claims have43 PRESERVE,17 STRENGTHEN and5 REVISE decisions, with22 actual prior-claim successors and6 source-bounded OPEN composites. The current outcome/explanatory revisions preserve older facts and allow a later-history STRENGTHEN label alternative where appropriate. Rule decisions have19 PRESERVE,3 STRENGTHEN and1 REVISE;4 existing successors and2 new LOCAL occurrence families add zero newly mutually adopted standing terms. The resistance permission stays in the existing stillness occurrence; no-push-down and prospective name availability have distinct local domains. The other78 current WEB CLA have exact identity/version protection without a fresh semantic verdict. No older PROP version is changed.
+
+E36 adds30 character events (17 Miyagi-own/13 Sendai heard or observed through Miyagi),15 relationship events,80 PROP/EPI pairs,12 OPEN tensions and2 directional successors. Only Miyagi-own and Sendai through Miyagi advance35→36. Sendai-own/Miyagi through Sendai remain34; Umina direct33, Mariko direct32, Umina invitation-report34, Maika Miyagi-report34 and Umina habitual Miyagi-report35 retain. Seven literal older terminal copies are noncounting and retain their own source clocks, including the historical E34 reference to Miyagi-own31. There is no new supporting-person scene or own packet.
+
+The four logical ledgers use eleven physical parts: character master/continuation01, relationship master/continuation01, disclosure master/continuations01–03 and claims master/continuations01–02. The claims master and old continuation01 receive only the accepted exact routing/scope changes; the new continuation02 contains substantive source-supported rows and current metadata. The private empty capacity prototype remains local. Every entering ledger table line is exact and ordered in its original part, and all old bytes have complete inverses. Joint totals are311 CLA IDs/1224 versions/1731 strict rows,2232 PROP IDs/2902 versions and201 RULE IDs/529 pairs/548 rows with19 legacy repeats. Actual saved sizes and the complete retrieval chain are checked, with no trimming or fifth ledger.
+
+Complete accepted E36 introduction yields WEB36/431, originalI1 63/458, pre-LN10 68/463 and combined69/464. Ten novels/23 supplements retain. Narō0/290,51 mandatory gaps with4 resolved/47 unresolved,27 discovery duties and dependentG3–G7 remain unfinished. M0.13/S0.14 stay noncurrent UNTESTED with zero validated domains and all18 forecasts/13 historical attempts, failures, ties, exposure and input-location defects preserved. No source fit, new identifier, successful count check or source-local interpretation becomes a held-out model result.
+
+The actual required histories remain recoverable: typed-sourceA1 TWEB01 spoken/private access is closed only at sourceA2; finiteA2 FIN01 ears ownership is closed only at finiteA3; materialA2 MAT01 detailed speech/body order is corrected only at materialA3. Current material order is counterpush125, rule127, Miyagi denial128, push-aside/sit-up130, analogy132, standing135 and no-push-down limit137. The finite XML namespace/count checker failure and bounded recovery, material checker wrapper-selection stop/recovery, withdrawn OBS009 advisory and display truncations retain their actual scopes. Fresh human fields, exact own carries and machine-only preservation remain distinct. No fresh blind or all-history rereading claim is made.
+
+Entering E35 was ordinarily published at ad39e4c61380f841ad7c820067f46d93d1624e54 with its own successful audit41764323771,486 executed tests and10643 checked paths. Those results certify that preceding head, not E36. Current-head reconciliation, final staged preflight, approved outgoing identities, ordinary nonforce push, changed Git/provider body readback and the resulting head's own audit remain separately evidenced. Root does not merge protected main or rewrite published history.
+
+After accepted E36 introduction/publication, E37 requires a genuine entering freeze and complete original encounter. The preceding resulting head's successful own audit gates the next major push. The authorized frozen431/originalI1 run and dependent architectural terminal remain active, with confirmation_between_units:false; no future-release/E0432+ admission, routine unit pause or wider-goal completion is declared. Raw originals, private matrices, EPUBs and OFF/SS01 evidence remain local. The dated E35 checkpoint below retains its then-current statements without overriding this later projection.
 
 ## E0035 complete source transaction — 2026-11-03
 
