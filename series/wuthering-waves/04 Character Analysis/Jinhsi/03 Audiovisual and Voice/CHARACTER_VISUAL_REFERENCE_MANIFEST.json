@@ -1,0 +1,344 @@
+{
+  "artifact_type": "character_visual_reference_manifest",
+  "character": "Jinhsi",
+  "coverage": {
+    "ambiguous": 3,
+    "client_resolved": 3,
+    "decoded_exported": 3,
+    "promotional_art": 0,
+    "referenced": 11,
+    "runtime_frames": 0,
+    "unresolved": 0
+  },
+  "generation": "character_visual_v0_2",
+  "references": [
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.T_IconRoleHead256_24_UI",
+      "category": "head_icon",
+      "content_scope": "large square head-and-face crop",
+      "dimensions": {
+        "height": 256,
+        "width": 256
+      },
+      "exported_media_locator": "restricted://_visual_media/character_visual_v0_2/client_textures/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.png",
+      "exported_media_sha256": "a419c2bc081f138964d9d794497ada297b053be86dfa3e57c7b1920619b832ed",
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "single authored pose/crop; rear construction and motion are not visible"
+      ],
+      "package_member_sha256": "c1c0fb4050e417cfbd0e393b3938609804a1a59f1c06d38a560bfa6669efc6c0",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.uasset",
+      "provenance_status": "decoded_exported",
+      "representation": "official client UI raster",
+      "semantic_field": "RoleHeadIconLarge",
+      "skin_id": 81001304,
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "source_container_sha256": "336dfb8b63108dfcd85f0fdf1d36edef4e3ee65d5253a93611c90b9aea13ad8d",
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:b0d16ccbe9433be0684ddf01"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI",
+      "category": "formation_pile_art",
+      "content_scope": "transparent upper-body formation art",
+      "dimensions": {
+        "height": 960,
+        "width": 696
+      },
+      "exported_media_locator": "restricted://_visual_media/character_visual_v0_2/client_textures/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.png",
+      "exported_media_sha256": "72ede83a8ca79a6fe2bdab3d6dac590e237372fa886a8f65ff76ccebf1732282",
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "single authored pose/crop; rear construction and motion are not visible"
+      ],
+      "package_member_sha256": "d050c68d064475c8d3b30558c5fd788118cc144dc599d67d596b3c31477c4602",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.uasset",
+      "provenance_status": "decoded_exported",
+      "representation": "official client UI raster",
+      "semantic_field": "FormationRoleCard",
+      "skin_id": 81001304,
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "source_container_sha256": "336dfb8b63108dfcd85f0fdf1d36edef4e3ee65d5253a93611c90b9aea13ad8d",
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:849574443d61c72fc697783c"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.T_ActivityRoleJinxi",
+      "category": "activity_portrait",
+      "content_scope": "transparent full-body activity art",
+      "dimensions": {
+        "height": 2032,
+        "width": 2048
+      },
+      "exported_media_locator": "restricted://_visual_media/character_visual_v0_2/client_textures/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.png",
+      "exported_media_sha256": "c5884ad5175d510ecf95376bb5f518ea36034ed3b31629ac97b5ecee5ba4d54e",
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "single authored pose/crop; rear construction and motion are not visible"
+      ],
+      "package_member_sha256": "04b1133b7fe972df262346a6a5120407bd4a644b7667f0c237802cf2d9c4062f",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.uasset",
+      "provenance_status": "decoded_exported",
+      "representation": "official client UI raster",
+      "semantic_field": "RolePortrait",
+      "skin_id": 81001304,
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "source_container_sha256": "336dfb8b63108dfcd85f0fdf1d36edef4e3ee65d5253a93611c90b9aea13ad8d",
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:cbb2726f590f03ffe984ed12"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHeadCircle256/T_IconRoleHeadCircle256_24_UI.T_IconRoleHeadCircle256_24_UI",
+      "category": "head_icon",
+      "content_scope": "circular head crop",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "reference_only",
+      "representation": "official client UI asset reference",
+      "semantic_field": "RoleHeadIconCircle",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:8b8968a1ff4b8d064391af91"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead150/T_IconRoleHead150_24_UI.T_IconRoleHead150_24_UI",
+      "category": "head_icon",
+      "content_scope": "medium head crop",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "reference_only",
+      "representation": "official client UI asset reference",
+      "semantic_field": "RoleHeadIconBig",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:095a63a6ea948dcf6ed3514b"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead175/T_IconRoleHead175_24_UI.T_IconRoleHead175_24_UI",
+      "category": "head_icon",
+      "content_scope": "card-scale head crop",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "reference_only",
+      "representation": "official client UI asset reference",
+      "semantic_field": "Card",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:bf3952a5514b77c9c13665ef"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead80/T_IconRoleHead80_24_UI.T_IconRoleHead80_24_UI",
+      "category": "head_icon",
+      "content_scope": "small head crop",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "reference_only",
+      "representation": "official client UI asset reference",
+      "semantic_field": "RoleHeadIcon",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:5df1caaaa08f98e16c0f62e0"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/UiQuest/Image/ChuanShuo/T_IconChuanShuo1_UI.T_IconChuanShuo1_UI",
+      "category": "quest_stand",
+      "content_scope": "quest stand pointer; shared value requires adjudication",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation",
+        "the semantic field is shared across multiple role records and is not treated as character-specific without further proof"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "ambiguous",
+      "representation": "official client semantic asset reference",
+      "semantic_field": "RoleStand",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:45a5c8947fdd04ce4deb90b2"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Spine/Portraits/Portraits_Anke/Portraits_Anke.Portraits_Anke-atlas",
+      "category": "spine_portrait",
+      "content_scope": "Spine atlas pointer; shared value requires adjudication",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation",
+        "the semantic field is shared across multiple role records and is not treated as character-specific without further proof"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "ambiguous",
+      "representation": "official client semantic asset reference",
+      "semantic_field": "FormationSpineAtlas",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:2fe81ac9103919761628a987"
+    },
+    {
+      "asset_object_path": "/Game/Aki/UI/UIResources/Common/Spine/Portraits/Portraits_Anke/Portraits_Anke.Portraits_Anke-data",
+      "category": "spine_portrait",
+      "content_scope": "Spine skeleton pointer; shared value requires adjudication",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation",
+        "the semantic field is shared across multiple role records and is not treated as character-specific without further proof"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "ambiguous",
+      "representation": "official client semantic asset reference",
+      "semantic_field": "FormationSpineSkeletonData",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:eb9914d891e3be03de67c356"
+    },
+    {
+      "asset_object_path": "/Game/Aki/Character/Role/FemaleM/Jinxi/R2T1JinxiMd10011/ABP_Performance_Jinxi_PC.ABP_Performance_Jinxi_PC_C",
+      "category": "performance_animation",
+      "content_scope": "UI performance animation blueprint pointer",
+      "dimensions": null,
+      "exported_media_locator": null,
+      "exported_media_sha256": null,
+      "form_id": "default_playable_form",
+      "limitations": [
+        "2D UI representation; not a runtime model, turntable, or material truth source",
+        "not decoded or visually inspected in this bounded generation"
+      ],
+      "package_member_sha256": null,
+      "package_virtual_path": null,
+      "provenance_status": "reference_only",
+      "representation": "official client semantic asset reference",
+      "semantic_field": "UiScenePerformanceABP",
+      "skin_id": 81001304,
+      "source_container_locator": null,
+      "source_container_sha256": null,
+      "state_id": "default_ui_representation",
+      "visual_id": "wuwa:visual:02ef45fe43fc50df3b1b2fd1"
+    }
+  ],
+  "reverse_provenance_index": [
+    {
+      "character": "Jinhsi",
+      "form_id": "default_playable_form",
+      "output_sha256": "a419c2bc081f138964d9d794497ada297b053be86dfa3e57c7b1920619b832ed",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.uasset",
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "texture_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.T_IconRoleHead256_24_UI",
+      "visual_id": "wuwa:visual:b0d16ccbe9433be0684ddf01"
+    },
+    {
+      "character": "Jinhsi",
+      "form_id": "default_playable_form",
+      "output_sha256": "72ede83a8ca79a6fe2bdab3d6dac590e237372fa886a8f65ff76ccebf1732282",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.uasset",
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "texture_object_path": "/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.T_IconRole_Pile_jinxi_UI",
+      "visual_id": "wuwa:visual:849574443d61c72fc697783c"
+    },
+    {
+      "character": "Jinhsi",
+      "form_id": "default_playable_form",
+      "output_sha256": "c5884ad5175d510ecf95376bb5f518ea36034ed3b31629ac97b5ecee5ba4d54e",
+      "package_virtual_path": "Client/Content/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.uasset",
+      "source_container_locator": "installed-client://Client/Content/Paks/pakchunk7-WindowsNoEditor.pak",
+      "texture_object_path": "/Game/Aki/UI/UIResources/Common/Image/PixActivity/T_ActivityRoleJinxi.T_ActivityRoleJinxi",
+      "visual_id": "wuwa:visual:cbb2726f590f03ffe984ed12"
+    }
+  ],
+  "role_id": 1304,
+  "schema_version": "wuwa.character-visual-reference-manifest.v0.2",
+  "scope": {
+    "excluded": [
+      "full 3D model reconstruction",
+      "runtime animation analysis",
+      "rear-view construction",
+      "alternate skin survey",
+      "official promotional-art survey",
+      "bulk texture extraction"
+    ],
+    "included": [
+      "role-linked head icon",
+      "formation pile art",
+      "activity portrait",
+      "role-linked visual pointers"
+    ],
+    "media_distribution": "local_restricted",
+    "selection_rule": "For every current character directory, decode exactly RoleHeadIconLarge, FormationRoleCard, and RolePortrait from the active installed-client container set; retain other role-linked pointers as unresolved or ambiguous references."
+  },
+  "source_authority": {
+    "normalized_semantic_view": {
+      "scope": "canonical_normalized_semantics",
+      "source_id": "arikatsu-3.6.0-353f2eae-4lang-v0.3.0",
+      "status": "canonical"
+    },
+    "official_client_raw_evidence": {
+      "scope": "official_client_raw_visual_evidence",
+      "source_id": "installed-client-container-set:0252c43f83fbff812a9ddcc4f2ca4b77efc5c9d4ddd4930e64b96c6832bcfe71",
+      "status": "canonical"
+    }
+  },
+  "source_generation_frozen": false,
+  "status": "active_provisional"
+}

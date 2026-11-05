@@ -1,0 +1,1220 @@
+{
+  "schema": "LIBRARY_CURRENT105_DISTINCT_NEW_TARGET_PURPOSE_INDEX_V1",
+  "existing_required_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+  "mandatory_named_section": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+  "actual_owner_union": "O000–O104 exactly once",
+  "actual_new_target_questions": 105,
+  "105_current_target_dispositions": [
+    {
+      "owner_id": "O000",
+      "library_purpose_id": "LP000",
+      "own_new_library_question": "Can actual sensory pleasure and volunteered help validate every method used to make a shared place?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/0"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O001",
+      "library_purpose_id": "LP001",
+      "own_new_library_question": "When does a locally delegated opening become a claim to impose a permanent service role?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/1"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O002",
+      "library_purpose_id": "LP002",
+      "own_new_library_question": "Can restored administration erase an object's owner's refusal or attachment to a familiar place?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/2"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O003",
+      "library_purpose_id": "LP003",
+      "own_new_library_question": "Does successful inventive making supply permission to alter another person's property?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/3"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O004",
+      "library_purpose_id": "LP004",
+      "own_new_library_question": "What distinguishes access to a record from legitimate alteration and completed correction?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/4"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O005",
+      "library_purpose_id": "LP005",
+      "own_new_library_question": "Can a favorable inspection or one person's liking certify later hospitality for every recipient?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/5"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O006",
+      "library_purpose_id": "LP006",
+      "own_new_library_question": "How can valued visits and comfort coexist with refusal and unequal knowledge in care?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/6"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O007",
+      "library_purpose_id": "LP007",
+      "own_new_library_question": "Whose experience does an organiser's compulsory exchange actually describe?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/7"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O008",
+      "library_purpose_id": "LP008",
+      "own_new_library_question": "How do wanted refreshments become disputed resource criteria rather than neutral evidence of deservingness?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/8"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O009",
+      "library_purpose_id": "LP009",
+      "own_new_library_question": "Does a true recreational discovery invalidate another person's refusal or need for quiet?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/9"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O010",
+      "library_purpose_id": "LP010",
+      "own_new_library_question": "Can an instruction authorize conduct its recipient has not disclosed?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/10"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O011",
+      "library_purpose_id": "LP011",
+      "own_new_library_question": "Does correctly rejecting a deception justify retaliation or demonstrate lasting institutional change?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/11"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O012",
+      "library_purpose_id": "LP012",
+      "own_new_library_question": "What makes a quiet invitation and small shared pleasure analytically consequential?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/12"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O013",
+      "library_purpose_id": "LP013",
+      "own_new_library_question": "What separates a maker's imagined praise from the recipients' actual answer?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/13"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O014",
+      "library_purpose_id": "LP014",
+      "own_new_library_question": "How can a prior declined invitation coexist with later loneliness and a renewed conditional welcome?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/14"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O015",
+      "library_purpose_id": "LP015",
+      "own_new_library_question": "Does excellent help or shared enthusiasm confer a right to publicise its giver?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/15"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O016",
+      "library_purpose_id": "LP016",
+      "own_new_library_question": "Can stopping a rumor authenticate a private object's contents or restore standing completely?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/16"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O017",
+      "library_purpose_id": "LP017",
+      "own_new_library_question": "When can specialist competence coexist with an unauthorized and damaging response?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/17"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O018",
+      "library_purpose_id": "LP018",
+      "own_new_library_question": "What distinguishes literary advocacy, recipient classification and the actual agent of destruction?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/18"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O019",
+      "library_purpose_id": "LP019",
+      "own_new_library_question": "How can small care and creative participation sustain belonging without formal recognition?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/19"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O020",
+      "library_purpose_id": "LP020",
+      "own_new_library_question": "Can solidarity and professional language obscure an unequal burden and failed disposal method?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/20"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O021",
+      "library_purpose_id": "LP021",
+      "own_new_library_question": "Can a fortunate result certify the criteria or mechanism that produced it?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/21"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O022",
+      "library_purpose_id": "LP022",
+      "own_new_library_question": "How does a recipient's own preparation differ from helpers' covert interpretation of it?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/22"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O023",
+      "library_purpose_id": "LP023",
+      "own_new_library_question": "Does renewed commitment permit newly imposed means?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/23"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O024",
+      "library_purpose_id": "LP024",
+      "own_new_library_question": "Can protective permission be absorbed into another person's projected discipline?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/24"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O025",
+      "library_purpose_id": "LP025",
+      "own_new_library_question": "What happens when a giver receives a particular wish instead of assigning it?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/25"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O026",
+      "library_purpose_id": "LP026",
+      "own_new_library_question": "Can gratitude and memory be meaningful when rest leaves the work burden intact?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/26"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O027",
+      "library_purpose_id": "LP027",
+      "own_new_library_question": "How should different gift makers' sensory ends and recipients' time be assessed?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/27"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O028",
+      "library_purpose_id": "LP028",
+      "own_new_library_question": "Does later allowance repair an earlier ignored request, and is sincerity measured by handmade origin?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/28"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O029",
+      "library_purpose_id": "LP029",
+      "own_new_library_question": "Can an independently wanted dream survive exploitation and support from others?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/29"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O030",
+      "library_purpose_id": "LP030",
+      "own_new_library_question": "Do restored command and stated concessions fulfill the ordinary people they govern?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/30"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O031",
+      "library_purpose_id": "LP031",
+      "own_new_library_question": "Whose pleasure and workload are visible in a shared outing?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/31"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O032",
+      "library_purpose_id": "LP032",
+      "own_new_library_question": "Can a meaningful chosen rest coexist with authority that removes later refusal?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/32"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O033",
+      "library_purpose_id": "LP033",
+      "own_new_library_question": "Does a chosen return or forgiveness erase earlier coercion?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/33"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O034",
+      "library_purpose_id": "LP034",
+      "own_new_library_question": "Which refusals and rescue stages belong to different people?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/34"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O035",
+      "library_purpose_id": "LP035",
+      "own_new_library_question": "Can a written self-introduction and wanted public encounter establish a completed performance or authenticated role?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+        "pointer": "/records/35"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_COMPARATIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O036",
+      "library_purpose_id": "LP036",
+      "own_new_library_question": "Can a place's real warmth and companionship restore the resources it loses?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/0"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O037",
+      "library_purpose_id": "LP037",
+      "own_new_library_question": "Can renewed ritual matter when practical recovery and fair labor remain unfinished?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/1"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O038",
+      "library_purpose_id": "LP038",
+      "own_new_library_question": "How can kept or unconsumed gifts and nonfavorite practical choices remain meaningful?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/2"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O039",
+      "library_purpose_id": "LP039",
+      "own_new_library_question": "Does protection earn value only through permanent reform or consummated gift reception?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/3"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O040",
+      "library_purpose_id": "LP040",
+      "own_new_library_question": "How does a library honor expert object care while receiving a person's stated taste and privacy?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/4"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O041",
+      "library_purpose_id": "LP041",
+      "own_new_library_question": "Does a useful performance plan already contain the completed rescue?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/5"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O042",
+      "library_purpose_id": "LP042",
+      "own_new_library_question": "Can desired leisure and an object's sentimental value survive damage and incomplete enjoyment?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/6"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O043",
+      "library_purpose_id": "LP043",
+      "own_new_library_question": "How can a collective cultural event permit real celebration while preserving refusal and unproved rights?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/7"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O044",
+      "library_purpose_id": "LP044",
+      "own_new_library_question": "Why does a chosen request procedure matter before the underlying problem is solved?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/8"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O045",
+      "library_purpose_id": "LP045",
+      "own_new_library_question": "Can a requester accept help while declining an available institutional punishment route?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/9"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O046",
+      "library_purpose_id": "LP046",
+      "own_new_library_question": "Does retained skill and disclosure reveal an inevitable hidden self?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/10"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O047",
+      "library_purpose_id": "LP047",
+      "own_new_library_question": "Where does courtesy end and a personal disclosure boundary begin?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/11"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O048",
+      "library_purpose_id": "LP048",
+      "own_new_library_question": "How can reassurance support independent agency while present-state correction remains temporary?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/12"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O049",
+      "library_purpose_id": "LP049",
+      "own_new_library_question": "Can ordinary belonging be real before full disclosure, and can protective intent erase its breach?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/13"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O050",
+      "library_purpose_id": "LP050",
+      "own_new_library_question": "What do thanks and continued practical work leave unresolved after public embarrassment?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/14"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O051",
+      "library_purpose_id": "LP051",
+      "own_new_library_question": "Can a caring comic performance misrecognize the person it is intended to help?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/15"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O052",
+      "library_purpose_id": "LP052",
+      "own_new_library_question": "How can a recipient appreciate an intention while rejecting its unrequested form?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/16"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O053",
+      "library_purpose_id": "LP053",
+      "own_new_library_question": "What distinguishes an explicit cessation promise from enduring changed conduct?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/17"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O054",
+      "library_purpose_id": "LP054",
+      "own_new_library_question": "Can private attachment and a meaningful object excuse unwanted pursuit?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/18"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O055",
+      "library_purpose_id": "LP055",
+      "own_new_library_question": "Can concern motivate a new inquiry without erasing a person's continuing aversion?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/19"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O056",
+      "library_purpose_id": "LP056",
+      "own_new_library_question": "Does coordinated help require assent to a friendship label or institution-wide mandate?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/20"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O057",
+      "library_purpose_id": "LP057",
+      "own_new_library_question": "Can useful arrival and protection erase humiliating presentation or establish health?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/21"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O058",
+      "library_purpose_id": "LP058",
+      "own_new_library_question": "What does familiar care accomplish before eating or safe recovery is shown?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/22"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O059",
+      "library_purpose_id": "LP059",
+      "own_new_library_question": "Can a person's ordinary-life aspiration precede and qualify a helpful consultation?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/23"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O060",
+      "library_purpose_id": "LP060",
+      "own_new_library_question": "How does a returning challenge revise a prior promise without erasing its local value?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/24"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O061",
+      "library_purpose_id": "LP061",
+      "own_new_library_question": "Whose desired design and rest can a collective opening actually satisfy?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/25"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O062",
+      "library_purpose_id": "LP062",
+      "own_new_library_question": "Can a mixed appraisal and nonwinning result have substantive value beside another person's nonenjoyment?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/26"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O063",
+      "library_purpose_id": "LP063",
+      "own_new_library_question": "Can a party and local correction repair company without proving permanent gentle care?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/27"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O064",
+      "library_purpose_id": "LP064",
+      "own_new_library_question": "Does a later chosen collaboration authorize an earlier commandeering of labor?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/28"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O065",
+      "library_purpose_id": "LP065",
+      "own_new_library_question": "How can an achieved report remain positive when danger returns and rebuilding is future?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/29"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O066",
+      "library_purpose_id": "LP066",
+      "own_new_library_question": "What is the difference between familiar recognition, temporary contact and completed dialogue?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/30"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O067",
+      "library_purpose_id": "LP067",
+      "own_new_library_question": "Can material attachment resist an abstract mandate without proving a clinical or identity mechanism?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/31"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O068",
+      "library_purpose_id": "LP068",
+      "own_new_library_question": "When does a courteous administrative request become completed public service?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/32"
+      },
+      "original_underlying_grade": "WHOLE_MAINTAINED_ANALYTICAL_NORMAL_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O069",
+      "library_purpose_id": "LP069",
+      "own_new_library_question": "How can welcomed affiliation, role testimony and praise coexist with unresolved consent and continuing wrongdoing?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/33"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O070",
+      "library_purpose_id": "LP070",
+      "own_new_library_question": "Can hospitality respect being full while an official apology leaves other uses of people unconsulted?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+        "pointer": "/records/34"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O071",
+      "library_purpose_id": "LP071",
+      "own_new_library_question": "Can practical civic repairs and hosted food settle professional custody or bodily permission?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/0"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O072",
+      "library_purpose_id": "LP072",
+      "own_new_library_question": "How can object companionship and chosen reburial coexist with reporting duty?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/1"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O073",
+      "library_purpose_id": "LP073",
+      "own_new_library_question": "Does a creator's wanted completion license another institution's appropriation or erase a partner's labor objection?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/2"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O074",
+      "library_purpose_id": "LP074",
+      "own_new_library_question": "Can a personal rest request be legitimate because it explicitly permits refusal?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/3"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O075",
+      "library_purpose_id": "LP075",
+      "own_new_library_question": "What does an entrusted trace retain after technical success and incomplete understanding?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/4"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O076",
+      "library_purpose_id": "LP076",
+      "own_new_library_question": "Does a later chosen continuation provide prior permission for an initially compulsory outing?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/5"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O077",
+      "library_purpose_id": "LP077",
+      "own_new_library_question": "Can a later written artistic achievement erase earlier burden or authenticate performance?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/6"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O078",
+      "library_purpose_id": "LP078",
+      "own_new_library_question": "Why must giving and work be judged at their different actual terminal acts?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/7"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O079",
+      "library_purpose_id": "LP079",
+      "own_new_library_question": "Can freely chosen hosting and actual guests' pleasure coexist with timetable error and dangerous methods?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/8"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O080",
+      "library_purpose_id": "LP080",
+      "own_new_library_question": "Can a person's presence be wanted before skill success or productivity?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/9"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O081",
+      "library_purpose_id": "LP081",
+      "own_new_library_question": "Can a recipient's explicit thanks revise a helper's appraisal without licensing all methods?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/10"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O082",
+      "library_purpose_id": "LP082",
+      "own_new_library_question": "How can temporary ordinary joy coexist with unpaid work and divergent peers?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/11"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O083",
+      "library_purpose_id": "LP083",
+      "own_new_library_question": "Can a head's invited presence speak for all institutional members or settle fine outcome attribution?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/12"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O084",
+      "library_purpose_id": "LP084",
+      "own_new_library_question": "How can an unchosen office contain real refusal and bounded responsibility?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/13"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O085",
+      "library_purpose_id": "LP085",
+      "own_new_library_question": "Can an enjoyed finite role be ended without rejecting its value?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/14"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O086",
+      "library_purpose_id": "LP086",
+      "own_new_library_question": "Does a received gift, shared game or confiscated device settle privacy and labor?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/15"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O087",
+      "library_purpose_id": "LP087",
+      "own_new_library_question": "What is the difference between a helper's accompaniment and another person's self-proof wish?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/16"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O088",
+      "library_purpose_id": "LP088",
+      "own_new_library_question": "How can wanted service and actual food respect another worker's day off?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/17"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O089",
+      "library_purpose_id": "LP089",
+      "own_new_library_question": "Can a singular beautiful success remain worthwhile when later performance fails?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/18"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O090",
+      "library_purpose_id": "LP090",
+      "own_new_library_question": "Whose conditions define successful delivery or appropriate help?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/19"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O091",
+      "library_purpose_id": "LP091",
+      "own_new_library_question": "Can chosen later play repair an initially uninformed invitation or confidential pressure?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/20"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O092",
+      "library_purpose_id": "LP092",
+      "own_new_library_question": "Can care include the giver's own leisure without assuming everyone else is relieved of work?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/21"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O093",
+      "library_purpose_id": "LP093",
+      "own_new_library_question": "What makes imperfect art and respected refusal independent achievements?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/22"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O094",
+      "library_purpose_id": "LP094",
+      "own_new_library_question": "Does an unwanted title erase a person's decisions or make public success profitable?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/23"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O095",
+      "library_purpose_id": "LP095",
+      "own_new_library_question": "How does literary research become both chosen making and a cost to another person's rest?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/24"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O096",
+      "library_purpose_id": "LP096",
+      "own_new_library_question": "What does local reader approval accomplish while criticism, privacy and future responsibility remain?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/25"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O097",
+      "library_purpose_id": "LP097",
+      "own_new_library_question": "Can beauty and temporary public recognition support a chosen return rather than a career mandate?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/26"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O098",
+      "library_purpose_id": "LP098",
+      "own_new_library_question": "Can an imperfect present and chosen name be valued without accepting imposed purpose?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/27"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O099",
+      "library_purpose_id": "LP099",
+      "own_new_library_question": "Can actual comfort and a valued negative inquiry result coexist with unresolved causes?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/28"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O100",
+      "library_purpose_id": "LP100",
+      "own_new_library_question": "How can recipient-sensitive rest and service coexist with shifted work and painful discipline?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/29"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O101",
+      "library_purpose_id": "LP101",
+      "own_new_library_question": "Can tangible compensation recognize an object's memory value without settling every title and rescue claim?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/30"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O102",
+      "library_purpose_id": "LP102",
+      "own_new_library_question": "How do direct officer hospitality and a refusal under uncertainty compare with library service boundaries?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/31"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O103",
+      "library_purpose_id": "LP103",
+      "own_new_library_question": "Why does attentive care require separating a helper's motivational projection from the recipient's desired warmth?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/32"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "owner_id": "O104",
+      "library_purpose_id": "LP104",
+      "own_new_library_question": "How do short ordinary encounters preserve distinct recipient goods and incomplete duties?",
+      "current_complete_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+        "pointer": "/records/33"
+      },
+      "original_underlying_grade": "SELECTED_CONNECTED_MAINTAINED_ANALYTICAL_SCOPE_ATTRIBUTED",
+      "target_disposition": "AUTHOR_COMPLETE_TARGET_SPECIFIC_POSITIVE_PURPOSE_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    }
+  ],
+  "complete_purpose_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP000_LP035_V1.json",
+      "bytes": 404842,
+      "sha256": "5d91ab885752d130f83c46077b5cd0ea1bcfdfed1e71bf317ad525d8fe86e980",
+      "git_blob_oid_of_actual_bytes": "60333997872e210070c981862f47227a6dc0cfdd"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP036_LP070_V1.json",
+      "bytes": 539685,
+      "sha256": "727f5ef277f15798f7348f3bff1ab17ec5c13880fe5dd54ad1f3a4f2b1c90528",
+      "git_blob_oid_of_actual_bytes": "1ec2acf83c536efcf395f7d8c0ab6a63c5824e6d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_CURRENT105_NEW_TARGET_PURPOSES_LP071_LP104_V1.json",
+      "bytes": 693828,
+      "sha256": "574ceb0876c49038fdbedcb427c4e24c5e19d18e1195c35031f38cb2e2c5ede9",
+      "git_blob_oid_of_actual_bytes": "fbdd4bf7f8965d8cdac308a3122e5d95ee74f477"
+    }
+  ],
+  "source_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+    "bytes": 340825,
+    "sha256": "a1a21e54b133bc426652c1fca68e2559ac55277092fe3b222ac066bf14ac109f",
+    "git_blob_oid_of_actual_bytes": "a2f5160f76dd745ccc080378abcfa3935ce35cff"
+  },
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_AND_READER_SERVICE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 42014,
+    "sha256": "48587c4ce60f0c215f47d6a9753c2252bff0c52ffc9e89f6d37e71da21d1b9c7",
+    "git_blob_oid_of_actual_bytes": "bc5ad7d907391fec1da2b2452f3b269caae56373",
+    "physical_lines": 221
+  },
+  "claim_register": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_LIBRARY_ACCESS_OBJECT_CARE_READER_SERVICE_RECEIVING_20261013_V1/LIBRARY_LITERAL52_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+    "pointer": ""
+  },
+  "original_underlying_grade_distribution": {
+    "whole": 26,
+    "selected": 79
+  },
+  "author_disposition": "ALL105_NEW_LIBRARY_PURPOSES_AUTHOR_COMPLETE_WITH_LIMITS_ROOT_RECEIVING_PENDING",
+  "original_Minato_and_M008_roles": "Frozen original source records and grades retained; earlier target-specific Minato/M008 judgments do not discharge this institutional question or named duty.",
+  "ordinary_evidence_exclusions": 0,
+  "fixed_scope": {
+    "required_packages": 355,
+    "mandatory_named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_primary_source_admission_private_identity_named_package_model_MAIN_credit": 0,
+  "ROOT_acceptance_independent_QA_install_publication_MAIN_integration": "PENDING",
+  "merge_approval": "RESERVED"
+}

@@ -1,0 +1,707 @@
+{
+  "schema": "KONOSUBA_AIGIS_COHORT26_NATIVE_PROVENANCE_V1",
+  "status": "ACTUAL_KNOWN_CONTEXT_RECEIVED_SEMANTIC_FOUNDATION_REVIEW_PENDING",
+  "recorded_utc": "2026-10-23T21:31:23.459716+00:00",
+  "project_root": "series/konosuba/",
+  "source_known": true,
+  "actual_native_receiving_sha256": "f4bd0935d9149fba67c57d1e9f9174d66eca643e01743e6833a48424fee9224a",
+  "retrieval_metadata_sha256": "99427d633c2e4ab96a1986274fce4dfdbadb4e4c5a1d43c59c79f35afbff1609",
+  "sources": [
+    {
+      "source_id": "MAIN-08",
+      "native_filename": "Konosuba - Main Series - Volume 08.epub",
+      "native_bytes": 2964798,
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+          "canonical_path": "series/konosuba/10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V08_EXCLUDED_COMPONENT_REGISTER.json"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f",
+          "canonical_path": "series/konosuba/10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json"
+        }
+      ]
+    },
+    {
+      "source_id": "MAIN-17",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "current_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "f073b2670e602f0673dbd0fd8dc2125cc4eeca6e5e95fa883ee8d476f69131ff",
+          "canonical_path": "series/konosuba/10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json"
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0010.html",
+      "member_bytes": 84853,
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "BASE_member_slots": 452,
+      "accepted_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 452,
+        "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0011.html",
+      "member_bytes": 94039,
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "BASE_member_slots": 498,
+      "accepted_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 498,
+        "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0012.html",
+      "member_bytes": 115264,
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "BASE_member_slots": 673,
+      "accepted_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 673,
+        "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0013.html",
+      "member_bytes": 98187,
+      "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "BASE_member_slots": 513,
+      "accepted_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 513,
+        "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_bytes": 99338,
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "BASE_member_slots": 559,
+      "accepted_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 559,
+        "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6"
+      }
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0015.html",
+      "member_bytes": 27271,
+      "member_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21",
+      "BASE_member_slots": 158,
+      "accepted_contract": {
+        "alias": "Ep1 / start",
+        "paragraph_slots": 158,
+        "member_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21"
+      }
+    },
+    {
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_bytes": 66610,
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "BASE_member_slots": 418,
+      "accepted_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 418,
+        "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c"
+      }
+    },
+    {
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_bytes": 63290,
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "BASE_member_slots": 404,
+      "accepted_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 404,
+        "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b"
+      }
+    },
+    {
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_bytes": 12809,
+      "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+      "BASE_member_slots": 85,
+      "accepted_contract": {
+        "alias": "I13 / start",
+        "paragraph_slots": 85,
+        "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2"
+      }
+    },
+    {
+      "source_id": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_bytes": 99095,
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "BASE_member_slots": 681,
+      "accepted_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 681,
+        "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319"
+      }
+    },
+    {
+      "source_id": "MAIN-17",
+      "member": "text/part0011.html",
+      "member_bytes": 102051,
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "BASE_member_slots": 560,
+      "accepted_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 560,
+        "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e"
+      }
+    }
+  ],
+  "actual_received_windows": [
+    {
+      "file": "AIGIS_MAIN08_C1_P0065_0110_FIRST_DELIVERY_01.txt",
+      "bytes": 6078,
+      "sha256": "01b191a5acacab5dadc222cd16341f329461125bf63fd427aac444e44169c47e",
+      "source": "MAIN-08",
+      "member": "text/part0010.html",
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 65,
+      "BASE_end": 110,
+      "actual_full_delivery_tool_chunk": "020a08",
+      "accepted_member_alias": "C1 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C2_P0420_0470_FIRST_DELIVERY_01.txt",
+      "bytes": 5400,
+      "sha256": "36ee06b061fbd4c34a6a77041ac40ddbc4106b386fa88d2ae88e81fc5b59c7d7",
+      "source": "MAIN-08",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 420,
+      "BASE_end": 470,
+      "actual_full_delivery_tool_chunk": "371f21",
+      "accepted_member_alias": "C2 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C2_P0471_0498_FIRST_DELIVERY_01.txt",
+      "bytes": 4238,
+      "sha256": "be7d1d3b9dc3df94aa87629c11c23c016f9f4470582d795a1c627af528e6eaab",
+      "source": "MAIN-08",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 471,
+      "BASE_end": 498,
+      "actual_full_delivery_tool_chunk": "262d4d",
+      "accepted_member_alias": "C2 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C3_P0001_0035_FIRST_DELIVERY_01.txt",
+      "bytes": 3538,
+      "sha256": "dfa8246edab28370bb2c04eb01569e2c560dae358f8cf9a59fe84415e747ac0b",
+      "source": "MAIN-08",
+      "member": "text/part0012.html",
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 1,
+      "BASE_end": 35,
+      "actual_full_delivery_tool_chunk": "262d4d",
+      "accepted_member_alias": "C3 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C4_P0335_0390_FIRST_DELIVERY_01.txt",
+      "bytes": 8278,
+      "sha256": "b9d045245e438b3c48bf19aa8dd2d61fea39c1da3e16127d62d5f9c5085ce6fd",
+      "source": "MAIN-08",
+      "member": "text/part0013.html",
+      "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 335,
+      "BASE_end": 390,
+      "actual_full_delivery_tool_chunk": "24befa",
+      "accepted_member_alias": "C4 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C4_P0391_0445_FIRST_DELIVERY_01.txt",
+      "bytes": 8850,
+      "sha256": "99990f88bd48c2a7786e8e72a383ddf74846a429d5d1aa033f30d4c542a54fb0",
+      "source": "MAIN-08",
+      "member": "text/part0013.html",
+      "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 391,
+      "BASE_end": 445,
+      "actual_full_delivery_tool_chunk": "9e193e",
+      "accepted_member_alias": "C4 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C4_P0446_0490_FIRST_DELIVERY_01.txt",
+      "bytes": 6127,
+      "sha256": "2e4a0651eb58dd14f447804d4aa0dfe528aeb72ecb983131760f62b118c64cc3",
+      "source": "MAIN-08",
+      "member": "text/part0013.html",
+      "member_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 446,
+      "BASE_end": 490,
+      "actual_full_delivery_tool_chunk": "65cc42",
+      "accepted_member_alias": "C4 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0001_0060_FIRST_DELIVERY_01.txt",
+      "bytes": 8757,
+      "sha256": "8bba26aa90ac90b67911e72beb7c5d2fc1f309dc1a0a10ad0ad027f9b68a3370",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 1,
+      "BASE_end": 60,
+      "actual_full_delivery_tool_chunk": "c54403",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0061_0120_FIRST_DELIVERY_01.txt",
+      "bytes": 6520,
+      "sha256": "1e97fe3841658a48406d497550e8b3451b9d463dc8f8686ddeb37e68121d7c8c",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 61,
+      "BASE_end": 120,
+      "actual_full_delivery_tool_chunk": "6e4c6d",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0121_0180_FIRST_DELIVERY_01.txt",
+      "bytes": 8609,
+      "sha256": "81907d17058bb75b35ff3feef4ee66f64396fe709535639fe54668519a494835",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 121,
+      "BASE_end": 180,
+      "actual_full_delivery_tool_chunk": "8f212c",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0181_0240_FIRST_DELIVERY_01.txt",
+      "bytes": 8363,
+      "sha256": "928781a5dc38440eb2f02d064c12f27db1ad347a5042e0553cbc919659e17d98",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 181,
+      "BASE_end": 240,
+      "actual_full_delivery_tool_chunk": "50e32d",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0241_0300_FIRST_DELIVERY_01.txt",
+      "bytes": 6899,
+      "sha256": "15ce5d964304a9148171ac1f5bfe6ac7976a1b90964adf227ce4c06f5fe2134b",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 241,
+      "BASE_end": 300,
+      "actual_full_delivery_tool_chunk": "3ccd04",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0301_0360_FIRST_DELIVERY_01.txt",
+      "bytes": 7899,
+      "sha256": "825b79c6cb66420ea003f5b9d7dc32f29bd3df652e7f851ab686cfb2fb8b5193",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 301,
+      "BASE_end": 360,
+      "actual_full_delivery_tool_chunk": "2ce0d4",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0361_0420_FIRST_DELIVERY_01.txt",
+      "bytes": 7210,
+      "sha256": "c6f572d2c1d60975f8cddf4b63ed5e998fad8d3aa07713613e81d2a3c7143493",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 361,
+      "BASE_end": 420,
+      "actual_full_delivery_tool_chunk": "dea3b6",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0421_0480_FIRST_DELIVERY_01.txt",
+      "bytes": 7138,
+      "sha256": "cd0e4b1de7738087dcb0dfb8d001262b40120825c6bbb2584c3252a49e5f8184",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 421,
+      "BASE_end": 480,
+      "actual_full_delivery_tool_chunk": "b984ee",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0481_0540_FIRST_DELIVERY_01.txt",
+      "bytes": 8493,
+      "sha256": "dee1201fa93e3f8e1d7d32701e90c007ab994b2dad2e57914bcda4c95d0087db",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 481,
+      "BASE_end": 540,
+      "actual_full_delivery_tool_chunk": "49be3a",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_C5_P0541_0559_FIRST_DELIVERY_01.txt",
+      "bytes": 3565,
+      "sha256": "a2f51708e4cb5fafaf507cfafe7f190fb543219eb69de2085d542b76e20af4c7",
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 541,
+      "BASE_end": 559,
+      "actual_full_delivery_tool_chunk": "25aff4",
+      "accepted_member_alias": "C5 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_FINAL_P0040_0095_FIRST_DELIVERY_01.txt",
+      "bytes": 7755,
+      "sha256": "15cfd6edd06ff3cb53b9d71142032c27bfb1cadf2c0925f20a999e2c6685a3f3",
+      "source": "MAIN-08",
+      "member": "text/part0015.html",
+      "member_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 40,
+      "BASE_end": 95,
+      "actual_full_delivery_tool_chunk": "25aff4",
+      "accepted_member_alias": "Ep1 / start"
+    },
+    {
+      "file": "AIGIS_MAIN08_FINAL_P0096_0135_FIRST_DELIVERY_01.txt",
+      "bytes": 5074,
+      "sha256": "9d865f27803484fdcafa7d64bd241047e08e1c83e0a402c0e5f2a5eb9c2f33d9",
+      "source": "MAIN-08",
+      "member": "text/part0015.html",
+      "member_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_start": 96,
+      "BASE_end": 135,
+      "actual_full_delivery_tool_chunk": "4fc05c",
+      "accepted_member_alias": "Ep1 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C1_P0350_0418_FIRST_DELIVERY_01.txt",
+      "bytes": 8409,
+      "sha256": "41cd29b80b2930dece2f8a01fff06b293cc94deda58cfeb3df7ab7270bbd40b6",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 350,
+      "BASE_end": 418,
+      "actual_full_delivery_tool_chunk": "a34923",
+      "accepted_member_alias": "C1 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C3_P0030_0090_FIRST_DELIVERY_01.txt",
+      "bytes": 7999,
+      "sha256": "2f6279b0e3e77a9fd8538b9653e0bba754a380a7cdc2c7fcb296745c1023ae77",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 30,
+      "BASE_end": 90,
+      "actual_full_delivery_tool_chunk": "4fee11",
+      "accepted_member_alias": "C3 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C3_P0330_0380_FIRST_DELIVERY_01.txt",
+      "bytes": 7081,
+      "sha256": "0f73884dbd161762875cb2c4a277d3f7e5661a22b510cca07509e14930b9cbe2",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 330,
+      "BASE_end": 380,
+      "actual_full_delivery_tool_chunk": "bd30c8",
+      "accepted_member_alias": "C3 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C3_P0381_0404_FIRST_DELIVERY_01.txt",
+      "bytes": 3276,
+      "sha256": "0b8f227ef6dcb7d7a7fdc186db347020aaf46d2d78985d94f9ef727bc87ff0a6",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 381,
+      "BASE_end": 404,
+      "actual_full_delivery_tool_chunk": "9beb60",
+      "accepted_member_alias": "C3 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_I13_P0001_0045_FIRST_DELIVERY_01.txt",
+      "bytes": 5969,
+      "sha256": "a5f0261d6c5696c670435677823e3faaa0a0e5816545954ac57bf1b0d795466e",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 1,
+      "BASE_end": 45,
+      "actual_full_delivery_tool_chunk": "d73f1b",
+      "accepted_member_alias": "I13 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_I13_P0046_0085_FIRST_DELIVERY_01.txt",
+      "bytes": 4652,
+      "sha256": "e9063e9478e472da53565d837ee827afd0aed9a867e199d04a07382fbe605a84",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 46,
+      "BASE_end": 85,
+      "actual_full_delivery_tool_chunk": "4e8f0a",
+      "accepted_member_alias": "I13 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C4_P0001_0055_FIRST_DELIVERY_01.txt",
+      "bytes": 5605,
+      "sha256": "d4fae9e707b5bbdf5783aedb33b0ec319e87153231eeca306e2417e3fc699079",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 1,
+      "BASE_end": 55,
+      "actual_full_delivery_tool_chunk": "3c787e",
+      "accepted_member_alias": "C4 / start"
+    },
+    {
+      "file": "AIGIS_MAIN14_C4_P0056_0110_FIRST_DELIVERY_01.txt",
+      "bytes": 6346,
+      "sha256": "d3174444d3ad9b0c730e39dffd869086b6e4aeaf6b289b1a61bdf7695a3c3761",
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "BASE_start": 56,
+      "BASE_end": 110,
+      "actual_full_delivery_tool_chunk": "28bb24",
+      "accepted_member_alias": "C4 / start"
+    },
+    {
+      "file": "AIGIS_MAIN17_C4_P0355_0410_FIRST_DELIVERY_01.txt",
+      "bytes": 6586,
+      "sha256": "1344e557179cb131b00434cde9691d0b034d2e40fd348e86d0c236ff4045f540",
+      "source": "MAIN-17",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "BASE_start": 355,
+      "BASE_end": 410,
+      "actual_full_delivery_tool_chunk": "93c0e8",
+      "accepted_member_alias": "C3 / start"
+    }
+  ],
+  "known_BASE_context_slots": 1427,
+  "member_count": 11,
+  "native_text_object_count": 3,
+  "complete_BASE_member_scopes": [
+    {
+      "source": "MAIN-08",
+      "member": "text/part0014.html",
+      "paragraph_slots": 559,
+      "scope": "Complete p-element BASE projection only; no new ruby,residual,image-set,whole-source or independent credit."
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "paragraph_slots": 85,
+      "scope": "Complete p-element BASE projection only; no new ruby,residual,image-set,whole-source or independent credit."
+    }
+  ],
+  "literal_retrieval_coverage_qualification": {
+    "covered_hit_paragraphs": 146,
+    "unreceived_TOC_only_hit_paragraphs": [
+      {
+        "native_filename": "Konosuba - Main Series - Volume 08.epub",
+        "member": "text/part0007.html",
+        "P": 6
+      },
+      {
+        "native_filename": "Konosuba - Main Series - Volume 14.epub",
+        "member": "OEBPS/Text/part0007.xhtml",
+        "P": 5
+      }
+    ],
+    "scope": "All literal-name hits in substantive members of the41-object retrieval fall within these windows. This does not prove exhaustive source coverage,alias coverage,all anonymous appearances,or complete personal history."
+  },
+  "source_receiving_annotation_history": [
+    {
+      "locators": "MAIN08 C1 text/part0010.html P91",
+      "finding": "Chris explicitly identifies the speaking sacred armor Aigis and the paired sacred shield Aegis as different artifacts; only the armor was located. This is an attributed statement,not direct speaking-agency evidence for the shield."
+    },
+    {
+      "locators": "MAIN08 C2 text/part0011.html P446–470",
+      "finding": "The armor is visibly chained and scratched. Chris reports prior master protection and death by illness; those historical feats are not newly watched battles or universal guarantees. Aigis speaks,corrects a mistaken gender appraisal,and conditionally permits more touching after learning Chris is not a boy. Its self-description of singing is not a watched musical performance."
+    },
+    {
+      "locators": "MAIN08 C2 P471–498; C3 text/part0012.html P7",
+      "finding": "Aigis demands a respectful form of address,expressly refuses renewed defensive service because of pain and body damage,and rejects offered moral virtues in favor of appearance,adult/female-body preferences,occupation and thin clothing. It asks the visitors identities,hears their removal plan,and loudly raises a kidnapping alarm. Kazuma later attributes the interrupted theft/escape to that alarm. His proposed ocean disposal is not performed here; artifact status does not erase this observed service veto or prove a universal human personality."
+    },
+    {
+      "locators": "MAIN08 C1 P65–110 and C3 P1–35 contextual margins",
+      "finding": "Most surrounding lines concern Chris/Eris,Kazuma and Aqua. Blanks and other-actor context are included in160knownBASE slots; they are not160Aigis actions,independent observations,or completed source units."
+    },
+    {
+      "locators": "MAIN08 C4 text/part0013.html P361–390",
+      "finding": "Aigis repeats its alarm,then notices the quiet household and negotiates once communication is contained. The captors remove chains while threatening a deliberately unwanted male wearer. It compromises its earlier demands; its golden-haired loli descriptor is a contrary to treating the earlier no-kids remark as an invariant moral/age veto,but does not prove any actual proposed wearer age. A voice and impact precede visible autonomous motion; the precise first strike mechanism is not separately watched here."
+    },
+    {
+      "locators": "MAIN08 C4 P391–430",
+      "finding": "Aigis states a self-directed journey and values its reported daily maid waxing. It rejects Chris as provisional wearer via appearance/occupation/body criteria. Two actual Bind attempts fail,while universal magic/skill immunity and automatic wearer healing remain its broader claims. Kazuma infers weakness from the prior chains,but Aigis actually drags both captors and escapes the silencing room. A false or implausible transformation keyword distracts Chris; actual disassembly is not performed. It disbelieves Eris self-identification in Chris form and invokes inner qualities in that hostile context; this is no proved general ethical conversion."
+    },
+    {
+      "locators": "MAIN08 C4 P427–466",
+      "finding": "After leaving the protected room,Aigis loudly addresses the Undain household,offers return only for a desired female wearer,and actually exits through a third-floor window by flying kick. The household wakes. Kazuma later attributes his and Chris pursuit and inn refuge to their repulse and an intervening explosion; those outcomes are not free consent to requisition or a universal record of invulnerability. Undain/family/servants are not automatically new identities or the separate Dust helmet noble."
+    },
+    {
+      "locators": "MAIN08 C5 text/part0014.html P1–120",
+      "finding": "Chris reports her continuing failure to locate Aigis. Kazuma proposes a beauty contest for several goals,including capturing Aigis; that plan is no independent forecast test. Most surrounding church/festival dialogue is other-actor context."
+    },
+    {
+      "locators": "MAIN08 C5 P121–180",
+      "finding": "Aigis actually appears,comments on contestants,and is netted while distracted. Kazuma time estimate and similarity claim remain his. Aigis praises the lure,negotiates repeated viewing truces,and stays after Kazuma releases the net. Its class-based reluctance to choose Wiz persists despite attraction; that is an expressed preference,not proved physical inability to be worn by a mage. Stage identification names Sonia,with age/occupation not received; an unnamed announcer has repeated own operational speech."
+    },
+    {
+      "locators": "MAIN08 C5 P181–240",
+      "finding": "The apparent central succubus/queen is revealed as Vanir in disguise; no new queen identity is admitted. Two flanking known shop staff are not automatically new people or proved ages. Aigis and Kazuma actually throw rubbish at the remaining announcer. Aigis volunteers for Darkness,then hesitates over Crusader damage exposure and keeps surveying alternatives. Darkness says she is18 here; that later statement does not rewrite the separate MAIN07 age-unspecified qualification."
+    },
+    {
+      "locators": "MAIN08 C5 P241–300",
+      "finding": "Aigis joins Kazuma and the crowd pressuring Darkness to undress; participation in the contest is not permission for that pressure,and Kazuma good-intention framing does not repair it. Chris intervenes; Aigis and Kazuma bow,but Aigis then wants to join the brawl and resumes taunting during harmless punches. Fighting participation remains a proposal in this window. This qualifies a blanket pain-avoidance or permanently-corrected-by-rebuke account. Aigis reports a goddess sent it to a woman; the female former wearer is a report,and the allocator identity is not newly watched or proved by Kazuma Aqua conjecture."
+    },
+    {
+      "locators": "MAIN08 C5 P301–360",
+      "finding": "Aigis says Chris sadness moves it a little,but still declines. It anticipates another Vanir disguise and offers to seek a doctor for Kazuma presumed heatstroke as repayment; that diagnosis is its conjecture and the doctor visit is not performed. It stops moving when Eris appears. Event staff restrain and escort Darkness while the unnamed announcer continues; staff identities/number and joins remain open."
+    },
+    {
+      "locators": "MAIN08 C5 P361–420",
+      "finding": "Aigis first reacts to the visible Eris as its desired wearer,then Kazuma explicitly links Eris to Chris. It changes address toward Kazuma,asks for help apologizing,and offers a one-hour male wearing exception. That is an unperformed offer,Kazuma does not accept it here,and it qualifies an absolute no-male-service rule. Eris declines age and profession questions; the announcer continues attempts at crowd management but is not obeyed. Aigis agrees to shield Eris from the crowd; its projections of her sexual history/personality are its fantasies,not facts about Eris."
+    },
+    {
+      "locators": "MAIN08 C5 P421–482",
+      "finding": "Aigis actually pushes through the crowd,whose members react to its sun-heated metal. Heating cause is Kazuma inference,not a demonstrated heat-generation power. Another deceptive wedding keyword is interrupted; the flash is followed by actual Eris enclosure. She complains of dangerous heat,and Kazuma actual Freeze fails. Effective immunity and physical rescue thus coexist with a wearer hazard. Its initial failure to leave is observed,but Kazuma conjectures Eris resistance inside; do not label that as proved Aigis self-sacrificial loyalty. Her voice then recedes,Kazuma attributes it to being taken away,and he stays to fight."
+    },
+    {
+      "locators": "MAIN08 Ep1 text/part0015.html P65–70",
+      "finding": "Chris credits their rescue. Later Aigis obedience and prospective SwordMaster allocation are reported,not newly watched service or completed reassignment. Its desired owner class remains a stated preference; the allocator divine encounter is not newly watched."
+    },
+    {
+      "locators": "MAIN08 Ep1 P84–135",
+      "finding": "Two unnamed flower-carrying sisters appear as separate observed bodies. Elder/younger agency is partly differentiated: elder questions adventure stereotypes and later offers her own flower while the younger offering remains. Joint allowance purchase and gratitude reasons are their reports; completed altar offering is not watched. Father/mother views are reported roles,not performed parental acts or joined named families. Younger notices resemblance to Eris; Kazuma doubts actual identity recognition. The Chris flower is a plant name,not a second person or evidence all plants are agents. Gift/care does not erase earlier coercion elsewhere."
+    },
+    {
+      "locators": "MAIN14 C1 text/part0010.xhtml P376–418",
+      "finding": "Aigis actually meets Kazuma at the tavern. Its account of Eris proposed male SwordMaster owner and flight is reported history. Nerimaki counters its heroic trial rationale with its earlier stated desire to stay among attractive village women; Aigis deflects by paying. It transfers a fragment for milk,claims orichalcum/castle-level value,offers Kazuma the drink,and asks for scraping to stop despite prepaid-lodging claim. Material composition/value/prepayment remain claims; actual body scraping and transfer are observed. It cannot drink its ordered milk. Nerimaki is an already indexed person,not new by this revisit."
+    },
+    {
+      "locators": "MAIN14 C3 text/part0012.xhtml P44–72",
+      "finding": "Mitsurugi independently reports receiving armor via an Eris dream and quotes its departure letter framing the flight as his training. This corroborates attributed custody/reported letter content,not watched divine allocation,actual wearing or a sincere Aigis training purpose. The fortune-teller identity is unnamed in his report; her correct-location statement is not new independent predictive accuracy."
+    },
+    {
+      "locators": "MAIN14 C3 P353–404",
+      "finding": "Aigis first declines helping because of a proposed voyeuristic bath visit,not performed here. It offers a fitting demonstration,asks Darkness to undress,and explicitly admits deception after Kazuma recalls unchanged Eris enclosure. Actual undressing/wearing test does not occur; Darkness and Aqua kick it. Capability proof is not permission or repaired harassment. Aqua and Aigis deny/partially recognize prior acquaintance; Kazuma interpretation does not establish a newly watched allocator identity. Yunyun asks for help and declines the relay-cheating proposal; no rule exception is silently authorized."
+    },
+    {
+      "locators": "MAIN14 I13 text/part0013.xhtml P1–85",
+      "finding": "Yunyun actually wears Aigis. Its Teleport cheating scheme is refused and not executed. It questions inherited duty,discusses selective preferred-person rescue rather than universal divine mission,and offers a shared journey; those conversations help Yunyun reflect without proving Aigis intended a therapeutic intervention. Aigis initially expects compatibility with a mage but an actual Inferno attempt is followed by both characters acknowledging the casting/skill constraint while enclosed. It retracts casual best-friend language and urges an exit/restart when the danger remains. Its pain at bear attacks is reported by its own speech; exact body loss is unverified. The cherished dagger shopping memory is Yunyun report and does not retroactively prove the earlier C24 watched cash outcome."
+    },
+    {
+      "locators": "MAIN14 C4 text/part0014.xhtml P6–12",
+      "finding": "Yunyun returns exhausted. The alternating mana recovery inside and fighting is a report; its strategy authorship is not assigned to Aigis. Narrator no-attack-power wording is qualified against Aigis earlier actual physical impacts/dragging/crowd burns: context is offense against dangerous forest monsters,not a proved inability to harm any target."
+    },
+    {
+      "locators": "MAIN14 C4 P56–95",
+      "finding": "Aigis deliberately uses misleading sexual innuendo after Yunyun objects,provokes the current chief,deflects actual LightningStrike at its surface,and invites a punch that leaves the chief holding his hurt fist. No specific fracture,universal immunity or reflected lightning injury to the caster is invented. Praise,protection or festive mood does not repair harassment. No sexual relationship,wearer blanket consent or chief office transfer is proved."
+    },
+    {
+      "locators": "MAIN17 accepted C3 text/part0011.html P384–388",
+      "finding": "Eris reports Iris currently wearing Aigis and preparing to challenge the DemonKing daughter with allies. This is not a watched Aigis battle,completed challenge or victory. Aigis motive,negotiation and consent process are unprovided; do not infer sexual attraction to Iris from this service report. Later wearing qualifies absolute wearer-age/class refusal claims without supplying a universal preference rule. The saved delivery filename says C4; the accepted member contract explicitly says C3/start and governs the locator. Filename is retained as historical transport metadata,with no C4 source-unit credit."
+    }
+  ],
+  "current_qualifications": [
+    {
+      "private_file": "AIGIS_PRE_FREEZE_ATTRIBUTION_CLARIFICATION_01.json",
+      "sha256": "4e900cce1d27b586861103051ce68076cb2a538dd70bdfae391c98028dcfe4ee",
+      "current_source_qualifications": [
+        "Milk consumption inability is Kazuma statement and consistent nonconsumption,not a watched failed drinking attempt.",
+        "Sun exposure as heat cause is Kazuma inference; hot body/crowd and wearer reactions are directly described.",
+        "The MAIN17 scope is the received report window,not a new exhaustive whole-volume claim."
+      ]
+    },
+    {
+      "private_file": "AIGIS_PRE_FREEZE_ROLE_ATTRIBUTION_CLARIFICATION_02.json",
+      "sha256": "e894521e27c8b014b43a4668160908e993fe3553544b4f3821aa1cff95d6ef40",
+      "current_source_qualifications": [
+        "The initial questioner is tentatively identified as elder by Kazuma; the elder later gives her own flower,while the younger resemblance remark is explicit.",
+        "Lake-freezing/fishing is Aigis report about another actor,not its own proposed or completed hobby; actor gender is unprovided."
+      ]
+    }
+  ],
+  "qualification_precedence": "The two explicit pre-freeze clarification records qualify earlier receiving annotations without rewriting those receipts. Milk consumption inability is Kazuma statement,heating cause his inference,initial elder-question attribution tentative,and fishing Aigis report about another unnamed actor. The acceptedMAIN17C3contract governs over the retained C4transport filename.",
+  "new_actual_reference_image_views": 0,
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0,
+  "new_first_bodies": 0,
+  "independent_observation_count": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "raw_primary_source_text_in_this_file": false,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

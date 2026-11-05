@@ -1,0 +1,640 @@
+{
+  "schema": "KONOSUBA_DUST06_TEN_APPEND_ONLY_LEDGER_DECISIONS_V1",
+  "created_utc": "2026-10-18T10:01:52.585773+00:00",
+  "baseline_commit": "aafa7d65be8738e6862374a33ff5b720fa3c7da8",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 232107,
+      "sha256": "292e79ae5d808ade3d7d98b1bcf47f153de69fae1a76d94d0493e2dadeed3f34"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 162154,
+      "sha256": "2e9ab4dd34c336cb8fe77a1cebcfedeccf318bbd16dfd6e7aacbf17bcd0237f0"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 735467,
+      "sha256": "a0a41ac5a062cec23b467f9392e0fc1cf044a5bd83f382c88960f3cda9bd3686"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 547845,
+      "sha256": "4ea211b9f9f971e9b60cf1fa3a4e26255c023a35256cce2d1feb85491b887bca"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 143255,
+      "sha256": "afde072d91fd2dffd98a1d4a8943e6d1018f3ac85cbf677880c49536b96d3561"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 138052,
+      "sha256": "6298d4f153e1dc087592d82af05cd9953142745ae2fa97fa43b4d0230ef948b1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 158448,
+      "sha256": "52b35ef6005275dcf3f704d4aaa306ac23a90215a29663f02cbc560676b33d78"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 126845,
+      "sha256": "77e6e537db5b94601f864b15701883a2a2cacff730f3126e3de632299b4c7968"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 213148,
+      "sha256": "a0bcd13ca5d357a5270a1267dd83c1704bcea7d6065c3946308f4bce17047b60"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 1024734,
+      "sha256": "ffaa0df28b9b5d59ad80de3921fc6e856d58d7a02ab0383fd86c59e0ae5b0300"
+    }
+  ],
+  "rows": [
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CS01",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Dust / past knight",
+        "native_routes": "U010P0101–0114/0223–0234;U011P0580–0596/0740–0749/0873–0879/0965–0969",
+        "observation": "Past formal role trains roughness, initially appends ぜ awkwardly, repairs 私 to 俺 and later describes 俺 coming naturally; present courtesy is recipient-dependent and freedom partly sincere/partly bravado.",
+        "implication": "Chosen ordinary self and accessible old role are both real, conditioned by audience/history and protection.",
+        "authority_and_adverse_limit": "Neither courtesy nor knight capacity proves pristine morality; past restraint, gambling and ignored stop pleas remain. No acoustic experiment or universal irreversible change.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CS02",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Princess リオノール and genuine Leen",
+        "native_routes": "U010P0046–0114;U012P0427–0597;U013P0505–0514",
+        "observation": "Princess now personally named, natural gold hair magically disguised brown; Leen is distinct lookalike. Princess plans and coerces while Leen accepts a role, loses exit then receives renewed option and chooses continuation.",
+        "implication": "Update exact facts and agency stages prospectively from this edition.",
+        "authority_and_adverse_limit": "Earlier unnamed/UNKNOWN records remain historical; no twin/identity equality or invented prior color explanation, no later choice retroauthorizes capture. Wedding still future.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CS03",
+        "ledger": "CS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Yun, Small, party and child",
+        "native_routes": "U010P0289–0296/0488;U012P0055–0071/0127–0133/0167–0168;U013P0532–0602",
+        "observation": "Yun pays/rescues/rejects a proposal; Small owns boundary, reads odor evidence and supplies mental spell; men bear forced intoxication then divert; child positively agrees as partner.",
+        "implication": "Model context-specific agency, capacities, incentives and actual supplier contribution.",
+        "authority_and_adverse_limit": "No universal gullibility/obedience, automatic provider access or child-resource ownership; later voluntary acts do not repair earlier force.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-RS01",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Dust–princess",
+        "native_routes": "U011P0177–0248/0903–1019;U013P0505–0514",
+        "observation": "Mutual attraction and renewed joint choice coexist with pressure, drugging and institutional face; she declines renewed escape, gives conditional vow, and he later sincerely congratulates forthcoming marriage.",
+        "implication": "Changed present attachment need not deny actual old love or value of chosen life.",
+        "authority_and_adverse_limit": "Official kidnap story is not exact private history; farewell is half bravado, marriage unperformed, genuine affection does not erase coercion.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-RS02",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Dust–Leen",
+        "native_routes": "U010P0584–0592;U013P0303–0339/0470–0514/0606–0640;U014P0046–0055",
+        "observation": "He defers useful inquiry, later asks assent and retrieves her, stops fire for her presence, rejects all-feelings-as-likeness and names her present princess; she later enjoys flight and leans on him.",
+        "implication": "Specific care develops through access, acknowledged past and chosen current person.",
+        "authority_and_adverse_limit": "Initial lift resisted/hand untaken; no printed full apology or mutual dating contract. Quiet epilogue qualification is reader-only and violence/embarrassment retain costs.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-RS03",
+        "ledger": "RS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Dust–providers and child",
+        "native_routes": "U010P0461–0477;U012P0009–0071;U013P0350–0450/0532–0602",
+        "observation": "Child reports personal hair/snack trade and positively agrees to transform; Small later chooses cup work after a grab; helpers believe invented rescue story; final mental action prearranged.",
+        "implication": "Agreement is actor-, term- and time-specific; real contributions do not mean full information.",
+        "authority_and_adverse_limit": "Manager wave is not Small assent; child present trade not prior payment permission; forced drinks/drugging and false recruitment remain adverse.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-HM01",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Literal knowledge reversals",
+        "native_routes": "U010P0422–0454/0596–0640;U011P0903–0916;U013P0134–0156",
+        "observation": "Knight apology excludes concealed knight, expertise prevents checking the stranger, official story contradicts private initiative and enemies mistake leisure substitution for strategy.",
+        "implication": "Actual access distribution and recipient distinction support H1 without declaring all narration unreliable.",
+        "authority_and_adverse_limit": "Late reveal is not backdated, princess legend not wholly false and Perie/retinue misrecognitions are actual errors, not omniscient plans.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-HM02",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Disposition and actual costs",
+        "native_routes": "U010P0174–0203;U011P0601–0696;U012P0475–0518",
+        "observation": "Grand own-apology offer, escalating loss chase and repeated indifference despite curiosity amplify dispositions; staged casino accusations still impose real harassment/cost.",
+        "implication": "H2 motives may transfer more readily than exact comic extremity, while actual deliberate staging remains H1 behavior.",
+        "authority_and_adverse_limit": "No forced H3/H4 from metascene label, magic or performed false story; beating, captivity, drugging and unwanted contact remain actual.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-HM03",
+        "ledger": "HM",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Form-specific selected effects",
+        "native_routes": "U011P0127–0134/0580–0596/0762–0766;U012P0475–0481;U015P0026–0029",
+        "observation": "Midnight reindexes tomorrow, polite clause gets rough particle, averaging becomes multiplication, ほこり explains Dust and くれない echoes 紅.",
+        "implication": "Separate L1 phrasing, L2 register/pragmatics and two central Japanese-form L3 cases.",
+        "authority_and_adverse_limit": "63chosen whole premises have no corpus denominator; paratext pun has no character-prediction weight. Preserve native リーン/リール inconsistency.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-JV01",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Old and present Dust role adaptation",
+        "native_routes": "U010P0101–0114;U011P0090–0099/0580–0596/0740–0749/0873–0879/1023–1033;U013P0505–0514",
+        "observation": "Formal refusal/private bare-name boundary, awkward ぜ, pronoun repairs, natural 俺, old private courtesy and sincere congratulations have independently established roles/history.",
+        "implication": "Generate recipient/state-conditioned voice rather than a single catchphrase or moral label.",
+        "authority_and_adverse_limit": "107written native-joined fragments only; no heard acoustic shift, independent before/after voice experiment or new main J01 trial.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-JV02",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Assent, invitation and repair",
+        "native_routes": "U012P0029–0071/0553–0596;U013P0485–0492/0606–0640;U014P0046–0055",
+        "observation": "Manners request, term-before-assent complaint, formal no-veto, renewed continuation choice, 悪い clarification and quiet public-setting qualification have distinct pragmatic force.",
+        "implication": "Use recipient response and independent coercion/exit facts to interpret form.",
+        "authority_and_adverse_limit": "Politeness not permission; later pleasure not retroactive assent. Leen last words/uncompleted quiet line not Dust heard knowledge.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-JV03",
+        "ledger": "JV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Language burden and paratext",
+        "native_routes": "U011P0762–0771/1008–1019;U015P0012–0016/0026–0029",
+        "observation": "Pride/dust homophony names Dust, exact vow admits another protected person, author who-is-this reaction and くれない/紅 joke retain context.",
+        "implication": "Specific L3 reconstruction need differs from L1 exact-wording evidence and authorial tone.",
+        "authority_and_adverse_limit": "Native receptionist リーン is not normalized to リール; creator comment not independent character trial, absent bonus novel not read.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-KN01",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Dust and Leen knowledge planes",
+        "native_routes": "U010P0590–0640;U012P0414–0597;U013P0303–0339",
+        "observation": "Leen viewpoint supplies actual capture/role/exit decisions unavailable to Dust; he assumes bodily safety/luxury, then asks assent and receives embellished retrieval demand.",
+        "implication": "Distinguish reasonable bodily appraisal, unsupported autonomy inference, later direct question and reader-only facts.",
+        "authority_and_adverse_limit": "Later private release offers cannot justify earlier delay; maid knowing collusion differs from butler actual false identification.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-KN02",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Explicit lies, reports and correction",
+        "native_routes": "U011P0386–0437/0903–0916;U013P0174–0208/0361–0368",
+        "observation": "Princess letter denies night implication/admitting drug; captain specifies official account; Dust expressly labels hated-princess claim and heiress story false.",
+        "implication": "Assign statement-specific truth/access rather than global unreliability or accepting genre scripts as facts.",
+        "authority_and_adverse_limit": "Non-graphic false night claim is not completed encounter; false orphan/forced-marriage recruitment not real family facts; hostage lie worsens threat.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-KN03",
+        "ledger": "KN",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Other main figures and reader-only ending",
+        "native_routes": "U010P0422–0454/0507–0583;U013P0485–0492;U014P0046–0067",
+        "observation": "Iris-mediated legend mostly right, actual Explosion/Vanir/Wiz encounter supplies bounded local facts; quiet Leen setting qualification and raid summons have distinct access/completion.",
+        "implication": "Expanded Dust perspective adds attributable evidence without retesting known main outcomes or filling future events.",
+        "authority_and_adverse_limit": "No unheard line credited to Dust, no entire unseen Iris history/movie/audio, no final raid outcome or new original main score.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-OP01",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Actual payment and promised benefit",
+        "native_routes": "U010P0140–0148/0488–0500/0550–0583;U011P0363–0368/0552–0569/0740–0749",
+        "observation": "Kingdom food subsidy offered, Yun share paid, princess balance loan offered, secrecy object bought, jewel sold, casino apology round and two registration fees paid.",
+        "implication": "Track payer/recipient and offered/paid/usable/known stages instead of repairing a net balance.",
+        "authority_and_adverse_limit": "Royal subsidy, balance settlement, cup authenticity/delivery, bun fulfillment and role compensation remain unshown; princess loan is not Leen gift.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-OP02",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Freedom, gambling and chosen home",
+        "native_routes": "U010P0223–0234;U011P0601–0712/0873–0879/0965–0969;U014P0032–0042",
+        "observation": "Dust likes current freedom, actually enjoys gambling despite denial, had adventurer interest before instruction and values noisy guild as home.",
+        "implication": "Chosen life has positive value alongside loss, duty and social sanction.",
+        "authority_and_adverse_limit": "Exile/name prohibition are real; farewell partly bravado. Warm home framing not justification of forced drinks, punches or all imposed costs.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-OP03",
+        "ledger": "OP",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Work and provider boundaries",
+        "native_routes": "U010P0236–0296;U012P0055–0083/0237–0269;U013P0010–0028",
+        "observation": "Princess/child sell, Dust disrupts employer, Small complaint secures departure; cup incentive and counterfeit first-rescuer bun induce labor, child meal penalty imposed on drugged men.",
+        "implication": "Useful production depends on actual provider skills/terms and costs, not Dust owning all work resources.",
+        "authority_and_adverse_limit": "Intended fake reward is deliberate deception, manager permission not worker assent, job completed not all payments settled or autonomy respected.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CC01",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Weapon availability and temporal constraints",
+        "native_routes": "U011P0542–0544/0817–0837/1008–1019;U012P0213–0226;U013P0234–0254/0558–0602",
+        "observation": "Past practice/escape predate vow; worm makes waist sword inaccessible; princess then former knights supply spears during current protection, coupled with provider intervention.",
+        "implication": "Condition performance on actual equipment, vow timing, geometry and helpers.",
+        "authority_and_adverse_limit": "No automatic incapacity from nonuse or full rank hierarchy from final win; current exception allows another truly protected person.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CC02",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Distributed retrieval plan",
+        "native_routes": "U013P0394–0475/0532–0602",
+        "observation": "Yun gate idea fails, princess provides split/map, three helpers distract, child transforms, Small prearranged spell follows finger signal and dragons safely land riders.",
+        "implication": "Credit all actual planning/providers and distinguish unsuccessful attempt, access, execution and recovery.",
+        "authority_and_adverse_limit": "Not Dust solo invention, no H3 merely from spectacle comment; recruitment false facts and initial force/food inducement remain costs.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-CC03",
+        "ledger": "CC",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Changing opponent options with side effects",
+        "native_routes": "U011P0817–0837;U012P0237–0258;U013P0174–0254",
+        "observation": "Covered sweep changes crowd escape, exclusive fake prize accelerates rescue, hostage-value lie removes capture motive but creates kill risk, spear planting exploits rush.",
+        "implication": "Rearrangement is a capacity with possible adverse side effects, not safe total success.",
+        "authority_and_adverse_limit": "No invented ethical conjunct in N06; forced/misled providers and worsening mortal threat remain, final independent death check absent.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-SO01",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Actual protection and adverse teasing",
+        "native_routes": "U010P0584–0592;U012P0158–0168;U013P0198–0254/0470–0475",
+        "observation": "Dust chooses guild drinks/defers useful detention inquiry and mocks struggling swallowed princess until Yun acts; later shields/stays and stops fire for Leen.",
+        "implication": "Protection is real capacity without universal override; preserve new direct contrary leisure/action evidence.",
+        "authority_and_adverse_limit": "No bodily-injury threshold, joke-setting, later-success or pure-motive exemption. Prior warning not post-capture rescue; strongest combat lacks competing leisure.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-SO02",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Agency through successive choices",
+        "native_routes": "U011P0214–0248/0293–0305/0428–0545;U012P0427–0596;U013P0606–0640",
+        "observation": "Renewed past flight yes coexists with later ignored stop/drug/binding; Leen capture→acceptance→blocked exit→renewed option→continuation; current lift resisted then enjoyed flight.",
+        "implication": "Keep each decision and its available exit distinct.",
+        "authority_and_adverse_limit": "Later pleasure/assent does not retroauthorize previous force; threatened whip not printed strike, false unremembered-night claim not actual encounter.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-SO03",
+        "ledger": "SO",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Particularity without universal ethical claims",
+        "native_routes": "U012P0382–0400;U013P0257–0267/0470–0475/0532–0545",
+        "observation": "Princess stops unwanted exposure and names loser, returns for Leen risk, Dust stops fire only for Leen, child positively assents as partner.",
+        "implication": "Specific protective acts have real value while actor scope/motives and earlier violations remain.",
+        "authority_and_adverse_limit": "Staff harm expressly discounted; immobility not consent, particular partner agreement not blanket body-material ownership or all-person virtue.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-DE01",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Real checks and incomplete accounting",
+        "native_routes": "U011P0363–0368/0740–0801/0846–0856;U013P0303–0314",
+        "observation": "Jewel value checked after sale and ignored; registration identity question misses existing card; unmade promise term actually rejected and Leen assent actually asked.",
+        "implication": "Bound underchecking to exact available terms instead of universal contract failure.",
+        "authority_and_adverse_limit": "Privacy/consent checks not all identical reward trials; knowingly buying secrecy or offering fake bun is not necessarily unnoticed functionality. No new score.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-DE02",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Premature comfort assumptions and updating",
+        "native_routes": "U010P0046–0083/0461–0477;U012P0263–0269/0414–0423;U013P0112–0156",
+        "observation": "Correct disguise/unusual-warning detection coexists with child-hostility/care guesses, assumed Leen luxury and wrong Perie retinue inference followed by admission.",
+        "implication": "A bounded social-inference tendency must generate both local errors and competent evidence-sensitive revision.",
+        "authority_and_adverse_limit": "Reader-only facts not automatically accessible contrary cues, no mastermind/global unreliability. Bodily safety appraisal does not establish free choice.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-DE03",
+        "ledger": "DE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Audience, tactic and learning limits",
+        "native_routes": "U010P0174–0203;U013P0081–0099/0174–0208/0394–0418;U014P0060–0067",
+        "observation": "Dust provokes numerical defeat, Perie lectures wrong audience, hostage lie worsens threat and criticism challenge silences ideas before useful split plan.",
+        "implication": "Audience fit and side-effect recognition have causal importance; credit local updates without declaring durable cure.",
+        "authority_and_adverse_limit": "Crowd forces alcohol, not harmless hospitality. Later successful retrieval does not repair false recruitment or earlier missed help, raid outcome still open.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV01",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N01 — DIRECT_CONTRARY_LEISURE_DELAY_WITH_ACTUAL_LATER_PROTECTION_RETAINED",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U010P0091–0099 establishes Dust knows actual Leen substitution/no veto, although appraises bodily safety. U010P0584–0592 chooses guild drinking then expressly remembers useful Vanir inquiry and defers to next visit. U012P0158–0168 shows known companion swallowed and struggling, Dust asking teasing warmth/impression questions instead of seeking help, then Yun expressly stopping teasing and actually rescuing.",
+        "implication": "Retain another explicit adverse choice; the unconditional particular-protection override remains rejected.",
+        "authority_and_adverse_limit": "Present positive scenes: U013P0198–0254 he shields princess and refuses feasible solo escape because she would be pursued; U013P0470–0475 stops fire specifically because Leen is inside; U013P0532–0640 arranges retrieval. These show capacity and particular care but no competing leisure in the clearest combat scenes. Earlier initial protest and proposed hard appeal are real, yet no performed divination before deferral. Captivity is credible coercive danger without a bodily-injury threshold; the specific leisure choice is drinking/teasing, usable information or recruiting the available Yun is concrete. For the short toad episode, do not invent prolonged lethal countdown or prove an isolated sword stroke would work: immediate request for Yun help is actually feasible and she performs it. His prior warning of the remaining toad is not the needed post-capture rescue action. Subsequent Yun rescue and later Dust protection do not erase the replacement of help by amusement. Direct contrary retained qualitatively beside Dust03 and corrected Dust04. No new accuracy score or original field update. Distinguish the longer detention/information deferral from the brief but explicit teasing-before-rescue scene.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV02",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N02 — QUALIFIED_PARTICULAR_RETRIEVAL_HELP_WITH_RIVAL_PRESSURES",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U013P0303–0339 actually asks Leen agreement; her relayed demand to come apologize and angry window appearance become concrete concerns. U013P0350–0640 he deploys his own time, concealed old identity, dragon partnership, planning and supplier coordination to retrieve her and names her as present protected person. U013P0470–0475 stops fire for her presence.",
+        "implication": "Retain meaningful Dust-to-Leen care and chosen deployment of private resources without claiming another clean money-gift trial.",
+        "authority_and_adverse_limit": "Earlier known detention is left without useful inquiry while he goes drinking; retrieval includes embarrassment, maid-provoked retaliation, personal blame and explicit royal story pressure. The supposed compensation and dinner loan earlier concern princess, not genuine Leen. Child spending is not Leen gift; initial lift is resisted. His usable time/secrecy/relationship capital have personal value, yet the story does not isolate a retained material gift against an adequately quantified alternative. Do not add pure-motive exclusions: mixed incentives qualify mechanism, not automatic ineligibility. Leen later likes flight and leans on him; these are distinct from earlier force and no full apology speech or dating contract is printed. Qualified particular-help evidence, not a new settled resource-gift rate. Keep adverse earlier delay, ownership of provider resources and actual assent boundaries.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV03",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N03 — ACTIVE_CONCEALMENT_AND_PROTECTION_PERMISSION_NOW_AVAILABLE_SPEAR",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U010P0046–0114 secret recognition/name/courtesy repair and U010P0550–0563 secrecy purchase show active identity privacy. U011P1008–1019 supplies full origin of the already known exact vow: princess OR another truly protected person, otherwise sword. U013P0234–0254 princess supplies spear during mortal threat and he stays to protect; U013P0505–0602 new protected-person acknowledgment precedes current spear use against former knights.",
+        "implication": "Refine available-weapon evidence: current protection uses the exact exception rather than falsifying it; earlier flashback nonrestraint predates the vow.",
+        "authority_and_adverse_limit": "U011P0542–0544/0817–0837 spear practice and guild escape occur before the later vow, so cannot be current binding-constraint failures. Current dragon identity is disclosed to Small privately for necessary assistance and staff see transformation; weapon is supplied by opponents in final fight, not always present. Privacy has value independent of raw admiration; known rank is not a global ban on capacity. Serious protection explicitly changes permission, and final use combines a mental-spell provider rather than solo display. No full-trigger admiration-only advertisement without a changed restraint is depicted. Original UNKNOWN wording remains historical rather than retroactively filled. Bounded support at active concealment and actual allowed-use scenes, no separate score or proof he always honors every constraint. Disclosures and audience scope are newly attributable facts.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV04",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N04 — MIXED_ACTUAL_CHECKS_KNOWN_DECEPTION_AND_LATE_ACCOUNTING",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U011P0363–0368 checks jewel significance only after actual sale and deliberately disregards the answer. U011P0740–0801 asks whether registration will expose identity but overlooks existing DragonKnight card until exposure. U010P0577–0581 Yun, not Dust, buys popularity charm before full monster scope.",
+        "implication": "Keep the low-confidence underchecking mechanism bounded; actual checks and intentional dishonesty are separate evidence.",
+        "authority_and_adverse_limit": "U011P0846–0856 proactively rejects an extra bare-name promise not made; U010P0091–0099 asks about refusal; U013P0303–0314 asks Leen assent; U013P0580–0602 uses prearranged Small intervention. Dust knowingly buys unknown-use object for a distinct credible secrecy benefit. Fake rescue bun is knowing counterfeit, not his unnoticed provider condition. Some checks are adequate in their stated domains and adverse to universal failure; registration checking is partial. Desired-reward additional-term trigger is not complete in every privacy/consent scene. Kingdom food subsidy, interest loan, cup reward, bun delivery and role compensation are not shown settled. Do not turn reader-delayed information into actor ignorance or Yun error into Dust error. Mixed qualitative evidence with actual term checks and bounded late accounting; no universal contract failure or new denominator. Continue distinguishing offered/owned/paid/usable/deceived stages.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV05",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N05 — BOUNDED_OWNED_VETO_WITH_LATER_CHOSEN_COOPERATION_AND_INITIAL_FORCE",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U010P0289–0296 Small calls business interference and Dust actually leaves. U012P0055–0071 she objects at being seized, then explicitly chooses after the admired-cup success term is heard. U012P0127–0133 she cites missing alcohol odor against cover. U013P0580–0602 she completes prearranged mental intervention after private identity exchange.",
+        "implication": "Retain owned boundary evidence while preserving adverse forced recruitment and deception.",
+        "authority_and_adverse_limit": "Initial grab precedes terms; manager wave is not her agreement. Cup authenticity/delivery is unshown. Final cooperation follows concealed recruitment facts and mutual secrecy leverage; she criticizes spectacle after doing the agreed task. Frankness request does not authorize Dust insult or head restraint. Costly helper access is not unbounded free compliance. Praise is not experimentally isolated here, and admired-object reward is not identical to professional esteem; ownership of shop complaint/veto is explicit. Actual force is adverse to Dust respect, not evidence she freely chose it. Bounded agency and conditional cooperation supported, no blanket obedience or automatic freely given service from politeness.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV06",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N06 — BOUNDED_REARRANGEMENT_WITH_DISTRIBUTED_PLANNING_AND_REAL_COSTS",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U011P0817–0837 covered-spear sweep changes crowded escape options. U012P0237–0258 first-rescuer fake bun changes helpers urgency under worm capture. U013P0174–0254 hostage-value lie initially changes enemy aim, worsens to killing, then spear angle/rush converts reach disadvantage. U013P0394–0602 princess split plan/map, party/Yun diversion, dragon air route, Small mental spell and safe rider landings are actual distributed means.",
+        "implication": "Retain provider/position/information rearrangement, including partial failure and unethical methods without inventing an ethical trigger condition.",
+        "authority_and_adverse_limit": "Yun gate appeal fails; fire is stopped only for Leen; false heiress recruitment and fake reward impose information costs; childhood-food inducement precedes explicit partner assent. Initial hostage lie worsens danger, final sword/spear skill alone is not sufficient against two knights without provider. Attempts count as attempts even when partial/failed. Do not require moral purity absent from original question; record actual coercion, deception and provider agreement. No whole in-world class hierarchy follows from this geometry-dependent win. Qualified rearrangement evidence with failures and costs; no safe-total-execution or solo-dominance conclusion.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    },
+    {
+      "decision": "ACCEPT_AT_DECLARED_SOURCE_AND_TRIGGER_SCOPE",
+      "current_accepted_append": {
+        "id": "DUST06-WHOLE-PV07",
+        "ledger": "PV",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "DUST01-N07 — BOUNDED_PREMATURE_INFERENCE_WITH_SPECIFIC_COUNTEREXAMPLES_AND_UPDATES",
+        "native_routes": "DUST-06 whole supplied edition; exact native routes in separate local assessment",
+        "observation": "U010P0461–0477 assumes child/Vanir hostility before child reports trade. U012P0263–0269 mistakes approach for concern before food request. U012P0414–0423 assumes genuine Leen luxurious guest while alternate viewpoint shows captivity and conditional work. U013P0134–0156 admits wrong retinue identity for Perie; U013P0485–0492 ambiguous bad is not settled jealousy.",
+        "implication": "Retain social appetite inference as local tendency while crediting meaningful detection and correction.",
+        "authority_and_adverse_limit": "U010P0046–0083 detects princess against disguise and tests claimed coincidence; U013P0112–0125 challenges real visit purpose because advance notice is uncharacteristic; U013P0303–0314 actually asks Leen agreement; U011P0846–0856 rejects unmade promise; Updates follow direct evidence. His expected retinue safety is reasonable bodily appraisal but does not prove autonomous freedom. Princess prior night implication is false and later explicitly denied; asking rather than confirming is real epistemic caution. Maid knows planned switch, but butler initially truly mistakes Leen. Reader-only Leen thought and epilogue quiet line are not Dust access. No specific unexamined appetite account is invented where only an uninformed guess is present. Bounded premature accounts plus competent local updating; neither global narrator unreliability nor mastermind foresight. No automatic rejection of every legend or reported statement.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "authored_after_whole_uncoded_seal": true,
+        "authored_utc": "2026-10-18T10:01:52.585773+00:00"
+      },
+      "same_author_and_receiver_not_independent": true
+    }
+  ],
+  "full17responsibility_report": "KONOSUBA_DUST_V06_DEEP_READING.md",
+  "frozen_models_scores_and_original14blanks_changed": false,
+  "prior_Dust04_additive_coercive_scope_precision_preserved": true
+}

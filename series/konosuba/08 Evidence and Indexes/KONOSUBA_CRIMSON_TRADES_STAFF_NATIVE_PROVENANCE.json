@@ -1,0 +1,679 @@
+{
+  "schema": "konosuba.crimson-trades-staff.native-provenance.v1",
+  "authored_utc": "2026-10-21T02:43:42.816677+00:00",
+  "status": "SOURCE_CHECKED_FOUNDATION_CANONICAL_RECEIVING_PENDING",
+  "published_base": "d7eb6ef45283a473c97f019f9db4400647cfce5a",
+  "published_base_tree": "acb2a7424a8b3585e4aa9b179c3e0295aa4f991e",
+  "closed_cohort23_gate_sha256": "7550c09535157a53ed74728f64029347c26e78577eac0ea1d823d7530734b21f",
+  "owning_authority_reload_sha256": "db96991473750dd0f041516b2687783a75855386b15b8c19021884199c8a4791",
+  "all12_controls_and33_entering_models_rechecked_exact": true,
+  "subject_existing_rows": [
+    193,
+    194,
+    196,
+    197,
+    198,
+    199
+  ],
+  "new_source_bound_records": {
+    "first_row": 207,
+    "last_row": 218,
+    "count": 12,
+    "not_final_unique_people": true
+  },
+  "known_scope": {
+    "BASE_slots": 1149,
+    "members": 7,
+    "native_text_objects": 4,
+    "complete_BASE_member_only": [
+      "EXP02 U015"
+    ],
+    "whole_source_ruby_residual_image_set_admission_or_independent_credit": 0
+  },
+  "metadata_retrieval": {
+    "sha256": "f56969512f53a2e81a1283082b23d85e89a154d4e72da751edac3d4143ab0e3d",
+    "canonical_root_objects": 41,
+    "semantic_reading_credit": 0,
+    "actual_complete_summary_chunk": "29ba61",
+    "limit": "Literal retrieval can miss unnamed roles, aliases and image content; no exhaustive absence or identity join."
+  },
+  "native_object_and_register_pins": [
+    {
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 120520,
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+          "bytes": 140315,
+          "sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+          "bytes": 332067,
+          "sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be"
+        }
+      ]
+    },
+    {
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "current_register_pins": [
+        {
+          "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+          "bytes": 365646,
+          "sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8"
+        }
+      ]
+    }
+  ],
+  "actual_member_unions": [
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "unique_BASE_slots": 487,
+      "complete_member_BASE_only": true
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "unique_BASE_slots": 165,
+      "complete_member_BASE_only": false
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "unique_BASE_slots": 202,
+      "complete_member_BASE_only": false
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "unique_BASE_slots": 82,
+      "complete_member_BASE_only": false
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-018.xhtml",
+      "unique_BASE_slots": 91,
+      "complete_member_BASE_only": false
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-020.xhtml",
+      "unique_BASE_slots": 87,
+      "complete_member_BASE_only": false
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "unique_BASE_slots": 35,
+      "complete_member_BASE_only": false
+    }
+  ],
+  "actual_complete_native_windows": [
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        136,
+        155
+      ],
+      "BASE_slots_including_blank": 20,
+      "complete_actual_tool_chunk": "98477a",
+      "saved_first_delivery_sha256": "1a191f0bfee1da29ec62f81e1eab2be1428fcaec0410f8e413fb5b0efe8c28d6"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        156,
+        185
+      ],
+      "BASE_slots_including_blank": 30,
+      "complete_actual_tool_chunk": "342428",
+      "saved_first_delivery_sha256": "93cebe739f16ff0b6d0a9456da183508eebe8b8eb9b6a80347c56ceed858c56e"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        186,
+        215
+      ],
+      "BASE_slots_including_blank": 30,
+      "complete_actual_tool_chunk": "342428",
+      "saved_first_delivery_sha256": "2ffd351ab6f89d8e434d95597916008ec73c7c6487c20976af5ba3a11be4d889"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        216,
+        245
+      ],
+      "BASE_slots_including_blank": 30,
+      "complete_actual_tool_chunk": "a99b81",
+      "saved_first_delivery_sha256": "a702d5cb553e1104d2fac68a546e766043087fd7728b7a27fd15c1cedc7e9b22"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        246,
+        279
+      ],
+      "BASE_slots_including_blank": 34,
+      "complete_actual_tool_chunk": "a99b81",
+      "saved_first_delivery_sha256": "0a13dad2c7156fc0d245221fd8a1b2d5667d42d77eff49cb7a2c3b12cc7640bb"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        346,
+        380
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "a99b81",
+      "saved_first_delivery_sha256": "9579fb8536f4fba6237f3c41d75337d2fc3c2493d549a3521136a9c785c0c037"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        381,
+        415
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "4f940f",
+      "saved_first_delivery_sha256": "0c9b2607588e122c4da2e74db335115bec796c3137ae6f68dcc93d9005dab431"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        416,
+        450
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "4f940f",
+      "saved_first_delivery_sha256": "d7f3eef4ff55c94941dfa6e3ca174c76c60657acd87d885e2dd13cb03b9c79cb"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        451,
+        487
+      ],
+      "BASE_slots_including_blank": 37,
+      "complete_actual_tool_chunk": "4f940f",
+      "saved_first_delivery_sha256": "1dbfae60a82763452722d6649ff2a875ddad4db0bdc4a52b4ac74bbe756c821a"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        1,
+        32
+      ],
+      "BASE_slots_including_blank": 32,
+      "complete_actual_tool_chunk": "16687e",
+      "saved_first_delivery_sha256": "f45fe822ca18ef93152b3fa8fca337001db049b69674ce108e5ac4116843f14b"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        33,
+        64
+      ],
+      "BASE_slots_including_blank": 32,
+      "complete_actual_tool_chunk": "16687e",
+      "saved_first_delivery_sha256": "ac312cd504b05109ffe6c91f68399ae8d484d34c68fbfb2d8667eae3e959a3bf"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        65,
+        100
+      ],
+      "BASE_slots_including_blank": 36,
+      "complete_actual_tool_chunk": "16687e",
+      "saved_first_delivery_sha256": "b2bac6ee42aadb889092e8a5804d95f10869a4cd6bbb17e88a4ea80aab210549"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        101,
+        135
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "16687e",
+      "saved_first_delivery_sha256": "6024d4e328072a84a82ae72739fe458b70435feac0dd69e5a917b494f703318f"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        280,
+        312
+      ],
+      "BASE_slots_including_blank": 33,
+      "complete_actual_tool_chunk": "d75288",
+      "saved_first_delivery_sha256": "9330bc3fbb1fe4d52869ae8d1582583ecad94e63a3429aa4de96124e36a257cd"
+    },
+    {
+      "source": "EXP-02",
+      "unit": "EXP-02-U015",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "paragraphs": 487,
+      "range": [
+        313,
+        345
+      ],
+      "BASE_slots_including_blank": 33,
+      "complete_actual_tool_chunk": "d75288",
+      "saved_first_delivery_sha256": "0b27ad7369f207da63399941edb5554027221b12e20652ded0c26318c848868f"
+    },
+    {
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraphs": 614,
+      "range": [
+        76,
+        105
+      ],
+      "BASE_slots_including_blank": 30,
+      "complete_actual_tool_chunk": "d75288",
+      "saved_first_delivery_sha256": "ef1a86d42ac6e3d63c0961f5fd488b0a32964e35c80a789a826497e8e42411a8"
+    },
+    {
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraphs": 614,
+      "range": [
+        347,
+        390
+      ],
+      "BASE_slots_including_blank": 44,
+      "complete_actual_tool_chunk": "5d1246",
+      "saved_first_delivery_sha256": "59d1d16b7297e3f3fb00e5be253778615c4011586e133cf9fc10c91d00473cc4"
+    },
+    {
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraphs": 614,
+      "range": [
+        530,
+        565
+      ],
+      "BASE_slots_including_blank": 36,
+      "complete_actual_tool_chunk": "5d1246",
+      "saved_first_delivery_sha256": "3ac86a7761688846ca63dae425f897a4d483e227c4d6660b67d89cd721bcaf75"
+    },
+    {
+      "source": "EXP-01",
+      "unit": "EXP-01-U018",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraphs": 614,
+      "range": [
+        566,
+        600
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "5d1246",
+      "saved_first_delivery_sha256": "e1f61d50c8a9750c261b5562e474c79065328fca9b83edc473d1b79414d36d41"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraphs": 630,
+      "range": [
+        15,
+        54
+      ],
+      "BASE_slots_including_blank": 40,
+      "complete_actual_tool_chunk": "697bbe",
+      "saved_first_delivery_sha256": "0fb81befd101ea59437d80e0fcdddff056c412a9461039def64f1dd506c085e5"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraphs": 630,
+      "range": [
+        55,
+        94
+      ],
+      "BASE_slots_including_blank": 40,
+      "complete_actual_tool_chunk": "697bbe",
+      "saved_first_delivery_sha256": "24b47760daf4f4ab6f8a6612137636dae5764b00cec8dfca78afc7c5a54be9fd"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraphs": 630,
+      "range": [
+        95,
+        135
+      ],
+      "BASE_slots_including_blank": 41,
+      "complete_actual_tool_chunk": "697bbe",
+      "saved_first_delivery_sha256": "ef1897973407b11e7cb723f3a54da528b9aa498b19783011538c2c08f3e9e144"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraphs": 630,
+      "range": [
+        136,
+        180
+      ],
+      "BASE_slots_including_blank": 45,
+      "complete_actual_tool_chunk": "3a6fd2",
+      "saved_first_delivery_sha256": "78689167e4c4495c93bad5982e5731490b9cf7e5b4560702fd7ebc123ef11f72"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "paragraphs": 630,
+      "range": [
+        250,
+        285
+      ],
+      "BASE_slots_including_blank": 36,
+      "complete_actual_tool_chunk": "3a6fd2",
+      "saved_first_delivery_sha256": "bf944b3ebaa4025bee0a6bdf8703101cd46b8829ea706945e7c96769e822bb8d"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "paragraphs": 823,
+      "range": [
+        345,
+        390
+      ],
+      "BASE_slots_including_blank": 46,
+      "complete_actual_tool_chunk": "3a6fd2",
+      "saved_first_delivery_sha256": "a5b716c8a4a576735efa1198c0f43445cfdba7f33f63837c65d04e6fba678dc4"
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "paragraphs": 823,
+      "range": [
+        515,
+        550
+      ],
+      "BASE_slots_including_blank": 36,
+      "complete_actual_tool_chunk": "3a6fd2",
+      "saved_first_delivery_sha256": "f28799482fd84a52273b7e4a9942035fa298bc9733dfef931e41907c073a64ab"
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "paragraphs": 614,
+      "unit": "EXP-01-U018",
+      "range": [
+        226,
+        245
+      ],
+      "BASE_slots_including_blank": 20,
+      "complete_actual_tool_chunk": "c5f10a",
+      "saved_first_delivery_sha256": "e0f8d695a029eb62225db0fb34beb1ad9b685200aa747aec7aff6341608f98c4"
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "paragraphs": 493,
+      "unit": "EXP-01-U028",
+      "range": [
+        41,
+        85
+      ],
+      "BASE_slots_including_blank": 45,
+      "complete_actual_tool_chunk": "c5f10a",
+      "saved_first_delivery_sha256": "43fd2a2debb470b98f8c8a25e92caf4ca6857a8cf7389f7f9b2d0a9da061918b"
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-018.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "paragraphs": 493,
+      "unit": "EXP-01-U028",
+      "range": [
+        285,
+        330
+      ],
+      "BASE_slots_including_blank": 46,
+      "complete_actual_tool_chunk": "172ab6",
+      "saved_first_delivery_sha256": "93a7b8214ba1c1c604d3ab39e9bbb4dd52efdcc5758b314b5e4718806dea8ee6"
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-020.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "417d1d458cc45fa61582ea36ccfdbfb506bb5e6afc9a16983089d3538035def5",
+      "paragraphs": 373,
+      "unit": "EXP-02-U029",
+      "range": [
+        35,
+        70
+      ],
+      "BASE_slots_including_blank": 36,
+      "complete_actual_tool_chunk": "172ab6",
+      "saved_first_delivery_sha256": "6d3ddec8d15d34f2005dd70805b7de36c700294dde545abc974824c53a79101c"
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-020.xhtml",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "member_sha256": "417d1d458cc45fa61582ea36ccfdbfb506bb5e6afc9a16983089d3538035def5",
+      "paragraphs": 373,
+      "unit": "EXP-02-U029",
+      "range": [
+        215,
+        265
+      ],
+      "BASE_slots_including_blank": 51,
+      "complete_actual_tool_chunk": "2c1be2",
+      "saved_first_delivery_sha256": "5ebc3df8d2160c919ee04608cd30a2f674a1a24a1894aeb06dc9c7c684da2587"
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "member_sha256": "b26196753bfb51162bdbea973b1e3d1861e288a5b4f7aaf8846b0710d4f16f39",
+      "paragraphs": 131,
+      "unit": "MAIN-14-U018",
+      "range": [
+        1,
+        35
+      ],
+      "BASE_slots_including_blank": 35,
+      "complete_actual_tool_chunk": "08d198",
+      "saved_first_delivery_sha256": "70aa1f0430c6512b06bb0b7df47c888d46bc70540e2c9af8318ee645440fba33"
+    }
+  ],
+  "private_receipt_chain_pins": [
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_01.json",
+      "sha256": "c3382bddb7b74a0456e9fec83ee70dbb8d7a1f19783b3d89b2068f371a43e5a7",
+      "unique_known_BASE_slots_at_receiving": 20
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_02.json",
+      "sha256": "d170481608330952f53838911f2c6ba6ab6fea6b765b1854cef8a1a6259c7f5c",
+      "unique_known_BASE_slots_at_receiving": 80
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_03.json",
+      "sha256": "6d8e7dc81471ec28648b2e770e7e2a2ce223a7265d2e4835933e662dba351965",
+      "unique_known_BASE_slots_at_receiving": 179
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_04.json",
+      "sha256": "035cae48618032523d104c1d680803f91bd847ef8794e24432d5ab5e576415ad",
+      "unique_known_BASE_slots_at_receiving": 286
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_05.json",
+      "sha256": "24f1d16e7edb3997f34be9a42623d16936abced19dc7ef46c78a8b3fb18b7138",
+      "unique_known_BASE_slots_at_receiving": 421
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_06.json",
+      "sha256": "f383cd445d5945685bfbe919b1cb5bdafc70890feecd57439bd7110fa0e3a578",
+      "unique_known_BASE_slots_at_receiving": 517
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_07.json",
+      "sha256": "ea571d114c5b0a4d2873d85fcf245359884877fb478f7868994731430242602e",
+      "unique_known_BASE_slots_at_receiving": 632
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_08.json",
+      "sha256": "c3135126c25c1e9ef4646810f38b98d67706f14334161969add4354d34d4123f",
+      "unique_known_BASE_slots_at_receiving": 753
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_09.json",
+      "sha256": "03e98a83c48d675a7ef2c0e205c917530fb1cf94968512cf26f28373cc084f94",
+      "unique_known_BASE_slots_at_receiving": 916
+    },
+    {
+      "receipt": "CRIMSON_TRADES_STAFF_ACTUAL_KNOWN_NATIVE_RECEIVING_10.json",
+      "sha256": "da72fcc517574c349f1bb89675d482da4c6d8a7171f355639e5eca9cd82fec21",
+      "unique_known_BASE_slots_at_receiving": 1149
+    }
+  ],
+  "all32_saved_first_delivery_hashes_and_headers_rechecked": true,
+  "actual_known_reference_image_views": [],
+  "index_draft_sha256": "32d55e5d0157c36ec890b774d3da10b51a8561576a6d090c7ff83c717fac56af",
+  "source_access_qualifications": [
+    "BASE windows include blanks, image-associated slots, other actors and negative joins. No fresh ruby, residual or image-set reading credit.",
+    "MAIN14part0016 is retained accepted principal Ep/start; current cafe hit is hypothetical Axel context, not village cafe action.",
+    "Direct action, self-report, Megumin/Kazuma narration, retrospective reports and unresolved identity joins remain distinct.",
+    "Receipt09 actual_member_unions omitted already-counted MAIN05 entries; receipt10 recomputes complete table from all actual windows without new retrospective reading credit.",
+    "All underlying source objects were already admitted/known before cohort interpretation; no source-blind test, accuracy or confidence gain."
+  ],
+  "preparation_qualification": "Initial provenance preparation used repository base for project-relative register paths and stopped before this provenance draft existed; the12new-record draft had already been written. Exact inspected register paths are now normalized from project base, source hashes checked and byte counts measured. No earlier artifact was overwritten.",
+  "diagnostic_authorship": {
+    "continuing_author_is_reader_retriever_interpreter_reviewer": true,
+    "new_reconstruction_models": 0,
+    "new_synthetic_firsts": 0,
+    "independent_evaluator": false
+  },
+  "full_program_complete": false
+}

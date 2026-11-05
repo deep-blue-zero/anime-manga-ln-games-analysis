@@ -2,18 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: open_questions
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
-checkpoint_freeze: IMOSAE_V10-V12_CHECKPOINT.md
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 checkpoint_state: frozen
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.16'
-date: '2026-08-20'
+version: '1.17'
+date: '2026-10-12'
 ---
 
 # IMOSAE Open Questions Ledger
@@ -744,3 +744,64 @@ V13 converts private/aspirational states into public/institutional tests: Kyo no
 ## Next update gate
 
 V14 next; mandatory V13-V14 end checkpoint after V14.
+
+
+## V14 — final mainline question dispositions
+
+The original32 V13 questions remain unchanged above. Their numbered dispositions below match the fifth checkpoint exactly. RESOLVED is local to the event/ceiling stated; a frozen OPEN is a source-bounded answer, not permission to invent later lives.
+
+| V13 question | Block disposition | V14 answer / ceiling | Evidence |
+|---|---|---|---|
+| 1: Miyako's 一人前 | RESOLVED AS LOCAL SELF-RECOGNITION | She acknowledges professional effort/success and sets one finite publication attempt. Universal competence absent. | `IM-V14-E008` `IM-V14-E012` |
+| 2: dating | RESOLVED | Dating starts after publication; cohabitation still blocked. | `IM-V14-E008` `IM-V14-E024` |
+| 3: Chihiro pursuit/friendship | PARTIAL | Continued love first shown; chooses to advance other pair and later steps aside. Friendship survives; complete release unproved. | `IM-V14-E005` `IM-V14-E010` `IM-V14-E024` |
+| 4: university circle after truth | OPEN | No detailed follow-up of circle's correction/maintenance outcome; engineering support is not that answer. | `IM-V14-E005` |
+| 5: IM-C041 general maintenance | OPEN WITH STRONGER TESTS | Shared family help and sole-agent/favor costs recur; criterion supported, universal achievement not. | `IM-V14-E004` `IM-V14-E003` `IM-V14-E021` |
+| 6: Miyako personal style | PARTIAL / SUBSTANTIAL DEVELOPMENT | Own style recognized, successful with particular difficult writers, explicit failures/fit limits. No all-client mastery. | `IM-V14-E012` `IM-V14-E008` |
+| 7: self-concept after masterpiece | PARTIAL / SUBSTANTIAL DEVELOPMENT | Recognizes professional competence and takes next book on a finite boundary. Total private confidence not quantified. | `IM-V14-E008` `IM-V14-E020` |
+| 8: sustained Itsuki partnership | RESOLVED THROUGH ENDPOINT | Three-year editing/agency continues across labels and new book. Lifetime permanence unknown. | `IM-V14-E003` `IM-V14-E020` |
+| 9: Toki changed role | RESOLVED THROUGH ENDPOINT | Stays GF editor, names missed masterpiece and develops differentiated rivalry. No total replacement. | `IM-V14-E014` |
+| 10: Izumi beyond first success | PARTIAL | Post-jump energetic output confirms continuation, not every later work or future stability. | `IM-V14-E003` `IM-V14-E012` |
+| 11: communication prevents conflict | REJECT UNIVERSAL VERSION | Precise promise/invitation coexist with deliberate false report and unauthorized portrayal. Better procedure does not eliminate conflict. | `IM-V14-E006` `IM-V14-E008` `IM-V14-E009` `IM-V14-E043` |
+| 12: autonomy under growth/profit | OPEN | Continued operation and solidarity coexist with costly labor and unresolved institutional argument. | `IM-V14-E012` `IM-V14-E013` |
+| 13: Shirogamine recognizing hostility | OPEN | New interaction/debate does not supply sufficient direct private recognition to close the exact question. | `IM-V14-E012` `IM-V14-E013` |
+| 14: LR hybrid durability | OPEN AT WORK-SPECIFIC LEVEL | General new-book integration continues, but no separately audited later LR installment is given. | `IM-V14-E020` `IM-V14-E022` |
+| 15: craft-only mode after legacy end | OPEN AT WORK-SPECIFIC LEVEL | Later high-quality standalones and mixed creator grammars do not establish each draft's exact method. | `IM-V14-E003` `IM-V14-E015` |
+| 16: masterpiece benchmark | RESOLVED AS BOTH BURDEN AND AIM | Seven books sell yet compare unfavorably; new attempt follows renewed slump. Ideal and destabilization coexist. | `IM-V14-E003` `IM-V14-E008` |
+| 17: public effect on private-origin art | PARTIAL | Public standard becomes comparison pressure; new addressed response keeps particular-reader meaning alive. Detailed reassessment by every original participant absent. | `IM-V14-E003` `IM-V14-E020` `IM-V14-E023` |
+| 18: Miyako as fictional model | OPEN AT ORIGINAL-KEI LEVEL | Later professional development shown; no complete new interior assessment of every Kei revision. Final manuscript adds another modeling test. | `IM-V14-E012` `IM-V14-E042` `IM-V14-E043` |
+| 19: public identification with Kei | OPEN | No adequate longitudinal public-identification study or explicit burden account. Do not infer from agency success. | `IM-V14-E012` |
+| 20: identifiable modeling ethics | OPEN / REVISED PROBLEM | Living-person care, no advance permission, anger and inadequate toddler assent directly problematize scope. No repaired universal procedure. | `IM-V14-E043` `IM-V14-E044` |
+| 21: proposal implementation | RESOLVED | Marriage/household/son directly shown; no need to invent elided V13 acceptance words. | `IM-V14-E003` |
+| 22: marriage and creative relation | PARTIAL / MAJOR DEVELOPMENT | Domestic contentment, retirement possibility, rivalry, artistic answer and support request restructure relation. Old mechanism not fully closed. | `IM-V14-E019` `IM-V14-E023` `IM-V14-E024` |
+| 23: Nayuta/Miyako attraction | OPEN | Primary commitment and working relationships continue; no sufficient new direct account of this exact attraction's evolution. | `IM-V14-E003` `IM-V14-E024` |
+| 24: Ashley/Kaizu shared risk | STRENGTHEN BOUNDED RECURRENCE | Child, parent friendship, new career terrain and chosen family priority carry marriage beyond ceremony. No lifetime guarantee. | `IM-V14-E015` |
+| 25: Yuu memory | PARTIAL / CONTINUING | Memory remains in Kaizu's self-assessment/imagined approval. Draft-daughter's replacement fear is not actual parental intention. | `IM-V14-E015` `IM-V14-E038` `IM-V14-E042` |
+| 26: Shiori and sister art | PARTIAL | Ordinary sibling/listener role persists; projected older Shiori tests appropriation. Direct causal account of every artistic change absent. | `IM-V14-E004` `IM-V14-E011` `IM-V14-E044` |
+| 27: Nadeko hurt/recognition | PARTIAL / ADVERSE COUNTEREVIDENCE | Actual novice joy and later anger shown; Itsuki admits hurt enjoyment rather than a completed apology/repair. | `IM-V14-E011` `IM-V14-E044` |
+| 28: IM-C016 address/circulation | STRENGTHEN WITH QUALITY DISTINCTIONS | Another public work targets one reader and invites an authored answer; novice pleasure is not equal professional quality. | `IM-V14-E011` `IM-V14-E020` `IM-V14-E023` |
+| 29: nonexclusive protagonist | REVISE / PRESERVE PRODUCTIVE CORE | Inclusive speech/collective draft play coexist with 人でなし criticism, privilege and universal-injunction hazard. | `IM-V14-E025` `IM-V14-E033` `IM-V14-E035` `IM-V14-E037` |
+| 30: after three-year jump | RESOLVED TO PUBLISHED PRESENT | Opening career/family states and award/frame described; alleged later future is manuscript. | `IM-V14-E002` `IM-V14-E003` `IM-V14-E042` |
+| 31: bonus/mainline distinctions | RESOLVED AS AUTHORITY ROUTING | V13 movie remains alternate; V14 future is embedded draft; afterwords/images never automatically mainline events. | `IM-V14-E042` `IM-V14-E050` |
+| 32: watched open claims | INDIVIDUAL FREEZE, NOT ALL CLOSED | C023/025/036/039/041 remain OPEN; C040 strengthens as bounded recurrence with unclosed applications. | §6 |
+
+### Persistent end-state questions
+
+- Agency sustainability under Miyako's concentrated work and exceptional collaborator favors.
+- Cultivation versus exclusion/exhaustion, with no universal best institution.
+- Nayuta's agency/dependence mechanism and the ethics of aggressive artistic influence.
+- Haruto/Miyako household repair and Chihiro's unshown future romance.
+- Whether Itsuki apologizes or revises the unauthorized portraits.
+- Actual achievement of private goals, future careers and the unborn child's life.
+- The book's own representational responsibility around young-character comedy.
+- Unequal opportunity's pressure on the final persistence/title claim.
+
+None is answered by the V14 dream manuscript or advertised external material. Chihiro's astronaut desire is actual; her completed career/divorce is not. Pregnancy is actual; birth and personality are unknown.
+
+### Final claim watch state
+
+IM-C023,025,036,039,041 remain OPEN. IM-C040 is STRENGTHEN as bounded recurrence, with application limits retained. The checkpoint and claim ledger carry individual reasons/routes; this ledger owns the question ceilings.
+
+### Next update gate
+
+Retrospective analyses preserve these open ceilings. Supplements, adaptations or performed voices require new labeled admission. The14-volume mission explicitly defers them.

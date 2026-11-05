@@ -1,0 +1,2029 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_CLAIM_BINDINGS_AND_RECOVERY_20261013_V1",
+  "current_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_body_tuple": {
+    "bytes": 42004,
+    "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+    "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+  },
+  "frozen_V3_body_tuple": {
+    "bytes": 38821,
+    "sha256": "8caf0917c82b9c9cac690a37e213ccae58334725c1753e1921994614ebc6eafb",
+    "git_blob_oid_of_actual_bytes": "8d13cebd83d2d966330d32c9a2a3785d909fb577"
+  },
+  "frozen_V3_register_tuple": {
+    "bytes": 179420,
+    "sha256": "d9f6b0dc14a650e9daabc6da42e9d910cde8ebd9a56b1f34cc55363ed62a615b",
+    "git_blob_oid_of_actual_bytes": "4d9d26ab45ad59b593c6cd18811aa408d24b7d73"
+  },
+  "authoritative_actual_operation_receipt_V2": {
+    "opaque_preparation_witness_id": "ROOT_NINE_ACTUAL_MINATO_BODY_SUCCESSORS_V2",
+    "bytes": 47054,
+    "sha256": "e8a7e74c39d72fe96aec09bd498990785d72284c20eff4b93c251bc4877dd55c",
+    "git_blob_oid_of_actual_bytes": "27bbce62d32349143657fde6bf2b60484bba6d23",
+    "correct_NUL_Git_framing_only": true
+  },
+  "V1_Git_blob_metadata_role": "SUPERSEDED_ONLY; body SHA/full inverse valid; V1 original is preserved separately and never used as current Git binding",
+  "all_nine_actual_body_operations": [
+    {
+      "proposal_id": "MN_V3_AMEND_01",
+      "baseline_line": 3,
+      "baseline_start_UTF8_byte": 67,
+      "actual_after_start_UTF8_byte": 67,
+      "old_complete_UTF8_span": "**Existing responsibility:** P3-CHAR-M040. **Stage:** full character draft from received analytical arguments; the 105 supplemental purpose judgments, companion registers and independent acceptance remain pending. **Source form:** admitted maintained written analytical normals. No new primary, native, raw, performed-voice, identity, model or package-completion credit is claimed. The nineteen source aliases below retain their exact receiving grades in the separate ROOT record. The current local reconciliation incorporates PR151's four maintenance paths; the analytical source remains the exact 629d generation.",
+      "new_complete_UTF8_span": "**Existing responsibility:** P3-CHAR-M040. **Stage:** source-scoped character synthesis with all 105 selected supplemental questions individually received and adopted by ROOT at their disclosed analytical and report grades. **Source form:** admitted maintained written analytical normals. The nineteen source aliases retain their exact receiving extents; the supplemental owners retain 26 complete-normal and 79 selected connected-account extents attributed to their authors. Receiving these analyses supplies no new primary, native, raw, performed-voice, typed private-identity or reconstruction-model credit. ROOT's current binding witnesses place the unchanged admitted analytical carriers at series head 130b9c1c230c928601041b9b8ef4f013d44b24e7 and integrated main 0ed395926cca502fe1461d8c172330baab99e70e; current published source and actor qualifications govern their interpretation. Frozen V3 preserves its earlier 629d and PR151 preparation boundary as history.",
+      "old_scalar_sha256": "4f999712ca18e9f0be0860b918bf78666b28f4fb075cbe22076d9ad8f5cd5690",
+      "new_scalar_sha256": "09325db61482f5dfcef53261e38db6452a753a03aeb1304f383c00afbab8da3d",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": true,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_02",
+      "baseline_line": 43,
+      "baseline_start_UTF8_byte": 10551,
+      "actual_after_start_UTF8_byte": 10905,
+      "old_complete_UTF8_span": "EVENT861 brings a different institutional problem: coordinated navigation, an alleged accident, repairs, debt and the club's desire to continue. Minato refuses an exception; dissolution is offered as an exit rather than carried out as the printed result. Kokoro's fear of compulsion records the recipient's predicament without silently replacing the officer's words. The later account of concealed mines supplies consequential contrary evidence to an initial negligence-only explanation. The ending reports continuing club work and partial relief without a complete reassessment of every charge. These are strong comparisons for how Minato occupies authority, with chronology and the separate institutional package still open. [MN17]",
+      "new_complete_UTF8_span": "EVENT861 brings a different institutional problem: coordinated navigation, an alleged accident, repairs, debt and the club's desire to continue. Minato doubts the barnacle explanation and refuses an exception under navigation and coordination uncertainty. She offers dissolution as a possible debt exit; the club is not shown dissolving. Kokoro's fear of compulsion records the recipient's predicament without silently replacing the officer's words. Nanami's later mine admission qualifies the initial accident account at testimony grade, while the ending reports continuing club work and partial debt relief with equipment obligations still open. Those outcomes do not print a complete forensic or liability reassessment. These are strong comparisons for how Minato occupies authority; they preserve her inquiry as well as her refusal. The event's institutional problem, the MAIN Sammy farewell and their relative chronology remain separate. [MN17; MP102]",
+      "old_scalar_sha256": "77a98fd4d77bbcc78f69e72cfcd746afdaa7c92213ad2ac7424ff7a1ad37522b",
+      "new_scalar_sha256": "2b415bf93887c5f7ed22db72eb8dcb853fbfff2ac8ff8dc4e4f676cfcc7e5d75",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": false,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_03",
+      "baseline_line": 51,
+      "baseline_start_UTF8_byte": 12446,
+      "actual_after_start_UTF8_byte": 13023,
+      "old_complete_UTF8_span": "The rope ball is particularly useful evidence of Minato outside a flawless captainly performance. Her account of making it in her first year preserves imperfect workmanship, an ordinary beginner's effort and the persistence of a familiar play object. Its apparent resemblance to a signal does not exhaust what it means to her. Her recollection of Sammy ties making to a long friendship. Affection here has a material object and a narrated history, while the object's complete physical provenance remains uninspected. [MN04; MN08]",
+      "new_complete_UTF8_span": "The rope ball is particularly useful evidence of Minato outside a flawless captainly performance. Her account of making it in her first year preserves imperfect workmanship, an ordinary beginner's effort and the persistence of a familiar play object. Its apparent resemblance to a signal does not exhaust what it means to her. Her recollection of Sammy ties making to a long friendship. Affection here has a material object and a narrated history, while the object's complete physical provenance remains uninspected. The supplemental comparisons make this valuation more specific: Eri's wanted painting and anxious effort matter before public success, while Ui chooses to rebury a weathered time capsule with its map amid a reporting duty. Making, keeping and parting with an object have different purposes for their respective actors. Neither perfect workmanship nor exhibition is required for the effort or attachment to matter. Those source-local choices widen the comparison without supplying a new Minato memory, taste or object history. [MN04; MN08; MP072; MP093]",
+      "old_scalar_sha256": "b262aa2a3b076dfca817852f702723b289d5fa4769d9e381946ed02ce9008820",
+      "new_scalar_sha256": "5ed19be201bd0cfa3c9f2f5ddfdacf7521a6bd3b8e1a779d9392e77db26ed199",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": false,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_04",
+      "baseline_line": 73,
+      "baseline_start_UTF8_byte": 17590,
+      "actual_after_start_UTF8_byte": 18707,
+      "old_complete_UTF8_span": "The adult's assistance is distributed from the start. Ami articulates competing care commitments, Sanae assesses injury and later Sammy's condition, Sumika and the other students act, and the claimant proposes and withdraws a strategy. Sensei's willingness to inquire does not become the sole source of everyone's moral change. His sprain limits his own body; the later visit and rest assessment do not print a cure. The character argument must preserve who offers knowledge, who chooses and who bears a cost. [MN05–07; MN11–12]",
+      "new_complete_UTF8_span": "The adult's assistance is distributed from the start. Ami articulates competing care commitments, Sanae assesses injury and later Sammy's condition, Sumika and the other students act, and the claimant proposes a removal strategy and agrees to Minato's request to cancel the handover. The cancellation agreement does not disclose a withdrawal of the claimant's underlying educational purpose. Sensei's willingness to inquire does not become the sole source of everyone's moral change. His sprain limits his own body; the later visit and rest assessment do not print a cure. The character argument must preserve who offers knowledge, who chooses and who bears a cost. [MN05–07; MN11–12]",
+      "old_scalar_sha256": "32e4e4bd4ac6f90cc283f7b2931d882e4340e3ee22f2f370de1bf043fe49e541",
+      "new_scalar_sha256": "a8c5711cfc4d29ad0357cc8aaf7c66e0587a4f7f704fd7e55370b967e6385dda",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": false,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_05",
+      "baseline_line": 75,
+      "baseline_start_UTF8_byte": 18124,
+      "actual_after_start_UTF8_byte": 19397,
+      "old_complete_UTF8_span": "Minato's request that Sensei let Odysseia choose is a consequential boundary addressed to a trusted adult. It does not simply reject all help. The group has accepted investigation and clinical input, and the adult continues within a decision the captain wishes the school to own. This distinguishes assistance from taking authorship of the farewell. The request's force remains local: it supplies no blanket rule that students should make every future clinical decision without outside advice. [MN12]",
+      "new_complete_UTF8_span": "Minato's request that Sensei let Odysseia choose is a consequential boundary addressed to a trusted adult. It does not simply reject all help. The group has accepted investigation and clinical input, and the adult continues within a decision the captain wishes the school to own. This distinguishes assistance from taking authorship of the farewell. The request's force remains local: it supplies no blanket rule that students should make every future clinical decision without outside advice. A useful recipient comparison appears in EVENT816: Kazusa acknowledges that her friends' intention makes her happy while asking whether she requested their act and setting a boundary on interference. The gratitude and boundary belong to the same person. That distinction helps keep assistance, authorship and permission separate here; it supplies no answer from Sammy or from each unconsulted guest. [MN12; MP052]",
+      "old_scalar_sha256": "708582018b8d82eb0a6be5c4a0f094b0d6b78a3d9d7a9d002ac34f1f2bdbee27",
+      "new_scalar_sha256": "6a4a74619bf937177a21b2b51d83208e18d29894894a9654e5e09959477d2c1d",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": false,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_06",
+      "baseline_line": 111,
+      "baseline_start_UTF8_byte": 26642,
+      "actual_after_start_UTF8_byte": 28322,
+      "old_complete_UTF8_span": "The common 105 supplemental duty remains a separate prospective obligation at this draft stage. Each selected owner must receive a new Minato-specific question and a finite result at its adequate actual grade. Name or school absence in a header cannot establish complete-person absence; low crisis scale cannot exclude food, craft, reading, rest or company. A comparative question can be useful without proving Minato attended its event. Any consequential additional direct appearance, anonymous attribution, captainly act or knowledge claim must be traced through its connected normal argument and tail before acceptance.",
+      "new_complete_UTF8_span": "All 105 selected supplemental owners now have individually adopted Minato-specific questions and finite judgments. ROOT received each operative question, connected meaning, counterevidence, finite result, claim limit and future trigger; the contributors' 26 complete analytical-normal scopes and 79 selected connected-account scopes remain attributed at their recorded extents. This report receiving does not become 105 new complete underlying-normal or primary readings. Name or school absence in a header still cannot establish complete-person absence, and low crisis scale cannot exclude food, craft, reading, rest or company. A useful comparison preserves each participant's independent purpose without proving Minato attended the other event. Any stronger direct appearance, anonymous attribution, captainly act or knowledge claim still requires its consequential currently qualified normal argument and tail. [MP000–MP104]\n\nThere are also positive institutional links within that comparison field. In EVENT825, Toki reports an interpretation of an Odysseia record; the purpose reviewer followed its necessary EVENT806 analytical comparator. EVENT860 supplies separate Odysseia hospitality and particular boat, image and recipient boundaries. These references enlarge the institution's comparative context at their own modes. They establish neither Minato's presence or knowledge in those scenes nor an authenticated captain's appointment or a date relative to Sammy's farewell. Those questions remain responsibilities of the relevant character and institution accounts. [MP034; MP069; MP101]",
+      "old_scalar_sha256": "3f10d235d5d6dfa099f47db4b4a6ebacd3f78b3c574df1b527e213e5843df30b",
+      "new_scalar_sha256": "fa29762cfac6d555b67d07ab41903abd81272cdd4ab7a1756552a267f735f739",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": true,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_07",
+      "baseline_line": 160,
+      "baseline_start_UTF8_byte": 35276,
+      "actual_after_start_UTF8_byte": 37933,
+      "old_complete_UTF8_span": "| T16 Character scope | Full local ordinary/crisis/recipient argument in this draft | Finished 105-purpose review, private-family join or accepted package |",
+      "new_complete_UTF8_span": "| T16 Character scope | Full local ordinary/crisis/recipient argument and individually adopted questions and finite judgments for all 105 selected supplemental owners, at disclosed analytical and report grades | Typed Minato private-family breadth, complete lifetime or reconstruction model; canonical installation and publication require their separate actual receipts |",
+      "old_scalar_sha256": "837490153ce0f9ec4a6d50ab985362a2ba6dea5b60939b00d81e2e5a7083d89f",
+      "new_scalar_sha256": "d39f503aa54813b1a5d5b42cae647de15c28486c546a53a20edb320383aaef34",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": true,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_08",
+      "baseline_line": 171,
+      "baseline_start_UTF8_byte": 36598,
+      "actual_after_start_UTF8_byte": 39470,
+      "old_complete_UTF8_span": "| G06 Cross-school ordinary repertoire | OPEN | All selected owners still require individual Minato-purpose judgments; shared ordinary wants cannot make every school a uniformly assenting recipient. |",
+      "new_complete_UTF8_span": "| G06 Cross-school ordinary repertoire | OPEN | All 105 selected owners have individually adopted Minato-specific judgments at disclosed grades; their distinct ordinary wants do not complete every school's repertoire or make every participant a uniformly assenting recipient. |",
+      "old_scalar_sha256": "bb018de5daf3fe49bf2dd76e8c7ab09d06df991f4cb97e3800894e2a55d8fbd9",
+      "new_scalar_sha256": "b4ae5f9e7bd6dd2f07776c3837672c9d8b763e62974172876d7141e5e231508d",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": true,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_09",
+      "baseline_line": 181,
+      "baseline_start_UTF8_byte": 38315,
+      "actual_after_start_UTF8_byte": 41264,
+      "old_complete_UTF8_span": "The supported character is a hospitable, rule-bearing and grieving captain whose choices become personally answerable under uncertainty. The affection and ordinary pleasure are substantial; the warning, fall, pressured timetable, deferred objections and unprinted outcomes keep them particular. This full draft leaves the supplementary 105-purpose duty and independent package acceptance open. It completes neither the separate Sammy directed-care parent nor the Odysseia institutional parent by citation.",
+      "new_complete_UTF8_span": "The supported character is a hospitable, rule-bearing and grieving captain whose choices become personally answerable under uncertainty. The affection and ordinary pleasure are substantial; the warning, fall, pressured timetable, deferred objections and unprinted outcomes keep them particular. The full character argument and individually adopted supplemental judgments cover all 105 selected owners at their disclosed analytical and report grades. They support this finite written scope while leaving the original fourteen source gaps and stronger clinical, authority, identity and unanimity claims open. This character argument completes neither the separate Sammy directed-care parent nor the Odysseia institutional parent by citation.",
+      "old_scalar_sha256": "000d8106f4283acd350717b9860ccc8ca8ba92bca2447f82ed95fb62a901c329",
+      "new_scalar_sha256": "1c0a2f08bde69736afc0b019e54d4f2d01d8c0762a2e42d52da69330dad62bce",
+      "ROOT_current_decision": "ADOPT_WITH_LIMITS",
+      "ROOT_custom_current_status": true,
+      "ROOT_semantic_reason": "Preserve source actor/request and particular ordinary goods; update actual ROOT105 receiving without higher source, identity, model or parent credit."
+    }
+  ],
+  "forward_exact_V3_to_V4_executed": true,
+  "full_inverse_exact_V4_to_frozen_V3_executed": true,
+  "inverse_algorithm": "Use actual_after_start_UTF8_byte in descending order; require each complete new UTF8 span at that offset, replace by its complete old span; exact frozen38821-byte SHA256/Git tuple must result. Do not use baseline or hypothetical QA offsets on V4.",
+  "all58_current_claim_bindings": [
+    {
+      "claim_id": "MNCLAIM001",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 9,
+        "UTF8_byte_start": 1573,
+        "UTF8_byte_end_exclusive": 2155,
+        "complete_current_literal": "Minato first makes captaincy felt as a confident arrangement of other people's time. A guest should receive her personal welcome, the school should be seen, and hospitality should follow its represented tradition. Her tour is enjoyed, yet its duration exceeds her estimate and the guests' work has to wait. That combination establishes a character who wants to give something worthwhile and who can misjudge what the gift asks of its recipients. Her pleasure in hosting does not need an emergency to make it substantial. Her apology does not undo the time already spent. [MN02–03]",
+        "scalar_UTF8_sha256": "1aa617cc54cecabb79d4360fb2aeb2ff8de1b08931a326b0a3cff06abb8d34a8",
+        "source_aliases": [
+          "MN02",
+          "MN03"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM002",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 11,
+        "UTF8_byte_start": 2157,
+        "UTF8_byte_end_exclusive": 2932,
+        "complete_current_literal": "The Sammy sequence brings a harder version of the same question. A captain's rules and inherited warnings appear to offer certainty while a familiar friend is ageing and unwell. Minato can explain a custom, worry about collective misfortune and accept a proposal to move the cat ashore without possessing a settled clinical answer. When she pursues Sammy despite Ami's warning, falls, and receives the cat's approach as concern, the conflict becomes personally costly. She withdraws the handover before signature and later asks for a last voyage. Neither choice supplies proof of the course that would have prolonged Sammy's life. The consequential change is her willingness to choose and speak for a particular farewell while that uncertainty remains. [MN04–05; MN08–13]",
+        "scalar_UTF8_sha256": "0a04f908e6a65ca60f47f4d1410741c5402d4eacbe83c9dfac9241c80cfe536b",
+        "source_aliases": [
+          "MN04",
+          "MN05",
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM003",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 13,
+        "UTF8_byte_start": 2934,
+        "UTF8_byte_end_exclusive": 3557,
+        "complete_current_literal": "This is a positive character argument with adverse evidence inside it. Minato's affection makes reconsideration possible; affection also helps explain why she pursues the cat into danger. Her captaincy permits a collective voyage; the announcement defers objections and the permission given to Mitsuki assumes guests will accept a schedule they have not been shown to approve. The narrative gives an important change in action without supplying a complete reform of command. Later grief, the retained cushion and her outwardly composed manner make the choice continue to matter after the immediate crisis. [MN10; MN12–14]",
+        "scalar_UTF8_sha256": "33ce814be714d67d9a538e1081b05ca253bb899dbdf6cc2027ba20515f305cef",
+        "source_aliases": [
+          "MN10",
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM004",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 15,
+        "UTF8_byte_start": 3559,
+        "UTF8_byte_end_exclusive": 4175,
+        "complete_current_literal": "The event comparison prevents this local development from becoming an all-purpose personality law. Minato again enjoys ordinary hospitality, is recalled to work, and dislikes occupying the severe officer's role. Under navigation and debt constraints she refuses a club's requested exception. The subsequent mine account revises the initial accident explanation, while the ending leaves financial and equipment questions open. A reader can compare these acts of care, refusal and command. Source placement does not establish that the club episode follows Sammy's death or tests a permanent reform caused by it. [MN17]",
+        "scalar_UTF8_sha256": "482c77411dc50b04f101ef716552493b8aff65cbc11481109468ffc1b72dfb4a",
+        "source_aliases": [
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM005",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 19,
+        "UTF8_byte_start": 4246,
+        "UTF8_byte_end_exclusive": 4797,
+        "complete_current_literal": "The first approach is already surrounded by uncertainty. The apparent distress signal and the claimant's confident account of its origin outrun Sensei's available investigation. The later welcome belongs to the observed docking of Olympos, not a verified survey of every ship. In the welcome scene a literal Ami tag carries Minato's self-introduction, while Tomoshita Ami is separately represented as deputy. These limits preserve the encounter's actual participants without making the story's first explanation of every object definitive. [MN01–02]",
+        "scalar_UTF8_sha256": "e46036f189c31d4b60c54ccb9ddf38ea414fe6d43bda21de385b5996e5bb86d3",
+        "source_aliases": [
+          "MN01",
+          "MN02"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM006",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 21,
+        "UTF8_byte_start": 4799,
+        "UTF8_byte_end_exclusive": 5460,
+        "complete_current_literal": "The tour develops Minato through competing wishes. The claimant wants official business to proceed, Sumika is caught between superiors, and Sensei agrees to see the school. Minato insists on captainly hospitality and a local tradition. The claimant eventually relents. The journey lasts until sunset; Minato apologizes for miscalculating its length, and the guests can still appreciate what they saw. A dinner invitation at this endpoint is a proposed next act. The following unit actually represents curry being eaten and praised. Keeping those stages separate lets pleasure have its full extent without crediting an invitation as a completed meal. [MN03–04]",
+        "scalar_UTF8_sha256": "3dfd40ca06a4fc7bf2529aa25ecd86d34264081c22660e8c9eba62b8ca4afeaa",
+        "source_aliases": [
+          "MN03",
+          "MN04"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM007",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 23,
+        "UTF8_byte_start": 5462,
+        "UTF8_byte_end_exclusive": 6012,
+        "complete_current_literal": "After the others are dismissed, Minato's tired, relaxed manner and Ami's correction of her sitting distinguish a less ceremonious setting from the earlier public performance. The rope ball has a further ordinary history: Minato says she made it in her first year, remembers imperfect knots, and associates it with Sammy. Her maker testimony supplies an explanation of the object and its emotional importance. It is testimony at this source's grade; the apparent distress signal has not become an independently inspected chain of custody. [MN04; MN08]",
+        "scalar_UTF8_sha256": "74b4bd5a9419c36f84cb0bd18c666216577fe8d57ac5acf67cc07f24f28def62",
+        "source_aliases": [
+          "MN04",
+          "MN08"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM008",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 25,
+        "UTF8_byte_start": 6014,
+        "UTF8_byte_end_exclusive": 6603,
+        "complete_current_literal": "The clinical problem then resists the captain's inherited repertoire. Sammy's age and history, symptoms, falls and possible fast transport to Trident are reported. Ami expresses commitments from both sides of the dispute: attachment to the familiar animal and concern about welfare. Minato seeks advice under a rule impasse. The claimant offers an administrative removal pretext and later explains her own hoped-for educational strategy. Those speeches do not establish that Minato privately shares that strategy or that a council declaration supplies a clinical finding. [MN05; MN08–09]",
+        "scalar_UTF8_sha256": "ea51fa0f428d9ac364d3cc19c902ae33c71079baa4e21b2510188fda1254a06d",
+        "source_aliases": [
+          "MN05",
+          "MN08",
+          "MN09"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM009",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 27,
+        "UTF8_byte_start": 6605,
+        "UTF8_byte_end_exclusive": 7268,
+        "complete_current_literal": "The handover's apparent approach is interrupted by the people and animal it would affect. Some students want more time and shelter Sammy; an earlier report of no open defiance is qualified by later resistance. Minato pursues the cat, falls after Ami warns her, and interprets Sammy's approach as concern. Papers have been exchanged, but the form is still unsigned when she asks to cancel. The claimant agrees verbally. This is a consequential withdrawal before completion, with continuing fear and no printed new care plan. It is neither a completed relocation followed by formal reinstatement nor evidence that every sailor has renounced the customs. [MN09–11]",
+        "scalar_UTF8_sha256": "8916606a3cb4dbca702fc25bf0e314a3df7e430abfd77506adab7aabb0b09b34",
+        "source_aliases": [
+          "MN09",
+          "MN10",
+          "MN11"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM010",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 29,
+        "UTF8_byte_start": 7270,
+        "UTF8_byte_end_exclusive": 7999,
+        "complete_current_literal": "The urgent night call corrects the adult's premature sense that matters ended without harm. Sanae offers measurements and a hypothesis involving renal and cardiac conditions. Minato's single-cause guilt is explicitly qualified. The next decision concerns how to accompany an animal whose condition is critical, not how to recover the certainty the characters lacked earlier. Minato asks Sensei to let Odysseia choose, announces the voyage and allows departure without penalty while deferring objections. Olympos actually sails; other clubs seek to participate; Sammy's death is narrated among familiar company and views. The story does not give a complete fleet census, animal-consent test or clinical counterfactual. [MN11–13]",
+        "scalar_UTF8_sha256": "3b4894c7261006c21499fa0eade3ff7a3c050a5b691a0854267bcccc0245ba55",
+        "source_aliases": [
+          "MN11",
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM011",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 31,
+        "UTF8_byte_start": 8001,
+        "UTF8_byte_end_exclusive": 8583,
+        "complete_current_literal": "The half-month afterstate preserves grief as a continuing relation. Familiar habits have changed, Minato keeps the cushion, and outward composure does not exhaust the represented loss. Sumika's account of no known major incidents has an explicit knowledge limit. Minato's appraisal of the farewell and satisfaction belongs to her speech; port work and future movement ashore retain their reported or prospective grades. The claimant's closing assertion about the captain supplies a new unresolved question. It does not cancel the actions the reader has already followed. [MN14–16]",
+        "scalar_UTF8_sha256": "b0ce40e25a6351e525f6fbf6ebdec02bf8480a207e81ce1e9df52d4cb56d2a03",
+        "source_aliases": [
+          "MN14",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM012",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 35,
+        "UTF8_byte_start": 8662,
+        "UTF8_byte_end_exclusive": 9179,
+        "complete_current_literal": "Captaincy joins ceremonial hosting to responsibility for coordinated movement. Minato can insist on a tour, explain customs, announce a care decision and arrange the first ship's departure. Each act has an affected recipient. The claimant's schedule, Sumika's position between superiors, Ami's work and warning, the students' attachment and the guests' uninspected itinerary make the role more specific than an abstract capacity to lead. Command becomes legible through what it asks of these people. [MN03; MN09–13]",
+        "scalar_UTF8_sha256": "1672f5d87fc14d154ff1a446da71aa18e9cbf1cece3d60d63c344ae41ce2bfeb",
+        "source_aliases": [
+          "MN03",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM013",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 37,
+        "UTF8_byte_start": 9181,
+        "UTF8_byte_end_exclusive": 9743,
+        "complete_current_literal": "Her represented rules also have different warrants. The fish-turning custom is explained with an unknown origin. Warnings associated with weather, animals and bad luck carry remembered or inherited force; a cough and squall occurring together do not verify a causal mechanism. Minato later rejects scapegoating the cat for the weather. The change is significant because a rule can affect action before its causal story has been demonstrated. A sailor's explanation is represented story evidence, not independent real-world navigation guidance. [MN04; MN06; MN08]",
+        "scalar_UTF8_sha256": "7799b8f78946fb57305ad2d9ed39656bf3e4ddc1f7ca487ab1cbb0de6bfdbdec",
+        "source_aliases": [
+          "MN04",
+          "MN06",
+          "MN08"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM014",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 39,
+        "UTF8_byte_start": 9745,
+        "UTF8_byte_end_exclusive": 10301,
+        "complete_current_literal": "The proposed federal intervention does not remove this problem of warrant. The claimant offers to take blame by declaring a hygiene ground for removal. No inspected adverse hygiene finding supports that ground in the received sequence. Minato's earlier verbal assent and the exchange of papers matter, but the missing signature matters too. Withdrawal changes the chosen act before handover is completed. A verbal agreement to stop does not print a formal rescission instrument, verified jurisdiction or a settled long-term welfare arrangement. [MN08–11]",
+        "scalar_UTF8_sha256": "f016372ff27b79e05df870600b853d8de928bfe3b44dab771ca6253938afe95d",
+        "source_aliases": [
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM015",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 41,
+        "UTF8_byte_start": 10303,
+        "UTF8_byte_end_exclusive": 10903,
+        "complete_current_literal": "The last-voyage announcement provides a limited form of agency inside command. Students may leave without penalty, and others later ask to join. Minato also postpones objections until after the voyage. Participation can therefore be actual and substantial while deliberation remains constrained. Mitsuki asks permission after the operation is under way, and Minato grants it on a prediction that guests will not complain. A prediction is not the guests' answer. The account preserves both the captain's chosen accommodation and the people whose schedules or disagreement remain unprinted. [MN12–13]",
+        "scalar_UTF8_sha256": "662630e15133b8efc32b6e024be54dce9ececa2f03029407bfac821f5a05f0cf",
+        "source_aliases": [
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM016",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 43,
+        "UTF8_byte_start": 10905,
+        "UTF8_byte_end_exclusive": 11861,
+        "complete_current_literal": "EVENT861 brings a different institutional problem: coordinated navigation, an alleged accident, repairs, debt and the club's desire to continue. Minato doubts the barnacle explanation and refuses an exception under navigation and coordination uncertainty. She offers dissolution as a possible debt exit; the club is not shown dissolving. Kokoro's fear of compulsion records the recipient's predicament without silently replacing the officer's words. Nanami's later mine admission qualifies the initial accident account at testimony grade, while the ending reports continuing club work and partial debt relief with equipment obligations still open. Those outcomes do not print a complete forensic or liability reassessment. These are strong comparisons for how Minato occupies authority; they preserve her inquiry as well as her refusal. The event's institutional problem, the MAIN Sammy farewell and their relative chronology remain separate. [MN17; MP102]",
+        "scalar_UTF8_sha256": "2b415bf93887c5f7ed22db72eb8dcb853fbfff2ac8ff8dc4e4f676cfcc7e5d75",
+        "source_aliases": [
+          "MN17",
+          "MP102"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM017",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 47,
+        "UTF8_byte_start": 11938,
+        "UTF8_byte_end_exclusive": 12464,
+        "complete_current_literal": "The tour and meals are independently worthwhile experiences. Minato wants to welcome guests; Sensei wants to see the school; the claimant names a break from desk work even while resisting further delay. The actual enjoyable tour and eaten curry make these wants consequential. Their value coexists with miscalculated time and a constrained intermediary. A character portrait that retained only the later emergency would lose both Minato's generosity and the specific imposition of her preferred form of generosity. [MN03–04]",
+        "scalar_UTF8_sha256": "b912358421547aa9ff8251c1b7072b8aa40667d7f1f96d1872d628c1c0953d23",
+        "source_aliases": [
+          "MN03",
+          "MN04"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM018",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 49,
+        "UTF8_byte_start": 12466,
+        "UTF8_byte_end_exclusive": 13021,
+        "complete_current_literal": "Local food supply gives hospitality a material setting. Represented aquaculture capacity, scarce land desserts, a reported chocolate-to-sardine exchange and guest planning distinguish different pleasures and costs. Mitsuki's confidence in guest satisfaction is an appraisal, not a survey of every diner; reported uniform approval does not inspect every worker's comfort. Minato's hosting takes place amid these separate acts of making, serving, trading and planning. The material detail matters without becoming a complete nutrition or labor audit. [MN03]",
+        "scalar_UTF8_sha256": "62e54d861ff7453c97b3ee87b9f8a09572cf467c2c3e7181eff50b339a80f743",
+        "source_aliases": [
+          "MN03"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM019",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 51,
+        "UTF8_byte_start": 13023,
+        "UTF8_byte_end_exclusive": 14092,
+        "complete_current_literal": "The rope ball is particularly useful evidence of Minato outside a flawless captainly performance. Her account of making it in her first year preserves imperfect workmanship, an ordinary beginner's effort and the persistence of a familiar play object. Its apparent resemblance to a signal does not exhaust what it means to her. Her recollection of Sammy ties making to a long friendship. Affection here has a material object and a narrated history, while the object's complete physical provenance remains uninspected. The supplemental comparisons make this valuation more specific: Eri's wanted painting and anxious effort matter before public success, while Ui chooses to rebury a weathered time capsule with its map amid a reporting duty. Making, keeping and parting with an object have different purposes for their respective actors. Neither perfect workmanship nor exhibition is required for the effort or attachment to matter. Those source-local choices widen the comparison without supplying a new Minato memory, taste or object history. [MN04; MN08; MP072; MP093]",
+        "scalar_UTF8_sha256": "5ed19be201bd0cfa3c9f2f5ddfdacf7521a6bd3b8e1a779d9392e77db26ed199",
+        "source_aliases": [
+          "MN04",
+          "MN08",
+          "MP072",
+          "MP093"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM020",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 53,
+        "UTF8_byte_start": 14094,
+        "UTF8_byte_end_exclusive": 14660,
+        "complete_current_literal": "Sammy's familiar place on the ship and the cushion after death also resist being treated solely as clues to Minato's leadership. They concern attachment, habit and grief. Her later resolve to become the protagonist of her own life, alongside hope for Odysseia's self-directed future, belongs to the meaning she gives the farewell. It does not establish that every participant feels the same grief or that the institution has completed a therapeutic transition. A retained object can make a friendship continue to matter while the friend's life has ended. [MN12–14]",
+        "scalar_UTF8_sha256": "57f5c3f8a621a4a6215f072df71ed067d5e38dfa9662d7d28b3cfd538f839aa6",
+        "source_aliases": [
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM021",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 55,
+        "UTF8_byte_start": 14662,
+        "UTF8_byte_end_exclusive": 15304,
+        "complete_current_literal": "The event's Friday curry welcome and Minato's interrupted leisure widen this ordinary repertoire. Ami recalls her to work; Minato adjusts her register and expresses the cost of being the severe officer. The ending separately permits Ami to decline ice cream for paperwork. Offers, acceptance and refusal each preserve an ordinary person's purpose. Kotone's reading and radio pleasure, and Kokoro's wished singing and shared soup, provide independent comparisons for life that exceeds productive service. Their private meanings belong to those students; no Minato taste, private dialogue or family continuity is invented from them. [MN17–19]",
+        "scalar_UTF8_sha256": "6311d2b4d60a5c7bf331672cca903384d9736b19cd7827b92557a1ef1463eef1",
+        "source_aliases": [
+          "MN17",
+          "MN18",
+          "MN19"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM022",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 59,
+        "UTF8_byte_start": 15381,
+        "UTF8_byte_end_exclusive": 15960,
+        "complete_current_literal": "Minato's worry about customary prohibition is a real motive in the received sequence, even though the feared mechanism is unverified. She seeks an answer while Sammy's condition is uncertain and accepts a proposed removal ground that has not been clinically established. That choice can expose a friend to an unwanted departure and students to loss. Later reconsideration is consequential because the earlier assent remains an act to be evaluated. The account does not need to make Minato secretly indifferent to explain why a caring captain could choose badly. [MN05; MN08–09]",
+        "scalar_UTF8_sha256": "cba6e1b44947c6862ed67da71e7e22535d6b8d8e792bbb59ea8e5179f6d39b24",
+        "source_aliases": [
+          "MN05",
+          "MN08",
+          "MN09"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM023",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 61,
+        "UTF8_byte_start": 15962,
+        "UTF8_byte_end_exclusive": 16516,
+        "complete_current_literal": "Her pursuit of Sammy supplies concrete adverse evidence to a simple wisdom-by-affection reading. Ami gives a fall warning; Minato proceeds; the fall materializes. Her speech about being able to swim does not establish a safe rescue protocol. The ladder is lowered, but the printed endpoint does not complete a climb merely because assistance is available. Sammy's approach is represented, and Minato receives it as concern. The approach can matter deeply to her while the animal's intention and the safety of her method remain different questions. [MN10]",
+        "scalar_UTF8_sha256": "0516e59d3298cfc8227ca3c9299f4b60a940c0ed9780b17811999ec313bbf415",
+        "source_aliases": [
+          "MN10"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM024",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 63,
+        "UTF8_byte_start": 16518,
+        "UTF8_byte_end_exclusive": 17049,
+        "complete_current_literal": "The source also separates her fall from Sensei's injury. Sumika's earlier near-fall, the adult's timely intervention and Sanae's later assessment of a sprain and rest needs have their own sequence. Minato does not inherit causality for every bodily cost simply by being captain. Conversely, successful local rescue does not prove the adult is cured or can safely undertake all later duties. The planned Island visit, inquiry and subsequent presence retain the printed grades of agreement, action and reported condition. [MN06–07]",
+        "scalar_UTF8_sha256": "4e4c2f7a547b647eaac66d0cb6d13eccc0d123056eeaf1c8ee659f89095c4a94",
+        "source_aliases": [
+          "MN06",
+          "MN07"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM025",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 65,
+        "UTF8_byte_start": 17051,
+        "UTF8_byte_end_exclusive": 17621,
+        "complete_current_literal": "When Sammy becomes critical, Minato turns uncertainty into personal guilt. Sanae qualifies the single-cause explanation through a clinical hypothesis and measurements. The narrated death after the voyage cannot supply the missing comparison with another clinical course. A farewell chosen with love may have value; the text does not prove that sailing caused death, that immediate land transport would have prevented it, or that the chosen place was medically optimal. Those possibilities constrain the causal claim rather than erase the represented company. [MN12–13]",
+        "scalar_UTF8_sha256": "f9f612fa76758e1b305f896c3202b4cf3a68336a4e5c200543cae51edd0c064d",
+        "source_aliases": [
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM026",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 67,
+        "UTF8_byte_start": 17623,
+        "UTF8_byte_end_exclusive": 18185,
+        "complete_current_literal": "Her later statement that the farewell was best and everyone was satisfied must retain its speaker. Outward composure, continued port work and a hoped-for future are positive afterstates, but the cushion and changed habits preserve loss. No printed total abolition of custom or settled prevention plan follows. EVENT861 similarly retains a rule refusal after wanted hospitality and partial relief. Together these sources warrant a portrait of answerable, fallible care with particular choices. They leave a permanent captainly decision rule unproved. [MN14; MN17]",
+        "scalar_UTF8_sha256": "f7e472f88f2dcc45e3e5f84930d588f64bca28c6e63a26cd6907020f14e38db5",
+        "source_aliases": [
+          "MN14",
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM027",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 71,
+        "UTF8_byte_start": 18274,
+        "UTF8_byte_end_exclusive": 18705,
+        "complete_current_literal": "Sensei accepts the tour while the claimant wants official business to proceed. That acceptance allows a wanted experience, but it is not a mandate from every guest to suspend every schedule. Minato's later apology and the positive appraisal show a relationship in which the adult can enjoy hospitality without certifying its planning. The eaten curry and ordinary company are part of that relationship's actual content. [MN03–04]",
+        "scalar_UTF8_sha256": "6dc2d464f2a04176063dadf163ed94f17203e45cc27516cb2caba95e5f105fba",
+        "source_aliases": [
+          "MN03",
+          "MN04"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM028",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 73,
+        "UTF8_byte_start": 18707,
+        "UTF8_byte_end_exclusive": 19395,
+        "complete_current_literal": "The adult's assistance is distributed from the start. Ami articulates competing care commitments, Sanae assesses injury and later Sammy's condition, Sumika and the other students act, and the claimant proposes a removal strategy and agrees to Minato's request to cancel the handover. The cancellation agreement does not disclose a withdrawal of the claimant's underlying educational purpose. Sensei's willingness to inquire does not become the sole source of everyone's moral change. His sprain limits his own body; the later visit and rest assessment do not print a cure. The character argument must preserve who offers knowledge, who chooses and who bears a cost. [MN05–07; MN11–12]",
+        "scalar_UTF8_sha256": "a8c5711cfc4d29ad0357cc8aaf7c66e0587a4f7f704fd7e55370b967e6385dda",
+        "source_aliases": [
+          "MN05",
+          "MN06",
+          "MN07",
+          "MN11",
+          "MN12"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM029",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 75,
+        "UTF8_byte_start": 19397,
+        "UTF8_byte_end_exclusive": 20304,
+        "complete_current_literal": "Minato's request that Sensei let Odysseia choose is a consequential boundary addressed to a trusted adult. It does not simply reject all help. The group has accepted investigation and clinical input, and the adult continues within a decision the captain wishes the school to own. This distinguishes assistance from taking authorship of the farewell. The request's force remains local: it supplies no blanket rule that students should make every future clinical decision without outside advice. A useful recipient comparison appears in EVENT816: Kazusa acknowledges that her friends' intention makes her happy while asking whether she requested their act and setting a boundary on interference. The gratitude and boundary belong to the same person. That distinction helps keep assistance, authorship and permission separate here; it supplies no answer from Sammy or from each unconsulted guest. [MN12; MP052]",
+        "scalar_UTF8_sha256": "6a4a74619bf937177a21b2b51d83208e18d29894894a9654e5e09959477d2c1d",
+        "source_aliases": [
+          "MN12",
+          "MP052"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM030",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 77,
+        "UTF8_byte_start": 20306,
+        "UTF8_byte_end_exclusive": 20750,
+        "complete_current_literal": "The adult's earlier thought that matters ended without harm is promptly unsettled by the urgent call. That correction matters for Minato as well as Sensei. Relief after cancelling a transfer did not disclose every consequence or the animal's condition. The subsequent farewell therefore cannot be narrated as the adult's already complete plan unfolding. Its participants choose under information that changes and remains incomplete. [MN11–13]",
+        "scalar_UTF8_sha256": "4f3455273dd23ad13a9879d6f45e999793c9fc3ccd6874baeb7debb865354a90",
+        "source_aliases": [
+          "MN11",
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM031",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 79,
+        "UTF8_byte_start": 20752,
+        "UTF8_byte_end_exclusive": 21323,
+        "complete_current_literal": "The divers' account offers a useful independent limit. Sensei asks what they want, supports refusal of extraction and also depends on their skill during the hostage escape. Written boundaries around bodily contact, reassurance, and the final offered form of company remain differentiated. Kotone and Kokoro's private encounters further preserve objections, wanted company and limited local recovery. These comparisons help specify what a teacher's care can mean without supplying an unprinted Minato private bond or assigning the divers' preferences to Sammy. [MN17–19]",
+        "scalar_UTF8_sha256": "f3af9f31399c8b89525b930921470db013042afa10fae757f74b91cb7b7c904c",
+        "source_aliases": [
+          "MN17",
+          "MN18",
+          "MN19"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM032",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 83,
+        "UTF8_byte_start": 21401,
+        "UTF8_byte_end_exclusive": 22049,
+        "complete_current_literal": "**Minato toward Sammy.** Her maker testimony, memories and first-year attachment give the friendship a history; the proposed departure and later withdrawal put that history under pressure. Some students shelter Sammy during the chase; he later approaches after Minato's fall. Minato interprets the approach as concern and apologizes. The human interpretation is part of her change. The animal's complete understanding, preference about land treatment and comprehension of the last voyage remain unprinted. Friendship can be substantial evidence without turning the cat into a human speaker who consents to the captain's plan. [MN04–05; MN08–13]",
+        "scalar_UTF8_sha256": "9a86b9c35a7b8875511d8c12e8adc1f45052f4840a554bdcc7d19b382ed09ade",
+        "source_aliases": [
+          "MN04",
+          "MN05",
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM033",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 85,
+        "UTF8_byte_start": 22051,
+        "UTF8_byte_end_exclusive": 22658,
+        "complete_current_literal": "**Minato and the claimant.** The claimant resists a long tour, later proposes to take blame for removal, and agrees when Minato asks to cancel. Her explanation of hoped-for resentment and independent thought belongs to her own speech. It does not prove Minato's hidden purpose or a successful educational outcome. The final claim about an unreal captain stays unexplained; the present claimant's own office is independently disputed. One uncertain speaker does not automatically authenticate or refute the other. The separate claimant monograph retains its whole responsibility. [MN03; MN08–11; MN14–16]",
+        "scalar_UTF8_sha256": "d0b2c49f90f304db5265afe035d99047d77f65b50de441cfae07ea079ef8d2be",
+        "source_aliases": [
+          "MN03",
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN14",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM034",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 87,
+        "UTF8_byte_start": 22660,
+        "UTF8_byte_end_exclusive": 23304,
+        "complete_current_literal": "**Minato and Ami.** Ami's sitting correction, work recall and fall warning make deputy care practical rather than ceremonial agreement. Her account can hold attachment and concern for welfare together. In EVENT861 the two officers share an unwelcome enforcement task without becoming one voice: Minato dislikes the bad-officer role, while Ami later recognizes the value of a drifting board and maintains a no-exceptions position. Those local acts support comparison of command and correction. They do not prove the same sequence of development or assign every deputy utterance to the captain through the name-label seam. [MN04–05; MN10; MN17]",
+        "scalar_UTF8_sha256": "cbf60c6075bb9acf89f032ac3c72dc3c07d51cee4f0975e535d40e53fad56a9b",
+        "source_aliases": [
+          "MN04",
+          "MN05",
+          "MN10",
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM035",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 89,
+        "UTF8_byte_start": 23306,
+        "UTF8_byte_end_exclusive": 23882,
+        "complete_current_literal": "**Minato with Sumika, Sanae and Mitsuki.** Sumika has her own predicament between superiors, bodily risk, attachment and later knowledge limits. Sanae's assessments constrain causal certainty; her clinical contribution does not make Minato a clinician or resolve the unperformed alternative course. Mitsuki seeks guest satisfaction and participation with predictions and permission requests whose endpoints remain particular. These people contribute different knowledge and wants. Their help is not an undifferentiated chorus validating captaincy. [MN03; MN06–07; MN12–14]",
+        "scalar_UTF8_sha256": "938b879c9a7860cba2dd26cc3f3ad48cc213482edb28383efa03bfc09baf6b24",
+        "source_aliases": [
+          "MN03",
+          "MN06",
+          "MN07",
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM036",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 91,
+        "UTF8_byte_start": 23884,
+        "UTF8_byte_end_exclusive": 24538,
+        "complete_current_literal": "**Minato and students beyond a single crew.** Initial lack of open defiance is later qualified by resistance and hiding. Gifts and wanting more time express attachments without establishing every later consumption or packing act. The last-voyage opt-out and other clubs' requests to join support participation, while the deferred objections and absence of a full fleet audit limit consensus. The divers later refuse unwanted extraction, object to commands and continue their club. Their own ends remain independently valuable. Neither collective label proves that Minato has spoken for every member's knowledge, pleasure or assent. [MN09–13; MN17–19]",
+        "scalar_UTF8_sha256": "5ea095d5b0b19ec9c3eb9441419af028b5891a63b81489670d8e2bfd72a178e0",
+        "source_aliases": [
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13",
+          "MN17",
+          "MN18",
+          "MN19"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM037",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 95,
+        "UTF8_byte_start": 24615,
+        "UTF8_byte_end_exclusive": 25133,
+        "complete_current_literal": "The positive local identification is the self-name 海路ミナト in a passage carrying an Ami tag. The separately represented deputy helps expose the seam, while the surrounding welcome and later captainly acts support the existing Minato responsibility. Preserving the tag records the written problem; discarding the self-name would lose affirmative evidence. This does not authorize repairing every ambiguous officer label across unrelated sources or joining a private data family by resemblance. [MN02; MN15–16]",
+        "scalar_UTF8_sha256": "ed4d2f70e2708787412b2c583238a6972b97bc7c7c895ca480bcdd87744b32e9",
+        "source_aliases": [
+          "MN02",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM038",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 97,
+        "UTF8_byte_start": 25135,
+        "UTF8_byte_end_exclusive": 25607,
+        "complete_current_literal": "Minato's formal welcome, rule explanations, tired sitting, apology and personal memory of making a toy offer different written registers. The event adds an ordinary suffix and a repair of manner when work intrudes. Their contrast can show how she presents captaincy and how an ordinary self appears within it. It does not provide performed timing, vocal delivery, an audio identity test or a stable trait that overrides the local actor attribution. [MN03–04; MN08; MN17]",
+        "scalar_UTF8_sha256": "0e6a3b65c8fb75cfe4cc89bfb56f52e6f7f5b5d545dc3a671ffeb06427bfddcb",
+        "source_aliases": [
+          "MN03",
+          "MN04",
+          "MN08",
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM039",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 99,
+        "UTF8_byte_start": 25609,
+        "UTF8_byte_end_exclusive": 26117,
+        "complete_current_literal": "Her rule speech also differs from her later autobiographical and guilty speech. Explaining an inherited custom is not the same as independently testing its origin. Saying Sammy was a long-time friend gives her attachment a first-person account. Blaming herself after a crisis supplies emotional meaning, while Sanae's correction prevents that utterance from serving as a clinical finding. Her appraisal of a good farewell similarly retains the perspective from which it is made. [MN04–05; MN08; MN12; MN14]",
+        "scalar_UTF8_sha256": "4589c1a559b535de182d67fa7cb9b98b5c70090e138111795b9bccc392c869ae",
+        "source_aliases": [
+          "MN04",
+          "MN05",
+          "MN08",
+          "MN12",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM040",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 101,
+        "UTF8_byte_start": 26119,
+        "UTF8_byte_end_exclusive": 26663,
+        "complete_current_literal": "The closing challenge to her captaincy requires its own future warrant. The received chapter provides an assertion whose mechanism and intended referent are unresolved. It may change how a reader asks about appointment, role or self-presentation. It does not yet prove impersonation, authenticate another captain or erase observed command. The claimant's disputed recognition and the Minato/Ami tag seam are separate uncertainties; treating their coexistence as a single solution would make the evidence do work it has not supplied. [MN14–16]",
+        "scalar_UTF8_sha256": "4d6f13367bff012b59439e0530ebd672625212c26ffb5edca86aa67981bd3190",
+        "source_aliases": [
+          "MN14",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM041",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 105,
+        "UTF8_byte_start": 26715,
+        "UTF8_byte_end_exclusive": 27325,
+        "complete_current_literal": "MN01–14 are the received current written deep readings of S2 V003 C001 E001–014. MN15 is the full chapter checkpoint, and MN16 is the complete contextual working account received earlier by this same ROOT with its documented display repair. They are maintained analytical arguments at the admitted Cycle008 boundary. This monograph does not replay or freshly acquire their underlying primary dialogue. Each saved claim must retain its normal source and actual receiving scope. The original nineteen-custody receipt records availability; the later actual-meaning receipt records what ROOT actually received.",
+        "scalar_UTF8_sha256": "c36632858dc933e55d38b835440a70a9d7c17bd1a05ff547b85de58875223508",
+        "source_aliases": [
+          "MN01",
+          "MN02",
+          "MN03",
+          "MN04",
+          "MN05",
+          "MN06",
+          "MN07",
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13",
+          "MN14",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM042",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 107,
+        "UTF8_byte_start": 27327,
+        "UTF8_byte_end_exclusive": 27897,
+        "complete_current_literal": "MN17 is the full current EVENT861 analytical checkpoint. Its main-story comparison explicitly separates hospitality, objects, the Sammy farewell and whale remains. EVENT861 itself supplies the divers' navigation, debt, coercive extraction, rescue and continuing work. Sammy's grief belongs to its separately attributed MAIN comparator. Neither a whale's appearance nor a cat's narrated approach authenticates animal consent; release order and checkpoint creation dates do not place the two stories in a causal chronology. [MN17 §§main comparison and chronology limits]",
+        "scalar_UTF8_sha256": "25f90ee32375967deb8c3ee4a716b88dfde2026418cbabfd3832042f78a3d081",
+        "source_aliases": [
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM043",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 109,
+        "UTF8_byte_start": 27899,
+        "UTF8_byte_end_exclusive": 28320,
+        "complete_current_literal": "MN18 and MN19 are complete current Kotone and Kokoro private contextual accounts. They widen the recipient-facing comparison with their own chosen pleasure, objection, practical care and finite recovery. No profile, private scene, costume family or inward Minato thought is inferred from them. Their inclusion is evidence for independent students, not a replacement for the explicitly absent Minato typed private channel.",
+        "scalar_UTF8_sha256": "f26cca1ba01fc453ebea0503bcde58c772a5d0000e4d6ef1feb208cc467e1241",
+        "source_aliases": [
+          "MN18",
+          "MN19"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM044",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 111,
+        "UTF8_byte_start": 28322,
+        "UTF8_byte_end_exclusive": 29252,
+        "complete_current_literal": "All 105 selected supplemental owners now have individually adopted Minato-specific questions and finite judgments. ROOT received each operative question, connected meaning, counterevidence, finite result, claim limit and future trigger; the contributors' 26 complete analytical-normal scopes and 79 selected connected-account scopes remain attributed at their recorded extents. This report receiving does not become 105 new complete underlying-normal or primary readings. Name or school absence in a header still cannot establish complete-person absence, and low crisis scale cannot exclude food, craft, reading, rest or company. A useful comparison preserves each participant's independent purpose without proving Minato attended the other event. Any stronger direct appearance, anonymous attribution, captainly act or knowledge claim still requires its consequential currently qualified normal argument and tail. [MP000–MP104]",
+        "scalar_UTF8_sha256": "e415552b4817b536178fdaa3ba190e5a30207ab8abc7ca14c79f703aca331efb",
+        "source_aliases": [
+          "MP000",
+          "MP001",
+          "MP002",
+          "MP003",
+          "MP004",
+          "MP005",
+          "MP006",
+          "MP007",
+          "MP008",
+          "MP009",
+          "MP010",
+          "MP011",
+          "MP012",
+          "MP013",
+          "MP014",
+          "MP015",
+          "MP016",
+          "MP017",
+          "MP018",
+          "MP019",
+          "MP020",
+          "MP021",
+          "MP022",
+          "MP023",
+          "MP024",
+          "MP025",
+          "MP026",
+          "MP027",
+          "MP028",
+          "MP029",
+          "MP030",
+          "MP031",
+          "MP032",
+          "MP033",
+          "MP034",
+          "MP035",
+          "MP036",
+          "MP037",
+          "MP038",
+          "MP039",
+          "MP040",
+          "MP041",
+          "MP042",
+          "MP043",
+          "MP044",
+          "MP045",
+          "MP046",
+          "MP047",
+          "MP048",
+          "MP049",
+          "MP050",
+          "MP051",
+          "MP052",
+          "MP053",
+          "MP054",
+          "MP055",
+          "MP056",
+          "MP057",
+          "MP058",
+          "MP059",
+          "MP060",
+          "MP061",
+          "MP062",
+          "MP063",
+          "MP064",
+          "MP065",
+          "MP066",
+          "MP067",
+          "MP068",
+          "MP069",
+          "MP070",
+          "MP071",
+          "MP072",
+          "MP073",
+          "MP074",
+          "MP075",
+          "MP076",
+          "MP077",
+          "MP078",
+          "MP079",
+          "MP080",
+          "MP081",
+          "MP082",
+          "MP083",
+          "MP084",
+          "MP085",
+          "MP086",
+          "MP087",
+          "MP088",
+          "MP089",
+          "MP090",
+          "MP091",
+          "MP092",
+          "MP093",
+          "MP094",
+          "MP095",
+          "MP096",
+          "MP097",
+          "MP098",
+          "MP099",
+          "MP100",
+          "MP101",
+          "MP102",
+          "MP103",
+          "MP104"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM045",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 117,
+        "UTF8_byte_start": 29980,
+        "UTF8_byte_end_exclusive": 30454,
+        "complete_current_literal": "The represented less-public sitting scene gives a valuable contrast to Minato's ceremonial welcome. It shows a tired manner and a colleague's correction after others have left. This is a staged private setting in the narrative; it does not establish the separate typed private family that the source lock has not joined. The contrast belongs in the character argument because ordinary posture and work fatigue help specify the effort involved in presenting authority. [MN04]",
+        "scalar_UTF8_sha256": "7636f04a9e9113bbb2b7f8febca0508e91fdfccb8346743535f1aee0bf74c0a3",
+        "source_aliases": [
+          "MN04"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM046",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 119,
+        "UTF8_byte_start": 30456,
+        "UTF8_byte_end_exclusive": 30993,
+        "complete_current_literal": "Her recollected making, fear, apology, guilt and later interpretation of the farewell retain their channels. A first-person memory can explain why an object matters to her without independently proving every detail of the object's history. Reported symptoms and clinical hypotheses constrain what the surrounding emotional account can establish. The captain's later satisfaction is her appraisal; outward wellness does not expose every inward state. Private meaning is valuable at the degree actually represented. [MN05; MN08; MN10–14]",
+        "scalar_UTF8_sha256": "430d5199ceaaf7f11db7f19d1294f320ed694721b40c1bd88cf7a0779a346bcb",
+        "source_aliases": [
+          "MN05",
+          "MN08",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM047",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 121,
+        "UTF8_byte_start": 30995,
+        "UTF8_byte_end_exclusive": 31489,
+        "complete_current_literal": "The claimant's stated strategy must remain external to this account of Minato's self. A plan to receive blame and provoke independent questioning does not prove that Minato's subsequent reconsideration was engineered, anticipated or purely reactive to that plan. Minato supplies her own question about expelling a friend, asks to withdraw before signature and later chooses a voyage. Those acts can be studied alongside the claimant's method while preserving their distinct authors. [MN08–12]",
+        "scalar_UTF8_sha256": "ea8acf9974f440772e95abbd7b4544a96a40a216739c60490593afaa3b9d5a9a",
+        "source_aliases": [
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM048",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 123,
+        "UTF8_byte_start": 31491,
+        "UTF8_byte_end_exclusive": 32074,
+        "complete_current_literal": "Kotone and Kokoro show why an absent channel is a limit rather than a dismissal of a character. Their private accounts contain independently wanted reading, music, sensory attention, soup, awkward closeness and practical recovery. Those meanings deserve substantial treatment in their own homes. This Minato draft has a different source distribution: represented ordinary hospitality, friendship, command and grief supply a strong individual argument, while a complete private-family account remains unavailable. No model grade or crisis-frequency rule decides its worth. [MN18–19]",
+        "scalar_UTF8_sha256": "7684a481ceea948d77b71f9458dec4c2fe917cab3baf0dcdf40ef84711585df9",
+        "source_aliases": [
+          "MN18",
+          "MN19"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM049",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 127,
+        "UTF8_byte_start": 32143,
+        "UTF8_byte_end_exclusive": 32735,
+        "complete_current_literal": "**Rival 1 — a traditional captain remains rigid until an outsider corrects her.** Minato's insistence on a tour, worry about custom and assent to removal give this reading a real positive case. The counterevidence is her rejection of weather scapegoating, her own question about expelling a friend, withdrawal before signature and request that the school choose. The claimant and adult contribute, but Ami, Sanae, students and Sammy's represented approach also matter. The warranted change has several participants and an act Minato owns; its permanence is unproved. [MN03; MN05; MN08–12]",
+        "scalar_UTF8_sha256": "087094cd2610f13f68687882c4d58b0466c22d907d78904124d65ccbfc3432f4",
+        "source_aliases": [
+          "MN03",
+          "MN05",
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM050",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 129,
+        "UTF8_byte_start": 32737,
+        "UTF8_byte_end_exclusive": 33156,
+        "complete_current_literal": "**Rival 2 — affection makes Minato's care intrinsically wise.** The maker memory, apology, chosen company and later cushion support the seriousness of her attachment. The fall after warning, the uninspected removal pretext and the missing clinical counterfactual make affection insufficient as a safety or optimality certificate. The narrative permits a meaningful farewell and a fallible method together. [MN08–14]",
+        "scalar_UTF8_sha256": "6ed8dd91550a3a809de4679f8b3e2d2fe1b97e0ff09c70e03f8c85cc743e67bc",
+        "source_aliases": [
+          "MN08",
+          "MN09",
+          "MN10",
+          "MN11",
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM051",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 131,
+        "UTF8_byte_start": 33158,
+        "UTF8_byte_end_exclusive": 33663,
+        "complete_current_literal": "**Rival 3 — the voyage caused Sammy's death and proves the captain's failure.** The temporal proximity of decline, sailing and death gives the hypothesis a reason to be asked. The doctor supplies qualified hypotheses rather than a completed causal comparison, and no alternative course is performed. Death cannot retrospectively establish which earlier decision would have changed it. Minato's responsibility for the actual chosen act can be evaluated without inventing that clinical result. [MN12–13]",
+        "scalar_UTF8_sha256": "2bd0757f8c5cc51aadeaf7d825bcdbfd1afc2b67710fa4367c7f6acf4b213a83",
+        "source_aliases": [
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM052",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 133,
+        "UTF8_byte_start": 33665,
+        "UTF8_byte_end_exclusive": 34032,
+        "complete_current_literal": "**Rival 4 — the last voyage is an accomplished welfare solution.** Familiar views, company and the narrated peaceful expression support a strong positive appraisal of accompaniment. They do not establish informed animal consent, medical optimum or longer survival under this course. The story reaches a farewell; stronger welfare mechanisms remain open. [MN12–14]",
+        "scalar_UTF8_sha256": "023f277a620d9f8ee51ed63c4e288319327f1605c5d56ae8b8cbc119c1398f5e",
+        "source_aliases": [
+          "MN12",
+          "MN13",
+          "MN14"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM053",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 135,
+        "UTF8_byte_start": 34034,
+        "UTF8_byte_end_exclusive": 34460,
+        "complete_current_literal": "**Rival 5 — communal participation supplies complete permission.** No-penalty departure and independently requested joining are substantial affirmative evidence. Deferred objections, initially uninspected guest schedules and the missing full-fleet result constrain unanimity. The represented captain permits and arranges a particular voyage; she has not obtained a printed answer from every affected participant. [MN12–13]",
+        "scalar_UTF8_sha256": "e09709dfb25d0a31225052de0bc0aa586ccbce73c61b5053591a8913d8c984b7",
+        "source_aliases": [
+          "MN12",
+          "MN13"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM054",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 137,
+        "UTF8_byte_start": 34462,
+        "UTF8_byte_end_exclusive": 34906,
+        "complete_current_literal": "**Rival 6 — the final accusation makes Minato a fraudulent identity.** The claimant's closing assertion invites serious doubt about captaincy. The local self-name and represented role supply affirmative evidence of the subject and acts being studied, while the allegation's mechanism remains unexplained. The reading must preserve the new question without supplying an unprinted appointment or another authenticated captain. [MN02; MN14–16]",
+        "scalar_UTF8_sha256": "35c70aa2953f18b13a8e4041f07cdf32d08da650242f2f399f6dcc658b1239ab",
+        "source_aliases": [
+          "MN02",
+          "MN14",
+          "MN15",
+          "MN16"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM055",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 139,
+        "UTF8_byte_start": 34908,
+        "UTF8_byte_end_exclusive": 35382,
+        "complete_current_literal": "**Rival 7 — ordinary hospitality is a pleasant mask for coercion.** The delayed schedule, subordinate pressure, work recall and severe-officer role support an adverse reading of hosting within hierarchy. Actual wanted touring, curry, company, making and grief remain recipients' and Minato's own ends. Treating these as mere cover would erase what the scenes achieve. Treating enjoyment as blanket permission would erase their specific costs. [MN03–04; MN08; MN14; MN17]",
+        "scalar_UTF8_sha256": "2a0a5ce97b38bc04477d11634f3484a0ddcdff98e748cea01729461df154353a",
+        "source_aliases": [
+          "MN03",
+          "MN04",
+          "MN08",
+          "MN14",
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM056",
+      "original_role": "UNCHANGED_ORIGINAL_SCALAR_CURRENT_BINDING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 141,
+        "UTF8_byte_start": 35384,
+        "UTF8_byte_end_exclusive": 35838,
+        "complete_current_literal": "**Rival 8 — one local change establishes a stable rule across Odysseia stories.** Shared officers, navigation concerns and care invite a longitudinal comparison. EVENT861's refused exception and retained debt questions are strong countercases to a universal transformed-captain rule. Its explicitly separate MAIN comparison supplies a relation between questions, not the dates or causal bridge needed for a permanent developmental sequence. [MN15–17]",
+        "scalar_UTF8_sha256": "d88e9e6b9850492f48dc67babdd8ef6efaf7af285ca7dfcbd0e45a319bcd0b94",
+        "source_aliases": [
+          "MN15",
+          "MN16",
+          "MN17"
+        ]
+      }
+    },
+    {
+      "claim_id": "MNCLAIM057",
+      "original_role": "ROOT_APPROVED_CURRENT_LITERAL_SUCCESSOR_ORIGINAL_SCALAR_PRESERVED_IN_FROZEN_SNAPSHOT",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 183,
+        "UTF8_byte_start": 41264,
+        "UTF8_byte_end_exclusive": 42003,
+        "complete_current_literal": "The supported character is a hospitable, rule-bearing and grieving captain whose choices become personally answerable under uncertainty. The affection and ordinary pleasure are substantial; the warning, fall, pressured timetable, deferred objections and unprinted outcomes keep them particular. The full character argument and individually adopted supplemental judgments cover all 105 selected owners at their disclosed analytical and report grades. They support this finite written scope while leaving the original fourteen source gaps and stronger clinical, authority, identity and unanimity claims open. This character argument completes neither the separate Sammy directed-care parent nor the Odysseia institutional parent by citation.",
+        "scalar_UTF8_sha256": "1c0a2f08bde69736afc0b019e54d4f2d01d8c0762a2e42d52da69330dad62bce",
+        "source_aliases": []
+      }
+    },
+    {
+      "claim_id": "MNCLAIM058",
+      "original_role": "NEW_ADDITIVE_INSTITUTIONAL_COMPARISON_PARAGRAPH_WITH_NO_FROZEN_V3_CLAIM_RENUMBERING",
+      "binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 113,
+        "UTF8_byte_start": 29254,
+        "UTF8_byte_end_exclusive": 29921,
+        "complete_current_literal": "There are also positive institutional links within that comparison field. In EVENT825, Toki reports an interpretation of an Odysseia record; the purpose reviewer followed its necessary EVENT806 analytical comparator. EVENT860 supplies separate Odysseia hospitality and particular boat, image and recipient boundaries. These references enlarge the institution's comparative context at their own modes. They establish neither Minato's presence or knowledge in those scenes nor an authenticated captain's appointment or a date relative to Sammy's farewell. Those questions remain responsibilities of the relevant character and institution accounts. [MP034; MP069; MP101]",
+        "scalar_UTF8_sha256": "d98a6f61d1f884786cc93dd037fb63d4c9dd16f4ba12649fcc8ead9c312ee28f",
+        "source_aliases": [
+          "MP034",
+          "MP069",
+          "MP101"
+        ]
+      }
+    }
+  ],
+  "three_non_claim_successor_bindings": [
+    {
+      "proposal_id": "MN_V3_AMEND_01",
+      "current_literal_binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 3,
+        "UTF8_byte_start": 67,
+        "UTF8_byte_end_exclusive": 1036,
+        "complete_current_literal": "**Existing responsibility:** P3-CHAR-M040. **Stage:** source-scoped character synthesis with all 105 selected supplemental questions individually received and adopted by ROOT at their disclosed analytical and report grades. **Source form:** admitted maintained written analytical normals. The nineteen source aliases retain their exact receiving extents; the supplemental owners retain 26 complete-normal and 79 selected connected-account extents attributed to their authors. Receiving these analyses supplies no new primary, native, raw, performed-voice, typed private-identity or reconstruction-model credit. ROOT's current binding witnesses place the unchanged admitted analytical carriers at series head 130b9c1c230c928601041b9b8ef4f013d44b24e7 and integrated main 0ed395926cca502fe1461d8c172330baab99e70e; current published source and actor qualifications govern their interpretation. Frozen V3 preserves its earlier 629d and PR151 preparation boundary as history.",
+        "scalar_UTF8_sha256": "09325db61482f5dfcef53261e38db6452a753a03aeb1304f383c00afbab8da3d",
+        "source_aliases": []
+      },
+      "frozen_baseline_physical_line": 3,
+      "role": "ROOT_APPROVED_NON_CLAIM_STAGE_FINITE_TEST_OR_OPEN_GAP_SUCCESSOR"
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_07",
+      "current_literal_binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 162,
+        "UTF8_byte_start": 37933,
+        "UTF8_byte_end_exclusive": 38304,
+        "complete_current_literal": "| T16 Character scope | Full local ordinary/crisis/recipient argument and individually adopted questions and finite judgments for all 105 selected supplemental owners, at disclosed analytical and report grades | Typed Minato private-family breadth, complete lifetime or reconstruction model; canonical installation and publication require their separate actual receipts |",
+        "scalar_UTF8_sha256": "d39f503aa54813b1a5d5b42cae647de15c28486c546a53a20edb320383aaef34",
+        "source_aliases": []
+      },
+      "frozen_baseline_physical_line": 160,
+      "role": "ROOT_APPROVED_NON_CLAIM_STAGE_FINITE_TEST_OR_OPEN_GAP_SUCCESSOR"
+    },
+    {
+      "proposal_id": "MN_V3_AMEND_08",
+      "current_literal_binding": {
+        "body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "current_body_tuple": {
+          "bytes": 42004,
+          "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+          "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a"
+        },
+        "physical_line": 173,
+        "UTF8_byte_start": 39470,
+        "UTF8_byte_end_exclusive": 39747,
+        "complete_current_literal": "| G06 Cross-school ordinary repertoire | OPEN | All 105 selected owners have individually adopted Minato-specific judgments at disclosed grades; their distinct ordinary wants do not complete every school's repertoire or make every participant a uniformly assenting recipient. |",
+        "scalar_UTF8_sha256": "b4ae5f9e7bd6dd2f07776c3837672c9d8b763e62974172876d7141e5e231508d",
+        "source_aliases": []
+      },
+      "frozen_baseline_physical_line": 171,
+      "role": "ROOT_APPROVED_NON_CLAIM_STAGE_FINITE_TEST_OR_OPEN_GAP_SUCCESSOR"
+    }
+  ],
+  "frozen_register_path_sanitization_recovery": {
+    "private_exact_full_beforeimage_preserved": true,
+    "private_all_path_inverse_operations_preserved": true,
+    "restore_sanitized_snapshot_then_original_serialization_yields_exact179420_bytes": true,
+    "public_path_only_fields": [
+      {
+        "original_document_JSON_pointer": "/sources/0/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_f3ad39804d0a34d3ddcbe1cf",
+        "original_scalar_sha256": "f3ad39804d0a34d3ddcbe1cf246ab9438354e161bab38709ca30059105513a1f",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/0/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_9a931834f02f1d49edd0b2af",
+        "original_scalar_sha256": "9a931834f02f1d49edd0b2af4ada88d4dacb83a2617f000acb01d8b4729dde1e",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/0/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_5c2334ca5b2e42a40bc5ebab",
+        "original_scalar_sha256": "5c2334ca5b2e42a40bc5ebaba7d72dbc97eb3bb1c77292f628a8eeae49d61569",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/1/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_3e72f38dfb0b71e05f278856",
+        "original_scalar_sha256": "3e72f38dfb0b71e05f2788568f5ae92bc634c0bfdc164c193a9d7fcd9adb06ac",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/1/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_18b73320ef2c198dcb0e3fdf",
+        "original_scalar_sha256": "18b73320ef2c198dcb0e3fdf1209851e189cb04251477073033d077afacf2ca6",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/1/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_2f3d8520b82f16e8b09a7895",
+        "original_scalar_sha256": "2f3d8520b82f16e8b09a78953615f65ccdf8bbe955a0bf2a8ca5f139c6ff23fe",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/2/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_1038be029f0f72d77416064e",
+        "original_scalar_sha256": "1038be029f0f72d77416064ec5acb7e7c7c744aeffdecbf302eff3082b9395ca",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/2/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_c6668707c61605f6b3d6ff66",
+        "original_scalar_sha256": "c6668707c61605f6b3d6ff66f3e85d7225b6e7b5440525b8bc0f9b32e4b3cf0c",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/2/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_50435ca16111331b4e92938e",
+        "original_scalar_sha256": "50435ca16111331b4e92938e8089bece41cfee9320067c20bec1f4ae0db45c37",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/3/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_613337c266bc18dcdad9016a",
+        "original_scalar_sha256": "613337c266bc18dcdad9016a6be44529bf2a0317748a29e173edc30eca544f1e",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/3/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_c8e10035526dde000bad1a3f",
+        "original_scalar_sha256": "c8e10035526dde000bad1a3f15cc708094c8d30087c989ebc405385106d38603",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/3/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_d26e7c7e85b683fdf56829b3",
+        "original_scalar_sha256": "d26e7c7e85b683fdf56829b377bdfc3522d67f48a77cf263e82eeb98bec73f89",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/4/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_3468fbd43b62b696d0099fa6",
+        "original_scalar_sha256": "3468fbd43b62b696d0099fa69f57c5fbd4168d7d7bd97f0572a423e89675e0a4",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/4/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_5eadb7cd2b69081ecb2b8de4",
+        "original_scalar_sha256": "5eadb7cd2b69081ecb2b8de41f928a97475956bcf40b08edd1cc3c8ad444047b",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/4/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_deda3d4b6d7bfd1b1e277298",
+        "original_scalar_sha256": "deda3d4b6d7bfd1b1e277298fb44fef6399f0b7589d6267daf0253c0af9aa4c7",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/5/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_54fcad126b7f9ebcc92ab124",
+        "original_scalar_sha256": "54fcad126b7f9ebcc92ab1242177fea535745fdbfa945364fb76d636192cf8f5",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/5/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_be1fd4894acc7a10a5ca49f7",
+        "original_scalar_sha256": "be1fd4894acc7a10a5ca49f79131d38933b71729d76635cd8716bcc53164556f",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/5/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_84d78818684aec4be3f314af",
+        "original_scalar_sha256": "84d78818684aec4be3f314af086269a93d8a973d6398c3d0c0d44ead1e6a8bb1",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/6/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_62551ded6b541ee98a0a9617",
+        "original_scalar_sha256": "62551ded6b541ee98a0a961798a9d854e25c104eb6e37e7e761d7b9e916f513c",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/6/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_dacdf0aa40adb60a1348e932",
+        "original_scalar_sha256": "dacdf0aa40adb60a1348e932c8352f7ced490a54a3a7b89a074dfcd731e74772",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/6/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_58111f1cede874205346cbb1",
+        "original_scalar_sha256": "58111f1cede874205346cbb11644b4f5f8d14d2447bc06d6c9ff42947a16622a",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/7/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_587f34353af422d269ed07f6",
+        "original_scalar_sha256": "587f34353af422d269ed07f6b5f1fbd3710e47d1b1a4c84ef409a02a11bf38b8",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/7/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_29d7d1918795a73ad2453234",
+        "original_scalar_sha256": "29d7d1918795a73ad24532342e9f980099de5390a5e0934a1b6ae186d76a19c2",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/7/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_85e2857e8106a67b3fdc68e8",
+        "original_scalar_sha256": "85e2857e8106a67b3fdc68e86ec7027cf0148e06a264ee18963624d5bc929847",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/8/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_fa9fddf716581f28066a49db",
+        "original_scalar_sha256": "fa9fddf716581f28066a49db65edbefa5e97f0e17830df509d61a968662227bf",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/8/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_a67174d2b77f1951b6dd906e",
+        "original_scalar_sha256": "a67174d2b77f1951b6dd906e601313bb84a451ceeebb9a678565694f4ce4faf0",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/8/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_293a231dcfd4e5297f67a9ec",
+        "original_scalar_sha256": "293a231dcfd4e5297f67a9eccfb313522412647680ae9d86a07e8e9484700be2",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/9/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_fa95050936942e55b095275d",
+        "original_scalar_sha256": "fa95050936942e55b095275d5016407a34f58bbb4aa5af63dbf773b18c3e64d8",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/9/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_a9bafedea2b09179b8cd5c1c",
+        "original_scalar_sha256": "a9bafedea2b09179b8cd5c1c67635de9a726764292faf1168ca4efbfd89f8479",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/9/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_784a6efb4b9c56dceff7a940",
+        "original_scalar_sha256": "784a6efb4b9c56dceff7a94042e24e069710cb02b708c96cf1344888cea26f0b",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/10/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_b4a407aa7fb9fb645694898d",
+        "original_scalar_sha256": "b4a407aa7fb9fb645694898d8807345569a73e7d8ccf7b9870b4d40c268ed125",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/10/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_e72c769b936a3767d4995631",
+        "original_scalar_sha256": "e72c769b936a3767d4995631ab6073544f994471d5756ae373f71ffb77cd4f0d",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/10/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_d9047d7005191e74701db804",
+        "original_scalar_sha256": "d9047d7005191e74701db8043aac4c399c1b56e497e54bc5f6ec4d5b327545ec",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/11/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_b608a7b6d4ff3e76232c0d56",
+        "original_scalar_sha256": "b608a7b6d4ff3e76232c0d5694d2cb052a89c3ae7984c041c71e7eca210672f8",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/11/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_99b299023bab7893e5ef549c",
+        "original_scalar_sha256": "99b299023bab7893e5ef549c074c736e701bd63dfa9fcb0d9b983d0d091d4b34",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/11/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_a3925047eef4cbdadecdca95",
+        "original_scalar_sha256": "a3925047eef4cbdadecdca9555aba4ab1b3771216d9bdc72b31001a6d0b62067",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/12/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_799d281a85aada79ca8d4f0a",
+        "original_scalar_sha256": "799d281a85aada79ca8d4f0a3dd696b80caffa48f310f9448aa63271a939b873",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/12/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_a727fa03e4e18db1c99e0440",
+        "original_scalar_sha256": "a727fa03e4e18db1c99e044092ef0f3f70890249a59c0531719dd392743a6afd",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/12/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_0870fca6f28f156501accf0f",
+        "original_scalar_sha256": "0870fca6f28f156501accf0fdbf6a4e50e456351fa1983cfc549b60d10eb3087",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/13/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_8ab3b98b4a454b42dac9be85",
+        "original_scalar_sha256": "8ab3b98b4a454b42dac9be853d6e047534bbea62c564713007d2b7e1d6e7e807",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/13/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_7fa6e8cd4d8b9f0ae5ae7497",
+        "original_scalar_sha256": "7fa6e8cd4d8b9f0ae5ae74977fb8d406dfbe37fa8192b3ee0776e24271e6e347",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/13/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_178ee7102d8dfc7f15b914b3",
+        "original_scalar_sha256": "178ee7102d8dfc7f15b914b3c14ffe3005588c0ebe248a3fdbe2df809ce9f8e2",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/14/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_536c07025417f8305c5822a4",
+        "original_scalar_sha256": "536c07025417f8305c5822a438fc149147e22299f791c1e4375e602c1ede8aaa",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/14/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_9cfdf5a3af3d040ccde3a602",
+        "original_scalar_sha256": "9cfdf5a3af3d040ccde3a602d681b6129c735efcac00e8959366a4e5e1db674f",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/14/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_3abd8dba38b04f3ee12eb790",
+        "original_scalar_sha256": "3abd8dba38b04f3ee12eb790886d4051085c16f68a7309612a75148387a1640e",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/15/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_5390f470a6bf9de22ae7bce1",
+        "original_scalar_sha256": "5390f470a6bf9de22ae7bce1d010c393c7d4d0d613b2411665ea79129d6488d1",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/15/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_b839849be425f503bcb0e30b",
+        "original_scalar_sha256": "b839849be425f503bcb0e30b07000b9d0dd518493e2c00fc7aa1699f9585f665",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/15/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_49a1bb8f9e0232762327fa17",
+        "original_scalar_sha256": "49a1bb8f9e0232762327fa176a3d29d8308f913e1428a88915444364f743625c",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/16/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_0db9ac412815991f7c601228",
+        "original_scalar_sha256": "0db9ac412815991f7c601228b91e5148bfccfd7ea0b9936b974824d224f7710e",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/16/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_3dff918b8b1843733f57d2fd",
+        "original_scalar_sha256": "3dff918b8b1843733f57d2fd9532d8c036cf0bb36979b0f7e8b5c6059363f2f2",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/16/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_85485035b60a28d6f72cac8b",
+        "original_scalar_sha256": "85485035b60a28d6f72cac8baf358ad2d516c498ea4c9139b74f65c9e8dc9a8b",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/17/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_271042bef5b0ac835be359b4",
+        "original_scalar_sha256": "271042bef5b0ac835be359b471e496bed9e92c1badc44b256b13b2becd4d1288",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/17/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_0d9b0fb7282d9c27a56bb9c3",
+        "original_scalar_sha256": "0d9b0fb7282d9c27a56bb9c36351905d18790be62fe53fe9d0931af62a00d9ce",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/17/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_5fc1a62757d3140fbe2f2f2d",
+        "original_scalar_sha256": "5fc1a62757d3140fbe2f2f2d73e49bf62b8d34906aa9927bc3f10923de253779",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/18/exact_owned_copy/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_30196f4cc1c01050f67844a9",
+        "original_scalar_sha256": "30196f4cc1c01050f67844a9df98f8e5fa091fae4e21540e4bb377d3096ef385",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/18/exact_origin/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_f276d4dca75b9c941e35be4b",
+        "original_scalar_sha256": "f276d4dca75b9c941e35be4bae2bb07e41a51aea7fe09c8a28ce88cc1cfc690c",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/sources/18/actual_ROOT_meaning_scope/C_copy",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_a9429fdba837ca42145aee5e",
+        "original_scalar_sha256": "a9429fdba837ca42145aee5ea19dc0fde4758fd58fe949b05bb7e50f0718be0f",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/controls/0/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_af27d3b745c1311eb28b0926",
+        "original_scalar_sha256": "af27d3b745c1311eb28b0926668928752f28735e2d18d1e3c04d396b9cd14b6b",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/controls/1/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_ef12d8dd4bfb80fd64487c77",
+        "original_scalar_sha256": "ef12d8dd4bfb80fd64487c774870a2fe7c2244a9ee56b207153d7c51df53dcaa",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/controls/2/path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_d5388d4d33b202b9a2ff4781",
+        "original_scalar_sha256": "d5388d4d33b202b9a2ff47815ae51ac7758c24ae4fa6d56fb8e02d30103555db",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      },
+      {
+        "original_document_JSON_pointer": "/body_path",
+        "replacement_witness_identifier": "HELD_PREPARATION_WITNESS_5dec90976f5b43572e5d3f85",
+        "original_scalar_sha256": "5dec90976f5b43572e5d3f85b13fb8a0b0f825a65d1ebd487914b179a1adefb5",
+        "role": "HELD_PRIVATE_PREPARATION_ORIGIN_IDENTIFIER_NOT_A_PUBLIC_ARTIFACT_PATH"
+      }
+    ],
+    "private_custody_locator": "FROZEN_MINATO_V3_REGISTER_D9F6B0DC",
+    "no_private_path_strings_or_encoded_originals_published": true
+  },
+  "fixed_receiving_basis_snapshot": {
+    "literal_body_line3_source_reference": "130b9c1c230c928601041b9b8ef4f013d44b24e7",
+    "literal_body_line3_integrated_main_reference": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "role": "FIXED_ACTUAL_RECEIVING_BASIS_SNAPSHOT_NOT_THE_FUTURE_MINATO_PUBLICATION_HEAD",
+    "ROOT_fresh_fetch_witness": "82bad8",
+    "body_bytes_must_not_change_to_predict_future_publication_SHA": true,
+    "current_published_source_packages": 134,
+    "current_named_duties": 14,
+    "main_integrated_packages": 133,
+    "conditional_Minato_package135": "NOT_CREDITED_INSTALLATION_PUBLICATION_AND_FINAL_TRANSPORT_RECEIPTS_REQUIRED",
+    "extra_named_credit": 0
+  },
+  "source_and_credit_limits": {
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "core19": {
+      "whole_admitted_analytical_normals": 18,
+      "adequate_same_ROOT_prior_normal": 1,
+      "source_scope_credit_boundary": "18 fresh complete admitted NORMAL arguments and1 adequate sameROOT prior NORMAL argument with exact documented display repair. No other-writer source receiving, availability or copying is converted to personal primary reading."
+    },
+    "supplemental105": {
+      "ROOT_individually_adopted": 105,
+      "author_complete_normal_scopes": 26,
+      "author_selected_connected_account_scopes": 79,
+      "ROOT_report_receiving_does_not_upgrade_underlying_extents": true
+    },
+    "new_primary_native_raw_AV_private_identity_model_credit": 0,
+    "separate_parents": "Sammy directed care, Odysseia institution, claimant and GSC parents remain separately responsible.",
+    "ordinary_intrinsic_value_and_each_recipient_mode_preserved": true
+  },
+  "current_register_reference": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_CURRENT_COMPLETE_CLAIM_REGISTER_V4.json"
+}

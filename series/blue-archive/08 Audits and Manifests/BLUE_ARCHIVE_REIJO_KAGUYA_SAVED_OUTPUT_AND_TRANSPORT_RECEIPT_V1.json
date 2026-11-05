@@ -1,0 +1,429 @@
+{
+  "schema": "BLUE_ARCHIVE_REIJO_KAGUYA_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 37758,
+      "sha256": "4cfe2c42abc0c6edea7cfc6b9c021adb2ef72bf74a967ebc91bdd0566c295dfd",
+      "git_blob_oid_of_actual_bytes": "42279167fc918b3d06b5e0756bda3b0c94859fb6"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 40512,
+      "sha256": "aeeb130fd45f3f765a2f52c99a2fad1cf494ce2c8276d94dbb714e71620fed5f",
+      "git_blob_oid_of_actual_bytes": "6b86049a9fb26e844faceeb386ffc323a2a74f05"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: directed_relationship_synthesis"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          6
+        ],
+        "canonical_lines": [
+          4,
+          6
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-REL-REIJO-KAGUYA",
+          "source_responsibility: HYS::significant_responsibilities::12",
+          "mandatory_named_duties: []"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          7,
+          8
+        ],
+        "canonical_lines": [
+          7,
+          8
+        ],
+        "original_lines_complete_text": [
+          "generation: V1",
+          "status: candidate_complete_bounded_argument_pending_ROOT_receiving"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_generation: V1",
+          "historical_author_status: candidate_complete_bounded_argument_pending_ROOT_receiving"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          9,
+          18
+        ],
+        "canonical_lines": [
+          9,
+          18
+        ],
+        "exact_unchanged_lines": [
+          "created: 2026-10-10",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_boundary: \"Adequate accepted GROUP3401–3403 argument; independently scoped EVENT839/840 context; Reijo ten private meanings and current shared adoption. Received written analysis, zero new original primary/native/raw/QA/AV. Exact scope receipt controls reuse versus fresh paragraph receiving.\"",
+          "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "Reijo_prior_source_witness: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "allocation_control_snapshot: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+          "current_custody: \"Dated ROOT author allocation reports113 accepted/101 source-published/89 merged; no author provider verification or completion credit. Source/main/control histories remain separate.\"",
+          "authority_quartet: \"Current Cycle004/005/008 accepted meanings; own adequate analytical receiving at declared extents; earlier source authorship/independence UNKNOWN where undeclared, this author exposed to complete endings; performed voice unreceived.\"",
+          "model_or_prediction_authority: false"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          19,
+          18
+        ],
+        "canonical_lines": [
+          19,
+          28
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_KAGUYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          19,
+          21
+        ],
+        "canonical_lines": [
+          29,
+          31
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Reijo–Kaguya: different arts, wanted recognition and the limits of agreement"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          22,
+          21
+        ],
+        "canonical_lines": [
+          32,
+          33
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS at the disclosed author/peer/ROOT scopes. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_REIJO_KAGUYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_REIJO_KAGUYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending, local, bf5/source101 and count statements remain creation-time history. Current published108 source `afb38a20d3714cb0ed7d22013cd7dfc86ad3226b`/tree `8564fbd3afb822096dec0984b5be597f39bddc9b` has an exact ROOT normal-push remote readback; its source→housekeeping→final automatic chain is pending at this capture, and this assembler grants no exact-head integration readiness. Merged89/main `b76b4373e6d0526bc78ce00bb673dba9e536c128` and the completed first25% milestone are separately bound. This fixed six-package109–114 proposal takes effect only through complete ROOT installation, yielding114 (94 character,10 directed relationship,4 ensemble,6 institution) and10 completed non-denominator named duties. Later115+ review/acceptance is excluded from this snapshot. Required355 packages/29 duties across25parents/384homes, next178 milestone, all14 original OPEN gaps and model0 remain unchanged. Mechanical transport supplies no new literary, source, primary, native, raw, QA, performed, independent, identity, scope or model credit. **Package-specific operative qualification:** All148 original lines, both directions, ten adequate Reijo private duties/four wholeMM and source-local Kaguya/public roles survive. Craft aspirations and actual collective exercise coexist with coercion, fear and unresolved dyadic reconciliation. No invented shared private intimacy or universal identity joins. Dated113/101/89 producer labels remain history; the separately bound current source is108afb."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          22,
+          148
+        ],
+        "canonical_lines": [
+          34,
+          160
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. The relationship question and its bounded thesis",
+          "",
+          "**RKG001.** Reijo and Kaguya bring serious artistic aims to their contention while becoming unreliable interpreters of what a third person wants. Their Shanhaijing morning makes those two capacities coexist. The same movements look like kung fu to Reijo and opera practice to Kaguya. Each finds something personally welcome in the sight; neither first asks Kisaki whether that is her purpose. By the meeting, each makes her own lifetime effort depend on her interpretation winning. The relationship is therefore a contest between valued arts and ways of receiving another person's explanation, rather than a sequence that turns simple affection into simple hostility. Kisaki explicitly respects the aspirations; the limits of their contest become visible when specialists demand recognition by overriding the activity's owner. Serious attention to a rival claim does not establish approval of the rival's interpretation. [S01, BA:group:3401:s1:u0009–0030;3403:s1:u0006–0042.]",
+          "",
+          "**RKG002.** The strongest bounded conclusion is that their rivalry permits mutual seriousness without securing mutual answerability. A shared craft vocabulary gives them a reason to approach the same morning and to argue with each other. It also allows each to redescribe contrary answers as further confirmation. Kisaki's declaration that the practice is neither specialty, followed by her clarification that she came to exercise with children, fails to change their pressing. The eventual repair comes when the independent recipients' fear and Kisaki's limit interrupt the dispute. Actual apologies follow, and collective exercise begins. Those outcomes matter, but the text does not print a lasting settlement between the arts or a tested ability to accept one another's interpretation next time. [S01,3403:u0042/u0078–0113/u0117–0134; written actor qualifications in §9.]",
+          "",
+          "**RKG003.** This parent owns the directed Reijo–Kaguya question. It does not complete Reijo's or source-local Kaguya's character home, Mina–Reijo's cinematic investigation, the separately required Rumi directions, Genryumon's governance, or Kai's responsibility. EVENT839/840 provide independent Kaguya artistic and procedural evidence and Reijo's explicit assessment of her; they are not a license to invent additional meetings between the pair. The local morning has a causal order across3401–3403, but its reported prior restriction is tied only to an unnamed incident. I do not identify that incident with839 or840 or manufacture a before/after ladder from numbering. [S01:69/162/166; S02/S03 at declared scope; exact home allocation and partition in receipt.]",
+          "",
+          "## 2. Their arts and ordinary wants have their own value",
+          "",
+          "**RKG004.** Reijo's first pleasure is the apparent discovery of a martial companion, an unlikely person who might understand a practice she enjoys. She dislikes Genryumon's noise, discourtesy and self-law attitude, yet makes Kisaki a qualified exception. That distinction shows judgment and partial affection rather than uniformly anti-office resentment. Her later disclosure to Rumi is delighted and socially directed: she wants to share the discovery and widen martial company. The wish does not require a crisis, measurable advancement or institutional success to count as evidence. Its analytical importance begins with what she finds enjoyable. Rumi's private skepticism does not make that pleasure unreal, though withholding correction leaves its mistaken basis intact. [S01,3401:u0009–0011/u0016–0049.]",
+          "",
+          "**RKG005.** Kaguya's desired recognition has a different history within this scene. She reports a restraint on club activity and fears that the club has been abandoned. Reading Kisaki's exercise as opera practice lets her imagine both renewed public performance and loyalty returned. This is a wanted place for her art and her members, not only an urge to defeat Reijo. The limitation is equally concrete: no actual restriction is rescinded by the movements. Kisaki has not communicated the reassurance that Kaguya takes from them. A real need for non-abandonment can explain why a hopeful interpretation is attractive without verifying that interpretation or granting control over its supposed author. [S01,3401:u0012–0015/u0024–0030/u0050–0065.]",
+          "",
+          "**RKG006.** EVENT839 keeps Kaguya's art from being reduced to a status grievance. In the represented theatre encounter she explains roles, masks, technique and martial/artistic training; Cherino genuinely wants to know more and is disappointed that later performances keep her from the walk. Kaguya's inward understanding recognizes reciprocal meeting between schools. Those are specific interests and responses, with work that limits available company. They are evidence of an artist's worthwhile practice even though the same event later gives coercive remonstrance. The performance is a represented written event: I have not heard its music, observed its acting or certified its technique. Nor is this encounter an unprinted Reijo–Kaguya outing. [S02:98–100; BA:event:839:004:s1:u0001–0169.]",
+          "",
+          "**RKG007.** Reijo's accepted private repertoire likewise keeps her from becoming only the competitive martial advocate. Voluntary weekend/weather rest, embarrassment over mental-discipline grades, fictional kung-fu restaurant discussion and shared genre pleasure coexist. Her wish to be protected at least once and her locally calm, tentative closeness with Sensei show that competent guarding does not exhaust what she wants. Attention to children's food shapes and preferences belongs to her recipient-facing work; her own desired sweets and pleasure in being asked to welcome children again retain their different ordinary value. None is a Kaguya encounter; their use here is comparative. They prevent explaining all her attachment to kung fu as domination while also supplying actual contrasts to her failure to listen during the morning. [S04:97–109; BA:bond:10104:002:u0020–0021/u0045–0053;003:u0085/u0099–0100;006:u0055–0062.]",
+          "",
+          "## 3. Reijo toward Kaguya: shared seriousness, competing interpretation",
+          "",
+          "**RKG008.** Reijo enters the contest with a valued understanding of disciplined movement, then treats the observed body as confirmation of that understanding. Her view of Kisaki as an exception to an objectionable institution helps make the interpretation personally satisfying. It is possible to respect the individual and still fail to ask her purpose. When Kaguya supplies a rival artistic reading, the disagreement concerns whose life's work is recognized through Kisaki. It is more intimate to each art than a casual factual dispute: the represented effort of a lifetime raises the cost of conceding. That intensity explains the stakes for Reijo without proving an insult was spoken or a forceful test enacted. [S01,3401:u0009–0023;3403:u0006–0039.]",
+          "",
+          "**RKG009.** The directed exchange does contain restraint. Reijo and Kaguya's private near-insults mark rivalry while keeping those particular insults out of spoken address. Their proposed appeal to force is later printed, but an actual fight between them is not. A reading that makes Reijo already assault her counterpart would falsify the local endpoint; one that treats suppressed contempt as absence of antagonism would lose the thought-level evidence. The distinction between what she thinks, proposes and does is part of the relationship's psychological shape, not a technical footnote. The later apologies similarly count as real changes in local conduct without proving a stable internal conversion. [S01,3403:u0032/u0037/u0073–0077/u0100–0107; actor seams retained in §9.]",
+          "",
+          "**RKG010.** Reijo can accept limits when a different social purpose is clear. Martial researchers ask for help and invite her to join. She declines membership because of Genbu work while accepting cooperation and instruction. She does not need to choose between abandoning her employment and refusing all craft company. That positive act is evidence against an invariant that enthusiasm always consumes her duties or every refusal. It also sharpens the adverse morning case: while she can state and preserve her own boundary, she and Kaguya continue to absorb Kisaki's explanation into their own specialties. Refusal respected in one direction does not guarantee reception of another person's refusal. [S01,3401:u0070–0082;3403:u0078–0088.]",
+          "",
+          "**RKG011.** EVENT840 adds a different Reijo-to-Kaguya act: her assessment of the absent artist in a conversation about imposed office. Reijo estimates Kaguya to be a stubborn artist rather than an ambitious politician; the account then prints Kaguya's categorical refusal of the headship because tradition cannot be defended by violating it and her members exist to perform theatre. This is evidence that Reijo's adversarial counterpart need not be read as an empty power-seeker. It is not a dialogue in which Reijo persuades Kaguya or Kaguya hears and accepts her judgment. Reijo's later preference not to publicize Kaguya's situation preserves another local position toward her, with resumed theatre and a strategy of secrecy; it does not prove reconciliation, transparency or shared consent. [S03:109–111/128; BA:event:840:009:s1:u0074–0090/u0131–0164;017 tail.]",
+          "",
+          "## 4. Kaguya toward Reijo: an art to keep, a judgment to defend",
+          "",
+          "**RKG012.** Kaguya's stance toward the rival is grounded in a conviction that the shared movement belongs to opera. Her members themselves question what distant observation could establish and how Kisaki would know their unique dance. Kaguya insists on her eyes and invokes supposed all-knowing authority while also identifying movements needing instruction. The combination is telling: her confidence is not merely faith in perfect imitation, since she still finds an instructional role for herself. It is a way of making the leader's activity available to her art and its survival. Against Reijo's reading, that conviction becomes a competing claim to interpretive authority. The doubts come from her own peers, so contrary agency is present before the rival or the ruler corrects her. [S01,3401:u0050–0065;3403:u0006–0039.]",
+          "",
+          "**RKG013.** She organizes the opera members to show reverence and dance at the park. That is actual mobilization of her own practice and company around a purpose Kisaki has not voiced. At the later meeting, Kaguya's announced accompaniment/instruction conflicts with Reijo's; each discounts the other's explanation. Calling this simply reciprocal recognition misses who must receive the display and how the display changes the intended children's activity. Calling it wholly malicious equally loses loyalty, craft and hoped-for non-abandonment. The directed relation works because genuine aims can compete over a third person's action without either aim being intrinsically worthless. [S01,3401:u0083–0091;3403:u0006–0042/u0078–0091.]",
+          "",
+          "**RKG014.** Her EVENT839 conduct must remain a serious contrary context. Kai praises her theatre and claims to understand her humiliation, but Kaguya initially refuses to explain her response. Kai's attribution is therefore not initially her self-report. Her subsequent anxiety about Genbu commerce, outside influence and tradition, and her claim that her concern is loyalty to school rather than Kai's affair, supply an independent ideological/artistic position. Collaboration and manipulated vulnerability are represented; they do not authorize making every objection a ventriloquized Kai motive. Reijo's commercial institutional position can be compared with that anxiety, but I do not fabricate a conversation in which Kaguya directly accused Reijo of every feared change. [S02:120; BA:event:839:006:s1:u0050–0148.]",
+          "",
+          "**RKG015.** That independence does not exonerate methods. Kaguya's coercive school-or-head demand and performance directed at Kisaki impose recipient costs. Her later procedural objection to erased records and shortcut expulsion remains specific: she would process and publicly expel Kai again, forcibly if required, rather than freely install her. EVENT840 substantiates the procedural problem through Kisaki's admission, prints Kaguya refusing the title and retaining remonstrance, and records a poor bodily condition with ordered treatment but no completed recovery. Those distinctions prevent turning the rival into either a wholly false critic or an artist whose sincerity renders pressure harmless. They are bounded public contexts for evaluating her reception of others, not unprinted Kaguya-to-Reijo injuries. [S02:122–128; S03:111/116/119–121;839:010/014;840:009–012.]",
+          "",
+          "## 5. A shared movement does not make a shared purpose",
+          "",
+          "**RKG016.** The local information chain matters causally. Kisaki enjoys private exercise and not being seen. Reijo and Kaguya view it through their own crafts; Rumi doubts yet withholds correction; club members question distant interpretation; rumors expand; Kokona brings reports; a meeting planned for children attracts specialist instruction. This sequence does not require an analyst's theory of a whole school's credulity. It shows particular channels and missed opportunities to ask, with different degrees of confidence. The pair's relationship intensifies through parallel organization and direct contention, not through every rumor becoming true. [S01,3401:u0001–0091;3402:u0026–0049/u0061–0080.]",
+          "",
+          "**RKG017.** Their reliance on eyesight makes the error resistant to an ordinary correction. The observation that a body moves is true; the supposed kung-fu/opera purpose is not thereby secured. At the meeting, each redescribes Kisaki's denial inside the very expertise being denied. The owner of the activity is consequently treated as a vessel for what the specialists need the activity to mean. The crucial counterevidence is her actual explanation, not an external skill test: she came for ordinary exercise with children. The relation's conflict concerns access to purpose and willingness to hear an answer, while physiological benefit, height change and martial/artistic certification remain outside the demonstrated outcome. [S01,3403:u0042/u0078–0088;3402:u0043/u0048–0060.]",
+          "",
+          "**RKG018.** The pair's rivalry is also dependent on attention from someone who does not want to carry all their expectations. Sensei encourages meeting the crowd's wishes; Kisaki limits that suggestion by saying those three expectations need not be met. She respects aspirations while rejecting their imposition at children's expense. A ruler is therefore neither simply an unlimited provider of recognition nor a final judge who must destroy unwanted arts. The relationship can keep valuable incompatible practices only if practice and audience purpose are distinguished. The text achieves a local interruption of imposition; it does not print an agreement on that principle between Reijo and Kaguya for all later encounters. [S01,3403:u0066–0072/u0093–0107.]",
+          "",
+          "## 6. Independent recipients, local repair and what remains unfinished",
+          "",
+          "**RKG019.** The researchers' membership invitation is an actual offer from others with their own organization, and Reijo's cooperative refusal is its actual answer. Opera members' questions are likewise substantive: distance and uniqueness matter to them, rather than existing only to display Kaguya's confidence. Rumi adds affectionate tolerance, skepticism and a contemplated snack whose delivery is not printed. These directions should remain visible beside the titular pair. They establish a social environment where supporters can want different things, where questions need not be hostile and where enthusiasm does not grant automatic recruitment or gift completion. [S01,3401:u0031–0065/u0070–0091.]",
+          "",
+          "**RKG020.** Kokona requests participation for herself and the children after having stopped the exercise when she heard it would not affect height. Kisaki accepts that request, then the specialist dispute makes children and Kokona afraid. Their response is the decisive adverse outcome of imposed instruction in this morning. The children are not a metaphor for school legitimacy alone: they wanted an activity and experienced fear. Kisaki's protection interrupts the disputants, but her loudness also frightens them and draws her own apology. A relationship analysis cannot credit the pair's eventual repair by suppressing the recipients who made repair necessary or the protective means that themselves needed correction. [S01,3402:u0071–0080;3403:u0089–0113.]",
+          "",
+          "**RKG021.** Reijo/Kaguya apologies, Rumi's intervention and the begun collective exercise are positive outcomes. The object does not end with only imagined improvement: Kisaki chooses the collective moment, Mina joins and narration affirms a lively start. Yet the original solitude is lost; the participation trend is explicitly hedged; no enduring health benefit, rule amendment, permission restoration or rivalry cessation is demonstrated. These are separate endpoints. Respecting a finite achievement is compatible with refusing to inflate it into institutional or interpersonal closure. [S01,3403:u0101–0113/u0117–0134.]",
+          "",
+          "**RKG022.** Nor can EVENT840's successful festival close the morning's specific dispute retrospectively. Theatre has resumed and the festival is real; Reijo reports sales along with personnel burdens and encounters quarrels. Kaguya has retained criticism and incurred bodily cost, with treatment ordered rather than recovery shown. Reijo's chosen secrecy may support stability while leaving transparent accountability incomplete. These actual contextual endings change the possibilities of a simple oppression-versus-freedom interpretation, but supply no missing reconciliation dialogue or mutual consent between the artists. They deserve their own value without becoming an invented dyadic happy ending. [S03:119–130;840:011–012/017.]",
+          "",
+          "## 7. Private contrast and a relationship that does not own every encounter",
+          "",
+          "**RKG023.** Reijo's E003 provides a meaningful contrast in how she receives purpose. Asked for help with operational problems and children, she can retain ownership of the task while accepting that listening may be enough. Children's desired food shapes, favorites, dislikes and a labor critique become substantive requests rather than faults she must eliminate. That scene does not demonstrate permanent mastery of listening: proposed supply and record repairs remain unverified. It does, however, prevent a universal portrait in which her martial confidence always makes others inaudible. The morning supplies an adverse episode, the private material a genuine contrary possibility, with no invented chronology that declares one her final state. [S04:101;10104:003:u0013–0018/u0047–0056/u0085/u0099–0100; S05:299.]",
+          "",
+          "**RKG024.** Her E005 inspection likewise has two sides. She admits prior fault and initially cooperates with hygiene checks; the criteria shift toward guessing wishes and political symbols. Her chosen anger and future-sweets leverage draw repeated apology, without an enacted cancelled shipment or full sanitary certification. A student who has experienced an official's moving standard can nevertheless impose an interpretive standard on Kisaki in the morning. That comparison gives neither a causal excuse nor an invariant accusation. It exposes the difference between a particular understandable resistance and a reliable capacity to respect every other person's definition of an activity. Sensei's alarm and her universal kung-fu conclusion preserve fallible learning. [S04:105;10104:005:u0005/u0070 and complete adequate argument; S01,3403:u0078–0088.]",
+          "",
+          "**RKG025.** Reijo's wish to receive protection, calm amid noise and initiated tentative closeness remain independent wanted ends. They cannot be made evidence that she secretly wants Kaguya to protect her, that the pair are romantic, or that rivalry disguises a shared private dependency. Similarly, Kaguya's artistic curiosity and desire for recognition do not create a positively received private pool. The asymmetry in available material is a source boundary, not an eligibility ranking: the public-local named artist is substantial on her own terms, while the exact ten Reijo meanings supply a different kind of comparison. No low-stakes private texture is discarded, and no missing encounter is invented to make the two archives symmetrical. [S04:109/113/153; S05:297–301; S01:162; S02:100.]",
+          "",
+          "## 8. Arts, office and procedural criticism without a simple institutional verdict",
+          "",
+          "**RKG026.** The morning is a multi-institution setting. Reijo's Genbu work constrains joining a research club; Kaguya directs opera members; Kisaki is the head; Kokona speaks as Garden instructor. A folder labeled as one club cannot assign all of them shared membership. Nor does institutional difference make every Reijo–Kaguya disagreement a Genbu-versus-Genryumon conflict. What is directly at issue between them is the interpretation and instruction of movement. Their relation is conditioned by work, restriction, recognition and authority, but it still belongs to persons with craft pleasures. [S01:67/79–87/162;3401:u0009–0091.]",
+          "",
+          "**RKG027.** Kaguya's EVENT839 procedural criticism deserves the full contrary force given by EVENT840. She objects to expulsion without customary procedure and record deletion, not simply to Kai being removed. Kisaki later admits the shortcut and fairness problem while explaining fear of a slower process. That does not legally vindicate every Kaguya action, inspect a statute or make coercive encirclement harmless; it makes her specific criticism more than a false premise. Reijo's judgment that she is an artist rather than a would-be ruler is consistent with the printed headship refusal, but does not settle how artistic loyalty should exercise public pressure. Directed recognition and institutional legitimacy remain different analytical questions. [S02:124/128;839:010/014; S03:109–116;840:009–010.]",
+          "",
+          "**RKG028.** Kaguya's retained remonstrance and chosen sacrificial language complicate a simple defeated-critic ending. She wants public defeat to restore Kisaki's authority, admits that her earlier action needed greater caution and still does not regret remonstrating. Kisaki rejects the proposed path, yet the next object records Kaguya's poor condition and treatment orders. I cannot infer a bloodless solution, a precise technique or completed recovery. The morning's refusal to print an actual duel likewise remains separate from this contextual bodily cost. A literary account can compare forms of pressure and repair without awarding empirical martial certification to either artist or rewriting harm as a harmless lesson. [S03:119–121;840:011:u0061–0090/012; S01,3403:u0073–0077/u0101–0113.]",
+          "",
+          "**RKG029.** The actual resumed theatre, whole-school festival and increased commerce in840 coexist with secrecy, staff burdens and conflict. Reijo's preference not to publicize Kaguya's situation is intelligible as a stability choice and still leaves the recipients' access to information unsettled. Those endings block both total failure and total reform interpretations. Genryumon's institution home, Kaguya's independent character duty and Kai's disposition must carry their own sustained arguments. This relation can state how they constrain evaluation of the pair; it cannot complete those duties by treating them as context already settled. [S03:128–144;840:017; distinct355 home allocations.]",
+          "",
+          "## 9. Written address, choices and literal actors",
+          "",
+          "**RKG030.** The G340 owner retains fifteen display/text discrepancies. The apparent Reijo/Kaguya reversals at3403:u0017–0021 andu0069–0070 are seams between staged actor labels and text-bearing commands, not a printed psychological exchange of beliefs. The same care governsu0078: canonically Kaguya while the text-bearing actor is Kisaki stating her purpose. Atu0100 the text-bearing reply is Reijo; atu0108 it is Rumi's intervention despite the other canonical label. I preserve locked labels and qualify the person-level inference through the accepted controls, rather than silently rewrite actors or claim a new raw verification. These distinctions are consequential to who refuses, presses, answers and repairs. [S01:133–154; exact table and DataList offsets in the bound owner.]",
+          "",
+          "**RKG031.** Their near-insults atu0032/u0037 are private-style wording despite structural dialogue. They do not authorize the claim that either heard that precise insult. Rumi's inward skepticism similarly differs from a correction delivered to Reijo. Seven retained Sensei-internal units, including practical offers and remarks answered by others, have unresolved audible audience. Neither replacing them with spoken dialogue nor declaring every responsive exchange telepathy is warranted. This analysis can securely distinguish written proposals, authored addressed answers and narrated actions while leaving acoustic delivery unreceived. [S01:156–160; S04:123–127 for independent private analogues.]",
+          "",
+          "**RKG032.** The fifteen formal choice groups/eighteen options in G340 are inherited source-producer extents, not new source work by this author. The paired teacher alternatives do not assemble into a single enacted history; fixed prompts are not proof of player refusal. Kokona's requested instructor address and the authored response matter without establishing that the handkerchief was actually handed over. Kisaki's limitation of crowd expectations, her children's commitment and narrated collective start supply stronger local actor/endpoints than a generic claim that Sensei resolves the dispute. Role and audience judgments must therefore follow the specific represented act. [S01:101/109/117/156–158;3403 choice003/u0114–0116.]",
+          "",
+          "**RKG033.** Kaguya prints a full named identity while retaining an empty person join. GROUP340's 漆原カグヤ and839's printed ruby form remain source-local literary witnesses; neither authenticates a typed private-family mapping. Reijo is 鹿山レイジョ, literal REIZYO/BA_PERSON_REIZYO/10104. The anonymous clubs, constituents and collective children remain local roles. No earlier generic executive is retrospectively Mina, no similarly labeled child is a cross-event individual, and no Shanhaijing Kai is the unrelated Main visitor/examiner. The evidence is Japanese written representation, with event-local Korean actor-label cautions retained by the accepted owner; no Korean semantic equivalence or performed voice is supplied. [S01:40–63/162; S02:100/136; S03:133–135; S04:78–91.]",
+          "",
+          "## 10. Seven competing readings tested against the same endings",
+          "",
+          "**RKG-R01 — Only comic vanity.** The confident misreadings and lifetime-effort language do support wounded pride. Yet Reijo wants martial company, declines research membership for actual work, and Kaguya needs a place for art and recognizes reciprocal school exchange. These are positive independent ends with actual social answers, not simply invented excuses for the joke. The better bounded reading retains pride's distortion without making all artistic seriousness false. [S01:79–87/105/125; S02:100; S04:97–109.]",
+          "",
+          "**RKG-R02 — Uncomplicated mutual enrichment.** Different arts sharing a movement can create interest in practiced art; Kisaki explicitly respects their aspirations, while reciprocal approval between the rivals remains unproved. The same sequence prints incompatible instruction, a purpose both keep redescribing, children frightened and apologies required. Shared activity begins only after interruption and repair. Mutual enrichment remains a possible local good; it is not an adequate total description of this encounter or an established durable outcome. [S01,3403:u0006–0042/u0078–0134.]",
+          "",
+          "**RKG-R03 — One movement proves equivalent skill.** Both interpretations begin with a body actually moving. That secure observation does not establish the owner's intended craft, either specialist's tested competence, or that their techniques are identical. Kisaki says neither; the final activity is collective exercise, not an adjudicated duel or empirical training trial. The source supports a dispute over interpretation and recognition rather than a technical equivalence theorem. [S01:77–87/105–119/184.]",
+          "",
+          "**RKG-R04 — Kaguya is only Kai's puppet or a wholly false critic.** Kai does manipulate vulnerability and proposes collaboration. Kaguya initially withholds a self-explanation, has real artistic work, retains a specific procedural objection, refuses an illegitimate headship and understands the burden of limited office experientially. Those contrary acts prevent erasing her independent position. Her coercion, harmful insistence and retained remonstrance remain equally real. Independence does not clear her methods, and influence does not make every judgment unreal. [S02:100/120–132; S03:109–121.]",
+          "",
+          "**RKG-R05 — Reijo's opposition is purely rational professionalism.** Her work-constrained membership refusal and contextual judgment of Kaguya are serious positive cases. Her inaccurate purpose inference, proposed force, private near-insult and universalized kung-fu lesson from another confrontation are adverse cases. Her own rest, company and protection wishes also exceed a professional role. The evidence supports situationally capable and fallible receiving, not a person-wide defect or flawless competence thesis. [S01:79–87/105–115; S03:109; S04:97–109.]",
+          "",
+          "**RKG-R06 — Comic recipient fear has no weight.** The humorous setting does not remove the children's wanted activity, Kokona's participation request, the directly expressed fear or the apologies. Kisaki respects aspirations while limiting their imposition, then recognizes that her protective loudness too has an effect. Recipient costs shape the achieved repair inside the narrative itself. Those claims need no high-stakes injury to qualify as evidence. [S01:101/113–119;3402:u0071–0080;3403:u0089–0113.]",
+          "",
+          "**RKG-R07 — Apology and exercise end the rivalry.** Apologies and a lively start are achieved local goods and should not be replaced with pure failure. The text's trend is hedged, no sanction rescission is printed and no next encounter shows permanently revised reception. EVENT840's resumed theatre/festival is likewise no missing dyadic reconciliation. The appropriate conclusion credits actual repair and stops at its demonstrated extent. [S01:115/119/129; S03:128–135.]",
+          "",
+          "## 11. Bounded conclusion, exact custody and original fourteen OPEN gaps",
+          "",
+          "**RKG034.** The relation's literary value lies in how substantial arts and independently wanted recognition can both make company possible and make another person's answer harder to hear. Reijo and Kaguya bring serious practice, defend different readings, restrain some private contempt and still propose force. The local community interrupts the imposition, obtains apologies and begins exercise. Neither the artists' desires nor the recipients' costs are expendable background. Their shared morning is a complete bounded argument about recognition with limits; its achieved repair has value without demonstrating permanently good judgment, technical equality, cured bodies or settled governance. [S01 complete; independent contrary contexts S02–S05.]",
+          "",
+          "**RKG035.** The source receipt distinguishes actual fresh analytical receiving from prior adequate custody. S01 is the accepted GROUP3401–3403 owner, personally read here in full188 lines; S04 the accepted Reijo normal checkpoint, full153. S02 EVENT839 was previously personally whole158, with fresh complete94–136 consequential context here; S03 EVENT840 previously whole149, with fresh86–144 and a complete109–126 repair of clipped output; S05 shared account is received at current142–178 and Reijo295–302, with earlier bounded scope retained and no whole560 claim. No original canonical story, native table, raw record, image, audio or QA stream is newly received. The five exact source-copy tuples and controls are frozen beside this body. Evidence locators use the bound owners' story/episode and s1/unit abbreviations; they identify textual warrants, not newly recovered metadata records.",
+          "",
+          "**RKG036.** Current Cycle004/005/008 accepted analytical meanings qualify the owners' historical pending, UNADMITTED and unapplied creation-stage wording. Source7546 Reijo custody, oldmain2e baseline, bf5 allocation controls, mergedb76 and same-tree2714 ROOT reports remain distinct dated witnesses. The author's complete earlier exposure to these endings supplies no held-out diagnostic opportunity or independence claim. ROOT's113/101/89 allocation report and completed bf5 provider-chain report are attributed documentary state, not this author's fresh provider verification. Candidate completion is proposed only for the bounded literary argument; ROOT review/adoption and all other355/29/25 responsibilities remain separate.",
+          "",
+          "| Original stable gap | Contribution and remaining claim-specific warrant | Status |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | Craft, hoped-for company, rest, recognition and refusals contribute intrinsically; no complete Kaguya private repertoire or unprinted pair encounter. | OPEN |",
+          "| G02 Yuuka council/club decision transfer | This artistic relation gives no Yuuka council/club transfer warrant; the original dedicated question remains outstanding. | OPEN |",
+          "| G03 Serika service, peer and reciprocity range | Local reciprocal receiving does not discharge Serika's private/service range or authorize cross-character transfer. | OPEN |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | No Hina causal or accountability conclusion follows from this morning's arts comparison. | OPEN |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Quiet company is retained as a method and an intrinsic end; the specific Arius/PS68 source duties remain separate. | OPEN |",
+          "| G06 Cross-school ordinary repertoire |839 contributes qualified arts/exchange context at actual actors; no full repertoire or automatic pair coappearance. | OPEN |",
+          "| G07 Story-world chronology | Local3401–3403 sequence is causal; unnamed prior incident and global placement of group/private/events remain unproved. | OPEN |",
+          "| G08 Event naming and repeat contexts |839/840 and repeated costume840/10840 conditions remain exact contexts; repeats do not make new pair scenes. | OPEN |",
+          "| G09 Written speaker/choice attribution | Fifteen G340 seams, private near-insults, inward Sensei, alternative choices and event-local drift remain qualified. | OPEN |",
+          "| G10 Performed voice | Written Japanese only; no acted delivery, acoustic technique, timing or synchronized media reception. | OPEN |",
+          "| G11 Hoshino's Yume record and office states | No Hoshino/Yume duty is discharged or transferred by Shanhaijing comparison. | OPEN |",
+          "| G12 Counterpart, system and variant identity | Reijo10104 literal scope; named public-local Kaguya retains empty join; no new private/person continuity or Kai visitor merge. | OPEN |",
+          "| G13 Office, contract, safety and technical outcomes | Proposed force differs from fight, apology from durable repair, exercise from skill/growth proof, ordered treatment from recovery, resumed theatre from transparent reform. | OPEN |",
+          "| G14 Unclassified/mode continuity | Only admitted selected modes are used; no unclassified continuation, conditional UI scene or other mode is imported as pair history. | OPEN |",
+          "",
+          "**RKG037.** No unresolved source ambiguity is used to carry an asserted stronger actor or ending claim: exact accepted controls secure the bounded descriptions, and unprinted outcomes remain unprinted. Stronger claims would need their specific evidence—later reconciliation, rescinded restrictions, verified technique/growth, clinical recovery, completed accountability, authenticated private joins, global chronology or actual media. The required independent Kaguya/Reijo character homes, Mina–Reijo, Rumi directions, Genryumon, Kai and other institution/ensemble/Sensei/register duties are full Phase3 responsibilities, not optional enrichment. This candidate neither counts them nor excuses them; it makes one existing directed responsibility concrete for independent ROOT receiving."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 37758,
+      "sha256": "4cfe2c42abc0c6edea7cfc6b9c021adb2ef72bf74a967ebc91bdd0566c295dfd",
+      "git_blob_oid_of_actual_bytes": "42279167fc918b3d06b5e0756bda3b0c94859fb6",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.json",
+      "bytes": 146782,
+      "sha256": "f784d03e6b175edc2430bff71a6b18a38931f50640ad1c74933d371624959d2b",
+      "git_blob_oid_of_actual_bytes": "abdc74faa60ed042a46b9fd50eb9eee836d25680",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json",
+      "bytes": 4360,
+      "sha256": "8ec463f7cc9d0c6966e4063d5f1995689c33eb5196a8635481aa4ffbd04325a2",
+      "git_blob_oid_of_actual_bytes": "821c71c62db9c9f848f76fc98db15869141101b2",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_DIRECTED_SYNTHESIS_FROZEN_OUTPUT_MANIFEST_V1.json"
+    },
+    {
+      "path": "ROOT_REIJO_KAGUYA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+      "bytes": 5377,
+      "sha256": "1798ae190afb7d29c74d78b1a0999886ad0c25c419c997f49adbde87b5c7c3c9",
+      "git_blob_oid_of_actual_bytes": "6dedc8c8c0b28ddc0001a2a5cfc5b5201728a2ab",
+      "immutable_transport_path": "immutable_originals/ROOT_REIJO_KAGUYA_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+      "bytes": 8535,
+      "sha256": "e281613934c06218ec5b31ea30f9264a3c844a3fe21628c5a72455a7857d8ea2",
+      "git_blob_oid_of_actual_bytes": "926b0ab20ead5e73ba7ffff235473c1736a74249",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_COMPLETE_RECEIVING_RECEIPT_V1.md",
+      "bytes": 4249,
+      "sha256": "397d2df6d749459583da3aa255a21ca5004916d28a6e31dbcb967ae175ce3b60",
+      "git_blob_oid_of_actual_bytes": "0be0f187aa42866ccf44a55e63fb64009b42af6d",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_COMPLETE_RECEIVING_RECEIPT_V1.md"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_EXACT_SOURCE_COPY_BINDINGS_V1.json",
+      "bytes": 3547,
+      "sha256": "7b396d899483cb437895625312fe86b9b9c62fd3f49ef4948a106ebbe976dbed",
+      "git_blob_oid_of_actual_bytes": "de598a78b70845c15c44fa844627cb63807a3fb2",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_EXACT_SOURCE_COPY_BINDINGS_V1.json"
+    },
+    {
+      "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+      "bytes": 3081,
+      "sha256": "421a26d5daab22ef6d97b67760fc9f702708592065d90a36fe1390ed59dcfe8c",
+      "git_blob_oid_of_actual_bytes": "a94ec349b737bece61c79e20856af184d3604b47",
+      "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json"
+    }
+  ],
+  "canonical_link_translations": [],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "aeeb130fd45f3f765a2f52c99a2fad1cf494ce2c8276d94dbb714e71620fed5f",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 40512,
+        "sha256": "aeeb130fd45f3f765a2f52c99a2fad1cf494ce2c8276d94dbb714e71620fed5f"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 40549,
+        "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/17",
+      "retained_value_utf8_sha256": "bf68cab2740819c1d2513c9b98ddfea0c03994ff9db47ed3bd27af2ea1bd554d",
+      "finding_ids": [
+        "P30-P3-REL-REIJO-KAGUYA-L51"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_REIJO_KAGUYA_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 40549,
+      "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499",
+      "lines": 160,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40549,
+        "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 40549,
+        "sha256": "b309c03f109dba39b0765ec8e67ad1a20f50eabe1ad1131f0f03a8e31473e499"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

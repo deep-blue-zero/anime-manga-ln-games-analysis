@@ -1,0 +1,1981 @@
+{
+  "schema": "KONOSUBA_YORI03_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-19T02:14:15.912871+00:00",
+  "source_id": "YORI-03",
+  "H_protocol": "H1 literal source-compatible conduct; H2 bounded amplification; H3 local-punchline behavior unsafe to generalize; H4 actual nonliteral behavioral license. Magic, imagined acts, a knowingly bounded alternate history, deception and unknown cause are not automatically H3/H4. Selected whole causal effects here are H1, not every intensity or sentence.",
+  "L_protocol": "L0 portable proposition; L1 material phrasing/rhythm; L2 pragmatic audience, scope or register; L3 a central Japanese form needing reconstruction/annotation. A name, ordinary idiom, trope, polysemy or ruby alone is insufficient. Two narrow orthographic/ruby mechanisms receive L3; the possible weather allusion remains qualified.",
+  "selected_record_count": 98,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 98
+    },
+    "L": {
+      "L2": 95,
+      "L0": 1,
+      "L3": 2
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "YORI03-WHOLE-H001",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 6,
+        "end_P": 39
+      },
+      "whole_selected_premise": "Aqua's announced journey is a same-day stone outing, with an unwilling escort assigned by others.",
+      "primary_L": "L2",
+      "L_rationale": "Duration, excluded companions and D's explicit question change the social meaning of the grand departure.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Aqua actually drags D; a protective class does not establish accepted work or a completed safe expedition.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H002",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 53,
+        "end_P": 61
+      },
+      "whole_selected_premise": "A forbidden grand stone name raises M's expectations before Wiz identifies an ordinary stone.",
+      "primary_L": "L2",
+      "L_rationale": "The pragmatic promise of mystique is explicitly denied by the provider's account.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No effect for this stone is not proof all shop merchandise is fraudulent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H003",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 65,
+        "end_P": 80
+      },
+      "whole_selected_premise": "An unlabelled ring is appraised, then M wears it before the unspecified cost is explained.",
+      "primary_L": "L2",
+      "L_rationale": "Her delighted response and K's unwanted removal threat have separate recipients and scope.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Neither the threatened contact nor a successful removal occurs; do not fill in missing cost knowledge.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H004",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 89,
+        "end_P": 103
+      },
+      "whole_selected_premise": "M calls first possession ownership and assigns K the bill, while Vanir cites a contracted buyer.",
+      "primary_L": "L2",
+      "L_rationale": "Competing ownership accounts and K's explicit refusal prevent a completed purchase reading.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No accepted K payment or completed prior buyer delivery is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H005",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 105,
+        "end_P": 124
+      },
+      "whole_selected_premise": "Destructive removal and Steal proposals meet M's apology and request to wait for Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "The perceived consequences change what she asks for despite wanting the power.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Neither removal proposal is performed; later field testing is her actual choice.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H006",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 130,
+        "end_P": 147
+      },
+      "whole_selected_premise": "A real eye-beam kill gives way to painful eyes and K's actual cooling help.",
+      "primary_L": "L2",
+      "L_rationale": "M's urgent help request interrupts K's detached power appraisal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual target effect and actual cost coexist; no uncontrolled wider power or medical claim.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H007",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 151,
+        "end_P": 161
+      },
+      "whole_selected_premise": "An accidental paralysis becomes an exploited restraint and retaliation threats.",
+      "primary_L": "L2",
+      "L_rationale": "M's surprise precedes deliberate use; K's sexualized captivity framing is explicitly rejected.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Critical non-graphic account only; no imagined intimate act or consent from incapacity.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H008",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 163,
+        "end_P": 178
+      },
+      "whole_selected_premise": "K's true frog warning is disbelieved after his teasing, and release bargaining arrives too late.",
+      "primary_L": "L2",
+      "L_rationale": "M attributes the mistake to his customary smooth talk; K disputes the blame.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual frog defeat and M's washing are retrospective; no timely voluntary release is credited.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H009",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 183,
+        "end_P": 214
+      },
+      "whole_selected_premise": "Guild comparison turns M's avoidance into a surprise binding presented as personal awakening.",
+      "primary_L": "L2",
+      "L_rationale": "Public rank pressure, concealed ring means and Yun's received account differ.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Rank rivalry alone does not fill an explicit Explosion challenge or known ordinary-cost guard.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H010",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 216,
+        "end_P": 234
+      },
+      "whole_selected_premise": "Further critics are bound before actual horns interrupt M's self-display.",
+      "primary_L": "L2",
+      "L_rationale": "Recipients' objections and the newly visible cost qualify the performance's meaning.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Physical horns are independently confirmed by prose, not inferred only from a color teaser.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H011",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 251,
+        "end_P": 270
+      },
+      "whole_selected_premise": "Demonization warning prompts a new grand name while Vanir sells an expressly requested remedy.",
+      "primary_L": "L2",
+      "L_rationale": "M adopts status rhetoric; Yun specifically accepts the forehead-talisman condition and pays.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No secret initial baiting conspiracy is established by the later profit.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H012",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 278,
+        "end_P": 315
+      },
+      "whole_selected_premise": "M claims species-based exclusion while K points to her actual indiscriminate restraint.",
+      "primary_L": "L2",
+      "L_rationale": "The counteraccount and his denial of a love interpretation are explicit.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "A tolerated appearance is not a mutual romantic promise or proof every guild motive is known.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H013",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 324,
+        "end_P": 345
+      },
+      "whole_selected_premise": "A child admires the devil identity, encouraging M's righteous-power reinterpretation.",
+      "primary_L": "L2",
+      "L_rationale": "Reported crow help and K's inferred Vanir identity differ from M's current conduct.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No new onscreen crow extermination; the favorable report does not make earlier abuse altruistic.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H014",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 348,
+        "end_P": 378
+      },
+      "whole_selected_premise": "A presumed capture bounty is corrected to paid location reporting, and K proposes a larger bribe.",
+      "primary_L": "L2",
+      "L_rationale": "Disclosure changes the actual reward contract and the escape options.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No capture/kill commission or actual bribe payment follows from the offer.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H015",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 392,
+        "end_P": 405
+      },
+      "whole_selected_premise": "Yun asks a hypothetical sacrifice question, receives an instant yes, then actually attacks.",
+      "primary_L": "L2",
+      "L_rationale": "The voiced hypothetical and the real dagger thrust/counterattack must remain different acts.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "M's self-defense appraisal is an actual rival, not proof a human sacrifice was offered or performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H016",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 406,
+        "end_P": 432
+      },
+      "whole_selected_premise": "Recruiting K into the duel produces an unwanted counterblow and a mutual no-companions rule.",
+      "primary_L": "L2",
+      "L_rationale": "Specific rule negotiation differs from earlier assumed assistance; Yun supplies a narrower city-magic account.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Do not harmonize that legal claim with YORI02's categorical statement by invention.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H017",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 434,
+        "end_P": 450
+      },
+      "whole_selected_premise": "M's beam hits while its own eye pain accidentally saves her from Yun's spell.",
+      "primary_L": "L0",
+      "L_rationale": "The physical sequence is portable without a Japanese-specific verbal mechanism.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Accidental evasion is not demonstrated deliberate tactical control or an official duel victory.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H018",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 454,
+        "end_P": 477
+      },
+      "whole_selected_premise": "M's healing request violates the new assistance rule and exposes Yun's location before Aqua resets the magic.",
+      "primary_L": "L2",
+      "L_rationale": "Yun's protest, surrender and Aqua's actual four-spell intervention have separate causes.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Ring destruction, horn removal and healing are actual; request for healing is not permission to every property consequence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H019",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 483,
+        "end_P": 496
+      },
+      "whole_selected_premise": "M voices a real wish to be useful, then asks indirectly for more funding and meets K's refusal.",
+      "primary_L": "L2",
+      "L_rationale": "Care and repeated financing boundaries coexist in the same conversation.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No equivalent-person test, completed loan or pure-motive inference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H020",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "native_member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "start_P": 498,
+        "end_P": 517
+      },
+      "whole_selected_premise": "The preferred final Explosion fails because earlier powers spent her MP; a complaint earns a real restitution curse.",
+      "primary_L": "L2",
+      "L_rationale": "Resource knowledge arrives after use, and her art-based rejection has an explicit basis.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No backdated known-resource preparation, repaid ring debt or later successful cast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H021",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 5,
+        "end_P": 31
+      },
+      "whole_selected_premise": "K ignores a cold visitor while local fairy tales turn a race into transport sales and persecution into revenge.",
+      "primary_L": "L2",
+      "L_rationale": "The embedded books compete with Chris's serious visit; their fictional voice is not neutral world history.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual admission occurs later; no new enacted turtle business or ogre revenge.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H022",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 33,
+        "end_P": 51
+      },
+      "whole_selected_premise": "Chris requests artifact recovery while refusing to specify why D cannot be trusted with it.",
+      "primary_L": "L2",
+      "L_rationale": "K asks for the inference and proposes ordinary explanation, then agrees despite missing properties.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Possible D ownership remains a report at this stage; agreement is not successful retrieval.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H023",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 55,
+        "end_P": 81
+      },
+      "whole_selected_premise": "Three diversion proposals are rejected, ending in a luck contest that K expects to win.",
+      "primary_L": "L2",
+      "L_rationale": "Different objections concern monsters, strangers and D's name, rather than a single universal rule.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "None of the three diversions is performed; K's loss is disclosed later.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H024",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 83,
+        "end_P": 118
+      },
+      "whole_selected_premise": "Easy lockpicking is defeated by K's deliberately frozen window as he reads about performed elf stereotypes.",
+      "primary_L": "L2",
+      "L_rationale": "Chris's cold complaint and no-anger promise finally obtain a careful thaw.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The book's biology/culture claims retain embedded-source status; actual thaw is not unprompted pure care.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H025",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 119,
+        "end_P": 140
+      },
+      "whole_selected_premise": "The decoy was an ordinary front-door tea visit giving K an alibi, while Chris did enter the vault.",
+      "primary_L": "L2",
+      "L_rationale": "Chris calls him a guest; he claims the useful diversion still counts.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual performance has a functional rival to her objection; do not call it total nonattempt or full shared understanding.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H026",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 144,
+        "end_P": 174
+      },
+      "whole_selected_premise": "Chris's denial of stealing treasure is undone by her admitted theft of a private childhood photograph.",
+      "primary_L": "L2",
+      "L_rationale": "The object's personal value and her lecture-evasion account differ from a neutral item label.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Critical non-graphic privacy account; K's wish for a copy is not an actual copy or successful leverage.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H027",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 176,
+        "end_P": 199
+      },
+      "whole_selected_premise": "A rejected sewer route and impossible slime-cleaning delay lead to an actual extortion letter.",
+      "primary_L": "L2",
+      "L_rationale": "K revises the means after a concrete obstacle; that does not make the replacement ethical.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No slime release; the letter actually uses the stolen photo to demand a different treasure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H028",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 200,
+        "end_P": 215
+      },
+      "whole_selected_premise": "K challenges the evidence, tries false flirtation, then narrows disclosure of Chris's visits as mere truth.",
+      "primary_L": "L2",
+      "L_rationale": "Procedural questions, direct protest and self-exculpation have different pragmatic functions.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Pressure against him alone is not R1-K08; legitimate leverage and his own pressure purpose need separate evidence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H029",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 220,
+        "end_P": 239
+      },
+      "whole_selected_premise": "The disclosed window routine becomes D's actual trap, and K's claimed disabling interrogation meets his relaxed reading pose.",
+      "primary_L": "L2",
+      "L_rationale": "Chris and K trade blame until both obey D's brief order.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No claim that the invented helplessness account describes his actual body state.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H030",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 241,
+        "end_P": 270
+      },
+      "whole_selected_premise": "D's serious friendship appeal obtains an apology before the collar's specification exposes her temptation.",
+      "primary_L": "L2",
+      "L_rationale": "Her explicit unknown-item reservation and later detailed questions limit the apparent unconditional pledge.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Real trust and mixed motives coexist; interest in pain is not consent to all later humiliation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H031",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 274,
+        "end_P": 315
+      },
+      "whole_selected_premise": "A real noble raid produces contraband but leaves D disappointed that no collar is found.",
+      "primary_L": "L2",
+      "L_rationale": "Formal perfume sarcasm, coercive accusations and a private item goal coexist.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual forbidden goods do not independently verify every accusation or retrospectively establish every warrant.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H032",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 318,
+        "end_P": 342
+      },
+      "whole_selected_premise": "Tax-payment illness and a monster bribe are voiced excuses during a successful series of raids.",
+      "primary_L": "L2",
+      "L_rationale": "Each speaker's account has a different purpose; K and Chris then assign unwanted credit to each other.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No medical condition, accepted bribe or purely disinterested investigation is inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H033",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 347,
+        "end_P": 377
+      },
+      "whole_selected_premise": "A high-ranking suspect insults D, then K's continued name comments provoke a real lethal spell.",
+      "primary_L": "L2",
+      "L_rationale": "Mutual name sensitivities and K's received execution threat are explicit.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "K's being threatened is not itself his use of legitimate leverage; do not turn every rude reply into K08 evidence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H034",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 379,
+        "end_P": 397
+      },
+      "whole_selected_premise": "D actually shields K, gains a legal argument, and objects when her own name is returned.",
+      "primary_L": "L2",
+      "L_rationale": "Protection, tactical benefit and unwanted exposure remain separate functions.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Enjoyment of the impact does not erase help; later justification does not prove earlier full evidence.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H035",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 412,
+        "end_P": 443
+      },
+      "whole_selected_premise": "Seized contraband and D's suspicious denial lead to imagined master roles and Chris's formal divine warning.",
+      "primary_L": "L2",
+      "L_rationale": "Censored fantasies are rejected; the formal address marks a real turn in the interaction.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No imagined intimate act is completed; K's apology under another's pressure is not automatically K08.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H036",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 445,
+        "end_P": 490
+      },
+      "whole_selected_premise": "A confident masked raid is recognized immediately and revised into an explanatory request to D's father.",
+      "primary_L": "L2",
+      "L_rationale": "Chris's denial and K's acknowledgment differ once actual guard strength is known.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Bind is countered by a competent opponent; no successful concealment, universal incompetence or mandatory stealth rule.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H037",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 494,
+        "end_P": 525
+      },
+      "whole_selected_premise": "The father sincerely apologizes while K criticizes him and Chris twice urges restraint.",
+      "primary_L": "L2",
+      "L_rationale": "Changed pressure and addressee matter; D's private caution is then overheard at her door.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Rudeness to rank alone does not establish K's own eligible status-pressure purpose.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H038",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 530,
+        "end_P": 565
+      },
+      "whole_selected_premise": "D defeats an audible Bind plan with a thrown bed and removes the collar as a held Steal target.",
+      "primary_L": "L2",
+      "L_rationale": "She objects to the resulting surprise at her intelligence.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Independent counterplanning and target withdrawal differ from a technically fitted skill's ordinary failure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H039",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 567,
+        "end_P": 596
+      },
+      "whole_selected_premise": "D self-wears the item and appoints an unwilling master, reversing the expected control relation.",
+      "primary_L": "L2",
+      "L_rationale": "Both outsiders reject the imposed role; her limited willingness and threat against silence are explicit.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No free all-party contract or permission to all possible commands from activation alone.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H040",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "native_member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "start_P": 599,
+        "end_P": 629
+      },
+      "whole_selected_premise": "The anticipated physical punishment becomes unwanted embarrassment; direct stop pleas fail to halt a household photo session.",
+      "primary_L": "L2",
+      "L_rationale": "The broad word for suffering and the recipient's actual objections change the activity's meaning.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Ordinary polysemy/cat speech is not automatic L3; critical non-graphic account, no completed public debut or collar recovery claimed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H041",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 5,
+        "end_P": 31
+      },
+      "whole_selected_premise": "Praise elicits a request for more, then an insulting mirror and an objected-to resale plan.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz's flattered response and Vanir's direct property boundary differ.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Only the discarded body is frozen; no actual handsome face reveal, sale or destroyed Vanir.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H042",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 43,
+        "end_P": 67
+      },
+      "whole_selected_premise": "Secret product development consumes hidden operating funds that Wiz treated as spawned dungeon treasure.",
+      "primary_L": "L2",
+      "L_rationale": "Her communication slogan meets Vanir's observation that she also kept secrets.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Prior knowledge of fund ownership is not backdated; neither excuse nor accusation is an independent omniscient account.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H043",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 67,
+        "end_P": 84
+      },
+      "whole_selected_premise": "A proposed costly contract break is framed as romantic abandonment while spectators enjoy the drama.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir rejects the relationship framing and asks for actual help.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Clinging is performed, but no completed break or actual marriage is established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H044",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 89,
+        "end_P": 116
+      },
+      "whole_selected_premise": "A promising sweeping doll nearly explodes the shop, and each proposed safety fix is declared incompatible with its design.",
+      "primary_L": "L2",
+      "L_rationale": "Single-master fidelity and copied dungeon defense undermine ordinary home use.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual sky detonation, not a destroyed shop; later pest sales do not make the original design safe.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H045",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 117,
+        "end_P": 135
+      },
+      "whole_selected_premise": "A bodily-work agreement is explicitly corrected when Vanir reveals a sexual-work meaning.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz states adventuring labor and provides an actual non-guild earning route.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Earlier ambiguous acceptance is not assent to the newly specified condition; no such work is enacted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H046",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 138,
+        "end_P": 159
+      },
+      "whole_selected_premise": "Repeated sprout-care instructions become a request to be missed before Wiz finally leaves.",
+      "primary_L": "L2",
+      "L_rationale": "A practical handoff carries a particular relational bid that Vanir recognizes and rebuffs.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual departure, no literal five-year exclusion or completed later watering.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H047",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 164,
+        "end_P": 174
+      },
+      "whole_selected_premise": "M's reminder of an actual power curse is followed by Aqua's faintly flattering cash bid.",
+      "primary_L": "L2",
+      "L_rationale": "D's warning, M's reaction and K's objection to qualified praise have different addressees.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Aqua's later payments have a separate interference-avoidance purpose; no successful thanks-trigger inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H048",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 177,
+        "end_P": 196
+      },
+      "whole_selected_premise": "Expiring antidotes become attractive with a private-photo bonus, and K joins while bargaining for silence.",
+      "primary_L": "L2",
+      "L_rationale": "Customers' functional objections vanish under a new desired benefit.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual purchase and privacy cost, no Wiz permission from demand or profit.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H049",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 199,
+        "end_P": 211
+      },
+      "whole_selected_premise": "A request for more aggressive pictures receives combat equipment, which customers genuinely accept.",
+      "primary_L": "L2",
+      "L_rationale": "The expected revealing-image sense is replaced by a compatible ordinary sense.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No disappointment is inferred against their explicit acceptance; ordinary cross-language polysemy is not automatically L3.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H050",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 213,
+        "end_P": 242
+      },
+      "whole_selected_premise": "The sale grows from random photos with pebbles to edited voice auctions while K calls complicity happiness.",
+      "primary_L": "L2",
+      "L_rationale": "Actual daily drinking payments exclude Aqua, and an explicit hush gift is renamed private generosity.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No truthful provider consent; random rewards concern K, not an Aqua repeated-loss trial.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H051",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 244,
+        "end_P": 276
+      },
+      "whole_selected_premise": "An urgent dungeon plea meets Vanir's principled refusal, then the crowd organizes an alternative.",
+      "primary_L": "L2",
+      "L_rationale": "Messenger privacy, known transport funds and participants' own aims give a concrete new route.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The later change of Vanir's involvement must retain its independently disclosed reason.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H052",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 280,
+        "end_P": 321
+      },
+      "whole_selected_premise": "A rescue crowd imagines future romantic traps, but destructive shortcuts reveal a different sort of challenger.",
+      "primary_L": "L2",
+      "L_rationale": "K's fantasy and the actual hole/magic clues are different evidence planes.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Critical non-graphic account only; no imagined intimate act performed or complete neutral dungeon safety claim.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H053",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 324,
+        "end_P": 354
+      },
+      "whole_selected_premise": "Wiz's money hunt threatens a pleading last-life dungeon owner until Vanir acknowledges his own causal role.",
+      "primary_L": "L2",
+      "L_rationale": "His kin label and financial remedy actually change Wiz's action.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Real stopped attack, not proof the original rescue refusal never occurred or that all ownership concerns vanish.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H054",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 358,
+        "end_P": 385
+      },
+      "whole_selected_premise": "The supposedly unsellable maid dolls actually sell as disposable pest killers, against Wiz's chosen description.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua supplies the buyers' different use case after the success.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No retcon of normal home safety; exact wage demand and counteroffer remain unsettled.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H055",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 387,
+        "end_P": 400
+      },
+      "whole_selected_premise": "A late buyer's complaint exposes the unauthorized merchandise and Aqua supplies a blunt report.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz's clarification request begins the privacy conflict that the opening battle had withheld.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The proleptic opening is the same battle, not another independent event.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H056",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 401,
+        "end_P": 443
+      },
+      "whole_selected_premise": "Each combatant's summons are cancelled by Aqua's uninvited referee rule, injuring her favored Wiz too.",
+      "primary_L": "L2",
+      "L_rationale": "Turn-taking protest and unilateral penalties do not establish an accepted contest contract.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual sacred effects and collateral costs; not ethical approval or an A01 helping-step confirmation merely from effective damage.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H057",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 447,
+        "end_P": 478
+      },
+      "whole_selected_premise": "Wiz's actual resource deficit is answered by spending locked trade inventory, making the stronger opponent plead for a draw.",
+      "primary_L": "L2",
+      "L_rationale": "Ownership disclosure and privacy grievance precede continued expensive use.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Exact price remains unknown to Wiz, but received ownership/cost warnings cannot be erased.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H058",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "native_member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "start_P": 479,
+        "end_P": 517
+      },
+      "whole_selected_premise": "Surrender and apology fail to stop a nostalgic spell exchange until all stones are consumed and profits lost.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz rejects a gifted win and Vanir's commercial fear competes with combat pride.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No agreed safe endpoint or actual permanent merchandising restraint from a future vow.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H059",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 1,
+        "end_P": 18
+      },
+      "whole_selected_premise": "A forecast dismissed as a typo becomes actual falling fish and an ordinary cheap-dinner prospect.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua's explicit battle-weather account supplies the pragmatic reversal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "A possible orthographic weather allusion stays a qualified candidate, not an unsupported L3 claim.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H060",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 20,
+        "end_P": 36
+      },
+      "whole_selected_premise": "Aqua violates her own fish-catching warning, is struck, and the complaining K actually retrieves her.",
+      "primary_L": "L2",
+      "L_rationale": "Her safety advice and his received danger precede the reversal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Real care despite complaint; no actual armor downgrade from D's separate proposal.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H061",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 39,
+        "end_P": 88
+      },
+      "whole_selected_premise": "A villainess engagement denunciation strikes the wrong namesake after D's actual violent responses.",
+      "primary_L": "L2",
+      "L_rationale": "Identity correction overturns the initial accusation; D's public-name boundary is real.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No true D engagement/bullying, no actual execution or automatic justification of strangling.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H062",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 91,
+        "end_P": 115
+      },
+      "whole_selected_premise": "An unknown eel meal becomes K's real injury, Aqua's real healing and a creature's attachment.",
+      "primary_L": "L2",
+      "L_rationale": "Her wish to cook it persists until personal affection creates friction.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Affinity explanations remain claims; no independent fit for every water spirit or completed meal.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H063",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 118,
+        "end_P": 144
+      },
+      "whole_selected_premise": "M's coherent tutoring becomes an unrequested quiz that treats hobby knowledge as common knowledge.",
+      "primary_L": "L2",
+      "L_rationale": "The pupil's good question and D's uncertainty about their own ignorance resist a global foolishness reading.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Embedded historical explanation is not a newly enacted eruption or Destroyer operation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H064",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 149,
+        "end_P": 177
+      },
+      "whole_selected_premise": "A self-assigned sea-king title meets a suppressed warning and an unwelcome armor-material fact.",
+      "primary_L": "L2",
+      "L_rationale": "K chooses not to hear the warning; D's later request for repetition has a different consent time.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No identity knowledge backdated from the unread newspaper or universal assent to gagging.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H065",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 180,
+        "end_P": 207
+      },
+      "whole_selected_premise": "A proposed easy farm assigns others' luck and family power until refusal produces a lake and payment bargain.",
+      "primary_L": "L2",
+      "L_rationale": "K and D reject specific imposed resources; Aqua accepts the changed plan.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The promised treasure is not specifically alcohol; resurrection of the stock is only proposed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H066",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 224,
+        "end_P": 254
+      },
+      "whole_selected_premise": "K and D spare cute experience birds, only for M's uninformed hunt to destroy the actual farm.",
+      "primary_L": "L2",
+      "L_rationale": "Different information explains the contrast without deleting actual loss.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "M's ownership knowledge is unshown; animals do not instantiate M04's bonded-person target.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H067",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 257,
+        "end_P": 267
+      },
+      "whole_selected_premise": "An apparent childhood-love revelation produces two duels and a disputed right to marry the man.",
+      "primary_L": "L2",
+      "L_rationale": "Reported romance is later exposed as false, so it cannot become neutral biography.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The second duel ties; no unperformed execution or freely chosen universal romantic resolution.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H068",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 280,
+        "end_P": 318
+      },
+      "whole_selected_premise": "Suspicious Crimson history is knowingly heard as fiction while actual tutoring improves grades and spreads poses.",
+      "primary_L": "L2",
+      "L_rationale": "Pupil reception corrects the monitors' feared deception without making every lesson true.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Job ends over behavioral imitation, not proof total academic incompetence or a newly true mythic chronology.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H069",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 288,
+        "end_P": 302
+      },
+      "whole_selected_premise": "K's assumed alcohol fee is paid as a genuinely valued stone, which he returns and then partly wants.",
+      "primary_L": "L2",
+      "L_rationale": "Promised object, owner valuation and recipient expectation remain distinct.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No broken exact alcohol promise or equivalent replacement offered to a deprived Aqua.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H070",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 305,
+        "end_P": 336
+      },
+      "whole_selected_premise": "A detector collapses both romantic claims, and a status threat yields a two-wife settlement and changed name.",
+      "primary_L": "L2",
+      "L_rationale": "Legal-sounding accounts and personal embarrassment are revised by later disclosures.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "D's role in the renaming is suspected, not directly shown; fictional marriage rules are not modern legal guidance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H071",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 321,
+        "end_P": 327
+      },
+      "whole_selected_premise": "K's falsely supplied crayfish create frogs and a reservoir liability, while Aqua thinks about another farm.",
+      "primary_L": "L2",
+      "L_rationale": "Actual ecological cost is shared across distinct voluntary contributions.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The new reservoir is an accepted plan, not explicitly shown built; a later turtle venture is confirmed only by the diary disclosure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H072",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 341,
+        "end_P": 377
+      },
+      "whole_selected_premise": "With the suppressed identity finally heard, a growing pet becomes an urgent release task and K candidly owns responsibility.",
+      "primary_L": "L2",
+      "L_rationale": "His integrated admission contrasts with earlier concealment; D's own regret receives correction.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Honest accountability is real adverse material against a universal self-excusing claim, not necessarily every exact K07 conjunct.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H073",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 379,
+        "end_P": 433
+      },
+      "whole_selected_premise": "Actual frog-killing and healing make the pet attractive until each threatened role supports releasing it.",
+      "primary_L": "L2",
+      "L_rationale": "M's attachment, K's utility and the trio's status concerns change at separately shown moments.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No explicit replacement-member promise or role-equivalent-person K06 test; actual departure, future visits unshown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H074",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "start_P": 435,
+        "end_P": 461
+      },
+      "whole_selected_premise": "Aqua's first-person diary entry self-excuses an unauthorized loan while K is detained, then he ends the diary.",
+      "primary_L": "L2",
+      "L_rationale": "Speaker switch and privacy invasion matter to who owns each account.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual release and repayment deadline; planned discipline and future payment are not completed by the doodle.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H075",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 12,
+        "end_P": 35
+      },
+      "whole_selected_premise": "Stone-marketing criticism, divine customer claims and D's new coercion-item request compete for Vanir's attention.",
+      "primary_L": "L2",
+      "L_rationale": "Different desires and explicit objections remain actor-owned.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No actual identity-denial trigger from mere unequal service; an aura effect differs from every item having no effect.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H076",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 41,
+        "end_P": 72
+      },
+      "whole_selected_premise": "Three regretful companions want finite matches but K uses one before fair allocation.",
+      "primary_L": "L2",
+      "L_rationale": "The memory-only reversion rule is understood before the unilateral choice.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Temporary alternative histories remain explicitly bracketed; no pristine independent trial or permanent retcon.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H077",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 76,
+        "end_P": 129
+      },
+      "whole_selected_premise": "K tries patient procedure, but divine ridicule and item limitations test his declared restraint.",
+      "primary_L": "L2",
+      "L_rationale": "Real early politeness, direct counterthreat and actual parameter questions are separate turns.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Another's pressure on him does not alone instantiate K08; no undesired hypothetical ability actually granted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H078",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 131,
+        "end_P": 157
+      },
+      "whole_selected_premise": "The marked selection of 者 reveals that the intended new cheat has again become a person.",
+      "primary_L": "L3",
+      "L_rationale": "Japanese orthographic choice of the person graph in the same mono slot supplies the selection punchline before the scene reveals Aqua; reconstruct or annotate that marked shift.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual branch choice, not merely a general fantasy trope; no claim of audible kanji difference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H079",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 159,
+        "end_P": 190
+      },
+      "whole_selected_premise": "Aqua secures the loan and demands thanks, but K thanks the lender and skips the familiar procedure.",
+      "primary_L": "L2",
+      "L_rationale": "Different providers and the literal addressee of gratitude are explicit.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual registration; no received thanks to Aqua from K's lender-directed act.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H080",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 194,
+        "end_P": 243
+      },
+      "whole_selected_premise": "A comprehensive redo plan avoids the old fish error but collapses on a new creature and soap turned to water.",
+      "primary_L": "L2",
+      "L_rationale": "Known and unknown parameters precede different failures.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual lost job and K's grabbing the employer; no invented unavailable means or successful dishwashing from Aqua's claim alone.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H081",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 246,
+        "end_P": 282
+      },
+      "whole_selected_premise": "Specific bans prevent disappearing bananas and K's luck sales actually work.",
+      "primary_L": "L2",
+      "L_rationale": "The changed method and owner's approval have independent prior causes.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual initial success does not predict an unbeatable game or a permanent commercial career.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H082",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 287,
+        "end_P": 319
+      },
+      "whole_selected_premise": "Chris finds hidden premium stock and accepts a blessed contest that K still loses.",
+      "primary_L": "L2",
+      "L_rationale": "K's known earlier loss contradicts his never-lost claim; Aqua's reassurance is not outcome control.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual opponent defeat, not proof Blessing failed through Aqua's technique or repeated Aqua gambling losses.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H083",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 321,
+        "end_P": 354
+      },
+      "whole_selected_premise": "A received frog warning is ignored, then an explicit refusal of more bait duty is met with food and drink bargaining.",
+      "primary_L": "L2",
+      "L_rationale": "Poor execution/judgment and the changed consent question have separate intervals.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Retain an A01 adverse candidate for a known-unfitted substitute, but independently establish adopted helping scope/available fitted alternatives rather than infer from failure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H084",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 356,
+        "end_P": 405
+      },
+      "whole_selected_premise": "Trying to prevent a new teammate creates a food offer that attracts both D and M.",
+      "primary_L": "L2",
+      "L_rationale": "D persists after K's no, Aqua accepts payment and M explicitly explains hunger.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No mystical inevitability or original recruitment chronology imposed on the changed branch.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H085",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 408,
+        "end_P": 434
+      },
+      "whole_selected_premise": "K returns angry yet truly thanks M's budgeting, then upends a game whose rules are disputed and uses another match.",
+      "primary_L": "L2",
+      "L_rationale": "Genuine gratitude coexists with anger and an actual consent breach.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "The suspected handwriting becomes proven forgery only at603; a shouted Explosion is a board action, not a magical cast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H086",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 438,
+        "end_P": 466
+      },
+      "whole_selected_premise": "False flattering diplomacy is misread as romance and again provokes choosing Aqua.",
+      "primary_L": "L2",
+      "L_rationale": "K explicitly denies the sincerity of the praise; the rejected confession is Aqua's reading.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No genuine romantic advance, new mutual pace or permanent future from this branch.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H087",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 471,
+        "end_P": 523
+      },
+      "whole_selected_premise": "A newly noticed earlier M encounter suggests a better leveling plan, but proselytizing makes the patient refuse.",
+      "primary_L": "L2",
+      "L_rationale": "K fabricates the source of knowledge, while Aqua actually questions it before accepting his account.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No technical healing failure when the recipient declines before execution; known power and permission remain separate.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H088",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 527,
+        "end_P": 587
+      },
+      "whole_selected_premise": "Remembered construction skill really accelerates equipment and valid healing really obtains reciprocal help, yet M joins against K's request.",
+      "primary_L": "L2",
+      "L_rationale": "Success in the immediate means does not satisfy his distinct avoidance goal.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Actual treatment and accepted promised help, not already completed ten levels or full party assent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H089",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 589,
+        "end_P": 612
+      },
+      "whole_selected_premise": "The current game forgery is confessed, D is restrained for finding it, and K steals the last match.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit later confession resolves earlier suspicion and each actor's intervention is attributed.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Pleasure inferred from D's face does not authorize punishment; no fair award of all three matches.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H090",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 616,
+        "end_P": 650
+      },
+      "whole_selected_premise": "K finally submits to an explicit gatekeeper condition and receives a brush under a sword's name.",
+      "primary_L": "L2",
+      "L_rationale": "Flat apology and civil request contrast with inner revenge, then promised object and actual object diverge.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "This is instrumental deference, not by itself K08's own-legitimate-leverage pressure contrast.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H091",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 652,
+        "end_P": 680
+      },
+      "whole_selected_premise": "Unrequested effective healing obtains real gratitude, levels, lodging and funds, while Aqua is again swallowed by a frog.",
+      "primary_L": "L2",
+      "L_rationale": "Actual good outputs and actual recurring ordinary error coexist.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Benefit does not backdate consent; neither a curse forcing Aqua's selection nor every failure's fitted-guard status is proven.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H092",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 685,
+        "end_P": 708
+      },
+      "whole_selected_premise": "Aqua nearly erases Wiz, K actually gives his resources to save her, and the next commercial offer looks like extortion.",
+      "primary_L": "L2",
+      "L_rationale": "Recipient fear comes from a real threat, despite K's genuine useful product plan.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Costly help is actual; profitable later goods do not retrospectively remove fear or establish free initial agreement.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H093",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 712,
+        "end_P": 736
+      },
+      "whole_selected_premise": "Real sales and a negotiated haunted lease make the streamlined alternative genuinely workable.",
+      "primary_L": "L2",
+      "L_rationale": "Specific remembered ghost-care conditions and actual keys differ from the original manufactured exorcism.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No new completed ghost conversation, no permanent return-world wealth or automatic abandonment of all attachments.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H094",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 738,
+        "end_P": 772
+      },
+      "whole_selected_premise": "K avoids an urgent guild, periodically checks, then turns away from D's dangerous solo request.",
+      "primary_L": "L2",
+      "L_rationale": "What he actually knows and chooses must survive the comedy of better living.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Do not invent the unseen rescue plan, exact current severe-harm knowledge or a complete aftermath.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H095",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 778,
+        "end_P": 824
+      },
+      "whole_selected_premise": "The easier home feels empty and K posts an extravagantly specific request for the two difficult people he knows.",
+      "primary_L": "L2",
+      "L_rationale": "Practical chores and particular familiarity coexist; M's visible hunger is an additional actual cue.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Known temporary memory experiment and absent role-equivalent outsider limit full K06/E04 comparisons.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H096",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 828,
+        "end_P": 853
+      },
+      "whole_selected_premise": "Familiar quarrelling is briefly welcome before the insult printed as 変態 with ダクネス ruby and D's protest break K's patience.",
+      "primary_L": "L3",
+      "L_rationale": "The base-word/character-name double address is the narrow central Japanese form; reconstruct both readings rather than treating ordinary ruby as sufficient.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Current-world scene, not another alternate branch; D's hurt and K's renewed anger remain literal.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H097",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 854,
+        "end_P": 863
+      },
+      "whole_selected_premise": "K's invoice questions shift threatened expulsion into others' own accountability and actual release from carrying.",
+      "primary_L": "L2",
+      "L_rationale": "Independent household liabilities and the one/two/three-out framing establish leverage beyond mere interrogative syntax.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "Some questions genuinely seek information and the final demand is blunt; retain mixed K08 function, no automatic pass from question marks.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "YORI03-WHOLE-H098",
+      "source_id": "YORI-03",
+      "boundary": {
+        "component_id": "YORI-03-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "native_member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "start_P": 864,
+        "end_P": 882
+      },
+      "whole_selected_premise": "A permanent-party curse is bought over K's objection but remains unsigned; an actual untying leads to a proposed banquet.",
+      "primary_L": "L2",
+      "L_rationale": "Different parties' wishes and Aqua's immunity claim change the offered arrangement.",
+      "primary_H": "H1",
+      "H_rationale": "Literal acts, bounded artifact alternatives, attributed accounts and actual consequences produce this selected effect. Neither comedy nor fantasy erases a refusal, harm, cost or limit; rhetorical intensity within the window is not declared uniformly literal.",
+      "eligibility_and_limits": "No activated curse, completed banquet, cast, apology outing or paid invoice from the final cheerful illustration.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-19T02:14:15.912871+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "status": "COMPLETE_BOUNDED_FINAL_V3_CANDIDATE_LEDGER_RECONCILIATION_RECEIVING_CLOSURE_NOT_ROOT_ACCEPTANCE",
+  "sealed_utc": "2026-10-17T21:14:59.584641+00:00",
+  "preserved_prior_seal": {
+    "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/BOUNDED_RECEIVING_SEAL_v1.json",
+    "bytes": 1191,
+    "sha256": "e635606845f909116ce0376d9606baba093c17f52418a493abc4f4201a9e3b47"
+  },
+  "products": [
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/bounded-successor-closure-v2/BOUNDED_CURRENT_SUCCESSOR_RECEIVING_ADDENDUM.md",
+      "bytes": 7976,
+      "sha256": "b18dc11ad759fbb752ce97108e6588f82e716d46e9272f2430e56afdab3a7d82"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/bounded-successor-closure-v2/BOUNDED_SUCCESSOR_FORWARD_INVERSE_AND_CURRENT_PINS_PROOF.json",
+      "bytes": 19457,
+      "sha256": "f571a732f7f0a52917e525eaffd76b38a2ef748ddf940977c0dbf22a3ba74a4e"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/bounded-successor-closure-v2/CURRENT_RECONCILIATION_V3_ALIAS_CLOSURE_PROOF.json",
+      "bytes": 3776,
+      "sha256": "25f09df20fcf4edc3f7e292312507a55e5ae7593f35676c5b2fd79bd66038070"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/bounded-successor-closure-v2/verify_bounded_successors.py",
+      "bytes": 8979,
+      "sha256": "fb2fb0550e721dc29df2cc1d0b0b135c07750ad7f598e69b860965612a6d5933"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/DUST-07-initial-validation/root-candidate-and-ten-ledger-receiving-v1/bounded-successor-closure-v2/close_reconciliation_v3.py",
+      "bytes": 2662,
+      "sha256": "9d9b6b89f9ce7a870bb9d1777ffc81b267f4b4d424850d472ba6fd0a5a79690a"
+    }
+  ],
+  "full_original_receiving_reused": "candidate39 proposals,ten full headers/30rows/limits,four-book39 new diagnoses plus all top-level interpretation;43 literals and186 old rationale fields verified reused",
+  "new_scope": "candidate4ops/external8corrections/ledger2route+34spacing-scopeops/S5externalops/reconciliation2metadata+3aliasops",
+  "new_bounded_native_displays": {
+    "C03": [
+      574,
+      580,
+      7,
+      192,
+      6
+    ],
+    "Epi": [
+      92,
+      105,
+      14,
+      386,
+      15
+    ],
+    "not_distinct_new_source_slots_or_new_full_pass": true
+  },
+  "original_initial_and_current_v3_recommendations_preserved": true,
+  "no_canonical_git_P_or_new_source_admission": true,
+  "remaining_material_blockers_in_declared_scope": [],
+  "uncertainty_retained": "E02 implicit metric/actor rivals;E06 coherent occasion/history;E03 provider care;E08 temporal compound;earlier-source dissent"
+}

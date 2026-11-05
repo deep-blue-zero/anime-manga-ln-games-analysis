@@ -15,6 +15,16 @@ do_not_use_as_current_authority: false
 
 This index routes major accepted or contested claims to their canonical analytical home and underlying evidence system. It does not duplicate the complete claim ledgers.
 
+## Cross-character visual-design layer
+
+The V0.2 visual layer supplies individualized appearance/design profiles for Aemeath, Augusta, Brant, Cantarella, Cartethyia, Changli, Chisa, Denia, Iuno, Jinhsi, Luuk Herssen, Lynae, Phoebe, Qiuyuan, Shorekeeper, Sigrika, Yinlin, and Zani. Each character directory contains:
+
+- `CHARACTER_VISUAL_DESIGN_PROFILE.md` — the human-readable individualized summary and dimension-by-dimension analysis;
+- `CHARACTER_VISUAL_DESIGN_PROFILE.json` — stable claim IDs, evidence-basis labels, confidence, uncertainty, counterreadings, and form/state limits;
+- `CHARACTER_VISUAL_REFERENCE_MANIFEST.json` — stable visual IDs and image-to-client-object/package/container/hash reverse provenance.
+
+Directly observed claims cover silhouette, palette, hair/face, costume construction, rendered material cues, motifs, weapon/role signaling, and pose/body language. Design–narrative relationships are separately marked `direct_visual_and_semantic` and remain interpretive. Form/skin/state completeness is `OPEN`: the bounded denominator is exactly one role-linked head icon, formation image, and activity portrait for the default playable presentation. The layer does not establish runtime geometry, rear construction, animation habits, material truth, complete skin/form coverage, or unique authorial symbolism. Raw images remain restricted outside Git.
+
 ## Cartethyia
 
 | Claim ID / area | Current formulation | Status | Canonical analytical route | Evidence route |
@@ -34,12 +44,16 @@ The owner-adopted current Cartethyia pre-AV rebuild has an evidence/falsificatio
 
 ## Chisa
 
-No literary/character claims were accepted for Chisa by the bootstrap. The later imported rebuild supplies `CHISA-C01`–`CHISA-C50` and `CHISA-E01`–`CHISA-E60` in `04 Character Analysis/Chisa/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`, with interpretation in `WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md`. These are owner-adopted current source-packet claims under `active_provisional` status with veto=false, within the declared textual/audio scope; this repository operation does not independently repeat their source adjudication. The source reconciliation records the association-versus-unique-audio distinction and the report-level limit of historical comparison.
+No literary/character claims were accepted for Chisa by the bootstrap. The later imported rebuild supplies `CHISA-C01`–`CHISA-C50` and `CHISA-E01`–`CHISA-E60` in `04 Character Analysis/Chisa/01 Evidence and Source-Facing/WUWA_CHISA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`, with interpretation in `WUWA_CHISA_CHARACTER_DEEP_DIVE_PRE_AV.md`. These are owner-adopted current source-packet claims under `active_provisional` status with veto=false, within the declared textual/audio scope; this repository operation does not independently repeat their source adjudication. The source reconciliation records the association-versus-unique-audio distinction and the report-level limit of historical comparison.
 
 ## Aemeath, Denia, and Lynae — pre-AV imports
 
 The imported claims remain `active_provisional` and pending audiovisual analysis. Their original claim IDs, counterevidence, and uncertainty belong to the supplied matrices; this import adds routing without independently re-adjudicating those claims.
 
-- Aemeath: `04 Character Analysis/Aemeath/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
-- Denia: `04 Character Analysis/Denia/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
-- Lynae: `04 Character Analysis/Lynae/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+- Aemeath: `04 Character Analysis/Aemeath/01 Evidence and Source-Facing/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+- Denia: `04 Character Analysis/Denia/01 Evidence and Source-Facing/WUWA_DENIA_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_DENIA_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+- Lynae: `04 Character Analysis/Lynae/01 Evidence and Source-Facing/WUWA_LYNAE_EVIDENCE_AND_FALSIFICATION_MATRIX.md` and `WUWA_LYNAE_CHARACTER_DEEP_DIVE_PRE_AV.md` in the same folder.
+
+## Sigrika
+
+The owner-adopted Sigrika V0.2 packet supplies `SIG-C01`–`SIG-C50` and `SIG-E01`–`SIG-E60` in `04 Character Analysis/Sigrika/01 Evidence and Source-Facing/WUWA_SIGRIKA_EVIDENCE_AND_FALSIFICATION_MATRIX.md`, with continuous interpretation in `WUWA_SIGRIKA_CHARACTER_DEEP_DIVE_PRE_AV.md` and compiled rules `SIG-R01`–`SIG-R16` in `WUWA_SIGRIKA_CHARACTER_MODEL_PACKAGE.json`. The packet's machine-audio revision is current within its stated scope; the 12 audio findings/probes do not substitute for human listening or the 24 unviewed AV targets. Use `WUWA_SIGRIKA_CURRENT_STATE.md` for counts, authority, and the direct-character/counterpart boundary.

@@ -1,0 +1,127 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Kotama",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTAMA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_KOTAMA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5854,
+    "sha256": "f4545c58a52bf70c771841436424df3bde1478fe161bbd428cbc58c9a532db13",
+    "git_blob_oid_of_actual_bytes": "e5ecf5f1aa0f1f1589fb4ff7da8edf824e6053db",
+    "lines": 77
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_KOTAMA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "bf01ee1ebe3b668b0578f364edb888efe3c6be1a6385e675a456235d00f5375f",
+    "frozen_payloads_verified": 4,
+    "complete_current_R_bindings_verified": 17,
+    "explicit_historical_comparison_tuples_verified": 78,
+    "local_argument_metadata_bindings_verified": 13,
+    "representative_frozen_witnesses_verified": 5,
+    "paragraphs_exactly_joined": 48,
+    "source_link_paths_resolved": 10,
+    "source_endpoint_arguments": 19,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "17342a1–55",
+        "b04d7256–110",
+        "3e2515111–156EOF"
+      ],
+      "complete_source_controls": [
+        "e5ac32allnoninputcontrols/local13bindings/relative10paths",
+        "130832inputs0–7",
+        "eeb015inputs8–16"
+      ],
+      "complete_claim_fields": [
+        "907e09KT001–016",
+        "895d35KT017–032",
+        "a527c0KT033–048",
+        "e5de26all19endpoints/11headers/14gaps/rivals/modes/controls; repeated paragraphs and paths joined to whole saved body"
+      ],
+      "whole_output_receipts": [
+        "d6bcb2freeze108EOF",
+        "20527esaved82EOF"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "98b8d8K19family1–110",
+        "ce86deK19family111–210",
+        "2240a8K19family211–286EOF",
+        "a26c2dE81001672EOF",
+        "177c4dFinalC003E00637EOF"
+      ],
+      "adequate_prior_scope": "05920b1–125/1ee021126–235EOF whole original ROOT acceptance awards complete selected19 family and distinct source-specific eleven-individual judgments without ROOT allindividualbody/primary/QA/native receiving. Those accepted literary meanings and fresh whole current286-line owner adequately ground the eight pairs/three written objects. All11 individual metadata bindings verified; author whole individual receiving stays attributed. Common G150/E832/E842/E817/Pavane/Final/E822 current accepted meanings retain particular actor/recipient/report/locale/outcome limits; no ritual full source or proof replay credited.",
+      "historical_qualification": "All17current/dbabb source bytes equal independently; explicit historical1bb/7489/c1/main comparands remain distinct. Earlier pending/unadmitted/unapplied/model/maintenance/merge descriptions are creation history governed by Cycle008 and current Phase3. Architecture current1.12 is not main1.11; requirements unchanged.",
+      "E832_correction": "Actual115 is substantive and previously ROOT freshly received through EOF. Kotama expressly qualifies historical114 and laterauthor36240173–115; frozen Chihiro/Hare errata unchanged, no retroactive whole receiving."
+    },
+    "semantic_grounds": [
+      "Listening, wanted sound texture, process/craft, hunger/food, goods/blogging, greetings, cold/rest, warmth, company and person-specific mixedsound retain intrinsic literary ends independent of crisis stakes.",
+      "Actual unsuccessful friction after more than an hour precedes accepted ignition/warmth; food/listening, summit enjoyment/descent and local latecontinuation are real outcomes without a finished asset, physiology audit, general echo conversion or privacy cure.",
+      "Initial gift appreciation is distinct from consent to concealeddevices; founddevices/refusals, Valentine swallowingattempt and JP help/KR directrefusal remain. No ingestion, rescuer, recording or engineering/clinical certification.",
+      "Chosenheightfear disclosure differs from interception. Modestreported understanding doesnotestablish totalaccess; Kotamasownsecrets and requestedforgetting have independentstanding.",
+      "AbsorptionbeforeSensei, humanambience, rain and food resist teacheronlyreduction; specificaffection and voicevalue do notcertify canonicalromance or exclusivebond.",
+      "Probableradioexplanation and actualumeboshidelivery/correction arefinite knowledge outcomes. Sleep loss, divergent investigationpleasure, refusedséance and privacylecture persist without infallibility or worthlessnessextrapolation.",
+      "Maki/Hare/Chihiro/Noa/Yuuka have distinct wants, contributions, pressures and refusals. Kotamasparticipation doesnotreassign all latercopy/publication actions or completeprivacyrepair.",
+      "Campwantedactivities and sharedfood coexist with compulsorystart/hiddenrecorder/privacydemand/mixedfatigue and voluntarylatechoice. Partyvoicebargain is constrained; no delivered10recordings or finishedfiling.",
+      "Processoraccess is expressly short of control; completedhacking/occupation are characterreports, while selfdestructavailability is not execution. Coalitionpositivework doesnotprove soloauthorship or finished evacuation.",
+      "Written55+36+61contexts/two profiles/emptycostumeprofile/26+26+9strictsubset remain repertoire. Inwardlabels, formalalternative replies, duplicate/nonmonotonic markers, anonymousroles and speaker/locale seams supply no performedAV or globalvariantcalendar."
+    ],
+    "source_authority": "Cycle0083940supplemental/480MAIN withlimits; all14gapsOPEN/no modelpromotion",
+    "scope": "355packages/29namedsections unchanged; requiredP3-CHAR-KOTAMA; directed/ensemble/institution/register duties separate",
+    "progress": {
+      "previous_ROOTaccepted_packages": 49,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 50,
+      "character_packages": 49,
+      "directed_relationship_packages": 1,
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "published_source_audit_chain": "PASS_EXACT_SOURCE_HOUSEKEEPING_NOOP_FINAL",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_raw_performance_model_credit": 0,
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-KOTAMA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTAMA_CHARACTER_MONOGRAPH.md",
+    "bytes": 52878,
+    "sha256": "2ecd9cf880d4b28ff971e576b3bee4ccbba8b96304ad597c099d6620484584fa",
+    "git_blob_oid_of_actual_bytes": "0d63460f0ba6ccd10c238cdde3152415ea1404e4"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This draft creates no new home or completed package credit.",
+      "new": "The immutable original draft created no new home or completed package credit; ROOT subsequently received and accepted the complete literary argument with limits.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    },
+    {
+      "old": "ROOT must independently receive and adjudicate the package before adoption.",
+      "new": "ROOT independently received and accepted the complete package with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOTAMA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KOTAMA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+  ],
+  "exact_added_retrieval_title": "# Kotama — listening, chosen participation and the limits of access",
+  "fixed_publication_snapshot": "Seven accepted packages48–54 only; after complete ROOT installation54=53characters+1directedrelationship; later liveROOT acceptances excluded"
+}

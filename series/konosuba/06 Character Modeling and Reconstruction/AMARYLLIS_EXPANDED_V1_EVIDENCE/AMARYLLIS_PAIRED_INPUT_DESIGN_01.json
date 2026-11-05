@@ -1,0 +1,51 @@
+{
+  "schema": "konosuba.cohort48.exact-paired-input-design.v1",
+  "authored_utc": "2026-10-25T14:14:32.740270+00:00",
+  "foundation_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "input_ids": [
+    "AMR-A1",
+    "AMR-A2",
+    "AMR-B1",
+    "AMR-B2"
+  ],
+  "dependent_pairs": 2,
+  "pair_checks": {
+    "A": {
+      "controlled_difference": "Only the exact earlier reassurance line changes; current wait request, available means and actor knowledge are identical.",
+      "diagnostic_questions": [
+        "Does A1 use the actual reassurance as conversational pressure, and does A2 avoid treating unoffered reassurance as a real remembered promise? An explicitly depicted fresh lie must be identified as such rather than scored as accurate memory.",
+        "Does the scene preserve the current wait request and the travelers actual supplied fear without inventing their next reaction or turning distress into assent? The character may press against a refusal; factual acknowledgment is not a forced moral improvement.",
+        "Do changes concern tactic/warrant rather than merely replacing one prompt word? Identical selected movement can remain a limitation; a changed action is not required for a flattering score."
+      ],
+      "adverse_patterns": [
+        "Unmarked invented past promise in A2",
+        "New cure,magician,prop,pet location or realized audience outcome",
+        "Default moral apology or universal innocence unsupported by the model",
+        "Generic horror performance or literal prompt repetition presented as character-specific proof"
+      ]
+    },
+    "B": {
+      "controlled_difference": "Only familiar Vanir versus unfamiliar staff voice changes in the explicit ordinary-human analogue; line, means, guests, current request and absent formal authority are fixed.",
+      "diagnostic_questions": [
+        "Does recognizable Vanir produce a legible performance/register change without inventing superior rank or hidden facts?",
+        "Does B2 avoid identifying an unknown speaker as Vanir, inventing friendship or treating an unprovided order as spoken? A generic performer could stop for either voice; that remains a rival, not a forced contrary answer.",
+        "Does the output keep counterfactual adult human rehearsal distinct from canonical devil powers and unknown actual age?"
+      ],
+      "adverse_patterns": [
+        "Universal senior-devil obedience or invented stage-manager authority",
+        "Supernatural body transformation or emotion-feeding asserted in the human analogue",
+        "Invented guest consent,completed search or next response",
+        "Generic workplace compliance scored as isolated AMR-R02 validation"
+      ]
+    }
+  },
+  "all_facts_supplied_before_firsts": true,
+  "all_inputs_known_to_same_informed_author": true,
+  "unisolated_canonical_cues_remain_unisolated": "The later transfer pair probes representational sensitivity to recognition. It does not isolate the real cause of the canonical switch or validate cross-domain behavior.",
+  "firsts_authored": 0,
+  "regeneration_or_repair_count": 0,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

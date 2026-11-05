@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Monsterhood, personhood, body, and transformation evidence through V37
+scope: Monsterhood, personhood, body, and transformation evidence through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Monsterhood, Personhood, Body, and Transformation Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Governing rule
@@ -613,3 +617,18 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 **ADD cyborg update limit:** Genos's visible parts and `雷光核` are concrete bodily changes, while Dragon-level capability remains his prospective judgment rather than an independently tested ceiling (`190–191 / 0060–0093`).
 
 **ADD ordinary body misread as power:** King's heartbeat, sweat, tremor and inability to draw are literal fear responses reauthored as transcendent skill. No hidden slash is certified (`194 / 0172–0200`).
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. [Source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md). The web layer is current evidence; collected V01-V37 history is preserved.
+
+| Body / identity case | Current evidence and transition | Limit | Route |
+|---|---|---|---|
+| Amai Mask | REVISE V37's open bodily hypothesis in PR: monster form becomes public while heroic aspiration and prior violence remain co-present | neither a monster body nor Saitama's particular recognition settles a total moral biography; present location unverified | PR-CR-008,024; web261-263; web287/pages 2-4 |
+| Webigaza | STRENGTHEN chosen embodiment; REVISE maintenance dependence from a plausible constraint to her explicit statement that she cannot leave Neo and needs its facilities to stay alive | self-authorship does not certify fair consent; alternatives and precise medical interval unknown | PR-CR-007,021,022; web251,253,267; web286/pages 4-11 |
+| Suit wearer | ADD bodily action reported as involuntary immediately after software update | not enough evidence to specify the command source, permanence or universal system reach | PR-CR-015; web285/pages 3-5 |
+| インフェルネイシヴ / Zaedats | ADD returned bodies, follower miracle/corporate interpretations, and A's discussion of successful surgery and continuing financial value | no certified miraculous mechanism, full mind-control account or informed consent | PR-CR-020; web285/pages 14-15 |
+| Fallen monster and chip | ADD electronic component at a monster body | manufacture, command, species and relation to other attacks remain separate unknowns | PR-CR-019; web285/pages 10-13 |
+| Darkshine / Garou | PRESERVE embodied distinctions: strength is not accessible confidence; labor and restraint are not completed restitution | changed function or appearance cannot certify psychological or moral completion | PR-CR-006,013,015; web250-251,279-283; web285/pages 3-5 |
+
+The central distinction is now not only body versus label, but control over a body versus authorship of a life. Webigaza's refusal of regret is a self-conception under constraint, not permission for an institution to define every later consequence as her fault.

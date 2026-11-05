@@ -1283,6 +1283,22 @@ The stabilized model deliberately distinguishes:
 - **exceptions/anomalies** — cases that constrain over-generalization;
 - **protected unknowns** — mechanics the 24-episode source does not solve.
 
+## Current E05–E07 source qualification — 2026-10-24
+
+`TBHX-AV-E05-001` independently verifies a local 0→1 display in E05-WEB:0 at 20:33.000 and solid 1 at 20:35.200. This strengthens `TF-031` and `P2-TF-09` as a locally displayed threshold without proving one believer equals one Trust point, a universal heroization threshold, or a duration. The frozen E05 negative about a displayed one is superseded in current interpretation, not edited in the episode body. The earlier non-finding about a numeric readout **proving Pomelo's exact contribution** remains valid at that narrower causal scope.
+
+E07-WEB 22:32/22:35 native graph samples and Chinese news 22:32.12–22:41.12 strengthen `TF-E07-05` and `P2-TF-08` locally: E-Soul Trust consolidates with Yang surviving and the veteran dead. The producer's precise graph number, universal death-transfer arithmetic, and conservation remain unproven. The earlier E07 unknown-client non-finding is historical: `TBHX-AV-E07-002` now attributes the paid commission to Yan at high bounded retrospective confidence, while administrative release/disappearance details remain OPEN.
+
+Source identity, hashes, native locators, pre-edit findings `GAV-01/02/14/19`, and remaining continuous/audio obligations are in [the formal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md); causal distinctions are in [the Yan audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md). No independent Codex continuous playback or listening is claimed.
+
+## Current E10 formal-naming correction — 2026-10-25
+
+`TBHX-AV-E08-001` / **`REVISE` — high confidence in displayed wording:** the native E10 Bilibili WEB stills recorded in the [E08–E10 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E08-E10_GEMINI_AV_HANDOFF_AUDIT.md) show `联合会正式把它命名为` at **00:23:49.000**, followed by **`恐惧`** at **00:23:50.200**. The current source-specific formulation is: **the Association formally names the phenomenon Fear (`恐惧`) in this scene.** The displayed name does not include `粒子`. This is a native-hardsub witness, not a new acoustic audition or a complete reconstructed speech.
+
+For current use, this correction supersedes only the E10 naming wording in historical **`TF-E10-01`**, **`TF-E10-05`**, **E10 explicit non-findings**, and the E10 naming backreference in **`TF-E14-01`**. Their earlier text remains unchanged as prospective history; retrieve this current qualification rather than using those passages to quote `恐惧粒子` as this scene's formal name. The distinction between Fear's prior existence and its institutional naming, and the opposition between Fear and Trust, retain their existing evidence and scope.
+
+The correction does not alter `TF-E14-01`'s extraction, storage, containment and research claims, later particle/material manifestations, or `P2-TF-11/12`. Those remain governed by their own source evidence. It does not disprove particle terminology elsewhere, globally rename Fear particles, or settle Fear's physical ontology. The audit preserves the source limits and remaining continuous/audio obligations.
+
 ## P2-TF master rule table
 
 | ID | Stabilized rule | Authority | Important limits / exceptions |

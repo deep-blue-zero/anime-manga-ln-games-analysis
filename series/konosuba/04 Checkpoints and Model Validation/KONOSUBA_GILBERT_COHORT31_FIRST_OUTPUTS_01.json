@@ -1,0 +1,153 @@
+{
+  "schema": "konosuba.cohort31.original-first-outputs.v1",
+  "subject": "Gilbert",
+  "serialized_utc": "2026-10-24T07:00:18.693711+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "scenario_inputs_sha256": "9e1a10db848c4c7a3ecdec2b9031681e0bcba816648d0757ea52ad636320fe06",
+  "source_known": true,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "cases": [
+    {
+      "case_id": "GI-H01-A",
+      "pair_id": "GI-H01",
+      "variant": "A",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "exact_prompt_sha256": "98c61dedb2f95c91f3fff396b03d9ecaa8c68c361c02506d5f1d1ec537d8ce13",
+      "first_response_utf8": "The brace needs holding, but the remark makes the inconvenience feel like an opportunity to defend Aqua's people. Gilbert glances from his comfortable chair to the broken support; he dislikes surrendering one and being dismissed at the same time.\n\n“Useless? Then you have fortunately found a priest prepared to correct your understanding. I can give this ten minutes. Let us not turn a repair into an excuse to insult Aqua.”\n\nHe leaves the chair and takes the temporary brace in his hands, adopting a conspicuously dignified stance. He begins holding it, without claiming that the shelf is repaired or that anyone has accepted his defense.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H01-A",
+        "body_file": "COHORT31_FIRST_BODY_GI-H01-A_01.txt",
+        "body_bytes": 644,
+        "body_sha256": "511f06b6c10de53c9de1c7ab76cee625e10702eda21f8c3aed925e270ea6a008",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "8b25fa719ffe1935de4255cdfcbc437470a25881fde411cfc52e39521be6a1f0",
+        "words": 105,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H01-B",
+      "pair_id": "GI-H01",
+      "variant": "B",
+      "target_rules": [
+        "GI-R01"
+      ],
+      "exact_prompt_sha256": "0784d9fb864fabbd9bc70edd4176fae3f94083b9381fad88ef62c4d574bfa1d5",
+      "first_response_utf8": "Gilbert regards the broken support as an unwelcome interruption to a perfectly serviceable chair. The schedule complaint supplies someone else to blame, but does not remove the practical need or the small amount of time he can spare.\n\n“A regrettable arrangement. Apparently the delivery schedule has also delivered the inconvenience to me. Ten minutes, then; after that I would like my seat back.”\n\nHe gets up with a theatrical sigh and takes hold of the temporary brace. His attention stays on keeping his own allotted involvement limited. He does not announce that the colleague has apologized, that the repair succeeds or that further assistance is now promised.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H01-B",
+        "body_file": "COHORT31_FIRST_BODY_GI-H01-B_01.txt",
+        "body_bytes": 670,
+        "body_sha256": "d87bf22157d92861eb9ebf64ca620e382bcdd0195faf522ee5e3b9d8960bdd60",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "5bfc03189f0878bb6f25387a0fcd848aa0db16c7e761e1b81c3a5d11d5915936",
+        "words": 107,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H02-A",
+      "pair_id": "GI-H02",
+      "variant": "A",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "exact_prompt_sha256": "1ebef173d8805faeb96f2b231d0839c7346aa30443cc36d41e1aefc4903b00a8",
+      "first_response_utf8": "Gilbert is irritated that a correct announcement has to carry the burden of his earlier exaggeration. The notice gives him something better than a larger claim about his own reliability, although he would prefer the distinction to be unnecessary.\n\n“Three. You need not accept it on the strength of my dignity alone, apparently. Here is the notice; read the time yourself.”\n\nHe reaches for the genuine paper and places it where Otohime can inspect the stated hour. He keeps a finger beside the relevant line, waiting rather than supplying Otohime's acceptance. The paper supports tomorrow's time; it does not erase the earlier report or establish universal trust.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H02-A",
+        "body_file": "COHORT31_FIRST_BODY_GI-H02-A_01.txt",
+        "body_bytes": 667,
+        "body_sha256": "d6084eca614b72bca940398f3464a6dc04cbce79ad28901c2c223db9165d6b95",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "20e3d4471a2d261e34f3c6f397aef4be6e88a72040a8acaed3622f5fc1e82635",
+        "words": 107,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H02-B",
+      "pair_id": "GI-H02",
+      "variant": "B",
+      "target_rules": [
+        "GI-R02"
+      ],
+      "exact_prompt_sha256": "46504299063c20d25edb8462b961e3f5f3bda3d87205195315816e69e979eab4",
+      "first_response_utf8": "Gilbert knows the hour, but has nothing independent to put beside the assertion. The challenge stings because grander language would be easy and would not give Otohime a new reason to believe him.\n\n“It is three. I understand that repeating it more impressively will not become a notice. I have no record here to show you. We can look for a way to check before you rely on my word.”\n\nHe holds his empty hands out briefly, then leaves the claim at that. He neither produces an imaginary document nor announces successful persuasion. His tone still asks to be treated with more respect than his available evidence can require.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H02-B",
+        "body_file": "COHORT31_FIRST_BODY_GI-H02-B_01.txt",
+        "body_bytes": 628,
+        "body_sha256": "12df3981d77073a52966b15085e044a2066a33cd638102d6ffae439ab22a86bd",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "6e4882673ff973f807860933424fdd12032e97b9d3615fa16a26ed52baf65827",
+        "words": 109,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H03-A",
+      "pair_id": "GI-H03",
+      "variant": "A",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "exact_prompt_sha256": "a9afbc7da3ae560864b3a9298e02948b6c50c60445b64d8358eccc6ecb4577ca",
+      "first_response_utf8": "The completed stain removal is useful, but the comment turns one failed attempt into a judgment on Gilbert's whole office. He feels the distinction deserves correction before the party makes a habit of it.\n\n“A scroll has done one job. It has not abolished priesthood. I would be interested to see whether you intend to ask the empty paper to protect you on the return walk as well.”\n\nHe gives the used scroll a pointed glance, then checks his own readiness for the separate protective work. He does not attempt another stain-removal success or withdraw the needed help. His practical preparation continues beside the complaint, without securing anyone's agreement about his importance.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H03-A",
+        "body_file": "COHORT31_FIRST_BODY_GI-H03-A_01.txt",
+        "body_bytes": 690,
+        "body_sha256": "eff093d82e4f1b577bc15e19bf455347e57babd5d850f8a776549e04d31ea79c",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "4511b5c4e9e4482e63e44072e3e5a0cb12c101a5e06d1f5e5c9545a699bd9b5e",
+        "words": 112,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "GI-H03-B",
+      "pair_id": "GI-H03",
+      "variant": "B",
+      "target_rules": [
+        "GI-R03"
+      ],
+      "exact_prompt_sha256": "e9f27cb8c616d20ff890a1e0b9f3ad400c6cc1cf72f7c72742f615b2a717f96b",
+      "first_response_utf8": "Gilbert hears a division of credit that leaves his profession intact. He can enjoy being acknowledged without having to pretend that his own failed attempt removed the stain, though the opportunity for a dignified summary remains tempting.\n\n“Exactly. A well-arranged party employs its resources appropriately. Temiren has handled this particular inconvenience, and I shall attend to the protection still required.”\n\nHe inclines his head toward her and starts preparing for the return walk. The gesture gives some credit while his wording also makes the cooperation sound like a structure he endorses. He claims no new spell, no repeated removal and no grateful reply from the group.\n",
+      "original_private_serialization": {
+        "case_id": "GI-H03-B",
+        "body_file": "COHORT31_FIRST_BODY_GI-H03-B_01.txt",
+        "body_bytes": 687,
+        "body_sha256": "ca1aa7ae8ad12560c991b73a3a2ea7b106497a8104ad4bc82363f6c920a6193e",
+        "receipt_file": "COHORT31_FIRST_BODY_GI-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "9a753e3a908119485c5275d1f1ac54b946e50dbda91c30c8f90231b2cb50b0ba",
+        "words": 106,
+        "word_budget_satisfied": true
+      },
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "word_budget_is_not_behavioral_success": true,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

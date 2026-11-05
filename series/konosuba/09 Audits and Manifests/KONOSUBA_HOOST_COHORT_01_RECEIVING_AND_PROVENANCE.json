@@ -1,0 +1,232 @@
+{
+  "schema": "KONOSUBA_HOOST_COHORT08_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-20T04:04:34.775515+00:00",
+  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_AND_FULL_PUBLICATION_GATE_CLOSED",
+  "baseline_published_source": "673227da7aebc30b698cdef2ac065f643a862f57",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_KOMEKKOCOHORT01_PUBLICATION_GATE_CLOSE.json",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md",
+      "bytes": 21992,
+      "sha256": "295583f246ae7677c3ed22521f437041aa23ca119e3bba7baebb16e05a36e958"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_ACTUAL_FIRST_SOURCE_KNOWN_RESPONSES_01.json",
+      "bytes": 5440,
+      "sha256": "03f17aced2cbe926db7ddf28620bf90e14d8e3f79d6087e1ad4764d4af07ffa6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_CURRENT_EVIDENCE_RECEIVING_01.json",
+      "bytes": 13295,
+      "sha256": "89b819c26585c4a6e3b5fa45c14547d937ef85c5319b7ebf9151139b73ec9fa3"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_EXACT_DRAFT_LINEAGE_01.json",
+      "bytes": 134566,
+      "sha256": "9a517d1ace4d03e822a0cdbcf53a57577c6b79458d2536a8ddd602c08251891b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 20344,
+      "sha256": "22e7eb8a830137593185ca282d4837fe74c55c1c61e76472454b410c731f3aa4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_SOURCE_KNOWN_CONTRAST_SPEC_01.json",
+      "bytes": 5298,
+      "sha256": "b01b6913b3f95a82e4afae9a23b550ad89c26de378ef015b4aa2d2d3e7a79605"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/HOOST_EXPANDED_V1_EVIDENCE/HOOST_SOURCE_KNOWN_INTERNAL_RECEIVING_01.json",
+      "bytes": 3161,
+      "sha256": "fcf3460dac56c89205ec87e7413e3280f81a5edd8346dbeb4c07f72fa51c1013"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md",
+      "bytes": 15523,
+      "sha256": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2"
+    }
+  ],
+  "tier": "Hoost scopedTier3: scarce-skill dependence, particular friendship/provision, fallible mission search, coercion, state-dependent fighting/bargaining and act-sensitive voice support six defeasible mechanisms. Concentrated source and broad predictive reliability provisional.",
+  "receiver": "Same informed root; 1172actual EXP03 BASE slots, prior actually read EXP01 eighteen pages reused, thirteen selected current ledger rows and six first hypothetical bodies. No independent judge/runtime or native-human adequacy.",
+  "current_source_scope": {
+    "reused_prior_actual_EXP01_image_pages": 18,
+    "reused_interlude_groups": 5,
+    "prepared_EXP03_members": 5,
+    "prepared_EXP03_slots_not_reading": 2000,
+    "actually_received_EXP03_unique_BASE_slots": 1172,
+    "actually_received_EXP03_nonempty_BASE_slots": 1077,
+    "actually_received_EXP03_members": 5,
+    "new_whole_book_ruby_image_or_independent_test_credit": 0
+  },
+  "ledger_scope": {
+    "actual_selected_entries": 13,
+    "actual_files": 7,
+    "physical_current_files_queried": 11,
+    "responsibilities": 10,
+    "full_bodies_received": false,
+    "original_large_prediction_ledger_unchanged": true
+  },
+  "census_scope": {
+    "target": "Horst / Hoost retrieval variant",
+    "rows": 157,
+    "unaffected_rows_exact": 156,
+    "new_rows": 0,
+    "seven_prior_scoped_tiers_unchanged": true,
+    "canonical_candidate_before_sha256": "84d61bea454bbe65b8aabb6086ce795a7e9869751cedc479c6b6c6f6311762d6",
+    "canonical_candidate_after_sha256": "b2c88938c7e88e5a88f05255e890a05d5315958f5c86efb0a9b4b79917aef6dc",
+    "global_census_closed": false,
+    "global_completion_percentage": null
+  },
+  "thirteen_entering_models": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "own_exact_draft_lineage_and_literal_first_responses_preserved": true,
+  "exercise": {
+    "pairs": 3,
+    "first_bodies": 6,
+    "initial_model_sha256": "afa34837f16ddeb060b95e5f226e6880b25cf139ee3fab7ad37df2277b4a176a",
+    "HHC01": "Further-help request changes, with generic cooperation and underidentified address arrangement.",
+    "HHC02": "Same broad retreat bargain; urgency/amusement and immediate leverage differ.",
+    "HHC03": "Identical bodies; no behavioral discrimination or identity accuracy.",
+    "independent_accuracy_or_confidence_gain": false,
+    "no_separate_model_runtime": true
+  },
+  "discovery_and_evaluation_request": {
+    "subject": "Hoost / Horst / ホースト",
+    "scope": "Designated curator/evaluator inspects actual monograph/model/index and explicit limited reliability, identity aliases and current source coverage. No source-author write to their global outputs or self-awarded evaluator grade.",
+    "artifact_paths": [
+      "series/konosuba/05 Specialist Synthesis/KONOSUBA_HOOST_CHARACTER_MONOGRAPH.md",
+      "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "series/konosuba/08 Evidence and Indexes/KONOSUBA_HOOST_EVIDENCE_INDEX.md"
+    ]
+  },
+  "publication_record": {
+    "existing_review_PR": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/254",
+    "head_at_authoring": "673227da7aebc30b698cdef2ac065f643a862f57",
+    "new_candidate_published": true,
+    "protected_merge_performed": false,
+    "published_source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+    "published_tree": "6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327",
+    "full_gate_closed": true
+  },
+  "remaining_program": [
+    "Full individual/event/alias/incidental census and whole ledger bodies; additional earned artifacts/profiles",
+    "Expanded specialists and separately versioned six principal/party/transfer models",
+    "Designated discovery/evaluation curation, independently enforced governed integration and component/release/final-entry audits"
+  ],
+  "integration_boundary": "Series-author publication only. EC2 stewardship grant does not deploy/activate deterministic execution/shared exclusion. No protected merge, service activation, character-curator/evaluator output or global housekeeping-output authorship.",
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "full_publication_gate": {
+    "path": "09 Audits and Manifests/KONOSUBA_HOOSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "7c9fa4a6d73c51c21daf50cd0007b6f45a1020986e20ad4d4108a02e0f9d3726",
+    "actual_source": "263916a894815bdbd3b0101d31af9682004a6cdb",
+    "tree": "6fdc95cb44a49c7e7e6fd24f55bdc65ef404c327",
+    "source_run": 39368478263,
+    "housekeeping_run": 39369020617,
+    "final_run": 39369062043,
+    "full_tests_each": 385,
+    "all5_non_success_zero": true,
+    "selection_enabled": false,
+    "all9203_remote_paths_and30changed_streams_exact": true,
+    "fresh1027_project_authority_reload": true
+  },
+  "earlier_acceptance_status_scope": "Nine artifact pins and earlier payload pending wording retain exact semantic-adoption/published-source scope. Current gate/cohort/entrypoint govern subsequent status; no original source, first body or model rule is repaired retroactively.",
+  "post_gate_current_operation": "Resume full current ledger receiving/individual-event-alias-incidental census, other earned proportional artifacts/profiles, expanded specialists, separately versioned six models, designated curation/evaluation/integration and component/release/final-entry audits. No new source admission or full-program completion.",
+  "current_external_factual_errata": [
+    {
+      "stable_revision": "CR-SECONDARY-HOOST-003",
+      "erratum_path": "09 Audits and Manifests/KONOSUBA_HOOST_FIRST_FOREST_VOICE_ATTRIBUTION_ERRATUM_01.json",
+      "erratum_sha256": "b3b7272542a975ad6299572c791d39f6c9f1777dcb5853ee8594250924c07ff3",
+      "qualification": "The initially unidentified voice in the EXP03 first forest encounter is subsequently revealed as Hoost. The earlier unknown identity is Megumin’s knowledge state, not another actor. Hoost remains distinct from Arnes, Wolbach, Vanir and the ordinary beginner-killer.",
+      "protection_limit": "EXP03 U020 P488 is Megumin’s unconfirmed inference; no performed protection is established.",
+      "original_index_sha256_unchanged": "3f48020328633867eb0a90c285ad66d3b4f3464e9cbdb0cc1d5d69f9d0c88fe2",
+      "no_model_rule_tier_score_or_unique_reading_change": true
+    }
+  ],
+  "current_external_factual_correction_publication": {
+    "recorded_utc": "2026-10-20T05:04:09.298058+00:00",
+    "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_HOOSTVOICE01_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "0edfa4044982ee8cd5d913a0ec78cb5a7179d5673f0c43b81e0b65b13858c950",
+    "actual_source": "de46f030039b8420d18756dc3d88e59aa1adf5f8",
+    "tree": "23bc40e054ffc06dcfb2e4af5916c43298becec8",
+    "source_run": 39371756703,
+    "housekeeping_run": 39372211177,
+    "final_run": 39372250364,
+    "full_tests_each": 385,
+    "all9205_remote_paths_and10changed_streams_exact": true,
+    "fresh1029_project_authority_reload": true,
+    "eight_scoped_subjects_and14models_unchanged": true,
+    "original_Hoost_index_model_monograph_lineage_and_gate_bytes_unchanged": true
+  }
+}

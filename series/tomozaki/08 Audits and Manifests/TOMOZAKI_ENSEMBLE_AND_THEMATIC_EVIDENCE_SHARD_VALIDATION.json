@@ -1,0 +1,1437 @@
+{
+  "schema": "tomozaki_ensemble_and_thematic_lossless_sharding_proof/v1",
+  "artifact_type": "evidence_manifest_storage_derivation_validation",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "release_state": "mutable_active",
+  "validation_state": "PASS_PRODUCER_MECHANICAL_AND_ROOT_INDEPENDENT_STORAGE_REPLAY",
+  "authority_scope": "Physical provenance representation only; no new semantic acceptance or source-read credit.",
+  "source_whole_manifest": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+    "bytes": 2368463,
+    "sha256": "43c6449a602fb559bce238f1a0be98aeec782eef335504103275b82018fbda5b"
+  },
+  "routing_manifest": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+    "bytes": 161755,
+    "sha256": "f1793a9ee849e887afc8eb6c064df0a4d4fca937c924e8c8fd96d37af170223f"
+  },
+  "record_shards": [
+    {
+      "shard_id": "ET-SHARD-001",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_001.json",
+      "bytes": 679781,
+      "sha256": "b56c9ecbc9fb523e8888d122c18a122493c3194d9bf2e4f2f41d8f66745d241a",
+      "first_global_record_ordinal_1based": 1,
+      "last_global_record_ordinal_1based": 56,
+      "record_count": 56,
+      "record_array_canonical_json_sha256": "9fbbbd9711306c374939c367c2557c746ce86b0ec69d257dd970f258a2169140"
+    },
+    {
+      "shard_id": "ET-SHARD-002",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_002.json",
+      "bytes": 640342,
+      "sha256": "853d35072e8d4abda31233a06144807d2b88d7cf7b6a6690d4c28bd296fd7a1e",
+      "first_global_record_ordinal_1based": 57,
+      "last_global_record_ordinal_1based": 114,
+      "record_count": 58,
+      "record_array_canonical_json_sha256": "9ab5527758811e7026ec5b2bdf37c1d8b12b74c1e3345219485ff91b8d635d79"
+    },
+    {
+      "shard_id": "ET-SHARD-003",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_003.json",
+      "bytes": 672885,
+      "sha256": "cbe174016393d61c9004517bb3a75a5b49a38ac643e684cff0a0f8e9bc466325",
+      "first_global_record_ordinal_1based": 115,
+      "last_global_record_ordinal_1based": 161,
+      "record_count": 47,
+      "record_array_canonical_json_sha256": "b7e5bdf01e4b729d3b5cde60ce3a76ee0a81d19dddcf2791b3d8c0773f0b2913"
+    },
+    {
+      "shard_id": "ET-SHARD-004",
+      "relative_path": "TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "canonical_path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_RECORDS_004.json",
+      "bytes": 316639,
+      "sha256": "584fefd46fb3521a013971ca0021185e6999130c5c9c5a048fdaad8318046ff6",
+      "first_global_record_ordinal_1based": 162,
+      "last_global_record_ordinal_1based": 184,
+      "record_count": 23,
+      "record_array_canonical_json_sha256": "2f99c2ae25a03a1bc1b04ef3b15ab59480217da856068cb8df95bfe3dd877e14"
+    }
+  ],
+  "all_original_outer_fields_other_than_records_exact": true,
+  "preserved_original_outer_keys": [
+    "schema",
+    "status",
+    "supersedes",
+    "superseded_by",
+    "repository_authority",
+    "do_not_use_as_current_authority",
+    "prepared_utc",
+    "intended_canonical_path",
+    "scope",
+    "source_boundary",
+    "local_roles",
+    "prepared_current_control_propagation",
+    "gate_separation",
+    "source_accounting_by_packet_and_actor",
+    "source_accounting_warning",
+    "embedding_contract",
+    "helper_identities_only",
+    "body_and_working_note_identities_only",
+    "portable_prefix_projection",
+    "release_state",
+    "root_integration"
+  ],
+  "original_root_integration_exact": true,
+  "original_source_accounting_and_non_summation_warning_exact": true,
+  "original_portable_projection_contract_and_all_record_values_exact": true,
+  "no_second_prefix_projection": true,
+  "record_count": 184,
+  "record_id_uniqueness": 184,
+  "records_array_canonical_json_sha256": "3a1e761b17df1d1d801172e73b9f6a3c8c26b6c8835246ba5cc9986fd63014d0",
+  "reconstructed_original_bytes": 2368463,
+  "reconstructed_original_sha256": "43c6449a602fb559bce238f1a0be98aeec782eef335504103275b82018fbda5b",
+  "exact_original_bytes_roundtrip": true,
+  "all_records_match_original_sealed_package": true,
+  "per_record_assertions": [
+    {
+      "ordinal": 1,
+      "record_id": "ETR-0001",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 2,
+      "record_id": "ETR-0002",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 3,
+      "record_id": "ETR-0003",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 4,
+      "record_id": "ETR-0004",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 5,
+      "record_id": "ETR-0005",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 6,
+      "record_id": "ETR-0006",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 7,
+      "record_id": "ETR-0007",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 8,
+      "record_id": "ETR-0008",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 9,
+      "record_id": "ETR-0009",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 10,
+      "record_id": "ETR-0010",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 11,
+      "record_id": "ETR-0011",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 12,
+      "record_id": "ETR-0012",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 13,
+      "record_id": "ETR-0013",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 14,
+      "record_id": "ETR-0014",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 15,
+      "record_id": "ETR-0015",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 16,
+      "record_id": "ETR-0016",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 17,
+      "record_id": "ETR-0017",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 18,
+      "record_id": "ETR-0018",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 19,
+      "record_id": "ETR-0019",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 20,
+      "record_id": "ETR-0020",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 21,
+      "record_id": "ETR-0021",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 22,
+      "record_id": "ETR-0022",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 23,
+      "record_id": "ETR-0023",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 24,
+      "record_id": "ETR-0024",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 25,
+      "record_id": "ETR-0025",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 26,
+      "record_id": "ETR-0026",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 27,
+      "record_id": "ETR-0027",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 28,
+      "record_id": "ETR-0028",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 29,
+      "record_id": "ETR-0029",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 30,
+      "record_id": "ETR-0030",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 31,
+      "record_id": "ETR-0031",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 32,
+      "record_id": "ETR-0032",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 33,
+      "record_id": "ETR-0033",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 34,
+      "record_id": "ETR-0034",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 35,
+      "record_id": "ETR-0035",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 36,
+      "record_id": "ETR-0036",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 37,
+      "record_id": "ETR-0037",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 38,
+      "record_id": "ETR-0038",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 39,
+      "record_id": "ETR-0039",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 40,
+      "record_id": "ETR-0040",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 41,
+      "record_id": "ETR-0041",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 42,
+      "record_id": "ETR-0042",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 43,
+      "record_id": "ETR-0043",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 44,
+      "record_id": "ETR-0044",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 45,
+      "record_id": "ETR-0045",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 46,
+      "record_id": "ETR-0046",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 47,
+      "record_id": "ETR-0047",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 48,
+      "record_id": "ETR-0048",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 49,
+      "record_id": "ETR-0049",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 50,
+      "record_id": "ETR-0050",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 51,
+      "record_id": "ETR-0051",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 52,
+      "record_id": "ETR-0052",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 53,
+      "record_id": "ETR-0053",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 54,
+      "record_id": "ETR-0054",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 55,
+      "record_id": "ETR-0055",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 56,
+      "record_id": "ETR-0056",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 57,
+      "record_id": "ETR-0057",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 58,
+      "record_id": "ETR-0058",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 59,
+      "record_id": "ETR-0059",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 60,
+      "record_id": "ETR-0060",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 61,
+      "record_id": "ETR-0061",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 62,
+      "record_id": "ETR-0062",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 63,
+      "record_id": "ETR-0063",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 64,
+      "record_id": "ETR-0064",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 65,
+      "record_id": "ETR-0065",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 66,
+      "record_id": "ETR-0066",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 67,
+      "record_id": "ETR-0067",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 68,
+      "record_id": "ETR-0068",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 69,
+      "record_id": "ETR-0069",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 70,
+      "record_id": "ETR-0070",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 71,
+      "record_id": "ETR-0071",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 72,
+      "record_id": "ETR-0072",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 73,
+      "record_id": "ETR-0073",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 74,
+      "record_id": "ETR-0074",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 75,
+      "record_id": "ETR-0075",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 76,
+      "record_id": "ETR-0076",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 77,
+      "record_id": "ETR-0077",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 78,
+      "record_id": "ETR-0078",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 79,
+      "record_id": "ETR-0079",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 80,
+      "record_id": "ETR-0080",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 81,
+      "record_id": "ETR-0081",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 82,
+      "record_id": "ETR-0082",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 83,
+      "record_id": "ETR-0083",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 84,
+      "record_id": "ETR-0084",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 85,
+      "record_id": "ETR-0085",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 86,
+      "record_id": "ETR-0086",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 87,
+      "record_id": "ETR-0087",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 88,
+      "record_id": "ETR-0088",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 89,
+      "record_id": "ETR-0089",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 90,
+      "record_id": "ETR-0090",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 91,
+      "record_id": "ETR-0091",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 92,
+      "record_id": "ETR-0092",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 93,
+      "record_id": "ETR-0093",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 94,
+      "record_id": "ETR-0094",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 95,
+      "record_id": "ETR-0095",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 96,
+      "record_id": "ETR-0096",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 97,
+      "record_id": "ETR-0097",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 98,
+      "record_id": "ETR-0098",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 99,
+      "record_id": "ETR-0099",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 100,
+      "record_id": "ETR-0100",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 101,
+      "record_id": "ETR-0101",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 102,
+      "record_id": "ETR-0102",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 103,
+      "record_id": "ETR-0103",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 104,
+      "record_id": "ETR-0104",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 105,
+      "record_id": "ETR-0105",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 106,
+      "record_id": "ETR-0106",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 107,
+      "record_id": "ETR-0107",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 108,
+      "record_id": "ETR-0108",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 109,
+      "record_id": "ETR-0109",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 110,
+      "record_id": "ETR-0110",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 111,
+      "record_id": "ETR-0111",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 112,
+      "record_id": "ETR-0112",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 113,
+      "record_id": "ETR-0113",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 114,
+      "record_id": "ETR-0114",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 115,
+      "record_id": "ETR-0115",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 116,
+      "record_id": "ETR-0116",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 117,
+      "record_id": "ETR-0117",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 118,
+      "record_id": "ETR-0118",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 119,
+      "record_id": "ETR-0119",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 120,
+      "record_id": "ETR-0120",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 121,
+      "record_id": "ETR-0121",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 122,
+      "record_id": "ETR-0122",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 123,
+      "record_id": "ETR-0123",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 124,
+      "record_id": "ETR-0124",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 125,
+      "record_id": "ETR-0125",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 126,
+      "record_id": "ETR-0126",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 127,
+      "record_id": "ETR-0127",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 128,
+      "record_id": "ETR-0128",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 129,
+      "record_id": "ETR-0129",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 130,
+      "record_id": "ETR-0130",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 131,
+      "record_id": "ETR-0131",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 132,
+      "record_id": "ETR-0132",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 133,
+      "record_id": "ETR-0133",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 134,
+      "record_id": "ETR-0134",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 135,
+      "record_id": "ETR-0135",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 136,
+      "record_id": "ETR-0136",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 137,
+      "record_id": "ETR-0137",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 138,
+      "record_id": "ETR-0138",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 139,
+      "record_id": "ETR-0139",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 140,
+      "record_id": "ETR-0140",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 141,
+      "record_id": "ETR-0141",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 142,
+      "record_id": "ETR-0142",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 143,
+      "record_id": "ETR-0143",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 144,
+      "record_id": "ETR-0144",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 145,
+      "record_id": "ETR-0145",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 146,
+      "record_id": "ETR-0146",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 147,
+      "record_id": "ETR-0147",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 148,
+      "record_id": "ETR-0148",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 149,
+      "record_id": "ETR-0149",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 150,
+      "record_id": "ETR-0150",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 151,
+      "record_id": "ETR-0151",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 152,
+      "record_id": "ETR-0152",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 153,
+      "record_id": "ETR-0153",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 154,
+      "record_id": "ETR-0154",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 155,
+      "record_id": "ETR-0155",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 156,
+      "record_id": "ETR-0156",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 157,
+      "record_id": "ETR-0157",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 158,
+      "record_id": "ETR-0158",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 159,
+      "record_id": "ETR-0159",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 160,
+      "record_id": "ETR-0160",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 161,
+      "record_id": "ETR-0161",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 162,
+      "record_id": "ETR-0162",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 163,
+      "record_id": "ETR-0163",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 164,
+      "record_id": "ETR-0164",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 165,
+      "record_id": "ETR-0165",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 166,
+      "record_id": "ETR-0166",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 167,
+      "record_id": "ETR-0167",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 168,
+      "record_id": "ETR-0168",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 169,
+      "record_id": "ETR-0169",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 170,
+      "record_id": "ETR-0170",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 171,
+      "record_id": "ETR-0171",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 172,
+      "record_id": "ETR-0172",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 173,
+      "record_id": "ETR-0173",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 174,
+      "record_id": "ETR-0174",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 175,
+      "record_id": "ETR-0175",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 176,
+      "record_id": "ETR-0176",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 177,
+      "record_id": "ETR-0177",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 178,
+      "record_id": "ETR-0178",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 179,
+      "record_id": "ETR-0179",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 180,
+      "record_id": "ETR-0180",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 181,
+      "record_id": "ETR-0181",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 182,
+      "record_id": "ETR-0182",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 183,
+      "record_id": "ETR-0183",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    },
+    {
+      "ordinal": 184,
+      "record_id": "ETR-0184",
+      "entire_record_exact": true,
+      "raw_source_hash_unchanged": true,
+      "projected_value_hash_verified": true
+    }
+  ],
+  "repository_threshold_bytes": 1048576,
+  "eligibility_policy_at_derivation": {
+    "path": "governance/repository-controls/tracked-file-policy.json",
+    "bytes": 9196,
+    "sha256": "8a00b7a0bb842cdc7df0565d35b8b828d89bb6e09d329d156bab9a975472ed8a"
+  },
+  "all_router_and_shard_bytes_below_threshold": true,
+  "no_named_exception_or_global_control_change": true,
+  "new_primary_calls": 0,
+  "new_pixels": 0,
+  "semantic_review_credit": "Inherited full semantic/read scopes remain exactly those of the original records. This replay adds no new full literary or primary reading.",
+  "source_manifest_recoverability": "The earlier full projected packet remains sealed in scratch; it need not be installed as an oversized Git object because these public objects reconstruct its exact bytes.",
+  "independent_acceptance_and_actual_installation": "ROOT_INDEPENDENT_STORAGE_PASS_WORKTREE_INSTALLATION_REPOSITORY_PUBLICATION_SEPARATE",
+  "producer_validation_state_at_handoff": "PRODUCER_MECHANICAL_PASS_ROOT_INDEPENDENT_REPLAY_PENDING",
+  "complete_root_storage_review": {
+    "schema": "tomozaki_root_independent_lossless_shard_review/v1",
+    "status": "PASS_LOSSLESS_STORAGE_ONLY",
+    "producer_seal": {
+      "path": ".scratch/specialist_promotion_tranche/sharding_middle/SHARDING_SEAL.json",
+      "bytes": 7650,
+      "sha256": "90099ff3a31673dff4d9b454be4572f7f1f50967403c459e443f2a01d772d4d8"
+    },
+    "source_whole_identity": {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ENSEMBLE_AND_THEMATIC_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 2368463,
+      "sha256": "43c6449a602fb559bce238f1a0be98aeec782eef335504103275b82018fbda5b"
+    },
+    "complete_records": 184,
+    "unchanged_original_outer_values": 21,
+    "reconstructed_bytes": 2368463,
+    "reconstructed_sha256": "43c6449a602fb559bce238f1a0be98aeec782eef335504103275b82018fbda5b",
+    "record_values_and_order_exact": true,
+    "all_six_objects_below700000": true,
+    "root_actual_read": "Complete5717Bhumanhandoff,4781Bplan, allnewstorageframejoin/serialization/header/proofsemantics and source/read/debt receipt. Repeated184recordvalues and21originalouterfields independentlyreplayed against previously fully accepted packet, notnewliterary/source reading.",
+    "new_primary_calls": 0,
+    "new_pixels": 0,
+    "no_global_control_exception_or_threshold_change": true,
+    "literary_gate_and_publication_effect": "NONE_STORAGE_REPRESENTATION_ONLY",
+    "canonical_installation": "PENDING_ROOT_FULL_HUMAN_STORAGE_DIFF_READ"
+  },
+  "root_review_identity": {
+    "path": ".scratch/specialist_promotion_tranche/root_review/sharding/ROOT_LOSSLESS_SHARD_REVIEW.json",
+    "bytes": 1408,
+    "sha256": "67eba17aec9529b99825f2217e2cb14b29740ccb7adbeafc3e9fae1c5e8db26f"
+  }
+}

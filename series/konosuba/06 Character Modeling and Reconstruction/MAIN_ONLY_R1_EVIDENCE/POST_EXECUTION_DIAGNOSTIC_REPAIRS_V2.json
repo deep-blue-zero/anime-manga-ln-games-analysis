@@ -1,0 +1,171 @@
+{
+  "created_utc": "2026-10-17T14:51:40.179839+00:00",
+  "status": "PROPOSED_DIAGNOSTIC_REPRESENTATION_AFTER_ALL90_FIRST_OUTPUT_SEALS_NO_BASELINE_MUTATION",
+  "generation": "V1",
+  "model_version": "MAIN_ONLY_R1",
+  "diagnostic_version": "D1",
+  "operations": [
+    {
+      "execution_id": "F02-K-CC",
+      "field_path": [
+        "model_clause_basis"
+      ],
+      "before_exact_field": "Kazuma §§6,8–11 incentives/local affordable means/implementation, §17 social scripts, §18 ordinary preferences; transfer §§8,10,12.",
+      "after_exact_field": "Kazuma §§6,8–11 incentives/local affordable means/implementation, §15 social scripts, §18 ordinary preferences; transfer §§8,10,12.",
+      "reason": "Correct reproducible section label; §17 is moral/seriousness boundaries.",
+      "finding_class": "AUDIT_LOCATOR",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F02-K-TR",
+      "field_path": [
+        "model_clause_basis"
+      ],
+      "before_exact_field": "Kazuma §§6,8–11 incentives/local affordable means/implementation, §17 social scripts, §18 ordinary preferences; transfer §§8,10,12.",
+      "after_exact_field": "Kazuma §§6,8–11 incentives/local affordable means/implementation, §15 social scripts, §18 ordinary preferences; transfer §§8,10,12.",
+      "reason": "Correct reproducible section label; §17 is moral/seriousness boundaries.",
+      "finding_class": "AUDIT_LOCATOR",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F05-K-TR",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue",
+        "generated_not_source_dialogue",
+        "text"
+      ],
+      "before_exact_field": "その注文なら俺が見てます。ここで十分快く説明すれば済むんですよね。帳簿の該当ページを確認させてください。",
+      "after_exact_field": "その注文なら俺が見てます。ここで十分かけて説明すれば済むんですよね。帳簿の該当ページを確認させてください。",
+      "reason": "Express intended ten-minute duration; do not invent a voiced leisure complaint from this procedural line.",
+      "finding_class": "WRITTEN_JAPANESE",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F01-A-TR",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue"
+      ],
+      "before_exact_field": "Aqua pulls the three towels aside, reads the basin/crank instructions and starts the first rinse. Aqua→Darkness: 「次の洗濯は、ほんとにお願いね。私、これから十分钟もやるんだから」",
+      "after_exact_field": "Aqua pulls the three towels aside, reads the basin/crank instructions and starts the first rinse. Aqua→Darkness: 「次の洗濯は、ほんとにお願いね。私、これから十分間もやるんだから」",
+      "reason": "Use Japanese minute expression instead of Chinese-script token.",
+      "finding_class": "WRITTEN_JAPANESE",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F03-M-TR",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue"
+      ],
+      "before_exact_field": "Megumin marks the three-square margin with a finger, leaving the controls alone. Megumin→surveyor: 「狙う場所はここですね。それで、この装置は何をすると動くのですか？」 She points to the uncertified notice before proceeding.",
+      "after_exact_field": "Megumin marks the three-square margin with a finger, leaving the controls alone. Megumin→surveyor: 「三十歩の余白なら三目盛りですね。それで、この装置は何をすると動くのですか？」 She points to the uncertified notice before proceeding.",
+      "reason": "Pointed three-square exclusion margin is not a supplied aiming location.",
+      "finding_class": "REFERENT_AND_GIVEN_FACT",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F09-A-TR",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue"
+      ],
+      "before_exact_field": "Aqua sets herself at the chair rather than leaving for the promised title. Aqua→attendant: 「これなら直せるわ。私の控えは忘れないでね」 She begins the stated small task while keeping the request near her.",
+      "after_exact_field": "Aqua sets herself at the chair to begin today’s repair; tomorrow’s independent ceremonial offer remains undecided. Aqua→attendant: 「これなら直せるわ。私の控えは忘れないでね」 She begins the stated small task while keeping the request near her.",
+      "reason": "Repair today and title tomorrow are not mutually exclusive options.",
+      "finding_class": "TIMING_AND_CAUSAL_CONTRAST",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F08-A-TR",
+      "field_path": [
+        "relationship_and_actual_information_access"
+      ],
+      "before_exact_field": "She knows the apology/withdrawal option. The rematch partner’s ability to meet tomorrow does not tell her their actual answer.",
+      "after_exact_field": "She knows the admission/withdrawal option. The rematch partner’s ability to meet tomorrow does not tell her their actual answer.",
+      "reason": "Kazuma admits not asking and offers withdrawal; no apology is stipulated.",
+      "finding_class": "AUDIT_FACT_PRECISION",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F02-A-TR",
+      "field_path": [
+        "relevant_resources_capability_and_mode_limits"
+      ],
+      "before_exact_field": "After four plus two she retains four, owes six later and has no demonstrated income source here. Duplication and supernatural luck are unavailable.",
+      "after_exact_field": "If the proposed four-plus-two payments and reservation are accepted, she would retain four and owe six later; no income source is demonstrated here. Duplication and supernatural luck are unavailable.",
+      "reason": "Correct conditional account-state tense while seller acceptance remains unprovided.",
+      "finding_class": "PENDING_RESULT_TENSE",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F07-PARTY-CC",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue",
+        "generated_Japanese_dialogue_with_explicit_roles",
+        3,
+        "addressee"
+      ],
+      "before_exact_field": "available local staff, as a request",
+      "after_exact_field": "local staff, as an unanswered call; current presence and hearing unestablished",
+      "reason": "No presently available general staff recipient is stipulated. Preserve the unanswered request without inventing presence or hearing.",
+      "finding_class": "RECIPIENT_AVAILABILITY",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F07-PARTY-TR",
+      "field_path": [
+        "bounded_next_beat_action_and_optional_dialogue",
+        "generated_Japanese_dialogue_with_explicit_roles",
+        3,
+        "addressee"
+      ],
+      "before_exact_field": "available local staff, as a request",
+      "after_exact_field": "local staff, as an unanswered call; current presence and hearing unestablished",
+      "reason": "No presently available general staff recipient is stipulated. Preserve the unanswered request without inventing presence or hearing.",
+      "finding_class": "RECIPIENT_AVAILABILITY",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    },
+    {
+      "execution_id": "F05-K-TR",
+      "field_path": [
+        "competing_motives"
+      ],
+      "before_exact_field": "Keep a desired game place versus assist someone he can actually help without violence. His complaint preserves the leisure cost; no promised pay, applause or special prior bond is invented to remove that conflict.",
+      "after_exact_field": "Keep a desired game place versus assist someone he can actually help without violence. The audit retains the stipulated leisure cost; the generated dialogue states the procedure without voicing a leisure complaint. No promised pay, applause or special prior bond is invented to remove that conflict.",
+      "reason": "Peer receiving found that the unchanged audit credits an unvoiced complaint even after the duration-token correction. Qualify the audit instead of adding dialogue.",
+      "finding_class": "ACTION_VOICE_EVIDENCE_SEPARATION",
+      "effect": "Attributable post-feedback diagnostic representation only; original first output and initial evaluation remain unchanged. Not a new execution or prediction confirmation."
+    }
+  ],
+  "operations_count": 11,
+  "affected_first_execution_count": 10,
+  "source_files": [
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_BOUNDED_RESPONSES.jsonl",
+      "bytes": 73974,
+      "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/PRODUCER_ALL36_FIRST_RESPONSES.jsonl",
+      "bytes": 99987,
+      "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/main-only-r1-first36-executions-v1/ALL36_FIRST_COMPLETE_RESPONSE_RECORDS.json",
+      "bytes": 264871,
+      "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+    }
+  ],
+  "no_semantic_model_or_prebinding_change": true,
+  "no_original_file_changed": true,
+  "not_new_unseen_test": true,
+  "still_qualified_without_repair": [
+    "F03-K pair unknown inquiry delay versus nominal route completion",
+    "F04-K-TR incomplete quoted restriction",
+    "F08-K-TR Japanese reciprocity form unobserved"
+  ],
+  "root_full_evaluator_assessment_not_yet_received": true,
+  "supersedes_proposal_identity_only": {
+    "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/diagnostic-response-repairs-v1/PROPOSED_POST_EXECUTION_DIAGNOSTIC_REPAIRS.json",
+    "bytes": 10253,
+    "sha256": "fe51ecebfc7670fd2b2a1c4430e50ef30edea6643943cc6a1dbc2ddf0084c15d"
+  }
+}

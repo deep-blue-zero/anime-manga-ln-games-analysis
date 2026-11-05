@@ -1,0 +1,2314 @@
+{
+  "schema": "TRPG-CORE/selected-premise-form-and-comic-evidence/v1",
+  "assigned_utc": "2026-10-18T00:13:03.377152+00:00",
+  "uncoded_seal_sha256": "c5bb72f547fdd53020503f76d040ff7d4aaca266402c1b8204f8493ddeaa2d23",
+  "input_sha256": "e86482fb5657fbb4e19e5efbd72fb57034b22399d45ff77ff65d35019d81f5af",
+  "protocol_L": "Japanese Humor and Voice Protocol §5–6; whole selected premise, nested form and cultural dependence separated.",
+  "protocol_H": "Volume Deep Reading Method §7.2: H1 direct behavioral evidence; H2 real disposition/comic amplification; H3 behavior dependent on local punchline; H4 nonliteral comic license. N/A retains no actual behavioral object; MIXED preserves distinct targets.",
+  "rows": [
+    {
+      "id": "TRPGC-U001",
+      "premise_exact": "Promotional invitation to the reader",
+      "printed_pages": "001–001",
+      "spine_interval": [
+        3,
+        3
+      ],
+      "authority_plane_exact": "promotional framing",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Reader invitation is a mild promotional tease rather than a resolved fictional gag; ellipsis and address establish invitation.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "No performed behavioral object to classify. The cover is not made H3 merely because it is promotional.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S003"
+      ],
+      "source_interval_image_hashes": [
+        "19b0e247187ef477a11fb0e52109d86c9aef37596d22966951ffa52b2e91cff4"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U002",
+      "premise_exact": "Exemplary replay recommendation meets Kazuma’s doubt",
+      "printed_pages": "009–009",
+      "spine_interval": [
+        11,
+        11
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A recommendation gains its punch from the immediate doubtful corrective question; the pedagogical promise is locally undermined.",
+      "H_class": "H3",
+      "H_target_and_reason": "Kazuma’s particular refusal to endorse this replay is a staged local joke, weak evidence of a general reluctance to recommend anything. It does not license a main-timeline event.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S011"
+      ],
+      "source_interval_image_hashes": [
+        "ab5d02b2885b0924f04ee9205ceb0213f0c6008bb63082be156d031cddacf327"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U003",
+      "premise_exact": "GM celebrity anxiety becomes unexpected mutual recognition",
+      "printed_pages": "010–011",
+      "spine_interval": [
+        12,
+        13
+      ],
+      "authority_plane_exact": "editorial tabletop account",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Celebrity anxiety is reversed by reciprocal recognition; the narrator’s self-deflation and timing sharpen the ordinary reversal.",
+      "H_class": "H1",
+      "H_target_and_reason": "The edited account substantially presents the GM’s anxiety and response literally. Editorial laughter marks are not recordings or evidence of permanent personality.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention",
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S012",
+        "TRPGC-PAGEOBS-S013"
+      ],
+      "source_interval_image_hashes": [
+        "a6fe40c5b51de99272349faa1007c33137407daa8cd872099d5c2d9eab042603",
+        "d85e1b9d1ab35681ece0d5b4a21e3c999a0fb8f98c158923a0bc13434ba0919e"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U004",
+      "premise_exact": "Tutorial shortcuts displaced by custom construction and dangerous cheats",
+      "printed_pages": "012–014",
+      "spine_interval": [
+        14,
+        16
+      ],
+      "authority_plane_exact": "tabletop discussion",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Experienced players decline a shortcut and choose elaborate creation, expanding the novice tutorial’s burden.",
+      "H_class": "H1",
+      "H_target_and_reason": "These table decisions and GM adaptation are treated literally within the authored replay account. A warning that cheats may break balance is not evidence that the later session failed.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S014",
+        "TRPGC-PAGEOBS-S016"
+      ],
+      "source_interval_image_hashes": [
+        "3183caf64ffd75cf565fb6e375e6a8ad457b08e3ec0b00cb7a21d5a9d5748ebc",
+        "0d9d9f3baf134e70497baf67a507ce42473912f873a25ef0dccf5e681f191a36",
+        "86f796a21e4c09a30f453848bdefe3c399334e5531f5b90bcd419f469b3d659e"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U005",
+      "premise_exact": "Religious spy and supposedly friendly but friendless frightening priest",
+      "printed_pages": "015–016",
+      "spine_interval": [
+        17,
+        18
+      ],
+      "authority_plane_exact": "player-authored PC biography",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Religious self-justification, hostile mission and courteous innocence claims collide with the frightening friendless persona.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert repeatedly combines useful priest work with sectarian appraisal, so the disposition has recurrence within this replay. Its theatrical intensity is amplified; real author belief is not inferred.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S017",
+        "TRPGC-PAGEOBS-S018"
+      ],
+      "source_interval_image_hashes": [
+        "1b0b49340380498aec878eca6d4e396a61461fff399996020fe984fdf021c38b",
+        "9ee91402589e78941787c2078e7ce2158c26fc5aba34c720be54d7f063cdef44"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U006",
+      "premise_exact": "Restored health rewarded by a weapon and immediate risky enthusiasm",
+      "printed_pages": "017–017",
+      "spine_interval": [
+        19,
+        19
+      ],
+      "authority_plane_exact": "player-authored PC biography",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Restored health enables enthusiasm for danger rather than simple gratitude; the useful weapon also creates dependence.",
+      "H_class": "H2",
+      "H_target_and_reason": "Chiho’s optimistic health appraisal is recurrent but exaggerated, and damage still occurs. Her declared Aqua biography is reported co-authored background, not separately witnessed divine conduct.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S019"
+      ],
+      "source_interval_image_hashes": [
+        "3d771183032a3faaf8c5f52405b192f4adc3631e87065131e38612ebe567e2a5"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U007",
+      "premise_exact": "Feminine-sounding name, death-return ownership and determined refusal to die",
+      "printed_pages": "018–019",
+      "spine_interval": [
+        20,
+        21
+      ],
+      "authority_plane_exact": "player-authored PC biography",
+      "L_class": "MIXED",
+      "L_whole_premise_reason": "The survival motive survives any language, while the name 御手洗音姫 relies on Japanese naming/gender expectations and a written social mismatch.",
+      "H_class": "H2",
+      "H_target_and_reason": "Otohime’s fear and survival goal recur despite owning death-return. Name-based humor is not a behavioral diagnosis. Nested form/culture dependence prevents a single clear portability verdict for this compound introduction.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": true,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S020",
+        "TRPGC-PAGEOBS-S021"
+      ],
+      "source_interval_image_hashes": [
+        "98f78ae63a1638bf1e6aba17af63534304a98371d2529efcfa3118fb624281ea",
+        "49686fc232e39119d96222b72b3f2dba8a0bcba3334f95fffa7d76e88a185d08"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U008",
+      "premise_exact": "Romance manga turns a frightening priest into an imagined prince",
+      "printed_pages": "020–020",
+      "spine_interval": [
+        22,
+        22
+      ],
+      "authority_plane_exact": "player-authored PC biography",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A romance genre rule turns a frightening priest into a prince; the confident inference exposes selective evidence use.",
+      "H_class": "H2",
+      "H_target_and_reason": "Temiren returns to this appraisal repeatedly, but literal perfection or irresistible attraction is not supported. Player-chosen relationship does not establish mutual romance.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S022"
+      ],
+      "source_interval_image_hashes": [
+        "970a4b7399daf43c456c7c5f1cfdad89e3b554089d868059a3bae6226a672227"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U009",
+      "premise_exact": "Cohabitation thrift and royal lifestyle meet independent costs",
+      "printed_pages": "021–021",
+      "spine_interval": [
+        23,
+        23
+      ],
+      "authority_plane_exact": "tabletop construction",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Thrift by cohabitation is blocked by a per-PC cost rule, while luxury is rationalized through sectarian privilege.",
+      "H_class": "H1",
+      "H_target_and_reason": "Table proposals and GM refusal are literal construction decisions; declaring a royal lifestyle does not prove that a Guild suite was occupied without payment.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S023"
+      ],
+      "source_interval_image_hashes": [
+        "61c9b755c73e9f4e9c32106e8e8def41062bb5a9e808a78a1e084e56c099a5c7"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U010",
+      "premise_exact": "Creator challenged by his own naming convention while players negotiate bonds",
+      "printed_pages": "022–022",
+      "spine_interval": [
+        24,
+        24
+      ],
+      "authority_plane_exact": "tabletop discussion",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Creator accountability interrupts apparently in-world name confusion; the authored names return as a table joke.",
+      "H_class": "H1",
+      "H_target_and_reason": "The player-to-creator exchange is substantially literal at the editorial table plane. It is neither PC omniscience nor evidence that every religious PC statement is canonically true.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S024"
+      ],
+      "source_interval_image_hashes": [
+        "915e79d3135f8b232083ef9ccc51fcb52258daf4354f0814adb5933d6fdf8a4d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U011",
+      "premise_exact": "Fear narrows quest choice, then reassurance and cult rhetoric recruit the reluctant warrior",
+      "printed_pages": "023–025",
+      "spine_interval": [
+        25,
+        27
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Fear filters the menu, then urgency, reassurance and an invented cult order recruit the reluctant warrior.",
+      "H_class": "H2",
+      "H_target_and_reason": "Otohime’s fear persists into real danger; reassurances are fallible. Comic resistance should not erase his actual decision to accompany the group or prove freely ideal consent to every later hazard.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S025",
+        "TRPGC-PAGEOBS-S026",
+        "TRPGC-PAGEOBS-S027"
+      ],
+      "source_interval_image_hashes": [
+        "c6b7767debd6d3560d724d0a4dc6d4fa7a0a3dba2fd4754bfcfe00da879477b4",
+        "9f47b460e3ada1c651e6a08134bda6e8ce1f2603e5bf37609ce0e82e6d09c748",
+        "ac4530afe936590683daa678aa4300509e1736c3904511787307039903897299"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U012",
+      "premise_exact": "Practical supplies and a shared fatal accident become an instrumental protection pact",
+      "printed_pages": "026–027",
+      "spine_interval": [
+        28,
+        29
+      ],
+      "authority_plane_exact": "performed replay and reported biography",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A confession expected to rupture trust is reappraised through benefit and a conditional protection pact; affection and the oath’s mechanical incentive coexist.",
+      "H_class": "H1",
+      "H_target_and_reason": "These explicit acknowledgments are substantial character evidence within the replay. Earlier rescue intent remains incompletely known, and gratitude does not retrospectively authorize the prior accident.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S028",
+        "TRPGC-PAGEOBS-S029"
+      ],
+      "source_interval_image_hashes": [
+        "908e74211fbf29e4177fb63c91ec9e4f41999f878efdd7b32e5fe8d3a814b558",
+        "8bd193d1f930ca492ed1fc476e379d6ed792905c7dd90b896ecf799530a02693"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U013",
+      "premise_exact": "Attempted discipline is received as romantic encouragement",
+      "printed_pages": "028–028",
+      "spine_interval": [
+        30,
+        30
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Discipline fails because the recipient interprets it through a romance/reward script, while the priest’s prayer cannot control the response.",
+      "H_class": "H2",
+      "H_target_and_reason": "The repeated romance appraisal is credible as a PC disposition, with amplified intensity. Neither player-body assault nor generalized consent to violence follows from roleplayed pleasure.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S030"
+      ],
+      "source_interval_image_hashes": [
+        "ab7968d70514ac2740a215cb0294a2fe4f75d9d409394ed47aa12cbe52ba3503"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U014",
+      "premise_exact": "Ordinary-frog reassurance meets enormous livestock threat and tutorial pacing",
+      "printed_pages": "029–030",
+      "spine_interval": [
+        31,
+        32
+      ],
+      "authority_plane_exact": "performed replay and table discussion",
+      "L_class": "L1",
+      "L_whole_premise_reason": "An ordinary-frog frame collides with enormous livestock-swallowing enemies; expert players disrupt and then repair tutorial pacing.",
+      "H_class": "H1",
+      "H_target_and_reason": "The account preserves the danger and the table’s negotiation of instructional order. Reader knowledge is distinct from what the PCs pretend to know.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S031",
+        "TRPGC-PAGEOBS-S032"
+      ],
+      "source_interval_image_hashes": [
+        "9b2b78e254e1abc5bf565e27417a5dd381f062314fe3d49c8637b16c3a100228",
+        "850ed53b8e3970eeffb37644c8aca1cc27a5f5d8d381b6c5e83bf94d9748dcdf"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U015",
+      "premise_exact": "Grand charge, weak penetration and princes interpreted through modest mechanics",
+      "printed_pages": "032–036",
+      "spine_interval": [
+        34,
+        38
+      ],
+      "authority_plane_exact": "performed replay combat",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Grand declarations and princely admiration contrast with misses and minimal penetration; good intentions and low output coexist.",
+      "H_class": "H2",
+      "H_target_and_reason": "Fear, self-presentation and romance framing are amplified; exact hit/damage results remain literal game events. A low roll is not proof of a permanent incompetence trait.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S034",
+        "TRPGC-PAGEOBS-S036",
+        "TRPGC-PAGEOBS-S037",
+        "TRPGC-PAGEOBS-S038"
+      ],
+      "source_interval_image_hashes": [
+        "27b7f05e1560c8dbc20cf229b27da5fc11adf275a41ec38ed53abc7914e10de8",
+        "e4d9386ae498a7537228911f78334774dffdfb158a64519ebd009a5db83719a0",
+        "c12344f81bc138415c657ccc73df3b6dd0a6955a456a0ecab2ea9756e48a5c54",
+        "29bbf7d86ca5ef4fd2fcb71d3c38e65a8736a6cc52166ce7e7d4ec7328465ef3",
+        "0d17d5ceccaf8f11f8eb9ca96aa83aa65ca5f841f565f5e9e3865f2d8274b482"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U016",
+      "premise_exact": "Armor reassurance fails as the frightened warrior is actually swallowed",
+      "printed_pages": "037–039",
+      "spine_interval": [
+        39,
+        41
+      ],
+      "authority_plane_exact": "performed replay combat and dependent art",
+      "L_class": "L1",
+      "L_whole_premise_reason": "An assurance about armor encounters actual swallowing, then the speaker narrows the earlier claim and companions defend him.",
+      "H_class": "H1",
+      "H_target_and_reason": "The failed handoff and accusation are direct local evidence. Armor-like clothing is not certified metal, and hypothetical digestion is not a performed injury.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S039",
+        "TRPGC-PAGEOBS-S040",
+        "TRPGC-PAGEOBS-S041"
+      ],
+      "source_interval_image_hashes": [
+        "c0c27283c5d9c1c01d1496a11d02b34cfd0f64e99f0b3d6e9da7ddb8c25df55c",
+        "0084761e10d0830faf1b40296ca80cfb3999d3173a0bffcb7e99d91384a0324c",
+        "3cf261bbed08e4a6822c4fe5f2aa6994de34546ca2cb6b2ed4f2418973d1a94f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U017",
+      "premise_exact": "Fear persists while repeated chosen cover and companion rescue incur real costs",
+      "printed_pages": "040–043",
+      "spine_interval": [
+        42,
+        45
+      ],
+      "authority_plane_exact": "performed replay combat",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A frightened warrior chooses repeated cover while friends’ attacks and imperfect shielding rescue him at a cost.",
+      "H_class": "H1",
+      "H_target_and_reason": "The account literally supports costly protection despite fear; a failed partial shield is not erased by later success. Local rules permitting cover from inside a frog are a separate mechanical abstraction, not H4 physical comedy.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S042",
+        "TRPGC-PAGEOBS-S043",
+        "TRPGC-PAGEOBS-S044",
+        "TRPGC-PAGEOBS-S045"
+      ],
+      "source_interval_image_hashes": [
+        "7a2520bbff1cd575b6068623c63984aedff5ec10a889017fef7b11594c1c6bab",
+        "c9775694229ac4356bcdaa46ed022848a6a74cc5d1ce69e375579007810fad93",
+        "0ad22d8f58ef47b5458b19cf473d1fb910767c655dba6a2dd27699278b18e45d",
+        "43e508a7ac6da9570a70eafdb04babaea962273c58d295292b5f9a56be6106d7"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U018",
+      "premise_exact": "A small final hit becomes a briefly enlarged heroic self-appraisal",
+      "printed_pages": "044–044",
+      "spine_interval": [
+        46,
+        46
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A modest finishing hit produces briefly enlarged ambition, immediately corrected by companions who stress the enemy scale.",
+      "H_class": "H2",
+      "H_target_and_reason": "The self-appraisal is amplified and transient. It does not prove a permanent fear cure or completed Demon King-level competence.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S046"
+      ],
+      "source_interval_image_hashes": [
+        "fe692dfd829404b9752c4691bfdeff787fd8dbe45fa6b3d18bb126981dd0df56"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U019",
+      "premise_exact": "Loot and requested affection become a conditional religious donation demand",
+      "printed_pages": "045–046",
+      "spine_interval": [
+        47,
+        48
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A tender reward becomes a conditional religious extraction request; the priest self-labels his manipulation and friends find it amusing.",
+      "H_class": "H2",
+      "H_target_and_reason": "Sectarian opportunism has recurrence, while its theatrical shamelessness is amplified. Temiren agrees, but an actual donation transfer is not verified in this scene.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S047",
+        "TRPGC-PAGEOBS-S048"
+      ],
+      "source_interval_image_hashes": [
+        "f1797db8d253c370711a4d58cc2108e9be75ea41c90214d00a8d004451a08380",
+        "c3dd214d14e8908a4a942a75bd554d56373fb6e532aaee650fd23ad968ca7391"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U020",
+      "premise_exact": "Client perspective, romance rules and baseless religious blame collide",
+      "printed_pages": "047–048",
+      "spine_interval": [
+        49,
+        50
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Romantic destiny, a farmer’s ordinary perspective and baseless religious conspiracy cannot all define the client’s loss; the GM stops the latter topic.",
+      "H_class": "H2",
+      "H_target_and_reason": "Gilbert’s prejudice and Temiren’s selective romance frame recur. The GM’s table boundary is literal, not an in-world legal command or proof of religious culpability.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S049",
+        "TRPGC-PAGEOBS-S050"
+      ],
+      "source_interval_image_hashes": [
+        "948568546c2bb3c6686809846ed6dd41908997227d328770b94cc77d3b5f512e",
+        "e777a7c838850cf46a93d3db03052396c5894adddd9b0a7ef35b783e64542ecc"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U021",
+      "premise_exact": "Lantern duty and frank need for acknowledgment negotiate cave participation",
+      "printed_pages": "049–051",
+      "spine_interval": [
+        51,
+        53
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A frightened companion directly asks to hear that he is needed; the party offers both practical light-duty and instrumental oath reasons.",
+      "H_class": "H1",
+      "H_target_and_reason": "Recognition and utility jointly motivate an actual choice. Neither pure altruism nor an absence of agency accounts for the negotiated participation.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S051",
+        "TRPGC-PAGEOBS-S052",
+        "TRPGC-PAGEOBS-S053"
+      ],
+      "source_interval_image_hashes": [
+        "db4d6766f3fdd461c4eb4ee2321713f44a8c0807821400f9a975e1374a8211e9",
+        "33822dff605633725cd965a92b851c600982560fad1771552aa2313490228d69",
+        "503124e4299ea0ae86758e9fe8f80b2095f2842f66d11e3a5f92d0ee86e26282"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U022",
+      "premise_exact": "Game-locked puzzle, ordinary furniture and fruit gift become a display of intelligence",
+      "printed_pages": "052–053",
+      "spine_interval": [
+        54,
+        55
+      ],
+      "authority_plane_exact": "performed replay puzzle and table explanation",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Furniture and a stick solve an ostentatious intelligence test; minimal competence is celebrated and a fruit is reinterpreted as romance.",
+      "H_class": "H1",
+      "H_target_and_reason": "The roll, gift and immediate MP recovery are literal replay resolutions. A local game-locked door is explicit scenario design, not evidence that ordinary doors are indestructible.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S054",
+        "TRPGC-PAGEOBS-S055"
+      ],
+      "source_interval_image_hashes": [
+        "7102db9ccdc8d56c39f25708c311bd76db91562808bd09c18d3c963f9e8ae55e",
+        "f4da02321f5fb3d23eac11160604aaa73d808586eb1f66c714bd2a3b8c52795f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U023",
+      "premise_exact": "Bath expertise, purification and a local fishing exception cooperate across an acid obstacle",
+      "printed_pages": "054–056",
+      "spine_interval": [
+        56,
+        58
+      ],
+      "authority_plane_exact": "performed replay puzzle with explicit local GM rulings",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Occupational bath knowledge, purification, force and recovery cooperate across an acid obstacle rather than one hero supplying every capacity.",
+      "H_class": "H1",
+      "H_target_and_reason": "The GM expressly licenses local effects, including fishing in a fishless purified pool. Their scope is local; uncertainty about universal mechanics is not itself an H3 behavioral judgment.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S056",
+        "TRPGC-PAGEOBS-S057",
+        "TRPGC-PAGEOBS-S058"
+      ],
+      "source_interval_image_hashes": [
+        "8ca4b254627d0f18a6e876fcf02ac51fdcba30959a61f3db097e1887b1ef9ef4",
+        "af7dae3397dcf2f6afc1cb0122ae878cd29a45468a82de5b79e5191b378f1373",
+        "125e1d0680e2e70fbb4ff34a0865f9cec715daf6dc730270fc04907c1b741f73"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U024",
+      "premise_exact": "A romantic slip and an unexamined chest cause damage, rescue and lost treasure",
+      "printed_pages": "057–060",
+      "spine_interval": [
+        59,
+        62
+      ],
+      "authority_plane_exact": "performed replay hazard and dependent art",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Useful strength and omitted precaution create a bomb loss; cover prevents one injury but cannot restore broken treasure or every companion’s HP.",
+      "H_class": "H1",
+      "H_target_and_reason": "Slip, failed check, shielding and reduced loot are direct game events. Dependent illustrations are not additional incidents, and possible five-ruby loot is not the actual two-ruby result.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S059",
+        "TRPGC-PAGEOBS-S060",
+        "TRPGC-PAGEOBS-S061",
+        "TRPGC-PAGEOBS-S062"
+      ],
+      "source_interval_image_hashes": [
+        "0e22505ca41518b432b60ac23b109fdd25b302c608da641184dc59aec593773d",
+        "22c0143d5cbebd91737e03c46c8383554651be353cd5c548f2e0af785cc445d8",
+        "40ed6003163f23eb4e7bc2accaf2610e9501c41b28e1df26297a7a1102442544",
+        "4888c1f7dd062c62ede151bee3e4d42159ff4bc6133996df312d09d3909b46ce"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U025",
+      "premise_exact": "Diary privacy, wish-to-king wordplay and imagined romantic restoration reconstruct the antagonist",
+      "printed_pages": "061–063",
+      "spine_interval": [
+        63,
+        65
+      ],
+      "authority_plane_exact": "GM-reported background with performed diary intrusion",
+      "L_class": "MIXED",
+      "L_whole_premise_reason": "Privacy intrusion and imagined romance are portable, but the king-to-frog backstory centrally reconstructs 変える／カエル and 王にカエル wordplay.",
+      "H_class": "MIXED",
+      "H_target_and_reason": "H1 for the companions’ conspicuous diary intrusion; H3 for inferring a general artifact psychology from the one pun-engineered mishearing. The transformation itself is reported GM/diary history, not witnessed anew. Do not reduce this mixed premise to only the nested pun or only the portable intrusion.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": true,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S063",
+        "TRPGC-PAGEOBS-S064",
+        "TRPGC-PAGEOBS-S065"
+      ],
+      "source_interval_image_hashes": [
+        "2fb6b7231a87510686161a469ea6d83238d499b8aa466dd4207b6a8c03a64f53",
+        "f7b8ba1a9b414094b61d047daef421b2cadd6fdcede4979641d7ad8b91054b73",
+        "e41f8251f2ba5ce11d1828bf3eefb89901fc2a81ff04dbbc76d08947a2061a3e"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U026",
+      "premise_exact": "Openly improvised sectarian insult suddenly supplies religious urgency",
+      "printed_pages": "064–064",
+      "spine_interval": [
+        66,
+        66
+      ],
+      "authority_plane_exact": "GM improvisation and performed PC response",
+      "L_class": "L1",
+      "L_whole_premise_reason": "The table openly adds the insult that changes Gilbert’s priority, revealing how an effective trigger can be authored during play.",
+      "H_class": "H1",
+      "H_target_and_reason": "GM adoption and PC reaction are literal in this account. The newly improvised premise cannot be backdated as independent prewritten evidence or an unprompted natural experiment.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S066"
+      ],
+      "source_interval_image_hashes": [
+        "2755a2337a191a9870cc8f6381fe1a60d29df4249752c9b969c15eb2b4e802c0"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U027",
+      "premise_exact": "Rescue mission becomes a grotesque amusement-park conception adopted at the table",
+      "printed_pages": "065–067",
+      "spine_interval": [
+        67,
+        69
+      ],
+      "authority_plane_exact": "performed replay confrontation and improvised prospective plan",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A cute amusement-park name is immediately given a grotesque human-ride interpretation; the GM adopts a player’s joke as villain motivation.",
+      "H_class": "H3",
+      "H_target_and_reason": "This particular park conception depends on the local punchline and should not establish an enduring frog culture or universal Froger planning rule. It remains a spoken future plan, not a built park.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S067",
+        "TRPGC-PAGEOBS-S068",
+        "TRPGC-PAGEOBS-S069"
+      ],
+      "source_interval_image_hashes": [
+        "03b65d504f144ec9fd7be3edc603e49f05a74d875ba283aded112e75f2ceb9a1",
+        "cc66521a15d684cb576b1f02a299caed73c34cbe9e000d8d08394222dcd41175",
+        "59d7f4f4bc3f6a08119eac6be10dc1905d7300c66372a072a576901bcde11586"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U028",
+      "premise_exact": "A frightening face cancels a boss buff while the priest’s own strike disappoints",
+      "printed_pages": "068–068",
+      "spine_interval": [
+        70,
+        70
+      ],
+      "authority_plane_exact": "performed replay combat",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A face-based cheat disrupts the powerful buff, while the priest’s own blow fails to penetrate: support competence differs from damage output.",
+      "H_class": "H1",
+      "H_target_and_reason": "Both results are literal mechanical resolutions with resources and limits. The comic face is amplified visually, but its defined one-use effect is not inferred from ordinary intimidation alone.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S070"
+      ],
+      "source_interval_image_hashes": [
+        "268e2c76984dd3afb1ea1ab23b76562f7edd4bf648222bc8fa4195bb3f8a1804"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U029",
+      "premise_exact": "Handsome-prince rescue proposal meets refusal and mechanically powerful magic",
+      "printed_pages": "069–070",
+      "spine_interval": [
+        71,
+        72
+      ],
+      "authority_plane_exact": "performed replay roleplay and combat",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Romantic restoration loses appeal when appearance is qualified; a rejected social solution is followed by expensive, effective combat magic.",
+      "H_class": "H2",
+      "H_target_and_reason": "Temiren’s selective princely ideal is amplified but recurrent. Froger’s refusal survives; dialogue does not force conversion or restoration, and the large spell has a bound double-MP cost.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S071",
+        "TRPGC-PAGEOBS-S072"
+      ],
+      "source_interval_image_hashes": [
+        "9e77ab32d860535cbbceb3b9aef482ac589160f452e6a2d103565ed50ba96f3a",
+        "793d1433dd88852b199a8685485e02ed450bc05912ef4df0171d0eb250439a7d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U030",
+      "premise_exact": "A fearful protector claims growth while another accepts a miss for social praise",
+      "printed_pages": "071–071",
+      "spine_interval": [
+        73,
+        73
+      ],
+      "authority_plane_exact": "performed replay roleplay",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A protector narrates growth and a missed attacker accepts praise; social success and mechanical success separate.",
+      "H_class": "H2",
+      "H_target_and_reason": "Momentary confidence and pleased vanity are amplified. Otohime’s earlier and later fear and misses remain rather than being rewritten as a single stable level of courage.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S073"
+      ],
+      "source_interval_image_hashes": [
+        "8fc8eaa4a12d73b8d174c85cd02840dc012fc22128e75eb5990615b0eb21428d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U031",
+      "premise_exact": "Cold-versus-health dispute precedes deliberate cover, apparent death and costly return",
+      "printed_pages": "072–073",
+      "spine_interval": [
+        74,
+        75
+      ],
+      "authority_plane_exact": "performed replay roleplay and combat",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A cold joke narrows limitless-health rhetoric, then a deliberate rescue produces apparent fatality, a refusal of death and a paid return.",
+      "H_class": "H1",
+      "H_target_and_reason": "The performed cover and cheat resolution support protection plus survival desire. GM deity language does not show main Aqua appearing; the return costs Blessing and is not ordinary resurrection or unlimited immunity.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S074",
+        "TRPGC-PAGEOBS-S075"
+      ],
+      "source_interval_image_hashes": [
+        "aca09e65e7c2ddc86f9eaa1c8e89cea65abfe36e40d0f09e181bbfa833ca2a4c",
+        "f9aa85a97137e19737c2dc0bf07217d46eed18b355180ee563e63c6c1ab5440e"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U032",
+      "premise_exact": "Effective cult healing and familiar frog humiliation correct triumphal religious claims",
+      "printed_pages": "074–075",
+      "spine_interval": [
+        76,
+        77
+      ],
+      "authority_plane_exact": "performed replay with metatextual main-series reference",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Effective healing threatens a comic cult’s reputation, while a remembered frog humiliation corrects a claim of automatic divine dominance.",
+      "H_class": "H1",
+      "H_target_and_reason": "The PC’s Heal and shield work as recorded; the main-series reference and request for an author cameo remain metatextual. Faith alone does not replace game resources or prove deity intervention.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "tabletop convention",
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S076",
+        "TRPGC-PAGEOBS-S077"
+      ],
+      "source_interval_image_hashes": [
+        "cd91f3d79afb49bb8018a5b0372c531d8938281688774cebbf0bfad9cc58b115",
+        "e78f58809d98cab955d6212dad4bd24fa3af70e0efcfa7c629415fa0fdc3f01d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U033",
+      "premise_exact": "Chosen failed evasion, mutual cover and exact shield enable a real group victory",
+      "printed_pages": "076–078",
+      "spine_interval": [
+        78,
+        80
+      ],
+      "authority_plane_exact": "performed replay combat and explicitly spotlight-oriented player choice",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A player deliberately risks a roll to give a teammate a showcase; exact cover and shield resources then enable the damage dealer’s finish.",
+      "H_class": "H1",
+      "H_target_and_reason": "Chosen spotlight distribution, costly protection and attack resolution are literal within the edited replay. This is deliberately cooperative play, not an independently sampled behavioral trial. A comic slime slip does not erase the win.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S078",
+        "TRPGC-PAGEOBS-S080"
+      ],
+      "source_interval_image_hashes": [
+        "9776ab0d5106abd943eec288aa40843c74214eda1487adcceadd910b9b093510",
+        "1ec4a8976361fdc7c0c6deac88a28a0e959d01d2e8d33f89957c0e92908c39f7",
+        "b24e4cd10facb820566a9e029230f77a8bdb276d9fb454fb46ac0fb8f319d0ae"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U034",
+      "premise_exact": "Failed loot, a spared frog and learned companionship follow the victory",
+      "printed_pages": "079–079",
+      "spine_interval": [
+        81,
+        81
+      ],
+      "authority_plane_exact": "performed replay ending",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A spared enemy, a poor loot roll and social appreciation give unequal rewards after a shared victory.",
+      "H_class": "H1",
+      "H_target_and_reason": "The local actions and stated plans are literal. An imagined future reward for sparing the frog is not already received, and one unlucky loot roll is not a disposition.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S081"
+      ],
+      "source_interval_image_hashes": [
+        "2d46d4e83f347a7bc2f11a7ff66810e5f225d9b0fbd1ae7f1d1f8e7f9349cee3"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U035",
+      "premise_exact": "Cow rescue receives an improvised bonus, while heroic rank inflation meets clerical doubt",
+      "printed_pages": "080–081",
+      "spine_interval": [
+        82,
+        83
+      ],
+      "authority_plane_exact": "performed replay ending and GM editorial explanation",
+      "L_class": "L2",
+      "L_whole_premise_reason": "The client bonus acknowledges an unplanned rescue, but the cleric inflates enemy status and meets professionally tactful doubt.",
+      "H_class": "H1",
+      "H_target_and_reason": "Actual extra payment is150KE, added by the GM for the play that occurred; the receptionist does not certify executive rank. Polite nonconfrontation carries the stance, not confirmed agreement.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "tabletop convention",
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S082",
+        "TRPGC-PAGEOBS-S083"
+      ],
+      "source_interval_image_hashes": [
+        "54a2f25a1bdb0af902c754a04ce6c7d9282e3daae59b4166c45ef64e25654a9f",
+        "d63957db0fb1a51a4c9e4897b6462601b524482c33076cdacefb76a1e767e413"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U036",
+      "premise_exact": "New converts discover the desired party trick requires a skill they lack",
+      "printed_pages": "082–082",
+      "spine_interval": [
+        84,
+        84
+      ],
+      "authority_plane_exact": "performed replay roleplay and prospective advancement",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Religious enthusiasm collides with missing practical training; a desired celebration becomes an advancement plan.",
+      "H_class": "H1",
+      "H_target_and_reason": "The skill is absent and the plan is prospective. The account neither performs the trick nor proves future learning or all sect members’ capabilities.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "tabletop convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S084"
+      ],
+      "source_interval_image_hashes": [
+        "4c756fe3513eeb0a7f6f70043eef10837efbc947b4703d4943a8eb1704c4a15b"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U037",
+      "premise_exact": "Aqua turns neutral character creation into recruitment and Eris reopens choice",
+      "printed_pages": "085–085",
+      "spine_interval": [
+        87,
+        87
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Aqua’s imperative recruits characters before Eris gently permits independent choice; the correction exposes inappropriate sectarian control.",
+      "H_class": "H3",
+      "H_target_and_reason": "The exact commandeering of a chapter is a local promotional/pedagogical gag. It should not become a literal main-scene coercive conversion or a blanket inability to respect every choice.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S087"
+      ],
+      "source_interval_image_hashes": [
+        "c826119ddbeec300b4c5f0ae50eed29e52e42e8dca24e0346e9b5ff2f1f1134a"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U038",
+      "premise_exact": "Axis outsider reputation qualifies a triumphal cult replay",
+      "printed_pages": "093–093",
+      "spine_interval": [
+        95,
+        95
+      ],
+      "authority_plane_exact": "world reference, not a new event",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Reference framing contrasts outsiders’ view of Axis religion with the replay’s effective fraternity.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Reference and reputation are not an additional performed behavioral scene. Authority qualification alone does not create H3.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S095"
+      ],
+      "source_interval_image_hashes": [
+        "078f09585ddc0b626bd954df67bde4158ea087c0f7183dd80ef439ce0e4d068f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U039",
+      "premise_exact": "Generic adventurer’s bold offer immediately includes self-doubt",
+      "printed_pages": "101–101",
+      "spine_interval": [
+        103,
+        103
+      ],
+      "authority_plane_exact": "archetype vignette",
+      "L_class": "L1",
+      "L_whole_premise_reason": "The sample adventurer makes an offer and immediately hedges capability; clipped phrasing carries the self-deflation.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "A generic template voice demonstrates an option, not an observed Kazuma choice or personality distribution.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S103"
+      ],
+      "source_interval_image_hashes": [
+        "450138eacfba441a64d0f7bf8c1496a610eea6223864817e22ebb73b96582d08"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U040",
+      "premise_exact": "Chosen hero ambition meets mundane equipment expectations",
+      "printed_pages": "103–103",
+      "spine_interval": [
+        105,
+        105
+      ],
+      "authority_plane_exact": "archetype vignette",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Chosen-hero ambition is deflated by equipment and ordinary adventuring realities.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The text is a selectable persona/example, not an actual performed campaign. Its source plane is recorded separately rather than coded H3 by default.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S105"
+      ],
+      "source_interval_image_hashes": [
+        "c7ecea916df012d703778ee3337d1e6adff9537dc6651d54d89c78936fd33507"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U041",
+      "premise_exact": "Cosmic Crimson chant narrows to a drawn-out Fireball",
+      "printed_pages": "105–105",
+      "spine_interval": [
+        107,
+        107
+      ],
+      "authority_plane_exact": "archetype vignette",
+      "L_class": "L3",
+      "L_whole_premise_reason": "An overblown chant resolves into Fireball whose printed pause and prolonged syllables make the spell’s ordinary name the timing gag.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The material graphically represented delivery is central; generic fantasy culture alone is insufficient to explain it. This is an unnamed sample mage, not a performed Megumin cast. No behavioral H judgment is forced onto a template.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S107"
+      ],
+      "source_interval_image_hashes": [
+        "6d666f29fcfecace17681f727b2e885a94bd901b7a740ac874098d840b92bd6c"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U042",
+      "premise_exact": "Sinister thief presentation is corrected to legitimate work and a yawn",
+      "printed_pages": "109–109",
+      "spine_interval": [
+        111,
+        111
+      ],
+      "authority_plane_exact": "archetype vignette",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Sinister laughter shades into a yawn while the prose distinguishes thief class from criminal occupation.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The persona is a staged possibility; its legitimate-class clarification is direct reference, not a report that a named thief committed or rejected crime.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S111"
+      ],
+      "source_interval_image_hashes": [
+        "90043dd988b0f0c1f9b236bc829fb426789f22800f4df8484ed7059d19c08d56"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U043",
+      "premise_exact": "Many extravagant reincarnation routes return to a simple chair",
+      "printed_pages": "111–111",
+      "spine_interval": [
+        113,
+        113
+      ],
+      "authority_plane_exact": "optional lifepath miniature collection",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Multiple extravagant death routes repeatedly return to an ordinary chair; variation and repeated endpoint create bathos.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Optional histories are not nineteen events or independent deaths. No actual individual behavior is established for H classification.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S113"
+      ],
+      "source_interval_image_hashes": [
+        "a7ccdef7d92f8bbab8cf128063be66e4945a5676a40a6d90ad6d7d02774c9f4f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U044",
+      "premise_exact": "Crimson family prestige includes mockery, poverty and a killing-guest pun",
+      "printed_pages": "113–113",
+      "spine_interval": [
+        115,
+        115
+      ],
+      "authority_plane_exact": "optional lifepath miniature collection",
+      "L_class": "UNCERTAIN",
+      "L_whole_premise_reason": "The family miniatures clearly include portable reversals of prestige, poverty and an initially honorable magic-combat description clarified as assassination. The original uncoded note called its short label a killing-guest pun, but repeated full-page and enlarged views do not justify my exact final-glyph transcription or central Japanese-form claim. Retain uncertainty rather than manufacture a demonstrated L3 nested mechanism.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The entry’s exact wordplay is local, and several other miniatures work without it. The collection is not one observed genealogy or one homogeneous linguistic mechanism.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": true,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S115"
+      ],
+      "source_interval_image_hashes": [
+        "97c73bcc10d4da6584237457b2ca335f7bb3927f2f7feaba3eb7d2589036dc11"
+      ],
+      "confidence": "LOW for exact label/form; MODERATE for the readable explanatory miniature",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U045",
+      "premise_exact": "Revelation confidence and remembered success are explicitly hedged",
+      "printed_pages": "114–114",
+      "spine_interval": [
+        116,
+        116
+      ],
+      "authority_plane_exact": "optional lifepath miniature collection",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Authoritative revelation is punctured by probably/perhaps, while success may not be remembered; certainty is grammatically withdrawn.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Selectable history and narrator hedges do not prove an actual prophecy, amnesia or actor deception.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S116"
+      ],
+      "source_interval_image_hashes": [
+        "b3b5fb868623c136e37b76e367db37e3330b0e856d9da7dd8664fb86c3151d1f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U046",
+      "premise_exact": "Money rationalization and grand destiny coexist with coercion and a legitimate absence of ambition",
+      "printed_pages": "115–115",
+      "spine_interval": [
+        117,
+        117
+      ],
+      "authority_plane_exact": "optional motive miniature collection",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Money’s limitations are dismissed because the speaker does not want those things, while the table separately permits coercion and no grand goal.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Comic rationalization is one option; coercion is not desire and peaceful life is not defective motivation. No performed individual is supplied for H.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S117"
+      ],
+      "source_interval_image_hashes": [
+        "83da1f9885d5754576492592e2bba44e60f45443edce15aa6f8c33f2a4a0a06a"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U047",
+      "premise_exact": "Magical racial prestige is paired with unusual naming conventions",
+      "printed_pages": "130–130",
+      "spine_interval": [
+        132,
+        132
+      ],
+      "authority_plane_exact": "world/race reference",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Powerful magical ancestry is juxtaposed with a mundane naming eccentricity.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The race-reference joke is not a performed family scene or an all-member behavioral forecast.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S132"
+      ],
+      "source_interval_image_hashes": [
+        "14b07228cdcb22cb64bd084bf5376ff6fa0a21db2d6c2291093bde58a81f7346"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U048",
+      "premise_exact": "Low-prestige beginner occupation is difficult for experienced game players",
+      "printed_pages": "132–132",
+      "spine_interval": [
+        134,
+        134
+      ],
+      "authority_plane_exact": "class reference and adaptation comment",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A beginner’s low-prestige world occupation becomes difficult for expert players to build well in the game.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The adaptation explicitly separates in-world class limitations from this game’s unrestricted basic-class choice. This is a design/reference contrast, not character hypocrisy.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S134"
+      ],
+      "source_interval_image_hashes": [
+        "d9aaae17b807b6ad3cccb2af124e22d214810cab36a6416c2a7baacc6cab391f"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U049",
+      "premise_exact": "Necessary healing and priest scarcity permit a reported free-riding market",
+      "printed_pages": "140–140",
+      "spine_interval": [
+        142,
+        142
+      ],
+      "authority_plane_exact": "class reference with rumor qualification",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Scarce healers can acquire bargaining power and are rumored to rotate parties for reward, undercutting simple pious idealism.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The source presents a rumor, not observed misconduct by Aqua or every priest. No H3 is assigned just because generalization is uncertain.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S142"
+      ],
+      "source_interval_image_hashes": [
+        "c38dfd6cb34f89048a7bcb1ae48bc820a65e4b2b1c9fd1be077deadd8f721a7d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U050",
+      "premise_exact": "Faith benefits coexist with socially qualified reputational penalties",
+      "printed_pages": "169–169",
+      "spine_interval": [
+        171,
+        171
+      ],
+      "authority_plane_exact": "rule/reference flavor",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A mechanical divine benefit has a reputation cost subject to GM judgment; devotion does not guarantee universal social approval.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "An optional faith rule is neither an actual rejection event nor evidence of every believer’s wishes.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S171"
+      ],
+      "source_interval_image_hashes": [
+        "deb098565beb4dad0b070f37b6cba68a0461458aa6c72d4ffbe1960e82077673"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U051",
+      "premise_exact": "Powerful goddess identity meets disbelief and blasphemy treatment",
+      "printed_pages": "198–198",
+      "spine_interval": [
+        200,
+        200
+      ],
+      "authority_plane_exact": "optional cheat template",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Actual divinity as a cheat can coexist with public disbelief or blasphemy treatment.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The optional template does not show a new Aqua scene; its social consequences require later GM adjudication.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S200"
+      ],
+      "source_interval_image_hashes": [
+        "2a62947c238accefefca27a2957e2934458ecc486cdb9b1955b453767f9344e4"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U052",
+      "premise_exact": "Pain-derived survival and royal power carry impairment and resource costs",
+      "printed_pages": "199–199",
+      "spine_interval": [
+        201,
+        201
+      ],
+      "authority_plane_exact": "optional cheat templates",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Pain-linked defense comes with reduced accuracy, and royal power depends on expensive living: desirable assets retain costs.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "These typed optional abilities are not evidence of Darkness consenting to injury or any actual royal spending. Rule limits are not gag-contingency labels.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S201"
+      ],
+      "source_interval_image_hashes": [
+        "27145d85a2f672b8d8c5999629f1fd322e8ed25f00868bc3f301aef6500a0158"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U053",
+      "premise_exact": "Villainous intimidation and production wealth come with economic restrictions",
+      "printed_pages": "201–201",
+      "spine_interval": [
+        203,
+        203
+      ],
+      "authority_plane_exact": "optional cheat templates",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Intimidation and production abilities create power with prices, including doubled shop costs or inability to waive a quest reward.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Defined tradeoffs are game mechanics; no new commerce has occurred, and they cannot silently amend novel abilities.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S203"
+      ],
+      "source_interval_image_hashes": [
+        "40e14fc18a510681af44fc2b7e5955161584f3cfca9267612ae42ed761ca0ca2"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U054",
+      "premise_exact": "Overvaluation and borrowed fortune grant power while exposing the user",
+      "printed_pages": "202–202",
+      "spine_interval": [
+        204,
+        204
+      ],
+      "authority_plane_exact": "optional cheat templates",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Being overrated increases exposure, and borrowed fortune may become a lethal debt; benefits carry delayed liabilities.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Optional rule outcomes are conditional, not recorded deaths or literal psychological preferences.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S204"
+      ],
+      "source_interval_image_hashes": [
+        "5424496f4b5b6e1d4e10dffe996711743f4f659cfb8d8487c9e9f3522d0b91bc"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U055",
+      "premise_exact": "Vanir’s exploitative rules advice earns Kazuma’s corrective retort",
+      "printed_pages": "203–203",
+      "spine_interval": [
+        205,
+        205
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Vanir turns helpful rule mastery into exploiting loopholes, while Kazuma’s demonstrative insult makes the ethical correction immediate.",
+      "H_class": "H2",
+      "H_target_and_reason": "Exploitative stance and familiar correction are recognizable comic amplifications, but this staged pedagogical exchange supplies no dated novel act or before/after test.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S205"
+      ],
+      "source_interval_image_hashes": [
+        "b6560934e4481de4c2ba3bd88de5cc2737e03bffe9ccbb89203e20d4df133f72"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U056",
+      "premise_exact": "Helpful reading advice includes an openly promotional aside",
+      "printed_pages": "249–249",
+      "spine_interval": [
+        251,
+        251
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Chris interrupts useful guidance to label her own recommendation as advertising.",
+      "H_class": "H3",
+      "H_target_and_reason": "The self-aware promotional behavior depends on this local fourth-wall wink. It is not general evidence that Chris’s ordinary helpfulness is secretly commercial.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S251"
+      ],
+      "source_interval_image_hashes": [
+        "ec33eff61ef18be4a8370c5daa68cddb6ed2da9d0335f8d50c0d2cca54ad1e1c"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U057",
+      "premise_exact": "Heroic arrival collapses into survival, anger at the goddess and a mock ending",
+      "printed_pages": "250–251",
+      "spine_interval": [
+        252,
+        253
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Epic arrival and holy equipment collapse into bodily exhaustion, grievance and a mock ending before the adventure properly begins.",
+      "H_class": "H2",
+      "H_target_and_reason": "The newcomer’s anger and Aqua’s confidence-to-fear reversal are amplified but the guide fiction treats the dangerous arrival substantially literally. No punch is performed and the newcomer is not identified as Mitsurugi.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S252",
+        "TRPGC-PAGEOBS-S253"
+      ],
+      "source_interval_image_hashes": [
+        "884a961d5a1f27585634f8dfd3e826b685d38cca51d58dade3bd63eea9af0844",
+        "d21cfabe0c9626fef548b8af15028d7fcd52f73d153fb574e0494e43e6950ce4"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U058",
+      "premise_exact": "A promised safe arrival fails and divine dignity becomes a childlike apology",
+      "printed_pages": "252–252",
+      "spine_interval": [
+        254,
+        254
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "MIXED",
+      "L_whole_premise_reason": "The unsafe transfer and forced apology are portable status reversal; the apology’s written childish deformation adds a specifically Japanese-form layer.",
+      "H_class": "H2",
+      "H_target_and_reason": "Aqua’s defensive shrinking is amplified, while the actual mistake and survival cost remain. The compound premise is mixed because the deformation is material without being its only mechanism; no acoustic claim follows.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": true,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S254"
+      ],
+      "source_interval_image_hashes": [
+        "08fa2d3587c8e207068e5d62d31270b73d99f18631e34506445c7590586f33b6"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U059",
+      "premise_exact": "Kindly expert guidance turns out to be paid and imperfect",
+      "printed_pages": "253–253",
+      "spine_interval": [
+        255,
+        255
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Helpful senior stance is qualified by a500-Eris fee and accurate feedback that the guide is not well informed.",
+      "H_class": "H1",
+      "H_target_and_reason": "The offered fee and dialogue are literal guide-fiction events. A paid introduction is not necessarily fraud, nor is limited knowledge proof of universal incompetence.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S255"
+      ],
+      "source_interval_image_hashes": [
+        "969f9d29dd0b8fdcb1e73cf420ff928d0787e8368cde55b1e64c4ba1382ffb99"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U060",
+      "premise_exact": "Grand magical presentation and tactful name praise coexist with loneliness and mundane decoration",
+      "printed_pages": "254–255",
+      "spine_interval": [
+        256,
+        257
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A grand mage introduction is punctured by admitted loneliness and ordinary decoration; tactful name praise is accepted as sincere recognition.",
+      "H_class": "H2",
+      "H_target_and_reason": "Megumin’s pride and self-presentation are amplified, with actual social need retained. The newcomer’s imagined sealed power is explicitly an inference, not world fact.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S256",
+        "TRPGC-PAGEOBS-S257"
+      ],
+      "source_interval_image_hashes": [
+        "57434a4678a093c4f6f09e85eee3dc71e9886efd45bdc76b199ff292e0989d17",
+        "31a279f9b0b6c1923fd18e8086646299cb7a6902990bacee5f094d760173349c"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U061",
+      "premise_exact": "Professional registration hides concern about the guides and delays the proper tutorial",
+      "printed_pages": "256–257",
+      "spine_interval": [
+        258,
+        259
+      ],
+      "authority_plane_exact": "world-guide second-person fiction with embedded reference",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A receptionist’s professional service coexists with a quiet concern the guides fail to notice; tutorial delay sharpens the novice’s earlier danger.",
+      "H_class": "H1",
+      "H_target_and_reason": "Service and hidden doubt are literal within the guide fiction. A private mutter is not addressed reassurance or proof the entire Guild rejects the quartet.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S258",
+        "TRPGC-PAGEOBS-S259"
+      ],
+      "source_interval_image_hashes": [
+        "0a8865dbd6e116c05c84613040c94596fa3dd624900ef8e0fe5e7d4b7e7e86e3",
+        "cdc5e8a0308b0875278aee42f181b38d57e2bcfb0cc48ef99a1cdd90e800beac"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U062",
+      "premise_exact": "Darkness’s practical concern and proposed toad quest coexist with visible excitement about suffering",
+      "printed_pages": "258–258",
+      "spine_interval": [
+        260,
+        260
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Formal concern and a proposed practical quest coexist with excited questions about the newcomer’s beating; Kazuma points out the mixed motive.",
+      "H_class": "H2",
+      "H_target_and_reason": "Darkness’s concern is not canceled by pleasure-oriented interest, but the latter is amplified. No next-day quest or new beating is performed, and another person’s injury is not consented to by her enjoyment.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S260"
+      ],
+      "source_interval_image_hashes": [
+        "ac23c79fe448ab63b821988badafac19213f516e5f77d1a776753682de6d75bc"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U063",
+      "premise_exact": "Quartet’s lunch invitation lacks a subsidy, then a new novice party begins prospectively",
+      "printed_pages": "260–260",
+      "spine_interval": [
+        262,
+        262
+      ],
+      "authority_plane_exact": "world-guide second-person fiction",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A helpful lunch does not include paying for a poorer newcomer, then a different novice freely offers a new partnership.",
+      "H_class": "H1",
+      "H_target_and_reason": "The refusal to subsidize is local, not proof of complete selfishness. The final adventure is prospective; accepting a new party is not a demonstrated full-campaign replacement of the quartet.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S262"
+      ],
+      "source_interval_image_hashes": [
+        "6ce4d5f7db8d062713290f81d7dffe3c979a1f595cb9a601d9465dd4a9f194cb"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U064",
+      "premise_exact": "NPC profiles qualify divine recognition, sword competence and timeless age",
+      "printed_pages": "261–262",
+      "spine_interval": [
+        263,
+        264
+      ],
+      "authority_plane_exact": "character reference, conditional GM use",
+      "L_class": "L2",
+      "L_whole_premise_reason": "Profile captions juxtapose hidden divinity, wall competence, poor sword accuracy and Wiz’s eternally fixed age.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "These reference summaries and isolated taglines are conditional GM-use guidance. Eternal20 is a comic age formula, not a literal birth-date proof or an observed act.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S263",
+        "TRPGC-PAGEOBS-S264"
+      ],
+      "source_interval_image_hashes": [
+        "fcf03a6c0054d2fac10f27b29c6f5fff3b356c9893272bb7e0f441518e146c90",
+        "c84c7b6b5852a7b38ce3dcff979d826886a7796bafd71fccb90628b86186f575"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U065",
+      "premise_exact": "Aqua appropriates the GM-as-god analogy and Kazuma warns against misleading readers",
+      "printed_pages": "263–263",
+      "spine_interval": [
+        265,
+        265
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Aqua treats the GM-as-god analogy as ownership of the chapter; Kazuma warns about a reader actually believing the false claim.",
+      "H_class": "H3",
+      "H_target_and_reason": "The specific appropriation is driven by a local analogy/punchline, not merely uncertain source authority. The correction is not a natural main-timeline role change or a newly scored J01 event.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S265"
+      ],
+      "source_interval_image_hashes": [
+        "e126927fbcb17b5d0d61876d099b7acdc74f36532a0f4d3b47289b2badd16e07"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U066",
+      "premise_exact": "Easy work offers conceal magical damage or a possible superior predator",
+      "printed_pages": "271–271",
+      "spine_interval": [
+        273,
+        273
+      ],
+      "authority_plane_exact": "prospective quest cards",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A benign employment offer conceals bodily magical risk or a possible superior predator; the easy-job formula exposes risk displacement.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Quest cards prescribe possible play. Neither harm, learning, fumble nor BeginnerKiller arrival has occurred merely because it is written as an option.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S273"
+      ],
+      "source_interval_image_hashes": [
+        "df62b47e60ec7eea224329b20088d09abd2f6f5b3ae6d3a3622e6cac047a6c6e"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U067",
+      "premise_exact": "Flying harvest premiums coexist with a less valuable lettuce imitation",
+      "printed_pages": "272–272",
+      "spine_interval": [
+        274,
+        274
+      ],
+      "authority_plane_exact": "prospective quest card",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Flying combat vegetables make harvest a struggle, while a lookalike lettuce reduces market return.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "A prospective job specification is not an additional actual crop attack or a new observed price transaction.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S274"
+      ],
+      "source_interval_image_hashes": [
+        "6a7768cdaa90dd7cce22e9b704aaf6ac9b8a5c5d738575f5af1efd2cc1133c21"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U068",
+      "premise_exact": "An edible cabbage becomes an enemy and a lettuce becomes the cheap lookalike",
+      "printed_pages": "280–280",
+      "spine_interval": [
+        282,
+        282
+      ],
+      "authority_plane_exact": "enemy reference flavor",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A food’s desirability becomes an enemy description, and the same visual family includes a cheap lettuce outcome.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Ecological reference has comic bathos but no performed actor behavior to generalize under H.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S282"
+      ],
+      "source_interval_image_hashes": [
+        "35bc976f78b77bb170f9e4124af8cb55dc3542b1cae56fdfa97d69baf5c82754"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U069",
+      "premise_exact": "Rare bandit applicants are treated as a rare-monster joke",
+      "printed_pages": "281–281",
+      "spine_interval": [
+        283,
+        283
+      ],
+      "authority_plane_exact": "enemy reference flavor, weak comic eligibility",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Calling scarce job applicants a rare monster applies a biological/game label to occupational recruitment.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Weak comic eligibility retained. The reference quip does not create evidence of actual bandit population surveys or a new individual choice.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S283"
+      ],
+      "source_interval_image_hashes": [
+        "8ed6499da10e234fbddfdb5f8b7a8c79d78280d24171d7906164282f18a4a2a6"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U070",
+      "premise_exact": "Vegetable maturity becomes enemy strength and a continuing market disparity",
+      "printed_pages": "283–283",
+      "spine_interval": [
+        285,
+        285
+      ],
+      "authority_plane_exact": "enemy reference flavor",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Vegetable growth increases both encounter threat and culinary value while the lookalike remains less valuable.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The relationship is encoded reference, not a record of a particular harvest or actor’s response.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S285"
+      ],
+      "source_interval_image_hashes": [
+        "d1332bda7a68032e51db35d5a3753ae3b02122d6b1d57bea0f04785f196b55af"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U071",
+      "premise_exact": "Polite anti-spoiler advice escalates to an unperformed Explosion threat",
+      "printed_pages": "297–297",
+      "spine_interval": [
+        299,
+        299
+      ],
+      "authority_plane_exact": "staged character commentary",
+      "L_class": "L2",
+      "L_whole_premise_reason": "A gentle reader-directed anti-spoiler request escalates to a magical threat.",
+      "H_class": "H3",
+      "H_target_and_reason": "The threat is a local disciplinary punchline, not a cast or a stable prediction that Megumin attacks actual readers. Pedagogical staging alone is not the H3 reason.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": false,
+      "culture_context_flags_exact": [
+        "metatextual/source hierarchy"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S299"
+      ],
+      "source_interval_image_hashes": [
+        "775c0ecd929a190cec84ef766d59b2efec56d9c8c844063a76f24907721f7556"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U072",
+      "premise_exact": "Easy novice harvest promises become a three-a.m. blindfold trip through the expert’s forgotten traps",
+      "printed_pages": "298–302",
+      "spine_interval": [
+        300,
+        304
+      ],
+      "authority_plane_exact": "prospective authored scenario",
+      "L_class": "L1",
+      "L_whole_premise_reason": "A safe novice cash promise leads to pre-dawn secrecy and an expert who has forgotten his own traps, turning farm labor into adventure risk.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The whole scenario is authored prospective play. Its scripts, possible acceptance and refusal remain unperformed; no generic H3 follows from that source plane.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S300",
+        "TRPGC-PAGEOBS-S302",
+        "TRPGC-PAGEOBS-S303",
+        "TRPGC-PAGEOBS-S304"
+      ],
+      "source_interval_image_hashes": [
+        "008056217f13282e2c05e5fbb714fb5f5da9fd76e5380aed18a57006e412f38f",
+        "6aa44cc653dd50942094ca834e4dbd1cff46fcaf697684566ef292d5006f52b5",
+        "ec8ccaa20a149a551c9ec2d35e03549a40895539784fb0ddf8e8a0081a4d0c01",
+        "9bc1b71725632bc878063c6c0931dceed505fb9d7c0909eeef7244eefe5c54f7",
+        "931db18990eb72725279818a5636cc9f79a817eb46939d4a9767eb2f29b5eae1"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U073",
+      "premise_exact": "Ordinary harvest tools and raw snacks coexist with awakening rocket vegetables and failed-harvest loss",
+      "printed_pages": "303–306",
+      "spine_interval": [
+        305,
+        308
+      ],
+      "authority_plane_exact": "prospective authored scenario",
+      "L_class": "L0",
+      "L_whole_premise_reason": "Harmless-looking crop work has a narrow profitable window; failed harvest creates a dangerous missile or lost loot rather than free food.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "Branch mechanics and example narration preserve failure. They are not actual failed rolls or observations about a named principal’s care.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S305",
+        "TRPGC-PAGEOBS-S308"
+      ],
+      "source_interval_image_hashes": [
+        "e75dd71f077005ac3b0a43a4acba1a2f1ae20a5ee6e16e981c31a73a73b6563c",
+        "2c7ab097c48e8b526c9d94de740777df6e0c391670a7ab323497f9cafcbd807a",
+        "040c8466fca4650c7fcde8b2cf80c7f5f8377d232430c556b82597e6debe5d0b",
+        "6df82384c6c76002a2230a73a9b7c030a25523896df6ef18a2a8d315f180a283"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U074",
+      "premise_exact": "Unwary thieves and a final ambush encounter the same dangerous crops",
+      "printed_pages": "307–308",
+      "spine_interval": [
+        309,
+        310
+      ],
+      "authority_plane_exact": "prospective authored scenario",
+      "L_class": "L0",
+      "L_whole_premise_reason": "A goblin ambush is interrupted by the very crops both groups seek; the threat can target either side rather than favoring heroes.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The authored background includes an explosion, but table execution remains unknown. One symmetric hazard is not proof every encounter will self-resolve.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S309",
+        "TRPGC-PAGEOBS-S310"
+      ],
+      "source_interval_image_hashes": [
+        "9f9112ac253f314d28392b040b40089e881a331cdb9df7a950498072b8297bf2",
+        "654aeaa4902d0e0f5036cc3024352ab3a4d655aadaf2b86c40868f271c39f96d"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    },
+    {
+      "id": "TRPGC-U075",
+      "premise_exact": "Eating trades money for experience while the expert plans still more traps",
+      "printed_pages": "309–310",
+      "spine_interval": [
+        311,
+        312
+      ],
+      "authority_plane_exact": "prospective authored scenario",
+      "L_class": "L1",
+      "L_whole_premise_reason": "Eating competes with cash rewards and the forgetful expert proposes more traps, reproducing the conditions of his own hazard.",
+      "H_class": "NOT_APPLICABLE",
+      "H_target_and_reason": "The plan is explicitly prospective. If enacted later it could inform a comic disposition; this source does not record actual repeated trapping or a completed meal choice.",
+      "H_scope": "Only the stated behavioral target at its own source plane; N/A is retained for pure reference/options with no performed behavioral object. H3 never substitutes for source-plane caution.",
+      "mixed_or_uncertain": false,
+      "soft_eligibility_exact": true,
+      "culture_context_flags_exact": [
+        "fantasy/RPG convention"
+      ],
+      "selected_denominator_flag": true,
+      "denominator_meaning": "Included in this selected75-premise descriptive register only. NOT a complete comic census, main-J02 denominator, independent trial, R1 validation or accuracy count.",
+      "original_page_observation_ids": [
+        "TRPGC-PAGEOBS-S311",
+        "TRPGC-PAGEOBS-S312"
+      ],
+      "source_interval_image_hashes": [
+        "a8d5073e5e1505923c2f61a7a94c796ccf6b9b816e47ca49636bc6db49eca781",
+        "e1837077085c642aaf95989715e2c3ca8e14d713d4b228ecd98991ad36fdb7b6"
+      ],
+      "confidence": "MODERATE",
+      "assignment_after_uncoded_seal": true
+    }
+  ],
+  "no_aggregate_fit_claim": "No main-J02 count, held-out score, trial pool or model revision. No H4 forced merely because a game mechanic abstracts physical action."
+}

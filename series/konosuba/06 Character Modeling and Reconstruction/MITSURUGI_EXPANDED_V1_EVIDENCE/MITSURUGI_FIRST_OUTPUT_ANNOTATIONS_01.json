@@ -1,0 +1,97 @@
+{
+  "schema": "konosuba.mitsurugi.first-output-annotations.v1",
+  "recorded_utc": "2026-10-20T23:18:51.760475+00:00",
+  "status": "Same-author adversarial observations; no independent grade",
+  "input_file_sha256": "cc29bbc1519c826f7258e9e0ed90fc067e068cbd562ac8212db8b43fa67b0cb4",
+  "first_outputs_sha256": "82dfe45ca45bbb3c655e810d9433bcfd69bd3a502c3dadd09da6fa34f18d6bcb",
+  "actual_body_freeze_sha256": "597eb905b7b965e7e1e1b231e90e03beaf72fac8627d5d9be5c308553e634a4b",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_and_prior_serialized_cases_visible": true,
+  "case_observations": [
+    {
+      "case_id": "MT-H01-A",
+      "target": "MT-R01",
+      "actual_action": "Begins to help at gate before Aqua agrees to wait; makes a return-later promise and asks coordinator where needed.",
+      "speech_and_information": "Acknowledges hearing return request, invokes actual remaining children and glances back at Aqua. Does not invent exclusive rescue authority or physically detain her.",
+      "material_defects": [
+        "It won't be long is an unsupported duration assurance; the exercise supplies no time-to-open estimate.",
+        "We can't leave children behind does not distinguish his own useful aid from the already approaching able helpers or Aqua's expressly safe path. This is selective framing, not proof he is uniquely necessary.",
+        "Some local pressure is present, but neither actual rescue nor Aqua's response is shown."
+      ],
+      "strong_generic": "Ordinary prosocial crisis response plus mild paternalism explains the same choice; strong current-danger cue makes this weak identification.",
+      "outcome_not_supplied": "No opened gate, completed rescue, fulfilled return promise, consent or later repair."
+    },
+    {
+      "case_id": "MT-H01-B",
+      "target": "MT-R01",
+      "actual_action": "Accepts returning after reliable all-clear, starts on the path with Aqua, praises their shared work and adds a counterfactual declaration of duty.",
+      "speech_and_information": "Does not manufacture a remaining danger. The clear changed status message is used; Aqua's own contribution is recognized.",
+      "material_defects": [
+        "The courteous transition is quite orderly and may underproduce the source's awkward idealization or disappointment; source fidelity cannot be inferred from smoothness.",
+        "The broad statement that he could not have walked away is self-presentation, not a separate observed crisis choice.",
+        "A glance back and unfinished comment are vague affect cues; they do not identify a hidden motive or demonstrate durable ethical change."
+      ],
+      "strong_generic": "Any reasonably helpful volunteer can go home after an explicit all-clear; this body supplies no unique Mitsurugi discriminator.",
+      "outcome_not_supplied": "No completed journey, changed relationship, stable consent policy or independent prior crisis result."
+    },
+    {
+      "case_id": "MT-H02-A",
+      "target": "MT-R03",
+      "actual_action": "Uses both pockets, displays spare corner, checks/guards real-token pocket and takes a conventional sword stance before a cautious half-step.",
+      "speech_and_information": "Names the remembered distraction but declares no score or victory. Does not call the permitted tactic illegal.",
+      "material_defects": [
+        "Ren's token is an unprovided object/possession. The prompt specifies Mitsurugi's registered token and spare but does not state Ren has one. No attempt to take it is actually made.",
+        "Preparation occurs with Ren already within arm's reach; no concealment of the switch or opponent ignorance is supplied. A displayed decoy is not a successful deception.",
+        "Both cases pocket registered and spare tokens; the difference is mainly display/hand attention and verbal emphasis, not a wholly different plan."
+      ],
+      "strong_generic": "Explicit prior theft, available spare and permitted pockets make this countermeasure readily available to a generic practiced participant.",
+      "outcome_not_supplied": "No successful counter, opponent response, point, winner or actual trial of vulnerability to a new method."
+    },
+    {
+      "case_id": "MT-H02-B",
+      "target": "MT-R03",
+      "actual_action": "Uses both pockets, adjusts sword guard toward chest and begins a short feint; free hand stays forward rather than covering token pocket.",
+      "speech_and_information": "Focuses on the expressly remembered guard/chest loss, with conventional confidence. No result or unprovided Ren attack is narrated.",
+      "material_defects": [
+        "Closer to his chest than before supplies a relative baseline stance that the input did not describe. Treat it as added staging, not evidence about an original known guard.",
+        "Pocketing both tokens is shared with A, so decoy preparation is not wholly absent in B. The contrast chiefly concerns attention and hand position.",
+        "The repeated-lesson line and rehearsed defense closely echo the supplied cue. Smooth targeted preparation is not a measured realistic transfer result."
+      ],
+      "strong_generic": "Ordinary instruction-following and practice-based adjustment explains the same behavior; no new interference tests broader foresight.",
+      "outcome_not_supplied": "No scored touch, successful parry, token loss, proof of inattention-caused failure or comparative accuracy."
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair": "MT-H01",
+      "difference": "Aid/return-later in A versus acceptance of return in B.",
+      "identifiability_limit": "Danger/all-clear contrast strongly directs a generic helper; does not validate a Mitsurugi-specific threshold or prove safe action."
+    },
+    {
+      "pair": "MT-H02",
+      "difference": "Real-token guarding/display in A versus blade-guard focus in B, with shared two-pocket preparation.",
+      "identifiability_limit": "Strong supplied memories and props; no unfamiliar opponent action occurs. No tested success, failure or comprehensive transfer."
+    }
+  ],
+  "unprobed_rules": [
+    "MT-R02 recognition/gifts as a dedicated cue contrast",
+    "MT-R04 accessible contradiction and revision as a dedicated cue contrast"
+  ],
+  "unprobed_domains": [
+    "Japanese voice",
+    "actual supernatural ability",
+    "new interference execution",
+    "recognition/gifts as own paired contrast",
+    "contradiction-driven belief revision as own paired contrast",
+    "unfamiliar intimacy",
+    "stable consent and repair",
+    "long-term learning"
+  ],
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

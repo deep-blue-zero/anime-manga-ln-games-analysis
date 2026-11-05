@@ -1,0 +1,94 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "source_id": "MAIN-06",
+  "created_utc": "2026-10-19T10:06:54.861629+00:00",
+  "baseline_commit": "0b301c0024b91e24de7dc4817fa32ac594856075",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Main Edition Components",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 115498,
+      "sha256": "856209cc26ab2eaf7d3ed33905e193b2bb8f4f5afb3dd9bbfaef2bdd1549a86d"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_DEEP_READING.md",
+      "bytes": 18212,
+      "sha256": "50c6a69bd733b7963051b1d69f6cbbb5e0f558def663c6f3d15817acb8c54557"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 24703,
+      "sha256": "0d84343164a4426f5b45df21a9decbd56b02a4ef00e7f1c6f6da16a109e0207f"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 25797,
+      "sha256": "7e2a50d3b2946878629bc1e78f5f4384f6d03c78cd842e88b1c3150d7ea9513c"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 49900,
+      "sha256": "2cef67f14f8f628fa9b871e090975b77f677f8233419dc58cfd1c0c83efe71f2"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 10085,
+      "sha256": "afb35f17253ab4665a1a11ceb4ecf0d48390e6c0822044d75929c9fe803d0446"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 12568,
+      "sha256": "da09b2b4cb654e8c492384c0d33f9092536c91d6a7f4374437d7841dcf2045ec"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 22540,
+      "sha256": "1653c712443c51dc907df275adb3f8145f2ba7f80714daa777ea0c8175bda69e"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 19438,
+      "sha256": "2a736064ac20997c8ba9eba8f2ba911b9e10599af523d8ff2133a24acc3abc7c"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 32290,
+      "sha256": "8e407ba369a18bfdb64c61feed2667238e2f36047e9538bab1f796379695a9ab"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 184507,
+      "sha256": "f889ebf22b3d94235633db820375d422710a7468aa063fe8e2f3fc66984d2de6"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 24442,
+      "sha256": "01896fb4e4bead2019f96d313677444f440eabae6315e1c9148fee1d75f3095b"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 9909,
+      "sha256": "77f1dc31d975a766a5dfd9f288e556e5f1b8a1865b70c7a23095180064249112"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 9188,
+      "sha256": "992ce169ee55cf94e7b2ca2fc94668a6bb0b5a1f47d8da1d7a8bcb1b8cde4716"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 3514,
+      "sha256": "edca742bd10c91a55fe72c342b6efd5d1cfdf976d3563e1f70c2cccec47da866"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V06_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 32699,
+      "sha256": "53879bbe3730cc5ffbded1851475d7cda7b3a366fcdbfc940a44a7805de47da3"
+    }
+  ],
+  "native_EPUB_images_and_full_source_text_not_published": true,
+  "source_first_notes_and_uncoded_seal_published_exact": true,
+  "preparation_public_view_is_explicitly_redacted": true,
+  "frozen_controls_exact": true,
+  "new_principal_reading_credit": 0
+}

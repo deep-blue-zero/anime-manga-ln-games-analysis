@@ -1,0 +1,157 @@
+{
+  "schema": "KONOSUBA_MAIN01_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-01",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 281747,
+      "sha256": "ea82ecf1a53261663ba591adf3a269c4fccf3d124d2d8f51077d502387535c4d"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 202598,
+      "sha256": "238ad3a2ce83c81bbd29b5082db9aa29e4fe9c2177fcde3c41bc97af805c121b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 771591,
+      "sha256": "e2c1617cf973ca57f04540b37fd6798772354d628153763914c47685f15548e6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 582384,
+      "sha256": "1ec0f69c7addd2f37e03843f1f5ebbbb6b537dd1c9eb22735d816e22ad0a0bf8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 179695,
+      "sha256": "5b07437e32e8eff2ce86c32e20f217ea94939f1f68e2bf05d951cca5093c9ce7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 174023,
+      "sha256": "64367964771bb4eb562b4c1da4e6e4725de976e3faadfe44219282280597dc93"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 196061,
+      "sha256": "1550d90ff55387e7a4528aa49aae1b3553225f9d321b04f67b045485c294522c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 161912,
+      "sha256": "5b9787f958d1acb47dc4e6feb97d821cd9e3d3cd373bb5b2f5c76ef5a8c3551a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 251734,
+      "sha256": "fca1f99a324d3c6c23b5cb92ab672ab91d1302f182c38f5c5a3619e3717d6e89"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 109990,
+      "sha256": "64511c86bbdc2ebcf1009d6c468c93b118af89eeb7279db42dff57c0a26ad06e"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M01EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P7-39",
+      "observation": "Aqua useful craft/priest identity and K harmful agency coexist with competent help.",
+      "implication": "Refusal, real care, provocative grabbing and actual DrainTouch qualify one-trait accounts.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P19-43",
+      "observation": "Aqua/K reciprocal familiar friction, self-appointed disciple and anonymous child remain different relations.",
+      "implication": "No role-title or valued bond is invented; attachment does not authorize aggression.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "H01-H17/U023/images010-011/023",
+      "observation": "Selected bonus effects and staged profile/promo scripts have separately identified planes.",
+      "implication": "Overlap and nested form prevent population/census or independent-trial claims.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "V01-V22",
+      "observation": "Artist title, vague patron naming, occupational status and care language vary by actual recipient.",
+      "implication": "Post-seal exact fragments; no voice window experiment or acoustic performance.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P20-27",
+      "observation": "K attempts grabbing to make Aqua cry before her hostile framing and the disciple attack.",
+      "implication": "Do not erase initiating agency or assert a context-free malicious false accusation.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P44-48",
+      "observation": "K helpful intention and unfinished skewer clause do not supply actual purchase/payment/handoff.",
+      "implication": "Retain intention versus completed act and missed-spectacle attention shift.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P7-19/28/38-53",
+      "observation": "Aqua values being a priest and chooses leisure/care despite marketable reported artistic skill.",
+      "implication": "No automatic greed, inability to work, artist career or permanent profession transfer.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P11-14/25-26/34-47",
+      "observation": "Aqua reported painting and direct Heal, K actual DrainTouch and unrepaired emotional distress have different access and outcome scopes.",
+      "implication": "One narrow fitted heal is real; no timed-art verification or complete comfort success.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P33-43",
+      "observation": "Aqua anger toward K is interrupted by actual injured child and specific care.",
+      "implication": "Meaningful care does not erase prior aggression or prove universal harmlessness.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "U023P11/28-29/46-53",
+      "observation": "Baseball property damage and sacred door carving are attributed past actions; crowding arises from effective performance.",
+      "implication": "No unshown entry failure/ecological damage; professional refusal remains actual contrary to a simple all-praise account.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    },
+    {
+      "id": "M01EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Aqua/Kazuma; anonymous actual interlocutors as individually specified",
+      "native_routes": "ASrecords/U023/currentQ",
+      "observation": "One narrow A01 step and a qualified E03 care continuation are retained with all partial/NT branches.",
+      "implication": "No changed R1/old scores, no new blind validation, no hidden confirmation from paratext.",
+      "authority_and_adverse_limit": "New bonus or explicitly identified paratext; actual retained principal image joins are audits, not new events. Original prefix/controls/scores remain exact."
+    }
+  ]
+}

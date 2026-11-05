@@ -1,0 +1,1532 @@
+{
+  "schema": "youjo-senki/exact-path-final-current-delivery-manifest/v1",
+  "artifact_id": "YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST",
+  "artifact_type": "analytical_delivery_manifest",
+  "status": "active_provisional",
+  "canonical_home": "Git",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "promotion_status": "VERIFIED_ACCEPTED_MAIN_BODY_AND_NATIVE_POINTERS",
+  "analytical_body_authority": "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS",
+  "native_predecessor_pointers": "VERIFIED_NATIVE_CUTOVER",
+  "created_utc": "2026-10-13T23:06:49.586619+00:00",
+  "source_boundary": "Original Japanese LN V01-V14",
+  "completion": "COMPLETE_WITH_LIMITS",
+  "counts": {
+    "closed_candidates": 1200,
+    "textual_Tanya_diagnostics": 814,
+    "conditional_rule_families": 44,
+    "typed_crosswalk_rows": 815,
+    "completed_models_profiles": 29,
+    "anchored_claims": 418,
+    "directed_episodes": 77,
+    "original_actual_source_continuations_PARTIAL": 7
+  },
+  "preservation": {
+    "V2_files": 15,
+    "V12_rows_diagnostics": "EXACT_PREFIXES_UNCHANGED",
+    "global_governance_and_character_authoring": "NONE",
+    "bulk_source_and_private_reserve": "EXCLUDED"
+  },
+  "accepted_analytical_main": {
+    "accepted_main_sha": "813cc91553f99e2de7c357794897bb8c59b2f548",
+    "accepted_source_head": "ba1a2d9ba7678c87c7e8150dc086495aa70e2b5e",
+    "accepted_tree": "376a98db21e0cf145c194b91e20421a766cfe0b9",
+    "source_author_commit": "ba1a2d9ba7678c87c7e8150dc086495aa70e2b5e",
+    "pull_request": 154,
+    "source_audit_run_id": 38473456241,
+    "housekeeping_run_id": 38475002859,
+    "final_source_audit_run_id": 38475048423,
+    "owner_controller_run_id": 38477378313,
+    "exact_main_audit_run_id": 38477488222,
+    "exact_main_full_audit": "SUCCESS",
+    "source_and_main_tree_equal": true,
+    "all_176_path_contents_matched": true,
+    "required_regression_execution": "full",
+    "selection_enabled": false,
+    "discovered_tests": 301,
+    "tests_run": 301
+  },
+  "native_authority_cutover": {
+    "state": "ALL_SIX_EXISTING_IDS_NATIVE_FULL_RAW_HASH_AND_BODY_PRESERVATION_VERIFIED",
+    "existing_objects": 6,
+    "no_name_parent_acl_change": true,
+    "original_substantive_bodies_preserved": true,
+    "promotion_record": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json",
+    "promotion_audit": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md",
+    "wrapper_patch_trace": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json"
+  },
+  "completed_event_scope": "Previously accepted analytical main/source/tree through PR154 and six completed native metadata/banner readbacks; inference, classes, ceilings and original evaluations remain unchanged.",
+  "final_record_publication": {
+    "certification": "EXTERNAL_EXACT_GIT_CI_HISTORY_AND_FINAL_HANDOFF",
+    "scope": "Publication/integration of these final wrapper and delivery-record bytes is certified by their exact later Git/CI history. This manifest contains no future own-commit SHA and does not self-certify that separate event.",
+    "own_future_commit_sha_claimed": false
+  },
+  "accepted_original_manifest": {
+    "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json",
+    "sha256": "683cf9cd7c9a0cc721c104e8cba5c3c1b464fe64fd9a9bf3ca02b9412c9bbc04",
+    "pull_request": 154,
+    "accepted_main_sha": "813cc91553f99e2de7c357794897bb8c59b2f548",
+    "accepted_source_sha": "ba1a2d9ba7678c87c7e8150dc086495aa70e2b5e",
+    "accepted_tree": "376a98db21e0cf145c194b91e20421a766cfe0b9",
+    "role": "Unchanged construction-time delivery snapshot subsequently accepted through PR154. Original pending construction fields remain historical and do not override the completed events here.",
+    "original_named_paths_including_self": 176
+  },
+  "proof_receipt_hashes": {
+    "FIRST_ACCEPTED_MAIN_INTEGRATION_PROOF.json": "b7041f53c2aa4e92f433495790cea3f8e4fe4b14406e14624f8834ca69b02495",
+    "DRIVE_AUTHORITY_CUTOVER_VERIFIED_READBACK.json": "fd666293e25884a22821fbb5c3bf6068443e8a31aae70e43c18a31bac5d7ab26"
+  },
+  "evaluation_limits": "Original seven source continuations remain PARTIAL. Original process/application failures, separate nonblind repairs and nonempirical ensemble applications remain versioned. Authority cutover adds no primary-source reading, blind score, empirical accuracy or confidence promotion.",
+  "delivery_scope": {
+    "original_accepted_paths_including_original_manifest": 176,
+    "new_authority_promotion_records": 3,
+    "new_final_manifest": 1,
+    "exact_named_paths": 180,
+    "hash_enumerated_other_paths": 179
+  },
+  "delivery_paths": [
+    "series/youjo-senki/CMR/Diagnostics/ENSEMBLE_CHARACTER_DIAGNOSTICS.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/SUPPLEMENTARY_CHARACTER_DIAGNOSTICS.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V01_V04.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V05_V08.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V09_V12.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V13.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V14.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTIC_TO_RULE_CROSSWALK.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_OPERATIONAL_RULE_REGISTER.md",
+    "series/youjo-senki/CMR/Diagnostics/TANYA_WRITTEN_VOICE_SOURCE_CONTROLS.jsonl",
+    "series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md",
+    "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+    "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ANSON_SIOUX_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/ANSON_SIOUX_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/CALANDRO_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/CALANDRO_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/CONRAD_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/CONRAD_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/DE_LUGO_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/DE_LUGO_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/DRAKE_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/DRAKE_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ELMAR_AHRENS_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/ELMAR_AHRENS_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ERICH_VON_LERGEN_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ERYA_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/ERYA_RECOGNITION_PROFILE.md",
+    "series/youjo-senki/CMR/Models/GRANTZ_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/GRANTZ_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/HANS_VON_ZETTOUR_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/IGOR_GASSMAN_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/IGOR_GASSMAN_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/JOHNSON_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/JOHNSON_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/JOSEF_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/JOSEF_RECOGNITION_PROFILE.md",
+    "series/youjo-senki/CMR/Models/KLAM_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/KLAM_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/KURT_VON_RUDERSDORF_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/KURT_VON_RUDERSDORF_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/LERGEN_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/LILIYA_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/LILIYA_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/LORIA_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/LORIA_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/MARY_SUE_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/MARY_SUE_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/MATHEUS_JOHANN_WEISS_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/MATHEUS_JOHANN_WEISS_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/MEYBERT_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/MEYBERT_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/MIKEL_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/MIKEL_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ROMEL_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/ROMEL_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/TANYA_DEGURECHAFF_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/TANYA_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/THON_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/THON_RECOGNITION_PROFILE.md",
+    "series/youjo-senki/CMR/Models/TOSPAN_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/TOSPAN_RECOGNITION_PROFILE.md",
+    "series/youjo-senki/CMR/Models/UGER_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/UGER_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/VISHA_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/WUSTEMANN_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Models/WUSTEMANN_RECONSTRUCTION_MODEL.md",
+    "series/youjo-senki/CMR/Models/ZETTOUR_MODEL_CLAIM_INDEX.jsonl",
+    "series/youjo-senki/CMR/Provenance/TANYA_CMR2_V14_CLOSURE_COVERAGE.json",
+    "series/youjo-senki/CMR/Provenance/TANYA_INTERPRETIVE_FIELD_MAPPING.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_CURATION_HANDOFF.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_CURATION_HANDOFF.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_CHECKPOINT_01_MANIFEST.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_COMPLETION_REVIEW.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_SOURCE_APPEND_DISPOSITION.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_WRAPPER_ROUTE_REPAIR.json",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_OPEN_QUESTIONS_AND_COUNTEREVIDENCE.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_OPEN_QUESTIONS_AND_COUNTEREVIDENCE.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.jsonl",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md",
+    "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_TANYA_CMR2_V14_CLOSURE_AUDIT.md",
+    "series/youjo-senki/CMR/QA/ADELHEID_VON_SCHUGEL_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ADELHEID_VON_SCHUGEL_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/ANSON_SIOUX_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ANSON_SIOUX_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/CALANDRO_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/CALANDRO_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/CONRAD_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/CONRAD_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/DE_LUGO_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/DE_LUGO_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/DRAKE_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/DRAKE_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/ELMAR_AHRENS_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ELMAR_AHRENS_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/ERYA_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ERYA_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REGRESSION_QA.md",
+    "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REGRESSION_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REPAIR.json",
+    "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA.md",
+    "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REPAIR.json",
+    "series/youjo-senki/CMR/QA/GRANTZ_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/GRANTZ_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/IGOR_GASSMAN_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/IGOR_GASSMAN_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/JOHNSON_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/JOHNSON_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/JOSEF_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/JOSEF_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/KLAM_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/KLAM_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/KURT_VON_RUDERSDORF_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/KURT_VON_RUDERSDORF_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/LERGEN_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/LERGEN_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/LILIYA_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/LILIYA_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/LORIA_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/LORIA_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/MARY_SUE_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/MARY_SUE_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/MATHEUS_JOHANN_WEISS_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/MATHEUS_JOHANN_WEISS_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/MEYBERT_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/MEYBERT_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/MIKEL_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/MIKEL_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/ROMEL_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ROMEL_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md",
+    "series/youjo-senki/CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/SIX_SPECIALIST_SPEECH_ACT_PIPELINE_REPAIR.json",
+    "series/youjo-senki/CMR/QA/SPECIALIST_AUTHORITY_METADATA_REGRESSION_QA.md",
+    "series/youjo-senki/CMR/QA/SPECIALIST_AUTHORITY_METADATA_REGRESSION_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/SPECIALIST_MODEL_AUTHORITY_METADATA_REPAIR.json",
+    "series/youjo-senki/CMR/QA/TANYA_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/TANYA_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/TANYA_MODEL_REPAIR_TRACE.json",
+    "series/youjo-senki/CMR/QA/TANYA_REPAIR_ACCEPTANCE_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/TANYA_REPAIR_ACCEPTANCE_QA.md",
+    "series/youjo-senki/CMR/QA/THON_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/THON_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_COMPLETION.json",
+    "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_NAVIGATION_REGRESSION_QA.md",
+    "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_NAVIGATION_REGRESSION_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/TOSPAN_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/TOSPAN_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/UGER_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/UGER_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/VISHA_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/VISHA_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/VISHA_MODEL_INDEX_ROUTE_REPAIR.json",
+    "series/youjo-senki/CMR/QA/WUSTEMANN_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/WUSTEMANN_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json",
+    "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md",
+    "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/QA/ZETTOUR_INDEPENDENT_QA.md",
+    "series/youjo-senki/CMR/QA/ZETTOUR_INDEPENDENT_QA_CASES.jsonl",
+    "series/youjo-senki/CMR/README.md",
+    "series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_EPISODES.jsonl",
+    "series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md",
+    "series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md",
+    "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md"
+  ],
+  "manifest_self_binding": {
+    "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json",
+    "canonical_responsibility": "final-current exact-path analytical delivery manifest",
+    "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE",
+    "sha256": "EXCLUDED_TO_AVOID_RECURSION",
+    "binding": "Exact self bytes and all180 named paths are bound by the separate staging/index/readback receipt and Git blob/tree; a self hash is never substituted into this manifest."
+  },
+  "paths": [
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/ENSEMBLE_CHARACTER_DIAGNOSTICS.jsonl",
+      "bytes": 282271,
+      "sha256": "ca669f785274470c61d4d01fcc382ce32f26576da2ace492a92d2942c75d136a",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/SUPPLEMENTARY_CHARACTER_DIAGNOSTICS.jsonl",
+      "bytes": 312935,
+      "sha256": "308fce771ccfa63d5d396bc7db9f81a180dbd9d497d38d713b17ef56e8e80718",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V01_V04.jsonl",
+      "bytes": 743411,
+      "sha256": "300a02bf7b773a754df12b3082d46c6294307aebe72b5b726f585905ce387408",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V05_V08.jsonl",
+      "bytes": 729396,
+      "sha256": "e9503850f4079a622e62868656e37d2faf05280def973d83ad4b398858f94875",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V09_V12.jsonl",
+      "bytes": 914914,
+      "sha256": "ce8c501b2892f82c95fffdaec7b84d072d7c6ed3025134a7b76a572b9e69e321",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V13.jsonl",
+      "bytes": 922273,
+      "sha256": "c9ec85e6616f7b1ae81bc95aa5c0811d59b6f6ced6a1a1a4fb8145f390081a18",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTICS_V14.jsonl",
+      "bytes": 461646,
+      "sha256": "01f322f5d6f494d979de81c0b33863203dd856a4d7c8ee530c643f4ecbf2e82a",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_DIAGNOSTIC_TO_RULE_CROSSWALK.jsonl",
+      "bytes": 687281,
+      "sha256": "81ba36f13688776084149d46c01289a7f197e0e7886b753d430649a6859a3915",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_OPERATIONAL_RULE_REGISTER.md",
+      "bytes": 100945,
+      "sha256": "7823044291e4a80b42820ed4d7bbcf84dcf5f2c8b7ab462805e88c31868bcfa3",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/TANYA_WRITTEN_VOICE_SOURCE_CONTROLS.jsonl",
+      "bytes": 449435,
+      "sha256": "b4f8740ec24bc4d96ee10efe31402b0e232ad447524da846f95d968b71d017e3",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Diagnostics/YOUJO_SENKI_TANYA_DIAGNOSTIC_NAVIGATION.md",
+      "bytes": 21539,
+      "sha256": "ed28992cd4f31e06471fd729575c61288193342b6ecd3503a779140deb67d0ab",
+      "canonical_responsibility": "paraphrased interpretive diagnostic, conditional rule, crosswalk or owned lexical control",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "bytes": 46862,
+      "sha256": "b17420519b0825752649d8bef4f4a3cff155773c3e489d248fa521a197c45d40",
+      "canonical_responsibility": "governing interpretive/methodological authority wrapper with preserved source body",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 35755,
+      "sha256": "7085e8862683f05ba291ccba0ed7bf1cbff961e8aa4e019befd241502ac801a8",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ADELHEID_VON_SCHUGEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 16103,
+      "sha256": "b0be8557eef65b69bf73b967072c67478ffd530b990172c05de16a0b28cd28e0",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ANSON_SIOUX_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 43577,
+      "sha256": "8e3f7d10ca97e6c05923a50a708954d7bfbe0f167a4108669911118c09aecee3",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ANSON_SIOUX_RECONSTRUCTION_MODEL.md",
+      "bytes": 15583,
+      "sha256": "9a9fbcb8b751e1e721e9d04f351ad8663a7880070e40586342ac16c65eb87970",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/CALANDRO_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 37027,
+      "sha256": "face98ad782cb5a18e26deaa70c64f952df999c17c552921057e0a721e3900e0",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/CALANDRO_RECONSTRUCTION_MODEL.md",
+      "bytes": 17599,
+      "sha256": "977d1aee52675a04c848deac26e6216ed6642aa213b995bba570b1c09048e273",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/CONRAD_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 28089,
+      "sha256": "b924be380a14416d67c36c21642e0b8c53a6aae41982170f42a020a54e936e87",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/CONRAD_RECONSTRUCTION_MODEL.md",
+      "bytes": 14356,
+      "sha256": "f61f440eb50d143958c911f6d21b11844706364a2930c37124c6027f5bec06ad",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/DE_LUGO_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 23565,
+      "sha256": "40849d3e8f1e3ac83136c591147c5b1b459e760441a226ae2d858c4baa7c504a",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/DE_LUGO_RECONSTRUCTION_MODEL.md",
+      "bytes": 13758,
+      "sha256": "8df4c0829ab79f424c4407afe82a1df6145c681d84adc29377c4aec1915cf315",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/DRAKE_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 64442,
+      "sha256": "f5f23a7f0809fd1b05b6136b22ff098ca6329efdd35bff25ae6ce284e3533c43",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/DRAKE_RECONSTRUCTION_MODEL.md",
+      "bytes": 21939,
+      "sha256": "fbea9d553337f76768053b9a825cec8fcbc650f7a50355ac2c36c135411d1f91",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ELMAR_AHRENS_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 86126,
+      "sha256": "fa9b33e10562743d513e5b2147a654e5c63f977ed43866bf6c8ecf182d036956",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ELMAR_AHRENS_RECONSTRUCTION_MODEL.md",
+      "bytes": 16680,
+      "sha256": "eeb529e55d327bf1cd935ff84d90487acb2815e9e5fb78491b7e9d63cfb4a84d",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ERICH_VON_LERGEN_RECONSTRUCTION_MODEL.md",
+      "bytes": 59784,
+      "sha256": "38d2e661dd666a90d43030bac0e72727b7ecd1c5787c4aecf03449985f431654",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ERYA_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 33487,
+      "sha256": "fb0b75ef20a79430b9943e7912cc9da92f4ab008e50fbf14ade95cbe248dcaa6",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ERYA_RECOGNITION_PROFILE.md",
+      "bytes": 10238,
+      "sha256": "894f77cccc446f95413f5203c8c7fd7ea03303048630f8b06de769ab39d68326",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/GRANTZ_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 93681,
+      "sha256": "aeb850a45910d35d53556f533f2b7d90ecc585026bdcaf202b7445e136d41f64",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/GRANTZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24012,
+      "sha256": "cbbffb5a4d3743b1267d9a4b790dc757679d25c35cb513b0339ff59b0e300adf",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/HANS_VON_ZETTOUR_RECONSTRUCTION_MODEL.md",
+      "bytes": 38924,
+      "sha256": "07ea25a443843cacdcb47a707edc782d99ac8dc949ff2caf6a258a0760644a53",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/IGOR_GASSMAN_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 46421,
+      "sha256": "629e2fbd016510be2ec919a69bbe4bdf99570e3073e965d4376c6089e1b6e186",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/IGOR_GASSMAN_RECONSTRUCTION_MODEL.md",
+      "bytes": 13878,
+      "sha256": "16ed91f197945b880580c8d3a3a9cfdf90d8829a23911ed54d71589aa5b13f9f",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/JOHNSON_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 56587,
+      "sha256": "531f4d94b59094959bc795269b152a93d5e745108166d004bb62ad4986d155bb",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/JOHNSON_RECONSTRUCTION_MODEL.md",
+      "bytes": 19440,
+      "sha256": "edc5b20dab0b8b3c508b1d02d807fc7223407ff594e950e7aee97f0157800714",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/JOSEF_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 32035,
+      "sha256": "00634b8166302cd26ea7ee14765f4bc34b055d081e402db72061feb549dcebb1",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/JOSEF_RECOGNITION_PROFILE.md",
+      "bytes": 10826,
+      "sha256": "3c199ca39dfef45466a9754e430b37cad1d26a7ebb9d408df39d4c717ab20c5d",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/KLAM_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 27710,
+      "sha256": "d60a714c3038735135fb76da9f9b258e1cb14d5102f3cd1877b5dea00ed61c6a",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/KLAM_RECONSTRUCTION_MODEL.md",
+      "bytes": 16190,
+      "sha256": "bd89dc1c8d5c761b658c1e1b098fd230683c4e77729e42e2e5f041905fde3881",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/KURT_VON_RUDERSDORF_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 50413,
+      "sha256": "b25dc2babf3307c8865a4d3a7c57bdae3d51f910e198e0543a48dabf0a5bfc2b",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/KURT_VON_RUDERSDORF_RECONSTRUCTION_MODEL.md",
+      "bytes": 23818,
+      "sha256": "007e2609a8c2919f7ba945521bc96c3e444a1ddda2ba0770bfe9a63689b8aed0",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/LERGEN_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 124861,
+      "sha256": "5ec1eb05b7d984e5e5b51a279e4037dfc431aea787d23754f6372bf40e8d741a",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/LILIYA_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 72196,
+      "sha256": "b23f0aa6ab52f4df4814fceb33abaf3b6d2f8c6c2dd6d39e5a99104474f8f1cc",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/LILIYA_RECONSTRUCTION_MODEL.md",
+      "bytes": 21694,
+      "sha256": "9fa49f60d36ee4989ab51438911b7a95e8cdd902f561d52bf26d0c4cdb37aaec",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/LORIA_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 37470,
+      "sha256": "0ad7851573cc62cbaa06c2e698b347f4a0c8dc171d98a88ff941eae74c7a9a5d",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/LORIA_RECONSTRUCTION_MODEL.md",
+      "bytes": 15318,
+      "sha256": "a1c81d504a69eed78579b3e42fe4b815ea2d49ff7f6296cc852c84db8b7842d4",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MARY_SUE_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 73910,
+      "sha256": "a01909bea159890a6a2b7a5ac53d7186bf5f5b94beb69c253dbb1c2e5ebf7c5e",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MARY_SUE_RECONSTRUCTION_MODEL.md",
+      "bytes": 24617,
+      "sha256": "eb4e2f0ba8b375315df951d63b2e31faa1f4df54bc4d00070030cf18676b04f8",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MATHEUS_JOHANN_WEISS_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 140147,
+      "sha256": "33ff20decb9c9466f72951390e57f1a19638fd7b994cfbca4305ac34ca1e45f9",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MATHEUS_JOHANN_WEISS_RECONSTRUCTION_MODEL.md",
+      "bytes": 26044,
+      "sha256": "5a5a9029442ba66bf23ffe7516f1c7d60ef5e1cfb76c582e9e4023737deec362",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MEYBERT_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 87513,
+      "sha256": "783c3b3af1f11f6594f7efb837392962008690084c0b6220cf3956d3e5769a4d",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MEYBERT_RECONSTRUCTION_MODEL.md",
+      "bytes": 16424,
+      "sha256": "64b9604884fc90f1e23e9f6dfc3cf7bb196d33e29918f9f14f1565d8d46ca1f9",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MIKEL_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 69548,
+      "sha256": "cdca8074989340a3178be6aef1bc205adcb48647273241d8ded3fdd752af8aef",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/MIKEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 22644,
+      "sha256": "1f64ca9eff0d2d3c80d2cbb3a542e38dec7f839f5ca26f64a2314b9e73890047",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ROMEL_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 25909,
+      "sha256": "8cde43af0b50a32c136b9ec5a4e75c912b7f7381507e7fd8b242dcd01b19c6eb",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ROMEL_RECONSTRUCTION_MODEL.md",
+      "bytes": 13679,
+      "sha256": "51ef170224661ce3eb518c38981cda2e60540882a4a7b0be83c331a90dd26e82",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/TANYA_DEGURECHAFF_RECONSTRUCTION_MODEL.md",
+      "bytes": 98830,
+      "sha256": "ae436797d00380bf958fc7d486052a31454db8322a8d53ac9b5cbd674c253015",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/TANYA_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 127276,
+      "sha256": "8512deea1f2b644050797adf9d1823e0b7459e9f649f3c9d94bf7feef6e521c1",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/THON_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 27150,
+      "sha256": "95331e5c25746210328f26c454bf1990988a133f54ad0406a4f79e9fe41c65cf",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/THON_RECOGNITION_PROFILE.md",
+      "bytes": 8610,
+      "sha256": "c8c674c906dd228d997b8bd698a900e9b001a19d1d1ce5a485cd49bfcffec54c",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/TOSPAN_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 62332,
+      "sha256": "ccdf002f26459adae4509fee2f5595021f5d426c4a6fc28f9ab64a80e1e8d53a",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/TOSPAN_RECOGNITION_PROFILE.md",
+      "bytes": 10429,
+      "sha256": "5e6771792283f5047519cbb85b61ad5d85795f1fdfbffae89eadabf0c854c8e5",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/UGER_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 130976,
+      "sha256": "0af70197da9192c0c9ac5a0290b084e7ba56720c898cc00460548269ecc757de",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/UGER_RECONSTRUCTION_MODEL.md",
+      "bytes": 19342,
+      "sha256": "146037f4da322dfa9cefe647292b20e9ff2238c2b93123eec31af36e7bb32788",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/VISHA_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 218394,
+      "sha256": "25da22c4ef57c8e68b89b501e6f47d2b3d45e1bf5ac5891634523b2f05a45200",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/VISHA_RECONSTRUCTION_MODEL.md",
+      "bytes": 44681,
+      "sha256": "bfaa5808ab019dcf004aceed7b35fd1014de86e47edce99b4783f0113dcb82c2",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/WUSTEMANN_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 81683,
+      "sha256": "b8ce79a363508889741a6ffcd56e2b9198f1a9627e6335c7f6baedf8aefaeef5",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/WUSTEMANN_RECONSTRUCTION_MODEL.md",
+      "bytes": 17377,
+      "sha256": "9fc62a937269282fd234b05b6ca34525c615792fe95bf89e8e484782237564fa",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Models/ZETTOUR_MODEL_CLAIM_INDEX.jsonl",
+      "bytes": 92139,
+      "sha256": "1de9d5c6c0977f0fff503c4859ed2bcff8e1b82df8780bc66cb0fe71f65093a8",
+      "canonical_responsibility": "source-bounded conditional model/profile or anchored claim-source index",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/TANYA_CMR2_V14_CLOSURE_COVERAGE.json",
+      "bytes": 202276,
+      "sha256": "5ab4ceeb2b999421cf16ee0a6c7d18f6afe59bb813694ecec8caeb0e2a920300",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/TANYA_INTERPRETIVE_FIELD_MAPPING.json",
+      "bytes": 15331,
+      "sha256": "cb86d2474684ef5685f35e72285913a07fb998312ad8d96a89f5f2202905cff9",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_CURATION_HANDOFF.jsonl",
+      "bytes": 34803,
+      "sha256": "6a71c02edc483e7eb6a9a2e8d4b623fa37d3d0a6fbd23ec7114bc7ed0dce6b1d",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_CURATION_HANDOFF.md",
+      "bytes": 1733,
+      "sha256": "94524b1b343719bcb5d41b11efcf3a8c958f1501c8302b0eef35dba2f2141844",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.jsonl",
+      "bytes": 146697,
+      "sha256": "4b9391c62aa324646fcc21ec71bbe0823b4e8775ac41489f3a4208d6f8214464",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md",
+      "bytes": 46630,
+      "sha256": "8c68b46e8851cae9d8a1360eeb9f18dd9402cdeefbfa8f1b2a022d370bdc0127",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+      "bytes": 29361,
+      "sha256": "915ca92fb6836f10a1e0e4498b0d1702027d8af4dee6a3bd39ba2a03ef358604",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json",
+      "bytes": 12897,
+      "sha256": "4f8431a132ea8d24b44b239cbbec55ec459ff5f0e3826b3abcd990f0cac260de",
+      "canonical_responsibility": "verified accepted analytical-main and completed native predecessor authority-promotion receipt",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.md",
+      "bytes": 3946,
+      "sha256": "d40370ec135a4139db89ba44157e1f85c5fdfc18acfbb14399bd5bb8093e38cb",
+      "canonical_responsibility": "readable verified analytical authority and native predecessor promotion audit",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json",
+      "bytes": 32693,
+      "sha256": "38a476d70c907b22de750e4dd2ba646506cf9288cb44521abd27e6d4d8147467",
+      "canonical_responsibility": "precise bounded authority-wrapper patch trace with exact original-byte inverses",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_CHECKPOINT_01_MANIFEST.json",
+      "bytes": 12028,
+      "sha256": "0030ceaba0863be45d4a802c0ffc1113afdb8b78445e5ae53d6b790a557eed5a",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_COMPLETION_REVIEW.md",
+      "bytes": 7023,
+      "sha256": "823349185849c5a6f30b65aaa5e58849be691c473032f09268099eab792258db",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json",
+      "bytes": 72840,
+      "sha256": "683cf9cd7c9a0cc721c104e8cba5c3c1b464fe64fd9a9bf3ca02b9412c9bbc04",
+      "canonical_responsibility": "historical construction delivery manifest; unchanged analytical snapshot accepted through PR154",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DRIVE_DISPOSITION.jsonl",
+      "bytes": 55083,
+      "sha256": "524d1eb9022d2bef84539ffea2604bd335454d6718dc65ef477c70f095a8fa09",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_INTEGRITY_REPRODUCTION_AUDIT.md",
+      "bytes": 10112,
+      "sha256": "426317ffc936c165b08a318015eb5a445f60cfb7081dea0a9a9158ae5acba7b9",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+      "bytes": 17894,
+      "sha256": "d4dfc76aea49b01739120cfbd414fc8c3a3362aa28838d2841c90bfe4b3afb80",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_SOURCE_APPEND_DISPOSITION.jsonl",
+      "bytes": 16951,
+      "sha256": "c7302b170e13de5318d62fe7d3c379b2fd91e681566ea19183e33055f133ddb2",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_WRAPPER_ROUTE_REPAIR.json",
+      "bytes": 4042,
+      "sha256": "0b8bd2a1faa6c26e1a30d4012f101e9066e2b143d13da84c212b3f96b99e01ed",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl",
+      "bytes": 63227,
+      "sha256": "dc06a948cadd49ec3777c969e340ad4d45d4624d19491eca07d050a53340b027",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_OPEN_QUESTIONS_AND_COUNTEREVIDENCE.jsonl",
+      "bytes": 96876,
+      "sha256": "689de45197a2161a896c5b7eeaaf235bbc90a15c8cbd95510fb9340adee94631",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_OPEN_QUESTIONS_AND_COUNTEREVIDENCE.md",
+      "bytes": 7922,
+      "sha256": "21838598bdcc28e644980fc92a106d1c2d9708f4fab1f3d495ec9b4e0f1c0881",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.jsonl",
+      "bytes": 80930,
+      "sha256": "1b489590173ce98f80b5620410a098d5e96e8209aae6d9d7b639326a082676c2",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_SUPPLEMENTARY_CHARACTER_READINESS.md",
+      "bytes": 17008,
+      "sha256": "3d20ad75c95b5487115672fbf87c6b4d55b76a153c48196494650e77464ff010",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_TANYA_CMR2_V14_CLOSURE_AUDIT.md",
+      "bytes": 15082,
+      "sha256": "8243d600bd0bb08809fb116bbda0e85454c077f1844dc93370ffd53c5a9e7e53",
+      "canonical_responsibility": "allocation, source integrity, readiness, coverage, audit, curation handoff or model navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ADELHEID_VON_SCHUGEL_INDEPENDENT_QA.md",
+      "bytes": 11720,
+      "sha256": "8666e373d874a2081db2f68a234e89bb3bfc83ac3c34199c31ebd1e6052a83f2",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ADELHEID_VON_SCHUGEL_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 40562,
+      "sha256": "fc8c41db8f5499177e3eafc1512d6b9b9c0a477987b06b6bf0f9210fa3381202",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ANSON_SIOUX_INDEPENDENT_QA.md",
+      "bytes": 6312,
+      "sha256": "9de99f0c856f6079742e26b83678fc536f757ff4493a6e7ceac5c40c197dfc14",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ANSON_SIOUX_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 39661,
+      "sha256": "b4d92f2de5de09a5d6b542a86a910f619900f64640e044ccfc96dfbc922bd3f9",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/CALANDRO_INDEPENDENT_QA.md",
+      "bytes": 11625,
+      "sha256": "d4728511fce3d787eac84fa78d0d8067348fe5add19e0667b3b4998b695801da",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/CALANDRO_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 40026,
+      "sha256": "0e70cac36c127506912e75aac21ed64a0021998b9c77d50bd762836d68aac790",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/CONRAD_INDEPENDENT_QA.md",
+      "bytes": 11191,
+      "sha256": "4500bb05aa8c43d9b11ab8b5a6851016d6a7ca7f10897a5c8ca192cfb4ab20d5",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/CONRAD_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 36494,
+      "sha256": "15daf1b08326325262ac918b2eaf885d49488c83ba97740e5ef6564af8f50b3f",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/DE_LUGO_INDEPENDENT_QA.md",
+      "bytes": 10978,
+      "sha256": "f1adbfe3df23aa1b024ba87580b5e32a3ae807be0738c3d8f0411e993b30b604",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/DE_LUGO_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 39781,
+      "sha256": "a4553ee12c35ab7d237783f507c6eb158868c453c20c137f5c1b393afb3687a9",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/DRAKE_INDEPENDENT_QA.md",
+      "bytes": 10013,
+      "sha256": "2fa61cd1eeabc0f8f62dd56f87ab5205f92be644cb38b8f9de4b1f31335ba977",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/DRAKE_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 77566,
+      "sha256": "983ba50dfccc3617631ade1dd44b513dcf0efc2e310b8c5caa5c2356607402cc",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ELMAR_AHRENS_INDEPENDENT_QA.md",
+      "bytes": 9249,
+      "sha256": "95285871112ae79f680cd1aaa4fd4b08494aba6aa3f2db1c18f24c714ab5419a",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ELMAR_AHRENS_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 50712,
+      "sha256": "dfe2cbb0f393e3a3689bcc4fc4eea66d04c99c8b59371d31e9f599e30d15549f",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ERYA_INDEPENDENT_QA.md",
+      "bytes": 7246,
+      "sha256": "61595f1d906e3c169c03c8bece6d3d103ec47c919bd2d3c3a51bc47ddf2e6d05",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ERYA_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 33496,
+      "sha256": "0e8ef8aeb696ca375a1432dba857f292fe1537da2704099e2f8e0da1503bc4a9",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REGRESSION_QA.md",
+      "bytes": 2985,
+      "sha256": "935a36c4c6a59861034b78a8574b8d829ced90bb4a4b788e8d410ceafbde5fce",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REGRESSION_QA_CASES.jsonl",
+      "bytes": 22902,
+      "sha256": "7853f617334498c94388a66688efd6fe02b96892620f973e5b71d7b21d777dfe",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FIVE_MODEL_AUTHORITY_METADATA_REPAIR.json",
+      "bytes": 5137,
+      "sha256": "1822334c29d48c56679af20604b0f90533d09ea53667269319e334c71ae51281",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA.md",
+      "bytes": 5997,
+      "sha256": "c022098adac6933c2d29a0f3e9d73dc8f1471a96dbe17e51ee0dead90f42f63d",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REGRESSION_QA_CASES.jsonl",
+      "bytes": 48488,
+      "sha256": "16b2508b2d2b346ed5772cad082fb3b782a99e29ad68aafb99e71a926e781235",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/FOUR_SPEECH_ACT_PIPELINE_REPAIR.json",
+      "bytes": 12782,
+      "sha256": "ec782d22b2b2ef45c5bffa72238b79560c37982e0fa3e5642e2fa2a09ec07410",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/GRANTZ_INDEPENDENT_QA.md",
+      "bytes": 9581,
+      "sha256": "34cbe39ff554d56f6e51c3745bd1e5581bd8bfe9fe3ab697dc7c9c86c257807c",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/GRANTZ_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 53240,
+      "sha256": "e981c9435fd59d0a7cbf5314384b575ae8e6c80cef1e552aa3ee8b575b29ea44",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/IGOR_GASSMAN_INDEPENDENT_QA.md",
+      "bytes": 7688,
+      "sha256": "e9bfb754671ec8c5fc45035a0231a74c8c9a66994c5a6bc03b50d470de4b9a58",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/IGOR_GASSMAN_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 46724,
+      "sha256": "361e4548212be2cff2236c5d5b3bce46fe82e052ed44c7414898c522ffeea477",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/JOHNSON_INDEPENDENT_QA.md",
+      "bytes": 8362,
+      "sha256": "d687e31af8aa0b8efca2cba267ebb18c39cc8912f179ce9a7eaaf7241fc5e346",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/JOHNSON_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 50182,
+      "sha256": "9873f4ae0aca63ddaf045d753ca91885ddb90c09e63eacac80f4bc708d2217e7",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/JOSEF_INDEPENDENT_QA.md",
+      "bytes": 6994,
+      "sha256": "fa93d17495dd0dc2e2209af7361019426cd1b0b0e148f1c9e4728212e852330b",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/JOSEF_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 33507,
+      "sha256": "ad409291b455a295ebd237cc2b8fc4eb7ebd6c7527a704aa436294c85a579273",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/KLAM_INDEPENDENT_QA.md",
+      "bytes": 12177,
+      "sha256": "920c2289a2c0f3d72baa62ba392f4552fcbb15b7af79d16063b0089a2a5c54a2",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/KLAM_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 42840,
+      "sha256": "30b8892c98f2a0d4bb95225c957acc44b435269642e8bd4386c207046fd9bc0e",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/KURT_VON_RUDERSDORF_INDEPENDENT_QA.md",
+      "bytes": 12128,
+      "sha256": "e5df527ef1fc4c856c1aa096c53d702668e0ba3a67c7299f86f40ba613b12318",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/KURT_VON_RUDERSDORF_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 43313,
+      "sha256": "0d496e46b233152cece7c7f68e20442d0bb6326dc95461b8f30fe42249f05c0e",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LERGEN_INDEPENDENT_QA.md",
+      "bytes": 21516,
+      "sha256": "14fe7fd1715a38ea0912e9b2d29b0b6902c09019ea85ef468f1e3f8a3daf4ee8",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LERGEN_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 47955,
+      "sha256": "bf487399c21e366a2ce829a3096a3fad6450de29b80d2b939a8899cf62a90aaf",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LILIYA_INDEPENDENT_QA.md",
+      "bytes": 7767,
+      "sha256": "3931438b350ce563a07fc6e611dddbe4c6df8f78fe2ea3ff169eb0922493bb1c",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LILIYA_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 57230,
+      "sha256": "ea32dadb7f4a403ba3612281a157f5e65619cfb871530d0af2192b363cf6a0b8",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LORIA_INDEPENDENT_QA.md",
+      "bytes": 8067,
+      "sha256": "9a2db60d2ccbe1ed629f8721c09d9e9c6aca490fd585271e59731b7cebc05cb8",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/LORIA_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 38341,
+      "sha256": "53bd5e7300084442096dabc51ce7d1e9a219a01482166c93660ad7641d98d579",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MARY_SUE_INDEPENDENT_QA.md",
+      "bytes": 8102,
+      "sha256": "fe093c62511b872be0c9720a51bb8505a7414112f4f53143dea0e3615244f207",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MARY_SUE_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 69606,
+      "sha256": "f5b9d9f7895fe3b3926c04c2090e76b7e3b80a3fa9bf0fa163e515028aa73978",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MATHEUS_JOHANN_WEISS_INDEPENDENT_QA.md",
+      "bytes": 10778,
+      "sha256": "58efa16a5b190f97364d04299fa281abe3bb40a825b2abfa33a9e6df23c753a3",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MATHEUS_JOHANN_WEISS_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 96461,
+      "sha256": "74caceff4c8b3e5eec82d5d85117184f45b0667b511e844f624723607831d122",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MEYBERT_INDEPENDENT_QA.md",
+      "bytes": 9115,
+      "sha256": "9cbefb097a1f142eafa68e3b2172fee2a4639058b6b401c5fc5ea74d7795036c",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MEYBERT_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 51120,
+      "sha256": "e20c4400391bcff09132fd66178bc98748c568d76eb34c1064f37bd85cd53b2a",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MIKEL_INDEPENDENT_QA.md",
+      "bytes": 7199,
+      "sha256": "4f55c9df4cb68fe433703ef6dfdb69a0bd898f4af417e1ff4ba5796f1ed5c2db",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/MIKEL_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 54511,
+      "sha256": "1b6e420898649187b2e7b7ea9a1e938df3787edc878bd3b3e176f1e8f2e93fa8",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ROMEL_INDEPENDENT_QA.md",
+      "bytes": 11082,
+      "sha256": "f8c0e1786d0458d5f2b8ee8e1935efa9dfb7f205d0dcd9cf2bafe9631f203dcb",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ROMEL_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 36620,
+      "sha256": "3315672f13004e35da8c0aa203a028eb346eece79538a70b263e666ccb9954db",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA.md",
+      "bytes": 7789,
+      "sha256": "e09d03a2ec5f00221cd0faca75e188b0628635366cb4c92ce017586fdfcfd994",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SIX_SPECIALIST_PIPELINE_REGRESSION_QA_CASES.jsonl",
+      "bytes": 85782,
+      "sha256": "d05f93a5e5cc2d8ebf9eff92ccb53a5488eb162f77dcd46fe687f1a2db3b4e8f",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SIX_SPECIALIST_SPEECH_ACT_PIPELINE_REPAIR.json",
+      "bytes": 21536,
+      "sha256": "fe9160499e1dd347d3290edb5d76333f493747018d795b4c4b49150207e9c3b9",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SPECIALIST_AUTHORITY_METADATA_REGRESSION_QA.md",
+      "bytes": 4983,
+      "sha256": "7c12abbf0f70270e66da6620a910161a7290b900a1d1a9f54d4f10d0008640d3",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SPECIALIST_AUTHORITY_METADATA_REGRESSION_QA_CASES.jsonl",
+      "bytes": 13559,
+      "sha256": "7a27f8f72414101c1f30276b1d8354e56fb11261ddfa398da886cb8f1eb4ee02",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/SPECIALIST_MODEL_AUTHORITY_METADATA_REPAIR.json",
+      "bytes": 12047,
+      "sha256": "ecb3633d52841b8f717a5812ddbe4f1807d491dc25afd8fc2060e87006e627fa",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TANYA_INDEPENDENT_QA.md",
+      "bytes": 25128,
+      "sha256": "ffe60719b7086f691d80904775195e96da639d8bc7e54bb96f6354d5507a0517",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TANYA_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 130824,
+      "sha256": "bdfe0b4ca800f9144b765a4246ffda563e8fad4f87335cfd7cdb41c789fa5657",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TANYA_MODEL_REPAIR_TRACE.json",
+      "bytes": 10262,
+      "sha256": "e603271006f2e0b89cbeaa8bbb9dce1e41f16e4930e05a618200d06824e461cb",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TANYA_REPAIR_ACCEPTANCE_CASES.jsonl",
+      "bytes": 27246,
+      "sha256": "d4d5fd166b06675742f6c5e4c2867095a93fdc1da9738f3def33e55bc24b45f7",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TANYA_REPAIR_ACCEPTANCE_QA.md",
+      "bytes": 14694,
+      "sha256": "c0e066e16f2fad162350a7469a6ef77e15775f1407506fe865a1e321b8a49851",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/THON_INDEPENDENT_QA.md",
+      "bytes": 8411,
+      "sha256": "2fee4adee073374117897818d6c8c79ec9d7564d222f6df12b95843286855afa",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/THON_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 45453,
+      "sha256": "3f534432b5c11e60592984716cf0bfe100f94c6b14e334701f27e880601fff4a",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_COMPLETION.json",
+      "bytes": 4675,
+      "sha256": "24fc0bd31e6e5560bd69bb5683ab9d63227f09ae706e970c893d304cfc02b37e",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_NAVIGATION_REGRESSION_QA.md",
+      "bytes": 2718,
+      "sha256": "e8805fa1055580d71df7b0ab13f10aec8efb29f73da82a4a6b703a6b0f93bb0c",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/THREE_PUBLIC_LEXICAL_CATALOG_NAVIGATION_REGRESSION_QA_CASES.jsonl",
+      "bytes": 43725,
+      "sha256": "a489aef1f00f896fc57c66eacfdc3c9567e6e64920174e4d3b842558406062cb",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TOSPAN_INDEPENDENT_QA.md",
+      "bytes": 8380,
+      "sha256": "485c1ff2e4888ee0fa66b945f4c9c013fff4e87a3e39fb9e5bb7383c22dc2747",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/TOSPAN_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 49437,
+      "sha256": "41cdfd0604b264f9b92f232e326941fd95662c3c43acf359ae61ba537f0bd4ab",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/UGER_INDEPENDENT_QA.md",
+      "bytes": 9179,
+      "sha256": "7e21306e10e1f152b23443d3c340c57bb82648077ecca049641f53dd7125d908",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/UGER_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 55159,
+      "sha256": "b92fabdbd58409e398f22a710c6fd16de7eff860c4bf825ef6d2c1f99b21e029",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/VISHA_INDEPENDENT_QA.md",
+      "bytes": 17560,
+      "sha256": "9293827c0b2af69d8e41374b5d0d794fd82883cab842257cfd0a394dc0fa2ddc",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/VISHA_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 87149,
+      "sha256": "8f62d0adf9a9e4e4f7f0036b0ae22655b7a0b863ccca82358eeff84bf6df4b3d",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/VISHA_MODEL_INDEX_ROUTE_REPAIR.json",
+      "bytes": 23609,
+      "sha256": "d32913e83df7963100e9e9a6d8f88a3bdcd74a0e7424c86d678b7f64ddf4cd4d",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/WUSTEMANN_INDEPENDENT_QA.md",
+      "bytes": 8888,
+      "sha256": "52d549bdda67052d3494f7e0d81f98b0cb1556b769730facd4a4506a855e4a53",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/WUSTEMANN_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 44233,
+      "sha256": "2e0e342c48fbafb7512357050abdb83b602c731eb1e1e4f73a8501e15721459a",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_APPLICATION_REPAIR_TRACE.json",
+      "bytes": 34683,
+      "sha256": "aad4f9f1541021c959174cb109a3f21c87e9d3dbcc8db48895958ae84aebb81e",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md",
+      "bytes": 40322,
+      "sha256": "4c2bed11161a18ec93b1033bb811ef859deb547eb381cc1aed94826cac4cbd0b",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA_CASES.jsonl",
+      "bytes": 708570,
+      "sha256": "7b2d50220b3453dac7b877067751aa63834d2663a676cc3918309199866085b9",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ZETTOUR_INDEPENDENT_QA.md",
+      "bytes": 15091,
+      "sha256": "07c4e7e06237f3180c712f9761105a9be8ccd8e883aabab12ecb56de5bd02388",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/QA/ZETTOUR_INDEPENDENT_QA_CASES.jsonl",
+      "bytes": 56794,
+      "sha256": "5fea8863428af274f021d920121204faba4799498a1e3e5a0c54ee1437fe38fb",
+      "canonical_responsibility": "actual versioned evaluation, original forecast/adjudication or bounded repair trace",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/README.md",
+      "bytes": 9568,
+      "sha256": "0dc9ac85890acc0250f6e258bb7eea98ecfcd247c245884b4c424daf40c7ec76",
+      "canonical_responsibility": "human operational corpus and source navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_EPISODES.jsonl",
+      "bytes": 590516,
+      "sha256": "bf71629a28a6ab089717c1d8269aa12ef56d3d35ed170f7a1731f6e6d94fcb69",
+      "canonical_responsibility": "directed interpretation/register and episode-source navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md",
+      "bytes": 165949,
+      "sha256": "2f6ffea857075d5cfd75a5e67ed9f6d275a1c79493b79b524aa476dbbb0871fa",
+      "canonical_responsibility": "directed interpretation/register and episode-source navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md",
+      "bytes": 18775,
+      "sha256": "960aff949e47543a137983b30668c07866b77170eff701fa0ccfa27f0e477637",
+      "canonical_responsibility": "human operational corpus and source navigation",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    },
+    {
+      "path": "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 26591,
+      "sha256": "69da672fdb3ae27691a9550f170ccd5d9027cfeaae03d08c716efedf9f9fc60f",
+      "canonical_responsibility": "maintained canonical series entrypoint",
+      "eligibility": "GIT_ANALYTICAL_INTERPRETIVE_OR_NAVIGATION; NOT_PRIMARY_BULK_SOURCE"
+    }
+  ]
+}

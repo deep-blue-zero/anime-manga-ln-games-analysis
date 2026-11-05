@@ -1,0 +1,367 @@
+{
+  "status": "ACCEPTED_PRINCIPAL_SOURCE_LOCAL_VALIDATION_ONLY_NOT_WHOLE_EPUB_COMPLETION",
+  "source_id": "YORI-01",
+  "canonical_filename": "Konosuba - Short Stories - Yorimichi.epub",
+  "drive_object_id": "1jtENWC4aPn1d3EJlXiuqNtOBGZEUHFUQ",
+  "native_bytes": 2395940,
+  "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+  "admission_utc": "2026-10-17T15:22:14.543481+00:00",
+  "admission_receipt_sha256": "1e29700eb7c531018cc541ea323afad114233232eac1dc9d8bc62e5fb974086f",
+  "principal_units": [
+    {
+      "unit": "C01",
+      "member": "text/part0010.html",
+      "source_bytes": 66587,
+      "source_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+      "paragraph_slots": 336,
+      "nonempty_p": 316,
+      "base_characters": 13502,
+      "ruby": 339,
+      "derivative_bytes": 264712,
+      "derivative_sha256": "98d947e8efff288fa3df246662bff8717f1461d762643d2a4387b22c4807b2fc"
+    },
+    {
+      "unit": "C02",
+      "member": "text/part0012.html",
+      "source_bytes": 70311,
+      "source_sha256": "b21083b8523c2b3f6703e9dc1a7755285e821f14ba9c34d49edaa106ce50abc4",
+      "paragraph_slots": 353,
+      "nonempty_p": 333,
+      "base_characters": 14480,
+      "ruby": 330,
+      "derivative_bytes": 275268,
+      "derivative_sha256": "66f22b0270be502eb5e305daec6aa13808aab1d094231d5bce5d52eae0639126"
+    },
+    {
+      "unit": "C03",
+      "member": "text/part0014.html",
+      "source_bytes": 65372,
+      "source_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+      "paragraph_slots": 367,
+      "nonempty_p": 336,
+      "base_characters": 13102,
+      "ruby": 312,
+      "derivative_bytes": 265411,
+      "derivative_sha256": "c22a0bbeb0c8cb1d481382e4a02c6037a64ab6e943aa09ff134f8edc247595ed"
+    },
+    {
+      "unit": "C04",
+      "member": "text/part0016.html",
+      "source_bytes": 77868,
+      "source_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+      "paragraph_slots": 398,
+      "nonempty_p": 362,
+      "base_characters": 16109,
+      "ruby": 375,
+      "derivative_bytes": 308306,
+      "derivative_sha256": "a3de5ce6533f2b09aed5a1290348421ad6545b7427e5c3c166962c03fc2623af"
+    },
+    {
+      "unit": "C05",
+      "member": "text/part0018.html",
+      "source_bytes": 65395,
+      "source_sha256": "f98d101efb147882b8ab4b49837b148c19596a30310034d4c7e60e2a821e5ad6",
+      "paragraph_slots": 312,
+      "nonempty_p": 287,
+      "base_characters": 13491,
+      "ruby": 325,
+      "derivative_bytes": 254887,
+      "derivative_sha256": "becf2df4e71b31495e65ffb46d90439eb20fceab4d083cabdf1fa76481e69a86"
+    },
+    {
+      "unit": "C06",
+      "member": "text/part0020.html",
+      "source_bytes": 58007,
+      "source_sha256": "1be523b948822df73ada764c5f7f05309ee688866be5e05980222e337f27e0c2",
+      "paragraph_slots": 302,
+      "nonempty_p": 274,
+      "base_characters": 11618,
+      "ruby": 303,
+      "derivative_bytes": 234149,
+      "derivative_sha256": "08f541172d0f2d3ae199c0bd82c1c6041e7c91cfee07485c1d5d9d0a0f0569bc"
+    },
+    {
+      "unit": "C07",
+      "member": "text/part0022.html",
+      "source_bytes": 85677,
+      "source_sha256": "114f35a942b8917aa4b2ee0db34da1674f5ddc23eb6a7b8b2dd2f7bba20258fc",
+      "paragraph_slots": 472,
+      "nonempty_p": 438,
+      "base_characters": 17191,
+      "ruby": 429,
+      "derivative_bytes": 349371,
+      "derivative_sha256": "c80c92cea9d755f3083989a8ff02893365c9d87366bd9b28205a23d5deae657c"
+    },
+    {
+      "unit": "C08",
+      "member": "text/part0024.html",
+      "source_bytes": 41613,
+      "source_sha256": "29f0bb171e904e4c2fc26095f622d6113275109a97df5440a40ec54e94aa4f9b",
+      "paragraph_slots": 208,
+      "nonempty_p": 201,
+      "base_characters": 8807,
+      "ruby": 190,
+      "derivative_bytes": 161321,
+      "derivative_sha256": "87b9b6fe165a930667adbc374525a50286150606c75b04d23b768e9cd101c8d7"
+    }
+  ],
+  "excluded_components": [
+    {
+      "member": "titlepage.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0000.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0001.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0002.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0003.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0004.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0005.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0006.html",
+      "paragraph_slots": 4,
+      "base_characters": 112,
+      "image_elements": 0,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0007.html",
+      "paragraph_slots": 12,
+      "base_characters": 88,
+      "image_elements": 0,
+      "navigation_labels": [
+        "ＣＯＮＴＥＮＴＳ"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0008.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0009.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第1章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0011.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第2章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0013.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第3章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0015.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第4章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0017.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第5章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0019.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第6章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0021.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第7章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0023.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "第8章"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0025.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "あとがき"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0026.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0027.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0028.html",
+      "paragraph_slots": 17,
+      "base_characters": 297,
+      "image_elements": 0,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0029.html",
+      "paragraph_slots": 3,
+      "base_characters": 177,
+      "image_elements": 0,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "text/part0030.html",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    }
+  ],
+  "locator_contract": "One-based all descendant body-p slots per exact source member, including blank/image slots. Base excludes rt/rp with tails preserved; rubyXML/fullpXML/attributes/br offsets retained. No non-p prose residual.",
+  "actual_reading_scopes": {
+    "root": {
+      "full_ordered_displays": 26,
+      "complete_utc": "2026-10-17T15:46:31.934984+00:00",
+      "source_first_notes_bytes": 82176,
+      "source_first_notes_sha256": "aca7e5101a4e6e458c0f0760c52bc8596de61ffa756182a34b4fe6cf4a4e7286",
+      "initial39_sha256": "4f93534180cec77b5a208c12a5b256ee8be05b7e288db71415dcbaa0cd699b9b"
+    },
+    "independent": {
+      "full_ordered_displays": 26,
+      "source_first_notes_bytes": 89272,
+      "source_first_notes_sha256": "51890c966a7931bef66983993a43f9fb33c6ac4df73646f606fc1ebbc29f4ef6",
+      "initial_seal_utc": "2026-10-17T16:06:55.802003+00:00",
+      "initial_seal_sha256": "908740412cf3d23b8d4bac8f4036871a15da9d0063ac65ec87eba11e1fe34a85"
+    },
+    "semantic": {
+      "full_ordered_displays": 30,
+      "complete_utc": "2026-10-17T15:52:33.671636+00:00",
+      "initial_seal_utc": "2026-10-17T16:02:16.380786+00:00",
+      "initial_seal_sha256": "7ff9c81647f1c9d7f0e02497035d70c4699fd4159284c6cbd627ccb11b907e70",
+      "debug_prefix_disclosure": "C01P4 viewed for native-projection debugging before ordered pass and reread in order."
+    }
+  },
+  "common_totals": {
+    "principal_members": 8,
+    "all_body_p": 2748,
+    "base_characters": 108300,
+    "ruby_occurrences": 2603,
+    "overlapping_passes_not_summed": true
+  },
+  "chronology": {
+    "C01": "Winter borrowed mansion before MAIN03 noble reveal; precise slice not fixed.",
+    "C02": "Winter after Destroyer; D family identity known P321; no precise later bound.",
+    "C03": "Winter, mansion and debt; exact relation state unresolved.",
+    "C04": "After MAIN01 Beldia and stable residence, first Chris reunion before K first Eris meeting; early-main state.",
+    "C05": "Just after mansion acquisition, early MAIN02; no later Wiz attachment imported.",
+    "C06": "After Vanir and debt clearance, winter; particular romance/permission not assumed.",
+    "C07": "After MAIN04 Hans/Alcanretia explicitly; winter; upper limit unresolved.",
+    "C08": "After noble identity known; exact later bound/season not fixed, no carryover of anthology order into event chronology."
+  },
+  "no_new_primary_text_in_public_Git": true,
+  "raw_sources_derivatives_and_acquisition_material": "Retained outside analytical Git; public locators/hashes route to the governed source object.",
+  "authority": "Supplemental canonical-mode designated holdout for unchanged R1 only; no main-derivation ingestion, full StageC literary completion or altered-world simulation score.",
+  "publication": "Accepted content; containing source publication/audits unknown at authorship. See canonical current-state for later reconciliation."
+}

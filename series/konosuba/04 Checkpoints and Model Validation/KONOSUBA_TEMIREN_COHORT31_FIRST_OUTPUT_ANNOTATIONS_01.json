@@ -1,0 +1,115 @@
+{
+  "schema": "konosuba.cohort31.original-first-output-annotations.v1",
+  "subject": "Temiren",
+  "annotated_utc": "2026-10-24T07:03:35.824997+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "first_body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "scenario_inputs_sha256": "9faea5d20ea84aff3820d52b1892c06bbb60582221de5da68f17a7f03b7533b7",
+  "first_outputs_sha256": "3058dc50da47a254911b510e290c43e5b86f08d18ace3bf789c45b029b9c8f9c",
+  "cases": [
+    {
+      "case_id": "TE-H01-A",
+      "pair_id": "TE-H01",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "first_body_sha256": "1e45db3564d99e599f0cea4edb4edb87ccc1c40701df21ed7bd7462dcaea4060",
+      "observed_rendering": "Retains disappointment and expectation,lets current walk drop and plans a permitted later request.",
+      "retained_limitation_or_failure": "No date or romance supplied. Hope is directly prompted by the explicit invitation;not an independent attention-persistence result.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "The future-permission cue is explicit and source gives little durable-boundary evidence. Respectful stopping is not independent personality validation;continued feelings must not be rewritten as the other person's consent.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H01-B",
+      "pair_id": "TE-H01",
+      "target_rules": [
+        "TE-R01"
+      ],
+      "first_body_sha256": "e912fff9f22febfc0833c58dd78a3dcfc398cf6db60a7bf6c055763ef0aa409d",
+      "observed_rendering": "States hurt/wish for recognition while stopping further invitations and leaving attachment unresolved.",
+      "retained_limitation_or_failure": "Respect for a durable boundary is underidentified by source;the first is retained as a possible overconscientious rendering,not a corrected or proven model behavior.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "The future-permission cue is explicit and source gives little durable-boundary evidence. Respectful stopping is not independent personality validation;continued feelings must not be rewritten as the other person's consent.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H02-A",
+      "pair_id": "TE-H02",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "first_body_sha256": "6aa0643716c56fbad55a35dc02e8e6ab80923ded07db90e8bc2f97b03596dc12",
+      "observed_rendering": "Recognizes relevant domain,inspects before spending30of40MP and glances for recognition.",
+      "retained_limitation_or_failure": "Cost/domain are stipulated. No check or praised competence occurs;brief glance is generated fictional behavior,not observed source evidence.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Task type and tool relevance change together and directly cue appropriate uncertainty. This cannot isolate skill from stipulated information,ordinary reasoning or compliance with the response contract.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "TE-H02-B",
+      "pair_id": "TE-H02",
+      "target_rules": [
+        "TE-R02"
+      ],
+      "first_body_sha256": "3acc79b1c9a6a23ee2b087ff0442d82f44009403cc9c8ed13577a9f4c69ba22e",
+      "observed_rendering": "Does not convert machinery into magic;keeps away from controls and says more knowledge is needed.",
+      "retained_limitation_or_failure": "No expert/manual is found and no MP spent. Clear knowledge humility may flatten the more inconsistent source character;generic safety/constraint following remains a rival.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Task type and tool relevance change together and directly cue appropriate uncertainty. This cannot isolate skill from stipulated information,ordinary reasoning or compliance with the response contract.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "TE-H01",
+      "case_ids": [
+        "TE-H01-A",
+        "TE-H01-B"
+      ],
+      "observed_contrast": "An explicit later invitation preserves an intended future ask;an explicit durable refusal leaves hurt/interest but no renewed invitation or invented softening.",
+      "rivals_and_unresolved_branches": "Future permission/refusal nearly dictates the action. Source evidence for durable stopping is thin;B may be a more normatively controlled Temiren than the source establishes. No future behavior actually follows.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "TE-H02",
+      "case_ids": [
+        "TE-H02-A",
+        "TE-H02-B"
+      ],
+      "observed_contrast": "Relevant magic/tools produce a bounded inspection and MP accounting;unfamiliar mechanics produce uncertainty and a request for expertise without inventing it.",
+      "rivals_and_unresolved_branches": "Domain and tool relevance change together. Generic knowledge limits and supplied cost explain much of the difference;no independent competence is measured because no check/result occurs. Desire for Gilbert recognition remains a generated appraisal.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    }
+  ],
+  "method_limits": [
+    "Same informed root authored source interpretation,models,all exact visible contrasts,all first responses and these annotations.",
+    "No external model call,blind judge,unseen source,independent observer,accuracy estimate,grade or confidence gain.",
+    "All26firsts meet80-140word budget;that is format compliance,not behavioral success. Responses share105-115word range and audit-like restraint,which can suppress source-specific errors and flatten voice.",
+    "Each response repeatedly states what did not happen,reflecting the contract and author controls. A guarded ending is not an independently discovered character behavior.",
+    "Stipulated permission,resources,domain,eligibility and willingness often nearly supply the intended distinction;generic instruction following remains a strong rival.",
+    "Local consistency cannot establish every branch of a rule,stable moral improvement,Japanese voice or final nine-category transfer."
+  ],
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "original_firsts_repaired": false,
+  "frozen_models_revised": false,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

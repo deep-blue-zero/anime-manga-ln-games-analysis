@@ -1,0 +1,4100 @@
+{
+  "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_PUBLIC_INPUT_AND_RECEIVING_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Sweets belonging",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 732b3f2e635d2b8e8855f4e6709354031936ebc6, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 27724,
+    "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+    "git_blob_oid_of_actual_bytes": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf",
+    "lines": 432,
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_FULL_BOUNDARY_CANDIDATE_ROOT_RECEIVING_PENDING",
+    "required_home": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+    "kind": "ENSEMBLE",
+    "source_responsibility_refs": [
+      "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE"
+    ],
+    "distinct_question": "What makes belonging possible when tastes, knowledge, jokes and available rest differ, and when helpful urgency must be distinguished from intrusive play?",
+    "directions": [
+      "Airi/Kazusa/Yoshimi/Natsu → one another: differentiated tastes, help, jokes, refusal of recreation and unequal knowledge.",
+      "Individual members → outside peers: directed approach and reception; outsider self-reported happiness does not make every guest comfortable."
+    ],
+    "body": {
+      "file": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "byte_count": 45851,
+      "line_count": 174,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "actual_byte_blob_oid": "e75eded0103680ed40957717b645c9fb1e6b35b8"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+    "source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "1.12 eleven mature synthesis sections; unchanged relationship/ensemble class",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "Architecture1.12 required11 section meanings personally received previously fb4f2f L322–344; unchanged1.12, no full851line fresh claim Reused unchanged at declared prior scope; no fresh whole control or literary credit from metadata. Historical cf2 bound source is preserved; current732 byte equality separately checked.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "actual_personal_receiving": "Required11 sections current9e47f5 L328–344; relationship/ensemble class ad6104 L346–369; no fresh whole851-line control claim."
+      },
+      {
+        "source_id": "P",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 91424,
+        "line_count": 658,
+        "sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+        "actual_byte_blob_oid": "23d83092ace078b08b923691630d1f53554475f3",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "23d83092ace078b08b923691630d1f53554475f3",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true
+        },
+        "qualified_prior_author_receiving": "Personally adequate prior whole Sweets77 current normal private meanings351–658EOF b1de64/4bf4ee/05ae88/431567/3cb685 with465–467 recovery460–475. Current wrapper351–353 received6a3c93/db83bb. Fresh complete Kazusa eight bond+eight wholeMM+four written normal meanings413–444 in untruncated046e00413–456; further firstYoshimi448–455 not completeYoshimi custody. Adequate earlier written context/control520–6587f8304/683d2a reused. No fresh658-linewhole/77 primary/20 originalproducerbody/native/performed credit.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "actual_personal_receiving": "Current normal Airi385–410 and Yoshimi448–475 received343df3 with explicit lost409–410/448–455 recovered7cc7ef; Natsu477–506 complete7cc7ef; Kazusa413–444 complete9e47f5; public/peer comparison508–530 completeb4f89f. Complete relevant paired normal meanings/written-baseline meanings, not fresh31 original bond bodies or all15 selected original written bodies. Same-author earlier adequate whole Sweets77 normal literary meanings351–658 remain qualified reuse."
+      },
+      {
+        "source_id": "K",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 29090,
+        "line_count": 180,
+        "sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+        "actual_byte_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true
+        },
+        "qualified_prior_author_receiving": "Personally adequate complete current EVENT816 normal180-line argument priorReisa d53fe71–95/fba4ec96–180EOF; earlierbc33bd/b8a5e5. Freshcomplete current95–180d4031dEOF and38–830f7174. Complete selected literary meaning/endings reused; five new precise individual arguments listed separately where consequential. No fresh17 primary/allindividual producerbodies/native credit.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "actual_personal_receiving": "Same-author prior whole current180-line normal owner, latest prioreff371 L95–180 EOF and authorityscope a1050b; reused at exact current bytes, no fresh whole180 here. Source contrasts and route only; not a new literal claim that K was wholly received again for belonging."
+      },
+      {
+        "source_id": "A",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 53227,
+        "line_count": 306,
+        "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+        "actual_byte_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true
+        },
+        "qualified_prior_author_receiving": "Personally adequate complete current306-line normal EVENT836 and all47 selected meanings/endings in priorReisa7fd155/1e8428/5780a4/e2910c. Fresh substantive146–215e5d611+216–3068b055f with clipped302–306 fully recovered9d24d7; current68–747c1c2c/75–145c3f0c9. Kazusa role reluctance/apology/turnsharing/food/normal-or-hidden endings retained. No fresh47primary/video/performed/bodyindependence.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "actual_personal_receiving": "Same-author prior whole current306-line accepted47 meaning account reused; fresh complete current consequential001–012/013–027 meanings and chronology/actor/competing qualification95d5c5 L173–211,L235–251 plus b4f89f L151–173. Not new47 original-primary or whole306 fresh custody."
+      },
+      {
+        "source_id": "CONTROL_CSV",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "byte_count": 93949,
+        "line_count": 356,
+        "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+        "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": false,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "exact scope controls only",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "actual_personal_receiving": "Exact scope binding and prior four-home proposal/allocation only; no new whole metadata human receiving from hash/copy."
+      },
+      {
+        "source_id": "CONTROL_JSON",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": false,
+          "same_bytes": false
+        },
+        "qualified_prior_author_receiving": "exact scope controls only",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "actual_personal_receiving": "Exact scope binding and prior four-home proposal/allocation only; no new whole metadata human receiving from hash/copy."
+      },
+      {
+        "source_id": "G",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "byte_count": 24556,
+        "line_count": 155,
+        "sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+        "actual_byte_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true
+        },
+        "qualified_prior_author_receiving": "Personally prior whole d0aaea/6eefe5 plus fresh complete155-line current argument afe909 through EOF, both GROUP meanings/all local rosters/actor seams/endings. No fresh2 primary/raw/native; rescue, eating and stomach upset actual at narrator scope, injuries/medical recovery not inferred.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "actual_personal_receiving": "Personally whole current155-line accepted analytical owner ca3aff L1–84 plus a1f2b0 L85–155 EOF; all two object meanings/rosters/actor seams/endings/current acceptance. No fresh underlying2 primary/raw/native receiving."
+      },
+      {
+        "source_id": "X",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "byte_count": 22699,
+        "line_count": 147,
+        "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+        "actual_byte_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+        "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "current_HEAD_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+        "current_bytes_equal_HEAD": true,
+        "main2e_comparison": {
+          "present": true,
+          "same_bytes": true
+        },
+        "qualified_prior_author_receiving": "Personally prior whole3ae5ee/0c5067 plus fresh complete147-line current argument d2e971 through EOF. Airi is1802 guest, not1801 actor/JTF membership. Actual Tsurugi self-reported pleasure remains distinct from hosts matching comfort. No fresh2 original-primary/control credit.",
+        "new_primary_raw_native_performed_model_independent_credit": 0,
+        "C_bound_copy_relative_path": "bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "actual_personal_receiving": "Personally whole current147-line accepted analytical owner6d1a88 L1–80 plus bc326b L81–147 EOF; all two meanings/rosters/seams/three visits/next-day question/current acceptance. No fresh underlying2 primary/raw/native receiving."
+      }
+    ],
+    "historical_C_inputs": [
+      {
+        "file": "ROOT_SWEETS_FOUR_EXISTING_HOME_ALLOCATION_V1.json",
+        "byte_count": 7448,
+        "line_count": 103,
+        "sha256": "097b09d5be74cd9315e88e37b965399437a00b98ecdeb101a1e39059418666c5",
+        "actual_byte_blob_oid": "fb3dbcbf591a8b02b46631853789cc6610560f58",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 39972,
+        "line_count": 755,
+        "sha256": "a2aa82ec893e19aace39a04e90661bbbede5ae940e307165b1c3575b16109e7b",
+        "actual_byte_blob_oid": "eb0546f9899891a091c5f88d02153a52665a8f7d",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 50221,
+        "line_count": 947,
+        "sha256": "447065d703b667f1e09ccc6d92527c5da82315b1dd9df08d77f2b501ab7b53fa",
+        "actual_byte_blob_oid": "589fb7f2be90a37519d5ba68e3dbe2b1827ff09a",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 51280,
+        "line_count": 936,
+        "sha256": "eb2eeb33c02be18a52770a7635f91dc1a4c16c907be37dedf5ab953fdb29795b",
+        "actual_byte_blob_oid": "9f1c2dcb4e497c415d9aa6678ed34914668f3ee3",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      },
+      {
+        "file": "ROOT_KAZUSA_NATSU_IMITATION_CLAUSE_OPERATIVE_QUALIFICATION_V1.json",
+        "byte_count": 4931,
+        "line_count": 35,
+        "sha256": "6fff734136db228cf01f9679c33b366493f3d98dbc7b39bc9bfff32ddc24c580",
+        "actual_byte_blob_oid": "71510766a6db60388ddab030d2d928a60f10e2f7",
+        "meaning": "Immutable prior adequate same-author analytical custody or ROOT scope allocation/qualification only; not this candidate acceptance or transferred primary credit."
+      }
+    ],
+    "required_index_beforeimage": {
+      "required_package_id": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+      "kind": "ENSEMBLE",
+      "subject_or_question": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+      "source_responsibility_refs": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "partition_beforeimage": {
+      "home_key": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+      "kind": "ENSEMBLE",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE"
+      ],
+      "literary_rationale": [
+        "Sweets Club belonging, taste and unequal knowledge"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "partition_pointer": "/homes/224",
+    "source_custody": {
+      "fresh_complete_analytical_owners": [
+        "G whole155",
+        "X whole147"
+      ],
+      "fresh_complete_normal_repertoire": "All four current paired normal person repertoires385–506 at scopes above; complete existing private written meanings reused at their actual prior custody, no fresh31 bond/31 MomoTalk/15 character-data original-body claim.",
+      "adequate_prior": "Same-author complete current private/GROUP/event arguments received previously; relevant fresh scope recovery as above. Copy and exact bytes do not grant whole reading.",
+      "source_admission": "Current normal accepted C001/Cycle003/Cycle008 authority governs; producer historical pending scopes remain immutable history.",
+      "new_primary_raw_native_performed_model_independent_credit": 0
+    },
+    "link_transport": [
+      {
+        "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "canonical_relative_href": "../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "byte_sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      },
+      {
+        "candidate_relative_href": "bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "byte_sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+        "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+      }
+    ],
+    "mandatory_actor_precision": "GROUP2001 ignored repeated imitation belongs to Yoshimi; Natsu absent/mention-only. Exact operative Kazusa one-clause omission remains applied in comparisons, immutable original body unchanged. Local students, unshared host thoughts and event blank actors retain scope.",
+    "all_fourteen_original_gaps": [
+      {
+        "id": "G01",
+        "literal_name": "Ordinary and private breadth",
+        "state": "OPEN",
+        "saved_body_line": 157,
+        "claim_specific_effect": "this received club repertoire is substantial but does not complete every private relation, taste or ordinary variation in the full cast."
+      },
+      {
+        "id": "G02",
+        "literal_name": "Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "saved_body_line": 158,
+        "claim_specific_effect": "informal Sweets parity cannot validate Seminar's budget, recipient or authority decisions."
+      },
+      {
+        "id": "G03",
+        "literal_name": "Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "saved_body_line": 159,
+        "claim_specific_effect": "group dessert and rescue reciprocity supply a comparison, not completion of Serika's service repertoire."
+      },
+      {
+        "id": "G04",
+        "literal_name": "Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "saved_body_line": 160,
+        "claim_specific_effect": "no transfer from these local emergencies to Hina's force, liability, injury or wanted life is warranted."
+      },
+      {
+        "id": "G05",
+        "literal_name": "Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "saved_body_line": 161,
+        "claim_specific_effect": "lively peer play and help do not settle those groups' distinct ordinary, coercive or aftermath responsibilities."
+      },
+      {
+        "id": "G06",
+        "literal_name": "Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "saved_body_line": 162,
+        "claim_specific_effect": "Justice guest experience broadens a located comparison; it does not generalize hosts' fear or visitors' pleasure to all schools."
+      },
+      {
+        "id": "G07",
+        "literal_name": "Story-world chronology",
+        "state": "OPEN",
+        "saved_body_line": 163,
+        "claim_specific_effect": "local waiting, same-day/night, tomorrow/next-day, practice countdown and the icicle callback do not place all private, event and MAIN contexts on one calendar."
+      },
+      {
+        "id": "G08",
+        "literal_name": "Event naming and repeat contexts",
+        "state": "OPEN",
+        "saved_body_line": 164,
+        "claim_specific_effect": "IDs and 836/10836/900836 or 816/10816/900816 triggers are documentary associations, not new historical visits or performances."
+      },
+      {
+        "id": "G09",
+        "literal_name": "Written speaker/choice attribution",
+        "state": "OPEN",
+        "saved_body_line": 165,
+        "claim_specific_effect": "feeding replies, host asides, actor-label seams and individual-versus-collective affirmation remain qualified; no silent repaired identity or secure consent is manufactured."
+      },
+      {
+        "id": "G10",
+        "literal_name": "Performed voice",
+        "state": "OPEN",
+        "saved_body_line": 166,
+        "claim_specific_effect": "written laughter, lyrics, teacher reports and video markers are not audio, movement, acting or measured vocal evidence."
+      },
+      {
+        "id": "G11",
+        "literal_name": "Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "saved_body_line": 167,
+        "claim_specific_effect": "nothing here resolves that historical record or office continuity."
+      },
+      {
+        "id": "G12",
+        "literal_name": "Counterpart, system and variant identity",
+        "state": "OPEN",
+        "saved_body_line": 168,
+        "claim_specific_effect": "Natsu's communication channel is not a second person; role letters, unnamed accusers and costume associations cannot establish wider identity joins."
+      },
+      {
+        "id": "G13",
+        "literal_name": "Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "saved_body_line": 169,
+        "claim_specific_effect": "queue shot allocation, clinical cause/recovery, disciplinary settlement, restitution, permanent club policy, distribution permission and prize collection remain limited to actual printed outcomes."
+      },
+      {
+        "id": "G14",
+        "literal_name": "Unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_body_line": 170,
+        "claim_specific_effect": "profiles, repeated UI passages, MomoTalk tails, reader-accessible thoughts and alternative event endings retain their source modes; unreceived continuity is not inferred."
+      }
+    ],
+    "overlap_controls": [
+      "Kind remains ENSEMBLE; do not manufacture an Airi–Natsu or Kazusa–Natsu directed home.",
+      "GROUP2001 ignored imitation is Yoshimi; Natsu is absent/mention-only. The mandatory Kazusa omission erratum stays operative.",
+      "Different four-member reactions and outside recipients cannot become a uniform friendship proof.",
+      "The band’s specific making, skill, parity and memory question remains a separate existing ensemble."
+    ],
+    "scope_355_29": "UNCHANGED; existing required ensemble scope, no package/quarter credit from drafting",
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "source_counts_are_completion": false,
+    "unbound_large": "All9 UNBOUND large files UNOPENED_UNREAD_UNHASHED",
+    "pre_freeze_metadata_count_precision": "The negative fresh-credit wording originally said17 written objects; exact selected-source IDs in the current private owner establish31 BOND/31 MomoTalk/15 character-data objects. Corrected to15 before freeze; no claimed new receiving/source credit, literary body or original earlier frozen file changes. Metadata-only calculation069494 is not new narrative receiving."
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "complete_author_attachments": [
+    {
+      "name": "SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "original_exact_tuple": {
+        "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "bytes": 102615,
+        "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+        "git_blob_oid_of_actual_bytes": "039d893cac726853de7e9717222f9ab1512324c7",
+        "lines": 2875,
+        "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1",
+        "status": "AUTHOR_FINITE_PROJECTION_ROOT_RECEIVING_PENDING",
+        "required_home": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+        "body": {
+          "file": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+          "byte_count": 45851,
+          "line_count": 174,
+          "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+          "actual_byte_blob_oid": "e75eded0103680ed40957717b645c9fb1e6b35b8"
+        },
+        "source_binding_lookup": {
+          "A01": {
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          "P": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "line_count": 658,
+            "sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+            "actual_byte_blob_oid": "23d83092ace078b08b923691630d1f53554475f3"
+          },
+          "K": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+            "line_count": 180,
+            "sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+            "actual_byte_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5"
+          },
+          "A": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+            "line_count": 306,
+            "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+            "actual_byte_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537"
+          },
+          "CONTROL_CSV": {
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "line_count": 356,
+            "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+            "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8"
+          },
+          "CONTROL_JSON": {
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "line_count": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+          },
+          "G": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+            "line_count": 155,
+            "sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+            "actual_byte_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d"
+          },
+          "X": {
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+            "line_count": 147,
+            "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+            "actual_byte_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04"
+          }
+        },
+        "common_epistemic_bound": "All exact source locators reference accepted analytical owners; full saved paragraphs retain report/plan/choice/identity/chronology/recipient bounds. No new primary or actor repair credit.",
+        "saved_paragraph_projection": [
+          {
+            "claim_id": "SB001",
+            "saved_body_line": 5,
+            "architecture_section": "OPENING_SCOPE",
+            "paragraph_sha256": "436b562c065303757a4745e35a860396478cf6778294aa736a430edeee75f639",
+            "opening_22_words": "This argument concerns how Airi, Kazusa, Yoshimi and Natsu sustain wanted company while differing in appetite, rest, self-disclosure, expressive style and willingness",
+            "verbatim_citation_tokens": [
+              "G:L20,L153–155; X:L20,L145–147; P:L508–529; A:L243–251"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    20,
+                    20
+                  ],
+                  [
+                    153,
+                    155
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    20,
+                    20
+                  ],
+                  [
+                    145,
+                    147
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    508,
+                    529
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    243,
+                    251
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB002",
+            "saved_body_line": 7,
+            "architecture_section": "OPENING_SCOPE",
+            "paragraph_sha256": "56be11ed5db6d2ef9aee35a30ab6288d3c888fa8e1d3e863049d03f45d92ac96",
+            "opening_22_words": "Source routes below identify exact accepted analytical owners, not newly read primary dialogue. `P` is the four-member private checkpoint; `G` is GROUP2001/2002;",
+            "verbatim_citation_tokens": [
+              "G:L153–155; X:L145–147; P:L510–522"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    153,
+                    155
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    145,
+                    147
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    510,
+                    522
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB003",
+            "saved_body_line": 11,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "ad1d7f379bcc7f747c9e69d53b0ccee7952d18ee030062c30d347a33c01ac7ba",
+            "opening_22_words": "The Sweets Club's belonging is strongest when understood as **a wanted place for different people, with differences that can become both resources",
+            "verbatim_citation_tokens": [
+              "G:L57–77,L83–105; X:L112–116"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    77
+                  ],
+                  [
+                    83,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    112,
+                    116
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB004",
+            "saved_body_line": 13,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "fc5a57bcbe0dd37749068f0ce4e0b522a9739f574339dc8824b309dd45b1418c",
+            "opening_22_words": "Airi supplies a positive center without becoming the club's sole moral representative. She explicitly values the conversation even when a purchasing aim",
+            "verbatim_citation_tokens": [
+              "G:L61,L65,L75,L101–105; P:L397–403"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    61,
+                    61
+                  ],
+                  [
+                    65,
+                    65
+                  ],
+                  [
+                    75,
+                    75
+                  ],
+                  [
+                    101,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    397,
+                    403
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB005",
+            "saved_body_line": 15,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "5449a84728e252223fb960dded8e244a7957729a73dc7ed465f50266b9bf5e93",
+            "opening_22_words": "Kazusa's objection does not place her outside the group. She wants quality sweets, quiet company, a longer shared bus interval and future",
+            "verbatim_citation_tokens": [
+              "P:L416–425,L449–470,L480–501; G:L83–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    416,
+                    425
+                  ],
+                  [
+                    449,
+                    470
+                  ],
+                  [
+                    480,
+                    501
+                  ]
+                ]
+              },
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    83,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB006",
+            "saved_body_line": 17,
+            "architecture_section": "1. Core thesis",
+            "paragraph_sha256": "920d123079b6e0a18e2598862346b398df4627cea5f04adb614669dd96f095ba",
+            "opening_22_words": "Unequal knowledge is a second constitutive feature. Readers learn Airi's reason for wanting change before the friends do; their semla explanation is",
+            "verbatim_citation_tokens": [
+              "A:L168–180; X:L86,L112–116"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    180
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    86,
+                    86
+                  ],
+                  [
+                    112,
+                    116
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB007",
+            "saved_body_line": 21,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "f4dd1a96bcafc23dc0438de688385f2d58affc1e47f1954e2d803a2b79e4feea",
+            "opening_22_words": "The accepted objects do not supply one complete calendar for the club. GROUP2001's waiting times, GROUP2002's afternoon-to-night transition and GROUP1802's visits followed",
+            "verbatim_citation_tokens": [
+              "G:L57,L101,L127; X:L68; A:L237; P:L394,L492"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    57
+                  ],
+                  [
+                    101,
+                    101
+                  ],
+                  [
+                    127,
+                    127
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    68,
+                    68
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    237,
+                    237
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    394,
+                    394
+                  ],
+                  [
+                    492,
+                    492
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB008",
+            "saved_body_line": 23,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "5a5995691c4c63ac3f360ec2ddef84f92cbfad36f93d7e862c002be19c1b5894",
+            "opening_22_words": "GROUP2001 develops from waiting to snack-sharing, then to an interaction whose discomfort accumulates. Airi attempts to preserve company amid scarcity. Yoshimi's imitative",
+            "verbatim_citation_tokens": [
+              "G:L57–77"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    77
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB009",
+            "saved_body_line": 25,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "363756cdec77b68deaef28023638d32dd8ee6865e7742aca71bf626ed50272b1",
+            "opening_22_words": "GROUP2002 follows a different local arc: incompatible holiday wishes, a refused cave excursion, theatrical persuasion, dispersal, an urgent nighttime plea and actual",
+            "verbatim_citation_tokens": [
+              "G:L83–105; P:L492"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    83,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    492,
+                    492
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB010",
+            "saved_body_line": 27,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "c09ed63cf91cf428c2f2195338e8f76b31b3703a9a8d3878699c917a0d1b6cee",
+            "opening_22_words": "EVENT836 extends the question of belonging beyond convenient company. Airi wants a skill or something she can proudly name as hers, privately",
+            "verbatim_citation_tokens": [
+              "A:L168–180"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    180
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB011",
+            "saved_body_line": 29,
+            "architecture_section": "2. Longitudinal arc",
+            "paragraph_sha256": "684abb3a872386044bbefdc6c51f6f4920bbd0702946e0e1e917a5641cf7ec81",
+            "opening_22_words": "The closure preserves continuity and loss together. Airi later chooses her current festival plan, still refuses presidency and is voiced as liking",
+            "verbatim_citation_tokens": [
+              "A:L180,L184–186; P:L394"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    180,
+                    180
+                  ],
+                  [
+                    184,
+                    186
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    394,
+                    394
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB012",
+            "saved_body_line": 33,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "3e2801b76e904f7bd5aefe3feba50a9356ab7dd94b9de4843e68ab853f83377e",
+            "opening_22_words": "The club's public ease cannot be equated with complete access to its members. Airi can sound optimistic and still struggle alone with",
+            "verbatim_citation_tokens": [
+              "A:L168–174"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    174
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB013",
+            "saved_body_line": 35,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "c6f9b46c96b49990d301f0b414633bc2de5bf04f968148e3d6e770ad1a114e19",
+            "opening_22_words": "Confidentiality remains a real boundary, including when disclosure has a helpful result. Airi requests secrecy about the initial confession. In detention she",
+            "verbatim_citation_tokens": [
+              "A:L168,L176–180; P:L394"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    168
+                  ],
+                  [
+                    176,
+                    180
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    394,
+                    394
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB014",
+            "saved_body_line": 37,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "e4d2fd12bb54f0d68643e3d9211108925a631eca5217956daa5d83820f248837",
+            "opening_22_words": "Kazusa's private study, bus choice and appearance objection show different reasons for familiar reserve. She seeks resit help, insists on paying so",
+            "verbatim_citation_tokens": [
+              "P:L416–422"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    416,
+                    422
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB015",
+            "saved_body_line": 39,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "f00c9e9e9064df999f63bf166f295ef29b35e9b9f58076e7ba845a12005896c8",
+            "opening_22_words": "Yoshimi's apparent comic anger likewise has multiple objects. She wants to own clothing choices, distinguish autograph from band logo, have a genuine",
+            "verbatim_citation_tokens": [
+              "P:L449–470"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    449,
+                    470
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB016",
+            "saved_body_line": 41,
+            "architecture_section": "3. Public/private self",
+            "paragraph_sha256": "24a19f2525d8584f1fe4ff526b15852056aabc3f8ab58b33d629007373832d77",
+            "opening_22_words": "Natsu can turn the ordinary into a lecture or mystery without the analysis treating her as a hidden omniscient voice. Her cookie",
+            "verbatim_citation_tokens": [
+              "P:L480–492"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    480,
+                    492
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB017",
+            "saved_body_line": 45,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "00e071ae6f522d3432e41474a592003bebd2d0e40b64c3aead7ca59596d1a81b",
+            "opening_22_words": "The Sweets Club is an informal peer institution with real effects on time, places and interpretation. EVENT836 explicitly says there is no",
+            "verbatim_citation_tokens": [
+              "A:L158–172,L180,L186"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    158,
+                    172
+                  ],
+                  [
+                    180,
+                    180
+                  ],
+                  [
+                    186,
+                    186
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB018",
+            "saved_body_line": 47,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "2591d0b343805d57c5a1f7106f66e717d779d722fb5ad026f5b9f62ca14b91c1",
+            "opening_22_words": "This equality is neither absence of initiative nor sameness of labor. Airi recommends foundations to address playing errors, proposes food and asks",
+            "verbatim_citation_tokens": [
+              "A:L160,L195–198; P:L449,L498–504"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    160,
+                    160
+                  ],
+                  [
+                    195,
+                    198
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    449,
+                    449
+                  ],
+                  [
+                    498,
+                    504
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB019",
+            "saved_body_line": 49,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "fa520bc618b2fc292c0e74f031ea2086b2bbdb9f895fe00ce199160b08fc038f",
+            "opening_22_words": "Membership does not imply an exhaustive social boundary. In EVENT836020 Airi invites Reisa even when Kazusa is absent and offers rest and",
+            "verbatim_citation_tokens": [
+              "A:L201"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    201,
+                    201
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB020",
+            "saved_body_line": 51,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "7702ac3a17c84e45f12047be14f964feceb3b5b2d99c0fb9faa64683b2bcbc4f",
+            "opening_22_words": "The Justice exchange tests that opening against a markedly different visitor. Nagisa's video makes a day away from usual duties and participation",
+            "verbatim_citation_tokens": [
+              "X:L66,L96,L112–116,L125"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    66,
+                    66
+                  ],
+                  [
+                    96,
+                    96
+                  ],
+                  [
+                    112,
+                    116
+                  ],
+                  [
+                    125,
+                    125
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB021",
+            "saved_body_line": 53,
+            "architecture_section": "4. School/club role",
+            "paragraph_sha256": "3733b33b2cb7345855d9d1c962d15b9235e30ecaf5ce0974926903dd30a0928d",
+            "opening_22_words": "The ordinary institution must also retain those outside its named members. GROUP2001's local Student A and B dispute queue-cutting with empty person",
+            "verbatim_citation_tokens": [
+              "G:L48–51,L57,L69,L77,L137; X:L102–116,L124"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    48,
+                    51
+                  ],
+                  [
+                    57,
+                    57
+                  ],
+                  [
+                    69,
+                    69
+                  ],
+                  [
+                    77,
+                    77
+                  ],
+                  [
+                    137,
+                    137
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    102,
+                    116
+                  ],
+                  [
+                    124,
+                    124
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB022",
+            "saved_body_line": 57,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "655ff915aebe4b49bbe9afca0dfec6c7566eb37b5b11d1ba44544e0a511405df",
+            "opening_22_words": "Dessert and company are related goods, with neither reducible to the other. Airi can enjoy talking while waiting and also have a",
+            "verbatim_citation_tokens": [
+              "G:L61; P:L397,L419,L458,L486"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    61,
+                    61
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    397,
+                    397
+                  ],
+                  [
+                    419,
+                    419
+                  ],
+                  [
+                    458,
+                    458
+                  ],
+                  [
+                    486,
+                    486
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB023",
+            "saved_body_line": 59,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "25d2dce2c5bc9425384ddf3aa6effccdfb66a903092eb1c496da45e070fe154a",
+            "opening_22_words": "Waiting offers a precise example of nonidentical benefit. Yoshimi's restless dissatisfaction asks for expressive reception; Kazusa asks for relief from disturbance; Airi",
+            "verbatim_citation_tokens": [
+              "G:L57–61"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    61
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB024",
+            "saved_body_line": 61,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "508dae9755b2448947a436774c5b20202db5efdd6ca7d0820b7f68b7a84d71ff",
+            "opening_22_words": "Doing nothing is a wanted life, not an empty state awaiting useful service. Kazusa names inactivity as her holiday plan; Airi has",
+            "verbatim_citation_tokens": [
+              "G:L83–103"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    83,
+                    103
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB025",
+            "saved_body_line": 63,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "5f198d56618c4d508f332d2e07e336d51333a213b8fdd673f5b2564b0a318f76",
+            "opening_22_words": "Ordinary company also need not originate in a problem. Natsu's pie, milk, pleasant sun and wind, and wish for shared time explicitly",
+            "verbatim_citation_tokens": [
+              "P:L406,L419,L464,L489"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    406,
+                    406
+                  ],
+                  [
+                    419,
+                    419
+                  ],
+                  [
+                    464,
+                    464
+                  ],
+                  [
+                    489,
+                    489
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB026",
+            "saved_body_line": 65,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "b6823a6a025ba19af2b988647f1d4f631dcfba4d7c1243cb6f7737de5b0532d6",
+            "opening_22_words": "Making and attention broaden the common room. Natsu's handmade cookies and changing taste combination make exchange possible without guaranteeing perfect interpretation. Kazusa",
+            "verbatim_citation_tokens": [
+              "P:L388,L449–455,L480–483,L439; A:L168"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    388,
+                    388
+                  ],
+                  [
+                    449,
+                    455
+                  ],
+                  [
+                    480,
+                    483
+                  ],
+                  [
+                    439,
+                    439
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    168
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB027",
+            "saved_body_line": 67,
+            "architecture_section": "5. Ordinary life",
+            "paragraph_sha256": "0e70ac308837972b55884080da6044156eda0606df85cdf26243ad4d8da6f0b1",
+            "opening_22_words": "Costs remain ordinary too. Yoshimi becomes exhausted after agreeing to repeated encores. Natsu must rebuild the drum setup after a feared crawling",
+            "verbatim_citation_tokens": [
+              "P:L391,L455,L498"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    391,
+                    391
+                  ],
+                  [
+                    455,
+                    455
+                  ],
+                  [
+                    498,
+                    498
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB028",
+            "saved_body_line": 71,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "10d0462489fa7370813d0c6c462b5f5c173b9dc41f29a0e6c7beb513d5c63074",
+            "opening_22_words": "The most consequential peer intervention in GROUP2002 is not a reversal into universal agreement. Airi alerts the others, says they will go,",
+            "verbatim_citation_tokens": [
+              "G:L95,L101–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    95,
+                    95
+                  ],
+                  [
+                    101,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB029",
+            "saved_body_line": 73,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "4c04e781596c47b21d6b151e71a1a717ae179d64356253483e30d9aed62a5fc3",
+            "opening_22_words": "Its full outcome is mixed and collective. Natsu is rescued; the ice formations really exist; everyone eats and suffers an upset stomach;",
+            "verbatim_citation_tokens": [
+              "G:L97,L105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    97,
+                    97
+                  ],
+                  [
+                    105,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB030",
+            "saved_body_line": 75,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "4488f60fa2b22cd70fe327ff6f0f27947ade94191dc0a503185afbd61d3ca9e0",
+            "opening_22_words": "In EVENT836 the concern about a missing friend reveals unequal noticing and a faulty causal explanation. Kazusa and Natsu had perceived muted",
+            "verbatim_citation_tokens": [
+              "A:L168–172,L176,L250–251"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    172
+                  ],
+                  [
+                    176,
+                    176
+                  ],
+                  [
+                    250,
+                    251
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB031",
+            "saved_body_line": 77,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "ae9455e6a09b5f0aae3fb27c779c24c8ceeea36c768772c48506e34f33350ee9",
+            "opening_22_words": "Affection does not certify permissible means. The friends' theft/attack plan, retrospective combat reports, rapid defeat on JTF arrival and detention have their",
+            "verbatim_citation_tokens": [
+              "A:L172–178,L188"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    172,
+                    178
+                  ],
+                  [
+                    188,
+                    188
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB032",
+            "saved_body_line": 79,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "5c8a0059df1b1fdc14077e08d72870b7606772ffe592d19862333d594bd06a3d",
+            "opening_22_words": "The quieter crisis is receiving another's insecurity without making worth conditional on repair. Airi's friends affirm they stay because she is Airi,",
+            "verbatim_citation_tokens": [
+              "A:L174–180"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    174,
+                    180
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB033",
+            "saved_body_line": 81,
+            "architecture_section": "6. Crisis behavior",
+            "paragraph_sha256": "12d783fd632754e35ec6380172275c434dce4f6826b0d7d9dcac755b6d27886d",
+            "opening_22_words": "GROUP2001 gives an adverse ordinary counterexample to smooth collective response. Familiarity does not stop the ignored imitation, damaged hospitality, humiliating jokes or",
+            "verbatim_citation_tokens": [
+              "G:L65–77,L125–127"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    65,
+                    77
+                  ],
+                  [
+                    125,
+                    127
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB034",
+            "saved_body_line": 85,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "ed0ffc8a1f023af5d311917f79193f41c3cc155a165f5399b7b01fefba16dffa",
+            "opening_22_words": "Neither complete GROUP packet contains Sensei or formal choices. The friends' rescue, gathering, differences and apprehensive hosting are autonomous student acts; Nagisa's",
+            "verbatim_citation_tokens": [
+              "G:L109,L138; X:L84,L96,L125"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    109,
+                    109
+                  ],
+                  [
+                    138,
+                    138
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    84,
+                    84
+                  ],
+                  [
+                    96,
+                    96
+                  ],
+                  [
+                    125,
+                    125
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB035",
+            "saved_body_line": 87,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "14b3227e4bdc05cd63ba7d8876943e0388a04dead53da912382b37549386dc33",
+            "opening_22_words": "The private scenes do show chosen adult company, and the wishes differ. Airi wants a listening interval, a break or a walk;",
+            "verbatim_citation_tokens": [
+              "P:L388–406,L416–439,L449–470,L480–501"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    388,
+                    406
+                  ],
+                  [
+                    416,
+                    439
+                  ],
+                  [
+                    449,
+                    470
+                  ],
+                  [
+                    480,
+                    501
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB036",
+            "saved_body_line": 89,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "6e7f1f9f56aafd5351e4e0f7d471d1fca833f890287a18ec16785e5eef8c477b",
+            "opening_22_words": "Teacher involvement may help without being ideally responsive. Practical work, a private audience and completed review are positive endpoints, while teasing after",
+            "verbatim_citation_tokens": [
+              "P:L452–470,L498–501"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    452,
+                    470
+                  ],
+                  [
+                    498,
+                    501
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB037",
+            "saved_body_line": 91,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "9b65c290351242ca9c7f70e1db755b1aa1a8ef1d900386a3dfd094cd92af3b0c",
+            "opening_22_words": "EVENT836 presents a particularly consequential limit. Sensei arranges a studio and participates in searches, yet enters practice after Yoshimi explicitly says the",
+            "verbatim_citation_tokens": [
+              "A:L166–180"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    166,
+                    180
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB038",
+            "saved_body_line": 93,
+            "architecture_section": "7. Sensei relationship",
+            "paragraph_sha256": "0f6f13381c10c8167b1fc7a3b283fe1f4132884439a6f0d4d2a2fac6b4819111",
+            "opening_22_words": "Adult recognition cannot replace peer agency. Airi's invitation to Reisa, Kazusa's extra ice cream, the peers' rejection of replacement, recognition of a",
+            "verbatim_citation_tokens": [
+              "A:L168,L172,L197–201"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    168
+                  ],
+                  [
+                    172,
+                    172
+                  ],
+                  [
+                    197,
+                    201
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB039",
+            "saved_body_line": 97,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "74fba3b566011c1f07675767d4f20ecda0a45066ea38f63443c540124cefb5bb",
+            "opening_22_words": "Airi offers a gathering place whose value she can articulate independently. In GROUP2001 her snack and conversation preference attempt to sustain an",
+            "verbatim_citation_tokens": [
+              "G:L61,L103; A:L174–180,L201; P:L403"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    61,
+                    61
+                  ],
+                  [
+                    103,
+                    103
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    174,
+                    180
+                  ],
+                  [
+                    201,
+                    201
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    403,
+                    403
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB040",
+            "saved_body_line": 99,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "6fe96632ce6760b3bc8b4cba5fff1d74451ea45aa1051c17795e6525dcdbb8fa",
+            "opening_22_words": "Kazusa and Yoshimi expose a familiar relation which includes actual boundary conflict. The restless complaint and imitative teasing are ordinary peer acts;",
+            "verbatim_citation_tokens": [
+              "G:L57–77; P:L449–470"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    77
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    449,
+                    470
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB041",
+            "saved_body_line": 101,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "bc43f3a8dbbf0e58e8102f0686d17754a3d91e073eafb8cbdffd9ac8fdef0327",
+            "opening_22_words": "Natsu's relation to the group includes both generosity of interpretation and imposition of pace. She wants others to encounter romance and can",
+            "verbatim_citation_tokens": [
+              "G:L85–105; P:L486"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    85,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    486,
+                    486
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB042",
+            "saved_body_line": 103,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "bb92a86a1389ffdf7ff2b9fbcd0f89fc4a101256343f68a80e2b5f125c5626a3",
+            "opening_22_words": "The peers also encounter a genuine epistemic challenge when Natsu's improbable rumor is true. Yoshimi is wrong about the icicles' existence. That",
+            "verbatim_citation_tokens": [
+              "G:L91–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    91,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB043",
+            "saved_body_line": 105,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "54008c850d447afc3a26a0d1747932b8366af86e59fce87ca93c7973c9f1d1b6",
+            "opening_22_words": "The guest encounter makes the direction of experience unusually clear. Airi proposes speaking despite fear, Yoshimi imagines being eaten, and Kazusa doubts",
+            "verbatim_citation_tokens": [
+              "X:L86,L112–116"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    86,
+                    86
+                  ],
+                  [
+                    112,
+                    116
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB044",
+            "saved_body_line": 107,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "b9fc29fdb5aa0b7b171f2a68bd80547a006abad5b2b6335636e3f31062470423",
+            "opening_22_words": "The wider club visits prevent idealizing this asymmetry as unique dysfunction. Literature peers show interest in Mashiro's serious book while she finds",
+            "verbatim_citation_tokens": [
+              "X:L102–116"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    102,
+                    116
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB045",
+            "saved_body_line": 109,
+            "architecture_section": "8. Major peer relationships",
+            "paragraph_sha256": "9842753eb0385905ea6086b6feb81153d9e9adb0a83ef22001f8e4b8da915c82",
+            "opening_22_words": "EVENT836's wrong diagnosis and true wish to retain Airi provide the most sustained internal comparison. A group may want the right person",
+            "verbatim_citation_tokens": [
+              "A:L168–180"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    180
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB046",
+            "saved_body_line": 113,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "59ca3226e910aeccb96f6d38f3f7ea3e37effbb21aedc184ed0bb683753ce2f2",
+            "opening_22_words": "The prose treats voice as written register and represented address. No native audio, acting, acoustic performance or body animation has been received",
+            "verbatim_citation_tokens": [
+              "G:L51,L67,L111–125; X:L62,L70–86"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    51,
+                    51
+                  ],
+                  [
+                    67,
+                    67
+                  ],
+                  [
+                    111,
+                    125
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    62,
+                    62
+                  ],
+                  [
+                    70,
+                    86
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB047",
+            "saved_body_line": 115,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "01e396f5479d8cc7b911d14b251106cb6958cc5f4f63c8027855985d1f9a8755",
+            "opening_22_words": "Airi's explicit gathering-and-talk valuation and Kazusa's “doing nothing” claim carry ordinary purpose in the words themselves. The latter is not a blank",
+            "verbatim_citation_tokens": [
+              "G:L59–65,L83–105,L139"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    59,
+                    65
+                  ],
+                  [
+                    83,
+                    105
+                  ],
+                  [
+                    139,
+                    139
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB048",
+            "saved_body_line": 117,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "19620390d2b713ceee28e3effe4868e578a97e4b12e793924621fd3800b2640e",
+            "opening_22_words": "Taste language can open inquiry or foreclose it. Natsu asks about espresso preference and makes a combination; Kazusa considers Sensei's different sweets",
+            "verbatim_citation_tokens": [
+              "P:L397,L419,L449,L483; G:L85"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    397,
+                    397
+                  ],
+                  [
+                    419,
+                    419
+                  ],
+                  [
+                    449,
+                    449
+                  ],
+                  [
+                    483,
+                    483
+                  ]
+                ]
+              },
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    85,
+                    85
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB049",
+            "saved_body_line": 119,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "5b88fecb45631a713c1fda89c3ca4b692b3cedd822a92fcb57b919047b657b02",
+            "opening_22_words": "Written imperatives and refusals cannot be dissolved into a uniform comic idiom. Kazusa's stop requests, bodily-distance and deletion conditions; Yoshimi's requests for",
+            "verbatim_citation_tokens": [
+              "P:L419–439,L452–470,L480; A:L168,L176,L184–189"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    419,
+                    439
+                  ],
+                  [
+                    452,
+                    470
+                  ],
+                  [
+                    480,
+                    480
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    168
+                  ],
+                  [
+                    176,
+                    176
+                  ],
+                  [
+                    184,
+                    189
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB050",
+            "saved_body_line": 121,
+            "architecture_section": "9. Language/voice",
+            "paragraph_sha256": "dbd89a8bb3e11c62b26fcbce245d1054a070ba5f258109d1e0b7543b52986e02",
+            "opening_22_words": "Repeated UI and costume contexts widen a written repertoire without providing independent enacted encounters. Blank costume profiles remain blank; progress/shop/mission triggers and",
+            "verbatim_citation_tokens": [
+              "P:L409,L442–444,L473–475,L504–506"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    409,
+                    409
+                  ],
+                  [
+                    442,
+                    444
+                  ],
+                  [
+                    473,
+                    475
+                  ],
+                  [
+                    504,
+                    506
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB051",
+            "saved_body_line": 125,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "6f6b52f9a401ef429048430f76a425115cf1674cc086676c5e1b6cb41681ca66",
+            "opening_22_words": "**“The club's meaning is that food is really only an excuse for friendship.”** Airi's explicit enjoyment of conversation and the peers' wish",
+            "verbatim_citation_tokens": [
+              "G:L57–61,L105; P:L397,L419,L458,L486,L492"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    57,
+                    61
+                  ],
+                  [
+                    105,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    397,
+                    397
+                  ],
+                  [
+                    419,
+                    419
+                  ],
+                  [
+                    458,
+                    458
+                  ],
+                  [
+                    486,
+                    486
+                  ],
+                  [
+                    492,
+                    492
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB052",
+            "saved_body_line": 127,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "4a8bd65c4bdee23a8e616d06709477655efff3dfb6f20683b4093929dfc4589a",
+            "opening_22_words": "**“Airi is the calm center because she has no strong desire.”** Her mediation and worry about blurred opinions support an appearance of",
+            "verbatim_citation_tokens": [
+              "P:L388–409; A:L168–174"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    388,
+                    409
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    174
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB053",
+            "saved_body_line": 129,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "5657d31ac67437eca871a1b6eadec581575da5d71f5f31d2a383ab97e61ed14c",
+            "opening_22_words": "**“Friends are close enough that the stop requests need not be literal.”** Familiar teasing, cake, future invitations and gratitude make affection unmistakable.",
+            "verbatim_citation_tokens": [
+              "G:L65–77; P:L422,L452–455,L470"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    65,
+                    77
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    422,
+                    422
+                  ],
+                  [
+                    452,
+                    455
+                  ],
+                  [
+                    470,
+                    470
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB054",
+            "saved_body_line": 131,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "5481c6ca34dfc25ca5d64931e628dcf359ac72249ed165f19e027fc6aa1f3bf6",
+            "opening_22_words": "**“Natsu's theatrical tears make the later emergency another manipulation.”** The earlier act really is exposed as an unsuccessful persuasion, and Yoshimi invokes",
+            "verbatim_citation_tokens": [
+              "G:L95–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    95,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB055",
+            "saved_body_line": 133,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "cadeae368cb3067255b218ecf0295a39cfde835504cf8f919c12586d467fc558",
+            "opening_22_words": "**“The rescue proves the friends secretly wanted the trip.”** Their collective departure and participation in eating establish help and a shared afterstate.",
+            "verbatim_citation_tokens": [
+              "G:L83–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    83,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB056",
+            "saved_body_line": 135,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "0b4850aa8fa27c8ce8f4b44d0d579f2de05d956e24165367d21cb7a87eb9d61f",
+            "opening_22_words": "**“The true icicle rumor vindicates Natsu in every respect.”** Yoshimi's factual denial is corrected, and Natsu's desired discovery is not imaginary. The",
+            "verbatim_citation_tokens": [
+              "G:L91–105"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    91,
+                    105
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB057",
+            "saved_body_line": 137,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "584f916498c599e6cb2a19174e4ebb1ca0544016dfa98d598435df654c42ec8d",
+            "opening_22_words": "**“Tsurugi's reported happiness settles the exchange as successful.”** Her fun and relaxed appearance are substantial positive evidence, including for colleagues worried about",
+            "verbatim_citation_tokens": [
+              "X:L86,L96,L112–116"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    86,
+                    86
+                  ],
+                  [
+                    96,
+                    96
+                  ],
+                  [
+                    112,
+                    116
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB058",
+            "saved_body_line": 139,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "96c913a9d388dc1dfc0217cabca0fc13962da4b1f6bfb6b4f68c9218ac4f0ea6",
+            "opening_22_words": "**“The members' wrong explanation proves they do not really want Airi.”** They demonstrably mistake her motive and initially perceive different amounts of",
+            "verbatim_citation_tokens": [
+              "A:L168–180,L250–251"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    180
+                  ],
+                  [
+                    250,
+                    251
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB059",
+            "saved_body_line": 141,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "580d7cf745ebb2a79282986cb37f746424a0523cf1daad818c3791f5a00d2ab7",
+            "opening_22_words": "**“Band success cures the ordinary club's deficits.”** Airi likes her present self locally and receives affirmation; the members gain actual practice and",
+            "verbatim_citation_tokens": [
+              "A:L180–210; P:L394,L455,L498–501"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    180,
+                    210
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    394,
+                    394
+                  ],
+                  [
+                    455,
+                    455
+                  ],
+                  [
+                    498,
+                    501
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB060",
+            "saved_body_line": 143,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "91c97595c313120ea23004230f7247ba549ee2af9e0944d007f37912599afe97",
+            "opening_22_words": "**“The institution should solve disagreement by making Airi the leader.”** Founderhood and active coordination provide a serious basis for others' proposal. Her",
+            "verbatim_citation_tokens": [
+              "A:L158,L180,L186"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    158,
+                    158
+                  ],
+                  [
+                    180,
+                    180
+                  ],
+                  [
+                    186,
+                    186
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB061",
+            "saved_body_line": 145,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "4cdc1a504770dfb569f4f2ac39b27167bb27daf5d1f50b7731deede9896c508f",
+            "opening_22_words": "**“An attentive adult is the source of every adequate peer outcome.”** Studio help, searches, consultation and audiences are real. The complete GROUP",
+            "verbatim_citation_tokens": [
+              "G:L101–109,L138; X:L84,L125; A:L166–201"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    101,
+                    109
+                  ],
+                  [
+                    138,
+                    138
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    84,
+                    84
+                  ],
+                  [
+                    125,
+                    125
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    166,
+                    201
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB062",
+            "saved_body_line": 147,
+            "architecture_section": "10. Competing readings",
+            "paragraph_sha256": "130f06e27b7ba2e1e97902816380dba450f7f6e155ee746669e558e2356ff01b",
+            "opening_22_words": "**“Quiet taste and leisure are too slight to support an independent package.”** The queue, planned inactivity, simple midday company, interpretation of gifts",
+            "verbatim_citation_tokens": [
+              "G:L149–155; X:L134–147; P:L489,L529"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    149,
+                    155
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    134,
+                    147
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    489,
+                    489
+                  ],
+                  [
+                    529,
+                    529
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB063",
+            "saved_body_line": 151,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "b109102f3c798267630584164cf0a5a5d4cbc05cbaa97849f793338c30271e99",
+            "opening_22_words": "The finite source route is complete accepted analytical meaning, not a fresh claim to original-source custody. The current six literary/method owners and",
+            "verbatim_citation_tokens": [
+              "G:L153–155; X:L145–147; P:L510–522"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    153,
+                    155
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    145,
+                    147
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    510,
+                    522
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB064",
+            "saved_body_line": 153,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "ab3674d5716159d3c1c82d296ecdefb21231767af8d1cd050ff3c49f9f41c51e",
+            "opening_22_words": "The opening and ending comparisons can be followed through [GROUP2001/2002](bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md), [GROUP1801/1802](bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md), [the complete four-member private checkpoint](bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md), [EVENT816](bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md) and [EVENT836](bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md). These C-only links",
+            "verbatim_citation_tokens": [
+              "G:L53–105; X:L98–116; P:L385–529; A:L152–251"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    53,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    98,
+                    116
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    385,
+                    529
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    152,
+                    251
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB065",
+            "saved_body_line": 155,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "036c6d5be2b4064c98aae3c9da1ea4c93e3e19c595374ddef791cc937e6d0bf8",
+            "opening_22_words": "Every original gap remains OPEN at its actual scope:",
+            "verbatim_citation_tokens": [],
+            "exact_analytical_line_anchors": [],
+            "projection_class": "SCOPE_CUSTODY_GAP_OR_PROGRESS_CONTROL",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB066",
+            "saved_body_line": 172,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "1d39aac47519a1efc6fe9a44d42a5d34d9b8b00326c0c57127f011f45a2f361c",
+            "opening_22_words": "The saved claim/endpoint and source receipts identify complete paragraph joins, actual achieved and unfinished ends, all twelve serious competing readings, exact beforeimages",
+            "verbatim_citation_tokens": [],
+            "exact_analytical_line_anchors": [],
+            "projection_class": "SCOPE_CUSTODY_GAP_OR_PROGRESS_CONTROL",
+            "complete_saved_paragraph_join": true
+          },
+          {
+            "claim_id": "SB067",
+            "saved_body_line": 174,
+            "architecture_section": "11. Evidence route",
+            "paragraph_sha256": "e6a2f7c7ff04a7237e71d20ed0417a50b52f3465d6ff23cd602bfd0abb24ebb6",
+            "opening_22_words": "The resulting account preserves a club that is wanted without being effortless. Conversation may be enough for one member while another wants",
+            "verbatim_citation_tokens": [
+              "G:L61–105; X:L112–116; A:L168–186; P:L394,L489"
+            ],
+            "exact_analytical_line_anchors": [
+              {
+                "source_id": "G",
+                "analytical_line_ranges": [
+                  [
+                    61,
+                    105
+                  ]
+                ]
+              },
+              {
+                "source_id": "X",
+                "analytical_line_ranges": [
+                  [
+                    112,
+                    116
+                  ]
+                ]
+              },
+              {
+                "source_id": "A",
+                "analytical_line_ranges": [
+                  [
+                    168,
+                    186
+                  ]
+                ]
+              },
+              {
+                "source_id": "P",
+                "analytical_line_ranges": [
+                  [
+                    394,
+                    394
+                  ],
+                  [
+                    489,
+                    489
+                  ]
+                ]
+              }
+            ],
+            "projection_class": "ARGUMENT_WITH_EXACT_ANALYTICAL_ANCHORS",
+            "complete_saved_paragraph_join": true
+          }
+        ],
+        "endpoints": [
+          {
+            "endpoint_id": "SBE01",
+            "source_object": "GROUP2001",
+            "source_id": "G",
+            "analytical_locator": "L57–77",
+            "positive_or_achieved": "Wanted pastry and actual talk/snack offer; ignored stop requests; damaged cream puff; laughter/apology; reported charge; narrated return.",
+            "unfinished_or_contrary": "No secure swallowing consent, named pastry shooter, purchase, full shot/injury map or restitution; Natsu apparent oversleep reported only.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE02",
+            "source_object": "GROUP2002",
+            "source_id": "G",
+            "analytical_locator": "L83–105",
+            "positive_or_achieved": "Diverse wanted holiday plans; refused excursion; exposed sadness act; urgent nighttime plea; three friends rescue; real icicles eaten.",
+            "unfinished_or_contrary": "Holiday spoiled and upset stomachs; original refusal retained; no safe-trip certification, clinical cause/treatment/recovery or global disbelief of tears.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE03",
+            "source_object": "GROUP1801",
+            "source_id": "X",
+            "analytical_locator": "L90–96",
+            "positive_or_achieved": "Rescue reported successful; care and administrative work reported; Nagisa video imposes club exchange.",
+            "unfinished_or_contrary": "No full force audit, clinical record, settled compensation or proof planned social lesson succeeds.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE04",
+            "source_object": "GROUP1802 literature/tea",
+            "source_id": "X",
+            "analytical_locator": "L102–108",
+            "positive_or_achieved": "Curious literature recipients; tea praise/aroma pleasure then political-provenance rejection.",
+            "unfinished_or_contrary": "No shown burned tea, total guest rejection of Mashiro or completed later repair.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE05",
+            "source_object": "GROUP1802 Sweets visit",
+            "source_id": "X",
+            "analytical_locator": "L112–116",
+            "positive_or_achieved": "Airi proposes contact, Yoshimi fears, Kazusa offers contrary view; Tsurugi later reports fun/welcome and perceived relaxation.",
+            "unfinished_or_contrary": "No attack on hosts, secure sharing of inward asides, equal host comfort or completed Nagisa cure; Mashiro reciprocal question retained.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE06",
+            "source_object": "Airi16015:002",
+            "source_id": "P",
+            "analytical_locator": "L388",
+            "positive_or_achieved": "Queue apology and willing shared waiting; whole tail values wait/talk.",
+            "unfinished_or_contrary": "Whole one-to-two-hour story and pastry purchase not narrated.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE07",
+            "source_object": "Airi16015:003",
+            "source_id": "P",
+            "analytical_locator": "L391",
+            "positive_or_achieved": "Solved keyboard problem; wanted rain-running; both fall; tail reassurance/no-injury and accepted memory.",
+            "unfinished_or_contrary": "Wanted atmosphere not fully achieved; no medical invulnerability or universally welcome pressure.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE08",
+            "source_object": "Airi16015:005",
+            "source_id": "P",
+            "analytical_locator": "L394",
+            "positive_or_achieved": "Rental ends; familiar club explicitly loved; grief heard; calmer acceptance and privacy-conditioned tail.",
+            "unfinished_or_contrary": "No permanent band or enacted next activity; private disclosure condition retained.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE09",
+            "source_object": "Airi23000:002",
+            "source_id": "P",
+            "analytical_locator": "L397",
+            "positive_or_achieved": "Own cupcake choices and actual shared eating/explanation.",
+            "unfinished_or_contrary": "Work explicitly postponed, no clinical sugar or productivity cure.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE10",
+            "source_object": "Airi23000:003",
+            "source_id": "P",
+            "analytical_locator": "L400",
+            "positive_or_achieved": "Already ordered sweets; preference asked afterward; actual chosen break/eating.",
+            "unfinished_or_contrary": "No inferred prior chocolate preference, permanent adult availability or completed documents.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE11",
+            "source_object": "Airi23000:005",
+            "source_id": "P",
+            "analytical_locator": "L403",
+            "positive_or_achieved": "Genuine consultation, capacity in wanted sweets recognized, bench discussion.",
+            "unfinished_or_contrary": "Peer passivity judgment is her worry; second topic undisclosed; no global cure.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE12",
+            "source_object": "Airi23000:006",
+            "source_id": "P",
+            "analytical_locator": "L406",
+            "positive_or_achieved": "Independent exam-finished walk; incidental meeting; ice cream/rest and enjoyable company until evening.",
+            "unfinished_or_contrary": "No emergency from unanswered messages, formal relationship or prior blanket touch assent.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE13",
+            "source_object": "Kazusa10049:002",
+            "source_id": "P",
+            "analytical_locator": "L416",
+            "positive_or_achieved": "Serious review actually completed, own payment and shared food/return; whole-message thanks.",
+            "unfinished_or_contrary": "Exam confidence not printed pass; percentage self-report.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE14",
+            "source_object": "Kazusa10049:003",
+            "source_id": "P",
+            "analytical_locator": "L419",
+            "positive_or_achieved": "Quiet bus, own quality taste, offered food and chosen longer company; safe-return image reference.",
+            "unfinished_or_contrary": "Pixels/deletion compliance unreceived; quiet preference not erased.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE15",
+            "source_object": "Kazusa10049:005",
+            "source_id": "P",
+            "analytical_locator": "L422",
+            "positive_or_achieved": "Appearance/distance objection, shopping cost, provisional trust and departure.",
+            "unfinished_or_contrary": "No retracted bodily-distance request or enacted memory-erasure assault.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE16",
+            "source_object": "Kazusa10049:006",
+            "source_id": "P",
+            "analytical_locator": "L425",
+            "positive_or_achieved": "Mixed gift/redistribution motive; teacher actually enjoys hot dessert; full angry message tail.",
+            "unfinished_or_contrary": "No Kazusa burn, fulfilled future gift or automatic liking of cat teasing.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE17",
+            "source_object": "Kazusa10091:002",
+            "source_id": "P",
+            "analytical_locator": "L428",
+            "positive_or_achieved": "Private vocal practice then distinct lively karaoke; full attendance/future-invitation tail.",
+            "unfinished_or_contrary": "Original role not self-chosen; no universal attendance obligation or performed acoustic credit.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE18",
+            "source_object": "Kazusa10091:003",
+            "source_id": "P",
+            "analytical_locator": "L431",
+            "positive_or_achieved": "Wanted cake/company; shared-spoon embarrassment, cake safe on plate, eating/departure; tail teacher tasted cake.",
+            "unfinished_or_contrary": "No planned kiss/feeding consent or universal comfortable reception.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE19",
+            "source_object": "Kazusa10091:005",
+            "source_id": "P",
+            "analytical_locator": "L434",
+            "positive_or_achieved": "Competent shop route, local manager label provisionally adopted and final purchase; apology/withdrawn fragment tail.",
+            "unfinished_or_contrary": "No exclusive contract, enacted threat or abandonment of other students.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE20",
+            "source_object": "Kazusa10091:015",
+            "source_id": "P",
+            "analytical_locator": "L439",
+            "positive_or_achieved": "Worker helps play personally commissioned LP; imperfect ensemble and teacher memory heard in story.",
+            "unfinished_or_contrary": "No commercial album, prior recording/distribution permission, secure staff-identity repair or our acoustic inspection.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE21",
+            "source_object": "Yoshimi10092:002",
+            "source_id": "P",
+            "analytical_locator": "L449",
+            "positive_or_achieved": "Own clothing judgment, sincere appraisal, actual payment/packing and grateful whole message.",
+            "unfinished_or_contrary": "Full journey unprinted; stylistic opinion not objective defective peers; no date consent.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE22",
+            "source_object": "Yoshimi10092:003",
+            "source_id": "P",
+            "analytical_locator": "L452",
+            "positive_or_achieved": "Personal autograph corrected from logo inference; genuine request improves mood; bill mistake/staff rebuke; conditional forgiven tail.",
+            "unfinished_or_contrary": "No achieved fame, separately narrated gifted autograph or canceled stop request.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE23",
+            "source_object": "Yoshimi10092:005",
+            "source_id": "P",
+            "analytical_locator": "L455",
+            "positive_or_achieved": "Prepared selected piece completed and praised in narration; agreed encores yield actual exhaustion; whole tail thanks attentive listening.",
+            "unfinished_or_contrary": "No worldwide first career, pressure-free unlimited encore or performed-source credit.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE24",
+            "source_object": "Yoshimi26005:002",
+            "source_id": "P",
+            "analytical_locator": "L458",
+            "positive_or_achieved": "Two-person purchase/card payment, wanted pastry carried away, conditional accepted payment.",
+            "unfinished_or_contrary": "Future repayment unfulfilled; no illegal resale or nutritional finding.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE25",
+            "source_object": "Yoshimi26005:003",
+            "source_id": "P",
+            "analytical_locator": "L461",
+            "positive_or_achieved": "Repayment contest meets adult resistance; fall, embarrassment, remaining macarons eaten; narrated record/free portions.",
+            "unfinished_or_contrary": "Financial success not comfortable feeding; no hospital/clinical cure, twenty adult portions or exact Yoshimi total.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE26",
+            "source_object": "Yoshimi26005:005",
+            "source_id": "P",
+            "analytical_locator": "L464",
+            "positive_or_achieved": "Genuine review completed, work credited and desserts afterward.",
+            "unfinished_or_contrary": "Later exam improvement not printed; flirting does not replace educational purpose.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE27",
+            "source_object": "Yoshimi26005:006",
+            "source_id": "P",
+            "analytical_locator": "L467",
+            "positive_or_achieved": "Recognizes teacher before JTF transfer; drinks repayment, wanted shared gift taste and journey home.",
+            "unfinished_or_contrary": "Future public walk only inward hope; teacher not her toy; robot report not human diagnosis or proven truancy.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE28",
+            "source_object": "Yoshimi26005:015",
+            "source_id": "P",
+            "analytical_locator": "L470",
+            "positive_or_achieved": "Gift audience condition ignored; chase/fall, pastry survives, she takes more than half; teacher loss objection and future replacement promise.",
+            "unfinished_or_contrary": "No replacement actually at EOF; privacy objection and loss retained.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE29",
+            "source_object": "Natsu10029:002",
+            "source_id": "P",
+            "analytical_locator": "L480",
+            "positive_or_achieved": "Handmade cookies gifted; viewing after departure; meaning partly understood and partly not.",
+            "unfinished_or_contrary": "No secure decoding of every decoration, completed consumption or waived viewing condition.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE30",
+            "source_object": "Natsu10029:003",
+            "source_id": "P",
+            "analytical_locator": "L483",
+            "positive_or_achieved": "Different espresso choices, actual affogato/shared eating; brighter departure and if-wanted further contact.",
+            "unfinished_or_contrary": "No universal conflict reconciliation or geopolitical settlement.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE31",
+            "source_object": "Natsu10029:005",
+            "source_id": "P",
+            "analytical_locator": "L486",
+            "positive_or_achieved": "Supported fearful inquiry finds old sweets; photographs prepared but dissemination withheld for preservation.",
+            "unfinished_or_contrary": "No edible-food target, guaranteed legend, property rights or formal/lasting protection; no forced global growth order.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE32",
+            "source_object": "Natsu10029:006",
+            "source_id": "P",
+            "analytical_locator": "L489",
+            "positive_or_achieved": "Wanted pie/milk/weather/company without distress; eating/varied enjoyment and return; tail contact with or without an event.",
+            "unfinished_or_contrary": "No mind-reading/surveillance power or necessary crisis.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE33",
+            "source_object": "Natsu10120:002",
+            "source_id": "P",
+            "analytical_locator": "L492",
+            "positive_or_achieved": "Stress hypothesis denied; icicle/limited-parfait callback; actual wanted tart arrives/tasted.",
+            "unfinished_or_contrary": "No clinical stress diagnosis or new icicle-event source credit.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE34",
+            "source_object": "Natsu10120:003",
+            "source_id": "P",
+            "analytical_locator": "L495",
+            "positive_or_achieved": "Wanted revival film completed; absorption leaves popcorn, gifted to teacher who later eats/finishes work.",
+            "unfinished_or_contrary": "Film plot not her life; no verified drum improvement or generalized sugar efficacy.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE35",
+            "source_object": "Natsu10120:005",
+            "source_id": "P",
+            "analytical_locator": "L498",
+            "positive_or_achieved": "Moving dust removed, practical reconstruction help to end then shared cookies.",
+            "unfinished_or_contrary": "No killed insect, certified sanitation or actual new rehearsal performance; solitude not universally bad.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE36",
+            "source_object": "Natsu10120:006",
+            "source_id": "P",
+            "analytical_locator": "L501",
+            "positive_or_achieved": "Own daily exercise report and nonranking rhythm; adult coffee fails to prevent sleep; she waits/escorts then rushes away.",
+            "unfinished_or_contrary": "No prior shoulder-contact consent, full adult comprehension, completed work or fatigue cure.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE37",
+            "source_object": "EVENT836005–007",
+            "source_id": "A",
+            "analytical_locator": "L166–174",
+            "positive_or_achieved": "Private motive/confidentiality; wrong prize explanation and missing-contact concern; peers reject replacement; Airi found.",
+            "unfinished_or_contrary": "Adult practice intrusions after refusal; imagined hostile words not peer statements; no diagnosis or safe unanimity.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE38",
+            "source_object": "EVENT836008",
+            "source_id": "A",
+            "analytical_locator": "L176–180",
+            "positive_or_achieved": "Actual detention, helpful music/recognition, founder/equality revelation, affirmation and Kazusa apology; Airi likes present self.",
+            "unfinished_or_contrary": "Disclosure against plea; Ichika forecast not pardon/restitution; skill/insecurity not globally cured.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE39",
+            "source_object": "EVENT836009/011",
+            "source_id": "A",
+            "analytical_locator": "L184–186",
+            "positive_or_achieved": "Airi chooses current plan and still refuses presidency; respectful delayed Tsumugi contact.",
+            "unfinished_or_contrary": "010 written-video-only; no freely accepted office or named winning performance from epilogue alone.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE40",
+            "source_object": "EVENT836012/020",
+            "source_id": "A",
+            "analytical_locator": "L188,L201",
+            "positive_or_achieved": "Retrospective combat account and defeat; independent Airi welcome, Reisa acceptance and Kazusa purchased extra ice cream.",
+            "unfinished_or_contrary": "Unnamed012 accuser unjoined; no future-duel consent, formal membership or printed ice-cream consumption.",
+            "new_primary_credit": 0
+          },
+          {
+            "endpoint_id": "SBE41",
+            "source_object": "EVENT836 practice and branch endings",
+            "source_id": "A",
+            "analytical_locator": "L194–210",
+            "positive_or_achieved": "Local practice attention/food proposals, displaced taste/rest; normal selection or hidden successful explanation at distinct branches.",
+            "unfinished_or_contrary": "No fused sequential endings, final mastery, completed prize collection/eating, treatment or signed representation.",
+            "new_primary_credit": 0
+          }
+        ],
+        "serious_competing_readings": [
+          {
+            "saved_body_line": 125,
+            "claim_id": "SB051",
+            "whole_rival_argument": "**“The club's meaning is that food is really only an excuse for friendship.”** Airi's explicit enjoyment of conversation and the peers' wish to keep her make this plausible in some moments. Kazusa's quality preferences, Yoshimi's scarce-food rivalry, Natsu's sweet-history inquiry and the fulfilled taste after a genuine purchase are serious counterevidence. Food and company are separate goods which can support, compete with or substitute locally for one another. Reducing one to a symbolic disguise loses why a spoiled pastry or missed parfait matters. [G:L57–61,L105; P:L397,L419,L458,L486,L492]",
+            "paragraph_sha256": "6f6b52f9a401ef429048430f76a425115cf1674cc086676c5e1b6cb41681ca66"
+          },
+          {
+            "saved_body_line": 127,
+            "claim_id": "SB052",
+            "whole_rival_argument": "**“Airi is the calm center because she has no strong desire.”** Her mediation and worry about blurred opinions support an appearance of accommodation. Her insistence on a particular visit, wanted rain-running, specific flavors, instrumental ambition and private fear of returning to a prior routine contradict absence of desire. The stronger interpretation preserves a person who can explain, insist, apologize, offer and withhold differently across settings. Local hesitation is not a whole-person void. [P:L388–409; A:L168–174]",
+            "paragraph_sha256": "4a8bd65c4bdee23a8e616d06709477655efff3dfb6f20683b4093929dfc4589a"
+          },
+          {
+            "saved_body_line": 129,
+            "claim_id": "SB053",
+            "whole_rival_argument": "**“Friends are close enough that the stop requests need not be literal.”** Familiar teasing, cake, future invitations and gratitude make affection unmistakable. Repeated objections, the damaged cream puff, appearance distress, laughter/apology and tired private recipients make cancellation of their limits unsupported. Close company can include acts that exceed what one participant wants. The literary account gains precision by keeping that conflict rather than deciding that only affection or only harm is real. [G:L65–77; P:L422,L452–455,L470]",
+            "paragraph_sha256": "5657d31ac67437eca871a1b6eadec581575da5d71f5f31d2a383ab97e61ed14c"
+          },
+          {
+            "saved_body_line": 131,
+            "claim_id": "SB054",
+            "whole_rival_argument": "**“Natsu's theatrical tears make the later emergency another manipulation.”** The earlier act really is exposed as an unsuccessful persuasion, and Yoshimi invokes its repetition. The later lost-trip plea and narrated actual rescue have a different witness and endpoint; the icicles really exist and the holiday is actually spoiled. This story supports distinction among particular acts, not the global credibility revocation of a person. Earlier exposure makes careful reception more necessary, not optional. [G:L95–105]",
+            "paragraph_sha256": "5481c6ca34dfc25ca5d64931e628dcf359ac72249ed165f19e027fc6aa1f3bf6"
+          },
+          {
+            "saved_body_line": 133,
+            "claim_id": "SB055",
+            "whole_rival_argument": "**“The rescue proves the friends secretly wanted the trip.”** Their collective departure and participation in eating establish help and a shared afterstate. Their earlier diverse plans and refusals, the urgency of being lost and the spoiled holiday defeat retroactive agreement. One can decline recreation and choose inconvenient aid. The group's local capacity for care therefore does not require a myth that it shares every original want. [G:L83–105]",
+            "paragraph_sha256": "cadeae368cb3067255b218ecf0295a39cfde835504cf8f919c12586d467fc558"
+          },
+          {
+            "saved_body_line": 135,
+            "claim_id": "SB056",
+            "whole_rival_argument": "**“The true icicle rumor vindicates Natsu in every respect.”** Yoshimi's factual denial is corrected, and Natsu's desired discovery is not imaginary. The unshown safety conditions, loss in darkness and adverse shared ending prevent extending that correction to safe planning, reliable sources or owed companionship. The sharper account separates existence, worth, consent and consequences instead of making one factual success resolve every issue. [G:L91–105]",
+            "paragraph_sha256": "0b4850aa8fa27c8ce8f4b44d0d579f2de05d956e24165367d21cb7a87eb9d61f"
+          },
+          {
+            "saved_body_line": 137,
+            "claim_id": "SB057",
+            "whole_rival_argument": "**“Tsurugi's reported happiness settles the exchange as successful.”** Her fun and relaxed appearance are substantial positive evidence, including for colleagues worried about her. The hosts' fear and differentiated attempts, and Mashiro's final question, leave reciprocity unresolved. Their unshared thoughts do not prove she knowingly lied. There can be a real one-sided benefit without either declaring total failure or completing Nagisa's intended social lesson. [X:L86,L96,L112–116]",
+            "paragraph_sha256": "584f916498c599e6cb2a19174e4ebb1ca0544016dfa98d598435df654c42ec8d"
+          },
+          {
+            "saved_body_line": 139,
+            "claim_id": "SB058",
+            "whole_rival_argument": "**“The members' wrong explanation proves they do not really want Airi.”** They demonstrably mistake her motive and initially perceive different amounts of pressure. Their rejection of a technically better substitute, insistence on her presence, practical care and Kazusa's apology are contrary evidence to indifference. Wanted belonging and incomplete knowledge can coexist. Their care does not make the diagnosis correct, and the later beneficial recognition does not repair the forced-disclosure boundary. [A:L168–180,L250–251]",
+            "paragraph_sha256": "96c913a9d388dc1dfc0217cabca0fc13962da4b1f6bfb6b4f68c9218ac4f0ea6"
+          },
+          {
+            "saved_body_line": 141,
+            "claim_id": "SB059",
+            "whole_rival_argument": "**“Band success cures the ordinary club's deficits.”** Airi likes her present self locally and receives affirmation; the members gain actual practice and shared experience. Continued fatigue, recipient objections, refused leadership, rental loss and her explicit love of the ordinary club prevent a total cure or growth ladder. The band's different making question is required precisely because wanting that activity is not the same as replacing food, rest and talk with measurable achievement. [A:L180–210; P:L394,L455,L498–501]",
+            "paragraph_sha256": "580d7cf745ebb2a79282986cb37f746424a0523cf1daad818c3791f5a00d2ab7"
+          },
+          {
+            "saved_body_line": 143,
+            "claim_id": "SB060",
+            "whole_rival_argument": "**“The institution should solve disagreement by making Airi the leader.”** Founderhood and active coordination provide a serious basis for others' proposal. Her equality preference and later continued refusal of presidency are actual counterevidence to the proposed solution being adopted. Informal distribution has limits, but a character's declined title cannot be counted as an enacted reform. Belonging has to retain the participant's wanted role rather than award an office as proof she has matured. [A:L158,L180,L186]",
+            "paragraph_sha256": "91c97595c313120ea23004230f7247ba549ee2af9e0944d007f37912599afe97"
+          },
+          {
+            "saved_body_line": 145,
+            "claim_id": "SB061",
+            "whole_rival_argument": "**“An attentive adult is the source of every adequate peer outcome.”** Studio help, searches, consultation and audiences are real. The complete GROUP arguments contain no Sensei; Airi's initiating rescue, peers' refusals and independent guest perspectives stand without him. In the event, adult intrusion and disclosure are themselves adverse acts. Distributed student initiative, adult support and imperfect reception explain the record more fully than a master-plan or rescue monopoly. [G:L101–109,L138; X:L84,L125; A:L166–201]",
+            "paragraph_sha256": "4cdc1a504770dfb569f4f2ac39b27167bb27daf5d1f50b7731deede9896c508f"
+          },
+          {
+            "saved_body_line": 147,
+            "claim_id": "SB062",
+            "whole_rival_argument": "**“Quiet taste and leisure are too slight to support an independent package.”** The queue, planned inactivity, simple midday company, interpretation of gifts and unfinished rental ending determine what members ask of each other and what the club is for. Removing dramatic danger would leave those goods and differences analytically consequential. This existing ensemble home is justified by its distinct question of shared place with unequal wants and knowledge, rather than by source counts, popularity, crisis severity or reconstruction grade. [G:L149–155; X:L134–147; P:L489,L529]",
+            "paragraph_sha256": "130f06e27b7ba2e1e97902816380dba450f7f6e155ee746669e558e2356ff01b"
+          }
+        ],
+        "all_original_fourteen_OPEN": [
+          {
+            "id": "G01",
+            "literal_name": "Ordinary and private breadth",
+            "state": "OPEN",
+            "saved_body_line": 157,
+            "claim_specific_effect": "this received club repertoire is substantial but does not complete every private relation, taste or ordinary variation in the full cast."
+          },
+          {
+            "id": "G02",
+            "literal_name": "Yuuka council/club decision transfer",
+            "state": "OPEN",
+            "saved_body_line": 158,
+            "claim_specific_effect": "informal Sweets parity cannot validate Seminar's budget, recipient or authority decisions."
+          },
+          {
+            "id": "G03",
+            "literal_name": "Serika service, peer and reciprocity range",
+            "state": "OPEN",
+            "saved_body_line": 159,
+            "claim_specific_effect": "group dessert and rescue reciprocity supply a comparison, not completion of Serika's service repertoire."
+          },
+          {
+            "id": "G04",
+            "literal_name": "Hina crisis causality, accountability and ordinary contrast",
+            "state": "OPEN",
+            "saved_body_line": 160,
+            "claim_specific_effect": "no transfer from these local emergencies to Hina's force, liability, injury or wanted life is warranted."
+          },
+          {
+            "id": "G05",
+            "literal_name": "Arius and PS68 ordinary/aftermath transfer",
+            "state": "OPEN",
+            "saved_body_line": 161,
+            "claim_specific_effect": "lively peer play and help do not settle those groups' distinct ordinary, coercive or aftermath responsibilities."
+          },
+          {
+            "id": "G06",
+            "literal_name": "Cross-school ordinary repertoire",
+            "state": "OPEN",
+            "saved_body_line": 162,
+            "claim_specific_effect": "Justice guest experience broadens a located comparison; it does not generalize hosts' fear or visitors' pleasure to all schools."
+          },
+          {
+            "id": "G07",
+            "literal_name": "Story-world chronology",
+            "state": "OPEN",
+            "saved_body_line": 163,
+            "claim_specific_effect": "local waiting, same-day/night, tomorrow/next-day, practice countdown and the icicle callback do not place all private, event and MAIN contexts on one calendar."
+          },
+          {
+            "id": "G08",
+            "literal_name": "Event naming and repeat contexts",
+            "state": "OPEN",
+            "saved_body_line": 164,
+            "claim_specific_effect": "IDs and 836/10836/900836 or 816/10816/900816 triggers are documentary associations, not new historical visits or performances."
+          },
+          {
+            "id": "G09",
+            "literal_name": "Written speaker/choice attribution",
+            "state": "OPEN",
+            "saved_body_line": 165,
+            "claim_specific_effect": "feeding replies, host asides, actor-label seams and individual-versus-collective affirmation remain qualified; no silent repaired identity or secure consent is manufactured."
+          },
+          {
+            "id": "G10",
+            "literal_name": "Performed voice",
+            "state": "OPEN",
+            "saved_body_line": 166,
+            "claim_specific_effect": "written laughter, lyrics, teacher reports and video markers are not audio, movement, acting or measured vocal evidence."
+          },
+          {
+            "id": "G11",
+            "literal_name": "Hoshino's Yume record and office states",
+            "state": "OPEN",
+            "saved_body_line": 167,
+            "claim_specific_effect": "nothing here resolves that historical record or office continuity."
+          },
+          {
+            "id": "G12",
+            "literal_name": "Counterpart, system and variant identity",
+            "state": "OPEN",
+            "saved_body_line": 168,
+            "claim_specific_effect": "Natsu's communication channel is not a second person; role letters, unnamed accusers and costume associations cannot establish wider identity joins."
+          },
+          {
+            "id": "G13",
+            "literal_name": "Office, contract, safety and technical outcomes",
+            "state": "OPEN",
+            "saved_body_line": 169,
+            "claim_specific_effect": "queue shot allocation, clinical cause/recovery, disciplinary settlement, restitution, permanent club policy, distribution permission and prize collection remain limited to actual printed outcomes."
+          },
+          {
+            "id": "G14",
+            "literal_name": "Unclassified/mode continuity",
+            "state": "OPEN",
+            "saved_body_line": 170,
+            "claim_specific_effect": "profiles, repeated UI passages, MomoTalk tails, reader-accessible thoughts and alternative event endings retain their source modes; unreceived continuity is not inferred."
+          }
+        ],
+        "mandatory_actor_precision": "GROUP2001 ignored repeated imitation belongs to Yoshimi; Natsu absent/mention-only. Exact operative Kazusa one-clause omission remains applied in comparisons, immutable original body unchanged. Local students, unshared host thoughts and event blank actors retain scope.",
+        "overlap_controls": [
+          "Kind remains ENSEMBLE; do not manufacture an Airi–Natsu or Kazusa–Natsu directed home.",
+          "GROUP2001 ignored imitation is Yoshimi; Natsu is absent/mention-only. The mandatory Kazusa omission erratum stays operative.",
+          "Different four-member reactions and outside recipients cannot become a uniform friendship proof.",
+          "The band’s specific making, skill, parity and memory question remains a separate existing ensemble."
+        ],
+        "projection_limit": "CONTROL paragraphs without analytical anchors are actual saved custody/gap/progress declarations, not new empirical claims. Full endpoints include all31 personally complete paired normal bond/MomoTalk meanings as repertoire; they are not31 new original-source credits or independent observations.",
+        "new_credit": 0
+      }
+    },
+    {
+      "name": "SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+        "bytes": 1598,
+        "sha256": "28946ed34be8d33f2d90610e25ef6c48e80d1472bb8e4dd9db3c2c323bd981e9",
+        "git_blob_oid_of_actual_bytes": "106aa26fb80b1baa2ded7a26418af94620098a74",
+        "lines": 44,
+        "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1",
+        "status": "SAVED_CANDIDATE_AUTHOR_NEW_RECEIPT_FIELDS_RECEIVING_PENDING",
+        "required_home": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+        "outputs": [
+          {
+            "file": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+            "byte_count": 45851,
+            "line_count": 174,
+            "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+            "actual_byte_blob_oid": "e75eded0103680ed40957717b645c9fb1e6b35b8"
+          },
+          {
+            "file": "SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+            "byte_count": 27724,
+            "line_count": 432,
+            "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+            "actual_byte_blob_oid": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf"
+          },
+          {
+            "file": "SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+            "byte_count": 102615,
+            "line_count": 2875,
+            "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+            "actual_byte_blob_oid": "039d893cac726853de7e9717222f9ab1512324c7"
+          }
+        ],
+        "body_actual_whole_readback": [
+          "723b4c[0,18000)",
+          "506ce8[18000,36000)",
+          "dc5966[36000,45555 EOF)"
+        ],
+        "architecture_sections": 11,
+        "paragraph_joins": 67,
+        "endpoints": 41,
+        "serious_rivals": 12,
+        "literal_OPEN_gaps": 14,
+        "links": 6,
+        "ROOT_acceptance": "PENDING",
+        "canonical_adoption": "PENDING",
+        "encoding": "UTF8/LF/noBOM/onefinalLF/allfiles<1MiB",
+        "completion_credit": 0,
+        "unbound_large": "UNOPENED_UNREAD_UNHASHED"
+      }
+    },
+    {
+      "name": "SWEETS_BELONGING_CURRENT_INPUT_BINDINGS_WORKING.json",
+      "original_exact_tuple": {
+        "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_CURRENT_INPUT_BINDINGS_WORKING.json",
+        "bytes": 9450,
+        "sha256": "3dc78ea97825177188e5dd2c08f2afcce787782e15a31161949fa3645afaee0a",
+        "git_blob_oid_of_actual_bytes": "bfaf1572bfcb03d987ca54729c333d1454e77550",
+        "lines": 151,
+        "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_CURRENT_INPUT_BINDINGS_WORKING.json"
+      },
+      "complete_original_payload": {
+        "schema": "WORKING_CURRENT_EXACT_SMALL_ANALYTICAL_BINDINGS",
+        "source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "inputs": [
+          {
+            "source_id": "A01",
+            "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "byte_count": 52261,
+            "line_count": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": false
+            },
+            "qualified_prior_author_receiving": "Architecture1.12 required11 section meanings personally received previously fb4f2f L322–344; unchanged1.12, no full851line fresh claim Reused unchanged at declared prior scope; no fresh whole control or literary credit from metadata. Current cf2 binding is separately verified below.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md"
+          },
+          {
+            "source_id": "P",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "byte_count": 91424,
+            "line_count": 658,
+            "sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+            "actual_byte_blob_oid": "23d83092ace078b08b923691630d1f53554475f3",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "23d83092ace078b08b923691630d1f53554475f3",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": true
+            },
+            "qualified_prior_author_receiving": "Personally adequate prior whole Sweets77 current normal private meanings351–658EOF b1de64/4bf4ee/05ae88/431567/3cb685 with465–467 recovery460–475. Current wrapper351–353 received6a3c93/db83bb. Fresh complete Kazusa eight bond+eight wholeMM+four written normal meanings413–444 in untruncated046e00413–456; further firstYoshimi448–455 not completeYoshimi custody. Adequate earlier written context/control520–6587f8304/683d2a reused. No fresh658-linewhole/77 primary/20 originalproducerbody/native/performed credit.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "source_id": "K",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+            "byte_count": 29090,
+            "line_count": 180,
+            "sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+            "actual_byte_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": true
+            },
+            "qualified_prior_author_receiving": "Personally adequate complete current EVENT816 normal180-line argument priorReisa d53fe71–95/fba4ec96–180EOF; earlierbc33bd/b8a5e5. Freshcomplete current95–180d4031dEOF and38–830f7174. Complete selected literary meaning/endings reused; five new precise individual arguments listed separately where consequential. No fresh17 primary/allindividual producerbodies/native credit.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "source_id": "A",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+            "byte_count": 53227,
+            "line_count": 306,
+            "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+            "actual_byte_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": true
+            },
+            "qualified_prior_author_receiving": "Personally adequate complete current306-line normal EVENT836 and all47 selected meanings/endings in priorReisa7fd155/1e8428/5780a4/e2910c. Fresh substantive146–215e5d611+216–3068b055f with clipped302–306 fully recovered9d24d7; current68–747c1c2c/75–145c3f0c9. Kazusa role reluctance/apology/turnsharing/food/normal-or-hidden endings retained. No fresh47primary/video/performed/bodyindependence.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md"
+          },
+          {
+            "source_id": "CONTROL_CSV",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "byte_count": 93949,
+            "line_count": 356,
+            "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+            "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": false,
+              "same_bytes": false
+            },
+            "qualified_prior_author_receiving": "exact scope controls only",
+            "new_primary_raw_native_performed_model_independent_credit": 0
+          },
+          {
+            "source_id": "CONTROL_JSON",
+            "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "byte_count": 461112,
+            "line_count": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+            "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": false,
+              "same_bytes": false
+            },
+            "qualified_prior_author_receiving": "exact scope controls only",
+            "new_primary_raw_native_performed_model_independent_credit": 0
+          },
+          {
+            "source_id": "G",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+            "byte_count": 24556,
+            "line_count": 155,
+            "sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+            "actual_byte_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": true
+            },
+            "qualified_prior_author_receiving": "Personally prior whole d0aaea/6eefe5 plus fresh complete155-line current argument afe909 through EOF, both GROUP meanings/all local rosters/actor seams/endings. No fresh2 primary/raw/native; rescue, eating and stomach upset actual at narrator scope, injuries/medical recovery not inferred.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md"
+          },
+          {
+            "source_id": "X",
+            "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+            "byte_count": 22699,
+            "line_count": 147,
+            "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+            "actual_byte_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+            "current_source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+            "current_HEAD_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04",
+            "current_bytes_equal_HEAD": true,
+            "main2e_comparison": {
+              "present": true,
+              "same_bytes": true
+            },
+            "qualified_prior_author_receiving": "Personally prior whole3ae5ee/0c5067 plus fresh complete147-line current argument d2e971 through EOF. Airi is1802 guest, not1801 actor/JTF membership. Actual Tsurugi self-reported pleasure remains distinct from hosts matching comfort. No fresh2 original-primary/control credit.",
+            "new_primary_raw_native_performed_model_independent_credit": 0,
+            "C_bound_copy_relative_path": "bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md"
+          }
+        ],
+        "credit_added": 0,
+        "large_unbound": "UNOPENED_UNREAD_UNHASHED"
+      }
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDED_LITERARY_ARGUMENT_ROOT_RECEIVING_PENDING",
+    "required_home": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+    "kind": "ENSEMBLE",
+    "source_responsibility_refs": [
+      "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE"
+    ],
+    "source_HEAD": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+    "analytical_main": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "outputs": [
+      {
+        "file": "BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+        "byte_count": 45851,
+        "line_count": 174,
+        "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+        "actual_byte_blob_oid": "e75eded0103680ed40957717b645c9fb1e6b35b8"
+      },
+      {
+        "file": "SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 27724,
+        "line_count": 432,
+        "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+        "actual_byte_blob_oid": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf"
+      },
+      {
+        "file": "SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 102615,
+        "line_count": 2875,
+        "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+        "actual_byte_blob_oid": "039d893cac726853de7e9717222f9ab1512324c7"
+      },
+      {
+        "file": "SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1598,
+        "line_count": 44,
+        "sha256": "28946ed34be8d33f2d90610e25ef6c48e80d1472bb8e4dd9db3c2c323bd981e9",
+        "actual_byte_blob_oid": "106aa26fb80b1baa2ded7a26418af94620098a74"
+      }
+    ],
+    "actual_body_whole_receiving": [
+      "723b4c[0,18000)",
+      "506ce8[18000,36000)",
+      "dc5966[36000,45555 EOF)"
+    ],
+    "actual_receipt_complete_field_receiving": {
+      "source": [
+        "a3d2a4[0,15000) unaffected fields",
+        "a57674 final P receiving/negative-credit correction",
+        "776c74[14900,24611 EOF) remaining source fields",
+        "670ecd complete final corrected custody and changed source/saved bindings"
+      ],
+      "claim": [
+        "883522[0,15000)",
+        "2f9ac9[15000,30000)",
+        "610a02[30000,45000)",
+        "b522fc[45000,60000)",
+        "c7de5e[60000,74189 EOF)"
+      ],
+      "saved": "776c74 whole44-line saved receipt plus final binding-only successor670ecd"
+    },
+    "receiving_qualification": "All final meaningful source fields received, including every pre-freeze changed field, with source-prefix/remaining-stream overlap and complete final custody recovery. Claim/register every field actually emitted through EOF in five continuous complete compact JSON spans. No copied/hash-reading credit. Saved pending-field status superseded only by this authorfreeze; ROOT acceptance remains pending.",
+    "finite_exact_checks": {
+      "result": "PASS",
+      "R_inputs": 8,
+      "literary_method_owners": 6,
+      "scope_controls": 2,
+      "C_inputs": 7,
+      "saved_payloads": 4,
+      "paragraph_joins": 67,
+      "endpoints": 41,
+      "whole_rivals": 12,
+      "sections": 11,
+      "links": 6,
+      "literal_OPEN_gap_effects": 14,
+      "existing_home_beforeimages": 2,
+      "prior_frozen": 31
+    },
+    "exact_R_inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+      },
+      {
+        "source_id": "P",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 91424,
+        "line_count": 658,
+        "sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+        "actual_byte_blob_oid": "23d83092ace078b08b923691630d1f53554475f3"
+      },
+      {
+        "source_id": "K",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 29090,
+        "line_count": 180,
+        "sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+        "actual_byte_blob_oid": "3905b8d17b9fb33db30485c3525fe20451af51e5"
+      },
+      {
+        "source_id": "A",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 53227,
+        "line_count": 306,
+        "sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+        "actual_byte_blob_oid": "d751bb3102093e6afaff1c875126b0378b41a537"
+      },
+      {
+        "source_id": "CONTROL_CSV",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "byte_count": 93949,
+        "line_count": 356,
+        "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+        "actual_byte_blob_oid": "640cb3980ccd79999522a8776d108601bbf6a9e8"
+      },
+      {
+        "source_id": "CONTROL_JSON",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+      },
+      {
+        "source_id": "G",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+        "byte_count": 24556,
+        "line_count": 155,
+        "sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+        "actual_byte_blob_oid": "28600496162774eda305a257172adeb4ab13ee4d"
+      },
+      {
+        "source_id": "X",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+        "byte_count": 22699,
+        "line_count": 147,
+        "sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+        "actual_byte_blob_oid": "780341574297f23b2255a225fe7ad6ad20babd04"
+      }
+    ],
+    "exact_C_inputs": [
+      {
+        "file": "ROOT_SWEETS_FOUR_EXISTING_HOME_ALLOCATION_V1.json",
+        "byte_count": 7448,
+        "line_count": 103,
+        "sha256": "097b09d5be74cd9315e88e37b965399437a00b98ecdeb101a1e39059418666c5",
+        "actual_byte_blob_oid": "fb3dbcbf591a8b02b46631853789cc6610560f58"
+      },
+      {
+        "file": "SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5"
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 39972,
+        "line_count": 755,
+        "sha256": "a2aa82ec893e19aace39a04e90661bbbede5ae940e307165b1c3575b16109e7b",
+        "actual_byte_blob_oid": "eb0546f9899891a091c5f88d02153a52665a8f7d"
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8"
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 50221,
+        "line_count": 947,
+        "sha256": "447065d703b667f1e09ccc6d92527c5da82315b1dd9df08d77f2b501ab7b53fa",
+        "actual_byte_blob_oid": "589fb7f2be90a37519d5ba68e3dbe2b1827ff09a"
+      },
+      {
+        "file": "SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 51280,
+        "line_count": 936,
+        "sha256": "eb2eeb33c02be18a52770a7635f91dc1a4c16c907be37dedf5ab953fdb29795b",
+        "actual_byte_blob_oid": "9f1c2dcb4e497c415d9aa6678ed34914668f3ee3"
+      },
+      {
+        "file": "ROOT_KAZUSA_NATSU_IMITATION_CLAUSE_OPERATIVE_QUALIFICATION_V1.json",
+        "byte_count": 4931,
+        "line_count": 35,
+        "sha256": "6fff734136db228cf01f9679c33b366493f3d98dbc7b39bc9bfff32ddc24c580",
+        "actual_byte_blob_oid": "71510766a6db60388ddab030d2d928a60f10e2f7"
+      }
+    ],
+    "preserved_prior_frozen": [
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6754,
+        "line_count": 171,
+        "sha256": "fa5361a98b543319dc085848ea983f6c5b610aa6e12b727df5f6a6d9cbb0f13b",
+        "actual_byte_blob_oid": "c36dc5aa34dead6ea2500d17b402d7c15ebbbfaa"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 75781,
+        "line_count": 1215,
+        "sha256": "cc1c06457383c1cf34ee979b5a8cdfccbe351bad8925faa845e46f80e7669150",
+        "actual_byte_blob_oid": "2167c22e64d0ca6e14403290ed64805a9ccaac3e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1857,
+        "line_count": 43,
+        "sha256": "cf3e2042154641c8cad9b141136d685571b3e28b65835e1242210b5e975133c9",
+        "actual_byte_blob_oid": "cb6c66ea179f7924776b3e91af2d780ee61a2990"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/AIRI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 39972,
+        "line_count": 755,
+        "sha256": "a2aa82ec893e19aace39a04e90661bbbede5ae940e307165b1c3575b16109e7b",
+        "actual_byte_blob_oid": "eb0546f9899891a091c5f88d02153a52665a8f7d"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_AIRI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 55201,
+        "line_count": 157,
+        "sha256": "a22c87022c496d3389f516f7fc3492a2775cad10608d5734c5851dc38e61fc15",
+        "actual_byte_blob_oid": "68831d852cf6ca96c59e690c54a13f34bdf1782e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_KAZUSA_CHARACTER_MONOGRAPH.md",
+        "byte_count": 60013,
+        "line_count": 153,
+        "sha256": "e27e6ea27aea5f07b90b4839aa20378473b14bbf66dd1998292d525a9d388394",
+        "actual_byte_blob_oid": "3c45b0ef7874900321c9a49a36ca0413f7a62ece"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6542,
+        "line_count": 160,
+        "sha256": "6d9529f6e3e749d0580992ef3301aada4e44d185f349c6bee7b9e5fc37ee3dcd",
+        "actual_byte_blob_oid": "24c688ed867e27a709837173d41ff20efac843ed"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 81768,
+        "line_count": 1298,
+        "sha256": "2d7f862d960ca33459b7833256e75ab7d31f31a2c4ce26675c1a8b54c8b76f41",
+        "actual_byte_blob_oid": "86dc1fee9c5308a7af139d60c8f4e9ff13e54ede"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1898,
+        "line_count": 44,
+        "sha256": "d402d0ee6e9b8a10307b438100e73d2f5fb8522de963c0db2848e733ce958845",
+        "actual_byte_blob_oid": "9764e9567caa8561ca2ef48228cea0200ce07ef7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 48717,
+        "line_count": 928,
+        "sha256": "ed9240d1b619ffaa29ccd02f6fc0f71ba944228f7d0b2efb88b955ff642dbf87",
+        "actual_byte_blob_oid": "8b8e5181c1d674f2e6758dffdaba376788ff9eb8"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_NATSU_CHARACTER_MONOGRAPH.md",
+        "byte_count": 55968,
+        "line_count": 151,
+        "sha256": "204e03dae7fbba7499f18605a885c10d73abac1ffc5e42be0d2332dffa745279",
+        "actual_byte_blob_oid": "af27afd34331ed39319a7fdca6df9eca77ca48fb"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 6852,
+        "line_count": 155,
+        "sha256": "5be570b613e4723a062095c0f3eef4204c836faeecb9ba267d53d516f7d4f3eb",
+        "actual_byte_blob_oid": "ebe74706cd388cd0daaf339e753435a2c6bc1f77"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 73904,
+        "line_count": 1187,
+        "sha256": "780dd0b70b1d2e732129886fabf4f2475493189914958df1cdbd92831b767b6d",
+        "actual_byte_blob_oid": "140aacdd9c8e02faddd3445a1cd8e23f49e47d46"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1878,
+        "line_count": 44,
+        "sha256": "f7c911f9bd6c642d3fd7b07e0dbce43a61b62cb2c90a08cc6c0218a9d642d058",
+        "actual_byte_blob_oid": "9594ec4beadf6b34bde799583db740a17bb83123"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/NATSU_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 50221,
+        "line_count": 947,
+        "sha256": "447065d703b667f1e09ccc6d92527c5da82315b1dd9df08d77f2b501ab7b53fa",
+        "actual_byte_blob_oid": "589fb7f2be90a37519d5ba68e3dbe2b1827ff09a"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/BLUE_ARCHIVE_YOSHIMI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58168,
+        "line_count": 163,
+        "sha256": "813e283ef060249ef552d6e2f3c556df143db4d257a3f9eb1cca0654aafa1799",
+        "actual_byte_blob_oid": "7abf465483473ca93f603dab0ae60c562345cece"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 51280,
+        "line_count": 936,
+        "sha256": "eb2eeb33c02be18a52770a7635f91dc1a4c16c907be37dedf5ab953fdb29795b",
+        "actual_byte_blob_oid": "9f1c2dcb4e497c415d9aa6678ed34914668f3ee3"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 75517,
+        "line_count": 1198,
+        "sha256": "d705639e705709530e6b58c9f3c06c5c73f941f6038f481e9b1801107c9c53ae",
+        "actual_byte_blob_oid": "ee372cf0cf3d1562b8abc6b701c3ed509146cce6"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1897,
+        "line_count": 44,
+        "sha256": "f2b2a44e57af817f30d00f8b015bc8eed76266dbf3697afdd43628e2c29014e8",
+        "actual_byte_blob_oid": "6e485ad52e44eb597383849eadca2218ee5e437f"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/YOSHIMI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 7360,
+        "line_count": 155,
+        "sha256": "7e798d5f93969a7e3e05ed1c6c72a564e5755776dfaa3e6c9a91040df99f6155",
+        "actual_byte_blob_oid": "48dcc226f9a39dae6737c083b2e76a05847514de"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_CLUB_MONOGRAPHS/KAZUSA_NATSU_IMITATION_CLAUSE_NARROW_AUTHOR_ERRATUM_V1.json",
+        "byte_count": 5226,
+        "line_count": 41,
+        "sha256": "8c6ee7735781cab263fa46d12b7f9183f96fefa37a1dbbe6fd8426003b4eb9de",
+        "actual_byte_blob_oid": "1e2e76d306c74f70e7adfe5d3d6b92c616410bb5"
+      },
+      {
+        "path": "PHASE3_START_20261009/ROOT_KAZUSA_NATSU_IMITATION_CLAUSE_OPERATIVE_QUALIFICATION_V1.json",
+        "byte_count": 4931,
+        "line_count": 35,
+        "sha256": "6fff734136db228cf01f9679c33b366493f3d98dbc7b39bc9bfff32ddc24c580",
+        "actual_byte_blob_oid": "71510766a6db60388ddab030d2d928a60f10e2f7"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_SCOPE_AND_PRIORITY_PROPOSAL_V1.md",
+        "byte_count": 8622,
+        "line_count": 73,
+        "sha256": "0b6f3c8df1e6c3d5a610f36996947ee200d34c259eeba9d66d46de34ec4b81be",
+        "actual_byte_blob_oid": "6e46035d5eca62484d8015d009fa2d63a251e8d6"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_EXACT_EXISTING_HOME_PROPOSAL_V1.json",
+        "byte_count": 48004,
+        "line_count": 709,
+        "sha256": "0578f1331b8660033c0882d1daebe5479315d691ab66642d22de328f66a806a4",
+        "actual_byte_blob_oid": "c0d537b11a3a3f0069267b69f52f840ea7be50d5"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_PROPOSAL_EXACT_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 3567,
+        "line_count": 74,
+        "sha256": "b8fb4a4af7251b2ae767113c30ac8d50411bba92bf2b474df16e4a3b88cb84f3",
+        "actual_byte_blob_oid": "c6db6b6460ee8ecba0314e603d7a2fb0cdae0fd4"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_RELATIONSHIP_SCOPE_PROPOSAL_V1/SWEETS_RELATIONSHIP_PROPOSAL_AUTHOR_COMPLETE_RECEIVING_AND_FREEZE_V1.json",
+        "byte_count": 11477,
+        "line_count": 245,
+        "sha256": "cf89530e6e09971224c99823b2c7d46057c2c66fecd6d3d7829cf8513bdc09d7",
+        "actual_byte_blob_oid": "9997a530ef1392585156797212c36df2fa8984c5"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/BLUE_ARCHIVE_KAZUSA_REISA_RELATIONSHIP_SYNTHESIS.md",
+        "byte_count": 45862,
+        "line_count": 187,
+        "sha256": "fad7b7ec91c38cdd3e5ddb92e7daf759215567f081581dda4ffa98fdc9c7ed72",
+        "actual_byte_blob_oid": "258a4ff04a77d0066133b3859361c7b10bda802e"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+        "byte_count": 36101,
+        "line_count": 561,
+        "sha256": "5548e7964a47305623256c6ffab6ef31c22cf915136cbb5ba506c75483d27c37",
+        "actual_byte_blob_oid": "b661d748592899affe01b4be8a103179f3144f02"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+        "byte_count": 89539,
+        "line_count": 2637,
+        "sha256": "5f304d2af802011eed3316624affda911345f76fb70cc620f64ca78ef4058480",
+        "actual_byte_blob_oid": "22509d08cef0f1471c7b3d6bf4406986b979e447"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_SAVED_OUTPUT_RECEIPT_V1.json",
+        "byte_count": 1746,
+        "line_count": 44,
+        "sha256": "5520fd80531bc8ee432c39ca2aa17b4ab065a6837a6ce42d041797b97a2ef3fe",
+        "actual_byte_blob_oid": "31cbda19cb9fd791abc60eece58673b23d6ebda1"
+      },
+      {
+        "path": "PHASE3_START_20261009/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/KAZUSA_REISA/KAZUSA_REISA_RELATIONSHIP_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+        "byte_count": 21890,
+        "line_count": 452,
+        "sha256": "3eadbbd2ec8e611652b4649b09862d5b486678f068ad1c03cbc1a27139580ca9",
+        "actual_byte_blob_oid": "b4628c50dc74309ed6c3b8816877c19bb724bf69"
+      }
+    ],
+    "semantic_review": {
+      "thesis": "A wanted shared place does not require identical wants or complete knowledge; differences are real resources and costs.",
+      "positive": "Talk, taste, chosen rest, actual rescue, reciprocal practice attention, independent hospitality and wanting Airi rather than a technical replacement.",
+      "contrary": "Ignored imitation, damaged food, spoiled holiday, host unease, false motive diagnosis, forced disclosure and unprinted discipline/clinical/permission outcomes.",
+      "recipient_scope": "Airi/Kazusa/Yoshimi/Natsu differentiated; Tsurugi report and host apprehension separately real; Mashiro/literature/tea guests independently received; no Sensei in GROUP.",
+      "overlap": "Temporary band making/skill/memory and Kazusa–Reisa relation retain separate existing required homes; no added pair/home/count.",
+      "actor_precision": "GROUP2001 ignored repeated imitation belongs to Yoshimi; Natsu absent/mention-only. Exact operative Kazusa one-clause omission remains applied in comparisons, immutable original body unchanged. Local students, unshared host thoughts and event blank actors retain scope.",
+      "pre_freeze_count_precision": "The negative fresh-credit wording originally said17 written objects; exact selected-source IDs in the current private owner establish31 BOND/31 MomoTalk/15 character-data objects. Corrected to15 before freeze; no claimed new receiving/source credit, literary body or original earlier frozen file changes. Metadata-only calculation069494 is not new narrative receiving."
+    },
+    "later_ROOT_notification": "Kazusa–Reisa independently ROOT accepted84 while this ensemble was prepared. Its immutable five files remain exact preserved; no transfer of ROOT acceptance to belonging.",
+    "control_paragraphs": "SB065 all-gap declaration and SB066 saved/acceptance/publication controls supported by exact source/saved fields and ROOT four-home allocation, not independent new empirical assertions.",
+    "scope_355_29": "UNCHANGED; no quarter or home/denominator action",
+    "ROOT_acceptance": "PENDING",
+    "canonical_adoption": "PENDING",
+    "source_primary_raw_native_performed_model_independence_or_completion_credit": 0,
+    "unbound_large": "All9 UNBOUND large files UNOPENED_UNREAD_UNHASHED",
+    "actions": "Only new C-only outputs; no R/Git/provider/global writes; all prior frozen witnesses unchanged",
+    "authorfreeze_receiving": "Whole saved authorfreeze must actually be received after creation; no self-hash or automatic self-certification."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+    "bytes": 21825,
+    "sha256": "d4ac2a10eb49fdec7ea40f4a7f54d0e1898f25e7202b06aa4e9a93b6a1e64d82",
+    "git_blob_oid_of_actual_bytes": "d85ff6dc5db6134c33614b2ed62353ca8dd509b7",
+    "lines": 433,
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+  },
+  "all_exact_frozen_transports": [
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+      "bytes": 45851,
+      "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+      "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+      "lines": 174,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 27724,
+      "sha256": "63022435553ad2e310565c13742c4d962f27278ecd3e4a4b16484b774e7a312c",
+      "git_blob_oid_of_actual_bytes": "679f1a0ff9058b3138b9bb80a7f1166b91801ddf",
+      "lines": 432,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 102615,
+      "sha256": "fe30400607774d7ec84455bbb7b5e25eee8b320ec501a495f5bf4d8eba212400",
+      "git_blob_oid_of_actual_bytes": "039d893cac726853de7e9717222f9ab1512324c7",
+      "lines": 2875,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 1598,
+      "sha256": "28946ed34be8d33f2d90610e25ef6c48e80d1472bb8e4dd9db3c2c323bd981e9",
+      "git_blob_oid_of_actual_bytes": "106aa26fb80b1baa2ded7a26418af94620098a74",
+      "lines": 44,
+      "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/SWEETS_BELONGING_ENSEMBLE_SAVED_OUTPUT_RECEIPT_V1.json"
+    }
+  ],
+  "original_author_body_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+    "bytes": 45851,
+    "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+    "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+    "lines": 174,
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+  },
+  "operative_ROOTaccepted_body_tuple": {
+    "path": "SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md",
+    "bytes": 45851,
+    "sha256": "eb9785a2b58a978d7e6b58c4c7d2ce312464ac7e361dc265a77143a9c81c0959",
+    "git_blob_oid_of_actual_bytes": "e75eded0103680ed40957717b645c9fb1e6b35b8",
+    "lines": 174,
+    "immutable_transport_path": "immutable_originals/SWEETS_DIRECTED_AND_ENSEMBLE_MONOGRAPHS/SWEETS_BELONGING/BLUE_ARCHIVE_SWEETS_BELONGING_ENSEMBLE_SYNTHESIS.md"
+  },
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [
+    {
+      "candidate_relative_href": "bound_source_inputs/A01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "canonical_relative_href": "../../00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/P_BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/BOND/BLUE_ARCHIVE_AIRI_KAZUSA_YOSHIMI_NATSU_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "10fd498526cc67fe49e5567fdcb856392a0fe0fadd212557647efb2db8e73faa",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/K_BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "da051efeb6be56edf1a979c9941b56a117254ed06f1a608c142f702b53888e6d",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/A_BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "canonical_relative_href": "../../02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_sha256": "221e1398809a988693956548309259d18da8014cdbf69bcd8aac86b49cf30550",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/G_BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "byte_sha256": "dc298253ed825d98abd47a3c5fd8515e54a3b3fd66d2fed47c5bd0815909cff6",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    },
+    {
+      "candidate_relative_href": "bound_source_inputs/X_BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "canonical_relative_href": "../../02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "byte_sha256": "b9762604abf08b3c23093a1ba4b2a9d49b7822cbd8c934ab3e5619d1c4dc9e93",
+      "transport": "LINK_ONLY_TRANSLATION; all literary wording unchanged"
+    }
+  ],
+  "scope_and_status_translation_qualification": "Complete originals and actual author/ROOT scopes retain their labels as immutable historical witnesses. Source navigation and public-safe machine-reference translation create no new literal/primary receiving."
+}

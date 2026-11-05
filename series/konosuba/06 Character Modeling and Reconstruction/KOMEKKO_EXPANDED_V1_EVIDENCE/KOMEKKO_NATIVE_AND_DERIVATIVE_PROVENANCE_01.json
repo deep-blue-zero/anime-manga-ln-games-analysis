@@ -1,0 +1,895 @@
+{
+  "schema": "KONOSUBA_KOMEKKO_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T03:07:49.581550+00:00",
+  "source_boundary_commit": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
+  "sources": [
+    {
+      "source_id": "EXP-01",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be",
+      "prepared_units": [
+        {
+          "component_id": "EXP-01-U018",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+          "paragraph_slots": 614,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 400,
+              "hi": 448
+            }
+          ]
+        },
+        {
+          "component_id": "EXP-01-U023",
+          "member": "item/xhtml/p-013.xhtml",
+          "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+          "paragraph_slots": 703,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": []
+        },
+        {
+          "component_id": "EXP-01-U028",
+          "member": "item/xhtml/p-018.xhtml",
+          "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+          "paragraph_slots": 493,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": []
+        },
+        {
+          "component_id": "EXP-01-U037",
+          "member": "item/xhtml/p-027.xhtml",
+          "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+          "paragraph_slots": 427,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": []
+        },
+        {
+          "component_id": "EXP-01-U043",
+          "member": "item/xhtml/p-033.xhtml",
+          "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+          "paragraph_slots": 614,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 1,
+              "hi": 614
+            }
+          ]
+        }
+      ],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    },
+    {
+      "source_id": "EXP-02",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "prepared_units": [
+        {
+          "component_id": "EXP-02-U013",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "b4975683eabb904ae87fe70a25712b144b63a4dcac290f46dba99c9abe978798",
+          "paragraph_slots": 23,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 1,
+              "hi": 23
+            }
+          ]
+        },
+        {
+          "component_id": "EXP-02-U015",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+          "paragraph_slots": 487,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 1,
+              "hi": 35
+            }
+          ]
+        },
+        {
+          "component_id": "EXP-02-U017",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "99c8ff03dac04abe0a342aa9772ba1655d35e77cab323e73a616f94acab985a1",
+          "paragraph_slots": 158,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": []
+        },
+        {
+          "component_id": "EXP-02-U023",
+          "member": "item/xhtml/p-014.xhtml",
+          "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+          "paragraph_slots": 702,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 501,
+              "hi": 580
+            },
+            {
+              "lo": 581,
+              "hi": 652
+            }
+          ]
+        },
+        {
+          "component_id": "EXP-02-U032",
+          "member": "item/xhtml/p-023.xhtml",
+          "member_sha256": "ed49452c157b27c581b0f11a82b71ea77efe5536e1a01cc973ad5df59d1d8ec6",
+          "paragraph_slots": 130,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": []
+        }
+      ],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    },
+    {
+      "source_id": "EXP-03",
+      "native_bytes": 15716486,
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6",
+      "prepared_units": [],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d",
+      "prepared_units": [
+        {
+          "component_id": "MAIN-05-U020",
+          "member": "item/xhtml/p-011.xhtml",
+          "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+          "paragraph_slots": 257,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 150,
+              "hi": 257
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-05-U022",
+          "member": "item/xhtml/p-013.xhtml",
+          "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+          "paragraph_slots": 244,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 1,
+              "hi": 120
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-05-U027",
+          "member": "item/xhtml/p-018.xhtml",
+          "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+          "paragraph_slots": 823,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 630,
+              "hi": 705
+            }
+          ]
+        }
+      ],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    },
+    {
+      "source_id": "MAIN-11",
+      "native_bytes": 6177663,
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "prepared_units": [
+        {
+          "component_id": "MAIN-11-U014",
+          "member": "item/xhtml/p-005.xhtml",
+          "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+          "paragraph_slots": 579,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 185,
+              "hi": 249
+            },
+            {
+              "lo": 365,
+              "hi": 444
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-11-U015",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+          "paragraph_slots": 580,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 534,
+              "hi": 580
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-11-U016",
+          "member": "item/xhtml/p-007.xhtml",
+          "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+          "paragraph_slots": 358,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 1,
+              "hi": 125
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-11-U017",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+          "paragraph_slots": 143,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 80,
+              "hi": 119
+            }
+          ]
+        }
+      ],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "CRC_verification": "PASS",
+      "canonical_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+      "canonical_component_register_sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f",
+      "prepared_units": [
+        {
+          "component_id": "MAIN-14-U012",
+          "member": "OEBPS/Text/part0010.xhtml",
+          "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+          "paragraph_slots": 418,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 246,
+              "hi": 284
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-14-U016",
+          "member": "OEBPS/Text/part0014.xhtml",
+          "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+          "paragraph_slots": 681,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 88,
+              "hi": 96
+            },
+            {
+              "lo": 625,
+              "hi": 637
+            }
+          ]
+        },
+        {
+          "component_id": "MAIN-14-U023",
+          "member": "OEBPS/Text/part0021.xhtml",
+          "member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+          "paragraph_slots": 57,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "actually_received_current_base_ranges": [
+            {
+              "lo": 51,
+              "hi": 57
+            }
+          ]
+        }
+      ],
+      "fresh_semantic_credit_from_mechanical_checks": 0
+    }
+  ],
+  "actual_current_visual_receiving": [
+    {
+      "original_current_receiving_record_sha256": "17fe1f0ec20855c319e372c5766cb76b8795451c1932d6f9857b460b2cc4891a",
+      "group": "EXP01-INTERLUDE-I",
+      "title": "解けないパズルと邪神の封印",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG026",
+        "EXP-01-IMG027",
+        "EXP-01-IMG028"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG026",
+          "member": "item/image/img-txt001.jpg",
+          "sha256": "d2b2e5a4f313695ae5c8dd72c22c8644cf909eb54a790a378e1336922055495a"
+        },
+        {
+          "image_id": "EXP-01-IMG027",
+          "member": "item/image/img-txt002.jpg",
+          "sha256": "a7ce68929b767a8ea7ee3ab464660fc810d070f96ddc38c20bf423959751be8f"
+        },
+        {
+          "image_id": "EXP-01-IMG028",
+          "member": "item/image/img-txt003.jpg",
+          "sha256": "52d8b02e354aba1cfc9b3b530910f56ef5ed6536ba481dc4ee38e3a4f2ec2375"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; decorative background and physical writing remain separate.",
+      "own_analytical_findings": [
+        {
+          "image": "EXP-01-IMG026",
+          "finding": "Komekko visits a usual play place, calls the large stranger a big goblin, objects to kid address by giving her own name, acknowledges family warning and invokes a separate sister maxim against unreasonable demands. She asks what the not-a-goblin person is doing.",
+          "limit": "Do not assign the initial family warning to a specific parent or certify that she fully understands divine/sealing danger. The quoted maxim is her report of her sister, not a fresh witnessed Megumin instruction."
+        },
+        {
+          "image": "EXP-01-IMG027",
+          "finding": "Native ホースト self-identification confirms Hoost/Horst retrieval identity. His rank/body/wing display receives her actual excited praise and raised hands. He makes a special exception to claimed witness-silencing practice and demands secrecy. She thanks while explicitly not understanding well, sits and explores the hard foot, then asserts the puzzle as her play possession.",
+          "limit": "Thanks is not established informed secrecy assent. No silencing attack, legal ownership judgment, unique calculated-flattery motive or global fearlessness is established."
+        },
+        {
+          "image": "EXP-01-IMG028",
+          "finding": "She rapidly makes assembly progress; Hoost reports months of failure, takes the puzzle, and repeatedly fails to fit it to the pedestal. She objects to the taking. His favor-framed offer of play receives a hunger-based refusal/offloading reply; food promise and eventually deferential Komekko-san request precede her agreement. He departs to fetch food and she takes the puzzle again.",
+          "limit": "The three-page group does not yet perform the final sealing outcome or deliver food. Months is Hoost testimony. Food, changed request and respect are bundled; isolated status/food causation is not identified. Actual assembly progress is not a general IQ or universal puzzle/cosmic competence score."
+        }
+      ],
+      "no_new_whole_source_or_independent_credit": true
+    },
+    {
+      "original_current_receiving_record_sha256": "357792422e8c30cdef1218ec6316a4311c60186aa5d18aab6246c02f047d8ab5",
+      "group": "EXP01-INTERLUDE-II",
+      "title": "こめっこさんとホースト様",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG029",
+        "EXP-01-IMG030",
+        "EXP-01-IMG031"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG029",
+          "member": "item/image/img-txt004.jpg",
+          "sha256": "7c08b4ed39ab5265853394482a628b6c449a40683a88c2414bbbca8edda438e1"
+        },
+        {
+          "image_id": "EXP-01-IMG030",
+          "member": "item/image/img-txt005.jpg",
+          "sha256": "2551e07e640d087beabcecf57913dd009f6747b27c1e5e8dd45543fc83811b52"
+        },
+        {
+          "image_id": "EXP-01-IMG031",
+          "member": "item/image/img-txt006.jpg",
+          "sha256": "41ed02765e744aa5aa7cc2211650719c9526ec1017a88d37f060ef403ab36600"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; reported background and actual current choices remain separate. No physical handwriting act is inferred.",
+      "own_analytical_findings": [
+        {
+          "image": "EXP-01-IMG029",
+          "finding": "A later visit continues the same seal problem. Komekko narrates that apparent first-puzzle completion disclosed a harder puzzle inside the pedestal. Hoost places an actual roasted chunk before her; hunting outside and inability to shop are his stated acquisition route. He asks about mother/friends.",
+          "limit": "No complete divine release is yet shown. More than one puzzle stage does not create independent psychological replications; exact elapsed visit count and meat species remain unestablished."
+        },
+        {
+          "image": "EXP-01-IMG030",
+          "finding": "She reports mother usually absent, no same-age village friends and no toys, explaining this play choice. Hoost offers company until completion and occasional food, bounded by village security. Her stalled hands and repeated meat glances are visible in her account. He insists on progress-before-food, then explicitly resists her flattering coolness remark.",
+          "limit": "The family/social claims are her reported current perspective, not a neglect diagnosis, permanent friendlessness or a complete audit of parental care. Provider concern and task incentive coexist; no uniquely altruistic motive or unrestricted availability."
+        },
+        {
+          "image": "EXP-01-IMG031",
+          "finding": "Her three-day no-solid/hard-food appeal is contradicted by his report of her finishing yesterday's hunted food. A future greater-than-sister mage threat also fails. A practical hunger/mental-work explanation plus polite food request precedes actual permission and her completion of the large salted portion. After eating she says she is sleepy and unmotivated, lies down but still handles the puzzle. Hoost changes to a polite Komekko-san plea; she gives a grudging acceptance that echoes his earlier phrase, and he explicitly acknowledges teaching it.",
+          "limit": "Do not turn the contradicted hardship appeal into certified starvation, general pathological dishonesty or proof of every unseen meal. Politeness, useful task framing, hunger and reciprocal face are bundled causes. Satiation does not produce sustained task compliance automatically; lying while handling the puzzle is not complete cessation. Final key placement/release or later progress remains unshown in these pages."
+        }
+      ],
+      "no_new_whole_source_or_independent_credit": true
+    },
+    {
+      "original_current_receiving_record_sha256": "c725b241a774642fbf0406ad7da2a85f65128dedf75e8462e9f8d1f2c82c51c0",
+      "group": "EXP01-INTERLUDE-III",
+      "title": "紅魔族随一の魔性の妹",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG032",
+        "EXP-01-IMG033",
+        "EXP-01-IMG034",
+        "EXP-01-IMG035"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG032",
+          "member": "item/image/img-txt007.jpg",
+          "sha256": "6f5c1865aa4913769b0e490f4ce3fe4a615a9e74e7bae571122ea91799a5a031"
+        },
+        {
+          "image_id": "EXP-01-IMG033",
+          "member": "item/image/img-txt008.jpg",
+          "sha256": "5531444956a97b76e44e972cb598674cbb6a14400bd707131530c78fb450ac3f"
+        },
+        {
+          "image_id": "EXP-01-IMG034",
+          "member": "item/image/img-txt009.jpg",
+          "sha256": "a255bd82eab9d4786002bc4f2be24ffef92e615298911ca2c3d05c5bf2f83d19"
+        },
+        {
+          "image_id": "EXP-01-IMG035",
+          "member": "item/image/img-txt010.jpg",
+          "sha256": "9e39591571389d13f268ab841c5bf01582ae60c5f2cb27e012fe1eaa71bb48fb"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose. Decorative Megumin background is not a separate performed event or viewpoint; no physical writing act is inferred.",
+      "own_analytical_findings": [
+        {
+          "image": "EXP-01-IMG032",
+          "finding": "The second puzzle is solved and a third is revealed. Hoost rejects other Crimson Demons while excepting Komekko, then calls the third stage too difficult for a child. She cites her sister's reported maxim of doing what is called impossible and works lying down, kicking her feet and absorbed enough to ignore his cleaning her robe hem.",
+          "limit": "Success at two stages is specific task evidence, not general intelligence measurement, full seal completion or magical competence. Her quotation is reported teaching, not a newly witnessed sister choice."
+        },
+        {
+          "image": "EXP-01-IMG033",
+          "finding": "Despite Hoost praising real progress, she puts the puzzle down and closes her eyes because she is bored. His offer to bring something tasty gets her up and working before delivery. When he prepares to hunt, she insistently asks to go and ride him, dismisses his monster warning by appealing to his apparent strength and praises him as cool. He ultimately takes her.",
+          "limit": "Boredom occurs during progress, not proven inability. Actual resumed work precedes the new food. Several appeals, novelty and recipient flattery are bundled; no uniquely isolated cause or guaranteed food-delivery outcome."
+        },
+        {
+          "image": "EXP-01-IMG034",
+          "finding": "Hoost carries her to the forest and complains of her exuberant movement and near falling. She excitedly points out a large lizard to catch; he says her loud voice scared it away and explains other monsters flee his demon presence. She asks whether becoming strong would make monsters flee her too; he laughs off that possibility. A bush moves, apparently responding to his presence, and he sets her down. She asks if making that monster flee would mean she is stronger than him.",
+          "limit": "She explores strength through a concrete comparison and food/monster interest; no adult grasp of power rankings, no performed spell or confirmed superior strength. Hoost's account of ordinary monster flight is testimony distinct from the lizard's actual escape."
+        },
+        {
+          "image": "EXP-01-IMG035",
+          "finding": "Hoost laughs at her comparison, warns that the hidden monster is frightening and asks whether its appearance would scare her into wetting herself. She rejects that outcome and volunteers to drive it away. He promises continued Komekko-san address if she succeeds. Multiple large bears emerge. While he judges the group troublesome and turns away to leave, she runs toward them with a hiss/shout; he cries out Komekko-san.",
+          "limit": "No bear defeat, bear flight, injury, rescue or completed return is shown at this group boundary. Running at the bears does not establish informed courage, reliable hazard calibration, a successful title bargain, combat power or a protective provider guarantee."
+        }
+      ],
+      "no_new_whole_source_or_independent_credit": true
+    },
+    {
+      "original_current_receiving_record_sha256": "d6bcd705d656270f9934e15baa9596a760fa269d13ee3ca49c18ba85183fe36f",
+      "group": "EXP01-INTERLUDE-IV",
+      "title": "この里の少女に親子丼を",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG036",
+        "EXP-01-IMG037",
+        "EXP-01-IMG038",
+        "EXP-01-IMG039"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG036",
+          "member": "item/image/img-txt011.jpg",
+          "sha256": "bdb0919296142d348ee530d17a70ad9fe203f910c7a33f79f7fd313532c8556f"
+        },
+        {
+          "image_id": "EXP-01-IMG037",
+          "member": "item/image/img-txt012.jpg",
+          "sha256": "521d5127232125040bd97003c39d87be492f630f2b488015d5f625822a8b7fd9"
+        },
+        {
+          "image_id": "EXP-01-IMG038",
+          "member": "item/image/img-txt013.jpg",
+          "sha256": "67a85ba56e7d9bc21e79f8cfc768736d30d85f8cdce0fc017b3b847063d3e68d"
+        },
+        {
+          "image_id": "EXP-01-IMG039",
+          "member": "item/image/img-txt014.jpg",
+          "sha256": "030d1f77ea73bca2a1f85cf587274f229417660e841809f3f6ad08810f1e356c"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; own actual conduct, Hoost exposition and unshown outcomes distinguished.",
+      "own_analytical_findings": [
+        {
+          "image": "EXP-01-IMG036",
+          "finding": "The puzzle has now been solved, but another requirement appears. Unable to read the displayed inscription, Komekko asks Hoost to read it. He proposes mutually dropping the honorific forms, which she accepts. He reads a hen and its child as altar offerings and a prayer but cannot read the ending; he initially treats it as a sacrifice to hunt.",
+          "limit": "Specific inability to read this inscription is not proof of total illiteracy or general incompetence. His partial reading and intended sacrifice are not a completed ritual or reliable theology. This page does not fill the earlier unshown bear outcome."
+        },
+        {
+          "image": "EXP-01-IMG037",
+          "finding": "Hoost actually gives money and asks her to buy the best hen and child in the village. She returns after one hour with a covered bowl on a tray, calls it sacrificial oyakodon and carefully places it on the altar. Hoost checks and rejects this interpretation, saying the inscription cannot mean unlocking with oyakodon.",
+          "limit": "The actual item is a chicken-and-egg rice bowl. No evidence here establishes deliberate sabotage, an informed strategy to defeat Hoost's objective, money theft or a sexual meaning of the title. The failed offering and his expectation of meeting a half of Wolbach remain separate from actual release."
+        },
+        {
+          "image": "EXP-01-IMG038",
+          "finding": "Komekko asks what sort of person Wolbach is. Hoost describes a huge jet-black magical beast and predicts she would be frightened. He says he must prepare the offering himself, will be absent for a while, asks secrecy, offers later play and explicitly lets her eat the bowl. After he flies away, she sits at the altar eating. Later a very small persistent beast emerges from the bushes and approaches her while she keeps eating.",
+          "limit": "Hoost's description and future promise are reported knowledge and intention, not independently verified true form, current huge-body appearance or performed return. The small animal is unnamed within this group; tiny appearance does not settle cosmic identity or power."
+        },
+        {
+          "image": "EXP-01-IMG039",
+          "finding": "The small beast apparently seeks her bowl; she explicitly reasons that what Hoost has given her now belongs to her. She keeps eating standing up as it attacks, pulls at her legs and bites her head. After a long struggle it lies limp, still held against her with its head-bite maintained, and she declares victory and takes her trophy home.",
+          "limit": "This is actual food-retention persistence under interference and a specific struggle with a small beast, not generalized combat superiority, an adult risk calculation, demonstrated killing or an injury-free guarantee. No present new magical cast or confirmed final unsealing sequence is narrated here."
+        }
+      ],
+      "no_new_whole_source_or_independent_credit": true
+    },
+    {
+      "original_current_receiving_record_sha256": "2e2184766d31da87abb6d5aa6ecb135756aa677a273bea53916cae323e9ba3a4",
+      "group": "EXP01-INTERLUDE-FINAL",
+      "title": "上位悪魔と悪魔的少女",
+      "actual_images_viewed_at_original_resolution": [
+        "EXP-01-IMG040",
+        "EXP-01-IMG041",
+        "EXP-01-IMG042",
+        "EXP-01-IMG043"
+      ],
+      "native_image_pins": [
+        {
+          "image_id": "EXP-01-IMG040",
+          "member": "item/image/img-txt015.jpg",
+          "sha256": "6dfa8b193d671232b09e95a3e982ac37ca06ce7094fc4f166062a8437eaa3e58"
+        },
+        {
+          "image_id": "EXP-01-IMG041",
+          "member": "item/image/img-txt016.jpg",
+          "sha256": "0d2881e9948b3eb25d494c40fec438d33b77300872409fc11be41e90e8aa2750"
+        },
+        {
+          "image_id": "EXP-01-IMG042",
+          "member": "item/image/img-txt017.jpg",
+          "sha256": "921bbc4050ea891214872c4ca2a5eff5810e19e163d2ec318dc1ebfa3ef7d121"
+        },
+        {
+          "image_id": "EXP-01-IMG043",
+          "member": "item/image/img-txt018.jpg",
+          "sha256": "38aa9689ed8d0e346ac57a5069e03f571cab7ffd94bc4ff5605bff6af9ea2ffd"
+        }
+      ],
+      "source_plane": "Komekko first-person integral image prose; current witnessed actions, child report of adult claims, Hoost inference and future boasts remain different knowledge planes.",
+      "own_analytical_findings": [
+        {
+          "image": "EXP-01-IMG040",
+          "finding": "Hoost returns after an absence, carrying a cage with an actual large hen and chicks. He notices devastated surroundings and asks what happened. Komekko reports adults' claim that the revived evil god called an unnamed goddess to battle, lost and perished; Hoost drops his burden in dismay. She explicitly attributes that story to the adults, while her attention shifts to the birds.",
+          "limit": "The defeat/death is reported village knowledge, not a newly witnessed battle or trustworthy cosmology from the child. This report must not overwrite the distinct actual current meeting or fill the unshown precise release sequence."
+        },
+        {
+          "image": "EXP-01-IMG041",
+          "finding": "Hoost reasons that his continuing presence contradicts his master's destruction and decides the half must still be alive somewhere and needs protection. He offers the now-unneeded birds to Komekko. She proposes the parent for dinner and chicks for Chomusuke; he objects on emotional-education grounds and takes the birds along instead. She offers to show a small jet-black beast; he declines, dismisses it as a kitten and dislikes its name.",
+          "limit": "No actual cooking, chick feeding or harm to birds is shown. His inferred survival and failure to inspect the small creature must not become omniscient identification. This group supplies her Chomusuke name and size description, but does not independently show the offered creature in front of Hoost."
+        },
+        {
+          "image": "EXP-01-IMG042",
+          "finding": "She asks whether he is going away, appears displeased to him and nods to his explanation that he must find Wolbach. He predicts a promising magician, conditionally offers to become her familiar if his present contract ends and she can summon him, while stressing the difficulty. He lands, crouches to meet her eyes, says he senses devil-user aptitude and roughly rubs her head after her promise to try.",
+          "limit": "Future aptitude, contract release and summoning possibility are Hoost's appraisal and conditional promise, not performed magic, a new binding pact, verified future destiny or adult comprehension of contract terms."
+        },
+        {
+          "image": "EXP-01-IMG043",
+          "finding": "They exchange stylized self-introductions. She names herself the house-sitter, the village's 魔性 little sister and Hoost's future intended master, taking a pose and throwing back her dragging cape. He laughs, flies outside the village, and she keeps waving until he is out of sight, explicitly calling him her first friend who often gave food despite his complaints.",
+          "limit": "The self-description is a child's persona and future boast, not adult sexual motive, proven power or accomplished service contract. Friendship and remembered provision coexist; neither cancels the other. No return or later success is performed here."
+        }
+      ],
+      "no_new_whole_source_or_independent_credit": true
+    }
+  ],
+  "actual_current_native_receiving": [
+    {
+      "original_current_receiving_record_sha256": "fd958379353a6508b6b4d6ea85bcad3319c2dd599d7b9372bc7ff638863d7d18",
+      "actual_ranges_and_own_findings": [
+        {
+          "component_id": "MAIN-05-U020",
+          "member": "item/xhtml/p-011.xhtml",
+          "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+          "paragraph_slots": 257,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 150,
+          "hi": 257,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "P169 performs the received-family-label greeting, not adult relational understanding. P174-185 actual delighted entertainment and questions coexist with food interest. P224 reports usual thin gruel; P230-235 actually offers the untouched bun while hungry and visibly reluctant to lose it. P240-241 accepts Kazuma's stated fullness and resumes eating; P246-248 continues while carried away. Sharing is costly relative to present appetite, but giver-awareness, affection, learned reciprocity and a child's simple fairness remain rival motives. No universal selflessness or pathology from reported poverty."
+        },
+        {
+          "component_id": "MAIN-05-U022",
+          "member": "item/xhtml/p-013.xhtml",
+          "member_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+          "paragraph_slots": 244,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 1,
+          "hi": 120,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "P39-43 continues delighted audience attention; P52 asks for meat and P59-60, now full, reports Aqua's entertaining performance to parents. Satiation does not end excitement in nonfood activity. Adult household/relationship talk is not Komekko's motive, consent or adult knowledge. She is sleepy/held at104; mother's prediction of sound sleeping110 is not verified awareness or a child rule."
+        },
+        {
+          "component_id": "MAIN-05-U027",
+          "member": "item/xhtml/p-018.xhtml",
+          "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+          "paragraph_slots": 823,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 630,
+          "hi": 705,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "P677-681 Komekko notices a blinking display; Kazuma recalls its mechanism and aims the weapon at682-684. While held by Aqua, she actually pulls its trigger before him at686. The discharge defeats Sylvia and damages a mountain; her posed stronger-than-a-general boast695-697 follows the actual shot. Do not grant her design, charging, English display literacy, aiming, adult tactical foresight, sole causal authorship or general combat power. Unlike earlier bear charge, an external outcome is actually shown here."
+        },
+        {
+          "component_id": "EXP-02-U023",
+          "member": "item/xhtml/p-014.xhtml",
+          "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+          "paragraph_slots": 702,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 501,
+          "hi": 580,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Megumin's independence appraisal502 is testimony, and parental/neighbor care plans are not abandonment proof. Komekko sits to listen539, declines a futile pleading performance545-548 and calls sister attention-seeking550. Her slang source at556 is Komekko's explicit Bukkorori report, not an independently witnessed lesson and not a universal source for her voice. She lays her futon559, accepts shared sleep560, returns a hand squeeze565, agrees to adult-help advice567 and specifically proposes asking for food571. Public bluntness and particular affection coexist; sleepy voice575-579 cannot alone certify sadness."
+        },
+        {
+          "component_id": "EXP-02-U023",
+          "member": "item/xhtml/p-014.xhtml",
+          "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+          "paragraph_slots": 702,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 581,
+          "hi": 652,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Komekko actually hugs back586 and quietly requests an early return588. All-night embrace591 is Megumin's act. She mimics the morning pose601, provides an actual rice-ball lunch611-614 (preparation inferred by Megumin), gives her treasured read-aloud picture book616-620 for sister's loneliness, and presses the King-defeat promise627-631 after sister qualifies it. No book authorship, total future-quest understanding or completed victory is inferred. The shoemaker's actual agreed care641 predates current request through parental arrangement; later punishment of Bukkorori is unshown."
+        },
+        {
+          "component_id": "MAIN-11-U015",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+          "paragraph_slots": 580,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 534,
+          "hi": 580,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Komekko anticipates a scolding538, reports earlier village food-begging advice543, rejects the city warning547 and says she would follow a food provider550; that is present speech, not a new abduction event. She actually runs to the kitchen554-557, apparently locks it, and renders dinner-withholding ineffective by declaring stored-food access559. She backs Kazuma's intervention568 and finds hidden chocolate572; Megumin changes to reconciliation575, but Komekko says she will leave after eating it577. Do not invent a completed exit, exhausted pantry or uniquely planned chocolate blackmail from the start. Adult inference at560 supports resource selection but does not certify complete foresight or reliable stranger-safety judgment."
+        }
+      ],
+      "scope": "Exact already admitted source-known base text. Prior exposure overlaps; do not add these slots to a global corpus or independent-event denominator. No full-source, ruby, image, holdout or independent review credit."
+    },
+    {
+      "original_current_receiving_record_sha256": "b0d7d3e6525a08901df6e6e5ed6a86fb4ff7d3021f98f48391cc06f1801c95ff",
+      "actual_ranges_and_own_findings": [
+        {
+          "component_id": "MAIN-11-U016",
+          "member": "item/xhtml/p-007.xhtml",
+          "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+          "paragraph_slots": 358,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 1,
+          "hi": 125,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "F12 breakfast-taking/absence is Megumin's report, not witnessed flight. F24-30 Aqua reports losing a game under one weak-piece handicap; no complete move transcript or IQ measure. F43-68 actual food provision and reluctant demon departure are distinct from55 provider's qualified devil-user-aptitude inference. F78-85 actual praise of known people coexists with97/103 blunt negative sister appraisal and109 own job request. F115/118 repeats acceptance after food utility is clarified; this is not a moral preference for humble work or an informed request for the later dangerous quest. Adults choose the higher-risk assignment."
+        },
+        {
+          "component_id": "MAIN-11-U017",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+          "paragraph_slots": 143,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 80,
+          "hi": 119,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Ep93 is Kazuma's recognition of her memo;94 is mother reading it. Ep96 explicitly supplies Megumin's prior explanation of her achievement, so the child's confused record is not final-battle eyewitnessing. Ep98 reports her own checking of sister's absence and contains the accurately repeated private relationship phrase;99 confirms overhearing but does not establish all understood adult implications. Ep106 actual frog-food return wish and mother's performed teleport113-117 are distinct from adult matchmaking language. No child sexuality, adult comprehension or knowing blackmail is inferred."
+        },
+        {
+          "component_id": "MAIN-14-U012",
+          "member": "OEBPS/Text/part0010.xhtml",
+          "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+          "paragraph_slots": 418,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 246,
+          "hi": 284,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "C1P249-257 initial unknown-door caution includes a no-money response;258-261 recognized sister is excluded over repeated village visits without home visits. Komekko herself says she wanted a souvenir264; Megumin's hurt/attention interpretation265 is a rival, not a correction of the child's stated desire. Kazuma's snack offer267 changes her greeting268. Inside she actually serves tea272-274, asks whether the seedling is a gift275 and drools277; actual eating is unshown. Her explosion/rebuilding report279 does not audit finance. Her stinginess label283 is actual; Bukkorori attribution284 is Megumin's guess, unlike specific child reports in EXP02 and MAIN11."
+        },
+        {
+          "component_id": "MAIN-11-U014",
+          "member": "item/xhtml/p-005.xhtml",
+          "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+          "paragraph_slots": 579,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 185,
+          "hi": 249,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "C3P204-207 actually shows Komekko writing while sister reads over her shoulder. P209 names Bukkorori as her reported source for these particular adult labels;213 reports mother's assignment. No independent witnessed lesson or proof of adult understanding. P221-230 anticipatory eating continues despite current plenty because she says plenty is rare; no clinical diagnosis. P236 asks whether Aqua really declines a luxury, P240-241 performs careful receipt, thanks and a deep bow. Sister's father/remittance theory248 is reported family finance, not a new all-household audit."
+        },
+        {
+          "component_id": "MAIN-11-U014",
+          "member": "item/xhtml/p-005.xhtml",
+          "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+          "paragraph_slots": 579,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 365,
+          "hi": 444,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "C3P376-400 actual sincere-seeming admiration repeats sister's account and responds to adventurers' stories; it is not the child's direct witnessing of every old battle. Food offers404-410 elicit the both-foods answer. Luna brings actual old quest papers and offers ice cream for listening431; Komekko agrees432 and answers sympathy prompt435. Luna announces adults' future action438 and applies admiration pressure442-444. Child assent is to listen, not consent for others' combat or evidence she designed the guild system. Adult omniscient-manipulator/future-seductress interpretations412 are not a child rule."
+        },
+        {
+          "component_id": "MAIN-14-U016",
+          "member": "OEBPS/Text/part0014.xhtml",
+          "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+          "paragraph_slots": 681,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 88,
+          "hi": 96,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "C4P91 rejects the cumbersome mother-carrying task and proposes fetching father later;93 actually curls up and dozes. It is neither a performed retrieval nor total parental abandonment. Megumin supplies blankets94; do not credit her work to Komekko or force universal care/obedience from earlier gifts."
+        },
+        {
+          "component_id": "MAIN-14-U023",
+          "member": "OEBPS/Text/part0021.xhtml",
+          "member_sha256": "678620115aa7432ad39f3fb3a9b5b12cf84e6514d5c9119b9744b0315acde8c1",
+          "paragraph_slots": 57,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 51,
+          "hi": 57,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "BonusP51-55 Komekko, bored, approaches and asks what Kazuma is doing, then appraises the seedling as tasty;56 supplies a frightened response in context. No eating or attack is performed. Narrator's universal child-cruelty coda57 is an interpretation, not an invariant or diagnosis."
+        },
+        {
+          "component_id": "EXP-01-U043",
+          "member": "item/xhtml/p-033.xhtml",
+          "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+          "paragraph_slots": 614,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 1,
+          "hi": 614,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Whole exact base-text chapter actually received in six contiguous display ranges1-95,96-181,182-280,281-400,401-493,494-614. M's reincarnated-glutton-god escape16 is invented reassurance, not child identity. M's retrospective toy invitation127 is reported Komekko speech. Actual raised-hand approach161-165 and hiss175-181 make demons withdraw, but causal demon-taming is unverified. Komekko calls the stolen cat food195, admires actual Yunyun lightning224, notices sister's tears239, asks if tired247, immediately affirms affection254 and volunteers to become strongest herself257. She refuses solitary evacuation265 and wants food back269; later partial try274-278 must not be inflated into completed safe compliance. P310-314 interrupts sister's entrance with own name/pose and refuses apology; no actual new strike is thereby shown. P348 retrieves the cat;355 calls more monsters edible. Actual leg-help364-366 produces Yunyun's pain/posture problem, adverse to uniformly competent helper. P391 refuses to surrender the recovered food-object. P416/428-429 concern at sister's changing eyes is a real affective limit to blanket fearlessness;437 calls her broken. P472/493 Yunyun physically shields the child; do not call it Komekko's independently safe tactical compliance. P512 complains that apparent bird meat was destroyed. P518 is later report of her standing with cat near collapsed sisters, not a completed independent protection fight. P538 supplies village's false divine-battle story;571-572 supplies M's reported at-home confirmation that Komekko undid the seal and offered the piece as play. This is the same puzzle/unsealing chain as the five image interludes, not another experiment. P581/587 future cat-eating judgments are adults' expectations, not a performed meal. Megumin actually names the cat611; later image-final Chomusuke name follows that naming."
+        },
+        {
+          "component_id": "EXP-02-U013",
+          "member": "item/xhtml/p-004.xhtml",
+          "member_sha256": "b4975683eabb904ae87fe70a25712b144b63a4dcac290f46dba99c9abe978798",
+          "paragraph_slots": 23,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 1,
+          "hi": 23,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Komekko asks what cheat means8, hears Megumin's concise explanation10, resumes listening12, rests on her shoulder18 and actually falls asleep20. Embedded solitary-hero fiction4/13/15/17/19/23 is not the child's autobiography, ethics, actual history or proof that she understood every supplied term. The bedtime book is the later same treasured physical gift, not a second authored book."
+        },
+        {
+          "component_id": "EXP-02-U015",
+          "member": "item/xhtml/p-006.xhtml",
+          "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+          "paragraph_slots": 487,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 1,
+          "hi": 35,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "P8 actual NEET-sister greeting and food request;13 asks for the alternative term, but16 repeats old label after the job-seeker explanation. This is incomplete uptake or deliberate teasing, not uniquely settled ignorance or adult employment theory. Actual breakfast preparation31 is Megumin's work. The time passage3 is narrated relative chronology, not a precise new child age."
+        },
+        {
+          "component_id": "EXP-01-U018",
+          "member": "item/xhtml/p-008.xhtml",
+          "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+          "paragraph_slots": 614,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 400,
+          "hi": 448,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "P407 specifically says Komekko has just turned five at this EXP01 point; do not freeze that age across all later source states. P410-413 newspaper visitor defeat/three-days-no-solid-food claim is her report plus shown meal vouchers, not witnessed negotiation or certified continuous starvation; Hoost contradicts similar hardship appeal in imageII. P417 postpones captured dinner to breakfast after receiving a sandwich. P429 actual exhausted black kitten and431 child's claimed bite supplement imageIV's same beast struggle, not another independent victory. P435-439 offers the partly eaten sandwich to Megumin, accepts her stated fullness and permission, happily resumes eating and agrees to her taking the cat. This distinct sharing event supports conditional generosity despite hunger; do not infer universal charity, pure motive or direct witnessed biting."
+        },
+        {
+          "component_id": "MAIN-14-U016",
+          "member": "OEBPS/Text/part0014.xhtml",
+          "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+          "paragraph_slots": 681,
+          "complete_raw_to_base_array_concordance": "PASS",
+          "current_semantic_receiving_credit_from_this_check": 0,
+          "lo": 625,
+          "hi": 637,
+          "all_base_slots_actually_displayed_and_received": true,
+          "source_known_semantic_receiving": "Aqua reports actually planting the seedling at Megumin's home627 and quotes Komekko's grow-it-until-large promise630. Megumin's future-eating explanation631 remains a prediction, while Aqua's care/friendship interpretation630 is a rival. No present child meal, proven dangerous intent, retrieval or verified safe horticulture is performed."
+        }
+      ],
+      "scope": "Exact already admitted source-known base text; overlapping original admission/current history is not new whole-volume, ruby, image or independent-event credit. Eighteen current visual pages have their separate actual receipts."
+    }
+  ],
+  "canonical_derivative_returns": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_DEEP_READING.md",
+      "bytes": 66567,
+      "sha256": "0dd1f5123c50ea410625f1f2656c26f6190d8a792f5788b337cfb941402fcd33",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_DEEP_READING.md",
+      "bytes": 81416,
+      "sha256": "cb8da61e4b49d247af96f0031f10ef533756d4770daf6878219400e6bde5fce1",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_DEEP_READING.md",
+      "bytes": 95947,
+      "sha256": "6bbb421413e45ab1f9129ee7617e2b68e1005bc3ced95e947e58fa85106338bb",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+      "bytes": 53663,
+      "sha256": "ab29a472cd0714e125d2de414e3d4d8a4efdb083f5b0fad7bbe5a4e9f4ddf1dc",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+      "bytes": 83538,
+      "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "bytes": 120003,
+      "sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+      "bytes": 284570,
+      "sha256": "52da1486a8d276a3be36809d6fc9d8d98b9ef22bb6340c8c71cd17cd4bb4b9ac",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V14_DEEP_READING.md",
+      "bytes": 377734,
+      "sha256": "c06e2dd10113ec1effed84caf973eb44ded0652a4121a16a438b6438e4b0925b",
+      "access": "Earlier actually received analytical report at its declared scope; this hash check adds no new Japanese traversal, source exposure or independent test."
+    }
+  ],
+  "counts": {
+    "mechanically_verified_EPUBs": 6,
+    "mechanically_prepared_text_units": 20,
+    "actually_received_current_text_units": 15,
+    "unique_current_base_member_slots": 1602,
+    "actual_visual_pages": 18,
+    "actual_known_interlude_groups": 5,
+    "new_whole_book_ruby_or_independent_test_credit": 0
+  },
+  "public_transformation": "Retain source/member hashes, accepted canonical register routes, exact received ranges and own analytical findings. Omit native files, local absolute paths, raw paragraph/ruby arrays, cached raw-member paths, artwork and private recovery/acquisition evidence.",
+  "event_scope": "Known source rechecks overlap prior exposures. No global completion percentage or independent observation count follows."
+}

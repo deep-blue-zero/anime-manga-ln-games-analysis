@@ -1,0 +1,1236 @@
+{
+  "schema": "BLUE_ARCHIVE_SAKURAKO_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 44177,
+      "sha256": "51349f5f9db77b8a6c078ff583e6478d248c29c7d7f04ccf61e1782579ee34ca",
+      "git_blob_oid_of_actual_bytes": "bdae8410ceee0f02eb7913e0a24f1b2b5d8df5d1",
+      "lines": 180,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 46281,
+      "sha256": "9dc4dd4bb0ea8b5786903d6290faf6d65f61de3484a0f037e62997b3098ae819",
+      "git_blob_oid_of_actual_bytes": "6687d737e1377258d972e724938b067e9fabbfd2",
+      "lines": 190
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+        "line_text": "series: BLUE_ARCHIVE"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "cebcb6706a8ba0e92b7492c9b46780efa98466adf851a9957a210b2f187e60e0",
+        "line_text": "scope: P3-CHAR-SAKURAKO"
+      },
+      {
+        "frozen_line": 5,
+        "canonical_line": 5,
+        "line_sha256": "35d3b926785c636106f5ef4d935d478753af35e114acf367bccffe46001f754a",
+        "line_text": "responsibility: P3-F129"
+      },
+      {
+        "frozen_line": 6,
+        "canonical_line": 6,
+        "line_sha256": "45c47568444070df701e26d78501647f259366ddbf00b0e90154c540a56b3231",
+        "line_text": "person_identity: BA_PERSON_SAKURAKO"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "32c0fa71b215caefd0b90909c902edf19a0f5d095690f1aac8e7f96d48efb2ce",
+        "line_text": "execution_class: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e56c8909f82aefa5a6fa144f7f673def93639529b2890137672003de0881c71c",
+        "line_text": "architecture: \"1.12 / section7.1 eleven dimensions\""
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "fc99ed1294c51b7a55e21c3d80c5000d0c8bcf96a11c809f7f317733444f2fe1",
+        "line_text": "dated_navigation_head: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "94489301a0c3d2991e8ecfcabd0b0d0e5bfdf5ea65c0afe9e081f4238fcafc1e",
+        "line_text": "game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "b9f24d7a3836087902179eab2d2e4e497eee1d8460537a33a21e4d77e8fc3e9e",
+        "line_text": "canonical_parser_version: \"0.2.0\""
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "6dadde401c10d5c52c2ad618294c2ec3f9aa11cfbd586912af3889e94fe301c7",
+        "line_text": "source_boundary: \"Complete adequate accepted Sisterhood private analytical checkpoint: Sakurako21 and Mari29 comparative meanings. Ordinary10061, idol10106 and costume1900931101→10106. Consequential accepted Main, scripture, island, idol and gift arguments at the exact personally whole/reused/scoped boundaries in the companion receipt; no newly inspected primary or performed evidence.\""
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "243e7d62dbf6199f5c80771caffbfa13683ca0c0a974005a078fbe3d833c8ce7",
+        "line_text": "authority_quartet: \"Current Cycle008 admission; personally complete adequate accepted arguments; attributed historical source-reading/exposure/independence; performed voice unreceived\""
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "15e21190c90dfeb13a6a7dc79c144686098f8651e9a8228db1c349bff80e2b5a",
+        "line_text": "source_reading_state: NO_NEW_PRIMARY_NATIVE_RAW_QA_AUDIO_OR_CONTINUOUS_AV"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "d94d869b6867b8c20bd533adc8cb09f4fbab0204bcf0c3b32f308b1bc9246e0f",
+        "line_text": "historical_original_author_exposure_custody_independence: UNKNOWN_WHERE_UNDECLARED"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "82c34386bb6a84898ea4dab870d11bf9e554b90810fd586899c6935b44669ced",
+        "line_text": "reconstruction_state: RETROSPECTIVE_TEXTUAL_SYNTHESIS_NO_OPERATIONAL_MODEL_OR_PREDICTION_PROMOTION"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "6c61856351846388fd9768e8218fb297d4761132baba343351af99538066667b",
+        "line_text": "original_source_gaps: ALL14_OPEN"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 33,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 34,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 35,
+        "line_sha256": "1cef8448da1b3bc2b9140ea2b2b94039e9e3ee3395549febe2887d1a81ac12fd",
+        "line_text": "# Sakurako — wanting to be welcomed, learning what welcome cannot command"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 38,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 39,
+        "line_sha256": "b4580619fb4aadcd01a7b54fbf6b1a01920c139e7a32738bb921263ac1ec245c",
+        "line_text": "Sakurako is 歌住サクラコ / BA_PERSON_SAKURAKO. The present required home is P3-CHAR-SAKURAKO, responsibility P3-F129. Ordinary10061, idol10106 and costume1900931101→10106 are exact source contexts for comparison; their identifiers do not date her development or create separate people. B10061E002 below means BA:bond:10061:002 and T100610010 means BA:momotalk:10061:thread:100610010; the same conventions retain the exact10106 identifiers. Event and Main references preserve their source class and suffix. This is a retrospective literary synthesis of adequate accepted arguments, with their attributed source witnesses and limits, rather than a new first reading of the primary sources."
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 40,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 41,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 42,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "fdd10433c54836e93c5c570cd6df5d1907c104188d2a846e78a3bba8e7cfb24a",
+        "line_text": "**Sakurako wants to be approachable without giving up a vocation she values. Her repertoire tests the difference between making a sincere offer and deciding how someone else must receive it.** Her most convincing successes occur when welcome has a particular form and another person can answer: a private conversation with permission to leave, a reported new friendship, a community poster that she can enjoy without displaying it everywhere, an unexpectedly enjoyable course followed by a direct question. Her failures arise when a favored form is enlarged into a demand: the public certification of her normality, outfits for every Sister, a frightening institutional invitation or an image campaign that costs a junior freedom. This pattern is an argument across specific scenes, not a universal incapacity, a personality diagnosis or a claim that all her affection hides domination."
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "158d5d7d8d2074b965ce99659f0d1622659a80a3730bd2045736cf12897ba3b1",
+        "line_text": "Approachability is an intrinsic wish here. Three hours of karaoke, a friendly nickname, wanting the first taste of a coveted cake and a moment resting before a poster deserve attention without proving crisis competence. These pleasures also make her public position legible: the person who wants ordinary company is the same administrator whose presence changes the stakes of an invitation. A good intention cannot erase that difference in power. Conversely, another person's refusal does not prove the offered care was insincere or that the pleasure she actually received was false."
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e8bd082055a60c60d50f56d3ab871612f24b41bdc49a1553711cb2d856879caa",
+        "line_text": "The sources give her knowledge and action at different grades. She can acknowledge a private burden without telling its contents. She can actually overlook Ui's unconsulted copying without receiving all the island findings. She can introduce an ancient scripture without this reader possessing its doctrine. A monograph therefore needs two limits together: neither treating her as an omniscient institutional authority nor reducing her to a harmless joke. The distinctive figure is a serious, often kind leader who learns some local forms of reciprocity while retaining blind spots and unresolved responsibilities."
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "d3adcd79d4c5dbb01ac941c7a44084735c7196d9fdac61d0f98cc9ac94f5862b",
+        "line_text": "The ordinary sequence supplies a local movement from explanation through experiment to the admission of a harder problem. In B10061E002 her laugh-framed message is intended as a greeting, influenced by other Sisters' advice. She wonders whether her position makes people reluctant to approach and wants them to speak without managing her feelings (scene001u15–32). Scene002u6–15 then enacts the opposite response: her wish for peaceful days, promise to watch over students and laughter make them panic and hurry away. The narrated encounter establishes the mismatch more firmly than either her innocence or a profile's trust claim can resolve. Sensei recognizes it privately but provides no useful aloud explanation before leaving (u16–21)."
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "8030ca1de6c5b0f815b66d4fe41b0678e9588f60a86643a5f7da48befb95751d",
+        "line_text": "B10061E003 expands the problem beyond a single greeting. She initially denies that changing her veil or accessories expresses a taste; she worries about being left behind, and describes imagining the wider world through colleagues' reports while remaining at the cathedral (u10–23). A forceful salesperson overwhelms her; Sensei follows and gets her out, with no successful purchase narrated (u33–48). The ending supplies relief and the adult as a personal constancy, not acquired fashionable expertise. Whole T100610100 retains internet-derived friendliness, thanks and future help, then the playful わっぴ～! after the ordinary farewell. It leaves the effort visible rather than diagnosing the slogan or declaring a finished reinvention."
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "3ddd56e59bf0deb7d384c5c29d547759f1237d0351d5fe9e6f8f2af9524da051",
+        "line_text": "B10061E005 andE006 expose resources already available within that difficulty. At the secret conversation she defines a personal matter, permits an unhurt departure and receives relief through bounded disclosure without revealing the secrets (E005u15–57). In the hobby discussion she recognizes habitual messaging and advice requests as part of her spare life, then asks to stop and be alone (E006u25–49). Her thread reports the problem resolved for her. These are distinct local achievements: one sharing a burden without exhaustive disclosure, the other recognizing an activity and exercising control over the conversation. Neither is an enacted romance confession or a clinical resolution of everything troubling her."
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "d9948c91077ba73e92e28236eabe443890ba55e5fc92664a776e9bc76e07c07c",
+        "line_text": "The later ordinary explanation scene resists an upward ladder. B10061E008 refers to prior attempts and now acknowledges actual fear, not merely difficulty. Individual explanations reportedly worsened suspicion. She asks for help but prepares an audience and a public certification task without establishing Sensei knew the plan; the adult objects and the speech still takes place (u11–47/choice004). Its actual ending is more misunderstanding (u48–50). Whole T100610510 reports a mixed shift from difficultness toward oddness and accepts gradual work. That self-assessment is meaningful but does not certify reputation repair. The teacher's apology also prevents a story of invariably successful adult guidance."
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "3a4fe3b96eea04e055ae4fdf9139711c7c7db9ee316113c62c54103f2a018347",
+        "line_text": "The idol contexts provide an alternative repertoire, not a dated cure of the ordinary one. B10106E002 contains her report of increased approach and reduced avoidance, then the cancelled all-Sister outfit plan. E003 has actual karaoke and exchanged contacts, an intended apology at the BOND endpoint and a later valued-friend report in the whole thread. E005 stages actual joy and rest at a poster, then careful private storage after cathedral display is stopped. E006 ends in an enjoyable prepared course and a direct question about the adult's enjoyment. These positive endpoints survive their qualifications. They show particular relationships working, while disagreement over outfit use, nickname and public display survives within the same peer community. No release order or number sequence authorizes a whole-person transformation from10061 to10106."
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "689d697dc6f24d48bb9a0ab6108da717dd481393798938bc43064dfe74a79e56",
+        "line_text": "Her public gravity is partly produced by office and partly by others' interpretations. The ordinary profile's seriousness and widely held trust are testimony about her, not a poll eliminating the students' fear. Hinata's admiring report about her ancient-language pronunciation in Event812E001u15 is likewise a recipient's appreciation, not an inspected performance. At the ceremony in E014u64–71 Sakurako resumes formal work, asks attendees to wipe cake from their mouths and introduces the scripture through the council and its fourth annotation. This is actual represented presentation, without access to a complete doctrinal text or proof that every attendee interpreted it in the same way."
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "28caca1cb30a7503938f819c1d96ec65f3733a806cfe4f7647ff9171e40d6d0d",
+        "line_text": "The cake wish is especially revealing because public role does not remove private appetite. Secure named Sakurako in E014u33–35 admits she has never tasted this cake and wants it, even while remembering her position. Sensei's available alternatives encourage a visit or offer to handle matters; her recognition follows. The passage supports the desire and a negotiated interruption, not an audited quantity she ate. It should not be converted into evidence that she is secretly unserious about duty. She resumes the presentation; the ordinary wish and the public action coexist."
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "d2fc3de41de147684cf8dace8bc1fda83eeb0a50259978c96a053f5288379a06",
+        "line_text": "Private openness does not mean indiscriminate transparency. B10061E005 explicitly makes the conversation personal and leaves the secrets' contents withheld. The relief belongs to saying such burdens exist and showing a face less fixed by office. Her prayer for Sensei's everyday happiness and their actual walk are the endpoint (u58–63). The linked thread's possible accommodation for future late visits remains a plan, not a prepared room. These sources permit a valuable private relationship while leaving public knowledge and any institution-level obligations unresolved."
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "4cac44d657119c11f9c72ad3783b318d3f6b80ca221cce5e1993294afb5493ac",
+        "line_text": "The idol friendship distinguishes private responsibility from institutional absorption. When a new Sister mistakes her name for Sakura, the joyful three-hour karaoke encounter is actual. Sakurako then worries about the unintended deception and chooses to address it as her responsibility, not a secret the whole organization must carry (B10106E003u13–63). The BOND ends before the apology's result. The whole thread later reports a valued friend, a photograph and intended live attendance, then prints her desire to retain Sakura-chan and other Sisters stopping it in that setting. A mistaken name becomes an opportunity for a relation; it does not produce a second registered identity or prove that office can permanently disappear from that relation."
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "75dc9e361a895aa07b34bb8b4c8dfacf3e8930d8ff31a1d4511862b53f76ff69",
+        "line_text": "Public and private therefore cannot be arranged as a false mask concealing a true person. Her schedule work is something she says is not burdensome, her prayer is a genuine reported interest, and her ordinary friendship is also wanted. The division marks different permissions, audiences and obligations. A personal secret can be appropriately withheld in one conversation while a team report's omissions remain ethically troubling in another. Her private good does not decide the public case in advance."
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "d332c9d3177fccda580964603fcc149ca02caecfcd884e56a37a7bb3b01dc83c",
+        "line_text": "The Sisterhood is a community that advises, helps, questions and constrains her. The laugh advice is reported as kindness; the outfit plan is stopped after an order sheet troubles someone; some Sisters ask her not to wear idol clothing on Sister work while many responses are favorable (T101060010messages90–250). The same community helps produce the poster and restricts its cathedral placement. These are incompatible with a single image of either terrified subjects or unanimous admirers. Its members have time, tastes and institutional judgments of their own. The hobby scene begins because another Sister lacks time for her own interests, a problem not resolved by identifying Sakurako's messaging habit."
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "7b76d77d7c92d3b203155523abbc686193600a59bc3c3cf4a8ee5d193509a628",
+        "line_text": "Event828 makes the organization's dependence on outsiders and specialists explicit. The prologue values Ui's judgment and reading ability. E002 states historical scripture may be read by anyone, while Sakurako asks for consultation before copying; Ui fears pressure and harm to Hinata, and Hanako criticizes the intimidating secret approach. The actual exchange concerns access, method and a debt of prior help, rather than a simple conflict between enlightened openness and an irrational librarian. Hanako negotiates an investigation in return for overlooking the unconsulted copy (E002u1–15/u17–57/u73–116). Ui's imagined torture or disappearance is not an enacted institutional action. The threatening effect of the arrangement remains represented even without those imagined harms occurring."
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "fcc78fff772f20ebb8433cf3a1f4792cd0e99e43eb7e60df47857620c871cf42",
+        "line_text": "The whole island argument prevents Sakurako's institutional promise from becoming the whole ethical outcome. Ui researches, revises hypotheses, works with others and interprets the remaining objects; Hinata carries, protects, contributes force and chooses through conscience; Hanako negotiates, has ordinary wishes of her own and withholds information. At the conclusion Sakurako receives the report, thanks the team, admits frustration beside joy and actually overlooks the copying (E015u1–50). That is a fulfilled undertaking, not merely a kindly intention. But the original map is lost, a new one supplied and the capsule matter omitted. Ui acknowledges reporting duty even as she chooses reburying the capsule with its map companion, while Sensei questions whether Sakurako should be told. The account gives the team's memory/object argument real value and preserves the unfulfilled knowledge obligation. Future island use and repayment remain future."
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "2cbd646a092de4e9ef3e40ee25d5ce7c2de2dec72439216b98b835fabc4b54e9",
+        "line_text": "Antique Seraphim adds another setting of service and pleasure. The10106 profile reports volunteering to reduce prejudice, insecurity about suitability and strong internal popularity; it does not substitute for Event841. That event begins with leader image projects, includes Mine's independent cute-interest and gives Mari real costs from insistence and blocked communication. Sakurako's gratitude and apologies matter when the leaders release the junior inE007; her immediate rejection of Mine's sacrifice rhetoric because Mari is alive also restrains the proposed remedy. Yet E008 still combines disregarded contact attempts with a wish for Mari as idol leader, and E010's apology and explanation arrive after pressure. Mari herself is happy to assent. She is a participant whose pleasure deserves belief, rather than a passive device for either condemnation or vindication."
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "29b339385372bb73d5c6c4819ec8e2732d280255e8e9d2cd5828bd6f180ccd2e",
+        "line_text": "The later photo request gives a precise institutional limit. Sakurako asks about displaying images; Mari requests disposing of all of them and Sakurako agrees (E011u51 onward, accepted argument scope). Agreement is not depicted destruction. The local return to Sister work, retained enjoyment and private photograph for Sensei do not complete accountability, an image-use policy or all organizational reform. This monograph's context is adequate for Sakurako's role, while the separately required Sisterhood/Antique Seraphim and directed-relation homes remain responsible for their fuller arguments. No convenient GROUP number is invented as a Sisterhood-owned source."
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "6cde9f31389d44a20b8674b7eebb298234e35dcfc027e0e0d526d4f0bed39b50",
+        "line_text": "Her ordinary life is not reducible to trying to repair an intimidating reputation. Prayer, a different calm cafe atmosphere, festive noise and shared birthday joy are wanted in the written10061 repertoire. Adjusting the cathedral schedule before assisting at Schale is a specific coordination claim, not universal duty abandonment (UILobby5366–67). The source contains both vocation and leisure vocabulary. Profile HobbyJp prayer need not settle what she can answer when a peer asks about a hobby: in B10061E006 she is learning how to name something she does, not revealing that the formal category was fraudulent."
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "ea723f432f9e7577721742fa23fc96c574f37ab275e80e1fde570b03e847d69c",
+        "line_text": "Messaging is valuable as activity as well as evidence for attachment. The hobby explanation identifies conversations, topics and advice in spare or transit moments. Her later claim that the problem was resolved for her is a modest positive endpoint. Her sudden request to stop and be alone preserves control over intimacy; no confession follows merely because the reader finds embarrassment suggestive. The thread lets contact continue as something she wants. It does not require that the adult become her sole interest or source of ordinary life."
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "75a49797c3c385f0fd70fa47c18773d51a15ac5e85e802208a7877cad104eb1b",
+        "line_text": "Clothing and performance expose several different goods. The first ordinary shopping scene says accessory change is not then a matter of taste, and ends without a purchase. The idol outfit later has delicate material she willingly tends, a reported improvement in approach and a playful repertoire she uses. These are actual distinctions in her own account, so a family synthesis should retain them rather than retroactively declaring all shopping an expression of authentic fashion taste. Likewise the posters' personal worth is independent of permission to install one in the cathedral. Actual rest before the gift and the decision to store it carefully remain positive ordinary ends after the display proposal fails."
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "0495a0acaf6740695c1c4ebfe745ac463178e5b64919f104d9db584e70da554c",
+        "line_text": "Karaoke and the nickname make recognition a pleasure, not simply a public-image strategy. The three-hour interval, exchanged contacts and subsequent valued-friend report are substantive evidence. Her desire to keep Sakura-chan expresses a particular relation in which an office title need not do all the work. Other Sisters' refusal qualifies the setting of that wish; it does not erase the reported friend or require the reader to invent permanent secret double life. The reported shop photograph and intended live attendance likewise retain their right grades: no pixels, actual later attendance or documentary authentication are supplied."
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "8314b2c7d905d87b92bba817ca07b056be4e5f15fa456373bf82bf3e0accfe1f",
+        "line_text": "The planned date course is another genuine positive case. The Sisters' discussion and internet information presume what Sensei likes, and the adult initially wants an explanation. B10106E006u55–60 nevertheless narrates an unexpectedly enjoyable time; whole T101060540messages960–1060 asks directly whether it was enjoyed and receives affirmative alternatives. These endpoints cannot be recast as failure just because the plan began with a guess. Nor do they establish every activity, unlimited requests or an enduring romantic agreement. Her early exclusion of strange requests is part of the playful service (u5–14), not decorative language to be ignored."
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "3ba2aaa3c606e848cdc62d694523055c3bd7aa0824033fd4eff89db0c7bf9b8b",
+        "line_text": "Event834097 finally makes personal gift judgment explicit. She worries about delayed giving, imagines Sensei may have received many gifts and decides to follow her own heart (u7–10). Those worries are not an audited inventory or proof that he forgot. She reports giving the chocolate at u18, so manufacture, inspection, eating and taste are absent without the giving itself becoming a failed transfer. The present qualified review distinguishes Japanese without-consultation/research wording from the Korean this-occasion formulation, and keeps the alien-glasses or chocolate-time-dance ideas as suggestions she reports not adopting (u15–16/choice004). At the ending she is respectful but does not surrender her judgment even to the adult. The unfinished u32 must remain unfinished; her proposed exception for matters concerning Sensei (u34–35) is a personal intention, not future compliance or exclusive romance. This ordinary gift is an ethical encounter about agency, even without an institutional emergency."
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "a3cc7fe54da08b8d8becb174cb3806401315d9a8b44d5ca7fd75404867f6ccd9",
+        "line_text": "The Eden arguments give Sakurako public responsibility without assigning her every ally's act. V003C002 includes secure Mari/Hinata context alongside a Marie-labelled custody line while Mika addresses Sakurako; this unresolved seam cannot turn all of it into Sakurako's firsthand speech or Mari's action. InC003 Sakurako reports Mine's protective deception, treatment and continued sleep rather than providing the reader a clinical record. The declaration of Azusa's Trinity admission is a specific official action and must remain distinct from those reports. Hinata's own cathedral deescalation and practical care likewise belong to Hinata. Concern, aid and schooling are distributed achievements, not one benevolent office's complete solution."
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "775f3d67475e9e038d6d7ba38aac16377265833cdabc6989244ecf597b095602",
+        "line_text": "Sakurako's own injury context is consequential and cannot be annulled by a happy private repertoire. The accepted public arguments retain the injury at its report/scene grade, andC004's hearing/review and coalition rescue do not close justice, reconstruction or every affected person's safety. This is why the character's stated desire for trust cannot stand as a completed accountability register. V100 and Event821 preserve later collective assembly and action at their represented points; her positive Event821E008 header and commitment belong to that actual context. They do not certify that she caused all Final successes, authenticated every continuity or settled the earlier institutions' unfinished duties."
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "4108343ab218d21aa894111376e4c05165b0e270838b92ae0d0e76a47c082483",
+        "line_text": "The scripture event makes successful resolution and uncertain costs simultaneous. In812E014 the adult's heavy-object exchange with Hinata and her recognition of Kama Sutra, followed by the resumed presentation, strongly support replacement of the substitute. The text does not show each entry or swapping step. Mashiro's nonpursuit, reported light damage and declared venue-defense success remain task-bounded; no detailed harm tally or consent audit appears. Sakurako performs the ceremonial introduction, while the maker's offer, Club's serving labor, attendees' appetites and the adult/Hinata exchange each have their own causal place. Her cake wish is not evidence that she directed the whole armed diversion or authorized its unseen method."
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "2117ce47410513b5599eba48c61eaa8e01165218d91a559d5db162513ee19d8b",
+        "line_text": "The island event similarly separates role from omniscience. Sakurako commissions and receives work and completes her promised overlooking. She does not personally perform the investigation or know the withheld capsule matter. Hinata's protective armed action and resulting ruins collapse stay in Hinata's action sequence; shared work does not automatically assign the force to the commissioner. Ui's interpretive object care and Hanako's wish for a break are meaningful alongside concealment and pressure. That bounded distribution is neither an exoneration of the invitation's method nor a claim that Sakurako controls everyone else's response. Unfinished institutional policy and repayment are still missing at the event's finite ending."
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "38424d5262e8133d9f248340a569436949a0850826623e3936455ac967d79e12",
+        "line_text": "Sensei is a recipient and participant, not an invariant corrective mechanism. The prayer encounter preserves the two available opening approaches, waiting nearby or praying alongside. In the greeting failure the adult understands privately but does not communicate a useful repair aloud. During shopping, getting her out is a concrete assistance; the available reassurances differ between valuing continuity and opening a place for feelings. That help leads to local relief. The public explanation scene later exposes the limit of teacher authority: an objection is available, but a speech still happens and worsens misunderstanding. A flattering account of adult mentorship would lose this adverse endpoint."
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "30bdacbab3c9069a7c95c28afe5994a24d1eef124a08634823d9b8fd8150172b",
+        "line_text": "Sakurako also offers limits, help and concern. The secret conversation expressly permits departure without hurt, though the continuing printed alternatives both proceed. She prays for his ordinary happiness, they walk, and the thread worries about deprived rest; a future place to stay is only proposed. In the hobby encounter she ends the conversation and the adult leaves puzzled. These permissions and refusals matter without being inflated into consent for all other encounters. They show a relationship capable of incomplete knowledge rather than a right to complete disclosure."
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "f701da7ed3e71b9a88fa9714ced837efb83530a5fb47bf42fec6e1d06df9baa2",
+        "line_text": "The idol poster reverses the direction of giving. Sensei and the Sisters select photograph and place, make a surprise and produce actual joy. One available reply refuses to deny that she is still strange, so affection need not depend on an adult certifying normality. Sakurako asks for a short interval before another appointment and they actually rest. In the prepared course she offers exaggerated play with an explicit request limit; the eventual pleasure is narrated and affirmed in the whole thread. These are reciprocal, finite goods. Neither grants the adult a permanent supervisory claim over her ordinary preferences."
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "044bb5be22ad28bfcca980b9000e2c9ab6c99e1f6f6ee88ea36c9a48293f5836",
+        "line_text": "The834097 encounter requires special care with written mode and reception. Native u21–22 is classified sensei_internal, comprising an address and aggregated encouragement clauses, while u23–25 represents Sakurako reacting to sudden words or intensity. The accepted review preserves that tension instead of declaring the words inaudible or silently converting the whole exchange into public dialogue. Her subsequent throat-clearing, understanding, qualification and respectful apology (u26–33/choice005) are not total conversion. The unfinished qualification at u32 and intended exception at u34–35 preserve agency beyond teacher encouragement. Japanese before-opening wording versus the Korean additional-point framing also leaves opening/inspection unprinted; encouragement cannot supply a chocolate tasting result."
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "b5ea70664df9150bd5fd176bf5c5bfc8ed6de28c04d76ec9a27a23337501187d",
+        "line_text": "At public scale, adult aid does not erase other agents' responsibility or remove the right to scrutinize concealment. The scripture replacement is strongly supported but lacks a complete permission record. The island report leaves Sensei asking whether Sakurako should be told of the capsule. Event841 gives Mari her own assent, refusal and photo decision; the adult's role is part of that distribution, not authorship of her preferences. A complete Sensei-role synthesis and the separate directed-relation homes remain required Phase3 duties. This character account provides evidence and contrary cases without claiming to finish those packages."
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "aad5e09f3f48f002a13a075f435d99c72ecf7a4af718ddc8e593386f6032408e",
+        "line_text": "The unnamed Sisters are independent recipients and collaborators. Some advise laughter, others encounter worrying messages, an order sheet troubles someone, some restrict idol clothes during duty and others welcome them. Their disagreement is evidence for a living peer community. It cannot be smoothed into universal admiration because a profile says she is popular, or into universal terror because students flee a greeting. The community's gift work and placement refusal are particularly strong: people can value her and say no to an intended use of their shared space."
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "088d861d8659faa98c02bccaaf7458bc78403e08899553258a38b94e904f3e63",
+        "line_text": "The new Sister in the Sakura encounter is also a person with a relation beyond Sakurako's image project. Actual karaoke, exchanged contacts and the desire for another meeting precede Sakurako's own ethical discomfort. The later valued-friend report moves the outcome beyond the BOND's intended apology without reproducing an unprinted apology transcript. A friendly nickname is wanted and contested by different peers; it need not carry a global policy. The case supports the possibility of ordinary friendship, not a claim that every acquaintance should ignore her public identity."
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "cf8ef4bd75e4c272048f84d16b47f8acd631499005823e897a3cf6c0d1f7e0ea",
+        "line_text": "Hinata is neither an interchangeable Sister nor Sakurako's passive extension. Her admiring pronunciation report, actual work, protective strength, destructive consequences, recipient limits and chosen conscience all survive at their own public scopes. Ui's distance requests and Hinata's independent assent in828 are not a decree by Sakurako. Nor does Hinata's anxiety around a book establish the entire organization's doctrine or threatened punishment. Sakurako's authority helps give that anxiety its setting, while other people provide their own interpretations and acts."
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "961d8f10a8719c5c264815c5188fed0c28b8c63b7d8ed20c161f946748c558d7",
+        "line_text": "Ui and Hanako make institutional knowledge contested. Ui's expertise is wanted, and her fear around an unconsulted copy is acknowledged without making imagined torture actual. Hanako names the intimidating method and prior debt, negotiates the bargain and later withholds the capsule matter. Ui chooses a memory-oriented object disposition while acknowledging reporting duty. Sakurako's actual promise-keeping and frustration deserve weight here; so do the research team's interpretation and the missing information she cannot evaluate. Neither side is made a complete ethical authority by the coda's good will."
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "0ac621fc2f89dad70afde4d0dfc36b91d64d7650eb85b05292a1cdc5b0f64748",
+        "line_text": "Mine and Mari expose differences within leadership and junior service. Mine's interest in cute presentation is personal, not solely a public strategy, and Sakurako's immediate refusal of sacrificing a living Mari limits one rhetoric of remedy. Both leaders nevertheless participate in the image plan and subsequent pressure. Mari's early service, overwork, blocked contact, exploration, later happiness and leadership assent are separate states. In the ending her wish for ordinary company and her instruction about photographs have force. Sakurako agrees to the image request, a positive response that does not retrospectively grant consent to the preceding pressure or demonstrate destruction. Nagisa's inquiry and the unfinished later discussion add outside scrutiny without a completed accountability procedure."
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "3b0a4d026bf9bde94ce10d3919e12f6604fe941d63ad9a84f81cd600f7fbe0b1",
+        "line_text": "The Sweets Club, maker and attendees in812 reveal an ordinary crossing of rank without collapsing their work or identities. Sakurako's cake wish shares a good with others, but the maker's stock claim is not an audited abundance and the Club's serving labor remains necessary. Natsu's praise of eating is checked by a peer stopping evasion. The ancient-scripture ceremony can therefore contain common appetite, scarce supply, work and authority at once. The occasion enriches Sakurako's ordinary breadth; it does not prove all-school equality or universal welcome."
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "f04ad4e31c4527e58eb3e06c92ea02414781dbe997550ec1bcd94d4fbf16a528",
+        "line_text": "Her written repertoire moves among solemn address, internet experiments, hesitation, playful idol service and plain desire. “Watching” in the greeting can be protective to the speaker and unsettling to the students. Laugh-framed messages, the eventual わっぴ～! and Sensei's confusion belong to the written comic sequence; no sinister acoustic delivery or diagnosis is established. The scene's actual flight is enough to support miscommunication without requiring an imagined voice performance."
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "4e99697b504553dc73713d4b81fecd2d2ce3d6c81fe8f78b63b57c178c73a12a",
+        "line_text": "The10061 private repertoire gives form to boundaries: the personal matter, permission to leave, withheld content, the prayer for everyday happiness and the abrupt request for alone time. These are different communicative acts, not proof of inability to speak normally. The10106 礼装/衣装 false starts record uncertainty about an outfit's place. The Sakura-chan request records a desired address and the peers' stop; it does not license a second identity. Exaggerated date-course offers include the exclusion of strange requests, which has ethical force within the play."
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "7f356df5a008a70426413f1adc989412b92b2e5f3b1a9ebeed29017e04498d1c",
+        "line_text": "Written profiles and triggers extend the repertoire without multiplying biography. Normal cafe5357–61 and lobby5366–80 supply calm, coordinated assistance and festival/birthday pleasure. UILobbySpecial5382–91 repeats the secret conversation rather than witnessing a second confession. Idol cafe and lobby offers of autograph, contact and birthday/new-year songs are mode-conditioned forms; WeaponGet's clothing/person distinction is not an empirical identity test. Halloween wording permits wanted play while distinguishing the day from mere costuming. The special poster repeats an existing scene, not another independently made poster."
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "830d2b77051314ac41d3977217942ecb4a7b2db5d371dd4ad9e53708a0a0c4a5",
+        "line_text": "Costume1900931101 explicitly carries Event841/10841 Lobby/Mission contexts: warmups, enjoyable time, wanted proximity, repeated calls without knowing what to do, practiced dance, work confirmation and a denial of deep meaning in a two-person remark. They are written forms under those source conditions, not an inspected handshake, dance or second public festival. E812's secure Sakurako u33 and the accepted actor qualifications around other Club/maker speakers remain exact; Hinata's earlier praise cannot become Sakurako's heard pronunciation. E828's actor seams and nonmonotone u193 are likewise preserved rather than repaired through a plausible character guess."
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "b2955b0cd7e96b57019847fa2fbf698395e70f25dc636d4779554ba8b85654a1",
+        "line_text": "Event834097 offers a particularly consequential local comparison. Japanese and Korean differ in the late-arrival/summoning emphasis, before-opening/additional-point wording, consultation/research formulation and fashion self-assessment. The accepted D01 qualification preserves u32 unfinished and its reciprocal occasion links; no missing prohibition, compliance or difficulty is completed. Formal choice001option002 has a Japanese Valentine label that the Korean reminder leaves unlabelled, without proof of selection, an enacted year or a universal calendar join. Native inward mode versus represented reception remains unresolved as mode, not as a license to deny Sakurako's printed response. All this is written textual analysis. Audio, asset pixels, animation, tune and continuous audiovisual performance remain unreceived."
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e536eae92c6f5f5a615d919c8b77dd793649085508d11279c92baf1a379040d1",
+        "line_text": "**The harmless intimidating-Sister joke.** Laugh messages, internet greetings and public explanations plainly have comic structure, and some alarming impressions are not her intended meanings. But students actually flee, an unwilling public-certification task still happens after an objection, the island invitation is criticized as intimidating and Mari bears real limits and costs. Calling every problem a joke suppresses recipients. The bounded alternative keeps comedy as a register while taking represented effects seriously; it does not convert fear into proof of an abusive secret policy."
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "42b913334444d09c4bbf81320d062569eccdad9dfe62fa9b09320468f4cfcc3a",
+        "line_text": "**The authoritarian leader beneath a kindly surface.** The image plan, institutional secrecy and use of another person's authority support an adverse case. They cannot be dismissed by good intention. Yet the secret conversation gives explicit departure permission, the hobby talk stops on her request without forced disclosure, outfits are cancelled, the cathedral poster is stored rather than installed, Ui's bargain is actually honored and Mari's photo request is accepted. Some encounters successfully receive care and pleasure. A person-wide domination thesis would erase the same independent choices it rightly protects elsewhere."
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e6f76989c36ff9613395c69f0bac4c4740d52a7e57d61d38a17e58ac5865c17c",
+        "line_text": "**The isolated workaholic rescued into leisure by Sensei.** Her access to the outside world is situated through reports, her schedule is full and she struggles to answer a hobby question. But she specifically denies that the scheduling work is a burden, already has prayer and messaging, goes to karaoke with a new peer and receives help and limits from Sisters. Sensei provides some useful assistance and some ineffective guidance. Neither burnout nor adult-exclusive salvation is warranted. The stronger reading gives vocation and ordinary interests their actual co-presence without diagnosing an unseen total life."
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "0c811a830c870ad20b6b5e034b7d4aa4abb84294debeafdb04ce1e8760e7d911",
+        "line_text": "**Idol fashion as completed social liberation.** She reports increased approach and reduced avoidance; a valued friendship, joyful poster and enjoyable prepared course are positive evidence. Those gains should be believed at their stated grades. Still, the universal outfit project is cancelled, some workplace clothing is refused, Sakura-chan is stopped in a setting and cathedral display is prohibited. Event841's junior pressure also survives the enjoyable coda. Image can help a particular relation while failing as a rule for everybody. No chronological variant ladder or cured reputation follows."
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "121947b2a9a7c595cd9263dc24fea43469ce146553c3e85957a98b9768cfff40",
+        "line_text": "**A perfectly transparent, benevolent religious institution.** Reading access is affirmed, specific aid occurs, Azusa's admission is a public act and the copying bargain is fulfilled. Nevertheless the invitation's method is criticized, ancient contents are not supplied, private burdens are withheld and the island report omits an acknowledged issue. Nor does the opposite reading of pure secrecy account for promise-keeping, specialist dependence and the right to read. The monograph can judge particular methods and outcomes while retaining doctrine, policy and accountability as incomplete knowledge."
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "c8d4d06546e01929bf0005cf62cd89a74e059e70c6a1d96c80f23dd699ba8a1b",
+        "line_text": "**A romance proved by service, aliases and special exceptions.** Her attachment, preferred nickname, private time, playful course and Sensei-specific gift intention are significant. They need not be emptied of affection. But embarrassment is not a confession, the course has explicit limits, selected replies are alternatives, the gift's u32 qualification is unfinished and u34–35 concerns a proposed personal exception rather than future exclusivity. Wanted company supports the relationship's literary depth without a contract, canonical romantic status or a second Sakura person."
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "f2e16b53188d39b72af4b770aa982a917f86a348e5dd9f67d439885f14a5a503",
+        "line_text": "**An entirely powerless administrator because others withhold evidence.** The island team indeed determines part of what she can know, and the ceremony's rescue depends on other actors. That does not remove her commissioning authority, formal presentation, official admission action, fulfilled bargain or influence on a junior image project. Conversely, those actions do not make her author of every rescue or forceful intervention. The serious middle account tracks what she actually does, what she reports and what other people choose, without promising comprehensive institutional reconstruction."
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "d6aca4f95d197403b87bcdc4cef472f23a0a7e4656424ae65462c851c4ed5e4d",
+        "line_text": "The adequate private authority is the current BLUE_ARCHIVE_SAKURAKO_MARI_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md,83728bytes/475lines, SHA25678e94f81eb4038eba83c8256628d870a60e2bd3975d55dc2ce7d2db82394e49d. It was personally received wholly through EOF: Sakurako's9BOND/9whole linked MomoTalk/3written=21, with Mari's29 as fully received comparative context. Its literal source IDs, whole-thread Schedule associations, arguments, codas, alternatives and limits govern this synthesis. Producer primary exposure/custody/independence and source-reading credit remain attributed or UNKNOWN where undeclared. Present Cycle008 admission governs preserved older intake warnings; neither a wrapper warning nor this new monograph creates or withdraws admission."
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "e2fc095ccc86a26c147d0642c2deefbc5dc83b67e56b605116d0f2012d55f8b6",
+        "line_text": "Consequential public authority consists of personally complete accepted V003C002/C003/C004 and the previously whole V100 argument at the declared reuse scopes, plus the personally whole Event821 checkpoint; all remain exact source-bound arguments rather than primary replay. Event812E014's entire small71-line reading and the maintained checkpoint's adequate complete literary synthesis and selected current/source bounds were freshly received. Event828's complete substantive634–1032 and current36–66 were freshly received; its longer routing/proof annex is not falsely claimed whole. Event834's current selection and particular097 context join the entire83-line accepted effective D01 final review of097. The review's historical intake wording is governed by current Event834 contextual adoption. Event841's adequate complete substantive665–1040/current40–74 is personally reused from Mine/Mari custody, not a claim to have newly received its whole1656-line annex. The companion receipt states the actual frames and exact historical/current analytical tuple comparisons."
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "ab6260ab84176b46f0352b7a09b6e1eca418fcb7203a2549b05d0c4af2171faf",
+        "line_text": "| Original stable gap | Sakurako contribution and remaining warrant | Status |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "acc3b63f779536edf237ca844bc29a61d59404c4f9dc2483339f5cd08e6931f9",
+        "line_text": "| G01 Ordinary and private breadth | Complete private21, karaoke, messaging, prayer, cake desire, storage choice, nickname and actual course pleasure broaden the repertoire. Exhaustive future coverage or whole-person invariance is unproved. | OPEN |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "81ea2cb8026611af6cce5b0e2a1d66bcaac2788ef6d17d991aa9f3a78728b686",
+        "line_text": "| G02 Yuuka council/club decision transfer | Sakurako's negotiation and coordination supply comparison, not completion of Yuuka's council/club responsibility or causal transfer. | OPEN |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "1f3a224819d889633ed461dda969cfb0c7ccf0cb3c8f16465cb737674fea6dec",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Independent recipient agency is methodologically relevant; this selection adds no complete Serika service, reciprocity or repair argument. | OPEN |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "8443f34c366a47fe9388bb0f13854af2fa99d6776a6fe83c01a545ca16a1d3d8",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Sisterhood authority and injury context cannot settle Hina's distinct crisis cause, restitution or ordinary transfer. | OPEN |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "c31a01de5e9b6605d825d26664d0f383fb24b82543c6189e7e2ae93dd6ea798b",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Eden aid, school admission and distributed coalition acts stay at exact grades; no whole Arius/PS68 settlement or Sakurako authorship of it follows. | OPEN |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "c28e09e3c8a1769a48c3fca12e46c525dd57d75e5468bec2a174489810dff237",
+        "line_text": "| G06 Cross-school ordinary repertoire | Shared food, gifts, work, company and scholarly pleasure have intrinsic value. Particular welcome does not certify universal interschool consent or equal power. | OPEN |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "1de6ed5d9af09a7e63e700de7ae8a26e2ee648c305b6e7a381be5f9a0ed63ed5",
+        "line_text": "| G07 Story-world chronology | Local previous attempts, rehearsal, poster preparation, encounter/thread codas, island invitation/report and future policy are positive relations. Variant IDs, release dates and costume contexts supply no global calendar. | OPEN |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "a01aceecccd19d9d2c269d50541d168100e8e152635f8acc64ce16e50d01a70b",
+        "line_text": "| G08 Event naming and repeat contexts | Exact812/828/834/841/10841 and821 contexts remain distinct; occasion choices and repeated UI scenes do not create another enacted event or a dated Valentine year. | OPEN |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "c2376af2dba214553cc95392f78735baf74d553d9941b8baada180c20eb7135c",
+        "line_text": "| G09 Written speaker/choice attribution | Secure Sakurako812u33, Main custody seam, island actor seams/nonmonotone193, complete alternatives and834097 inward/reception tension remain source-specific. No silent speaker or mode repair. | OPEN |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "7a8375e175bb919b91216dae5994253bbb5da8cbb78de1e81791952eb023773e",
+        "line_text": "| G10 Performed voice | Written laughter, hesitation, pronunciation report, karaoke, dance practice and songs remain textual. No acoustics, acting, tune, pixels, animation or continuous AV has been received. | OPEN |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "905fb0e9b5e5aba6bd39fd4ff9330764be48a2544d5dbec2f4b1829da22405f5",
+        "line_text": "| G11 Hoshino's Yume record and office states | Sakurako's secrets and administrative work do not authenticate that distinct record, death or office responsibility. | OPEN |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "c41acd8b9eb8400388e9869559d3b6f957dfd2d1c05a56b38d5e3bfd7956fd18",
+        "line_text": "| G12 Counterpart, system and variant identity | BA_PERSON_SAKURAKO,10061/10106 and exact costume support bounded person comparison. Sakura is a mistaken friendly address, not a new person, continuity chain or chronology. | OPEN |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "27263658232c5b9af106eb1e08ebc42b98e15135de53892c7be0cffcadb2ecd9",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | No clinical cure, whole doctrine, approved covert-entry mechanism, harm audit, actual photo destruction, completed apology transcript, future island policy, universal consent or enduring reform is certified. | OPEN |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "f351766735cc2c4b78eaca79993ca33b1a364a2e39600764a8b86c3a85db78dd",
+        "line_text": "| G14 Unclassified/mode continuity | No unadmitted class, trigger, inward mode, raw actor token, prop or command establishes new narrative/performance continuity. | OPEN |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "f3619af5a99a2002fd56c75a352301bf68d49e9af81b7b4fd147dbb2393bbe6e",
+        "line_text": "No mandatory new primary recovery remains for the actual bounded claims. Stronger claims about the public custody speaker, institutional secret contents, complete ancient doctrine, unseen substitution permissions, full damage/treatment, surviving-letter authorship, future island policy, apology enactment, photo destruction, asset performance, gift opening/taste or a permanent romance would require missing evidence and are unasserted. The original fourteen gaps remain open, including subjects for which this monograph makes no direct contribution."
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "frozen_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_text": [
+          "artifact_type: character_monograph"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          7,
+          8
+        ],
+        "canonical_lines": [
+          7,
+          8
+        ],
+        "frozen_text": [
+          "version: \"1.0\"",
+          "status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0\"",
+          "historical_author_status: AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_PENDING_INDEPENDENT_ROOT_RECEIVING"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          24,
+          24
+        ],
+        "canonical_lines": [
+          24,
+          32
+        ],
+        "frozen_text": [
+          "publication_state: LOCAL_CANDIDATE_ONLY_ROOT_ADOPTION_REQUIRED"
+        ],
+        "canonical_text": [
+          "historical_author_publication_state: LOCAL_CANDIDATE_ONLY_ROOT_ADOPTION_REQUIRED",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAKURAKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          28,
+          27
+        ],
+        "canonical_lines": [
+          36,
+          37
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAKURAKO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAKURAKO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          159,
+          159
+        ],
+        "canonical_lines": [
+          169,
+          169
+        ],
+        "frozen_text": [
+          "No new primary/native/raw/QA/AV inspection, new empirical mechanism, prediction, actor repair or operational model follows. Specific source actor/mode tensions remain open; ordinary joy and reported friendship require no stronger evidence than the claims made here. The bounded thesis is reviewable without filling those stronger claims. ROOT's independent whole receiving, exact verification, canonical adoption and any completion count are separate required actions, and this candidate supplies none of those permissions by itself."
+        ],
+        "canonical_text": [
+          "No new primary/native/raw/QA/AV inspection, new empirical mechanism, prediction, actor repair or operational model follows. Specific source actor/mode tensions remain open; ordinary joy and reported friendship require no stronger evidence than the claims made here. The bounded thesis is reviewable without filling those stronger claims. ROOT has independently received and exactly verified this whole bounded argument WITH LIMITS. Complete ROOT installation, remote publication and main integration remain separate actions; the frozen author granted none of those permissions by itself."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          180,
+          180
+        ],
+        "canonical_lines": [
+          190,
+          190
+        ],
+        "frozen_text": [
+          "Character completion within these limits remains ROOT's decision. The separate directed relations, Sisterhood and Antique Seraphim institutions/ensembles, Sensei role, written-register syntheses, full eligible cast and later Phase3 convergence remain required work. They are not optional merely because this character candidate is complete for its authorized scope. Ordinary ends continue to belong in those packages alongside adverse consequences and unfinished duties."
+        ],
+        "canonical_text": [
+          "ROOT has accepted the complete bounded character responsibility WITH LIMITS; persistence follows only complete ROOT installation. The separate directed relations, Sisterhood and Antique Seraphim institutions/ensembles, Sensei role, written-register syntheses, full eligible cast and later Phase3 convergence remain required work. They are not optional merely because this character candidate is complete for its authorized scope. Ordinary ends continue to belong in those packages alongside adverse consequences and unfinished duties."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 44177,
+      "sha256": "51349f5f9db77b8a6c078ff583e6478d248c29c7d7f04ccf61e1782579ee34ca",
+      "git_blob_oid_of_actual_bytes": "bdae8410ceee0f02eb7913e0a24f1b2b5d8df5d1",
+      "lines": 180,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 106064,
+      "sha256": "c746a1e518484acd24264827e95b432f8d1673c6c82519cc6ab0d04bcdea1c9f",
+      "git_blob_oid_of_actual_bytes": "98966b5f829e988172e86dd3a4f51a5ffab85cbc",
+      "lines": 2143,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/SAKURAKO_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3311,
+      "sha256": "bac1a1beb33be04c8afdc4bddd9b0c2758d7b3a491d2abe9b4cd908e1b67db8d",
+      "git_blob_oid_of_actual_bytes": "4aa70ebe0fdff7d1712c157a32e80f5637c10df2",
+      "lines": 59,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/SAKURAKO_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_SAKURAKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6206,
+      "sha256": "e6e7b5ac03b90b7a06942e8c06716164562183d37dcb41b1912be4a361339a97",
+      "git_blob_oid_of_actual_bytes": "3bcaa89bef29a9d0e67a545346d497fe3f4c3067",
+      "lines": 81,
+      "immutable_transport_path": "immutable_originals/ROOT_SAKURAKO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 8133,
+      "sha256": "67b278d94ebd7cd6b4fd3069f1434d8c142991c71a2a3d101c806cd2c7ccb5d8",
+      "git_blob_oid_of_actual_bytes": "8ee84634b98e40eab025712cd76c836348c0bcae",
+      "lines": 39,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "SISTERHOOD_MONOGRAPHS/SAKURAKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6611,
+      "sha256": "0663b5a9e55632f8c812fa190a57e76f68b47a9dbd8fb814cdd7bd882b24c28d",
+      "git_blob_oid_of_actual_bytes": "09d5506b38d2b0cd9f208dca4b46cea8869063c6",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/SISTERHOOD_MONOGRAPHS/SAKURAKO_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

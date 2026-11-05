@@ -1,0 +1,280 @@
+{
+  "schema": "BLUE_ARCHIVE_REIJO_KAGUYA_COMPLETE_ORIGINAL_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_CURRENT_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+      "original_exact_tuple": {
+        "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+        "bytes": 8535,
+        "sha256": "e281613934c06218ec5b31ea30f9264a3c844a3fe21628c5a72455a7857d8ea2",
+        "git_blob_oid_of_actual_bytes": "926b0ab20ead5e73ba7ffff235473c1736a74249",
+        "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_ROOT_REIJO_KAGUYA_EXISTING_HOME_AUTHOR_ALLOCATION_V1",
+        "checked_UTC": "2026-10-10T21:23:26.253647+00:00",
+        "decision": "POSITIVELY_ALLOCATE_EXISTING_DIRECTED_RELATIONSHIP_FOR_COMPLETE_C_ONLY_AUTHOR_ARGUMENT",
+        "home": "P3-REL-REIJO-KAGUYA",
+        "original_responsibility": "HYS::significant_responsibilities::12",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "mandatory_named_duties": [],
+        "assigned_author": "/root/phase3_toki_monograph",
+        "frozen_plan": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_METADATA_SOURCE_PLAN_V1/REIJO_KAGUYA_POSITIVE_EXISTING_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+          "bytes": 39637,
+          "lines": 586,
+          "sha256": "a996be6c07d81d37c7d0220f4e9afaf0fce4d8527464e54bc258e05d0608bdae"
+        },
+        "freeze_sha256": "89381686b2c863b5fff0a130fc8c5cd95191e1962069994479fc9584ea166261",
+        "ROOT_actual_receiving": {
+          "whole_plan": "047afe1–195/7ef3db196–390/6ffd63391–586EOF, all fields untruncated",
+          "whole_freeze": "d2074b1–103EOF",
+          "scope": "Exact355required parent,384home partition and originalHYS12 question independently joined; eight small C bindings and five core/three optional exact R/bf5 source tuples verified. Mechanical source hashing does not confer fresh literary or primary receiving.",
+          "meaning": "Both directions, independent craft/company wants, children/other recipients, seven rivals, six finite ending constraints, all14 original OPEN names and effects, independent Kaguya character/Kai/Genryumon/Mina–Reijo duties received. Existing positive home only, no new scope."
+        },
+        "full_original_responsibility": "The Mina/Reijo investigation has different cinematic ideals, challenged premature certainty, effective joint action, a deferred insufficient apology and ongoing disagreement. GROUP340's Reijo/Kaguya rivalry is a separate craft/recognition argument: projection of one movement into different expertise, actual respect, refused membership and an imposed purpose that frightens children. Kaguya is a source-local named person, not a generic opera role or inferred typed family. Her actual840 title refusal, retained remonstrance and bodily cost require an independent eligibility question after complete839/other public owner receiving. Sparse or unjoined metadata must not erase this substantial person. The final home may combine the craft argument institutionally while retaining the named Kaguya responsibility.",
+        "complete_argument_responsibilities": [
+          {
+            "section": 1,
+            "responsibility": "Literal scope, source-world boundaries and thesis question",
+            "question": "How do two independently wanted crafts turn shared company into competing instructions, and where do actual respect and recipient costs coexist? The relation must earn a bounded answer rather than presume rivalry is only injury, vanity or wholly harmonious friendship."
+          },
+          {
+            "section": 2,
+            "responsibility": "Different craft histories and ordinary wanted ends",
+            "question": "Preserve Reijo kungfu/cinema, foods and company separately from Kaguya opera/recognition and procedural criticism. A leisure/craft scene is intrinsically evidence, without crisis relevance as an admission criterion."
+          },
+          {
+            "section": 3,
+            "responsibility": "Reijo toward Kaguya",
+            "question": "Track respect, interpretation, disagreement, proposed intervention and actual local answers from Reijo side; reports and projected demonstrations must not become achieved skill or actual blows."
+          },
+          {
+            "section": 4,
+            "responsibility": "Kaguya toward Reijo",
+            "question": "Track Kaguya own judgment, reception, refusal, recognition and costly instruction; do not derive her motives solely from Reijo narration, Kai influence or an unjoined profile."
+          },
+          {
+            "section": 5,
+            "responsibility": "Mutual interpretation, practice and disagreement",
+            "question": "Distinguish shared movements, different expert interpretations and opposed purposes. Requested membership/refusal, planned force and printed endings are separate acts."
+          },
+          {
+            "section": 6,
+            "responsibility": "Independent recipients and finite outcomes",
+            "question": "Give researchers, Rumi, Kisaki and children/Kokona their own stated interests, fear, refusals, criticism and actual apologies. Started collective exercise does not prove durable agreement, growth or completed reparative work."
+          },
+          {
+            "section": 7,
+            "responsibility": "Public/private contrast without invented joined continuity",
+            "question": "Use the ten adequate Reijo private meanings as independent contrast and the Kaguya public-local argument at actual scope. Neither coappearance nor a common institution proves a shared private encounter or relationship developmental ladder."
+          },
+          {
+            "section": 8,
+            "responsibility": "Office, arts and technical/procedural limits",
+            "question": "Separate Genryumon, school tradition, craft judgment, title refusal and institutional costs from the directed relationship. Criticism can remain legitimate while chosen means impose harms; narrated prowess is not empirical certification."
+          },
+          {
+            "section": 9,
+            "responsibility": "Written address, actor and choice constraints",
+            "question": "Retain source-local written speakers, display/text seams, inward Sensei narration and alternative choices. No performed-voice inference or merged choice branch."
+          },
+          {
+            "section": 10,
+            "responsibility": "Serious competing readings",
+            "question": "Test at least the listed rival hypotheses against full positive and contrary endpoints; allow scene disagreement rather than one person-wide flaw thesis."
+          },
+          {
+            "section": 11,
+            "responsibility": "Bounded conclusion, exact sources and all14 OPEN limits",
+            "question": "A complete literary argument can state what this selected relation supports while named independent duties and stronger empirical/chronology claims remain unfinished. ROOT review and adoption determine completion; metadata plan earns no credit."
+          }
+        ],
+        "mandatory_debt_before_freeze": [
+          "ROOT positive author allocation after finite-plan and non-overlap review.",
+          "All consequential actual claims must be secured by adequate complete accepted meanings at declared scope; repair an exact clipped/ambiguous paragraph before freezing. Do not claim a newly complete source reading from this plan.",
+          "Both directed actor arguments, independent recipients, serious contrary endpoints and all14 literal OPEN dispositions must be fully written and personally body-read before freeze.",
+          "Source-local Kaguya and all unnamed actors must remain bounded. A real newly disputed exact wording/actor/endpoint claim must be resolved by smallest necessary admitted source recovery; no hypothetical new-primary debt is manufactured."
+        ],
+        "precise_custody_requirements": [
+          "Reuse own adequate full GROUP340 accepted argument; receive complete necessary consequential argument before any stronger exact claim, without blanket primary replay.",
+          "Use839/840 independent Kaguya craft/criticism/endings as counterreadings at actual adequate scope; coappearance/context never manufactures a dyadic action.",
+          "Use Reijo153/ten private meanings at actual own adequate scope only, with source-local written choices/speaker distinctions and no unreceived original/private Kaguya pool.",
+          "Core food/company/craft/refusal and low-stakes adverse recipient evidence is intrinsically required, without a stakes threshold.",
+          "Write both directional arguments, seven serious competing readings, actual endpoint limits and full14OPEN dispositions; personally read saved complete body and consequential receipts, preserve originals, then ROOT independently receives.",
+          "C-only new folder; no repository/Git/provider/count writes and no model/prediction/native/raw/QA/AV/identity admission credit."
+        ],
+        "scope_preserved": {
+          "required_packages": 355,
+          "home_objects": 384,
+          "mandatory_named_duties": 29,
+          "distinct_named_parents": 25,
+          "selected_counted_home": 1,
+          "selected_named_duties": 0,
+          "new_scope_entries": 0
+        },
+        "ROOTaccepted_packages_unchanged": 113,
+        "published_source_packages": 101,
+        "published_and_merged_packages": 89,
+        "next_merge_milestone": 178,
+        "new_literary_completion_credit": 0,
+        "full_goal_status": "ACTIVE_INCOMPLETE"
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "REIJO_KAGUYA_COMPLETE_RECEIVING_RECEIPT_V1.md",
+      "original_exact_tuple": {
+        "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_COMPLETE_RECEIVING_RECEIPT_V1.md",
+        "bytes": 4249,
+        "sha256": "397d2df6d749459583da3aa255a21ca5004916d28a6e31dbcb967ae175ce3b60",
+        "git_blob_oid_of_actual_bytes": "0be0f187aa42866ccf44a55e63fb64009b42af6d",
+        "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_COMPLETE_RECEIVING_RECEIPT_V1.md"
+      },
+      "complete_original_payload": "# Reijo–Kaguya complete candidate receiving record\n\n- Existing home: P3-REL-REIJO-KAGUYA / HYS::significant_responsibilities::12; no mandatory named duties. ROOT author allocation is positively bound; acceptance remains independent.\n- Saved complete body:148 lines,37,758 bytes, SHA2564cfe2c42abc0c6edea7cfc6b9c021adb2ef72bf74a967ebc91bdd0566c295dfd; eleven substantive sections,37 numbered argument paragraphs and seven serious rival paragraphs.\n- Own saved-body reception:3e3f901–55,1d28f956–104,aa97b5105–148EOF; final25/39/111/125 precision clauses personally receivedd68e5a; other144lines unchanged. No body update after final receiving.\n- SourceS01: accepted G340 owner, full188 personally received2e91dc/68f5b6. Not three new canonical/raw source completions.\n- SourceS02: prior own whole839158 retained; fresh94–136 complete consequential meaningsf88486. The849675 literal probe alone is not whole argument reception.\n- SourceS03: prior own whole840149 retained; fresh86–144 joined after clipped2a781b was repaired by complete109–12666076a. No fresh whole149 claim.\n- SourceS04: accepted Reijo normal153 personally wholea314d8/c4265e; all10 adequate private meanings and four full-MM linkage rows, not new original source reading.\n- SourceS05: current shared adoption142–178 and Reijo295–302 completeb789df; earlier declared bounded custody retained, no whole560 claim.\n- Exact5 R analytical files copied unchanged atb48f5f; fresh source hashing/copying grants no literary or primary credit. Optional826/859/Final routes remain unused in this candidate.\n- Ten private duties are B4/MM4/W2; written costume840/10840 repeats keep exact conditions, not new scenes or a second person.\n- Both artist directions are substantial. Reijo private wishes are independent comparands; Kaguya public-local craft/procedural claims are independent, not an inferred private pool.\n- Kisaki explicitly respects their aspirations. Mutual approval between the rivals is unproved; no mutual-praise encounter is invented.\n- Thought/private near-insults and proposed force are distinct from a heard insult or actual duel. Exact actor/choice/inward seams remain qualified through accepted controls.\n- Researchers invite cooperation/membership; actual Reijo refusal for work is respected. It does not promise universal receptivity to Kisaki's different answer.\n- Children/Kokona wanted activity and actual fear survive the comic context. Disputants apologize; protective loudness also needs Kisaki's apology.\n- Reijo's attention to children's food shapes/preferences differs from her own sweets/welcome pleasure. Quiet texture is intrinsic evidence.\n- Reijo's840 assessment of absent Kaguya and her secrecy preference are real positions, not a fabricated dyadic conversation or consent.\n- Collective exercise starts; trend remains hedged.840 theatre/festival occurs with costs; neither proves a settled rivalry, completed recovery or transparent reform.\n- Seven serious rivals retain both positive/contrary endings; no one-wide blame, status-only, puppet-only or harmony-only account is imposed.\n- All14 original gap IDs/full names remain OPEN with claim-specific contributions and unproved stronger warrants. No renaming or narrowed global closure.\n- Current Cycle004/005/008 meanings qualify historical warning/proposal headers. Source7546/main2e/controlbf5/mergedb76/reconciliation2714 witnesses remain separate.\n- ROOT113/101/89 and bf5 completed provider-chain state are dated ROOT reports; this author made no provider query or fresh live-HEAD claim.\n- Execution C-only; zero new primary/native/raw/QA/AV, reconstruction/prediction, identity/admission, count, R/Git/provider or external-message operations. Nine UNBOUND/preserved_phase2_work untouched.\n- Complete adequate meanings resolve all asserted bounded actor/endpoints; stronger skill/health/reform/continuity/media claims need their specific evidence.\n- Full required355/29/25 character/relationship/ensemble/institution/Sensei/register duties remain separate mandatory Phase3 work, not optional global enrichment.\n- Exact binding, saved nonempty joins and selected prior-payload preservation verification follow; ROOT alone independently receives and accepts the complete candidate.\n",
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "REIJO_KAGUYA_EXACT_SOURCE_COPY_BINDINGS_V1.json",
+      "original_exact_tuple": {
+        "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_EXACT_SOURCE_COPY_BINDINGS_V1.json",
+        "bytes": 3547,
+        "sha256": "7b396d899483cb437895625312fe86b9b9c62fd3f49ef4948a106ebbe976dbed",
+        "git_blob_oid_of_actual_bytes": "de598a78b70845c15c44fa844627cb63807a3fb2",
+        "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_EXACT_SOURCE_COPY_BINDINGS_V1.json"
+      },
+      "complete_original_payload": [
+        {
+          "source_id": "S01",
+          "origin": {
+            "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+            "bytes": 31969,
+            "lines": 188,
+            "sha256": "ff1752082d3d7c96246c8c169967045cb4e20204c07ea4019eced928aaed906e"
+          },
+          "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/S01_BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+          "copy_equal": true
+        },
+        {
+          "source_id": "S02",
+          "origin": {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 27920,
+            "lines": 158,
+            "sha256": "f4966f3e986af6f41f1690f9530f0c9940cb04ffc900915d21bdd0e18c6d8da0"
+          },
+          "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/S02_BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+          "copy_equal": true
+        },
+        {
+          "source_id": "S03",
+          "origin": {
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 30602,
+            "lines": 149,
+            "sha256": "a1fb6c0af2aa8b2e293208bbe0ecdb7638aece543487fcf838f790ffbbd8dc97"
+          },
+          "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/S03_BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+          "copy_equal": true
+        },
+        {
+          "source_id": "S04",
+          "origin": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/REIJO/BLUE_ARCHIVE_REIJO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 21270,
+            "lines": 153,
+            "sha256": "57db11fc10fec1f8708da99a465c345a3751fc4e8884ce9e097f1365a3039e04"
+          },
+          "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/S04_BLUE_ARCHIVE_REIJO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+          "copy_equal": true
+        },
+        {
+          "source_id": "S05",
+          "origin": {
+            "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "bytes": 82988,
+            "lines": 560,
+            "sha256": "785146763dabcffa26ebd55d9e87b0d55bb3dc8d5bc2b173b548b461b6b49ba0"
+          },
+          "copy_path": "immutable-local-author-witness/PHASE3_START_20261009/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_source_inputs/S05_BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "copy_equal": true
+        }
+      ],
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "REIJO_KAGUYA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+      "original_exact_tuple": {
+        "path": "REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+        "bytes": 3081,
+        "sha256": "421a26d5daab22ef6d97b67760fc9f702708592065d90a36fe1390ed59dcfe8c",
+        "git_blob_oid_of_actual_bytes": "a94ec349b737bece61c79e20856af184d3604b47",
+        "immutable_transport_path": "immutable_originals/REIJO_KAGUYA_DIRECTED_RELATIONSHIP_SYNTHESIS/REIJO_KAGUYA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json"
+      },
+      "complete_original_payload": {
+        "status": "FROZEN_BF5_REQUIRED_HOME_METADATA_PROBE_NOT_FRESH_LIVE_HEAD_OR_ACCEPTANCE",
+        "control_snapshot": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "exact_selected_index_row": {
+          "required_package_id": "P3-REL-REIJO-KAGUYA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "subject_or_question": "P3-REL-REIJO-KAGUYA",
+          "source_responsibility_refs": "HYS::significant_responsibilities::12",
+          "mandatory_named_section_ids": "",
+          "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+          "canonical_path": "",
+          "persistence_state": "UNACCEPTED",
+          "remote_publication": "NOT_YET_PUBLISHED",
+          "main_integration": "NOT_YET_INTEGRATED",
+          "completed_after_ROOT_install": "false",
+          "required_count": "1"
+        },
+        "exact_selected_partition_parent": {
+          "home_key": "P3-REL-REIJO-KAGUYA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "HYS::significant_responsibilities::12"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        },
+        "scope": "355 counted packages/29 named duties/25 distinct parents/384 home objects; no new home",
+        "selected_private_responsibilities": [
+          "BA:bond:10104:002",
+          "BA:bond:10104:003",
+          "BA:bond:10104:005",
+          "BA:bond:10104:006",
+          "BA:momotalk:10104:thread:101040010",
+          "BA:momotalk:10104:thread:101040110",
+          "BA:momotalk:10104:thread:101040190",
+          "BA:momotalk:10104:thread:101040350",
+          "BA:character_data:10104:profile_and_dialog",
+          "BA:character_data:event_costume:1900930101:character:10104"
+        ],
+        "private_counts": {
+          "BOND": 4,
+          "whole_MM": 4,
+          "written": 2,
+          "total": 10,
+          "new_original": 0
+        },
+        "Kaguya": "Source-local named 漆原カグヤ, empty person join; no typed private family authenticated, no negative global absence conclusion.",
+        "siblings_nonoverlap": {
+          "main_reconciliation_review": "CONFIRMED: no active or frozen Reijo–Kaguya directed-parent authorship; frozen HyS census is attributed prior evidence, not relationship completion; fixed102–108 preparation active.",
+          "scope_readiness": "CONFIRMED: no active or frozen P3-REL-REIJO-KAGUYA authoring; Rumi, Genryumon and Meihua originals remain frozen. The distinct Saya-recipient parent is positively allocated in that lane."
+        },
+        "actual_current_report": "ROOT allocation reports113 accepted/101 source-published/89 merged. The stale bf5 literary-status columns are allocation navigation, not fresh live frontier.",
+        "actual_probe_basis": "Exact copied bf5 small355/384 controls and own complete S04 normal source headers; no source-index, nineUNBOUND or live dispatch read/hash.",
+        "new_count_primary_identity_credit": 0
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+}

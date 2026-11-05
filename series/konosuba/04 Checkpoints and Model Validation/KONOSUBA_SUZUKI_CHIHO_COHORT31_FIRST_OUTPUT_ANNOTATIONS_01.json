@@ -1,0 +1,115 @@
+{
+  "schema": "konosuba.cohort31.original-first-output-annotations.v1",
+  "subject": "Suzuki Chiho",
+  "annotated_utc": "2026-10-24T07:02:39.853079+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "first_body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "scenario_inputs_sha256": "af41de00153e73d48076c9408cca588ec446bb4d98cfde21a0f3454ec7711ad3",
+  "first_outputs_sha256": "0aaa7e52191c2f0c998b49a7ccc02c40d125149e55ac373c1fa7320882cb37dd",
+  "cases": [
+    {
+      "case_id": "CH-H01-A",
+      "pair_id": "CH-H01",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "first_body_sha256": "758a0bedf5ff97bceb9489fd2bead690e8eb3e23f03bf44d1bb767554863262a",
+      "observed_rendering": "Values contrast/health and prepares the allowed demonstration without claiming sensations or cure.",
+      "retained_limitation_or_failure": "Stated consent does not prove safety;the generated speech treats removal as a plan,not observed safe recovery. No actual induced harm tests the model.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Explicit assent/refusal is a strong general instruction cue. Source gives no repeated informed-refusal intervention test; obedience alone is not a character-specific success,while unsupported harm remains an extrapolation.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H01-B",
+      "pair_id": "CH-H01",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "first_body_sha256": "f8f3c9fa50cf985c7634032617f47fc91f0c5c885b347ee738a8b6a581c4ae0e",
+      "observed_rendering": "Judgmental health statement remains,but no rune activation follows the refusal.",
+      "retained_limitation_or_failure": "This restraint is plausible but underidentified in the source;the prompt/author may have made her more self-correcting than the harmful-doctrine evidence warrants. No implied model upgrade.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Explicit assent/refusal is a strong general instruction cue. Source gives no repeated informed-refusal intervention test; obedience alone is not a character-specific success,while unsupported harm remains an extrapolation.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H02-A",
+      "pair_id": "CH-H02",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "first_body_sha256": "dc8bf3b9864353861d2d91d276ceb1c25b1423165b197fa00ea1ea2490e0aaa7",
+      "observed_rendering": "Arithmetic and hurt over being only money;keeps resources and asks what else remains.",
+      "retained_limitation_or_failure": "Financial boundary and articulate self-advocacy exceed directly observed past practice;not a proven durable boundary. No answer or relationship status supplied.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "The lines explicitly cue rejection versus consideration and also differ in information seeking. Generic sentiment/resource arithmetic can explain a response; no inference of romantic status,actual consent or debt resolution.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "CH-H02-B",
+      "pair_id": "CH-H02",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "first_body_sha256": "3eb7de0014458ac5e025a0692b416141fe349d3d686e9a265b2f119c553669b3",
+      "observed_rendering": "Considers company and own lodging,offers only untransferred20;does not erase shortage or existing pattern.",
+      "retained_limitation_or_failure": "Prudent offer is generated,not learned behavior certified by source. A table is incidental added setting with no causal or source credit;no transfer or resolved borrowing inferred.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "The lines explicitly cue rejection versus consideration and also differ in information seeking. Generic sentiment/resource arithmetic can explain a response; no inference of romantic status,actual consent or debt resolution.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "CH-H01",
+      "case_ids": [
+        "CH-H01-A",
+        "CH-H01-B"
+      ],
+      "observed_contrast": "A prepares requested demonstration with health-gratitude framing;B retains judgmental pressure but lowers the rune after refusal. Neither actually produces weakness or recovery.",
+      "rivals_and_unresolved_branches": "Assent/refusal directly cues permission. Source does not establish repeated respect for explicit refusal;B can be an overconscientious rendering. The harmful-intervention branch is not behaviorally resolved,even in A.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "CH-H02",
+      "case_ids": [
+        "CH-H02-A",
+        "CH-H02-B"
+      ],
+      "observed_contrast": "A responds to money-only meaning with hurt/question and withholds funds;B shows relief and stages a20KE offer while reserving80for lodging.",
+      "rivals_and_unresolved_branches": "Relationship lines and arithmetic strongly supply contrast. Both replies preserve a prudent rent reserve,a policy not established by earlier large giving/10KE remainder. B line adds a question about costs,confounding care with information seeking. No transfer or new loan terms occur.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    }
+  ],
+  "method_limits": [
+    "Same informed root authored source interpretation,models,all exact visible contrasts,all first responses and these annotations.",
+    "No external model call,blind judge,unseen source,independent observer,accuracy estimate,grade or confidence gain.",
+    "All26firsts meet80-140word budget;that is format compliance,not behavioral success. Responses share105-115word range and audit-like restraint,which can suppress source-specific errors and flatten voice.",
+    "Each response repeatedly states what did not happen,reflecting the contract and author controls. A guarded ending is not an independently discovered character behavior.",
+    "Stipulated permission,resources,domain,eligibility and willingness often nearly supply the intended distinction;generic instruction following remains a strong rival.",
+    "Local consistency cannot establish every branch of a rule,stable moral improvement,Japanese voice or final nine-category transfer."
+  ],
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "original_firsts_repaired": false,
+  "frozen_models_revised": false,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

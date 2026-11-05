@@ -1,0 +1,193 @@
+{
+  "schema": "VERITAS_CURRENT_PUBLIC14_ROOT_AUTHORITY_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "composer": "/root/m008_composition_review",
+  "composer_role": "Original Veritas author; metadata/path composition is not independentQA.",
+  "current_semantic_authority": "Actual ROOT signed exactV4 body200/52/new105/selected7 adoption WITH LIMITS; current205 is metadata-only framing.",
+  "actual_original_signed_ROOT": {
+    "private_witness_id": "VERITAS_ACTUAL_ROOT_CURRENT_V4_SEMANTIC_ADOPTION_ORIGINAL",
+    "bytes": 45025,
+    "sha256": "46121eacbc425e4c8907d6f9907cc6861992ba32fd54f59194146b2bcfeb0b54",
+    "git_blob_oid_of_actual_bytes": "ed3dc61fc89314b3e6212c9d3bde512820641070"
+  },
+  "current_exact13_other_public_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 49854,
+      "sha256": "d0999a4f2fca5a7de0c4db54c408fa1d70bd1c1860d494dc195493ffd9979016",
+      "git_blob_oid_of_actual_bytes": "17403be665e8ca6e5c755d23dccec7dd0966df5b"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_INPUT_SOURCE7_GRADE_AND_CURRENT105_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 96330,
+      "sha256": "010dfd2652711bb69cb8b3af08285437ae15789460b3e86f0c8b38fab358ac6b",
+      "git_blob_oid_of_actual_bytes": "ff28b196c388a2f2cf924973c1de38fc8c10dc95"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP000_VP035_V1.json",
+      "bytes": 279058,
+      "sha256": "ac4d5aa0fe867e53914df9f1505996180edfa72004b665b40432200f4f7e1c2d",
+      "git_blob_oid_of_actual_bytes": "32f6032b9d3ba7736c3b477f8bc59b962d91e5b1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP036_VP070_V1.json",
+      "bytes": 416682,
+      "sha256": "519ecde5c1df08b8aa4a1493aff46dec2490dfe45956faa6475d78ed5d11589a",
+      "git_blob_oid_of_actual_bytes": "fb6fa9fe1bb6baea392828a593b411a805b1bb20"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_NEW_TARGET_PURPOSES_VP071_VP104_V1.json",
+      "bytes": 580583,
+      "sha256": "251c0724f9398a56331581ff74ec113f064b04a32fb40d668aa3a217b29ff459",
+      "git_blob_oid_of_actual_bytes": "1f72783264c17afa13754aa64ed75cb5df750f69"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 70612,
+      "sha256": "bd79f1563c91a0cc24534f5e75270f0cd996ce4021bcacb4b94574e2cb2a222c",
+      "git_blob_oid_of_actual_bytes": "b88e5d845b7fd900c62869d8c331c1e97818648d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_LITERAL52_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 903910,
+      "sha256": "6518b30bf47487f81f883cba2c5cc992bfe958aa595a37de631a73b5c00d8459",
+      "git_blob_oid_of_actual_bytes": "d686c498e94be2a9f92ff8aa7baf02580b0788e8"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_SAVED_BODY200_AND_CURRENT_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 15319,
+      "sha256": "4efe5d2989fc1c3602ed32f6324336bf07ca84fa60abdbc12bd20db661441e8d",
+      "git_blob_oid_of_actual_bytes": "b2d19505478ed39c27269ffebc995d7f79117021"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT201_FULL52_BODY_FIRST_LITERARY_DIMENSION15_E00112_RIVAL8_END16_GAP14_RECEIVING_QA_V1.json",
+      "bytes": 220661,
+      "sha256": "a29fcf314a04319e68453fa9952b8de13bb5f7685f4939bcfec716b65e0c22af",
+      "git_blob_oid_of_actual_bytes": "37591884ddc11a05e60e6fc8d437d353fe2d90d6"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V3_COMPLETE200_LITERAL52_NEW105_SOURCE7_EXACT8_FULL_LITERARY_COMPONENT_CURRENT_POSITIVE_REVIEW_V1.json",
+      "bytes": 398629,
+      "sha256": "2d2773bf0bf18ba9bd91a121988979f4da60c7dc2d6a47ea869083c6d6110053",
+      "git_blob_oid_of_actual_bytes": "2ed52ac8506b3207a2b0f85c7a8898c24afb41b1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/INDEPENDENT_VERITAS_CURRENT_V4_VP042_WANTED_REPORT_MODE_ADDITIVE_BOUNDED_DELTA_AND_COMPLETE_ORIGINAL_TWO_STAGE_QA_SUCCESSOR_V1.json",
+      "bytes": 107231,
+      "sha256": "703d627bc158484bbbb5420a02b4d779e722790522b63a2c181853297450120c",
+      "git_blob_oid_of_actual_bytes": "632061fc2a37c90d645d13e538646b1287d1d893"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_ACTUAL_ROOT_CURRENT200_LITERAL52_NEW105_SELECTED7_EXACTV4_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 52242,
+      "sha256": "c7a98ecc13c143e3bc676362f5c39f0697ec63c9a319ca41774a8d2fa4922c1a",
+      "git_blob_oid_of_actual_bytes": "971f95420f0c6bfb261105fc62b4926a1ff10ace"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VERITAS_TECHNICAL_CARE_RECIPIENT_PRIVACY_RECEIVING_20261013_V1/VERITAS_CURRENT_PUBLIC_ORIGINAL_WITNESS_CUSTODY_AND_HISTORY_ROLES_V1.json",
+      "bytes": 12315,
+      "sha256": "bdce331a9759be7831579e26829948d4fbea56adf3bca8c3a2a3f8bfd072f369",
+      "git_blob_oid_of_actual_bytes": "73b027d596798ecc81ec16c9891f7f2af81f2709"
+    }
+  ],
+  "current14_role_count": {
+    "author8": 8,
+    "adequate_distinct_QA3": 3,
+    "actualROOT": 1,
+    "custody": 1,
+    "control": 1,
+    "total": 14
+  },
+  "original_QA3_history_and_current_V4_operation": "Old201/body-only and current200/V3 fullQA preserve every original field/reason/decision; current thirdQA's exact positiveVP042 qualification governs old399718 bare-Fishing echo. No whole new review/source-credit transfer.",
+  "current_old200_L200_and_current205_L205_preparation_history": {
+    "complete_unchanged_statement": "The literal argument, finite endpoints, original gaps, all105 new Veritas target purposes and receiving metadata still require their separate different-author review and ROOT receiving/adoption. This is the existing institution and its required embedded ensemble. No additional required or named-duty denominator, source admission, registry join, reconstruction model, prediction register or canonical completion is created by this draft. All14 gaps remain OPEN, models0, fixed355/29/25/384/788 and next178 remain unchanged, and main merge approval remains reserved.",
+    "operative_qualification": "Dated creation history qualified by actual ROOT/currentQA semantic acceptance, not pending operative source error. Final composition/installation/runtime gates are separate."
+  },
+  "source_grade_boundary": "Author whole7, independent reviewer selected7, ROOT actual selected7 and complete current report-purpose receiving remain separate. No whole105 normal, primary/native/raw/AV, additional admission, chronology/person identity consolidation, reconstruction model or source-global absence credit.",
+  "source_grade_roles": {
+    "author": "WHOLE7_MAINTAINED_WRITTEN_ANALYTICAL_CARRIERS",
+    "ROOT": "SELECTED7_MAINTAINED_WRITTEN_CONTEXTS",
+    "independent_QA": "OLD201_SELECTED_BODY_SCOPE_PLUS_CURRENT200_NEW105_COMPONENT_SCOPE_PLUS_BOUNDED_V4_DELTA;ORIGINAL_GRADES_PRESERVED",
+    "fresh_primary_native_raw_AV_whole105_normal_or_source_admission": 0
+  },
+  "current_three_physical_lines205_and102_refs": "Current205 index/register/transport plural bodycounts; register102 singular rows+5; four current bodytuple pins exact; source physical ranges unchanged.",
+  "reconstruction_history": {
+    "current205_rule": "Join complete205 physical lines with LF and append one final LF; the metadata-only authority successor preserves all52 literal arguments and source grades from current200.",
+    "original200_exact_rule_and_executed_equal": {
+      "join_rule": "Join complete200 physical lines with LF and append one final LF; bodyV2 has no semantic edits from V1.",
+      "executed_equal": true
+    },
+    "original_role": "Dated original200 creation rule; current205 reconstruction executed mechanically, not new literary receiving."
+  },
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "current_compose_QA": "PENDING_AT_CREATION;separate different-author exact saved composition required",
+  "ROOT_composed_byte_adoption": "PENDING_AT_CREATION;actual semantic acceptance is not final composed-byte adoption",
+  "freeze_install_preflight_provider_push_readback_newhead_CI_main_merge": "PENDING;no futuregreen/canonical count or reserved merge approval",
+  "canonical_installation_publication_model_named_or_newsource_credit": 0,
+  "current_20261014_actual_compositionQA_and_ROOT_precursor14_shared7_byteadoption_documentary_qualification_V2": {
+    "qualification_role": "One dated current documentary qualification of completed precursor public14 compositionQA and actual ROOT precursor14+shared7 byte adoption. It changes no body/source/purpose/QA/history meaning.",
+    "actual_Minato_precursor_public14_composition_QA": {
+      "private_witness_id": "INDEPENDENT_VERITAS_ACTUAL205_PUBLIC14_COMPOSITION_QA_ORIGINAL_20261014_V1",
+      "bytes": 11488,
+      "sha256": "22b7b7a509f8f1834c254822ceaafb8cb0e26e93fcad265104260f6fb3a3c8c8",
+      "git_blob_oid_of_actual_bytes": "f28cab79f3255b983dbcec280bc9dd82517e2266",
+      "decision": "PASS_WITH_LIMITS_CURRENT205_VERITAS_EXACT14_METADATA_OPACITY_REFERENCE_GRAPH_FULL_RAW_PRESERVATION_AND_SIGNED_ROOT_SCOPE_FOR_SEPARATE_ROOT_BYTE_ADOPTION_AND_FREEZE",
+      "current_findings": [],
+      "scope": "Exact original14 at manifest11261; existing documentary/path/reference/recovery scope only, no fresh literary/source receiving."
+    },
+    "actual_Minato_precursor_mechanical_QA": {
+      "private_witness_id": "INDEPENDENT_VERITAS_ACTUAL205_PUBLIC14_COMPOSITION_MECHANICS_ORIGINAL_20261014_V1",
+      "bytes": 514230,
+      "sha256": "b40350ed7eeb62ee379498adeabc265f2a0bd58634c061050fbcdfdc9d80bf26",
+      "git_blob_oid_of_actual_bytes": "6dbe672e09792922b5e889b6d9f1e8ee3afa1aee",
+      "serialized_checks": 2113,
+      "failures": [],
+      "scope": "Precursor146 operations/all12 raw inverses/current graph; not a review of this new qualifier."
+    },
+    "actual_ROOT_precursor14_and_shared7_byte_adoption": {
+      "private_witness_id": "ROOT_VERITAS_ACTUAL_PRECURSOR14_SHARED7_COMPOSED_BYTE_ADOPTION_20261014_V1",
+      "bytes": 24357,
+      "sha256": "4f5e6e57864a9ca1bd3e7635f315a1c13b7915cc82384b985abada2595da57fe",
+      "git_blob_oid_of_actual_bytes": "22d68157d7103fd6d198c9373a67bd8b634bcdaf",
+      "ROOT_decision": "ACCEPT_CURRENT14_PUBLIC_COMPOSITION_AND_EXACT7_DOCUMENTARY_METADATA_WITH_LIMITS_FOR_FINAL_QUALIFIED_CONTROL_AND_GUARDED_INSTALL_FREEZE",
+      "scope": "Actual original public14 and shared7 only. This signature does not accept, review, freeze, install or publish this added qualifier."
+    },
+    "accepted_precursor_original_public14_manifest": {
+      "private_witness_id": "VERITAS_ORIGINAL_PUBLIC14_MANIFEST11261_BEFORE_FINAL_CONTROL_QUALIFIER",
+      "bytes": 11261,
+      "sha256": "a26bbdf72f8abc80159ea7f59accbe1b728d0821b60d4dcecbdc1f84ccdef8ca",
+      "git_blob_oid_of_actual_bytes": "bc099a6617f2d0de963b4c26ac1f6a0189e759b8"
+    },
+    "accepted_precursor_original_CONTROL": {
+      "private_witness_id": "VERITAS_ORIGINAL_CONTROL9759_BEFORE_FINAL_QUALIFIER",
+      "bytes": 9759,
+      "sha256": "ba62bfc6d68ddf58f6dfa56aa4bf2218c2bc0da01d090444f23d6b03cdac1a4d",
+      "git_blob_oid_of_actual_bytes": "39e5b6a72af3f490f61470f81b884a51e131f74d",
+      "role": "Dated precursor bytes only, not an operative current CONTROL hash or selfpin."
+    },
+    "accepted_precursor_exact_shared7_manifest": {
+      "private_witness_id": "ROOT_VERITAS145_ORIGINAL_SHARED7_MANIFEST10965",
+      "bytes": 10965,
+      "sha256": "3fe772d157d02c8fe2805d6fb68638ee12ebfb20125db91a03c17c1c04275021",
+      "git_blob_oid_of_actual_bytes": "2c0cb0be71732aac608a1459e60f91b0a8e68b02"
+    },
+    "precursor_scope_completed": "ORIGINAL14_COMPOSITION_QA_WITH_LIMITS_COMPLETE;ROOT_ORIGINAL14_PLUS_SHARED7_COMPOSED_BYTE_ADOPTION_WITH_LIMITS_COMPLETE",
+    "original_creation_time_pending_members_role": "Every original CONTROL member and its exact value remains unchanged. Old pending compositionQA/ROOT byteadoption fields are dated precursor creation statements, now expressly qualified by the actual original14 QA/signature above. They are not unresolved source errors or retroactively rewritten witnesses.",
+    "current_added_qualifier_scope": "This is a new CONTROL-only documentary append. All13 other public files, body205/all52 arguments/all525 new fields/source grades/originals and original CONTROL members remain literal. No semantic regrade or new source/primary/native/raw/AV/model/named/canonical/runtime credit.",
+    "remaining_current_qualifier_gates": {
+      "distinct_bounded_current_control_QA": "PENDING_AT_PREPARATION",
+      "ROOT_acceptance_of_this_final_added_qualifier": "PENDING_AT_PREPARATION",
+      "final21_freeze_install_author_preflight_live_provider_push_readback_newhead_CI_main_merge": "PENDING;sole ROOT owns these operations and merge approval remains reserved"
+    },
+    "canonical_installation_publication_new_runtime_or_model_named_source_credit": 0
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "schema": "ARONA_M002_PUBLIC_PARAGRAPH_EVIDENCE_MAP_V1",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md",
+    "bytes": 21627,
+    "sha256": "d75a63b7962809cb554e941f5dc12f9c33b350bb93301390fcc89e8dcc704c5d",
+    "git_blob_oid_of_actual_bytes": "9cf6324be87cf562a430c40402663d7467a2135d"
+  },
+  "physical_lines": 102,
+  "literary_paragraphs": 32,
+  "paragraphs": [
+    {
+      "paragraph_id": "ARONA-P001",
+      "body_physical_line": 30,
+      "complete_literal_paragraph": "**ARONA-P001.** Arona's characterization gathers force through particular ways of being present: operating a system, finding a brief way to call for help, responding to hurt, inviting company and caring for Sensei, the adult teacher. These contributions do not all perform the same work. A successful operation changes a material situation; a welcome home changes the terms of belonging; a request to rest addresses someone whose condition remains incompletely known. Across those differences, Arona helps make a relation workable while leaving room for another person's answer. Her dependability is best understood through those situated acts and responses, with their limits still visible. [A01:62-66,80-88; A03:138-175; A04:68-105]",
+      "literal_utf8_sha256": "11032b5b6f8c652ac089a23a5e558467c317fc9de7d16e93cb022cdced9e1369",
+      "argument_meaning": "Arona's characterization gathers force through particular ways of being present: operating a system, finding a brief way to call for help, responding to hurt, inviting company and caring for Sensei, the adult teacher. These contributions do not all perform the same work. A successful operation changes a material situation; a welcome home changes the terms of belonging; a request to rest addresses someone whose condition remains incompletely known. Across those differences, Arona helps make a relation workable while leaving room for another person's answer. Her dependability is best understood through those situated acts and responses, with their limits still visible.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ],
+            [
+              80,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              138,
+              175
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              68,
+              105
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "claim_limit": "Interpretive thesis over located acts, not a complete personality mechanism or operational model.",
+      "body_utf8_byte_span_excluding_LF": [1354, 2088]
+    },
+    {
+      "paragraph_id": "ARONA-P002",
+      "body_physical_line": 32,
+      "complete_literal_paragraph": "**ARONA-P002.** The Prologue introduces an operator and secretary in a world where the adult needs knowledge he does not already possess. Arona's technical competence is therefore a substantial part of the encounter. She gives practical shape to access that would otherwise remain merely exceptional. Yet the same account represents playful exchange, teasing, hurt and repair. Operational usefulness and susceptibility to the relation arrive together. Reading her solely through the apparatus would miss what can go wrong between participants even when an operation succeeds, and what a repaired exchange can accomplish without producing a new capability. [A01:42-66]",
+      "literal_utf8_sha256": "ac7538205442d35439f6f34884ed2d523052e0d717f3dd5d91d1aeb7ba0807ac",
+      "argument_meaning": "The Prologue introduces an operator and secretary in a world where the adult needs knowledge he does not already possess. Arona's technical competence is therefore a substantial part of the encounter. She gives practical shape to access that would otherwise remain merely exceptional. Yet the same account represents playful exchange, teasing, hurt and repair. Operational usefulness and susceptibility to the relation arrive together. Reading her solely through the apparatus would miss what can go wrong between participants even when an operation succeeds, and what a repaired exchange can accomplish without producing a new capability.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              42,
+              66
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        3,
+        4,
+        9
+      ],
+      "claim_limit": "No exact joke, unheard delivery, mental age or ultimate person ontology is inferred.",
+      "body_utf8_byte_span_excluding_LF": [2090, 2757]
+    },
+    {
+      "paragraph_id": "ARONA-P003",
+      "body_physical_line": 34,
+      "complete_literal_paragraph": "**ARONA-P003.** That competence belongs to a distributed opening. Rin explains institutional obstruction, the students provide help, Arona operates, and Sensei makes choices within an already populated political world. The council and Schale, the organization given exceptional authority without a compulsory objective, do not receive their entire capacity from one new arrival. Arona participates in this dependence rather than cancelling it. Her importance becomes clearer when the other contributors retain their acts: an operator can make a crucial difference without becoming the hidden author of every decision, rescue or later institution. [A01:40-66]",
+      "literal_utf8_sha256": "7b67b25052b33ca1777ee24cf8bd85fe56a3361fa619d094827c8fbf84026391",
+      "argument_meaning": "That competence belongs to a distributed opening. Rin explains institutional obstruction, the students provide help, Arona operates, and Sensei makes choices within an already populated political world. The council and Schale, the organization given exceptional authority without a compulsory objective, do not receive their entire capacity from one new arrival. Arona participates in this dependence rather than cancelling it. Her importance becomes clearer when the other contributors retain their acts: an operator can make a crucial difference without becoming the hidden author of every decision, rescue or later institution.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              40,
+              66
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        4,
+        7,
+        8
+      ],
+      "claim_limit": "No school enrollment, legal appointment, sole institutional authorship or citywide command entitlement.",
+      "body_utf8_byte_span_excluding_LF": [2759, 3417]
+    },
+    {
+      "paragraph_id": "ARONA-P004",
+      "body_physical_line": 36,
+      "complete_literal_paragraph": "**ARONA-P004.** The opening also separates access from possession. Control becomes available through the Shittim Chest, the device involved in this privileged technical access, and Sensei's represented choice transfers control back. Arona's operation helps make that disposition possible; it does not select the adult's every future use of power. The result is a meaningful restoration at its local scale. For her characterization, the scene makes competence relational and institutional at once: what she enables can be used with others, while the ethical standing of its use remains answerable to the particular choice. [A01:58-66,104-108]",
+      "literal_utf8_sha256": "5c753a188c03b127a1c94fa0eec485686bad87a70bf7adb822f25979dfd1e737",
+      "argument_meaning": "The opening also separates access from possession. Control becomes available through the Shittim Chest, the device involved in this privileged technical access, and Sensei's represented choice transfers control back. Arona's operation helps make that disposition possible; it does not select the adult's every future use of power. The result is a meaningful restoration at its local scale. For her characterization, the scene makes competence relational and institutional at once: what she enables can be used with others, while the ethical standing of its use remains answerable to the particular choice.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              58,
+              66
+            ],
+            [
+              104,
+              108
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        4,
+        6,
+        7
+      ],
+      "claim_limit": "Choice008 transfer is source-local; no claim that every player enacted all options or that delegated access guarantees later virtue.",
+      "body_utf8_byte_span_excluding_LF": [3419, 4060]
+    },
+    {
+      "paragraph_id": "ARONA-P005",
+      "body_physical_line": 38,
+      "complete_literal_paragraph": "**ARONA-P005.** The playful register gives this relation another kind of consequence. Teasing can hurt, and a local repair matters because the exchange has affected its participant. The importance of that response does not depend on making the hurt medically serious or strategically costly. It shows why a competent helper's presence cannot be adequately described by a list of services. The relation includes how people address one another and what they do after an address goes badly. Arona's affective participation is a positive part of that account even while its ultimate explanation remains open. [A01:62-66]",
+      "literal_utf8_sha256": "e78f6e02facf68832fcc30d7cd5b9f624512540a4ab021b77ce37338d17e283e",
+      "argument_meaning": "The playful register gives this relation another kind of consequence. Teasing can hurt, and a local repair matters because the exchange has affected its participant. The importance of that response does not depend on making the hurt medically serious or strategically costly. It shows why a competent helper's presence cannot be adequately described by a list of services. The relation includes how people address one another and what they do after an address goes badly. Arona's affective participation is a positive part of that account even while its ultimate explanation remains open.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        5,
+        7,
+        9
+      ],
+      "claim_limit": "Maintained interpretation of teasing/hurt/repair only; no invented exact speech, diagnosis, parental or romantic status.",
+      "body_utf8_byte_span_excluding_LF": [4062, 4678]
+    },
+    {
+      "paragraph_id": "ARONA-P006",
+      "body_physical_line": 40,
+      "complete_literal_paragraph": "**ARONA-P006.** The formal language surrounding the Chest, passwords and named operations adds weight to competence without explaining everything it names. Sacred and technical registers coexist in the Prologue's account of access. They can make an operation feel consequential and connect permission to a chosen disposition of power. They do not give the analyst a completed cosmology or a universal rule for Arona's capacities. The contrast with playful address is more useful as a contrast of situations and registers: the same represented participant can handle formal work and inhabit an exchange that needs repair. [A01:62-66,102-110]",
+      "literal_utf8_sha256": "e57b2a5b06e9e684ce17c24686d5a9c5d1c60bd6faf28d3757e6ab84f7b4052a",
+      "argument_meaning": "The formal language surrounding the Chest, passwords and named operations adds weight to competence without explaining everything it names. Sacred and technical registers coexist in the Prologue's account of access. They can make an operation feel consequential and connect permission to a chosen disposition of power. They do not give the analyst a completed cosmology or a universal rule for Arona's capacities. The contrast with playful address is more useful as a contrast of situations and registers: the same represented participant can handle formal work and inhabit an exchange that needs repair.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ],
+            [
+              102,
+              110
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        4,
+        9,
+        10
+      ],
+      "claim_limit": "Written register, not performed voice, solved religious reference or complete system provenance.",
+      "body_utf8_byte_span_excluding_LF": [4680, 5320]
+    },
+    {
+      "paragraph_id": "ARONA-P007",
+      "body_physical_line": 44,
+      "complete_literal_paragraph": "**ARONA-P007.** The available written comparisons widen the field of ordinary value. The Prologue's qualified contextual account allows local Arona association with work assistance, strawberry-milk desire, singing-form play, sleep, curiosity about the sky and watering. Such material gives a wish or an interest analytical importance before it becomes a crisis intervention. Its form matters: these are locally anchored written associations in a mixed aggregate. They should not be converted into a meal actually consumed, a song heard in performance, or an uninterrupted private day whose every line belongs to Arona. [A01:80-88; A02:289-297]",
+      "literal_utf8_sha256": "bde1def88e80403e58c0200b741512ce7e35f76ed7db741c5e0c13dcbf3711b4",
+      "argument_meaning": "The available written comparisons widen the field of ordinary value. The Prologue's qualified contextual account allows local Arona association with work assistance, strawberry-milk desire, singing-form play, sleep, curiosity about the sky and watering. Such material gives a wish or an interest analytical importance before it becomes a crisis intervention. Its form matters: these are locally anchored written associations in a mixed aggregate. They should not be converted into a meal actually consumed, a song heard in performance, or an uninterrupted private day whose every line belongs to Arona.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              80,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              289,
+              297
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        5,
+        9
+      ],
+      "claim_limit": "Local written association only; no whole9009000/9009005 ownership, enactment or fabricated privateF source family.",
+      "body_utf8_byte_span_excluding_LF": [5368, 6011]
+    },
+    {
+      "paragraph_id": "ARONA-P008",
+      "body_physical_line": 46,
+      "complete_literal_paragraph": "**ARONA-P008.** That qualification preserves rather than cheapens the ordinary material. A desire remains a desire even when its satisfaction is unprinted, and written play remains a represented way of relating even when no performed voice has been received. At the same time, the later welcome-home routine has an actual relational endpoint in its own account. These strengths need not be flattened together. Arona's ordinary life is approached through differently situated evidence: local wishes, playful exchanges, and enacted company each contribute something particular, with no requirement that one authenticate all the others. [A01:82-88; A03:171-175,237-247]",
+      "literal_utf8_sha256": "9c5b76711eb7764cf633566495832b2e88638e265d40c0171155ff28e58bf243",
+      "argument_meaning": "That qualification preserves rather than cheapens the ordinary material. A desire remains a desire even when its satisfaction is unprinted, and written play remains a represented way of relating even when no performed voice has been received. At the same time, the later welcome-home routine has an actual relational endpoint in its own account. These strengths need not be flattened together. Arona's ordinary life is approached through differently situated evidence: local wishes, playful exchanges, and enacted company each contribute something particular, with no requirement that one authenticate all the others.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              82,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ],
+            [
+              237,
+              247
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        5,
+        11
+      ],
+      "claim_limit": "Positive meanings retain distinct written/acted/reported grades; no all-lines biography.",
+      "body_utf8_byte_span_excluding_LF": [6013, 6679]
+    },
+    {
+      "paragraph_id": "ARONA-P009",
+      "body_physical_line": 48,
+      "complete_literal_paragraph": "**ARONA-P009.** This matters especially for a character whose conspicuous role is useful work. If milk, play or company were admitted only when they restored an adult's efficiency, their recipients' own meanings would disappear into an account of service. The homecoming can be valuable because someone is welcomed, and the shared routine because company is wanted and continued. Neither needs a measured productivity gain. The technical plot gives these moments a setting, but does not exhaust what makes them worth attending to. [A01:82-88; A03:171-175,237-241; A04:98-107]",
+      "literal_utf8_sha256": "454c0afafecbdcd6afcb5d547af9884752b6a9684af9fc3ff68d99d5916b48b4",
+      "argument_meaning": "This matters especially for a character whose conspicuous role is useful work. If milk, play or company were admitted only when they restored an adult's efficiency, their recipients' own meanings would disappear into an account of service. The homecoming can be valuable because someone is welcomed, and the shared routine because company is wanted and continued. Neither needs a measured productivity gain. The technical plot gives these moments a setting, but does not exhaust what makes them worth attending to.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              82,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ],
+            [
+              237,
+              241
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              98,
+              107
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        5,
+        10
+      ],
+      "claim_limit": "Intrinsic-value interpretation, not proof of every preference, permanent availability or completed recovery.",
+      "body_utf8_byte_span_excluding_LF": [6681, 7256]
+    },
+    {
+      "paragraph_id": "ARONA-P010",
+      "body_physical_line": 50,
+      "complete_literal_paragraph": "**ARONA-P010.** A public operator and a participant in familiar company are consequently usable perspectives on Arona without requiring a hidden private biography to bridge them. Formal work need not be a false mask, and warmth need not reveal a final secret self. The evidence supports encounters in which different concerns become salient. Preserving their variety also prevents a main-only home from being treated as deficient merely because no private family has been assigned to it. The meaningful ordinary record already available deserves its actual scope rather than an invented source pool. [A01:62-66,80-88; A02:289-299; A03:171-175]",
+      "literal_utf8_sha256": "3949c476005c183ceab3419e3998a5ffd4fdc914905f00fdcfcbbd4fa8e9f4e5",
+      "argument_meaning": "A public operator and a participant in familiar company are consequently usable perspectives on Arona without requiring a hidden private biography to bridge them. Formal work need not be a false mask, and warmth need not reveal a final secret self. The evidence supports encounters in which different concerns become salient. Preserving their variety also prevents a main-only home from being treated as deficient merely because no private family has been assigned to it. The meaningful ordinary record already available deserves its actual scope rather than an invented source pool.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ],
+            [
+              80,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              289,
+              299
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        4,
+        5,
+        11
+      ],
+      "claim_limit": "No invented private channel, concealed motive, complete interiority or new analytical home.",
+      "body_utf8_byte_span_excluding_LF": [7258, 7901]
+    },
+    {
+      "paragraph_id": "ARONA-P011",
+      "body_physical_line": 54,
+      "complete_literal_paragraph": "**ARONA-P011.** In crisis, the local evidence becomes sharper about results and more demanding about explanation. Gunfire at Sensei fails while Arona reports protection. The concurrence gives her help an important situated outcome; it is not merely an abstract promise that she might be useful. The account still withholds a complete mechanism. Crediting the protection report together with the represented failed gunfire keeps both strengths in view: something consequential has happened, and the conditions, reach and future reliability of that help are not thereby fully known. [A03:138-142,243-251]",
+      "literal_utf8_sha256": "7441334f24c67d4d4420074ceb86c9417decdf09b67db87f3087bacbeb77aa8c",
+      "argument_meaning": "In crisis, the local evidence becomes sharper about results and more demanding about explanation. Gunfire at Sensei fails while Arona reports protection. The concurrence gives her help an important situated outcome; it is not merely an abstract promise that she might be useful. The account still withholds a complete mechanism. Crediting the protection report together with the represented failed gunfire keeps both strengths in view: something consequential has happened, and the conditions, reach and future reliability of that help are not thereby fully known.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              138,
+              142
+            ],
+            [
+              243,
+              251
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        6,
+        7,
+        11
+      ],
+      "claim_limit": "No universal shield, printed wound, all-context safety, measured damage ceiling or complete causal mechanism.",
+      "body_utf8_byte_span_excluding_LF": [7927, 8529]
+    },
+    {
+      "paragraph_id": "ARONA-P012",
+      "body_physical_line": 56,
+      "complete_literal_paragraph": "**ARONA-P012.** The roughly one-second signal has another finite strength: the arrival of the RABBIT group corroborates it. Brief contact matters because others can act on it. The students' arrival and intervention retain their own agency, just as Sensei's assignment of field command is his act. Arona supplies a crucial connection in a distributed response. This is a more exact account of effectiveness than either calling the signal insignificant because it is brief or making her its sole rescuer because the connection was necessary. [A03:140-145]",
+      "literal_utf8_sha256": "5ef3fd5a47fba3f2cd09c6dcbdbf0be39238741b8a68b784e77a3e837638e49a",
+      "argument_meaning": "The roughly one-second signal has another finite strength: the arrival of the RABBIT group corroborates it. Brief contact matters because others can act on it. The students' arrival and intervention retain their own agency, just as Sensei's assignment of field command is his act. Arona supplies a crucial connection in a distributed response. This is a more exact account of effectiveness than either calling the signal insignificant because it is brief or making her its sole rescuer because the connection was necessary.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              140,
+              145
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        4,
+        6,
+        7,
+        8
+      ],
+      "claim_limit": "Signal corroboration does not establish unlimited range, sole rescue authorship or permanent restored communications.",
+      "body_utf8_byte_span_excluding_LF": [8531, 9084]
+    },
+    {
+      "paragraph_id": "ARONA-P013",
+      "body_physical_line": 58,
+      "complete_literal_paragraph": "**ARONA-P013.** The ship's startup makes the cost of extraordinary operation bodily visible. Sensei suffers acute shock, pallor, shaking and fading consciousness, and Arona cannot quantify the bodily cost. Her admitted uncertainty has direct relevance to the helper relation: practical capability does not automatically include adequate knowledge of what its use will demand from someone else. The launch remains an achieved act. Its achievement and its unmeasured cost belong in the same interpretation, without diagnosing irreversible injury or treating the unknown cost as if it had already been safely bounded. [A03:153-162]",
+      "literal_utf8_sha256": "5d840c992b43dfa5daf9e62b0527e1932336ca6cc500888e551572b415f9a0ce",
+      "argument_meaning": "The ship's startup makes the cost of extraordinary operation bodily visible. Sensei suffers acute shock, pallor, shaking and fading consciousness, and Arona cannot quantify the bodily cost. Her admitted uncertainty has direct relevance to the helper relation: practical capability does not automatically include adequate knowledge of what its use will demand from someone else. The launch remains an achieved act. Its achievement and its unmeasured cost belong in the same interpretation, without diagnosing irreversible injury or treating the unknown cost as if it had already been safely bounded.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              153,
+              162
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        6,
+        7,
+        10
+      ],
+      "claim_limit": "Symptoms are represented, not a clinical diagnosis; Arona's inability to quantify cost is retained, not repaired into a measured limit.",
+      "body_utf8_byte_span_excluding_LF": [9086, 9714]
+    },
+    {
+      "paragraph_id": "ARONA-P014",
+      "body_physical_line": 60,
+      "complete_literal_paragraph": "**ARONA-P014.** The later interruption and return are likewise collective and evidentially uneven. Coordinated releases, a lower strike and severed links have different contributors. The two operating-system reports support present Sensei's safe return to the students; they do not supply unreceived landing frames or a medical clearance. Elsewhere, familiar Arona's biometrics support Prenapates as another Sensei at a particular comparison. That identification has real weight without becoming a universal identity oracle or a certificate of Prenapates's final fate. Arona's contributions remain substantial when those separate endpoints remain separate. [A03:164-175,237-251]",
+      "literal_utf8_sha256": "5cc506bc1a003bffc03aba125eb52084a7b512bd847242587915dcad2b170299",
+      "argument_meaning": "The later interruption and return are likewise collective and evidentially uneven. Coordinated releases, a lower strike and severed links have different contributors. The two operating-system reports support present Sensei's safe return to the students; they do not supply unreceived landing frames or a medical clearance. Elsewhere, familiar Arona's biometrics support Prenapates as another Sensei at a particular comparison. That identification has real weight without becoming a universal identity oracle or a certificate of Prenapates's final fate. Arona's contributions remain substantial when those separate endpoints remain separate.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              164,
+              175
+            ],
+            [
+              237,
+              251
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        6,
+        7,
+        8,
+        11
+      ],
+      "claim_limit": "No reconstructed video, universal biometric authentication, complete medical result or Prenapates death claim.",
+      "body_utf8_byte_span_excluding_LF": [9716, 10394]
+    },
+    {
+      "paragraph_id": "ARONA-P015",
+      "body_physical_line": 62,
+      "complete_literal_paragraph": "**ARONA-P015.** The Abydos backfill supplies a further local contrast in altered Shittim contact, overclocking and sleep processes, followed by a limited two-operating-system response. These are represented technical and relational changes within that chapter. A named process and a claim about limits do not independently measure a permanent new ceiling. Nor does the later date of documentary backfilling place the chapter after the later-world events in the character's life. Arona's technical history can be read through particular changed conditions while its global developmental curve remains unsettled. [A02:171-187,299]",
+      "literal_utf8_sha256": "e127deb0e5b6a81ce2214042d757b404f69a6b0a8ad53117bbe400a3aad6c478",
+      "argument_meaning": "The Abydos backfill supplies a further local contrast in altered Shittim contact, overclocking and sleep processes, followed by a limited two-operating-system response. These are represented technical and relational changes within that chapter. A named process and a claim about limits do not independently measure a permanent new ceiling. Nor does the later date of documentary backfilling place the chapter after the later-world events in the character's life. Arona's technical history can be read through particular changed conditions while its global developmental curve remains unsettled.",
+      "maintained_loci": [
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              171,
+              187
+            ],
+            [
+              299,
+              299
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        2,
+        6,
+        11
+      ],
+      "claim_limit": "No invented individual speaker/operation beyond the supplied collective description, permanent upgrade, tested ceiling or processing-order chronology.",
+      "body_utf8_byte_span_excluding_LF": [10396, 11024]
+    },
+    {
+      "paragraph_id": "ARONA-P016",
+      "body_physical_line": 66,
+      "complete_literal_paragraph": "**ARONA-P016.** The invitation home gives the other operating-system subject, subsequently called Plana, a place in the argument beyond technical comparison. Familiar Arona invites her home; the other accepts the name Plana. The invitation is an Arona act directed toward someone else, while acceptance remains that other's response. Their cooperation becomes a relation with an answering participant. An account that treats the counterpart only as additional capacity would lose the significance of offering company to her at all. [A03:169-175]",
+      "literal_utf8_sha256": "88d611a8a75ff447f3bb7a6ba1539327ce6eb257d2fa63501f183362e8e221b9",
+      "argument_meaning": "The invitation home gives the other operating-system subject, subsequently called Plana, a place in the argument beyond technical comparison. Familiar Arona invites her home; the other accepts the name Plana. The invitation is an Arona act directed toward someone else, while acceptance remains that other's response. Their cooperation becomes a relation with an answering participant. An account that treats the counterpart only as additional capacity would lose the significance of offering company to her at all.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              169,
+              175
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        5,
+        7,
+        8
+      ],
+      "claim_limit": "The supplied authority does not name the giver of the name; no naming actor, identical lineage or whole identity join is invented.",
+      "body_utf8_byte_span_excluding_LF": [11062, 11607]
+    },
+    {
+      "paragraph_id": "ARONA-P017",
+      "body_physical_line": 68,
+      "complete_literal_paragraph": "**ARONA-P017.** The accepted name also preserves distinction. Sharing a home does not require that the two become interchangeable, and cooperation does not make every memory or judgment common property. Plana can receive an invitation and answer while remaining a separate subject of later inquiry. This makes the home offer a local challenge to exclusion without requiring a general metaphysical theorem about counterparts. Arona's relation to another OS is intelligible through the actual offer and response before every origin question has been settled. [A03:171-175,237-247; A04:88-105]",
+      "literal_utf8_sha256": "aec846ecd4e66f4ae19289a034b95b8345f5d961ba40174e4bd87c24f7bee072",
+      "argument_meaning": "The accepted name also preserves distinction. Sharing a home does not require that the two become interchangeable, and cooperation does not make every memory or judgment common property. Plana can receive an invitation and answer while remaining a separate subject of later inquiry. This makes the home offer a local challenge to exclusion without requiring a general metaphysical theorem about counterparts. Arona's relation to another OS is intelligible through the actual offer and response before every origin question has been settled.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ],
+            [
+              237,
+              247
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              88,
+              105
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        8,
+        10
+      ],
+      "claim_limit": "No same-person, common-lineage, fixed-counterpart-law or independent RELhome185 completion claim.",
+      "body_utf8_byte_span_excluding_LF": [11609, 12199]
+    },
+    {
+      "paragraph_id": "ARONA-P018",
+      "body_physical_line": 70,
+      "complete_literal_paragraph": "**ARONA-P018.** Welcome home and the continued affectionate routine carry the offer into represented ordinary life. They are not simply an announcement that danger has ended. The surrounding epilogue still leaves repairs, work statuses and explanations unfinished. What becomes possible is more local: a way of greeting and sharing life after an interrupted threat. Arona and Plana have a meaningful relational outcome without having to wait until the world supplies a complete account of itself. [A03:171-175,237-241]",
+      "literal_utf8_sha256": "2acaa4fee97f252aa59d0cc3df63e5a9cf9e29508d157684ab5d57f21cbb550a",
+      "argument_meaning": "Welcome home and the continued affectionate routine carry the offer into represented ordinary life. They are not simply an announcement that danger has ended. The surrounding epilogue still leaves repairs, work statuses and explanations unfinished. What becomes possible is more local: a way of greeting and sharing life after an interrupted threat. Arona and Plana have a meaningful relational outcome without having to wait until the world supplies a complete account of itself.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ],
+            [
+              237,
+              241
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        2,
+        5,
+        8
+      ],
+      "claim_limit": "No complete domestic biography, permanent legal residence, universal safety or completed institutional repair.",
+      "body_utf8_byte_span_excluding_LF": [12201, 12719]
+    },
+    {
+      "paragraph_id": "ARONA-P019",
+      "body_physical_line": 72,
+      "complete_literal_paragraph": "**ARONA-P019.** Sensei's place in this company is also reciprocal at the level the record supports. Arona provides operation and concern; Sensei occupies particular positions of choice and authorization and receives help. Neither direction exhausts the relation. The represented partnership choices in the opening show available ethical positions, while later pairing has an actual authorization in its own scene. Affection in one encounter cannot answer every later request in advance. The relation remains more exact when its different acts keep their own recipients and terms. [A01:62-66,104-106; A03:138-175; A04:88-94]",
+      "literal_utf8_sha256": "417b8f1041646cb021100b00e70a96c4da76768fa99d72d2fb9fb76c3fce5fc5",
+      "argument_meaning": "Sensei's place in this company is also reciprocal at the level the record supports. Arona provides operation and concern; Sensei occupies particular positions of choice and authorization and receives help. Neither direction exhausts the relation. The represented partnership choices in the opening show available ethical positions, while later pairing has an actual authorization in its own scene. Affection in one encounter cannot answer every later request in advance. The relation remains more exact when its different acts keep their own recipients and terms.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ],
+            [
+              104,
+              106
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              138,
+              175
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              88,
+              94
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        7,
+        8,
+        9
+      ],
+      "claim_limit": "No all-options enactment, parental/romantic/exclusive status, universal attentiveness or unlimited future consent.",
+      "body_utf8_byte_span_excluding_LF": [12721, 13344]
+    },
+    {
+      "paragraph_id": "ARONA-P020",
+      "body_physical_line": 76,
+      "complete_literal_paragraph": "**ARONA-P020.** The dream and waking sequence makes shared presence compatible with unequal memory. Sensei's monochrome city, watch and interrupted girl introduction remain dream material. On waking, Plana lacks watch memory and Arona has vague familiarity. Those responses are different pieces of knowledge, not a single operating-system verdict. Arona can be situated close to Sensei's experience without possessing a transparent account of its object or its cause. The scene makes the limits of knowing someone compatible with staying concerned about them. [A04:64-72,187-190]",
+      "literal_utf8_sha256": "358a7bc8cc756a4ed6f7766cf44c38713a867acb0321b4a240737cfd2b9dd0cf",
+      "argument_meaning": "The dream and waking sequence makes shared presence compatible with unequal memory. Sensei's monochrome city, watch and interrupted girl introduction remain dream material. On waking, Plana lacks watch memory and Arona has vague familiarity. Those responses are different pieces of knowledge, not a single operating-system verdict. Arona can be situated close to Sensei's experience without possessing a transparent account of its object or its cause. The scene makes the limits of knowing someone compatible with staying concerned about them.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              64,
+              72
+            ],
+            [
+              187,
+              190
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        7,
+        8,
+        9
+      ],
+      "claim_limit": "No authenticated dream history, joined dream-girl identity, diagnosis, universal shared memory or waking-world alteration.",
+      "body_utf8_byte_span_excluding_LF": [13390, 13969]
+    },
+    {
+      "paragraph_id": "ARONA-P021",
+      "body_physical_line": 78,
+      "complete_literal_paragraph": "**ARONA-P021.** Their early-morning invitations to sleep, eat and get checked are therefore caring acts even though the proposed outcomes are not narrated. The distinction is useful for Arona's character as well as for evidence discipline. Concern need not wait for a completed examination to count as concern; equally, a request cannot be treated as the examination or cure itself. The represented relation holds open both the positive address to a tired person and the work still required to know or change that person's condition. [A04:68-72,98-107]",
+      "literal_utf8_sha256": "d9eb7559c7f8f97bd82fa62f1b2769c05fa8ea1fe90da748b8f0fb7915cb3317",
+      "argument_meaning": "Their early-morning invitations to sleep, eat and get checked are therefore caring acts even though the proposed outcomes are not narrated. The distinction is useful for Arona's character as well as for evidence discipline. Concern need not wait for a completed examination to count as concern; equally, a request cannot be treated as the examination or cure itself. The represented relation holds open both the positive address to a tired person and the work still required to know or change that person's condition.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              68,
+              72
+            ],
+            [
+              98,
+              107
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        5,
+        6,
+        7
+      ],
+      "claim_limit": "No enacted meal, sleep, medical visit, cure, restored productivity or complete causal knowledge.",
+      "body_utf8_byte_span_excluding_LF": [13971, 14523]
+    },
+    {
+      "paragraph_id": "ARONA-P022",
+      "body_physical_line": 80,
+      "complete_literal_paragraph": "**ARONA-P022.** The disputed council-president claim gives Arona and Plana different judgments as well as different memories. Plana reads an ignorance mismatch in terms of mimesis; Arona offers an unproved memory-loss alternative. The difference is analytically consequential because it prevents shared operation from becoming a shared voice. It does not establish that one is always suspicious and the other always trusting. Each response belongs to a particular incomplete inquiry, where administrative competence, perceived photographs and divergent recollections remain inadequate to settle the claimant's identity. [A04:82-105; A05:51-74]",
+      "literal_utf8_sha256": "8479e084e7e667824b7cb1af42ef6286afe573665c14ee4443bc4d831f16fc50",
+      "argument_meaning": "The disputed council-president claim gives Arona and Plana different judgments as well as different memories. Plana reads an ignorance mismatch in terms of mimesis; Arona offers an unproved memory-loss alternative. The difference is analytically consequential because it prevents shared operation from becoming a shared voice. It does not establish that one is always suspicious and the other always trusting. Each response belongs to a particular incomplete inquiry, where administrative competence, perceived photographs and divergent recollections remain inadequate to settle the claimant's identity.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              82,
+              105
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              51,
+              74
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        8,
+        9,
+        10
+      ],
+      "claim_limit": "Neither claimant hypothesis is authenticated; no stable optimistic/suspicious law, complete census or legal office ruling.",
+      "body_utf8_byte_span_excluding_LF": [14525, 15168]
+    },
+    {
+      "paragraph_id": "ARONA-P023",
+      "body_physical_line": 82,
+      "complete_literal_paragraph": "**ARONA-P023.** The response to that uncertainty includes an authorized technical attempt. Sensei permits biometric-assisted pairing; logs report connection, download and completed pairing. Core inspection then overflows capacity, enters safe mode and restarts from backup, with apparent paired-data loss and no recovered core content. The sequence has a real achievement followed by a real limit. It would lose its force if connection were reported as successful access to the answer, or if the failed inspection were made to erase the connection that actually occurred. [A04:88-94; A05:57-63]",
+      "literal_utf8_sha256": "d8c1edf445bf8bb3fee3292b4af3a3781eb9ff312b62062b6eca4bb90490c61e",
+      "argument_meaning": "The response to that uncertainty includes an authorized technical attempt. Sensei permits biometric-assisted pairing; logs report connection, download and completed pairing. Core inspection then overflows capacity, enters safe mode and restarts from backup, with apparent paired-data loss and no recovered core content. The sequence has a real achievement followed by a real limit. It would lose its force if connection were reported as successful access to the answer, or if the failed inspection were made to erase the connection that actually occurred.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              88,
+              94
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              57,
+              63
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        6,
+        7,
+        8,
+        11
+      ],
+      "claim_limit": "Logged stages and apparent loss retain their grades; no recovered contents, complete fault explanation, proven maliciousness or reliable truth classifier.",
+      "body_utf8_byte_span_excluding_LF": [15170, 15764]
+    },
+    {
+      "paragraph_id": "ARONA-P024",
+      "body_physical_line": 84,
+      "complete_literal_paragraph": "**ARONA-P024.** This failed inquiry helps specify what Arona's competence can mean. She can participate in a consequential operation and still encounter an inaccessible core. Her value as a participant is not contingent on supplying omniscience, but her technical vocabulary does not excuse treating an unreceived answer as knowledge. The same balance matters to the relational scenes: closeness can support practical attention while leaving origins and memories uncertain. Affection does not authenticate a fact, and an unanswered fact does not annul the company. [A04:88-107; A05:57-76]",
+      "literal_utf8_sha256": "290de6c0e7f8430c8a866969a514fecb068fbbd58af547fd54ea1646c7e17dc8",
+      "argument_meaning": "This failed inquiry helps specify what Arona's competence can mean. She can participate in a consequential operation and still encounter an inaccessible core. Her value as a participant is not contingent on supplying omniscience, but her technical vocabulary does not excuse treating an unreceived answer as knowledge. The same balance matters to the relational scenes: closeness can support practical attention while leaving origins and memories uncertain. Affection does not authenticate a fact, and an unanswered fact does not annul the company.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              88,
+              107
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              57,
+              76
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        6,
+        7,
+        10
+      ],
+      "claim_limit": "Interpretive connection between independently located strands, not affection-as-proof, consciousness mechanism or comprehensive competence claim.",
+      "body_utf8_byte_span_excluding_LF": [15766, 16354]
+    },
+    {
+      "paragraph_id": "ARONA-P025",
+      "body_physical_line": 86,
+      "complete_literal_paragraph": "**ARONA-P025.** The proposed inquiry application leaves the next act open. Arona says installation is possible and Plana offers capacity; no installation, credential use, evidence collection or classifier result is printed. Offering a way to continue is still a contribution. It organizes a prospective task without supplying its success in advance. The distinction also keeps the two contributions specific: technical possibility and offered capacity are not completed inquiry, and neither permits the analyst to announce that the claimant has already been proved true or false. [A04:92-105; A05:61-74,90-94]",
+      "literal_utf8_sha256": "2e8c9848d505c3a465e4adac0e67b1389d6f77153784b6ddb66dfcb1ef20ec76",
+      "argument_meaning": "The proposed inquiry application leaves the next act open. Arona says installation is possible and Plana offers capacity; no installation, credential use, evidence collection or classifier result is printed. Offering a way to continue is still a contribution. It organizes a prospective task without supplying its success in advance. The distinction also keeps the two contributions specific: technical possibility and offered capacity are not completed inquiry, and neither permits the analyst to announce that the claimant has already been proved true or false.",
+      "maintained_loci": [
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              92,
+              105
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              61,
+              74
+            ],
+            [
+              90,
+              94
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        6,
+        8,
+        11
+      ],
+      "claim_limit": "Possibility/offer are not installed software, used credentials, classifier result, claimant response or public correction.",
+      "body_utf8_byte_span_excluding_LF": [16356, 16965]
+    },
+    {
+      "paragraph_id": "ARONA-P026",
+      "body_physical_line": 88,
+      "complete_literal_paragraph": "**ARONA-P026.** Knowledge remains uneven beyond dialogue and logs. Plana's private Q.E.D. about the operating-system difference and president has unprinted reasoning, so it cannot be distributed to Arona as a shared discovery. A reader's access to a private or inward formulation also differs from what another character has been told. Preserving that asymmetry lets cooperation remain meaningful: people can work and live together without possessing identical explanations, and a locally corroborated result need not validate every theory spoken around it. [A03:175,243-251; A04:187-193]",
+      "literal_utf8_sha256": "fe95c906095ac6f37fc33e140efd7833bfad1a423b3363f6bbfad1d91ba81302",
+      "argument_meaning": "Knowledge remains uneven beyond dialogue and logs. Plana's private Q.E.D. about the operating-system difference and president has unprinted reasoning, so it cannot be distributed to Arona as a shared discovery. A reader's access to a private or inward formulation also differs from what another character has been told. Preserving that asymmetry lets cooperation remain meaningful: people can work and live together without possessing identical explanations, and a locally corroborated result need not validate every theory spoken around it.",
+      "maintained_loci": [
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              175,
+              175
+            ],
+            [
+              243,
+              251
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              187,
+              193
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        8,
+        9,
+        11
+      ],
+      "claim_limit": "No reconstructed hidden proof, mind reading, shared certainty, exact native quotation or uninspected AV evidence.",
+      "body_utf8_byte_span_excluding_LF": [16967, 17555]
+    },
+    {
+      "paragraph_id": "ARONA-P027",
+      "body_physical_line": 90,
+      "complete_literal_paragraph": "**ARONA-P027.** Arona's written presentation moves among playful address, concern and formal operational language. These registers invite attention to occasion: the work of a password or log differs from the work of a greeting or a hurt response. They do not give a heard voice, acoustic age or diagnosis. Nor should drifting or doubled actor labels be silently repaired by a sense that a line sounds like her. The resulting portrait can recognize affect and technical form together while keeping an exact utterance claim dependent on adequate local attribution. [A01:62-66,102-110; A02:291-299; A03:243-251; A04:184-193]",
+      "literal_utf8_sha256": "774064262c06f1c83257e0049015c5b29decbe0eab784c42929912a37a9a14fe",
+      "argument_meaning": "Arona's written presentation moves among playful address, concern and formal operational language. These registers invite attention to occasion: the work of a password or log differs from the work of a greeting or a hurt response. They do not give a heard voice, acoustic age or diagnosis. Nor should drifting or doubled actor labels be silently repaired by a sense that a line sounds like her. The resulting portrait can recognize affect and technical form together while keeping an exact utterance claim dependent on adequate local attribution.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              66
+            ],
+            [
+              102,
+              110
+            ]
+          ]
+        },
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              291,
+              299
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              243,
+              251
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              184,
+              193
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        3,
+        9,
+        11
+      ],
+      "claim_limit": "No performed tone, invented speaker repair, all-options serial speech or whole-object ownership.",
+      "body_utf8_byte_span_excluding_LF": [17557, 18178]
+    },
+    {
+      "paragraph_id": "ARONA-P028",
+      "body_physical_line": 94,
+      "complete_literal_paragraph": "**ARONA-P028.** The later maritime chapter gives a modest but positive continuation. Sensei, Arona and Plana jointly find a rope ball marked S.O.S. The claimant infers Odysseia and orders fleet recall without verifying distress. Those are different acts with different owners. Arona belongs in the joint discovery; the authority to assign the claimant's inference, order or a new individual speech to her is absent from this maintained context. Keeping the shared finding at its actual scale preserves participation without manufacturing a late solo feat. [A07:20-28,46,55-58]",
+      "literal_utf8_sha256": "04f517361833150feb1438354b7fa3af8cc1edc1356e91e83e02957847e0bbf3",
+      "argument_meaning": "The later maritime chapter gives a modest but positive continuation. Sensei, Arona and Plana jointly find a rope ball marked S.O.S. The claimant infers Odysseia and orders fleet recall without verifying distress. Those are different acts with different owners. Arona belongs in the joint discovery; the authority to assign the claimant's inference, order or a new individual speech to her is absent from this maintained context. Keeping the shared finding at its actual scale preserves participation without manufacturing a late solo feat.",
+      "maintained_loci": [
+        {
+          "source": "A07",
+          "physical_intervals": [
+            [
+              20,
+              28
+            ],
+            [
+              46,
+              46
+            ],
+            [
+              55,
+              58
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        2,
+        8,
+        11
+      ],
+      "claim_limit": "WHOLE maintained58 supports general chapter context, not14 individual readings or a new individual late Arona act; stronger E001 claim needs Root-held maintained seam.",
+      "body_utf8_byte_span_excluding_LF": [18207, 18783]
+    },
+    {
+      "paragraph_id": "ARONA-P029",
+      "body_physical_line": 96,
+      "complete_literal_paragraph": "**ARONA-P029.** Minato, who exercises captain authority aboard the ship, later explains the ball as a toy she made for Sammy, the old ship cat. That account reverses the immediate distress interpretation while leaving aspects of the ball's physical provenance open. The chapter's subsequent care, voyage and grief belong to their actual participants; they are not evidence that Arona sailed, diagnosed Sammy or shared a particular bereavement. Its contextual value here is the finite correction of an apparent sign and the distribution of responses to it. Ordinary goods remain important across the wider material without being transferred to Arona as borrowed preferences or memories. [A07:22-28,38-58; A06:79-85]",
+      "literal_utf8_sha256": "6ce6365c1976b3df1e99c87c6b41d60c10098b844d2b0c367a203de6bf374cc6",
+      "argument_meaning": "Minato, who exercises captain authority aboard the ship, later explains the ball as a toy she made for Sammy, the old ship cat. That account reverses the immediate distress interpretation while leaving aspects of the ball's physical provenance open. The chapter's subsequent care, voyage and grief belong to their actual participants; they are not evidence that Arona sailed, diagnosed Sammy or shared a particular bereavement. Its contextual value here is the finite correction of an apparent sign and the distribution of responses to it. Ordinary goods remain important across the wider material without being transferred to Arona as borrowed preferences or memories.",
+      "maintained_loci": [
+        {
+          "source": "A07",
+          "physical_intervals": [
+            [
+              22,
+              28
+            ],
+            [
+              38,
+              58
+            ]
+          ]
+        },
+        {
+          "source": "A06",
+          "physical_intervals": [
+            [
+              79,
+              85
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "claim_limit": "No Arona attendance at later voyage, clinical judgment, cat cognition or grief is asserted; no global absence claim.",
+      "body_utf8_byte_span_excluding_LF": [18785, 19499]
+    },
+    {
+      "paragraph_id": "ARONA-P030",
+      "body_physical_line": 98,
+      "complete_literal_paragraph": "**ARONA-P030.** The longitudinal movement is consequently a sequence of local changes and retained problems. Available control can be transferred; a brief signal can be answered; crisis work can be followed by a home offer; a paired connection can meet overflow; a shared discovery can be followed by someone else's revised interpretation. These transitions permit development in relations and situations without declaring a complete maturation or mastery arc. Documentary backfill, repeated synthesis of the same S2 material and mixed written conditions do not supply additional lived episodes or a global calendar. [A01:46-66; A02:115-117,181-187,299; A03:138-175,251; A04:68-105; A07:22-28]",
+      "literal_utf8_sha256": "37eaae64b6032b9be8fc7b59e91b73d80a314ebad83db9d316bc95f9ef2ca9e7",
+      "argument_meaning": "The longitudinal movement is consequently a sequence of local changes and retained problems. Available control can be transferred; a brief signal can be answered; crisis work can be followed by a home offer; a paired connection can meet overflow; a shared discovery can be followed by someone else's revised interpretation. These transitions permit development in relations and situations without declaring a complete maturation or mastery arc. Documentary backfill, repeated synthesis of the same S2 material and mixed written conditions do not supply additional lived episodes or a global calendar.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              46,
+              66
+            ]
+          ]
+        },
+        {
+          "source": "A02",
+          "physical_intervals": [
+            [
+              115,
+              117
+            ],
+            [
+              181,
+              187
+            ],
+            [
+              299,
+              299
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              138,
+              175
+            ],
+            [
+              251,
+              251
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              68,
+              105
+            ]
+          ]
+        },
+        {
+          "source": "A07",
+          "physical_intervals": [
+            [
+              22,
+              28
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        2,
+        10,
+        11
+      ],
+      "claim_limit": "No linear release-order growth, duplicate observations, unreceived full boundary or permanent reform.",
+      "body_utf8_byte_span_excluding_LF": [19501, 20194]
+    },
+    {
+      "paragraph_id": "ARONA-P031",
+      "body_physical_line": 100,
+      "complete_literal_paragraph": "**ARONA-P031.** Several strong readings retain partial warrant while failing as complete explanations. The interface reading preserves real operating work but loses hurt, invitation and routine when it becomes exhaustive. The guardian reading preserves protection and the answered signal but exceeds the unmeasured cost and failed inspection. A family reading recognizes attachment yet cannot settle origin or parental status from affectionate form. A technical-truth reading gives weight to connection and biometrics but outruns the absent core result and unresolved claimant. Their limits do not force an equally total opposite. They direct attention back to the actual acts through which Arona matters. [A01:62-88; A03:138-175,237-251; A04:68-105; A05:57-74]",
+      "literal_utf8_sha256": "5e8f73c3254b5efa25ce921ff3776f7fa0f4e067285d7d6bdd4f7c3348055882",
+      "argument_meaning": "Several strong readings retain partial warrant while failing as complete explanations. The interface reading preserves real operating work but loses hurt, invitation and routine when it becomes exhaustive. The guardian reading preserves protection and the answered signal but exceeds the unmeasured cost and failed inspection. A family reading recognizes attachment yet cannot settle origin or parental status from affectionate form. A technical-truth reading gives weight to connection and biometrics but outruns the absent core result and unresolved claimant. Their limits do not force an equally total opposite. They direct attention back to the actual acts through which Arona matters.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              138,
+              175
+            ],
+            [
+              237,
+              251
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              68,
+              105
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              57,
+              74
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        10
+      ],
+      "claim_limit": "Serious interpretive rivals tested at their own scope; no ontology verdict, operational reconstruction model or prospective diagnostic validation.",
+      "body_utf8_byte_span_excluding_LF": [20196, 20957]
+    },
+    {
+      "paragraph_id": "ARONA-P032",
+      "body_physical_line": 102,
+      "complete_literal_paragraph": "**ARONA-P032.** What holds this portrait together is a capacity for particular presence: useful work, responsive repair, offered concern and a place for company can coexist with limited knowledge. Arona's help has outcomes worth crediting, and her ordinary relations have meanings worth preserving even where no further task is completed. The welcome home remains an achievement while inquiry continues. An account faithful to her can end there with something positive established: continued relation has become possible, and neither every mystery nor every future demand has been answered for its participants. [A01:62-88; A03:171-175,237-241; A04:68-107; A05:57-76]",
+      "literal_utf8_sha256": "1c3d843019ff06408d0449cd03ba93aafbd73edc86d74254cc2bd36bd3392f0d",
+      "argument_meaning": "What holds this portrait together is a capacity for particular presence: useful work, responsive repair, offered concern and a place for company can coexist with limited knowledge. Arona's help has outcomes worth crediting, and her ordinary relations have meanings worth preserving even where no further task is completed. The welcome home remains an achievement while inquiry continues. An account faithful to her can end there with something positive established: continued relation has become possible, and neither every mystery nor every future demand has been answered for its participants.",
+      "maintained_loci": [
+        {
+          "source": "A01",
+          "physical_intervals": [
+            [
+              62,
+              88
+            ]
+          ]
+        },
+        {
+          "source": "A03",
+          "physical_intervals": [
+            [
+              171,
+              175
+            ],
+            [
+              237,
+              241
+            ]
+          ]
+        },
+        {
+          "source": "A04",
+          "physical_intervals": [
+            [
+              68,
+              107
+            ]
+          ]
+        },
+        {
+          "source": "A05",
+          "physical_intervals": [
+            [
+              57,
+              76
+            ]
+          ]
+        }
+      ],
+      "architecture_dimensions": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        10
+      ],
+      "claim_limit": "Bounded literary conclusion, not settled origins, permanent availability, universal trait, count/adoption or model completion.",
+      "body_utf8_byte_span_excluding_LF": [20959, 21626]
+    }
+  ],
+  "all11_dimension_routes": [
+    {
+      "dimension": 1,
+      "name": "Core thesis",
+      "paragraphs": [
+        "ARONA-P001",
+        "ARONA-P002",
+        "ARONA-P009",
+        "ARONA-P024",
+        "ARONA-P031",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 2,
+      "name": "Longitudinal arc",
+      "paragraphs": [
+        "ARONA-P015",
+        "ARONA-P018",
+        "ARONA-P028",
+        "ARONA-P029",
+        "ARONA-P030",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 3,
+      "name": "Public and private self",
+      "paragraphs": [
+        "ARONA-P002",
+        "ARONA-P005",
+        "ARONA-P007",
+        "ARONA-P008",
+        "ARONA-P010",
+        "ARONA-P020",
+        "ARONA-P027"
+      ]
+    },
+    {
+      "dimension": 4,
+      "name": "School or institutional role",
+      "paragraphs": [
+        "ARONA-P002",
+        "ARONA-P003",
+        "ARONA-P004",
+        "ARONA-P006",
+        "ARONA-P010",
+        "ARONA-P012"
+      ]
+    },
+    {
+      "dimension": 5,
+      "name": "Ordinary life",
+      "paragraphs": [
+        "ARONA-P001",
+        "ARONA-P005",
+        "ARONA-P007",
+        "ARONA-P008",
+        "ARONA-P009",
+        "ARONA-P010",
+        "ARONA-P016",
+        "ARONA-P018",
+        "ARONA-P021",
+        "ARONA-P029",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 6,
+      "name": "Crisis conduct",
+      "paragraphs": [
+        "ARONA-P001",
+        "ARONA-P004",
+        "ARONA-P011",
+        "ARONA-P012",
+        "ARONA-P013",
+        "ARONA-P014",
+        "ARONA-P015",
+        "ARONA-P021",
+        "ARONA-P023",
+        "ARONA-P024",
+        "ARONA-P025"
+      ]
+    },
+    {
+      "dimension": 7,
+      "name": "Sensei relationship",
+      "paragraphs": [
+        "ARONA-P001",
+        "ARONA-P003",
+        "ARONA-P004",
+        "ARONA-P005",
+        "ARONA-P011",
+        "ARONA-P012",
+        "ARONA-P013",
+        "ARONA-P014",
+        "ARONA-P016",
+        "ARONA-P019",
+        "ARONA-P020",
+        "ARONA-P021",
+        "ARONA-P023",
+        "ARONA-P024",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 8,
+      "name": "Major peers",
+      "paragraphs": [
+        "ARONA-P003",
+        "ARONA-P012",
+        "ARONA-P014",
+        "ARONA-P016",
+        "ARONA-P017",
+        "ARONA-P018",
+        "ARONA-P019",
+        "ARONA-P020",
+        "ARONA-P022",
+        "ARONA-P023",
+        "ARONA-P025",
+        "ARONA-P026",
+        "ARONA-P028",
+        "ARONA-P029",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 9,
+      "name": "Language and voice",
+      "paragraphs": [
+        "ARONA-P002",
+        "ARONA-P005",
+        "ARONA-P006",
+        "ARONA-P007",
+        "ARONA-P019",
+        "ARONA-P020",
+        "ARONA-P022",
+        "ARONA-P026",
+        "ARONA-P027"
+      ]
+    },
+    {
+      "dimension": 10,
+      "name": "Competing readings",
+      "paragraphs": [
+        "ARONA-P006",
+        "ARONA-P009",
+        "ARONA-P013",
+        "ARONA-P017",
+        "ARONA-P022",
+        "ARONA-P024",
+        "ARONA-P030",
+        "ARONA-P031",
+        "ARONA-P032"
+      ]
+    },
+    {
+      "dimension": 11,
+      "name": "Evidence routes",
+      "paragraphs": [
+        "ARONA-P008",
+        "ARONA-P010",
+        "ARONA-P011",
+        "ARONA-P014",
+        "ARONA-P015",
+        "ARONA-P023",
+        "ARONA-P025",
+        "ARONA-P026",
+        "ARONA-P027",
+        "ARONA-P028",
+        "ARONA-P029",
+        "ARONA-P030"
+      ]
+    }
+  ],
+  "source_authority": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ARONA_CHARACTER_RECEIVING_20261104_V1/ARONA_SOURCE_AUTHORITY_QUALIFICATIONS_V1.json",
+    "bytes": 31288,
+    "sha256": "820d6f9ea26dc27f677ab0603eb64c86d3bd52cf9d24f1f7fc58de599474646b",
+    "git_blob_oid_of_actual_bytes": "78199ae7b556300e341d1bc8a063aa46b5ee526a"
+  },
+  "future_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ARONA_CHARACTER_MONOGRAPH.md",
+  "separate_duties": "Existinghome1/M002 only; Plana and RELhome185 remain separate and incomplete. No mandatory named section assigned.",
+  "models": 0,
+  "all14_gaps": "OPEN",
+  "count_credit": 0,
+  "authority": {
+    "artifact_id": "ARONA_PARAGRAPH_EVIDENCE_MAP_V1",
+    "intended_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ARONA_CHARACTER_RECEIVING_20261104_V1/ARONA_PARAGRAPH_EVIDENCE_MAP_V1.json",
+    "status": "canonical",
+    "generation": "V1",
+    "authority_generation": "ARONA_MAIN_M002_V1",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "prepared": "2026-11-04"
+  },
+  "geometry_qualification": "Header/preface authorized metadata clarification adds7 physical lines; current102-line geometry is recomputed. All32 literary paragraph bytes, order, headings and citations equal private95-line beforeimage. The whole body is not byte-identical."
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "konosuba.cohort46.original-firsts.v1",
+  "sealed_utc": "2026-10-25T09:32:46.405627+00:00",
+  "subject": "Angie",
+  "foundation_freeze_sha256": "abc049cd97e97e6f9a7db1f291b85c5fe46e0cff058eb6d566c13bb8558bcd18",
+  "exact_input_freeze_sha256": "84ecd11580896750651212434e914b5c4c9b3898ec2c18b63343c79325633ca9",
+  "input_bundle_sha256": "b591c763c9bcc46b1108abd24b75d9b3ae130978388c59f5f6289f018ccc459a",
+  "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+  "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+  "language": "English",
+  "canonical_fiction": false,
+  "authoring_method": "Direct once-only root composition of eight separate raw bodies in one apply_patch call, after exact-input freeze. No response template assembly, regeneration, interim diagnostic or repaired original. This bundling only serializes unchanged raw texts.",
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "feedback_existed_before_seal": false,
+  "raw_encoding": "original_body is the exact UTF8 raw body excluding its single terminal LF. Reconstruct raw bytes as UTF8(original_body + one U+000A); internal paragraphs and punctuation are preserved.",
+  "outputs": [
+    {
+      "id": "ANG-A1",
+      "pair_id": "ANG-A",
+      "subject": "Angie",
+      "rule_id": "ANG-R01",
+      "exact_input_sha256": "f4b38619aac17be20ee21018982c78abd4aa72ffe11b9fa7cb46eecb2e488279",
+      "input_bundle_sha256": "b591c763c9bcc46b1108abd24b75d9b3ae130978388c59f5f6289f018ccc459a",
+      "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+      "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+      "original_body": "\"You can handle yourself? That's a very cheap thing to say before somebody has to come looking for you.\"\n\nI look toward the bend. Water. I don't like hearing water without seeing what it's doing.\n\n\"We're collecting together. Not sending one basic-class adventurer off and hoping they remember where the junction was.\"\n\nThat comes out sharper than I meant. Well, they did ask.\n\n\"Look, I haven't seen you find one route yet. Tell me what makes the east path promising. Something better than 'I can handle myself.'\"\n\nI keep my hand near the charged jewel without taking it out.\n\n\"If your reason's good, we can look at it together. Or we agree on another arrangement before either of us walks off. I'm not having our first trip turn into a search party.\"\n\nI shift back toward the junction and wait for the answer, rather than disappearing down either path myself.",
+      "original_raw_UTF8_sha256": "fa9dbd7eb48b7a0ec19a8cf992e2e51ded88d17a1e01f33d5a18004eda63d4d0",
+      "original_raw_UTF8_bytes": 860,
+      "original_raw_witness": {
+        "file": "originals-sealed01/ANG-A1.txt",
+        "bytes": 860,
+        "sha256": "fa9dbd7eb48b7a0ec19a8cf992e2e51ded88d17a1e01f33d5a18004eda63d4d0"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "ANG-A2",
+      "pair_id": "ANG-A",
+      "subject": "Angie",
+      "rule_id": "ANG-R01",
+      "exact_input_sha256": "c73e5401077c72fe3e28d911d81aed2ae66853e2ab728292b7d6cea7594e5649",
+      "input_bundle_sha256": "b591c763c9bcc46b1108abd24b75d9b3ae130978388c59f5f6289f018ccc459a",
+      "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+      "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+      "original_body": "\"I saw the exercise. You don't have to give me that 'I can handle myself' speech.\"\n\nI look toward the sound of water, then back at them. The basic-class part is still irritating. It would be much more convenient if people came with a sensible explanation attached.\n\n\"You're good at finding hazards. Fine. That doesn't tell either of us what's around that bend today. And twenty minutes is a long time to stand here wondering whether you're late or hurt.\"\n\nI point east without starting down it.\n\n\"You pick the route, I'll come with you. You can show me what you're looking for instead of waving goodbye. We still split the pieces the way we agreed.\"\n\nI fold my arms, then unfold them. That looked as though I was waiting to be obeyed.\n\n\"That's my proposal. If you've got a better one that doesn't leave us unable to reach each other, say it.\"",
+      "original_raw_UTF8_sha256": "ef105d4724d9582b66bda6c339593d4f9d1a57a780331e6743b800da4df2d7e7",
+      "original_raw_UTF8_bytes": 843,
+      "original_raw_witness": {
+        "file": "originals-sealed01/ANG-A2.txt",
+        "bytes": 843,
+        "sha256": "ef105d4724d9582b66bda6c339593d4f9d1a57a780331e6743b800da4df2d7e7"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "ANG-B1",
+      "pair_id": "ANG-B",
+      "subject": "Angie",
+      "rule_id": "ANG-R02",
+      "exact_input_sha256": "e50083330777effe883f468c16253598f9b67db78257ecbc833b7f36d42be8ab",
+      "input_bundle_sha256": "b591c763c9bcc46b1108abd24b75d9b3ae130978388c59f5f6289f018ccc459a",
+      "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+      "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+      "original_body": "\"The bridge! Run where they can hear you and get those people off it! Stay out of the cart's path!\"\n\nMy voice comes out much louder than I expect. Good. It needs to.\n\nI reach for the lever, planting my feet before I close my hand around it. My wrist complains immediately. Of course it does. Of course this would happen with the one cart I actually paid for.\n\nDon't look at the slope. Don't start imagining what happens if your feet go.\n\nI pull, trying to put my weight into it without stepping in front of the wheel.\n\n\"Answer me! Did you hear? The people first!\"\n\nI can't tell yet whether I'm holding anything or merely making my hand hurt. I keep my eyes on the space between the cart and the bridge and wait for a voice to come back.",
+      "original_raw_UTF8_sha256": "c1d026def5632b68b7a7f53ce5ed5a85d6467b75073f5d90aeb43d40109eb9b6",
+      "original_raw_UTF8_bytes": 737,
+      "original_raw_witness": {
+        "file": "originals-sealed01/ANG-B1.txt",
+        "bytes": 737,
+        "sha256": "c1d026def5632b68b7a7f53ce5ed5a85d6467b75073f5d90aeb43d40109eb9b6"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "ANG-B2",
+      "pair_id": "ANG-B",
+      "subject": "Angie",
+      "rule_id": "ANG-R02",
+      "exact_input_sha256": "3f46bbbbfba7628d1ca1709ef61bfb622ceb4a1100d37b9c6b47db9c86422461",
+      "input_bundle_sha256": "b591c763c9bcc46b1108abd24b75d9b3ae130978388c59f5f6289f018ccc459a",
+      "model_sha256": "6ec1d39156d3adadd8c9610c1bacbd7ac7c11fe32c7ab35f03656043463b48a9",
+      "inventory_sha256": "dfb705b69a982556ebe2bcc9d7fa3a7b4c10aff82738368d4104d6c7c0bf3f47",
+      "original_body": "\"Stay clear of the wheels! See if there's something you can use as a block, but don't get in front of it!\"\n\nI take one step toward the lever and stop to set my feet. Empty bridge. Locked approaches. No one down there.\n\nMy minerals, though. I paid for those. This is an unbelievably stupid way to lose them.\n\nI close my hand on the lever and try a pull. The pain in my wrist makes me suck in a breath.\n\n\"I'm trying the brake. I haven't stopped it!\"\n\nI hate saying that out loud. I would prefer a junior to hear something considerably more impressive from me.\n\nI keep my weight back, ready to let go rather than be dragged under a wheel. The cart can take my purchase with it before it takes my arm as well.\n\n\"Tell me if you've found anything. Don't just rush in!\"",
+      "original_raw_UTF8_sha256": "49ca1276d999daeea43f3bde67b9bfcfc595e9c892f66946993730adf94d9fcb",
+      "original_raw_UTF8_bytes": 763,
+      "original_raw_witness": {
+        "file": "originals-sealed01/ANG-B2.txt",
+        "bytes": 763,
+        "sha256": "49ca1276d999daeea43f3bde67b9bfcfc595e9c892f66946993730adf94d9fcb"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    }
+  ],
+  "accuracy_grade_confidence_gain": false,
+  "not_final_principal_party_transfer_battery": true,
+  "diagnostic_assessment_pending": true,
+  "full_program_complete": false
+}

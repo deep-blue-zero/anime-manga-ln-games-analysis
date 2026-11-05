@@ -1,0 +1,40 @@
+{
+  "schema": "konosuba.cohort43.source-safe-original-firsts-seal.v1",
+  "private_complete_seal_sha256": "5d82b4d42b2e70a930131df95e3e7cd53e29c90ae02053d7313089c8e50b7897",
+  "sealed_utc": "2026-10-25T02:26:45.972186+00:00",
+  "input_freeze_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT43_EXACT_INPUT_FREEZE_01.json",
+  "input_freeze_sha256": "27b5a790680f15855e1f2136d90f24d9296ed99c0c685e442f220da16007a756",
+  "original_bundle_path": "series/konosuba/06 Character Modeling and Reconstruction/OZUMA_EXPANDED_V1_EVIDENCE/OZUMA_FIRST_OUTPUTS_01.json",
+  "original_bundle_sha256": "27443986892c5b9d32a14355a91de341b5ed9aae8ca6d4919e658cd440d6bf76",
+  "response_pins": [
+    {
+      "scenario_id": "OZU-A1",
+      "UTF8_body_sha256": "a9c2475d89c2a8433a0321bff5e51430aaf5fa6fa82a9710f1e642b6f8a55314",
+      "word_count": 136,
+      "attempt": 1
+    },
+    {
+      "scenario_id": "OZU-A2",
+      "UTF8_body_sha256": "11181a03096324b461672ca72f78bd8cc99c09c8c3e790c97c949a2ed33c6b6d",
+      "word_count": 134,
+      "attempt": 1
+    },
+    {
+      "scenario_id": "OZU-B1",
+      "UTF8_body_sha256": "333a4c7964d7b90aa4bfe2200d6e9f1273c484487bc2f002b30deaca2de927a2",
+      "word_count": 156,
+      "attempt": 1
+    },
+    {
+      "scenario_id": "OZU-B2",
+      "UTF8_body_sha256": "3dcca59b9761cb114642679f5b58076726b1f6f3081fdb92520078edfa6b5dd7",
+      "word_count": 160,
+      "attempt": 1
+    }
+  ],
+  "first_body_count": 4,
+  "dependent_pairs": 2,
+  "feedback_before_seal": false,
+  "body_or_rule_repair": false,
+  "independent_accuracy_grade_confidence_gain_or_final_battery": false
+}

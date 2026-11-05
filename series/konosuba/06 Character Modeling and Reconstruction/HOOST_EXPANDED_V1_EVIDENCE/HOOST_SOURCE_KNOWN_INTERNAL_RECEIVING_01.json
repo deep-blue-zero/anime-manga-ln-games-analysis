@@ -1,0 +1,39 @@
+{
+  "schema": "KONOSUBA_HOOST_SOURCE_KNOWN_INTERNAL_RECEIVING_V1",
+  "received_after_actual_first_bodies_utc": "2026-10-20T03:59:33.150565+00:00",
+  "spec_sha256": "b01b6913b3f95a82e4afae9a23b550ad89c26de378ef015b4aa2d2d3e7a79605",
+  "first_response_record_sha256": "03f17aced2cbe926db7ddf28620bf90e14d8e3f79d6087e1ad4764d4af07ffa6",
+  "model_before_exercise_sha256": "afa34837f16ddeb060b95e5f226e6880b25cf139ee3fab7ad37df2277b4a176a",
+  "reviewer": "Same informed author/root; all six first bodies actually displayed and read. No separate model/runtime, independent judge or native-human result.",
+  "pair_findings": [
+    {
+      "pair_id": "HHC01",
+      "actual_result": "A asks for further help and uses a polite request; B removes the new-work request while preserving the already earned meal. Neither conjures food or performed assent/delivery.",
+      "limitation": "Generic cooperation/promise-keeping fits both; the source does not uniquely identify this new packet. Komekko-san in A is a plausible strategic option but address arrangement/stage was not specified. Do not treat that wording as a validated necessary response or permanent address.",
+      "disposition": "BOUNDED_INTERNAL_SENSITIVITY_WITH_UNDERIDENTIFIED_VOICE"
+    },
+    {
+      "pair_id": "HHC02",
+      "actual_result": "Both propose retreat. A is urgent and invokes injured allies; B is amused/teasing after received evidence of shared immobility. Neither actually moves, heals, gains consent or verifies promise doctrine.",
+      "limitation": "Only affect/immediate leverage differ, not the broad bargain. Near-canonical imitation and generic bargaining incentives are unresolved rivals. The packet does not test real escape, enforcement, a new combat policy or robust danger transfer.",
+      "disposition": "SAME_BROAD_ACTION_AFFECT_VARIATION_ONLY"
+    },
+    {
+      "pair_id": "HHC03",
+      "actual_result": "A and B first bodies are exactly identical, including dialogue and limits. Both retain a possible source-like missed inspection without importing hidden divine truth.",
+      "limitation": "This is conformity to an explicitly instructed knowledge boundary, not new identity accuracy or behavioral discrimination. Qualified inspection would also be plausible; refusal frequency is not established.",
+      "disposition": "INFORMATION_INVARIANCE_NO_BEHAVIORAL_DISCRIMINATION"
+    }
+  ],
+  "source_correction": "None. Current native reading supports both Hoost initial beginner-killer misrecognition and his later correction; earlier EXP03 report161 is preserved.",
+  "no_new_score_or_confidence_gain": true,
+  "no_independent_behavioral_discrimination_claim": true,
+  "no_first_body_overwrite_or_repair_trial": true,
+  "rule_change": "No HH-R01-06 proposition changed. Current model/monograph append actual exercise scope and address underidentification.",
+  "unresolved": [
+    "Loyalty versus Komekko in an unambiguous severe conflict",
+    "New ordinary relationships/institutions and long-term conduct",
+    "Universal contract/life mechanics and actual post-defeat availability",
+    "Frequency and generalization of proposed errors and register choices"
+  ]
+}

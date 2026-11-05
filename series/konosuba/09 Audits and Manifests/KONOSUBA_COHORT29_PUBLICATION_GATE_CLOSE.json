@@ -1,0 +1,198 @@
+{
+  "schema": "konosuba.cohort29.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T04:17:33.313809+00:00",
+  "gate_scope": "Author publication tranche under current CHANGE_INTEGRATION_CHECKLIST: ordinary continuing-source push,ready PR and full passing exact-head repository audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "f6297f384640a97edf0bbd31853699e6f632edea",
+  "tree": "abb5d944c89bb5054b623934964fb2522a546fbb",
+  "source_parent": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+  "publication_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "main_observed_at_close": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "f6297f384640a97edf0bbd31853699e6f632edea",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT29_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "30a699cf97732ca48121861aec4c6bcd3a0546b494eacec73189fcc271b46af9",
+    "paths": 9642,
+    "project_paths": 1324
+  },
+  "remote_readback": {
+    "file": "COHORT29_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "d0fd1cc8860964527ae135c813f311c52ab8434f8e5def8acf587673e5aa1092",
+    "all9642_files_and38_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C29_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "4b048c3ac4e765d1b8304f3f8ee329438cb4fef374739ad8ba17dd88116c09ae",
+    "run": 40061340948,
+    "job": 120775312208,
+    "reporter_job": 120776111505,
+    "actual_source": "f6297f384640a97edf0bbd31853699e6f632edea",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/f6297f384640a97edf0bbd31853699e6f632edea",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57150479287,
+      "node_id": "SC_kwDOUJ9ads8AAAANTm8btw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40061340948",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T04:15:14Z",
+      "updated_at": "2026-10-24T04:15:14Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT29_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 327902,
+    "sha256": "d714f8acdeda58fda00bda2bd70984e89a06768f3628a39153a5d64fb85ca88b"
+  },
+  "current43_models_exact": true,
+  "new_scope": [
+    {
+      "character": "Barton",
+      "row": 30,
+      "tier": 3,
+      "artifacts": [
+        "dedicated twelve-dimension monograph",
+        "separate four-rule provisional model",
+        "four dependent hypothetical pairs/eight original firsts"
+      ],
+      "reason": "Repeated concentrated scenes span research/work,recognition,ecological/practical conflict,romantic advice,own bodily risk,admitted limits and human/animal concern. Single source title restricts cross-volume generalization; evidence density supports candidate,not final maturity."
+    },
+    {
+      "character": "Zereschilt",
+      "row": 32,
+      "tier": 3,
+      "artifacts": [
+        "dedicated twelve-dimension monograph",
+        "separate four-rule provisional model",
+        "four dependent hypothetical pairs/eight original firsts"
+      ],
+      "reason": "Castle negotiation/failedaffect test,actual harm/finite revival,refuge/job/patronage,recognition/companionship and observed shop defense create differentiated choices across partners/stakes. Threats do not erase competence/reciprocity; own professed harmlessness not adopted as fact."
+    },
+    {
+      "character": "Sylphina",
+      "row": 33,
+      "tier": 2,
+      "artifacts": [
+        "dedicated twelve-dimension monograph"
+      ],
+      "reason": "Distinct own greeting,play/revision,attachment,gift/thanks,food-sharing,curiosity and school/recovery context support a child-centered account. Broad novel-context mechanisms and independent high-stakes decisions remain underidentified; no automatic maturity model or age-based ceiling."
+    },
+    {
+      "character": "Barbera",
+      "row": 31,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Reported date initiation/refusal of engagement gift and distant happy interaction preserve choice. No heardreply or known refusal cause; substantial autonomous inner-life/model not identified."
+    },
+    {
+      "character": "Capital guild male receptionist (CONTEXP02)",
+      "row": 264,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Nervous service,task-fit objections,recognition of royal stakes and own employment consequence. Separate capital employee; no Luna join."
+    },
+    {
+      "character": "Royal gate captain volunteering after shift (CONTEXP02)",
+      "row": 265,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Volunteers personal off-duty frontline work to keep princess from danger; shift boundary and future substitution stated. Iris declines inclusion; no performed quest or proven broader combat skill."
+    },
+    {
+      "character": "Capital policewoman admonishing Megumin (CONTEXP02)",
+      "row": 266,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Enforces explosion prohibition,detains then releases amid royalpresence,states future ban. Rule enforcement and status asymmetry; no performed future ban,universal neutrality or name join."
+    },
+    {
+      "character": "Capital guild employee refusing King Toad request (CONTEXP02)",
+      "row": 267,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Explicitly refuses uncertain request and says unheard-of monster. One bounded occupational decision,not proof professional incompetence or universal closed-mindedness."
+    },
+    {
+      "character": "Zereschilt castle gatekeepers and guide (unresolved actor group)",
+      "row": 268,
+      "tier": 0,
+      "artifacts": [
+        "occurrence index in current coverage audit"
+      ],
+      "reason": "Multiple gatekeepers,one offers referral,urgent toilet admission and unnamed guidance. Individuation incomplete; grouping is not one confirmed person or population count."
+    },
+    {
+      "character": "Axel tax official speaking to adventurers (MAIN12)",
+      "row": 269,
+      "tier": 1,
+      "artifacts": [
+        "compact profile in current coverage audit"
+      ],
+      "reason": "Explains prior tolerance,public-fund obligation and tax claim. Crowd response observed; no independently audited law,cost account,all-wealthy wrongdoing or identity with other officials."
+    }
+  ],
+  "source_known_same_root_diagnostics": true,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

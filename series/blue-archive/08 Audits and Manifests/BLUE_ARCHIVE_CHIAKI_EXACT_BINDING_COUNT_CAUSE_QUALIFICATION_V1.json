@@ -1,0 +1,68 @@
+{
+  "schema": "BLUE_ARCHIVE_CURRENT_ROOT_CHIAKI_BINDING_COUNT_CAUSE_QUALIFICATION_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Chiaki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "ROOT_CHIAKI_EXACT_BINDING_COUNT_CAUSE_QUALIFICATION_V1.json",
+    "bytes": 2518,
+    "sha256": "a7f159ddd7ee8df0017d622ec7b47949219d740bb92944da66bac2931eaa9030",
+    "git_blob_oid_of_actual_bytes": "03a9e7d49875a9d5f56fa4e612a4aa23e6ede028",
+    "lines": 38,
+    "immutable_transport_path": "immutable_originals/ROOT_CHIAKI_EXACT_BINDING_COUNT_CAUSE_QUALIFICATION_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CHIAKI_EXACT_BINDING_COUNT_CAUSE_QUALIFICATION_V1",
+    "status": "PASS_EXACT_PREDICATE_DIFFERENCE_IDENTIFIED",
+    "immutable_ROOT_receipt": {
+      "file": "ROOT_CHIAKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6213,
+      "sha256": "0f9840e6334bf7a3218fa394287b978d6d60b962d21483afa12ebe65d28f9183"
+    },
+    "source_receipt_sha256": "7bf7c6c99275ecd9066fd7579315b4ed07eacacbe94e45ff0916fcb4bbf12c94",
+    "producer_absolute_path_sha_pairs": 169,
+    "ROOT_absolute_and_resolved_relative_path_sha_pairs": 170,
+    "actual_additional_ROOT_tuple": {
+      "scope": "/historical_metadata_boundary",
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "sha256": "e9de04192b2add837ae0130aa6e0d33b8e94843d4baca5580ff0612eb203ecf4",
+      "bytes": 443241,
+      "base": "34685c9aa894101d176e46c26d1434e44bfd9fa4"
+    },
+    "relative_path_occurrences": 3,
+    "two_relative_working_account_occurrences_normalize_to_existing_absolute_pair": true,
+    "appended_readable_is_already_in_original169": true,
+    "superseded_field_only": "producer_finite_count_qualification",
+    "operative_qualification": "The producer records169 unique absolute-path/SHA pairs. ROOT verifies those same169 plus one repository-relative historical_metadata_boundary tuple at commit34685c9. The final own_complete_readable_receipt is already within169 and is not the cause of170. ROOT original attribution of the difference to appended readable is incorrect and superseded solely on that causal field. All bindings, complete semantic acceptance, stable-gap correction and58-package frontier remain supported; no added source or reading credit.",
+    "canonical_requirement": "Preserve original ROOT receipt exactly, visibly attach this qualification to its current public wrapper/transport, and use the operative predicate explanation.",
+    "progress_unchanged": {
+      "previous_ROOTaccepted_packages": 57,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 58,
+      "character_packages": 57,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_LATER_EXACT_ADOPTION;FIXED_NEXT_SEVEN_PUBLICATION54_EXCLUDES_CHIAKI",
+      "published_packages": 47,
+      "published_source_commit": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "published_source_audit_chain": "SOURCE_SUCCESS_HOUSEKEEPING_SUCCESS_FINAL_EXACT_AUDIT_SUCCESS",
+      "quarter_reached": false
+    },
+    "new_primary_performance_model_scope_or_completion_credit": 0
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "operative_count_cause": "169 absolute author bindings already include the readable receipt; ROOT170 adds one relative historical34685c9a metadata tuple. Two other relative occurrences are duplicates. The readable receipt was not the extra cause.",
+  "supersedes_only_historical_mistaken_cause": true,
+  "original_ROOT_acceptance_preserved_in_full": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIAKI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "literary_acceptance_source_scopes_and_progress_unchanged": true
+}

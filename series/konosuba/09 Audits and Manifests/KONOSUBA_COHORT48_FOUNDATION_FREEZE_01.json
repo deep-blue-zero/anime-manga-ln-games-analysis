@@ -1,0 +1,65 @@
+{
+  "schema": "konosuba.cohort48.source-safe-foundation-freeze.v1",
+  "sealed_utc": "2026-10-25T14:10:25.528658+00:00",
+  "private_complete_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_RULE_INVENTORY_01.json",
+      "bytes": 5713,
+      "sha256": "86be9296272947fa8f5a674460d0a9aaa5b30bc7c1ff5ca31ee13e7befbe7bfd"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 8887,
+      "sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AMARYLLIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 5881,
+      "sha256": "2e2f17bc22cac4e4c8cf9d90aaa2da85b69ff6624319b10143e4e3d5febe8dd7"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 17298,
+      "sha256": "a90ec78ca552730fb3b46688e0dd7be73be6d8e0eb264d48eeaed03d960b999f"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md",
+      "bytes": 4833,
+      "sha256": "126e8e5bb356566cf490eb111e8abd0fb9575ea8a11546b5efb511c2b895d280"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 4531,
+      "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8666,
+      "sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7884,
+      "sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7"
+    }
+  ],
+  "monographs": 3,
+  "bounded_profiles": 3,
+  "reported_Tier0_references": 1,
+  "restricted_provisional_models": 1,
+  "eight_field_rules": 2,
+  "rule_ids": [
+    "AMR-R01",
+    "AMR-R02"
+  ],
+  "complete_original_author_review_pages": 20,
+  "complete_correction_review_pages": 2,
+  "exact_inputs_at_seal": 0,
+  "firsts_at_seal": 0,
+  "all70_entering_models_preserved": true,
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false
+}

@@ -1,0 +1,148 @@
+{
+  "schema": "KONOSUBA_YUNYUN_EXACT_FORECAST_LINEAGE_RECEIVING_V1",
+  "recorded_utc": "2026-10-19T11:57:45.299507+00:00",
+  "blocks": [
+    {
+      "id": "MG03-Y01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+      "source_sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92",
+      "exact_original_block": "### MG03-Y01 — Inclusion and a useful role recruit Yunyun's competent participation\n- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.\n- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n- **Predicted appraisal:** she can belong by making a useful contribution.\n- **Predicted dominant motive:** participate and help while preserving the valued connection.\n- **Predicted behavior:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.\n- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.\n- **Confidence:** MODERATE-HIGH for affiliation-mediated participation; not a mature full-character model.\n- **Evidence basis:** CP03-Y01; V07 deep reading / relationship ledger Yunyun support; V09 `0011:P0641–0658`, `0012:P0152–0160`, `0013:P0154–0156`, `0014:P0199–0242`, `P0305–0310`, `P0378–0391`, `P0459–0467`, `0015:P0025–0026`.\n- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.\n- **Outcome:**\n- **Adjudication:**\n\n",
+      "exact_original_block_sha256": "7970c7c227fc79f3ef4c38645f7fcc31983f6f387cb8757d361254aea27c5c62",
+      "historical_test_scope": "V10-V12principal only",
+      "preserved_local_history": [
+        "NOT_TESTED",
+        "NOT_TESTED",
+        "NOT_TESTED"
+      ],
+      "new_test_scope_created": false
+    },
+    {
+      "id": "MG04-Y01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "source_sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82",
+      "exact_original_block": "## MG04-Y01 — Inclusion and a useful role recruit Yunyun's competent participation\n\nNew prospective statement; original MG03 record and outcomes unchanged.\n- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.\n- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n- **Predicted appraisal:** she can belong by making a useful contribution.\n- **Predicted dominant motive:** participate and help while preserving the valued connection.\n- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.\n- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.\n- **Confidence:** MODERATE, exact invitation/suitable-role/participation mechanism unvalidated in V10–V12.\n- **Evidence basis:** CP03-Y01; V07 deep reading / relationship ledger Yunyun support; V09 `0011:P0641–0658`, `0012:P0152–0160`, `0013:P0154–0156`, `0014:P0199–0242`, `P0305–0310`, `P0378–0391`, `P0459–0467`, `0015:P0025–0026`.; CP04 branch score MG03-Y01: No complete valued invitation/shared undertaking with suitable role and actual Yunyun participation is established. V12 route: C4P0042–0045. Adjacent/NT records are limits, not confirmations.\n- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.\n- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.\n- **Outcome:**\n- **Adjudication:**\n\n",
+      "exact_original_block_sha256": "59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102",
+      "historical_test_scope": "V13-V15principal only",
+      "preserved_local_history": [
+        "CONFIRMED",
+        "CONFIRMED",
+        "CONFIRMED"
+      ],
+      "new_test_scope_created": false
+    },
+    {
+      "id": "MG05-Y01",
+      "source_path": "04 Checkpoints and Model Validation/KONOSUBA_V13-V15_CHECKPOINT.md",
+      "source_sha256": "9b205b0a45e51cf78533896d1f161f8401c2bca30eda3f4663af93c575f0adc2",
+      "exact_original_block": "## MG05-Y01 — Trusted inclusion and suitable access recruit competent participation despite anxiety\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Yunyun.\n\n**Relationship condition:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n\n**Stake level:** Trusted inclusion with feasible familiar useful role; anxiety/moral concern/independent obligations retained.\n\n**Lineage/change:** PRESERVE strengthened participation, with actual versus requested casts and independent obligations separate. Predecessor `MG04-Y01` block SHA256 `59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102`.\n\n- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.\n- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n- **Predicted appraisal:** she can belong by making a useful contribution.\n- **Predicted dominant motive:** participate and help while preserving the valued connection.\n- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.\n- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.\n- **Confidence:** MODERATE-HIGH for bounded inclusion/role/participation after V13–V15 positives; no final expanded-source profile or unconditional availability.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.\n- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated genuine invitation/suitable-feasible-role cases show sustained indifferent refusal/poor participation without documented conflicting obligation/resource/ability/coercion; prospectively at least2. One adverse case survives.\n- **Outcome:**\n- **Adjudication:**\n\n",
+      "exact_original_block_sha256": "b8a2a887455a9b91c73acd6d001bff4392012e1e83796341ca8c895124cf9749",
+      "historical_test_scope": "V16-V17principal only",
+      "preserved_local_history": [
+        "CONFIRMED",
+        "CONFIRMED"
+      ],
+      "new_test_scope_created": false
+    }
+  ],
+  "pre_YORI04_separate_scope": {
+    "commitment_id": "SEC01-Y01",
+    "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+    "prior_hypothesis": "MG05-Y01",
+    "prior_block_sha256": "b8a2a887455a9b91c73acd6d001bff4392012e1e83796341ca8c895124cf9749",
+    "original_prior_block_exact": "## MG05-Y01 — Trusted inclusion and suitable access recruit competent participation despite anxiety\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Yunyun.\n\n**Relationship condition:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n\n**Stake level:** Trusted inclusion with feasible familiar useful role; anxiety/moral concern/independent obligations retained.\n\n**Lineage/change:** PRESERVE strengthened participation, with actual versus requested casts and independent obligations separate. Predecessor `MG04-Y01` block SHA256 `59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102`.\n\n- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.\n- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n- **Predicted appraisal:** she can belong by making a useful contribution.\n- **Predicted dominant motive:** participate and help while preserving the valued connection.\n- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.\n- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.\n- **Confidence:** MODERATE-HIGH for bounded inclusion/role/participation after V13–V15 positives; no final expanded-source profile or unconditional availability.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.\n- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated genuine invitation/suitable-feasible-role cases show sustained indifferent refusal/poor participation without documented conflicting obligation/resource/ability/coercion; prospectively at least2. One adverse case survives.\n- **Outcome:**\n- **Adjudication:**\n\n",
+    "trigger": "trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.",
+    "relationship_and_stakes": "a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.",
+    "predicted_appraisal": "she can belong by making a useful contribution.",
+    "predicted_dominant_motive": "participate and help while preserving the valued connection.",
+    "predicted_behavior": "she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.",
+    "interaction_tendency": "hesitant acceptance can coexist with technically effective direction and explicit disagreement.",
+    "disconfirmation": "repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.",
+    "evidence_basis": "CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+    "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+    "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+    "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+    "outcome": null,
+    "adjudication": null
+  },
+  "pre_YORI04_scope_file_sha256": "1b85d49398bd832026c310d77d4651c1f66ca9a58eb8a0f7a6aa114944c9b3c1",
+  "YORI04_exact_separate_local_assessment": {
+    "commitment_id": "SEC01-Y01",
+    "pre_exposure_commitment_exact": {
+      "commitment_id": "SEC01-Y01",
+      "model_generation": "SECONDARY_INFORMED_EXPLORATORY_01_NOT_FULL_RECONSTRUCTION",
+      "prior_hypothesis": "MG05-Y01",
+      "prior_block_sha256": "b8a2a887455a9b91c73acd6d001bff4392012e1e83796341ca8c895124cf9749",
+      "original_prior_block_exact": "## MG05-Y01 — Trusted inclusion and suitable access recruit competent participation despite anxiety\n\n**Status:** Gen05 FROZEN at CP05 root acceptance; subsequent outcomes append separately.\n\n**Character/system:** Yunyun.\n\n**Relationship condition:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n\n**Stake level:** Trusted inclusion with feasible familiar useful role; anxiety/moral concern/independent obligations retained.\n\n**Lineage/change:** PRESERVE strengthened participation, with actual versus requested casts and independent obligations separate. Predecessor `MG04-Y01` block SHA256 `59899443672218544eecafbf9cca249ae0b32431a5accc2aa00cb35384f46102`.\n\n- **Trigger/context:** trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.\n- **Relationship/stakes:** a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.\n- **Predicted appraisal:** she can belong by making a useful contribution.\n- **Predicted dominant motive:** participate and help while preserving the valued connection.\n- **Predicted behavior/effect:** she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.\n- **Interaction tendency:** hesitant acceptance can coexist with technically effective direction and explicit disagreement.\n- **Confidence:** MODERATE-HIGH for bounded inclusion/role/participation after V13–V15 positives; no final expanded-source profile or unconditional availability.\n- **Evidence basis:** CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.\n- **Disconfirmation:** repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.\n- **Coding and modifiers:** Reports remain eligible if they actually establish the full undertaking/role/response; a mention or report of being visited supplies none by itself. Do not substitute inferred longing for participation.\n- **Future test scope:** Only next separately authorized V16–V17 principal-main tranche after accepted CP05/model/forecast publication and explicit source gates. No current future exposure.\n- **Failure threshold:** Repeated genuine invitation/suitable-feasible-role cases show sustained indifferent refusal/poor participation without documented conflicting obligation/resource/ability/coercion; prospectively at least2. One adverse case survives.\n- **Outcome:**\n- **Adjudication:**\n\n",
+      "trigger": "trusted companions explicitly include Yunyun in a shared undertaking, including accepting her offer to join, and give her access to a role suited to her established magic or practical knowledge.",
+      "relationship_and_stakes": "a real invitation/role rather than a hypothetical promise; distinguish desire for company from agreement with every action of the group.",
+      "predicted_appraisal": "she can belong by making a useful contribution.",
+      "predicted_dominant_motive": "participate and help while preserving the valued connection.",
+      "predicted_behavior": "she will prepare and carry out the relevant role despite awkwardness or anxiety, sometimes overpreparing or overoffering. Moral or relational distress may produce objections without immediately ending participation; distress or interrupted commitment under a directly conflicting personal obligation remains context to record; it is not automatically a failed technical execution.",
+      "interaction_tendency": "hesitant acceptance can coexist with technically effective direction and explicit disagreement.",
+      "disconfirmation": "repeated genuine invitations with feasible familiar roles produce sustained indifferent refusal or poor participation unrelated to a documented conflicting obligation, ability/resource limit or coercive condition.",
+      "evidence_basis": "CP04 bounded-secondary table/MG04-Y01; V13 C4P0283–0295; V14 C2P0094–0119 and C4P0008–0012; V15 C2P0221–0236 and C4P0483–0509.; CP05’s [separate formal Gen04 adjudications](../04%20Checkpoints%20and%20Model%20Validation/KONOSUBA_V13-V15_CHECKPOINT.md#2-gen04-tranche-scorecard-and-complete-adjudications) and preserved local histories supply the accepted retrospective basis, never a future outcome.",
+      "qualitative_confidence": "Inherited bounded mechanism only; explicit original limits remain. No confidence gain from earlier reappearances or this administrative re-expression.",
+      "new_test_scope": "Only separately admitted, not-yet-read YORI-04 native components after YORI03 full gate. No guaranteed character presence or eligible trigger. Newly created scope does not alter the prior MG05 test scope or historical outcomes.",
+      "adjudication_guard": "Actual component chronology/actor/knowledge, all trigger branches and available opportunity first. Absent or mentioned actor is NOT_TESTED; letter or a reused event is not a new direct comparison. A self-set Chris/Eris service boundary is adverse, never confirmation. Preserve local adverse case even if old repeated-case global failure threshold is unmet. Known earlier material supports calibration only.",
+      "outcome": null,
+      "adjudication": null
+    },
+    "current_outcome": "PARTIAL_INFORMED_COMPARISON_NOT_FULL_CONFIRMATION",
+    "adjudication_after_whole_uncoded_seal_utc": "2026-10-19T03:51:05.493079+00:00",
+    "source_routes": "U016P63–88/140/221–224;U020P130–141/407/426–427",
+    "conjuncts_rivals_and_limits": "K actually includes all three in reconnaissanceU016140, and the returned pair report Yun joined but attacked Satanists from explicit loyalty to Vanir and was arrested224. That is real participation plus adverse operation outcome, not successful routine reconnaissance. Familiar role-fit is not independently demonstrated as magic/practical expertise, and reported loyalty conflict is explicit, so neither full technical confirmation nor an indifferent-refusal failure is earned. The later Weather roleU020130–135/407 is technically fitted and return is observed, but official pardon/pressure is independently present. Letter-readingU01663–88 is Yun’s own workaround after M refuses delivery, not an explicit trusted invitation. Do not count these as three clean successes.",
+    "same_root_informed_not_independent": true,
+    "historical_original_outcomes_and_new_pre_exposure_nulls_preserved_exact": true
+  },
+  "YORI04_assessment_source_path": "10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+  "YORI04_assessment_source_sha256": "ff88a03e36e1c347b688d3fdade0d8f4874d84e27743a75a552e35e170511dfd",
+  "actual_checkpoint_receiving": {
+    "CP02": [
+      [
+        282,
+        293
+      ]
+    ],
+    "CP03": [
+      [
+        224,
+        240
+      ],
+      [
+        598,
+        618
+      ]
+    ],
+    "CP04": [
+      [
+        435,
+        451
+      ],
+      [
+        1030,
+        1050
+      ]
+    ],
+    "CP05": [
+      [
+        523,
+        545
+      ],
+      [
+        1923,
+        1948
+      ]
+    ],
+    "CP06": [
+      [
+        1766,
+        1844
+      ]
+    ]
+  },
+  "precision": "Actual bounded semantic reception plus exact computational block extraction; terminal blank-line bytes hashed without a new semantic-content claim. Earlier truncated broad displays excluded. Original fields and outcomes unchanged; reports, adjacent cases and repeated phases not extra source trials.",
+  "retired_or_exhausted_historical_scopes_not_reopened": true,
+  "new_source_or_independent_test_credit": 0,
+  "cohort_current_receiving": "Three exact original blocks and all six blank fields remain within unchanged source SHA pins; recorded old scopes/outcomes and separate SEC01-Y01 are not reopened or scored as new-model tests.",
+  "new_model_scope": "SY-D01..SY-D07 and optional SY-C01 are separate informed commitments; all main17 principal and completed supplemental content already exposed. No pristine blindness or independent test."
+}

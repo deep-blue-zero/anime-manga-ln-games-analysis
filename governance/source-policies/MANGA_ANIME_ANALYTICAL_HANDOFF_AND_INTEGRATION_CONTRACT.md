@@ -2,10 +2,11 @@
 title: Manga / Anime Analytical Handoff and Integration Contract
 artifact_id: MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT
 artifact_type: analytical_handoff_integration_contract
-version: "1.0"
+version: "1.2"
 status: canonical
-scope: cross-session analytical transfer, evidence-state preservation, receipt, and integration acceptance
+scope: cross-session analytical transfer, evidence-state preservation, receipt, integration acceptance, and the named-subject and referential-clarity standard for analytical prose
 created: 2026-09-13
+last_updated: 2026-10-24
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -25,7 +26,7 @@ The reusable [stage handoff template](templates/MANGA_ANIME_ANALYTICAL_STAGE_HAN
 
 ## 1. When a handoff is required
 
-Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery.
+Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery. The [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) specializes this contract for the relay between bundle-mediated reading and continuous audiovisual review.
 
 A trivial internal action need not create a new artifact. For substantial transfers, use one operational packet with one start-here surface. This packet does not become another current series entrypoint.
 
@@ -132,7 +133,7 @@ The receiving analyst may revise supported conclusions, but must identify a reas
 
 Before handoff, the producer verifies that delivered files exist, their identities and target paths are explicit, scope and limitations match actual work, output hashes/counts match the package, and pending obligations have a next owner.
 
-Read back the final delivered documents. Check for truncation, broken tables, missing sections, unresolved placeholders, corrupted names, unsupported locators, and accidental inclusion of internal operational material. Record known defects rather than passing them off as completed work.
+Read back the final delivered documents. Check for truncation, broken tables, missing sections, unresolved placeholders, corrupted names, unsupported locators, and accidental inclusion of internal operational material. Perform the name-and-reference check in section 15.6 on substantial analytical prose. Record known defects rather than passing them off as completed work.
 
 A brief synopsis is useful as navigation, but must accompany rather than replace substantive outputs. The packet should say what must not be redone and what must still be tested.
 
@@ -158,7 +159,7 @@ The exact-head check required for publication is separate from a file hash. A ma
 
 ## 11. Semantic acceptance criteria
 
-Acceptance must evaluate the artifact's actual responsibility, not only syntax or length. At minimum check source-boundary accuracy, traceable consequential claims, epistemic distinctions, state/relationship specificity where relevant, counterevidence, required-channel closure, consistency with current eligible corpus state, and preservation of incoming analytical substance.
+Acceptance must evaluate the artifact's actual responsibility, not only syntax or length. At minimum check source-boundary accuracy, traceable consequential claims, epistemic distinctions, state/relationship specificity where relevant, counterevidence, required-channel closure, consistency with current eligible corpus state, preservation of incoming analytical substance, and, for substantial analytical prose, the named-subject and referential-clarity standard in section 15.
 
 A full raw-source reread is not universally required. Verify the sources needed for high-impact new claims, quotations, contested conclusions, suspect locators, and representative checks appropriate to the artifact. Record the review scope; do not imply exhaustive verification when only a bounded audit was performed.
 
@@ -190,7 +191,66 @@ A handoff is inadequate when it supplies only a summary of a substantial monogra
 
 Repair the missing component or deliver truthfully bounded work. Do not solve a transfer defect by inventing evidence or flattening the analysis until it fits a convenient payload.
 
+## 15. Named subjects and referential clarity in analytical prose
+
+> **Analyze characters as identifiable individuals, not interchangeable narrative functions. Keep a role when it explains the story; keep anonymity when the source requires it.**
+
+This section applies to all substantial analytical prose in the corpus, whether or not the work crosses sessions: sequential readings and synopses, character monographs, relationship studies, specialist and integrated syntheses, causal analyses and event reconstructions, and longitudinal or retrospective commentary, for manga, anime, light novels, visual novels, game scripts and comparable sources. It is a writing and acceptance standard. It does not prescribe document structure, and project methods apply it through their existing authority without restructuring.
+
+### 15.1 Named-subject default
+
+When a character's identity is established within the permitted analytical knowledge boundary, use the character's canonical name, or an unambiguous natural short form, as the normal reference. An institutional role, social position, narrative function, relationship label or epithet must not become the habitual substitute for an available personal identity. Literary archetypes such as the heroine, the rival or the guardian are not substitutes for identities.
+
+The aim is not maximal repetition of names. Pronouns, occasional epithets and stylistic variation remain appropriate when the subject is unmistakable. Neither a low nor a high proportion of proper names is by itself a defect or a proof of clarity.
+
+### 15.2 Knowledge boundaries, concealment and aliases
+
+Distinguish at least three boundaries:
+
+| Boundary | Governs |
+|---|---|
+| Scene-level knowledge | What the focalizer and the characters know at that moment. |
+| Completed-source analytical knowledge | What the reader can establish by the end of the authorized unit. |
+| Project-level admitted knowledge | What the project has established through its current cumulative evidence boundary. |
+
+A source-facing reconstruction may keep an initially unnamed figure unnamed when the source deliberately conceals the identity. A retrospective synopsis may use a name disclosed later within the same admitted unit, but must not hide that the identity was concealed at the earlier point. Where useful, state both, for example: a witness knows the rescuer only by an epithet; the unit later identifies the rescuer by name.
+
+Do not resolve an identity the evidence treats as inference; keep it marked as inference. Do not invent names for unnamed characters. Do not replace an alias before the identity relationship is established at the relevant boundary. Do not expose a secret identity in a passage meant to preserve first-encounter knowledge. Do not conflate characters who occupy similar roles. Preserve meaningful changes of name, title or persona. Do not give a character, or an earlier passage, knowledge that arrives only later. Intentional anonymity, mistaken identity and concealment are narrative phenomena, not prose defects.
+
+### 15.3 Attribution
+
+A reader should be able to tell which named person acted, who observed it, who formed a belief or inference, who spoke and who received the communication, who was affected by a decision, and whether an invoked title matters to the interpretation. Avoid sequences in which one descriptor, such as the girl, the teacher or the prince, could refer to different people without an explicit transition. A causal sentence must keep its actual agent.
+
+### 15.4 Purposeful role labels
+
+Use a role label when it carries analytical work the name alone would not: a reputation as experienced by people who do not know the person; authority exercised through an office; the obligations of a post; a competitive or institutional structure that shapes perception; the title by which a character is known inside a focalized passage. Evaluate each use. Do not convert every role reference into a name.
+
+### 15.5 Frozen and historical artifacts
+
+Reference repairs in frozen or historical analytical material remain subject to existing edit authority, the archive policy, and the [frozen-release protections in routing section 8.2](../AGENT_ROUTING.md#84-frozen-release-administrative-maintenance). This section grants no new edit authority. Do not edit artifacts declared byte-immutable, hash-locked or archival-locked, or assigned `NONE_FROZEN`; keep those artifacts unchanged and direct the repair to an already authorized separate erratum, wrapper or successor, as applicable. Incrementing a version does not waive any authority restriction or lock.
+
+Where existing authority and protections permit the edit, a repair that only restores names or resolves ambiguity, leaving attribution, focalization, historical knowledge, claims, observations, locators and arguments unchanged, may be applied as a recorded editorial repair: increment the artifact's version and keep a record of what changed and why. A change that alters attribution, focalization, knowledge state or claim meaning is a substantive correction and uses the archive policy's revision vocabulary and a visible erratum; it is never folded silently into an editorial pass.
+
+### 15.6 Editorial verification before semantic acceptance, authority promotion, or integration
+
+Before semantic acceptance, authority promotion, or integration of substantial analytical prose, perform a bounded name-and-reference check:
+
+1. Sample the introduction or synopsis, at least one substantial middle section, and the concluding synthesis or exit state. For long, character-intensive documents, extend the sample to every major relationship and any section where actors could be confused.
+2. Ask: are known people consistently identifiable; are titles serving a purpose; is anyone reduced to a recurring archetype or functional label; are pronouns unambiguous; is concealment preserved where the source requires it; are speaker, thinker and recipient correctly attributed; does each description respect its knowledge boundary?
+3. Classify material findings as `JUSTIFIED_ROLE_REFERENCE`, `SOURCE_REQUIRED_ANONYMITY`, `KNOWLEDGE_BOUNDARY_REQUIRED`, `UNNECESSARY_GENERICIZATION`, `AMBIGUOUS_REFERENT` or `INCORRECT_IDENTITY_OR_ATTRIBUTION`, and repair only supported defects.
+4. Record the sampled scope and material findings in the producer closeout, acceptance or integration record.
+
+A mechanical scanner may list candidate labels for review. It must not certify correctness by frequency counts, and it must not perform automatic substitution. The check requires human-readable semantic judgment.
+
 ## Changelog
+
+### v1.2 - 2026-10-24 - Audiovisual reconciliation link
+
+Points the bundle-mediated to continuous-AV relay to the audiovisual reconciliation protocol, which specializes this contract. No requirement here changes.
+
+### v1.1 - 2026-10-14 - Named subjects and referential clarity
+
+Adds section 15: the named-subject default, knowledge-boundary and concealment safeguards, attribution and purposeful-role rules, reference repairs subject to existing edit authority and frozen-artifact protections, and a bounded editorial check before semantic acceptance, authority promotion, or integration. Adds the producer-closeout check, the corresponding handoff-template checklist item, and a requirement to record sampled scope and material findings in the producer closeout, acceptance or integration record. Existing transfer and receipt formats, receipt-versus-semantic-acceptance distinctions, stage states, and publication controls remain unchanged.
 
 ### v1.0 - 2026-09-13 - Proposed initial contract
 

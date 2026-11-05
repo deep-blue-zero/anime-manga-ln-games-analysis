@@ -6,21 +6,34 @@ artifact_type: corpus_map
 scope: V2 manga analytical corpus
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37 canonical and branch-published; official web 235-284 analyzed as active_provisional after direct web 232-234/V37 overlap proof
+source_boundary: Japanese tankobon V01-V37 reconciled; official web235-287 current analytical horizon with explicit active_provisional profiles and synthesis
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-15
-updated: 2026-09-16
+updated: 2026-10-28
 workspace_state: governed_series_branch
-analysis_completed_through: V37_canonical_plus_web284_active_provisional
-next_volume: none_local_collected; await new official web release or tankobon
-sequential_analysis_lock: COMPLETE_THROUGH_V37
+analysis_completed_through: V37_canonical_plus_web287_active_provisional
+next_volume: none_local_collected; future web intake is independent of tankobon pace
+sequential_analysis_lock: OPEN
+collected_sequence_status: COMPLETE_THROUGH_V37
 git_integration_gate: SERIES_BRANCH_PUBLICATION_AUTHORIZED; PROTECTED_MAIN_SEPARATE
 ---
 
 
 # One Punch Man — Current State and Corpus Map
+
+## Rolling official-web analysis — 2026-10-28
+
+**Current usable horizon: V37 collected + official web235-287 (active_provisional / PR).** Under the owner's instruction, current chapter evidence now advances profiles, ledgers and synthesis without waiting for volume publication. Each of the thirteen cumulative ledgers has an explicit current-release section; collected histories and frozen readings retain their earlier knowledge boundaries.
+
+The **3 newest chapters since the last reading are web285-287 / 39 pages**, all source-locked and sequentially inspected. Total uncollected coverage is **53 installments / 1,013 pages**. A fresh capture verifies **58/58 page hashes** unchanged for web282-284. Earlier web235-281 retains its September retrieval state; no complete fresh redraw census is implied.
+
+Read the [new close reading](07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md), [living synthesis](07%20Current%20Release/OPM_CURRENT_RELEASE_SYNTHESIS.md), [source lock](07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md), [readiness overlay](03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_CHARACTER_MODEL_READINESS_INDEX.md#current-release-overlay-through-web-287) and [October update manifest](08%20Audits%20and%20Manifests/OPM_WEB_285-287_UPDATE_MANIFEST.md).
+
+The main new changes concern Webigaza's self-authorship under life-dependent maintenance; Child Emperor, Sekingar and Metal Bat's coordinated investigation; Darkshine's response to an involuntary suit attack; and Sonic's unresolved encounter with A. Already-read web235-284 findings are now propagated into the same owning documents. The current Amai body revelation does not rewrite the historical V37 uncertainty.
+
+This authorized intake ends at web287. Future requested web intake may proceed independently of tankobon pace. Publication uses the continuing series branch, an open PR and a successful audit; only the owner or CI agent integrates main. Older dated checkpoints below remain historical records.
 
 
 ## Branch publication checkpoint — 2026-09-13
@@ -60,10 +73,10 @@ The [current-release source lock](07%20Current%20Release/OPM_CURRENT_RELEASE_SOU
 ## Current project state
 
 
-This is the single current entrypoint for the One Punch Man V2 continuation. Artifact identities and canonical topical homes are preserved. V37 is the completed, audited and branch-published collected boundary. The official current-release overlay is complete through web 284 under `active_provisional` authority. Check actual branch/main history before any integration; protected main remains outside this continuation.
+This is the single current entrypoint for the One Punch Man V2 corpus. The latest reconciled collected boundary is V37. The current analytical horizon extends through web287 under explicit PR authority in the owning profiles, ledgers and rolling synthesis. Branch publication and integration into main remain separate facts.
 
 
-The V2 project is a source-grounded, sequential, revision-aware reread designed for a long and still-publishing manga. The governing analytical method, synthesis architecture, and character-modeling schema are active. The Japanese tankobon working corpus is physically present as a contiguous V01-V37 run. The supplied local build manifest covers V01-V36; V37 retains its separate direct archive audit. All object hashes are recorded. The analytical official-web layer now contains a separately governed 50-installment / 974-page provisional overlay from web 235 through web 284. Raw captures and receipts remain excluded under `_staging/`.
+The V2 project is a source-grounded, sequential, revision-aware reread of an ongoing manga. Its method, architecture and character schema support collected history and a live web horizon. The Japanese tankobon corpus is V01-V37; the official-web continuation is web235-287, 53 installments / 1,013 pages. September and October locks retain distinct retrieval states, with raw captures and receipts excluded from Git.
 
 
 ## Current authority
@@ -72,7 +85,7 @@ The V2 project is a source-grounded, sequential, revision-aware reread designed 
 - **Current analytical generation:** V2
 - **Authority state:** active/provisional project with canonical routing surface
 - **Stable primary-source spine:** Japanese tankobon V01-V37 physically contiguous and hash-inventoried; supplied build metadata covers V01-V36, with fresh per-volume integrity and semantic validation kept distinct
-- **Current-release layer:** official uncollected web 235-284, governed separately as `active_provisional` / PR; source state retrieved 2026-09-16
+- **Current-release layer:** official web235-287, `active_provisional` / PR; September lock plus October intake and overlap comparison; findings propagate into cumulative profiles now
 - **V1 analytical corpus:** historical/legacy interpretive input; useful for claim migration and provenance but not automatic V2 authority
 
 
@@ -85,7 +98,7 @@ The V2 project is a source-grounded, sequential, revision-aware reread designed 
 4. `00 Frameworks and Methods/OPM_CHARACTER_MODELING_SCHEMA.md`
 5. `01 Source Lock and Inventory/OPM_SOURCE_INVENTORY.md`, `OPM_V01-V34_SOURCE_AUDIT.md`, `OPM_V35_SOURCE_AUDIT.md`, `OPM_V36_SOURCE_AUDIT.md` and `OPM_V37_SOURCE_AUDIT.md`
 6. For the collected boundary, the frozen V37 reading, Japanese audit, `OPM_V37_UPDATE_MANIFEST.md` and passed `OPM_V28-V37_CORPUS_WIDE_AUDIT.md`. Earlier readings remain bounded historical references; do not redo V01-V37.
-7. For current release, `07 Current Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md`, `OPM_UNCOLLECTED_RELEASE_LEDGER.md`, the three range readings, `OPM_CURRENT_RELEASE_SYNTHESIS.md` and `08 Audits and Manifests/OPM_WEB_232-284_UPDATE_MANIFEST.md`.
+7. For current release, use the source lock, uncollected ledger, four range readings through `OPM_WEB_285-287_DEEP_READING.md`, living synthesis and October update manifest. The September manifest remains the historical 153-check closeout.
 
 
 ## Canonical analytical architecture
@@ -126,7 +139,7 @@ Canonical character-modeling surfaces planned for Phase 0/Phase 1 are:
 Character state will preserve two authority horizons: canonical collected tankobon state and a separately marked `active_provisional` web-release overlay.
 
 
-### Active thematic longitudinal ledgers through V37
+### Active thematic ledgers: V37 collected history + web287 PR current state
 
 
 - `03 Longitudinal Ledgers and Checkpoints/OPM_HEROISM_RECOGNITION_RANK_AND_INSTITUTION_LEDGER.md`
@@ -138,7 +151,23 @@ Character state will preserve two authority horizons: canonical collected tankob
 - `03 Longitudinal Ledgers and Checkpoints/OPM_OPEN_QUESTIONS_AND_MYSTERY_LEDGER.md`
 
 
-These were instantiated only once recurring evidence justified durable topical homes. They are current through V37 and remain cumulative responsibilities, not duplicate volume summaries.
+These durable topical homes retain V37 collected history and now carry explicitly labeled current-release sections through web287. They are cumulative analytical responsibilities, not duplicate volume summaries.
+
+### Current specialist responsibilities through web287
+
+The standalone V1 monographs and specialist references remain historical. Current interpretation is retrieved through the existing V2 owners below; the planned specialist/cumulative directories have no extant current documents. The [downstream synthesis audit](08%20Audits%20and%20Manifests/OPM_POST_V37_DOWNSTREAM_SYNTHESIS_AUDIT.md) records all ten historical dispositions, evidence availability, selected revisions and intentional no-change decisions.
+
+| Responsibility | Current analytical owner / PR argument |
+|---|---|
+| Saitama monograph | [Saitama ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_SAITAMA_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): conduct-specific recognition without possession, omniscience or automatic public repair. |
+| Genos and King monographs | [Hero ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_HERO_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): technical agency versus extractable data; active disclosure defeated by reputation. Amai's revised model has the same owner. |
+| Garou monograph | [Antagonist ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/Character%20State/OPM_MONSTER_ANTAGONIST_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287): labor, restraint and reciprocal learning as provisional reinsertion, not completed restitution. |
+| Fubuki and Tatsumaki monographs | Hero/relationship ledgers retain collected models. No new personality or sister-relationship revision; Tatsumaki's web273 action reinforces already-routed local capacity. |
+| Saitama relational/thematic reference | [Relationship ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_RELATIONSHIP_STATE_LEDGER.md#current-release-overlay-through-web-287): directionality, failed reception, care and uncompleted repair. |
+| Major targets of satire specialist | [Satire ledger](03%20Longitudinal%20Ledgers%20and%20Checkpoints/OPM_SATIRE_GENRE_AND_PUBLIC_NARRATIVE_LEDGER.md#current-release-overlay-through-web-287), with institution/technology owners: production and control of heroic performance as well as false appraisal. |
+| V01-V15 and V01-V34 higher syntheses | Preserve their historical horizons; use the [living synthesis](07%20Current%20Release/OPM_CURRENT_RELEASE_SYNTHESIS.md) for the integrated V37-plus-web287 argument. |
+
+The principal revision is that useful institutions can both enable heroic capacity and constrain its use. King, Amai and Webigaza show why truthful disclosure, exact recognition and free action cannot be assumed to follow one another. All such web claims remain `active_provisional` / PR; no frozen boundary or readiness tier is changed.
 
 
 ## Primary-source architecture
@@ -165,9 +194,9 @@ The local tankobon root now contains V01-V37. The current build manifest covers 
 - Current physical sequence gap: **none**; V35-V36 supplied and inventoried
 - Semantic chapter/extra mapping completed: **V01-V37**
 - Sequential deep reading completed/canonical: **V01-V37**
-- Sequential deep reading next/current operation: **none among locally held tankobon; V37 collected and web 284 provisional boundaries are complete; await and diff the next official release**
-- Character-model surfaces current through **V37**. Use `OPM_CHARACTER_MODEL_READINESS_INDEX.md` as the canonical tier and readiness surface; this corpus map intentionally does not duplicate its per-character ratings.
-- Official-web analytical overlay: **empty**; the technical preservation pilot is narratively quarantined
+- Sequential deep reading next/current operation: **authorized web285-287 intake complete; future requested web intake may proceed independently of volume publication**
+- Character-model surfaces retain **V37 collected** ratings and add **web287 PR** state and coverage. Use `OPM_CHARACTER_MODEL_READINESS_INDEX.md` for horizon-specific judgments.
+- Official-web analytical overlay: **complete through web287**, 53 uncollected installments / 1,013 pages; thirteen cumulative ledgers expose PR current state
 
 
 ## Existing V1 material
@@ -181,6 +210,7 @@ The prior analytical corpus contains substantial work through Volume 34, includi
 - Genos monograph;
 - Garou monograph;
 - King monograph;
+- Fubuki monograph;
 - Tatsumaki monograph;
 - Bang monograph referenced by legacy metadata but currently unrecovered;
 - Saitama relationship/character-orbit analysis;

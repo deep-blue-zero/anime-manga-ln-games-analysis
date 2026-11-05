@@ -1,0 +1,1043 @@
+{
+  "schema": "BLUE_ARCHIVE_SHUN_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355required/29 mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_current_source_beforeimage_witness": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+  "dated_current_source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+  "accepted_first_milestone_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      109,
+      114
+    ],
+    "new_packages": 6,
+    "after_complete_ROOT_install": 114,
+    "characters": 94,
+    "directed_relationships": 10,
+    "ensembles": 4,
+    "institutions": 6,
+    "named_duties_after_complete_ROOT_install": 10,
+    "published_before_successor": 108,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later115plus": "EXCLUDED_FROM_FIXED_CANONICAL_PROPOSAL",
+    "automatic_chain_at_capture": "PENDING_SOURCE_RUN38088131512; no current-head final audit claimed by assembler"
+  },
+  "current_source108_normal_push_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json",
+      "bytes": 4922,
+      "sha256": "a55fc9943ff45172f26549ed152eec6fe580598bb9a2e1aaca15cc8a880df6f6",
+      "git_blob_oid_of_actual_bytes": "db0d144911893dd58b5f9a6e81454e2130274f35",
+      "immutable_transport_path": "immutable_originals/ROOT_FIXED102_TO108_INSTALLATION_AND_STAGING_V1/NORMAL_PUSH_EXACT_REMOTE_READBACK_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_SOURCE108_NORMAL_PUSH_REMOTE_READBACK_V1",
+      "status": "PASS_NORMAL_PUSH_EXACT_REMOTE_SOURCE_TREE_PARENT_AND36_PATHS",
+      "checked_UTC": "2026-10-10T21:38:15.536917+00:00",
+      "remote_refs": {
+        "series/blue-archive": "afb38a20d3714cb0ed7d22013cd7dfc86ad3226b",
+        "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128"
+      },
+      "source_tree": "8564fbd3afb822096dec0984b5be597f39bddc9b",
+      "source_parents": [
+        "bf5ded30464ab39f78f71e79ecc7494654c25faa"
+      ],
+      "changed_paths": [
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SHANHAIJING_GENRYUMON_INSTITUTION_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_VALKYRIE_INSTITUTIONAL_SYNTHESIS.md",
+        "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHANHAIJING_RUMI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_PACKAGE_ACCEPTANCE_INDEX.csv",
+        "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GENRYUMON_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOKONA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_CAST_SCOPE_AND_READINESS_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SCOPE_AUDIT_METADATA.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_REIJO_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RUMI_DIRECTED_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_VALKYRIE_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+        "series/blue-archive/CURRENT_STATE_AND_CORPUS_MAP.md"
+      ],
+      "tracked_and_index_clean": true,
+      "untracked39_stats_preserved": true,
+      "untracked_and_UNBOUND_contents": "UNREAD_UNHASHED",
+      "ROOTaccepted_packages": 113,
+      "published_packages": 108,
+      "merged_packages": 89,
+      "next_merge_milestone": 178,
+      "automatic_chain": "PENDING_SOURCE_RUN38088131512",
+      "new_analytical_credit": 0,
+      "full_goal_status": "ACTIVE_INCOMPLETE"
+    }
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "All original pending/local/bf5/source101/source113/count/custody/receiving fields retain creation-time meanings. Exact complete operative ROOT acceptance governs literary judgment; current source108afb and merged89 are separately bound. Later115+ acceptance is outside this fixed snapshot. No retroactive author/provider/source or independent-reading credit.",
+  "original_exact_tuple": {
+    "path": "SHUN_CORRECTED_SUCCESSOR_V2/SHUN_PRECISE_CORRECTION_DELTA_AND_SOURCE_SCOPE_V2.json",
+    "bytes": 81429,
+    "sha256": "3ceaeb008154ab9aec58b7044907e4206934c8c4b2358644c8075fa603fc0943",
+    "git_blob_oid_of_actual_bytes": "3bc48971cd1b61036312f3622320dc23e9a99b48",
+    "immutable_transport_path": "immutable_originals/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_PRECISE_CORRECTION_DELTA_AND_SOURCE_SCOPE_V2.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_SHUN_PRECISE_FINAL_AGENCY_AND_DATED_CHAIN_CORRECTION_V2",
+    "created_UTC": "2026-10-10T21:00:39.519489+00:00",
+    "status": "AUTHOR_V2_SUCCESSOR_SAVED_REVISED_WHOLE_READBACK_AND_ROOT_RERECEIVING_PENDING",
+    "existing_home": "P3-CHAR-SHUN",
+    "mandatory_named_duty": "P3-SECTION-SHUN-10144",
+    "old_body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+      "bytes": 49917,
+      "lines": 197,
+      "sha256": "60f8dae3592e351bea861205b5da9fb6e6b2c6cfb9f91fa1254767b81bf65d74"
+    },
+    "corrected_successor_body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md",
+      "bytes": 50176,
+      "lines": 197,
+      "sha256": "937c0bcd9e8a462d5c394d6cb3a9691a9e3f1bc7454d7054856393f93aecb239"
+    },
+    "exact_delta": [
+      {
+        "line": 16,
+        "exact_before": "merge_boundary: \"ROOT reports completed first b76 postmerge milestone, same-tree2714 reconciliation, and later bf5 source101 publication with its audit pending. Exact accompanying probe captures actual navigation separately; no author provider/merge/audit credit.\"",
+        "exact_after": "merge_boundary: \"Dated V1 ROOT report: completed first b76 postmerge milestone, same-tree2714 reconciliation, and later bf5 source101 publication with its audit then pending. Successor qualification: ROOT743572c2 reports acceptance of the complete exact bf5 source/house/final292-zero-skipped chain. Exact accompanying V1 probe remains its dated navigation witness; no author provider/merge/audit credit.\""
+      },
+      {
+        "line": 92,
+        "exact_before": "Shun's Final role is a finite accepted responsibility. V100C002E007 gives her Garden defense and Kokona an evacuation assignment; recognition and acceptance of those duties belong to the source, but completion of every evacuation does not. Generic storekeeper, executive and student roles stay unjoined. The crisis adds a public commitment without recasting fruit work, pleasure and teaching as valuable only because they prepare for it. [BA:main:V100:C002:E007; whole32-line accepted argument.]",
+        "exact_after": "Shun's Final role is a finite accepted responsibility. In V100C002E007, Shun issues the Plum Blossom defense order and tells Kokona to guide civilian evacuation; Kokona accepts her evacuation assignment. Shun is the issuer of those orders, not a recipient of a defense assignment in this scene, and completion of the evacuation is not printed. Generic storekeeper, executive and student roles stay unjoined. The crisis adds a public commitment without recasting fruit work, pleasure and teaching as valuable only because they prepare for it. [BA:main:V100:C002:E007:s1u1–5; whole32-line accepted argument, L20.]"
+      }
+    ],
+    "exact_inverse": "PASS: reverse only L16/L92 restores entire original49917 bytes/SHA60f8dae3;195 other lines unchanged;197 line extent retained.",
+    "adequate_source_warrant": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_FINAL_V100_C002_E007_NORMAL_ARGUMENT.md",
+      "bytes": 3387,
+      "lines": 32,
+      "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b"
+    },
+    "actual_source_readback": "20eeca whole32 through EOF; L20 explicitly Shun assigns defense and tells Kokona evacuation, which Kokona accepts. No new primary/native/raw/QA/AV.",
+    "ROOT_required_correction": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_ROOT_SHUN_V1_REQUIRED_CORRECTION_RECEIPT.json",
+      "bytes": 3265,
+      "lines": 50,
+      "sha256": "49d6a1be78f7218603a6b05de71935781becd47e906dc10209bbb9cfd7de5f23"
+    },
+    "scope33_override": {
+      "old_receipt": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 313587,
+        "lines": 4936,
+        "sha256": "e04f717ec7275eab7886ef7490866b270f2ec9a95fe89487a921dd6290ce7af1"
+      },
+      "JSON_path": "complete_adequate_analytical_arguments[33].actual_complete_vs_bounded_receiving",
+      "exact_before": "Own prior whole32f519b6/5a20e0 and freshwhole32 duringKokona463a8a; Shundefense/Kokonaevacuationassignment not allcompleted. No freshprimary or wholeFinal replay.",
+      "operative_after": "Own prior whole32f519b6/5a20e0 and whole32Kokona463a8a; fresh corrective whole32 20eeca. Shun issues Plum Blossom defense order and Kokona evacuation order; Kokona accepts only her evacuation assignment. No completed evacuation or Shun receiving-ordered defense asserted. Existing reused normal-argument scope unchanged; no fresh primary or whole Final replay."
+    },
+    "dated_readable25_qualification": "V1 readable L25 and body16/receipt pendingbf5 statements remain truthful dated author reports. ROOT required-correction receipt reports completed source/house/final292-zero-skipped chain under ROOT743572c2; this successor attributes current closure to ROOT, not author provider verification.",
+    "V1_receipt_and_probe_history": "All five V1 files preserved; new narrow V2 overrides only exact agency interpretation and current ROOT-attributed publication qualification, not original source/control custody.",
+    "saved_nonempty_line_projection": [
+      {
+        "saved_line": 1,
+        "complete_saved_text": "---",
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "saved_line": 2,
+        "complete_saved_text": "series: BLUE_ARCHIVE",
+        "sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a"
+      },
+      {
+        "saved_line": 3,
+        "complete_saved_text": "artifact_type: character_monograph_candidate",
+        "sha256": "d1a9abf7862eaca90931468acd65e26dff6ec306eb6d344e22bea5cd42268bad"
+      },
+      {
+        "saved_line": 4,
+        "complete_saved_text": "status: C_ONLY_COMPLETE_ARGUMENT_PENDING_INDEPENDENT_ROOT_RECEIVING",
+        "sha256": "0e06a880845f101fa8e199d01a6c8d48123469ecacbcdcb218c2213d672af2ac"
+      },
+      {
+        "saved_line": 5,
+        "complete_saved_text": "execution: DEEP_SYNTHESIS",
+        "sha256": "dee2548b3f1da2e2a629753a757394a47eb599c5ac933d1b2bad1f0e53e68d64"
+      },
+      {
+        "saved_line": 6,
+        "complete_saved_text": "required_home: P3-CHAR-SHUN",
+        "sha256": "de44580e8f7840d3bfaa30224513e3136b6a61160c9f6a5c8251287db1d3af36"
+      },
+      {
+        "saved_line": 7,
+        "complete_saved_text": "typed_responsibilities: P3-F137; P3-F076",
+        "sha256": "9ca938e551016d27ec6f3a30d653c62e3b970175b651a8149b289320ab16e58d"
+      },
+      {
+        "saved_line": 8,
+        "complete_saved_text": "literal_person_scope: BA_PERSON_SHUN; SHUN; 春原シュン; variants10011/10025/10143",
+        "sha256": "a22f283cb1351e8ae2ae032f9cdbd6ecbbf8bb35f68dbaba41cf2b8f71fa3fab"
+      },
+      {
+        "saved_line": 9,
+        "complete_saved_text": "mandatory_named_section: P3-SECTION-SHUN-10144; BA_PERSON_CH0355/CH0355/10144/シュエリン kept separately scoped",
+        "sha256": "4966a6251068bb6d45543f533132a51f4ff46c834a3a24b26fb934a75c1d3251"
+      },
+      {
+        "saved_line": 10,
+        "complete_saved_text": "architecture: \"1.12 §7.1; eleven character dimensions\"",
+        "sha256": "3153c18f88a8d03624c258ede9f4864fb2edaf05b16de7d849dab85ca1658090"
+      },
+      {
+        "saved_line": 11,
+        "complete_saved_text": "method: \"1.10\"",
+        "sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9"
+      },
+      {
+        "saved_line": 12,
+        "complete_saved_text": "analytical_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+        "sha256": "8fa10853abdc396b2494d77e577f93e5b31cc1f271803d2a05e07fb43bbc8632"
+      },
+      {
+        "saved_line": 13,
+        "complete_saved_text": "literary_source_custody: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+        "sha256": "5542e73a20544ee40edf510b810dc2d9829323e83d520e13909643ec35fcd739"
+      },
+      {
+        "saved_line": 14,
+        "complete_saved_text": "current_local_navigation: bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "sha256": "e34b9cfc02c56fdeabaeb8a06610bd3ae28b8253a90c05795e32118989fb61da"
+      },
+      {
+        "saved_line": 15,
+        "complete_saved_text": "ROOT_reported_merged_main: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+        "sha256": "b2c60b7146e3e81ab43291039d200b78154c725e2edf77bcc089f3ce119c22de"
+      },
+      {
+        "saved_line": 16,
+        "complete_saved_text": "merge_boundary: \"Dated V1 ROOT report: completed first b76 postmerge milestone, same-tree2714 reconciliation, and later bf5 source101 publication with its audit then pending. Successor qualification: ROOT743572c2 reports acceptance of the complete exact bf5 source/house/final292-zero-skipped chain. Exact accompanying V1 probe remains its dated navigation witness; no author provider/merge/audit credit.\"",
+        "sha256": "7bd7fd5850fbb653432302333f270a03ee163abc9c4e5521d4379180e59c7522"
+      },
+      {
+        "saved_line": 17,
+        "complete_saved_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf"
+      },
+      {
+        "saved_line": 18,
+        "complete_saved_text": "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9"
+      },
+      {
+        "saved_line": 19,
+        "complete_saved_text": "parser: \"0.2.0\"",
+        "sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9"
+      },
+      {
+        "saved_line": 20,
+        "complete_saved_text": "game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1",
+        "sha256": "94489301a0c3d2991e8ecfcabd0b0d0e5bfdf5ea65c0afe9e081f4238fcafc1e"
+      },
+      {
+        "saved_line": 21,
+        "complete_saved_text": "authority_quartet: \"Current Cycle008 admission; actual adequate complete/scoped analytical receiving; exposed historical reading order/UNKNOWN independence; unreceived performed voice.\"",
+        "sha256": "c405911e391a54d1a96795c680e9dbcba6e17ffc5c3bef4bb8c3f06b08712d1e"
+      },
+      {
+        "saved_line": 22,
+        "complete_saved_text": "---",
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "saved_line": 24,
+        "complete_saved_text": "# Shun — teaching others does not settle how a student may receive care",
+        "sha256": "8d11ee6771d30b078cf393febf43c08912d4ff33921519a29280105696245ddd"
+      },
+      {
+        "saved_line": 26,
+        "complete_saved_text": "## 1. Core thesis: care is a chosen practice, a wanted relation and a contested use of authority",
+        "sha256": "926546ebdf6582d9e276d0e4478a3c92f671acd03b97087c543e917584106108"
+      },
+      {
+        "saved_line": 28,
+        "complete_saved_text": "Shun's strongest continuous question is how an instructor can remain a student with tastes, doubts, fatigue and a wish to be cared for. Her teaching is substantial: fruit preparation, puppet lessons, play, supervision, protective intervention and a chosen return to duty are represented actions. So are her own tea, sweets, clothes, skincare, bodily ease, wanted company and requests to be indulged. Those ends deserve attention before any institutional benefit. The adult form's continued request after returning in EVENT805 is especially decisive: receiving care cannot be allocated exclusively to the small body and then declared outgrown. [BA:bond:10011:002/003/008/009; BA:event:805:008–009; BA:group:2602; BA:event:859:009.]",
+        "sha256": "5753b173b51155e04cc7dd2cb8b0f5fe1adc60805f0001bb3154455cfe65cb65"
+      },
+      {
+        "saved_line": 30,
+        "complete_saved_text": "Her authority creates contrary evidence that the generous reading must carry. The puppet lesson includes children's fear and delight, while a subsequent adult inspection continues despite a distance request. A hug can be wanted yet introduced by a threat. She supports Kokona's refusal of dangerous infiltration, yet later joins a misleading cover story; she also physically punishes the three gang children, whose pain, subsequent escape and retaliation defeat a completed-reform conclusion. Competence, affection and harm are therefore differentiated acts, not a person-wide verdict in either direction. [BA:bond:10011:003/009; BA:event:859:006–007/012–014.]",
+        "sha256": "5b3d81961c194ff9821b8e35875b2c810269508d8d4058f814c8d6418bbd702b"
+      },
+      {
+        "saved_line": 32,
+        "complete_saved_text": "The form comparisons make this question sharper without resolving it into a biological theory. The small body's failed dessert expectation, restricted reach and welcomed play contrast with retained professional knowledge, privacy and refusal; the swim repertoire includes both actual pleasure and wanted recognition as an adult partner. Profile statements, textual transformations and adopted aliases have different force. They support bounded literary comparison, not a universal unchanged-mind axiom, a pharmacological account, or a total calendar connecting all variants. The separately allocated10144 written object receives substantial treatment in §9.2; it is not silently absorbed as another witnessed episode. [BA:bond:10025:002/003/006/020; BA:bond:10143:003/005; BA:character_data:10025:profile_and_dialog; BA:character_data:10144:profile_and_dialog.]",
+        "sha256": "1e655523cbdcfc077b8e5b00e0573b8dfa13fbd0e2b095abeaf83cf87c7e3111"
+      },
+      {
+        "saved_line": 34,
+        "complete_saved_text": "The resulting thesis is conditional: Shun's teaching can be chosen and worthwhile while her role fails to accommodate her own needs or her recipients' boundaries. Listening, shared play and particular successful ends show alternatives to unlimited sacrifice and compelled care. Neither eventual pleasure nor a return to work grants retrospective permission for every method. This monograph completes an evidence-bounded character argument under the existing home; separate Meihua institution, Shun–Kokona, Saya-recipient, Sensei, ensemble and register duties remain required work.",
+        "sha256": "5556aceceadbfa76316d0dc378f45dee8574be9a1f87cea08ed9dc0444dbe456"
+      },
+      {
+        "saved_line": 36,
+        "complete_saved_text": "## 2. Longitudinal state and development: local changes preserve wants that the role suppresses",
+        "sha256": "2e2d85f120e3b6b104793f3a812cca34dd19652730e278849d51f10444e2643f"
+      },
+      {
+        "saved_line": 38,
+        "complete_saved_text": "The10011 scenes establish a repertoire rather than an age ladder. Fruit work divides preparation between Shun and Sensei, and her praise projects him as a future adult before she corrects herself by recognizing that he already is one. It is not a Shun self-age error. Her insistence on feeding him becomes reciprocal actual feeding and returns to snack preparation. The puppet lesson then demonstrates practiced communication through fright, delight and children's agreement; predicted brushing is not a durable dental outcome. Teaching skill already coexists with errors of role projection and access. [BA:bond:10011:002–003; whole MMthreads100110010/100110070.]",
+        "sha256": "8d969aa8dcbdc1bd63782d9f5d7ccccda66498a0590a92dd2b5a13dcba6b48fc"
+      },
+      {
+        "saved_line": 40,
+        "complete_saved_text": "The sister dispute adds uncertainty rather than a stable hostile relation. Shun reports Kokona's food/age advice, qualifies her intention and fears being disliked; she wants a younger person's understanding and student attention, then returns to work. The health-related message preface and bright-mood afterward belong to their own thread, not an observed medicine transformation. In the gift-selection scene, concern for children opens an admission of her own clothes, tea, sweets and company wishes, followed by retraction. Those are meaningful disclosures even when the later child-cake pleasure is only her report. [BA:bond:10011:005/008; whole MMthreads100110180/100110290.]",
+        "sha256": "c6ab92f5c1ea2d2f8ba401d3cb7390202b6bb9c378f4e9ea9e069b9c8e99c789"
+      },
+      {
+        "saved_line": 42,
+        "complete_saved_text": "10011E009 realizes care in one direction: Sensei rests with her lullaby. Shun's wanted reciprocal lullaby/head pat and inability to sleep remain distinct; the children are about to return, not printed actually returning. The message alternatives retain the adult's two nights awake or no-reply sleep rather than combining them. A later refreshed report supports felt benefit, not a medical result. The asymmetric scene makes her unmet need visible without negating the care actually received by Sensei. [BA:bond:10011:009; whole MMthread100110380/messages860–871.]",
+        "sha256": "192b1a3ea2b26ba6456a2c15fed3af345007b3a8d21fbb45267247f3c7815751"
+      },
+      {
+        "saved_line": 44,
+        "complete_saved_text": "The10025 scenes redistribute affordances. A small-body expectation of fullness fails during the seasonal parfait trip; the strawberry exchange actually happens. Toy-work difficulty produces actual rescue and a continuing shoulder ride whose near-half-day duration is retrospectively estimated, not promised in advance. Trampoline/slide inspection combines a work rationale with actual enjoyment; Japanese has five rides total, whereas Korean has five more. The tent in front of Meihua preserves nostalgia and an adult-access refusal even after invitation, and play continues until sunset. These pleasures do not need an event-changing consequence to count. [BA:bond:10025:002/003/005/006; whole MMthreads100250010/090/130/200.]",
+        "sha256": "1aed5da1eaba182837c25e726e07d16f7dbb8723f6ecb82e08fac85d6b92cab0"
+      },
+      {
+        "saved_line": 46,
+        "complete_saved_text": "E020's favored hairpin and twin-tail motion are preferences, not a demonstrated hairstyle change or actual running/jumping. Wanted larger-form styling remains future. Meanwhile the10025 profile attributes the body change to Saya's medicine but itself qualifies a simplistic unchanged-mind premise through instinct. The variant is not evidence that every small-form behavior is biologically compelled, nor that any embodied change cancels ethical agency. [BA:bond:10025:020; whole MMthread100250290; BA:character_data:10025:profile_and_dialog.]",
+        "sha256": "c9871e0a7c98fb7132c553cb2c28fcb9ee24beaecfe3e7b781e74a566d70c72b"
+      },
+      {
+        "saved_line": 48,
+        "complete_saved_text": "The10143 sequence supplies one secure local link: E005 explicitly revisits yesterday's E003 outing. E003 realizes ropeway/rafting, swimming, skewers/noodles/ice, posing and two scripted shutter actions; these do not establish inspected saved photographs. E005 then repeats the route with linked arms and a wanted partner position, retaining the guide's praise and Shun's objection to the adult's repeated identity formula. Prior exposure limits general-expertise claims; repeated local guide functions do not prove the same individual. Her requested revision of how she is seen is not settled merely by enjoying the day. [BA:bond:10143:003/005; whole MMthreads101430060/101430110.]",
+        "sha256": "2173203c35ea64ea3315e30105c900bb7d8797b1197fae4d558ad05fd349ceac"
+      },
+      {
+        "saved_line": 50,
+        "complete_saved_text": "EVENT805 gives a separate complete local arc: missed rum-raisin ice cream and fatigue precede changed form and the adopted cover; tasty mandarin tanghulu, park comfort and freedom coexist with lies, the sister's privacy wound and refusal of unknown food. Coercive recovery attempts fail; listening to children and Kokona later matters to her chosen return. The represented restoration, apology, qualified forgiveness and resumed teaching are actual endpoints, while future dessert, workshop repair, compensation, staffing and durable trust are unprinted. E009's continued request for indulgence prevents return from meaning the disappearance of need. [BA:event:805:002–009; current normal comparison, complete nine meanings.]",
+        "sha256": "61834ef5e8bd5a525de223fe92b988624dda0f7800bad4943d5335f4586fe056"
+      },
+      {
+        "saved_line": 52,
+        "complete_saved_text": "Late public859 does not automatically date every private swim story. It separately realizes rest and company, shows Shun explaining educational fear while claiming her own student right to a secret, and ends with actual enjoyed holiday followed by failed orderly delegation and unfinished child-return work. Those are local developments with continuing conditions. Release dates, costume placeholders, Favor gates and title similarities are access/provenance, not a world chronology joining them into inevitable maturation. [BA:event:859:009/013–014; six written objects; G07/G08/G12/G14 remain OPEN.]",
+        "sha256": "96cabd0890834017c267fe6734ad6b310b6d18cbc1172bb7a6c8f96cf6552ef7"
+      },
+      {
+        "saved_line": 54,
+        "complete_saved_text": "## 3. Public and private self: professional reputation can conceal genuine pleasure without making it illegitimate",
+        "sha256": "e937bd65d9ddf3a439ae8b5e61a4dad9b209b266634272ad42a3a56939e7682a"
+      },
+      {
+        "saved_line": 56,
+        "complete_saved_text": "The trusted, rarely angry instructor of the10011 profile is a written framing, not a guarantee for every scene. Her food preparation, recognized competence and later pride in Kokona substantiate an affectionate professional image. The private self adds tiredness, embarrassment, concerns about appearance and a wish for attention. She is not merely pretending to care while waiting to escape work: the completed teaching and chosen return contradict that reading. Conversely, visible work cannot make her leisure morally available only when it improves teaching. [BA:character_data:10011:profile_and_dialog; BA:bond:10011:002/005/008/009; BA:event:839:005; BA:event:805:008–009.]",
+        "sha256": "a3894a18f8a46bc7d56d17141824f0e8400c94a09e507feb3ca015ebd4742bae"
+      },
+      {
+        "saved_line": 58,
+        "complete_saved_text": "GROUP2602 begins after unusually early finished work, with wanted quiet tea. Changed looks and distancing interrupt that pleasure before Shun knows why. She identifies the secret purchase as a skin massage roller ordered on a rumor of effectiveness and explains her fear that beauty concern would look improper for an instructor. This is a self-report about the object and her reputation, not an opened-package inspection or objective ban on teachers' skincare. The fabrication is made by others who did not inspect the contents; it is not evidence of a sexual purchase, actual Genryumon secrecy practices or a demonstrated cosmetic effect. [BA:group:2601:s3:u0002–0026; BA:group:2602:u0001–0036.]",
+        "sha256": "37265a99983e3d284d98785bad9cf88fbbd939511c85f335eaa386ee8c4b7ffb"
+      },
+      {
+        "saved_line": 60,
+        "complete_saved_text": "Her response combines legitimate grievance and authority. She plans gradual correction, learns the imperfectly known relay, and confronts Kokona while requiring an instructor to preserve others' secrets. The threatened special education has no printed method, so it must not be reconstructed as the later859 corporal punishment. The narrator stops the rumor's source but explicitly leaves misunderstanding among students for some time. Local interruption is achieved; complete reputation repair is not. Her ordinary privacy claim remains intelligible even though authority and sisterly fear shape its enforcement. [BA:group:2602:u0037–0059.]",
+        "sha256": "d5644c342b2fc88d83eb2b7205d29e9d4ec13a14284ea3bd839b1aa09e59a067"
+      },
+      {
+        "saved_line": 62,
+        "complete_saved_text": "The small form offers altered social freedom but not innocence by definition. EVENT805 prints retained knowledge, excuses, enjoyment of freer speech, lies and regret. Revealing Kokona's food/height worries is a specific privacy harm; conceding excess does not delete it. EVENT859's disguised participation protects Kokona from the refused infiltration plan while leaving her unconsulted and asking for compensation in ice cream. A benefit and an informational cost can be true together. [BA:event:805:003–004/007–009; BA:event:859:006–007.]",
+        "sha256": "c0997ad039aaae5a01a0b6d49aba1fd3b880652401f4009bcf105a3db9900b80"
+      },
+      {
+        "saved_line": 64,
+        "complete_saved_text": "The swim repertoire expresses a further private/public discrepancy through written address. Shun wants to be complimented, seen differently and accompanied; she can also insist on the secret student meaning of her future wish. Actual shielding of exposed clothing and brought swimwear answer one particular request, not a comprehensive consent finding. The quiet afterward is represented without certifying its precise cause or every internal response. Neither the role of caretaker nor the intimacy of leisure abolishes a right to privacy. [BA:bond:10143:003/005; BA:event:859:004/009; written10143 modes.]",
+        "sha256": "36a6d897c2e6aa989425f73343a834bfd3b5373bb1af8212d81fbe1738667581"
+      },
+      {
+        "saved_line": 66,
+        "complete_saved_text": "## 4. School and club role: capable teaching depends on other actors and accountable methods",
+        "sha256": "b10f8e884821fb1dea3448a4f5331155eba91c5b5113c2e3318bb492e0a932ea"
+      },
+      {
+        "saved_line": 68,
+        "complete_saved_text": "Meihua/Plum Blossom Garden is a meaningful care and labor setting, not a reason to erase Shun's student identity. Fruit preparation and puppet teaching are performed work; collective children's questions, requests, fear, delight and thanks remain locally differentiated. The children in10011E006 want lifting play and actually enjoy it with Sensei. Shun asks for the same kind of attention afterward. Teaching and being taught or cared for need not be mutually exclusive, but no source supplies all pupils' subsequent behavior, a learning assessment or universal consent. [BA:bond:10011:002/003/006; profiles10011/10025/10143; BA:event:859:009.]",
+        "sha256": "ae3696510de2114e4defd18eeb571f5cb726c12ee54425f3fca7efad5c5f5ff6"
+      },
+      {
+        "saved_line": 70,
+        "complete_saved_text": "10143E006 distributes competence explicitly. ChildA initially fears water, accepts the adult's help and later reports changed fear; the helpful board maneuver belongs to Sensei in that sequence, not automatically to Shun. B and C have their own splash play; D's suspension-bridge-effect hypothesis meets B's confusion and is not an objective mechanism or proof of Shun's manipulation. The attendant enforces single-person slides, Shun needs rescue and admits a skill limit, and an instructor actually takes over escorting. Five local instructor turns and a named PA channel do not become globally identified staff biographies. [BA:bond:10143:006; whole MMthread101430230/messages310–520.]",
+        "sha256": "4e933c31e2bb58ef4b2c1f9ed4a9d5446e48c7f4d35efe1e6a971e4978d127c2"
+      },
+      {
+        "saved_line": 72,
+        "complete_saved_text": "The same episode still realizes enjoyment: the group wants food and waves, and the two adults continue play after actual handover, nearly missing the last train. Future two-person company in the remaining messages is a separate unfulfilled proposal. Admitted limits and distributed work do not invalidate the care, while the successful local outing cannot certify aquatic safety, cure all fear or make Shun the only functioning caregiver. Her ordinary after-work pleasure stands beside recipient needs as a real endpoint. [BA:bond:10143:006; whole MMthread101430230.]",
+        "sha256": "17523fd7c5709e3e6410c9376aa211555c6c6731628677073a0e8cb1b1eb4f39"
+      },
+      {
+        "saved_line": 74,
+        "complete_saved_text": "Public comparisons prevent a simple flawless-teacher theory. In839 her admonition stops children pulling off Cherino's mustache and the mustache is returned; the actual intervention and her stated sisterly pride deserve retention. In859 her account of children's limited knowledge, growing autonomy and difficult boundaries is a fallible source-local theory, accompanied by fear that they absorb her own mistakes. That is self-examination, not a scientifically verified developmental schedule. [BA:event:839:005:u0037–0110; BA:event:859:009:u0027–0071.]",
+        "sha256": "723154276cc9d3910603c84e773ed14c9c8f83135221c710a344d02caa302716"
+      },
+      {
+        "saved_line": 76,
+        "complete_saved_text": "What accountability requires differs across sources. GROUP2602 stops one rumor source without social repair;805 actually restores teaching without printing a staffing solution;859's painful punishment produces crying and begged apologies but is followed by escape and revenge threats. The late return also finds children outside Meihua despite instructions. Stronger claims of lasting educational effectiveness, fair procedure, clinical safety or reformed care distribution are missing. Shun's meaningful institutional role is therefore represented as continuing practice under contested methods, not a credential for every intervention. [BA:group:2602:u0042–0059; BA:event:805:008–009; BA:event:859:012–014.]",
+        "sha256": "7f93d21d428964bd83eef5e28772448f378fd9ee981f35031e422f3cbdc3c27d"
+      },
+      {
+        "saved_line": 78,
+        "complete_saved_text": "## 5. Ordinary life: particular taste, play, beauty and company are ends with their own evidence",
+        "sha256": "d2ee4ab20d2689fd4eb504c886c82cce75387765151ec94941cb6433073e7464"
+      },
+      {
+        "saved_line": 80,
+        "complete_saved_text": "Food is specific rather than a generic reward for duty. Shun misses rum-raisin ice cream in805, actually tastes mandarin tanghulu and enjoys other food while further treats remain promised. In10025E002 an anticipated small-body advantage fails and an actual strawberry exchange answers the disappointment; the clerk's apology and question remain an independent local service response. The whole message thread proposes rum and refuses it. None of these details becomes a nutritional conclusion, addiction model or proof that every offer was consumed. [BA:event:805:002–003/005/008; BA:bond:10025:002; whole MMthread100250010.]",
+        "sha256": "13c232e1bcbb2c7a4ad4e0d6283087a20655d71122533117bd0f496a13f8cc82"
+      },
+      {
+        "saved_line": 82,
+        "complete_saved_text": "The separate810029 gift encounter adds a finite actual ending. Shun likes rum bonbons for their rum-raisin-like aroma, denies having drunk alcohol and says she did not know the chocolate contained it. Narration supplies faint scent; it does not measure concentration or diagnose intoxication. Sensei asks for the remainder, Shun assents and reinterprets the chocolate she bought as a naturally given present. The text then supplies a short Schale nap and return to the garden. Japanese asks permission while Korean frames apologetic taking and adds a later pretend-ignorance suggestion; neither makes a prior intoxicating-gift plan. This encounter is not the10025 rejected rum proposal or a new playable variant. [BA:event:810:029:s1:u0012–0025/choice003–004; literal BA_PERSON_SHUN with empty variant.]",
+        "sha256": "6d62aa26ce6a47d2e330230dceee4fe257b8e299b908c7e511127b3d77853477"
+      },
+      {
+        "saved_line": 84,
+        "complete_saved_text": "Play, rest and bodily comfort have equally discriminating endpoints. The shoulder ride after toy-work rescue actually continues; trampoline and slides are enjoyed; the tent allows child-sized privacy and refuses adult entry despite the invitation. The sunset ending completes that shared play rather than all later wishes. In10143E002 Shun floats with fruit/rest before supporting Sensei's head while he floats; they are not both drifting together. Alarm, sneeze/chill, towel and waist contact remain separate written carriers instead of being polished into perfect soothing. [BA:bond:10025:003/005/006; BA:bond:10143:002.]",
+        "sha256": "c9e4a168069e3e34fa0317f9989ea3b40ad87b4d431745a5bd922e703b6b3633"
+      },
+      {
+        "saved_line": 86,
+        "complete_saved_text": "Shun's clothes, favorite hairpin, tea, skincare and preferred recognition matter even when disclosed and retracted, withheld, or compromised by rumor. The massage roller's supposed benefit is her report about a purchase motive; the source does not inspect the device. E020 records an interest in twin-tail motion without showing running, jumping or changing her hairstyle. These distinctions protect ordinary life from two opposing losses: exclusion because nothing dramatic happens, and invented fulfillment because a wish is attractive. [BA:bond:10011:008; BA:bond:10025:020; BA:group:2602:u0001–0036.]",
+        "sha256": "b231b67163cbc504aaac2c6b1b85a6a40ab2f4ea9ac3a5151d7c99f1f21826d7"
+      },
+      {
+        "saved_line": 88,
+        "complete_saved_text": "Public859 completes wanted leisure with others. Shun expressly wants and enjoys a compliment; waterside play, two night walks in distinct009/013 contexts and the permitted three-person hand-held swing are actual. Her own student secret and desire to be remembered survive alongside educational work. Tomorrow's rafting/cave/boat activities remain plans, and return brings new duties rather than a perpetual holiday. Enjoyment is achieved and valuable without being a cure, a universal family status or evidence that no one else bore the cost of her absence. [BA:event:859:004:u0047–0069;009:u0076–0141;013:u0044–0053/0091–0093;014.]",
+        "sha256": "9f21493f03366b78d25714131cc50c0da24bde0010d9a5d37eea740781e9ba08"
+      },
+      {
+        "saved_line": 90,
+        "complete_saved_text": "## 6. Crisis behavior: choosing responsibility does not authorize every intervention or complete its consequences",
+        "sha256": "1f084aa32a0b3ae83645c0ff49eb5f224843ca2cca845e68c3d644c182b76d43"
+      },
+      {
+        "saved_line": 92,
+        "complete_saved_text": "Shun's Final role is a finite accepted responsibility. In V100C002E007, Shun issues the Plum Blossom defense order and tells Kokona to guide civilian evacuation; Kokona accepts her evacuation assignment. Shun is the issuer of those orders, not a recipient of a defense assignment in this scene, and completion of the evacuation is not printed. Generic storekeeper, executive and student roles stay unjoined. The crisis adds a public commitment without recasting fruit work, pleasure and teaching as valuable only because they prepare for it. [BA:main:V100:C002:E007:s1u1–5; whole32-line accepted argument, L20.]",
+        "sha256": "3ba32c517a13a87a990ee336d2a88ed7a73eb9e5e69130ec541fd4a87703867f"
+      },
+      {
+        "saved_line": 94,
+        "complete_saved_text": "EVENT805 is the most consequential test of care methods because Shun is a recipient of proposed treatment as well as someone who causes trouble. She refuses unknown food by invoking the adult's own boundary, objects to being thrown and evades devices. Saya's fallible candy/paralysis claims, helpers' self-reports and deceptive restraint are not pharmacological validation. Kirino's response to actual disturbance and narrated detention/lecture are independent interventions; she is not reduced to a false-alarm victim or an incompetent comic officer. The recovery intention does not turn violated trust and explicit refusal into consent. [BA:event:805:005/007–008.]",
+        "sha256": "7392d2a39af320b05dafc3d4fe23cdeb6d1216ae188eb895f7a987af1e4e51e3"
+      },
+      {
+        "saved_line": 96,
+        "complete_saved_text": "Later listening allows Shun to see children's and Kokona's needs and choose return, with restoration, apology and qualified forgiveness printed. This is stronger than a merely promised reconciliation and weaker than repaired institutional conditions or certified clinical safety. The narrative can show successful return while leaving workshop damage, compensation, staffing and future trust unresolved. Her resumed request to be indulged is not another failure to grow up; it states a need still present in the instructor who has chosen duty. [BA:event:805:008–009.]",
+        "sha256": "1bd98775f2033d14c009d9bebd5d6137bbbec661a893265191d66c1115e41f80"
+      },
+      {
+        "saved_line": 98,
+        "complete_saved_text": "859's threatened merchant community reveals both protection and harmful authority. Shun and Sensei reject exposing Kokona through an unwanted infiltration proposal, and the plan changes. The disguised pair nonetheless leave her unconsulted, so the protection does not extinguish deception's cost. Merchants choose defense and contribute local knowledge; the children show selective friendliness and curfew accommodation before demanding destructive play. Their tastes and wanted friends remain real evidence beside coercion of servants, merchants and armed labor. Neither allies nor adversaries are merely a stage for Shun's moral growth. [BA:event:859:006:u0144–0154;007:u0019–0074;008;010–011.]",
+        "sha256": "dfae78155d4deb2c216ed534e4b9461de9400c521bc645e1738c37c1266d841c"
+      },
+      {
+        "saved_line": 100,
+        "complete_saved_text": "In012 Shun's physical discipline is enacted: children cry and beg, Nagomi explicitly reports buttock pain, and Suiko charges that she was hit there. A protective motive does not substitute for the method's evidence. Suiko's later revenge promise and013's escape/retaliation tail block a lasting-reform claim. Kokona's memory of being frightened by Shun's anger is also an independent recipient response. This event therefore supplies a serious contrary case to assuming affectionate instruction naturally respects boundaries or that immediate compliance demonstrates educational success. [BA:event:859:012:u0057–0085;013:u0001–0014/0027–0036.]",
+        "sha256": "42f91fd5b6a257e3b88a807bcab889cb52a33b4b8f9b31fdfa7ca8a42eaa7005"
+      },
+      {
+        "saved_line": 102,
+        "complete_saved_text": "The final return keeps the limit visible: Kanae collapses after imposed wider management, faction habits recur and Garden children have left despite instructions. Shun and Kokona propose bringing them back; the text does not complete the retrieval. Local defense, smiles, walks and fireworks remain achieved positive ends, while caregiving distribution, safe procedure and future behavior require new evidence. Crisis choices are substantial without becoming empirical certification or a finished institution model. [BA:event:859:013–014; G13 remains OPEN.]",
+        "sha256": "181beea1e7af44156f2309d0ca890167a85df13c7e71613f593b91ce3a48eea7"
+      },
+      {
+        "saved_line": 104,
+        "complete_saved_text": "## 7. Relationship with Sensei: reciprocal care is wanted, uneven and subject to refusal",
+        "sha256": "48cc730a496bd24acdc17fc994254d11adaf83ab4ba6ecf158b2b38515fd9526"
+      },
+      {
+        "saved_line": 106,
+        "complete_saved_text": "Sensei is neither merely an audience for Shun's charm nor an invariably competent rescuer. They prepare snacks together, feed one another and help children; he receives her lullaby while her requested reciprocal care remains missing. She asks him for an adult-style recognition beyond “the same Shun,” and the repeat outing actually supplies company without settling the answer. Whole MomoTalk threads make emotional premises and later requests visible, preserving alternatives and unfulfilled tails rather than collecting every possible line into a single relation history. [BA:bond:10011:002/009; BA:bond:10143:005; whole MMthreads100110010/100110380/101430110.]",
+        "sha256": "512cd683e20363233ee5fef9a899d20308638969146b32898be094015ca39512"
+      },
+      {
+        "saved_line": 108,
+        "complete_saved_text": "His practical help can answer specific needs: toy-work rescue and continuing shoulder ride, brought swimwear and shielding after a request, supporting ChildA, rescuing Shun after her difficulty, and agreed chocolate remainder transfer followed by actual short rest/return. These outcomes have different recipients and scopes. Adult conditional replies, narrated actions, Shun's reports and future invitations must not all be described as equal witnessed acts or consent to whatever comes next. [BA:bond:10025:003; BA:bond:10143:003/006; BA:event:810:029.]",
+        "sha256": "d614f15040b246109d288d9dc6453dbe1fb18affd8f3e3f0819505b8cf9655e2"
+      },
+      {
+        "saved_line": 110,
+        "complete_saved_text": "The contrary record is reciprocal too. Shun's adult mouth inspection ignores a distance/stop request; tickling meets pleas to stop; a threatened compelled hug is not represented actual force but remains a coercive proposal. The tent's adult-access refusal stays valid after the earlier invitation. The swim UI's proposed pretend drowning is explicitly refused in the small mode and not enacted; adult UI does not carry that same refusal. Warmth cannot turn these distinct boundaries into general permission, and an objection cannot by itself establish one permanent unchanging flaw across all scenes. [BA:bond:10011:003/009; BA:bond:10025:006/020; BA:character_data:10143:UILobby2:line:000017–000019.]",
+        "sha256": "463bbc91177dce29c2cd0d2e24b62866f2116da089f12d34bde675d4d1eeac48"
+      },
+      {
+        "saved_line": 112,
+        "complete_saved_text": "805 particularly tests Sensei's care ethics: forced medicine/restraint participation is opposed before later listening and choice succeed. That late success neither erases the bad method nor leaves no positive agency. In859 he honors Kokona's infiltration refusal with Shun, participates in the cover, remembers or is reminded of the promised company through represented alternatives, and later walks with her and Shun under Kokona's expressly granted exception. Requested attention and negotiated inclusion are more specific than a romantic/consensual state assigned to every encounter. [BA:event:805:007–009; BA:event:859:006–007/009/013.]",
+        "sha256": "cb40a80ce41f2021c2c97cf187377a926d8f16450711583350b7b5a977613d32"
+      },
+      {
+        "saved_line": 114,
+        "complete_saved_text": "Shun's wish to watch children grow with him has further meaning that she keeps secret and claims as a student's right. A joint teaching future, family or marriage cannot be supplied by interpretation as a completed agreement. Other company wishes remain future even beside actual local walks. The relationship is best read as active reciprocal negotiation across needs, roles and limits, with genuine care and pleasure, unfulfilled reciprocity and serious access errors all carrying evidence. [BA:event:859:009:u0076–0081; BA:bond:10143:006/whole MMthread101430230/messages460–520.]",
+        "sha256": "98ae5d5d6198b45bedd4135b09eaf4aae2035d9b8762f5225cff7a2474f12c8b"
+      },
+      {
+        "saved_line": 116,
+        "complete_saved_text": "## 8. Major peers and recipients: sisterhood, craft, visitors and children retain independent directions",
+        "sha256": "505a432f8ab3b62b4a65ffd0cd4e3f9b28fcdbbd4bd9cc305da0220cef20edf6"
+      },
+      {
+        "saved_line": 118,
+        "complete_saved_text": "Kokona is an instructor with her own recognition, taste, privacy, company and refusal questions. Shun's reported pride and fear of being disliked do not determine Kokona's inner response; Kokona herself explains entering the role partly to be near a once more available sister, only for both to become busier. Shun supports her refusal of dangerous work but shares a deceptive cover; later Kokona permits her to join a wanted night walk, and all three actually swing hands together. Accepted inclusion is a finite achieved endpoint, not proof that earlier consultation, privacy and teasing objections no longer matter. [BA:bond:10011:005; BA:event:805:004/008–009; BA:event:859:006–007/013:u0027–0053.]",
+        "sha256": "937dbe0c879926f904aab6412f1c4ef95f824d5a7e7bd7408da99bb18c049dd4"
+      },
+      {
+        "saved_line": 120,
+        "complete_saved_text": "EVENT826 adds an achieved banquet and an unfinished consultation debt. Shun and Kokona oversee children's conduct and thanks/teeth routines; Shun then proposes adult business that shifts supervision to Kokona, who protests the asymmetry and threatens future ice cream consumption. That is a recipient objection to labor transfer, not an erased duty or completed future treat. Earlier Rumi/Reijo admit secretly using Kokona in the effective trap and retain apologies to Kokona and Shun as future; the banquet does not print them completed. Shared celebration has positive ordinary value while sisterly work distribution and trust still have costs. [BA:event:826:010:u0043–0044;013:u0018–0022/0045–0046.]",
+        "sha256": "dd0dd40d30e0623b2827283a03589f3cfca623113f3d1f2ed16b5b9d3b7958e4"
+      },
+      {
+        "saved_line": 122,
+        "complete_saved_text": "Their ordinary conflict cannot be reduced to elder wisdom against immaturity. Shun reports food advice and sisterly uncertainty, while GROUP2601–2602 shows Kokona fabricated an unseen object under fear and secrecy pressure. Rumi's admitted scare tactic is a contributing method, and Sensei's guns/beauty guesses are alternative speculation. Shun's confrontation interrupts one source but leaves public misunderstanding. Different responsibility attaches to fear, fabrication, relay, disclosure and disciplinary threat; no single sister owns the entire chain or its unprinted repair. [BA:bond:10011:005; BA:group:2601–2602.]",
+        "sha256": "b4a53fa365d6d281ce85eebfa2b7ba0bab09c542e1e15d1406e59ee00e720389"
+      },
+      {
+        "saved_line": 124,
+        "complete_saved_text": "Saya is an independent experimenter with appetites, uncertainty and refusal/recipient questions. 805's requested remedy, retained knowledge, fallible claims, coercive attempt and later antidote/return are different moments;840's Shun-associated outing retains a secret prior incident rather than certifying every medicine's effect. In859 Shun repeats safety/reversal information as hearsay while the text shows altered and usual appearances. Neither those statements nor a UI warning becomes Saya's direct clinical evidence or a guarantee that all transformed behavior is caused by one regimen. The Saya-recipient relationship home remains separate from this character comparison. [BA:event:805:002/006–009; BA:event:840:002–004; BA:event:859:009:u0008–0011; written10143 Special/raw11906.]",
+        "sha256": "39dc8ef95a585f4ee50faa7ac91b0dd58cf825150400f4f569c74c1575e0c2e5"
+      },
+      {
+        "saved_line": 126,
+        "complete_saved_text": "Rumi's food/service and commercial secrecy have their own positive ends and unequal methods. The bag's confidential delivery genuinely occurs while invented danger helps generate harm; actual holiday company does not retroactively make every earlier tactic considerate. Kisaki's pleasure, unchosen office, wanted personal name and ordinary learning stand alongside Shun's student wants. They compete for finite adult time without only representing institutional need; their undercover roles and bodily states are local conditions, not a universal child identity chain. [BA:group:2601–2602; BA:event:840:003–004; BA:event:859:004/009/013.]",
+        "sha256": "eed29b7ffb3f9674ee210b8803ffa59762771ffed3ecb739e2200c93e1524ee1"
+      },
+      {
+        "saved_line": 128,
+        "complete_saved_text": "Children are independent recipients, not one agreeing collective. The puppet audience fears and delights; the lifting-play group asks and thanks; ChildA reports a limited changed fear while D theorizes and B does not understand. 805 children retain particular questions, toilet/tiredness needs, envy and actual apologies. Suiko, Nagomi and Youko have named tastes, desired company, selective kindness, violent leverage, painful punishment and continued retaliation. Source-local children, collective buckets, staff and PA outputs are not merged across these contexts or counted as certified global persons. Their conflicting responses force a more demanding reading of Shun than either perfect instructor or exhausted victim alone. [BA:bond:10011:003/006; BA:bond:10143:006; BA:event:805:001/008–009; BA:event:859:006–014.]",
+        "sha256": "7834e34cba7728e910083ee958cd2f0f985bd96143fdd9f8d83f605147fcf6ce"
+      },
+      {
+        "saved_line": 130,
+        "complete_saved_text": "## 9. Language, address and written voice: role negotiation has specific carriers and separate forms",
+        "sha256": "1049b7dac73408d5b89582793f8546f534075dd915cc761f29df54b8ec3f653d"
+      },
+      {
+        "saved_line": 132,
+        "complete_saved_text": "### 9.1 The instructor's register and conditional private address",
+        "sha256": "90de96a732c1e1db92463e37c05e78864e80f54a908745cf88e4ecf72de8474f"
+      },
+      {
+        "saved_line": 134,
+        "complete_saved_text": "Polite teacher speech, シュン姉さん, ココナちゃん, ココナ教官 and シュエリン organize different relations. The dignity demanded by an instructor and the intimacy of sibling address are not interchangeable. The10011 praise error concerns Sensei's projected adulthood, while restored805 Shun directly asks for indulgence and859 Shun explicitly calls herself a student with a right to a secret. The terms allow the role's boundaries to be argued within the text; they do not establish pitch, acting, audibility or a completed voice profile. [BA:bond:10011:002/005; BA:event:805:009; BA:event:859:009.]",
+        "sha256": "29fcb56565a732c1ca30aa5f22b175a6e0c94953b16f5e2323b214f1b498e587"
+      },
+      {
+        "saved_line": 136,
+        "complete_saved_text": "All six private written objects are received as adequate complete analytical arguments: normal10011/10025/10143 and costumes1900901301/1900956001/1900956101. The attributed265 dialog records/three profiles include the blank10011 title, which remains blank. Written cafe comfort, shoulder discomfort, food, holidays, naps, head-pat offers/requests, wanted contact and play extend her repertoire without becoming observed meetings. Weapon text and VoiceId/resource fields do not supply firing, discipline outcomes or listened performance. Japanese10011 weapon wording never aims at kindergarten children; the Korean counterpart is less explicit, so locale generalization is unwarranted. [BA:character_data:10011/10025/10143:profile_and_dialog; exact costume IDs above.]",
+        "sha256": "4401aedb00cbda5076a88a74d5665d855547a5df978ca082551573e298d61524"
+      },
+      {
+        "saved_line": 138,
+        "complete_saved_text": "Adult and small swimming UI are distinct modes despite CharacterId10143. The small UILobby2 proposes and refuses pretend drowning; no staged drowning is observed. Small CardShop prizes evaluate outcomes conditionally; equal Japanese wording in Prize1/Prize0 does not make their triggers equal or establish a win. Adult event-lobby inspection, fruit/rest/company and touch objection/allowance likewise remain written conditions. The10025 costume repeats eleven formulations across805/10805/900805 with28 contextual records, not28 new narrative scenes. Release859 dates, placeholder2022-05-01 and Favor/unlock schedules remain documentary availability, not Kivotos chronology. [BA:character_data:10143:UILobby2:line:000017–000019; BA:character_data:event_costume:1900901301:character:10025;1900956001/1900956101:character:10143.]",
+        "sha256": "e0c1e2456ff8bc65eaafdcf1b7e9d5f9a47537ef63ef0a05e8282f676b5305c9"
+      },
+      {
+        "saved_line": 140,
+        "complete_saved_text": "Actor attribution keeps comparable caution. Whole-object joins do not rewrite blank per-unit fields or the printed Korean swim labels. The10143E003 small actor has64 CH0355 units in its own story scope; that does not give the separate10144 written source a new BOND. Generic guide/clerk/instructor roles and lettered children remain local, while an actorless timed sequence retains its force without invention of an audible speaker. Public859's extensive seams and isolated Meg label cannot supply new character appearances or a turn-specific Shun performance. Written utterance, narration, inward option and command are separate witnesses. [BA:bond:10143:003/005/006; BA:event:805 current actor contrasts; BA:event:859 current attribution paragraph; G09/G10/G12.]",
+        "sha256": "9a1bc8f05577824f5d8f4cd2d2fc9ef8f587f111ce13fc80ba79a5afba518e8e"
+      },
+      {
+        "saved_line": 142,
+        "complete_saved_text": "### 9.2 Mandatory substantial section — P3-SECTION-SHUN-10144: the Shuerin written form is a distinct evidence condition",
+        "sha256": "d3bb8b9036070b868043176428dd868dff9e20c719e3cdff34f602e039881f31"
+      },
+      {
+        "saved_line": 144,
+        "complete_saved_text": "The existing Shun parent owns this named duty without making10144 another counted character parent. Its exact current adequate account is BLUE_ARCHIVE_SHUERIN10144_WRITTEN_CONTEXTUAL_ACCOUNT_20261009.md: one admitted written object, literal CH0355/BA_PERSON_CH0355/10144/シュエリン. It does not contain BOND or MomoTalk. Profile age and school year are guarded as 極秘, height is unmeasured, birthday is February5 and the hobby is sweets. The kindergartner formulation carries a question mark. Those fields establish a deliberately guarded written form, not a known nine-year biological age, independently verified enrollment or a universal identity merge. [BA:character_data:10144:profile_and_dialog; complete current81-line account.]",
+        "sha256": "81ded26a9c2028e25cfdc4f6cb1d054f51d5da57590a396957bda4a88c7fba6d"
+      },
+      {
+        "saved_line": 146,
+        "complete_saved_text": "Its sole WeaponGet/Idle line000001 wants heat respite with Sensei, imagines/enjoys company in its written address, thanks him and asks for continuing help. That slight ordinary address is analytically sufficient: a wish for relief, gratitude and companionship has value without a crisis, a large dialogue pool or an institutional outcome. Yet its force is conditional written address. No actual outing, travel route, date, observed heat exposure or weapon mechanism follows; a resource name cannot fill those missing ends. A scarcity-based exclusion would lose positive desire, while a normal-variant assimilation would invent actual conduct and provenance the object does not supply. [BA:character_data:10144:WeaponGet:line:000001.]",
+        "sha256": "db1ff92dac3ff3649f80c5dbfaac38811ca7028a536a098a57dee8c646287d96"
+      },
+      {
+        "saved_line": 148,
+        "complete_saved_text": "Comparison can be justified through explicit local narrative associations. EVENT840003's messages and Shun's represented シュエリン appearance organize a disguised outing; recognition through knowledge is stronger than resemblance alone. EVENT840004 then actually supplies egg tarts, fruit-and-cream crepe, matcha pairing, walking and pandas. These achieved pleasures belong to the event, not to the10144 WeaponGet line. EVENT805 independently supplies its textual changed form, adopted cover, retained knowledge, briefing and return; the proclaimed nine years is a cover, not a profile-age correction. EVENT859 separately represents Shun explaining an elixir and later resuming her usual role, with safety/reversal reported as hearsay. These are bounded literary bridges with different actor conditions; none authenticates a single file/body/person chain or every small-form utterance. [BA:event:840:003:u0131–0201/004:u0001–0043; BA:event:805:002s2u0038–0065/006:u0016–0033/008:u0059–0084; BA:event:859:009:u0008–0011.]",
+        "sha256": "50fc0cb07d09e0bc8aa8a08502a6aea3370dfd9e8e9ee0c764fe7c0efb067816"
+      },
+      {
+        "saved_line": 150,
+        "complete_saved_text": "The adjacent private10143E003 small actor and1900956101 CardShop resource association must also remain distinct. The former supplies story-local CH0355 actor units inside a Shun-owned outing, with actual requested shielding and brought swimwear; the latter remains a CharacterId10143 event-written object with CH0355-associated resources. Neither can replace the separately admitted10144 profile/one-line responsibility or multiply its selected-source count. Positive comparative allocation within this parent is not a registry rewrite. If a later source warrants a separate person or additional private pool, identity adjudication would need its own evidence rather than retroactively treating a named section as proof. [BA:bond:10143:003; BA:character_data:event_costume:1900956101:character:10143; current typed P3-F076/P3-SECTION-SHUN-10144.]",
+        "sha256": "34e59ea4109c24670f984622d20d9012ae51b074c67d18adf1566bced9a96bd8"
+      },
+      {
+        "saved_line": 152,
+        "complete_saved_text": "Two serious readings therefore remain in tension. One emphasizes how a small form creates room for the same teacher's otherwise withheld care wishes, supported by805's briefing/return and restored adult desire. The other emphasizes source distinctions, profile guards, question-mark affiliation, resource modes and limited actor joins, which prevent universal continuity certification. The bounded literary answer preserves the association and the differences at once: wanted rest/company can be compared, while actual actions, persona claims, profile data and interface address retain their own sources and endings. This substantial section completes the assigned written-form argument within the character candidate, with identity, chronology, technical safety and performed voice still OPEN; it grants no independent parent count or additional primary completion.",
+        "sha256": "74506526c1ebd440b190fdc6aa795203cf0552740d5713058fa51e06bed83676"
+      },
+      {
+        "saved_line": 154,
+        "complete_saved_text": "## 10. Competing interpretations: seven readings must answer achieved care and contrary costs",
+        "sha256": "6ffa8508ff22a871530f5689fc01ced7e7bd33d8102c7f6668411ce121af5862"
+      },
+      {
+        "saved_line": 156,
+        "complete_saved_text": "**1. “Shun is only an ideal caregiver.”** Real snack work, puppet communication, protection of Kokona's refusal and chosen return support a capable affectionate instructor. The reading fails if it converts that care into blanket permission: adult distance/stop requests, threatened compelled hug, misleading cover, painful punishment and failed reform are source-positive objections. The defensible claim concerns particular effective care, not a consistently flawless method. [10011E002/003/009;805008–009;859006–007/012–014.]",
+        "sha256": "f4fd425b0132e1b2656424dfca545c483e79a9cffab4c4a47825bc0253072317"
+      },
+      {
+        "saved_line": 158,
+        "complete_saved_text": "**2. “Her real self is simply tired of teaching.”** Fatigue, private skincare, leisure, clothes and wanted company give the reading a genuine premise, and the small form offers freedom. But it cannot explain the actual enjoyed work, continued professional knowledge, chosen return and later educational fear/affection. Conversely, calling every pleasure a recovery tool for duty loses its own intrinsic end. She may value teaching and wish for time outside it without the text settling the ideal labor arrangement. [10011E005/008/009;10025E003/005;G2602;805003/008–009;859009/014.]",
+        "sha256": "800e8d00753933e717c78ee47843b039794aff6be2e3f68e056108a70a21442e"
+      },
+      {
+        "saved_line": 160,
+        "complete_saved_text": "**3. “Medicine explains every difference, so agency is irrelevant.”** Profiles and event transformations establish represented changed bodily conditions and attributed medicine claims. This reading overstates causation:10025's profile qualifies unchanged mind,805 retains knowledge and printed excuses, the10143 profile itself does not mention Saya, and restored adult805 Shun still wants indulgence. Reports of reversal/safety and an interface warning are not a clinical model. Local choices, objection and responsibility remain analyzable without claiming no medicine effect. [written10025/10143;805002–009;859009;10144 section.]",
+        "sha256": "5da13923a2398e7b879f997be3133d0b47fbb56b65005a8f58ca583eefc2071e"
+      },
+      {
+        "saved_line": 162,
+        "complete_saved_text": "**4. “The small form is harmless childhood play.”** Actual dessert exchange, rescue/shoulder ride, sunset play and wanted companionship are strong positive evidence. Yet private tent refusal,805 privacy/deception/unknown-food refusal, guarded10144 fields and small UI's explicit non-enactment prevent “small” from meaning either harmless conduct or an actual known child biography. Play has intrinsic value while recipients and source conditions remain independent. [10025E002/003/006/020;805004/007;written10143 UILobby2;10144.]",
+        "sha256": "47175e79f710991e7971d35a4447b6ea83f79e7d9918ebb6560d1f259e3cde14"
+      },
+      {
+        "saved_line": 164,
+        "complete_saved_text": "**5. “Sensei's love or competence resolves the contradiction.”** Genuine help, reciprocal feeding, requested shielding, actual rest and local fulfilled walks support a generous relation. The unfulfilled reciprocal lullaby, unwanted inspection, coercive805 method, adult teasing and unfinished recognition question remain adverse. Alternative replies and future invitations cannot be assembled into a perfected relation. The evidence supports actual care and continuing negotiation, not fixed romance, universal consent or an omnipotent rescuer. [10011E002/003/009;10143E003/005/006;805007–009;859009/013;810029.]",
+        "sha256": "49f13b2a16aa70311889df0cc34ffbbc17f7c826a82e2596b574ccc8026bbb99"
+      },
+      {
+        "saved_line": 166,
+        "complete_saved_text": "**6. “Discipline succeeds because the children apologize.”**859 supplies real victim protection and immediate crying/apologetic begging after physical punishment; it also supplies actual pain, Kokona's fear, Suiko's revenge promise and escape/retaliation. Earlier G2602 threatening special education has no printed method and cannot be rewritten from859. An intention to guide and an immediate response do not demonstrate fair procedure, absence of harm or durable learning. The named children have their own tastes and limited kindness, which also rules out treating them solely as objects whose eventual compliance justifies any method. [G2602u0046–0059;859008/012–014.]",
+        "sha256": "e78c2e85d34a246b99efd08e8bbbdcff1f7eb5425a2944b3467d6d21d7cda57c"
+      },
+      {
+        "saved_line": 168,
+        "complete_saved_text": "**7. “Return to duty and a successful holiday are mature closure.”**805's return/apology/resumed teaching and859's real walks, smiles, swings/fireworks are completed positive endpoints. They deserve full weight. This interpretation fails when it upgrades them into repaired staffing/trust, cured bodies, reformed children or orderly delegation: the retained future promises, painful-method costs, returned faction quarrels, Kanae collapse and unfinished child retrieval are explicit contrary tails. Maturity here is a defensible local interpretation of choosing some responsibilities while retaining needs, not a final state measured across all forms and future scenes. [805008–009;859013–014;FinalC002E007.]",
+        "sha256": "dcdff5382c6ab06bb733f6e39f0513db66b4c8f25e80f2f2753fce99b8d2bd0b"
+      },
+      {
+        "saved_line": 170,
+        "complete_saved_text": "## 11. Evidence route, original open gaps and finite completion boundary",
+        "sha256": "ba80e2cac94f8a5a05de6bd12168068d5eab258ea08e7230363bbf779a98386d"
+      },
+      {
+        "saved_line": 172,
+        "complete_saved_text": "Adequate private custody is complete at the analytical-argument level: fifteen paired BOND/whole-MomoTalk owners plus six written owners represent36 assigned private responsibilities (15B/15MM/6W), alongside the whole125-line checkpoint and current shared account's Shun279–287/current142–144 qualification. The separate current81-line10144 account supplies W1 and the substantial §9.2 named duty. It is not a37th source inside the historical36 cohort; its present allocation is explicitly separate within the same required parent. Old noncurrent/UNADMITTED/pending/Phase3-unestablished producer wrappers are dated and superseded for current status by Cycle008 and actual typed coverage; their original-source/raw/helper counters are attributed, not new author primary reception.",
+        "sha256": "80a32bdc39245610e09c1c73c2e82efa739e65361e69c161b026538ee33372e5"
+      },
+      {
+        "saved_line": 174,
+        "complete_saved_text": "Public custody uses personally complete earlier normal meanings of805/826/839/840/859/G260/G340/Final and finite fresh consequential paragraphs, with a fresh whole68-line810029 gift argument. Whole805's current121-line normal comparison is distinct from its older checkpoint; source-level aliases, initial false alarms and actor contrasts are retained. Fresh840/859 combined output18c473 clipped and was repaired at exact scopes45bcc1; binding or an output prefix is not whole meaningful reception. Earlier public receiving retains its declared scopes rather than becoming a new MAIN/Final or all-event replay. The accompanying receipt lists exact files, actual complete versus bounded spans, fifteen whole thread links,36 selected IDs and the distinct10144 duty.",
+        "sha256": "45782cf886f53574f946fba5754e28ae732af9017713d4bb95c4889aa563d1ff"
+      },
+      {
+        "saved_line": 176,
+        "complete_saved_text": "| Original stable gap | Shun contribution and remaining warrant | Disposition |",
+        "sha256": "44fe85841e3520e5a9503e57f82bc81907de9b9a9a31867e4b69ef07b1fe5c85"
+      },
+      {
+        "saved_line": 177,
+        "complete_saved_text": "| --- | --- | --- |",
+        "sha256": "b8ec48555607bc6202126c5db642f11cf898151fb6f2aa19d2e28aea19d7e532"
+      },
+      {
+        "saved_line": 178,
+        "complete_saved_text": "| G01 Ordinary and private breadth | Fruit, teaching, specific taste, tea/skincare, clothes, play, privacy, fatigue, refused contact and wanted company broaden this character. These36 analytical meanings plus separate10144 do not complete the full cast's ordinary/private range or all later outcomes. | OPEN |",
+        "sha256": "9b2cc0ece609824108fd744cc4469ede44db9fc24641a108584efa92c47ebc9d"
+      },
+      {
+        "saved_line": 179,
+        "complete_saved_text": "| G02 Yuuka council/club decision transfer | Shun's care/labor limits offer a thematic comparator only; no Yuuka decision-transfer source or institutional completion is received by this candidate. | OPEN |",
+        "sha256": "b9796d0218ba91c8ab4c56692b0c147ea76184fbc411c444592840df4b095cbf"
+      },
+      {
+        "saved_line": 180,
+        "complete_saved_text": "| G03 Serika service, peer and reciprocity range | Unfulfilled reciprocity and particular service outcomes invite comparison without supplying Serika's missing or separate peer/service evidence. | OPEN |",
+        "sha256": "33aa68e60ddfbabbcd3febf1552ad7a9533867f656ed7752d9bb68d68f22470f"
+      },
+      {
+        "saved_line": 181,
+        "complete_saved_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Shun's finite crisis role and contrary care methods do not establish Hina's distinct causality or accountability. No cross-school analogy closes that duty. | OPEN |",
+        "sha256": "a1ed26ce3bf01dcac6143e53a00e1256bfcc024bca85dc14e53ea9dd2e28e6fd"
+      },
+      {
+        "saved_line": 182,
+        "complete_saved_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Ordinary wishes and unfinished aftermath are retained here; no automatic transfer of Arius/PS68 source completion, private range or institutional repair follows. | OPEN |",
+        "sha256": "dfb1586eec4bdff4c5d88d9cbd0ee31a208991ec3cc0396bc9182e81a8c450b8"
+      },
+      {
+        "saved_line": 183,
+        "complete_saved_text": "| G06 Cross-school ordinary repertoire | Visitor children, teacher/company and particular tastes show local differentiated repertoire; generic guides/children/staff stay local and no full cross-school census or cast-wide coverage is claimed. | OPEN |",
+        "sha256": "c743844d725526f91136afffd07cfc3863d343b5982c1668463c47efb0775801"
+      },
+      {
+        "saved_line": 184,
+        "complete_saved_text": "| G07 Story-world chronology | Explicit10143E003→E005 yesterday and event-internal sequences are secure locally. Releases/Favor gates/placeholders and aliases do not join private forms, MAIN and all events into a calendar. | OPEN |",
+        "sha256": "31c382ca859bb731c5f9dcf686a22edab8793cb61bbbcffa7885b6bbf7be0dab"
+      },
+      {
+        "saved_line": 185,
+        "complete_saved_text": "| G08 Event naming and repeat contexts |805/10805/900805 interface repeats and859 conditions preserve contextual occurrences; title/system wording and release names do not manufacture additional narrative encounters or omitted event history. | OPEN |",
+        "sha256": "0484746cfa7c9d06958d24616a93b9a03ea1981cb9d1032f8fff8ab27f38c7f9"
+      },
+      {
+        "saved_line": 186,
+        "complete_saved_text": "| G09 Written speaker/choice attribution | Complete analytical choice/thread registers preserve alternatives, blank actors, CH0355-local units, inward/PA/narration modes and reported seams. Exact disputed per-turn voice or silent global rekeying remains unwarranted. | OPEN |",
+        "sha256": "e9f3240eb49af001533b026bf3005da083c9862929a8b45eeb9c668e69c56983"
+      },
+      {
+        "saved_line": 187,
+        "complete_saved_text": "| G10 Performed voice | Written politeness/address, UI conditions and VoiceIds are received as text. No audible assets, acting, pitch, rhythm or runtime delivery were inspected. | OPEN |",
+        "sha256": "24a4c495a1960b46879a6355ecd1c431af165d24c4162d8e50fa76529488fb4e"
+      },
+      {
+        "saved_line": 188,
+        "complete_saved_text": "| G11 Hoshino's Yume record and office states | Shun's duty/rest contrast supplies no new Hoshino–Yume or office-state warrant; that independent source question remains outside this home. | OPEN |",
+        "sha256": "0b936a0cd375742330c0a2568433727ae66481a657aae65f6deb3249cdaa7ead"
+      },
+      {
+        "saved_line": 189,
+        "complete_saved_text": "| G12 Counterpart, system and variant identity | Literal SHUN10011/10025/10143 and separateCH0355/10144 retain positive local comparative bridges and distinct profile/UI/actor scopes. No universal body/person/file chain, known child age or every-turn continuity is authenticated. | OPEN |",
+        "sha256": "e74127a1743010db6fd919dcc4c70c81f765d95d431246558f11ef21d248800e"
+      },
+      {
+        "saved_line": 190,
+        "complete_saved_text": "| G13 Office, contract, safety and technical outcomes | Actual care, handover, rescue, rest/return, punishment/pain and unfinished delegation are differentiated from medical efficacy, all-child learning, safety certification, fair procedure or completed institutional reform. | OPEN |",
+        "sha256": "d5f127dfe1d7d0d8d5b29d3e0ac81ae08066d43fc7aa0c13eda0909e9b52c10d"
+      },
+      {
+        "saved_line": 191,
+        "complete_saved_text": "| G14 Unclassified/mode continuity | Six admitted written objects and10144 are bounded by their exact modes; no unclassified scene, resource resemblance or unresolved later source is admitted or joined by this literary argument. | OPEN |",
+        "sha256": "3c4b3570f5641472bc47d79cbd1efd1c1d476ac6bed18e12f4cb8fc467f3c333"
+      },
+      {
+        "saved_line": 193,
+        "complete_saved_text": "No consequential source ambiguity requires new primary recovery for the bounded assertions made here: effective V7 corrections, current normal accounts and adequate exact individual arguments resolve the needed actor/action/end distinctions. Stronger claims about safety, treatment, lasting educational effect, all-child consent, privacy law, universal identity, saved photographs, later fulfillment and world chronology require their own warrants. Specific negative or contrary evidence remains positive analytical material rather than an exclusion rule.",
+        "sha256": "83d52b9bee00aebc75e6de7fda877105f95923cd494f975da294d72bc3cac13d"
+      },
+      {
+        "saved_line": 195,
+        "complete_saved_text": "The saved body is a substantive eleven-dimensional candidate with a complete substantial10144 section, not an eligibility decision, model or self-admission. Architecture1.12/method1.10 apply; historical adequate governance reception, actual analytical reading order and UNKNOWN independent exposure stay declared in the receipt. Literary source7546, mergedb76, reconciled2714 and currentbf5 navigation/publication reports are separately captured. ROOT owns independent receiving, exact adoption and publication; no author Git/provider/merge/audit or goal-count authority follows from these words.",
+        "sha256": "1c2e2f3d211e4bd12e0e2c751b2b568130ad36361dc8c4d32cd3a235bea86cca"
+      },
+      {
+        "saved_line": 197,
+        "complete_saved_text": "Full Phase3 remains355 required packages and29 mandatory named duties under25 distinct parents, with separate character, directed, ensemble, institutional, Sensei and register work. This candidate neither adds a home nor claims a milestone. All earlier frozen payloads stay unchanged. The finite saved-body/source/receipt/probe/freeze packet records actual readback and preservation; those mechanical checks do not substitute for independent literary review or transfer original primary, native, raw, QA, media or performed-voice credit.",
+        "sha256": "e562b583e7c371a4f630702faeb2774d257e45c3f8249f7d54f67a409b209c34"
+      }
+    ],
+    "prior_V1_frozen_outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+        "bytes": 49917,
+        "lines": 197,
+        "sha256": "60f8dae3592e351bea861205b5da9fb6e6b2c6cfb9f91fa1254767b81bf65d74"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 313587,
+        "lines": 4936,
+        "sha256": "e04f717ec7275eab7886ef7490866b270f2ec9a95fe89487a921dd6290ce7af1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 5787,
+        "lines": 31,
+        "sha256": "67e19f7895287edb1e22b58970738d3a94516f37dfca30775c089c21c27b2f50"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 9935,
+        "lines": 155,
+        "sha256": "47b92919b4ba885ee9474818b903c7fb8931f830ee79dac770f1a29bf5984281"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_FROZEN_OUTPUT_MANIFEST.json",
+        "bytes": 4772,
+        "lines": 69,
+        "sha256": "57ec8eacb0bb2ec5f52d13edc5f400f541beeb4f4a2c04ced708c502fa60696d"
+      }
+    ],
+    "private_source_scope": "36 admitted adequate private responsibilities/15 wholeMM; separate10144 single written required substantial five-paragraph section unchanged. ROOT V1 finite source proof retained, not repeated primary credit.",
+    "all14_gaps": [
+      {
+        "id": "G01",
+        "original_stable_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Fruit, teaching, specific taste, tea/skincare, clothes, play, privacy, fatigue, refused contact and wanted company broaden this character. These36 analytical meanings plus separate10144 do not complete the full cast's ordinary/private range or all later outcomes."
+      },
+      {
+        "id": "G02",
+        "original_stable_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Shun's care/labor limits offer a thematic comparator only; no Yuuka decision-transfer source or institutional completion is received by this candidate."
+      },
+      {
+        "id": "G03",
+        "original_stable_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Unfulfilled reciprocity and particular service outcomes invite comparison without supplying Serika's missing or separate peer/service evidence."
+      },
+      {
+        "id": "G04",
+        "original_stable_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Shun's finite crisis role and contrary care methods do not establish Hina's distinct causality or accountability. No cross-school analogy closes that duty."
+      },
+      {
+        "id": "G05",
+        "original_stable_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Ordinary wishes and unfinished aftermath are retained here; no automatic transfer of Arius/PS68 source completion, private range or institutional repair follows."
+      },
+      {
+        "id": "G06",
+        "original_stable_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Visitor children, teacher/company and particular tastes show local differentiated repertoire; generic guides/children/staff stay local and no full cross-school census or cast-wide coverage is claimed."
+      },
+      {
+        "id": "G07",
+        "original_stable_name": "Story-world chronology",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Explicit10143E003→E005 yesterday and event-internal sequences are secure locally. Releases/Favor gates/placeholders and aliases do not join private forms, MAIN and all events into a calendar."
+      },
+      {
+        "id": "G08",
+        "original_stable_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "805/10805/900805 interface repeats and859 conditions preserve contextual occurrences; title/system wording and release names do not manufacture additional narrative encounters or omitted event history."
+      },
+      {
+        "id": "G09",
+        "original_stable_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Complete analytical choice/thread registers preserve alternatives, blank actors, CH0355-local units, inward/PA/narration modes and reported seams. Exact disputed per-turn voice or silent global rekeying remains unwarranted."
+      },
+      {
+        "id": "G10",
+        "original_stable_name": "Performed voice",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Written politeness/address, UI conditions and VoiceIds are received as text. No audible assets, acting, pitch, rhythm or runtime delivery were inspected."
+      },
+      {
+        "id": "G11",
+        "original_stable_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Shun's duty/rest contrast supplies no new Hoshino–Yume or office-state warrant; that independent source question remains outside this home."
+      },
+      {
+        "id": "G12",
+        "original_stable_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Literal SHUN10011/10025/10143 and separateCH0355/10144 retain positive local comparative bridges and distinct profile/UI/actor scopes. No universal body/person/file chain, known child age or every-turn continuity is authenticated."
+      },
+      {
+        "id": "G13",
+        "original_stable_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Actual care, handover, rescue, rest/return, punishment/pain and unfinished delegation are differentiated from medical efficacy, all-child learning, safety certification, fair procedure or completed institutional reform."
+      },
+      {
+        "id": "G14",
+        "original_stable_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "character_contribution_and_remaining_warrant": "Six admitted written objects and10144 are bounded by their exact modes; no unclassified scene, resource resemblance or unresolved later source is admitted or joined by this literary argument."
+      }
+    ],
+    "credit": "ROOT acceptance and named-duty completion pending independent V2 rereceiving. No self count, new source, primary/native/raw/QA/AV/model/identity/provider/R writes.",
+    "unbound": "NineUNBOUND and preserved_phase2_work UNREAD_UNHASHED",
+    "unchanged_scope": "355packages/29named/25parents/384homes",
+    "mandatory_source_recovery": [],
+    "stronger_claim_debt": "Source does not print completed evacuation, a defense assignment received by Shun, universal successful care or completed safety outcome. Existing all14OPEN and actor/mode limits remain."
+  },
+  "public_reference_translation": "All fields survive exact reference translation with full literal inverses and immutable C originals. Original tuples bind original bytes, not this derivative. Complete attachment parts are explicit finite public fields, not omitted content.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHUN_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 403736,
+      "sha256": "ee01d3aaadd24ad928c987389766b62da2e63878e0365bc4e476cf17ae6927b3",
+      "git_blob_oid_of_actual_bytes": "d1676b161768e548c2951fc6d6db0cffdc471eab",
+      "attachment_names": [
+        "BOUND_FINAL_V100_C002_E007_NORMAL_ARGUMENT.md",
+        "BOUND_ROOT_SHUN_V1_REQUIRED_CORRECTION_RECEIPT.json",
+        "SHUN_CORRECTED_SUCCESSOR_RECEIVING_RECEIPT_V2.md",
+        "IMMUTABLE_V1/SHUN_FROZEN_OUTPUT_MANIFEST.json",
+        "IMMUTABLE_V1/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+        "IMMUTABLE_V1/SHUN_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "IMMUTABLE_V1/SHUN_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "IMMUTABLE_V1/SHUN_CURRENT_WORKTREE_METADATA_PROBE.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "BLUE_ARCHIVE_SHUN_CORRECTED_SUCCESSOR_COMPLETE_READBACK_AND_FREEZE_V2",
+    "frozen_UTC": "2026-10-10T21:01:24.742058+00:00",
+    "status": "AUTHOR_CORRECTED_V2_COMPLETE_BOUNDARY_WITH_LIMITS_ROOT_INDEPENDENT_RERECEIVING_PENDING",
+    "operative_candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md",
+      "bytes": 50176,
+      "lines": 197,
+      "sha256": "937c0bcd9e8a462d5c394d6cb3a9691a9e3f1bc7454d7054856393f93aecb239"
+    },
+    "existing_home": "P3-CHAR-SHUN",
+    "mandatory_named_duty": "P3-SECTION-SHUN-10144",
+    "outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md",
+        "bytes": 50176,
+        "lines": 197,
+        "sha256": "937c0bcd9e8a462d5c394d6cb3a9691a9e3f1bc7454d7054856393f93aecb239"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_PRECISE_CORRECTION_DELTA_AND_SOURCE_SCOPE_V2.json",
+        "bytes": 81429,
+        "lines": 769,
+        "sha256": "3ceaeb008154ab9aec58b7044907e4206934c8c4b2358644c8075fa603fc0943"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_RECEIVING_RECEIPT_V2.md",
+        "bytes": 2077,
+        "lines": 17,
+        "sha256": "689493335141bf2d4d86a07d9a3e18b31203617ba461c6ec9510561d004c600a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_FINAL_V100_C002_E007_NORMAL_ARGUMENT.md",
+        "bytes": 3387,
+        "lines": 32,
+        "sha256": "adb61ebf9b84e3ca80b63ff45134ffed027b060b0a8fe252bc723a00bb453c1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_CORRECTED_SUCCESSOR_V2/BOUND_ROOT_SHUN_V1_REQUIRED_CORRECTION_RECEIPT.json",
+        "bytes": 3265,
+        "lines": 50,
+        "sha256": "49d6a1be78f7218603a6b05de71935781becd47e906dc10209bbb9cfd7de5f23"
+      }
+    ],
+    "actual_author_whole_revised_body_readback": "5d40c01–65/9d279e66–131/7f4c9c132–197EOF; no clipped output, no later body changes",
+    "actual_companion_meaning_readback": "7f4c9c whole17 readable and all new correction/delta/source33/publication/scope/credit/debt fields; unchanged14gap effects already whole body178–191; projections mechanically exact, not all769 serialized JSON lines received.",
+    "actual_source_and_ROOT_correction_receiving": "20eeca whole32 adequate Final and whole50 ROOT correction receipt; no primary/native/raw/QA/AV source recovery",
+    "exact_checks": {
+      "inverse_V1_entire_bytes": "PASS",
+      "changed_lines": [
+        16,
+        92
+      ],
+      "unchanged_lines": 195,
+      "total_body_lines": 197,
+      "saved_nonempty_joins": 117,
+      "original_V1_outputs_unchanged": 5,
+      "UTF8_LF_noBOM": true
+    },
+    "dated_pending_fields_qualification": "The correction receipt status/readable17 precede revised readback; this final seal records completed author readback and supersedes only that pending author reception state. ROOT acceptance remains pending.",
+    "scope33_and_publication_qualification": "New correction JSON governs exact scope33 interpretation and attributes completed bf5 chain only to ROOT743572c2; original V1 pending report stays dated and unchanged.",
+    "all14_stable_gaps": "OPEN",
+    "count_and_new_primary_AV_model_identity_credit": 0,
+    "R_Git_provider_global_writes": false,
+    "future_scope": "Shun–Kokona existing directed home allocated after delivery, not completed by this character successor."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_FROZEN_OUTPUT_MANIFEST_V2.json",
+    "bytes": 4046,
+    "sha256": "5dd6fe52d5b6ab0fc7715e1c9145c5cae0fe73e8e43d344cd5a48ad4655c50ac",
+    "git_blob_oid_of_actual_bytes": "682fcd08f498ca4130c79917b8a1fbd9ac0e2f8b",
+    "immutable_transport_path": "immutable_originals/SHUN_CORRECTED_SUCCESSOR_V2/SHUN_CORRECTED_SUCCESSOR_FROZEN_OUTPUT_MANIFEST_V2.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md",
+    "bytes": 50176,
+    "sha256": "937c0bcd9e8a462d5c394d6cb3a9691a9e3f1bc7454d7054856393f93aecb239",
+    "git_blob_oid_of_actual_bytes": "6dde77b765c019c06edc096e38c46476e7994fce",
+    "immutable_transport_path": "immutable_originals/SHUN_CORRECTED_SUCCESSOR_V2/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH_CORRECTED_SUCCESSOR_V2.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+    "bytes": 53003,
+    "sha256": "1dbbc4c697967b32d7dbf5a0749ab909e13a10835165f8d8e8f1f8fd5254f8fc",
+    "git_blob_oid_of_actual_bytes": "01c7324adc72c4cf5153163e3a8696cd2a065206"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "The operative original is corrected V2, with exactly original V1 L16/L92 changed. Shun issues defense and evacuation orders; Kokona accepts her evacuation assignment only. No completed evacuation or received defense assignment by Shun is claimed. The full V1 body/receipt/probe/readable/freeze and complete two-line inverse survive. Original scope33 interpretation is superseded only by its exact V2 actor correction. The full five-paragraph10144 duty remains within this parent, without universal biological identity/age or extra package credit."
+}

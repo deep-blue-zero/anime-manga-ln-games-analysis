@@ -1,0 +1,314 @@
+{
+  "schema": "BLUE_ARCHIVE_RIGATONI_COMPLETE_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_OPERATIVE_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json",
+      "original_exact_tuple": {
+        "path": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json",
+        "bytes": 7342,
+        "sha256": "2ee5e5b92d35ee6f6c5661077de3e6c7475ddd2930d7e7897b2acbf71d7acc76",
+        "git_blob_oid_of_actual_bytes": "9332ee915b306a237557f49609921e54eee2b84a",
+        "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1",
+        "decision": "IMMUTABLE_COMPLETE_SOURCE_SCOPED_CHARACTER_CANDIDATE_PENDING_ROOT_ACCEPTANCE",
+        "home": "P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED",
+        "kind": "CHARACTER",
+        "required_count": 1,
+        "mandatory_named_duties": [],
+        "four_frozen_outputs": [
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+            "bytes": 35455,
+            "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+            "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+            "bytes": 132119,
+            "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+            "git_blob_sha1": "077d1fc9e1e87200212cde9ec4d9321613cd12d7"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+            "bytes": 5399,
+            "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+            "git_blob_sha1": "caac0618b053f4eb42563a5c4f93cecd70fb1736"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+            "bytes": 7985,
+            "sha256": "430fadf5af7cd38a7d566f0afa45bd48a6009a007c5f3091e74a60a5f18b5a09",
+            "git_blob_sha1": "172174986b9387d937a5d377ed16168f7f55e86c"
+          }
+        ],
+        "all_frozen_files": [
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+            "bytes": 35455,
+            "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+            "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+            "bytes": 5399,
+            "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+            "git_blob_sha1": "caac0618b053f4eb42563a5c4f93cecd70fb1736"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+            "bytes": 7985,
+            "sha256": "430fadf5af7cd38a7d566f0afa45bd48a6009a007c5f3091e74a60a5f18b5a09",
+            "git_blob_sha1": "172174986b9387d937a5d377ed16168f7f55e86c"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+            "bytes": 132119,
+            "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+            "git_blob_sha1": "077d1fc9e1e87200212cde9ec4d9321613cd12d7"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+            "bytes": 35468,
+            "sha256": "085a45ace824162aac7e4650399bd62b4856af1fabbdc092dac75c1f2d420b95",
+            "git_blob_sha1": "7d9a6291013c233736d55cf21a6f80eb02e0eec0"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+            "bytes": 132281,
+            "sha256": "236eb93e898282052bfeeeb21b158d09de4b8eae5077854e549af9bcb0d1c5da",
+            "git_blob_sha1": "90b3f31f669c36c6ef78edb3ddabbc60a7da4430"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/A__ROOT_RIGATONI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+            "bytes": 11981,
+            "sha256": "77c32c5888166e3efa5a22dc929be322d270a254395e718933582edf4b10412f",
+            "git_blob_sha1": "d89a4071e76af2331011854f89363bf939b6138c"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C03__RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+            "bytes": 24494,
+            "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+            "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C05__A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C06__A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+            "bytes": 19463,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C07__A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+            "bytes": 6858,
+            "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+            "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/M__A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 93829,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/Q__RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+            "bytes": 16263,
+            "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+            "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+          }
+        ],
+        "listed_files": 13,
+        "with_this_seal": 14,
+        "bound_inputs": 7,
+        "unsealed_beforeimages": 2,
+        "actual_author_receiving": {
+          "allocation": "82e7db whole",
+          "complete_adequate_empirical_normal": "9fc564 coherent214–228/current53–62/ending288; zero newunderlyingprimary",
+          "whole_saved_body": "78f4771–80/e9f58c81–162EOF",
+          "all_new_meaningful_companion_fields": "b7e7c5/ac496f/43e1ab; repeatedsavedbody/source text reused at actualwhole/scopedextents",
+          "whole_readable": "a8db7cEOF",
+          "whole_saved_author_receipt": "99d610EOF"
+        },
+        "finite_author_exact_check": "d5afe6 PASS7sourcepairs/26receivedlinebindings/64savedparagraphs/18endcases/6fullrivals/11sections/14exactOPENgaps/1canonicalhref/15priormetawitnesses/fullbody+receiptinverse",
+        "ROOT_review_scope": "ROOT wholebody160423/21d16b reported satisfactoryfirstliteraryreceiving only; exactfinalcompanions and acceptancepending",
+        "provenance": "Actualc690controlcaptures separatefromdatedafb normal/admission/architecturecopies; full underlying Japanese primary/report/performed historiesremainattributed; no new currentRrecapture",
+        "canonical_link_scope": "One normal-owner href is correctfromallocated eventualcanonicalcharacterhome; Csidecarfilesystemresolutionnotclaimed",
+        "no_credit_or_mutation": "No selfordinal/ROOTacceptance/canonicalinstallation/publication/count, primary/native/raw/QA/AV/model/admission/identity/independence credit; no R/H/Git/provider/index/globalwrite/UNBOUND9/unpublished39 access/hash/reset",
+        "prior_immutability": "All15 metadata-plan files exactreverified; every other frozen delivery unchanged by path; fixed121–125 transportdistinct"
+      },
+      "historical_scope": "Complete immutable historical fields and coordinates; current acceptance and operative qualification govern."
+    },
+    {
+      "name": "RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+      "original_exact_tuple": {
+        "path": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+        "bytes": 5399,
+        "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+        "git_blob_oid_of_actual_bytes": "caac0618b053f4eb42563a5c4f93cecd70fb1736",
+        "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md"
+      },
+      "complete_original_payload": "# Rigatoni author receiving and review\n\nThis is the complete C-only candidate for the existing P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED responsibility. It remains pending independent ROOT receiving and acceptance. Its allocation creates no new home, person join, source grade or completion count.\n\n## Literary decision and boundaries\n\nThe sustained thesis connects Rigatoni’s asserted immunity, hostage-taking, addressed begging and narrated arrest. Each answering actor remains legible: Aru’s feared harm and disarmament, Kayoko’s planning, Mutsuki and Haruka’s risky rescue, the exposed guests, the waiter’s later offer and Valkyrie’s actual intervention. The earlier bullies are unjoined to Rigatoni. Retrospective protective coercion does not become a clean warrant for every PS68 method.\n\nAll eleven architecture dimensions have substantive prose. The source-scoped Sensei dimension states the lack of a direct exchange within the received argument and preserves peer agency; it makes no universal absence claim. The ordinary dimension retains wanted financial freedom and relief at represented speech/action strength, and retains food, paid work, company and gardening for their actual recipients. It invents neither a Rigatoni hobby nor a private confession.\n\nSix complete rival arguments test contingent authority, comic costs, alleged payment protection, bounded justice, method-sensitive solidarity and the sparse named-role question. Eighteen endpoint cases distinguish allegation/report/narrative action, actual rescue and arrest, unprinted conviction and repairs, offered and enjoyed dinner, actual flowering, proposed transplant and challenged endless repayment. Every original stable G01–G14 name is preserved with a specific OPEN effect.\n\n## Actual source receiving\n\nROOT’s whole allocation was personally received in82e7db. The one empirical source is the accepted MINI32 normal owner,93829 bytes/SHA03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f. Own9fc564 completely received its coherent MINI130214–228,current53–62 and ending288. This is adequate current analytical meaning; it is not whole344 or new original Japanese canonical, native, raw, QA or audiovisual reading. Existing producer and ROOT/sibling primary/whole-owner custody remain attributed. Prior own MINI060166–177 custody does not transfer to130.\n\nThe datedafb normal/admission/architecture copies retain captured tuples, while c690 status controls and ROOT’s current positive allocation retain their separate provenance. Copies supply no source admission or literary reading by themselves. No primary ambiguity required further recovery: the release-label seam and payment allegation are explicitly bounded instead.\n\n## Saved receiving and precision\n\nThe operative35455-byte/162-line body was wholly received in78f477 lines1–80 ande9f58c81–162EOF without clipping. Four exact preseal terminology changes preserve an unsealed35468-byte beforeimage and a full inverse: asserted rather than potentially performed claim; sparse antagonist without a verified nonstudent classification; later enjoyment after arrest without a physical absence claim; and a bounded nonlethal endpoint rather than misleading fatal terminology.\n\nThe source/claim receipt’s all seven input fields, provenance/identity/chronology and inverse/target controls were received inb7e7c5. Its eighteen complete endpoint records, six full rival records and eleven section associations were received inac496f. All64 saved paragraph/source associations and14 full gap arguments were received in43e1ab. Their saved body text was already actually received wholly and is joined exactly; no second fresh whole serialized132119-byte printing is claimed. Source-span text reuses actual9fc564 with26 exact serialized line bindings, including blanks.\n\nTwo tentative public repository spellings for architecture/admission controls were removed before seal because those exact public routes were not established in the bounded C inputs. Both controls remain fully bound C files. The original source receipt is preserved, and restoring only those two JSON scalar fields restores every original132281 byte. No narrative claim or source tuple changed through this metadata precision.\n\n## Finite verification and remaining gate\n\nThe author finite check verifies seven original-to-bound source pairs,26 source-line bindings,64 saved paragraph joins,18 endpoints,6 rivals,11 architecture sections,14 exact original OPEN names,15 immutable metadata-plan witnesses, the full body and receipt inverses, and the one governed canonical relative link. The link resolves from the explicitly allocated canonical character directory to the exact maintained MINI normal route; C-sidecar filesystem resolution is not claimed. Public candidate payloads are UTF8/noBOM/LF/onefinalLF, below1MiB and free of drive/user machine paths and file URIs.\n\nROOT must independently receive the complete literary body and companions before any acceptance, canonical adoption or count. No PS68 institution/belonging, Haruka directions, other character, Kayoko–Ako or Valkyrie package is completed by proxy. All earlier frozen outputs remain preserved. This lane made no R/H/Git/provider/index/global writes, UNBOUND9 or unpublished39 access/hash, usage reset, new primary/performed/model/identity/independence/admission credit or progress mutation.\n",
+      "historical_scope": "Complete immutable historical fields and coordinates; current acceptance and operative qualification govern."
+    },
+    {
+      "name": "RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+        "bytes": 7985,
+        "sha256": "430fadf5af7cd38a7d566f0afa45bd48a6009a007c5f3091e74a60a5f18b5a09",
+        "git_blob_oid_of_actual_bytes": "172174986b9387d937a5d377ed16168f7f55e86c",
+        "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "RIGATONI_AUTHOR_COMPLETE_SAVED_BODY_AND_FINITE_RECEIVING_RECEIPT_V1",
+        "decision": "AUTHOR_COMPLETE_SOURCE_SCOPED_CHARACTER_BOUNDARY_PENDING_ROOT_RECEIVING",
+        "home": "P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED",
+        "kind": "CHARACTER",
+        "required_count": 1,
+        "mandatory_named_duties": [],
+        "actual_source_receiving": {
+          "allocation": "82e7db complete11981-byte allocation throughEOF",
+          "empirical_normal": "9fc564 complete coherent214–228/current53–62/endpoint288",
+          "underlying_primary": "Attributednormalproduceronly; notfreshlyreceived",
+          "prior_MINI060": "Only166–177 scopedcustody, nowhole344/130 transfer",
+          "saved_body": "78f477 final1–80/e9f58c final81–162EOF untruncated"
+        },
+        "actual_saved_companion_receiving": {
+          "readable": "a8db7c complete5399-byte readable through EOF",
+          "all_input_and_operative_control_fields": "b7e7c5 complete seven input/provenance/identity/chronology/inverse/target/control meanings",
+          "all_endpoint_rival_section_fields": "ac496f complete18endpoint fields,6fullrivals,11section associations",
+          "all_projection_and_gap_fields": "43e1ab complete64source associations/14full literalOPEN arguments; full bodytext reused from actual78f477/e9f58c",
+          "source_serialized_text": "26 exactnormal line rows contain actual9fc564received text including blanks; no freshwhole344 claim",
+          "whole_serialized_source_receipt_printing": "Not claimed; every meaningfulfield/actualbody/source text received at the precise extents above,mechanical hashes independentlyverified"
+        },
+        "finite_verification": {
+          "actual_call": "d5afe6",
+          "decision": "PASS_AUTHOR_FINITE_COMPLETE_C_ONLY_ARGUMENT_AND_BINDINGS",
+          "source_pairs": 7,
+          "exact_received_normal_lines": 26,
+          "saved_paragraph_joins": 64,
+          "finite_endpoints": 18,
+          "full_rivals": 6,
+          "architecture_sections": 11,
+          "literal_original_OPEN_gaps": 14,
+          "canonical_relative_href_projection": 1,
+          "prior_frozen_metadata_witnesses_preserved": 15,
+          "complete_body_inverse": true,
+          "complete_two_control_route_omission_inverse": true,
+          "format": "Operativepublic payloads UTF8/noBOM/LF/onefinalLF,below1MiB,no drive/user machinepaths/fileURI"
+        },
+        "current_payloads": [
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+            "bytes": 35455,
+            "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+            "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+            "bytes": 132119,
+            "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+            "git_blob_sha1": "077d1fc9e1e87200212cde9ec4d9321613cd12d7"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+            "bytes": 5399,
+            "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+            "git_blob_sha1": "caac0618b053f4eb42563a5c4f93cecd70fb1736"
+          }
+        ],
+        "bound_input_copies": [
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/M__A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 93829,
+            "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+            "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/A__ROOT_RIGATONI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+            "bytes": 11981,
+            "sha256": "77c32c5888166e3efa5a22dc929be322d270a254395e718933582edf4b10412f",
+            "git_blob_sha1": "d89a4071e76af2331011854f89363bf939b6138c"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C03__RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+            "bytes": 24494,
+            "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+            "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/Q__RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+            "bytes": 16263,
+            "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+            "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C05__A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C06__A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+            "bytes": 19463,
+            "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+            "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C07__A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+            "bytes": 6858,
+            "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+            "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+          }
+        ],
+        "unsealed_beforeimages": [
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+            "bytes": 35468,
+            "sha256": "085a45ace824162aac7e4650399bd62b4856af1fabbdc092dac75c1f2d420b95",
+            "git_blob_sha1": "7d9a6291013c233736d55cf21a6f80eb02e0eec0"
+          },
+          {
+            "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+            "bytes": 132281,
+            "sha256": "236eb93e898282052bfeeeb21b158d09de4b8eae5077854e549af9bcb0d1c5da",
+            "git_blob_sha1": "90b3f31f669c36c6ef78edb3ddabbc60a7da4430"
+          }
+        ],
+        "source_receipt_precision_fields": [
+          {
+            "pointer": "/source_inputs/4/public_safe_path",
+            "before": "series/blue-archive/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "after": null
+          },
+          {
+            "pointer": "/source_inputs/5/public_safe_path",
+            "before": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+            "after": null
+          }
+        ],
+        "precision_meaning": "Two tentative publiccontrol routes were notestablished and are omitted; original fullreceipt/inverse preserved. Body has four exactpreseal terminology qualifications separatelyboundin source receipt. No empiricalclaim expansion or source tuple changes.",
+        "ordinary_recipients_and_rivals": "Rigatoni has representedaims/requests, no manufactured hobby. Aru/Kayoko/Mutsuki/Haruka/guests/waiter/Valkyrie remain independent;wantedmeals/gardening/paidwork/company intrinsic; no earlierbully identityjoin, promise→completion or arrest→conviction shift.",
+        "prior_preservation_scope": "All15 metadata-plan witnesses exactreverified; allother priorfrozen deliveries untouched by path. This is not a fresh globalcontentaudit.",
+        "remaining_gate": "Independent ROOT wholeliterary/source/claim/end/rival/gap receiving and exact acceptance; canonical installation/publication byROOT only",
+        "credits_and_mutations": {
+          "ROOT_acceptance_or_self_assigned_ordinal": 0,
+          "new_primary_native_raw_QA_AV_model_admission_identity_independence_denominator_completion_count": 0,
+          "R_H_Git_provider_index_global_writes": 0,
+          "UNBOUND9_unpublished39_access_hash": 0,
+          "usage_reset": 0
+        },
+        "scope_snapshot": "Existing355packages/29named/25parents/384homes unchanged; currentallocationreported127/named13,published120,merged89,next178 aredated metadata and no new credit by this candidate"
+      },
+      "historical_scope": "Complete immutable historical fields and coordinates; current acceptance and operative qualification govern."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+}

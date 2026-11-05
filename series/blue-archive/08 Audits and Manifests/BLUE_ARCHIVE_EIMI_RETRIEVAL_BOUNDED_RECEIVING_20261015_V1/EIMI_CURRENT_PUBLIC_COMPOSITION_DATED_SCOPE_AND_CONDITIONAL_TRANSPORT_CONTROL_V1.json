@@ -1,0 +1,315 @@
+{
+  "schema": "EIMI_CURRENT_PUBLIC12_DATED_COMPOSITION_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1",
+  "artifact_id": "EIMI_CURRENT_PUBLIC_CONTROL_20261015_V1",
+  "metadata_prepared": "2026-10-15",
+  "current_role": "Public metadata proposal under actual adopted private8 semantic scope. Any pending gate in this newly authored framing is explicitly preparation-time, not a timeless claim of uninstalled future status.",
+  "exact_current_first11_nonself_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 36734,
+      "sha256": "374617ae4829e9cb1baa61018a8fb966aeedde5edb4865fb2d2461114bfc4367",
+      "git_blob_oid_of_actual_bytes": "4113086b2cdad1634a756882e60e7647a03dbb71"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP000_EIP035_V1.json",
+      "bytes": 474954,
+      "sha256": "4b9c9fca0f33fe5130301623bd9e86f5c416c1ebe5ffb81c2d2d0a7bba801530",
+      "git_blob_oid_of_actual_bytes": "6105175be8f6b9059870f0e8e61d6d094bf5f9b7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP036_EIP070_V1.json",
+      "bytes": 599644,
+      "sha256": "5e3c183a9b8ce0d087d0e7caedbc8b42d1149c4fe0a6a29a18f7e1f328b9e469",
+      "git_blob_oid_of_actual_bytes": "7c4d3a5d8f80103f5053b0349bf0cd2c3f810116"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_NEW_PURPOSES_EIP071_EIP104_V1.json",
+      "bytes": 786879,
+      "sha256": "c75d16e1be15c0716577f2c94b08da5a490dd1c86e3bd0f63fbb3b438b18d0b2",
+      "git_blob_oid_of_actual_bytes": "c6657c019e40b631f387424164f382377d6fdb4e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_SOURCE26_OWN6WHOLE20SELECTED_ORIGINAL105_QUESTIONS_AND_GRADE_REGISTER_V1.json",
+      "bytes": 107488,
+      "sha256": "9167c4747c1d129e4f79ffbb3bbe54919a0fd4bbf3a6d3f5ef95aeea82a922f2",
+      "git_blob_oid_of_actual_bytes": "8847809cd47688d894d353e79af494c7f5e8db79"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_LITERAL69_SOURCE_QUESTION_NEW105_PURPOSE_AND_FINITE_LIMIT_REGISTER_V1.json",
+      "bytes": 689326,
+      "sha256": "8bcdce82f124586d83ec18d2640c5e56e38fa6dcecce1e856f2ea6d0e9775cb6",
+      "git_blob_oid_of_actual_bytes": "9ef06940483e6f185f5394e358a027cc54646cb6"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_CURRENT_FIVEFUNCTION_BODY_SOURCE_QUESTION_JOIN_INDEX_V1.json",
+      "bytes": 322960,
+      "sha256": "48f1efca0738b4c8664097a16c05283a04102b2d88355f2509fbccd7c264f675",
+      "git_blob_oid_of_actual_bytes": "c3b9e990b0f09ecf2d7cf1fb8d7df696c3f88fba"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_EXACT8_ORIGINAL14_RAW_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 28927,
+      "sha256": "1f6509636154c8b4d7d521d9e19b7943b6a5bd14347787578565fdde32a19281",
+      "git_blob_oid_of_actual_bytes": "a7e25b7de812154b8fe6f123aaeaa91298898a88"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_PRIOR_DISTINCT_COMPLETE_V4_COMPONENT_REVIEW_REPORT_AND_TRUTHFUL_INPUT_V1.json",
+      "bytes": 693718,
+      "sha256": "d43db3884317a60aa2f8ec7ff5435b086859f666cdc0f19a7969bc750678a24c",
+      "git_blob_oid_of_actual_bytes": "ffd6eb51e3c91452e7d5cac492dfba19071595ed"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "bytes": 16056,
+      "sha256": "877a27b20f72e1fd3c761082039f17faf87b05f97acd9799447864b9dd7e6621",
+      "git_blob_oid_of_actual_bytes": "ede2f94db7932f2023a3a2ea4188035e0902c249"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_PUBLIC_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1.json",
+      "bytes": 91379,
+      "sha256": "4773984af47b09f1c3d1040fa923c804eaff838fc3bf091a57612482a3c820c4",
+      "git_blob_oid_of_actual_bytes": "f0b2b41bf5e3521739300e8f29cc4cdc96e0cb67"
+    }
+  ],
+  "current_header_authority_map": [
+    {
+      "header_witness_id": "ROOT_EIMI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_authority_id": "EIMI_ACTUAL_ROOT_SEMANTIC_14283",
+      "original_authority_tuple": {
+        "bytes": 14283,
+        "sha256": "dcba5914147e996e809827c9351732e32952052863752ca193836fbcb367e2d8",
+        "git_blob_oid_of_actual_bytes": "2ce0be0d006f4e5f27df209102feb952c0c493b4"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+        "bytes": 16056,
+        "sha256": "877a27b20f72e1fd3c761082039f17faf87b05f97acd9799447864b9dd7e6621",
+        "git_blob_oid_of_actual_bytes": "ede2f94db7932f2023a3a2ea4188035e0902c249"
+      },
+      "role": "Actual private8 semantic acceptance; report normalization does not extend acceptance to this12."
+    },
+    {
+      "header_witness_id": "EIMI_PRIOR_DISTINCT_COMPLETE_V4_COMPONENT_REVIEW_REPORT_20261015_V1",
+      "original_authority_id": "EIMI_ACTUAL_CORRECTED_PEER_MANUAL_676784",
+      "original_authority_tuple": {
+        "bytes": 676784,
+        "sha256": "707c38107094c97f58a8c9bfb7cdf08aab2b01bb134ca236768bfbe79deb1604",
+        "git_blob_oid_of_actual_bytes": "bbc5cbdcb177c28cf48202f98adb0e5a8163d36b"
+      },
+      "actual_corrected_warrant_qualification": {
+        "private_witness_id": "EIMI_ACTUAL_PEER_WARRANT_QUALIFICATION_3978",
+        "bytes": 3978,
+        "sha256": "6ae40005e4a76741e7600a50b1eddac2d674425ea8603e889be992d6e204c82f",
+        "git_blob_oid_of_actual_bytes": "c123379c05997e4f7e3c5c85e0b675b4980a35e6"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_PRIOR_DISTINCT_COMPLETE_V4_COMPONENT_REVIEW_REPORT_AND_TRUTHFUL_INPUT_V1.json",
+        "bytes": 693718,
+        "sha256": "d43db3884317a60aa2f8ec7ff5435b086859f666cdc0f19a7969bc750678a24c",
+        "git_blob_oid_of_actual_bytes": "ffd6eb51e3c91452e7d5cac492dfba19071595ed"
+      },
+      "role": "Truthful report of actual completed distinct private8 review, not fresh public-byte QA."
+    }
+  ],
+  "actual_root_semantic_original": {
+    "private_witness_id": "EIMI_ACTUAL_ROOT_SEMANTIC_14283",
+    "bytes": 14283,
+    "sha256": "dcba5914147e996e809827c9351732e32952052863752ca193836fbcb367e2d8",
+    "git_blob_oid_of_actual_bytes": "2ce0be0d006f4e5f27df209102feb952c0c493b4"
+  },
+  "actual_completed_distinct_peer_original": {
+    "private_witness_id": "EIMI_ACTUAL_CORRECTED_PEER_MANUAL_676784",
+    "bytes": 676784,
+    "sha256": "707c38107094c97f58a8c9bfb7cdf08aab2b01bb134ca236768bfbe79deb1604",
+    "git_blob_oid_of_actual_bytes": "bbc5cbdcb177c28cf48202f98adb0e5a8163d36b"
+  },
+  "actual_peer_wording_qualification": {
+    "private_witness_id": "EIMI_ACTUAL_PEER_WARRANT_QUALIFICATION_3978",
+    "bytes": 3978,
+    "sha256": "6ae40005e4a76741e7600a50b1eddac2d674425ea8603e889be992d6e204c82f",
+    "git_blob_oid_of_actual_bytes": "c123379c05997e4f7e3c5c85e0b675b4980a35e6",
+    "complete_current_reason": "A training goal is not permission for restraint, and Sumire's care can coexist with Rei's renewed objection. The absence of a later home run is explicitly local to this G330 comparison, not a whole-corpus denial of the later E845 result; wanting stadium food is not itself proof of eating, and no meal consumed by Sumire is shown.",
+    "scope": "Peer QA wording precision only, not a candidate finding, source replay, fresh105, ROOT/current-public/count/install/runtime or merge adoption."
+  },
+  "complete_current_composition_qualifications": {
+    "metadata_prepared": "2026-10-15",
+    "current_semantic_basis": "ACTUAL_PRIVATE_V4_EXACT8_ROOT_ACCEPTANCE_WITH_LIMITS;NO_PUBLIC_CURRENT_BYTE_ADOPTION_INFERRED",
+    "roles": "Bodyauthor/currentmetadata composer /root/m008_composition_review; genuine105 author /root/next_cast_source_preparation; distinct private component reviewer /root/publishing_shared7_review; ROOT actual receiving/adoption separately attributed.",
+    "source_grades": "Bodyauthor26WHOLE3800; purposeauthor6WHOLE1580+20SELECTED1320; peer23WHOLE2874+3SELECTED503; ROOT own course exactly as original14283 receipt. Original common10526WHOLE79SELECTED and narrow61767six/59334oldGSC16 remain separate attributed report scopes. No new source reading from this composition.",
+    "preserved_history": "Original187 body intro/header/tail and whole original body/base64/map geometry; frozen source/Art/Rei/prior-target wrappers; original creation-stage pending labels, private C tuples, reviewed-author8 QA/ROOT tuples and old recovery proof bindings retain their actual dated scopes. Current public bindings are only explicit live aliases and new operative reconstruction; original literals do not become present latest-byte claims.",
+    "finite_modes": "O002 telescope damage is threatened; O038 Sensei refuses Eimi ice-bath invitation; O061 cheer request is imagined; O087 agreement/unpacking is not fulfilled week; O094 refusal concerns Teacher READING wanted novels; O096 supplied food precedes bargaining, contract exists with unprinted ratio and incomplete future collection; O098 Himari inward time-buying aim is not achieved duration; O103 Anna fear differs from Elina projection; O104 wage motive is not payroll.",
+    "peer_warrant": "Current complete peer manual676784/707c3810... already includes the exact corrected purpose23 reason. Its separate3978/6ae40005... qualification is pinned as an actual original witness; no meal shown is distinct from proof of nonconsumption. This is reporting of prior228 completed units, not new independent review of these public bytes.",
+    "source26_prior20": "EP01–EP20 remain prior producer analytical arguments under actual current normal Cycle008 bounds. Historical draft/veto/UNADMITTED labels and literal source person keys are not upgraded; no guessed public aliases are assigned to those private analytical objects.",
+    "identity": "Existing required home47/ordinal48/CSV49/F084/P3-CHAR-EIMI-RETRIEVAL-BOUNDED only. BA_PERSON_EIMI variants10001/20032 and BA_PERSON_CH0337 variant10136 remain distinct printed routes; G150 empty person join remains empty. No named duty, extra REL350, registry/person join or model.",
+    "future_gates_at_preparation": "Distinct current public12 metadata/raw QA; ROOT actual composed-byte receiving/adoption; guarded install/preflight; live policy/provider controls; normal publication/full readback and fresh exact-head runtime remain separate future operational gates at this2026-10-15 preparation stage. No event is fabricated or automatically completed by later use of this report.",
+    "fixed_scope": "355/29/25/384/788; all14 original gaps OPEN; models0; new package/named/source/identity/count/install/publication/runtime/merge credit0; merge RESERVED."
+  },
+  "current_body_metadata": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 36734,
+    "sha256": "374617ae4829e9cb1baa61018a8fb966aeedde5edb4865fb2d2461114bfc4367",
+    "git_blob_oid_of_actual_bytes": "4113086b2cdad1634a756882e60e7647a03dbb71",
+    "physical_lines": 193,
+    "literal_paragraphs": 69,
+    "title_physical_line": 31,
+    "first_literal_line": 37,
+    "last_literal_line": 193,
+    "original187_tuple": {
+      "bytes": 36006,
+      "sha256": "f8d8638f4e8e0ec9f9149a38b35555b0b9ba1b171097b303c15510df5a6ee9a9",
+      "git_blob_oid_of_actual_bytes": "6bcd44b934a4749d9d770e9fe8acd0e83250e960"
+    },
+    "added_header_lines": [
+      "artifact_id: BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH\n",
+      "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md\n",
+      "semantic_authority_id: ROOT_EIMI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1\n",
+      "component_review_report_id: EIMI_PRIOR_DISTINCT_COMPLETE_V4_COMPONENT_REVIEW_REPORT_20261015_V1\n",
+      "metadata_prepared: 2026-10-15\n",
+      "public_composition_role_at_preparation: METADATA_PREPARED_2026_10_15;ACTUAL_BYTE_ACCEPTANCE_INSTALLATION_AND_PUBLICATION_OWNED_BY_DATED_ROOT_OPERATIONAL_RECEIPTS\n"
+    ],
+    "actual_UTF8_byte_delta": 728,
+    "actual_physical_line_delta": 6,
+    "substantive_paragraph_delta_count": 0
+  },
+  "original_register_geometry_role": "Original187 tuple, complete original map rows and direct old literal judgments remain dated history. The opaque historical whole-body codec is omitted; original whole-byte recovery remains in frozen private custody. Current physical_line/current_UTF8_offset/current_body and the unchanged operative public line-layout reconstruction remain current public geometry. Source26 physical locators are unchanged.",
+  "raw_recovery_scope": "All8 private component originals plus corrected full peer676784 and actual ROOT14283 recover wholly from normalized payloads/sparse metadata inverses and original indent2/UTF8/LF codec. Original3978 qualification and20 source custody copies/14 original proofs remain full private NOOP copies.",
+  "current_public_byte_QA_ROOT_install_publication_runtime_at_preparation": "PENDING_SEPARATE_ACTUAL_RECEIPTS;NO_CURRENT_BYTE_OR_PUBLICATION_CREDIT_FROM_THIS_COMPOSITION",
+  "reported_published_baseline_at_preparation": {
+    "required_packages": 152,
+    "required_total": 355,
+    "named": 19,
+    "named_total": 29,
+    "role": "ROOT14283 stated baseline, not a live provider query and no Eimi increment."
+  },
+  "new_count_source_registry_model_or_merge_credit": 0,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "current_private_historical_body_codec_derivative_20261104_V1": {
+    "scope": "FIVE_PRIVATE_HISTORICAL_BODY_CODECS_ONLY_FINITE_PUBLIC_DERIVATIVE_20261104",
+    "stage": "C_ONLY_PROPOSED_CURRENT_BYTES_AWAITING_DIFFERENT_QA_AND_ACTUAL_ROOT_BYTE_ACCEPTANCE",
+    "removed_historical_body_field": "/whole_original_current_body_UTF8_base64",
+    "retained_historical_body_tuple": {
+      "bytes": 36006,
+      "sha256": "f8d8638f4e8e0ec9f9149a38b35555b0b9ba1b171097b303c15510df5a6ee9a9",
+      "git_blob_oid_of_actual_bytes": "6bcd44b934a4749d9d770e9fe8acd0e83250e960"
+    },
+    "current_body_codec_and_readable_layouts": "UNCHANGED_BYTE_FOR_BYTE;not this remedy's subject",
+    "private_byte_custody": "Original frozen C bodies and full raw inverses remain unchanged and private. Prior standalone recovery claims describe their dated original packages; this public derivative does not carry the removed historical body bytes.",
+    "preserved_intellectual_scope": "Every unique original/current literary literal, comparative/reviewer/Root judgment,53-case qualification obligation and source/recipient/mode boundary survives. Old finding/HOLD stages remain dated; no new source course or semantic acceptance.",
+    "authority": "Owner-approved finite class/representation commission only; earlier semantic/publicC decisions remain dated to their original bytes, not automatic new byte certificates.",
+    "prior_original_register_geometry_role_dated": "complete_original_body_source_question_map_row_NOT_rewritten and whole_original_current_body_UTF8_base64 remain literal original187 history. current_physical_line/current_UTF8_offset/current_body and explicitly added operative_public_body_reconstruction are current public geometry. Source26 physical locators remain unchanged."
+  },
+  "current_eligible_metadata_preparation_20261104_V1": {
+    "schema": "CURRENT_ELIGIBLE_METADATA_PROPOSAL_WITH_DATED_PUBLIC_FORM_AUTHORITY_V1",
+    "prepared": "2026-11-04",
+    "status_choice": "canonical",
+    "status_scope": "Existing evidence-supported provisional scope stays for Alice/Himari/Rei, canonical for the other earlier four. Only Arona/Yuzu/Plana draft/veto surfaces are promoted. Proposed C bytes are not current main authority merely by label.",
+    "current_stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+    "composer": "/root/current_preflight_requirements",
+    "role_disclosure": "Metadata derivative composer; prior Momoi/Sumire author/composition and finite class-review roles disclosed. Not independent QA, Root personal byte acceptance, owner exact-byte signature or new source reviewer.",
+    "commission": {
+      "id": "ROOT_TEN_ACCEPTED_PUBLIC_PACKAGE_CANONICAL_METADATA_DERIVATIVE_COMMISSION_V1",
+      "bytes": 9702,
+      "sha256": "a7e382a1fc2b6945c69e5b6eb6b4d4db41e3a65ae13d89dc1ab52a504e6bd32e",
+      "meaning": "Owner-authorized analytical goal plus Root finite composition commission; no owner personal exact-byte review, merge or final derivative acceptance."
+    },
+    "prior_public_form_actual_Root_authority": {
+      "receipt_id": "ROOT_ACTUAL_EIMI_FINAL193_EXACT12_PUBLIC_CURRENT_BYTE_AND_DOCUMENTARY_ADOPTION_WITH_LIMITS_NO_INSTALL_COUNT_20261015_V1",
+      "original_filename": "ROOT_ACTUAL_EIMI_FINAL193_EXACT12_PUBLIC_CURRENT_BYTE_AND_DOCUMENTARY_ADOPTION_WITH_LIMITS_NO_INSTALL_COUNT_20261015_V1.json",
+      "bytes": 71617,
+      "sha256": "ab2da38aa1353434937e9ec26aa19a07c5158ccb1b3b1362dd5916598adf2dc9",
+      "role": "ACTUAL_PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTANCE_WITH_LIMITS;DATED_TO_ITS_EXACT_FORM",
+      "original_reason_pointer": "/Root_own_current_reasons",
+      "complete_unique_Root_public_form_judgments": [
+        {
+          "topic": "private semantic inheritance",
+          "own_reason": "My actual complete525/69 private V4 receiving and independent corrected228-unit review remain the semantic basis. Exact public inverses preserve all8 private originals; the present byte review does not require or claim a new literary judgment of unchanged functions."
+        },
+        {
+          "topic": "truthful authority and current stage",
+          "own_reason": "New INPUT and ROOT frames distinguish current composer/reporter from original reviewer and actual private acceptance authority. Whole original corrected676784 and14283 receipts recover exactly, including original member order. Current public report IDs and tuples do not manufacture another reviewer, signature, install or publication."
+        },
+        {
+          "topic": "full current metadata reading",
+          "own_reason": "I personally received all133 unique NAV/CONTROL metadata units across six complete pages, the full current header prefix, complete composer closure and final handoff. The complete739 whole-value delivery operations and119 grouped pairs preserve actual declarations; opaque custody witnesses do not license target reads or imply that an inaccessible source is admitted."
+        },
+        {
+          "topic": "current geometry and functions",
+          "own_reason": "The body changes only its stated framing by669bytes and6lines. All69 literals and all525 accepted functions are directly unchanged in my saved verification. Current geometry and reconstruction describe193lines/36675bytes; original187/36006 body remains historical recovery, without changing acted versus imagined or reported versus performed meanings."
+        },
+        {
+          "topic": "finite reviewer role",
+          "own_reason": "The public-byte reviewer previously authored private Eimi105 and explicitly discloses that role. Their different-composer metadata/preservation review is accepted for this scope only; the independent private semantic reviewer remains publishing_shared7_review, whose complete corrected reasons I previously received."
+        },
+        {
+          "topic": "graph boundaries and preservation",
+          "own_reason": "My own5609-check full10 inverse/forward and902-check metadata/function/body proof remain pinned unchanged. The peer separately verifies315 original markers,14 original raw envelopes/carriers,20 custody copies and the3978 qualification, plus315 public selectors. Their441 total public typed matches consist of the original415 first10 scope and26 NAV/CONTROL matches; the scopes are compatible, not a changed first10 graph."
+        },
+        {
+          "topic": "source and ordinary scope",
+          "own_reason": "The existing F084 home, declared two raw-person routes, empty G150 join and pending REL350 remain bounded. Ordinary taste, company and useful work retain intrinsic positive content; no current report increases source extent, resolves identity, adopts a model or closes any of the14 original OPEN gaps."
+        },
+        {
+          "topic": "acceptance and later operations",
+          "own_reason": "The exact12 current files are accepted as composed publication candidates with stated limits after my whole metadata/peer receiving and fresh current tuple verification. Installation, shared entrypoint/count changes, provider publication and runtime have not occurred. Their dated pending statements remain historical preparation truth and receive this later actual acceptance receipt."
+        }
+      ]
+    },
+    "dated_changed_outer_technical_values": {
+      "BODY#/YAML/review_state": "review_state: PRIVATE_SEMANTIC_AND_COMPONENT_REVIEW_COMPLETED_WITH_LIMITS;CURRENT_BYTE_GATES_RECORDED_IN_DATED_CONTROL",
+      "EIMI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json#/current_body_metadata/actual_UTF8_byte_delta": 669
+    },
+    "dated_other_producer_or_zero_preparation_values": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_SOURCE26_OWN6WHOLE20SELECTED_ORIGINAL105_QUESTIONS_AND_GRADE_REGISTER_V1.json",
+        "pointer": "/new_source_admission_identity_named_REL350_count_runtime_publication_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_LITERAL69_SOURCE_QUESTION_NEW105_PURPOSE_AND_FINITE_LIMIT_REGISTER_V1.json",
+        "pointer": "/new_named_REL350_source_identity_count_adoption_publication_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_ALL105_CURRENT_FIVEFUNCTION_BODY_SOURCE_QUESTION_JOIN_INDEX_V1.json",
+        "pointer": "/status",
+        "exact_preparation_value": "AUTHOR_COMPLETE_VALUES_PENDING_ACTUAL_SAVED_VALUE_RECEIVING_DISTINCT_QA_ROOT_PACKAGE",
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_PUBLIC_COMPOSITION_DATED_SCOPE_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+        "pointer": "/new_count_source_registry_model_or_merge_credit",
+        "exact_preparation_value": 0,
+        "role": "DATED_PREPROMOTION_PRODUCER_STATE;NOT_LIVE_INSTALLED_COUNT_OR_OVERRIDE_OF_CURRENT_CONTROL"
+      }
+    ],
+    "current_body_authority": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "geometry_owner": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_LITERAL69_SOURCE_QUESTION_NEW105_PURPOSE_AND_FINITE_LIMIT_REGISTER_V1.json",
+      "geometry_pointer": "/current_eligible_body_geometry_20261104_V1",
+      "prior_safe_codec_layout_scope": "Exact PREPROMOTION witnesses are retained; their values do not reconstruct the revised header. Current measured tuple/geometry is operative."
+    },
+    "live_count_and_publication_authority": "This C proposal awards no installation/publication/count/runtime/source/model/named/REL/identity credit. Original 0/null/false/pending producer values are dated preparation, not live counters. Actual installed counts and published SHA belong to the required-package CSV and dated PR/operational receipts after normal Root-owned final-byte acceptance, reconciliation and gates.",
+    "dated_nested_history": "Every original author/QA/Root/source/readiness judgment, reviewed tuple, hold and source grade keeps its dated actual scope. Older operational interpretations are history, not new current gates. No unreferenced blanket GitHub Apps-installation check is imposed for an ordinary author push.",
+    "literary_source_scope": "All post-YAML body bytes, comparative five-field meanings, full unique judgments/qualifications, actors/recipients and source intervals/grades stay exact. Ordinary play, comfort, wanted company and small ends remain intrinsic. No new source/common105/identity/named/REL/institution/model or gap credit.",
+    "private_public_scope": "No local private paths, helper/raw-beforeimage transport or removed opaque old body codec is added. Frozen producers/private full inverses remain unchanged. This is directly interpretable authority/provenance, not a private recovery bundle.",
+    "remaining": "Different bounded metadata QA and actual Root final promotion/byte adoption precede Root-only installation/shared writes/gates/publication. No future SHA/check/push/main integration/count is predeclared.",
+    "current84_class_base_actual_Root_authority": {
+      "id": "ROOT_ACTUAL_CURRENT84_FIVE_PRIVATE_CODEC_ONLY_DERIVATIVE_COMPLETE_NEW_MEANING_DISTINCT_QA_OWN4414_FULL_BYTE_AST_ADOPTION_WITH_LIMITS_20261104_V1",
+      "bytes": 8236,
+      "sha256": "41f4d77dd2a3d70190737d2de5a976f4b682a81c397cf2003793df3b8ee2837a",
+      "decision": "ADOPT_EXACT_CLASS_SAFE_CURRENT84_SELECTION29_NEW55_UNCHANGED_WITH_LIMITS;CANONICAL_METADATA_PROMOTION_STILL_SEPARATE",
+      "scope": "Exact29new+55unchanged current84 accepted after different class QA; frozen pending tags are dated, and this later metadata derivative is not yet adopted."
+    },
+    "dated_explicit_preparation_tuple_scopes": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_EIMI_RETRIEVAL_BOUNDED_RECEIVING_20261015_V1/EIMI_CURRENT_EXACT8_ORIGINAL14_RAW_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+        "pointer": "/current_two_original_report_mode_precisions_O002_O061",
+        "role": "DATED_COMPLETE_ORIGINAL_FINITE_REPAIR_DOCUMENTARY_RECORD;REVIEWED_PRIVATE_PART_TUPLES_NOT_CURRENT_PUBLIC_BYTE_EDGES",
+        "meaning": "Keep the whole original before/after counter cases, source grades and finite review scope. Operative current part tuples are separately bound by this Control's current first11 list."
+      }
+    ]
+  }
+}

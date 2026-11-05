@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Saitama character state through V37
+scope: Saitama character state through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Saitama Character State Ledger
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 
 ## Baseline boundary: V01
@@ -921,3 +925,24 @@ Propagated after the frozen [V37 reading](../../02%20Sequential%20Readings/OPM_V
 | King receives expert credit for no feat | remains nearby and actually performs rescue while public/institutional recognition stays narrow | inverse recognition is structural, not proof that every observer always misreads him | `192,194 / 0124–0139,0168–0200` |
 
 **Strong retained.** V37 sharpens Saitama as an unusable comparative metric and a poor feedback giver even when he is cooperative. Status-insensitivity and motive self-correction strengthen, while failed communication remains evidence rather than being rationalized away.
+
+## Current-release overlay through web 287
+
+Authority: `web_active_provisional` / PR. This section makes the already completed web 235-284 reading usable in the current model. Web 285-287 adds no present Saitama action; its title illustrations are paratext. The V37 model above remains the collected freeze. Source route: [release lock](../../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md), [prior synthesis](../../07%20Current%20Release/OPM_CURRENT_RELEASE_SYNTHESIS.md).
+
+| Context / trigger | Observed behavior | Conditional model / state classification | Evidence / available from |
+|---|---|---|---|
+| Flash imposes a disciple and measurement frame | declines the imposed hierarchy instead of accepting the prestige it offers | relationship-specific autonomy; refuses a role without needing a rival status system | PR-CR-003; web238/pages 7-32; available from web238 |
+| Empty Void confrontation | interrupts the encounter through an action whose scale the surrounding account cannot contain | exceptional capability, not complete dimensional expertise or knowledge of God | PR-CR-004; web248/pages 4-20; available from web248 |
+| Amai's exposure | recognizes the struggle and heroic conduct he witnessed despite the altered body | STRENGTHEN conduct-first appraisal; local recognition does not erase Amai's previous violence | PR-CR-008; web262/pages 8-21; web263/pages 2-15; available from web263 |
+| Machine God Mirror | supplies a decisive intervention against the machine built from readable hero signatures | STRENGTHEN failure of exhaustive measurement; no proof that Saitama understands the machine's origin | PR-CR-012; web277/pages 9-17; web278/pages 2-8; available from web278 |
+
+### Current reconstruction — recognition without possession
+
+**STRENGTHEN the established conditional policy:** when a category or proposed role conflicts with conduct he can actually witness, Saitama can decline the frame and respond to the person or immediate problem. Flash's disciple hierarchy fails to bind him; Amai's attempt to assign him an ideal heroic succession does not determine his response to Amai's later exposure. The second case is especially diagnostic: the monster body is visible, so recognition cannot be explained simply as ignorance of that body. Saitama recognizes a protective struggle without making the appearance a complete verdict (PR-CR-003,008; web238/pages 7-32, web255/pages 2-17, web262/pages 8-21, web263/pages 2-15; available incrementally through web263).
+
+This strengthens the collected pattern of selective, context-sensitive judgment rather than revealing that he was always omniscient or indifferent to categories. His Garou and Manako encounters and V36's nonpossessive concern supply antecedents in the histories above. In the Amai case, the proper unit of judgment is the witnessed act: earlier violence and coercion remain part of Amai's biography. Recognition can open a possible next step without a promise that Amai is now safe, innocent or permanently changed. Amai's current profile belongs in the [hero ledger](OPM_HERO_CHARACTER_STATE_LEDGER.md#current-release-overlay-through-web-287).
+
+**QUALIFY social efficacy:** the web material does not repair V37's failed appraisal of Genos or turn Saitama into a general teacher. His local judgment can matter to its recipient while remaining unavailable to wider publics. Webigaza's later resentment and reported pursuit of Amai show continuing hostile interpretations, not a completed social consequence of Saitama's recognition. Her report does not give Saitama knowledge of Neo's maintenance system or the investigators' plans (PR-CR-021,024-026; web286/pages 5-8, web287/pages 2-7; counterpressure available through web287).
+
+**Current model:** strong retained. Hero Association membership persists; independence from Neo's command and imposed frames is not institutional non-affiliation. Empty Void and Mirror strengthen the inadequacy of particular measurement systems, not a universal uncopyable ontology or technical knowledge of their origins (PR-CR-004,012; web248/pages 4-20, web277/pages 9-17, web278/pages 2-8; available through web278). No new Japanese voice rule, emotional transition or present action is manufactured from absence in web285-287.

@@ -1,0 +1,369 @@
+{
+  "schema": "KONOSUBA_CHRIS_ERIS_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "created_utc": "2026-10-19T23:56:06.610187+00:00",
+  "analytical_baseline": "ca5c7a4f427ab7e9ff8284fc1b37286f0951517c",
+  "current_MAIN12_receipt": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_MAIN12_CHRIS_ERIS_FINAL_NATIVE_RECHECK_01",
+    "source": "MAIN-12",
+    "native_filename": "Konosuba - Main Series - Volume 12.epub",
+    "native_bytes": 1570295,
+    "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+    "member": "text/part0015.html",
+    "member_bytes": 72440,
+    "member_sha256": "1d8af593820e85dc0b6db453efa5e29d8ea89b039667ecfa4db7a733007569de",
+    "member_paragraphs": 438,
+    "actual_untruncated_BASE_TEXT_ranges": [
+      [
+        1,
+        140
+      ],
+      [
+        141,
+        280
+      ],
+      [
+        281,
+        438
+      ]
+    ],
+    "whole_unit_BASE_TEXT_received": true,
+    "actual_member_scope_P": 438,
+    "new_wholebook_principal_pass_excluded_admission_ruby_images_or_independent_test_credit": 0,
+    "findings": [
+      "P6–24 direct excited lodging request; P10 donation/drinking history is her statement, not an audited all-income rule. P13 appeals to shared company, D16 offers payment, Chris17 accepts, D19 asks future/residence, Chris20 gives only multiple places; D22 rank-help willingness prompts Chris23's actual blame of Kazuma. No known homeless state or absent future preference inferred.",
+      "P32 identifies target ゼーレシルト; P97/159/249 supplies 伯爵/title and exact location continuity. Keep distinct from current MAIN11ビフランツ lead unless later native join proves otherwise. P35 self-described arrival reason is casual; P37–40 prayer link is Kazuma inference, not confessed motive. P42–44 explicit concealed demon identity/anticipated hostility, not Chris's informed assent to that target.",
+      "P46 rare-party excitement is Kazuma appraisal; actual looking/ordinary gossip and questions P48–90 are shown. She interrogates both before reciprocal questioning94–95. Strong curiosity and particular friend interest need not be omniscient accurate romance knowledge or a fixed coquettish voice.",
+      "P105–140 shared professional posture, actual tool possession117–120, actual rope-strength limit131, initial rejection of D's offered fit strength136–137 then actual assistance141. Skill/tools do not guarantee strength or every domain.",
+      "P152–155 stops Kazuma's senior-title reward while acknowledges her parallel behavior. P157–162 accepts generic top-floor inference before local correction; P169–182 lock premise fails on lifting door, responds with luck claim. P190 explicitly asks whether they hinder, genuine partial self-monitoring alongside continued face protection.",
+      "P194–200 actual joint enemy sensing/stealth. P202 questions killing endangered male orcs; P206 adopts K's inferred female-fear model and prepares intended binding; P209 immediate capture precedes any separately shown cast. P214 K/D rescue, P217 actual tears; P219 K's private sex-category inference not orcs' verified thought. P220 D interrupts; P225 K credits risky contribution. Keep non-graphic.",
+      "P230/255 notices evidence inconsistent with ordinary noble story; K232 withholds reason, D257–259 repeats goal and warning without disclosure. P241–249 both use D's genuine guilt to divert criticism; emotional uptake243–244 is followed by her relevance objection246. Not pure care or a uniformly deceptive incapacity.",
+      "P275 actual cuteness-linked refusal; P277–280 ingredient explanation changes information state. P281 requests Bind, but actual sudden dagger thrust287 precedes correction292. K296 restrains her; Chris300 explicitly revises order to nails then killing, not abandoning lethal aim. P304 corrects girl identity and307 holy prayer/anti-demon purpose; the latter is source-explicit weapon claim.",
+      "P314/318–319 K, not Chris, casts actual strong Bind with D317's authorization. Chris334 cuts wing; actual344 nail found. P347–350 attempted wire cut fails against actual mithril-alloy fact. Near-tears351/356 differ from actual earlier crying217. P357 proposed more stabbing is rejected358 because more apertures; she actually leaves361–362 promising return. No performed second stabbing or unbounded rescue power.",
+      "P364–368 Aqua-water use is actual and D365 states finite endurance; D387 later unconscious. P389 Eris arrival/attack and393 struggle are a compressed retrospective account; P394 reduced lives is Eris's report and destruction explicitly absent. P395 explicitly same actor returns to Chris and helps bring D to wagon. Full mechanical liberation is not separately displayed.",
+      "P377–385 Chris leaves before Aqua encounter, gives concrete no-overstrain request382, actual head touch383 and wishes future disclosure384. Kazuma380's belief Aqua would miss it is his inference. D's later knowledge is separately established in epilogue, not inserted here.",
+      "P415 Vanir physically carries/amuses child while Wiz appears fading and M exhausted. P419 sustained-healing account and Vanir422 residual-disease/need statement defeat needless-trip inference. Actual recipe disagreement428–432 supplies no shown isolated winning formula; no cure, destroyed potion or sole-expert triumph invented."
+    ],
+    "independent_observation_denominator": null,
+    "canonical_mutation": false,
+    "recorded_utc": "2026-10-19T23:37:38.713884+00:00"
+  },
+  "current_MAIN17_receipt": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_MAIN17_ERIS_FOCALIZATION_AND_INTERVENTION_NATIVE_RECHECK_01",
+    "source": "MAIN-17",
+    "native_filename": "Konosuba - Main Series - Volume 17.epub",
+    "native_bytes": 2197695,
+    "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+    "members": [
+      {
+        "member": "text/part0013.html",
+        "member_sha256": "9df7d8a8ed2c8f0f42e28d261b11045e6ac593e8d5ec3fc56ab3a62e282071fd",
+        "paragraphs": 93,
+        "actual_BASE_TEXT_ranges": [
+          [
+            1,
+            93
+          ]
+        ],
+        "whole_unit_BASE_TEXT_received": true
+      },
+      {
+        "member": "text/part0011.html",
+        "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+        "paragraphs": 560,
+        "actual_BASE_TEXT_ranges": [
+          [
+            200,
+            300
+          ],
+          [
+            301,
+            402
+          ]
+        ],
+        "whole_unit_BASE_TEXT_received": false,
+        "holes": [
+          [
+            1,
+            199
+          ],
+          [
+            403,
+            560
+          ]
+        ]
+      }
+    ],
+    "actual_member_scope_P": 296,
+    "new_wholebook_principal_pass_excluded_admission_ruby_images_or_independent_test_credit": 0,
+    "findings": [
+      "Ep is Eris's own first-person focalization, not Kazuma's hidden thoughts. Ep9/24 initially assumes death; Ep47–60 living Teleport corrects her. Ep23 expressly says she has not watched the lower world much lately. Divine title does not imply continuously current knowledge.",
+      "Ep21 invites familiar name/speech;23 says this form tends to elicit the formal register. C3P397–400 explicitly shifts to Chris's ordinary voice without a newly shown physical transformation. Register, bodily role and power cannot be collapsed into one deterministic switch.",
+      "Ep28–29 initially sympathizes under incomplete account; actual K40 fame→harem boast disclosure precedes her private43–44 retraction. Her judgment updates and can be disapproving. Sympathy is not an invariant response to his hero status.",
+      "Ep32 privately withholds known castle bombing from K; Ep34–35 interpretation of D's attachment is her appraisal, not direct access to D's mind. A focalizer's private intent is direct for her, her beliefs about others retain ordinary epistemic limits.",
+      "Ep45 gives bounded rest until expected call under her mistaken death premise. Ep54 registration disclosure and58 repeated-refuge request precede explicit59 repeated refusal and63 chosen later visit instead. No total withdrawal of friendship or blanket consent from technical access. Exact old CE01 cumulative-service overload conjunct is still not proved.",
+      "Ep61 values office dignity; Ep67–74 recognizes his achievement and enjoys likely familiar company. Ep76 asks him not to overdo retaliation while letting him leave. Her final79–90 intended blessing is actually cast with stated hope for his reward/world attachment, not a later demonstrated result or cure of every problem.",
+      "C3P209/216/221 actual Powered/Protection/Resist and271 Haste; K218 experiences additional effects, while Eris221/265 states readiness for resurrection. Grave ground facts230/234/302 arrive through her report, not K's direct witnessing.",
+      "C3P243 expressly says she voluntarily breaks regulation for the first time on her own initiative and244 shows excited appraisal; a self-described history/regulation is not an external legal audit. Her chosen intervention and resistance to his retirement preference are active agency, not passive public-request compliance.",
+      "C3P246 poison-immunity statement and probable instant-death limit qualify different certainty; P316–324 supplies Aq-capacity advice but explicitly excludes weakening the King's ally-strengthening power. Ability limits and provider identity remain distinct.",
+      "C3P326/334 K proposes police relocation/abandonment; E327/335 rejects with specified failure modes. P338 is her own duel request. K341/351 proposes alternatives, E343/346/353 gives predictions and role/terrain judgments, not a completed comparative experiment. E355 explicitly likes the weak adventurer's impressive victory form; manga preference357 is K's inference, not her reported hobby.",
+      "C3P360Aqcall→K364 commitment precedes E384Iris/capital report. K392–393 guesses disclosure motive; that motive is not independently stated. Reported Iris participation and expected world's weakening389 are not a fresh witnessed child choice or source-independent trial.",
+      "C3P366/367 familiar friend teasing, actual369 counter-joke and explicit372 retraction do not establish a marriage agreement. P397–402 returns to ordinary assistant address and actual Blessing, with special confidence stated as her own domain claim; no universal supremacy."
+    ],
+    "independent_observation_denominator": null,
+    "canonical_mutation": false,
+    "recorded_utc": "2026-10-19T23:41:14.041452+00:00"
+  },
+  "inherited_native_receipt_scopes": [
+    {
+      "receipt_basename": "SECONDARY_ACCEPTED_CONTEXP01_IDENTITY_AND_KAREN_NATIVE_RECHECK_01.json",
+      "receipt_bytes": 3186,
+      "receipt_sha256": "30b6b658e16563a65313f34acff3fb3a8086f082cf3f278ff62379dbc6937f5b",
+      "source": "CONTEXP-01",
+      "component": "CONTEXP-01-U021",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "90ae71a4de71b2602aeca99fbaf6a6a458ef0b559a2e91b5cfb77a8bdf008b50",
+      "actual_inherited_BASE_TEXT_ranges": [
+        [
+          1,
+          80
+        ],
+        [
+          119,
+          203
+        ],
+        [
+          329,
+          375
+        ],
+        [
+          444,
+          510
+        ]
+      ],
+      "member_scope_P": 279,
+      "whole_BASE_TEXT_unit": false,
+      "credit": "Earlier actually received windows reused; no second whole-source or independent-test credit. Other paragraphs unclaimed."
+    },
+    {
+      "receipt_basename": "SECONDARY_ACCEPTED_CONTEXP01_CHRIS_CECILY_NATIVE_RECHECK_01.json",
+      "receipt_bytes": 1745,
+      "receipt_sha256": "016d17902b172270815f9d7bcf0754f1c918cb2efffb70015a400403b4840aef",
+      "source": "CONTEXP-01",
+      "component": "CONTEXP-01-U026",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "51aa5ca108f64349765865a5b712c9d68dd43b297935af12c433efb4398c0d63",
+      "actual_inherited_BASE_TEXT_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "member_scope_P": 50,
+      "whole_BASE_TEXT_unit": true,
+      "credit": "Earlier actually received windows reused; no second whole-source or independent-test credit. Other paragraphs unclaimed."
+    }
+  ],
+  "native_scope_accounting": {
+    "current_MAIN12_BASE_TEXT_P": 438,
+    "current_MAIN17_BASE_TEXT_P": 296,
+    "inherited_CONTEXP01_BASE_TEXT_P": 329,
+    "five_member_scope_sum": 1063,
+    "complete_BASE_TEXT_members": 3,
+    "independent_observation_denominator": null,
+    "new_wholebook_ruby_image_excluded_admission_or_independent_validation_credit": 0
+  },
+  "latest_complete_derivative_receipts": [
+    {
+      "receipt": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_44.json",
+      "receipt_sha256": "6101c76d713cfd94bc5db35c361346cdf0c55e8ead336a30cf48d4a8c3bf268c",
+      "source": "MAIN10",
+      "canonical_report": "series/konosuba/02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md",
+      "report_bytes": 200750,
+      "report_sha256": "63c4e06f6d26a4205ca451749b8a5e58414f4c85a585722ae75c7ab684c25be7",
+      "lines": 1075,
+      "actual_complete_line_ranges": [
+        [
+          1,
+          110
+        ],
+        [
+          111,
+          220
+        ],
+        [
+          221,
+          340
+        ],
+        [
+          341,
+          480
+        ],
+        [
+          481,
+          600
+        ],
+        [
+          601,
+          659
+        ],
+        [
+          660,
+          704
+        ],
+        [
+          705,
+          834
+        ],
+        [
+          835,
+          1075
+        ]
+      ],
+      "plane": "Complete accepted analytical derivative, not a fresh native source or independent test."
+    },
+    {
+      "receipt": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_45.json",
+      "receipt_sha256": "f161893d4b78af8db50a32b975747b462a3daeab44fae303f962b05bb1e895fb",
+      "source": "MAIN11",
+      "canonical_report": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "report_bytes": 120003,
+      "report_sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0",
+      "lines": 510,
+      "actual_complete_line_ranges": [
+        [
+          1,
+          109
+        ],
+        [
+          110,
+          215
+        ],
+        [
+          216,
+          344
+        ],
+        [
+          345,
+          473
+        ],
+        [
+          474,
+          510
+        ]
+      ],
+      "plane": "Complete accepted analytical derivative, not a fresh native source or independent test."
+    },
+    {
+      "receipt": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_46.json",
+      "receipt_sha256": "fdc49db00768ab87c683a41ae087e260ee7929b485a91a1aacd65a6ec30d6f62",
+      "source": "MAIN12",
+      "canonical_report": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+      "report_bytes": 187867,
+      "report_sha256": "4f0e498d60284953a2e8d9b8d42e9304a1d4fa4166b6f2d5be3bdd240fc89377",
+      "lines": 740,
+      "actual_complete_line_ranges": [
+        [
+          1,
+          118
+        ],
+        [
+          119,
+          222
+        ],
+        [
+          223,
+          319
+        ],
+        [
+          320,
+          429
+        ],
+        [
+          430,
+          496
+        ],
+        [
+          497,
+          598
+        ],
+        [
+          599,
+          731
+        ],
+        [
+          732,
+          740
+        ]
+      ],
+      "plane": "Complete accepted analytical derivative, not a fresh native source or independent test."
+    },
+    {
+      "receipt": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_47.json",
+      "receipt_sha256": "50c7490b7d44f2116276c109d42ab69a416bf20ade3f1199f3c6ccf45134ac0e",
+      "source": "CHECKPOINT_V10_V12",
+      "canonical_report": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "report_bytes": 143090,
+      "report_sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82",
+      "lines": 1092,
+      "actual_complete_line_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          131,
+          380
+        ],
+        [
+          381,
+          599
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          741,
+          891
+        ],
+        [
+          892,
+          1040
+        ],
+        [
+          1041,
+          1092
+        ]
+      ],
+      "plane": "Complete accepted analytical derivative, not a fresh native source or independent test."
+    },
+    {
+      "receipt": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_48.json",
+      "receipt_sha256": "93be57558659766dd2c84ed79150bc1afada134fa64d1c02c3f1c625c333dc39",
+      "source": "MAIN17",
+      "canonical_report": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+      "report_bytes": 66777,
+      "report_sha256": "cc5df8a45547c7058bc6152bfdfd8822747146be0cb848f3d425a3c5411be1c6",
+      "lines": 299,
+      "actual_complete_line_ranges": [
+        [
+          1,
+          115
+        ],
+        [
+          116,
+          219
+        ],
+        [
+          220,
+          299
+        ]
+      ],
+      "plane": "Complete accepted analytical derivative, not a fresh native source or independent test."
+    }
+  ],
+  "other_accepted_context": "Previously actually received MAIN01–09 and supplemental reports/windows retain exact earlier reception; not reclassified as fresh native in this cohort. MAIN01–12 plus MAIN17 and first4 checkpoints are now complete at current derivative scope; MAIN13–16, remaining checkpoints and full ledger-body consolidation remain open.",
+  "knowledge_and_scope": "One continuing actor does not erase bodily/power roles, participant knowledge, source plane or event duplication. Original main-only/secondary histories remain exact. No public raw novel paragraph arrays, ruby or images."
+}

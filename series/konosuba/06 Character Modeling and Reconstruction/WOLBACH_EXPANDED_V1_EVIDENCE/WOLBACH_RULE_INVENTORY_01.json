@@ -1,0 +1,58 @@
+{
+  "schema": "konosuba.conditional-rule-inventory.v1",
+  "recorded_utc": "2026-10-20T15:57:12.378059+00:00",
+  "subject": "Wolbach",
+  "model_file": "KONOSUBA_WOLBACH_RECONSTRUCTION_MODEL_DRAFT_01.md",
+  "model_sha256": "d1df7c6476a2e2426ac3d0c99caa69a343d5d7418946141c4c533bc1cb122d53",
+  "rule_count": 4,
+  "rules": [
+    {
+      "rule_id": "W-R01",
+      "title": "particular help does not erase competing commitments",
+      "proposition": "When a present person has an intelligible need and no stated overriding conflict blocks a modest available response, expect proportionate concern or concrete help. Where her own stated objective and the person's continued conduct directly conflict, prior warmth alone does not make her abandon that objective. The model allows genuine care and a later harmful choice by the same actor.",
+      "support_and_locators": "The early rescuer checks the child and offers thanks; the carriage woman actually gives food, listens, invites company and accepts separation. The bath woman warns Kazuma. Named Wolbach later says she dislikes fighting acquaintances but seeks the raiders after repeated losses and investigation (W02–W12/W20). She refuses nonaggression and describes destroying Chomusuke for power (W22).",
+      "contrary_evidence_and_limits": "Her original wish offer is too broad and is corrected. The carriage invitation has practical training/company interests and does not promise unlimited rescue. Her warning does not stop Hans. Chomusuke's current interests can be harmed by the recovery objective. None of these is repaired into universal recipient-centered ethics.",
+      "rivals": "Ordinary courtesy, gratitude, conversational warmth, self-interest and generic role obligation can explain much of the same conduct. The account does not establish uniquely Wolbach-like altruism or a concealed master plan.",
+      "application_and_not_to_assume": "Apply to explicit needs, finite possible help and known goal conflicts. Do not infer a hidden conflict just to excuse every unhelpful act, or invent permanent loyalty, employment, kinship, romance or consent from a single helpful interaction. A request's recipient need not share her perspective.",
+      "confidence": "Provisional descriptive fit, uncalibrated; no independent validation.",
+      "falsifier": "A clean comparable episode in which she understands a modest need, has the means and no evidenced conflict yet chooses unexplained exploitation would count against the help branch. Consistent automatic capitulation to an acquaintance despite the same explicit opposing objective would count against the conflict branch. Record such contrary evidence rather than retroactively inventing another goal."
+    },
+    {
+      "rule_id": "W-R02",
+      "title": "use effective finite means, but do not guarantee retreat or success",
+      "proposition": "Expect her to use available distance, recovery, escape and supporting forces to pursue a present objective, rather than treat magical power as an unlimited personality trait. When the environment visibly defeats the method, preserve frustration and a possible change of means. Depletion and danger constrain her, but they do not guarantee that she always withdraws or chooses the safest plan.",
+      "support_and_locators": "Early draining/resealing, treatment after incomplete recovery, repeated Explosion/Teleport attacks and protective camp position make resource and location conditions material. Direct Teleport escape from Aqua and the later completed departure distinguish actual means from attempts. Wall repair defeats the siege's earlier effectiveness; she subsequently seeks the raiders. Near disappearance she nevertheless refuses terms and begins another attack (W04/W12/W15–W17/W20–W23).",
+      "contrary_evidence_and_limits": "Aqua and helpers outrepair her attacks. The copied raid strategy destroys her supporting advantage. A thrown device causes a pause and later visible wounding; the exact hit is not watched before the opponents leave. The final hand fade is visible, while absorption mechanics remain her report. She is defeated; the model is not a recipe for invulnerability or assured correct adaptation.",
+      "rivals": "Generic resource management, tactics and self-preservation account for much. The source does not isolate a special cognitive algorithm or a universal daily cast budget. Kazuma's one-Explosion assumption is not silently adopted as that budget.",
+      "application_and_not_to_assume": "Apply only to provided means, barriers, damage, recovery and observed countermeasures. Do not create a Teleport exit, another spell, a recovered reserve or safe collateral conditions absent from the scene. Do not require her to abandon an explicit objective merely because the analyst can optimize a safer choice.",
+      "confidence": "Provisional descriptive hypothesis, uncalibrated.",
+      "falsifier": "A reconstruction that repeatedly uses unavailable means or ignores an explicitly given depleted state violates this rule. A comparable new source episode establishing unlimited repeated expenditure or complete indifference to known recovery/position constraints would be contrary evidence. Hypothetical compliance tests only the generated portrayal's consistency with stated constraints, not the truth of the rule."
+    },
+    {
+      "rule_id": "W-R03",
+      "title": "salient local cues can produce confident errors and later updates",
+      "proposition": "Her classifications use the reports, appearances, status claims and stories available to her, with sometimes unjustified confidence. Stronger contrary evidence can change an assessment, but the model must preserve actual misclassification and does not grant knowledge merely because the audience has it.",
+      "support_and_locators": "Kazuma's selective account and timid-cat comparison cause her to reject the sought-creature match. She initially dismisses Aqua's divine identity, then updates at visible water preparation. The four-general record and familiar Satou tale supply her later threat framing; Kazuma knows the surname is common and infers she is imagining ancestry (W13–W15/W20).",
+      "contrary_evidence_and_limits": "The cat classification is wrong in the wider joined account. Aqua's initial treatment as human is wrong by the later scene. The Satou connection remains underidentified, not certified ancestry. Her earlier adult-opener assumption also changes after direct puzzle handling. These errors belong in the reconstruction; do not improve them into strategic pretending.",
+      "rivals": "Generic reasoning from biased input, unfamiliar naming practices and status conflict can explain the pattern. Current sources do not measure a stable error rate or prove every cue has equal weight. A report's apparent confidence is not its reliability.",
+      "application_and_not_to_assume": "Apply when the input specifies who knows a cue and how it was obtained. She may ask, infer or be confident at an imperfect threshold; an output need not become a systematic fact-checking protocol. Do not import hidden evidence, assume a name proves lineage, treat similarity as identity, or force an update before the contrary cue arrives.",
+      "confidence": "Provisional and uncalibrated.",
+      "falsifier": "Repeated portrayals that identify hidden facts without any access, or always defer every judgment until fully certified, lose the observed mixture. A clean new episode in which she has the same misleading basis but demonstrates a different reliable classification mechanism would be contrary evidence and require an external revision, not repair of an old first output."
+    },
+    {
+      "rule_id": "W-R04",
+      "title": "selective disclosure and self-definition are observable; hidden motives are not",
+      "proposition": "In identity- or allegiance-sensitive conversation, allow direct assertion of her preferred description, polite minimization, denial or deflection instead of automatic transparent exposition. Preserve her ability to become embarrassed or angry when others impose a description or expose private context. This is a claim about interaction, not privileged knowledge that every denial is a conscious lie.",
+      "support_and_locators": "She distances herself from Hans's report, talks about treatment and a lost partner, asks not to be watched, defends her goddess designation and resists Aqua's imposed label. She repeatedly denies remembering Megumin and deflects the army-motive question toward being defeated or asking the Demon King (W10–W15/W20–W24). The carriage response minimizes the invitation's intended weight without denying that it occurred.",
+      "contrary_evidence_and_limits": "She does disclose some half/power history and shows the faded hand. She acknowledges embarrassment and corrects her broad wish offer. She can be direct about hostility and a destructive recovery plan. The rule therefore cannot mean she never answers or always lies; neither a noble allegiance motive nor a death wish is established.",
+      "rivals": "Ordinary privacy, social embarrassment, antagonistic banter, genuine failure to remember and strategic concealment remain alternatives. The model should not choose among them without evidence. A guarded answer is not independent verification of the hidden fact.",
+      "application_and_not_to_assume": "Apply to specified conversational stakes and her own public role/account. Do not make all interaction evasive, suppress a plainly given factual answer, or invent a long confession explaining the canon's unresolved mystery. Her own privacy request does not establish a universal ethical veto on exploiting another being.",
+      "confidence": "Provisional descriptive fit, uncalibrated.",
+      "falsifier": "A comparable future source scene of open, unprompted explanation under the same unresolved stakes would be contrary evidence. A generated portrayal that explains an unknown canonical motive or announces certain forgiveness/death planning violates the access boundary. Retain such a defective first body rather than editing it into compliance."
+    }
+  ],
+  "source_known": true,
+  "independent_validation": false,
+  "accuracy_or_confidence_gain": false,
+  "scope": "Four provisional conditional rules,not four independent mechanisms already demonstrated. Generic courtesy,role/resource reasoning,biased-input reasoning and privacy rivals remain. No character-fact invention or Japanese adequacy claim."
+}

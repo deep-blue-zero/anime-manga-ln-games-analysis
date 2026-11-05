@@ -1,0 +1,22 @@
+EXACT INPUT AMR-A2
+{
+  "language": "English",
+  "output_instruction": "Write 90-150 words of immediate scene prose and Amaryllis dialogue in English. Remain inside this moment. Do not explain model rules, supply the other participants' next reply, or narrate later assistance, recovery, return or a completed emotional effect as newly achieved.",
+  "available_author_knowledge": "Same informed root; full source/foundation and both complete pairs are known before firsts. No blind, pristine holdout, independent generator or isolated causal-validation claim.",
+  "foundation_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "independent_observation_count": null,
+  "genre_register": "Canonical-comic hypothetical; nonsexual staged fright, restrained physical amplification.",
+  "relationship": "Amaryllis encounters two unnamed adult travelers, both strangers to her, in an invented dungeon corridor. This is not a newly discovered canonical scene.",
+  "stake_level": "Fright and social pressure; no attack, restraint, injury, sexual content or verified childhood biography.",
+  "scenario_facts": [
+    "The two adult travelers hold one lantern between them. They have stopped near an open corridor junction with space to move away. Only these travelers and Amaryllis are present; Vanir is absent and no familiar intermediary is audible.",
+    "Amaryllis has said she is lonely and asked for company. Her head and part of her spider body are visible from a side doorway; the rest is obscured by the doorway. The interlocutor has answered her question about being frightened with exactly the controlled prior line below.",
+    "The speaking traveler now looks frightened; the other stands beside the lantern. No next movement, emotional response or reply from them is supplied. Amaryllis can speak or move within the open corridor. No spell, new prop, candy, actual injury, real experimenter, cure or pet location is available."
+  ],
+  "controlled_fact_name": "prior_reassurance_wording",
+  "stimulus": "The same traveler now says: Please stay there. I need a moment.",
+  "input_id": "AMR-A2",
+  "pair_id": "AMR-A",
+  "rule_id": "AMR-R01",
+  "controlled_fact": "The traveler earlier said exactly: I may be frightened by the way you look."
+}

@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.character-original-first-outputs.v1",
+  "recorded_utc": "2026-10-24T18:55:55.691027+00:00",
+  "generation": "HELMETED_NOBLE_EXPANDED_V1",
+  "exact_input_freeze": {
+    "file": "COHORT39_EXACT_INPUT_FREEZE_01.json",
+    "bytes": 3207,
+    "sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300"
+  },
+  "model_foundation_freeze": {
+    "file": "COHORT39_MODEL_FOUNDATION_FREEZE_01.json",
+    "bytes": 22357,
+    "sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65"
+  },
+  "input_pin": {
+    "file": "HELMETED_NOBLE_SCENARIO_INPUTS_01.json",
+    "bytes": 13816,
+    "sha256": "c485d2382aa7fe8c054b581fce5b0867432d3841b359cdbaf432a34e323f95e3"
+  },
+  "outputs": [
+    {
+      "case_id": "HNO-A1",
+      "pair_id": "HNO-A",
+      "collection_order": 9,
+      "prompt_sha256": "c5a8e4802d1c8967e116a1a5c4136029296da3d0203a6949e28bfc8dcc9f12c7",
+      "original_body": "The noble lowered his helmeted face toward the custody note without touching the scarf. One afternoon. The note made an ordinary piece of wool rather difficult to look away from.\n\n“The scarf, please,” he said. He set down the price before his gaze could drift back to the riding manual.\n\n“As it is. There's no need to freshen it for me.”\n\nOnly after paying did he lift the scarf from the stall. He held it carefully, with an attention its plain workmanship had done very little to earn.\n\nThe manual remained where it was. He took one last look at it, then gathered his purchase closer and turned away from the stall.\n",
+      "original_body_pin": {
+        "file": "firsts01/HNO-A1.txt",
+        "bytes": 625,
+        "sha256": "2feb4ff07d19d6fe5505cc323bbd7d275877caff3b53093db52720a524c0b176"
+      },
+      "original_first_receipt": {
+        "file": "HNO-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2008,
+        "sha256": "4583f8067c441cf96cd1e58c4d5888d3ee6cf8b7f18eb1abac405259c50f197d"
+      },
+      "word_count_whitespace": 112,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "HNO-A2",
+      "pair_id": "HNO-A",
+      "collection_order": 10,
+      "prompt_sha256": "bf9d47afba03a133ccd80ebf0a966ab63cd993f7f6625c5539836713d9b66911",
+      "original_body": "The noble read the note and looked from the scarf to the riding manual. The wool remained quite ordinary. He left it untouched.\n\n“The manual, please.”\n\nHe paid its marked price and picked it up. There was no need to spend his ten minutes persuading a plain scarf to become something interesting.\n\nHe opened the book, checked that he had hold of it securely, and closed it again before leaving the stall. A useful purchase was perfectly respectable. He could make one without an audience, and Dust was not there to ask why he had spent so long deciding between two equally priced things.\n",
+      "original_body_pin": {
+        "file": "firsts01/HNO-A2.txt",
+        "bytes": 591,
+        "sha256": "1f2d6e7dd0cf92d75226f2d31fac13b925dc926e0e01054cda3c237b6ce2aa10"
+      },
+      "original_first_receipt": {
+        "file": "HNO-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "e3758fbdc1e43a0f051380bb50a3169cae62c6aeec35713791ba695a9c6467ac"
+      },
+      "word_count_whitespace": 104,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "HNO-B1",
+      "pair_id": "HNO-B",
+      "collection_order": 11,
+      "prompt_sha256": "154e6a56626ff7fb9c0a914728aa178e2787a9c7353843de6e5409737d6598a2",
+      "original_body": "The man rested his fingers on the scarf Dust had worn. He looked at the plain spare, then back at the one beneath his hand.\n\n“This one can go,” he said. “With the lining, as you've arranged. Please keep it unwashed.”\n\nHe lifted the keepsake and offered it to Dust, folding it carefully enough that he had to stop himself from straightening the same edge twice.\n\n“For the afternoon.” He smiled. “I'll want it back afterward.”\n\nHe let his hand fall away once the scarf was offered. The thought of it taking part in Dust's afternoon was pleasant; the thought of having it back, still itself, made lending it possible.\n",
+      "original_body_pin": {
+        "file": "firsts01/HNO-B1.txt",
+        "bytes": 631,
+        "sha256": "0597dc2da2c86dabebd3aa4f60ebf79174dac3c791e594717016012cfb436946"
+      },
+      "original_first_receipt": {
+        "file": "HNO-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "83e12080b84a780c59d00c27d3d701c0373875a76a725ab6e458d4e6423bdfee"
+      },
+      "word_count_whitespace": 110,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "HNO-B2",
+      "pair_id": "HNO-B",
+      "collection_order": 12,
+      "prompt_sha256": "c2b0742e143d5ea7e72cc836dc554bf23de3f3a795d5ee2d1e425cabc244f66e",
+      "original_body": "The man's hand paused over the keepsake when he heard the washing rule. He drew it back and picked up the other scarf.\n\n“Use this one. It's just as suitable, isn't it?”\n\nHe offered the plain spare to Dust. There was no complaint to lodge against a theater that had explained its rule, and no reason to put the treasured scarf through it merely to prove he wanted to help.\n\n“You can wash this as required. I'll keep the other here.”\n\nHe moved the keepsake aside, beyond the two-scarf choice on the table, and left the offered one ready for Dust. Helping for an afternoon need not cost him the thing he wanted to preserve.\n",
+      "original_body_pin": {
+        "file": "firsts01/HNO-B2.txt",
+        "bytes": 629,
+        "sha256": "bdbe4acf2f4658a38066c45d21a609bd478b4bd61e1bc11cb370e0a3bc347bbb"
+      },
+      "original_first_receipt": {
+        "file": "HNO-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2009,
+        "sha256": "476422cdee92feb647f4cf627166a9e45065b1dcfdea5b175d84b5d3097ba10d"
+      },
+      "word_count_whitespace": 115,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    }
+  ],
+  "original_first_count": 4,
+  "dependent_pair_count": 2,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "all_twelve_bodies_precede_any_feedback": true,
+  "original_bodies_immutable": true,
+  "no_isolated_model_execution_claim": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

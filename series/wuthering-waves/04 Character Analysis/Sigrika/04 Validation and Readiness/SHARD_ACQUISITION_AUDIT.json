@@ -1,0 +1,135 @@
+[
+  {
+    "name": "sigrika-v0_1-pcm-0.zip",
+    "status": "sha256_verified",
+    "sha256": "904d09ff3af714e1826599a3656f3150044ab5e49f9d294ac9fd088f577a2cc2",
+    "bytes": 39801127,
+    "selected_objects": 173
+  },
+  {
+    "name": "sigrika-v0_1-pcm-1.zip",
+    "status": "sha256_verified",
+    "sha256": "526b4dd763a0a1bb2aa5f73104d12d167080f95a4309a14e834025063489edab",
+    "bytes": 35788533,
+    "selected_objects": 172
+  },
+  {
+    "name": "sigrika-v0_1-pcm-2.zip",
+    "status": "sha256_verified",
+    "sha256": "fa47d71b1acd76517f8cb8117e952fb1d9246104927cc83716152836af49ffc2",
+    "bytes": 38278171,
+    "selected_objects": 173
+  },
+  {
+    "name": "sigrika-v0_1-pcm-3.zip",
+    "status": "sha256_verified",
+    "sha256": "2e02aaa0f37ea8d2220d8ad3eae3ab2c686668a690896db295c7a914e303a059",
+    "bytes": 39776308,
+    "selected_objects": 161
+  },
+  {
+    "name": "sigrika-v0_1-pcm-4.zip",
+    "status": "sha256_verified",
+    "sha256": "fa972ffd919eebf9257dbf38b05df39e3b421dea6878114e2570225441d8686d",
+    "bytes": 40626130,
+    "selected_objects": 176
+  },
+  {
+    "name": "sigrika-v0_1-pcm-5-001.zip",
+    "status": "sha256_verified",
+    "sha256": "c61b6b1107de0601ad205d311a14204de9918353e7d2157004be3b91eca387c9",
+    "bytes": 44852310,
+    "selected_objects": 179
+  },
+  {
+    "name": "sigrika-v0_1-pcm-5-002.zip",
+    "status": "sha256_verified",
+    "sha256": "07dc9739687d40fdc211ab412da88d4f762a75ee72f0619013c76441fbfa402a",
+    "bytes": 3121102,
+    "selected_objects": 11
+  },
+  {
+    "name": "sigrika-v0_1-pcm-6.zip",
+    "status": "sha256_verified",
+    "sha256": "d08b08ed88173a8aab182778106b1dc844e53741902b6843e6c36bc16d6e740e",
+    "bytes": 40298626,
+    "selected_objects": 178
+  },
+  {
+    "name": "sigrika-v0_1-pcm-7.zip",
+    "status": "sha256_verified",
+    "sha256": "5b43690975c4de735a3ad4037f8da7bc31298e655a8f1757f5ff404f4ed4be21",
+    "bytes": 44772049,
+    "selected_objects": 187
+  },
+  {
+    "name": "sigrika-v0_1-pcm-8.zip",
+    "status": "sha256_verified",
+    "sha256": "49aeb3c5086ce77c4efa560abb3866f0df14cd0231f3080d394454f3148bad66",
+    "bytes": 41061800,
+    "selected_objects": 164
+  },
+  {
+    "name": "sigrika-v0_1-pcm-9.zip",
+    "status": "sha256_verified",
+    "sha256": "d0281a7f11638879fd8c9038d8722c7e0032ca4909172cd83e58151bd6c61e82",
+    "bytes": 37577311,
+    "selected_objects": 161
+  },
+  {
+    "name": "sigrika-v0_1-pcm-a.zip",
+    "status": "sha256_verified",
+    "sha256": "6a9cc4b4511fbd290b11ce76a81c1039538bf1d1a7a1f9cc79de0c513aa2d702",
+    "bytes": 37891245,
+    "selected_objects": 168
+  },
+  {
+    "name": "sigrika-v0_1-pcm-b.zip",
+    "status": "sha256_verified",
+    "sha256": "817cebb80b803bef394ce62f6349f31b5ccce9a302229b8c7c1bbb1fba181c3e",
+    "bytes": 39290254,
+    "selected_objects": 163
+  },
+  {
+    "name": "sigrika-v0_1-pcm-c-001.zip",
+    "status": "sha256_verified",
+    "sha256": "94453d9b45cf3fdac28f08db991f01f1d6ba7e39c52936ec9ec859c87174b90c",
+    "bytes": 44883666,
+    "selected_objects": 184
+  },
+  {
+    "name": "sigrika-v0_1-pcm-c-002.zip",
+    "status": "sha256_verified",
+    "sha256": "d6a6093ff3b91a340aab3232deccd453df60ccab11c52f939df9eb6d3874fbe8",
+    "bytes": 1248091,
+    "selected_objects": 5
+  },
+  {
+    "name": "sigrika-v0_1-pcm-d.zip",
+    "status": "sha256_verified",
+    "sha256": "bfa2c0bf3235b0bfdb698f7ee470585cb19ccabb6189d90008e2b4a105b91371",
+    "bytes": 41675204,
+    "selected_objects": 179
+  },
+  {
+    "name": "sigrika-v0_1-pcm-e.zip",
+    "status": "sha256_verified",
+    "sha256": "6cb4ecf262153469d0a523ba79944537cb8271f5d6f2252eb70f9e14f669cee5",
+    "bytes": 43730189,
+    "selected_objects": 175
+  },
+  {
+    "name": "sigrika-v0_1-pcm-f-001.zip",
+    "status": "sha256_verified",
+    "sha256": "75c7728c5aade61252f1bcfb980b68221842f829c92eeffe51eda37d05100c45",
+    "bytes": 44754246,
+    "selected_objects": 170
+  },
+  {
+    "name": "sigrika-v0_1-pcm-f-002.zip",
+    "status": "sha256_verified",
+    "sha256": "5f00a15275a3fd8808ed4ae08f16fd3084e2ef4508fdd64f8729766a5579a72d",
+    "bytes": 7093987,
+    "selected_objects": 30
+  }
+]

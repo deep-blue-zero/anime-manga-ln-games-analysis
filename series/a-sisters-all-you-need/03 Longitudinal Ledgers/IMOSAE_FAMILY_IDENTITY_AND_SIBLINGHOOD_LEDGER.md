@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: family_identity_and_siblinghood
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Family, Identity, and Siblinghood Ledger
@@ -477,3 +478,44 @@ The deliberately ridiculous `アホ` chapter places baby Shiori inside ordinary 
 ### `本物` does not erase enacted pseudo-kinship
 
 Itsuki's claim that he has graduated from treating unrelated girls as pseudo-sisters wounds Nadeshiko and triggers a metafictional `本物` story. Correct biological/category truth remains important, but V13 warns against retroactively declaring all enacted affection under a pseudo-category unreal.
+
+
+## V14 — family, identity and siblinghood / final mainline horizon
+
+Earlier volume rows remain prospective history. The final checkpoint fixes current interpretations; family facts, performed kinship, private beliefs, jokes and projected fictional identities stay separate.
+
+### Repeated care rather than one revelatory category
+
+The post-jump household has nearby parental/sibling support. Domestic skills are learned from Chihiro by both Itsuki and Kazuko, with different later practice. Weekly dinners, pickups, children and ordinary fatigue make family a maintained routine. Sora's taught sister address for Chihiro expresses affection without changing the aunt relation; Shiori's welcome is actual young-child behavior. `IM-V14-E003` `IM-V14-E004`
+
+Chihiro keeps technical research and a graduate path alongside family care. Her final private astronaut goal demonstrates a direction she has not disclosed to the people who most benefit from her usefulness. No one else's narrative of her service supplies her whole identity. `IM-V14-E005` `IM-V14-E047`
+
+### Domestic contentment and creative desire are both owned
+
+Kazuko's sincere satisfaction and possible retirement cannot be dismissed as false identity. Itsuki wants the rival writer as well as the wife, while knowing he cannot simply demand her return. The new work's influence is ethically pressured; her stated desire to write and domestic-support request establish an answering choice. The sequel uses new relationships and motherhood as art. IM-C025/039 remain OPEN rather than fully cured. `IM-V14-E019` `IM-V14-E020` `IM-V14-E023` `IM-V14-E024`
+
+Kaizu offers a different sufficient family good. Yuu memory remains meaningful without supernatural approval or erasure by new parenthood. The young daughter's future replacement fear exists only in Itsuki's manuscript; it cannot prove the parents' actual intent. `IM-V14-E015` `IM-V14-E038` `IM-V14-E042`
+
+### Actual romance can still confront family conflict
+
+Miyako/Haruto dating is actual after publication, irrespective of comparative book success. His sister's attachment and threat block cohabitation. No reciprocal sibling desire, diagnosis or completed solution is supplied. Chihiro's later friendship with the sister is contact, not proven repair. `IM-V14-E008` `IM-V14-E024` `IM-V14-E046`
+
+Kaiko/Manaka's adult relationship develops through privacy/noise negotiation and reported parental acceptance. Domestic rearrangements are linked: Miyako's departure can remain blocked even when another couple is ready. No single household ends all dependencies. `IM-V14-E016` `IM-V14-E024`
+
+### Fiction does not own a relative's future
+
+The final living-person manuscript dispute revises IM-C006/015/017. Small children's excitement is inadequate to settle all portrait permission; Chihiro never consented; Nadeshiko is angry after the fact. Itsuki's enjoyment of hurt is adverse evidence. The sister fantasy and affectionate real family do not make his modeling practices harmless. `IM-V14-E043` `IM-V14-E044`
+
+The roster's imagined teen Shiori, Sora and Yū are characterizations inside his draft. Their desire, bodily shame, bullying, cruel attraction and vocational paths are not actual future psychology. Nadeshiko's adult career, Chihiro's astronaut/divorce and Miyako's CEO position remain equally nested. `IM-V14-E042`
+
+### Actual pregnancy defeats the completed-future illusion
+
+Kazuko is pregnant with Sora's younger sister at the returned-present endpoint. The draft omits her. The child's existence is TF; birth, name, voice and later capacity remain unknown. Chihiro's hopeful counterpredictions are also hopes, not omniscient correction of the future. `IM-V14-E048` `IM-V14-E047`
+
+### Title pressure and ethical counterevidence
+
+The final これさえあればいい formulation distributes sufficient directions rather than making a literal sister everyone's solution. Kaizu's family, Itsuki's art and Chihiro's chosen goal differ. Persistence remains hopeful amid contingent resources, not a guaranteed outcome. `IM-V14-E015` `IM-V14-E049`
+
+Family warmth coexists with troubling young-character sexualized comedy. Critical non-graphic interpretation must retain that fact. It prevents a universal claim that ordinary family life now certifies safe boundaries. `IM-V14-E004` `IM-V14-E011`
+
+Current boundary: actual mainline through V14, including returned present. No external or projected continuation is admitted.

@@ -1,0 +1,1039 @@
+{
+  "status": "POST_ROOT_FEEDBACK_AUTHOR_QUALIFICATION_NOT_NEW_INDEPENDENT_CODING",
+  "original_register_public_path": "KONOSUBA_BLESSING_HUMOR_ORIGINAL_AUTHOR_LABELS.json",
+  "original_register_sha256": "927e6a7261e89a501860d10f0dcd06c2bc4d5f5c783cc9c27c14846e69addcf1",
+  "original_private_proof_sha256": "3fe690170cf9bedeaf6ae97b40e3e35f8f688319935cdf473d600efef4defbcb",
+  "all68_initial_records_fingerprints_and_flags": [
+    {
+      "id": "ARTB-CODE-001",
+      "initial_record_sha256_compact_sorted_json": "b7229177098a185b6e9bc404fc622b082d19d001a3f3ebfd0fc07f144a13fba5",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-002",
+      "initial_record_sha256_compact_sorted_json": "0943658fd5240f9015bd88c2b4dbf086f0b7c7694c94f4bfbf41729b0784c508",
+      "original_L": "L2",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-003",
+      "initial_record_sha256_compact_sorted_json": "2bcdfbfa01057a12850054cb65e5c595523fa15bee598a1e7856b981a57b184e",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-004",
+      "initial_record_sha256_compact_sorted_json": "b9941ebbc3fe4e5fd606d662242ebb0d1b5a2e0a8142b323e31b33d9136df6be",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-005",
+      "initial_record_sha256_compact_sorted_json": "ce278c38a1e6f1f2d001dc2d2013fb4eb8016d693b1c77cd52411efdcfc7b708",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-006",
+      "initial_record_sha256_compact_sorted_json": "96e445ea20eea62bebc9f523658bee60aa609ed3781270038189bb77fabd07e4",
+      "original_L": "L1",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-007",
+      "initial_record_sha256_compact_sorted_json": "f372f3d89fdae37721f837fd5ef9b472c65d3689b90b366162d7150d5baa8bb1",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-008",
+      "initial_record_sha256_compact_sorted_json": "dbfadd323f31ef36b0a1e8f3b7d937f4f84d5acf5ffcf771a68b0aed2eb4ed45",
+      "original_L": "L1",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-009",
+      "initial_record_sha256_compact_sorted_json": "96652ff25879787c3f9af42ef2c6f29b48843663f602c8ed9e18a2fd102828eb",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-010",
+      "initial_record_sha256_compact_sorted_json": "74bc44c5d1be2e3b9bbf8362a1d3b88f7512a51b8516702cd3ca0ad177e0b1e8",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-011",
+      "initial_record_sha256_compact_sorted_json": "99293e3aa5ae0cb293227acb587fea6a5dbdf89cc883989c0dec399efad4227d",
+      "original_L": "L1",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-012",
+      "initial_record_sha256_compact_sorted_json": "d26ca541c63c73ad6a2c5afeec144ab6aae89bc090fbab48344897c3ada4989e",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-013",
+      "initial_record_sha256_compact_sorted_json": "8809f2e100c525cae9f9a2f67c922b9cd517d4ee8635ee91ba17ded0300b4f5a",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-014",
+      "initial_record_sha256_compact_sorted_json": "1b92d6cc3045be0254350e313938fb6ccec9382c49b05ff860b7396aff45486b",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-015",
+      "initial_record_sha256_compact_sorted_json": "890f421a1cacfde2c174ea648527c30f20f7302ae7a39579c3265227b1cd21fb",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-016",
+      "initial_record_sha256_compact_sorted_json": "eef191669a6b30044be60de08bc5dfeb8dc7bac700e3e1397567f5168a36331c",
+      "original_L": "L3",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-017",
+      "initial_record_sha256_compact_sorted_json": "10f7ab7355a5ffeb7c7a32e75c10341492d1304c16189ec76b5f69272f87ee02",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-018",
+      "initial_record_sha256_compact_sorted_json": "7491efa21e5ce4ef0e2454a083d85ca94cb638840baa6780872e22590018da51",
+      "original_L": "L2",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-019",
+      "initial_record_sha256_compact_sorted_json": "620a3217fe60943ca78d5c47deabc7b142cfdd438df484e854042ac56b5a99de",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-020",
+      "initial_record_sha256_compact_sorted_json": "fa261ae52df68f32178e3c63b0ff10cefab3a87f2a88b8ce2300425234a02448",
+      "original_L": "L0",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-021",
+      "initial_record_sha256_compact_sorted_json": "44d737782e9bf6c83289a0dccbdd328d8a860d6678697c26bd8a595e4b05aa26",
+      "original_L": "L1",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-022",
+      "initial_record_sha256_compact_sorted_json": "0b87022ddd6ef6368c8b81aedea57cfec194aaa31ca374936abe902ac6c4626a",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-023",
+      "initial_record_sha256_compact_sorted_json": "9c716c216fa1609503d1234286a76b81b77c947b4fcf92ddfdf7806729d91501",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-024",
+      "initial_record_sha256_compact_sorted_json": "0e85274d5bb51c7aebb7d4dcca9b60c91b4839716fac72fd1a2ecc8b6d8d5ac5",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-025",
+      "initial_record_sha256_compact_sorted_json": "7ba78c97b87e07390f99d5d93f79c333f1901c2e995d3b6af904d5fd782f2c6e",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-026",
+      "initial_record_sha256_compact_sorted_json": "2c43d672febae28ea1b7a8665fdc4781471eae78257ee24a409e158700003a75",
+      "original_L": "L1",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-027",
+      "initial_record_sha256_compact_sorted_json": "713912f1ec60d05971478354c208680516fb86fc72a8e81dc940b55fb4b4adba",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-028",
+      "initial_record_sha256_compact_sorted_json": "b7c009960f20c85703fe238732476f311c7a6a33e718e3b892af5e52a674f1f7",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-029",
+      "initial_record_sha256_compact_sorted_json": "b1561423e03ae0af1377a6f757284c6ec18947e8fc7f12c1b0f5c18c15a55480",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-030",
+      "initial_record_sha256_compact_sorted_json": "27d70f87e7cc4092e23d953d96a40473a0c3c725bee3804c4efa229253bec747",
+      "original_L": "L0",
+      "original_H": "H1+H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-031",
+      "initial_record_sha256_compact_sorted_json": "7d83ee7b139aba99a549ddd5ac0401366bb2ecb49ec6a3ee21d89697e9d99b55",
+      "original_L": "L1",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-032",
+      "initial_record_sha256_compact_sorted_json": "80bfb01381e14a509ec90e716eb9cfbe6740a0f7a6fe7e82866fba958086bf3c",
+      "original_L": "L1",
+      "original_H": "H3+H4",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-033",
+      "initial_record_sha256_compact_sorted_json": "fed6c59239da63204f534904e88b0e8295de84f6c7c03d0c4ded2d9265626ee4",
+      "original_L": "L0",
+      "original_H": "H3+H4",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-034",
+      "initial_record_sha256_compact_sorted_json": "b67094fb683cb5b6331136c94016fa7e4845abdf0dc65c7522ef1877363182b9",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-035",
+      "initial_record_sha256_compact_sorted_json": "2ce9956c7dd465407e0e9be63defab200ddc9d8bbbaa53a857a2cd2cc9aab1b5",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-036",
+      "initial_record_sha256_compact_sorted_json": "24872c6717f7ba8ac26995096d4f1e322f34f07a13ab7214de5d647b889c5ce3",
+      "original_L": "L0",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-037",
+      "initial_record_sha256_compact_sorted_json": "e4bf295db3104923cecc797eb1f86e3c84fcc355bda6977ed3dba2ef1b8b95d9",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-038",
+      "initial_record_sha256_compact_sorted_json": "bf201fd325df922b4ef91e329adaa7c16d927f2ad1d5c1fe67f0744eae3fe9bb",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-039",
+      "initial_record_sha256_compact_sorted_json": "f68e8f9fc297fb0a03addb544ca17560664359a1cd474b02e5b905b66e25de62",
+      "original_L": "L0",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-040",
+      "initial_record_sha256_compact_sorted_json": "f1ac9940b3c025be7b57a57d9e44b7bd0fdffb01acf7357cdaeda63c417f04b9",
+      "original_L": "L1",
+      "original_H": "H3+H4",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-041",
+      "initial_record_sha256_compact_sorted_json": "4e32c95853380bd8bd42d18a0674298cb5b5b2cef21319423cef298f554d8603",
+      "original_L": "L1",
+      "original_H": "H3+H4",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-042",
+      "initial_record_sha256_compact_sorted_json": "f24fca1411feadce63283ab7e7850601a9cac1094e0abed44d6eb1c285eb9d91",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-043",
+      "initial_record_sha256_compact_sorted_json": "16e47b8b452b0fea4da0ac4179bbcb9cfbc9f5c898a84b39bdb8213ca9c47a52",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-044",
+      "initial_record_sha256_compact_sorted_json": "3355578a53cc0102941923ae4a1b22e36e34d28c91867c7d30f50b50313df40b",
+      "original_L": "L1",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-045",
+      "initial_record_sha256_compact_sorted_json": "7257d82ad0651d0c8f3ade3d76866eafd8998896a71c9d11886e5954e0e62710",
+      "original_L": "L0",
+      "original_H": "H3",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-046",
+      "initial_record_sha256_compact_sorted_json": "09eec2825183d1b1f02a32f8c18dac3869a114a8a173670e7f54ce8d52812e21",
+      "original_L": "L1",
+      "original_H": "H3+H4",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-047",
+      "initial_record_sha256_compact_sorted_json": "46444e10b61b918f5c8a30c8cbc25cfb4968fa803de8f467b05c18afd551cc68",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-048",
+      "initial_record_sha256_compact_sorted_json": "f41245463cdc2478afafd7380737398be6ae3cb7b592f91712b3b6d5aeb85043",
+      "original_L": "L1",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-049",
+      "initial_record_sha256_compact_sorted_json": "f18cf94dbea1ac7b519a2c15c8a5bd1bf23457cdb6970098a6ccac532e2b77f4",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-050",
+      "initial_record_sha256_compact_sorted_json": "67f2b33a958fb2c14e4df97734124f661ec8073e7cd5c476ac25ef372b3ef5ce",
+      "original_L": "L2",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-051",
+      "initial_record_sha256_compact_sorted_json": "632838766437d9c73390a3589cfa8520cfc3316798f5632354cc6cdbb9b1c753",
+      "original_L": "L2",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-052",
+      "initial_record_sha256_compact_sorted_json": "2ac0b70c202ddb1d3de4efee08188227942189d52746361a43bfba96022294df",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-053",
+      "initial_record_sha256_compact_sorted_json": "d5c65b316c0ed846b038a3e424b0887c5463995c04e311ed956682d607fd1a56",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-054",
+      "initial_record_sha256_compact_sorted_json": "1d2f8d21a786375f794ee1215d33d4272d540edf6229500178c0cf62b051817e",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-055",
+      "initial_record_sha256_compact_sorted_json": "0525fde4097ca1c26315d2c8baa4cf16b1d6012351a3df055a029cbd0bb1c75c",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-056",
+      "initial_record_sha256_compact_sorted_json": "69640c1a03f5db15d678654eb510f9eb439b6127d5b06ca08dbf30065c944688",
+      "original_L": "L1",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-057",
+      "initial_record_sha256_compact_sorted_json": "7f2475f80e9e052477244b13bcc88d3f9c68590a3a5ab783767e42752f34551e",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-058",
+      "initial_record_sha256_compact_sorted_json": "0650ac60168411abe3bbb9651eeaedf7b31e2e83d60b32487d1ba01570ef89f8",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-059",
+      "initial_record_sha256_compact_sorted_json": "b131e057f2e7010f436fb14de472008e3955a84e3ceae80c108db6507c27d955",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-060",
+      "initial_record_sha256_compact_sorted_json": "65aef98cd06aacbf5d18d41760bb38f59b59a060408d77e88677988018549020",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-061",
+      "initial_record_sha256_compact_sorted_json": "f135ff057b1050398c80c349a02b3de3a673f284cdef29862e3fbf383c65672f",
+      "original_L": "MIXED L0/L3",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-062",
+      "initial_record_sha256_compact_sorted_json": "54d24677057c132dbddea806c9cd9f06dff82f23636801912df0a928a4f046e9",
+      "original_L": "L1",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-063",
+      "initial_record_sha256_compact_sorted_json": "1a9be75c7d5f51e57006e53c8126c4c7bed2d57e101c6ac03a08c208141c5812",
+      "original_L": "L0",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-064",
+      "initial_record_sha256_compact_sorted_json": "efd800352cc694f63faf11d80e5c8871ef1344b61028cd9bebc46c1d0840315c",
+      "original_L": "L2",
+      "original_H": "H1+H2",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-065",
+      "initial_record_sha256_compact_sorted_json": "9b129238aa78e7c430e376934b5b3ffa9500aa6af1296872b9cbe551f2f06a46",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": false,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-066",
+      "initial_record_sha256_compact_sorted_json": "0b70cb5ef3201b0617fe1471b6bba150b45ed2fdd25fb0903d83400387d720a4",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-067",
+      "initial_record_sha256_compact_sorted_json": "cb2ecde221e8d8b43682ec8602c1377fcec9861eb53d816e2b988298900ec240",
+      "original_L": "L2",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    },
+    {
+      "id": "ARTB-CODE-068",
+      "initial_record_sha256_compact_sorted_json": "4d3b10941a4514ae69ffbfdf89d079e769802c6717b398567f4cf7a4e9bda0b8",
+      "original_L": "L0",
+      "original_H": "H1",
+      "original_selected_denominator_flag": true,
+      "original_statistical_denominator_eligible": false
+    }
+  ],
+  "H3_qualification_overlays": [
+    {
+      "id": "ARTB-CODE-001",
+      "source_pages": [
+        9
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "b7229177098a185b6e9bc404fc622b082d19d001a3f3ebfd0fc07f144a13fba5",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "A possession that seems incompatible with poverty is its cause; resale proposal turns the defense into danger. H1 applies to these frame utterances, H3 to generalizing the camera economy beyond this album fiction.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "The rationale explicitly substitutes generalization beyond the album fiction for local-punchline dependence. Camera economy/source admission is a separate guard, not an H3 definition.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-002",
+      "source_pages": [
+        10,
+        11,
+        17
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "0943658fd5240f9015bd88c2b4dbf086f0b7c7694c94f4bfbf41729b0784c508",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "Aqua shields an impossible image source with confidentiality formula and impersonal passives while photographed subjects demand accountability. The evasive stance is directly present; a secret canonical photographer is not established.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Actual evasive frame speech and unestablished photographer identity/access are distinct. Impossible or unresolved provenance alone does not show that the evasion is too punchline-dependent to generalize.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-006",
+      "source_pages": [
+        15
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "96e445ea20eea62bebc9f523658bee60aa609ed3781270038189bb77fabd07e4",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "K's sister praise receives suspicious collective looks; he insists he merely complimented them. The protest is evidence, not proof of an unspoken sexual motive.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Not knowing an unspoken sexual motive is an epistemic limit. It does not by itself make the observed protest gag-contingent.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-008",
+      "source_pages": [
+        17
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "dbfadd323f31ef36b0a1e8f3b7d937f4f84d5acf5ffcf771a68b0aed2eb4ed45",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "K escalates admiration of a child into an adoption-style proposal; D treats it as disinhibition. This is a provocative utterance, not a performed adoption or certified motive.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "A proposal not being a performed adoption or a certified motive concerns action status and mental access, not automatically H3 behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-009",
+      "source_pages": [
+        18
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "96652ff25879787c3f9af42ef2c6f29b48843663f602c8ed9e18a2fd102828eb",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "A posed successful-party image is converted into self-certification until D asks its basis. Representation and actual achievement diverge.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Distinguishing a posed image from achievement is a representation/source-plane limit. H3 would need an identified behavior whose punchline dependence defeats generalization.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-011",
+      "source_pages": [
+        20
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "99293e3aa5ae0cb293227acb587fea6a5dbdf89cc883989c0dec399efad4227d",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "Overemphatic denial of visits and abrupt topic shift expose K's exclusion; his protest is real while the unstated visits are not independently adjudicated.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Unobserved visits and exclusion/privacy uncertainty do not independently establish local-punchline dependence of denial or protest.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-015",
+      "source_pages": [
+        23
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "890f421a1cacfde2c174ea648527c30f20f7302ae7a39579c3265227b1cd21fb",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "Appreciation of an unusual costume becomes a figurine sales lead; K's terse interest is the payoff. Actual sales history outside the frame remains unverified.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Unverified actual sales outside the frame are a provenance/outcome limit, not sufficient H3 evidence about the in-frame sales lead or interest.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-016",
+      "source_pages": [
+        26
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "eef191669a6b30044be60de08bc5dfeb8dc7bac700e3e1397567f5168a36331c",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "The new nickname blends tsundere with Megumin's name; denial followed by a chorus forces the label into interaction. The form needs recreation, although teasing is portable.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Japanese nickname formation and one exchange support form/interaction analysis. Wordplay centrality does not itself establish gag-contingent behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-017",
+      "source_pages": [
+        26
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "10f7ab7355a5ffeb7c7a32e75c10341492d1304c16189ec76b5f69272f87ee02",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "Routine gardening advice treats attacking root vegetables as organized solidarity. Literal magical vegetables may exist in the fiction; the frame does not independently repeat the source encounter.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Dependent re-presentation of a vegetable encounter is a nonindependence/source-route issue. Fantasy flora and absence of a repeated event are not H3 criteria.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-018",
+      "source_pages": [
+        27
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "7491efa21e5ce4ef0e2454a083d85ca94cb638840baa6780872e22590018da51",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "A respectable marriage-rate question beside denial of public sex commerce makes K's silence incriminating only through shared background. No new visit is shown.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "An implied rather than shown visit concerns inference and action access. The silence may be analyzed, but H3 requires a distinct punchline-dependence argument.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-024",
+      "source_pages": [
+        42
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "0e85274d5bb51c7aebb7d4dcca9b60c91b4839716fac72fd1a2ecc8b6d8d5ac5",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "A ghost revelation is displaced by D's practical question about photographing ghosts. Impossible access is a recurring device; photographer capability remains unresolved.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Unresolved camera capability and impossible-access framing concern provenance/metafiction. They do not by themselves make Darkness's practical question weak behavioral evidence.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-029",
+      "source_pages": [
+        51
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "b1561423e03ae0af1377a6f757284c6ec18947e8fc7f12c1b0f5c18c15a55480",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "The reunion's humiliating trap is generalized as a temptation all would fail. Shared weakness is the frame's claim, not four independently observed failures.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "The frame's generalization is a character claim, not four observed failures. Do not use an H3 tag as a substitute for that claim-versus-event distinction.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-030",
+      "source_pages": [
+        52
+      ],
+      "source_plane_retained": "character_album_frame",
+      "initial_record_sha256_compact_sorted_json": "27d70f87e7cc4092e23d953d96a40473a0c3c725bee3804c4efa229253bec747",
+      "original_author_H_string_retained": "H1+H3",
+      "original_author_rationale_retained": "Eris's otherworldly workplace image makes the withheld photographer's access absurdly implausible. A direct source demand is real, identity remains unanswered.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Otherworldly image access and an unanswered identity question concern source coherence. H3 is not a generic uncertainty label for the frame's provenance.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-032",
+      "source_pages": [
+        54
+      ],
+      "source_plane_retained": "reproduced_afterword_art",
+      "initial_record_sha256_compact_sorted_json": "80bfb01381e14a509ec90e716eb9cfbe6740a0f7a6fe7e82866fba958086bf3c",
+      "original_author_H_string_retained": "H3+H4",
+      "original_author_rationale_retained": "A child scribble is framed with melodramatic demonic-sister appraisal. It is reproduced illustrator afterword humor, not proof of actual malevolent child power.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Reproduced illustrator humor and lack of literal malevolent child power concern source plane/nonliteral representation. H3 needs a separately identified character behavior and local punchline dependency.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-033",
+      "source_pages": [
+        54
+      ],
+      "source_plane_retained": "reproduced_afterword_art",
+      "initial_record_sha256_compact_sorted_json": "fed6c59239da63204f534904e88b0e8295de84f6c7c03d0c4ded2d9265626ee4",
+      "original_author_H_string_retained": "H3+H4",
+      "original_author_rationale_retained": "Imagined two-person nightclothes intimacy contrasts Yunyun's expectation of a three-person development. Explicit imagination label prevents treating this as a performed romantic event.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "An explicitly imagined event is not a performed event. Imagination/source-plane status alone is not H3; H4 and epistemic limits are separate questions.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-034",
+      "source_pages": [
+        67
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "b67094fb683cb5b6331136c94016fa7e4845abdf0dc65c7522ef1877363182b9",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Artist's 'fun usual quartet' assignment apparently culminates in quarrel, followed by mock surprise. Self-deprecating commissioning commentary is not a new quarrel caused in the world.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Artist commissioning commentary is not a newly performed quarrel. A commentary joke does not automatically enter a main-character behavioral evidence class.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-035",
+      "source_pages": [
+        70
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "2ce9956c7dd465407e0e9be63defab200ddc9d8bbbaa53a857a2cd2cc9aab1b5",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Flattering lady-like description excepts the familiar defining liabilities, producing affectionate qualification. This is artist appraisal, not blanket consent or actual desire evidence.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Artist appraisal with affectionate exceptions is neither performed desire nor consent. This source-authority limit is not itself gag-contingent character behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-036",
+      "source_pages": [
+        72,
+        73
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "24872c6717f7ba8ac26995096d4f1e322f34f07a13ab7214de5d647b889c5ce3",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Modern fast-food tableau gives Aqua a blurry selfie under a comment about uncertain camera internals. Depicted technological error is a design joke, not evidence of actual Japan travel.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Modern promotional staging is not proof of actual Japan travel. A depicted design joke could have local humor mechanics, but source staging alone supplies no H3 warrant.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-037",
+      "source_pages": [
+        84
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "e4bf295db3104923cecc797eb1f86e3c84fcc355bda6977ed3dba2ef1b8b95d9",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Artist denies that solitary Yunyun is lonely or talking to plants, then adds a hedge. Reassurance is pragmatically withdrawn, not certified biography.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "An artist's denial/hedge about loneliness is production commentary, not certified biography. Its pragmatic joke does not automatically establish a character's H3 behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-038",
+      "source_pages": [
+        85
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "bf201fd325df922b4ef91e329adaa7c16d927f2ad1d5c1fe67f0744eae3fe9bb",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Drunk Aqua illustration is paired with artist's claimed lack of memory drawing it. The rhyme is humorous but does not demonstrate real intoxication during production.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "A drawing/commentary rhyme and uncertain creator production memory are not proof of either actual creator intoxication or a gag-contingent main-character action.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-039",
+      "source_pages": [
+        90,
+        91
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "f68e8f9fc297fb0a03addb544ca17560664359a1cd474b02e5b905b66e25de62",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Grand adventuring cover uses Aqua's dubious self-drawn target cue, qualified by artist's likely failure prediction. No actual quest failure occurs here.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "An artist's likely-failure prediction about cover staging is not a performed quest failure. Source-plane and hypothetical-result limits must remain separate from H3.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-040",
+      "source_pages": [
+        109
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "f1ac9940b3c025be7b57a57d9e44b7bd0fdffb01acf7357cdaeda63c417f04b9",
+      "original_author_H_string_retained": "H3+H4",
+      "original_author_rationale_retained": "Countdown neglects the nominal hero while he complains about the others' fun and his confinement. Promotional serial scheduling supplies the situation, not actual main incarceration.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Countdown scheduling and fictional hero confinement explain promotional framing. H3 may be argued only for specified local behavior, not inferred from promotional status or metalepsis alone.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-041",
+      "source_pages": [
+        110
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "4e32c95853380bd8bd42d18a0674298cb5b5b2cef21319423cef298f554d8603",
+      "original_author_H_string_retained": "H3+H4",
+      "original_author_rationale_retained": "Movie-preparation staging lets Aqua rename the project a goddess legend. Self-promotion is legible, but the characters are not thereby established as actual filmmakers in novel continuity.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Film-campaign staging and title appropriation have a comic mechanism, but do not establish main-world filmmaking. The latter source-plane guard is not an H3 criterion.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-042",
+      "source_pages": [
+        133
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "f24fca1411feadce63283ab7e7850601a9cac1094e0abed44d6eb1c285eb9d91",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Artist rhetorically questions equal age from contrasting design. This is a joke about appearance, not evidence of a different age or chronological maturation.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "A rhetorical creator comparison of appearance does not establish age change. This is an inference/source-authority distinction, not automatically character behavior in H3.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-043",
+      "source_pages": [
+        134
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "16e47b8b452b0fea4da0ac4179bbcb9cfbc9f5c898a84b39bdb8213ca9c47a52",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Artist cannot remember drawing a picture in a retrospective collection; commentary admits incomplete production memory rather than providing omniscient provenance.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "Incomplete creator production memory is not omniscient provenance and is not, without a specified relevant behavioral object, an H3 character claim.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-044",
+      "source_pages": [
+        137
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "3355578a53cc0102941923ae4a1b22e36e34d28c91867c7d30f50b50313df40b",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Divine robe efficacy is recalled through a near-toss incident, with artist asking whether effect ever mattered. Hedged retrospective question is not a new controlled test.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "A hedged creator recollection is not a new efficacy experiment. Lack of a controlled test cannot be converted into H3.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-045",
+      "source_pages": [
+        138,
+        139
+      ],
+      "source_plane_retained": "creator_or_promotional_context",
+      "initial_record_sha256_compact_sorted_json": "7257d82ad0651d0c8f3ade3d76866eafd8998896a71c9d11886e5954e0e62710",
+      "original_author_H_string_retained": "H3",
+      "original_author_rationale_retained": "Banquet tableau embeds tugging, surprise and amused faces. Static commemorative staging supports visual contrast, not exact unseen dialogue, a performed assault sequence or consent.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "A static tableau does not determine unseen actions or consent. Visual/action-access uncertainty is not the same as local-punchline-dependent behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    },
+    {
+      "id": "ARTB-CODE-046",
+      "source_pages": [
+        140,
+        141
+      ],
+      "source_plane_retained": "drawing_song",
+      "initial_record_sha256_compact_sorted_json": "09eec2825183d1b1f02a32f8c18dac3869a114a8a173670e7f54ce8d52812e21",
+      "original_author_H_string_retained": "H3+H4",
+      "original_author_rationale_retained": "Drawing-song instructions use cooking/fish-violence metaphors whose successive marks form M's head/hat, then proud sister praise. The procedure depends on text-image timing, not uniquely Japanese punning; no literal pot or fish battle occurs.",
+      "protocol_H3_status": "NOT_ESTABLISHED_BY_THE_ORIGINAL_STATED_RATIONALE",
+      "attributable_qualification": "An ekaki-uta text-image procedure and cooking/fish metaphor are nonliteral/instructional representation. That does not independently demonstrate an H3 character behavior.",
+      "formal_replacement_H_assignment": null,
+      "not_a_claim_that_H3_is_impossible_here": true,
+      "needed_for_any_future_protocol_H3_claim": "Identify the behavior and explain why it is too dependent on a local punchline to generalize without recurrence; do not substitute source-plane, event access, L-form dependence or outcome uncertainty.",
+      "source_plane_and_nonindependence_guards_remain_separate": true,
+      "original_L_selection_flags_uncertainty_and_source_notes_unchanged": true
+    }
+  ],
+  "genuine_disagreement": "None about the protocol definition or the explicit misuse in CODE001. Some local behaviors may later justify H3 with a separate argument; this overlay neither supplies that argument nor declares every such H3 impossible. No forced recoding.",
+  "originals_unchanged": true,
+  "root_adoption": "Original labels historical; all28 original H3 warrants qualified, no invented replacement, pooled denominator, agreement or portability score."
+}

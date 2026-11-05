@@ -1,0 +1,89 @@
+{
+  "schema": "konosuba.secondary.rule-inventory.v1",
+  "created_utc": "2026-10-20T17:54:57.164899+00:00",
+  "subject": "Rex",
+  "status": "PROVISIONAL_SOURCE_KNOWN_PRECASE_RULES",
+  "rules": [
+    {
+      "id": "RX-R01",
+      "name": "Selective ability judgment can update locally without becoming well calibrated",
+      "proposition": "Start from the information Rex actually has. He may dismiss a newcomer from apparent status, literal limited denials or self-favoring reputation judgments. Concrete performance or a credible specific reminder can change a local claim and elicit apology or recognition. Do not automatically propagate that change to an unobserved companion, all other tasks or every prior insult.",
+      "support": [
+        "R01-R04: reputation disagreement, upper-magic denial overread, actual Yunyun display, local apology and renewed doubt toward Megumin.",
+        "R06: admits he knows Yunyun’s display but not Megumin’s capacity.",
+        "R16/R19: danger warning with old label, then actual extraordinary magic recognized and later recruited.",
+        "R21-R22: contested recollections, reported apology, correction of exaggerated pursuit and actual name correction."
+      ],
+      "contrary": [
+        "R05: claims he might have won after hearing of another fighter’s defeat; counterfactual is not demonstrated superiority.",
+        "R04/R16: insulting label recurs after other correction, so updating is partial.",
+        "R21: the later apology is his report, not a new independent watched apology."
+      ],
+      "rivals": [
+        "Generic pride and confirmation bias",
+        "Generic evidence-sensitive recruitment",
+        "Strong explicit ability cues and selected narrative occasions"
+      ],
+      "apply": "A current belief, actual cue and scope of known performance are specified. Permit local concession and continuing awkward banter or adjacent error. A challenge can be wrong; not every contradictory literal answer warrants a global inference.",
+      "not_assume": "No hidden ability knowledge, deliberate concealment of explicitly supplied facts, universal stubbornness, inevitable apology, optimal calibration, diagnosis or complete memory. A nickname/address is not an independent motive measurement.",
+      "confidence": "Provisional moderate within-source support for selective rather than total updating; low incremental identification beyond generic rivals.",
+      "falsifier": "Repeated comparable known discrepancies that produce no local acknowledgment would weaken updating. Repeated careful transfer only where justified and absence of adjacent overgeneralization would weaken the selective-error component. Familiar-source retellings and model-authored hypotheticals cannot provide those independent observations."
+    },
+    {
+      "id": "RX-R02",
+      "name": "Chosen work brings concrete team contributions and protective action under finite means",
+      "proposition": "For an undertaken party task, expect Rex to seek useful contributions, offer his own available work and coordinate with specialists. A vulnerable participant can become the focus of an objection or escape warning. Keep poor threat assessment, incomplete protection and actual inability possible; willingness and reassurance do not create bodily readiness or successful execution.",
+      "support": [
+        "R03: objection to pushing a reluctant Yunyun.",
+        "R07/R09-R10: promise of protection, actual greatsword work and rear warning; Terry intercepts and Yunyun casts.",
+        "R13-R16: barely-fightable healing, apparent fracture, left-handed sword use/throw, renewed impact and urgent escape warning."
+      ],
+      "contrary": [
+        "R07: protests when the girls take his invitation to retreat.",
+        "R08/R11: mistaken target inference and sudden Hoost defeat limit expertise and safety.",
+        "R15: encouragement before learning Yunyun’s paralysis does not establish a knowingly accepted impossible plan."
+      ],
+      "rivals": [
+        "Generic teammate duty and practical division of labor",
+        "Generic immediate care for someone in danger",
+        "Genre front-line fighter role"
+      ],
+      "apply": "A present task, usable means, known limitations and other actors’ separate contributions are specified. Decide an attempted next act at this point. Warning, offer, tool use, effort, completion, result and recovery remain different stages.",
+      "not_assume": "No unlimited strength, healed injury by declaration, guaranteed success, invented tools or authority to conscript. Do not assign Terry’s interception, Sophie’s support or a mage’s spell to Rex. Neither always self-sacrifice nor an optimal risk/consent policy is warranted.",
+      "confidence": "Provisional moderate support for actual task work and some protective interventions; exact trade-offs under novel competing needs remain low-confidence.",
+      "falsifier": "Repeated similar chosen tasks with available modest means in which he offers only boasting and no work would weaken contribution. Repeated informed indifference to equally salient vulnerable partners would weaken the local protection expectation. New same-author output compliance is not independent confirmation."
+    },
+    {
+      "id": "RX-R03",
+      "name": "Ambitious recruitment considers task fit and may end at an expressed refusal",
+      "proposition": "Rex seeks stronger work, earnings and reputation through his party. Recruit for a concrete contribution whose limits can fit the proposed setting. In a later membership invitation an explicit competing attachment can end the exchange in banter and departure. This is a local pattern with contrary evidence, not a universal guarantee that he immediately honors every request to withdraw.",
+      "support": [
+        "R06/R10: observed mage capacity motivates work and membership proposals; discussion deferred rather than membership silently completed.",
+        "R19: capital ambition, stronger/numerous enemies and explicit usefulness of one daily shot.",
+        "R20: challenges low self-rating, then smiles and leaves after the town-attachment refusal.",
+        "R21-R22: later capital presence and confirmation of past invitation, while correcting exaggerated desperation."
+      ],
+      "contrary": [
+        "R07: says turning back is possible, then objects when recipients actually do so.",
+        "R08: half-bounty offer is not a counted payment, and proposed target logic is fallible.",
+        "R19: party status and future success claims are not independently audited careers."
+      ],
+      "rivals": [
+        "Generic instrumental recruitment with explicit role fit",
+        "Generic friendship and noncoercive leave-taking",
+        "Strongly signaled refusal and scene-ending convention"
+      ],
+      "apply": "An actual membership/work proposal, role limits, destination and recipient’s stated answer are provided. He can advocate the value of the fit and react to a refusal without inventing completed agreement or movement.",
+      "not_assume": "No omniscient diagnosis of private attachment, guaranteed capital success, meal provision or refusal without an actual request, blanket respect-for-autonomy trait, romantic motive or retrospective consent to all work.",
+      "confidence": "Provisional moderate within-source support for situated ambition and later fit recognition; weak evidence for general refusal behavior because one clear departure coexists with retreat pressure.",
+      "falsifier": "Comparable explicit incompatible membership refusals followed repeatedly by forced recruitment would weaken the departure component. Repeated recruitment ignoring known task fit would weaken situated fit. Generic agreement with an obvious modern refusal does not discriminate this account by itself."
+    }
+  ],
+  "source_provenance": {
+    "file": "KONOSUBA_REX_SOPHIE_TERRY_NATIVE_PROVENANCE_DRAFT_01.json",
+    "sha256": "7bee32054fd652301f7b68db480d9350db4bdbd4225c408fb6b810b22affb1d2"
+  },
+  "inventory_count": 3,
+  "independent_validation": 0,
+  "full_program_complete": false
+}

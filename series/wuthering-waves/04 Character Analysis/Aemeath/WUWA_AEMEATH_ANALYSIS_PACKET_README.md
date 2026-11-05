@@ -35,6 +35,8 @@ authority_adoption: owner_2026_09_09_text_audio_baseline
 
 # Aemeath reconstruction dossier — pre-audiovisual V0.1
 
+The [current-state router](WUWA_AEMEATH_CURRENT_STATE.md) is the primary current character entrypoint. This README retains packet-manifest, provenance, and reading-order responsibilities; the artifact-class layout does not change authority or completion state.
+
 ## Purpose
 
 This packet is a source-grounded reconstruction of **Aemeath / 爱弥斯 / エイメス / 에이메스** against the frozen *Wuthering Waves* 3.6.0 evidence generation. It applies the current Wuthering Waves character-analysis method together with the proposed audiovisual collection and human-retrieval refinements that have not yet been committed to Git.
@@ -154,50 +156,50 @@ The packet also separates:
 
 Two distinct files implement the new collection bridge:
 
-- `WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md` answers **what should be collected and which claim it can change**;
-- `WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md` answers **how a human can find it through public story names, objectives, dialogue anchors, and search terms**.
+- `03 Audiovisual and Voice/WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md` answers **what should be collected and which claim it can change**;
+- `03 Audiovisual and Voice/WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md` answers **how a human can find it through public story names, objectives, dialogue anchors, and search terms**.
 
 No `AV_EVIDENCE_MANIFEST.jsonl` is emitted because no actual AV witness has been acquired or stable-linked into the evidence plane. Creating an empty manifest would confuse intended schema with acquired evidence.
 
 ## Packet contents and analytical responsibilities
 
-### 1. `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md`
+### 1. `01 Evidence and Source-Facing/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md`
 
 Canonical-candidate interpretive center for the pre-AV generation. It reconstructs the character's developmental logic, ethics, ordinary life, relationship architecture, speech, embodiment, motifs, contradictions, and rival readings.
 
-### 2. `WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
+### 2. `01 Evidence and Source-Facing/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md`
 
 Claim-level apparatus separating source fact, stable observation, strong inference, candidate thesis, and open hypothesis. It records counterevidence and later falsification targets so future AV/source work can revise rather than merely decorate the reconstruction.
 
-### 3. `WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`
+### 3. `01 Evidence and Source-Facing/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`
 
 Canonical-candidate home for developmental state slices, operational contexts, and recipient-conditioned relationships. It prevents childhood, student-memory, digital-ghost, post-return, and shell evidence from being averaged into one timeless personality.
 
-### 4. `WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
+### 4. `01 Evidence and Source-Facing/WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`
 
 Source fact → implication → extrapolation-limit treatment of games, music, photography, food, study, clubs, friends, markets, seals, travel, home, rest, gifts, hobbies, weather, and ordinary social initiative.
 
-### 5. `WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
+### 5. `03 Audiovisual and Voice/WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`
 
 Textual speech/register reconstruction plus the current reproducible four-language acoustic baseline. It marks acting/emotion conclusions open and identifies later matched-source listening cohorts.
 
-### 6. `WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md`
+### 6. `01 Evidence and Source-Facing/WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md`
 
 Separate topical home for digital-ghost personhood, body/frequency relations, Exostrider integration, Reactor Core/Drive metaphors, returned embodiment, and the non-equivalent associated shell.
 
-### 7. `WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
+### 7. `02 Reconstruction/WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md`
 
 Operational Markdown model for state selection, drives, fears, values, behavior rules, exceptions, recipient modifiers, decision logic, prediction templates, and mandatory abstentions. It is not a promoted JSON model package.
 
-### 8. `WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
+### 8. `04 Validation and Readiness/WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`
 
 Adversarial evaluation against savior-archetype leakage, cheerfulness-as-mask reduction, Rover-satellite collapse, resurrection simplification, shell flattening, ordinary-life failure, and relationship-insensitive prediction.
 
-### 9. `WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
+### 9. `03 Audiovisual and Voice/WUWA_AEMEATH_AUDIOVISUAL_EVIDENCE_NOMINATION_PLAN.md`
 
 AV hierarchy and claim-driven acquisition plan using the proposed four authority dimensions and four source strata.
 
-### 10. `WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md`
+### 10. `03 Audiovisual and Voice/WUWA_AEMEATH_AV_HUMAN_RETRIEVAL_CROSSWALK.md`
 
 Human-facing retrieval map from exact flow/source locators to public chapter/quest names, distinctive lines, suggested YouTube terms, mapping confidence, expected witness type, and acquisition state.
 
@@ -218,14 +220,14 @@ Human-facing retrieval map from exact flow/source locators to public chapter/que
 ## Recommended reading order
 
 1. this entrypoint;
-2. `WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md`;
-3. `WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md`;
-4. `WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`;
-5. `WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md`;
-6. `WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`;
-7. `WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`;
-8. `WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md`;
-9. `WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`;
+2. `01 Evidence and Source-Facing/WUWA_AEMEATH_CHARACTER_DEEP_DIVE_PRE_AV.md`;
+3. `01 Evidence and Source-Facing/WUWA_AEMEATH_EVIDENCE_AND_FALSIFICATION_MATRIX.md`;
+4. `01 Evidence and Source-Facing/WUWA_AEMEATH_RELATIONSHIP_AND_STATE_PROFILE.md`;
+5. `01 Evidence and Source-Facing/WUWA_AEMEATH_IDENTITY_EMBODIMENT_AND_SHELL_PROFILE.md`;
+6. `01 Evidence and Source-Facing/WUWA_AEMEATH_ORDINARY_LIFE_AND_PREFERENCES_PROFILE.md`;
+7. `03 Audiovisual and Voice/WUWA_AEMEATH_SPEECH_AND_MACHINE_VOICE_PROFILE_PRE_AV.md`;
+8. `02 Reconstruction/WUWA_AEMEATH_RECONSTRUCTIVE_PROFILE_PRE_AV.md`;
+9. `04 Validation and Readiness/WUWA_AEMEATH_MODEL_FIDELITY_AND_STRESS_TEST_PRE_AV.md`;
 10. AV nomination plan;
 11. AV human retrieval crosswalk.
 

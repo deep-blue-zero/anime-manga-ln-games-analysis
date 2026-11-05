@@ -1,0 +1,202 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_WHOLE_SUPPLIED_EDITION_ROOT_ACCEPTANCE_V1",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+  "native_filename": "Konosuba - TRPG - Advanced Rulebook.epub",
+  "native_bytes": 123248665,
+  "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+  "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+  "preceding_full_gate_source": "01d9273078ff4d836984af086c16ee8633edc0c8",
+  "preceding_gate_sha256": "4a31ff49723a88ca56be8178c4feb2941c062465c7701d87fadf035aa04e4406",
+  "preceding_fresh_reload_sha256": "4ea033fe05e3b159bf5be5b61167b8d185151e92f564d8f8d7cc1e7ee571c38e",
+  "source_first_full_pass": {
+    "schema": "KONOSUBA_TRPG_ADV_ACTUAL_SOURCE_AND_READING_RECEIPT_V1",
+    "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+    "source_id": "TRPG-ADV",
+    "native_filename": "Konosuba - TRPG - Advanced Rulebook.epub",
+    "native_bytes": 123248665,
+    "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+    "admission_sha256": "bddebca5cad084e939ff27ff4f8b1c76c5193ebb2bb0832608b1bd0fa954bdd9",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "e9372fbbee1c5bd15cd50936fe50b6b4a4bf5ced94d36ddc2335b449d52ccddf",
+    "language": [
+      "ja"
+    ],
+    "all331_actual_native_source_order_views": true,
+    "all_eligible_continuous_bodies_actually_read": true,
+    "individual_scopes_control": true,
+    "native_image_and_wrapper_archive_and_local_joins_reverified": 331,
+    "fresh_native_CRC": "PASS",
+    "complete_uncoded_seal_utc": "2026-10-18T04:44:52.985333+00:00",
+    "complete_uncoded_seal_sha256": "311a0e465734dd4508b34234e11cc7b1981c25b1c957fde1f7da10fd8ee3765c",
+    "uncoded_page_log_bytes": 631994,
+    "uncoded_page_log_sha256": "2e2d85c5f0616bd6444f1fe7bf4ea7e179b18e35159a2954772469dd41ad2945",
+    "uncoded_comic_observations": 282,
+    "initial_voice_witnesses": 49,
+    "formal_selected_premises": 100,
+    "formal_voice_witnesses": 49,
+    "short_fragment_records": 46,
+    "paraphrase_only_records": 3,
+    "all_formal_assignments_after_seal": true,
+    "additional_precision_whole_native_pages": [
+      95,
+      96
+    ],
+    "crops": [
+      {
+        "source_spine": 22,
+        "native_box": [
+          720,
+          1510,
+          1420,
+          1900
+        ],
+        "scale": 2,
+        "scope": "profile label: printed出自動画retained"
+      },
+      {
+        "source_spine": 326,
+        "native_box": [
+          90,
+          760,
+          900,
+          910
+        ],
+        "scale": 2,
+        "scope": "promotionalアクセル教団wordingretained"
+      }
+    ],
+    "display_request": "original",
+    "native_dimensions": [
+      1441,
+      2048
+    ],
+    "whole_display_dimensions": [
+      1312,
+      1864
+    ],
+    "reader_exposure": "Continuing informed root AI lineage, known main17/four holdouts/Dust01-02/artbooks/fanbook/Core, possible pretraining; no pristine blindness, native-human/acoustic judgment or statistical independence",
+    "same_root_authorship_and_checking_not_independent": true,
+    "no_OCR_audio_or_native_human_claim": true,
+    "dense_numeric_index_cross_rule_certification": false,
+    "initial_admission_status_kept_historically": "Admission recorded zero actual views at its own earlier time; this later receipt does not rewrite it.",
+    "publication_status": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "root_semantic_scope": "Same continuing informed root actually read331nativepages/eligible continuous prose at individual scopes, authored full17responsibility report, selected100premises/49voice arguments/30ledgerproposals, and checked native precision95/96plus326crop. No second independent full pass or outside reviewer is represented.",
+  "full_argument_responsibilities": 17,
+  "all331varying_page_dispositions_preserved": true,
+  "all282uncoded_comic_observations_preserved": true,
+  "all49uncoded_voice_objects_preserved": true,
+  "all30ledger_decisions": true,
+  "current_qualifications": [
+    {
+      "id": "ADV-RQ01",
+      "source": "S095/printed093",
+      "current": "The named cheat used by Gilbert is 悪役の迫力 (Villain Presence), turning Goran critical into fumble. This is distinct from the separately printed enemy cheat 邪神の刻印, which targets noncritical failures. Original note already names Villain Presence correctly; this precision check resolves uncertainty without inventing a general rule from it."
+    },
+    {
+      "id": "ADV-RQ02",
+      "source": "S326 promotional back cover",
+      "current": "Crop clearly prints アクセル教団の街. Retain the literal promotional wording; do not silently replace it with アクシズ教団 or overwrite world-reference Alcanretia. This is not a new factual church identity."
+    },
+    {
+      "id": "ADV-RQ03",
+      "source": "S250/printed248; S251 note; S324 index note",
+      "current": "シンフォニア is Symphonia, correcting the initial English gloss Sinforia while retaining its exact Japanese fragment. Initial index note Christ is a typing error for Chris, not a new source reading. These English metadata corrections leave all sealed notes unchanged."
+    },
+    {
+      "id": "ADV-RQ04",
+      "source": "S022 profile enlargement",
+      "current": "Retain printed 出自:動画 already checked in the first pass. Do not replace it with inferred truck background or infer that the source profile is an error-free biography."
+    },
+    {
+      "id": "ADV-RQ05",
+      "source": "S149/147; S220/218; S276/274; S279/277; S287/285; S309/307",
+      "current": "Retain Wire Action maximum/prerequisite discrepancy, below9 versus9orbelow wording, Combat Golem45(3D) hit, Wyvern breath summary/body values, Poison Needle success-trigger wording and Bōren attack summary/type mismatch without silent repair or exhaustive mechanics certification."
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 220067,
+      "sha256": "d822c9b2421e2de9a321b72c2876d9b7815877440ab5d6364e6c339ef9561f76",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 151304,
+      "sha256": "c830203d537fecca03a3b352bb6c5a77a3f48b4ec3e98cc352cd26161010c5cf",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 202264,
+      "sha256": "ff0e09ce263a3c1346b27af6d1d907a5c377bbc409ca7e1be41f1549e47a5896",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 147773,
+      "sha256": "82d37b0b0aa652e6386b62a52a0e0bcff8275cf2f68bfd89befe8cec88f7b7a1",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 724317,
+      "sha256": "7963d6e8183c82fd151ebfd0ed7c3cb7784cdf798fe4b557c9b9b6308c0149eb",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 536486,
+      "sha256": "110602b1815081d5cb0860dccddf2202db1140326aff5d3befb5703cec582dd5",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 132149,
+      "sha256": "50b6ca68ac7519637c13386125a98cc30e226592974a4552790437d381793ec0",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 127380,
+      "sha256": "f27032790645ce06d60594d9383d4e9fcd0a9c49ca0a61f2e9700b57885061e0",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 115270,
+      "sha256": "c4a89032d94345e84c2219503d0b72b697f440436e8f927b24a8376e7e4ae661",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 990357,
+      "sha256": "ce5cf9327c046ad1e503636b1edfd82567f0c67c3fbbb69b7c9a7b38ece29d92",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_frozen3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_whole_editions_accepted": 2,
+    "supplemental_total": 19,
+    "mixed_programs_accepted_including_this_pending_publication": 5,
+    "mixed_programs_previously_published_full_gate_closed": 4,
+    "mixed_total": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "not_new_validation": "No fifthholdout/mainJ01/mainJ02pool or repaired frozen score. Same informed AI and coauthored game source are not independent trials.",
+  "next_boundary": "Close exact Advanced publication/readback/sourceaudit/housekeeping/finalactualsourceaudit/status/freshreload before separate Dust03admission; full remaining program continues."
+}

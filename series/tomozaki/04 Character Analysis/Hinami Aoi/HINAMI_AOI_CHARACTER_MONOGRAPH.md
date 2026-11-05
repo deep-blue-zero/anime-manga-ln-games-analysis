@@ -2,11 +2,12 @@
 series: TOMOZAKI
 artifact_type: character_monograph
 subject: HINAMI_AOI
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_ROUTED_SUPPLEMENTS
-source_boundary: "Locked Japanese V01–V11; V06.5 and V08.5 only at their admitted story-local placements"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_SUPPLEMENTS
+source_boundary: "Locked Japanese main V01–V12; V06.5/V08.5 at admitted story-local placements; V07 Special Edition distinctions retained"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
 analytical_generation: V2_REMEDIATION
-generation: R04_REVIEWED_INTEGRATION_V1.1
+generation: V12_REVIEWED_HINAMI
+drafted_against_commit: 406b26c4591a9bce99c83a54600286f56a35678e
 status: canonical
 release_state: mutable_active
 maturity_state: MATURE_LOCAL_LITERARY_ROLE
@@ -30,17 +31,21 @@ execution_reasoning_control: "No selectable Max control exposed in this chat; no
 execution_note: "Original author: read-only connected research and local Markdown authoring. Independent integration review and repository publication are separate operations recorded in the integration review; no retrospective verification of the original Max setting."
 supersedes: []
 superseded_by: []
+V12_integration_review: "../../08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md"
+V12_review_date: "2026-10-23"
 ---
 
-# Hinami Aoi — character monograph through Volume 11
+# Hinami Aoi — the practiced person and the limits of proof
 
 *The practiced person and the limits of proof*
 
-> **Reviewed literary authority.** This monograph passes the individual Hinami responsibility through V11 after independent source and semantic review. The [integration review](../../08%20Audits%20and%20Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md) records its before-image, bounded corrections and cumulative propagation. Together with the preserved reviewed Fumiya monograph it completes R04’s pair, while later character, specialist, convergence and release responsibilities remain open. It is mutable literary authority, not a released reconstruction model.
+> **Current literary authority.** This study passes independent source and semantic review for its individual monograph responsibility through V12. The [V12/principal and R06 integration review](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md) records the exact scope, corrections, evidence and preservation checks. Earlier R04/R05 acceptances and V11 states remain historical at their stated boundaries. Required relationship/thematic work, convergence, full-series release, derived models and formal terminal closure remain separate unfinished gates. Section 16 owns the current V12 band; all accepted HA identities remain intact.
 
 ## Reading routes
 
-For a direct answer to **who Hinami is**, begin with [§2](#central-account), then read the developmental cases in [§3](#development). For **how she thinks and acts**, use [§4](#capacities) and [§5](#beliefs). Her **Japanese speech and recipient-conditioned presentation** are treated in [§6](#voice); **preferences, humor, routines, and low-stakes life** in [§7](#ordinary-life). [§8](#relationships) distinguishes the people to whom she relates, and [§9](#ethics) separates explanation from authority and accountability. The bounded V11 state is in [§10](#boundary-state), rival readings in [§11](#rivals), and conditional reactions to novel situations in [§12](#conditional-reconstruction). [§13](#model-checks) tests the account retrospectively without claiming blind validation. [§14](#evidence) supplies deterministic evidence routes; [§15](#downstream) specifies downstream responsibilities.
+For a direct answer to **who Hinami is**, begin with [§2](#central-account), then read the developmental cases in [§3](#development). For **how she thinks and acts**, use [§4](#capacities) and [§5](#beliefs). Her **Japanese speech and recipient-conditioned presentation** are treated in [§6](#voice); **preferences, humor, routines, and low-stakes life** in [§7](#ordinary-life). [§8](#relationships) distinguishes the people to whom she relates, and [§9](#ethics) separates explanation from authority and accountability. The historical bounded V11 state is in [§10](#boundary-state), the V12 candidate state in [§16](#v12-update), rival readings in [§11](#rivals), and conditional reactions to novel situations in [§12](#conditional-reconstruction). [§13](#model-checks) tests the account retrospectively without claiming blind validation. [§14](#evidence) supplies deterministic evidence routes; [§15](#downstream) specifies downstream responsibilities.
+
+The accepted R04 body is retained rather than regenerated. Its V11 descriptions of a proposed party, absent response and untested re-entry remain historical assertions, not current claims that the V12 events did not happen. The new `HA-V12` routes are additive monograph-local retrieval labels; all existing HA-E00–29 and HA-P01–22 identities and their accepted evidence remain unchanged. Original authoring/acquisition statements in §14 record the R04 operation, not a newly performed authenticated retrieval by this producer. This update inherits the completed 42-spine/26-image V12 source receipt and records only its own selective source returns separately.
 
 The `HA-E` references are monograph-local evidence routes, not newly minted cumulative claim identities. Their entries point back to existing `CRI`, `CS`, `EFFORT`, and `JVL` responsibilities, the frozen reading or exact section, and audited or freshly inspected Japanese passages. `HA-P` identifies fresh inspection windows only. Neither prefix replaces the repository’s cumulative owners.
 
@@ -50,11 +55,11 @@ The `HA-E` references are monograph-local evidence routes, not newly minted cumu
 
 This study asks what sort of person Hinami Aoi is, how her conduct becomes intelligible across different situations, and where an apparently coherent account must stop. It reconstructs a person who can teach, compete, tease, organize, love particular qualities in particular people, decline intimacy, inflict calculated harm, experience uncomplicated moments of pleasure, and become unable to accept the life she has built. Those capacities must coexist in the analysis. Neither the admired school heroine nor the withdrawing V11 speaker can stand for the whole character. [HA-E01](#ha-e01)
 
-The governing evidence is the locked Japanese light-novel corpus through V11. The numbered readings remain historical source-facing states; the reconciled ledgers supply current claim dispositions. The supplements are not homogeneous chronological bridges. The middle-school romance and early-second-term shopping in V06.5 occupy different times. The Hinami story in V08.5 moves between childhood, middle school, the formation of NO NAME, and a Christmas frame between V07 and V08. Its private focalization changes reader access without automatically giving contemporaneous Tomozaki that knowledge. The V07 art block, V08.5’s declared parallel story, and adaptation-derived bonus material do not supply unmarked mainline evidence. [HA-E00](#ha-e00)
+The governing evidence for this update is the locked Japanese light-novel corpus through V12. The accepted R04 argument and its V11 endpoint are preserved below at their historical clock; §16 supplies the current candidate overlay. The numbered readings remain historical source-facing states; the reconciled ledgers supply current claim dispositions. The supplements are not homogeneous chronological bridges. The middle-school romance and early-second-term shopping in V06.5 occupy different times. The Hinami story in V08.5 moves between childhood, middle school, the formation of NO NAME, and a Christmas frame between V07 and V08. Its private focalization changes reader access without automatically giving contemporaneous Tomozaki that knowledge. The V07 art block, V08.5’s declared parallel story, and adaptation-derived bonus material do not supply unmarked mainline evidence. [HA-E00](#ha-e00)
 
 Three kinds of access require particular care. **First**, Tomozaki’s narration repeatedly interprets Hinami’s expression, motive, and competence. His close attention is valuable evidence, but an interpretation such as “she wants me to help” or “this is her real face” does not become her testimony. **Second**, the V11 family sequence begins as a disclosure and then uses internally focalized third-person and first-person narration. The disclosure occurs; its literary rendering does not establish that Tomozaki hears every represented memory or thought verbatim. **Third**, Kikuchi’s Alcia is an authored fictional figure. Resemblance, insight, and later corroboration do not turn Alcia’s speech or death-adjacent thoughts into Hinami’s own statements or intentions. [HA-E03](#ha-e03), [HA-E26](#ha-e26), [HA-E28](#ha-e28)
 
-The prose therefore distinguishes represented action, spoken or written statements, focalized thought, another character’s account, analyst inference, and analyst value judgment. A claim about what Hinami currently feels is not necessarily a claim about what is objectively true. A causal interpretation of her development is not a diagnosis. A prediction about a specified hypothetical situation is not a missing scene. The work does not determine Nagisa’s intent, identify Yoko’s private practice as a named religion, reconcile the V10/V11 school-year conflict, prescribe a cure, decide the eventual romantic pairing, or supply a post-V11 outcome.
+The prose therefore distinguishes represented action, spoken or written statements, focalized thought, another character’s account, analyst inference, and analyst value judgment. A claim about what Hinami currently feels is not necessarily a claim about what is objectively true. A causal interpretation of her development is not a diagnosis. A prediction about a specified hypothetical situation is not a missing scene. The work does not determine Nagisa’s intent, identify Yoko’s private practice as a named religion, reconcile the V10/V11 school-year conflict, prescribe a cure, decide the eventual romantic pairing, or invent a post-V12 outcome.
 
 The existing monograph’s most useful propositions survive: performance is labor rather than evidence of nonexistence; antecedent control answers the loss of trusted retrospective meaning; capacity can persist when a governing reason fails; and person-specific attachments exceed the stated doctrine. What changes is their evidentiary depth and scope. In particular, the prior claim that Hinami has not received Mizusawa’s confession is retired: **V03 contains a confession and refusal; V11 does not show the renewed declaration being carried out.** The account also no longer treats the full family retrospective as an exhaustive spoken disclosure or a pre-remediation full-series candidate as governing evidence. [HA-E13](#ha-e13), [HA-E26](#ha-e26)
 
@@ -301,7 +306,7 @@ The scene also complicates “rational player versus intuitive character.” Ear
 
 The result defeats the particular guarantee he offered. It does not logically establish that nobody can be trusted, that the lives she affected were false, or that life is objectively a bad game. Hinami’s concluding reversal of her original judgment is a consequential current statement, not a narrator-certified universal conclusion. The gap between the precision of the game result and the breadth of the life verdict is the point at which the monograph must retain both respect for her agency and limits on the inference.
 
-### 3.22 The publication boundary: other people propose, Hinami has not agreed
+### 3.22 The V11 publication boundary: other people propose, Hinami has not agreed
 
 Kikuchi’s fiction later helps Tomozaki reorganize his understanding and the two move toward a collective proposal. Multiple perspectives might disclose errors in his singular approach; ordinary shared history might offer a less monopolistic route than his failed guarantee. Those are possibilities and analyst interpretations of the proposal’s design. They are not observed Hinami responses. [HA-E28](#ha-e28)
 
@@ -664,7 +669,7 @@ The most defensible ethical synthesis is thus double-sided. Hinami’s capacity 
 <a id="boundary-state"></a>
 <a id="4-current-state-vector"></a>
 <a id="13-current-endpoint-and-open-hypotheses"></a>
-## 10. The bounded V11 state
+## 10. The historical bounded V11 state — V12 candidate update in §16
 
 ### 10.1 Six variables that must not be collapsed
 
@@ -1105,7 +1110,7 @@ The complete current REC-01–REC-15 and COR-01–COR-06 registers were consulte
 The remaining Rena, Mimimi, and supporting-character controls are retained by keeping their events outside this monograph’s invented reach: local restraint is not a lifelong emotional rule, distinct refusals and contacts are not conflated, and another person’s independent development is not invented to complete Hinami’s story.
 
 <a id="downstream"></a>
-## 15. Downstream responsibilities and the R04 handoff
+## 15. Downstream responsibilities and the historical R04 handoff
 
 This study owns Hinami’s individual literary account, developmental variation, ordinary-life evidence, speech, and evidence-bounded conditional behavior. It does not absorb the emergent logic of the Tomozaki/Hinami relationship or the separate thematic responsibilities. Those artifacts should use its distinctions without merely repeating its chronology.
 
@@ -1118,3 +1123,160 @@ The integration preserves all frozen readings, the R01–R03 manifest, source-lo
 Fumiya’s and Hinami’s individual literary responsibilities now pass independent review, completing **R04 at the two-monograph scope**. The path manifest and integration review bind the reviewed changes; formal publication results attach to the exact resulting Git commit. R05–R09 remain separate unfinished literary work; R10 cross-specialist convergence, R11 full-series rewriting, and R12 release are not certified by this local acceptance. No formal derived reconstruction model or invented continuation is included.
 
 Hinami remains, at the admitted boundary, a person who has accomplished much, valued more than her strictest account permits, caused real harm, received real care, and refused answers that sometimes genuinely exceed others’ authority. Her incompletion is not a failure of characterization. It is the point at which the evidence requires the analyst to hold capability, attachment, judgment, and an unchosen future together without pretending that one of them has already resolved the others.
+
+
+<a id="v12-update"></a>
+## 16. V12 update: a different relation to the life already made
+
+### 16.1 What changes, and what the change does not require us to discard
+
+V12 substantially changes Hinami's present state. The party is convened, its first answer fails, a revised novel is written and delivered, and Hinami actually reads it. She reports a little present self-liking, later attends a school event in uniform among familiar peers, and accepts shared public play. These events supersede the earlier present-tense absence of a recipient response or any re-entry. They do not make the accepted V11 endpoint wrong at its own clock. Nor do they invalidate the R04 account of a practiced person whose capacities and attachments exceed what her proof project can certify. They supply new tests of that account. [HA-V12-E01](#ha-v12-e01), [HA-V12-E06](#ha-v12-e06)
+
+The new movement is not the acquisition of a previously nonexistent personality. It is a revision in the frame by which Hinami judges capacities, remembered pleasure, attachment and dependence. Much of what becomes usable was already hers. This distinction matters ethically as well as psychologically: recognizing that a practiced kindness was real does not legitimate every manipulation, make retaliation harmless or require the people affected to forgive. A life can contain actual value and actual wrongdoing without either cancelling the other.
+
+The first-person chapter also changes the evidence. Earlier scenes often required an analyst to distinguish Fumiya's interpretation from Hinami's statement. V12 gives the reader her own inward recollection, resistance and changing self-interpretation. It does not thereby make her interpretation infallible. Her guilt, appraisal of Mimimi and conjecture about visitors remain her accounts. Above all, the chapter is not a newly transcribed interview received by Fumiya or a shared party memory. [HA-V12-E02](#ha-v12-e02)
+
+### 16.2 The birthday trigger becomes more specific without becoming a diagnosis
+
+Hinami remembers pleasure in the birthday cake, game and recognition. She nearly permits herself to receive the warmth, while anticipating that it will leak away because she thinks herself a damaged vessel. That expectation is direct evidence of self-disqualification. It is not an external finding that she really is incapable of retention, or that the care was an empty deception. The scene strengthens the R04 distinction between genuine affective reception and the further demand that pleasure establish a self she can trust. [V12 p0022 P42–56; HA-V12-E02]
+
+The acute visual reminder is more precise than a general inability to see her mother. She says she was already accustomed to her mother's and Haruka's faces. What she had not seen for a long time was the room where Yoko prayed, with an illegible scroll inside a double-doored wooden cabinet. The image prompts a felt resemblance to what she experiences as contamination within herself. The remembered room and pressure are represented in her first-person account; they do not identify a named religion, organization, doctrine or deliberate abusive intention. Her limited recollection of what followed is not a clinical diagnosis. [p0022 P59–78; fresh HA-V12-S01]
+
+This precision changes the causal account without making it total. The mother/video interpretation in §3.19 remains useful as the earlier available account of imposed meaning; V12 identifies the concrete image around which the rupture sharpened. The further assertion that this image alone explains every consequence would exceed the evidence. So would treating familiarity with the faces as proof that those relationships had become harmless. A familiar person, a particular visual memory, grief and a current self-model can have different roles in the same event.
+
+Her remembered achievement also once carried an experience of agency: a mathematical result seemed to show that acting could change a world otherwise explained through inherited meaning. The later proof regime should not be retroactively reduced to pointless output. It supplied genuine hope and capability, even where its demand for a total warrant proved unsustainable. This is a further reason to preserve the work, not merely celebrate its abandonment. [p0022 P6–10; EFFORT §81.1]
+
+### 16.3 A reader can exercise agency inside a pressured and invasive encounter
+
+The delivery is neither a fully authorized offer nor a scene of absolute passivity. Yuzu, Nakamura and Takei appear; Aoi speculates that they may intend an apology or be acting within Fumiya's strategy. Those are her hypotheses, not a certified account of their motives. She refuses contact. Takei's voice crosses the curtains, and Haruka leaves the manuscript after Aoi says she will not read it. Later Haruka reads independently, cries, names Nagisa as her sister and presses the bundle on Aoi. Aoi can imagine refusing it and takes it. Her choice is real; so is the emotional pressure surrounding it. [p0022 P114–226; earlier fresh returns in the Yuzu review; HA-V12-E03]
+
+The younger sister matters as a reader and a bereaved person, not merely as Fumiya's successful access route. Her knowledge and investment are particular. Her tears do not make her omniscient about Aoi's whole history or the authors' method. Nor does Aoi's later benefit retrospectively convert the earlier no into yes. The right ethical description preserves the sequence of refusal, exposure, pressure, receipt, resistance and continued reading.
+
+Reading initially hurts. Hinami experiences the unnamed fictional likeness as exposure and an attempt to define her. Removing names has not made the representation anonymous to its subject. She can be angry at the defining gaze and still find accuracy, recognition or possibility in the text. The continued turn of a page is evidence of engagement, not a standing grant of onward-sharing or publication rights. [p0022 P230–284, P708–742]
+
+The objection remains active at the very point the story begins to work. She recognizes a resemblance to her mother's device: an attractive account enters a weakened person and makes a life seem meaningful. She does not simply forget that danger when she continues. The strongest account therefore does not oppose wholly coercive maternal story to wholly innocent peer story. It identifies a revised method, recipient resistance and an explicitly owned authorial wish, while retaining the invasive means and uncertain authority. Kikuchi's later denial that tears prove rightness is indispensable counterevidence to a rescue triumph. [DR12 §5; p0026 P114–119]
+
+### 16.4 The ellipse changes an assumption, not the facts of Nagisa's death
+
+The embedded Alcia story refuses to falsify recalcitrant observations to preserve a perfect circle. The eventual ellipse preserves publicly testable data while revising the assumed form. Hinami already knows the geometry. What is new is the possibility that deviation from one demanded shape need not mean that the moving self is defective. Moving from a geometrical fact to a way of living remains metaphor and received interpretation; it is not a mathematical proof of human worth or a universal theory that everyone needs exactly two psychological supports. [p0022 P523–742; JVL §13.5]
+
+Her own response supplies evidence that the metaphor is doing more than decorating a theory. Memories arrive as different sensory events: a marked mathematics paper, the smell and color of a track, the monitor's light and the ranking names, stage lighting and applause. She had counted them as interchangeable first places. She now registers that they were not one color. The remembered activities have a texture and history that the correctness box had obscured. The change does not require those achievements to become equally important, morally perfect or sufficient forever. [fresh p0022 P708–742; HA-V12-S01]
+
+This is a stronger update than saying that external validation finally fills her empty center. She is changing what counts as evidence about the life already lived. It is also more limited than declaring a completed new philosophy. Her inward statement that she mixed the colors is her present self-interpretation. It must not become a new total verdict that she caused every loss by thinking wrongly, or that self-reframing alone can undo other people's harm. The precise supported development is differentiation where one evaluative category had flattened distinct experiences.
+
+Nagisa's last step remains unknowable in the same chapter. Hinami lists accident, intentional entry, physical exhaustion or dizziness, and despair without selecting a proven mechanism. More than five years have not supplied the cause, and no counterfactual establishes what one action by Aoi would have prevented. Her guilt is severe direct inward evidence; it is not a causal finding. The grade conflict preserved in §3.3 is not resolved by the story's ending. [fresh p0022 P504–514; HA-V12-E04]
+
+### 16.5 What she wants to say is different from what she can discover
+
+The reunion is explicitly a thirty-second answer inside a story. Aoi asks what she would want to know and what she would want to say if she could speak to Nagisa again. Semantic ruby makes the crossing visible: `アルシア` is read as `私`, `私` as `アルシア`, and `渚` as `ナギサ`. Near the end `魔法` is read as `ものがたり`. Both base and reading matter. The prose permits the reader and fictional figure to interpenetrate without introducing an independent deceased-person witness. [fresh p0022 P846–979; HA-V12-S02]
+
+Aoi anticipates asking whether Nagisa slipped, despaired or chose death. What emerges instead is apology, love, admiration and thanks. The change is not that the author secretly supplies the missing causal answer. It is that Aoi discovers an address she wants to make even without that answer. Her thanks for Nagisa having been herself to the end expresses affirmation in this imaginative encounter; it cannot authenticate the actual girl's final consciousness. Likewise, Aoi's apologies do not establish that she could have prevented the death. The force of the address must be preserved without turning either love or self-accusation into historical proof.
+
+The moon image gives the new relation to received value a concrete form. A body that depends on another light and can be hidden by a cloud can still look beautiful to her. This revises the demand that only a wholly self-luminous and independent person can be acceptable. It does not establish that all dependency is safe or that a single other person should carry her continued existence. The following story-speech of birth gratitude can be received as a loving wish even though similar language in the mother's system carried a coercive universal explanation. Attribution, context and the reader's use make the difference; the repeated words are not a verbal cure. [p0022 P938–979; source audit §4/JVL §13.2]
+
+The original source receipt identifies the following Nagisa illustration within this imagined/remembered child register. It does not classify it as a photograph, actual resurrection or independent testimony. This producer inherits that visual-role receipt and adds no new visual fact. No ghost, hallucination diagnosis or newly recovered last words follow from the immersive literary form.
+
+### 16.6 A little self-liking and a local return are actual developments
+
+When focalization returns to Fumiya, Haruka's message gives him a route to the encounter. It gives him neither the whole preceding reading experience nor Aoi's every private revision. Asked whether she now likes herself, Hinami admits a little, with tears and irritation at the admission. Fumiya explicitly permits the possibility that the state is temporary. Her statement is direct evidence of present self-liking; his confidence that she can recover it again is his confidence. Duration has not been demonstrated. [p0024 P9–12; fresh p0026 P15–23; HA-V12-E06]
+
+Fumiya's offer to replace Nagisa is immediately withdrawn by Fumiya himself. The ensuing support is a jointly made story that may remain available beside doubt, rather than an accepted substitute-sister office. His promise that the story can support future life is marked by his own narration as unfounded confidence. A sincere commitment can be meaningful without becoming evidence that permanent recovery or a complete support protocol has already been secured. [p0026 P40–102; REL §17.1]
+
+Several days later Hinami actually attends the career event in uniform, sits between Mimimi and Tama, responds to familiar jostling and moves toward the public stage. The glance toward a worried Tama and the irritated peer exchange matter as ordinary participation, not only as evidence that the intervention succeeded. Fumiya lip-reads the quiet complaint about unnecessary meddling; he does not hear it across the room. His inference that performance no longer seems wrong to her is an inference. Visible polished movement does not expose an entire interior. [p0026 P212–238; HA-V12-E07]
+
+She accepts an exhibition and chooses Found after initially hovering Boxman; Fumiya also chooses Found after Jack. This is a present choice to share a history-bearing game form. It does not invalidate the V11 Boxman victory or show that her earlier thirty-one empty input frames were intentional mercy. The exhibition itself and its result are unnarrated. “Final match” must therefore mean the accepted impending encounter, not a match the analyst has watched to completion. [p0026 P239–258; V12-C01/C38]
+
+At P267, Hinami says she has stopped clinging to correctness. The grammar and recipient are exact: this is a report about herself in reply to Fumiya's challenge over who was correct, not an instruction that he stop. It materially revises the current self-theory. The short retest does not establish that all standards, competitiveness, proof habits or future temptations have vanished. Fumiya then proposes enjoyment. His final god-tier-game assertion is his owned value judgment, not her exhaustive new creed or the narrator's proof that life is fair. [fresh p0026 P261–284; HA-V12-S03]
+
+### 16.7 Recipients remain different people with different access
+
+| Recipient / relation | V12 change or continuing evidence | Boundary that remains |
+|---|---|---|
+| Fumiya / nanashi | receives slight self-liking, meets her after Haruka's message, shares later public play | no automatic access to all p0022 interior; no resumed coaching, reciprocal romance or permanent rescue role |
+| Haruka | reads independently, invokes their shared sister, urges receipt and alerts Fumiya | pressure is real; Aoi's uptake does not settle sibling repair or Haruka's durable independence from the admired model |
+| Mimimi | sits beside Aoi and uses familiar physical encouragement; Nana destabilizes Aoi's prior estimate | Aoi's picture of a weak copy is a partial, outdated model, not current analyst authority over real Mimimi's independently evidenced self-regard |
+| Tama | remains a particular valued person and worried peer whom Aoi notices on return | present warmth does not process the earlier revenge or authorize preserving Tama as an unchanging ideal |
+| Mizusawa | his fictionalized Sharif challenges Aoi's dismissal of care; actual peer encouragement continues | acted/authored speech is not a new real romantic confession, and Aoi's reader response is not a renewed real reply; V03 refusal survives |
+| Yuzu, Nakamura and Takei | deliver the manuscript and later occupy ordinary public peer space | Aoi's apology/trap theories remain conjectures; Takei's loudness is useful locally, Yuzu's final words are unheard |
+| Kikuchi | authored model actually reaches and affects Aoi while provoking resistance | representational power is not a complete authorized dyadic intimacy; tears do not confer publishing or onward-disclosure rights |
+| Nagisa / Yoko | Aoi's memory, guilt and revised address become directly available to the reader | no new real Nagisa/Yoko interior testimony; no death mechanism, named religion or comprehensive family reconciliation |
+
+The table records actual layers, not an all-purpose audience script. A model that simply distributes the private chapter to everyone would make the apparent ensemble wiser and more informed than the text permits. Conversely, a categorical claim that nobody ever learns anything would ignore the chosen disclosures and present answers. Each proposition needs its own route, recipient and time. [DR12 §4.5; CS §19; REL §17; JVL §13]
+
+### 16.8 Ordinary life is neither a hidden cure nor an expendable remainder
+
+V12 adds a useful food distinction. Aoi describes the birthday cheesecake and game as assembled from things she loves. That is stronger direct recipient evidence than the analyst inferring liking from a celebration's design. It remains event-specific: it does not establish a single favorite food, every cheesecake as preferred, or childhood cheesecake as a permanent habit. The separately attested cheese-filled hamburger steak in §7.2 retains its own source and force. No complete menu follows from either observation. [fresh p0022 P47–56]
+
+The colors, smells, paper, screen and applause of her remembered achievements similarly enrich the ordinary account. Her life did not become real only when she received the final story. The new narration makes lived differences available inside activities already performed. It does not supply a full schedule, brand profile, reading habit or lifelong sensory preference. Her reading of this particular manuscript is consequential without proving a general preference for fiction or permanent availability to be represented.
+
+A park, a bench, a school uniform, a seat between friends, an elbow pushing back against jostling and a cursor over a familiar character return the account to small actions. These are signs of particular participation, with known audiences and costs. They should not be made into either a clinical checklist or mere decorative proof of a philosophical answer. Aoi can be irritated, affected, competitive and partly hopeful in the same interval.
+
+The other people's ordinary work remains independent too. The underprepared council event requires Ashigaru's professional presentation after Fumiya and Mimimi let preparation slide while absorbed in the novel. Aoi's return does not retroactively organize that labor or make the cost disappear. Her presence as an audience member at an event associated with her prior office is not evidence that she has resumed that office. [p0026 P177–234; SOC §17.1/17.4]
+
+### 16.9 Current V12 tuple, historical states retained
+
+| Variable | Current candidate formulation | Remaining limit |
+|---|---|---|
+| Competence | retained repertoire and public presentation support accepted play and local participation | no new match result, rank census or test of every earlier academic/athletic/social capacity |
+| Confidence | direct little self-liking and declared relaxation of correctness coexist with uncertainty | no permanent self-esteem, cured grief or demonstrated response to the next serious failure |
+| Status | still recognized and invited within the peer/public setting; she attends in uniform | no new school ranking, full attendance record or presidential reinstatement |
+| Self-concept | the judging frame becomes revisable; remembered achievements differ rather than merely tallying proof | her self-explanation remains situated, not the recovered complete truth of every motive |
+| Agency | refuses, receives under pressure, resists, continues reading, reports a present change and accepts shared play | no blanket consent, complete autonomy from context or comprehensive affirmative life plan |
+| Value ownership | attachment, own address of love, received story and shared rivalry become usable without resolving absence | no universal endorsement of dependence, final romantic category, career completion or general stopping rule |
+
+The most defensible revision is therefore substantial and bounded: current total withdrawal is no longer the endpoint, while the larger viability of a changed life is not demonstrated. A later or hypothetical situation must select this V12 band rather than silently reuse either the early coach or the V11 withdrawing subject. §§12–13 remain explicitly conditional and retrospective literary tests; this update creates no new derived reconstruction artifact.
+
+### 16.10 Rival readings and discriminating limits
+
+| Proposed conclusion | Disposition and evidence |
+|---|---|
+| Fiction finally proves what Nagisa really felt | REJECT. Explicit surviving uncertainty, authorial caveat and ruby-mediated identification preserve the absent witness. Aoi finds an address, not a new causal record. |
+| The video simply showed her mother, who is the whole cause | REVISE. Room/scroll narrows the acute visual trigger; familiar faces, prior care, current self-model and wider history remain distinct. |
+| The new story is wholly unlike Yoko's imposed meaning | REJECT the absolute contrast. Aoi notices the resemblance; authorial revision and accountable prayer distinguish the offer without erasing invasion/pressure. |
+| Beneficial tears authorize the method and future publication | REJECT. Effect, truth, prior consent, ethical rightness and publication rights have different evidence. |
+| Only her own frame was wrong, therefore nobody else did harm | REJECT. Revaluation of achievement does not absolve private-information transfer, coercion, bullying or revenge. |
+| The ending merely installs Fumiya as an exclusive replacement dependency | DOWNGRADE. He retracts substitution; story, doubt and plural relations matter. OPEN durable dependence and support arrangements. |
+| Her return proves permanent cure and restored presidency/coaching | REJECT. One present self-report and local school/public interval are real but limited; temporariness is expressly allowed. |
+| She has no further relation to correctness or competitive pride | REJECT as total. Her present statement revises the governing claim; retained skill, familiar banter and cursor choice do not establish the permanent elimination of standards. |
+| The final result restores one player's unique authority | REJECT. Both choose Found, but the match/result are not narrated. Prior V11 defeat remains; no result can be invented to finish the argument. |
+| The whole private chapter is available to Fumiya and peers | REJECT. Shown communication routes establish particular knowledge; first-person reader access remains distinct. |
+
+These are adversarial checks against both an unqualified rescue success and an unqualified nullification of change. The evidence would not support calling the response merely unreal because it was mediated through fiction. It equally does not support treating mediation as a guarantee of truth or harmlessness. The source establishes an actual changed relation to some of her life with incomplete future retesting.
+
+### 16.11 Additive evidence routes and selective returns
+
+**DR12** means the complete frozen [V12 analytical reading](../../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md). The [V12 sequential completion audit](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) owns the original whole-source and image receipt; the [prospective entering snapshot](../../08%20Audits%20and%20Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md) preserves what preceded that reading. The six current-owner aliases retain the exact document routes in §14.1, with the V12 sections specified below.
+
+All original HA-E00–29 and HA-P01–22 are preserved. The following local additions route existing cumulative claims rather than minting new corpus families. All short V12 member forms mean `item/xhtml/p-NNNN.xhtml` in the selected 10,165,455-byte Japanese EPUB, SHA-256 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`. P counts every paragraph, including empty/image paragraphs; non-P headings and image references are checked separately. Source ruby is retained with base/readings distinguished. The source authority remains the original archive, not helper brackets.
+
+| Local route | Existing owners and source-facing claims | Exact source and use |
+|---|---|---|
+| <a id="ha-v12-e01"></a>HA-V12-E01 | CRI-HIN-001–006; CS-HIN-01–05; EFFORT-H03/H08/H20/H25–29; DR12 §§3.6–3.7,4.2,5,8–9 | V12-C26–38; new current self-theory/uptake without a new general cure claim |
+| <a id="ha-v12-e02"></a>HA-V12-E02 | V12-C26/C27/C29; CRI-HIN-002/004/005; JVL §13.2 | p0022 P1–110, P294–398; reader interior, acute trigger, self-disqualification and limited peer models |
+| <a id="ha-v12-e03"></a>HA-V12-E03 | V12-C28; REL-C03/C04/C09/C12; SOC-C19 | p0022 P114–284; house refusal, relay, Haruka's own reading, pressure and initial intrusion |
+| <a id="ha-v12-e04"></a>HA-V12-E04 | V12-C30/C31; CRI-EPI-002; CRI-OQ-HIN-001; EFFORT-H25/H27 | p0022 P504–514, P523–742; unknown death/prevention and revised geometric frame |
+| <a id="ha-v12-e05"></a>HA-V12-E05 | V12-C32; JVL §13.2/13.5; REL-C10 | p0022 P825–979; tentative earlier-motive interpretation, imaginary address and semantic ruby; no authentic last testimony |
+| <a id="ha-v12-e06"></a>HA-V12-E06 | V12-C33–35; CRI-HIN-006; CRI-OQ-HIN-002/003; REL-C02/C08 | p0024 P9–12; p0026 P15–102/P114–119; present self-liking, possible transience, retracted substitution and tears-not-proof |
+| <a id="ha-v12-e07"></a>HA-V12-E07 | V12-C36–39; CS-HIN-01/03; SOC §17.4; JVL §13.3 | p0026 P177–284; ordinary public return, actual speech/inference, Found selections, no match/result, self-directed correctness remark |
+| <a id="ha-v12-e08"></a>HA-V12-E08 | Original V12 completion audit §§2–5; prospective Q01–03/Q10/Q13–14; six-owner overlays | Complete original 42-member/26-image consultation is inherited from its actual receipt; no ritual full novel/image reread or new gate claim by this producer |
+
+Fresh source-return records for this update are selective:
+
+| Return | Exact member/window | Reason and limitation |
+|---|---|---|
+| HA-V12-S01 | V12 p0022 P42–78, P504–514, P708–742, P825–845; member 979 all-P | Precise trigger, unresolved alternatives, differentiated memories and tentative self-interpretation. Quoted recollections do not turn the complete private chapter into heard speech. |
+| HA-V12-S02 | V12 p0022 P846–979 | Full bounded reunion/ruby/address context; story-generated speech remains fiction-mediated. |
+| HA-V12-S03 | V12 p0026 P15–23/P261–284; member 284 all-P | Present little self-liking, transience and exact P267 speaker/grammar; no narrated result. |
+| HA-V12-S04 | V10 `text/part0024.html` P126–178 (member 178 all-P); `text/part0026.html` P1–42 (member 95 all-P) | New narrow return to the already accepted HA-E23/P16–17 route, verifying earlier spoken-question overlap and preventing an overbroad V11 attribution. V10 witness SHA-256 `316d510c2062119a1d3b77e3bb1cb6746340479db07c16579504bd1d5060b2d7`. |
+
+V12 p0022 P825/P828 match questions already spoken in the V10 ride at `text/part0024.html` P162/P176; P836/P839 match `text/part0026.html` P17/P25. This establishes particular earlier heard content. It does not establish that every remembered line originated solely in V10, or make the V11 mixed-person retrospective an exhaustive transcript. The correct current wording is earlier disclosed questions, including the V10 ride, followed by new private reflection. The current claim index §20 records the accepted attribution erratum for the frozen V12 reading's “V11 spoken questions” shorthand. No frozen reading is edited here.
+
+The full current accepted study and R04 review were read before editing. The full 341-line frozen V12 analytical reading had already been read untruncated during this continuous campaign; its relevant chapter/current-state argument was reconsulted for this update. The six owners were consulted through CS §19, REL §17, EFFORT §§79–84, CRI §18, SOC §17 and JVL §13 at source406b, with the R04 controls and immutable prospective questions retained. These are responsibility-specific owner reads, not a new line-by-line reading of every large ledger. The producer's separate read receipt records exact windows, recovered output and what was inherited.
+
+### 16.12 Preservation, current limits and independent-review debt
+
+This candidate preserves the accepted R04 file through targeted changes, not wholesale regeneration. All unaffected accepted bytes, stable evidence identities and original source/review history are retained. Only explicit draft authority, admitted boundary, historical/current retrieval pointers and the new V12 band change. No canonical study, shared owner, map, source freeze, registry, index, ref or commit is modified by this producer.
+
+The remaining source-bound unknowns are substantive: Nagisa's intent and preventability, the grade discrepancy, a named classification of Yoko's practice, full family repair, durable self-liking, ordinary attendance and presidency/coaching arrangements, a complete affirmative future end, revenge accountability, prospective disclosure/representation rules and terminal romantic outcomes. They are not blanks to fill for a satisfactory literary ending. The exact allocation/payment meaning of the earlier mugs also receives no new proof here.
+
+Independent review found the V12 band a defensible extension of the accepted argument and checked its new load-bearing routes and recipient boundaries. The V10 spoken-overlap refinement is recorded in current CRI §20, with the frozen reading unchanged. The integration review records the bounded individual-role PASS; it does not certify convergence, literary release, derived models, publication on a future commit or formal terminal closure.

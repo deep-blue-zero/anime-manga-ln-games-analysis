@@ -13,16 +13,22 @@ from unittest import mock
 TOOLS = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(TOOLS))
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight
-from character_index_core import AuthorityGraph, DomainError, GitSnapshot, SnapshotEntry
-from generate_character_index import render
+from character_index_core import (
+    RECONSTRUCTION_POLICY_PATH, AuthorityGraph, DomainError, GitSnapshot, SnapshotEntry,
+)
+from generate_character_index import render_outputs
 from update_repository_indexes import expected_outputs
 from validate_repository import (
-    validate_generated_index, validate_registered_root_topology, validate_series_registry,
+    RECONSTRUCTION_OUTPUTS, _policy_from_snapshot, _reconstruction_delta_paths,
+    _reconstruction_integration_base, _reconstruction_target_commit, validate_bytes,
+    validate_generated_index, validate_generated_repository_indexes, validate_paths,
+    validate_reconstruction_domain, validate_registered_root_topology, validate_series_registry,
 )
 
 SOURCE_SHA = "a" * 40
 ENTRYPOINT = "series/example/CURRENT.md"
 DESCRIPTOR = "series/example/.repository/series-registry.json"
+OUTPUT_ISOLATION_ERROR = "reconstruction production outputs must change alone"
 
 
 def entry(path: str, data: bytes) -> SnapshotEntry:
@@ -50,9 +56,10 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     base = GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
     for path, data in expected_outputs(base).items():
         entries[path] = entry(path, data)
-    entries["characters/registry.jsonl"] = entry("characters/registry.jsonl", b"")
+    # An empty partitioned registry has no partition files.
     entries["CHARACTER_ANALYSIS_INDEX.md"] = entry(
-        "CHARACTER_ANALYSIS_INDEX.md", render([], AuthorityGraph(base)).encode(),
+        "CHARACTER_ANALYSIS_INDEX.md",
+        render_outputs([], AuthorityGraph(base))["CHARACTER_ANALYSIS_INDEX.md"].encode(),
     )
     if new_root:
         entries[ENTRYPOINT] = entry(ENTRYPOINT, (
@@ -72,11 +79,18 @@ def fixture(*, new_root: bool = True) -> GitSnapshot:
     return GitSnapshot(TOOLS.parent, SOURCE_SHA, entries)
 
 
-def fixture_baseline(source: GitSnapshot) -> tuple[GitSnapshot, list[str]]:
-    """Normalize inherited routing only in the disposable CLI test fixture.
+def fixture_baseline(
+    source: GitSnapshot, published: GitSnapshot | None = None,
+) -> tuple[GitSnapshot, list[str]]:
+    """Normalize inherited routing and evaluator outputs only in the disposable CLI test fixture.
 
     A source checkout can legitimately await its own housekeeping. Materialize
     its descriptors before adding the separate synthetic series/example root.
+    The evaluator's branch can likewise carry unpublished reconstruction
+    outputs, which must change alone: restore them to `published`, the
+    validator's integration base, so the synthetic root never mixes with them.
+    A candidate that also amends the reconstruction policy keeps its outputs,
+    exactly as the validator permits.
     This does not depend on AUDIT_BRANCH, which the nested test deliberately changes.
     """
     projected = source
@@ -86,8 +100,67 @@ def fixture_baseline(source: GitSnapshot) -> tuple[GitSnapshot, list[str]]:
         )
         if match and match[3] == ("series" if match[2] == "series" else "study"):
             projected, _ = routing_preflight(projected, match[1])
-    changed = sorted(path for path in ROUTING_OUTPUTS if projected.entries[path] != source.entries[path])
+    if published is not None and (
+        source.get(RECONSTRUCTION_POLICY_PATH) == published.get(RECONSTRUCTION_POLICY_PATH)
+    ):
+        entries = dict(projected.entries)
+        for path in RECONSTRUCTION_OUTPUTS:
+            restored = published.get(path)
+            if restored is None:
+                entries.pop(path, None)
+            else:
+                entries[path] = restored
+        projected = GitSnapshot(projected.root, projected.identity, entries)
+    changed = sorted(
+        path for path in ROUTING_OUTPUTS | RECONSTRUCTION_OUTPUTS
+        if projected.get(path) != source.get(path)
+    )
     return projected, changed
+
+
+def reconstruction_base(root: Path) -> str:
+    """Return the integration base the validator compares a staged index with."""
+
+    target = _reconstruction_target_commit(root, "index", None)
+    base = _reconstruction_integration_base(root, target, "index")
+    if base is None:
+        raise AssertionError(f"no reconstruction integration base in {root}")
+    return base
+
+
+def unpublished_reconstruction_fixture() -> tuple[GitSnapshot, GitSnapshot]:
+    """Return a source carrying unpublished reconstruction outputs, and its published state."""
+
+    published = fixture(new_root=False)
+    for path in RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH}:
+        published.entries[path] = entry(path, b"published\n")
+    source = fixture()
+    source.entries[RECONSTRUCTION_POLICY_PATH] = published.entries[RECONSTRUCTION_POLICY_PATH]
+    for path in RECONSTRUCTION_OUTPUTS:
+        source.entries[path] = entry(path, b"unpublished evaluator output\n")
+    return source, published
+
+
+def published_reconstruction(root: Path) -> GitSnapshot:
+    """Read the reconstruction policy and outputs at the validator's integration base."""
+
+    return GitSnapshot.from_commit(
+        root, reconstruction_base(root), paths=RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH},
+    )
+
+
+def evaluator_candidate(source: GitSnapshot, published: GitSnapshot) -> GitSnapshot:
+    """Model the evaluator's branch on `source`: unpublished outputs under the published policy.
+
+    The evaluator never amends the policy, so the model keeps the integration
+    base's policy bytes whatever policy change the checkout under test carries.
+    """
+
+    entries = dict(source.entries)
+    entries[RECONSTRUCTION_POLICY_PATH] = published.entries[RECONSTRUCTION_POLICY_PATH]
+    for path in RECONSTRUCTION_OUTPUTS:
+        entries[path] = entry(path, b"Unpublished evaluator output.\n")
+    return GitSnapshot(source.root, source.identity, entries)
 
 
 class AnalyticalPreflightTests(unittest.TestCase):
@@ -160,6 +233,167 @@ class AnalyticalPreflightTests(unittest.TestCase):
             self.assertEqual(projected.entries[path], before[path], path)
         self.assertEqual(fixture_baseline(projected)[1], [])
 
+    def test_fixture_baseline_restores_published_reconstruction_outputs(self) -> None:
+        source, published = unpublished_reconstruction_fixture()
+        before = dict(source.entries)
+        projected, changed = fixture_baseline(source, published)
+        self.assertLessEqual(RECONSTRUCTION_OUTPUTS, set(changed))
+        self.assertLessEqual(set(changed), ROUTING_OUTPUTS | RECONSTRUCTION_OUTPUTS)
+        for path in RECONSTRUCTION_OUTPUTS:
+            self.assertEqual(projected.entries[path], published.entries[path], path)
+        self.assertEqual(source.entries, before)
+        for path in before.keys() - ROUTING_OUTPUTS - RECONSTRUCTION_OUTPUTS:
+            self.assertEqual(projected.entries[path], before[path], path)
+        self.assertEqual(fixture_baseline(projected, published)[1], [])
+
+    def test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy(self) -> None:
+        # A reviewed policy amendment may change the outputs beside other paths.
+        source, published = unpublished_reconstruction_fixture()
+        source.entries[RECONSTRUCTION_POLICY_PATH] = entry(RECONSTRUCTION_POLICY_PATH, b"amended\n")
+        before = dict(source.entries)
+        amended, changed = fixture_baseline(source, published)
+        self.assertFalse(set(changed) & RECONSTRUCTION_OUTPUTS)
+        self.assertEqual(source.entries, before)
+        for path in RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH}:
+            self.assertEqual(amended.entries[path], before[path], path)
+
+    def clone_checkout(self, root: Path, environment: dict[str, str]) -> None:
+        """Clone the checkout under test and pin the clone's main to the source's."""
+
+        clone = subprocess.run(
+            ["git", "clone", "--config", "core.longpaths=true", "--shared", str(TOOLS.parent), str(root)],
+            env=environment, capture_output=True, text=True, check=False,
+        )
+        self.assertEqual(clone.returncode, 0, clone.stderr)
+        # The gate reads run stops from main. A CI checkout has no local
+        # branches, so pin the clone's main to the source's explicitly.
+        source_main = subprocess.run(
+            ["git", "-C", str(TOOLS.parent), "rev-parse", "--verify", "-q",
+             "refs/remotes/origin/main^{commit}"],
+            env=environment, capture_output=True, text=True, check=False,
+        ).stdout.strip() or subprocess.run(
+            ["git", "-C", str(TOOLS.parent), "rev-parse", "HEAD"],
+            env=environment, capture_output=True, text=True, check=True,
+        ).stdout.strip()
+        subprocess.run(
+            ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", source_main],
+            env=environment, capture_output=True, check=True,
+        )
+
+    def stage_cli_fixture(self, root: Path, environment: dict[str, str], candidate: GitSnapshot,
+                          *, pin_main: bool = False) -> None:
+        """Make the clone's index exactly `candidate`, normalize its baseline, then add the synthetic root.
+
+        With `pin_main`, the normalized candidate becomes the clone's main, so
+        the staged delta models a series branch carrying only the synthetic root.
+        """
+
+        cloned = GitSnapshot.from_index(root)
+        candidate_paths = sorted(
+            path for path in candidate.entries.keys() | cloned.entries.keys()
+            if candidate.get(path) != cloned.get(path)
+        )
+        for path in candidate_paths:
+            target = root / path
+            entry = candidate.get(path)
+            if entry is None:
+                target.unlink()
+            else:
+                self.assertEqual(entry.mode, "100644")
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_bytes(entry.data)
+        if candidate_paths:
+            subprocess.run(
+                ["git", "-C", str(root), "add", "--", *candidate_paths],
+                env=environment, capture_output=True, check=True,
+            )
+        self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
+        baseline, changed = fixture_baseline(GitSnapshot.from_index(root), published_reconstruction(root))
+        for path in changed:
+            entry = baseline.get(path)
+            if entry is None:
+                (root / path).unlink()
+            else:
+                (root / path).write_bytes(entry.data)
+        if changed:
+            subprocess.run(
+                ["git", "-C", str(root), "add", "--", *changed],
+                env=environment, capture_output=True, check=True,
+            )
+        if pin_main:
+            identity = dict(
+                environment,
+                GIT_AUTHOR_NAME="deep-blue-zero", GIT_AUTHOR_EMAIL="50891441+peipw@users.noreply.github.com",
+                GIT_COMMITTER_NAME="deep-blue-zero", GIT_COMMITTER_EMAIL="50891441+peipw@users.noreply.github.com",
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "commit", "-q", "--allow-empty", "--no-verify", "-m", "fixture main"],
+                env=identity, capture_output=True, check=True,
+            )
+            subprocess.run(
+                ["git", "-C", str(root), "update-ref", "refs/remotes/origin/main", "HEAD"],
+                env=environment, capture_output=True, check=True,
+            )
+        source = fixture()
+        for path in (ENTRYPOINT, DESCRIPTOR):
+            target = root / path
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(source.entries[path].data)
+        subprocess.run(
+            ["git", "-C", str(root), "add", "--", ENTRYPOINT, DESCRIPTOR],
+            env=environment, capture_output=True, check=True,
+        )
+
+    def assert_evaluator_outputs_isolated(self, root: Path) -> None:
+        changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
+        self.assertLessEqual({ENTRYPOINT, DESCRIPTOR}, changed)
+        self.assertEqual(changed & RECONSTRUCTION_OUTPUTS, set())
+        # Only the isolation rule is this fixture's concern: the modelled
+        # published policy need not satisfy an amended gate under test.
+        errors, _notices = validate_reconstruction_domain(root, GitSnapshot.from_index(root), "index", None)
+        self.assertEqual([error for error in errors if OUTPUT_ISOLATION_ERROR in error], [])
+
+    def test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs(self) -> None:
+        base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
+        if not base_value or not Path(base_value).is_dir():
+            self.skipTest("MANGA_ANIME_TEST_TMP is not available")
+        with tempfile.TemporaryDirectory(dir=base_value) as directory:
+            root = Path(directory) / "repository"
+            environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
+            self.clone_checkout(root, environment)
+            candidate = evaluator_candidate(GitSnapshot.from_index(TOOLS.parent), published_reconstruction(root))
+            self.stage_cli_fixture(root, environment, candidate)
+            self.assert_evaluator_outputs_isolated(root)
+
+    def test_cli_fixture_from_a_policy_amending_checkout(self) -> None:
+        base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
+        if not base_value or not Path(base_value).is_dir():
+            self.skipTest("MANGA_ANIME_TEST_TMP is not available")
+        with tempfile.TemporaryDirectory(dir=base_value) as directory:
+            root = Path(directory) / "repository"
+            environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
+            self.clone_checkout(root, environment)
+            # Model a checkout that amends the policy: the live policy with one
+            # more trailing newline, its valid outputs unchanged.
+            amended = GitSnapshot.from_index(TOOLS.parent)
+            policy = amended.entries[RECONSTRUCTION_POLICY_PATH]
+            amended.entries[RECONSTRUCTION_POLICY_PATH] = SnapshotEntry(
+                policy.path, policy.mode, policy.data + b"\n",
+            )
+            # The amendment keeps its outputs, and the validator exempts the delta.
+            self.stage_cli_fixture(root, environment, amended)
+            changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
+            self.assertLessEqual({RECONSTRUCTION_POLICY_PATH, ENTRYPOINT, DESCRIPTOR}, changed)
+            staged = GitSnapshot.from_index(root)
+            for path in RECONSTRUCTION_OUTPUTS:
+                self.assertEqual(staged.get(path), amended.get(path), path)
+            errors, _notices = validate_reconstruction_domain(root, staged, "index", None)
+            self.assertEqual(errors, [])
+            # Restaged in the same clone, the evaluator model built from this
+            # checkout still isolates its outputs.
+            self.stage_cli_fixture(root, environment, evaluator_candidate(amended, published_reconstruction(root)))
+            self.assert_evaluator_outputs_isolated(root)
+
     def test_cli_pending_then_materialized_integration(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
         if not base_value or not Path(base_value).is_dir():
@@ -167,51 +401,10 @@ class AnalyticalPreflightTests(unittest.TestCase):
         with tempfile.TemporaryDirectory(dir=base_value) as directory:
             root = Path(directory) / "repository"
             environment = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
-            clone = subprocess.run(
-                ["git", "clone", "--config", "core.longpaths=true", "--shared", str(TOOLS.parent), str(root)],
-                env=environment, capture_output=True, text=True, check=False,
-            )
-            self.assertEqual(clone.returncode, 0, clone.stderr)
             # A local full gate runs before commit: overlay its exact staged
             # candidate so nested CLIs do not accidentally test the old HEAD.
-            candidate = GitSnapshot.from_index(TOOLS.parent)
-            cloned = GitSnapshot.from_index(root)
-            candidate_paths = sorted(
-                path for path in candidate.entries.keys() | cloned.entries.keys()
-                if candidate.get(path) != cloned.get(path)
-            )
-            for path in candidate_paths:
-                target = root / path
-                entry = candidate.get(path)
-                if entry is None:
-                    target.unlink()
-                else:
-                    self.assertEqual(entry.mode, "100644")
-                    target.parent.mkdir(parents=True, exist_ok=True)
-                    target.write_bytes(entry.data)
-            if candidate_paths:
-                subprocess.run(
-                    ["git", "-C", str(root), "add", "--", *candidate_paths],
-                    env=environment, capture_output=True, check=True,
-                )
-            self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
-            baseline, changed = fixture_baseline(GitSnapshot.from_index(root))
-            for path in changed:
-                (root / path).write_bytes(baseline.entries[path].data)
-            if changed:
-                subprocess.run(
-                    ["git", "-C", str(root), "add", "--", *changed],
-                    env=environment, capture_output=True, check=True,
-                )
-            source = fixture()
-            for path in (ENTRYPOINT, DESCRIPTOR):
-                target = root / path
-                target.parent.mkdir(parents=True, exist_ok=True)
-                target.write_bytes(source.entries[path].data)
-            subprocess.run(
-                ["git", "-C", str(root), "add", "--", ENTRYPOINT, DESCRIPTOR],
-                env=environment, capture_output=True, check=True,
-            )
+            self.clone_checkout(root, environment)
+            self.stage_cli_fixture(root, environment, GitSnapshot.from_index(TOOLS.parent), pin_main=True)
             command = [
                 sys.executable, str(root / "tools/validate_repository.py"),
                 "--phase", "current", "--snapshot", "index", "--repo", str(root),
@@ -229,23 +422,31 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 capture_output=True, text=True, check=False,
             )
             self.assertEqual(projected_tests.returncode, 0, projected_tests.stdout + projected_tests.stderr)
-            strict = subprocess.run(
-                command, cwd=root, env=environment, capture_output=True, text=True, check=False,
+            # The CLI run above checks paths, bytes and identities before it
+            # projects routing, then everything else on the projection except
+            # the catalog render it defers. Check exactly that remainder here:
+            # the strict topology failure without preflight, and the committed
+            # projection's paths, bytes and catalogs.
+            staged = GitSnapshot.from_index(root)
+            self.assertIn(
+                "unregistered series root: series/example/",
+                validate_registered_root_topology(staged),
             )
-            self.assertNotEqual(strict.returncode, 0)
-            self.assertIn("unregistered series root: series/example/", strict.stdout)
-            projected, deferred = routing_preflight(GitSnapshot.from_index(root), "series/example")
+            projected, deferred = routing_preflight(staged, "series/example")
             for path in deferred:
                 (root / path).write_bytes(projected.entries[path].data)
             subprocess.run(
                 ["git", "-C", str(root), "add", "--", *deferred],
                 env=environment, capture_output=True, check=True,
             )
-            complete = subprocess.run(
-                command, cwd=root, env=environment, capture_output=True, text=True, check=False,
-            )
-            self.assertEqual(complete.returncode, 0, complete.stdout + complete.stderr)
-            self.assertNotIn("AWAITING_SYNCHRONIZATION", complete.stdout)
+            complete = GitSnapshot.from_index(root)
+            self.assertEqual(complete.entries, projected.entries)
+            self.assertEqual(routing_preflight(complete, "series/example")[1], [])
+            self.assertEqual(validate_registered_root_topology(complete), [])
+            self.assertEqual(validate_generated_repository_indexes(complete), [])
+            policy = _policy_from_snapshot(complete)
+            self.assertEqual(validate_paths(complete, policy), [])
+            self.assertEqual(validate_bytes(complete, policy, "current"), [])
 
     def test_nonregular_descriptor_is_not_admissible(self) -> None:
         source = fixture()

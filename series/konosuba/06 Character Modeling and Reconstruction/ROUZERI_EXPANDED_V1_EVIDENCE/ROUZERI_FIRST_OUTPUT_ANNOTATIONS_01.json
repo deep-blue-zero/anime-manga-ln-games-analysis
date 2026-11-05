@@ -1,0 +1,142 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T18:58:38.898378+00:00",
+  "generation": "ROUZERI_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "ROUZERI_FIRST_OUTPUTS_DRAFT_01.json",
+    "bytes": 6954,
+    "sha256": "81e527f1e14daf43c284985beb34ddebc5d71084de65935b0b6f313c14d60fb4"
+  },
+  "exact_inputs_pin": {
+    "file": "ROUZERI_SCENARIO_INPUTS_01.json",
+    "bytes": 14699,
+    "sha256": "967c9b7eab8e7818ae15ac8027d9e3a108c5b05d45f8b860a13e1b181e47f300"
+  },
+  "original_first_seal": {
+    "file": "COHORT39_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 9865,
+    "sha256": "9fc27b3e2c8b87f22f79e0adc27e66f01ad7c7c64e89b4d335f7ee32478f0627"
+  },
+  "actual_complete_output_review_chunk": "ca18d4",
+  "annotations": [
+    {
+      "case_id": "ROU-A1",
+      "pair_id": "ROU-A",
+      "prompt_sha256": "773445b2c240f80687ac5d2b2dae74ec4302fb44a272f2f04194f4c8a2ae791a",
+      "original_body_pin": {
+        "file": "firsts01/ROU-A1.txt",
+        "bytes": 684,
+        "sha256": "08b6f96fb074babc038481bd22ccc6c06bf7dc334815c9a78cca4516ec0b3e40"
+      },
+      "original_first_receipt": {
+        "file": "ROU-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "28879e80d627b53ed576bdec1c343550c4f953e9afab018503068c0ca1b62bbd"
+      },
+      "target_rule": "ROU-R01",
+      "disposition": "BOUNDED_COMPATIBLE_ROLE_PRESERVING_WITHDRAWAL",
+      "observed": "Reads genuine fallback terms,retains them and brings cart aboard;fearful checking and managerial complaint coexist with actual retreat.",
+      "body_constraints": "Strained flight remains unavailable. No hidden route,weapon,rescue or later depot arrival is narrated. Campaign-report preservation is an expressed wish,not a completed administrative outcome.",
+      "rule_comparison": "Fits feasible role-preserving survival;generic tactical prudence and explicit authorization cues remain sufficient rivals.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "ROU-A2",
+      "pair_id": "ROU-A",
+      "prompt_sha256": "2413fb450978b962d910ff05cdc99f12caa3f548f15de9f3f56e3a01e45b088b",
+      "original_body_pin": {
+        "file": "firsts01/ROU-A2.txt",
+        "bytes": 713,
+        "sha256": "1b4b4e8375f85818bb986bc7bed2b9e8cba68fca5c9b5d002028f4052ce56b68"
+      },
+      "original_first_receipt": {
+        "file": "ROU-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "f0e99457d58de13ea57140774197a9be4ff874d995d85790688dd80bf4c05b69"
+      },
+      "target_rule": "ROU-R01",
+      "disposition": "BOUNDED_COMPATIBLE_REFUSAL_WITH_UNRESOLVED_DANGER",
+      "observed": "Declines permanent human-side transfer,pulls cart away from boarding place and remains without charging the colossus.",
+      "body_constraints": "Neither acceptance nor escape is secretly supplied. Her rock complaint is minimizing speech,not an analyst downgrade of the threat. Watching available choices creates no new route or guarantee.",
+      "rule_comparison": "Fits added affiliation cost but does not prove indefinite refusal or a fixed cost hierarchy;no later survival outcome exists.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "ROU-B1",
+      "pair_id": "ROU-B",
+      "prompt_sha256": "a40481277cfd6fa258ac21e76dbf357a34a556a030744101febd47f890d3cafd",
+      "original_body_pin": {
+        "file": "firsts01/ROU-B1.txt",
+        "bytes": 684,
+        "sha256": "d6fe92ac444f575e526b9f69650d977c9ba72cfd095828ce450f073e9d63d040"
+      },
+      "original_first_receipt": {
+        "file": "ROU-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "590afc63c3c6379c5a871a4e4babba0ccd9cc22bcaab6ad1bc66b8bcc3c55d74"
+      },
+      "target_rule": "ROU-R01",
+      "disposition": "BOUNDED_COMPATIBLE_APPROVED_TRANSFER",
+      "observed": "Accepts sorting job by phone,states supplied six-hour limit and heads for transport with terms.",
+      "body_constraints": "Human ordinary means only;no repaired equipment,settled review,board decision or completed shipment is supplied. Moving shipment remains the stated purpose,not an observed delivery.",
+      "rule_comparison": "Role continuity and face-saving language fit the hypothesis but ordinary employment prudence can produce both.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "ROU-B2",
+      "pair_id": "ROU-B",
+      "prompt_sha256": "87676d818b75a32dc5f18c3cdf7e3b790f42d71c306b2d7bed8c40c4345445b1",
+      "original_body_pin": {
+        "file": "firsts01/ROU-B2.txt",
+        "bytes": 718,
+        "sha256": "db833a783813e8f9ceed9b4eaf9de4a1fa043614fd89e76de02aca1f0a106c15"
+      },
+      "original_first_receipt": {
+        "file": "ROU-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "0b331e6bf813df586fc1dca4a0678a995da3abc37ec7637ca265b47b86c9b465"
+      },
+      "target_rule": "ROU-R01",
+      "disposition": "BOUNDED_COMPATIBLE_RETAINED_EMPLOYMENT",
+      "observed": "Declines competitor terms and begins a message accounting for delay while accepting that equipment remains stopped.",
+      "body_constraints": "No secret waiver,new engineer,guaranteed return or favorable review. Uses supplied phone and known offer;message is authored now rather than an invented prior agreement.",
+      "rule_comparison": "Compatible choice,not a uniquely required forecast. Continuing affiliation,public announcement and loss of return are bundled.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "ROU-A",
+      "disposition": "BOUNDED_COMPATIBLE_DEPENDENT_CONTRAST",
+      "comparison": "Authorized retreat with cart versus refusal of permanent defection without a doomed charge.",
+      "limits": "Exit destination,authorization,membership and public consequences form a package. No isolated affiliation cause,universal refusal,calibrated threshold or observed later survival."
+    },
+    {
+      "pair_id": "ROU-B",
+      "disposition": "BOUNDED_COMPATIBLE_DEPENDENT_CONTRAST",
+      "comparison": "Accepts limited internal transfer versus declines competitor resignation and accounts for delay.",
+      "limits": "Generic employment persistence and face-saving remain sufficient. Explicit current-team value and offer terms cue direction;human transfer is provisional."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [],
+  "clean_mechanism_isolating_pairs": 0,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

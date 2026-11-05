@@ -1,0 +1,2436 @@
+{
+  "schema": "konosuba.cohort36.native-provenance.v1",
+  "recorded_utc": "2026-10-24T14:00:30.861934+00:00",
+  "source_known": true,
+  "starting_authority": {
+    "file": "COHORT36_STARTING_AUTHORITY_01.json",
+    "bytes": 377794,
+    "sha256": "9b19463eee8413a546ef9b5418c35c66e4e9a0aceeb1826f42bb893a05946f41"
+  },
+  "local_entering_head": "4491664acee5ad901620d795acf0812f86e5747c",
+  "local_entering_tree": "fbc6a0eb5f1d2b5b0c569e43620986ca11bc1b99",
+  "current_main_at_start": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "latest_certified_source": "4491664acee5ad901620d795acf0812f86e5747c",
+  "prior_source_audit_not_transferred_to_new_candidate": true,
+  "local_native_source_bindings": [
+    {
+      "source_id": "CONTEXP-01",
+      "bytes": 18609246,
+      "sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 30,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "7f86008bc3d9abe39c5da9924c7f8d0608b86985c19b43ce412fa56ee9b5b38f",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Spin-off - Continued Explosions - Volume 01.epub"
+    },
+    {
+      "source_id": "MAIN-07",
+      "bytes": 11201415,
+      "sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 27,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "337e510b49704bb01bc6cefc9dfbbe8aea2572d656212e6df4995f4aecf8436b",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 07.epub"
+    },
+    {
+      "source_id": "MAIN-08",
+      "bytes": 2964798,
+      "sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 26,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "6f9d657d375cabfeb72f84b6ad58df4afec75169ce44f847b352ba7bfcf176cc",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 08.epub"
+    },
+    {
+      "source_id": "MAIN-09",
+      "bytes": 3086699,
+      "sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 29,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "500dbdb46c71431c5e351f344c702e9de63f5da9b18da858dfecf524e78486c8",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 09.epub"
+    },
+    {
+      "source_id": "MAIN-10",
+      "bytes": 1630298,
+      "sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "61280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 10.epub"
+    },
+    {
+      "source_id": "MAIN-11",
+      "bytes": 6177663,
+      "sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "69d48ebec4d1989e6aaf34d304d7bd5d8c162f3223faad041adb67cf104ed64d",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 11.epub"
+    },
+    {
+      "source_id": "MAIN-12",
+      "bytes": 1570295,
+      "sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 25,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "2ef93048e85d44494c2da406d2e9efcbffcfe212b06efd3082bea72b81eea29c",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 12.epub"
+    },
+    {
+      "source_id": "MAIN-13",
+      "bytes": 2779947,
+      "sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 24,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "88e3963938b0ff79173f0827070dc99183cd95fce834fe3b5d09a78ffa005cf5",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 13.epub"
+    },
+    {
+      "source_id": "MAIN-14",
+      "bytes": 2839172,
+      "sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 26,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "7b5f993097093ad771fa7aefc4f6bb3185b52c4c722d0f4632635c2a26d34e37",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 14.epub"
+    },
+    {
+      "source_id": "MAIN-15",
+      "bytes": 2513225,
+      "sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "opf": "OEBPS/content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 25,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "32f1a1c0562163aecbe58619532b5feb3406a314f5fa9036783a271563103455",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 15.epub"
+    },
+    {
+      "source_id": "MAIN-16",
+      "bytes": 8530869,
+      "sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "opf": "item/standard.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 27,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 16.epub"
+    },
+    {
+      "source_id": "MAIN-17",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 20,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "bcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Main Series - Volume 17.epub"
+    },
+    {
+      "source_id": "MASK",
+      "bytes": 2895671,
+      "sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "opf": "content.opf",
+      "language": [
+        "ja"
+      ],
+      "spine_entries": 29,
+      "zip_crc": "PASS",
+      "semantic_inspection": "NOT_PERFORMED_BY_THIS_CHECK",
+      "opf_sha256": "327ab8c4c2253ee6e2777f2b179a4877a8a39ca4bbdaeafc4427d729357c3b7b",
+      "fresh_crc": "PASS",
+      "source_file": "Konosuba - Spin-off - Consulting the Masked Devil.epub"
+    }
+  ],
+  "all41_native_identity_retrieval": {
+    "file": "COHORT36_ALL41_NAMED_LEADS_01.json",
+    "bytes": 181428,
+    "sha256": "28285d7739359ef84acf6eb7552c84f97a54c078e2572cf8e78118fc167d8918"
+  },
+  "all41_retrieval_qualification": "Technical literal retrieval only:220 paragraph leads,58 country-name-only substring collisions,162 non-country candidates in13 known objects. No alias,image,nonparagraph or unnamed absence proof.",
+  "actual_unique_current_P": 2382,
+  "actual_inline_ruby_occurrences": 2389,
+  "per_source_unique_P": {
+    "MAIN-07": 425,
+    "MAIN-08": 654,
+    "MAIN-09": 360,
+    "MAIN-10": 160,
+    "MAIN-12": 140,
+    "MAIN-13": 95,
+    "MAIN-15": 91,
+    "MAIN-16": 70,
+    "MAIN-17": 87,
+    "CONTEXP-01": 50,
+    "MAIN-11": 175,
+    "MAIN-14": 50,
+    "MASK": 25
+  },
+  "objects_with_current_actual_P": 13,
+  "objects_with_any_current_actual_native_content": 13,
+  "selected_native_members": [
+    {
+      "file": "native-units01/CONTEXP01U019.json",
+      "bytes": 193013,
+      "sha256": "647f544905d9371ff9ec74fcb729dbe9c6beef07a22ee1013b29a7ae2475d0ed",
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP01U019",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "174287af567091af4894d78d7c54c16cd2be5b3f1cceb4880a26404132000892",
+      "native_member_bytes": 236019,
+      "paragraph_slots": 540,
+      "planned_ranges": [
+        [
+          71,
+          95
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          71,
+          95
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/CONTEXP01U013.json",
+      "bytes": 180561,
+      "sha256": "be04eea67e86a1b42db0bff7565aadc6ab3c29983305221ef1617b6373db2303",
+      "source_id": "CONTEXP-01",
+      "component_id": "CONTEXP01U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "598ef7fa04089518be1fe8dc3f5296a89ee236436fdfcd47dc75ca0bb43a4b5a",
+      "native_member_bytes": 229937,
+      "paragraph_slots": 501,
+      "planned_ranges": [
+        [
+          477,
+          501
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          477,
+          501
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN07U012.json",
+      "bytes": 190863,
+      "sha256": "374ead458a8c003dcf64a7e9cc1675098cf568e68b3862e16ca48051b67eeac6",
+      "source_id": "MAIN-07",
+      "component_id": "MAIN07U012",
+      "accepted_alias": "C1",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "7869efb68f8d33a674bc285dc26847ecc002edc5c3ed8423900d70ba2dee69d5",
+      "native_member_bytes": 92386,
+      "paragraph_slots": 488,
+      "planned_ranges": [
+        [
+          110,
+          195
+        ],
+        [
+          255,
+          315
+        ],
+        [
+          405,
+          460
+        ]
+      ],
+      "planned_unique_P": 203,
+      "actual_current_ranges": [
+        [
+          110,
+          195
+        ],
+        [
+          255,
+          315
+        ],
+        [
+          405,
+          460
+        ]
+      ],
+      "actual_current_unique_P": 203,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units02/MAIN07U018.json",
+      "bytes": 52858,
+      "sha256": "33c19b9d6e4d48884f4f3cdc1707ef3a54ea8ce625f2803abecb77dc9e052e93",
+      "source_id": "MAIN-07",
+      "component_id": "MAIN07U018",
+      "accepted_alias": "Ep1 / start",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "20ca360822aa445357001c244e025c761874dbd38c77fa268bf467e0e17f8f3b",
+      "native_member_bytes": 25166,
+      "paragraph_slots": 147,
+      "planned_ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "planned_unique_P": 147,
+      "actual_current_ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "actual_current_unique_P": 147,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN07U013.json",
+      "bytes": 180126,
+      "sha256": "907e4647002dd60876b22e68e01de5e323a24eb4511c600dcefc57f9928929a6",
+      "source_id": "MAIN-07",
+      "component_id": "MAIN07U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "061a3c2168d9f1d7e01c81b0fd081b4babaa7c97d455e4499029ad7e64126240",
+      "native_member_bytes": 84343,
+      "paragraph_slots": 540,
+      "planned_ranges": [
+        [
+          324,
+          348
+        ],
+        [
+          381,
+          405
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          324,
+          348
+        ],
+        [
+          381,
+          405
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN07U014.json",
+      "bytes": 167218,
+      "sha256": "831be45f77c43b9e1ce2bdd8ce03fff230fc7c70fd8110051847b706394de5dd",
+      "source_id": "MAIN-07",
+      "component_id": "MAIN07U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "dc263cd43ea1d5b0016d985a9a7d441b6de48e708edaf38617b05005f9efd469",
+      "native_member_bytes": 74748,
+      "paragraph_slots": 523,
+      "planned_ranges": [
+        [
+          40,
+          64
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          40,
+          64
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN08U012.json",
+      "bytes": 163698,
+      "sha256": "2b957a306c30f17bfd41040231584b51a2e346bd9a7e42dc8418643b66980b76",
+      "source_id": "MAIN-08",
+      "component_id": "MAIN08U012",
+      "accepted_alias": "C1",
+      "member": "text/part0010.html",
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "native_member_bytes": 84853,
+      "paragraph_slots": 452,
+      "planned_ranges": [
+        [
+          1,
+          452
+        ]
+      ],
+      "planned_unique_P": 452,
+      "actual_current_ranges": [
+        [
+          1,
+          452
+        ]
+      ],
+      "actual_current_unique_P": 452,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN08U018.json",
+      "bytes": 22206,
+      "sha256": "eb4c0072ece3ae0123510e8715ad086de3c0e5f6260750b26b41e71718960fe2",
+      "source_id": "MAIN-08",
+      "component_id": "MAIN08U018",
+      "accepted_alias": "Epilogue2",
+      "member": "text/part0016.html",
+      "member_sha256": "940db90d25bff7aade065e706e76455022e066a65ae841ce87c4d4e0af8d257e",
+      "native_member_bytes": 11894,
+      "paragraph_slots": 53,
+      "planned_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "planned_unique_P": 53,
+      "actual_current_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "actual_current_unique_P": 53,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN08U013.json",
+      "bytes": 182426,
+      "sha256": "9b9d38ae557f5063507376b4de431b821ca166f05ae37fd092a313ef3ad1f10e",
+      "source_id": "MAIN-08",
+      "component_id": "MAIN08U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_member_bytes": 94039,
+      "paragraph_slots": 498,
+      "planned_ranges": [
+        [
+          1,
+          24
+        ],
+        [
+          307,
+          331
+        ]
+      ],
+      "planned_unique_P": 49,
+      "actual_current_ranges": [
+        [
+          1,
+          24
+        ],
+        [
+          307,
+          331
+        ]
+      ],
+      "actual_current_unique_P": 49,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN08U014.json",
+      "bytes": 228085,
+      "sha256": "ae2577cb92b67e3817852b0a6441b9e66cc21cf669c0b8583928b693eb740646",
+      "source_id": "MAIN-08",
+      "component_id": "MAIN08U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0012.html",
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "native_member_bytes": 115264,
+      "paragraph_slots": 673,
+      "planned_ranges": [
+        [
+          438,
+          462
+        ],
+        [
+          607,
+          631
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          438,
+          462
+        ],
+        [
+          607,
+          631
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN08U016.json",
+      "bytes": 194295,
+      "sha256": "da38f57a216a7466efa3fe7e2833b40aa4979946a13a4c3273bed3345874851e",
+      "source_id": "MAIN-08",
+      "component_id": "MAIN08U016",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_member_bytes": 99338,
+      "paragraph_slots": 559,
+      "planned_ranges": [
+        [
+          482,
+          506
+        ],
+        [
+          516,
+          540
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          482,
+          506
+        ],
+        [
+          516,
+          540
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U021.json",
+      "bytes": 20449,
+      "sha256": "d9f965b0eefe22f0adf2c579aa1e1b96e2992583ad53c9b509199b7787328bdf",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U021",
+      "accepted_alias": "electronic bonus",
+      "member": "OEBPS/Text/part0019.xhtml",
+      "member_sha256": "337a386fc5d23c64c4bf81f3561e3a8372c9d912bb164828bc07926bb3c6ff57",
+      "native_member_bytes": 8174,
+      "paragraph_slots": 61,
+      "planned_ranges": [
+        [
+          1,
+          61
+        ]
+      ],
+      "planned_unique_P": 61,
+      "actual_current_ranges": [
+        [
+          1,
+          61
+        ]
+      ],
+      "actual_current_unique_P": 61,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U012.json",
+      "bytes": 183696,
+      "sha256": "9d57d47ab43efecc17be9942c8eb9a2621e201a60c633e88a9ff82c898d2e0a1",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U012",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "94ff7d5cab3addb0b54fdf1766242d3ed6dc5b7d0bfa92d23625e23dfaafbdc3",
+      "native_member_bytes": 83149,
+      "paragraph_slots": 546,
+      "planned_ranges": [
+        [
+          45,
+          86
+        ],
+        [
+          102,
+          126
+        ],
+        [
+          225,
+          249
+        ]
+      ],
+      "planned_unique_P": 92,
+      "actual_current_ranges": [
+        [
+          45,
+          126
+        ],
+        [
+          225,
+          249
+        ]
+      ],
+      "actual_current_unique_P": 107,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U013.json",
+      "bytes": 224288,
+      "sha256": "e184027793fd22807393d062ec8bfc82c57d50af76666a9fc48a85b929b6e92a",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+      "native_member_bytes": 103066,
+      "paragraph_slots": 658,
+      "planned_ranges": [
+        [
+          342,
+          366
+        ],
+        [
+          618,
+          642
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          342,
+          366
+        ],
+        [
+          618,
+          642
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U014.json",
+      "bytes": 192547,
+      "sha256": "e05780562c311beb604e2a4a763e3cab50fa2ae15a628df4a827fba394e91233",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "40571af74e14c4eb2861e7857c542804e68b286408d272f2a52c55628d453ba9",
+      "native_member_bytes": 89485,
+      "paragraph_slots": 544,
+      "planned_ranges": [
+        [
+          79,
+          103
+        ],
+        [
+          220,
+          244
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          79,
+          103
+        ],
+        [
+          220,
+          244
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U015.json",
+      "bytes": 109827,
+      "sha256": "6a04a49f4475a033cc7492018ce6670a70069adcee206860c62780a8cd9ef412",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U015",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "26b9cf78a4d301aef90ec736b1c7570cfccd9ef5119e6af46eb03e387b119c85",
+      "native_member_bytes": 52403,
+      "paragraph_slots": 300,
+      "planned_ranges": [
+        [
+          135,
+          159
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          135,
+          159
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U017.json",
+      "bytes": 21466,
+      "sha256": "65493b3ad5259b555218957d90dad0d64e7094477f65de1baabf13a284ffc97d",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U017",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0015.xhtml",
+      "member_sha256": "db2390f1b63ba58198c8aa50d3a56baca65f072874b64970d05c68c964ed2214",
+      "native_member_bytes": 9813,
+      "paragraph_slots": 74,
+      "planned_ranges": [
+        [
+          5,
+          29
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          5,
+          29
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN09U018.json",
+      "bytes": 12253,
+      "sha256": "169a95048f22698bf4f86501a30046f489b6ef6b43710d6296d434c05025cd62",
+      "source_id": "MAIN-09",
+      "component_id": "MAIN09U018",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "member_sha256": "c5f9d1ee601b45fadeb886b393fb18c4086e5b31a633be994e4cddacfa504dee",
+      "native_member_bytes": 5740,
+      "paragraph_slots": 42,
+      "planned_ranges": [
+        [
+          1,
+          23
+        ]
+      ],
+      "planned_unique_P": 23,
+      "actual_current_ranges": [
+        [
+          1,
+          42
+        ]
+      ],
+      "actual_current_unique_P": 42,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN10U021.json",
+      "bytes": 18687,
+      "sha256": "04662c4056893f8961391ec0ee43ff54267474ec18e21f4470179ea6507b04b8",
+      "source_id": "MAIN-10",
+      "component_id": "MAIN10U021",
+      "accepted_alias": "electronic bonus",
+      "member": "text/part0019.html",
+      "member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "native_member_bytes": 8348,
+      "paragraph_slots": 60,
+      "planned_ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "planned_unique_P": 60,
+      "actual_current_ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "actual_current_unique_P": 60,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN10U016.json",
+      "bytes": 249002,
+      "sha256": "19121dace6cbcf3941c5f705420bbc1a8989c95a4fa112433b9dbca21139c668",
+      "source_id": "MAIN-10",
+      "component_id": "MAIN10U016",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0014.html",
+      "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+      "native_member_bytes": 124364,
+      "paragraph_slots": 758,
+      "planned_ranges": [
+        [
+          24,
+          48
+        ],
+        [
+          323,
+          347
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          24,
+          48
+        ],
+        [
+          323,
+          347
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN10U015.json",
+      "bytes": 194983,
+      "sha256": "f88dd50f701041eb6831e7263c5fe51a1d0d17ddb13bbb5e1f2522824aa1bc35",
+      "source_id": "MAIN-10",
+      "component_id": "MAIN10U015",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0013.html",
+      "member_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0",
+      "native_member_bytes": 97022,
+      "paragraph_slots": 610,
+      "planned_ranges": [
+        [
+          569,
+          593
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          569,
+          593
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN10U012.json",
+      "bytes": 125044,
+      "sha256": "3cdf3fde8bff002ea1e0c822d11bd592d85250f7544f2a79d79868c6063d9826",
+      "source_id": "MAIN-10",
+      "component_id": "MAIN10U012",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0010.html",
+      "member_sha256": "f87f7afb3581d5ce16fed794c82b7fa4421ce6df21fde22c4dc4722482e6c74f",
+      "native_member_bytes": 64271,
+      "paragraph_slots": 337,
+      "planned_ranges": [
+        [
+          268,
+          292
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          268,
+          292
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN11U015.json",
+      "bytes": 203089,
+      "sha256": "0bf1517de4f2438774585005e7605a6596656682cf97da5f62f46f1a98202719",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U015",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+      "native_member_bytes": 92240,
+      "paragraph_slots": 580,
+      "planned_ranges": [
+        [
+          523,
+          547
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          523,
+          547
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN11U013.json",
+      "bytes": 169705,
+      "sha256": "610e34268e799bbe07120b5c33c3006b92193529cb24f88611c58af69544a79e",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+      "native_member_bytes": 75782,
+      "paragraph_slots": 534,
+      "planned_ranges": [
+        [
+          40,
+          64
+        ],
+        [
+          374,
+          398
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          40,
+          64
+        ],
+        [
+          374,
+          398
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN11U014.json",
+      "bytes": 208552,
+      "sha256": "5c212e7cdf3aa5d54bdc8410118515dccf18a8f6ce1b17c3c906903a8ddabd52",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+      "native_member_bytes": 97251,
+      "paragraph_slots": 579,
+      "planned_ranges": [
+        [
+          185,
+          209
+        ],
+        [
+          255,
+          279
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          185,
+          209
+        ],
+        [
+          255,
+          279
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN11U016.json",
+      "bytes": 121805,
+      "sha256": "eae16d6d58ad405a564fbdf3d1ef95e34a0cd0bd9bc9a660e0ab94063fb51b14",
+      "source_id": "MAIN-11",
+      "component_id": "MAIN11U016",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+      "native_member_bytes": 56493,
+      "paragraph_slots": 358,
+      "planned_ranges": [
+        [
+          193,
+          217
+        ],
+        [
+          300,
+          324
+        ]
+      ],
+      "planned_unique_P": 50,
+      "actual_current_ranges": [
+        [
+          193,
+          217
+        ],
+        [
+          300,
+          324
+        ]
+      ],
+      "actual_current_unique_P": 50,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN12U015.json",
+      "bytes": 118434,
+      "sha256": "9644ae53e972e6054b049746313abd239147b3704f1c66fe6b3425503108d871",
+      "source_id": "MAIN-12",
+      "component_id": "MAIN12U015",
+      "accepted_alias": "C4",
+      "member": "text/part0013.html",
+      "member_sha256": "1c6c24403c57af3e0a9462e2da5cbd02e167718d69322f7d01a9e38104de8bde",
+      "native_member_bytes": 61324,
+      "paragraph_slots": 346,
+      "planned_ranges": [
+        [
+          1,
+          115
+        ]
+      ],
+      "planned_unique_P": 115,
+      "actual_current_ranges": [
+        [
+          1,
+          115
+        ]
+      ],
+      "actual_current_unique_P": 115,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN12U013.json",
+      "bytes": 126321,
+      "sha256": "d01a486b5c37502c6f83325a02bc345a6af9ead7f5bd1fa0dee7907aa945c1c4",
+      "source_id": "MAIN-12",
+      "component_id": "MAIN12U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0011.html",
+      "member_sha256": "c98b5bfb627be5a78df510209dc9820a941c8962a9e851600c845dc6d5d602bf",
+      "native_member_bytes": 64233,
+      "paragraph_slots": 400,
+      "planned_ranges": [
+        [
+          2,
+          26
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          2,
+          26
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN13U013.json",
+      "bytes": 190181,
+      "sha256": "798c2669c21892521d1c1904247d3bf9471ac26b96c3845c45979f25c55f836b",
+      "source_id": "MAIN-13",
+      "component_id": "MAIN13U013",
+      "accepted_alias": "C2",
+      "member": "text/part0011.html",
+      "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2",
+      "native_member_bytes": 98164,
+      "paragraph_slots": 518,
+      "planned_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "planned_unique_P": 45,
+      "actual_current_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "actual_current_unique_P": 45,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN13U014.json",
+      "bytes": 171094,
+      "sha256": "9407ccc91614fe1a29854a4fa6786963b6715b047f5ba4d1c9d070338a17b302",
+      "source_id": "MAIN-13",
+      "component_id": "MAIN13U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0012.html",
+      "member_sha256": "12590adbafb9ee7f56f93b81db010f04598185528298f75719ebb2ca3ac412ab",
+      "native_member_bytes": 87043,
+      "paragraph_slots": 498,
+      "planned_ranges": [
+        [
+          190,
+          214
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          190,
+          214
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN13U015.json",
+      "bytes": 153598,
+      "sha256": "d030ee59f7ec8cf66dbf531a1e4cf2d2e7717bc37f5ae7a133fe90c7b760791c",
+      "source_id": "MAIN-13",
+      "component_id": "MAIN13U015",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0013.html",
+      "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+      "native_member_bytes": 78747,
+      "paragraph_slots": 411,
+      "planned_ranges": [
+        [
+          211,
+          235
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          211,
+          235
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN14U012.json",
+      "bytes": 144317,
+      "sha256": "a58dd13048e89d4eeed281678a0e80a4ec90151e1836a379bf483ef020a367e8",
+      "source_id": "MAIN-14",
+      "component_id": "MAIN14U012",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "native_member_bytes": 66610,
+      "paragraph_slots": 418,
+      "planned_ranges": [
+        [
+          111,
+          135
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          111,
+          135
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN14U017.json",
+      "bytes": 121871,
+      "sha256": "ffd976dee783d674f7859ae3c2ae8fc8aae79f811ef29dba8f75640f6a8b67f8",
+      "source_id": "MAIN-14",
+      "component_id": "MAIN14U017",
+      "accepted_alias": "bounded name-reference context",
+      "member": "OEBPS/Text/part0015.xhtml",
+      "member_sha256": "4712c5ed58591907fcc73823ac98f75d8a5536d53c8305ebc4ba3b09d75bc5dc",
+      "native_member_bytes": 54600,
+      "paragraph_slots": 384,
+      "planned_ranges": [
+        [
+          344,
+          368
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          344,
+          368
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN15U015.json",
+      "bytes": 167261,
+      "sha256": "969cb6906883f42f167bec9c1caecadab8e82e12de19747e1271ce4504260bf4",
+      "source_id": "MAIN-15",
+      "component_id": "MAIN15U015",
+      "accepted_alias": "C4",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+      "native_member_bytes": 75618,
+      "paragraph_slots": 520,
+      "planned_ranges": [
+        [
+          340,
+          430
+        ]
+      ],
+      "planned_unique_P": 91,
+      "actual_current_ranges": [
+        [
+          340,
+          430
+        ]
+      ],
+      "actual_current_unique_P": 91,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN16U011.json",
+      "bytes": 16555,
+      "sha256": "4916a12062fcba5b19ccce6b1ee4a4da05b78032bddacc3a4e8842e0d53aa2cf",
+      "source_id": "MAIN-16",
+      "component_id": "MAIN16U011",
+      "accepted_alias": "I1",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+      "native_member_bytes": 8617,
+      "paragraph_slots": 45,
+      "planned_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "planned_unique_P": 45,
+      "actual_current_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "actual_current_unique_P": 45,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN16U014.json",
+      "bytes": 174614,
+      "sha256": "269b22830c237a0e9b240e1e735fadb1362e26d24c475a2d2aefb8e277a8eefa",
+      "source_id": "MAIN-16",
+      "component_id": "MAIN16U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+      "native_member_bytes": 78867,
+      "paragraph_slots": 538,
+      "planned_ranges": [
+        [
+          152,
+          176
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          152,
+          176
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN17U016.json",
+      "bytes": 15861,
+      "sha256": "0ed89b99dfe00aeefcb6e511600caf7f54857278d3eba46b5aa9b9666c1e5a3a",
+      "source_id": "MAIN-17",
+      "component_id": "MAIN17U016",
+      "accepted_alias": "creator afterword",
+      "member": "text/part0014.html",
+      "member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "native_member_bytes": 10194,
+      "paragraph_slots": 37,
+      "planned_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "planned_unique_P": 37,
+      "actual_current_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "actual_current_unique_P": 37,
+      "complete_current_member": true,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN17U014.json",
+      "bytes": 235449,
+      "sha256": "f2a705f3ca2d10f0b7515a127ee16c5c7153a604990c83db3d68ebac13b85e57",
+      "source_id": "MAIN-17",
+      "component_id": "MAIN17U014",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "native_member_bytes": 127087,
+      "paragraph_slots": 789,
+      "planned_ranges": [
+        [
+          646,
+          670
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          646,
+          670
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MAIN17U013.json",
+      "bytes": 187034,
+      "sha256": "04c296889dd2c9ef12be87dfe2a7c494680be1751fbf315479179fe5d6d33b56",
+      "source_id": "MAIN-17",
+      "component_id": "MAIN17U013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "native_member_bytes": 102051,
+      "paragraph_slots": 560,
+      "planned_ranges": [
+        [
+          33,
+          57
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          33,
+          57
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    },
+    {
+      "file": "native-units01/MASKU013.json",
+      "bytes": 172569,
+      "sha256": "c8667ebf7fb2f7641030fcbd0ae6a40f1fe6d06987d231e2d4b63dcdbb915ddf",
+      "source_id": "MASK",
+      "component_id": "MASKU013",
+      "accepted_alias": "bounded name-reference context",
+      "member": "text/part0011.html",
+      "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+      "native_member_bytes": 88502,
+      "paragraph_slots": 481,
+      "planned_ranges": [
+        [
+          6,
+          30
+        ]
+      ],
+      "planned_unique_P": 25,
+      "actual_current_ranges": [
+        [
+          6,
+          30
+        ]
+      ],
+      "actual_current_unique_P": 25,
+      "complete_current_member": false,
+      "qualification": "Generic delivery labels are locators only; source/component binding and explicit alias precision govern."
+    }
+  ],
+  "actual_received_private_delivery_files": [
+    {
+      "page": 1,
+      "file": "native-review-pages02/001.txt",
+      "bytes": 7431,
+      "characters": 3197,
+      "sha256": "f875c712fa046df36236a31c52e8fd195afe14108fc1b955c7d6257799e096f9"
+    },
+    {
+      "page": 2,
+      "file": "native-review-pages02/002.txt",
+      "bytes": 7939,
+      "characters": 3349,
+      "sha256": "83cffc359b36d8430db0cc374cde50f30f07fd410862e0e62be33e51c82314e4"
+    },
+    {
+      "page": 3,
+      "file": "native-review-pages02/003.txt",
+      "bytes": 8018,
+      "characters": 3276,
+      "sha256": "e965c5e275848c5012a3ef17acd7163cf5eef96f59237a41d6ffd8258255694c"
+    },
+    {
+      "page": 4,
+      "file": "native-review-pages02/004.txt",
+      "bytes": 7645,
+      "characters": 3287,
+      "sha256": "4ea6c145ca418407dbb9367015e872dd382c5ab2b3d3ba64940a23add4084c87"
+    },
+    {
+      "page": 5,
+      "file": "native-review-pages02/005.txt",
+      "bytes": 8125,
+      "characters": 3371,
+      "sha256": "acd3449b0ea02deb4843ec4474f7c4e669bd5b253fe96ca8f9d905a6acdf4bca"
+    },
+    {
+      "page": 6,
+      "file": "native-review-pages02/006.txt",
+      "bytes": 6920,
+      "characters": 3170,
+      "sha256": "fb9ccc224d4811ecd4cff58f713a3731dd91cc02ac087237c53c86a24bb37f50"
+    },
+    {
+      "page": 7,
+      "file": "native-review-pages02/007.txt",
+      "bytes": 6952,
+      "characters": 3180,
+      "sha256": "05e34eb57c960ca9126bc26823242f9f6ed0eaff57b0ef3086107a21fd992e24"
+    },
+    {
+      "page": 8,
+      "file": "native-review-pages02/008.txt",
+      "bytes": 6844,
+      "characters": 3154,
+      "sha256": "246cbb32acb23e8cb3791f28af0487b37cb59c83bb44560a6eb92ef84db7e2f9"
+    },
+    {
+      "page": 9,
+      "file": "native-review-pages02/009.txt",
+      "bytes": 6147,
+      "characters": 3069,
+      "sha256": "8722a03f43011242607b292ea7cf632bd0c71b485cd1c49ce8ac56ba6ca53ba0"
+    },
+    {
+      "page": 10,
+      "file": "native-review-pages02/010.txt",
+      "bytes": 7961,
+      "characters": 3355,
+      "sha256": "f69073711513a179eef0fd2497e80f74746c09df05d9f5a3a4c65e2d8adb1bac"
+    },
+    {
+      "page": 11,
+      "file": "native-review-pages02/011.txt",
+      "bytes": 7678,
+      "characters": 3364,
+      "sha256": "8248fe4aa7c897afa97806e29c308900242517385eab105e4c5652db6a8699a8"
+    },
+    {
+      "page": 12,
+      "file": "native-review-pages02/012.txt",
+      "bytes": 8086,
+      "characters": 3348,
+      "sha256": "c6dcd710af95a21cdfc5da9295f1db40d91d03787e86d783887818e23f2b6c5c"
+    },
+    {
+      "page": 13,
+      "file": "native-review-pages02/013.txt",
+      "bytes": 7472,
+      "characters": 3328,
+      "sha256": "8a802ef87a7aeac7b0759e73f0eac375be829130dd8ed963a2b0ff364205c7d5"
+    },
+    {
+      "page": 14,
+      "file": "native-review-pages02/014.txt",
+      "bytes": 7529,
+      "characters": 3399,
+      "sha256": "2237915dde9d7a59af2fb647a9c55d5a6764c8a856c2663cf99fb903b88f28a9"
+    },
+    {
+      "page": 15,
+      "file": "native-review-pages02/015.txt",
+      "bytes": 7833,
+      "characters": 3315,
+      "sha256": "e700eb3acadd9003bebf2b7b9a7c944c098cd3ed9fdaac5f2718af0872f9ee57"
+    },
+    {
+      "page": 16,
+      "file": "native-review-pages02/016.txt",
+      "bytes": 7457,
+      "characters": 3337,
+      "sha256": "aab9fa941e9f0ae59d8d5b56db3e8f3ffe7839025ec3b5f51d9d252a653e44b5"
+    },
+    {
+      "page": 17,
+      "file": "native-review-pages02/017.txt",
+      "bytes": 8148,
+      "characters": 3370,
+      "sha256": "fd042d8a7d4c5562568a3a2134904606dc9e3909a51e9247cfbe7b7782d5f4dd"
+    },
+    {
+      "page": 18,
+      "file": "native-review-pages02/018.txt",
+      "bytes": 7811,
+      "characters": 3379,
+      "sha256": "f4448c80cf98127a27d2e4ce8526eb1378287d9e8aa609db0c3a3c48b0e09843"
+    },
+    {
+      "page": 19,
+      "file": "native-review-pages02/019.txt",
+      "bytes": 7405,
+      "characters": 3385,
+      "sha256": "8f225aa1ded2fb3d5594e60ea0b1ad48043ac0c55b65683c909aaf7ffd9563c1"
+    },
+    {
+      "page": 20,
+      "file": "native-review-pages02/020.txt",
+      "bytes": 7341,
+      "characters": 3323,
+      "sha256": "a6bb4f7394de8c5fcf9ed6991e7134d89b22e51acaa4597b260972863c954314"
+    },
+    {
+      "page": 21,
+      "file": "native-review-pages02/021.txt",
+      "bytes": 6644,
+      "characters": 3338,
+      "sha256": "1c91d3f47090791800433ee38406ca4b753b0210c925950aea86d7290a8b3d44"
+    },
+    {
+      "page": 22,
+      "file": "native-review-pages02/022.txt",
+      "bytes": 6355,
+      "characters": 3367,
+      "sha256": "c0164e1d98d9f108f3a4382a26aa6536af064d037c2a5890a1d275522bff6064"
+    },
+    {
+      "page": 23,
+      "file": "native-review-pages02/023.txt",
+      "bytes": 7392,
+      "characters": 3346,
+      "sha256": "d6f8a04cadf6ec91238c5f3ddfab6aa9cdd7c91b02cf9e3399df81c752e6ac17"
+    },
+    {
+      "page": 24,
+      "file": "native-review-pages02/024.txt",
+      "bytes": 7629,
+      "characters": 3329,
+      "sha256": "94b04a973b191567186c9587c06f3799e4ba897595d48a73cf908a20a411d35a"
+    },
+    {
+      "page": 25,
+      "file": "native-review-pages02/025.txt",
+      "bytes": 7408,
+      "characters": 3394,
+      "sha256": "7c8937590ae4455ce71e36fc36592e53fa1f3f21e455d45ede5e313dc7c4440b"
+    },
+    {
+      "page": 26,
+      "file": "native-review-pages02/026.txt",
+      "bytes": 7900,
+      "characters": 3334,
+      "sha256": "03348f4292d1a53ca7616808125170e61d29eece521a6b321c0bf5f8b7207aa2"
+    },
+    {
+      "page": 27,
+      "file": "native-review-pages02/027.txt",
+      "bytes": 7886,
+      "characters": 3366,
+      "sha256": "46371f9b754d46a1afd3e3d2ca8829560deb9c085780cf777064045c22ee3e82"
+    },
+    {
+      "page": 28,
+      "file": "native-review-pages02/028.txt",
+      "bytes": 7841,
+      "characters": 3385,
+      "sha256": "555cb5ab8e9f900f12af3986389251cfb78d471f64b87ed8ea63a7f994640a11"
+    },
+    {
+      "page": 29,
+      "file": "native-review-pages02/029.txt",
+      "bytes": 7744,
+      "characters": 3392,
+      "sha256": "c7557843dd3441c0f15feeb07e12cd95167e5112ab8ce972cb8dbd6eaf7c482a"
+    },
+    {
+      "page": 30,
+      "file": "native-review-pages02/030.txt",
+      "bytes": 7533,
+      "characters": 3367,
+      "sha256": "9041d4f2c4da43a0045877272f28803263df2fb2e89121b03f5c9f85a1bf3f85"
+    },
+    {
+      "page": 31,
+      "file": "native-review-pages02/031.txt",
+      "bytes": 6433,
+      "characters": 3335,
+      "sha256": "35ef0b39af1282debb2eff3bc4c5bb07eafa413d44a6661c5ae841a2931e3783"
+    },
+    {
+      "page": 32,
+      "file": "native-review-pages02/032.txt",
+      "bytes": 6458,
+      "characters": 3358,
+      "sha256": "5d7bac021a222732a63e6de9b6408b2c7871d42716f5ca4bc2d38d57b3531e8f"
+    },
+    {
+      "page": 33,
+      "file": "native-review-pages02/033.txt",
+      "bytes": 6128,
+      "characters": 3328,
+      "sha256": "c16c6809146112c84636d9ec52a446555a91d90d8abc60e3f721ffc93d4ca5bf"
+    },
+    {
+      "page": 34,
+      "file": "native-review-pages02/034.txt",
+      "bytes": 6146,
+      "characters": 3326,
+      "sha256": "0fd6f555e584690fde1c55a9f0f4c4d69c5b59ed069da756a03270e97e964830"
+    },
+    {
+      "page": 35,
+      "file": "native-review-pages02/035.txt",
+      "bytes": 7096,
+      "characters": 3392,
+      "sha256": "09a50961d8d6a4e9a7cbe8816f35fe98bae7227e1e0548752611dca8045432e4"
+    },
+    {
+      "page": 36,
+      "file": "native-review-pages02/036.txt",
+      "bytes": 6314,
+      "characters": 3346,
+      "sha256": "cee8684c6fddd9d3e61d6541d4b5d0c74ad4c7c7d88905cf48e392147da7f24b"
+    },
+    {
+      "page": 37,
+      "file": "native-review-pages02/037.txt",
+      "bytes": 6224,
+      "characters": 3314,
+      "sha256": "381fb8761ace08fd0f6e25790b5646646d2e2c64ace0e706fb0c1bc443c438f3"
+    },
+    {
+      "page": 38,
+      "file": "native-review-pages02/038.txt",
+      "bytes": 6562,
+      "characters": 3320,
+      "sha256": "2dc9fa58753597eca498228f65575b4422f16ed4d67347d6cb0c9dc79485d1a7"
+    },
+    {
+      "page": 39,
+      "file": "native-review-pages02/039.txt",
+      "bytes": 6668,
+      "characters": 3356,
+      "sha256": "c008ef8b9ab1f1500ac8f78274db78101e0f06646f18a334d47d537fcdd610d9"
+    },
+    {
+      "page": 40,
+      "file": "native-review-pages02/040.txt",
+      "bytes": 6194,
+      "characters": 3338,
+      "sha256": "6be50da14aee43dfceab0ee161c4390fcc0e927c21bbb3633ba949d3130857d8"
+    },
+    {
+      "page": 41,
+      "file": "native-review-pages02/041.txt",
+      "bytes": 5923,
+      "characters": 3285,
+      "sha256": "01dd5a8fa12cad5d0189dbe42b8056b0ba47af14f03f5bd02c8008e3b0726826"
+    },
+    {
+      "page": 42,
+      "file": "native-review-pages02/042.txt",
+      "bytes": 6560,
+      "characters": 3288,
+      "sha256": "5fae52d94af905f5d33080df907656c03f0915cc6347e69ea40f93393c9b9240"
+    },
+    {
+      "page": 43,
+      "file": "native-review-pages02/043.txt",
+      "bytes": 6480,
+      "characters": 3362,
+      "sha256": "77241427668129e57919ec11747f2828e33862a230917977361eb9af942a514f"
+    },
+    {
+      "page": 44,
+      "file": "native-review-pages02/044.txt",
+      "bytes": 6161,
+      "characters": 3257,
+      "sha256": "c38c6f2cf6067b134bfb1cdb1351d3cd6099bdfac0a6407450e5db1122aed1f9"
+    },
+    {
+      "page": 45,
+      "file": "native-review-pages02/045.txt",
+      "bytes": 6279,
+      "characters": 3295,
+      "sha256": "ba5b91e8450a218f4a664f8570fcd878f5f0eebeb0a858d544543dfc6093580d"
+    },
+    {
+      "page": 46,
+      "file": "native-review-pages02/046.txt",
+      "bytes": 5826,
+      "characters": 3360,
+      "sha256": "57e43f38e5324ac8ee86bddd4f684c18a2982cc238911e510c72a5227db9ec9a"
+    },
+    {
+      "page": 47,
+      "file": "native-review-pages02/047.txt",
+      "bytes": 6194,
+      "characters": 3304,
+      "sha256": "6a9d42f6e58ddd0e65e18c2698f60df91d609a38412c2000b792fd858c28c50b"
+    },
+    {
+      "page": 48,
+      "file": "native-review-pages02/048.txt",
+      "bytes": 6552,
+      "characters": 3282,
+      "sha256": "b288ced13847d025904569dfdf5e71045d9c500140c8e4ed7e2a858da23d9d51"
+    },
+    {
+      "page": 49,
+      "file": "native-review-pages02/049.txt",
+      "bytes": 6024,
+      "characters": 3352,
+      "sha256": "987fd44448c3ac3ccc5d422e57e829f463729c8a93be11f99350c020c1c0fe70"
+    },
+    {
+      "page": 50,
+      "file": "native-review-pages02/050.txt",
+      "bytes": 6756,
+      "characters": 3386,
+      "sha256": "695a50bb913201ede81c561d719b79174bb4cbcb18dcc3239988df72708d78b5"
+    },
+    {
+      "page": 51,
+      "file": "native-review-pages02/051.txt",
+      "bytes": 6390,
+      "characters": 3369,
+      "sha256": "7d1bf551ea96a5527d9d0b19fe05de91cd2fe3c474a8f0de8f6b74563097b0ef"
+    },
+    {
+      "page": 52,
+      "file": "native-review-pages02/052.txt",
+      "bytes": 5937,
+      "characters": 3325,
+      "sha256": "9cb3496a8367974ceff6fc28999390837531b68dd9297299c915d0718608435c"
+    },
+    {
+      "page": 53,
+      "file": "native-review-pages02/053.txt",
+      "bytes": 6233,
+      "characters": 3281,
+      "sha256": "5509712fba4fd5a9e64e2a52b60146b682c2225d7f96b0484a063f603117f48f"
+    },
+    {
+      "page": 54,
+      "file": "native-review-pages02/054.txt",
+      "bytes": 6470,
+      "characters": 3360,
+      "sha256": "dbbb3e8d25885f3c735687c7f3ef772d73dc8946967e7dea9e10621aad0e745b"
+    },
+    {
+      "page": 55,
+      "file": "native-review-pages02/055.txt",
+      "bytes": 6393,
+      "characters": 3333,
+      "sha256": "9a18a7343136c882d54bcb84a2dcfb93525ab54695c6c06aa38c0023743f4016"
+    },
+    {
+      "page": 56,
+      "file": "native-review-pages02/056.txt",
+      "bytes": 6447,
+      "characters": 3353,
+      "sha256": "2578c12c121a1a5cd5db12aaf5dfeee947d03036de6b4503d66296b82179e4cf"
+    },
+    {
+      "page": 57,
+      "file": "native-review-pages02/057.txt",
+      "bytes": 6295,
+      "characters": 3233,
+      "sha256": "4deac8372af072655716f7277dffe0d26d12335caa0403f2a707c608f3f715f2"
+    },
+    {
+      "page": 58,
+      "file": "native-review-pages02/058.txt",
+      "bytes": 6666,
+      "characters": 3392,
+      "sha256": "7ceb1ccce59c8534a03bc93a2c60fecde215657322e8c29fa0afc3a551ebd9a6"
+    },
+    {
+      "page": 59,
+      "file": "native-review-pages02/059.txt",
+      "bytes": 6546,
+      "characters": 3352,
+      "sha256": "707a9ded0acf3d66aadd493ac4c1f9bd6c908dee40292f166d77b8f90069209d"
+    },
+    {
+      "page": 60,
+      "file": "native-review-pages02/060.txt",
+      "bytes": 6622,
+      "characters": 3332,
+      "sha256": "6e2f9c7f41d9ac53d1049dbf7763afee48f6b04b5bcdbf5a1df8adfc693c406d"
+    },
+    {
+      "page": 61,
+      "file": "native-review-pages02/061.txt",
+      "bytes": 4381,
+      "characters": 2109,
+      "sha256": "0570f070a23514a1231ad6ffa50765db84a0da3904e37b1b645f824131327a12"
+    }
+  ],
+  "actual_adaptive_delivery_files": [
+    {
+      "plan_file": "COHORT36_ADAPTIVE_MAIN09_COOP_CONTEXT_PLAN_01.json",
+      "plan_sha256": "69489b584c6e212626eae08975a9b134f37df3fea3df4d671a0c5a27fd7c8e8d",
+      "component_id": "MAIN09U012",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "additional_P": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "delivery": {
+        "file": "COHORT36_ADAPTIVE_MAIN09_COOP_CONTEXT_01.txt",
+        "bytes": 2883,
+        "sha256": "746aae35996d80ae4311b5dbbf6a5ffe9e5c599cbb1576403cc86a2e65fbc356"
+      },
+      "actual_chunk": "0f50b0"
+    },
+    {
+      "plan_file": "COHORT36_ADAPTIVE_MAIN09_LETTER_CONTEXT_PLAN_01.json",
+      "plan_sha256": "4334b7b8c217f4c26fe31bd72e185769bdee1310361e758e78011aa15f782243",
+      "component_id": "MAIN09U018",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "additional_P": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "delivery": {
+        "file": "COHORT36_ADAPTIVE_MAIN09_LETTER_CONTEXT_01.txt",
+        "bytes": 3136,
+        "sha256": "3fd3a116fb822e020bdd6ac2d53247307094b1f286e6cacaa2ece2ea8016584e"
+      },
+      "actual_chunk": "175319"
+    }
+  ],
+  "actual_native_receiving": {
+    "file": "COHORT36_ACTUAL_NATIVE_CONTEXT_RECEIVING_01.json",
+    "bytes": 562949,
+    "sha256": "e2a0c60aa2a0cfb76889f098890acce0be21eaccf240eedd6ef205303985d5b3"
+  },
+  "actual_native_delivery_chunks": {
+    "1-2": "bbb298",
+    "3-6": "b7dd12",
+    "7-10": "96e2a6",
+    "11-14": "a97b1f",
+    "15-18": "ab617e",
+    "19-22": "7f7b50",
+    "23-26": "3dd07e",
+    "27-30": "47a054",
+    "31-34": "559683",
+    "35-38": "aa407a",
+    "39-42": "9d288c",
+    "43-46": "0aaa88",
+    "47-50": "cbdadd",
+    "51-54": "113857",
+    "55-58": "6e9ea1",
+    "59-61": "61e92b"
+  },
+  "actual_inline_base_and_ruby_reading": true,
+  "parallel_duplicate_full_base_or_raw_XML_serialization_claim": false,
+  "actual_known_images_rechecked": [
+    {
+      "image_id": "MAIN-16-IMG021",
+      "native_member": "item/image/p056.jpg",
+      "file": "native-images01/MAIN-16-IMG021.jpg",
+      "bytes": 444393,
+      "sha256": "0781dccbdcb84cbdd8dec708d2b757bcd4058389954375bf7c8ee9d94e413e58",
+      "actual_viewed_at_preparation": false,
+      "actual_viewed": true,
+      "scope": "Complete native original-resolution pixels; labels/capsules read on IMG019; contextual joins and no-new-hatching qualification in observations03."
+    },
+    {
+      "image_id": "MAIN-16-IMG019",
+      "native_member": "item/image/p002.jpg",
+      "file": "native-images01/MAIN-16-IMG019.jpg",
+      "bytes": 479816,
+      "sha256": "1d4bf461d667db2817ab9d8e177f8a3b8ce7a60f475693b2300b079e8c7ec9f8",
+      "actual_viewed_at_preparation": false,
+      "actual_viewed": true,
+      "scope": "Complete native original-resolution pixels; labels/capsules read on IMG019; contextual joins and no-new-hatching qualification in observations03."
+    }
+  ],
+  "newly_admitted_native_objects": 0,
+  "new_whole_source_or_globally_unique_or_independent_credit": 0,
+  "native_plan": {
+    "file": "COHORT36_NATIVE_CONTEXT_PLAN_02.json",
+    "bytes": 329601,
+    "sha256": "790d7680930c3a1dca86dcbdce11596a89d229e0815f81b2b16093c7077de7a5"
+  },
+  "native_alias_precision": {
+    "file": "COHORT36_NATIVE_LOCATOR_ALIAS_PRECISION_01.json",
+    "bytes": 294420,
+    "sha256": "ca13160c5ec0092fe12e7f2e26ed0712eb22d20230c84f49b601ae0a6ddfd290"
+  },
+  "alias_precision_qualification": "MAIN07U018 is Ep1 / start,not electronic bonus. Original first-six body reading retains credit through header-only correction. Earlier plans,deliveries and receipts remain exact.",
+  "derivative_context": {
+    "receiving": {
+      "file": "COHORT36_CONTEXT_REVIEW_RECEIVING_01.json",
+      "bytes": 9441,
+      "sha256": "0a71869ab5e9467af2cf9bf5ba31d91719d9e3f361a4a23fdab38625449fdd18"
+    },
+    "plan": {
+      "file": "COHORT36_ANALYTICAL_CONTEXT_REVIEW_PLAN_01.json",
+      "bytes": 16162,
+      "sha256": "6a32b3c76101f1a34d22b64a220280b39239a4e7f79ac3c6053a80476b7eb357"
+    },
+    "actual_characters_with_headers": 206874,
+    "actual_pages": 26,
+    "complete_reports": [
+      "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+      "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md",
+      "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md",
+      "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md"
+    ],
+    "other_bounded_reports": [
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 863,
+        "selected_line_ranges": [
+          [
+            72,
+            76
+          ],
+          [
+            80,
+            84
+          ],
+          [
+            226,
+            230
+          ],
+          [
+            597,
+            601
+          ],
+          [
+            721,
+            725
+          ]
+        ],
+        "characters_with_delivery_headers": 2194,
+        "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c"
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 740,
+        "selected_line_ranges": [
+          [
+            435,
+            439
+          ]
+        ],
+        "characters_with_delivery_headers": 2702,
+        "sha256": "4f0e498d60284953a2e8d9b8d42e9304a1d4fa4166b6f2d5be3bdd240fc89377"
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 1461,
+        "selected_line_ranges": [
+          [
+            505,
+            509
+          ],
+          [
+            698,
+            703
+          ],
+          [
+            810,
+            814
+          ]
+        ],
+        "characters_with_delivery_headers": 34882,
+        "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc"
+      },
+      {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 1213,
+        "selected_line_ranges": [
+          [
+            79,
+            83
+          ]
+        ],
+        "characters_with_delivery_headers": 1016,
+        "sha256": "3abfddeea351603a856e1ef56c7638c4c64e5ec9754b21e09c0eaaa82ae25c22"
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 197,
+        "selected_line_ranges": [
+          [
+            137,
+            141
+          ]
+        ],
+        "characters_with_delivery_headers": 1531,
+        "sha256": "69238d22ec60fd77df5f4c9c195dfee70bfba8c741f6fd4f18176fb20dcfb778"
+      },
+      {
+        "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md",
+        "scope": "BOUNDED_ANALYTICAL_LOCATOR_CONTEXT",
+        "complete_report": false,
+        "total_lines": 233,
+        "selected_line_ranges": [
+          [
+            43,
+            47
+          ]
+        ],
+        "characters_with_delivery_headers": 1652,
+        "sha256": "9f74c3c569db26bb0722f7bcbb91d0639c6d7a75e4c77783601e503ad61aa8cc"
+      }
+    ],
+    "qualification": "Historical Gen0.2 confirmations,independence/prospective language and then-pending source workflow remain dated claims. Current all41 declared source-program gates are closed at supplied scopes. This receiving is four full existing analytical reports plus six explicitly bounded analytical contexts,not a new whole-EPUB or full remaining-volume reread. Current source-known native contexts/images remain due; no independent validation or new source admission follows."
+  },
+  "source_surface_pins": [
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+      "bytes": 56569,
+      "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+      "bytes": 55637,
+      "sha256": "dfd7006c95c750deef902d61da41fb28ee226d984fcb7c2699d6369cc94e5c74"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+      "bytes": 83538,
+      "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md",
+      "bytes": 200750,
+      "sha256": "63c4e06f6d26a4205ca451749b8a5e58414f4c85a585722ae75c7ab684c25be7"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "bytes": 120003,
+      "sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+      "bytes": 187867,
+      "sha256": "4f0e498d60284953a2e8d9b8d42e9304a1d4fa4166b6f2d5be3bdd240fc89377"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+      "bytes": 284570,
+      "sha256": "52da1486a8d276a3be36809d6fc9d8d98b9ef22bb6340c8c71cd17cd4bb4b9ac"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V14_DEEP_READING.md",
+      "bytes": 377734,
+      "sha256": "c06e2dd10113ec1effed84caf973eb44ded0652a4121a16a438b6438e4b0925b"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+      "bytes": 979019,
+      "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+      "bytes": 242821,
+      "sha256": "3abfddeea351603a856e1ef56c7638c4c64e5ec9754b21e09c0eaaa82ae25c22"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+      "bytes": 66777,
+      "sha256": "cc5df8a45547c7058bc6152bfdfd8822747146be0cb848f3d425a3c5411be1c6"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V07_EXCLUDED_DEEP_READING.md",
+      "bytes": 19554,
+      "sha256": "fb69a221d65d02718e49b3cc04c42731b63cbc39667c09f8a15df634b5dcda70"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V08_EXCLUDED_DEEP_READING.md",
+      "bytes": 18706,
+      "sha256": "03226099b53909e166cac4dcebf0699b79f4a4f9fdd40d6be7116f9b518ed473"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_DEEP_READING.md",
+      "bytes": 44604,
+      "sha256": "29fd42d162691e3d376e666e27815e14c596bfcd12754cf9ebec0cef8faf2d7f"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V10_EXCLUDED_DEEP_READING.md",
+      "bytes": 44066,
+      "sha256": "49bee26bb86424a58ef4d69de8cd279559c1fe45e4706fc6a479477a6a522ebb"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V11_EXCLUDED_DEEP_READING.md",
+      "bytes": 38061,
+      "sha256": "6fa2a8496464714ad2f776be8c218d5057bace26b4fa0b52c8718f4a065f6c4c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V12_EXCLUDED_DEEP_READING.md",
+      "bytes": 30932,
+      "sha256": "d0bcd3e28a8c1eac8611a9cc6d9164e93033aad75400e9f9a2aae7d58717f7d8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V13_EXCLUDED_DEEP_READING.md",
+      "bytes": 36833,
+      "sha256": "9d6223e1c39e80a6f701fb93a1456348b391f4204c48bab25645484e16f5e15c"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_DEEP_READING.md",
+      "bytes": 35835,
+      "sha256": "4ae07f5c7e31b08446ebc5e327f106e61f9508456870a1ae9c08b99b45272329"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_DEEP_READING.md",
+      "bytes": 35262,
+      "sha256": "52d00e8e018e23487d380cb313145e051c83e036986f0582c3d703f9fa2164d8"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V16_EXCLUDED_DEEP_READING.md",
+      "bytes": 34204,
+      "sha256": "69238d22ec60fd77df5f4c9c195dfee70bfba8c741f6fd4f18176fb20dcfb778"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_DEEP_READING.md",
+      "bytes": 36986,
+      "sha256": "9f74c3c569db26bb0722f7bcbb91d0639c6d7a75e4c77783601e503ad61aa8cc"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 133589,
+      "sha256": "977733b92cb4d8fb7330b1ba6b3fba008edaf9c722adbaea697c56a87b6e0fc6"
+    }
+  ],
+  "reused_method_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8",
+      "characters": 13959
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 21304,
+      "sha256": "77441e395e2cc355b182d36d12a7fb581bfce8dd3e567993d1e1c9f9da3513e6",
+      "characters": 21293
+    }
+  ],
+  "reused_method_reading_qualification": "Both frameworks fully read earlier in this execution and freshly byte checked; no repeated semantic credit.",
+  "scope_assessment": {
+    "file": "COHORT36_SCOPE_ASSESSMENT_DRAFT_01.json",
+    "bytes": 4259,
+    "sha256": "93a3990c7942a08885a2e9e85828928641ddf44d730dee69ea0554b074af55b0"
+  },
+  "native_interpretation_notes": [
+    {
+      "file": "COHORT36_PARTIAL_NATIVE_OBSERVATIONS_01.md",
+      "bytes": 6169,
+      "sha256": "c39f3ff669c70128dc9033fed81ef532a490a8834424d83a3e61bc417d2ccf5a"
+    },
+    {
+      "file": "COHORT36_PARTIAL_NATIVE_OBSERVATIONS_02.md",
+      "bytes": 5786,
+      "sha256": "83c21823312cfb89845c74e7f3fe3aef4df780f3cb8de11dfec55e13cb05d795"
+    },
+    {
+      "file": "COHORT36_NATIVE_OBSERVATIONS_CONTINUATION_03.md",
+      "bytes": 8064,
+      "sha256": "c9e5b80c821378628f330f48b26832c135a32f907e72c4743020dc13285a2726"
+    }
+  ],
+  "name_reference_check": {
+    "file": "COHORT36_NAME_REFERENCE_CHECK_DRAFT_01.json",
+    "bytes": 2973,
+    "sha256": "9978a520c81ae7180afacfd02aa2d20b5da5a74683d89e3005ee33d9903bbdca"
+  },
+  "source_layers": [
+    "Directly narrated animal and human acts",
+    "Retrospective Aqua/Vanir hatch reports",
+    "Aqua’s embedded seller speech/purchase report",
+    "Kazuma’s imprinting,fraud,friendship and memory appraisals",
+    "Megumin’s expert mana account and causal proposal",
+    "Reported later potion administration and observed grown body",
+    "Aqua’s remote/future dragon,combat and decoded-cluck claims",
+    "Creator’s unnamed high-level chicken synopsis with inferred join",
+    "Editorial profile design and text-bound I1 art"
+  ],
+  "identity_qualifications": [
+    "Explicit Japanese full name/nickname binds egg/chick; English spellings are retrieval aids.",
+    "Original seller,mail senders,seed seller and weapon merchant are not joined or certified disjoint.",
+    "Actual Iris-letter opening contradicts Darkness’s egg-ad claim.",
+    "Sugar water is for Wiz; transformation speculation is Chomusuke; Schneider is a game character.",
+    "Creator chicken has strong inferred Zel bridge,not an explicit name or watched battle.",
+    "Wrong Ep1 label and withdrawn Yunyun/nest/egg guesses remain preserved with current precision.",
+    "Early high mana/later reported conversion have temporal limits; no measured level or dragon proof."
+  ],
+  "new_monographs": 0,
+  "new_models": 0,
+  "new_rules": 0,
+  "new_inputs": 0,
+  "new_original_firsts": 0,
+  "new_dependent_pairs": 0,
+  "no_new_diagnostic_generation_reason": "Observed animal responses and the narrowly reported seller exchange earn compact profiles without a differentiated individual causal generator. No padded models or manufactured diagnostics. Existing final batteries and six distinct original Stage D successors remain owed.",
+  "current55_models_exact": true,
+  "preservation_verification": {
+    "entering_models": 31,
+    "current_controls": 12,
+    "C22_8canonical_14private_4firsts": true,
+    "C21_16canonical_24private_8firsts": true,
+    "C20_five_cores": true,
+    "C23_17private_12firsts": true,
+    "immutable": 66,
+    "historical": 72,
+    "scores": 4,
+    "Dust_blank_fields": 14,
+    "SI_SY_null_fields": 28,
+    "scratch_files": 80,
+    "local_native_objects": 8,
+    "current_models": 55,
+    "control_baseline": "Accepted owner-integrated main controls preserved at a90722d065e56e8fe2c2131e4307e4fa03d0c289; epoch1 migration files remain historical,not current routing.",
+    "C23_15canonical_17private_12firsts": true,
+    "C24_three_cores_seven_private_and_profile_exact": true,
+    "C25_three_cores_seven_private_and_profile_exact": true,
+    "C25_nine_native_thirtyfive_delivery_exact": true,
+    "C26_three_native_eleven_member_twentyeight_delivery_exact": true,
+    "global_discovery_and_evaluation_four_surfaces_exact": true,
+    "scratch80_untracked": true,
+    "C26_seven_canonical_eleven_private_six_firsts_exact": true,
+    "private_WORK88_exact": true,
+    "C27_195_raw_deliveries_exact": true,
+    "global_four_owner_surfaces_exact": true,
+    "source_known_only": true,
+    "independent_or_grade_gain": 0,
+    "C27_twentyfour_frozen_private_and_eighteen_original_firsts_exact": true,
+    "C27_twenty_cores_compact_fragment_exact": true,
+    "C28_twenty_eight_cores_thirtytwo_private_twentyfour_original_firsts_exact": true,
+    "C28_eighty_nine_raw_deliveries_exact": true,
+    "WORK92_exact": true,
+    "current_C28_public_gate_exact": true,
+    "C29_thirteen_cores_seventeen_private_sixteen_original_firsts_exact": true,
+    "C29_sixty_eight_raw_deliveries_exact": true,
+    "WORK94_exact": true,
+    "current_C29_public_gate_exact": true,
+    "C30_nineteen_cores_twenty_three_private_twenty_four_original_firsts_exact": true,
+    "C30_thirty_three_raw_deliveries_exact": true,
+    "WORK96_exact": true,
+    "current_C30_public_gate_exact": true,
+    "C31_twenty_nine_cores_thirty_three_private_twenty_six_original_firsts_exact": true,
+    "C31_fifty_six_native_copies_exact": true,
+    "WORK98_exact": true,
+    "current_C31_public_gate_exact": true,
+    "C32_eleven_cores_fifteen_private_six_original_firsts_exact": true,
+    "C32_fortysix_native_deliveries_exact": true,
+    "WORK99_exact": true,
+    "WORK100_exact": true,
+    "current_C32_public_gate_exact": true,
+    "C33_eight_cores_twelve_private_six_original_firsts_exact": true,
+    "C33_fourteen_native_deliveries_exact": true,
+    "WORK101_exact": true,
+    "WORK102_exact": true,
+    "current_C33_public_gate_exact": true,
+    "C34_fourteen_cores_twenty_private_ten_firsts_exact": true,
+    "C34_thirtyfour_native_deliveries_thirteen_units_one_known_image_exact": true,
+    "WORK103_exact": true,
+    "WORK104_exact": true,
+    "current_C34_public_gate_exact": true,
+    "C35_two_cores_ten_private_compact_fragment_exact": true,
+    "C35_seven_native_deliveries_two_units_exact": true,
+    "C35_no_new_diagnostic_firsts": true,
+    "WORK105_exact": true,
+    "WORK106_exact": true,
+    "current_C35_public_gate_exact": true
+  },
+  "raw_media_or_native_paragraph_exports_in_repository": false,
+  "new_OCR_audio_human_or_external_model_call": false,
+  "same_informed_author_all_stages": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "independent_trial_count": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certified": false,
+  "formal_tiers_are_scope_candidates_until_receiving": true,
+  "canonical_cohort36_changes": false,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_complete": false,
+  "full_program_complete": false,
+  "prefreeze_identity_precision": {
+    "file": "COHORT36_PREFREEZE_IDENTITY_PRECISION_01.json",
+    "bytes": 2199,
+    "sha256": "add98cf45cf794547bfe2333e9397c447c85b62291be228eaaef581deacfe94d"
+  },
+  "current_identity_precision_qualification": "The added precision governs the notes03 separate-person wording: separate role,unresolved personal identity,neither joined nor certified distinct. Initial context-receiving native-pending wording is historical; completed actual receiving governs.",
+  "publication_path_precision": {
+    "file": "COHORT36_PUBLICATION_PATH_PRECISION_01.json",
+    "bytes": 5370,
+    "sha256": "a7c8b5429458996253caf875b3a179a9e56e906fb92882aeb9b8db4d430aa531"
+  },
+  "source_binding_publication_qualification": "Public filenames and byte/hash bindings identify the local EPUB copies; full filesystem locations remain in the pinned private native plan. This publication-only correction changes no source or analytical credit."
+}

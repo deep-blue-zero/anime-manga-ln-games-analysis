@@ -1,21 +1,25 @@
 ---
 series: OPM
 artifact_type: ledger
-scope: Character model readiness through V37
+scope: Character model readiness through V37; official web 235-287 current-release overlay
 generation: V2
 status: canonical
-source_boundary: Japanese tankobon V01-V37
+source_boundary: Japanese tankobon V01-V37; official web 235-287 active_provisional
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
 audited: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
+current_release_updated: 2026-10-28
 workspace_state: local_staged_unintegrated
 ---
 
 
 # One Punch Man — Character Model Readiness Index
+
+Current usable horizon: V37 collected state plus the [official-web overlay through web 287](#current-release-overlay-through-web-287). The overlay is `active_provisional` / PR and is available for ongoing analysis now; dated collected sections retain their original boundaries.
+
 
 ## Current readiness routing through V37
 
@@ -732,3 +736,29 @@ Propagated after the frozen [V37 reading](../02%20Sequential%20Readings/OPM_V37_
 **No tier changes or new profiles.** Saitama and Genos remain strong: V37 deepens failed feedback, status-insensitivity, respectful disagreement, technological growth and chosen proximity without resolving measurement or individuation. Child Emperor remains strong with concrete adversarial evidence. Atomic Samurai, Mumen Rider, Tanktop Master, Darkshine, Amai Mask and King remain moderate; each gains substantial but still bounded evidence. Black Sperm remains emerging because survival and a recovery aim do not supply broad policy or stable social alignment. Axel, Raiden, Wild Yankee, Yuta and Shidou remain ensemble-bounded and do not receive new standalone rows.
 
 Reconstruction must distinguish hardware from verified ceiling, investigation from verdict, real influence from intentional pedagogy, useful consequence from true premise, public result from production conditions, and behavioral attachment from completed communication. Checkpoint validation remains downstream testing, never independent canon evidence.
+
+## Current-release overlay through web 287
+
+Readiness here is explicitly `web_active_provisional` / PR and usable for a current-web-boundary question. The collected table and dated decisions remain the V37 model. This is local analytical coverage, not an update to the repository-wide reconstruction capability registry.
+
+| Model | Collected readiness retained | Current PR readiness / additional breadth | Principal limit and source |
+|---|---|---|---|
+| Saitama | strong | strong; conduct-based Amai recognition, Flash boundary and machine-model interruption | no present behavior in web285-287; explanatory and public-transmission gaps remain. PR-CR-003,008,012 |
+| Genos | strong | strong; Blue peer assessment, machine copying and bodily exposure | ceiling, independent victory and wider purpose not settled. PR-CR-009,012 |
+| Garou | strong | strong; ordinary labor, controlled sparring and Suiryu interaction | restitution, legal status and durable identity remain open. PR-CR-013 |
+| Bang | strong | strong; observing the younger fighters adds teacherly context | no completed recruitment or universal absolution. PR-CR-013 |
+| Child Emperor | strong | strong; investigation, covert team communication, private listening and empathetic uncertainty | satellite interference uncompleted; his reading of Webigaza is an inference. PR-CR-019,023,025,026 |
+| King | moderate | moderate; training request adds candid self-assessment | training success and corrected public reputation absent. PR-CR-002 |
+| Flashy Flash | moderate | moderate; shared formation and Sonic coordination broaden relationships | independent ordinary-life aims still thin. PR-CR-003 |
+| Sonic | moderate | moderate; Flash cooperation and A confrontation expand non-Saitama relations | outcome at web287 unknown; broader everyday goals remain thin. PR-CR-003,027,028 |
+| Amai Mask | moderate | moderate, substantially deepened; aspiration, exposure, bodily risk and recognition | public aftermath, sustained repair and independent ordinary-life breadth remain limited. PR-CR-008,024 |
+| Darkshine | moderate | moderate; trainer care contrasts with involuntary suit attack | no trauma cure or restored combat availability. PR-CR-006,015 |
+| Metal Bat | moderate | moderate; covert role, immediate civilian duty, perception of returning leaders | incomplete controller knowledge and limited new private breadth. PR-CR-017,020,025 |
+| Sekingar | emerging | emerging, strengthened; access limits, investigation and covert coordination | narrow work-role evidence; financial leads unproven. PR-CR-018,025 |
+| Blast | emerging | emerging, strengthened; recovery-oriented relational and tactical evidence | ordinary life, private goals and full Void history still sparse. PR-CR-004 |
+| Suiryu | moderate | moderate; publicity, membership and reciprocal martial curiosity | long-term allegiance and durable moral commitment untested. PR-CR-005,013 |
+| Webigaza | no collected standalone model | moderate PR model established: training history, professional ambition, field cost, private trust, Amai relation, chosen modification and dependence | medical alternatives, sustained reciprocal friendship and refusal under direct coercion missing. PR-CR-007,021-024 |
+| Blue | no collected standalone model | emerging PR; field action, Genos interaction and inherited public claim | private life, verified lineage and independent institutional judgment thin. PR-CR-009-011 |
+| A | no collected standalone model | emerging PR; surgery/value discussion and Sonic confrontation | narrow adversarial/professional contexts, attributed history and unshown outcome. PR-CR-020,027,028 |
+
+Webigaza's moderate PR judgment rests on several kinds of evidence across web251/253/267/286-287, not on the intensity of one speech. No collected tier is promoted by web evidence, and no model reaches specialist_ready here. Role-bound figures such as the returned leaders and the chip-bearing monster do not acquire broad personality profiles merely because they enter the mystery.

@@ -1,0 +1,90 @@
+{
+  "schema": "konosuba.cohort45.original-first-annotations.v1",
+  "authored_utc": "2026-10-25T06:53:01.587487+00:00",
+  "original_firsts_seal_sha256": "ed12623515ec50b9c465fcf68d57d7b18249c87794df2395ce37789710a8410f",
+  "all_six_complete_first_bodies_actual_delivery": "693c8a",
+  "feedback_after_seal": true,
+  "source_known_same_informed_root": true,
+  "blinded_independent_evaluation": false,
+  "regeneration_or_replacement": false,
+  "frozen_model_or_input_repair": false,
+  "independent_observation_count": null,
+  "numeric_accuracy": null,
+  "grade_or_confidence_gain": false,
+  "final_battery_credit": false,
+  "subject": "Knee-injured veteran",
+  "annotations": [
+    {
+      "id": "KIV-B1",
+      "observed": "Polite initial refusal becomes firm religious refusal; bad leg drawn back, traveler hands watched, personal knee knowledge separated from trust.",
+      "input_fidelity": "No treatment, conversion, private divine knowledge or other-route memories. Defensive wording does not show traveler actually touched or attacked him.",
+      "unprobed_or_adverse": "The line about leaving the knee alone frames religious pressure defensively; do not convert it into an input assault. One known-source refusal mechanism is heavily cued.",
+      "rivals": "Ordinary stranger caution, privacy concern and unwanted religious bargain all fit; no separate causal weights.",
+      "diagnostic_disposition": "PRE_BENEFIT_REFUSAL_EXPRESSED_NOT_UNIQUE_IDENTIFICATION",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "original_body_sha256": "24a37455c3744b2f57c1f51e1c0cc40ce9322f555838b6f3247f2fa027aaf514",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    },
+    {
+      "id": "KIV-B2",
+      "observed": "Asks about obligations, name, source of injury knowledge and proposed procedure; keeps leg back and explicitly withholds permission to start.",
+      "input_fidelity": "Continued questioning is neither performed treatment nor assent. No future conversion or other-route memory.",
+      "unprobed_or_adverse": "No binary refusal/acceptance reversal; no final answer to a demonstrated neutral offer. Fluent boundary/privacy wording is invented and possibly overly articulate relative to sparse native voice.",
+      "rivals": "Generic caution can explain both B cases. Canon did not test neutral offer, and frozen rule does not require its acceptance.",
+      "diagnostic_disposition": "CAUTIOUS_ENGAGEMENT_NEUTRAL_CASE_UNDERIDENTIFIED",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "original_body_sha256": "952d89b645e40272a4f335e3b7f6107cabf19dc93ada5260e948843094da8bc9",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    },
+    {
+      "id": "KIV-C1",
+      "observed": "Agrees to escort, wants to test restored leg, offers three coins beyond walk, remembers appointment and later addresses healer about asking first.",
+      "input_fidelity": "Extra monetary offer stays within supplied uncommitted12. Healer/novice relation explicit. Initial lack of permission not retroactively changed. Coins are held out; recipient acceptance/payment and completed escort/meal unshown.",
+      "unprobed_or_adverse": "Exact3-of12 allocation is invented. Repeating the consent grievance after gratitude is an invented extension, not a proved canonical stable boundary policy. Generosity and planning are unusually neat.",
+      "rivals": "Generic gratitude, available spare funds, ordinary prudence and prompt-supplied perceived benefit can produce this response.",
+      "diagnostic_disposition": "FEASIBLE_EXTRA_OFFER_EXPRESSED_AMOUNT_AND_LATER_BOUNDARY_UNCALIBRATED",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "original_body_sha256": "17701a7f190c0ea626ab49956f5e71de3b8d24219872eaf6c52d17312bec17ac",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    },
+    {
+      "id": "KIV-C2",
+      "observed": "Agrees to escort/test knee, reaches toward purse then reserves all committed coins, proposes road-watching instruction during walk and return before appointment.",
+      "input_fidelity": "No invented spare money or repayment by spending required food/lodging. No actual fare, novice acceptance, future completed teaching/escort or on-time return established.",
+      "unprobed_or_adverse": "Pay-your-way phrase evokes an unrequired expense; instruction expertise not separately demonstrated. Initial casting reproach recipient inferred from context before facing novice, rather than explicitly tagged healer. Smooth balance of gratitude/consent/budget remains an authored extension.",
+      "rivals": "Generic budget-aware grateful adventurer can preserve same constraints. Explicit available-means contrast strongly cues difference.",
+      "diagnostic_disposition": "RESOURCE_BOUND_RESPECTED_EXTRA_TEACHING_UNPROBED",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "original_body_sha256": "afe4172b8346fcdff60ecdbff2731cedb292bcd03160261bf7713848659607f6",
+      "original_unchanged": true,
+      "numeric_grade": null,
+      "independent_observation_count": null,
+      "confidence_gain": false
+    }
+  ],
+  "dependent_pair_readouts": [
+    {
+      "pair": "KIV-B",
+      "actual": "Religious dismissal versus continued questioning; neither grants treatment permission.",
+      "limit": "No binary acceptance reversal or canonically tested neutral-offer prediction; bundled pressure/wording contrast."
+    },
+    {
+      "pair": "KIV-C",
+      "actual": "Spare-money offer versus reserved-money/nonmonetary proposal; own knee-test goal and time commitment remain.",
+      "limit": "Explicit means/perceived-benefit cues, arbitrary gift amount, unrequired cost language, teaching unprobed; generic gratitude/budgeting rivals."
+    }
+  ]
+}

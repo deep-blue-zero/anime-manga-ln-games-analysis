@@ -1,0 +1,274 @@
+{
+  "schema": "konosuba.cohort32.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T09:43:40.223629+00:00",
+  "gate_scope": "Author publication tranche: ordinary continuing-source push, ready PR and full passing exact-head repository audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+  "tree": "867e192da1ac1aa657e2f0d145d05a1e72272f87",
+  "source_parent": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+  "publication_main": "6a3afaaf1bb61e0993db379ab4074c46e9ea98dd",
+  "main_observed_at_close": "a6f399fd74a004dedb41ac3a710c95796cd167bf",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT32_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "55c96d4ac4621f400b3aca48ac152b293fb8283b64c104ef087fd8f38ab35429",
+    "paths": 9707,
+    "project_paths": 1389
+  },
+  "remote_readback": {
+    "file": "COHORT32_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "3a154dcd41dfe68bae0a68e983f163d387be9defa9f00425b20bccd36c90897b",
+    "all9707_files_and36_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C32_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "d95f0fe89a69604cc5d17ad0107365023d688261fb577666c63c6fc50f33ab47",
+    "run": 40082421051,
+    "job": 120838522172,
+    "reporter_job": 120839703172,
+    "actual_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/a36777f6eec6274b3da1b40e899b37bf279b46a0",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57158748530,
+      "node_id": "SC_kwDOUJ9ads8AAAANTu1Jcg",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40082421051",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T09:39:40Z",
+      "updated_at": "2026-10-24T09:39:40Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT32_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 345725,
+    "sha256": "4b2c84da9e07843886e1f7dc865344b3ea9460f78aea03eae9040d18e01a4b93"
+  },
+  "current52_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort32.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T08:47:46.446508+00:00",
+    "published_source": "be0005b8599c08c9d8eb15ddbf453e68dfc12b49",
+    "native_review_seal_sha256": "6219cbb41d6a8ae2ecbcae945726ac16699575ad19aadfd5f71c40a5f0699e13",
+    "latest_native_receiving_sha256": "2e0ec5a7088fb582e8a824a7917c97225dc353343e31edbcae9ea67b33bb8507",
+    "new_discovery_records_sha256": "793ab0c53abec1fbeb1532f17e015e107712e45741f2f8fe6a03f881de2bcdc1",
+    "subjects": [
+      {
+        "row": 60,
+        "character": "Brad / ブラッド",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Dense repeated human-Wiz history distinguishes treasure persistence, power-sensitive restraint, tactical adjustment, actual recovery, attraction and embarrassing vulnerability. Broader reward ordering, free ordinary choices and motives outside the party contest remain underidentified; generic fighter/ally roles fit much of the same conduct. No model invented from one chest choice or another actor romantic claim."
+      },
+      {
+        "row": 61,
+        "character": "Rosary / ロザリー",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Faith, retreat advice, fallible sealing, bodily resistance, practical category correction and a loan offer support an individual interpretation. The source supports much more than a failed-priest label. Stable rule weights outside the prolonged adversarial project and unperformed material cost are insufficiently identified for a distinct current model; no ceiling on later promotion."
+      },
+      {
+        "row": 65,
+        "character": "Unnamed MASK succubus leader",
+        "tier": 2,
+        "artifacts": [
+          "twelve-dimension monograph"
+        ],
+        "reason": "Gift/Charm/apology, concealed celebrity-access pitch, work threat, renewed request and reciprocal warning supply a dense revealing arc. Do not import the second worker own decisions or certify older-U017-fan continuity. Admiration, commercial dependence, hierarchy and survival remain confounded; broader generation lacks enough differentiated individual branches."
+      },
+      {
+        "row": 132,
+        "character": "Unnamed small dream-service worker (MAIN02/MASK event bridge; Lolisa name join open)",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate asymmetric provisional model",
+          "planned source-known dependent contrasts and original firsts after foundation/input freeze"
+        ],
+        "reason": "A qualified, specific prior-mansion/barrier event bridge supports existing row132. Own professional cover/self-blame under danger, idealized-patron pressure and later censure, revised threat appraisal/help-seeking and reciprocal initiative support differentiated narrow hypotheses. MAIN02 front-desk policy and DUST Lolisa powers/biography remain excluded. One professional-risk episode makes that rule particularly provisional; generic occupation, patron loyalty, fear and collective-interest rivals remain live."
+      },
+      {
+        "row": 64,
+        "character": "アンダイン (MAIN08/MASK noble household)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Name/household/artifact-thief bridge and actual guard-contract complaint allow bounded property/security/accountability description. Alleged illegal acquisition, predicted denial and inferred incentives stay reports/hypotheses; no independent full personality or other-noble join."
+      },
+      {
+        "row": 62,
+        "character": "Karen (reported MASK colleague)",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "Named romance/battle reports and intended assistance are useful retrieval evidence, but no own speech/choice or explicit Donnelly bridge is received. Do not turn reported relation into a full personality or force a unique-person split."
+      },
+      {
+        "row": 63,
+        "character": "Yukinori",
+        "tier": 0,
+        "artifacts": [
+          "bounded name/participation index"
+        ],
+        "reason": "The same reported relationship and offscreen fight supply a named role, not an observed decision mechanism, voice, fate or automatically identified reunion visitor."
+      }
+    ],
+    "existing_route_updates": [
+      {
+        "row": 17,
+        "disposition": "Retain Lolisa existing Tier3 artifacts and all frozen bodies unchanged. Add a source-scope route to row132 for MAIN02/MASK; the DUST alias join remains unresolved and MASK is not imported into Lolisa rule support."
+      }
+    ],
+    "new_records": 20,
+    "new_compact_profiles": 7,
+    "new_Tier0_records": 13,
+    "new_monographs": 4,
+    "new_models": 1,
+    "new_rules": 3,
+    "total_current_cohort_compact_profiles": 8,
+    "total_current_cohort_Tier0_dispositions": 15,
+    "planned_existing_changed_rows": [
+      17,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      132
+    ],
+    "planned_untouched_entering_rows": 287,
+    "planned_new_rows": [
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314
+    ],
+    "planned_nonfinal_records": 315,
+    "planned_models_if_received": 52,
+    "planned_scoped_secondary_model_subjects": 46,
+    "planned_bounded_profiles": 74,
+    "planned_monograph_only_subjects": 27,
+    "planned_firsts": 6,
+    "planned_dependent_pairs": 3,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "classification_basis": "Contextual diversity, observed ownership, competing explanations and identifiability; no document/word/appearance/rule quota. Tier2 dense contexts do not automatically earn a model; the unnamed worker model is deliberately asymmetric and provisional.",
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false,
+    "previous_scope_file": "COHORT32_SCOPE_ASSESSMENT_01.json",
+    "previous_scope_sha256": "b60e3b342b3838e718eca5ad87dc7f6258dc772a024b5f6a554a81d8f2a3f742",
+    "new_discovery_records_file": "COHORT32_NEW_DISCOVERY_RECORDS_DRAFT_02.json",
+    "prefreeze_precision_notes_file": "COHORT32_NATIVE_AFTER_VIEW_NOTES_05.md",
+    "prefreeze_precision_notes_sha256": "9b44f0cb1516272793e502a9cb15f30d9b46e95e3d4cb091e2058c85bfbda5c1",
+    "risk_knowledge_qualification": "The worker remaining-life offer does not show receipt of Vanir private full-erasure knowledge; model perceived risk rather than an invented informed sacrifice."
+  },
+  "scope_qualification": "new_scope is the preserved dated preinput assessment. Actual later diagnostic production is recorded separately below; its historical exact_inputs_or_firsts_serialized=false is not current execution state.",
+  "actual_received_artifact_scope": {
+    "monographs": 4,
+    "provisional_models": 1,
+    "rules": 3,
+    "compact_profiles": 8,
+    "Tier0_dispositions": 15,
+    "new_records": 20,
+    "new_compact_records": 7,
+    "new_Tier0_records": 13,
+    "original_firsts": 6,
+    "dependent_pairs": 3
+  },
+  "current_totals": {
+    "models": 52,
+    "scoped_secondary_model_subjects": 46,
+    "bounded_profiles": 74,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 315
+  },
+  "source_known_same_root_diagnostics": true,
+  "actual_original_firsts": 6,
+  "actual_dependent_pairs": 3,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

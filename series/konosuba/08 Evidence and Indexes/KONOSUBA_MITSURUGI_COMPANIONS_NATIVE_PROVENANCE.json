@@ -1,0 +1,1133 @@
+{
+  "schema": "konosuba.cohort22.native-provenance.v1",
+  "recorded_utc": "2026-10-20T23:06:34.108560+00:00",
+  "source_base": "6cdc432fc24893957af1717db86982aa9da8b848",
+  "status": "Known-source native reinspection foundation; exact model inputs and first responses not yet serialized",
+  "scope": {
+    "unique_known_BASE_context_slots": 5026,
+    "text_members": 35,
+    "text_native_objects": 17,
+    "image_reference_objects": 2,
+    "total_native_objects": 19,
+    "actual_known_reference_image_views": 5,
+    "whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0
+  },
+  "native_objects": [
+    {
+      "source": "DUST-01",
+      "native_filename": "Konosuba Extra - Dust - Volume 01.epub",
+      "native_bytes": 19450953,
+      "native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Dust\\KONOSUBA_DUST_V01_COMPONENT_REGISTER.json",
+          "sha256": "276b87f9f708d90a880437facae1fd80e5776db711ad3dbb79dbde7685142abc"
+        }
+      ],
+      "source_plane": "Dust spin-off, distinct narration"
+    },
+    {
+      "source": "DUST-02",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "native_bytes": 18886514,
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Dust\\KONOSUBA_DUST_V02_COMPONENT_REGISTER.json",
+          "sha256": "2186e17fb309d6a875937a45c391e99265557eb7511d4bad8ee12bf7e609ee0c"
+        }
+      ],
+      "source_plane": "Dust spin-off, distinct narration"
+    },
+    {
+      "source": "DUST-03",
+      "native_filename": "Konosuba Extra - Dust - Volume 03.epub",
+      "native_bytes": 18686443,
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Dust\\KONOSUBA_DUST_V03_COMPONENT_REGISTER.json",
+          "sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a"
+        }
+      ],
+      "source_plane": "Dust spin-off, distinct narration"
+    },
+    {
+      "source": "DUST-07",
+      "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+      "native_bytes": 4740436,
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Dust\\KONOSUBA_DUST_V07_COMPONENT_REGISTER.json",
+          "sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc"
+        }
+      ],
+      "source_plane": "Dust spin-off, distinct narration"
+    },
+    {
+      "source": "FD",
+      "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+      "native_bytes": 5358777,
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus/Fantastic Days/KONOSUBA_FD_COMPONENT_REGISTER.json",
+          "sha256": "25ddf70ceda4910df8c36681835638bfe1471039e0f46b7b1cb24bf1e5c63090"
+        }
+      ],
+      "source_plane": "Game novelization"
+    },
+    {
+      "source": "MAIN-01",
+      "native_filename": "Konosuba - Main Series - Volume 01.epub",
+      "native_bytes": 7058492,
+      "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "6ec254c1186ede68a739063e2421db583d396b011a10aba4fd8a4f71d22e655f"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-02",
+      "native_filename": "Konosuba - Main Series - Volume 02.epub",
+      "native_bytes": 6872479,
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "3cd51a74703851e0ce523734ae6c200e52c26d8a12bf68a4ce16366c744c34d5"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-03",
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "native_bytes": 3497582,
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V03_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "8230a7b293c2817e3fedec2727d1657675353abc5692d335036cae6c447ba04b"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-04",
+      "native_filename": "Konosuba - Main Series - Volume 04.epub",
+      "native_bytes": 3907671,
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-06",
+      "native_filename": "Konosuba - Main Series - Volume 06.epub",
+      "native_bytes": 2529639,
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V06_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "856209cc26ab2eaf7d3ed33905e193b2bb8f4f5afb3dd9bbfaef2bdd1549a86d"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-09",
+      "native_filename": "Konosuba - Main Series - Volume 09.epub",
+      "native_bytes": 3086699,
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "977733b92cb4d8fb7330b1ba6b3fba008edaf9c722adbaea697c56a87b6e0fc6"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-11",
+      "native_filename": "Konosuba - Main Series - Volume 11.epub",
+      "native_bytes": 6177663,
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V11_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-16",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "native_bytes": 8530869,
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "MAIN-17",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Main Edition Components\\KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json",
+          "sha256": "f073b2670e602f0673dbd0fd8dc2125cc4eeca6e5e95fa883ee8d476f69131ff"
+        }
+      ],
+      "source_plane": "Main-novel accepted edition"
+    },
+    {
+      "source": "YORI-03",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+      "native_bytes": 8547808,
+      "native_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Yorimichi\\KONOSUBA_YORI03_COMPONENT_REGISTER.json",
+          "sha256": "dd016ab4df51bcb9478cf8683f72b0235f43735d581c806e849a77e4533049b6"
+        }
+      ],
+      "source_plane": "Supplemental narrative with redo-branch frame"
+    },
+    {
+      "source": "FAN-MEM",
+      "native_filename": "Konosuba - Fanbook - Official Memorial Fanbook.epub",
+      "native_bytes": 69401330,
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\Reference\\KONOSUBA_MEMORIAL_FANBOOK_COMPONENT_REGISTER.json",
+          "sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac"
+        }
+      ],
+      "source_plane": "Editorial/reference/sample material, not new main performance"
+    },
+    {
+      "source": "TRPG-ADV",
+      "native_filename": "Konosuba - TRPG - Advanced Rulebook.epub",
+      "native_bytes": 123248665,
+      "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+      "current_component_register_pins": [
+        {
+          "path": "10 Expanded Corpus\\TRPG\\KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json",
+          "sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f"
+        }
+      ],
+      "source_plane": "Editorial/reference/sample material, not new main performance"
+    }
+  ],
+  "actual_known_text_members": [
+    {
+      "source": "DUST-01",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "afe32cc5d5cefd0f034174dbf936615a817b720b1314e46456b400b5ee2a7b82",
+      "actual_known_BASE_windows": [
+        [
+          45,
+          385
+        ]
+      ],
+      "unique_known_BASE_slots": 341,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "DUST-01",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+      "actual_known_BASE_windows": [
+        [
+          90,
+          411
+        ]
+      ],
+      "unique_known_BASE_slots": 322,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "DUST-01",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+      "actual_known_BASE_windows": [
+        [
+          100,
+          135
+        ]
+      ],
+      "unique_known_BASE_slots": 36,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "DUST-02",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "3ab022f0f5cfb9e26817aabbce17843920d93398f619a6095115d593287de4ce",
+      "actual_known_BASE_windows": [
+        [
+          545,
+          580
+        ]
+      ],
+      "unique_known_BASE_slots": 36,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "DUST-03",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "actual_known_BASE_windows": [
+        [
+          30,
+          90
+        ]
+      ],
+      "unique_known_BASE_slots": 61,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "DUST-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "actual_known_BASE_windows": [
+        [
+          45,
+          115
+        ]
+      ],
+      "unique_known_BASE_slots": 71,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "FD",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "actual_known_BASE_windows": [
+        [
+          270,
+          335
+        ],
+        [
+          500,
+          540
+        ]
+      ],
+      "unique_known_BASE_slots": 107,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "FD",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "2f9a8fccec77226682cf06f5fe752a6986b6cba4affdfb2cb9ac14afbb58d51f",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          403
+        ]
+      ],
+      "unique_known_BASE_slots": 403,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "FD",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "actual_known_BASE_windows": [
+        [
+          105,
+          150
+        ]
+      ],
+      "unique_known_BASE_slots": 46,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "FD",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "4623448e7e56a40aeeed86065761a5cf92e7fb47bf951c0e1ef1e50e2cb536dd",
+      "actual_known_BASE_windows": [
+        [
+          110,
+          235
+        ],
+        [
+          310,
+          350
+        ]
+      ],
+      "unique_known_BASE_slots": 167,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-01",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "dd84c04115935a332b3ed650e357dfe233392ad0bc7211d7e074e4a195965094",
+      "actual_known_BASE_windows": [
+        [
+          560,
+          817
+        ]
+      ],
+      "unique_known_BASE_slots": 258,
+      "accepted_principal_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 817,
+        "member_sha256": "dd84c04115935a332b3ed650e357dfe233392ad0bc7211d7e074e4a195965094"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-01",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "302d2cc0f96ed85f25f592782b71134f62eb4224c19a1864b777dfc5ae9fa0f1",
+      "actual_known_BASE_windows": [
+        [
+          210,
+          255
+        ],
+        [
+          350,
+          385
+        ]
+      ],
+      "unique_known_BASE_slots": 82,
+      "accepted_principal_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 601,
+        "member_sha256": "302d2cc0f96ed85f25f592782b71134f62eb4224c19a1864b777dfc5ae9fa0f1"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc",
+      "actual_known_BASE_windows": [
+        [
+          100,
+          135
+        ]
+      ],
+      "unique_known_BASE_slots": 36,
+      "accepted_principal_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 530,
+        "member_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-02",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "e417b489afea854437f92653f79b1853131a149e9da771a0d51bd3c83bc6505b",
+      "actual_known_BASE_windows": [
+        [
+          50,
+          95
+        ]
+      ],
+      "unique_known_BASE_slots": 46,
+      "accepted_principal_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 659,
+        "member_sha256": "e417b489afea854437f92653f79b1853131a149e9da771a0d51bd3c83bc6505b"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+      "actual_known_BASE_windows": [
+        [
+          390,
+          435
+        ]
+      ],
+      "unique_known_BASE_slots": 46,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 460,
+        "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-04",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+      "actual_known_BASE_windows": [
+        [
+          145,
+          185
+        ]
+      ],
+      "unique_known_BASE_slots": 41,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 505,
+        "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-05",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "actual_known_BASE_windows": [
+        [
+          210,
+          250
+        ],
+        [
+          500,
+          545
+        ]
+      ],
+      "unique_known_BASE_slots": 87,
+      "accepted_principal_contract": {
+        "alias": "C4_start / start",
+        "paragraph_slots": 630,
+        "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-06",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+      "actual_known_BASE_windows": [
+        [
+          440,
+          615
+        ]
+      ],
+      "unique_known_BASE_slots": 176,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 679,
+        "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-06",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "actual_known_BASE_windows": [
+        [
+          400,
+          565
+        ]
+      ],
+      "unique_known_BASE_slots": 166,
+      "accepted_principal_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 614,
+        "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-06",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          60
+        ],
+        [
+          90,
+          140
+        ],
+        [
+          370,
+          415
+        ],
+        [
+          495,
+          590
+        ]
+      ],
+      "unique_known_BASE_slots": 253,
+      "accepted_principal_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 637,
+        "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-06",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+      "actual_known_BASE_windows": [
+        [
+          275,
+          365
+        ]
+      ],
+      "unique_known_BASE_slots": 91,
+      "accepted_principal_contract": {
+        "alias": "C5_start / start",
+        "paragraph_slots": 431,
+        "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-06",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+      "actual_known_BASE_windows": [
+        [
+          105,
+          140
+        ]
+      ],
+      "unique_known_BASE_slots": 36,
+      "accepted_principal_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 194,
+        "member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+      "actual_known_BASE_windows": [
+        [
+          330,
+          375
+        ]
+      ],
+      "unique_known_BASE_slots": 46,
+      "accepted_principal_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 658,
+        "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "26b9cf78a4d301aef90ec736b1c7570cfccd9ef5119e6af46eb03e387b119c85",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          70
+        ],
+        [
+          110,
+          155
+        ]
+      ],
+      "unique_known_BASE_slots": 116,
+      "accepted_principal_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 300,
+        "member_sha256": "26b9cf78a4d301aef90ec736b1c7570cfccd9ef5119e6af46eb03e387b119c85"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-11",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "actual_known_BASE_windows": [
+        [
+          520,
+          615
+        ]
+      ],
+      "unique_known_BASE_slots": 96,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 633,
+        "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-14",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "actual_known_BASE_windows": [
+        [
+          30,
+          90
+        ]
+      ],
+      "unique_known_BASE_slots": 61,
+      "accepted_principal_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 404,
+        "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-16",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          280
+        ],
+        [
+          430,
+          470
+        ]
+      ],
+      "unique_known_BASE_slots": 321,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 513,
+        "member_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-16",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+      "actual_known_BASE_windows": [
+        [
+          95,
+          135
+        ]
+      ],
+      "unique_known_BASE_slots": 41,
+      "accepted_principal_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 492,
+        "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-16",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          41
+        ]
+      ],
+      "unique_known_BASE_slots": 41,
+      "accepted_principal_contract": {
+        "alias": "I4 / start",
+        "paragraph_slots": 41,
+        "member_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-16",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23",
+      "actual_known_BASE_windows": [
+        [
+          50,
+          425
+        ]
+      ],
+      "unique_known_BASE_slots": 376,
+      "accepted_principal_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 515,
+        "member_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-17",
+      "member": "text/part0009.html",
+      "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+      "actual_known_BASE_windows": [
+        [
+          190,
+          250
+        ]
+      ],
+      "unique_known_BASE_slots": 61,
+      "accepted_principal_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 591,
+        "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-17",
+      "member": "text/part0010.html",
+      "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          70
+        ],
+        [
+          115,
+          185
+        ],
+        [
+          235,
+          575
+        ]
+      ],
+      "unique_known_BASE_slots": 482,
+      "accepted_principal_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 575,
+        "member_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-17",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "actual_known_BASE_windows": [
+        [
+          1,
+          140
+        ],
+        [
+          145,
+          185
+        ],
+        [
+          220,
+          265
+        ],
+        [
+          320,
+          375
+        ],
+        [
+          430,
+          455
+        ],
+        [
+          510,
+          545
+        ]
+      ],
+      "unique_known_BASE_slots": 345,
+      "accepted_principal_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 560,
+        "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "MAIN-17",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "actual_known_BASE_windows": [
+        [
+          655,
+          700
+        ],
+        [
+          735,
+          779
+        ]
+      ],
+      "unique_known_BASE_slots": 91,
+      "accepted_principal_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 789,
+        "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84"
+      },
+      "no_new_whole_member_ruby_or_residual_claim": true
+    },
+    {
+      "source": "YORI-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+      "actual_known_BASE_windows": [
+        [
+          715,
+          755
+        ]
+      ],
+      "unique_known_BASE_slots": 41,
+      "accepted_principal_contract": null,
+      "no_new_whole_member_ruby_or_residual_claim": true
+    }
+  ],
+  "private_actual_receipt_chain": [
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "7f0b80dd08913d8f9a22f5b8b46da1498d319b1bfebc5ffdb6e8c493434575a2",
+      "actual_complete_window_groups": 9,
+      "recorded_received_window_slots_including_any_overlap": 422
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "5b49d207278fedd4331d7e544e8e2b9b65090431246811ec3e129f5ba72f744c",
+      "actual_complete_window_groups": 4,
+      "recorded_received_window_slots_including_any_overlap": 174
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "a1fcaddae88c7dba152aa78f3fbe9d9197b9ce37dec683a4a6b544e59d8a2b43",
+      "actual_complete_window_groups": 6,
+      "recorded_received_window_slots_including_any_overlap": 342
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "194e96ede42a562c3d208564219a7582c76db5444b85793df7a1a780084c066f",
+      "actual_complete_window_groups": 8,
+      "recorded_received_window_slots_including_any_overlap": 380
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "a4cbabd821930e295876d396b150342c225cf8b99cc278c2295c386df041a65f",
+      "actual_complete_window_groups": 3,
+      "recorded_received_window_slots_including_any_overlap": 162
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "sha256": "4ad2af2631763d39bfeae514f1756fa5aabf0b2030fa8a8e664f324a50e37b1a",
+      "actual_complete_window_groups": 3,
+      "recorded_received_window_slots_including_any_overlap": 157
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_07.json",
+      "sha256": "788ea74a7945c3a9f57fa7ccc40cb27a01b82061136620125c41f8aa5e80906b",
+      "actual_complete_window_groups": 7,
+      "recorded_received_window_slots_including_any_overlap": 403
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_08.json",
+      "sha256": "47c10c62beb4bd04016ec7d67952b87315cc97a3b5ffaf56f29ae92684709b2a",
+      "actual_complete_window_groups": 3,
+      "recorded_received_window_slots_including_any_overlap": 211
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_09.json",
+      "sha256": "5d8cf6fdea20af7a483fd0de4759c0b5d841f65e2f1bef6752e2e5d69e7d01c0",
+      "actual_complete_window_groups": 3,
+      "recorded_received_window_slots_including_any_overlap": 165
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_10.json",
+      "sha256": "293551248efc755a9cd2964320fe61de3a0bc05173ef5dafe15de2e1da570c95",
+      "actual_complete_window_groups": 8,
+      "recorded_received_window_slots_including_any_overlap": 543
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_11.json",
+      "sha256": "fc2c02a4b388567461df1724fca2ea45ac62fd4d2555b6680122e00287159382",
+      "actual_complete_window_groups": 9,
+      "recorded_received_window_slots_including_any_overlap": 436
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_12.json",
+      "sha256": "886baf9896aa47e8c0be258722348ad6e7f7a7a3472c38770962860c3625b2a5",
+      "actual_complete_window_groups": 2,
+      "recorded_received_window_slots_including_any_overlap": 136
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_13.json",
+      "sha256": "7c0c2b5e7cb894c7823921cb8291ea2193f13fa53a275e9cb4c079a43accc1d1",
+      "actual_complete_window_groups": 5,
+      "recorded_received_window_slots_including_any_overlap": 333
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_14.json",
+      "sha256": "2deec0f260a08ab89a8c14b6d4dc093cc7781ee6a28d88e957353924a568f541",
+      "actual_complete_window_groups": 5,
+      "recorded_received_window_slots_including_any_overlap": 254
+    },
+    {
+      "private_receipt": "MITSURUGI_COMPANIONS_ACTUAL_KNOWN_PREPARATION_RECEIVING_15.json",
+      "sha256": "3c2a667f09e3255e802662e837068afb8f61a1983461a31d8661f166e6898eb3",
+      "actual_complete_window_groups": 15,
+      "recorded_received_window_slots_including_any_overlap": 908
+    }
+  ],
+  "actual_known_reference_image_views": [
+    {
+      "source": "FAN-MEM",
+      "page": "FAN-MEM-S035",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "register_sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac",
+      "image_member": "item/image/i-033.jpg",
+      "image_sha256": "f764c5bd56cbf6519ed013906169cef42cdbe66b797652b0250c16f53ce933a5",
+      "wrapper_member": "item/xhtml/p-033.xhtml",
+      "wrapper_sha256": "ad6df60a7fd1f34c92225f2a1e10576c30d2be93d6d5a9f996869240c9148bd7",
+      "actual_current_view_received": true,
+      "reading_scope": "Original image actually displayed and relevant visible reference text read; no fresh full-reference pass"
+    },
+    {
+      "source": "FAN-MEM",
+      "page": "FAN-MEM-S038",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "register_sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac",
+      "image_member": "item/image/i-036.jpg",
+      "image_sha256": "ee725515244ab127c37bcbd000ce9969811a1f8f70f0fc3bdbd9fed6b398d4bd",
+      "wrapper_member": "item/xhtml/p-036.xhtml",
+      "wrapper_sha256": "fac00059751bb16c60eb3570229688a80aae92d1ee964036aa691242b2e31505",
+      "actual_current_view_received": true,
+      "reading_scope": "Original image actually displayed and relevant visible reference text read; no fresh full-reference pass"
+    },
+    {
+      "source": "FAN-MEM",
+      "page": "FAN-MEM-S045",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "register_sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac",
+      "image_member": "item/image/i-043.jpg",
+      "image_sha256": "c7f1d9801fb1f5c47783e08e305842ce10c77cea0439068c369e17cb09eeada2",
+      "wrapper_member": "item/xhtml/p-043.xhtml",
+      "wrapper_sha256": "61c251ece8ea6170a9b8ddddcb7f397ac7153222e3364aadd25dfab0d9706342",
+      "actual_current_view_received": true,
+      "reading_scope": "Original image actually displayed and relevant visible reference text read; no fresh full-reference pass"
+    },
+    {
+      "source": "FAN-MEM",
+      "page": "FAN-MEM-S082",
+      "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+      "register_sha256": "526ce342424786a408f67de0e35d3fb282f6df4e29208b807f19036a00f10fac",
+      "image_member": "item/image/i-080.jpg",
+      "image_sha256": "6e545ca1e5acfeb84889d730bf28f5e3ecc417a7617cd82fb340f3915f458dff",
+      "wrapper_member": "item/xhtml/p-080.xhtml",
+      "wrapper_sha256": "76214b5b84658f741f0cb2fedddca58a12a50580972aeb2cdb2d337602c1ced6",
+      "actual_current_view_received": true,
+      "reading_scope": "Original image actually displayed and relevant visible reference text read; no fresh full-reference pass"
+    },
+    {
+      "source": "TRPG-ADV",
+      "page": "TRPG-ADV-S251",
+      "native_sha256": "2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c",
+      "register_sha256": "a46d71add94f4e9c539d81a887af88928c3f64b33429b42085179e0dfe469a1f",
+      "image_member": "item/image/i-249.jpg",
+      "image_sha256": "57ce4459cd2efb10ca5886c446858eb255f3c492d7b9eb6ba629518dfc6ada23",
+      "wrapper_member": "item/xhtml/p-249.xhtml",
+      "wrapper_sha256": "422d387a281292cb369e5bdd14a8ade0b4ac2704422c4a388c723fd9519473ed",
+      "actual_current_view_received": true,
+      "reading_scope": "Original image actually displayed and relevant visible reference text read; no fresh full-reference pass"
+    }
+  ],
+  "accepted_principal_locator_contract": {
+    "path": "09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+    "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e"
+  },
+  "retrieval_metadata_pins": [
+    {
+      "file": "FIO_CLEMEA_MAIN_NATIVE_NAME_NUMBER_RETRIEVAL_02.json",
+      "sha256": "e63525b6cf302a8cf3b0868255705feffac4a4f76b148d610a225f24f47810c1",
+      "new_semantic_reading_credit": 0
+    },
+    {
+      "file": "MITSURUGI_COMPANION_FD_NAME_NUMBER_RETRIEVAL_03.json",
+      "sha256": "9fb5e9889aee89b9d805fa6781a329a3b9bc52d269af816844a4ac362014535e",
+      "new_semantic_reading_credit": 0
+    },
+    {
+      "file": "MITSURUGI_COMPANIONS_SUPPLEMENT_MIXED_NAME_NUMBER_RETRIEVAL_04.json",
+      "sha256": "c90d4193056fd0fc5c66a8979c8bfd4a8d0511be6de2638774c0b747c9962e91",
+      "new_semantic_reading_credit": 0
+    },
+    {
+      "file": "MITSURUGI_MAIN_NATIVE_NAME_NUMBER_RETRIEVAL_01.json",
+      "sha256": "b15f4339374fdc49022ce594b8e6993825d4a27234dd6ff188f8883130fa9ad8",
+      "new_semantic_reading_credit": 0
+    },
+    {
+      "file": "MITSURUGI_REFERENCE_IMAGE_RETRIEVAL_05.json",
+      "sha256": "41fb72319a83a90d50c41e5067885c98c30b784504111d33cea3e9fd68e6b736",
+      "new_semantic_reading_credit": 0
+    }
+  ],
+  "necessary_qualifications": [
+    "MAIN17C3P54 gives フィオ/クレメア; P57 explicitly leaves name-to-role unresolved. Working Latin renderings do not certify official spellings. No duplicate people or source-unlicensed mapping.",
+    "MAIN16FinalP126 is internal Aqua narration, not audible fear. Explicit return request and Yunyun intervention remain available cues.",
+    "MAIN16 acceptance of Kazuma level-one limitation precedes new MAIN17 training and demonstrated skills. Do not retain an unchanged-premise accusation.",
+    "MAIN01C3P592 already gives 御剣響夜, not a name first learned in MAIN17. Wrong addresses are Kazuma behavior.",
+    "MAIN17C3P523 actual healing precedes final later collapse; urgent pleas745/746 are contextual companion voices, not Mitsurugi own request. Transport is not full recovery.",
+    "DUST01 staged rumor/role deception is reader knowledge; concrete later contradiction supplies new actor information. Overpricing, payment, map/key handover and actual sword retrieval differ.",
+    "FD context adds direct Arue participation but does not alter frozen cohort21 cores, existing grades or their declared source scope. Any later ledger use is a separate append.",
+    "Failed/context-truncated outputs receive zero reading credit until their complete replacement is received. Receipt14 records the specific FD replacement.",
+    "Reference reproductions, retellings, callbacks, reports, redo-branch hearsay, direct action and narrator judgments remain separate. No repeated-source confidence votes.",
+    "The spear-user's fatigue is expressed, not an explicit hard refusal or demonstrated universal practical limit. Her conditional following remains distinct from the thief's death-together words."
+  ],
+  "scope_limit": "All evidence is known to the continuing author. No untouched source tests, source accuracy estimate, independent evaluation, Japanese adequacy grade or confidence gain. Nineteen objects are this cohort's bounded context scope, not a whole-program denominator. Raw source text, native images and private first-body stores stay outside Git.",
+  "exact_new_inputs_serialized": false,
+  "actual_first_bodies_serialized": false,
+  "no_current_canonical_adoption": true,
+  "full_program_complete": false,
+  "private_receipt_access_limit": "Receipts retain actual complete tool chunks and original observations privately. Canonical metadata pins each exact receipt and the mechanically recomputed union of all actual windows; it does not reproduce raw primary text.",
+  "preseal_repeat_recheck": {
+    "source": "MAIN-06",
+    "member": "item/xhtml/p-005.xhtml",
+    "first": 500,
+    "last": 525,
+    "actual_complete_tool_chunk": "c66eef",
+    "new_unique_BASE_slots": 0,
+    "existing_union_unchanged": true,
+    "finding": "Aqua gives origami as ring thanks507-508; both men admire it513-514, Mitsurugi states intention to treasure it520. Reciprocal gift differs from returning his object. Real craft value, admiration, received gift and no engagement can coexist."
+  }
+}

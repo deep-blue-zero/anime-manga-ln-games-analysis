@@ -1,0 +1,278 @@
+{
+  "schema": "KONOSUBA_CLERGY_MERCHANT_COHORT14_RECEIVING_AND_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T11:15:25.845559+00:00",
+  "source_boundary": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+  "status": "SCOPED_SEMANTIC_AND_FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "subject_tiers": {
+    "returning_Axis_guide170": 1,
+    "Axel_Eris_priest171": 1,
+    "Arcanretia_Eris_priest172": 1,
+    "merchant_chair177": 1
+  },
+  "new_model_bodies": 0,
+  "twenty_entering_models_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CECILY_RECONSTRUCTION_MODEL.md",
+      "bytes": 20405,
+      "sha256": "34843fd30838efdc83d54f686795e23bd76730920137746aa8978729891a72a5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "bytes": 18435,
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LUNA_RECONSTRUCTION_MODEL.md",
+      "bytes": 23199,
+      "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 19139,
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_ZESTA_RECONSTRUCTION_MODEL.md",
+      "bytes": 20868,
+      "sha256": "f7c966bf93a3c788a697f9b2da55f01b6b221d52ca9a95d63df45401632de0a0"
+    }
+  ],
+  "current_models_after_adoption": 20,
+  "scoped_secondary_model_subjects": 14,
+  "Nos_Tier2_monograph_only_preserved": true,
+  "prior_bounded_profiles": 11,
+  "new_bounded_profiles": 4,
+  "proposed_bounded_profiles": 15,
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+      "bytes": 23920,
+      "sha256": "82c5cc0511d37897b89722efdfc52fbc62a74f64689bc547aff40721fef21fe5"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX.md",
+      "bytes": 9174,
+      "sha256": "c74727391893ea355baedc782fb07a86f5f0593d2823fee7ac2fde8815833886"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json",
+      "bytes": 13105,
+      "sha256": "b4eb9d06f5e684bf8b32aaa6e3bd28616c203c891c4605ce48b72acb42a2940f"
+    }
+  ],
+  "semantic_receiving": {
+    "schema": "KONOSUBA_CLERGY_MERCHANT_SEMANTIC_NAME_REFERENCE_RECEIVING_V1",
+    "recorded_utc": "2026-10-20T11:19:45.215707+00:00",
+    "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_EXACT_CANDIDATE_PUBLICATION_PENDING",
+    "published_source_at_receiving": "9904a30d88aadc00d8d5748a28e1bc1be3d43eef",
+    "current_drafts_and_evidence": [
+      {
+        "file": "KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES_PUBLICATION_LF_01.md",
+        "bytes": 23920,
+        "sha256": "82c5cc0511d37897b89722efdfc52fbc62a74f64689bc547aff40721fef21fe5"
+      },
+      {
+        "file": "KONOSUBA_CLERGY_AND_MERCHANT_EVIDENCE_INDEX_PUBLICATION_REVIEW_02.md",
+        "bytes": 9174,
+        "sha256": "c74727391893ea355baedc782fb07a86f5f0593d2823fee7ac2fde8815833886"
+      },
+      {
+        "file": "KONOSUBA_CLERGY_AND_MERCHANT_NATIVE_PROVENANCE_01.json",
+        "bytes": 13105,
+        "sha256": "b4eb9d06f5e684bf8b32aaa6e3bd28616c203c891c4605ce48b72acb42a2940f"
+      }
+    ],
+    "actual_review": "Guide draft01 fully read; complete draft01-to02 diff read in fd4d6e, final three publication-only replacements inspected and byte-checked. Complete event index read in83d8f5. Native windows are separately receipted with actual complete output chunks; provenance metadata and twenty-model hashes checked from full files. A formatting check found exactly one extra terminal LF in the prose copy; declared derivative removes only that LF. Full substantive text and prior receiving remain unchanged.",
+    "actual_native_receiving_sha256": [
+      "544f3231b439aaacac37081c74c6b07f67e2affc7f998b5dd3c7535cf553874a",
+      "e191bd608cacec7df26320f74c17a6476fdf765b92f6b76451e5013cebc52e11"
+    ],
+    "bounded_name_reference_check": {
+      "guide": "Explicit MAIN16P87-to-MAIN04first-visit co-reference, no personal-name inference or Cecily/Tristan join; children/guide kick/earlier Aqua mob separate.",
+      "priests": "Distinct source-bound Axel and Arcanretia roles; Arcanretia explicitly first meets MeguminP476. No Axel gender inference from body insult; priest resistance is not Zesta invented consent.",
+      "chair": "Same within-volume chair continuity; board unattributed voices, Darkness permits, Kazuma private intention and workers acts retain their subjects. No other-merchant join.",
+      "tier_scope": "Four earned bounded Tier1 profiles with reasons and serious situational/generic rivals; no appearance quota, fixed ceiling, new model or automatic hypothetical battery.",
+      "method": "Semantic referential check, not frequency/occurrence certificate or independent evaluation."
+    },
+    "action_access_counterevidence": [
+      "Direct kick/hit versus unknown precise intent and unproved earlier mob participation.",
+      "Self-reported service, poverty and losses versus watched work/spell/escape.",
+      "Unperformed threats versus actual restraint, Powered and defensive throw/punch.",
+      "Direct agreement/role acceptance versus promised fee; later reported delivery plus visible bag versus exact amount or Kazuma acceptance.",
+      "Police/caster limitations qualify one-dimensional profit account; guide duty and Aqua enthusiasm coexist with hostility and money pressure."
+    ],
+    "Japanese_scope": "BASE pragmatic observations only; no full ruby, acoustic or native-human generation certificate.",
+    "stage_ownership": "Same informed author receives and writes analysis. No independent source/judge, score, accuracy, confidence or capability promotion.",
+    "historical_integrity": "Twenty published model bodies, all original inputs/first bodies/indices and qualified earlier receiving stay exact. Later returns cannot retroactively validate cohort13.",
+    "coverage_status_correction": "Current coverage text still calls Claire/Rain/Luna pending proportional review despite their closed scoped gates; narrow current sentence update required, earlier chronology/history retained.",
+    "global_census_closed": false,
+    "full_program_complete": false,
+    "prior_semantic_receiving_sha256": "d83edc7ac1a2cc5855afcd7f2629a22922904a6ca679e5e35b8d05378511f822",
+    "declared_format_transform": {
+      "original_file": "KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+      "original_sha256": "827f911b42d87bb16546a760ecf974a364ee3afc4281ded070ca85adecc5c574",
+      "publication_file": "KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES_PUBLICATION_LF_01.md",
+      "publication_sha256": "82c5cc0511d37897b89722efdfc52fbc62a74f64689bc547aff40721fef21fe5",
+      "operation": "Remove exactly one extra trailing LF from publication copy only; all other bytes and substantive prose unchanged. Original draft and semantic receipt preserved. No model/input/body mutation.",
+      "exact_reversible_relation": "original_bytes == publication_bytes + bLF"
+    },
+    "semantic_review_refinements": [
+      "Unassigned board acts and unspoken resignation establish limits on attribution/knowledge, not proven absence of chair action/knowledge.",
+      "Only183unaffectedrows remain exact; working count stays187but four rows change.",
+      "Evidence index receives one phrase clarification; original profile/index/receipts retained. No new source, model, input, first body, grade or confidence gain."
+    ]
+  },
+  "declared_format_transform": {
+    "original_file": "KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES.md",
+    "original_sha256": "827f911b42d87bb16546a760ecf974a364ee3afc4281ded070ca85adecc5c574",
+    "publication_file": "KONOSUBA_COHORT14_CLERGY_AND_MERCHANT_BOUNDED_PROFILES_PUBLICATION_LF_01.md",
+    "publication_sha256": "82c5cc0511d37897b89722efdfc52fbc62a74f64689bc547aff40721fef21fe5",
+    "operation": "Remove exactly one extra trailing LF from publication copy only; all other bytes and substantive prose unchanged. Original draft and semantic receipt preserved. No model/input/body mutation.",
+    "exact_reversible_relation": "original_bytes == publication_bytes + bLF"
+  },
+  "canonical_census_change_controls": {
+    "targeted_prior_row_indices": [
+      170,
+      171,
+      172,
+      177
+    ],
+    "untouched_prior_rows_exact": 183,
+    "new_qualified_rows": 0,
+    "current_rows_not_final_population": 187,
+    "twenty_entering_models_unchanged": true,
+    "new_distinct_models": 0,
+    "current_models_after_adoption": 20,
+    "current_scoped_secondary_model_subjects": 14,
+    "Nos_monograph_only_preserved": true,
+    "prior_bounded_profiles": 11,
+    "new_bounded_profiles": 4,
+    "proposed_bounded_profiles": 15,
+    "new_source_admission": false,
+    "global_census_closed": false,
+    "final_tiers_assigned": false,
+    "global_completion_percentage": null
+  },
+  "known_BASE_context_slots": 534,
+  "new_global_unique_full_ruby_image_admission_or_independent_credit": 0,
+  "new_hypothetical_first_bodies": 0,
+  "no_grade_confidence_or_Japanese_performance_gain": true,
+  "current_status_correction": "Claire/Rain/Luna current pending-review sentence corrected to closed cohorts11/12; earlier milestones/history retained.",
+  "protected_histories": {
+    "immutable66": true,
+    "historical72_at_frozen_revision": true,
+    "four_scores_Dust14blanks_SISY28nulls": true,
+    "twenty_entering_models": true,
+    "original_reports_annotations_errata_gates_inputs_first_bodies": true,
+    "unrelated_scratch80": true
+  },
+  "publication": "Exact full candidate review/preflight/normal publication/whole tree and changedblob readback/source-HK-final actualsource audit/status/freshreload required. Prior cohort13 gate certifies9904a30d,not this candidate.",
+  "designated_ownership": "No discovery/capability global files or housekeeping outputs authored. Designated maintenance/allowed lag remain under owning controls.",
+  "remaining": "Full individual/event/alias/incidental reconciliation and earned artifacts, seven expanded specialists, extended/full-series synthesis, six separate StageD successors and designated curation/evaluation/integration/component-release/final entry.",
+  "global_census_closed": false,
+  "full_program_complete": false,
+  "candidate_review_refinements": [
+    "Unassigned board acts and unspoken resignation establish limits on attribution/knowledge, not proven absence of chair action/knowledge.",
+    "Only183unaffectedrows remain exact; working count stays187but four rows change.",
+    "Evidence index receives one phrase clarification; original profile/index/receipts retained. No new source, model, input, first body, grade or confidence gain."
+  ],
+  "publication_pending_status_at_authorship": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_CONTAINING_PUBLICATION_GATE_PENDING",
+  "publication_resolution": {
+    "status": "SCOPED_FOUR_TIER1_PROFILES_FULL_EXACT_SOURCE_GATE_CLOSED",
+    "source": "587fb9d0eea923c730c4e7e532dfc4929862e344",
+    "tree": "b673527a6ef11dd7f24dda060dcd8eb9f6ee7245",
+    "closed_utc": "2026-10-20T11:38:32.011100+00:00",
+    "gate_path": "09 Audits and Manifests/KONOSUBA_CLERGY_MERCHANT_COHORT14_PUBLICATION_GATE_CLOSE.json",
+    "gate_sha256": "6beb314b4e4dc5b38c823ed10c3c5fc93c5697229f2fc04a2a2df2e48f48dc68",
+    "source_run": 39414733032,
+    "housekeeping_run": 39415444499,
+    "final_run": 39415509323,
+    "all_remote_paths": 9276,
+    "all_changed_streams": 24,
+    "full_tests_source_and_final": 385,
+    "fresh_project_reload_paths": 1100,
+    "current_model_bodies": 20,
+    "new_model_bodies": 0,
+    "scoped_secondary_model_subjects": 14,
+    "bounded_profiles": 15,
+    "monograph_only_subjects": 1,
+    "independent_accuracy_or_confidence_gain": false,
+    "full_program_complete": false
+  },
+  "published_authority_reload_sha256": "6e80e0f37701bf1c07348a15ec67c280f4eaf805244fb018b31afcdb590d5b03"
+}

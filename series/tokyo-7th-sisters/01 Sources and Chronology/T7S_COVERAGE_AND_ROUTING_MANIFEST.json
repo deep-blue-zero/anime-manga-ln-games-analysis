@@ -1,0 +1,181 @@
+{
+  "schema": "t7s-analysis/coverage-routing-manifest/v1",
+  "artifact_id": "T7S_COVERAGE_AND_ROUTING_MANIFEST",
+  "artifact_type": "analytical_coverage_ledger_manifest",
+  "series": "Tokyo 7th Sisters",
+  "generation": "V1",
+  "version": "2.153",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "corpus_alias": "c20260909-r484",
+  "logical_ledger_artifact_id": "T7S_COVERAGE_AND_ROUTING",
+  "record_identity": "SCENARIO uses record_type plus script_id; SUPPLEMENTAL_TRANCHE uses record_type plus tranche_id. META records are shard headers, not data records.",
+  "partition_rule": "CURRENT_OR_CONSUMED iff the pre-shard effective record has narratively_reconstructed=true or a non-empty consumed_ranges array; ROUTED_OR_UNCONSUMED is the exact complement.",
+  "merge_order": "Expand each record with its shard-local META defaults, then order SCENARIO records by script_id UTF-8 binary order and SUPPLEMENTAL_TRANCHE records by tranche_id UTF-8 binary order.",
+  "data_records": 1590,
+  "scenario_records": 1578,
+  "supplemental_tranche_records": 12,
+  "meta_records": 8,
+  "disjoint": true,
+  "complete": true,
+  "effective_state_sha256_before_sharding": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+  "effective_state_sha256_after_sharding": "a0d2d51ff77de76130112a845e2a226137788a83b0efa272624e18ff38b76302",
+  "shards": [
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "data_records": 278,
+      "bytes": 395960,
+      "sha256": "ae907faf26de96ec8abf21d7e8893f073552d5ebcbe6c1969c93bb4fbd19c13a",
+      "membership_sha256": "f1bd1f29457e1ae108db304d8b2af9b079628850a6a08a2ba900490c9076da9a",
+      "logical_part": 1,
+      "payload_bytes": 393213,
+      "payload_sha256": "71fc15491bae060c79eefbd8c95aa3e94a361ccbd89eea4aa8e994892c54080e"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_CURRENT_002.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "data_records": 212,
+      "bytes": 395905,
+      "sha256": "360aa5737b1c3deb5aacf92939105bb242884c68649a6142e47f00f5e57ba368",
+      "membership_sha256": "9db3d54bac63176bce54fe16ef818cffb29f07e24257f97900b8a658db228450",
+      "logical_part": 2,
+      "payload_bytes": 393140,
+      "payload_sha256": "c77ab3f93f175b00d36aa429b5fda808b1b9f4a5640149506709de9dfcae6080"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_CURRENT_003.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "logical_part": 3,
+      "data_records": 189,
+      "bytes": 395362,
+      "sha256": "db902e201a16210de3a43bf84bce92cf8ef92bb282af98afcab1db69f42de98f",
+      "membership_sha256": "2ad6765e2da86cc1cb7b4c2202f6c096e52db3fc199a97dad4ec03ddeaea10ba",
+      "payload_bytes": 392597,
+      "payload_sha256": "3d1e9f553e63ac512a2c2f4815a3e0bc50398d5a950552ba6b82e616d02983d1"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_CURRENT_004.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "logical_part": 4,
+      "data_records": 187,
+      "bytes": 395567,
+      "sha256": "98df81560adee54742ba0fbc801e07b41aa667d464fd6d1b56eb13fa5c22095d",
+      "membership_sha256": "9c5ea208e58ff969f94a807017b5fa8cece7170398e437576708eb734f0876cc",
+      "payload_bytes": 392802,
+      "payload_sha256": "8d8e5d9eda83260b4d5114c9d70e219153c6a0adc036efc941f0b299d300181b"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_CURRENT_005.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "logical_part": 5,
+      "data_records": 186,
+      "bytes": 394013,
+      "sha256": "378160201b97f753c0a2fbf84ab7fbd9f338f0a78542a59053e9b5ed5f3a7958",
+      "membership_sha256": "33407e71b63c0b73a86f8143c2b26c815958c3606eaf474e8667092209d9babc",
+      "payload_bytes": 391248,
+      "payload_sha256": "79bd42a5a8b7d88485c9c8ca15f0811dcbb951e7bb194f2e6a96369e3759583c"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_CURRENT_006.jsonl",
+      "role": "CURRENT_OR_CONSUMED",
+      "logical_part": 6,
+      "data_records": 116,
+      "bytes": 299359,
+      "sha256": "5303d09ca162673b4f9512bda0e9e34282670c77305e7be23a15e17a20b7d0b0",
+      "membership_sha256": "0248726400fe0a11b4a361e8143a0118ec8ee61c16c20d6994b998f13d1b5bd6",
+      "payload_bytes": 296594,
+      "payload_sha256": "fee1df93b088b89de527e2cea7b94a76ab0953ad193e3a570b0f18eba97ee150"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
+      "role": "ROUTED_OR_UNCONSUMED",
+      "logical_part": 1,
+      "data_records": 422,
+      "bytes": 258515,
+      "sha256": "03cbecd41033a9f5706cdb7074aa6c306bf2fdf65ead90a77c8abf507b9d8797",
+      "membership_sha256": "f4c7a0f8814ead30cae54e75c9adf4a49ad6af2fedb42bf3130691dcb6464265",
+      "payload_bytes": 255352,
+      "payload_sha256": "e6498e393b2f94fd85fcd80861bb38abc32b50ffd168ee9737d9b075b7571d71"
+    },
+    {
+      "path": "T7S_COVERAGE_AND_ROUTING_ROUTED_002.jsonl",
+      "role": "ROUTED_OR_UNCONSUMED",
+      "logical_part": 2,
+      "data_records": 0,
+      "bytes": 3165,
+      "sha256": "e3917540fbb0a502de91256a254b3dd9579eab30ec91f392d8b435ceb352dadc",
+      "membership_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "payload_bytes": 0,
+      "payload_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "transition": {
+    "operation": "T7S_COVERAGE_LEDGER_SHARD_TRANSITION",
+    "date": "2026-09-24",
+    "reason": "Preserve the complete authored ledger below the repository's per-file review threshold without dropping decisions, histories, routes, or defaults.",
+    "semantic_change": "NONE"
+  },
+  "current_effective_state_sha256": "eff1c11d9ddf78bf7560527159e018b3a6ae24e7e98b66744e871bc21ac0ef61",
+  "latest_state_transition": {
+    "operation": "T7S_B0250_CLOSE",
+    "date": "2026-11-05",
+    "moved_scenario_records": 5,
+    "unchanged_other_effective_records": 1585,
+    "historical_shard_transition_preserved": true,
+    "prospective_complete_consumer_ordering_satisfied": true,
+    "all_complete_case_freezes_before_next_display": true,
+    "older_failures_receipts_and_private_candidates_preserved": true,
+    "all_complete_family_freezes_before_next_family": true
+  },
+  "logical_role_headers": {
+    "CURRENT_OR_CONSUMED": {
+      "utf8": "{\"record_type\":\"META\",\"schema\":\"t7s-analysis/coverage-routing/v2\",\"artifact_id\":\"T7S_COVERAGE_AND_ROUTING\",\"artifact_type\":\"analytical_coverage_ledger\",\"status\":\"canonical\",\"supersedes\":[],\"superseded_by\":[],\"do_not_use_as_current_authority\":false,\"do_not_use_as_literary_evidence\":true,\"source_lock\":\"T7S_SOURCE_LOCK.json\",\"corpus_alias\":\"c20260909-r484\",\"record_defaults\":{\"inventoried\":true,\"admitted_horizon\":null,\"screened\":false,\"narratively_reconstructed\":false,\"closely_analyzed\":false,\"integrated_into_state\":false,\"AV_review_state\":\"NOT_REVIEWED\",\"canonical_artifact_routes\":[],\"subject_integration\":[],\"consumed_ranges\":[],\"decision_history\":[]},\"record_types\":[\"META\",\"SCENARIO\",\"SUPPLEMENTAL_TRANCHE\"],\"initialization_decision\":\"INIT-20260909: exact metadata membership only; no semantic consumption\",\"remaining_obligation_meanings\":{\"MAIN_CLOSE_READING\":\"Complete causal blocks and synchronized handoffs\",\"SCREEN_AND_RECONSTRUCT\":\"Complete horizon-controlled screening then factual home and routed depth\",\"CLASSIFY_AND_ROUTE\":\"Classify exact additional resource; do not invent episode membership\",\"SCREEN_SUPPLEMENTAL_TRANCHE\":\"Complete scoped semantic screening and condition-aware routing\",\"RECONSTRUCT_AND_INTEGRATE\":\"Routing is closed; complete factual reconstruction, routed depth and cumulative integration\",\"PORTFOLIO_INTEGRATION\":\"Screening is closed; integrate occurrence-aware evidence into its assigned analytical portfolio\",\"NONE\":\"No further obligation within the declared operation\",\"NONE_FOR_2034\":\"No further obligation for the 2034 game-continuity release\",\"IDENTITY_RESOLUTION_IF_USED\":\"Excluded from load-bearing claims unless identity is independently resolved\",\"COMPLETE_BOUNDED_PORTFOLIO\":\"Complete presentation review, close factual handoff, and integrate the bounded portfolio\"},\"revision_contract\":\"Patch reviewed records; retain previous decisions with operation/date/reason/affected ranges; inherited defaults apply only to explicitly defined fields; split memberships require disjoint union proof\",\"latest_routing_operation\":\"T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT\",\"latest_analysis_operation\":\"T7S_B0250_CLOSE\",\"version\":\"2.152\",\"logical_ledger_manifest\":\"T7S_COVERAGE_AND_ROUTING_MANIFEST.json\",\"shard_role\":\"CURRENT_OR_CONSUMED\",\"partition_rule\":\"CURRENT_OR_CONSUMED iff the pre-shard effective record has narratively_reconstructed=true or a non-empty consumed_ranges array; ROUTED_OR_UNCONSUMED is the exact complement.\",\"record_identity\":\"SCENARIO uses record_type plus script_id; SUPPLEMENTAL_TRANCHE uses record_type plus tranche_id. META records are shard headers, not data records.\",\"data_record_count\":1168}\n",
+      "sha256": "22972ab9329b679b714fe8ad1dd9b99e7f833ad5e9beb9d83e623205b7c4a280",
+      "data_records": 1168,
+      "logical_bytes": 2262263,
+      "logical_sha256": "31994a84eae98e93910a517c996abeaa51e4d6230c2a606264dc1faa6d2ab1a0",
+      "parts_count": 6
+    },
+    "ROUTED_OR_UNCONSUMED": {
+      "utf8": "{\"record_type\":\"META\",\"schema\":\"t7s-analysis/coverage-routing/v2\",\"artifact_id\":\"T7S_COVERAGE_AND_ROUTING_ROUTED\",\"artifact_type\":\"analytical_coverage_ledger_shard\",\"status\":\"canonical\",\"supersedes\":[],\"superseded_by\":[],\"do_not_use_as_current_authority\":false,\"do_not_use_as_literary_evidence\":true,\"source_lock\":\"T7S_SOURCE_LOCK.json\",\"corpus_alias\":\"c20260909-r484\",\"record_defaults\":{\"inventoried\":true,\"admitted_horizon\":\"T7S_STACK_2034_NON_MAIN\",\"screened\":true,\"narratively_reconstructed\":false,\"closely_analyzed\":false,\"integrated_into_state\":false,\"AV_review_state\":\"NOT_REVIEWED\",\"canonical_artifact_routes\":[\"09 Audits and Manifests/T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT.md\",\"02 Readings/T7S_2034_NON_MAIN_PORTFOLIO_INDEX.md\"],\"subject_integration\":[],\"consumed_ranges\":[],\"decision_history\":[{\"operation\":\"T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT\",\"date\":\"2026-09-24\",\"reason\":\"2034-eligible non-Main story screened at its complete native family envelope and assigned a conservative reconstruction home.\",\"disposition\":\"ORDINARY_LIFE_CASE\"}]},\"record_types\":[\"META\",\"SCENARIO\",\"SUPPLEMENTAL_TRANCHE\"],\"initialization_decision\":\"INIT-20260909: exact metadata membership only; no semantic consumption\",\"remaining_obligation_meanings\":{\"MAIN_CLOSE_READING\":\"Complete causal blocks and synchronized handoffs\",\"SCREEN_AND_RECONSTRUCT\":\"Complete horizon-controlled screening then factual home and routed depth\",\"CLASSIFY_AND_ROUTE\":\"Classify exact additional resource; do not invent episode membership\",\"SCREEN_SUPPLEMENTAL_TRANCHE\":\"Complete scoped semantic screening and condition-aware routing\",\"RECONSTRUCT_AND_INTEGRATE\":\"Routing is closed; complete factual reconstruction, routed depth and cumulative integration\",\"PORTFOLIO_INTEGRATION\":\"Screening is closed; integrate occurrence-aware evidence into its assigned analytical portfolio\",\"NONE\":\"No further obligation within the declared operation\",\"NONE_FOR_2034\":\"No further obligation for the 2034 game-continuity release\",\"IDENTITY_RESOLUTION_IF_USED\":\"Excluded from load-bearing claims unless identity is independently resolved\",\"COMPLETE_BOUNDED_PORTFOLIO\":\"Complete presentation review, close factual handoff, and integrate the bounded portfolio\"},\"revision_contract\":\"Patch reviewed records; retain previous decisions with operation/date/reason/affected ranges; inherited defaults apply only to explicitly defined fields; split memberships require disjoint union proof\",\"latest_routing_operation\":\"T7S_2034_NON_MAIN_ELIGIBILITY_AND_ROUTING_AUDIT\",\"latest_analysis_operation\":\"T7S_B0250_CLOSE\",\"version\":\"2.151\",\"logical_ledger_manifest\":\"T7S_COVERAGE_AND_ROUTING_MANIFEST.json\",\"shard_role\":\"ROUTED_OR_UNCONSUMED\",\"partition_rule\":\"CURRENT_OR_CONSUMED iff the pre-shard effective record has narratively_reconstructed=true or a non-empty consumed_ranges array; ROUTED_OR_UNCONSUMED is the exact complement.\",\"record_identity\":\"SCENARIO uses record_type plus script_id; SUPPLEMENTAL_TRANCHE uses record_type plus tranche_id. META records are shard headers, not data records.\",\"data_record_count\":422}\n",
+      "sha256": "a1fae4c99258dadd339b48f3cc3656ad867c3ba677e2cc472346387f9827be64",
+      "data_records": 422,
+      "logical_bytes": 258436,
+      "logical_sha256": "2a980e800f4c2d9fa71cc0c7b5dbfda64e7d41bc99f7c200a478ce2bc581dd55",
+      "parts_count": 2
+    }
+  },
+  "storage_representation": "manifest_bound_role_components_v1",
+  "physical_storage_transition": {
+    "operation": "T7S_CONTROL_STORAGE_TRANSITION_V1",
+    "date": "2026-10-14",
+    "semantic_change": "NONE",
+    "before_manifest_sha256": "d7016b99e6ae0d7523ba772fa4266167a23f34245515ca76cca57a00edf02c95",
+    "before_physical_shards": [
+      {
+        "path": "T7S_COVERAGE_AND_ROUTING.jsonl",
+        "role": "CURRENT_OR_CONSUMED",
+        "data_records": 589,
+        "bytes": 989418,
+        "sha256": "d0d3118cb467d61930bdf0b0e5b7e88511de4fe067e71257f2aaae8d65972666",
+        "membership_sha256": "0a5ae5797621710ef1d5f08c4cd02a0606fc08eddd2c34795042a553298fbd59"
+      },
+      {
+        "path": "T7S_COVERAGE_AND_ROUTING_ROUTED.jsonl",
+        "role": "ROUTED_OR_UNCONSUMED",
+        "data_records": 1001,
+        "bytes": 534177,
+        "sha256": "42208ab1172d5c8c60e1a8c8d5ca951ca3047495c79e116a727b25674fb97fb8",
+        "membership_sha256": "3aeaa0ea28919c0ec1c58bba10d4846972437746c6def190e03f5bc8b2a1c135"
+      }
+    ],
+    "before_current_effective_state_sha256": "b23b2ba3e02322864739030fcb16fd7187803425d0673b9a1064dbb87279e13e",
+    "after_current_effective_state_sha256": "b23b2ba3e02322864739030fcb16fd7187803425d0673b9a1064dbb87279e13e",
+    "data_lines_and_role_defaults": "BYTE_EXACT_IN_ORIGINAL_LOGICAL_ROLE_ORDER",
+    "new_source_admission": "NONE"
+  }
+}

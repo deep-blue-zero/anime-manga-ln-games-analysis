@@ -1,0 +1,2075 @@
+{
+  "status": "ACCEPTED_PRINCIPAL_VALIDATION_EVENT_FORM_INDEX_WITH_EXTERNAL_PRECISION_NOT_SOURCE_CENSUS",
+  "source_id": "MASK",
+  "event_cards": [
+    {
+      "id": "MASK-RENT-DREAM",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "Pro",
+          "member": "text/part0009.html",
+          "p_start": 9,
+          "p_end": 45,
+          "projection_sha256": "f601c47597d1fba72ff29f4a0ae3173c17fc5de1e197ccc28ec5d1f5ba061106"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Wiz"
+      ],
+      "independently_available_before_response": "Capital overstock and monthly rent need are known; exceptional future archmages are Wiz imagined clientele, not present buyers. Vanir has his own dungeon dream and a particular old friend.",
+      "initial_decision_interval": "Ten-year absence proposal and refusal, then current choice to support.",
+      "actual_observation": "Wiz rejects exclusion, invokes their promise; Vanir renews own dream and concern. Highest-grade manatite is useful but wrong customer/capital fit. No completed later business or new purchase result follows merely from P45 cue.",
+      "eligibility": "NEAR_MATCH",
+      "observed_direction": "PARTICULAR_BOND_AND_UTILITY_MIXED",
+      "missing_or_confounded_conjuncts": "Whether this proposed ten-year route is workable independently of the current partnership is unknown.",
+      "strongest_contrary_or_competing_reading": "Contract utility and actual concern can coexist; neither proves pure altruism or universal never-leave.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E04"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-K-COOL-HOUSE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 24,
+          "p_end": 25,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Aqua reporting Kazuma"
+      ],
+      "independently_available_before_response": "Hot weather and cooling ability are reported, not a received request for low-return routine work.",
+      "initial_decision_interval": "Off-page existing daily routine.",
+      "actual_observation": "Aqua reports Kazuma uses Freeze indoors and wakes in cooler evening. No particular declined demand or first reply is shown.",
+      "eligibility": "MISSING_GUARD",
+      "observed_direction": "CONTEXT_ONLY",
+      "missing_or_confounded_conjuncts": "No known requester, optional demand or initial choice; security not fully fixed.",
+      "strongest_contrary_or_competing_reading": "Practical heat avoidance is not globally unwilling or incapable of work.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K01",
+        "R1-K02"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-DIVINE-CHALLENGE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 30,
+          "p_end": 39,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Aqua",
+        "Wiz"
+      ],
+      "independently_available_before_response": "Vanir explicitly says self-claimed god to Aqua while requesting financial advice. Aqua hears it and can answer; no grave competing task is active.",
+      "initial_decision_interval": "C01P30 -> first reply32 and explanation35.",
+      "actual_observation": "Aqua objects to self-claimed wording32, invokes divine wisdom and her goddess descent35. She supplies a real but impractical land plan rather than abandoning the interaction.",
+      "eligibility": "FULL",
+      "observed_direction": "COMPATIBLE",
+      "missing_or_confounded_conjuncts": "No unique motive identification; this is one episode, not one success per assertion.",
+      "strongest_contrary_or_competing_reading": "Land speculation ignores taxes/capital/timing37; identity defense does not establish sound financial reasoning.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A03"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-LAND-AND-DEBT",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 35,
+          "p_end": 39,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        },
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 470,
+          "p_end": 481,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 3,
+          "p_end": 18,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Kazuma as reported",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Long-term land profits are proposed without current capital, tax and interest accounting; Kazuma is a familiar guardian/friend, not necessarily the injured shop owner.",
+      "initial_decision_interval": "Reported capital/tax explanation followed by later rebuke/work-redress command; first fully eligible settlement boundary remains unresolved.",
+      "actual_observation": "Wiz reports Kazuma fetched Aqua/explained costs, loans were returned but interest caused loss; Aqua reports he rebuked her and ordered work to repay the shop. Earlier and later mentions are one transaction.",
+      "eligibility": "PARTIAL_REPORTED_K04_REDRESS;FULL_VALID_GRIEVANCE_ADVANTAGE_FIRST_SETTLEMENT_GUARD_UNRESOLVED",
+      "observed_direction": "REDRESS_PRESSURE_REPORTED",
+      "missing_or_confounded_conjuncts": "Actual attributed Japanese imperative fragment C02P3 exists; the full Japanese response episode, detailed first information receipt and independently continuing prior objective remain unshown. Personal sacrifice is unresolved for K03, not a universal K04 condition. K05 requires failure OR new contradictory information, not universally his own failed prior technique.",
+      "strongest_contrary_or_competing_reading": "Neutral tax correction alone is not K04; actual instruction to work for redress is further settlement. No extra-profit or personal-victim condition may be invented.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K03",
+        "R1-K04",
+        "R1-K05",
+        "R1-K08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-K-HOLYWATER-PLAN",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 14,
+          "p_end": 35,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 506,
+          "p_end": 510,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Kazuma as reported",
+        "Aqua",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Actual debt gap and known Aqua water capability are explicitly linked in the reported proposal; free water and compatible undead-market product exist. This is not inferred merely from later sale.",
+      "initial_decision_interval": "Proposal18/26/30 -> adoption31 and production.",
+      "actual_observation": "Kazuma proposes using Aqua contact purification for sale; Vanir accepts free-input plan31; first batch actually sells506. Narrow indirect affordance attempt is reported with enough semantic content, not his exact Japanese voice.",
+      "eligibility": "FULL_REPORT_LEVEL",
+      "observed_direction": "COMPATIBLE_K01",
+      "missing_or_confounded_conjuncts": "Kazuma private motive, entire initial option search and later recovery are unobserved.",
+      "strongest_contrary_or_competing_reading": "Reported causal explanation is narrower than fully observed deliberation; later explosion does not erase actual first-batch capacity or prove total plan success.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K01",
+        "R1-E01",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-HOLYWATER-EXECUTION",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 3,
+          "p_end": 35,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 506,
+          "p_end": 516,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Aqua knowingly adopts quota, is awake with actual water and sacred ability; ordinary water is compatible. Initial requests for cold water32 show readiness, not serious harm.",
+      "initial_decision_interval": "Initial production, actual sold batch, then separately chosen expansion.",
+      "actual_observation": "Aqua makes useful holy water; Wiz reports all sold. Both then seek more profit/recognition511 and choose converting old potion contents514. Opening-explosive potion causes damage516. Exact opener, Aqua knowledge of that target and individual technique are not shown.",
+      "eligibility": "FULL_INITIAL_STEP;UNRESOLVED_EXPANSION_GUARD",
+      "observed_direction": "SUCCESS_PLUS_MATERIAL_ADVERSE_OPERATION",
+      "missing_or_confounded_conjuncts": "Do not backfill who opened the bottle or known compatibility/readiness for expanded step; retain bad joint judgment and damage.",
+      "strongest_contrary_or_competing_reading": "No invented ontology rescues own failure. Initial fitted capacity and later unverified extension are separate, dependent phases of one production day. No claim all Aqua execution is reliable.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-A02",
+        "R1-E01",
+        "R1-E03",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-WATER-PUNISHMENT",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 3,
+          "p_end": 34,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Aqua asks dousing and Wiz expresses reluctance, but Aqua is water goddess and actually untroubled by it.",
+      "initial_decision_interval": "Consent theatre before Vanir actually douses22.",
+      "actual_observation": "Vanir identifies staged pity11; Aqua25 is fine and32 requests colder water. This is not serious categorical harm to a trusted friend.",
+      "eligibility": "INELIGIBLE_A05_SERIOUS_HARM",
+      "observed_direction": "NO_A05_TEST",
+      "missing_or_confounded_conjuncts": "Neither Wiz nor Aqua has a serious-harm consent conflict here.",
+      "strongest_contrary_or_competing_reading": "Comic punishment framing alone cannot supply the harm threshold. No inferred cold/illness from deliberately melodramatic20.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A05"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-FAKE-RESCUE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 48,
+          "p_end": 113,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Dust",
+        "two ordinary recruited youths",
+        "Yunyun",
+        "Vanir as observer/intervenor"
+      ],
+      "independently_available_before_response": "Dust has organized a staged pick-up/rescue with two ordinary young men. Vanir is the unrelated passerby/observer C01P44-57; the two hired youths become genuinely attracted65, provoking Dust67. Vanir subsequently intervenes with kick77.",
+      "initial_decision_interval": "Dust/youths staged roles -> genuine youth attraction65 -> organizer Dust interruption67; Vanir subsequently intervenes77.",
+      "actual_observation": "Dust complains his two recruited youths forgot their roles67 after they become genuinely attracted65; they flee70. Dust then claims hero status72/75 and presses invitation despite refusal76. Vanir, previously observing, actually kicks Dust77. Yunyun is named later108. No Megumin involvement.",
+      "eligibility": "OUTSIDER_MECHANISM_NEAR_MATCH",
+      "observed_direction": "INFORMATION_AND_INCENTIVE_FAILURE",
+      "missing_or_confounded_conjuncts": "Relationship familiarity before first meeting is not granted; no full principal-character trigger.",
+      "strongest_contrary_or_competing_reading": "The two recruited youths change incentives and break their parts; Vanir has no organizer role here. Later concern does not authorize coercion76.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-YUN-BOUNDARY-AND-PUBLICITY",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 184,
+          "p_end": 200,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        },
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 280,
+          "p_end": 300,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Yunyun",
+        "Dust",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Yunyun explicitly rejects Dust publicly recruiting waitress friends193, with shame194; Vanir hears it. Later Vanir requests louder public revelation285.",
+      "initial_decision_interval": "Private friend criteria -> cafe protest -> later public consultation.",
+      "actual_observation": "She protests Dust193; later quietly repeats desire for friends290 and is described dead-eyed293, without shown objection to public format. She can speak/physically shake Vanir296-299 about forecast/insult afterward.",
+      "eligibility": "FULL_CAFE_PROTEST;AMBIGUOUS_LATER_RELATIONAL_AND_SCOPE_MATCH",
+      "observed_direction": "IMPORTANT_ADVERSE_NEIGHBOR",
+      "missing_or_confounded_conjuncts": "Do not invent incapacity from dead eyes. Whether earlier boundary covers later accepted public-customer role, and whether first-day Vanir relation meets familiar/valued condition, remain live rather than automatic exclusions.",
+      "strongest_contrary_or_competing_reading": "Complying later is not consent to humiliation; ability to protest later is contrary to a blanket inability rescue. Exact prior boundary was directed at Dust soliciting a waitress, not independently every form of consultation.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-CONSULTING-ACCOUNTS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 247,
+          "p_end": 272,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        },
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 301,
+          "p_end": 305,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Dust",
+        "Yunyun",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Dust treats consultation as matchmaking; Vanir privately means fee-based public fortune business. Actual seer limits also exist.",
+      "initial_decision_interval": "Before task explanation259.",
+      "actual_observation": "Questions and separately stated interpretations247-255 occur before business premise disclosed. Vanir claims financial backlash hypothesis261-270, not established karma law. He cannot identify future friend301-305 despite forecast.",
+      "eligibility": "FULL_OUTSIDER_INTERACTION",
+      "observed_direction": "COMPATIBLE_E05",
+      "missing_or_confounded_conjuncts": "Do not count shared subsequent narration as independent tests; initial relationship history shallow.",
+      "strongest_contrary_or_competing_reading": "Actual questions suffice even if later coordination succeeds; financial explanation is his hypothesis, not a world-integrity fact.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E05"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-YUN-IMPERSONATION",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C01",
+          "member": "text/part0011.html",
+          "p_start": 402,
+          "p_end": 437,
+          "projection_sha256": "7b4a95144539fbd9428ef1bb33fd13c1941febae714421276605e744a435eebd"
+        }
+      ],
+      "actors": [
+        "Vanir impersonating Leen",
+        "Yunyun"
+      ],
+      "independently_available_before_response": "Yunyun has just been genuinely rejected by Leen; an apparently new Leen friend offer is actually Vanir, revealed408-412.",
+      "initial_decision_interval": "Deception exposure -> dagger response -> message pause.",
+      "actual_observation": "Yunyun draws/attacks415, stops to hear message418, thanks real conveyed greeting423 but protests betrayal and sheathes424. Genuine joy at possible friendship coexists with objection; no real Leen acceptance.",
+      "eligibility": "FULL_FAMILIARITY_STILL_EARLY;BOUNDARY_RESPONSE_OBSERVED",
+      "observed_direction": "COMPATIBLE_BOUNDARY_COMPONENT",
+      "missing_or_confounded_conjuncts": "Do not import later mature Vanir friendship into first-day encounter; exact familiar threshold remains qualified.",
+      "strongest_contrary_or_competing_reading": "Later appreciation/possible friend role does not erase violation or retroactively create consent.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-ROYAL-OUTING",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 118,
+          "p_end": 147,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 216,
+          "p_end": 241,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 301,
+          "p_end": 400,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Iris",
+        "Claire",
+        "Rain",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Accepted finite paid outing, Iris previously explicit heroic/Kazuma-recognition objective and valued guard relations; real threatening swords344 and guard numerical/protection concern358-360. Renewed role frame354, then Vanir minimizes foes/offers takeover361/invites command369; guards object370-371 before Iris chosen order375.",
+      "initial_decision_interval": "Earlier safer waiting321-322 is prior interval. New role/confidence opportunity354-375 ends with actual instruction375; later fight report not backdated.",
+      "actual_observation": "Iris wants achievement not mere visit221; waits after guards319-322 urge police. Vanir promotes role-play fighting then unshown full fight becomes chaotic reports388-395. He admits holding back lethal beam391 but complete independent casualty count absent.",
+      "eligibility": "FULL_ROYAL_E08_AT_MODERATE_PRAGMATIC_CONFIDENCE;OTHER_OPERATION_PHASES_QUALIFIED",
+      "observed_direction": "RISKY_PERSISTENCE_AND_SEPARATE_CORRECTION;EARLIER_SAFE_CHOICE_PRESERVED",
+      "missing_or_confounded_conjuncts": "Pragmatic function of confident takeover as incomplete safety reassurance is interpreted at MODERATE confidence with I PARTIAL dissent. No express guarantee or unique-cause requirement; no full direct battle/casualty audit.",
+      "strongest_contrary_or_competing_reading": "Iris actual compliance322 is contrary to a universal reckless royal child caricature. Vanir perfect-job381 conflicts with guard accounts386-395.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E02",
+        "R1-E03",
+        "R1-E05",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-IRIS-K-REPORTS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 66,
+          "p_end": 75,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 147,
+          "p_end": 164,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 199,
+          "p_end": 202,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 349,
+          "p_end": 351,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Iris",
+        "Rain",
+        "Vanir",
+        "Kazuma as imagined/reported"
+      ],
+      "independently_available_before_response": "Royal protagonists discuss stories, instruction and concerns about Kazuma; he is absent.",
+      "initial_decision_interval": "No new Kazuma decision interval directly shown.",
+      "actual_observation": "Rain66 imagines what he would say; Iris reports historical-cultural story147/156 and magical cat anecdote201; Vanir202 denies latter without independent verification. Fighting lesson351 lacks named teacher identity.",
+      "eligibility": "MISSING_AGENCY_AND_TRUTH_ACCESS",
+      "observed_direction": "CONTEXT_ONLY",
+      "missing_or_confounded_conjuncts": "No verified voluntary false account, direct Japanese pressure, recognized revision or actual prospective romance decision.",
+      "strongest_contrary_or_competing_reading": "Do not turn imagined quote into Kazuma speech or seer denial into an independently proven lie.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K05",
+        "R1-K06",
+        "R1-K07",
+        "R1-K08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-DAILY-BLAST-REPORTS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 233,
+          "p_end": 246,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 169,
+          "p_end": 172,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 278,
+          "p_end": 281,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 327,
+          "p_end": 336,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Unnamed caster",
+        "petitioners",
+        "guards",
+        "Yunyun"
+      ],
+      "independently_available_before_response": "Reported daily blast and red-eyed attacker are consistent with but do not explicitly name Megumin. Yunyun directly denies being daily caster331.",
+      "initial_decision_interval": "Report/petition and summons; no observed Megumin reply.",
+      "actual_observation": "C02 distant blast is heard; Vanir guesses origin. C03 hunters report ecological timing cost and Luna orders summons, not completed self-regulation. C04 reports insulted red-eyed child, then guards misidentify Yunyun.",
+      "eligibility": "NO_FULL_M_GUARD",
+      "observed_direction": "CONTEXT_AND_COUNTERCARICATURE",
+      "missing_or_confounded_conjuncts": "No received specialty denigration, self-accepted burden/alternative, prior geometry/recovery, bonded actual target, instrumental-goal weakening or negotiated intimate step.",
+      "strongest_contrary_or_competing_reading": "Actual nuisance evidence remains; absence of full forecast test does not sanitize blast costs. Do not count Yunyun actions as Megumin.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-M01",
+        "R1-M02",
+        "R1-M03",
+        "R1-M04",
+        "R1-M05",
+        "R1-M06",
+        "R1-M07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-VANIR-JOB-ALTERNATIVE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 451,
+          "p_end": 466,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        },
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 488,
+          "p_end": 517,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Iris",
+        "Claire",
+        "Wiz"
+      ],
+      "independently_available_before_response": "Actual paid effective one-day work and concrete continuing royal job offer456/460 make easier arrangement credible. Vanir already values particular friend and shared dream.",
+      "initial_decision_interval": "Offer456 -> first refusal458 -> later new damage517.",
+      "actual_observation": "He explicitly would like easier life but will not leave unattended friend458; offers limited day work and contingent future transfer465. After new shop disaster he actually leaves to seek royal employment517.",
+      "eligibility": "FULL_OUTSIDER_PARTICULAR_RELATION",
+      "observed_direction": "COMPATIBLE_E04_WITH_REAL_LATER_DEPARTURE",
+      "missing_or_confounded_conjuncts": "No claim all affected people decide together or permanent abandonment occurs; later acceptance by Iris not shown.",
+      "strongest_contrary_or_competing_reading": "Dungeon utility can explain part of bond; nonetheless named friend cost is explicit. Actual later departure falsifies any stronger unconditional-stay gloss, not the literal hesitation/contact forecast.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K06",
+        "R1-A06",
+        "R1-E04"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-POST-SALE-DEBRIS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C02",
+          "member": "text/part0013.html",
+          "p_start": 498,
+          "p_end": 517,
+          "projection_sha256": "3c9a926b59793f3bf9be3b6a6bcd7eb5c67e2624f51c7e5dc704f327ba1cab8c"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Vanir",
+        "Aqua as reported"
+      ],
+      "independently_available_before_response": "First sale completed but damaged shop/rubble remain; Wiz and returning Vanir see concrete damage and have time to act/speak.",
+      "initial_decision_interval": "Visible rubble498 and explanation interval.",
+      "actual_observation": "Wiz emerges holding rubble and trying to take it outside C02P498; actual cleanup attempt, not completed disposal. Vanir asks what happened502 and later leaves517. No completed repair or compensation shown.",
+      "eligibility": "FULL_FOR_WIZ_CONCRETE_CLEANUP_ATTEMPT",
+      "observed_direction": "COMPATIBLE_ATTEMPT_NOT_COMPLETED_DISPOSAL",
+      "missing_or_confounded_conjuncts": "A question about cause alone need not be repair; no invented subsequent construction or completed cost recovery.",
+      "strongest_contrary_or_competing_reading": "Vanir departure is adverse to universal personal repair duty. At-least-one forecast has actual Wiz action without crediting passive cost as success.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E03"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-ROMANCE-ADVICE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 30,
+          "p_end": 79,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 102,
+          "p_end": 143,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 187,
+          "p_end": 200,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 250,
+          "p_end": 280,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 433,
+          "p_end": 487,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Aqua",
+        "Wiz",
+        "Yunyun",
+        "succubi",
+        "Luna"
+      ],
+      "independently_available_before_response": "Vanir interest is explicitly not romantic111; others have romance accounts independent of later actions. Before280 he voluntarily forgoes seer; after280 he deliberately exploits it.",
+      "initial_decision_interval": "Questions55 then advice before actual emotional-food premise487.",
+      "actual_observation": "Aqua initially proposes gifts, changes to information gathering119 after failure, evaluates job/personality126-141. Helpers continue romance interpretations despite literal denial. Late Vanir knowingly plans false implication485; Luna receives misleading context, not an actual romantic confession.",
+      "eligibility": "FULL_E05_DIFFERENT_ACCOUNT",
+      "observed_direction": "COMPATIBLE;ETHICALLY_ADVERSE_MANIPULATION",
+      "missing_or_confounded_conjuncts": "Aqua leaves141 before final public humiliation; later acts by others not assigned to her. Actual sleep onset in Epi unknown.",
+      "strongest_contrary_or_competing_reading": "Literal truth can intentionally mislead; earlier sincere ignorance and later deliberate exploitation differ. Questions and romance-specific advice are actual differing-account steps, not mind-reading or a behavioral absence.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-CARD-GAME",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 20,
+          "p_end": 28,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Yunyun",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Yunyun voluntarily accepts low-stake memory game; Vanir has seer advantage.",
+      "initial_decision_interval": "Game -> loss -> objection/payment.",
+      "actual_observation": "Vanir takes all pairs; Yunyun protests cheating but pays. This is not Aqua gambling, not repeated known chance losses with omen reasoning.",
+      "eligibility": "WRONG_SUBJECT_AND_GAME_GUARD",
+      "observed_direction": "NO_A07_TEST",
+      "missing_or_confounded_conjuncts": "Aqua is not present as gambler; memory plus seer effects are not unmodified chance.",
+      "strongest_contrary_or_competing_reading": "Financial loss and repeated jokes cannot be aggregated as gambling trials.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-LUNA-CIVIC-REPORTS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 8,
+          "p_end": 18,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 150,
+          "p_end": 180,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Luna",
+        "petitioners",
+        "Dust",
+        "unnamed blond armored woman"
+      ],
+      "independently_available_before_response": "Luna handles hazards/harassment; separate reports concern housing complaints, unnamed explosion caster and allegedly modified slime.",
+      "initial_decision_interval": "Reports -> specific administrative instructions.",
+      "actual_observation": "Luna offers hazard waiver13/penalty16; bystanders beat Dust18. Vendor175-177 says blond woman seized medical cargo alleging protection, offered payment; Luna178 orders retrieval with male guardian, not completed retrieval.",
+      "eligibility": "REPORT_LEVEL_D_NEAR_MATCH",
+      "observed_direction": "PROTECTIVE_CLAIM_AND_ADVERSE_MEANS",
+      "missing_or_confounded_conjuncts": "Darkness strongly context-resolved but not explicitly named in the attack/slime quote; actual prior knowledge, briefing, demonstrated fit and legitimate cooperation remain thin. Merchant describes medical slime and confiscator alleges clothing-only modification; no independent physical test of that allegation is supplied.",
+      "strongest_contrary_or_competing_reading": "Protective pretext may coexist with gratification and wrongful seizure. Do not infer pure motive, real rescue or global incapacity from missing offensive skill.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-D01",
+        "R1-D03",
+        "R1-D06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-YUN-DRINK-AND-NAME",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 150,
+          "p_end": 161,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 183,
+          "p_end": 188,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Yunyun",
+        "Dust",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Vanir given drink is specifically valued before Dust takes it; established new friendship/friction now exists. Yunyun objects to insulting role labels151.",
+      "initial_decision_interval": "Gift152 -> theft157 -> reaction159-161.",
+      "actual_observation": "She protests and pursues Dust, later returns183. Whole outside fight not directly observed. Earlier Eris festival helper work150 places this chapter after that festival, unlike C02 future festival431.",
+      "eligibility": "FULL_BOUNDARY_CASE;WRONG_A08_SUBJECT",
+      "observed_direction": "COMPATIBLE_E06",
+      "missing_or_confounded_conjuncts": "No equivalent replacement offer, and particular owner is Yunyun not Aqua.",
+      "strongest_contrary_or_competing_reading": "Particular value is independently stated152, not inferred only from later anger; no unseen full victory from mere return.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A08",
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-GUILD-SUBSTITUTION",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 288,
+          "p_end": 333,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 337,
+          "p_end": 422,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 439,
+          "p_end": 452,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        },
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 511,
+          "p_end": 540,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Luna",
+        "other guild staff",
+        "offenders"
+      ],
+      "independently_available_before_response": "Luna wants rest, has workload and institutional enforcement problems; Vanir can cover actual complaint role. She initially passes out, other staff346 accept substitute.",
+      "initial_decision_interval": "Drink/home delivery -> staff acceptance -> three-hour actual work -> later agreement519.",
+      "actual_observation": "Vanir actually processes cases using coercive curse, gets compliance418 and staff praise447. Luna later explicitly authorizes paid substitution519; prior sober consent is not retroactively invented. He later suffers her ongoing demands/bounty539.",
+      "eligibility": "FULL_FINITE_PROVIDER_PHASE",
+      "observed_direction": "COMPATIBLE_E07_WITH_COST_AND_PERMISSION_LIMITS",
+      "missing_or_confounded_conjuncts": "No actual duration/reversal of every curse independently shown; praise is not ethical endorsement.",
+      "strongest_contrary_or_competing_reading": "Provider genuinely initiates useful finite task without Kazuma, while harm, incomplete initial permission and own underestimated consequences remain.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-COOLER",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C03",
+          "member": "text/part0015.html",
+          "p_start": 550,
+          "p_end": 587,
+          "projection_sha256": "d870f9fd3e90f084ec739aebd3df34330229e8dfb215a90ce873de03f7fc3c84"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Aqua as reported",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Actual functional cooler and current profit; mass-order delivery schedule and item life are separate dependencies.",
+      "initial_decision_interval": "Delivery question567 -> autumn569 -> storage proposal583 -> expiry586.",
+      "actual_observation": "Wiz credits Aqua otherworld information561, actual prototype emits cold air562 and present stock profit is confirmed. The large order is expected to arrive two months later569, after summer571; that arrival has not occurred. Vanir proposes storage for next summer583, then learns six-month life586. Chapter immediately ends.",
+      "eligibility": "FULL_RECOVERY_ATTEMPT;LATE_EXPIRY_OPPORTUNITY_UNKNOWN",
+      "observed_direction": "COMPATIBLE_E03_ATTEMPT_BUT_FAILED_PLAN",
+      "missing_or_confounded_conjuncts": "No Aqua receiving thanks or new service opportunity shown; no further response interval after expiry. Full A01 adopted role absent.",
+      "strongest_contrary_or_competing_reading": "Useful engineering input does not confer planning reliability. Do not give credit for completed repair or count absence after terminal cue as adequate observed inaction.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-A02",
+        "R1-E03"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-GIFT-AND-CHARM",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 3,
+          "p_end": 40,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "succubus leader",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Ritual gift understatement is known human form, charm is attempted without consent; Wiz actual lich immunity predates response.",
+      "initial_decision_interval": "Gift3 -> literal insult6 -> correction11; charm failure17.",
+      "actual_observation": "Wiz is pleased by compliment14 despite failed charm, angry at age insult18 then soothed20-21. Succubus genuinely cherishes shed skin34; Wiz39 misjudges gift fit.",
+      "eligibility": "LANGUAGE_AND_OUTSIDER_CONTEXT",
+      "observed_direction": "MIXED_SKILL_AND_VALUE",
+      "missing_or_confounded_conjuncts": "No Aqua artistic payment offer; no invented acoustic performance.",
+      "strongest_contrary_or_competing_reading": "Successful persuasion from genuine praise differs from charm mechanics; receiver value differs across persons and gift contexts.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A04",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-TEA-TERRITORY",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 42,
+          "p_end": 52,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 224,
+          "p_end": 232,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Repeated guest habit, unwanted territorial claim and Vanir actual ability to object are known; Wiz values company and treats shop-watch help positively.",
+      "initial_decision_interval": "Aqua claims territory47 -> Vanir objects48; later shop-watch225 praise.",
+      "actual_observation": "Vanir objects ownership and leaves52. Aqua performs independent store watch224/226; Wiz thanks225 and later praises reported intervention231.",
+      "eligibility": "FULL_BOUNDARY_COMPONENT",
+      "observed_direction": "COMPATIBLE_E06;ACK_CONTEXT",
+      "missing_or_confounded_conjuncts": "No rule actor must stop; leaving does not prove consent. Gratitude225 cannot cause earlier watch224.",
+      "strongest_contrary_or_competing_reading": "Wiz welcome and Vanir unwelcome differ; one person cannot consent for another. Hostile narrator biological labels not neutral analyst diagnoses.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A02",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-EXTORTION-OBSERVATION",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 62,
+          "p_end": 116,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 145,
+          "p_end": 212,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "racketeers",
+        "apple vendor",
+        "restaurant worker",
+        "Wiz",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Extortion pressure, exaggerated victim surcharge and later restaurant occupation are actually shown.",
+      "initial_decision_interval": "Wiz initially literal menu misunderstanding -> later recognizes extortion203.",
+      "actual_observation": "Wiz mana-powered entrance178-186 actually recommends food, not tactical intimidation; gang nevertheless leaves190. Victim thanks195/197. Vanir206-207 values emotions over moral labels; later Wiz challenges this211.",
+      "eligibility": "OUTSIDER_CAUSAL_COMPARISON",
+      "observed_direction": "INCIDENTAL_SUCCESS_NOT_PLANNED_EXPERTISE",
+      "missing_or_confounded_conjuncts": "No principal character observed in these acts; no claim all police can never act.",
+      "strongest_contrary_or_competing_reading": "Real empathy toward starving Wiz123 can coexist with serious crime elsewhere. Literal helpfulness can succeed accidentally without recognized social strategy.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-ACK-STICKERS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 224,
+          "p_end": 232,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 376,
+          "p_end": 388,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 483,
+          "p_end": 505,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Aqua",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Wiz directly praises received useful anti-harassment act231 and asks continuing help; Aqua hears/adopts232. Actual new manual opportunity and her known cleaning technique485 are available. Her separate sticker-only account predates response as reconstructed from report485-490.",
+      "initial_decision_interval": "Acknowledgment/request -> days of actual sticker removal -> later correction486.",
+      "actual_observation": "Aqua reports repeated clean peeling/collection despite initial boredom490, observed clean missing sticker385 corroborates technique. She misunderstood service target, then pursued enjoyable work and indirect racket disruption; intended worship rescue503 turns into anti-succubus threat505.",
+      "eligibility": "FULL_A02_PARTICIPATION;PARTIAL_A01_TASK_MATCH;FULL_E05_DIFFERENT_ACCOUNT",
+      "observed_direction": "FIT_PARTICIPATION_PLUS_WRONG_TASK_AND_NEW_DANGER",
+      "missing_or_confounded_conjuncts": "Initial explanatory dialogue elided231; no unique causal effect of praise isolated. Correct technique does not make unrequested removal the correct whole service.",
+      "strongest_contrary_or_competing_reading": "Specific manual competence real; knowledge/goal judgment poor. No paid art offer or known art standard. Later threat should not erase prior actual participation nor be called a complete helpful success.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-A02",
+        "R1-A03",
+        "R1-A04",
+        "R1-E03",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-THIEVES-AND-VIGILANTES",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 271,
+          "p_end": 286,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "guards",
+        "noble",
+        "unnamed red-eyed child",
+        "unnamed blond armored woman"
+      ],
+      "independently_available_before_response": "Thieves and attacks are reported after anti-gang conditions, not a fully observed canonical-party operation.",
+      "initial_decision_interval": "Off-page acts -> participant reports.",
+      "actual_observation": "Silver-haired thieves blamed272, child insults/attack278; blond woman invokes Eris justice283, police allegedly ignore285. None is an exact Kazuma/Megumin/Darkness direct decision scene.",
+      "eligibility": "REPORT_LEVEL_NEAR_MATCH",
+      "observed_direction": "MATERIAL_ADVERSE_CONTEXT",
+      "missing_or_confounded_conjuncts": "No named principal agent confirmation, all relevant prior appraisals/resources/alternatives or principal Japanese speech.",
+      "strongest_contrary_or_competing_reading": "Do not sanitize civic coercion, infer every red-eyed child is Megumin, or infer all reported action is false merely because report-level.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K01",
+        "R1-K07",
+        "R1-M01",
+        "R1-M03",
+        "R1-D01",
+        "R1-D06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-DUST-FRAUD",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 292,
+          "p_end": 365,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Dust",
+        "Yunyun",
+        "fake vendor",
+        "guards",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Dust requests Yun anti-crime participation323 while privately arranging junk-vendor fraud; her wrong good-deed account precedes reveal.",
+      "initial_decision_interval": "Summons319 -> stated understanding323 -> vendor inquiry338/350 -> reveal342/352.",
+      "actual_observation": "Yun asks victim condition338 before knowing scheme, rejects slur320/325, later rejects shared crime/friend label361/364. Vanir identifies failed pottery352; Dust admits many arranged stores360/363. Initial innocent vendor appearance292 is superseded by actual staged actor342.",
+      "eligibility": "FULL_OUTSIDER_E05_AND_BOUNDARY",
+      "observed_direction": "COMPATIBLE_E05/E06;DECEPTION_ADVERSE",
+      "missing_or_confounded_conjuncts": "Heritage red-eye mistaken for Explosion330 corrected331; no Megumin cast occurs. No genuine prior informed assent to fraud.",
+      "strongest_contrary_or_competing_reading": "Chosen anti-racket motive does not justify exploitive method; later friendship desire does not cancel explicit objection.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-NEIGHBOR-ASSURANCE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 369,
+          "p_end": 413,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Wiz",
+        "widowed neighbor"
+      ],
+      "independently_available_before_response": "Gang threatens neighbor over removed sticker; Vanir offers consulting without telling fee389, neighbor interprets kindness romantically.",
+      "initial_decision_interval": "Gang departs -> assurance388 -> private fee389 -> romantic inference391.",
+      "actual_observation": "Vanir arrives378-380, gang leaves381-382 before later offer388. Neighbor says his coming helped384; narrator cannot uniquely identify its cause. He then offers consulting388 while privately expecting fee389, making future reassurance misleading to neighbor391. No completed paid consultation or later protection is established.",
+      "eligibility": "FULL_DIFFERENT_ACCOUNT_TASK_STEP",
+      "observed_direction": "COMPATIBLE_E05_OUTSIDER",
+      "missing_or_confounded_conjuncts": "No new confirmed romantic bond or paid service agreement; wife/family assumptions explicitly denied404.",
+      "strongest_contrary_or_competing_reading": "Literal truth and withheld price can mislead despite useful presence; no transformed pure altruist conclusion.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-SUCCUBUS-DANGER",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 422,
+          "p_end": 458,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 461,
+          "p_end": 552,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 556,
+          "p_end": 575,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Vanir",
+        "Wiz",
+        "Aqua",
+        "succubi",
+        "Kazuma as reported"
+      ],
+      "independently_available_before_response": "Night attack defeats daytime client-defense arrangement427; Aqua then threatens actual erasure467. Parties, danger and alternative guardian contact are explicit before Vanir action.",
+      "initial_decision_interval": "Subject fear -> protection choice -> actual intervention -> retrospective endpoint.",
+      "actual_observation": "Vanir initially insists self-defense431, then offers protection under choice452; whispered help482 creates claimed binding duty536. Wiz proposes police514 then actually runs for Kazuma521-524. Vanir stands/protects, actual fight begins550, reported repeated body losses564 until Kazuma arrival565.",
+      "eligibility": "FULL_FINITE_OUTSIDE_PHASE_AND_RECOVERY",
+      "observed_direction": "COMPATIBLE_E01/E03/E07;RISK_E08_PARTIAL",
+      "missing_or_confounded_conjuncts": "Complete combat not shown directly. Prior Vanir seer forecast of Kazuma stop526 is a real risk-calibration confound; do not invent certain no-risk.",
+      "strongest_contrary_or_competing_reading": "Actual moral/pride rule permits costly help under contract and reciprocal loyalty; subjects also offer protect him509/512. Not universal refusal/selfless hero or suicide wish.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K03",
+        "R1-A05",
+        "R1-E01",
+        "R1-E03",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-K-INTERVENTION-REPORT",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 521,
+          "p_end": 526,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 564,
+          "p_end": 575,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 599,
+          "p_end": 599,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Kazuma as reported",
+        "Aqua",
+        "Wiz",
+        "succubi",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Actual trusted Wiz request is sent; dangerous goddess threat recognized in scene, but Kazuma own incoming information and costly means not directly shown. He is a patron569.",
+      "initial_decision_interval": "Arrival/anger565 then reported warning573 and later escort599.",
+      "actual_observation": "Kazuma reported unusually angry; Aqua quotes his consequence warning and agrees spare succubi573. Later he leads her away599 after renewed threat. C04P573 contains a real attributed Japanese warning fragment; adequate complete original formulation and independently chosen status-pressure purpose remain unresolved.",
+      "eligibility": "PARTIAL_K03;K08_COMPLETE_STATUS_PRESSURE_PURPOSE_AND_SURFACE_CONTEXT_UNRESOLVED_NOT_BLANKET_REPORT_EXCLUSION",
+      "observed_direction": "PRACTICAL_INTERVENTION_REPORTED",
+      "missing_or_confounded_conjuncts": "Meaningful personal cost, initial appraisal, exact first reply and valid routine non-grave settlement not fully accessible.",
+      "strongest_contrary_or_competing_reading": "Patron self-interest does not exclude K03 if other guards hold; it also cannot manufacture valued-bond/cost. Rescue is not a low-stakes optional-work test.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-K02",
+        "R1-K03",
+        "R1-K04",
+        "R1-K08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-STATUS-AND-SPARING",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 514,
+          "p_end": 550,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 583,
+          "p_end": 599,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Vanir",
+        "Wiz",
+        "succubi"
+      ],
+      "independently_available_before_response": "Vanir challenges god effectiveness544 and labels useless goddess547; later self-claimed goddess587. She hears and can reply. Actual anti-demon intent already active.",
+      "initial_decision_interval": "Received insults -> responses548/589 and threats597.",
+      "actual_observation": "Aqua objects to useless-goddess label548, fights550. Later589 asserts discretionary sparing/purge authority rather than explicit goddess naming,597 warns others leave. Some functions mixed with anger, competence challenge and prior hostility.",
+      "eligibility": "MIXED_IDENTITY_VS_COMPETENCE_CHALLENGE",
+      "observed_direction": "PARTLY_COMPATIBLE;PRESERVED_SCOPE_UNCERTAINTY",
+      "missing_or_confounded_conjuncts": "Ordinary competence insult not automatically divine identity denial; fight itself not uniquely identity demonstration. One later episode cannot be multiplied into two full failures.",
+      "strongest_contrary_or_competing_reading": "587 self-claimed label is stronger actual identity challenge;589 authority reading possible but not compulsory. C01 clear case does not erase a later full opposite if established.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A03",
+        "R1-A05",
+        "R1-E06"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-FRIEND-HARM-LIMITS",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 515,
+          "p_end": 538,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 597,
+          "p_end": 599,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 22,
+          "p_end": 37,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 247,
+          "p_end": 261,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Vanir",
+        "succubi"
+      ],
+      "independently_available_before_response": "Wiz trusted friend, Vanir enemy, succubi not trusted friends. No Wiz consenting to serious harm with trust/gratitude here; bounty on Wiz is explicitly invalid259.",
+      "initial_decision_interval": "Threats/warnings, advocacy offer and bounty question.",
+      "actual_observation": "Aqua says she previously spared Vanir because Wiz would cry538; warns friend away515/597; offers Eris advocacy22 then attacks Vanir26 for lich teaching25.257asks bounty, no viable actual reward/action. Retain mixed instrumental/conscientious behavior.",
+      "eligibility": "NO_FULL_A05_CONSENT_RECIPIENT_GUARD",
+      "observed_direction": "IMPORTANT_CONTEXT_AND_ADVERSE_NEIGHBORS",
+      "missing_or_confounded_conjuncts": "Friend as affected bystander is not stipulated friend as harm recipient; no received trusted willing consent. No later private reform inferred.",
+      "strongest_contrary_or_competing_reading": "Do not erase offensive bounty joke or contempt; neither is a full effortless-harm counterexample without actual opportunity/harm/consent conjunction.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-A05"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-HISTORY-VOICE",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 3,
+          "p_end": 41,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 45,
+          "p_end": 100,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 244,
+          "p_end": 276,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 542,
+          "p_end": 556,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "Epi",
+          "member": "text/part0021.html",
+          "p_start": 1,
+          "p_end": 9,
+          "projection_sha256": "4a9c9388f1fd729e23c769ce8c08e70015e3c855a10eb9be249aad8988481728"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "Wiz",
+        "Vanir",
+        "Blood",
+        "Rosary"
+      ],
+      "independently_available_before_response": "Present audience asks history, then distinct past first-person Wiz account and Vanir account; relationships/abilities belong to actual historical slices.",
+      "initial_decision_interval": "C05P40-41 Wiz begins -> P45-240 own viewpoint -> frame244 -> Vanir past276 onward.",
+      "actual_observation": "Aqua offers snacks5, demands story8, asleep Epi8 with unknown onset. Past Wiz effective Inferno52 then failed enemy-search category69/85; later polite lich identity551/553 explicit. End Epi confirms curse removed1 and unnamed two former adventurers/child25.",
+      "eligibility": "CHRONOLOGY_AND_REFERENT_CONTROL",
+      "observed_direction": "NO_NEW_MAIN_SUBJECT_FORECAST_FROM_OTHER_PARTY",
+      "missing_or_confounded_conjuncts": "No automatic Aqua knowledge of all history; two final people not explicitly named; past companions deaths only rumor Epi1.",
+      "strongest_contrary_or_competing_reading": "Register/skill/state changes do not erase earlier kindness or prove all current capacity lost; Vanir decline framing Epi3 remains attributed.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A05",
+        "R1-E01",
+        "R1-E04",
+        "R1-E05"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-HUMAN-WIZ-AMBUSH",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 101,
+          "p_end": 173,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Blood",
+        "Rosary",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Royal contract, demon barrier role and strong opponent are known; she chooses ambush despite disliking it142.",
+      "initial_decision_interval": "Negotiation -> Light of Saber -> staged death -> activated Teleport.",
+      "actual_observation": "Actual strike146-149, friends respond, Wiz guilty155. Vanir feigns death152 then reappears164; Teleport already uninterruptible168 causes wasted week171. Main protagonists absent.",
+      "eligibility": "OUTSIDER_OPERATION_COMPONENTS",
+      "observed_direction": "USEFUL_ADAPTATION_AND_DECEPTION_COST",
+      "missing_or_confounded_conjuncts": "No independent complete battle phase output beyond shown; no source-world deaths from destroyed earth body.",
+      "strongest_contrary_or_competing_reading": "Good intention/ethical discomfort coexist with lethal intent; source role asymmetry not proof stupid or evil-only.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E05",
+        "R1-E08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-POSSESSION-RECOVERY",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 177,
+          "p_end": 240,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        }
+      ],
+      "actors": [
+        "Vanir using Rosary body",
+        "Rosary",
+        "Wiz",
+        "Blood"
+      ],
+      "independently_available_before_response": "Actual possession192 follows failed exorcism; Wiz knows hostage and stops sword195. Rosary own resistance209 is distinct from possessing voice.",
+      "initial_decision_interval": "Hostage cue -> Blood requests incapacitation213 -> Wiz Sleep225 -> retrieval230 -> Teleport233.",
+      "actual_observation": "Wiz refrains harmful attack207; actual Sleep forces release227-229, Blood retrieves, Wiz confirms before escape230. Vanir coercive exposure threats215-223 and Blood gaze remain ethically consequential. No Rosary consent or authored insult attributed to her.",
+      "eligibility": "FULL_OUTSIDER_E01/E03/E07;E06_COERCION_BOUND",
+      "observed_direction": "COMPATIBLE_DEPENDENCY_ACTION",
+      "missing_or_confounded_conjuncts": "Rosary pain/resistance and threatened exposure constrain action; do not infer free agreement from imposed body or later present forgiveness.",
+      "strongest_contrary_or_competing_reading": "Successful finite coordinated rescue does not defeat Vanir or end future harassment. Explicit requests/execution exist without Kazuma.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-SCROLL-AND-BARRIER",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 280,
+          "p_end": 354,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Blood",
+        "Rosary",
+        "Vanir"
+      ],
+      "independently_available_before_response": "Scroll known living-target radius299 but Vanir nonliving body not known before failure; later barrier explicitly blocks all attack326 before one-way plan330.",
+      "initial_decision_interval": "Scroll execution302 -> explanation311; later barrier activation325 -> correction333.",
+      "actual_observation": "Wiz teleports self alone305/313. Later real barrier works325 but also prevents her attack351; Rosary asks333 and offers practical loan340/alternative quest347. Wiz knowingly futile anger-cast350 after correction. No retrospective success assigned.",
+      "eligibility": "FULL_OUTSIDER_ATTEMPT_WITH_EXECUTION/PLANNING_FAILURES",
+      "observed_direction": "MATERIAL_ADVERSE;RECOVERY_CORRECTION_PRESENT",
+      "missing_or_confounded_conjuncts": "Wiz not Aqua or Megumin; no principal technical reliability forecast tested by someone else. Costly item procurement not proof planned logic sound.",
+      "strongest_contrary_or_competing_reading": "Unknown ontology error differs from contradiction of known symmetric block; corrective response exists even when actor persists angrily. Entire two failures not statistically independent support points.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-A01",
+        "R1-M03",
+        "R1-E01",
+        "R1-E03",
+        "R1-E05",
+        "R1-E08"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-WIZ-CURSE-CONTRACT",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 379,
+          "p_end": 473,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 477,
+          "p_end": 492,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "C05",
+          "member": "text/part0019.html",
+          "p_start": 514,
+          "p_end": 556,
+          "projection_sha256": "a217447094222800fbc3622ed965c11d2a693268564e41f5b728ae77269ec38a"
+        },
+        {
+          "unit": "Epi",
+          "member": "text/part0021.html",
+          "p_start": 1,
+          "p_end": 3,
+          "projection_sha256": "4a9c9388f1fd729e23c769ce8c08e70015e3c855a10eb9be249aad8988481728"
+        }
+      ],
+      "actors": [
+        "Wiz",
+        "Vanir",
+        "Wiz companions as reported",
+        "Beldia as heard/reported"
+      ],
+      "independently_available_before_response": "Whole party death curse, failed capital cure and castle refuge are explained441-450; life-burning assault establishes demonic recognition price, not mere anger.",
+      "initial_decision_interval": "Combat proving worth -> requested soul contract -> forbidden alternative -> later new capability.",
+      "actual_observation": "Wiz sacrifices lifespan, Vanir refuses insufficient soul458 but actually offers lich route464-479 and calls first respected human472; own dungeon benefit480-482. Week later drain/new ability breaches previously infeasible castle514/523, Beldia promises reversal532; Epi1 explicitly confirms cure. No performed soul exchange or all threatened deaths claimed.",
+      "eligibility": "OUTSIDER_GOAL_AND_CAPABILITY_CHANGE",
+      "observed_direction": "MIXED_COSTLY_CARE_AND_INSTRUMENTAL_CONTRACT",
+      "missing_or_confounded_conjuncts": "No actual initial routine alternative within prior capability; new lich capacity cannot backdate. Vanir self-described casualness485 contrasts mood487-492.",
+      "strongest_contrary_or_competing_reading": "Meaningful recognition, hope and practical partnership coexist with cruelty and own benefit. Beldia defeated not confirmed killed; Hans/Sylvia incapacitation reported, not permanent deaths.",
+      "dependent_descriptions": "One event family unless explicitly separated; reports, flashbacks, later comments and turns do not multiply trials.",
+      "selection": "OUTCOME_AWARE_SELECTION_AFTER_ACTUAL_COMPLETE_SOURCE_READING",
+      "narrator_and_access": "Vanir first-person except C05P45-240 Wiz first-person; frame and later recounted events retain their different access. Named speech/acts, reports, inference and unperformed proposals are distinguished in observation.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E04",
+        "R1-E07"
+      ],
+      "root_initial_snapshot_preserved": true,
+      "receiving_phase": "COORDINATED_AFTER_ROOT_I_S_INITIAL_SEALS;NOT_NEW_INDEPENDENT_DISCOVERY",
+      "current_factual_corrections_govern": true
+    },
+    {
+      "id": "MASK-A-COAPOLOGY",
+      "source_id": "MASK",
+      "locators": [
+        {
+          "unit": "C04",
+          "member": "text/part0017.html",
+          "p_start": 556,
+          "p_end": 575,
+          "projection_sha256": "3bce3386b1337cbf2592504e3f2cc29e42fa141b18e0e488ffc9185f67f9d0cc"
+        }
+      ],
+      "actors": [
+        "Aqua",
+        "two succubi",
+        "Kazuma as intended/proposed later audience; actual co-apology not shown"
+      ],
+      "independently_available_before_response": "Dangerous encounter stopped564-565, fear of continuing Kazuma anger566; actual providers know patron569 and offer advocacy569-570 before request.",
+      "initial_decision_interval": "Cue566/offers569-570 -> actual request573 -> acceptance574-575.",
+      "actual_observation": "Aqua asks them to apologize with her573 and providers accept; her liability-repair request uses their independently offered finite access. No actual later co-apology or forgiveness is shown.",
+      "eligibility": "FULL_FINITE_DEPENDENCY_AND_OUTSIDE_PROVIDER_INITIATION",
+      "observed_direction": "COMPATIBLE_ATTEMPT_WITH_UNRESOLVED_RESULT",
+      "missing_or_confounded_conjuncts": "The earlier success is ending a dangerous confrontation, not achieving her original extermination objective. Independent source-provider conditions/secrecy575 remain.",
+      "strongest_contrary_or_competing_reading": "Fear and shifting responsibility are real motives allowed by literal E03; a request is an actual initiating act but not completed audience persuasion.",
+      "dependent_descriptions": "Same rescue/aftermath family as other cards; not a new independent trial.",
+      "selection": "OUTCOME_AWARE_COORDINATED_SELECTION",
+      "narrator_and_access": "Vanir present focal narrator plus retrospective intervention report; actual Aqua/provider dialogue directly displayed.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E07"
+      ],
+      "attribution": "I initial MI027/all39 highlighted finite advocacy phase; root recognized this particular applicability during coordinated receiving, not independent root discovery."
+    }
+  ],
+  "material_form_witnesses": [
+    {
+      "witness_id": "MV01",
+      "source_id": "MASK",
+      "native_member": "text/part0011.html",
+      "unit": "C01",
+      "p": 23,
+      "speaker_addressee_audience": "Vanir narration about Aqua, privately",
+      "material_base_form": "神々しい",
+      "base_utf8_sha256": "8c735e6d3ae8d37b0f84cff493b804fa83fe9e0f35cbdfd43dfe356d61bf229b",
+      "source_first_pragmatic_note": "Base 神々しい carries ruby reading of its kanji; not a heard challenge or an acoustic performance. Literary narrator reluctance and actual divinity coexist.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV02",
+      "source_id": "MASK",
+      "native_member": "text/part0011.html",
+      "unit": "C01",
+      "p": 30,
+      "speaker_addressee_audience": "Vanir → Aqua; Wiz present",
+      "material_base_form": "神を自称",
+      "base_utf8_sha256": "3f5f2fdb35f2e06308898f477946763a189672723cdd03b2b9fd58914023a6be",
+      "source_first_pragmatic_note": "An actually spoken skeptical status cue, distinct from private narrative22–25.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV03",
+      "source_id": "MASK",
+      "native_member": "text/part0011.html",
+      "unit": "C01",
+      "p": 32,
+      "speaker_addressee_audience": "Aqua → Vanir/Wiz",
+      "material_base_form": "神の叡智",
+      "base_utf8_sha256": "9715a6145cf4d309de73a30348d3f27aa4291892b2ccdf647e612b399f68ae4a",
+      "source_first_pragmatic_note": "Reply claims divine knowledge, actual self-legitimation; no task-abandonment requirement.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV04",
+      "source_id": "MASK",
+      "native_member": "text/part0011.html",
+      "unit": "C01",
+      "p": 35,
+      "speaker_addressee_audience": "Aqua → Vanir/Wiz",
+      "material_base_form": "女神であるこの私",
+      "base_utf8_sha256": "6d4b8c24ea16da8fb90ec87995b2a62e66a25f7de61dae9c44d713bd7ad7909f",
+      "source_first_pragmatic_note": "Self-reference performs authority in financial advice; technically poor plan not denial of literal divinity.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV05",
+      "source_id": "MASK",
+      "native_member": "text/part0013.html",
+      "unit": "C02",
+      "p": 27,
+      "speaker_addressee_audience": "Aqua → Vanir/Wiz",
+      "material_base_form": "アクア様の神聖水",
+      "base_utf8_sha256": "f3149937d3b01a77e074256f0c54625f752f221bea8af5f6bb625e2a1f283b22",
+      "source_first_pragmatic_note": "Title-sensitive product branding; not proof of a prior artistic standard.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV06",
+      "source_id": "MASK",
+      "native_member": "text/part0013.html",
+      "unit": "C02",
+      "p": 162,
+      "speaker_addressee_audience": "Claire dialogue",
+      "material_base_form": "チリメン丼屋",
+      "base_utf8_sha256": "337fefe6a32beedf1007c27b8adca699851338ad9a62b123a0bbf5824587bf54",
+      "source_first_pragmatic_note": "Specific katakana segmentation/known period-drama expression underlies the misparse; genre reference and phonological resemblance are not new cultural ethnography.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV07",
+      "source_id": "MASK",
+      "native_member": "text/part0013.html",
+      "unit": "C02",
+      "p": 369,
+      "speaker_addressee_audience": "Vanir → royal group",
+      "material_base_form": "絶好調",
+      "base_utf8_sha256": "6f5d2e8f25abd02c6aa0d6a0db5019f03e4d355be0b39d96bcf3b6cfa8f6e104",
+      "source_first_pragmatic_note": "お調子者 reframed as physical excellent condition; Rain explicitly repairs next turn371.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV08",
+      "source_id": "MASK",
+      "native_member": "text/part0013.html",
+      "unit": "C02",
+      "p": 371,
+      "speaker_addressee_audience": "Rain → Vanir/Iris",
+      "material_base_form": "お調子者",
+      "base_utf8_sha256": "93990d6158fe6c4d36d33e31b39f0563031d386f6f88b34926573a6e423dedd6",
+      "source_first_pragmatic_note": "Explicit metalinguistic correction; her warning about his dangerous power is a second function in the same turn.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV09",
+      "source_id": "MASK",
+      "native_member": "text/part0013.html",
+      "unit": "C02",
+      "p": 475,
+      "speaker_addressee_audience": "Vanir → royal group",
+      "material_base_form": "チリメンドンヤ",
+      "base_utf8_sha256": "58ea301923af9c7e3f223829aa0aa081cf16e0777bd8bc56430cc54eb9574f46",
+      "source_first_pragmatic_note": "Incognito parallel grants shared inference of status while withholding literal disclosure; not Kazuma pressure register.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV10",
+      "source_id": "MASK",
+      "native_member": "text/part0015.html",
+      "unit": "C03",
+      "p": 111,
+      "speaker_addressee_audience": "Vanir → Aqua/Wiz",
+      "material_base_form": "恋い焦がれている",
+      "base_utf8_sha256": "643b63d4de195a86498c5ead2a3e4d13d88876ca911c52c7173c5f5059ec53b2",
+      "source_first_pragmatic_note": "Explicit negation of romantic longing is heard but rejected as embarrassment112/113; misunderstanding is not necessarily lack of truthful signal.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV11",
+      "source_id": "MASK",
+      "native_member": "text/part0015.html",
+      "unit": "C03",
+      "p": 231,
+      "speaker_addressee_audience": "Yunyun → succubi; Vanir present",
+      "material_base_form": "我が名はゆんゆん",
+      "base_utf8_sha256": "722808d4e5ed6d6a5a38333f626599acc97d70894ae73878dbd017f1a1d963e0",
+      "source_first_pragmatic_note": "Staged formal Crimson self-introduction interrupted by an actual hit; not a completed heroic victory.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV12",
+      "source_id": "MASK",
+      "native_member": "text/part0015.html",
+      "unit": "C03",
+      "p": 461,
+      "speaker_addressee_audience": "Vanir → Luna; guild audience",
+      "material_base_form": "汝の事が気になるからだ",
+      "base_utf8_sha256": "5c21ec170a05c2132b1a580cb6aa09f5b3fdc869505d0fb0ceedf545fce7d6e6",
+      "source_first_pragmatic_note": "Literal interest supports romantic implicature before appetite disclosure487; speaker privately plans reveal485.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV13",
+      "source_id": "MASK",
+      "native_member": "text/part0015.html",
+      "unit": "C03",
+      "p": 487,
+      "speaker_addressee_audience": "Vanir → Luna/public",
+      "material_base_form": "悪感情",
+      "base_utf8_sha256": "a790bb220c53d60724d430404318781bf11b9569b5961b8b80eef2d4ff954d1a",
+      "source_first_pragmatic_note": "Reveals object of concern; does not make public humiliation consented.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV14",
+      "source_id": "MASK",
+      "native_member": "text/part0015.html",
+      "unit": "C03",
+      "p": 502,
+      "speaker_addressee_audience": "Guild crowd including helpers → situation",
+      "material_base_form": "これは酷い",
+      "base_utf8_sha256": "f1f5d5ec21f4bab493b770c0177731f844e0062f0865a831f7e5af6cadf04d9c",
+      "source_first_pragmatic_note": "Collective ethical correction is actual text, not analyst’s invented common reaction.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV15",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 3,
+      "speaker_addressee_audience": "Succubus leader → Vanir",
+      "material_base_form": "つまらない物",
+      "base_utf8_sha256": "1e63ef6d077a00c96be9a1a0c161b88f252042fc3f1577766691f9958f4b6c69",
+      "source_first_pragmatic_note": "Conventional modest-gift expression; Vanir literalizes at6, Wiz names social formula11.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV16",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 11,
+      "speaker_addressee_audience": "Wiz → Vanir",
+      "material_base_form": "社交辞令",
+      "base_utf8_sha256": "47af57bd31a61aa8fe60d5a0cd0401d96395ecfd628cef767534e0ac7e9bed6e",
+      "source_first_pragmatic_note": "Explicit pragmatic explanation; no inference that Vanir can never recognize conventional language.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV17",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 76,
+      "speaker_addressee_audience": "Apple seller → guard",
+      "material_base_form": "自宅を警備",
+      "base_utf8_sha256": "82db6179d7e6057811727cdcb6a78f96ab1ceaf81aa80f66ed3281f9d922c76c",
+      "source_first_pragmatic_note": "Home-security idiom becomes employment request; reply77 explicitly says ニート.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV18",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 320,
+      "speaker_addressee_audience": "Yunyun → Dust",
+      "material_base_form": "クソガキって呼ばないで",
+      "base_utf8_sha256": "11335d930c43bbcab2c4327c0ed84975b899a8fb2116a45ed7157eaf5d25be66",
+      "source_first_pragmatic_note": "Prior explicit boundary before repeated insult324, followed by renewed objection325.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV19",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 607,
+      "speaker_addressee_audience": "Vanir → Wiz",
+      "material_base_form": "ウィズ",
+      "base_utf8_sha256": "7e507c4626695925d8cdef33c31f7a0fdcc379c25059b2982761a1db6868378c",
+      "source_first_pragmatic_note": "Accidental actual proper name later noticed611/615; written distribution gives relationship significance, not audio stress.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV20",
+      "source_id": "MASK",
+      "native_member": "text/part0017.html",
+      "unit": "C04",
+      "p": 612,
+      "speaker_addressee_audience": "Vanir → Wiz",
+      "material_base_form": "難聴店主",
+      "base_utf8_sha256": "0c887cbde7c4ed2ed8e13c5a5a0adf206f364cc2132e61b1a11bbbf4ef7c2f96",
+      "source_first_pragmatic_note": "Evasive replacement for just-used name; denial is pragmatic teasing, not actual preceding utterance607.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV21",
+      "source_id": "MASK",
+      "native_member": "text/part0019.html",
+      "unit": "C05",
+      "p": 209,
+      "speaker_addressee_audience": "Rosalie’s parenthetical resistance in possessed body",
+      "material_base_form": "ブラッド！　ウィズ！",
+      "base_utf8_sha256": "4b76e1c8074472f30986f41d4dda40d425eeb179c86ca9930f2708d7728449ad",
+      "source_first_pragmatic_note": "Interleaved same-body voices must remain attributed: bodily speaker channel is not identical to controlling agent.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV22",
+      "source_id": "MASK",
+      "native_member": "text/part0019.html",
+      "unit": "C05",
+      "p": 470,
+      "speaker_addressee_audience": "Vanir → human Wiz in past",
+      "material_base_form": "名をウィズ",
+      "base_utf8_sha256": "cd8cc222c23e53962c5c65a1ec1b03c3dd20d99f99e3bce613febab75721f269",
+      "source_first_pragmatic_note": "First explicit recognized human naming, supported by narrative469/472; differs from later routine insulting labels.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV23",
+      "source_id": "MASK",
+      "native_member": "text/part0019.html",
+      "unit": "C05",
+      "p": 551,
+      "speaker_addressee_audience": "Wiz → Vanir in past",
+      "material_base_form": "駆け出しリッチー",
+      "base_utf8_sha256": "2962d85e735d1a1553dbed20eccc6f5580d84e737a9a39b8d0c12c1e1c8b2edd",
+      "source_first_pragmatic_note": "Self-reintroduction plus explicit calmer register553 after real transformed state; no automatic moral-permission consequence.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    },
+    {
+      "witness_id": "MV24",
+      "source_id": "MASK",
+      "native_member": "text/part0021.html",
+      "unit": "Epi",
+      "p": 20,
+      "speaker_addressee_audience": "Vanir → Wiz",
+      "material_base_form": "大事件",
+      "base_utf8_sha256": "ce39f241506434e4fbd56cdbefab62752af49b00b4132a6c8bbd43f8a6aee58a",
+      "source_first_pragmatic_note": "Contrast with ちょっとしたイベント/shop success expectation; a portable expectation reversal still delivered through selected word scale.",
+      "actual_formal_language_dependence_or_effect_code": null,
+      "not_acoustic_or_native_speaker_certification": true
+    }
+  ],
+  "initial_root38_I35_S60_relationship": "Different overlapping source-first segmentations, not independent trials or a pooled/frozen census. Current39 corrected event families include one attributable coordinated advocacy selection.",
+  "form_limits": "24 actual native-joined material forms, short fragment/attribution/P/base hash only; full paragraph and ruby objects stay private. No formal new L/H code, frequency, native-human or acoustic claim.",
+  "source_native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+  "not_stageC_complete": true,
+  "accepted_candidate_pin": {
+    "name": "MASK_CORRECTED_EVENTS_AND_FORM_RECEIVING_CANDIDATE.json",
+    "bytes": 115379,
+    "sha256": "fbe9eff36234d6a9d41a67fd49b468c83b1377830afa6085c747261b494d4f33"
+  },
+  "current_external_precision": [
+    {
+      "event_id": "MASK-HISTORY-VOICE",
+      "locators": "C05P45–92, especially67–69/80/85–86",
+      "current": "Searches show no response before the hidden Vanir appears. Their target rules and expected detection are unestablished; Vanir objects to being called a monster but does not independently prove the search mechanism. The later living-only scroll is a different spell and cannot establish this cause.",
+      "origin": "Root/I/S coordinated ledger receiving; root actual bounded native reread45–92 after initial acceptance. Initial root/candidate wording and all outcomes unchanged."
+    }
+  ]
+}

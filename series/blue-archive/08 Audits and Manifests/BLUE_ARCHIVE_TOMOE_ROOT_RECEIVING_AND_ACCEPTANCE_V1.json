@@ -1,0 +1,177 @@
+{
+  "schema": "BLUE_ARCHIVE_TOMOE_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOE_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_TOMOE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5166,
+    "sha256": "18abb8527e1ebd9ae2990092a875ffebbc44bcc187acb466f4a64a499dd62e2a",
+    "git_blob_oid_of_actual_bytes": "32e8cde7843b212ea13f821f42f7fdaacc654299",
+    "immutable_transport_path": "immutable_originals/ROOT_TOMOE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_TOMOE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_UTC": "2026-10-10T18:32:18.320419+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_TOMOE_CHARACTER_MONOGRAPH.md",
+      "bytes": 41966,
+      "lines": 191,
+      "sha256": "248799e13221aeaf11cb7c976d3b25dd94c6b2246f60e2eefa263baa782a6f7e"
+    },
+    "existing_home": "P3-CHAR-TOMOE",
+    "source_responsibility": "P3-F140",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOE_CHARACTER_MONOGRAPH.md",
+    "mandatory_operative_body": "191-line original as-is; qualified current metadata and link adoption only",
+    "author_freeze_exact_sha256": "f7b66ed77303ef34942d470a3e36caabc3b355a90b385b89bf1aaf55e6b26000",
+    "finite_bindings": {
+      "unique_pairs": 230,
+      "occurrences": 252,
+      "historical_comparisons": 63,
+      "nonempty_line_joins": 120,
+      "prior_payloads_preserved": 173,
+      "separate_supplements_preserved": 12,
+      "additional_original_manifests_preserved": 6,
+      "unchanged_prior_governance_controls": 8,
+      "unchanged_prior_analytical_controls": 6
+    },
+    "ROOT_actual_receiving": {
+      "whole_saved_body": [
+        "10cf211–65",
+        "ef9a9866–130",
+        "642810131–191EOF"
+      ],
+      "whole_readable_receipt": "aa718f complete37",
+      "whole_metadata_probe": "abce11 complete145",
+      "whole_manifest": "aa3814 complete56",
+      "complete_semantic_controls": "5f2940 complete named source quartet, home,20IDs,5 source/claim arguments,14 gaps,gift026,debt,source/custody/current/dated scope; all21 source extents7a7f0c; all6 current control scopes a08136 and8 governance scopes a2c814. Control source bytes are unchanged; recipient-specific partition scope differs correctly from Cherino.",
+      "fresh_whole_private_checkpoint": "d823a51–70,bda71d71–135,1ea0d3136–191 plus74e862151–159 clipping repair; all191 actually received",
+      "fresh_whole_gift026_argument": "02b188 complete68; actual offer/acceptance distinct from unshown tasting/feedback/profit/persuasion",
+      "adequate_other_source_reuse": "Previously received sharedRedWinter495,G130138,G280143,E802103,E808100,E839158,FinalE00829 reused at actual boundaries. The author independently received eight paired/two profile arguments and complete costume substantive1–104 with remaining appendices partial; their custody is attributed, not transferred ROOT whole or primary credit."
+    },
+    "semantic_grounds": [
+      "Tomoe combines care, wanted company, political loyalty and persuasion across unequal recipients. Her own joy, curiosity, birthdays, food, clothes and rest remain intrinsic ends.",
+      "An actually accepted good nap/song, reciprocal fanning, food sharing, child-specific listening, welcomed company and narrated sales effect retain achieved status; none needs high stakes to qualify.",
+      "Burned petitions, conditional helper pressure, saturated listeners, failed bitterness removal and unfulfilled housing prevent a universal benevolent caretaker interpretation. Report delivery is not fabricated deadline proof or observed record deletion.",
+      "Effective counterstories do not certify nutritional truth, broadcaster intent, clinical results or durable audited recovery. Actual meals and commercial narration are separately preserved.",
+      "Gift sincerity has a specific aesthetic object. Cherino’s reported portrait refusal remains contrary; adult acceptance wording does not establish tasting, altered preference, market success or consecutive025→026 chronology.",
+      "Camera pretext and genuine forgetting remain live competing readings. Actual company does not prove original intention, universal deception, mutual romance or completed invitations.",
+      "Timed actorless and embedded-log forms, manager-label seam, positive two-variant joins and future availability2026-10-21 retain exact source bounds. Seven whole rivals, all eleven dimensions and fourteen original OPEN limitations remain."
+    ],
+    "scope_denominator": "355 required packages plus29 mandatory named sections unchanged; fixed74–89 unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 95,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 96,
+      "character_packages": 86,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "institution_packages": 2,
+      "published_remote_packages": 89,
+      "published_source_commit": "86e0c3d8071aeaa2ed09bb79d4a28fce1c117103",
+      "canonical_persistence": "PENDING_NEXT_EXACT_CANONICAL_ADOPTION",
+      "fixed_first_quarter_tranche": "EXCLUDED_PACKAGE96",
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "nine_unbound_large": "UNOPENED_UNREAD_UNHASHED",
+    "R_Git_provider_writes": false,
+    "main_integration": "PENDING_FIRST_MILESTONE_AUTHORIZED_MERGE_AND_POSTMERGE_AUDIT"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOE_CHARACTER_MONOGRAPH.md",
+    "bytes": 44173,
+    "sha256": "b625ecc92b09230d7222eb0e628515a56b34dd0777ce0d83133f50e7860b74cf",
+    "git_blob_oid_of_actual_bytes": "b60a5b6ecac06c452653911eaadb27a3d70c770d"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "191-line original as-is; qualified current metadata and link adoption only"
+}

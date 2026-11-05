@@ -1,0 +1,68 @@
+{
+  "schema": "konosuba.cohort52.foundation-freeze.v1",
+  "frozen_utc": "2026-10-25T23:11:09.495270+00:00",
+  "scope": "Source-known initial analytical foundations; any later substantive change must be attributable. No prospective prediction/model/final StageD freeze.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_GUIDE_NEWCOMER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8094,
+      "sha256": "4c9513ca786e57a6616bc0270bd6d38f8d39228c8e7262b58f3962909915347f"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_OKINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7106,
+      "sha256": "75f020e3ff92b3d2677bbe78b96eb67d049cee1adb9be2f67d0b224acb94f8b4"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
+      "bytes": 7523,
+      "sha256": "83253b4b998f596db4071419a79461e7a02a8c8c56d2eae1de5d0373c1e2ca39"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7063,
+      "sha256": "5a65a814c4bde22f5c67f30d970ac8077d8c75d7f5211fe7d948ce6b894f56bd"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_REFERENCE_GUIDE_SCENARIO_EVIDENCE_INDEX.md",
+      "bytes": 13374,
+      "sha256": "9b45ffb67350081cc2d40fd2dd74e0046d87f28600b94f168ee9175cd2bd5694"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT52_TRPG_NATIVE_PROVENANCE_01.json",
+      "bytes": 51472,
+      "sha256": "4bd9b16145f6e84dd6d0389ae74c823580571815f62599922e6a606c7b90c27d"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 103991,
+      "sha256": "ffd98203fd64f4db3b0ee7e4bdda8be10cd2f1683faf25bf7ded13d35c3b067a"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_TYPED_SOURCE_ACCESS_ROUTES_01.json",
+      "bytes": 41731,
+      "sha256": "8c09ec5d7baeba42e7f4279e44acf2b711b35f7037910cf3c06b99f110eb2a7b"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 4201,
+      "sha256": "4cd716a7cd050247e5c649d93154e2930dbcf1f6d48217187c5e40810d7969e1"
+    }
+  ],
+  "reviewed_profile_appendices": [
+    {
+      "path": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_CORE_DEEP_READING.md",
+      "appendix_bytes": 7646,
+      "appendix_sha256": "9a8c4b8471cacdaae33f83f7ece8fee74f904047ab80c2e5da07d015c9b873e7"
+    },
+    {
+      "path": "series/konosuba/10 Expanded Corpus/TRPG/KONOSUBA_TRPG_ADV_DEEP_READING.md",
+      "appendix_bytes": 7766,
+      "appendix_sha256": "1b2e7ed4409fedca68a6aea89fcad0dcf7e6881bb7388fe479dc0c97dc00a27a"
+    }
+  ],
+  "private_semantic_acceptance_sha256": "bf381dc2bac295f907c4597a8b054d8f949bb2bfad7d81b5d40f8cc809b92396",
+  "all_initial_private_drafts_preserved": true,
+  "no_new_first_outputs": true,
+  "no_final_StageD_successor": true
+}

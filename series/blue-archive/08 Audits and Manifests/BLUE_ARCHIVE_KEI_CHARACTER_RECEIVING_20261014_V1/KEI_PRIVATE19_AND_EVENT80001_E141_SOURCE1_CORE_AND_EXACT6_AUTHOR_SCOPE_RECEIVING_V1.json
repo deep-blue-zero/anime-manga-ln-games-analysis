@@ -1,0 +1,1548 @@
+{
+  "schema": "KEI_EXISTING_PRIVATE19_E141_SOURCE1_SPINE_EXACT6_MAINTAINED_AUTHOR_SCOPE_AND_NAMED_GIFT_RECEIVING_V1",
+  "author": "/root/next_cast_source_preparation",
+  "existing_home": {
+    "required": {
+      "required_id": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+      "source_responsibility_refs": [
+        "P3-M018",
+        "P3-F106"
+      ],
+      "zero_index": 13,
+      "one_based_required_row": 14,
+      "CSV_physical_line": 15,
+      "partition_pointer": "/homes/13",
+      "whole_existing_partition_record": {
+        "home_key": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+        "kind": "CHARACTER",
+        "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+        "source_responsibility_refs": [
+          "P3-M018",
+          "P3-F106"
+        ],
+        "literary_rationale": [
+          "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": true
+      }
+    },
+    "named_inside": {
+      "named_id": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+      "zero_named_index": 4,
+      "one_named_row": 5,
+      "named_CSV_physical_line": 6,
+      "partition_pointer": "/homes/250",
+      "parent_required_id": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+      "whole_existing_partition_record": {
+        "home_key": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "recommended_allocation": "PROPOSED_REQUIRED_SUBSTANTIAL_SECTION",
+        "source_responsibility_refs": [
+          "P3-REL-KEI-SENSEI-GIFT-FRICTION"
+        ],
+        "literary_rationale": [
+          "E141 ignored return request then local thanks/admission"
+        ],
+        "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+        "counts_as_completed": false,
+        "proposed_denominator_entry": false,
+        "required_receiving_home": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+        "section_rationale": "One bounded gift-friction argument and its unjoined Key form require a substantial named section, not an automatically complete longitudinal dyad"
+      },
+      "one_inside_substantial_section_NOT_extra_required_home": true
+    }
+  },
+  "current_body": {
+    "bytes": 61002,
+    "sha256": "f3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7",
+    "git_blob_oid_of_actual_bytes": "cbdb14997a381a543e11b2b8d06610e4d8ce283e"
+  },
+  "source1_existing_spine": "Existing maintained private19 S01, with existing E141S02 named gift and four MAIN checkpoint comparisons; no newly admitted source or primary receiving.",
+  "six_complete_original_source_binding_records_NOT_rewritten": [
+    {
+      "source_id": "KEI-S01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 46263,
+      "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+      "lines": 272,
+      "grade": "OWN_NEW_WHOLE_MAINTAINED_PRIVATE19_ACCOUNT_NOT_PRIMARY",
+      "captures": [
+        "1f345d",
+        "66f807",
+        "a4dada",
+        "d09aeb"
+      ],
+      "ranges": [
+        [
+          1,
+          68
+        ],
+        [
+          69,
+          136
+        ],
+        [
+          137,
+          204
+        ],
+        [
+          205,
+          272
+        ]
+      ],
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 46263,
+        "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+        "git_blob_oid_of_actual_bytes": "f7024908cca8716f4c26903d8ef0111148dea55e"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+    },
+    {
+      "source_id": "KEI-S02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+      "bytes": 9535,
+      "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+      "lines": 72,
+      "grade": "OWN_NEW_WHOLE_MAINTAINED_E141_EVENT_LOCAL_ACTOR_NOT_PRIMARY_OR_PERSON_JOIN",
+      "captures": [
+        "176415"
+      ],
+      "ranges": [
+        [
+          1,
+          72
+        ]
+      ],
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+        "bytes": 9535,
+        "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+        "git_blob_oid_of_actual_bytes": "af14350c75c5bef9cbc7cebcf4a58d4edb281e47"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+    },
+    {
+      "source_id": "KEI-S03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+      "bytes": 23039,
+      "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+      "lines": 137,
+      "grade": "OWN_NEW_WHOLE_MAINTAINED_V002_C001_NOT_PRIMARY",
+      "captures": [
+        "b9162c",
+        "a797f6"
+      ],
+      "ranges": [
+        [
+          1,
+          69
+        ],
+        [
+          70,
+          137
+        ]
+      ],
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+        "bytes": 23039,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+    },
+    {
+      "source_id": "KEI-S04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "bytes": 22309,
+      "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+      "lines": 125,
+      "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+      "captures": [
+        "OWN_RIO_S06_PRIOR_WHOLE_RECORD",
+        "CURRENT_8c_PIN_EQ_91aef3",
+        "OWN_SCOPE_LOOKUP_bc46ae"
+      ],
+      "ranges": [
+        [
+          1,
+          125
+        ]
+      ],
+      "prior_index": 5,
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+      "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+        "source_id": "RIO-S06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "pin": {
+          "C_path": "private-witness:KEI-LOCATION-89BCF565816DCBCA0912CD97",
+          "bytes": 22309,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+        },
+        "physical_lines": 125,
+        "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+        "prior_scope_record": "private-witness:KEI-LOCATION-4ECCD234183E5F83BD2A7BE5"
+      }
+    },
+    {
+      "source_id": "KEI-S05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "bytes": 18013,
+      "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+      "lines": 83,
+      "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+      "captures": [
+        "OWN_RIO_S10_ACTUAL_WHOLE_RECORD",
+        "CURRENT_8c_PIN_EQ_91aef3",
+        "OWN_SCOPE_LOOKUP_d6eb42"
+      ],
+      "ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "prior_index": 9,
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+      "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+        "source_id": "RIO-S10",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "pin": {
+          "C_path": "private-witness:KEI-LOCATION-0F0D7E0B84BF583257F0C07B",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+        },
+        "physical_lines": 83,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+        "scope_record": "private-witness:KEI-LOCATION-E7A979B28ABC45EB64732678"
+      }
+    },
+    {
+      "source_id": "KEI-S06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "bytes": 12691,
+      "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+      "lines": 60,
+      "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+      "captures": [
+        "OWN_RIO_S03_ACTUAL_WHOLE_RECORD",
+        "CURRENT_8c_PIN_EQ_91aef3",
+        "OWN_SCOPE_LOOKUP_d6eb42"
+      ],
+      "ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "prior_index": 2,
+      "pin": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+      },
+      "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+      "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+        "source_id": "RIO-S03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "pin": {
+          "C_path": "private-witness:KEI-LOCATION-E0BA5628C45641B5004571A3",
+          "bytes": 12691,
+          "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+          "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+        },
+        "physical_lines": 60,
+        "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+        "prior_scope_record": "private-witness:KEI-LOCATION-4ECCD234183E5F83BD2A7BE5"
+      }
+    }
+  ],
+  "exact6_current_C_copies_and_actual_extents": [
+    {
+      "source_id": "KEI-S01",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 46263,
+        "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+        "git_blob_oid_of_actual_bytes": "f7024908cca8716f4c26903d8ef0111148dea55e"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S01",
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 46263,
+        "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+        "lines": 272,
+        "grade": "OWN_NEW_WHOLE_MAINTAINED_PRIVATE19_ACCOUNT_NOT_PRIMARY",
+        "captures": [
+          "1f345d",
+          "66f807",
+          "a4dada",
+          "d09aeb"
+        ],
+        "ranges": [
+          [
+            1,
+            68
+          ],
+          [
+            69,
+            136
+          ],
+          [
+            137,
+            204
+          ],
+          [
+            205,
+            272
+          ]
+        ],
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 46263,
+          "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+          "git_blob_oid_of_actual_bytes": "f7024908cca8716f4c26903d8ef0111148dea55e"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+      }
+    },
+    {
+      "source_id": "KEI-S02",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+        "bytes": 9535,
+        "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+        "git_blob_oid_of_actual_bytes": "af14350c75c5bef9cbc7cebcf4a58d4edb281e47"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+        "bytes": 9535,
+        "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+        "lines": 72,
+        "grade": "OWN_NEW_WHOLE_MAINTAINED_E141_EVENT_LOCAL_ACTOR_NOT_PRIMARY_OR_PERSON_JOIN",
+        "captures": [
+          "176415"
+        ],
+        "ranges": [
+          [
+            1,
+            72
+          ]
+        ],
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+          "bytes": 9535,
+          "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+          "git_blob_oid_of_actual_bytes": "af14350c75c5bef9cbc7cebcf4a58d4edb281e47"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+      }
+    },
+    {
+      "source_id": "KEI-S03",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+        "bytes": 23039,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S03",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+        "bytes": 23039,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "lines": 137,
+        "grade": "OWN_NEW_WHOLE_MAINTAINED_V002_C001_NOT_PRIMARY",
+        "captures": [
+          "b9162c",
+          "a797f6"
+        ],
+        "ranges": [
+          [
+            1,
+            69
+          ],
+          [
+            70,
+            137
+          ]
+        ],
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+          "bytes": 23039,
+          "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+          "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44"
+      }
+    },
+    {
+      "source_id": "KEI-S04",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "lines": 125,
+        "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+        "captures": [
+          "OWN_RIO_S06_PRIOR_WHOLE_RECORD",
+          "CURRENT_8c_PIN_EQ_91aef3",
+          "OWN_SCOPE_LOOKUP_bc46ae"
+        ],
+        "ranges": [
+          [
+            1,
+            125
+          ]
+        ],
+        "prior_index": 5,
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+          "bytes": 22309,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+        "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+          "source_id": "RIO-S06",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+          "pin": {
+            "C_path": "private-witness:KEI-LOCATION-89BCF565816DCBCA0912CD97",
+            "bytes": 22309,
+            "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+            "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+          },
+          "physical_lines": 125,
+          "source_grade": "PRIOR_PERSONALLY_WHOLE_V002_MAINTAINED_REUSED_NOT_FRESH_PRIMARY",
+          "prior_scope_record": "private-witness:KEI-LOCATION-4ECCD234183E5F83BD2A7BE5"
+        }
+      }
+    },
+    {
+      "source_id": "KEI-S05",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "lines": 83,
+        "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+        "captures": [
+          "OWN_RIO_S10_ACTUAL_WHOLE_RECORD",
+          "CURRENT_8c_PIN_EQ_91aef3",
+          "OWN_SCOPE_LOOKUP_d6eb42"
+        ],
+        "ranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "prior_index": 9,
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+        "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+          "source_id": "RIO-S10",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "pin": {
+            "C_path": "private-witness:KEI-LOCATION-0F0D7E0B84BF583257F0C07B",
+            "bytes": 18013,
+            "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+            "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+          },
+          "physical_lines": 83,
+          "source_grade": "PERSONALLY_WHOLE_MAINTAINED_EVENT_EARLY_FINAL_NOT_PRIMARY",
+          "scope_record": "private-witness:KEI-LOCATION-E7A979B28ABC45EB64732678"
+        }
+      }
+    },
+    {
+      "source_id": "KEI-S06",
+      "exact_own_C_copy": {
+        "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+      },
+      "semantic_extent": {
+        "source_id": "KEI-S06",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "lines": 60,
+        "grade": "OWN_PRIOR_ACTUAL_WHOLE_MAINTAINED_REUSE_NOT_FRESH_PRIMARY",
+        "captures": [
+          "OWN_RIO_S03_ACTUAL_WHOLE_RECORD",
+          "CURRENT_8c_PIN_EQ_91aef3",
+          "OWN_SCOPE_LOOKUP_d6eb42"
+        ],
+        "ranges": [
+          [
+            1,
+            60
+          ]
+        ],
+        "prior_index": 2,
+        "pin": {
+          "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+          "bytes": 12691,
+          "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+          "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+        },
+        "source_HEAD_at_capture": "8c437de508fabc45c17f692e50861768f3f2ca44",
+        "complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading": {
+          "source_id": "RIO-S03",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+          "pin": {
+            "C_path": "private-witness:KEI-LOCATION-E0BA5628C45641B5004571A3",
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+          },
+          "physical_lines": 60,
+          "source_grade": "PERSONALLY_WHOLE_MAINTAINED_PRIVATE_GROUP_GIFT_FINAL_NOT_PRIMARY",
+          "prior_scope_record": "private-witness:KEI-LOCATION-4ECCD234183E5F83BD2A7BE5"
+        }
+      }
+    }
+  ],
+  "all12_original_predraft_questions_and_received_results_NOT_shortened": [
+    {
+      "question_id": "KQ01",
+      "before_receiving_question": "Which exact private10135/special101350001/main-Key strands are actually joined or remain distinct?",
+      "answer": "Kei19 prints BA_PERSON_CH0335/10135/ケイ with Millennium/SPTF and BA_PERSON_CHAR_101350001/101350001/天童ケイ with empty registry school/club/dev-name fields. The second profile positively authors a self-defining artificial-intelligence-to-AMAS/body trajectory and GDD presence; this supports narrative comparison without rewriting either high-confidence literal key. Earlier main Key/<Key>/Kei.sav cannot be mechanically fused with these keys. E141 is a separate source-localケイ speaker with empty person/variant joins. A single bounded analytical home does not certify one persistent software/person ID.",
+      "sources": [
+        "KEI-S01:L60–66,L137–151,L178",
+        "KEI-S02:L28,L50–54",
+        "KEI-S03:L32,L46–50,L87",
+        "KEI-S04:whole prior scope",
+        "KEI-S06:whole prior scope"
+      ]
+    },
+    {
+      "question_id": "KQ02",
+      "before_receiving_question": "Which wanted ordinary goods, play, food, company or learning are explicit rather than supplied from metadata?",
+      "answer": "Wanted ribbon, liking cuteness with qualifications, requests for broader praise, taste curiosity, welcomed but selective invitations, actual delivery and necklace receipt, gameQA and making, cleaning/help, proposed meal/accessory outing, actual slow return/little-finger contact and a forgotten daily game task are explicit at their respective maintained modes. The ribbon, new arcade visit, alpha-game completion, next-day shift and meal/accessory purchase remain unfulfilled in the printed selection. Ordinary goods retain intrinsic value even when refused, embarrassed, proposed or incomplete.",
+      "sources": [
+        "KEI-S01:L87–145",
+        "KEI-S02:L34–46"
+      ]
+    },
+    {
+      "question_id": "KQ03",
+      "before_receiving_question": "What is each speaker/recipient's actual request, objection and response?",
+      "answer": "Rescue from classmates, being released, a different vocabulary of praise, silence, head-touch refusal and gift return are distinct requests; approval by a narrator or later pleasure does not fulfill them. Sensei's teasing/watching may disregard them. Kei's schedule lookup/summons also presses the adult's privacy. Specific apology/thanks, acceptance of a feedback plan and the actual slow accompanied return are positive responses at their local limits. E141's ignored return is followed by allowance and shared sweets without retroactive authorization.",
+      "sources": [
+        "KEI-S01:L89–133,L137,L143",
+        "KEI-S02:L34–42"
+      ]
+    },
+    {
+      "question_id": "KQ04",
+      "before_receiving_question": "How do ordinary preferences and capability/role claims differ?",
+      "answer": "Classroom knowledge, earlier experimentation, body provision, game QA, statistical procedure and manufacturing/security assertions remain participant claims or depicted local work rather than external audits. Actual appearance preference, school invitations, delivery, bug work, cleaning and return matter beyond system utility. SPTF affiliation differs from GDD help and the conditional producer/odd-job title.",
+      "sources": [
+        "KEI-S01:L95,L105–117,L121–145"
+      ]
+    },
+    {
+      "question_id": "KQ05",
+      "before_receiving_question": "Which stated needs/fears/self-description have action versus report/inward evidence?",
+      "answer": "The source supports aesthetic desire, selective companionship, concern for overwork, embarrassment, practical criticism and a stated intention to remain present. Stiffness is metaphor, death rhetoric is not an enacted plan or diagnosis, technical origins are reported, memory gaps and visual-fatigue explanations do not authenticate mechanics, and body/profile self-definition remains positive authored content. The account should not supply an unprinted inner history or clinical disposition.",
+      "sources": [
+        "KEI-S01:L89–99,L111–153",
+        "KEI-S02:L40,L52–54"
+      ]
+    },
+    {
+      "question_id": "KQ06",
+      "before_receiving_question": "How do public/private and school/club contexts qualify the same action?",
+      "answer": "School is not reduced to a knowledge-transfer deficit; friends, play and wanted selective participation answer different needs. GDD's expanding alpha-game ambition and uneven cleaning make service negotiated labor. SPTF membership, GDD contribution and Schale document work are separate institutional positions. Main-story classification/assigned-function and council/C&C actions preserve their earlier information states; private company cannot erase harmful earlier public acts or guarantee future institutional appointment.",
+      "sources": [
+        "KEI-S01:L93–133,L137–153",
+        "KEI-S03:whole",
+        "KEI-S04:whole prior scope"
+      ]
+    },
+    {
+      "question_id": "KQ07",
+      "before_receiving_question": "What does the directed E141 gift/return sequence actually complete, and what earlier request remains unrepaired?",
+      "answer": "The event-localケイ presents chocolate while calling it commercial; appearance/taste, her regretted failure to taste and replacement promise support a handmade inference without depicting the making process. Sensei values uniqueness but flees eating after her return request. Cushion force and severe speech precede her own mistake admission, allowance, smile and shared sweets. The finite resolution is local permission/enjoyment; replacement, lasting repair, romance, clinical or medical findings and a direct registry join are unprinted.",
+      "sources": [
+        "KEI-S02:L22,L34–54"
+      ]
+    },
+    {
+      "question_id": "KQ08",
+      "before_receiving_question": "Which variants are source-local and cannot be made a universal biography?",
+      "answer": "The two profile keys remain literal; profile/cafe/lobby/gift/seasonal/weapon modes are contextual writing. Four Event854 costumes repeat eighteen mission forms, not four independent missions or four occasions of consent. Their local no-stop-patting statement cannot cancel the concrete refused head-touch in009. The literal Event855 selector is a positive written lead within the account's qualified event inventory inquiry; it is not an acquired whole-event plot or a global absence claim.",
+      "sources": [
+        "KEI-S01:L137–145",
+        "KEI-S02:L28,L54"
+      ]
+    },
+    {
+      "question_id": "KQ09",
+      "before_receiving_question": "Which finite V002/V100/main, private and gift chronology relations are printed?",
+      "answer": "Checkpoint-local V002 events precede their own outcomes; V100C001's inward naming and V100C004's roughly2KB save-file question preserve different knowledge/technical states. Kei19's authored present body/trajectory and private episode internal order give contextual contrast, while release dates, raw IDs, costume selectors and Valentine setting do not place every private/gift event on a main calendar. Current maintained capture8c and older primary-source checkpoint pins are documentary layers, not competing diegetic dates.",
+      "sources": [
+        "KEI-S01:L60,L89–151",
+        "KEI-S02:L30,L54",
+        "KEI-S03:whole",
+        "KEI-S04–06:whole prior scopes"
+      ]
+    },
+    {
+      "question_id": "KQ10",
+      "before_receiving_question": "What serious alternative readings survive the adequate available source?",
+      "answer": "Assigned-function-only, restored-harmless-system, uniformly welcoming school, perfectly sensitive Sensei, compulsory-care/producer service, complete rejection/hostility, always-correct rational competence and a universal forgiveness/continuity arc each explain part of the evidence but fail against specific desire, overload/refusal, labor, mistake, positive company, technical uncertainty and unresolved identity/chronology. The body should argue these rivals with actual source reasons rather than settle them by an abstract label.",
+      "sources": [
+        "KEI-S01:whole",
+        "KEI-S02:whole",
+        "KEI-S03–06:actual whole maintained scopes"
+      ]
+    },
+    {
+      "question_id": "KQ11",
+      "before_receiving_question": "Which endpoints and missing evidence constrain stronger identity, consent, repair or longitudinal claims?",
+      "answer": "Finite positives include received invitations, necklace presentation/receipt, completed delivery, accepted feedback, depicted game work, cleaning/apology/thanks, documents said finished, local outing proposal acceptance, intention-to-remain speech, actual slow return/dorm report/daily-game tail and E141 allowance/shared sweets. They do not close ribbon/purchases/arcade/game/next-day-work, unconditional touch/care, earlier return-request accountability, audited safety/health, save provenance, two-key fusion or a global timeline. All fourteen original gaps stay OPEN and no model/rule/prediction is authored.",
+      "sources": [
+        "KEI-S01:whole",
+        "KEI-S02:whole",
+        "KEI-S06:whole prior scope"
+      ]
+    },
+    {
+      "question_id": "KQ12",
+      "before_receiving_question": "How can this one existing parent plus its one named section retain ordinary goods intrinsically without creating a second home/model?",
+      "answer": "Required P3-CHAR-KEI-TWO-KEY-BOUNDED zero13/one14/CSV15/home13 owns a source-bounded connected character argument. Existing named P3-REL-KEI-SENSEI-GIFT-FRICTION zero4/one5/CSV6/home250 is a substantial inside section, using the unresolved event-local actor at its exact grade. Modern private self-definition, public history and gift friction can be compared without flattening identities or stages. Required355/named29/parents25/homes384/navigation788, actual149/18 baseline and all14OPEN/models0 remain unchanged; body review precedes any new105/register or ROOT count/publication.",
+      "sources": [
+        "current14918 required/named/acceptance selected actual088cca/78fab4",
+        "partition selected actual1c6b29",
+        "architecture selected3b5c9e",
+        "KEI-S01–06"
+      ]
+    }
+  ],
+  "source_scope": {
+    "own_new_whole_maintained_sources": [
+      "KEI-S01",
+      "KEI-S02",
+      "KEI-S03"
+    ],
+    "own_new_whole_maintained_lines": 481,
+    "own_prior_whole_maintained_reuse": [
+      "KEI-S04",
+      "KEI-S05",
+      "KEI-S06"
+    ],
+    "own_prior_whole_reused_lines": 268,
+    "distinct_adequate_core_maintained_lines": 749,
+    "captured_source_copy_bytes_are_custody_not_cognitive_receiving": true,
+    "producer_original6B6MM7W_19_primary_credit": "ATTRIBUTED_TO_KEI19_PRODUCER_NOT_NEW_AUTHOR_PRIMARY",
+    "EVENT80001_E141_original65utterance_7groups8options": "ATTRIBUTED_ORIGINAL_SOURCE_SCOPE_NOT_NEW_PRIMARY",
+    "main_checkpoint_original_primary_scope": "ATTRIBUTED_NOT_NEW_480_OR_WHOLE_ARC_PRIMARY"
+  },
+  "operative_identity_actor_mode_localchronology": {
+    "modern_key": "BA_PERSON_CH0335/10135/ケイ, printedMillennium/SPTF",
+    "separate_profile_key": "BA_PERSON_CHAR_101350001/101350001/天童ケイ, separate literal registry row; positive authored narrative trajectory not discarded, no fusedpersistentID",
+    "main_strands": "unexplained<Key>folder/unattributedAL-1S restoration/provisionalmainKeyvoice/V100inward naming/roughly2KBKei.sav provenance remain their own modes/states",
+    "named_E141_actor": "EVENT80001/BA:event:80001:141, 케이 교복 → BA_SPEAKER_UCF00_UC774_UAD50_UBCF5, no person_id/student_variant_id; two registry candidates unjoined",
+    "local_gift_endpoint": "Return/silence requests disregarded, later allowance/smile/sharedsweets; no retroactive assent/romance/permanentrepair/replacement/clinical inference",
+    "chronology": "Only printed scene/episode/checkpoint relations, separate actualrelease dates and private/event selector modes; no universal main/private/giftcalendar or restoredmechanism",
+    "ordinary_goods": "ribbon/fashion, selectivecompany/play, gifts/delivery, QA/making/labor, cleaning/help/return intrinsic; no stakes/attendance/popularity filter"
+  },
+  "character11_method16_named12": {
+    "character_architecture11": [
+      {
+        "track_id": "KC01",
+        "track": "core thesis",
+        "paragraph_ids": [
+          "KEI-P002",
+          "KEI-P003",
+          "KEI-P058",
+          "KEI-P073"
+        ],
+        "own_substantive_reason": "The present repertoire exceeds assigned usefulness through wants, chosen company, labor and refusal. The public function remains consequential without exhausting every current representation."
+      },
+      {
+        "track_id": "KC02",
+        "track": "longitudinal arc",
+        "paragraph_ids": [
+          "KEI-P005",
+          "KEI-P006",
+          "KEI-P007",
+          "KEI-P008",
+          "KEI-P009",
+          "KEI-P010",
+          "KEI-P011",
+          "KEI-P012",
+          "KEI-P013",
+          "KEI-P014",
+          "KEI-P034",
+          "KEI-P035",
+          "KEI-P057",
+          "KEI-P059",
+          "KEI-P065",
+          "KEI-P071"
+        ],
+        "own_substantive_reason": "Main classification, inward naming, save uncertainty and modern narrative self-definition are compared retrospectively; secure local private changes remain distinct from a recovered continuous timeline."
+      },
+      {
+        "track_id": "KC03",
+        "track": "public/private self",
+        "paragraph_ids": [
+          "KEI-P004",
+          "KEI-P005",
+          "KEI-P006",
+          "KEI-P008",
+          "KEI-P010",
+          "KEI-P011",
+          "KEI-P015",
+          "KEI-P036",
+          "KEI-P054",
+          "KEI-P055"
+        ],
+        "own_substantive_reason": "Public harm/function and private preference/care are different contexts. Two registry keys and the unjoined event actor prevent a silent all-context identity or information-state fusion."
+      },
+      {
+        "track_id": "KC04",
+        "track": "school/club role",
+        "paragraph_ids": [
+          "KEI-P018",
+          "KEI-P019",
+          "KEI-P020",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P028",
+          "KEI-P031",
+          "KEI-P036",
+          "KEI-P054",
+          "KEI-P062"
+        ],
+        "own_substantive_reason": "Millennium/SPTF affiliation, GDD contribution and Schale work are separated. Knowing, helping, conditional producer status and permanent duty are not made equivalent."
+      },
+      {
+        "track_id": "KC05",
+        "track": "ordinary life",
+        "paragraph_ids": [
+          "KEI-P015",
+          "KEI-P016",
+          "KEI-P017",
+          "KEI-P018",
+          "KEI-P019",
+          "KEI-P020",
+          "KEI-P021",
+          "KEI-P022",
+          "KEI-P023",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P027",
+          "KEI-P028",
+          "KEI-P029",
+          "KEI-P030",
+          "KEI-P031",
+          "KEI-P032",
+          "KEI-P033",
+          "KEI-P034",
+          "KEI-P035",
+          "KEI-P036",
+          "KEI-P037",
+          "KEI-P038",
+          "KEI-P039",
+          "KEI-P041",
+          "KEI-P042",
+          "KEI-P043",
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P048",
+          "KEI-P060",
+          "KEI-P066",
+          "KEI-P067",
+          "KEI-P068",
+          "KEI-P069"
+        ],
+        "own_substantive_reason": "Appearance, taste, selective company, gifts, play, making, cleaning and return count intrinsically. Proposed, refused and incomplete goods are not screened out by stakes or attendance."
+      },
+      {
+        "track_id": "KC06",
+        "track": "crisis behavior",
+        "paragraph_ids": [
+          "KEI-P010",
+          "KEI-P011",
+          "KEI-P012",
+          "KEI-P013",
+          "KEI-P014",
+          "KEI-P034",
+          "KEI-P055",
+          "KEI-P059"
+        ],
+        "own_substantive_reason": "Actual main harm and pressure provide a substantive crisis comparison. The modern private subject's unobserved identical crisis behavior and technical safety remain unclaimed."
+      },
+      {
+        "track_id": "KC07",
+        "track": "Sensei relationship",
+        "paragraph_ids": [
+          "KEI-P016",
+          "KEI-P019",
+          "KEI-P021",
+          "KEI-P023",
+          "KEI-P024",
+          "KEI-P026",
+          "KEI-P029",
+          "KEI-P030",
+          "KEI-P031",
+          "KEI-P032",
+          "KEI-P033",
+          "KEI-P034",
+          "KEI-P035",
+          "KEI-P040",
+          "KEI-P041",
+          "KEI-P042",
+          "KEI-P043",
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P048",
+          "KEI-P049",
+          "KEI-P050",
+          "KEI-P051",
+          "KEI-P052",
+          "KEI-P053",
+          "KEI-P061"
+        ],
+        "own_substantive_reason": "Each request, objection, offer and response has its own direction. Warm company and local allowance do not erase ignored rescue/release/return or the adult's privacy objection."
+      },
+      {
+        "track_id": "KC08",
+        "track": "major peer relationships",
+        "paragraph_ids": [
+          "KEI-P008",
+          "KEI-P012",
+          "KEI-P018",
+          "KEI-P020",
+          "KEI-P021",
+          "KEI-P022",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P027",
+          "KEI-P028",
+          "KEI-P036",
+          "KEI-P054"
+        ],
+        "own_substantive_reason": "Classmates' invitations, GDD work and Alice-related profile language have local positive evidence. Guarded twin wording and club service do not establish biology, universal friendship or all-peer trust."
+      },
+      {
+        "track_id": "KC09",
+        "track": "language/voice",
+        "paragraph_ids": [
+          "KEI-P017",
+          "KEI-P019",
+          "KEI-P023",
+          "KEI-P033",
+          "KEI-P034",
+          "KEI-P036",
+          "KEI-P037",
+          "KEI-P038",
+          "KEI-P041",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P049",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "Written address, qualified evaluation, consideration and intention retain their exact modes. Comic severe rhetoric, log seams and missing replies grant neither performance nor repaired locale branches."
+      },
+      {
+        "track_id": "KC10",
+        "track": "competing readings",
+        "paragraph_ids": [
+          "KEI-P058",
+          "KEI-P059",
+          "KEI-P060",
+          "KEI-P061",
+          "KEI-P062",
+          "KEI-P063",
+          "KEI-P064",
+          "KEI-P065",
+          "KEI-P051"
+        ],
+        "own_substantive_reason": "Eight serious rivals have positive starting evidence and concrete counterevidence. Affection-only and hostility-only are additionally tested within E141 without suppressing achieved positives."
+      },
+      {
+        "track_id": "KC11",
+        "track": "evidence route",
+        "paragraph_ids": [
+          "KEI-P001",
+          "KEI-P004",
+          "KEI-P005",
+          "KEI-P006",
+          "KEI-P007",
+          "KEI-P039",
+          "KEI-P049",
+          "KEI-P050",
+          "KEI-P052",
+          "KEI-P070",
+          "KEI-P071",
+          "KEI-P072"
+        ],
+        "own_substantive_reason": "Six pinned maintained accounts and current controls support the body at disclosed grades. Primary origins, negative inquiries, selector modes, fourteen OPEN gaps and future review gates stay distinct."
+      }
+    ],
+    "character_method16": [
+      {
+        "concern_id": "KM01",
+        "concern": "core contradiction",
+        "paragraph_ids": [
+          "KEI-P002",
+          "KEI-P003",
+          "KEI-P011",
+          "KEI-P053",
+          "KEI-P058"
+        ],
+        "own_substantive_reason": "Assigned usefulness conflicts with a repertoire of personal wants and negotiated care. The contradiction is argued across public comparison and ordinary scenes without merging literal identity strands."
+      },
+      {
+        "concern_id": "KM02",
+        "concern": "explicit goals",
+        "paragraph_ids": [
+          "KEI-P016",
+          "KEI-P019",
+          "KEI-P021",
+          "KEI-P023",
+          "KEI-P029",
+          "KEI-P032",
+          "KEI-P033",
+          "KEI-P041",
+          "KEI-P043",
+          "KEI-P045"
+        ],
+        "own_substantive_reason": "Ribbon, rescue, release, different praise, future help, outing, refusal and gift retrieval have concrete speaker/recipient routes. Fulfillment is assessed separately for each."
+      },
+      {
+        "concern_id": "KM03",
+        "concern": "implicit needs",
+        "paragraph_ids": [
+          "KEI-P003",
+          "KEI-P017",
+          "KEI-P018",
+          "KEI-P020",
+          "KEI-P026",
+          "KEI-P030",
+          "KEI-P034",
+          "KEI-P043"
+        ],
+        "own_substantive_reason": "Manageable company and recognition adequate to work are bounded interpretations supported by particular requests and choices, not unprinted inner biography or clinical need."
+      },
+      {
+        "concern_id": "KM04",
+        "concern": "fears, wounds, shame, or unresolved obligations",
+        "paragraph_ids": [
+          "KEI-P010",
+          "KEI-P011",
+          "KEI-P015",
+          "KEI-P019",
+          "KEI-P027",
+          "KEI-P031",
+          "KEI-P033",
+          "KEI-P042",
+          "KEI-P044",
+          "KEI-P046",
+          "KEI-P055"
+        ],
+        "own_substantive_reason": "Public harm, pressure, embarrassment and labor costs remain source-specific. Severe words, stiffness, fatigue explanations and the making mistake are not diagnoses or authenticated mechanisms."
+      },
+      {
+        "concern_id": "KM05",
+        "concern": "self-concept versus others' perception",
+        "paragraph_ids": [
+          "KEI-P004",
+          "KEI-P011",
+          "KEI-P016",
+          "KEI-P017",
+          "KEI-P023",
+          "KEI-P026",
+          "KEI-P030",
+          "KEI-P036",
+          "KEI-P041",
+          "KEI-P043",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "Profile self-definition, broad capability and guarded evaluations are compared with assigned function, popularity/cuteness praise and the recipient's gift interpretation."
+      },
+      {
+        "concern_id": "KM06",
+        "concern": "public role versus private behavior",
+        "paragraph_ids": [
+          "KEI-P004",
+          "KEI-P008",
+          "KEI-P010",
+          "KEI-P012",
+          "KEI-P015",
+          "KEI-P025",
+          "KEI-P031",
+          "KEI-P036",
+          "KEI-P054",
+          "KEI-P055"
+        ],
+        "own_substantive_reason": "Public crisis responsibilities and private ordinary acts are not a single unqualified self-state. The argument preserves institutional positions and prior information states."
+      },
+      {
+        "concern_id": "KM07",
+        "concern": "competence and failure modes",
+        "paragraph_ids": [
+          "KEI-P018",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P027",
+          "KEI-P031",
+          "KEI-P042",
+          "KEI-P047",
+          "KEI-P064"
+        ],
+        "own_substantive_reason": "Knowledge, QA and procedure remain local or reported; bugs, substituted wants, schedule intrusion and salt error delimit correctness and entitlement."
+      },
+      {
+        "concern_id": "KM08",
+        "concern": "ethics and use of power",
+        "paragraph_ids": [
+          "KEI-P010",
+          "KEI-P011",
+          "KEI-P012",
+          "KEI-P019",
+          "KEI-P021",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P029",
+          "KEI-P033",
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P048",
+          "KEI-P053",
+          "KEI-P061"
+        ],
+        "own_substantive_reason": "Coercion, refusal, concrete force and ignored requests are preserved with positive support and local allowance. Neither actor gets a universal certificate from good intent."
+      },
+      {
+        "concern_id": "KM09",
+        "concern": "humor and ordinary life",
+        "paragraph_ids": [
+          "KEI-P015",
+          "KEI-P016",
+          "KEI-P017",
+          "KEI-P020",
+          "KEI-P022",
+          "KEI-P023",
+          "KEI-P027",
+          "KEI-P028",
+          "KEI-P035",
+          "KEI-P041",
+          "KEI-P046",
+          "KEI-P048",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "Quiet preferences, making and company matter without danger. Comic tone explains register while leaving material work, requests and harsh words analytically active."
+      },
+      {
+        "concern_id": "KM10",
+        "concern": "relationship to school/club",
+        "paragraph_ids": [
+          "KEI-P018",
+          "KEI-P019",
+          "KEI-P020",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P028",
+          "KEI-P036",
+          "KEI-P054",
+          "KEI-P060",
+          "KEI-P062"
+        ],
+        "own_substantive_reason": "School offers knowledge and selective company; affiliation, contribution and conditional producer title differ from permanent conscription."
+      },
+      {
+        "concern_id": "KM11",
+        "concern": "relationship to Sensei",
+        "paragraph_ids": [
+          "KEI-P016",
+          "KEI-P019",
+          "KEI-P021",
+          "KEI-P024",
+          "KEI-P026",
+          "KEI-P029",
+          "KEI-P030",
+          "KEI-P031",
+          "KEI-P032",
+          "KEI-P033",
+          "KEI-P034",
+          "KEI-P035",
+          "KEI-P040",
+          "KEI-P041",
+          "KEI-P042",
+          "KEI-P043",
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P048",
+          "KEI-P049",
+          "KEI-P050",
+          "KEI-P051",
+          "KEI-P052",
+          "KEI-P053",
+          "KEI-P061"
+        ],
+        "own_substantive_reason": "Directed local requests and responses explain both chosen company and disregard. Private source keys and the event actor stay at their individual grades."
+      },
+      {
+        "concern_id": "KM12",
+        "concern": "significant peer relationships",
+        "paragraph_ids": [
+          "KEI-P008",
+          "KEI-P012",
+          "KEI-P018",
+          "KEI-P020",
+          "KEI-P021",
+          "KEI-P022",
+          "KEI-P024",
+          "KEI-P025",
+          "KEI-P026",
+          "KEI-P028",
+          "KEI-P036"
+        ],
+        "own_substantive_reason": "Classmates, Alice-related writing and GDD labor provide concrete peer contexts; no complete network, biology, universal invitation acceptance or formal reassignment follows."
+      },
+      {
+        "concern_id": "KM13",
+        "concern": "Japanese voice/register",
+        "paragraph_ids": [
+          "KEI-P017",
+          "KEI-P019",
+          "KEI-P023",
+          "KEI-P033",
+          "KEI-P034",
+          "KEI-P036",
+          "KEI-P037",
+          "KEI-P038",
+          "KEI-P041",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P049",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "Qualified positive words, address corrections, intention, character narration and choice controls retain mode limits; written Japanese does not certify performed tone."
+      },
+      {
+        "concern_id": "KM14",
+        "concern": "longitudinal development",
+        "paragraph_ids": [
+          "KEI-P005",
+          "KEI-P007",
+          "KEI-P009",
+          "KEI-P011",
+          "KEI-P013",
+          "KEI-P014",
+          "KEI-P020",
+          "KEI-P026",
+          "KEI-P034",
+          "KEI-P035",
+          "KEI-P050",
+          "KEI-P057"
+        ],
+        "own_substantive_reason": "Finite main/checkpoint and private developments are compared with documentary dates and future intentions; no universal chronological placement or recovered software chain is asserted."
+      },
+      {
+        "concern_id": "KM15",
+        "concern": "contradictions and counterevidence",
+        "paragraph_ids": [
+          "KEI-P003",
+          "KEI-P019",
+          "KEI-P021",
+          "KEI-P024",
+          "KEI-P033",
+          "KEI-P038",
+          "KEI-P045",
+          "KEI-P048",
+          "KEI-P051",
+          "KEI-P058",
+          "KEI-P059",
+          "KEI-P060",
+          "KEI-P061",
+          "KEI-P062",
+          "KEI-P063",
+          "KEI-P064",
+          "KEI-P065"
+        ],
+        "own_substantive_reason": "The argument retains boundary failures, earlier public harm and technical uncertainty alongside gifts, apology, chosen contact and allowance, then argues eight rivals concretely."
+      },
+      {
+        "concern_id": "KM16",
+        "concern": "source-class dependence of each claim",
+        "paragraph_ids": [
+          "KEI-P001",
+          "KEI-P004",
+          "KEI-P005",
+          "KEI-P006",
+          "KEI-P007",
+          "KEI-P036",
+          "KEI-P037",
+          "KEI-P038",
+          "KEI-P039",
+          "KEI-P049",
+          "KEI-P050",
+          "KEI-P055",
+          "KEI-P070",
+          "KEI-P071",
+          "KEI-P072"
+        ],
+        "own_substantive_reason": "Maintained private/event/main and selected controls are distinguished from producer primary reading, profiles, triggers, reports, inward naming, missing performance and source-specific identity debt."
+      }
+    ],
+    "existing_named_E141_relationship12": [
+      {
+        "track_id": "KR01",
+        "track": "origin / first meaningful contact",
+        "paragraph_ids": [
+          "KEI-P040",
+          "KEI-P041",
+          "KEI-P050"
+        ],
+        "own_substantive_reason": "The body receives the start of this E141 encounter, not the characters' historical first meeting. No earlier local origin or main/private placement is invented."
+      },
+      {
+        "track_id": "KR02",
+        "track": "initial asymmetry",
+        "paragraph_ids": [
+          "KEI-P041",
+          "KEI-P042",
+          "KEI-P043"
+        ],
+        "own_substantive_reason": "The giver offers while denying preparation; the adult interprets, tastes and praises. Quality/presentation control and uniqueness enjoyment create a directed local asymmetry."
+      },
+      {
+        "track_id": "KR03",
+        "track": "recurring relational grammar",
+        "paragraph_ids": [
+          "KEI-P043",
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P048",
+          "KEI-P051",
+          "KEI-P053",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "Gift perception, objection, persistent recipient pressure and qualified positive resolution recur in the local scene; comparison with private requests remains thematic, without an actor join or universal dyad."
+      },
+      {
+        "track_id": "KR04",
+        "track": "conflict pattern",
+        "paragraph_ids": [
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P046"
+        ],
+        "own_substantive_reason": "Silence and retrieval demands, cushion force, continued consumption and severe words are separate acts. Comic register does not erase the recipient's disregard."
+      },
+      {
+        "track_id": "KR05",
+        "track": "care language",
+        "paragraph_ids": [
+          "KEI-P042",
+          "KEI-P043",
+          "KEI-P045",
+          "KEI-P047",
+          "KEI-P048"
+        ],
+        "own_substantive_reason": "Making effort, replacement promise, thanks and offered other use have care value at their modes. Care can overlook the giver's present wish and cannot become medical benefit or actual replacement."
+      },
+      {
+        "track_id": "KR06",
+        "track": "trust and disclosure",
+        "paragraph_ids": [
+          "KEI-P041",
+          "KEI-P042",
+          "KEI-P043",
+          "KEI-P048",
+          "KEI-P052"
+        ],
+        "own_substantive_reason": "Concealed preparation is exposed by strong inference and followed by mistake admission and present allowance. These finite disclosures do not demonstrate complete trust, permanent repair or unrestricted permission."
+      },
+      {
+        "track_id": "KR07",
+        "track": "rivalry or hierarchy",
+        "paragraph_ids": [
+          "KEI-P041",
+          "KEI-P043",
+          "KEI-P045",
+          "KEI-P053"
+        ],
+        "own_substantive_reason": "The adult recipient's interpretation and possession conflict with the giver's presentation and retrieval authority. This is local asymmetry, without an invented formal rivalry or full hierarchy model."
+      },
+      {
+        "track_id": "KR08",
+        "track": "major rupture",
+        "paragraph_ids": [
+          "KEI-P044",
+          "KEI-P045",
+          "KEI-P046",
+          "KEI-P051",
+          "KEI-P052"
+        ],
+        "own_substantive_reason": "The actual escalation is silence/refusal/force/severe language in one encounter. It is not promoted to a major longitudinal rupture absent an earlier full dyad or subsequent history."
+      },
+      {
+        "track_id": "KR09",
+        "track": "repair or redefinition",
+        "paragraph_ids": [
+          "KEI-P047",
+          "KEI-P048",
+          "KEI-P051",
+          "KEI-P052"
+        ],
+        "own_substantive_reason": "Reinterpreted uses and present allowance lead to shared enjoyment. They support immediate accommodation, not retroactive consent, completed replacement or explicit repair of the ignored return."
+      },
+      {
+        "track_id": "KR10",
+        "track": "ordinary-life afterstate",
+        "paragraph_ids": [
+          "KEI-P048",
+          "KEI-P050",
+          "KEI-P052",
+          "KEI-P069"
+        ],
+        "own_substantive_reason": "The available afterstate is shared hidden sweets and unexpectedly good combination. Durable relationship, future gift and later comparable response remain unprinted."
+      },
+      {
+        "track_id": "KR11",
+        "track": "linguistic markers such as address-term changes",
+        "paragraph_ids": [
+          "KEI-P041",
+          "KEI-P046",
+          "KEI-P047",
+          "KEI-P049",
+          "KEI-P056"
+        ],
+        "own_substantive_reason": "The printed ケイちゃん greeting, demands, severe speech and repeated unprinted suggestions retain their modes. No observed longitudinal address change or missing adult line is supplied."
+      },
+      {
+        "track_id": "KR12",
+        "track": "Sensei's mediating role where applicable",
+        "paragraph_ids": [
+          "KEI-P043",
+          "KEI-P047",
+          "KEI-P048",
+          "KEI-P053"
+        ],
+        "own_substantive_reason": "Here Sensei is the recipient and proposer of reinterpretation, with thanks and disregard both material. The argument invents no third-party mediator role or universal mentor success."
+      }
+    ]
+  },
+  "current_distinct_body_ONLY_QA_and_actual_author_concurrence": {
+    "QA": {
+      "C_path": "private-witness:KEI-LOCATION-6DCC600490542E4E9CE7CAB5",
+      "bytes": 191730,
+      "sha256": "ff84a88fb5953c91b1d4bc591dd0b7180790ce021f7b30c6b1cc10dabbad47b1",
+      "git_blob_oid_of_actual_bytes": "c4d1d1605c47558369b16cd285493eb9e923dbcb"
+    },
+    "author": {
+      "C_path": "private-witness:KEI-LOCATION-EE44BCC3C9781BCE4BAB1432",
+      "bytes": 30522,
+      "sha256": "99873417482c1ea985dd8e07926b51ba9fd1b15d97c53901149d01f82da07e7e",
+      "git_blob_oid_of_actual_bytes": "ab70f36c41799531f814352f3cf053bebc79a616"
+    },
+    "actual_full_meaning_scope": {
+      "scope": "Personally received complete original180178/2686 lines in twelve untruncated pages, then reused that exact unchanged meaning after receiving whole11187 unique V3 qualification and whole16022 raw proof. Current191730 raw is preserved by actual complete data-only inverse/forward. This records complete current operative meaning, not a claimed fresh191730 full printed reading.",
+      "exact_previously_received_whole_V2": {
+        "C_path": "private-witness:KEI-LOCATION-1A327E9E34B46F45941A868E",
+        "bytes": 180178,
+        "sha256": "0345ddab48b7abe4f598849bff5634d95d25353ed9390c654a018b0261b9803f",
+        "git_blob_oid_of_actual_bytes": "de9c03c514d6dc910ae6156844bb31d78d7ad24d",
+        "complete_lines": 2686
+      },
+      "all_twelve_actual_whole_V2_pages": [
+        {
+          "page": 1,
+          "lines": [
+            1,
+            297
+          ],
+          "capture": "52cd18"
+        },
+        {
+          "page": 2,
+          "lines": [
+            298,
+            493
+          ],
+          "capture": "cf6325"
+        },
+        {
+          "page": 3,
+          "lines": [
+            494,
+            680
+          ],
+          "capture": "0a8509"
+        },
+        {
+          "page": 4,
+          "lines": [
+            681,
+            877
+          ],
+          "capture": "6c7872"
+        },
+        {
+          "page": 5,
+          "lines": [
+            878,
+            1068
+          ],
+          "capture": "f67490"
+        },
+        {
+          "page": 6,
+          "lines": [
+            1069,
+            1257
+          ],
+          "capture": "d580e5"
+        },
+        {
+          "page": 7,
+          "lines": [
+            1258,
+            1449
+          ],
+          "capture": "f81cdf"
+        },
+        {
+          "page": 8,
+          "lines": [
+            1450,
+            1645
+          ],
+          "capture": "059b46"
+        },
+        {
+          "page": 9,
+          "lines": [
+            1646,
+            1837
+          ],
+          "capture": "29f9f2"
+        },
+        {
+          "page": 10,
+          "lines": [
+            1838,
+            2312
+          ],
+          "capture": "5db577"
+        },
+        {
+          "page": 11,
+          "lines": [
+            2313,
+            2635
+          ],
+          "capture": "20d009"
+        },
+        {
+          "page": 12,
+          "lines": [
+            2636,
+            2686
+          ],
+          "capture": "12dd26"
+        }
+      ],
+      "unique_V3_whole_readback_capture": "b69a4f",
+      "unique_V3_whole_readback_UTF8_bytes": 11187,
+      "whole_preservation_proof_capture": "d7d1fd",
+      "whole_preservation_proof_UTF8_bytes": 16022,
+      "pins_before_new_content_capture": "14a2dd",
+      "actual_operative_new_clauses_and_data_only_recovery_capture": "470945",
+      "actual_current_body_source6_and_legacy_blob_NOOP_pin_checks_capture": "60a106",
+      "earlier_necessary_selected_source_and_legacy_schema_recall_capture": "71c8e5",
+      "new_semantic_receiving_from_whole_copy_hash_or_data_reconstruction": false
+    }
+  },
+  "O094_finite_comparison_precision": {
+    "owner_id": "O094",
+    "existing_source_copy": {
+      "C_path": "private-witness:KEI-LOCATION-CF6700FECC4A4213903D7723",
+      "bytes": 28418,
+      "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+      "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+    },
+    "actual_own_selected_meaning_scope": [
+      81,
+      100
+    ],
+    "capture": "cfbf37",
+    "maintained_L98": "Miyo resents praise for criminal talent, wanted romance novels, and explicitly refuses Teacher's request to read one.",
+    "role": "Corrects only newKei counter; no demonstrated authorship/writing-refusal claim. Frozen common O094 originals are unchanged. This is existing common-source comparison context, not a seventh newcore or new admission."
+  },
+  "ordinary_goods_intrinsic": true,
+  "narrow_controls": {
+    "61767": "ONLY_SIX_O025_O071_O073_O075_O079_O087",
+    "59334": "ONLY_OLD_GSC16_COFFEE_ACTOR_DIRECTION;adult_tailored_coffee_to_Ayumu;Ayumu_available_grapefruit_chocolate_to_adult;no_global_burden_cure",
+    "original105": "Own prior complete report receiving reused; underlying original26WHOLE79SELECTED remain separately attributed."
+  },
+  "dated_author_composition_stage": {
+    "status": "SAVED_AUTHOR_NEW_TARGET_ARGUMENTS_OWN_WHOLE525_REGISTER_CONTROL_RECEIVING_PENDING_AT_COMPOSITION",
+    "scope": "One existing requiredCHAR zero13/ordinal14/CSV15/home13 plus existing namedgift zero4/ordinal5/CSV6/home250 inside same parent. No newREL/home,identity/model/sourceadmission/count.",
+    "future_component_QA": "PENDING_NOT_GRANTED_BY_BODY_ONLY_QA",
+    "ROOT_adoption_install_publication": "PENDING",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "merge": "RESERVED"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "fixed355_29_25_384_788": true
+}

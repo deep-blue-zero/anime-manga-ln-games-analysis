@@ -1,0 +1,276 @@
+{
+  "schema": "INDEPENDENT_HIROMI_CURRENT167_LITERAL42_NEW105_SOURCE1_EXACT8_COMPLETE_MECHANICAL_GRAPH_ENVELOPE_AND_SCOPE_QA_V1",
+  "reviewer": "/root/m008_composition_review",
+  "author": "/root/minato_105_derivative",
+  "UTC": "2026-10-14T02:03:30.099311+00:00",
+  "current_manifest": {
+    "bytes": 28421,
+    "sha256": "66b8c43b1cbf9d36ad78ded0d826203b5bd355ce7deb0efc56a25bce50cd315b",
+    "git_blob_oid_of_actual_bytes": "6bdd35281abd48d144b68c0de3dd84eface2862c"
+  },
+  "check_count": 2466,
+  "failure_count": 0,
+  "failures": [],
+  "full_saved_check_segments": [
+    {
+      "path": "HIROMI-QA-CONTROL-965000492b7f49e7",
+      "bytes": 43726,
+      "sha256": "64e2dc063032c1bad374e77e044ae568ac6f25414d8699a5e2e315be642b0a72",
+      "git_blob_oid_of_actual_bytes": "38d3cd80a88ddca22c884294ceb44feed1857bdf"
+    },
+    {
+      "path": "HIROMI-QA-CONTROL-492363697bd10e94",
+      "bytes": 55855,
+      "sha256": "7bbed2e9486a371cd461b914b57f6d7d022ecb735c38f38d3c6993c1af996983",
+      "git_blob_oid_of_actual_bytes": "dc72ba3bf48f66b297b7a2e8ad4996abf09f5880"
+    },
+    {
+      "path": "HIROMI-QA-CONTROL-64d91c734369f8a7",
+      "bytes": 45288,
+      "sha256": "597a87ec258a139abe331767fd3484a6fe489faeb9429ff7ee0a51f9664eed94",
+      "git_blob_oid_of_actual_bytes": "1ea043830d184c12ff57cc3affbca9c4d9dd4a55"
+    },
+    {
+      "path": "HIROMI-QA-CONTROL-9dd6ea0ba350ec05",
+      "bytes": 133526,
+      "sha256": "4f4fcca90db6ad0d32dd7915c6126162d38435fbc336446301e2eca4d0122534",
+      "git_blob_oid_of_actual_bytes": "c7465524198e357dc86e8aae7b5dac400a0bebef"
+    },
+    {
+      "path": "HIROMI-QA-CONTROL-4f9141683420d804",
+      "bytes": 133216,
+      "sha256": "19b30004e94409e2bafb8e229e78a9567bc090d01aca2ca441d95883af5ceacf",
+      "git_blob_oid_of_actual_bytes": "9060a763d230ad388ab1bd5765a9e05ec1292712"
+    }
+  ],
+  "executed_original_recoveries": [
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-a2d07073fc3b618e",
+      "actual_original": {
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+      },
+      "actual_recovered": {
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-bfa3e616c5045c85",
+      "actual_original": {
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+      },
+      "actual_recovered": {
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-56c08387092efed9",
+      "actual_original": {
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+      },
+      "actual_recovered": {
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-723309976f97dec7",
+      "actual_original": {
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+      },
+      "actual_recovered": {
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-f7a3c8b849ffbced",
+      "actual_original": {
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+      },
+      "actual_recovered": {
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-f245fdfe7106ab81",
+      "actual_original": {
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+      },
+      "actual_recovered": {
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-69c82944be546335",
+      "actual_original": {
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+      },
+      "actual_recovered": {
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-80414f2ded253850",
+      "actual_original": {
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+      },
+      "actual_recovered": {
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-4f44442a62c46623",
+      "actual_original": {
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+      },
+      "actual_recovered": {
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-dfac1b7ac83bd6b9",
+      "actual_original": {
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+      },
+      "actual_recovered": {
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "COMMON105_INPUT_FULL_ORIGINAL_ENVELOPE",
+      "path": "HIROMI-QA-CONTROL-f2130a93b25ed49e",
+      "actual_original": {
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+      },
+      "actual_recovered": {
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "M008_V2_COMPLETE_SOURCE_CARRIER_WITH_RESIDUAL_KEYS",
+      "path": "HIROMI-QA-CONTROL-b1b23982f6301c6c",
+      "actual_original": {
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      "actual_recovered": {
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "M008_V2_COMPLETE_SOURCE_CARRIER_WITH_RESIDUAL_KEYS",
+      "path": "HIROMI-QA-CONTROL-5fa1bb600fc1b257",
+      "actual_original": {
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      "actual_recovered": {
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "M008_V2_COMPLETE_SOURCE_CARRIER_WITH_RESIDUAL_KEYS",
+      "path": "HIROMI-QA-CONTROL-5e9d1df49eceba2c",
+      "actual_original": {
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      },
+      "actual_recovered": {
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      },
+      "byte_equal": true
+    },
+    {
+      "kind": "CORE_TEN_QUESTION_RECEIPT_EIGHT_PATH_SCALARS",
+      "path": "HIROMI-QA-CONTROL-499f210a019dcc1c",
+      "actual_original": {
+        "bytes": 9616,
+        "sha256": "750df84f97328eba21fe6e9d2a5138406807e26d8082b08b110104154f9831e6",
+        "git_blob_oid_of_actual_bytes": "8c129d4b0dba4b6fc08aec15dcd6c016b1c79efc"
+      },
+      "actual_recovered": {
+        "bytes": 9616,
+        "sha256": "750df84f97328eba21fe6e9d2a5138406807e26d8082b08b110104154f9831e6",
+        "git_blob_oid_of_actual_bytes": "8c129d4b0dba4b6fc08aec15dcd6c016b1c79efc"
+      },
+      "byte_equal": true
+    }
+  ],
+  "current_graph_binding_count": 826,
+  "public_decoded_executor_hygiene_findings": [],
+  "scope": "Independent mechanical checks only, not semantic/primary/source receiving credit. Complete body-only QA remains prior scope; complete105 manual receiving is separate. C-only no canonical/runtime/model/ROOTadoption."
+}

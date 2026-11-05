@@ -1,0 +1,1150 @@
+{
+  "schema": "RELATION_SIX_ROLE_PUBLIC_FORM_PREPARATION_V1",
+  "series": "BLUE_ARCHIVE",
+  "scope": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001;Sumire/baseballReiCH0245",
+  "generation": "V1",
+  "authority": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "composer": "/root/current_preflight_requirements",
+  "preparation_date": "2026-11-04",
+  "lifecycle_state": "PUBLIC_FORM_PREPARATION_20261104_PRIVATE_CONNECTED20_ROOT_ACCEPTED",
+  "review_at_creation": "Private body and plan accepted at their exact recorded scopes; new public bytes await different complete public-form QA and Root actual new-byte adjudication. Stable preparation-date state, no future publication/count certificate.",
+  "history_qualification": "Every dated original actor/date/null/source grade remains. Original pending/counters/heads/filenames/private tuple scopes are original creation history; current portable bindings live only in top component_refs/current registry/geometry. No new source/course/identity/named/extraREL/model/install/publication/count credit.",
+  "artifact_role": "PEER",
+  "component_refs": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14075,
+      "sha256": "014b5b1d58cc5cf99f8380520b6e79e7f9ab9c783f55908fa97d7817c6ddde53"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 97357,
+      "sha256": "26a9eba4e38c3bfc698e7eb7a7ef3c433c667f150ac907c5439d358e8500d6a1"
+    }
+  ],
+  "dated_records": {
+    "Q01": {
+      "record_id": "Q01",
+      "original_filename": "OWN_RELATION_QA_PROSPECTIVE12_ACTUAL_ROLES_AND_SOURCE_EXPOSURE_BEFORE_CURRENT_BODY_V1.json",
+      "original_file_bytes": 3818,
+      "original_file_sha256": "b66ca955d7b53c647cbf6050df84e5e8b6bdbd9275097202110b309a07a66ef0",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "saved_at_utc": "2026-11-04T13:33:51.710373+00:00"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "93569bfc3aaae673675021ebe6b0a043a30a2239bb4d5bc384f8ffb8479e716e"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_DISTINCT_COMPLETE_RELATION_BODY_QA_PROSPECTIVE12_AND_EXPOSURE_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "saved_at_utc": "2026-11-04T13:33:51.710373+00:00",
+        "prior_roles": "Earlier Sumire finite component/source-use precision QA, Yuzu/full component and other character readiness/body/public-form/metadata work are disclosed. I am not author of this frozen relation. I have not yet read this current relation body or its current selected240 course. I claim no reusable G330/E832/E845 source attendance from general familiarity or old derivative references; any genuinely reusable source scope would require an exact own prior receipt and unchanged pin.",
+        "Root_supplied_leads": "Ordinary shared watching/reciprocal expertise/care, serious refusal/stop case; G330 inherited footer compression under O023/SQ02/SQ04/Rei food-mode; E832 diversion is not permission; E845 win and next-day defeat do not prove causal training/global reform. These are supplied leads, not own discoveries.",
+        "questions": [
+          {
+            "id": "RQ01",
+            "question": "What reciprocal, recipient-specific relation is argued beyond common sports membership or shared appearances?"
+          },
+          {
+            "id": "RQ02",
+            "question": "How do the two actors differently choose goals and recognize the other as an end rather than a training resource?"
+          },
+          {
+            "id": "RQ03",
+            "question": "What do shared watching and ordinary enjoyment mean intrinsically, including whose tastes or expertise are actually supported?"
+          },
+          {
+            "id": "RQ04",
+            "question": "What exact requests, offers, responses and care acts are shown, reported, proposed or left incomplete, with each actor/recipient distinct?"
+          },
+          {
+            "id": "RQ05",
+            "question": "Where does resistance, refusal, a stop or diversion seriously limit reciprocal authority, and does the argument honor that limit?"
+          },
+          {
+            "id": "RQ06",
+            "question": "Does G330 current detailed evidence and its operative footer/source-use guard preserve more nuanced meanings than inherited compression?"
+          },
+          {
+            "id": "RQ07",
+            "question": "Does E832 maintain a difference between diverting action and permission, consent, harmlessness or successful boundary learning?"
+          },
+          {
+            "id": "RQ08",
+            "question": "What does E845 establish about win, next-day defeat and encouragement, without a causal training test or global behavioral reform?"
+          },
+          {
+            "id": "RQ09",
+            "question": "Are private/food/combat/speech modes and knowledge boundaries preserved between Sumire and baseball Rei rather than generic peers?"
+          },
+          {
+            "id": "RQ10",
+            "question": "How does local sequence develop the relation without a global chronology, transferred interiority or completed future promise?"
+          },
+          {
+            "id": "RQ11",
+            "question": "Do all20 paragraphs form a sustained distinct directed argument, with source routes/joins and twelve method dimensions plus eight serious rivals genuinely supported?"
+          },
+          {
+            "id": "RQ12",
+            "question": "What is the precise finite endpoint and remaining limit, and does the body avoid new named/identity/extraREL/count/model/primary/native/raw/AV claims?"
+          }
+        ],
+        "bounds": "Only new own C Q writes, exact positive allowed captures/pins. Source prose receiving limited to declared selected240 maintained addresses plus complete pertinent operative SOURCE qualifiers and the two accepted monographs. No foreign helper execution/import, additional units/admission/primary/native/raw/AV/private9/opaque/oldheldR or N/Git/provider/shared writes. Material finding freezes with findings; no self-repair.",
+        "stage": "Prospective before new current body/course receiving; no acceptance/count/publication."
+      }
+    },
+    "Q02": {
+      "record_id": "Q02",
+      "original_filename": "OWN_ACTUAL_SELECTED240_TWO_WHOLE_ACCEPTED_MONOGRAPHS_QUALIFIERS_METHOD_AND_RECEIVING_BOUNDS_V1.json",
+      "original_file_bytes": 10338,
+      "original_file_sha256": "a649efeaffb266018484ce51fe5d11dcb309ed5befb47126eed16cb9067e5c64",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "19c5bdc11e9306b224e0461bcdc95e009c61285cf6601ec4f1c8bddf21fb1ee1"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "DISTINCT_RELATION_BODY_QA_ACTUAL_PERSONAL_COURSE_AND_LIMITS_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "prospective": "3818/b66ca955d7b53c647cbf6050df84e5e8b6bdbd9275097202110b309a07a66ef0 saved before new body/source receiving.",
+        "maintained_source_rows": [
+          {
+            "source_id": "G330",
+            "C_source_path": "DATED-LOCATOR-20A9EE05D6842779",
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+            "bytes": 28668,
+            "sha256": "4b2cc0b4808e617e18c1bf3e788da5357f4c20fcb87bceeabb9b6f73e22e4d69",
+            "whole_file_pin_is_not_whole_receiving": true,
+            "personally_received_inclusive_physical_ranges": [
+              [
+                1,
+                20
+              ],
+              [
+                71,
+                123
+              ],
+              [
+                125,
+                150
+              ],
+              [
+                162,
+                176
+              ]
+            ],
+            "actual_selected_addresses": 114,
+            "headers": 20,
+            "substantive_selected_addresses": 94,
+            "grade": "NEW_OWN_SELECTED_MAINTAINED_ANALYTICAL_CONTEXT_ONLY",
+            "own_consequential_meaning_and_limit": "Rei owns the particular home-run aspiration; Sumire both responds and overreaches. Break/session ending/shared watching coexist with repeated means-specific objections. Device objections and actor-text seams prevent simple consent or universal expertise. Retained176 food/break compression is governed by current O023/SQ02/SQ04 and Rei food-mode, not adopted literally."
+          },
+          {
+            "source_id": "E832",
+            "C_source_path": "DATED-LOCATOR-45F94A4C91A56BFD",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23709,
+            "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+            "whole_file_pin_is_not_whole_receiving": true,
+            "personally_received_inclusive_physical_ranges": [
+              [
+                1,
+                20
+              ],
+              [
+                67,
+                108
+              ],
+              [
+                110,
+                115
+              ]
+            ],
+            "actual_selected_addresses": 68,
+            "headers": 20,
+            "substantive_selected_addresses": 48,
+            "grade": "NEW_OWN_SELECTED_MAINTAINED_ANALYTICAL_CONTEXT_ONLY",
+            "own_consequential_meaning_and_limit": "The Training Club diversion is useful to others, but Rei still wants quit/menu release and objects to the summit sprint. Chihiro offers her own trio an exit and receives a continuation answer. Arrival/view are positive; breakfast remains future and body gain is simulator-only. This is not permission transfer, a safety test or durable lifestyle conversion."
+          },
+          {
+            "source_id": "E845",
+            "C_source_path": "DATED-LOCATOR-2B02A6A44CD61C86",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 32500,
+            "sha256": "236dfb06f0ed33f65b5f478a04350d74b5ef8a36568b22ff7f95b1aa1caa9252",
+            "whole_file_pin_is_not_whole_receiving": true,
+            "personally_received_inclusive_physical_ranges": [
+              [
+                1,
+                20
+              ],
+              [
+                78,
+                114
+              ],
+              [
+                130,
+                130
+              ]
+            ],
+            "actual_selected_addresses": 58,
+            "headers": 20,
+            "substantive_selected_addresses": 38,
+            "grade": "NEW_OWN_SELECTED_MAINTAINED_ANALYTICAL_CONTEXT_ONLY",
+            "own_consequential_meaning_and_limit": "Chosen-self/no-deciding speech is Sumire statement, alongside negotiation and noisy Morse limits. Rei chooses amid distinct Hanae/Sensei/Sumire contributions, actually wins, declines a contract for her own club, then loses to a machine and requests rest. Success does not isolate training causation, certify a clinical result or complete reform."
+          }
+        ],
+        "totals": {
+          "selected_maintained_addresses": 240,
+          "header_addresses": 60,
+          "substantive_selected_addresses": 180,
+          "selected_files": 3,
+          "whole_underlying_maintained_accounts": 0,
+          "accepted_character_analyses_whole": 2,
+          "whole_character_analysis_lines": 336,
+          "whole_character_analysis_paragraphs": 117
+        },
+        "accepted_companions": [
+          {
+            "C_source_path": "DATED-LOCATOR-3CAF7873D19786C8",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUMIRE_CHARACTER_MONOGRAPH.md",
+            "bytes": 25661,
+            "sha256": "602dd505b980ba18b4ca651e898d60abf6c4d3e8c9830e121415dec430d44681",
+            "actual_whole_lines": 155,
+            "literary_paragraphs": 52,
+            "grade": "NEW_OWN_WHOLE_ACCEPTED_MAINTAINED_CHARACTER_ANALYSIS_NOT_ITS_UNDERLYING_SOURCE_COURSE"
+          },
+          {
+            "C_source_path": "DATED-LOCATOR-36AB1B854875CDD1",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REI_BASEBALL_CH0245_BOUNDED_CHARACTER_MONOGRAPH.md",
+            "bytes": 36632,
+            "sha256": "c81171441d97a67a18c9388101893249a4de8b76fc739e3f20860d9bb5361966",
+            "actual_whole_lines": 181,
+            "literary_paragraphs": 65,
+            "grade": "NEW_OWN_WHOLE_ACCEPTED_MAINTAINED_CHARACTER_ANALYSIS_NOT_ITS_UNDERLYING_SOURCE_COURSE"
+          }
+        ],
+        "operative_qualifier_receiving": {
+          "Sumire": "Current entire actor/mode qualification object plus SQ02/SQ04 complete question-answer values, original grades and dating; O023 explicitly makes Rei the break recipient/food offerer and Sumire the grant/allowance/shared-watching actor. Other qualification text is received as boundaries, not fresh underlying story attendance.",
+          "Rei": "Complete current_common_source_use_qualifications, current_food_mode_precision, actual source total/overlap and dated body metadata qualification. Source12/1839 remains the original reader course.",
+          "pin_sources": [
+            {
+              "C_source_path": "DATED-LOCATOR-D9E5EE182C43C6C8",
+              "bytes": 46774,
+              "sha256": "866aab751189cf94cdb6fdf5bb144b74ed5ab681e14a75dffdf3e342037fce94"
+            },
+            {
+              "C_source_path": "DATED-LOCATOR-2080B77AD3164AAC",
+              "bytes": 44479,
+              "sha256": "febcc3e1596aad3a8af72a9395decdfbde5b84be1167749c12f316b16c5799ee"
+            }
+          ]
+        },
+        "framework_personally_received": {
+          "method": "Current53414/c8afa32d... physical380–425: selective narrative significance,12 relationship dimensions, scene context and no co-occurrence score/chronology shortcut.",
+          "architecture": "Current52261/848c406c... physical346–356/577–625/645–701: narratively significant relationship home, activePhase3 and evidence/authority/file responsibility limits."
+        },
+        "actual_receiving_trace": [
+          "Whole13991 final body/58lines/20 paragraphs fromYAML through literaryclosing received before underlying selectedcourse.",
+          "G330 exact114 addresses; E832 exact68; E845 exact58 received in full at the declared selected scope, no clipped display.",
+          "Whole Sumire155/52 received once; whole Rei181/65 through two complete pages1–96 and97–181. These are analyses, not private primary intake.",
+          "Whole22493 SOURCE,26109 unique author meanings and all20 map directions/modes/ends/evidence/limits personally received. Exact literal map texts equal the already-read body; all12 map dimension values equal the already full-received author12. Equality supports reuse, not new meaning credit."
+        ],
+        "no_borrowed_course": "This current selected240 is my actual receiving, not author240 by proxy. I claim no earlier reusable G330/E832/E845 attendance. Author336/950/1839/common105/primary/native/raw/AV remain separately attributed; two actual newly read monographs do not grant their source scope. No additional story units/BOND/private/V002/futureE or diagnostic media were opened.",
+        "scope": "Existing P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001 only. No identity/divingRei join/named/extraREL/model/adoption/count/install/publication; all14OPEN/355/29 unchanged."
+      }
+    },
+    "Q03": {
+      "record_id": "Q03",
+      "original_filename": "OWN_COMPLETE_RELATION20_LITERARY_REASONS_12_ANSWERS_12_METHOD_DIMENSIONS_8_RIVALS_AND_REFERENCE_LIMITS_V1.json",
+      "original_file_bytes": 30936,
+      "original_file_sha256": "5cffd4b8a6539562aa242506638cb253178b8792b5b06198fe03ae556a28ae2e",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "date": "2026-11-04"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "b97df9007f487d54114d7835814b171ed53b5cd92e96c9cf94012b8fbdbc6c7a"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "DISTINCT_COMPLETE_SUMIRE_BASEBALL_REI20_RELATION_QA_OWN12_ALL20_METHOD12_RIVALS8_REFERENCES_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "date": "2026-11-04",
+        "decision": "PASS_WITH_EXPLICIT_SOURCE_AND_STAGE_LIMITS_FOR_ROOT_COMPLETE_BODY_RECEIVING_ONLY",
+        "material_findings": [],
+        "independence": "Different from current author /root/current_preflight_requirements. Prior Sumire finite/source-use/public-metadata and other-character roles disclosed in prospective. Current full body/course personally received; no claim of blind absence of Root supplied leads or new author950/1839 attendance.",
+        "overall_literary_judgment": "The body develops a single relational question: help chosen for one purpose must remain answerable to this recipient changing judgment of the means. Ordinary watching, reciprocal rules and offers make the association worth wanting; device/menu/rest cases keep consent and pressure unresolved. Its local achievement and ordinary afterstate do not become a completed developmental or efficacy theorem. The body is distinct from both accepted monographs: it uses their overlapping materials to test this recurrent dyad problem, not concatenate profiles.",
+        "own12_answers": [
+          {
+            "id": "RQ01",
+            "own_reason": "The relation is selective and substantive: repeated requests, actual companionship and task-specific objections across GROUP/EVENT contexts create a stable question about expertise answering the recipient. This is more than a named pair or two profiles. Its existing required dyad is preserved; numerical co-presence is never its justification.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ02",
+            "own_reason": "Rei seeks a particular beautiful home run; Sumire often promotes general development. G33075/83/89 and E84578/96 give both positive purpose and nonidentity of ends. The body repeatedly returns the criterion of usefulness to Rei without denying real senior capacity.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ03",
+            "own_reason": "Paragraphs5–9 dwell on watching, rules, food offer/allowance and wanted company before proof of batting benefit. G33097–107 gives explicit enjoyment and domain knowledge. This is intrinsic ordinary meaning, not a proxy for future performance; Sumire consumption and an acted purchase remain unprinted.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ04",
+            "own_reason": "Rei requests/affirms/teaches/offers and later objects; Sumire accepts/prescribes/grants a pause/ends a session/enjoys company and later overrides. The body preserves each answer at its own time and mode. Temporary instruction and continuation do not become permanent membership, blanket permission or complete trust.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ05",
+            "own_reason": "The strongest stop test is not an abstract warning: G330111–113 contrasts finish with cannot stop; E83283 directly refuses Rei menu exit; E845110 renews demands after a day-off request. Paragraphs10–12/18 leave those failures unresolved while paragraph4 retains the actual break. No joke, gratitude or win renders refusal optional.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ06",
+            "own_reason": "G330176 compresses the parent history misleadingly if read alone. The current operative O023/SQ02/SQ04 and Rei food-mode explicitly distinguish the granted break, Rei food interest/treat offer, Sumire allowance and Sumire shared watching. Paragraphs4/8 and their qualifier joins honor that current interpretation without rewriting or pretending to repair the retained source.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ07",
+            "own_reason": "Paragraphs11–13 distinguish the helpful Training Club diversion, Veritas praise and Sensei inward mismatch from Rei own stop request. Chihiro trio choice is a different decision with a different recipient; it cannot validate the sprint imposed on Rei. Actual view/arrival remain alongside protest, with future breakfast and simulator-only gain bounded.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ08",
+            "own_reason": "E845104–110 supplies both narrated grand slam/joy and following machine defeat. The body preserves actual success without reliable skill or a causal training experiment; it keeps Hanae encouragement, Sensei tactics/contact and Sumire contribution separate. Moderation speech is tested against later rest override rather than treated as fulfilled ethical reform.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ09",
+            "own_reason": "The subjects remain Sumire and baseball Rei CH0245. The argument does not acquire private knowledge from a common source, interpret food permission as eating, transfer adult shoulder contact to the coach or treat adjacent labels as heard performance. Other club members/adults retain independent actions and qualified modes.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ10",
+            "own_reason": "G330 request→outing→device, E832 own outing order and E845 explicit next morning each remain local. Paragraph19 explicitly declines a single reform calendar. An unacted intention not to return is neither major rupture nor completed repair; post-outing assent can coexist with later answer changes.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ11",
+            "own_reason": "All20 paragraphs progress an individual relational claim rather than restating both biographies. The map source joins match the actual source directions and finite endpoints; all12 method dimensions receive substance or honest absence, and all eight rivals confront positive and contrary cases. Technical metadata stays outside the literary closing.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          },
+          {
+            "id": "RQ12",
+            "own_reason": "The ending offers two goods—asking for help and retaining a present answer—as an interpretive standard, not a demonstrated stable future. No source/native/raw/AV admission, model/clinical or safety claim, named duty or extra relationship completion is smuggled in. This QA judges only the frozen C body; Root adoption and all public/operational work remain separate.",
+            "judgment": "SUPPORTED_AT_DECLARED_MAINTAINED_GRADE"
+          }
+        ],
+        "all20_particular_paragraph_judgments": [
+          {
+            "paragraph_id": "SRR001",
+            "body_line": 20,
+            "actual_literal_sha256": "309c8a317f35c01a92d4090ea5da5d4819a79d5de8270e1136a5722021387e7a",
+            "own_substantive_reason": "The opening makes a contestable dyadic thesis and supplies actual contrary acts immediately. Its question concerns expert answerability, not proof that the pair already solved it.",
+            "personally_received_source_loci": "G33071–113;E84596–110",
+            "own_actor_mode_and_endpoint_limit": "Wanted goal/help, actual pause/company, recurring pressure; no unlimited compact.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR002",
+            "body_line": 22,
+            "actual_literal_sha256": "3bf1b07b70ce0503181019013765861dd48af5eab6d4ebc8644d3f7d73dbe0eb",
+            "own_substantive_reason": "The referral matters because a senior admits a specific competence limit and Rei actively requests temporary help. That establishes this received coaching beginning without inventing first contact.",
+            "personally_received_source_loci": "G33071–85",
+            "own_actor_mode_and_endpoint_limit": "Referral/request/acceptance; no first-ever meeting or blanket future agreement.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR003",
+            "body_line": 24,
+            "actual_literal_sha256": "55c64302d6b19dfe2d429b1e9a872739e90e285c4af4b3d24ec16d0372a06c3c",
+            "own_substantive_reason": "The asymmetry is precisely pace and training knowledge. Rei own batting criterion remains a legitimate check on prescriptions, so the paragraph avoids both passive pupil and useless expert caricatures.",
+            "personally_received_source_loci": "G33083–89",
+            "own_actor_mode_and_endpoint_limit": "Training starts before readiness; efficacy remains character explanation.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR004",
+            "body_line": 26,
+            "actual_literal_sha256": "c7aff15732a502186dcdc21e72d35c7fc389282a834e40cf67acaa84d33cf82a",
+            "own_substantive_reason": "Moving final sets and the actual granted break are genuinely different actions. Credit for listening is due locally, while the concession does not settle repeated escalation. Rei receives the break.",
+            "personally_received_source_loci": "G33087;O023/SQ02",
+            "own_actor_mode_and_endpoint_limit": "Count/praise/repeated endpoint followed by granted pause; no general reform.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR005",
+            "body_line": 28,
+            "actual_literal_sha256": "68e8568d00be0cf3ccff46bd2dcd4299ae7550cd4785355efd583328b8c0235d",
+            "own_substantive_reason": "Ending the session changes what the senior is available to share. The outing directs attention toward Rei baseball world rather than merely another exercise, with no home-run result required.",
+            "personally_received_source_loci": "G33093–103",
+            "own_actor_mode_and_endpoint_limit": "Session ends/venue changes in local sequence; no assumed foot journey or causal benefit.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR006",
+            "body_line": 30,
+            "actual_literal_sha256": "840bbb34909801be34c721480959a64a6f368078fcd4dc31a6bd7ff51c49ab13",
+            "own_substantive_reason": "Sparse quiet spectating is sustained as a good in itself. Rei attachment to this setting and Sumire explicit shared-watching enjoyment remain nonidentical reasons to be together.",
+            "personally_received_source_loci": "G33097–107",
+            "own_actor_mode_and_endpoint_limit": "Actual company/pleasure; no meal or athletic-result condition.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR007",
+            "body_line": 32,
+            "actual_literal_sha256": "3aba348b02e69fc0d98e8009fabaf26c7f8e2fa82c411f6642c4c68454d529a7",
+            "own_substantive_reason": "Rei rule correction is not decorative reciprocity: it limits what Sumire coaching expertise can decide. The paragraph retains seniority while making domain knowledge move toward the senior.",
+            "personally_received_source_loci": "G33099–107/144–150",
+            "own_actor_mode_and_endpoint_limit": "Rule correction and source-attribution guard; no complete hierarchy reversal.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR008",
+            "body_line": 34,
+            "actual_literal_sha256": "14a7b150e1ca63020d1e92b18854028067fd5ff319466f6a09ea52ba1396794a",
+            "own_substantive_reason": "Food receives full recipient/mode precision. Rei wants local food and offers a treat; Sumire permits one hotdog and states dietary claims. The paragraph expressly withholds Sumire eating and purchase, preserving ordinary meaning without a fabricated afterstate.",
+            "personally_received_source_loci": "G33099/103;O023/SQ04;Rei food-mode",
+            "own_actor_mode_and_endpoint_limit": "Offer/allowance and explicitly enjoyed company, not consumed Sumire meal.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR009",
+            "body_line": 36,
+            "actual_literal_sha256": "42bf0693df254b6e29c11fe39b53e5fdad097ff865234741214437dbe2101d09",
+            "own_substantive_reason": "The renewed answer is allowed to be sincerely positive without becoming future consent. That lets later refusal concern a different method rather than making it evidence that the earlier pleasure was false.",
+            "personally_received_source_loci": "G330103–113/144–150",
+            "own_actor_mode_and_endpoint_limit": "Local continuation agreement; no exhaustive private disclosure or permanent membership.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR010",
+            "body_line": 38,
+            "actual_literal_sha256": "473db2deb7c856edb4852b1d4bbac3b8bdf764088920a73b6e363f11a794ec69",
+            "own_substantive_reason": "The device is the strongest distinction between completing and being able to stop. Its explanation and Rei objection are enough for a relational conflict; activation, release and safety are correctly withheld, as is enacted departure.",
+            "personally_received_source_loci": "G330111–123",
+            "own_actor_mode_and_endpoint_limit": "Displayed/explained device plus objection/intention; no completed rupture or repair.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR011",
+            "body_line": 40,
+            "actual_literal_sha256": "3c887c4814b2d7a4b215c2c1a54f1252347a5823462f197a8b44d95fa87c13d2",
+            "own_substantive_reason": "Public usefulness and the pupil answer are separately owned. Diversion helps the party but cannot answer Rei stop request; the parent account explicitly supports Sumire menu refusal and repeated mismatch.",
+            "personally_received_source_loci": "E83281–83/93–108",
+            "own_actor_mode_and_endpoint_limit": "Actual diversion, reported soreness/objections and denied exit; no safety certification.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR012",
+            "body_line": 42,
+            "actual_literal_sha256": "80ca390c3bab4c0198657eac5593105b56116e27344fa09dfd914221c6778d0b",
+            "own_substantive_reason": "The comparison stays recipient-specific. Chihiro offers her trio an exit and receives its answer; Sumire imposes another sprint on Rei. Shared scenery cannot turn one decision into another pupil permission.",
+            "personally_received_source_loci": "E83285–89/93–108",
+            "own_actor_mode_and_endpoint_limit": "Trio continuation versus Rei protest; no universal outing assent.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR013",
+            "body_line": 44,
+            "actual_literal_sha256": "6d2222f3707bff6d7d2c7746b23a3c1881bf3bc213bc4cf0ffc7455567bc7a4e",
+            "own_substantive_reason": "Positive arrival and a view need not erase how the party got there. The text takes care not to consume the proposed breakfast or transfer a simulator character gain into Rei body, preserving both pleasure and objection.",
+            "personally_received_source_loci": "E83285–91/110–115",
+            "own_actor_mode_and_endpoint_limit": "Arrival/view actual; food future; game-character gain only.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR014",
+            "body_line": 46,
+            "actual_literal_sha256": "448bec7e5c800e59701da25323693a9f36bf637433ab9d94bab0b2753960b973",
+            "own_substantive_reason": "A chosen-self principle is evaluated as speech with practical limits. Negotiation and noisy Morse examples keep Sumire particular rather than all-knowing, and the stated decisional limit supplies a standard her later conduct may fail.",
+            "personally_received_source_loci": "E84578–98",
+            "own_actor_mode_and_endpoint_limit": "Stated principle/limited capabilities; no completed global ethical lesson.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR015",
+            "body_line": 48,
+            "actual_literal_sha256": "c5a5d187913c30bdbf6ad786c5e1da2bfce9a4e08d1cbda6650683c2211cc8ac",
+            "own_substantive_reason": "Support is distributed concretely so that coach care does not monopolize Rei success or absorb Sensei physical pressure. Rei aesthetic/team aim still gives the attempted act its own destination.",
+            "personally_received_source_loci": "E84578–106",
+            "own_actor_mode_and_endpoint_limit": "Hanae cheers;Sensei tactics/contact;Sumire specific help;Rei decision—not interchangeable deeds.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR016",
+            "body_line": 50,
+            "actual_literal_sha256": "b699de7becc7cbce250a79850a39a7688ceca7b4dffcbc16365f14c0b5fec2a0",
+            "own_substantive_reason": "The singular success is preserved at full narrated grade, with real reception. Its later contrary test prevents dependable-skill inference without making the earlier joyful result unreal or ethically cleansing the means.",
+            "personally_received_source_loci": "E845104–110",
+            "own_actor_mode_and_endpoint_limit": "Grand slam/celebration and following machine defeat; no training causation claim.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR017",
+            "body_line": 52,
+            "actual_literal_sha256": "f43c44da36096a29b1ca30edf839ed80d604c83460711fecffb7b4e3348f51db",
+            "own_substantive_reason": "Rei club choice and Sumire outfit-memory wish are distinct ordinary ends after the public event. The paragraph correctly keeps an aspiration to rebuild from completed institutional repair and wanted remembrance from a new permanent intimacy.",
+            "personally_received_source_loci": "E845108–114",
+            "own_actor_mode_and_endpoint_limit": "Contract refused/equipment thanks; memory wish—not inspected future outfit retention.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR018",
+            "body_line": 54,
+            "actual_literal_sha256": "10bd87bd04a08e89dc89587fc7e510e77ca8fca92cd2c735991460cf458ba8e4",
+            "own_substantive_reason": "The day-off case prevents the principle from substituting for action. The contradiction is stated without diagnosing motive or inventing a completed final session: moderation and renewed endurance demands coexist.",
+            "personally_received_source_loci": "E84596–114/130",
+            "own_actor_mode_and_endpoint_limit": "Rei rest request, Sumire demand; no durable reform/consent or future release.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR019",
+            "body_line": 56,
+            "actual_literal_sha256": "93cdbd48445aa2a339810c0638815a81b92919e8b0d377787ec427f9af659bb6",
+            "own_substantive_reason": "Context-specific mediation strengthens the relation analysis. G330 is a peer exchange, E832 includes adult observation and E845 adult action. The linguistic pattern concerns actual written requests/answers and cannot supply an unprinted address change or global chronology.",
+            "personally_received_source_loci": "G33083–123/144–150;E83281–87;E84578–114",
+            "own_actor_mode_and_endpoint_limit": "Local role/wording contrasts; no native/audio, first/last or dated reform theorem.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          },
+          {
+            "paragraph_id": "SRR020",
+            "body_line": 58,
+            "actual_literal_sha256": "341b19e5aa0cad98037e207edd09f5d92ef8ec7f6e88825602858298af9f0fc8",
+            "own_substantive_reason": "The closing is earned by the contrary cases rather than harmony by assertion. It preserves quiet watching, food permission, memory and rest alongside difficult methods; its two goods are an interpretive account of what is at stake, not a claim that later help always responds correctly.",
+            "personally_received_source_loci": "G33087–113;E83281–91;E845108–114",
+            "own_actor_mode_and_endpoint_limit": "Finite positive association and contested means; no total coercion, permanent agreement or efficacy model.",
+            "judgment": "PASS_WITH_LOCAL_LIMITS"
+          }
+        ],
+        "all12_method_relational_dimension_judgments": [
+          {
+            "dimension": 1,
+            "method_name": "Origin / contact",
+            "paragraph_scope": "SRR002",
+            "own_reason": "Local received coaching arrangement is grounded in referral/request. The absence of first-ever-contact evidence is explicit, rather than hidden by the origin slot.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 2,
+            "method_name": "Initial asymmetry",
+            "paragraph_scope": "SRR002/003/014",
+            "own_reason": "Training knowledge/prescription pace differ from Rei readiness and chosen aim; this is not a total ranking of persons.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 3,
+            "method_name": "Relational grammar",
+            "paragraph_scope": "SRR004/009/011/018/019",
+            "own_reason": "Repeated prescribing, answering, pausing, affirming and objecting supports a grammar across settings without independently ordering all sources on a life calendar.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 4,
+            "method_name": "Conflict",
+            "paragraph_scope": "SRR003/010/011/012/018",
+            "own_reason": "Means relevance, moving endpoint and inability to stop remain concrete conflicts. No party gratitude answers the pupil for her.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 5,
+            "method_name": "Care language",
+            "paragraph_scope": "SRR004–008/014/017",
+            "own_reason": "Granting a break, ending work, watching together, offers and memory remain positive acts/interests at their proper grade. They do not erase pressure.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 6,
+            "method_name": "Trust / disclosure",
+            "paragraph_scope": "SRR002/006/009/015",
+            "own_reason": "Choosing help and renewed company offer local trust evidence, while no total private disclosure, dependence or permanent consent is asserted.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 7,
+            "method_name": "Hierarchy / rivalry",
+            "paragraph_scope": "SRR003/007/019",
+            "own_reason": "Seniority is domain-limited by Rei baseball expertise. There is no unsupported competitive-rivalry arc or claim that the rank vanished.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 8,
+            "method_name": "Major rupture",
+            "paragraph_scope": "SRR010",
+            "own_reason": "The not-return intention is strong resistance but no enacted departure is supplied. The body honestly declines a completed rupture.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 9,
+            "method_name": "Repair / redefinition",
+            "paragraph_scope": "SRR004/005/009/018",
+            "own_reason": "Pause, venue change and assent are local redefinitions. Renewed overrides block a durable repair/reform finding.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 10,
+            "method_name": "Ordinary afterstate",
+            "paragraph_scope": "SRR006/008/013/017/018",
+            "own_reason": "Watching/food offer, arrival, club commitment, outfit-memory wish and wanted rest have independent value; future food and simulator effects stay qualified.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 11,
+            "method_name": "Written linguistic markers",
+            "paragraph_scope": "SRR010/019",
+            "own_reason": "Finish versus cannot stop and the written request/prescription/answer pattern are substantive. No dyad address-term shift, heard tone or native/performed-voice reception is established.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          },
+          {
+            "dimension": 12,
+            "method_name": "Sensei mediation",
+            "paragraph_scope": "SRR011/015/019",
+            "own_reason": "The peer-only G330 relation is distinguished from inward mismatch observation in E832 and active tactics/contact in E845; adult roles never author Rei answer.",
+            "judgment": "SUBSTANTIVE_OR_HONESTLY_BOUNDED"
+          }
+        ],
+        "eight_serious_rival_judgments": [
+          {
+            "id": "QRIVAL01",
+            "rival": "Permanent consent from asking/affirming",
+            "own_partial_warrant_contrary_and_finite_disposition": "Voluntary request and later yes are real. Device/menu/day-off refusals have new objects; the body retains both answers rather than revoking either."
+          },
+          {
+            "id": "QRIVAL02",
+            "rival": "All kindness is disguised coercion",
+            "own_partial_warrant_contrary_and_finite_disposition": "Repeated pressure is genuine warrant. The actual break/session ending/company and Rei offers/corrections defeat an exhaustive hidden-motive explanation without excusing the pressure."
+          },
+          {
+            "id": "QRIVAL03",
+            "rival": "Expert intent proves suitable safe methods",
+            "own_partial_warrant_contrary_and_finite_disposition": "Referral and code/training knowledge merit respect. Relevance objections, explained-only device mechanism and no efficacy/safety trial limit that authority."
+          },
+          {
+            "id": "QRIVAL04",
+            "rival": "One harmonious goal",
+            "own_partial_warrant_contrary_and_finite_disposition": "Shared time and continuation matter, yet a beautiful hit/own-club end differ from general development and wanted memory. Agreement is not identity of ends."
+          },
+          {
+            "id": "QRIVAL05",
+            "rival": "An outing or stated principle completes reform",
+            "own_partial_warrant_contrary_and_finite_disposition": "The genuine accommodations and no-deciding speech are serious warrant. E832 menu/sprint and E845 rest override prevent a durable conversion; no global order rescues it."
+          },
+          {
+            "id": "QRIVAL06",
+            "rival": "The grand slam validates and absolves the method",
+            "own_partial_warrant_contrary_and_finite_disposition": "A real success is stronger evidence than empty hope. Multiple helpers, next-day defeat and renewed pressure prevent causal monopoly or ethical absolution."
+          },
+          {
+            "id": "QRIVAL07",
+            "rival": "Senior knows; junior receives passively",
+            "own_partial_warrant_contrary_and_finite_disposition": "Training asymmetry is present. Rei owns the target, supplies baseball corrections, offers a treat and judges limits, making that hierarchy conditional and reciprocal in particular domains."
+          },
+          {
+            "id": "QRIVAL08",
+            "rival": "Quiet company/rest matter only as training inputs",
+            "own_partial_warrant_contrary_and_finite_disposition": "The initial sport goal supplies the rival partial plausibility. Actual shared watching, food offer/allowance, wanted memory and rest remain worthwhile without proof they improve the next swing."
+          }
+        ],
+        "bounded_reference_judgments": [
+          {
+            "scope": "Introduction SRR001–003",
+            "own_judgment": "Both names and the particular coach/pupil problem are supplied; scope is baseball ReiCH0245, not a generic dyad or diving-person join."
+          },
+          {
+            "scope": "Ordinary middle SRR004–009",
+            "own_judgment": "Break recipientRei, grantSumire; treat offerRei, allowanceSumire; rule expertiseRei, shared-watching enjoymentSumire. Positive reciprocity does not require a consumed meal."
+          },
+          {
+            "scope": "Conflict middle SRR010–013",
+            "own_judgment": "Rei judges means and stopping. Chihiro trio choice, party diversion, game-character outcome and proposed breakfast retain separate owners/modes."
+          },
+          {
+            "scope": "Major participants SRR014–016",
+            "own_judgment": "Sumire limited help, Hanae wanted cheering, Sensei tactics/strong contact and Rei decision/swing remain distinct. Body does not borrow clinical authority or transfer blame/credit between them."
+          },
+          {
+            "scope": "Ending SRR017–020",
+            "own_judgment": "Own-club choice and memory wish keep different recipients/ends; rest objection and ordinary pleasure both survive. No completion of institution/named/extraREL, identity, source/model or global reform."
+          },
+          {
+            "scope": "Written reference scope",
+            "own_judgment": "Purpose language and seniority remain written local interpretation; source actor/text seams and no Sensei G330 prevent invented audio, hidden thoughts, a private shared calendar or new address-term history."
+          }
+        ],
+        "complete_author_meanings_received": "Whole26109 six composition answers/all12 dimensions/eight rival partial-warrant/contrary decisions/six reference judgments/all20 particular readback reasons/actual saved meaning and dated procedural history received. They are separately attributed author meanings, not my own reasons copied as independence. Whole22493 SOURCE and all20 map unique fields/controls received; literal duplication was reused only after exact current body equality.",
+        "source_course": {
+          "relative_path": "OWN_ACTUAL_SELECTED240_TWO_WHOLE_ACCEPTED_MONOGRAPHS_QUALIFIERS_METHOD_AND_RECEIVING_BOUNDS_V1.json",
+          "bytes": 10338,
+          "sha256": "a649efeaffb266018484ce51fe5d11dcb309ed5befb47126eed16cb9067e5c64"
+        },
+        "scope_and_grade": "Own fresh selected240=G330114+E83268+E84558 (60header+180substantive addresses), notWHOLE3. Own newly received WHOLE2 accepted character analyses336lines/117paras, not their original950/1839/normal105/private/native/raw/AV courses. Operative complete qualifiers selected at exact field scope. No additional source unit or primary/media acquisition.",
+        "findings_limit": "No supported material literary/actor/mode/source-end defect found at this exact scope. Method language/address dimension is bounded to written request/stop distinctions and seniority; no new address-term shift/performance is proved. A full effective coaching model, safe device, durable reform, completed major rupture/repair or global calendar remains unestablished.",
+        "preserved_stage": "Exact draft_noncurrent quartet and existing single P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001 remain. Root readiness accepted a source basis and later explicitly commissioned this draft; old dispatch-pending words are dated. This QA grants no Root adoption/current authority/public form/identity/named/extraREL/model/install/count/publication or future gate success. Required355/29/all14OPEN/models0 remain.",
+        "actual_readback": "Whole final13991 body received from first YAML through last literary paragraph. All20 source and endpoint judgments made after actual selected240 and two monographs. Complete own note readback and modest separate own fidelity proof follow; counts/geometry alone are not literary cognition.",
+        "access": "Only exact positive C inputs and own new Q writes. No N/oldheldR/Git/provider/shared/global/source/control/schema/tool/frozen/excluded39/private9/opaqueMomoi access/stat/hash/alias, foreignhelper execution/import, broad catalogue scan or external chat. No candidate repair.",
+        "remaining": "Root complete actual body/reasons/source qualification and proof receiving/adjudication. Separate public/current authority/installation/publication work requires its own authorized next step. Freeze this review and stop."
+      }
+    },
+    "Q04": {
+      "record_id": "Q04",
+      "original_filename": "START_HERE_SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_BODY_QA_FROZEN_WITH_LIMITS_V1.json",
+      "original_file_bytes": 8542,
+      "original_file_sha256": "53da62df7950e70ec73b0d8b111f322f33ef13b73bc28cb198e55935a4eec9c6",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T13:46:54.763173+00:00"
+      },
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "4df1df91a28fadfaf5da56221dca2ed4297441c2e1b85bd9fb4cc0228e2f8110"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_BODY_QA_FROZEN_HANDOFF_V1",
+        "UTC": "2026-11-04T13:46:54.763173+00:00",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "decision": "PASS_WITH_EXPLICIT_SOURCE_AND_STAGE_LIMITS_FOR_ROOT_ACTUAL_COMPLETE_BODY_RECEIVING",
+        "material_findings": [],
+        "required_id": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS",
+        "responsibility": "P3-XMI-R001;single existing required directed relation;not named",
+        "prospective": {
+          "relative_path": "OWN_RELATION_QA_PROSPECTIVE12_ACTUAL_ROLES_AND_SOURCE_EXPOSURE_BEFORE_CURRENT_BODY_V1.json",
+          "bytes": 3818,
+          "sha256": "b66ca955d7b53c647cbf6050df84e5e8b6bdbd9275097202110b309a07a66ef0"
+        },
+        "full_own_substantive_reasons": {
+          "relative_path": "OWN_COMPLETE_RELATION20_LITERARY_REASONS_12_ANSWERS_12_METHOD_DIMENSIONS_8_RIVALS_AND_REFERENCE_LIMITS_V1.json",
+          "bytes": 30936,
+          "sha256": "5cffd4b8a6539562aa242506638cb253178b8792b5b06198fe03ae556a28ae2e"
+        },
+        "actual_own_source_course": {
+          "relative_path": "OWN_ACTUAL_SELECTED240_TWO_WHOLE_ACCEPTED_MONOGRAPHS_QUALIFIERS_METHOD_AND_RECEIVING_BOUNDS_V1.json",
+          "bytes": 10338,
+          "sha256": "a649efeaffb266018484ce51fe5d11dcb309ed5befb47126eed16cb9067e5c64"
+        },
+        "separate_own_mechanical_proof": {
+          "relative_path": "OWN_INDEPENDENT_RELATION20_CURRENT_PINS_GEOMETRY_SELECTED240_QUALIFIERS_AND_NONSELF_DAG_PROOF_V1.json",
+          "bytes": 46193,
+          "sha256": "63d85f6daac78a7bdf9470e8c1f7c0a139780cfdf798be59f71ef386070b261c",
+          "predicates": 277,
+          "false": 0
+        },
+        "external_manifest": {
+          "relative_path": "SUMIRE_BASEBALL_REI_CONNECTED20_DISTINCT_COMPLETE_BODY_QA_FROZEN_EXTERNAL_MANIFEST_V1.json",
+          "bytes": 1846,
+          "sha256": "f0d6d1ee08209ac1b07335bd29c0ec0d273b876c2165bba8cb87305ab9f0845c"
+        },
+        "author_frozen_target": {
+          "directory": "DATED-LOCATOR-3A69FA39C6A8BAD9",
+          "terminal": {
+            "relative_path": "START_HERE_SUMIRE_BASEBALL_REI_CONNECTED20_RELATION_BODY_AUTHOR_COMPLETE_FROZEN_WITH_LIMITS_V1.json",
+            "bytes": 7391,
+            "sha256": "294d23d0b180c22846d23f00a04e2b878894237607991b99c978c049c49f0d41"
+          },
+          "core4": [
+            {
+              "relative_path": "BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS_C_ONLY_DRAFT_V1.md",
+              "bytes": 13991,
+              "sha256": "56870a2ae81aaf2b1d19fdb8dbaeb9066cf49ffeab361f09644b93f63b4ca5cd",
+              "role": "ORIGINAL_CONNECTED_RELATION_BODY"
+            },
+            {
+              "relative_path": "RELATION_BODY_SOURCE_AUTHORITY_VERIFIED_OWN_TWO_MONOGRAPHS_SELECTED240_AND_OPERATIVE_QUALIFIERS_V1.json",
+              "bytes": 22493,
+              "sha256": "64c8905f7f4d99d912d22dfd22df7cc91cdd8a3e63730b186710cbb2cfd4ea1f",
+              "role": "SOURCE_GRADE_AND_ACTOR_MODE_AUTHORITY"
+            },
+            {
+              "relative_path": "RELATION_COMPLETE20_LITERAL_PARAGRAPH_PURPOSE_DIRECTION_MODE_ENDPOINT_AND_TWELVE_DIMENSION_MAP_V1.json",
+              "bytes": 44645,
+              "sha256": "fd9f0719eb5a545dda6ce1b2f6a53db0d672884febf947ae2547c6a7978d93c6",
+              "role": "COMPLETE_LITERAL_PURPOSE_DIRECTION_AND_ENDPOINT_MAP"
+            },
+            {
+              "relative_path": "OWN_RELATION_CONNECTED20_ORIGINAL_CHOICES_TWELVE_DIMENSIONS_EIGHT_RIVALS_AND_MEANINGFUL_READBACK_V1.json",
+              "bytes": 26109,
+              "sha256": "7947abc53f88e4550fda787b14fa70f1091e499d3c08fd1394e5314c1732d11a",
+              "role": "COMPLETE_ORIGINAL_REASONING_RIVALS_AND_ACTUAL_MEANING_READBACK"
+            }
+          ],
+          "manifest": {
+            "relative_path": "SUMIRE_BASEBALL_REI_CONNECTED20_BODY_FIRST_COMPLETE_FROZEN_EXTERNAL_ALLOWLIST_V1.json",
+            "bytes": 2585,
+            "sha256": "fd792cd799fa07e83cb3370cda35f7a4c33c674ed2ec51f3e82a9e7ce10ec9ec"
+          }
+        },
+        "own_actual_receiving": {
+          "prospective_first": "Saved3818/b66ca955 before current body/sourcecourse. Prior Sumire finite and metadata roles/Root leads disclosed; different from current author.",
+          "complete_body": "Whole13991/58line/20paragraph final manuscript personally received first; after selected source/companions and own judgments, whole final body received again from YAML through literary closing. No new literary/source defect on post-course complete readback.",
+          "current_sources": "G330 exact1–20/71–123/125–150/162–176=114;E8321–20/67–108/110–115=68;E8451–20/78–114/130=58. My own selected240=60header+180substantive maintained addresses. Whole two accepted analyses:Sumire155/52 and baseballRei181/65,336lines/117paragraphs.",
+          "qualifiers": "Complete relevant current Sumire actor/mode object, O023/SQ02/SQ04 questions/answers/grades/dating and Rei source-use/food-mode/overlap/dating personally received from Root current five captures. Source-course note pin_sources also lists their byte-identical declared public character-source snapshot bindings; no claim of extra public-copy source attendance or independent live repository check.",
+          "new_author_meanings": "Whole22493 SOURCE; whole26109 author6 answers/12method dimensions/eight serious rival warrants and contrary cases/sixreferences/all20 particular reasoning/actualreadback and dated procedural history. Every20 unique map purpose/direction/mode/endpoint/limit/evidence/dimension/qualifier row received; duplicate literals reuse the already-read exact body and dimensions reuse full typed-equal already-read author12.",
+          "framework": "Current exact method53414/c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d physical380–425 and architecture52261/848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286 physical346–356/577–625/645–701.",
+          "own_saved_meanings": "Whole own10338 sourcecourse and complete own30936 reasons received untruncated in bounded disjoint key pages:own12/all20 reasons then all12method/eight rivals/sixreference/grades/limits. Counts and geometry do not supply cognition."
+        },
+        "own_literary_disposition": "A coherent distinct relation argument tests chosen expert help against Rei goal and present answer. Shared watching, reciprocal rules, treat offer/allowance and wanted memory remain intrinsically meaningful. The actual break and local affirmation do not cancel the device/menu/sprint/rest countercases. Success and next-day failure coexist without training causation or ethical absolution. Domain-specific hierarchy and context-specific Sensei mediation remain, while major rupture/repair, native address-change/performance and final reform are honestly unestablished.",
+        "fidelity_results": {
+          "current_paragraph_joins": 20,
+          "source_evidence_links": 25,
+          "all_citations_in_actual_selected240": true,
+          "direct_current_break_and_food_qualifiers_match": true,
+          "current_core_nodes": 4,
+          "current_core_edges": 5,
+          "acyclic_nonself": true,
+          "author9_members_plus_manifest_terminal11_exact": true,
+          "candidate_unchanged": true,
+          "own_readback_diagnostics": "No clipped source/body/normative receiving, no failed own proof or candidate correction in this QA."
+        },
+        "source_grade_limits": "Maintained analytical grades only; not wholeG330/E832/E845, underlying primary/private/native/raw/AV, author950/1839/common105 or independently corroborated repeated events. Two new full character-analysis readings do not grant their source course. No additional unit/BOND/V002/futureE or large source register opened.",
+        "state_and_credit": "Target exact draft_noncurrent quartet remains. Root prior8431 accepted source readiness and later commissioned the body; old notcommissioned/procedural strings stay dated. This reviewer does not grant Root adoption, current/public authority, identity/divingRei join, named/extraREL/model/source admission/install/count/publication or future runtime/merge success.355/29/all14OPEN/models0 unchanged.",
+        "access_and_freeze": "Only own new Q writes and exact positive C input reads. Author helpers opaque hash only, never executed/imported; only own stdlib. No N/oldheldR/Git/provider/shared/global/source/control/schema/tool/frozen/protected39/private9/opaqueMomoi access/stat/hash/alias, broad scan or external chats. All review files frozen; no target fix.",
+        "remaining": "Root actual full body/own reasons/author meanings/source qualification and finite proof receiving/adjudication. Any public form/current-authority/install/publication work is separately governed. Stop after this frozen review.",
+        "total_review_packet_members_including_manifest_terminal": 8
+      }
+    },
+    "Q06": {
+      "record_id": "Q06",
+      "original_filename": "OWN_INDEPENDENT_RELATION20_CURRENT_PINS_GEOMETRY_SELECTED240_QUALIFIERS_AND_NONSELF_DAG_PROOF_V1.json",
+      "original_file_bytes": 46193,
+      "original_file_sha256": "63d85f6daac78a7bdf9470e8c1f7c0a139780cfdf798be59f71ef386070b261c",
+      "source_actor_fields": {
+        "reviewer": "/root/sumire_v2_finite_qa"
+      },
+      "source_date_fields": {},
+      "stage": "DATED_COMPLETE_ANALYTICAL_RECORD_NOT_LIVE_EXECUTION",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "/schema",
+          "original_typed_sha256": "dd1fdd138dc0c1efb9ca7d9fbfb3381cd9387a4ffc256487073df4bf58beb325"
+        },
+        {
+          "original_JSON_pointer": "/reviewer",
+          "original_typed_sha256": "f143663450b6132f424bf3ecd219875220f47dbf55ea9f4831124b461efecff7"
+        },
+        {
+          "original_JSON_pointer": "/method",
+          "original_typed_sha256": "fe387c45849b90205e9348d867ca9e1112dea2d338fb5df64ea5d2c281dd89fe"
+        },
+        {
+          "original_JSON_pointer": "/predicate_count",
+          "original_typed_sha256": "27d719c754aacd492a6dc8a1b76619355abcf5ef473cbec02018d3c57ebbf0d5"
+        },
+        {
+          "original_JSON_pointer": "/false",
+          "original_typed_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+        },
+        {
+          "original_JSON_pointer": "/counts",
+          "original_typed_sha256": "2e87869038a211c6958d3ad033ecaa67427e011b16ee7dcc351033cf6ab7c53e"
+        },
+        {
+          "original_JSON_pointer": "/explicit_limits",
+          "original_typed_sha256": "ab33393deb34faa92a9a32a4df0f9f797005006a48485f05c14c87d77413cd43"
+        },
+        {
+          "original_JSON_pointer": "/remaining",
+          "original_typed_sha256": "5cf7f4ff9f3ba7ed37564c0176cfb4ef11a46ef47b0652a298362857802314fe"
+        }
+      ],
+      "delivery_scope": "Original filenames/relative paths/pointers/tuples/pending/counter labels are dated identities, not current runtime dependencies. Pure private locator fields are normalized under exact private inverse; unique analytical/actor/date/source words remain.",
+      "selected_original_values": {
+        "/schema": "DISTINCT_RELATION20_OWN_MODEST_SAVED_GEOMETRY_BOUNDARY_QUALIFIER_AND_CURRENT_BINDING_PROOF_V1",
+        "/reviewer": "/root/sumire_v2_finite_qa",
+        "/method": "Own stdlib checker only; foreign author helpers opaque pin only, never executed/imported. Checks current geometry, exact declared pins, personally selected bounds, qualifier equality and core DAG. No operational model test or replacement for full literary/source receiving.",
+        "/predicate_count": 277,
+        "/false": 0,
+        "/counts": {
+          "paragraphs": 20,
+          "body_lines": 58,
+          "source_evidence_links": 25,
+          "selected_addresses": 240,
+          "selected_header_addresses": 60,
+          "selected_substantive_addresses": 180,
+          "whole_accepted_character_analysis_lines": 336,
+          "whole_accepted_character_analysis_paragraphs": 117
+        },
+        "/explicit_limits": "Only permitted three maintained selected address sets plus complete pertinent qualifiers and two accepted monographs. SOURCE two unrelated large register snapshot refs and old reader course refs were not dereferenced for this QA; author173/0 and original grades stay attributed. No additional story units/primary/native/raw/AV or N/Git/provider/heldR/excluded target access.",
+        "/remaining": "Root actual complete receiving/adoption and all public/operational gates separate; no count/install/publication."
+      },
+      "private_mechanical_array_disposition": {
+        "original_JSON_pointer": "/predicates",
+        "entries": 277,
+        "typed_sha256": "eb4a1527ec8c0062885d19f0b96ae80d43bf159ffd0956b3a03340769e355068",
+        "scope": "Exact mechanical execution array and its54 relative checklabel field rows remain private at original whole-file binding. Eight complete explanatory/count/scope roots are directly retained; no literary/source reason omitted. Full original recovery is private, not public payload."
+      }
+    },
+    "Q07": {
+      "record_id": "Q07",
+      "original_filename": "OWN_COMPLETE_RELATION_PUBLIC6_SIX_ANSWERS_SEVEN_REFERENCE_CLASSES_ACTOR_GRADE_AND_LIMITED_VERDICT_V1.json",
+      "original_file_bytes": 20468,
+      "original_file_sha256": "cb7ff5bebad9875fe1b2d26be110164cb742774e45bc2ab35fd00538a0d1e21e",
+      "source_actor_fields": {
+        "reviewer": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T16:09:59.592634+00:00"
+      },
+      "stage": "DATED_COMPLETE_METADATA_AUTHORITY_OR_REASON_RECORD_NOT_FUTURE_QA_APPROVAL",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "9c80d169266bfecdc8679f44610db09e8820af3d2f0da55dfeaabe38e02de016"
+        }
+      ],
+      "delivery_scope": "Full unique actual normative/prospective/diagnostic reasons retained at original stage. Only declared wholepureC custodystrings become exactdatedIDs under complete privateinverse;filenames/identity/hashes/prose remain literal. No containedtarget access.",
+      "original_value": {
+        "schema": "SUMIRE_BASEBALL_REI_PUBLIC6_DISTINCT_COMPLETE_FORM_QA_SIX_ANSWERS_SEVEN_REFERENCE_CLASSES_AND_LIMITS_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "UTC": "2026-11-04T16:09:59.592634+00:00",
+        "verdict": "COMPLETE_PUBLIC_FORM_QA_NO_SUPPORTED_CONCERN_WITH_LIMITS;ROOT_ACTUAL_NEW_BYTE_ADOPTION_PENDING",
+        "roles_and_prior_error": "I authored the original public plan P01/P02/P03 and genuinely received its28 whole normative records and three selected proof scopes, whole private connected20 body/map/source/author/peer/readiness/closures/Root8431/10816/1409. I did not author this public6; composer is current_preflight_requirements, original privatebody author and finiteV3 successorplanner. My old plan answer3 incorrectly grouped vendor-clothes memory under Rei. Current S02/P04 and RootR07 explicitly correct it to Sumire, preserving my complete mistaken sentence and unchanged suffix dated. This is distinct public-form QA with disclosed plan-author exposure, not blind private literary QA or new source attendance.",
+        "prospective_before_six_content": {
+          "path": "DATED-LOCATOR-9BA83DB4D8F3B555",
+          "bytes": 2308,
+          "sha256": "75efe778f4c454c2148c585a92c15bdf3cac799c54d575e87dc7e0d5dc69de4e"
+        },
+        "target_terminal": {
+          "path": "DATED-LOCATOR-BC79D1E98E027216",
+          "bytes": 9139,
+          "sha256": "aff57005e4a8e14fab76f86a708e00cc6c9cb117cf9ef1a95e87084c8944b070"
+        },
+        "current6": [
+          {
+            "role": "BODY",
+            "C_source_path": "DATED-LOCATOR-E6F2BCE8069F5903",
+            "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_SYNTHESIS.md",
+            "bytes": 14060,
+            "sha256": "f30283bd108a593616bca3f525d5835e6eae8f5ec82442f81ac52dd5ad5bb509"
+          },
+          {
+            "role": "SOURCE",
+            "C_source_path": "DATED-LOCATOR-E0BA1DC29231423C",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+            "bytes": 97363,
+            "sha256": "65755bb79084b01b2113503c06212520a5a1ce28bf88585a8d65ebf1c8c669cf"
+          },
+          {
+            "role": "AUTHOR",
+            "C_source_path": "DATED-LOCATOR-0D3D0A06A2ACDE3D",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_AUTHOR_READINESS_AND_DATED_DECISIONS_FULL_REASONS_V1.json",
+            "bytes": 297189,
+            "sha256": "9fef201289a0f192a9a014e9f406d1f960028fb178a8b65dc1a8356a3cc62c78"
+          },
+          {
+            "role": "PEER",
+            "C_source_path": "DATED-LOCATOR-C8EA71A869E792B7",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_INDEPENDENT_REVIEWS_AND_SOURCE_COURSES_FULL_REASONS_V1.json",
+            "bytes": 65633,
+            "sha256": "346bdb57ec736f99e86dbebc9f6a7a2d20f49f852c115027bec0c7e583ff346c"
+          },
+          {
+            "role": "ROOT",
+            "C_source_path": "DATED-LOCATOR-631F5AB49BFF256E",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_ROOT_ADOPTION_AND_PUBLIC_FORM_PROVENANCE_CONTROL_V1.json",
+            "bytes": 70092,
+            "sha256": "488169935389c96dea01068a4aafeb18dbb4674133170540f2a30891068c4007"
+          },
+          {
+            "role": "REGISTRY",
+            "C_source_path": "DATED-LOCATOR-C104CA8D16EC28CE",
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUMIRE_BASEBALL_REI_CHOSEN_GOALS_RELATIONSHIP_RECEIVING_20261104_V1/RELATION_PUBLIC_COMPONENT_AND_DATED_LOCATOR_REGISTRY_V1.json",
+            "bytes": 117243,
+            "sha256": "deb96e590b0ef2c548cd74e7c58f261735e56c9185a11a09e4ed2366b5718c0a"
+          }
+        ],
+        "actual_meaning_receiving_and_reuse": [
+          "Whole9139 terminal first; then six substantive prospective questions before current public content. Whole controlling Root6669 exactQ06 class decision and Root6822 composition commission personally received.",
+          "Actual five JSON common metadata/current tuples/lifecycle/history qualifications and full current Rootcreationcontrol received; actual public YAML separately received. Entire13196 literary region is exact to my previously whole-read accepted privatebody, not a new literary/source review. Complete old28 normative records plus selected3 proof scopes from my prior plan are preserved by exact current root inverses and known original pins.",
+          "Actual whole S01 finiteprospectives,S02 fullfour/six/currentactor/oldwronganswer/sourcegradehistory,S03 compositionprospectives,S04 fullsix/class/source/limits,S05 whole9277 composer readback/six/class/ordinary/diagnostics/next received. Actual full P06 terminal and P05 all unique readback/proof/scope/diagnostics/output-boundary fields received. Actual P04 all changed unique current-role/preservation/field/class/inventory/authority scopes received.",
+          "Actual full RootR05 before-body questions,R06 before-plan questions,R07 two findings received; R08/R09 full originals were received at their exact known pins, with actual public normalized fields covered by full inverses. P04 complete embeddedR07 andS02 equal those whole received values; P05 four/six/error/grade-history equal wholeS02, proving exact reuse instead of printing duplicates as new cognition. P04 current six judgments equal wholeS02 six.",
+          "Actual final8588 composer private receipt received whole, including explicit scope of retained S05 and current actual47/64 versus dated prior46/63; its remaining bytes are procedural custody and no additional unique analytical claim omitted from S05. Thirteen alternate locator-boundary wording rows personally received after own over-specific phrase test; their dated/private/current-selector scopes are clear.",
+          "Three too-large exploratory metadata displays were clipped and not credited as complete receiving; bounded meaningful partitions and exact duplicate equality repaired scope. Own code never imported/executed foreign helpers or opened any underlying source/other-character/private/excluded target from a locator."
+        ],
+        "six_complete_answers": [
+          {
+            "id": "PQ1",
+            "answer": "The actual public firstYAML retains draft_noncurrent, trueveto and empty supersession arrays. Its three exact preparation-line changes identify relationship_synthesis, attribute the source boundary to original bodywriter and distinct privatebody reviewer, and report privatebody Root acceptance at a stable preparation date. Header795→864 preserves58 lines; full13196 post-YAML bytes, all20 literary paragraphs/title/headings/order/citations/closing are exact. The old private header and full13991 inverse remain private. No stale private pending label is used as a live public instruction. No literary claim was changed or fresh body-quality judgment substituted."
+          },
+          {
+            "id": "PQ2",
+            "answer": "All47 dated records/64 retained roots are directly readable at actual role selectors or use one of three proved complete duplicate classes: map20 literal strings→BODY spans; author twelve dimensions→SOURCE fullmap dimensions; selectedcourse complete qualifiers→SOURCE full qualifiers. Author and peer full answers/rivals/course/closure and Root questions/acceptance/finding/commission meanings remain noninterchangeable records even when conclusions agree. Own exact123 ordered transformations and full original selected-root inverses prove every retained unique value returns to its original typed hash. Whole old raw pins preserve formatting without publishing raw transports. Full old three paragraph variants and recipes remain readable, and the exact full initial14008 manuscript recovers in memory. The actual47/64 extends dated39/57/369 and46/63 rather than treating those as quotas."
+          },
+          {
+            "id": "PQ3",
+            "answer": "There are53 distinct safe locator IDs, from86 base plus15 newly necessary pure whole absolute field substitutions. Their hashes commit exact original strings; original filenames, relative pointers, actor/date identities and229 public-relevant identity fields stay dated. Each public logical selector resolves to an actual retained record, while source/helper/proof/directory targets are explicitly private-only and do not promise a current runtime file. All normalization operations have exact original serialized tokens, logical before/after typed values and ordered inverse. An original path inside metadata is not permission to follow it, and a retained record selector is not a claim that the original filename was published. No blanket prose sanitizer, private live dependency or invented alias is needed."
+          },
+          {
+            "id": "PQ4",
+            "answer": "Root6669 authorizes one precise class boundary: Q06#/predicates is277 predicate/PASS entries and stays private under full original46193 raw pin and typed commitment. Its54 filename/check-label rows likewise remain in private inverse metadata. The public Q06 directly retains exactly eight schema/reviewer/method/count/false/counts/limits/remaining roots, including scalar predicate_count277. A08#/predicates is scalar173 and remains public; R04 selected scope/count roots remain. Full Root6669 reasoning is present as R09, with the private54-row queue referenced rather than re-embedded. This excludes execution detail, not ordinary evidence or intellectual reasons, and is not a name-wide exemption."
+          },
+          {
+            "id": "PQ5",
+            "answer": "All current six exact pins and64 registry joins are verified, with actual6nodes/14edges acyclic and nonself. Only top component_refs are current file edges; nested old tuple/head/pending values are dated analytical data. SOURCE current20 geometry and all evidence references resolve to the three existing maintained owners within declared selected240=60headers+180substantive addresses. Original author and peer each own separate WHOLE2 accepted analyses336/117 plus selected240; Root owns selected240 only. My public plan/review adds none of these source grades, and original950/1839 courses stay with original character writers. Existing P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS/P3-XMI-R001 is distinct from named/extraREL/person/model duties. Privatebody/plan acceptance does not certify this public6 or future eligible metadata/install/count/publication."
+          },
+          {
+            "id": "PQ6",
+            "answer": "All six roles have actual analytical need and inherited project-analysis/provenance class before size: unchanged dyad argument; complete source/map/qualifiers; author/readiness/planning/composer decisions; distinct peer reasoning; Root/private-acceptance/commission/class provenance; current component and dated-locator navigation. No complete underlying source copies, two other monographs, helpers, proof arrays, raw wholebody/input codecs or inverse-ledger cargo appear as public files. All current files are strict UTF8/LF, no NUL, personal absolute paths or checked credential patterns; actual maximum297189 AUTHOR bytes and all six below1MiB are observations, not class/rights/JSON waivers. Full own six-answer/reference reasoning is saved separately and receives actual saved-value readback before freeze. Root actual new-byte adoption and future repository eligibility/publication remain separate."
+          }
+        ],
+        "seven_reference_and_classification_judgments": [
+          {
+            "role": "BODY",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "BODY firstYAML + unchanged post-YAML",
+            "judgment": "CH0245 baseball Rei and Sumire keep their distinct chosen goals. Quiet shared watching/rest/food offer and allowance/company/clothes memory/refusals remain intrinsically valuable. Existing text does not infer a Sumire meal, completed promised breakfast, simulator improvement to Rei body, causal monopoly, permanent consent or durable moderation. This is preservation of earlier read argument, not fresh literary/source QA."
+          },
+          {
+            "role": "SOURCE",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "SOURCE#/dated_records/A02;A03;B03 and current_body_geometry",
+            "judgment": "Full operative G330 O023/SQ02/SQ04 and Rei mode/chronology qualifications survive, with three admitted source routes/grades and earlier unopened requests visibly dated. Original map purposes/directions/endpoints/dimensions remain full; exact body-string selectors remove only true duplicate delivery."
+          },
+          {
+            "role": "AUTHOR",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "AUTHOR P01/P02/P03,S01/S02,P04/P05/P06,S03/S04",
+            "judgment": "Original author and planner roles remain explicit. My mistaken old clothes-memory answer and full old readback survive; Sumire is the current owner under the finite successor correction. Root-only WHOLE2 ambiguity is also disclosed as dated draft error and corrected to Rootselected240. Full questions/rivals/ordinary/end-limit meanings are not replaced by a count."
+          },
+          {
+            "role": "PEER",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "PEER Q01/Q02/Q03/Q04/Q06",
+            "judgment": "Different privatebody reader’s complete twelve/twenty/twelve/eight/six reasoning and actual course stay attributed, not transferred to public composer or this reviewer. Privatebody PASS is dated; Q06 exact eight meaningful roots remain direct and executionarray remains private."
+          },
+          {
+            "role": "ROOT",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "ROOT R01–R09,S05 and current_public_creation_control",
+            "judgment": "Full earlier prospective questions now appear at R05/R06, with full R07 finding and corrected R08/R09 decisions. Private acceptance, old with-findings stage, plan authorization and public preparation stages are distinguished. Full composer9277 is a dated composer record, not a personal Root signature or current publication certificate."
+          },
+          {
+            "role": "REGISTRY",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "REGISTRY complete_intellectual_registry and safe_dated_locator_registry",
+            "judgment": "All64 actual root selectors and53 safe IDs are honest current navigation to retained meanings or explicit private-only custody. Underlying file hashes are source snapshots, not evidence of fresh whole reading or independently corroborating events. Six current tuples are measured from frozen bytes without recursive self-binding."
+          },
+          {
+            "role": "CLASS_BOUNDARY",
+            "classification": "NO_SUPPORTED_CONCERN",
+            "selector": "Root6669 exact Q06 one-field decision;public Q06/A08/R04;private inverse plans",
+            "judgment": "277-array/54labels excluded exactly, not all fields named predicates and not any low-stakes reason. Full raw/private inverses and foreign helpers stay outside public roles. Source media and raw-input custody rights are not created by text size or hashes."
+          }
+        ],
+        "independent_mechanics": {
+          "main": {
+            "path": "DATED-LOCATOR-A26CCD40B56C1734",
+            "bytes": 184991,
+            "sha256": "2b5b1d33fcc55c0b08ab5aff5a73760c5fdfeec92fb86d9897d81228f99fb9ef"
+          },
+          "predicates": 1614,
+          "false": 0,
+          "supplement": {
+            "path": "DATED-LOCATOR-A85C02C4DBC562B3",
+            "bytes": 26383,
+            "sha256": "039ec01f18d282a8f9036701ecb4032a8f56d5e81ee5c1e65ad65364cc46af2c"
+          },
+          "supplement_predicates": 279,
+          "supplement_false": 0,
+          "composer1056_Root1739_not_inherited": true
+        },
+        "diagnostics_preserved": {
+          "main_first_result": "Own1614 predicates/51false from three exact recipe mistakes, preserved inV1 script/result. Corrected versionV2:46 delivery-payload-container hash scopes,1 C02 original-token versus normalized shared-parent scope,4 unsorted closing-registry raw span checks. All actual selected values/full parsed inverses passed initially; candidate unchanged.",
+          "supplement_first_result": "Own279/13false from literal phrase requirement not a public path;13 rows instead clearly say not a public file/runtime file. All13 full meanings received; separate V2 tests actual dated-private/current-authority boundary,279/0. OriginalV1 remains.",
+          "clipped_receiving": "Exploratory displays clipped; no complete reading credit. Bounded current unique meanings and exact whole-duplicate reuse repaired receiving, documented in supplement."
+        },
+        "rights_scope_and_stop": "No supported public-form finding remains at actual content/normalization scope. Root must personally receive/adjudicate exact current6 and this complete reasoning before any new public acceptance. No canonical metadata promotion/shared7/N/R/Git/provider/source/identity/named/REL/model/count/install/publication or external messaging. Old packets and target remain immutable.",
+        "saved_readback_stage": "Complete new own meanings saved now, before their own actual saved-value readback; final procedural closeout will record that receiving without retroactive pre-certification."
+      }
+    },
+    "Q08": {
+      "record_id": "Q08",
+      "original_filename": "OWN_RELATION_PUBLIC6_ACTUAL_COMPLETE_SAVED_MEANING_READBACK_AND_SIX_FINITE_CLOSEOUT_REASONS_V1.json",
+      "original_file_bytes": 3936,
+      "original_file_sha256": "01808691607182c8e3fd59084e654cb8daa295cd28d8e77677eb1b7825efe4ee",
+      "source_actor_fields": {
+        "reviewer": "/root/recover_yuzu_saved_review"
+      },
+      "source_date_fields": {
+        "UTC": "2026-11-04T16:11:27.384288+00:00"
+      },
+      "stage": "DATED_COMPLETE_METADATA_AUTHORITY_OR_REASON_RECORD_NOT_FUTURE_QA_APPROVAL",
+      "original_roots": [
+        {
+          "original_JSON_pointer": "",
+          "original_typed_sha256": "f0a4f92f7565956fb5b9dea9676a925c58602d25ab40cb14707cabbcb60ac5ba"
+        }
+      ],
+      "delivery_scope": "Full unique actual normative/prospective/diagnostic reasons retained at original stage. Only declared wholepureC custodystrings become exactdatedIDs under complete privateinverse;filenames/identity/hashes/prose remain literal. No containedtarget access.",
+      "original_value": {
+        "schema": "RELATION_PUBLIC6_DISTINCT_QA_ACTUAL_SAVED_MEANING_READBACK_AND_SIX_CLOSEOUTS_V1",
+        "reviewer": "/root/recover_yuzu_saved_review",
+        "UTC": "2026-11-04T16:11:27.384288+00:00",
+        "decision": "COMPLETE_PUBLIC_FORM_QA_NO_SUPPORTED_CONCERN_WITH_LIMITS_ROOT_ADOPTION_PENDING",
+        "actual_saved_readback": "Whole saved20468-byte own reason record received in two complete bounded key partitions: own roles/prior error/prospectives/target/actualreceiving, all six full answers and measured current6 summaries; then complete seven-reference/class matrix, independentproof pins, full diagnostics/rights/stage. Current6 complete paths/pins equal whole-received original9139 terminal and actual selection, not freshly invented aliases. No clipped output credited as whole meaning. New S01/S02/P04/P05/P06/R05/R06/R07/R08/R09/S03/S04/S05 meaningful receiving and exact duplicate reuse are detailed in the full record; original prior28 whole records/selected3 proof scopes are genuinely my earlier reading, not source attendance.",
+        "six_final_reasons": [
+          "Body exact13196 post-YAML/20 paragraphs and whole old13991 inverse survive only three explicit preparation-header changes; the actualYAML clearly keeps draft_noncurrent/trueveto/emptyarrays and original reader grades attributed.",
+          "All47/64 retained unique original and later judgments remain full and directly readable or genuine complete-value duplicates. Author/peer/Root/prospective/history reasons are not replaced by summaries. Full old three paragraph variants and initial14008 recovery remain truthful.",
+          "All53 safe IDs and complete original field inverses preserve101 pure custody edits plus229 dated identity occurrences. No actual logical selector pretends the original private filename was published; private witnesses are not runtime dependencies.",
+          "Exact Q06 execution277/54labels stay private under Root6669, while eight complete meaningful roots, scalar predicate_count277 and A08scalar173 remain public. No name-wide deletion or exclusion of ordinary/low-stakes meanings.",
+          "Actual6/14DAG/current geometry/64 registry routes and three sourceowner bounds are consistent. Original author/peer own separateWHOLE2+240 and Rootselected240 remain distinct; my reading of their reasons yields no new course or literary-review credit.",
+          "No supported concern remains in the actual public form. All six role/class/need/rights decisions precede observed sizes; no rawsource/helper/codec/proofarray payload is published. My V1 checker/supplement recipe diagnostics remain private dated history, corrected only in own versioned code. Root must personally adjudicate exact newbytes; no promotion/install/count/publication here."
+        ],
+        "full_reasons": {
+          "filename": "OWN_COMPLETE_RELATION_PUBLIC6_SIX_ANSWERS_SEVEN_REFERENCE_CLASSES_ACTOR_GRADE_AND_LIMITED_VERDICT_V1.json",
+          "bytes": 20468,
+          "sha256": "cb7ff5bebad9875fe1b2d26be110164cb742774e45bc2ab35fd00538a0d1e21e"
+        },
+        "main_proof": {
+          "filename": "OWN_RELATION_PUBLIC6_COMPLETE47_64_FULL_INVERSES_53LOCATORS_AND_CURRENT_DAG_FIDELITY_V2.json",
+          "bytes": 184991,
+          "sha256": "2b5b1d33fcc55c0b08ab5aff5a73760c5fdfeec92fb86d9897d81228f99fb9ef"
+        },
+        "scope_supplement": {
+          "filename": "OWN_RELATION_PUBLIC6_HISTORY_SOURCE_BOUNDS_WRAPPERS_AND_DIAGNOSTICS_SUPPLEMENT_V2.json",
+          "bytes": 26383,
+          "sha256": "039ec01f18d282a8f9036701ecb4032a8f56d5e81ee5c1e65ad65364cc46af2c"
+        },
+        "final_guard": {
+          "filename": "OWN_RELATION_PUBLIC6_FINAL_EXACT_POSITIVE_INPUTS_RAW_NOOP_GUARD_V1.json",
+          "bytes": 34363,
+          "sha256": "1602bb741b08e8482150de3126f4d43f8465866f64bed84b83422d1369633f76"
+        },
+        "access_and_stage": "Own newC only, no target/frozen/N/R/Git/provider/shared7/global/control/source/excluded/private operations or foreignhelper execution/import. No new source, person, identity,named,REL,model,count,install,publication or Root adoption. Freeze/stop."
+      }
+    }
+  }
+}

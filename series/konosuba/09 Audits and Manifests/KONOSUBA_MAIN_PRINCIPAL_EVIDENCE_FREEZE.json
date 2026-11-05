@@ -1,0 +1,2729 @@
+{
+  "schema": "konosuba/main-principal-evidence-freeze/v1",
+  "state": "FROZEN_ACCEPTED_MAIN_PRINCIPAL_EVIDENCE",
+  "frozen_at_utc": "2026-10-17T12:24:48.788925+00:00",
+  "actual_final_receiving_receipt": {
+    "name": "Root final receiving after attributable timing correction",
+    "bytes": 2496,
+    "sha256": "2896fd7a40a4eadcddf4bbce2989d04e2b4c24eb2e33d73563350b202e9a5deb"
+  },
+  "checkpoint_accepted_at_utc": "2026-10-17T12:10:44.998131+00:00",
+  "identity_contract": "Exact complete UTF-8 artifact bytes/SHA256; native EPUB/member bytes are separate identity planes. Containing commit is resolved from the later published Git tree, never invented here. This receipt does not self-hash.",
+  "source_branch": "series/konosuba",
+  "accepted_principal_high_water_mark": "V17",
+  "latest_complete_published_authority_at_cutoff": {
+    "commit": "4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc",
+    "tree": "3ba2232e228fe2ae589f7b5dc1b624f5ab3ca15a",
+    "gate_closed_utc": "2026-10-17T11:48:41.132341+00:00",
+    "source_audit": {
+      "run_id": 39029390725,
+      "job_id": 117386616279,
+      "conclusion": "success",
+      "actual_source_commit": "4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc",
+      "displayed_workflow_head_sha": "4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc",
+      "log_sha256": "5baf714363d0b1625116ea493ac2466dc49ae352c5a3f10f697662b91e963db4",
+      "started_at": "2026-10-17T11:37:13Z",
+      "completed_at": "2026-10-17T11:42:30Z",
+      "paths": 8018,
+      "tests_run": 352,
+      "archive_validation_seconds": 54.973127783999985,
+      "full_test_execution_seconds": 241.182666359
+    },
+    "housekeeping": {
+      "run_id": 39029733919,
+      "job_id": 117387612065,
+      "conclusion": "success",
+      "actual_source_commit": "4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc",
+      "displayed_workflow_head_sha": "ef1e29ab08b2f4e733fc8ba773b85173620afc47",
+      "log_sha256": "abe57b024c301d2150cda7ad3ac9d7e74c1ee5adbd97470b51ae751ad2130d4d",
+      "started_at": "2026-10-17T11:42:40Z",
+      "completed_at": "2026-10-17T11:43:00Z",
+      "result": "NO_OP",
+      "generated_child": null,
+      "exact_final_dispatch_verified": true
+    },
+    "final_exact_head_audit": {
+      "run_id": 39029757648,
+      "job_id": 117387682489,
+      "conclusion": "success",
+      "actual_source_commit": "4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc",
+      "displayed_workflow_head_sha": "ef1e29ab08b2f4e733fc8ba773b85173620afc47",
+      "log_sha256": "a3433ced0b76ccead6e494257fb0e859bb603a83cda8a53c89bd796924d849a7",
+      "started_at": "2026-10-17T11:43:04Z",
+      "completed_at": "2026-10-17T11:48:09Z",
+      "paths": 8018,
+      "tests_run": 352,
+      "archive_validation_seconds": 55.24028462900003,
+      "full_test_execution_seconds": 228.82850755800007
+    },
+    "Repository_integration_audit": {
+      "context": "Repository integration audit",
+      "state": "success",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/39029757648",
+      "updated_at": "2026-10-17T11:48:13Z"
+    },
+    "protected_main_integration_asserted": false
+  },
+  "containing_checkpoint_publication": "PENDING_AT_FREEZE; later exact-source publication/readback/source audit/housekeeping/final actual-SHA status is required before specialist execution.",
+  "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+  "admitted_main_source_identities": [
+    {
+      "source_id": "MAIN-01",
+      "canonical_filename": "Konosuba - Main Series - Volume 01.epub",
+      "drive_id": "1cxET_vlABHYxaQm43tdMOL9rSX3jU-ou",
+      "bytes": 7058492,
+      "sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V01_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-02",
+      "canonical_filename": "Konosuba - Main Series - Volume 02.epub",
+      "drive_id": "12hJo7JZmcu_AnvNX716fFjQalNJ7PrW1",
+      "bytes": 6872479,
+      "sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V02_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-03",
+      "canonical_filename": "Konosuba - Main Series - Volume 03.epub",
+      "drive_id": "1Twqu-hlz03BMOpb5YyjDBYBxlG_Q2PSD",
+      "bytes": 3497582,
+      "sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-04",
+      "canonical_filename": "Konosuba - Main Series - Volume 04.epub",
+      "drive_id": "1LkqH7HbHvek3DPXwknrNpOs0g4dSTxgu",
+      "bytes": 3907671,
+      "sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-05",
+      "canonical_filename": "Konosuba - Main Series - Volume 05.epub",
+      "drive_id": "1TG1M5Lx_AXCVc4oYtoWy_Y6ATqtRWQnu",
+      "bytes": 14376279,
+      "sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-06",
+      "canonical_filename": "Konosuba - Main Series - Volume 06.epub",
+      "drive_id": "1DEhpVjN34RILfE26X4iPFe7JT8cJg175",
+      "bytes": 2529639,
+      "sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-07",
+      "canonical_filename": "Konosuba - Main Series - Volume 07.epub",
+      "drive_id": "1UEwOHz8gu-cYgQOI2Yd7W6rd5joM8BWn",
+      "bytes": 11201415,
+      "sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-08",
+      "canonical_filename": "Konosuba - Main Series - Volume 08.epub",
+      "drive_id": "16MV7WPldXv-HVtTY1M6QyyaAsWIsq6kG",
+      "bytes": 2964798,
+      "sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-09",
+      "canonical_filename": "Konosuba - Main Series - Volume 09.epub",
+      "drive_id": "1lIWNDsqZT9NQcoHa_ZRSqUS4j7HzYc-j",
+      "bytes": 3086699,
+      "sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-10",
+      "canonical_filename": "Konosuba - Main Series - Volume 10.epub",
+      "drive_id": "1Rt2g_dMebDJP2Q1-r_rjAGoRfGkIFYY7",
+      "bytes": 1630298,
+      "sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-11",
+      "canonical_filename": "Konosuba - Main Series - Volume 11.epub",
+      "drive_id": "1Q5vTKTzFlvI_WdG49QD19q-FA0YofPHD",
+      "bytes": 6177663,
+      "sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-12",
+      "canonical_filename": "Konosuba - Main Series - Volume 12.epub",
+      "drive_id": "1QO85Z8nCYnH_J0H6KcB0UHs8eOS4pikn",
+      "bytes": 1570295,
+      "sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-13",
+      "canonical_filename": "Konosuba - Main Series - Volume 13.epub",
+      "drive_id": "17hODcYpv6lbF8ZoVBS6tetQNbi7RuBch",
+      "bytes": 2779947,
+      "sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-14",
+      "canonical_filename": "Konosuba - Main Series - Volume 14.epub",
+      "drive_id": "1Bs9VaDKqIR63LtfcCCJ8tYCX1N36FHsy",
+      "bytes": 2839172,
+      "sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V14_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-15",
+      "canonical_filename": "Konosuba - Main Series - Volume 15.epub",
+      "drive_id": "1cw7WsiP59V3sR3XIR8lFkpb5qGcSQhbc",
+      "bytes": 2513225,
+      "sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-16",
+      "canonical_filename": "Konosuba - Main Series - Volume 16.epub",
+      "drive_id": "1IDfx2vWkl8YzSpVVsl6Q-oPj2a-FwcYs",
+      "bytes": 8530869,
+      "sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    },
+    {
+      "source_id": "MAIN-17",
+      "canonical_filename": "Konosuba - Main Series - Volume 17.epub",
+      "drive_id": "1IIFWiOJ25qVMxlU10HxHDQl-m89ygoqz",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "principal_authority_route": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+      "scope": "Principal admission inherited from accepted reading; exact newer principal allowlists/source receipts and bounded readiness supplement retain their own scopes. Native identity verification does not prove complete component analysis."
+    }
+  ],
+  "principal_member_locator_contract": {
+    "admitted_text_resources": 137,
+    "previous_unit_starts": 128,
+    "metadata_affiliated_continuations": 9,
+    "locator": "1-based member-local position over every body p including blank/image slots. No concatenated chapter numbering. Base excludes rt/rp and preserves ruby base/tails; raw source/ruby arrays remain private.",
+    "metadata_affiliation": "Actual EPUB3 chapter TOC + ordered linear spine + accepted chapter declarations; MAIN03 NCX has no chapter evidence. MAIN04–06 NCX corroborate. Explicitあとがき headings exclude MAIN03/04p014 despite nearest-TOC positions.",
+    "members": [
+      {
+        "source_id": "MAIN-01",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "2453f0cd8580a2f299b23771b832fe00f9dd65fb70fae3e227e67d6ee4d16912",
+        "p_slots": 161,
+        "nonempty_p_slots": 147,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-01",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "f184bf1a9a03d32616c2f3553ba58e65e70eba684f55252014b7c01a12b314b1",
+        "p_slots": 608,
+        "nonempty_p_slots": 561,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-01",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "ddbc8913eac9e07d53c63b9bacbc55b3946b122988fd4fe0f64f8a3b05719f08",
+        "p_slots": 613,
+        "nonempty_p_slots": 572,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-01",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "dd84c04115935a332b3ed650e357dfe233392ad0bc7211d7e074e4a195965094",
+        "p_slots": 817,
+        "nonempty_p_slots": 733,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-01",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "302d2cc0f96ed85f25f592782b71134f62eb4224c19a1864b777dfc5ae9fa0f1",
+        "p_slots": 601,
+        "nonempty_p_slots": 537,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-01",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "d1311c926f8c7d140237bd189d06f3d827c22c8d747b9e5c1e0cfcb66a9c71c2",
+        "p_slots": 78,
+        "nonempty_p_slots": 75,
+        "native_source_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+        "native_source_bytes": 7058492,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "a3dfe1d186e870ae2ed44785beca78f668a6106376d21dc2b172e321c642f7a2",
+        "p_slots": 24,
+        "nonempty_p_slots": 16,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "7268a1d8b5972c66f75702df309122c08f11ad5ab38a9f34ae17c7a4079728ce",
+        "p_slots": 746,
+        "nonempty_p_slots": 695,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "1f890672c69ee66dd3e129ce26522eb5b75da23d61748e31d4b9f26faaacb233",
+        "p_slots": 401,
+        "nonempty_p_slots": 372,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc",
+        "p_slots": 530,
+        "nonempty_p_slots": 490,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "b07a518d8afa21e8e24d692b1fa1b6dd30e4124ff89c74f30b4b057496c8ec3e",
+        "p_slots": 509,
+        "nonempty_p_slots": 468,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "e417b489afea854437f92653f79b1853131a149e9da771a0d51bd3c83bc6505b",
+        "p_slots": 659,
+        "nonempty_p_slots": 604,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-02",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-009.xhtml",
+        "raw_sha256": "97c01776f0c4e835fb524a965b7e7760199355f9681cec1aaf460e886d0dc232",
+        "p_slots": 46,
+        "nonempty_p_slots": 42,
+        "native_source_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+        "native_source_bytes": 6872479,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "69a88dd0abdf0a83b8e33a8ee632b4b2fb73a21108c5ce4063545336965006b7",
+        "p_slots": 25,
+        "nonempty_p_slots": 13,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+        "p_slots": 460,
+        "nonempty_p_slots": 436,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C1",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+        "p_slots": 176,
+        "nonempty_p_slots": 165,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+        "p_slots": 638,
+        "nonempty_p_slots": 599,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e",
+        "p_slots": 680,
+        "nonempty_p_slots": 650,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C3",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-011.xhtml",
+        "raw_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+        "p_slots": 148,
+        "nonempty_p_slots": 139,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 20
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-012.xhtml",
+        "raw_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+        "p_slots": 694,
+        "nonempty_p_slots": 647,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 21
+      },
+      {
+        "source_id": "MAIN-03",
+        "unit": "Ep_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-013.xhtml",
+        "raw_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718",
+        "p_slots": 180,
+        "nonempty_p_slots": 154,
+        "native_source_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+        "native_source_bytes": 3497582,
+        "spine_index": 22
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-002.xhtml",
+        "raw_sha256": "4fa9fec2f092435648d16e20ec09ba5e28b77b37683cdf06d22ee59c3820bd5a",
+        "p_slots": 21,
+        "nonempty_p_slots": 18,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+        "p_slots": 505,
+        "nonempty_p_slots": 476,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e",
+        "p_slots": 714,
+        "nonempty_p_slots": 673,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C3_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "2b11d380ddfd3c23806883176f5f2419b7266685960ff726debb82f91a490c65",
+        "p_slots": 34,
+        "nonempty_p_slots": 30,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C3",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8",
+        "p_slots": 406,
+        "nonempty_p_slots": 384,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C3",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-010.xhtml",
+        "raw_sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7",
+        "p_slots": 218,
+        "nonempty_p_slots": 206,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 21
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-011.xhtml",
+        "raw_sha256": "bc50c0e76ce8a8b1c0c16a4c1db91bf42710dc6e9dcd1f0aff8f4d0d21a7d9e9",
+        "p_slots": 466,
+        "nonempty_p_slots": 435,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 22
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-012.xhtml",
+        "raw_sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3",
+        "p_slots": 677,
+        "nonempty_p_slots": 643,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 23
+      },
+      {
+        "source_id": "MAIN-04",
+        "unit": "Ep_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-013.xhtml",
+        "raw_sha256": "f86298103f93103711c50ff08be9648ab723588fa168fecdd39c3f62747e5b46",
+        "p_slots": 94,
+        "nonempty_p_slots": 85,
+        "native_source_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+        "native_source_bytes": 3907671,
+        "spine_index": 24
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "835910bdd4571e7fd5e849cad73528f9c4a02bd1e3e07eb9c7bfc94c2b8de970",
+        "p_slots": 27,
+        "nonempty_p_slots": 22,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+        "p_slots": 523,
+        "nonempty_p_slots": 495,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C2_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "5e07967fe74dbacb138442efea5e9731b36ce754e514c5eccf5ee8a4f0a62c1f",
+        "p_slots": 64,
+        "nonempty_p_slots": 58,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C2",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "8a836590a244a44e37fa3781b9ae58600dd44942fd2a903eac318dc00444ed1f",
+        "p_slots": 199,
+        "nonempty_p_slots": 186,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C2",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-010.xhtml",
+        "raw_sha256": "809236f0db8b6a8eb2983894fc356e8ae515bc5a521762d5f855794a5c9b1342",
+        "p_slots": 280,
+        "nonempty_p_slots": 264,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C3_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-011.xhtml",
+        "raw_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+        "p_slots": 257,
+        "nonempty_p_slots": 240,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 19
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C3",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-013.xhtml",
+        "raw_sha256": "2e2215d572de125d3427f3f08f0bdb4862ef7215f3933139f8000d06ecce58d0",
+        "p_slots": 244,
+        "nonempty_p_slots": 224,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 21
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C4_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-014.xhtml",
+        "raw_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+        "p_slots": 630,
+        "nonempty_p_slots": 591,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 22
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C4",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-017.xhtml",
+        "raw_sha256": "327b976851ac310608e21501ccb8bf3455fe8c031cc3960ee4b9430393a6ef06",
+        "p_slots": 42,
+        "nonempty_p_slots": 38,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 25
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-018.xhtml",
+        "raw_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+        "p_slots": 823,
+        "nonempty_p_slots": 743,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 26
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-019.xhtml",
+        "raw_sha256": "bcecb00920208d7afe38c9c9b255c6dae6b36c981916f456b63a5e95370d8db4",
+        "p_slots": 232,
+        "nonempty_p_slots": 220,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 27
+      },
+      {
+        "source_id": "MAIN-05",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-020.xhtml",
+        "raw_sha256": "a7dc8b7f834028a935bc6d8840fb0ded824752bb5d37b4adeb81c72487f1cb9a",
+        "p_slots": 96,
+        "nonempty_p_slots": 90,
+        "native_source_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+        "native_source_bytes": 14376279,
+        "spine_index": 28
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-002.xhtml",
+        "raw_sha256": "4c0dda5f959a842535151fc020e520fc5cd83a87707862283e94b3286225d3a9",
+        "p_slots": 20,
+        "nonempty_p_slots": 17,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+        "p_slots": 679,
+        "nonempty_p_slots": 635,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+        "p_slots": 640,
+        "nonempty_p_slots": 600,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+        "p_slots": 614,
+        "nonempty_p_slots": 574,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+        "p_slots": 637,
+        "nonempty_p_slots": 598,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C5_start",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+        "p_slots": 431,
+        "nonempty_p_slots": 406,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "C5",
+        "part_role": "SPLIT_PRINCIPAL_TEXT_CONTINUATION_METADATA_RECOMMENDATION",
+        "member": "item/xhtml/p-009.xhtml",
+        "raw_sha256": "e713a9177d9ced97e22623cd6b2f2be9e2ad8682c0b5e106f86e185b2e4175e3",
+        "p_slots": 12,
+        "nonempty_p_slots": 11,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-010.xhtml",
+        "raw_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+        "p_slots": 194,
+        "nonempty_p_slots": 180,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "I",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-011.xhtml",
+        "raw_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da",
+        "p_slots": 46,
+        "nonempty_p_slots": 41,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 19
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "Ep1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-012.xhtml",
+        "raw_sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e",
+        "p_slots": 45,
+        "nonempty_p_slots": 41,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 20
+      },
+      {
+        "source_id": "MAIN-06",
+        "unit": "Ep2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-013.xhtml",
+        "raw_sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334",
+        "p_slots": 74,
+        "nonempty_p_slots": 70,
+        "native_source_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+        "native_source_bytes": 2529639,
+        "spine_index": 21
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-002.xhtml",
+        "raw_sha256": "c3dd7eadd11325b859dbbcb0ce6d6f5fe646ce394d2b140fe425bae8bb813415",
+        "p_slots": 35,
+        "nonempty_p_slots": 33,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "7869efb68f8d33a674bc285dc26847ecc002edc5c3ed8423900d70ba2dee69d5",
+        "p_slots": 488,
+        "nonempty_p_slots": 451,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "061a3c2168d9f1d7e01c81b0fd081b4babaa7c97d455e4499029ad7e64126240",
+        "p_slots": 540,
+        "nonempty_p_slots": 499,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "dc263cd43ea1d5b0016d985a9a7d441b6de48e708edaf38617b05005f9efd469",
+        "p_slots": 523,
+        "nonempty_p_slots": 480,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "657f01c1c3db085cfbb7221e0a26a2a91b2339cbde6dbaba90728e333b04919a",
+        "p_slots": 555,
+        "nonempty_p_slots": 520,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "bce309b4655b0e751768358bfe354f7c4934edeef7befe7fa5d4d2c7c36423fd",
+        "p_slots": 784,
+        "nonempty_p_slots": 726,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "I",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "2783bde76a1d1520865a83e281207d3fc5863a3d2a36c17549728470c3583571",
+        "p_slots": 162,
+        "nonempty_p_slots": 157,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "Ep1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-009.xhtml",
+        "raw_sha256": "20ca360822aa445357001c244e025c761874dbd38c77fa268bf467e0e17f8f3b",
+        "p_slots": 147,
+        "nonempty_p_slots": 137,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-07",
+        "unit": "Ep2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-010.xhtml",
+        "raw_sha256": "e1b09aeeb72eb264af7ffe8f24833d1df28c793b2a627c269db14230b0fe0398",
+        "p_slots": 54,
+        "nonempty_p_slots": 48,
+        "native_source_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+        "native_source_bytes": 11201415,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0009.html",
+        "raw_sha256": "41b88af8e184b0c3a183b1e1aba458c08b81191f26c4df92e2c7e7fa68ae5d96",
+        "p_slots": 21,
+        "nonempty_p_slots": 15,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0010.html",
+        "raw_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+        "p_slots": 452,
+        "nonempty_p_slots": 418,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0011.html",
+        "raw_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+        "p_slots": 498,
+        "nonempty_p_slots": 464,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0012.html",
+        "raw_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+        "p_slots": 673,
+        "nonempty_p_slots": 623,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0013.html",
+        "raw_sha256": "362bd06e5a370572858ecc06f244fd02a979cae2ab95adc1de8c931feb4ae5d9",
+        "p_slots": 513,
+        "nonempty_p_slots": 471,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0014.html",
+        "raw_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+        "p_slots": 559,
+        "nonempty_p_slots": 521,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "Ep1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0015.html",
+        "raw_sha256": "6a8bad54d479bc2114018847d81892d7b3cfc6fa02744e1cdb03f8085ee2bf21",
+        "p_slots": 158,
+        "nonempty_p_slots": 150,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-08",
+        "unit": "Ep2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0016.html",
+        "raw_sha256": "940db90d25bff7aade065e706e76455022e066a65ae841ce87c4d4e0af8d257e",
+        "p_slots": 53,
+        "nonempty_p_slots": 48,
+        "native_source_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+        "native_source_bytes": 2964798,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0009.xhtml",
+        "raw_sha256": "cb699d0afc8313bebd4201fb9241f42429a777e4c043796aef91771ee56dae98",
+        "p_slots": 44,
+        "nonempty_p_slots": 40,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0010.xhtml",
+        "raw_sha256": "94ff7d5cab3addb0b54fdf1766242d3ed6dc5b7d0bfa92d23625e23dfaafbdc3",
+        "p_slots": 546,
+        "nonempty_p_slots": 516,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0011.xhtml",
+        "raw_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+        "p_slots": 658,
+        "nonempty_p_slots": 621,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0012.xhtml",
+        "raw_sha256": "40571af74e14c4eb2861e7857c542804e68b286408d272f2a52c55628d453ba9",
+        "p_slots": 544,
+        "nonempty_p_slots": 513,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0013.xhtml",
+        "raw_sha256": "26b9cf78a4d301aef90ec736b1c7570cfccd9ef5119e6af46eb03e387b119c85",
+        "p_slots": 300,
+        "nonempty_p_slots": 280,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0014.xhtml",
+        "raw_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a",
+        "p_slots": 868,
+        "nonempty_p_slots": 785,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "Ep1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0015.xhtml",
+        "raw_sha256": "db2390f1b63ba58198c8aa50d3a56baca65f072874b64970d05c68c964ed2214",
+        "p_slots": 74,
+        "nonempty_p_slots": 65,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-09",
+        "unit": "Ep2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0016.xhtml",
+        "raw_sha256": "c5f9d1ee601b45fadeb886b393fb18c4086e5b31a633be994e4cddacfa504dee",
+        "p_slots": 42,
+        "nonempty_p_slots": 39,
+        "native_source_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+        "native_source_bytes": 3086699,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0009.html",
+        "raw_sha256": "8ffcdc0bce2ac3275c59ab901c8603970ea8c8a73996d0d0edac327af103a598",
+        "p_slots": 21,
+        "nonempty_p_slots": 19,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0010.html",
+        "raw_sha256": "f87f7afb3581d5ce16fed794c82b7fa4421ce6df21fde22c4dc4722482e6c74f",
+        "p_slots": 337,
+        "nonempty_p_slots": 320,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0011.html",
+        "raw_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+        "p_slots": 541,
+        "nonempty_p_slots": 499,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0012.html",
+        "raw_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098",
+        "p_slots": 699,
+        "nonempty_p_slots": 656,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0013.html",
+        "raw_sha256": "b73250179b088609ca5fc8a0e16b9f8dd8f2df18eadcaeff469eaf5bf4bd95f0",
+        "p_slots": 610,
+        "nonempty_p_slots": 576,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0014.html",
+        "raw_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+        "p_slots": 758,
+        "nonempty_p_slots": 707,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-10",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0015.html",
+        "raw_sha256": "2638b219db920c0fc2c7810dcb7f0f51f33aaa1b654d89432511e1a9f4e42ada",
+        "p_slots": 60,
+        "nonempty_p_slots": 55,
+        "native_source_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+        "native_source_bytes": 1630298,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-002.xhtml",
+        "raw_sha256": "a7b676790b915ebc17f574f8f488608527e2a1ed931b77a2d9279b073ac2e374",
+        "p_slots": 38,
+        "nonempty_p_slots": 30,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+        "p_slots": 633,
+        "nonempty_p_slots": 586,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+        "p_slots": 534,
+        "nonempty_p_slots": 478,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+        "p_slots": 579,
+        "nonempty_p_slots": 530,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+        "p_slots": 580,
+        "nonempty_p_slots": 550,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "6fc357c0d2a2e296781b478ab7edf4772d6abaa0db3e52da650136ca6b4bdeee",
+        "p_slots": 358,
+        "nonempty_p_slots": 329,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-11",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "411be22a287cad0c8c0c0a1539b2115736cefdb3913fbcc172779045a3f76d25",
+        "p_slots": 143,
+        "nonempty_p_slots": 132,
+        "native_source_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+        "native_source_bytes": 6177663,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0009.html",
+        "raw_sha256": "46c76f9e50369c8b1202bf03207047778a2a43e0879e0c475c3cda4235876098",
+        "p_slots": 23,
+        "nonempty_p_slots": 20,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0010.html",
+        "raw_sha256": "969c064b40c2efd41fd73941f3a9645bd301d6dfab1c00d0fac09f2e4f605f49",
+        "p_slots": 378,
+        "nonempty_p_slots": 344,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0011.html",
+        "raw_sha256": "c98b5bfb627be5a78df510209dc9820a941c8962a9e851600c845dc6d5d602bf",
+        "p_slots": 400,
+        "nonempty_p_slots": 357,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0012.html",
+        "raw_sha256": "6a056909589058bca30ce989a6b06c3deef6a1c4577b4a8abe728cacceffc4fc",
+        "p_slots": 583,
+        "nonempty_p_slots": 550,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0013.html",
+        "raw_sha256": "1c6c24403c57af3e0a9462e2da5cbd02e167718d69322f7d01a9e38104de8bde",
+        "p_slots": 346,
+        "nonempty_p_slots": 321,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "C5",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0014.html",
+        "raw_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799",
+        "p_slots": 582,
+        "nonempty_p_slots": 545,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0015.html",
+        "raw_sha256": "1d8af593820e85dc0b6db453efa5e29d8ea89b039667ecfa4db7a733007569de",
+        "p_slots": 438,
+        "nonempty_p_slots": 403,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-12",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0016.html",
+        "raw_sha256": "f572a9dcc431590cfe995d876010db9859eec857f22a6100cece0b481d00a495",
+        "p_slots": 91,
+        "nonempty_p_slots": 84,
+        "native_source_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+        "native_source_bytes": 1570295,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0009.html",
+        "raw_sha256": "7e3b03feb0c2a989cb7ecb27ab06b81df51fc90bbe99b8dab71ea4acce165f68",
+        "p_slots": 22,
+        "nonempty_p_slots": 20,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0010.html",
+        "raw_sha256": "31b9d68d2e16635d2c30f3959c888924c8b1e5f5114b7985c32cd6feb30bd2b9",
+        "p_slots": 473,
+        "nonempty_p_slots": 438,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0011.html",
+        "raw_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2",
+        "p_slots": 518,
+        "nonempty_p_slots": 478,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0012.html",
+        "raw_sha256": "12590adbafb9ee7f56f93b81db010f04598185528298f75719ebb2ca3ac412ab",
+        "p_slots": 498,
+        "nonempty_p_slots": 470,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0013.html",
+        "raw_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+        "p_slots": 411,
+        "nonempty_p_slots": 387,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0014.html",
+        "raw_sha256": "fc3416a3a5c0dd4f6eb16037b4d9518da6cfc3b94f9a6a8f4572b8b53747bf8a",
+        "p_slots": 470,
+        "nonempty_p_slots": 432,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-13",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0015.html",
+        "raw_sha256": "a4cf13160363c963da1a8098ab98d339803bc47ecf020d7a53f3557716ebfe26",
+        "p_slots": 64,
+        "nonempty_p_slots": 60,
+        "native_source_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+        "native_source_bytes": 2779947,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0009.xhtml",
+        "raw_sha256": "73fe893777c9a49007e15cdbbf91171cd857ac329fef8d8d52f970856cea6b2b",
+        "p_slots": 15,
+        "nonempty_p_slots": 12,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0010.xhtml",
+        "raw_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+        "p_slots": 418,
+        "nonempty_p_slots": 388,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0011.xhtml",
+        "raw_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+        "p_slots": 573,
+        "nonempty_p_slots": 511,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0012.xhtml",
+        "raw_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+        "p_slots": 404,
+        "nonempty_p_slots": 383,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "I13",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0013.xhtml",
+        "raw_sha256": "a8071cb8fc1d0a95331b2f144583e9a237cd2b7a166e92dd566ced148a1eeaf2",
+        "p_slots": 85,
+        "nonempty_p_slots": 71,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0014.xhtml",
+        "raw_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+        "p_slots": 681,
+        "nonempty_p_slots": 624,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0015.xhtml",
+        "raw_sha256": "4712c5ed58591907fcc73823ac98f75d8a5536d53c8305ebc4ba3b09d75bc5dc",
+        "p_slots": 384,
+        "nonempty_p_slots": 349,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-14",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0016.xhtml",
+        "raw_sha256": "b26196753bfb51162bdbea973b1e3d1861e288a5b4f7aaf8846b0710d4f16f39",
+        "p_slots": 131,
+        "nonempty_p_slots": 122,
+        "native_source_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+        "native_source_bytes": 2839172,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "Pr",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0009.xhtml",
+        "raw_sha256": "f8039c2caf0fe4104d3a6223c09643d0991d96aabe4f7c0355931db7cdc7dc10",
+        "p_slots": 44,
+        "nonempty_p_slots": 42,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0010.xhtml",
+        "raw_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e",
+        "p_slots": 505,
+        "nonempty_p_slots": 458,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0011.xhtml",
+        "raw_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+        "p_slots": 958,
+        "nonempty_p_slots": 867,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0012.xhtml",
+        "raw_sha256": "4c35da64df6cd332693ab880b1a3721e5604915104fe55062eff0aaa0f5d6b2c",
+        "p_slots": 548,
+        "nonempty_p_slots": 503,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0013.xhtml",
+        "raw_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+        "p_slots": 520,
+        "nonempty_p_slots": 482,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0014.xhtml",
+        "raw_sha256": "62264c946d696bf76f8157315c0afc387761798f1c3bf565a5aaf9b05f272203",
+        "p_slots": 373,
+        "nonempty_p_slots": 330,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-15",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "OEBPS/Text/part0015.xhtml",
+        "raw_sha256": "0dc9381cb468292d1109d962ace2905d42a7ece1b02a43bb3166b40a208964a4",
+        "p_slots": 65,
+        "nonempty_p_slots": 55,
+        "native_source_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "native_source_bytes": 2513225,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-002.xhtml",
+        "raw_sha256": "aac0476d3091ee405a7becfd1362e430bfe1b60ea423dd7b76f7689131ef9eb9",
+        "p_slots": 513,
+        "nonempty_p_slots": 484,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 9
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "I1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-003.xhtml",
+        "raw_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+        "p_slots": 45,
+        "nonempty_p_slots": 42,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-004.xhtml",
+        "raw_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+        "p_slots": 578,
+        "nonempty_p_slots": 546,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "I2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-005.xhtml",
+        "raw_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+        "p_slots": 47,
+        "nonempty_p_slots": 46,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-006.xhtml",
+        "raw_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+        "p_slots": 538,
+        "nonempty_p_slots": 501,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "I3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-007.xhtml",
+        "raw_sha256": "03da2957104d1de41be93db36f0842b2cb5ffe9ada50c0684a731727706aa0d8",
+        "p_slots": 46,
+        "nonempty_p_slots": 45,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 14
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "C4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-008.xhtml",
+        "raw_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+        "p_slots": 492,
+        "nonempty_p_slots": 456,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 15
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "I4",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-009.xhtml",
+        "raw_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80",
+        "p_slots": 41,
+        "nonempty_p_slots": 39,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 16
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-010.xhtml",
+        "raw_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23",
+        "p_slots": 515,
+        "nonempty_p_slots": 478,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 17
+      },
+      {
+        "source_id": "MAIN-16",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "item/xhtml/p-011.xhtml",
+        "raw_sha256": "a827b87dac437c985c993b00971a091e38dd3cff4c211bc8e51c2218651eebf7",
+        "p_slots": 29,
+        "nonempty_p_slots": 20,
+        "native_source_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "native_source_bytes": 8530869,
+        "spine_index": 18
+      },
+      {
+        "source_id": "MAIN-17",
+        "unit": "C1",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0009.html",
+        "raw_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+        "p_slots": 591,
+        "nonempty_p_slots": 535,
+        "native_source_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+        "native_source_bytes": 2197695,
+        "spine_index": 10
+      },
+      {
+        "source_id": "MAIN-17",
+        "unit": "C2",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0010.html",
+        "raw_sha256": "beb44a5a379c32617f442231d29760eafd4897fc2e1b29ee6847390d1cb73118",
+        "p_slots": 575,
+        "nonempty_p_slots": 515,
+        "native_source_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+        "native_source_bytes": 2197695,
+        "spine_index": 11
+      },
+      {
+        "source_id": "MAIN-17",
+        "unit": "C3",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0011.html",
+        "raw_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+        "p_slots": 560,
+        "nonempty_p_slots": 504,
+        "native_source_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+        "native_source_bytes": 2197695,
+        "spine_index": 12
+      },
+      {
+        "source_id": "MAIN-17",
+        "unit": "F",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0012.html",
+        "raw_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+        "p_slots": 789,
+        "nonempty_p_slots": 691,
+        "native_source_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+        "native_source_bytes": 2197695,
+        "spine_index": 13
+      },
+      {
+        "source_id": "MAIN-17",
+        "unit": "Ep",
+        "part_role": "ACCEPTED_UNIT_START_REUSED",
+        "member": "text/part0013.html",
+        "raw_sha256": "9df7d8a8ed2c8f0f42e28d261b11045e6ac593e8d5ec3fc56ab3a62e282071fd",
+        "p_slots": 93,
+        "nonempty_p_slots": 82,
+        "native_source_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+        "native_source_bytes": 2197695,
+        "spine_index": 14
+      }
+    ]
+  },
+  "source_plane_filter": {
+    "behavioral_and_fictional_event_authority": "Only admitted principal fictional narrative of Japanese MAIN01–17. All artifact pins identify historical analytical objects; their excluded or paratext sections are not thereby admitted as event evidence.",
+    "legacy_context_exposure": "Earlier CP01 lists illustration corroboration and V03 creator/afterword commentary; earlier V01 metadata names supplementary bonus. These contextual exposures remain disclosed. No universal pretraining/analyst-memory blindness or historical-never-image claim.",
+    "explicit_legacy_excluded_analytical_spans": [
+      "V01 reading illustration/bonus sections21–22",
+      "V03 reading afterword/paratext section8",
+      "V08 reading visual section17"
+    ],
+    "later_source_gates": "All four designated holdout narratives remain unopened in this continuation; no historical opening has been established. Expanded prose, bonus/afterword/eligible image/reference narrative remains separately gated. Metadata/title/strict-heading inspection is not body reading.",
+    "component_audit": "All17 EPUB nonprincipal inventories and five actual mixed/reference page/component inspections remain incomplete; source/hash completeness is not literary completion."
+  },
+  "actual_evidence_scope": {
+    "accepted_principal_readings": 17,
+    "historical_V01_V13_status": "Inherited accepted published analyses remain authority; no fresh whole-old-volume re-reading is claimed.",
+    "fresh_late_principal_reading": "Complete separate ordered V14–V17 passes and source-first humor/voice work at the per-volume reviews actual scopes; overlapping lineages are not summed.",
+    "early_bounded_targeted_readiness": "Two continuing readers each actually checked773 distinct slots/20windows/13members;14 mechanically extracted derivatives do not create14 read members. Root received complete public/projection/reports and newly rechecked ten V05slots. These are overlapping bounded checks, not new whole early volumes.",
+    "same_model_and_shared_QA": "Continuing lineages, common sources/maps/context and postseal QA do not provide statistical independence or full blindness. No human/native-speaker or acoustic reviewer claim.",
+    "actually_existing_receiving_reviews": [
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V09_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V10_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V12_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V13-V15_CHECKPOINT_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V13_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V14_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V15_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md",
+      "series/konosuba/09 Audits and Manifests/KONOSUBA_V16-V17_CHECKPOINT_RECEIVING_REVIEW.md"
+    ]
+  },
+  "prospective_generations": {
+    "Gen01_formal": {
+      "records": 20,
+      "CONFIRMED": 16,
+      "PARTIAL": 2,
+      "NOT_TESTED": 2
+    },
+    "Gen02_formal": {
+      "records": 22,
+      "CONFIRMED": 13,
+      "PARTIAL": 5,
+      "NOT_TESTED": 3,
+      "AMBIGUOUS": 1
+    },
+    "Gen03_formal": {
+      "records": 25,
+      "CONFIRMED": 9,
+      "PARTIAL": 5,
+      "NOT_TESTED": 10,
+      "FALSIFIED": 1
+    },
+    "Gen04_formal": {
+      "records": 25,
+      "CONFIRMED": 6,
+      "PARTIAL": 7,
+      "NOT_TESTED": 12
+    },
+    "Gen05_formal": {
+      "CONFIRMED": 8,
+      "PARTIAL": 6,
+      "FALSIFIED": 1,
+      "AMBIGUOUS": 3,
+      "NOT_TESTED": 7
+    },
+    "all117_not_comparable_accuracy_trials": true,
+    "Gen05_actual_prospective_freeze_utc": "2026-10-17T06:34:16.125156+00:00",
+    "Gen05_unchanged_model": {
+      "bytes": 33163,
+      "sha256": "792ae4b45cb69190ff8e2f839d613e5fee13c51c684f967a01276ea14aad76df"
+    },
+    "Gen05_unchanged_forecasts": {
+      "bytes": 103088,
+      "sha256": "aa7243c8a2a03e5f79993dd7d1690f715d4dd659299b847d9624a117e57e28cf",
+      "original_blank_Outcome_Adjudication_pairs": 25
+    },
+    "all25_separate_current_records": [
+      {
+        "id": "MG05-K01",
+        "frozen_record_sha256": "c6e8a81c08ab45b8d99180163f90c607b936f188fa62f296a51340a0813310b5",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-K02",
+        "frozen_record_sha256": "f3c4b8cf8492be034a6c03fada56a1de1cc529fc38cee0ea1c31e2a7182dbad3",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-K03",
+        "frozen_record_sha256": "2b8ef6991909f55d3454262cb2b514e318d37fd26c90f5a11ad28dc06dc4754c",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-K04",
+        "frozen_record_sha256": "658ed09fa59abe998abfcc0c025575656bb9d74ab1f2cd5f28ede8fdae683578",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-A01",
+        "frozen_record_sha256": "6c1bcd673d1bf16af55f156200eb1758ccd5f1d8c612058868cf4e1349f4056f",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-A02",
+        "frozen_record_sha256": "9cce5fbf38da6f48ff710efee7a293856e79890bd473fc97565cd5394956932e",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "AMBIGUOUS"
+      },
+      {
+        "id": "MG05-A03",
+        "frozen_record_sha256": "a8fc9f8d432be0a42959cbf3137c9674a404f94c1177c20c2113161f6d658766",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-A04",
+        "frozen_record_sha256": "c89b7d8fb23ee55119bb5fe51d60b2f4111f83c8117ccfe73a9dccd037615dcf",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-M01",
+        "frozen_record_sha256": "f6ff7b16e18bfa9e1085ce8c5d769d6dd3d1b851972623537a84e4e6d94acada",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-M02",
+        "frozen_record_sha256": "1e0a06d9f375c1ad75735324c33c62a99b7c5a6bdf9b1dd71fb72a89610445c6",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-M03",
+        "frozen_record_sha256": "e34a0e8621b512fc91121c51e95381d09c134ab69730fef4e1674a69d263c8ce",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-M04",
+        "frozen_record_sha256": "2f5698bbf3ba5501e09ab33ab7e4adc92a93b1142ce97ce2ea864603bd69a474",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-M05",
+        "frozen_record_sha256": "8c36cedb1addf926bc67b92f82006d6508b657206659dba929670fdb268daaa9",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "AMBIGUOUS"
+      },
+      {
+        "id": "MG05-M06",
+        "frozen_record_sha256": "6ff5aef9479154af24ae46f36709e9476427a043df7cf6ee845f40fcc27f54b9",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-D01",
+        "frozen_record_sha256": "acb62130e7bc740a352c40826dd4adc6b021ea5da03debbe86adbd27fd165a92",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-D02",
+        "frozen_record_sha256": "903b5be7c990d187096b7229cd0e633cfd4862837b33c6ec067c67722df48cc0",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "AMBIGUOUS"
+      },
+      {
+        "id": "MG05-D03",
+        "frozen_record_sha256": "7ef23d871f83781ca09e2d2634f50a53992b168817eda377c2df49a7d21825fb",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-E01",
+        "frozen_record_sha256": "67632bb853115010da1c1ae55cef46927dd355e0821558fb9b0ddca5257e6008",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "PARTIAL"
+      },
+      {
+        "id": "MG05-E02",
+        "frozen_record_sha256": "513b5fae98e7df19be5facf61a6ab9c8a4e78ca83eed9f0b2f1c53ffad20a3eb",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-J01",
+        "frozen_record_sha256": "d9c2049710e6d305b0f7c4913732225fe96936be481b583f63ac973308ccd5e4",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "FALSIFIED"
+      },
+      {
+        "id": "MG05-J02",
+        "frozen_record_sha256": "7540c8d5a37d2db2856b21ca349ecd1b79e34eaa6759bfb9c5df996f418c908f",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-Y01",
+        "frozen_record_sha256": "b8a2a887455a9b91c73acd6d001bff4392012e1e83796341ca8c895124cf9749",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "CONFIRMED"
+      },
+      {
+        "id": "MG05-CE01",
+        "frozen_record_sha256": "eec89badc9410601b5f5fca582b4ed103b8400a41984cef6afe524d9cd31c8fc",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-I01",
+        "frozen_record_sha256": "95903eb1efb343fcb4e47156edd975f6896e779efe301e82e34b532e8f4342ec",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      },
+      {
+        "id": "MG05-I02",
+        "frozen_record_sha256": "de8330069ce5a10ed0c5e5f1acd7b6d8c50db97281a8cebecf030a36018c61ba",
+        "original_Outcome_and_Adjudication_remain_blank": true,
+        "formal_outcome": "NOT_TESTED"
+      }
+    ],
+    "prior_adverse_histories": "Gen03K04 sufficient noticed-tears brake remains F/retired; Gen04V13/V15K03 F and V14A02 F remain original local history. V17localJ01P remains unchanged despite separate finalJ01serviceF. No retroactive new threshold or Gen06/V18."
+  },
+  "pooled_Gen05_accounting": {
+    "whole_premises": 354,
+    "original_discovery_descriptions": 682,
+    "clear_portable": 351,
+    "clear_L3": 1,
+    "unresolved": 2,
+    "all_soft_touched_primary": 81,
+    "conservative_portable_interval": [
+      351,
+      353
+    ],
+    "diagnostic_only_soft_removal": {
+      "N": 273,
+      "clear_portable": 270,
+      "clear_L3": 1,
+      "unresolved": 2
+    },
+    "voice_original_views": 428,
+    "main_adjacent_views": 347,
+    "auxiliary_views": 81,
+    "original_windows": 856,
+    "within_volume_overlap_groups_not_trials": 127,
+    "scope_limit": "Distinct from old Gen03N354/Gen04N496; initial assignments, differences and qualified source corrections retain attribution."
+  },
+  "all_ten_exact_ledger_states": [
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 192254,
+      "sha256": "5878b94e8aff5653f1d1531a0b2024fce1ab65de9af276c8d20cd6964c291a4b",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 121927,
+      "sha256": "89696548000d00555012978e2f53c824e346aec9bc8f700102c1cb4b3c2c9429",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 173536,
+      "sha256": "a299151bd16a5d13e8eff73d079aea87ae90f81a39adf04f08bdb660c22219e3",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 699098,
+      "sha256": "e5da3a5abfeb128328e7547cfa6ab5c90c5662b8b7f3bce5dbaa99929f40b790",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 510472,
+      "sha256": "78db044049137d1a63e008034306dc16774566724b5893ed448e2812b17b3f92",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 104385,
+      "sha256": "52a612480ee37d4a045cecfc24c7c94dc791043204f10a37c60c26caf1b9af9c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 957533,
+      "sha256": "e5832b9350b99397050ba49e5716e9f4961617cc441aa3698bbaa1b63dfdae54",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 99674,
+      "sha256": "6031640ef273dbb90e71799a463d735356257bc1574ac3cc2ac19cb9c0eb5e31",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 123703,
+      "sha256": "00c094dd377622c74e3daf5b189c38a67843e80d93aaf9f7eff9f1bcf2097c4c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 90426,
+      "sha256": "6d2b291914548499ace7d638bf61dc69ca97e05498d4aad7b1689c5ce9438c42",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    }
+  ],
+  "exact_accepted_artifact_pins": [
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_CHARACTER_RECONSTRUCTION_AND_VALIDATION_PROTOCOL.md",
+      "bytes": 16378,
+      "sha256": "59acd672b7d42b6d5928319bed7d88fd8c87550defe43e7a7932466e7b31d02c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_JAPANESE_HUMOR_AND_VOICE_PROTOCOL.md",
+      "bytes": 12581,
+      "sha256": "7f530dacd4b924fbc1f758e160eda9cc4c824bc289458af1eb36279d1e1b79f9",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_SYNTHESIS_ARCHITECTURE_AND_ROADMAP.md",
+      "bytes": 20426,
+      "sha256": "09dd09f00e48ca796bbfb9e120c2bc66d338cdec5c314c406fe802de82a2d14b",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/00 Frameworks and Methods/KONOSUBA_VOLUME_DEEP_READING_METHOD.md",
+      "bytes": 13959,
+      "sha256": "f03a1cb89fc602260538454363ee399f8d50ec2a3442c02793e449e4b56c07f8",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json",
+      "bytes": 532750,
+      "sha256": "3508901749f27321e72356d5bb010fd4b80203e41f0ad5890228c26f1348664e",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md",
+      "bytes": 26610,
+      "sha256": "6101c29bbacacf6606ec9ef190d794e1d6a12aa03b130d0ca3f05d8d109b31b9",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md",
+      "bytes": 14412,
+      "sha256": "526605aad865bbfda4baa91909b9bac0489f84c6defaf65f89c2582597099182",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_LOCK.md",
+      "bytes": 14719,
+      "sha256": "529d34ae6c5561c0de3577282911911b9accc7aaa053b29a3c5a05c9d77fb49d",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V01_DEEP_READING.md",
+      "bytes": 62464,
+      "sha256": "9605df9f2a26b7039195ba98a0cdf99afa848a106d2c6bd1f08cb8c630497aaf",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V02_DEEP_READING.md",
+      "bytes": 39383,
+      "sha256": "15825ae793f869cde619a9692494f462aa8559d39e4bf4cd62dd9b4cfb2c4473",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+      "bytes": 51030,
+      "sha256": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md",
+      "bytes": 57297,
+      "sha256": "e3c23425791359506e881a70dd858673364de17afb64b22b5b7f89c3bb507e6e",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+      "bytes": 53663,
+      "sha256": "ab29a472cd0714e125d2de414e3d4d8a4efdb083f5b0fad7bbe5a4e9f4ddf1dc",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md",
+      "bytes": 36576,
+      "sha256": "6716a24edf6e1e32e9510feed31519c4c1b52c706a13a2eb8fb794f05b1746bb",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+      "bytes": 56569,
+      "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+      "bytes": 55637,
+      "sha256": "dfd7006c95c750deef902d61da41fb28ee226d984fcb7c2699d6369cc94e5c74",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+      "bytes": 83538,
+      "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V10_DEEP_READING.md",
+      "bytes": 200750,
+      "sha256": "63c4e06f6d26a4205ca451749b8a5e58414f4c85a585722ae75c7ab684c25be7",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V11_DEEP_READING.md",
+      "bytes": 120003,
+      "sha256": "ae9898d8ad036f54c4185bef3023330984ec29a206e8c7f0275b5c67ed2a5ad0",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V12_DEEP_READING.md",
+      "bytes": 187867,
+      "sha256": "4f0e498d60284953a2e8d9b8d42e9304a1d4fa4166b6f2d5be3bdd240fc89377",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V13_DEEP_READING.md",
+      "bytes": 284570,
+      "sha256": "52da1486a8d276a3be36809d6fc9d8d98b9ef22bb6340c8c71cd17cd4bb4b9ac",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V14_DEEP_READING.md",
+      "bytes": 377734,
+      "sha256": "c06e2dd10113ec1effed84caf973eb44ded0652a4121a16a438b6438e4b0925b",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V15_DEEP_READING.md",
+      "bytes": 979019,
+      "sha256": "4def6d40eda5cb620f30c778aee0256d0b7b8542df7c9f6f22be4d4e8bad8edc",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V16_DEEP_READING.md",
+      "bytes": 242821,
+      "sha256": "3abfddeea351603a856e1ef56c7638c4c64e5ec9754b21e09c0eaaa82ae25c22",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V17_DEEP_READING.md",
+      "bytes": 66777,
+      "sha256": "cc5df8a45547c7058bc6152bfdfd8822747146be0cb848f3d425a3c5411be1c6",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 192254,
+      "sha256": "5878b94e8aff5653f1d1531a0b2024fce1ab65de9af276c8d20cd6964c291a4b",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 121927,
+      "sha256": "89696548000d00555012978e2f53c824e346aec9bc8f700102c1cb4b3c2c9429",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 173536,
+      "sha256": "a299151bd16a5d13e8eff73d079aea87ae90f81a39adf04f08bdb660c22219e3",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 699098,
+      "sha256": "e5da3a5abfeb128328e7547cfa6ab5c90c5662b8b7f3bce5dbaa99929f40b790",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 510472,
+      "sha256": "78db044049137d1a63e008034306dc16774566724b5893ed448e2812b17b3f92",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 104385,
+      "sha256": "52a612480ee37d4a045cecfc24c7c94dc791043204f10a37c60c26caf1b9af9c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 957533,
+      "sha256": "e5832b9350b99397050ba49e5716e9f4961617cc441aa3698bbaa1b63dfdae54",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 99674,
+      "sha256": "6031640ef273dbb90e71799a463d735356257bc1574ac3cc2ac19cb9c0eb5e31",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 123703,
+      "sha256": "00c094dd377622c74e3daf5b189c38a67843e80d93aaf9f7eff9f1bcf2097c4c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 90426,
+      "sha256": "6d2b291914548499ace7d638bf61dc69ca97e05498d4aad7b1689c5ce9438c42",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V16_HUMOR_CODING_REGISTER.md",
+      "bytes": 566538,
+      "sha256": "abd554a6081380f35653b9aadb3ff9d78a53c89691b6d2747d93da0ef9d23bdb",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V16_HUMOR_DISCOVERY_REGISTER.md",
+      "bytes": 735787,
+      "sha256": "1e14d2f0a5ac16ae03cdfba75928dd6ff9753552f863b5c792f850503e6ad4c8",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V16_VOICE_COMPARISON_REGISTER.md",
+      "bytes": 1029863,
+      "sha256": "c6e9de59e3df6401e93cd5b6baea266263df9b06af77b5c86966ecefdfbe6c8b",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_HUMOR_CODING_REGISTER.md",
+      "bytes": 774679,
+      "sha256": "33340729c7b8d0bdba993dd2de01aada2b8889ded5e559fcb6aea8ddca78b7d7",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_HUMOR_DISCOVERY_INDEPENDENT_ORIGINALS.md",
+      "bytes": 519316,
+      "sha256": "5bc588456c0075c8be5a4cf5beb7a338813ff580c11eb28ab61ac33e37ecb212",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_HUMOR_DISCOVERY_PRODUCER_ORIGINALS.md",
+      "bytes": 300312,
+      "sha256": "eced162c544f6babab21a437094a5ddc859a5d2f1b18f334a814da7ed338d28a",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_HUMOR_DISCOVERY_REGISTER.md",
+      "bytes": 375565,
+      "sha256": "558833eab57632738994dc1bed977660a80d36810ee1aed7fbef22a41a8fd878",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_VOICE_COMPARISON_PART_01.md",
+      "bytes": 821026,
+      "sha256": "6f268beef69d9a7d3eebac826c353d7aa8b18cdb94d7ad86cfdc5d36877bd72a",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_VOICE_COMPARISON_PART_02.md",
+      "bytes": 843040,
+      "sha256": "06323d4bd9e6d1e906d285cc442bfb2a29ed889ffe6bd98a3241a53b685262cf",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_VOICE_COMPARISON_PART_03.md",
+      "bytes": 943472,
+      "sha256": "8028f25b1084155ae1b4ad9bad9fd8d38585b4fc4ec17ad9e11166e4e4e4c145",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_V17_VOICE_COMPARISON_REGISTER.md",
+      "bytes": 84467,
+      "sha256": "d229737ffb32507851b180f070eb956b21ddce6ee4b7a5e51ec4d0c49ae563a6",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V01-V03_CHECKPOINT.md",
+      "bytes": 17655,
+      "sha256": "8e9011474cc8c55dd0c05008c50eca720123e0aefdf8a822c5d54382f3b0eb9d",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V04-V06_CHECKPOINT.md",
+      "bytes": 16812,
+      "sha256": "4583c051f175c086b7e9461f4682fddc298d9fc66f6c1ec86939ffa8ab2ce79d",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+      "bytes": 90799,
+      "sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V10-V12_CHECKPOINT.md",
+      "bytes": 143090,
+      "sha256": "42b80aadc190720d205e9f594c3488b91c8108dc78c6aef3358794720fc1fe82",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V13-V15_CHECKPOINT.md",
+      "bytes": 298541,
+      "sha256": "9b205b0a45e51cf78533896d1f161f8401c2bca30eda3f4663af93c575f0adc2",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V09_RECEIVING_REVIEW.md",
+      "bytes": 15120,
+      "sha256": "e0c7daf85bd353afa55917288153c1cbb89500ef8acd9ad9bfc5e079601bd0ba",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V10-V12_CHECKPOINT_RECEIVING_REVIEW.md",
+      "bytes": 10453,
+      "sha256": "8c63f08a62a6e5cbf85cbefdb6d6c58e4aa7a587c9caf0d56ab893628e712075",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V10_RECEIVING_REVIEW.md",
+      "bytes": 13527,
+      "sha256": "ad17c964be760ff7ae816d470270a0deb6b3997f1e33c085d94aac9ae8f14e46",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V11_RECEIVING_REVIEW.md",
+      "bytes": 16914,
+      "sha256": "13fa23adc7b9eb5282baccf98a80b171928c1b9f41e3e8f966dd0d3f4d4a9334",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V12_RECEIVING_REVIEW.md",
+      "bytes": 20633,
+      "sha256": "fd44b319717e61df68f1e7c7cf0b14b76f081e416c24eff3e3f6cb00ece96617",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V13-V15_CHECKPOINT_RECEIVING_REVIEW.md",
+      "bytes": 11964,
+      "sha256": "784db2ed3fab73c6d5204be2dceb2493d6b129344b218acdecded77e2c5c9ca8",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V13_RECEIVING_REVIEW.md",
+      "bytes": 17326,
+      "sha256": "94ae7831939b1fa2badcd794562684acafaecc5dfe0bb3b61a78a8fe5d515b09",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V14_RECEIVING_REVIEW.md",
+      "bytes": 25959,
+      "sha256": "2df7c551750f74466db43b3f478231bb5de64bfbaf8887fb24e84ea2e8a1d758",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V15_RECEIVING_REVIEW.md",
+      "bytes": 25072,
+      "sha256": "06e948db72482e72a958dcd36f7e4fe0d30bfc622c3dfd70cc183ee2fffdcbed",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V16_RECEIVING_REVIEW.md",
+      "bytes": 25141,
+      "sha256": "03755357b84f197510467f661221a712bd6e3be47061654383ba2b784233a161",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V17_RECEIVING_REVIEW.md",
+      "bytes": 15413,
+      "sha256": "b2b71d7b3aa9e956601cd3050a442093ad8cbd35bd61c1e70f34db9051f59b5c",
+      "identity_role": "EXACT_ACCEPTED_MAIN_EVIDENCE_ARTIFACT_WITH_COMPONENT_FILTER"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V16-V17_FINAL_SEQUENTIAL_CHECKPOINT.md",
+      "bytes": 224053,
+      "sha256": "2f6877c60083933617a3f012c3f248938449bcdf45cbf01f55af9172c2695f6e",
+      "identity_role": "EXACT_ACCEPTED_CP06_EVIDENCE_ARTIFACT"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_EARLIER_PROSPECTIVE_GENERATIONS_RECONCILIATION.md",
+      "bytes": 69515,
+      "sha256": "e1eee42e9a5bf43a96a268ed7059d098801d225ebac0be5be5cac869759af2de",
+      "identity_role": "EXACT_ACCEPTED_CP06_EVIDENCE_ARTIFACT"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+      "bytes": 66302,
+      "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+      "identity_role": "EXACT_ACCEPTED_CP06_EVIDENCE_ARTIFACT"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_V16-V17_CHECKPOINT_RECEIVING_REVIEW.md",
+      "bytes": 10462,
+      "sha256": "acfa661d54c51c959f7eb0503ad6eb2da283fa3e1e91954a1f20022c00292aa8",
+      "identity_role": "EXACT_ACCEPTED_CP06_EVIDENCE_ARTIFACT"
+    }
+  ],
+  "historical_context_pins_excluded_from_current_mutable_claim_state": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "bytes": 112255,
+      "sha256": "f9058de26841fb5c94935775973c101b4e29b3b5d2124384e6238aad271264e8",
+      "identity_role": "HISTORICAL_PUBLISHED_CONTEXT_AT_4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc"
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 102287,
+      "sha256": "187414e76fb3552acfc07fa434a6ec3a1aad916d0146f44e0da6c94251c46b51",
+      "identity_role": "HISTORICAL_PUBLISHED_CONTEXT_AT_4b4ed3ad265b6d4ec4ca780e634cc7eacceb68fc"
+    }
+  ],
+  "actual_receiving_work_product_identities": [
+    {
+      "name": "Producer initial final checkpoint seal",
+      "bytes": 1729,
+      "sha256": "e224bfaadb85960c0e49dca4e58396e1ef9c56205e39bf3ac9b77fdb39f8cca8"
+    },
+    {
+      "name": "Semantic all25 input receiving seal",
+      "bytes": 3342,
+      "sha256": "5970e660a390e5152749b18d6d0c0070e38ac96cfd809cfbb8510f5779918d9f"
+    },
+    {
+      "name": "Verified root03 wording receipt",
+      "bytes": 2427,
+      "sha256": "a1355aa37f668508f612bda266f0bbe22fd5a4e9ee72e5a8166a54b481d71e23"
+    },
+    {
+      "name": "Semantic service02/03 bounded receiving seal",
+      "bytes": 1797,
+      "sha256": "636941b3069bdaff3b0600ecf7eb4e55e78cfb4fdbe9ad37c2e6cd06e9f9ee18"
+    },
+    {
+      "name": "Integrated composition author seal",
+      "bytes": 1872,
+      "sha256": "684811a6ff279cf11b216a9ada38e882427bdedfd184cf9e38cbf58014140e2e"
+    },
+    {
+      "name": "Independent integrated composition receiving seal",
+      "bytes": 5047,
+      "sha256": "8484752c729d6aa6b9f92457ab23923a6e3927cde8dc6adc1b45cace415dac14"
+    },
+    {
+      "name": "Independent earlier92 reconciliation seal",
+      "bytes": 5232,
+      "sha256": "753900e082e24f2fa8f64551b0513ffb81690c107a6cf46e56c4519d8627667a"
+    },
+    {
+      "name": "Independent pooled humor/voice preparation seal",
+      "bytes": 5722,
+      "sha256": "4774a48180d9b4df145aecd8e1d747ca70577ef0a3070e09c89728b94fd514bc"
+    },
+    {
+      "name": "Independent clothing adversarial seal",
+      "bytes": 2750,
+      "sha256": "c8268d644096e9b82c9a4c9e3dcadc7d51f1e50b55bf4809ceffc708a9b8cbf0"
+    },
+    {
+      "name": "Producer locator v1 seal",
+      "bytes": 1956,
+      "sha256": "b0f34df069e12903ba36fcc046e22ef41aac60f78d3b74862c0dff6f5ee276c9"
+    },
+    {
+      "name": "Independent locator v1 receiving seal",
+      "bytes": 3955,
+      "sha256": "d574a3b7d9f09068955bca934d9b387b0e203015da79770279ce63462de71f90"
+    },
+    {
+      "name": "Producer metadata v2 seal",
+      "bytes": 2852,
+      "sha256": "0ea6f9e8f56361847462d3c57c4d69caf3215cc5d9fd4702e5cf62ff9df73c04"
+    },
+    {
+      "name": "Independent metadata v2 receiving seal",
+      "bytes": 3318,
+      "sha256": "779b3f8ea6f5556f0ba87c85f1d4855fadaeea93e452940dec33ad97af11606b"
+    },
+    {
+      "name": "Producer principal readiness crosscheck seal",
+      "bytes": 1389,
+      "sha256": "ea5c33e4c3afcac799daab8fbbc2d95536b7445eadc108cd71fdf1acd49991b6"
+    },
+    {
+      "name": "Root complete new composition receiving",
+      "bytes": 1522,
+      "sha256": "a8f02986166c342bbc8861ca51e5d9434e7dd01d510c2037f969303a7bda90dd"
+    },
+    {
+      "name": "Root complete locator v2 new-field receiving",
+      "bytes": 1242,
+      "sha256": "27041e8472dcf572e94a08bdca7be4106bf0159d9f7e1c4ae673937d53ce5985"
+    },
+    {
+      "name": "Root ten-slot SP10 actual source check",
+      "bytes": 12897,
+      "sha256": "864f8e4d6e36c731ddc7c2f282f6674a953519ce485ccf76fca19072ad4310f0"
+    },
+    {
+      "name": "V17 exact publication full gate close",
+      "bytes": 3477,
+      "sha256": "f4a879053b19ff67c75f20f234cec2a356563b05fe14974e5cc622aaaf39581f"
+    }
+  ],
+  "remaining_program": {
+    "main_only_specialists": 7,
+    "reconstruction_models_party_transfer": 6,
+    "suite_audit_and_both_modes_nine_scenario_families": "NOT_COMPLETE",
+    "main_only_reconstruction_suite_freeze": "NOT_PERFORMED; must occur after acceptance/testing before holdout exposure",
+    "designated_holdouts": [
+      "Konosuba - Short Stories - Yorimichi.epub",
+      "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+      "Konosuba Extra - Dust - Volume 06.epub",
+      "Konosuba Extra - Dust - Volume 07.epub"
+    ],
+    "expanded_supplemental_books": 19,
+    "main_EPUB_excluded_component_audits": 17,
+    "mixed_reference_component_inspections": 5,
+    "expanded_synthesis_revisions_qualified_secondary_models_full_synthesis_indexes_final_audit": "NOT_COMPLETE",
+    "release_or_archival_closure": false
+  },
+  "unpublished_timing_receipt_erratum": {
+    "superseded_private_freeze": {
+      "bytes": 119780,
+      "sha256": "989d6c84220ceea352508419bf67c2ba3404c744613d77ed96297b68c3dbb557",
+      "frozen_at_utc": "2026-10-17T12:23:52.556517+00:00"
+    },
+    "superseded_private_receiving": {
+      "bytes": 1509,
+      "sha256": "76a7327559ec4384f59d15ba99069f7c2815637bd1b306beb48b4212c5d51559"
+    },
+    "reason": "The first private receipt claimed full root reading of the last independent report too early: display and event creation were combined in one tool cell, while actual model reception followed its return. The complete report has now actually been received before this corrected cutoff.",
+    "authority": "Attributable project-local correction under CHANGE_INTEGRATION_CHECKLIST analytical correction procedure; original private bytes preserved. This is a correction to recorded receiving timing, not a source/model/outcome revision.",
+    "consequence": "No holdout/expanded narrative or source image was opened, no downstream specialist used the first cutoff, no first frozen receipt was published/staged, and all66 evidence artifact pins/137member contracts/10ledgers remain unchanged. The later reconstruction-suite freeze remains unperformed."
+  }
+}

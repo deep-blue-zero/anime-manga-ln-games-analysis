@@ -1,22 +1,22 @@
 ---
 series: OPM
 artifact_type: crosswalk
-scope: Official web serialization and revision history, provider web 232-284
+scope: Official web serialization and revision history, provider web 232-287
 generation: V2
 status: active_provisional
-source_boundary: Public official state retrieved 2026-09-16; exact V37 overlap established; uncollected through web 284
+source_boundary: September lock plus October web 285-287 extension and web 282-284 recheck; uncollected through web 287
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-24
-updated: 2026-09-16
+updated: 2026-10-28
 ---
 
 # One Punch Man — Web Serialization and Revision Crosswalk
 
 ## Current state
 
-The official Tonari no Young Jump public backlog is locked for provider labels 232-284. Direct page-sequence comparison, not arithmetic, establishes web 232-234 as the web antecedents of V37 192-194撃目. Web 235 is therefore the first uncollected installment at the present V37 boundary. Web 235-284 form the `active_provisional` current-release layer.
+The official Tonari no Young Jump register now covers provider labels 232-287 through dated September and October locks. Direct page-sequence comparison, not arithmetic, establishes web 232-234 as the web antecedents of V37 192-194撃目. Web 235 is therefore the first uncollected installment at the present V37 boundary. Web 235-287 forms the `active_provisional` current-release layer. The October extension below adds three objects and records a direct web282-284 stability check.
 
 The `Local object` values are relative to the noncanonical snapshot root `_staging/current-web/tonari_2026-09-16/`; raw source objects and pages remain outside Git. The hash is the ordered-content SHA-256 for the main page sequence. The printed headings were transcribed directly from title pages; the apparent numbering relation is not generalized into a rule.
 
@@ -92,3 +92,15 @@ The snapshot proves the public state on 2026-09-16, not the absence of earlier r
 ## Rule
 
 Never infer tankobon chapter numbering by arithmetic from a web update identifier. Replaced or redrawn web material remains revision evidence, not stable collected authority. Reconcile each future tankobon directly, preserve superseded current-release notes historically, and route every still-uncollected claim as `active_provisional` / PR.
+
+## October extension and overlap check — 2026-10-28
+
+New local-object paths are relative to `_staging/current-web/tonari_2026-10-28/`. Existing rows retain their September paths and retrieval dates. Printed headings are direct observations.
+
+| Provider update ID | Display label | Printed heading | Publication UTC | Retrieval date | Local object | Hash | Narrative relation | Replacement/revision state | Tankobon destination | Notes |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 12207421984252262240 | [第285話] | 238撃目「なかなか」 | 2026-09-23T15:00:00Z | 2026-10-28 | `episodes/12207421984252262240/manifest.json` | `ce3ef57f86a035e5ceb648551fc8e2be9dadb6514837809d1abb8836710ede58` | uncollected continuation | public-current; first locked state | uncollected after V37 | 15 pages; PR |
+| 12207421984346359674 | [第286話] | 239撃目「きっとうまくいく」 | 2026-10-07T15:00:00Z | 2026-10-28 | `episodes/12207421984346359674/manifest.json` | `cdd6ce70a17242f3688faa2bed6de5dc83496bd7fc47a74a4f08afe6d93b1352` | uncollected continuation | public-current; first locked state | uncollected after V37 | 12 pages; PR |
+| 12207421984402522227 | [第287話] | 240撃目「ヒドーくん」 | 2026-10-21T15:00:00Z | 2026-10-28 | `episodes/12207421984402522227/manifest.json` | `efe816ef39712dd256263ca2524d7010864ccedeefe8eaab3158907469cf6e11` | uncollected continuation | public-current; first locked state | uncollected after V37 | 12 pages; PR |
+
+Web282-284 was re-captured in October: **58/58 page hashes and 3/3 ordered-content digests match** the September objects. This is bounded stability evidence. Combined coverage is 56 distinct objects / 1,114 pages, of which web235-287 is the 53-object / 1,013-page PR continuation. The [new reading](../07%20Current%20Release/OPM_WEB_285-287_DEEP_READING.md) and [source lock](../07%20Current%20Release/OPM_CURRENT_RELEASE_SOURCE_LOCK.md) own semantic and preservation details.

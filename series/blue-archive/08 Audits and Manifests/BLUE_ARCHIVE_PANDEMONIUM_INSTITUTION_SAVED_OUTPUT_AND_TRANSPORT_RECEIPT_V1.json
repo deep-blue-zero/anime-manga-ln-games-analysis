@@ -1,0 +1,944 @@
+{
+  "schema": "BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_C_ONLY_PROPOSAL_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 55278,
+      "sha256": "226b45b842d999cbfb6ff65e58165d6e851be9ac21dc37c943b836cfa8012d89",
+      "git_blob_oid_of_actual_bytes": "df98afc1686e6fb16612b74a2b59b7a798013618"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 58038,
+      "sha256": "b09ee18d96e74ed5ef938fdb14ea6409f11c942274ac48cc99dc7f8e47f2031c",
+      "git_blob_oid_of_actual_bytes": "bb1236c707fee4ec08ada6375810f0c79a6a7587"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          5
+        ],
+        "canonical_lines": [
+          3,
+          5
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "generation: V1",
+          "status: C_ONLY_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: institutional_synthesis",
+          "historical_author_generation: V1",
+          "historical_author_status: C_ONLY_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          6,
+          15
+        ],
+        "canonical_lines": [
+          6,
+          15
+        ],
+        "exact_unchanged_lines": [
+          "required_home: P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE",
+          "original_responsibility: GEHENNA::significant_relationship_and_institution_responsibilities::2",
+          "mandatory_named_sections: []",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "source_boundary: \"Twenty-five maintained written analytical owners: nineteen exact qualified prior-own normal owners and six consequential complete current MAIN owners; current Cycle008 authority qualifies preserved producer states. No new primary, raw, performed or independent-first-exposure credit.\"",
+          "captured_repository_custody: \"Published source114 at 7a146891ad9ffd999b2c4377d66a73313217a510; main b76b4373e6d0526bc78ce00bb673dba9e536c128 has merged89. Literary inputs retain exact separate custody; this author candidate changes neither frontier nor milestone.\"",
+          "all_original_gaps: OPEN",
+          "model_promotion: NONE",
+          "created: 2026-10-10"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          16,
+          15
+        ],
+        "canonical_lines": [
+          16,
+          25
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: institutional_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          16,
+          18
+        ],
+        "canonical_lines": [
+          26,
+          28
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Pandemonium: roles, resources and selective care"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          19,
+          18
+        ],
+        "canonical_lines": [
+          29,
+          30
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/source114/7a/source120-chain-pending/count statements remain creation-time history. Published120 source c6908f2dba6f3b379bb84679fdd01175ac5894da/tree 40b006f65bd1c98422d9093d08f53696c2d54cc9 has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package121–125 proposal takes effect only through complete ROOT installation, yielding125 (95character/15directedrelationship/5ensemble/10institution) and the unchanged10 completed non-denominator named duties. Later126+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** Operative V2 retains234 literary lines and the narrow Makoto-herself pronoun correction, original47-file preservation and five complete V2→V1 byte inverses. Mandatory PS36 qualification preserves planned broadcast as dated navigation; actual MAIN S2V002E009 soba is not broadcast warrant, while E013–17 broadcast remains separately grounded.25 source grades/six controls retain actual custody,57 claims,79 saved blocks, six rivals and11 finite ends. Pandemonium–Ibuki ensemble, its directions, characters and other institutions remain separate."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          19,
+          234
+        ],
+        "canonical_lines": [
+          31,
+          246
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. The institution and the evidence it can answer for",
+          "",
+          "Pandemonium is a governing office whose claim to speak for Gehenna repeatedly encounters people who want something more particular than its prestige. The present question concerns the conversion of role claims, resources and care into institutional entitlement: who is made to work, whose pleasure supplies a criterion, who can refuse, and what result the office actually achieves. Its distinct responsibility is the existing institution home above. The Ibuki ensemble owns differentiated belonging and two substantial Makoto–Ibuki and Iroha–Ibuki directions; the character monographs own individual trajectories. Neither can substitute for the office's treatment of budgets, access, publicity, labor and affected recipients. The inquiry also leaves the separate Kayoko–Ako/PS68 boundary responsibility distinct. [PS05] [PS35]",
+          "",
+          "The sources support an office and several participants, rather than an exhaustive constitution. Makoto claims chair authority; Iroha performs administration and practical work while disputing its use; Satsuki brings information and hypotheses; Chiaki pursues reporting and photographs; Ibuki wants to participate, play and receive care. Their titles and acts have different warrants. A clean line explaining formal processing is stronger evidence of an immediate administrative limit than an inferred unlimited chair prerogative. An anonymous Pandemonium member at one episode's doorway is a source-local role, not an extra named official or the ammunition requisitioner in another episode. An office's language cannot by itself resolve those identities or its legal remit. [PS05] [PS10]",
+          "",
+          "The argument reuses complete accepted meanings at the precise prior-own scopes recorded in its companion receipt. The shared Gehenna normal account is used for its complete connected substantive argument at lines420–602, not as a fresh reading of its399 selected private/written objects. The complete G1901–1902 owner, selected event accounts, MINI owner and small MAIN owners retain their source-class boundaries. Current Cycle008 adoption governs documentary status; old producer phrases about unadmitted material, unfinished Phase2 or next-unopened episodes remain dated history. This candidate grants none of their underlying author, native, hash or primary credits to the present act of synthesis. [PS01]",
+          "",
+          "Six current MAIN owners were additionally received in full for consequential questions: C001E009 and E013–17. E009 owns the destroyed first soba shop, the denied improvement chance and the different shop's points partnership. It does **not** own the broadcast bargain. The original allocation's provisional suggestion of E009 as a broadcast carrier was corrected after reading it; E013–17 supply the actual access, publicity and audience sequence. This explicit route correction matters: a plausible institutional heading is insufficient evidence for a local claim. The chapter checkpoints can supply an adequate complete comparative argument, but the crucial permission and audience dispute here also has the whole small source-local owners behind it. [PS36] [PB13] [PB14] [PB15] [PB16] [PB17]",
+          "",
+          "All evidence is maintained written analysis of the pinned Japanese source. A quoted broadcast, a photograph taken in text, a video instruction or a written singing cue is not heard performance or inspected pixels. Earlier adequate reading is openly reused, with no clean-room or independent-first/second-order claim. Private encounter order, release order, receipt order and costumes do not create a global chronology. Preserved H working analytical antecedents remain metadata-only in this task: no such original was reopened or hashed. The separate prior School Lunch access disclosure remains immutable history and gives this study no access entitlement or source credit.",
+          "",
+          "## 2. Core thesis: particular care does not confer a general claim over others",
+          "",
+          "Pandemonium's recurring institutional difficulty is a mismatch between the purpose it announces and the interests it makes answerable to that purpose. An audit announces scrutiny but preselects rejection; publicity announces collective greatness but seeks Makoto's recognition; hospitality offers a guest something wanted but converts a missing drink or a fall into a budget penalty. These are neither interchangeable acts nor proof that care is unreal. The strongest reading is that the office can generate genuine pleasure, accommodation and useful action while using its institutional position to magnify one participant's purpose into a demand on other people. The literary argument concerns that conversion and its resistance, not a rule predicting every later decision. [PS05] [PB14] [PS02]",
+          "",
+          "The audit makes the conversion unusually visible. Makoto admits the proposed training paperwork has no problem and says no adjustment could alter her refusal. Iroha invokes inspection, applies reported publicity requirements the Prefects may not have heard, and makes cocoa availability a hospitality criterion. When Ibuki falls, she says she is fine and will not cry, but Iroha recasts the event as making her cry and announces zero funds. The wanted drink and concern for a child remain real; the inference that an unrelated training budget should answer for them is the institutional excess. The Prefects' objections and the final processing limit supply internal contrary evidence rather than an external moral standard imposed without a witness. [PS05]",
+          "",
+          "The reverse simplification also fails. Removing ordinary pleasures from analysis would make it harder to see what authority threatens or supports. Ibuki's cocoa and pudding, Iroha's reading and rest, Satsuki's wanted food and requested company, Chiaki's search for good article material, and Makoto's shopping, pictures and concern for Lionmaru have intrinsic ends. They do not become analytically important only when they interrupt a war. Their particularity defeats the notion that every member is simply a component of a government machine or that useful service is the sole measure of belonging. A failed photograph or incomplete collage is consequential as a frustrated want even when no public order changes. [PS01]",
+          "",
+          "The office's limits are also practical and sometimes avowed. Iroha says redistribution needs formal processing; in the holiday account Makoto rejects forcing Iroha to stay because loyalty should be voluntary; MINI150 has an apology qualified by Ibuki's demanded promise. These are meaningful contrary cases to unrestricted coercion. They are not durable institutional safeguards merely because they were spoken once. The proper comparison retains actual local acceptance, refusal, compensation or cooperation and asks separately what remains unprinted: future compliance, treasury transfers, fair burden sharing, victim consultation and safety. [PS05] [PS04] [PS35]",
+          "",
+          "The central institution therefore has no single measure of success. Makoto can gain attention without admiration; a party can resume without settling accounts; a cannon can fire without a validated mechanism; a child can forgive without consenting to every official act; an official can help effectively while withholding information or rejecting imposed work. Pandemonium is narratively productive because these measures intersect and diverge. Its mythology of Gehenna greatness is repeatedly forced to meet the ordinary persons whose lives would have to make that greatness desirable. [PS02] [PS04] [PB16]",
+          "",
+          "## 3. Situated roles, unequal knowledge and the difference between a title and a mandate",
+          "",
+          "Makoto's role claims are often expansive, but the text prints particular acts and corrections. At the formal pre-Eden visit she imagines an alliance with Schale to destroy the Prefects; Iroha says the visit concerns treaty attendance and no cooperation was requested. The correction makes an institutional distinction: being received by the chair and discussing a public ceremony do not authorize a joint attack. Makoto's wish for action is direct evidence of a wish, while the formal visit has its own purpose. The scene does not show a ratified agreement or a postponed alliance simply because Makoto says fun can wait. [PS24]",
+          "",
+          "The later ceremony makes material power visible without validating its use. Ako reports a car lent to the Prefects and a new airship for Pandemonium; Hina finds the late gift strange after obstruction and sees a prospective treaty as restraint on Makoto. These are reports and political assessments, not a fiscal audit or an already functioning treaty. Makoto subsequently gives explicit first-person claims of collusion with Arius and sham assent to Eden. That self-incriminating participation account carries substantially more weight than the earlier fantasy alliance, but its bargain and full communications remain uninspected. Her plan does not become an office-wide motive merely because Iroha and Ibuki travel with the delegation. [PS25] [PS26]",
+          "",
+          "Iroha's role is particularly resistant to an equivalence between membership and assent. She performs a punitive audit while disclosing its fault-finding instruction, helps with work while wanting rest, and later rejects Makoto's war program. Her C002E005 statement that she is leaving Pandemonium and Makoto's verbal acceptance are actual speech acts. They do not supply a personnel form or updated roster, but the lack of that paperwork must not erase the expressed break. Makoto's perfectly meshed gears and dispensable creaking-screw image is a current doctrine which the scene tests through Iroha's departure and Ibuki's distress. It cannot define every period of the institution or every member's prior loyalty. [PS05] [PS10] [PS01]",
+          "",
+          "Satsuki's information role provides serious leads while retaining uncertainty. She distinguishes her own NK Ultra from an earlier project, describes unfinished research and destroyed materials, and proposes cohort, exposure and frequency explanations. Her own apparent exception already limits a universal third-year rule. The group initially prefers a Gehenna-led response while reserving Schale as a last resort; this is a chosen political approach, not an independently verified prohibition on assistance. Information competence includes naming what she cannot presently explain. Her peaceful professed purpose and private control ambitions must remain particular statements, rather than either a proof of safe engineering or a diagnosis that all her support is counterfeit. [PS09] [PS01]",
+          "",
+          "Chiaki's news and photography work is an independent interest with institutional consequences. A photo can document a claimed historic collaboration for her purposes without becoming a published article, an audited popularity measure or the consent of every pictured person. The private account preserves unusable photographs, lost notes, failed tasting and renewed excitement; consolation does not recover the missing material. In the holiday, dismissing Iroha's refusal differs from asking a security member for a personal photo, explicitly permitting refusal and receiving assent. The latter is real contrary evidence and cannot retroactively authorize the former. Her reporting role contains both curiosity and choices about recipient control. [PB14] [PS01] [PS04]",
+          "",
+          "Ibuki does not grant institutional legitimacy by being young, protected or pleased. Her wish to help with an audit differs from its punitive assignment; her statement that she will not cry differs from the justification built over her fall; her voluntary departure and preference to stay with PS68 differ from the accusation of kidnapping. The office can be attached to her while misreading or instrumentalizing what she says. Equally, her knowledge that the holiday group is drifting and quarrelling defeats the adults' assumption that concealment wholly controls her knowledge. In each case the analysis keeps the recipient's own statement and action available as evidence against an official's account of what care requires. [PS05] [PS35] [PS04]",
+          "",
+          "## 4. Resources, processing and work: what an announced transfer does and does not achieve",
+          "",
+          "G1902 begins from a training plan Makoto admits is unobjectionable. Her rejection is preselected and the ensuing inspection is presented as financial scrutiny without a demonstrated discrepancy. Iroha's reported newspaper rule gives publicity a place in budget evaluation, despite acknowledged possible noncommunication. Notice-board upkeep, hospitality and Ibuki's upset are then attached to tactical-training funds. The institutional problem is the mismatch between the ostensible object of examination and the criteria used to punish it. A concern about embezzlement does not become a finding of embezzlement merely because a desk audit is underway. [PS05]",
+          "",
+          "The represented reductions and proposed final funding outcome need both levels retained. Earlier narration describes revisions over roughly three hours. Iroha proposes removing or reallocating roughly95% of training funds, then announces next-year zero funds after the fall. The clean closing qualification says redistribution remains a proposal without formal processing. Treating every earlier revision as nonexistent would discard narrated action; treating the final plan as approved expenditure would contradict the explicit limit. The strongest warranted result is an adversarial audit and described revisions with a final unprocessed scheme, rather than a permanent treasury state. Makoto's gloating does not supply the missing processing. [PS05]",
+          "",
+          "The main opening supplies a second resource conflict at a different evidence level. Ako reports an inventory deadline and surrender of ammunition above9mm, then complains about cuts and delayed activity-expense decisions. The complete order, stock count, actual compliance and accounts are not independently shown in that episode. Students ask why force does not simply overthrow Pandemonium, and Ako challenges what happens after victory. This juxtaposition matters: resource pressure can obstruct protection without making superior firepower a complete replacement for governance. The later coercive seizure and points exchange in the C002 account are actual distinct public harms, rather than automatic confirmation that every earlier reported restriction was fully implemented. [PS07] [PS08]",
+          "",
+          "EVENT833's publicity strategy adds covertly shifted costs. Makoto says statue production and placement contracts are in the Prefects' name, that Pandemonium controls their budget and that distraction will keep them unaware. This is an explicit claim of concealed burden, not an inspected invoice or a settled lawful contract. Quoted responses laugh at the statues, complain about obstruction and call them uncool; attention does not fulfill their intended political purpose. The cost account is serious precisely while its fiscal amount and legal completion remain unknown. It should not be dismissed as a joke, nor promoted to an audited debt total. [PS02]",
+          "",
+          "The holiday makes the labor behind rank unusually material. Iroha manages reduced rations and hides the change, attempts repair, catches and prepares food, and worries about guests. Makoto dismisses supply management as trivial while presuming rescue will arrive for the leadership. The resulting refusal exposes labor that had been available to the office without being adequately recognized. Iroha apologizes for volume and for frightening Chiaki in separate moments, not for the substance of every objection or in a printed mutual apology to Makoto. Useful work and attachment do not make continued provision freely requisitionable. The invited Teacher's offered help also differs from Iroha's reluctance to burden a guest. [PS04]",
+          "",
+          "Material compensation is nonetheless represented. The holiday afterstory actually presents a new boat to the fisherman, and Makoto distinguishes its price from decades of shared value. That concrete corrective act is stronger than a bare promise and belongs in the institution's counterevidence. It does not validate the proposed larger ship, renewed Prefect-budget cut, safe procurement or settlement of every passenger's experience. The story separates a tangible gift from later political aspirations; the synthesis keeps that separation instead of using compensation as either total redemption or an irrelevant exception. [PS04]",
+          "",
+          "## 5. Ordinary life is an institutional end, even when the office cannot use it",
+          "",
+          "The five private repertoires supply more than evidence of relaxed versions of public officials. Makoto shops, receives and views photos, adjusts care for Lionmaru, concerns herself with pudding and play, and has seasickness and a written do-not-touch context. Her compromises and merchant negotiations coexist with instrumental investment framing, refused offers and a wish to inhibit independent thought. The coexistence means neither pleasure nor coercion explains every encounter. A narrated broad resolution of various problems is retained at its breadth without inventing itemized repayment. These wants matter whether or not they make her a better chair. [PS01]",
+          "",
+          "Iroha's sofa reading, coffee and chosen company likewise have ends which cannot be reduced to maintaining the office. The private account distinguishes completed work and cleaning from prospective escape or cohabitation. It retains the Japanese return still in the swimsuit alongside the Korean all-day shared-reading wording, rather than constructing a common change-of-clothes event. The institutional relevance is not that quiet reading secretly produces loyalty. It is that a person who often keeps work functioning can want a life with fewer demands, can enjoy company, and can refuse an imposed continuation without those wishes being discounted as laziness or absence of care. [PS01] [PS04]",
+          "",
+          "Ibuki's failed park, carousel and parade plans are not failed literary evidence. Fulfilled games, enjoyed time, a vague career understanding, shared corn eating and a half-filled collage have different endpoints. The collage lacks sufficient collected materials, rather than sufficient paper; Teacher helps her down from shade rather than her independently performing the descent. Those distinctions preserve real initiative and limits together. The office's wish to honor her must be assessed against her actual wants, not an imagined perfectly capable or completely passive child. Her interest in another game rule and in more time with PS68 is as intrinsic as her concern for her seniors. [PS01] [PS35]",
+          "",
+          "Satsuki's hand-held relief, completed night paperwork, meals, escort, nail clipping and curry-udon eating coexist with failed methods, adult refusals and an unfulfilled control/world-peace wish. The account does not independently verify a reversed coin direction or self-hypnosis mechanism. Ordinary relief is therefore positive experience with a limited explanation. It cannot validate NK Ultra or authorize later contact; conversely, uncertainty about her explanation does not require denying the represented relief or wanted food. An institutional argument must preserve that separation if it is to examine rather than merely caricature its information officer. [PS01] [PS09]",
+          "",
+          "Chiaki's collaborative tasting, guest visits, reading and search for article material have a distinct pleasure and a distinct exposure to failure. Favorable reviews after changes to price or portions do not prove earlier complaints false. Circulation, awards and Makoto's non-objection are reports rather than an editorial charter. The look-at-me direction later becoming do-not-look/stay-still, confinement under a table and a withdrawn message prevent a blanket-consent account. An institution supported by images and news can still owe each participant control over a particular private image or disclosure. That duty is not discharged by her own enthusiasm for recording other moments. [PS01]",
+          "",
+          "Public ordinary occasions are equally necessary. At the party Ibuki wants play, cocoa and clothing; Ako wants to hear Hina's piano; Hina accepts artistic effort and wanted company while responding to institutional pressure. At the trip Makoto accepts the picture's edge so Ibuki looks good, visitors want tourism and rest, and Erika refuses a lunch fight to preserve her hair. These low-stakes details are not expendable because the same event contains danger. They specify goods which prestige politics might use, but which the people concerned also want for themselves. The argument does not award virtue for every pleasure or require each preference to cause a public reform. [PS02] [PS03]",
+          "",
+          "## 6. Selective care, hospitality and the recipients who can contradict it",
+          "",
+          "Cocoa is the most compact test of selective care. Ibuki asks for something pleasant. Iroha's use of absence as a deduction criterion is a separate action, based on Makoto's instruction to find fault. A hospitality standard can be a genuine concern, but the episode supplies no communicated universal criterion or financial irregularity that would make this drink a justified basis for tactical-training punishment. When concern follows the fall, Ibuki's fine/not-crying statement remains present. Taking her welfare seriously requires keeping it beside Iroha's protective interpretation rather than making either statement erase the other. [PS05]",
+          "",
+          "MINI150 supplies a different result because the recipient can set a condition. Ibuki leaves after repeated pudding taking despite a prior promise, refuses an escort back, and later wants to stay with the sisters even when no longer angry. Hina helps because of the lost child, not because she approves Makoto; Ako finds Ibuki, but the child's voluntary-leaving statement contradicts kidnapping. Aru's office and Haruka's company are things Ibuki wants. The institutional search is therefore not itself entitlement to return her immediately, and warm rescue language must remain answerable to her expressed preference. [PS35]",
+          "",
+          "The apology is actual and narrow. Makoto apologizes; Ibuki demands a promise not to take **anyone's** pudding; the finger promise is followed by forgiveness. Makoto's reported purchase of ten replacements does not print delivery or eating of all ten, and future promise-keeping is not shown. Iroha and Satsuki thank PS68. Satsuki offers a desk with a genuine taste option, but Aru's ritual refusal is accepted despite her unspoken expectation of another offer. No desk arrives. The ending gives real repair and real company without turning a forgiven local wrong into universal institutional consent or an enacted new resource arrangement. [PS35]",
+          "",
+          "The same sequence preserves official and unofficial boundaries. Ako's tolerance is conditional, with arrest still possible if a line is crossed. Kayoko distinguishes an unapproved club from business registration; the statement is not an independently inspected certificate. Aru objects to address disclosure, and Ako's assertion that offices already knew it does not erase that objection. Chiaki textually takes a group photo, while later transmission remains promised. An institutional encounter can be warm and retain exposure, privacy and information inequality. Its quiet black-coffee ending, with Aru coughing and Kayoko suggesting milk, is not a decorative appendix to politics: it is an actual small social world beyond the office's claim. [PS35]",
+          "",
+          "Hospitality also creates actual burden and actual success. EVENT833 makes Hina's responsibility acceptance and piano acceptance distinct, shows pressure and a covert fiscal strategy, then narrates local disorder resolved and the party restarted. The written performance is positively received by differentiated speakers. Makoto's humiliation strategy fails, but Hina's pleasure and effort must not be redescribed as mere forced output. Equally, habituation to repeated disorder is not proof the workload is acceptable or harmless. A successful celebration is one result; settled liability, repaired funds and fair future work arrangements are others which the ending does not print. [PS02]",
+          "",
+          "The holiday and trip provide contrary care outside the same ritual. Makoto actually draws pursuit away from Ibuki, rejects forced retention of Iroha and compensates the boat owner; Iroha catches Makoto when Teacher cannot reach her. During the festival, Iroha challenges vague commands and acts protectively, and Ibuki's fear turns to fun after reframing. Yet fun does not certify a danger was authorized or safe, and Ako's later meeting-labor/interference report prevents guest help from becoming institutional acquittal. Care is strongest here when an actual act and recipient state can be named; it becomes weakest as a claim to general fairness which outgrows those witnesses. [PS04] [PS03]",
+          "",
+          "## 7. Public change, crisis and finite endings without a fabricated developmental calendar",
+          "",
+          "The S2V002 local sequence gives a real movement from bounded permission through broadcast control and coercion to rejection of war. Before the disrupted speech, Makoto accepts a broadcast bargain; E015 supplies reported maintenance and anticipation, not an aired speech. E016 prints the strange transmission and public declaration; E017 differentiates support, alarm, dissent and continued work. The subsequent chapter supplies seizure, confinement, coalition work, counterbroadcast and local reconsideration. This order is shown within those chapters. It does not date the private reading scenes, group audit, party, pudding sequence or holiday as proof of before/after moral improvement. [PS06] [PB14] [PB15] [PB16] [PB17] [PS08]",
+          "",
+          "The crisis cannot excuse every office action through a single causal word. Shoko's later organizer-level admission is serious direct evidence, whereas frequency theories, exposure rules, selective susceptibility and a death-trigger claim have separate limits. The counterbroadcast starts, pain is shown and multiple local speakers reject war; narration closes the incident. Personal appeals and Makoto's anti-puppet words occur alongside that signal, so the account cannot isolate one cause of each recovery. Actual recovery is retained without a verified campus-wide clinical cure. Hina's subsequent refusal to use brainwashing as an excuse and Makoto's acceptance of chair responsibility likewise are speech acts in an unresolved accountability process. [PS08] [PS09] [PS20]",
+          "",
+          "The audience's aftermath is essential. C002E019 students remember compulsion, ask about ammunition and points, report property not returned, lament a limited item and react anxiously to the assembly sound. Their labels are episode-local, not automatically the seizure victim or crowd member from earlier. Makoto withdraws the battle plan and promises prompt return; Hina attempts to surrender authority and is refused; Ako lists repair and discipline ahead. These are meaningful public responses with uncompleted material and procedural ends. Teacher's thanks and support cannot substitute for those affected students' answers or establish that every property return has occurred. [PS20]",
+          "",
+          "Eden supplies adverse evidence of a different kind. Makoto's self-claimed collusion and sham treaty assent are not dated automatically by source-reading order against the S2 crisis, and their responsibility cannot simply be transferred to a broadcast mechanism from another arc. Iroha's warning of deception, Ibuki's flammable-box observation and the second explosion do not establish exact devices or deaths. A later medical member reports the delegates rescued from an airship in a lake; the epilogue has Makoto complain of deception and request unnamed retaliation while Iroha urges rest. Rescue and survival correct uncertainty, but they do not show a completed retaliation, institutional settlement or victim-facing accounting of the collusion. [PS26] [PS29] [PS30]",
+          "",
+          "Final supplies a genuine positive operation. Toramaru descends from an airship into the ninjas' encirclement; Iroha deploys and the next scene reports the area mostly cleared and no injury. Makoto attributes information and timing to her network and admits wanting Ibuki's favor after pudding; Ibuki says she asked them to help. The intervention is represented, while the exact balance of motives and prior information path remain attributed, especially through substantial speaker drift. Rescue does not prove that Makoto engineered the threat or settle the ninjas' whole mission. It demonstrates usable capacity with a bounded recipient result, not retrospective vindication of every office use of force. [PS33]",
+          "",
+          "The holiday ending provides a particularly strong safeguard against chronology by theme. Actual drift, rescue, compensation and afterstories must remain distinct from the later dream-qualified tournament. Imagined school conquest, crab victories and rank claims cannot enter the institution's real achievement record, but wanted creature company, exhaustion limits, poetry and playful ceremony still carry literary meaning. Hoshino's pleasure in dream sea creatures is a positive answer to the closing questioned director's nihilism without supplying a shared-dream mechanism or Yume-office evidence. Mode limits preserve ordinary value while preventing invented geopolitical success. [PS04]",
+          "",
+          "| Local episode or context | Actual supported result | End which remains unprinted |",
+          "|---|---|---|",
+          "| G1902 audit | Scrutiny, described revisions, punitive proposals and formal-processing qualification | Approved final95%/zero allocation, treasury transfer, full remedy |",
+          "| MINI150 | Found child, wanted play, actual apology/promise/forgiveness, taken group photo | All pudding delivery/eating, future compliance, transmitted photograph |",
+          "| MINI120 | Volunteer broadcast, cable untangling, represented song and success | Original host return, permanent replacement, fully informed budget disclosure |",
+          "| C001E009 | Destruction and denied chance; different shop becomes partner | First shop reprieve, contract terms, damages and formal culpability |",
+          "| C001E014–16 | Permission, entry, reported upgrade, actual disrupted declaration | Audit of metrics/equipment, editorial independence, completed invasion |",
+          "| C002 aftermath | Withdrawn plan, apologies, named work and local reconsideration | All returns, discipline, injuries and independently tested mechanism |",
+          "| EVENT833 | Local resolution, restarted party, positively represented piano | Full budget/legal repair, durable fair workload |",
+          "| EVENT835 | Cooperative response, resumed ceremony, safely ended trip | Zero costs, completed inspections, compensated harms |",
+          "| EVENT860 | Represented rescue and actual new-boat compensation | All pirate outcomes, mutual Makoto–Iroha apology, safe new ship budget |",
+          "| V003C003 | Claimed collusion, reported delegate rescue, return conversation | Complete bargain/culpability record, retaliation, comprehensive settlement |",
+          "| V100C002E018 | Arrival/deployment, local clearing and no-injury reports | Temple arrival, completed wider mission or enduring legitimacy |",
+          "",
+          "## 8. Broadcasts, audiences and the freedom to want a different programme",
+          "",
+          "Broadcasting is not simply an amplifier which reveals an already unanimous Gehenna. MINI120 gives Iroha an unwanted assignment and Erika/Kirara a wanted unfamiliar opportunity. Makoto treats unattended announcements as a way to claim budget cuts publicly disclosed, then wants broadcasting for prestige. That intention is not a printed enacted budget change or an informed process. The same apparatus can carry official self-praise, mistaken chain-letter fear, a club's quiet interest and a listener's preference for lunch solitude. Its institutional significance depends on who speaks, what is known and how recipients can answer. [PS35]",
+          "",
+          "The volunteer programme supplies a genuine alternative. Students welcome something other than Pandemonium hymns. An anonymous lunch writer values solitude without rejecting friends; the hosts recommend negotiating preferences, not an achieved resolution for that student. Another anonymous misfortune account receives encouragement and a streaming suggestion whose possible commodification remains a rival reading. That letter is not a newly identified Junko episode. A requested song cannot be played with the available equipment; encouragement to sing meets the objection that the listener did not ask for that voice. Limited assent and written song cues follow, and the narrator calls the broadcast successful. A successful programme need not be a unanimous preference or a performance this analyst heard. [PS35]",
+          "",
+          "The ending limits institutional appropriation. The hosts enjoy the work but decline permanent replacement because the original student may return and lose a place. They decline material thanks in favor of pleasure in useful work, then obtain permission to exchange contact with Iroha. The missing host's return, actual message delivery, transmitted contact and subsequent outing remain unknown. Voluntary help does not become an office's right to permanently requisition the helpers. Nor does preservation of another person's possible place require denying the actual pleasure and competence shown by the temporary hosts. [PS35]",
+          "",
+          "The MAIN negotiation adds explicit bargaining over prestige. Shoko claims committee popularity, surveys, reduced incidents and economic improvement; Satsuki corroborates election talk, but neither supplies inspected datasets. The audience-growth graph is a displayed prop with unaudited denominator and baseline. Iroha supports qualitative popularity, not the precise percentage. Makoto accepts broadcast operation as a stage for herself, Chiaki records the purported collaboration, and Shoko's team actually enters the room. Makoto privately intends to absorb popularity while assigning failures elsewhere. Permission and access are achieved; editorial independence, operating safety and a verified right to externalize blame are not. [PB13] [PB14]",
+          "",
+          "E015 differentiates accomplished maintenance work at the range from Shoko's claimed school-wide sound upgrade. Makoto praises infrastructure without spending the office's budget, but funding, procurement, coverage and cable repair are not independently witnessed. The proposed surprise speech is still anticipation. When E016 supplies the broadcast, four local crowd labels are already differentiated: curiosity, skepticism, concern about compelled attendance and anticipation of spectacle. After the transmission some become enthusiastic while others remain confused; Iroha, Chiaki, Ibuki, committee members and Teacher do not all assent. The six words and abrupt declaration support a consequential anomaly, not a count of universal conversion or a known operator. [PB15] [PB16]",
+          "",
+          "E017 makes recipients' differences politically meaningful. Iroha challenges the war declaration and fears it becoming real; Iori and Chinatsu defend protection of ordinary students rather than arbitrary violence; Satsuki rejects conquest despite the proposed grade pattern. Fuuka and Juri keep preparing meals and remain bewildered, while Erika/Kirara offer help. Ordinary continued work is neither endorsement nor proof every peer is unchanged. Later Chiaki's reported0.3% audience figure is another limited measure, not an audited verdict on the whole school. Public address is strongest as evidence of an actual utterance and actual local answers; prestige numbers and claims of all-student unity cannot silence the contradictory witnesses. [PB17] [PS20]",
+          "",
+          "## 9. Language, source-local roles and the limits of written visibility",
+          "",
+          "The office's vocabularies are competing descriptions of action. Iroha's only-an-audit/civil-servant disclaimer encounters her fault-finding disclosure and protective criterion change; Makoto's gears image encounters an actual leaving statement; freedom and loyalty meet claims to command; captaincy and conquest meet practical limits or dream qualification. These are situated Japanese written forms with literary force. Repeating a title does not show a regulation, and repeating a technical word does not establish a mechanism. School mythology is legible in what the office wants its acts to mean, while governance is tested by the represented decision, resource, processing step and affected answer. [PS05] [PS10] [PS04]",
+          "",
+          "G1902's display/text-bearing actor seams are retained exactly. The training-plan conclusion at scene001u0002 has a Makoto display label with Ako's text-bearing command; the caution at u0057 has Chinatsu display and Iori text-bearing roles; scene003u0058 has Makoto display and Iroha text-bearing roles. The clean followingu0059 independently supports the procedure limit. The account need not claim a repaired upstream actor table to use it. Ako's audible insult and parenthesized diplomatic phrase are explicitly switched, so parentheses cannot mechanically be treated as everyone else's knowledge. G1901's incidents are reports within a meeting rather than all their speakers being physically at the desk. [PS05]",
+          "",
+          "MAIN tags likewise constrain individual language claims. E014 has Makoto labels carrying Shoko-like pitch and argument; E015 has observer/flattering lines with uncertain labels; E017 has self-address and reply shifts. Coherent nearby statements support the bargain, entry, dissent and local ending without granting every printed line a stable idiolect. Shoko's committee identity is kept distinct from Pandemonium members; her returned sweets, tears, nonrecantation and Arashi testimony are different acts in the C002 ending. Bodensatz suspicion is not an Arashi identity join, and Makoto's possible-Ibuki-legacy thought supplies neither a mechanism nor her willing participation. [PB14] [PB15] [PB17] [PS21]",
+          "",
+          "Anonymous roles deserve actual analytical homes within the represented scenes. G1901 singular/collective Prefects and three Hot Springs members remain reported source-local actors with unresolved joins. The broadcast's audience A–D, anonymous letter writers, SNS handles, former host and generic post-crisis students are not one public. The first soba owner directly serves, pleads and reports loss; the different partner shop has a different endpoint. The holiday fisherman can report photographs and receive actual compensation without becoming a ghost captain or unnamed pirate. Repetition of a letter, occupation or setting does not justify those mergers. This is source-local role allocation within the institution argument, not a new census or biography. [PS05] [PB16] [PS20] [PS36] [PS04] [PS35]",
+          "",
+          "The mode distinctions also prevent a false uniform history. Profile/Talk/Think, whole MomoTalk tails, BOND choices, inward reactions, reports, log-like memories, narration, source video tokens and dream speech retain their respective force. Mutually exclusive choices do not all happen. An inward preference can be available to the reader while unknown to a peer; Teacher's inward lines sometimes receive replies without proving telepathy or a universal audibility rule. The maintained private comparison preserves Japanese/Korean differences rather than averaging them into one event. Written laughter, fatigue, singing and silence support interpretation of represented forms, not performed pitch, acting, music quality or physiological diagnosis. [PS01] [PS04] [PS35]",
+          "",
+          "## 10. Six serious competing readings and the evidence which limits each",
+          "",
+          "**Unrestricted chair authority.** Makoto receives requests, grants access, appoints work and issues public withdrawal, so the office has practical importance rather than being an empty title. The strongest version of this reading recognizes that material gatekeeping shapes what other groups can do. It nevertheless fails as a claim of unlimited legitimate power: Iroha corrects a presumed alliance, final audit redistribution requires processing, private refusal and public dissent remain, and the audience does not unanimously endorse the chair. Actual power to pressure is not itself adequate justification of each pressure or a complete printed legal mandate. [PS24] [PS05] [PB16]",
+          "",
+          "**Kindness legitimates selective punishment.** Concern for Ibuki, cocoa, a promised holiday and replacement boat are real, and an account that denies them cannot explain why members remain attached or why some recipients enjoy these acts. The alternative becomes untenable when it lets those acts settle unrelated recipients' claims. Ibuki does not design the training-budget criterion, says she is not crying, refuses immediate return and later sets an all-pudding promise. Hina's piano success does not pay a covert invoice. Particular kindness supports particular care; it does not make budget retaliation fair or render imposed work consensual. [PS05] [PS35] [PS02] [PS04]",
+          "",
+          "**Only comic incompetence.** Failed grand plans, embarrassing titles, inaccurate forecasts and borrowed prestige give this reading real support. It captures how the text often punctures self-importance. But it cannot absorb actual protective diversion, Toramaru intervention, volunteer broadcast success, returned local operation, tangible compensation or negotiated forgiveness without denying represented results. Neither should it erase capable maintenance by Iroha, Satsuki's explicit uncertainties, Chiaki's differentiated photography or Ibuki's knowledge and initiative. Comedy can expose a mismatch in measures while leaving the affected person's pleasure, work and harm serious. [PS04] [PS33] [PS35]",
+          "",
+          "**One shared family-care motive.** There is sincere attachment, especially around Ibuki, and cooperative work can coexist with rivalry. This makes the family-care reading a meaningful alternative to pure domination. Its total form erases Iroha's refused labor, Satsuki's control ambitions and requested company, Chiaki's news/privacy questions, Ibuki's separate play preference and Makoto's explicit prestige strategy. It also treats concealed rationing as transparent agreement and a forced or formal apology as sufficient repair. The separate ensemble remains necessary for differentiated belonging; the institution account asks what those distinct attachments authorize in resources and work, where they often authorize less than the office claims. [PS01] [PS04] [PS35] [PB14]",
+          "",
+          "**Spectacle equals informed recognition.** The crowd, displayed graph, articles sought, photos and resumed party show attention can be real. A useful broadcast can genuinely please hosts and listeners. Yet a photograph not transmitted, a quoted post laughing at a statue, a listener asking if attendance is compulsory and an audience divided after the declaration contradict the equation of visibility with informed assent. A reported audience percentage does not establish a public mandate. The missing prior host and temporary volunteers' refusal of replacement also prevent treating popularity as an entitlement to occupy another person's place. [PB14] [PB16] [PS02] [PS35] [PS20]",
+          "",
+          "**Later success settles earlier debts.** Actual apology, forgiveness, local rescue, reported recovery, withdrawal and compensation show that the narrative can produce changed situations rather than endless failure. Those ends should be stated positively. The universal version fails because each repair has its own scope: a finger promise does not return seized ammunition, a new boat does not authorize a new budget cut, a party opening does not audit contracts, and a local no-injury report does not establish permanent political legitimacy. Undated sources cannot be assembled into a convenient redemption or regression chronology. Continuing accountability is not denial of success; it is refusal to substitute one successful result for an unprinted different one. [PS35] [PS04] [PS02] [PS20] [PS33]",
+          "",
+          "## 11. Contribution, evidence route and the fourteen still-open warrants",
+          "",
+          "Pandemonium's institutional mechanism is an unstable attempt to make particular recognition, care or prestige carry a general demand. The sources also print resistance to that move: processing requirements, role correction, leaving, guest refusal, audience plurality, negotiated promise and independent ordinary work. This gives a distinct whole institution argument beyond “Makoto fails” or “the group cares for Ibuki.” It locates the office where authority meets resources and recipients, preserving genuine enjoyment and competent action while asking whose uncompleted interests remain. It is a literary synthesis, not an operational reconstruction rule set, held-out prediction or validation claim.",
+          "",
+          "The most consequential uncertainty is not whether cocoa, play or a local rescue matter; their actual value is shown. It is the unwitnessed transfer from those acts to durable fiscal, procedural, political or technical conclusions. Positive local endings are retained as strongly as the adverse ones. The source route therefore keeps the audit's draft limit, MINI's recipient conditions, MAIN's diverse answers and property questions, the events' labor/compensation boundaries, Eden's participation claims and Final's bounded rescue together. No one source class is discarded for quietness, humor, sparse dialogue or lack of crisis stakes, and no unclassified quiet material is silently declared irrelevant. [PS05] [PS35] [PS20] [PS04] [PS26] [PS33]",
+          "",
+          "| Original gap | Status | Contribution and remaining claim-specific warrant |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | OPEN | Five wanted repertoires and their adverse/failing ends remain intrinsic; this selected comparison does not exhaust every private context or make a universal governance persona. |",
+          "| G02 Yuuka council/club decision transfer | OPEN | Role correction, processing and shared work offer a comparison method, not Yuuka's separate council/security-transfer evidence or completion. |",
+          "| G03 Serika service, peer and reciprocity range | OPEN | Guest labor, taste and reciprocity remain recipient-specific; no Serika service or peer duty is fulfilled by analogy. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Piano, scheduling, coercion, apology and resource pressure remain distinct; signal isolation, injury/accountability allocation and complete restitution remain unprinted. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | Claimed collusion and pudding/search/company scenes contribute bounded contexts; they do not settle Arius safety, PS68 history, legal aftermath or every private repertoire. |",
+          "| G06 Cross-school ordinary repertoire | OPEN | Broadcast, festival, guest pleasure and wanted company are positive; no total school prevalence or universal consent follows from those participants. |",
+          "| G07 Story-world chronology | OPEN | Demonstrated within-chapter, within-trilogy and local holiday relations are retained; release, costume and receiving order give no cross-source developmental calendar. |",
+          "| G08 Event naming and repeat contexts | OPEN | Exact833/835/860 and MINI120/150 IDs retain titles, empty titles and edition boundaries; thematic resemblance neither invents a title nor proves one repeated occasion. |",
+          "| G09 Written speaker/choice attribution | OPEN | Display/text seams, report layers, inward wishes and anonymous roles are explicit; unresolved fine actors and branch runtime cannot become certain doctrines or shared knowledge. |",
+          "| G10 Performed voice | OPEN | Written public address, song, laughter, silence and video tokens are received only as text; AV, acting, heard music and delivery remain unreceived. |",
+          "| G11 Hoshino's Yume record and office states | OPEN | The holiday's comic awakening and dream pleasure supply no Yume record or proof of lasting office stabilization; institutional analogy does not close this original question. |",
+          "| G12 Counterpart, system and variant identity | OPEN | Positive five-person metadata is retained and anonymous/system/dream/questioned actors remain separate; no person merger, costume timeline or legacy mechanism is inferred. |",
+          "| G13 Office, contract, safety and technical outcomes | OPEN | Formal draft limits, stated contracts, harm, actual compensation and local rescue are distinguished; approved funds, full invoices, repairs, clinical outcomes and tested technical causes remain bounded or absent. |",
+          "| G14 Unclassified/mode continuity | OPEN | Maintained MAIN/GROUP/EVENT/MINI/private/written classes keep admitted scopes and mode differences; quiet unclassified routes remain duties, with no automatic continuation or exclusion. |",
+          "",
+          "### Complete source route used by this candidate",
+          "",
+          "The companion source/receiving receipt binds every source copy, the fresh complete readings, exact prior-own scopes and source-to-claim witnesses. Nineteen owners are adequate previously personally received arguments, with bounded current refreshes explicitly listed; six whole small MAIN owners are newly received arguments in this task. For the shared private account the actual whole substantive boundary is420–602, not whole1–419. Public owner reuse is neither a fresh reading of all underlying canonical objects nor transferred original-author primary credit. All preserved producer closure, admission, model and publication phrases are qualified by current governing controls.",
+          "",
+          "| Source IDs | Actual literary responsibility |",
+          "|---|---|",
+          "| PS01 | Complete connected Gehenna private/public account420–602, five ordinary repertoires and source-mode limits |",
+          "| PS05 | Complete G1901–1902: reported work, preselected audit, cocoa/fall, processing limit and hedged aftermath |",
+          "| PS02 / PS03 / PS04 | Complete accepted EVENT833/835/860 arguments at qualified prior-own scope; specific current refreshes of whole substantive meanings/endings |",
+          "| PS35 | Complete accepted MINI32 owner at qualified prior-own scope, with current complete120/150 argument refreshes; no new whole32-primary receipt |",
+          "| PS06 / PS08 | Complete S2V002 chapter arguments, role/access/coercion/reversal and still-unfinished accountability |",
+          "| PS07 / PS09 / PS10 / PS20 / PS21 | Complete small public role, theory, leaving and aftermath owners with recipient/claim boundaries |",
+          "| PS24 / PS25 / PS26 / PS29 / PS30 | Complete Eden formal contact, preparation, claimed collusion, delegate-rescue report and epilogue owners |",
+          "| PS33 | Complete Final Toramaru local operation with report and speaker limits |",
+          "| PS36 | Fresh complete C001E009: denied soba improvement chance, loss and different-shop partnership; explicit negative broadcast-route correction |",
+          "| PB13 / PB14 / PB15 / PB16 / PB17 | Fresh complete actual broadcast owners: diverse wants, access bargain, reported equipment, transmission, declaration and uneven answers |",
+          "",
+          "The candidate concludes at a whole bounded institution argument with all eleven allocated dimensions, six serious rival tests and all fourteen original gaps OPEN. ROOT's complete independent receiving and acceptance remain required. No named duty, new home, scope change, source admission, model promotion, milestone or literary completion counter is enacted by the author document. Its final question remains concrete: when Pandemonium claims to care for Gehenna, which actual persons can answer, refuse and have the material result made good?",
+          "",
+          "[PS01]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "[PS02]: ../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[PS03]: ../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[PS04]: ../../02%20Sequential%20Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[PS05]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+          "[PS06]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+          "[PS07]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+          "[PS08]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+          "[PS09]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+          "[PS10]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+          "[PS20]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+          "[PS21]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+          "[PS24]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+          "[PS25]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+          "[PS26]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+          "[PS29]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+          "[PS30]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+          "[PS33]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+          "[PS35]: ../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "[PS36]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E009_DEEP_READING.md",
+          "[PB13]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E013_DEEP_READING.md",
+          "[PB14]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E014_DEEP_READING.md",
+          "[PB15]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E015_DEEP_READING.md",
+          "[PB16]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E016_DEEP_READING.md",
+          "[PB17]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E017_DEEP_READING.md"
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55278,
+      "sha256": "226b45b842d999cbfb6ff65e58165d6e851be9ac21dc37c943b836cfa8012d89",
+      "git_blob_oid_of_actual_bytes": "df98afc1686e6fb16612b74a2b59b7a798013618",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 96425,
+      "sha256": "5223aa9b13931b8c09ff1c132cd548dca0bd2e1d4b95fb50dda3806dee26fddb",
+      "git_blob_oid_of_actual_bytes": "0e3bee4c51ee4c00d689ac3f0b3c5faf76f3603f",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_SOURCE_AND_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V2.json",
+      "bytes": 9165,
+      "sha256": "104473c04ae39af2082b8c2ee978125739ea90a220134e4a0d3dd5b3fb49e884",
+      "git_blob_oid_of_actual_bytes": "56054f888d71491f27fdd9d02acc9232d3031c5a",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V2.json"
+    },
+    {
+      "path": "ROOT_PANDEMONIUM_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json",
+      "bytes": 6641,
+      "sha256": "661ed67bff475d0acd59c7f69546042a41507b0dcd7ad71ec5de6f1c3de09dec",
+      "git_blob_oid_of_actual_bytes": "14fea9164f80587e6d196fa38a940a57b40a5a6a",
+      "immutable_transport_path": "immutable_originals/ROOT_PANDEMONIUM_COMPLETE_SOURCE_SCOPED_INSTITUTION_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json",
+      "bytes": 14861,
+      "sha256": "37069115dde64ab4511e68923a757572da4cff26d3a7d11031a81df3c99b9c13",
+      "git_blob_oid_of_actual_bytes": "4511a2a1dffca5853f4c14599806692ca4172cfd",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json",
+      "bytes": 440895,
+      "sha256": "eea6528a810dc343d9b29a58c12a8c4f89f47c7bb909cdf271bcea823e28d9ec",
+      "git_blob_oid_of_actual_bytes": "07e749a9a8dedc2909651d2e146dbabc2a7002c5",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V2.json",
+      "bytes": 10017,
+      "sha256": "acd945eaa32c33f2b3ef00130e37253377d47f4690e4c4eaf0afa8cbd7ad54bc",
+      "git_blob_oid_of_actual_bytes": "47244d03a1c14d812b067acc709fd21f67eb1365",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_CONTROL_V2.json",
+      "bytes": 20724,
+      "sha256": "a0da55bebd4d76c888fc646ca049ff61f3d156d8815914f450cf522b6f876009",
+      "git_blob_oid_of_actual_bytes": "4079984c7f750dd134603669fc4c93594fe52132",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_CONTROL_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINAL_VERIFICATION_V2.json",
+      "bytes": 2172,
+      "sha256": "be89a5d7f6031658dcce5f54b134b32c42ebd551dba0fc25a8ab13962ebb1928",
+      "git_blob_oid_of_actual_bytes": "7841503c043f18ebcfe4b9ec38e12ebfca6e7190",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINAL_VERIFICATION_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINITE_VERIFICATION_V2.json",
+      "bytes": 1308,
+      "sha256": "f0e6bd7a41e6777e3aa8872303df7906a00a5c404a7798a65d470f6e930d193b",
+      "git_blob_oid_of_actual_bytes": "429e89641dd5798937ecf40c3103b8dd2982fda7",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINITE_VERIFICATION_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_PS36_PLANNED_QUESTION_CONTROL_QUALIFICATION_V2.json",
+      "bytes": 2610,
+      "sha256": "bed371469d5aaf268c9df45d76fd3dc50e4ab81b073852197b8a2d05dd989543",
+      "git_blob_oid_of_actual_bytes": "9572cba76f486976647aa24babbd796558945d95",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_PS36_PLANNED_QUESTION_CONTROL_QUALIFICATION_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json",
+      "bytes": 105330,
+      "sha256": "a196b76954fc88bf0b7112a5f4e45721bdcc7d6e18482f3571abf4d75a6e8a9a",
+      "git_blob_oid_of_actual_bytes": "73d216ac4ea58227c4532879b2f4521aa5a2721e",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/ROOT_SUCCESSOR_RECEIVING_GUIDE_V2.md",
+      "bytes": 3506,
+      "sha256": "0f942d1da6e3926ca52f40c8798aeb6ed625d1ee1c3829a6404e40a7b540faf0",
+      "git_blob_oid_of_actual_bytes": "f776ef753574fc85bce527bf190f9fd0e4986295",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/ROOT_SUCCESSOR_RECEIVING_GUIDE_V2.md"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_00.json",
+      "bytes": 74737,
+      "sha256": "11dbf68781f02af3d6cbcb2e04eb81409147ab48210a51a9d1401ee94a63ec52",
+      "git_blob_oid_of_actual_bytes": "9ceeba3b3383459218ea52f99e788565ebd35708",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_00.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_01.json",
+      "bytes": 127519,
+      "sha256": "ff10fa349a11e269d0e5b1e0150f0f8a1bcd39445a7f5daebae5b908bb1ffc1a",
+      "git_blob_oid_of_actual_bytes": "7a24c7ee6de51f19ada1a0dc7fe2ef90bd079681",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_01.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_02.json",
+      "bytes": 586825,
+      "sha256": "80b54b8533268bdb9bb26a19500de7cdda5cff9c3e17abf67189ad2979369cd7",
+      "git_blob_oid_of_actual_bytes": "0f02fe9831cce35c0697f7ae68be7ee56efceb17",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_02.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_03.json",
+      "bytes": 139411,
+      "sha256": "df94a8c328e4bd0c4a9873c12c8ab5dd43b77c63e0eab0454070ba12c9e38e07",
+      "git_blob_oid_of_actual_bytes": "71124c9aea7383179c5e67b949e37c82b1e5c7e7",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_03.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_04.json",
+      "bytes": 18791,
+      "sha256": "e525f904711ae6130513d6a5d10258648fb7c73da7344df0eae5a9b90654ef63",
+      "git_blob_oid_of_actual_bytes": "0f8a1752696f10a9f99540c5c91000e7d7a54060",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_SUCCESSOR_V2/V2_TO_V1_COMPLETE_BYTE_INVERSE_04.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55278,
+      "sha256": "8dcb153a58bb9ad3dd3f102db74a96fc572c354c94b97c207ed935c32a9e1379",
+      "git_blob_oid_of_actual_bytes": "9a5bdfe9751f45bd2b015b62b0e3c1b45b93161d",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V1.json",
+      "bytes": 59810,
+      "sha256": "080d7336c0eea3eea21ad46e7569562e02b26e40edb8900d8969635291032104",
+      "git_blob_oid_of_actual_bytes": "12fd0d0993d576cd03267b5a5eef7ab45d3c1e3a",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V2.json",
+      "bytes": 67089,
+      "sha256": "2eb0371d10f77520c37ea0047ad283014c5e2c152078565953c6a2aa39553289",
+      "git_blob_oid_of_actual_bytes": "89e096d8bf06f133a10f31ec307aaec1ef9614a8",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V2.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json",
+      "bytes": 13286,
+      "sha256": "2166e32cbc397896be81d03478039bff1d46049fdb05616f0610d11e48e35b4d",
+      "git_blob_oid_of_actual_bytes": "7a21cdd359015754c7aca6c0d16f91777a09128e",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json",
+      "bytes": 439320,
+      "sha256": "920d9d1fbc556d8550a611ec21d39605903ad855efc63c49e159387a8ace15e3",
+      "git_blob_oid_of_actual_bytes": "fc88a058ae99bf5799b8cc44eea646c6912d4e67",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json",
+      "bytes": 24395,
+      "sha256": "c4e21c611b531667cc16769de395df28103e227df6171dc0c0c7b836177bde8f",
+      "git_blob_oid_of_actual_bytes": "6b2ae674c1db52b99a0aca6a7e18c11e71863821",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V1.json",
+      "bytes": 23952,
+      "sha256": "67f12b624f652687d71da21c78c46225e05c9b2ba46f37eaa6fd511ef0879a4b",
+      "git_blob_oid_of_actual_bytes": "e59a2b5fec2e96dcabcf1997b86f2c7d483fcb60",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_FINITE_VERIFICATION_V1.json",
+      "bytes": 1795,
+      "sha256": "7fec4047b5068318f8d228f09cc25f4d85d164c9b6d6f79219ae332aad9d4c07",
+      "git_blob_oid_of_actual_bytes": "20ff8229f364cb102d8da992c1a376647c7b887f",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_FINITE_VERIFICATION_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json",
+      "bytes": 103755,
+      "sha256": "f4e2db97aa4184bb839efb68d48edc37ddf8fe163d0894c3e8eaf509a2c0ec57",
+      "git_blob_oid_of_actual_bytes": "f2dae310700fff4948bea1e730d6dda7b0bae24b",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 94850,
+      "sha256": "b1270b6c75d8b68b4bb02768b42ecb714922a844376b40878f6e2ce18b9fbf9b",
+      "git_blob_oid_of_actual_bytes": "8a8b118a0486edcb5f577dee570cf69043150817",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/PANDEMONIUM_INSTITUTION_SOURCE_AND_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/ROOT_RECEIVING_GUIDE_V1.md",
+      "bytes": 4940,
+      "sha256": "964cb43c7162751298e4159df4279567e61f4cf71b3415e4625e62e391528e93",
+      "git_blob_oid_of_actual_bytes": "34aab775eb45c76cbe2e52ee127061bb5d476868",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/ROOT_RECEIVING_GUIDE_V1.md"
+    }
+  ],
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 701519,
+      "sha256": "4908ff0869bb5fb57a61dd090f12cfe7d4272675c6492e317331fb650afa65a1",
+      "git_blob_oid_of_actual_bytes": "ed026189abe5fe3bdd06a86df28b8cb6949dbc1b",
+      "attachment_names": [
+        "PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json",
+        "PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json",
+        "PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V2.json",
+        "PANDEMONIUM_INSTITUTION_NARROW_PRONOUN_CONTROL_V2.json",
+        "PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINAL_VERIFICATION_V2.json",
+        "PANDEMONIUM_INSTITUTION_NARROW_SUCCESSOR_FINITE_VERIFICATION_V2.json",
+        "MANDATORY_PS36_CURRENT_QUALIFICATION/PANDEMONIUM_INSTITUTION_PS36_PLANNED_QUESTION_CONTROL_QUALIFICATION_V2.json",
+        "PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json",
+        "ROOT_SUCCESSOR_RECEIVING_GUIDE_V2.md",
+        "V2_TO_V1_COMPLETE_BYTE_INVERSE_00.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 716002,
+      "sha256": "319924fe7cec564d1f68afee829e347ac526366c7da62bbc83b1d7d69d6a3f78",
+      "git_blob_oid_of_actual_bytes": "f35159f7e24564223171a1fc4adbda6e99b03e1d",
+      "attachment_names": [
+        "V2_TO_V1_COMPLETE_BYTE_INVERSE_01.json",
+        "V2_TO_V1_COMPLETE_BYTE_INVERSE_02.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "bytes": 361828,
+      "sha256": "fde85e738dbf0cf5226f582c28951d7e9d49266cd62565d60b9b82043f6416c4",
+      "git_blob_oid_of_actual_bytes": "77510cdfac0b2a23588dcafa300fa68e602fbbe6",
+      "attachment_names": [
+        "V2_TO_V1_COMPLETE_BYTE_INVERSE_03.json",
+        "V2_TO_V1_COMPLETE_BYTE_INVERSE_04.json",
+        "IMMUTABLE_ORIGINAL_V1/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+        "IMMUTABLE_ORIGINAL_V1/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/INPUT_CAPTURE_BINDINGS_CREATION_STAGE_V2.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_AUTHOR_COMPLETE_RECEIVING_AND_SELFREVIEW_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTION_AUTHOR_ATTACHMENTS_PART_04_V1.json",
+      "bytes": 717481,
+      "sha256": "14c74ec7046236fdf9d447612cc3c7c84305008bf2569b5092f9d16a383b33ac",
+      "git_blob_oid_of_actual_bytes": "e5a88a33bc2d7aca5b5c30a69ea3d493faecbbaf",
+      "attachment_names": [
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_CLAIM_SOURCE_GAP_AND_ROLE_REGISTER_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_EXACT_DELIVERY_MANIFEST_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_FINAL_FREEZE_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_FINITE_VERIFICATION_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_SAVED_PARAGRAPH_AND_REFERENCE_INVERSE_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/PANDEMONIUM_INSTITUTION_SOURCE_AND_RECEIVING_RECEIPT_V1.json",
+        "IMMUTABLE_ORIGINAL_V1/ROOT_RECEIVING_GUIDE_V1.md"
+      ]
+    }
+  ],
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "Operative V2 retains234 literary lines and the narrow Makoto-herself pronoun correction, original47-file preservation and five complete V2→V1 byte inverses. Mandatory PS36 qualification preserves planned broadcast as dated navigation; actual MAIN S2V002E009 soba is not broadcast warrant, while E013–17 broadcast remains separately grounded.25 source grades/six controls retain actual custody,57 claims,79 saved blocks, six rivals and11 finite ends. Pandemonium–Ibuki ensemble, its directions, characters and other institutions remain separate.",
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "complete_V2_to_V1_recovery": {
+    "subject": "PANDEMONIUM_INSTITUTION",
+    "immutable_V1": {
+      "path": "PANDEMONIUM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 55278,
+      "sha256": "8dcb153a58bb9ad3dd3f102db74a96fc572c354c94b97c207ed935c32a9e1379",
+      "git_blob_oid_of_actual_bytes": "9a5bdfe9751f45bd2b015b62b0e3c1b45b93161d",
+      "immutable_transport_path": "immutable_originals/PANDEMONIUM_INSTITUTION_SYNTHESIS/BLUE_ARCHIVE_PANDEMONIUM_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    "operative_V2": {
+      "bytes": 55278,
+      "sha256": "226b45b842d999cbfb6ff65e58165d6e851be9ac21dc37c943b836cfa8012d89",
+      "git_blob_oid_of_actual_bytes": "df98afc1686e6fb16612b74a2b59b7a798013618"
+    },
+    "changed_lines": [
+      136
+    ],
+    "all_other_literary_lines_exact": true,
+    "full_V2_to_V1_body_inverse": {
+      "original_exact_tuple": {
+        "bytes": 55278,
+        "sha256": "8dcb153a58bb9ad3dd3f102db74a96fc572c354c94b97c207ed935c32a9e1379",
+        "git_blob_oid_of_actual_bytes": "9a5bdfe9751f45bd2b015b62b0e3c1b45b93161d"
+      },
+      "canonical_exact_tuple": {
+        "bytes": 55278,
+        "sha256": "226b45b842d999cbfb6ff65e58165d6e851be9ac21dc37c943b836cfa8012d89",
+        "git_blob_oid_of_actual_bytes": "df98afc1686e6fb16612b74a2b59b7a798013618"
+      },
+      "complete_ranges": [
+        {
+          "kind": "equal",
+          "original_lines": [
+            1,
+            135
+          ],
+          "canonical_lines": [
+            1,
+            135
+          ],
+          "exact_unchanged_lines": [
+            "---",
+            "series: BLUE_ARCHIVE",
+            "artifact_type: institutional_synthesis",
+            "generation: V1",
+            "status: C_ONLY_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING",
+            "required_home: P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE",
+            "original_responsibility: GEHENNA::significant_relationship_and_institution_responsibilities::2",
+            "mandatory_named_sections: []",
+            "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+            "source_generation: BA_REFRESH_20260928T032248159554Z",
+            "source_boundary: \"Twenty-five maintained written analytical owners: nineteen exact qualified prior-own normal owners and six consequential complete current MAIN owners; current Cycle008 authority qualifies preserved producer states. No new primary, raw, performed or independent-first-exposure credit.\"",
+            "captured_repository_custody: \"Published source114 at 7a146891ad9ffd999b2c4377d66a73313217a510; main b76b4373e6d0526bc78ce00bb673dba9e536c128 has merged89. Literary inputs retain exact separate custody; this author candidate changes neither frontier nor milestone.\"",
+            "all_original_gaps: OPEN",
+            "model_promotion: NONE",
+            "created: 2026-10-10",
+            "---",
+            "",
+            "# Pandemonium: roles, resources and selective care",
+            "",
+            "## 1. The institution and the evidence it can answer for",
+            "",
+            "Pandemonium is a governing office whose claim to speak for Gehenna repeatedly encounters people who want something more particular than its prestige. The present question concerns the conversion of role claims, resources and care into institutional entitlement: who is made to work, whose pleasure supplies a criterion, who can refuse, and what result the office actually achieves. Its distinct responsibility is the existing institution home above. The Ibuki ensemble owns differentiated belonging and two substantial Makoto–Ibuki and Iroha–Ibuki directions; the character monographs own individual trajectories. Neither can substitute for the office's treatment of budgets, access, publicity, labor and affected recipients. The inquiry also leaves the separate Kayoko–Ako/PS68 boundary responsibility distinct. [PS05] [PS35]",
+            "",
+            "The sources support an office and several participants, rather than an exhaustive constitution. Makoto claims chair authority; Iroha performs administration and practical work while disputing its use; Satsuki brings information and hypotheses; Chiaki pursues reporting and photographs; Ibuki wants to participate, play and receive care. Their titles and acts have different warrants. A clean line explaining formal processing is stronger evidence of an immediate administrative limit than an inferred unlimited chair prerogative. An anonymous Pandemonium member at one episode's doorway is a source-local role, not an extra named official or the ammunition requisitioner in another episode. An office's language cannot by itself resolve those identities or its legal remit. [PS05] [PS10]",
+            "",
+            "The argument reuses complete accepted meanings at the precise prior-own scopes recorded in its companion receipt. The shared Gehenna normal account is used for its complete connected substantive argument at lines420–602, not as a fresh reading of its399 selected private/written objects. The complete G1901–1902 owner, selected event accounts, MINI owner and small MAIN owners retain their source-class boundaries. Current Cycle008 adoption governs documentary status; old producer phrases about unadmitted material, unfinished Phase2 or next-unopened episodes remain dated history. This candidate grants none of their underlying author, native, hash or primary credits to the present act of synthesis. [PS01]",
+            "",
+            "Six current MAIN owners were additionally received in full for consequential questions: C001E009 and E013–17. E009 owns the destroyed first soba shop, the denied improvement chance and the different shop's points partnership. It does **not** own the broadcast bargain. The original allocation's provisional suggestion of E009 as a broadcast carrier was corrected after reading it; E013–17 supply the actual access, publicity and audience sequence. This explicit route correction matters: a plausible institutional heading is insufficient evidence for a local claim. The chapter checkpoints can supply an adequate complete comparative argument, but the crucial permission and audience dispute here also has the whole small source-local owners behind it. [PS36] [PB13] [PB14] [PB15] [PB16] [PB17]",
+            "",
+            "All evidence is maintained written analysis of the pinned Japanese source. A quoted broadcast, a photograph taken in text, a video instruction or a written singing cue is not heard performance or inspected pixels. Earlier adequate reading is openly reused, with no clean-room or independent-first/second-order claim. Private encounter order, release order, receipt order and costumes do not create a global chronology. Preserved H working analytical antecedents remain metadata-only in this task: no such original was reopened or hashed. The separate prior School Lunch access disclosure remains immutable history and gives this study no access entitlement or source credit.",
+            "",
+            "## 2. Core thesis: particular care does not confer a general claim over others",
+            "",
+            "Pandemonium's recurring institutional difficulty is a mismatch between the purpose it announces and the interests it makes answerable to that purpose. An audit announces scrutiny but preselects rejection; publicity announces collective greatness but seeks Makoto's recognition; hospitality offers a guest something wanted but converts a missing drink or a fall into a budget penalty. These are neither interchangeable acts nor proof that care is unreal. The strongest reading is that the office can generate genuine pleasure, accommodation and useful action while using its institutional position to magnify one participant's purpose into a demand on other people. The literary argument concerns that conversion and its resistance, not a rule predicting every later decision. [PS05] [PB14] [PS02]",
+            "",
+            "The audit makes the conversion unusually visible. Makoto admits the proposed training paperwork has no problem and says no adjustment could alter her refusal. Iroha invokes inspection, applies reported publicity requirements the Prefects may not have heard, and makes cocoa availability a hospitality criterion. When Ibuki falls, she says she is fine and will not cry, but Iroha recasts the event as making her cry and announces zero funds. The wanted drink and concern for a child remain real; the inference that an unrelated training budget should answer for them is the institutional excess. The Prefects' objections and the final processing limit supply internal contrary evidence rather than an external moral standard imposed without a witness. [PS05]",
+            "",
+            "The reverse simplification also fails. Removing ordinary pleasures from analysis would make it harder to see what authority threatens or supports. Ibuki's cocoa and pudding, Iroha's reading and rest, Satsuki's wanted food and requested company, Chiaki's search for good article material, and Makoto's shopping, pictures and concern for Lionmaru have intrinsic ends. They do not become analytically important only when they interrupt a war. Their particularity defeats the notion that every member is simply a component of a government machine or that useful service is the sole measure of belonging. A failed photograph or incomplete collage is consequential as a frustrated want even when no public order changes. [PS01]",
+            "",
+            "The office's limits are also practical and sometimes avowed. Iroha says redistribution needs formal processing; in the holiday account Makoto rejects forcing Iroha to stay because loyalty should be voluntary; MINI150 has an apology qualified by Ibuki's demanded promise. These are meaningful contrary cases to unrestricted coercion. They are not durable institutional safeguards merely because they were spoken once. The proper comparison retains actual local acceptance, refusal, compensation or cooperation and asks separately what remains unprinted: future compliance, treasury transfers, fair burden sharing, victim consultation and safety. [PS05] [PS04] [PS35]",
+            "",
+            "The central institution therefore has no single measure of success. Makoto can gain attention without admiration; a party can resume without settling accounts; a cannon can fire without a validated mechanism; a child can forgive without consenting to every official act; an official can help effectively while withholding information or rejecting imposed work. Pandemonium is narratively productive because these measures intersect and diverge. Its mythology of Gehenna greatness is repeatedly forced to meet the ordinary persons whose lives would have to make that greatness desirable. [PS02] [PS04] [PB16]",
+            "",
+            "## 3. Situated roles, unequal knowledge and the difference between a title and a mandate",
+            "",
+            "Makoto's role claims are often expansive, but the text prints particular acts and corrections. At the formal pre-Eden visit she imagines an alliance with Schale to destroy the Prefects; Iroha says the visit concerns treaty attendance and no cooperation was requested. The correction makes an institutional distinction: being received by the chair and discussing a public ceremony do not authorize a joint attack. Makoto's wish for action is direct evidence of a wish, while the formal visit has its own purpose. The scene does not show a ratified agreement or a postponed alliance simply because Makoto says fun can wait. [PS24]",
+            "",
+            "The later ceremony makes material power visible without validating its use. Ako reports a car lent to the Prefects and a new airship for Pandemonium; Hina finds the late gift strange after obstruction and sees a prospective treaty as restraint on Makoto. These are reports and political assessments, not a fiscal audit or an already functioning treaty. Makoto subsequently gives explicit first-person claims of collusion with Arius and sham assent to Eden. That self-incriminating participation account carries substantially more weight than the earlier fantasy alliance, but its bargain and full communications remain uninspected. Her plan does not become an office-wide motive merely because Iroha and Ibuki travel with the delegation. [PS25] [PS26]",
+            "",
+            "Iroha's role is particularly resistant to an equivalence between membership and assent. She performs a punitive audit while disclosing its fault-finding instruction, helps with work while wanting rest, and later rejects Makoto's war program. Her C002E005 statement that she is leaving Pandemonium and Makoto's verbal acceptance are actual speech acts. They do not supply a personnel form or updated roster, but the lack of that paperwork must not erase the expressed break. Makoto's perfectly meshed gears and dispensable creaking-screw image is a current doctrine which the scene tests through Iroha's departure and Ibuki's distress. It cannot define every period of the institution or every member's prior loyalty. [PS05] [PS10] [PS01]",
+            "",
+            "Satsuki's information role provides serious leads while retaining uncertainty. She distinguishes her own NK Ultra from an earlier project, describes unfinished research and destroyed materials, and proposes cohort, exposure and frequency explanations. Her own apparent exception already limits a universal third-year rule. The group initially prefers a Gehenna-led response while reserving Schale as a last resort; this is a chosen political approach, not an independently verified prohibition on assistance. Information competence includes naming what she cannot presently explain. Her peaceful professed purpose and private control ambitions must remain particular statements, rather than either a proof of safe engineering or a diagnosis that all her support is counterfeit. [PS09] [PS01]",
+            "",
+            "Chiaki's news and photography work is an independent interest with institutional consequences. A photo can document a claimed historic collaboration for her purposes without becoming a published article, an audited popularity measure or the consent of every pictured person. The private account preserves unusable photographs, lost notes, failed tasting and renewed excitement; consolation does not recover the missing material. In the holiday, dismissing Iroha's refusal differs from asking a security member for a personal photo, explicitly permitting refusal and receiving assent. The latter is real contrary evidence and cannot retroactively authorize the former. Her reporting role contains both curiosity and choices about recipient control. [PB14] [PS01] [PS04]",
+            "",
+            "Ibuki does not grant institutional legitimacy by being young, protected or pleased. Her wish to help with an audit differs from its punitive assignment; her statement that she will not cry differs from the justification built over her fall; her voluntary departure and preference to stay with PS68 differ from the accusation of kidnapping. The office can be attached to her while misreading or instrumentalizing what she says. Equally, her knowledge that the holiday group is drifting and quarrelling defeats the adults' assumption that concealment wholly controls her knowledge. In each case the analysis keeps the recipient's own statement and action available as evidence against an official's account of what care requires. [PS05] [PS35] [PS04]",
+            "",
+            "## 4. Resources, processing and work: what an announced transfer does and does not achieve",
+            "",
+            "G1902 begins from a training plan Makoto admits is unobjectionable. Her rejection is preselected and the ensuing inspection is presented as financial scrutiny without a demonstrated discrepancy. Iroha's reported newspaper rule gives publicity a place in budget evaluation, despite acknowledged possible noncommunication. Notice-board upkeep, hospitality and Ibuki's upset are then attached to tactical-training funds. The institutional problem is the mismatch between the ostensible object of examination and the criteria used to punish it. A concern about embezzlement does not become a finding of embezzlement merely because a desk audit is underway. [PS05]",
+            "",
+            "The represented reductions and proposed final funding outcome need both levels retained. Earlier narration describes revisions over roughly three hours. Iroha proposes removing or reallocating roughly95% of training funds, then announces next-year zero funds after the fall. The clean closing qualification says redistribution remains a proposal without formal processing. Treating every earlier revision as nonexistent would discard narrated action; treating the final plan as approved expenditure would contradict the explicit limit. The strongest warranted result is an adversarial audit and described revisions with a final unprocessed scheme, rather than a permanent treasury state. Makoto's gloating does not supply the missing processing. [PS05]",
+            "",
+            "The main opening supplies a second resource conflict at a different evidence level. Ako reports an inventory deadline and surrender of ammunition above9mm, then complains about cuts and delayed activity-expense decisions. The complete order, stock count, actual compliance and accounts are not independently shown in that episode. Students ask why force does not simply overthrow Pandemonium, and Ako challenges what happens after victory. This juxtaposition matters: resource pressure can obstruct protection without making superior firepower a complete replacement for governance. The later coercive seizure and points exchange in the C002 account are actual distinct public harms, rather than automatic confirmation that every earlier reported restriction was fully implemented. [PS07] [PS08]",
+            "",
+            "EVENT833's publicity strategy adds covertly shifted costs. Makoto says statue production and placement contracts are in the Prefects' name, that Pandemonium controls their budget and that distraction will keep them unaware. This is an explicit claim of concealed burden, not an inspected invoice or a settled lawful contract. Quoted responses laugh at the statues, complain about obstruction and call them uncool; attention does not fulfill their intended political purpose. The cost account is serious precisely while its fiscal amount and legal completion remain unknown. It should not be dismissed as a joke, nor promoted to an audited debt total. [PS02]",
+            "",
+            "The holiday makes the labor behind rank unusually material. Iroha manages reduced rations and hides the change, attempts repair, catches and prepares food, and worries about guests. Makoto dismisses supply management as trivial while presuming rescue will arrive for the leadership. The resulting refusal exposes labor that had been available to the office without being adequately recognized. Iroha apologizes for volume and for frightening Chiaki in separate moments, not for the substance of every objection or in a printed mutual apology to Makoto. Useful work and attachment do not make continued provision freely requisitionable. The invited Teacher's offered help also differs from Iroha's reluctance to burden a guest. [PS04]",
+            "",
+            "Material compensation is nonetheless represented. The holiday afterstory actually presents a new boat to the fisherman, and Makoto distinguishes its price from decades of shared value. That concrete corrective act is stronger than a bare promise and belongs in the institution's counterevidence. It does not validate the proposed larger ship, renewed Prefect-budget cut, safe procurement or settlement of every passenger's experience. The story separates a tangible gift from later political aspirations; the synthesis keeps that separation instead of using compensation as either total redemption or an irrelevant exception. [PS04]",
+            "",
+            "## 5. Ordinary life is an institutional end, even when the office cannot use it",
+            "",
+            "The five private repertoires supply more than evidence of relaxed versions of public officials. Makoto shops, receives and views photos, adjusts care for Lionmaru, concerns herself with pudding and play, and has seasickness and a written do-not-touch context. Her compromises and merchant negotiations coexist with instrumental investment framing, refused offers and a wish to inhibit independent thought. The coexistence means neither pleasure nor coercion explains every encounter. A narrated broad resolution of various problems is retained at its breadth without inventing itemized repayment. These wants matter whether or not they make her a better chair. [PS01]",
+            "",
+            "Iroha's sofa reading, coffee and chosen company likewise have ends which cannot be reduced to maintaining the office. The private account distinguishes completed work and cleaning from prospective escape or cohabitation. It retains the Japanese return still in the swimsuit alongside the Korean all-day shared-reading wording, rather than constructing a common change-of-clothes event. The institutional relevance is not that quiet reading secretly produces loyalty. It is that a person who often keeps work functioning can want a life with fewer demands, can enjoy company, and can refuse an imposed continuation without those wishes being discounted as laziness or absence of care. [PS01] [PS04]",
+            "",
+            "Ibuki's failed park, carousel and parade plans are not failed literary evidence. Fulfilled games, enjoyed time, a vague career understanding, shared corn eating and a half-filled collage have different endpoints. The collage lacks sufficient collected materials, rather than sufficient paper; Teacher helps her down from shade rather than her independently performing the descent. Those distinctions preserve real initiative and limits together. The office's wish to honor her must be assessed against her actual wants, not an imagined perfectly capable or completely passive child. Her interest in another game rule and in more time with PS68 is as intrinsic as her concern for her seniors. [PS01] [PS35]",
+            "",
+            "Satsuki's hand-held relief, completed night paperwork, meals, escort, nail clipping and curry-udon eating coexist with failed methods, adult refusals and an unfulfilled control/world-peace wish. The account does not independently verify a reversed coin direction or self-hypnosis mechanism. Ordinary relief is therefore positive experience with a limited explanation. It cannot validate NK Ultra or authorize later contact; conversely, uncertainty about her explanation does not require denying the represented relief or wanted food. An institutional argument must preserve that separation if it is to examine rather than merely caricature its information officer. [PS01] [PS09]",
+            "",
+            "Chiaki's collaborative tasting, guest visits, reading and search for article material have a distinct pleasure and a distinct exposure to failure. Favorable reviews after changes to price or portions do not prove earlier complaints false. Circulation, awards and Makoto's non-objection are reports rather than an editorial charter. The look-at-me direction later becoming do-not-look/stay-still, confinement under a table and a withdrawn message prevent a blanket-consent account. An institution supported by images and news can still owe each participant control over a particular private image or disclosure. That duty is not discharged by her own enthusiasm for recording other moments. [PS01]",
+            "",
+            "Public ordinary occasions are equally necessary. At the party Ibuki wants play, cocoa and clothing; Ako wants to hear Hina's piano; Hina accepts artistic effort and wanted company while responding to institutional pressure. At the trip Makoto accepts the picture's edge so Ibuki looks good, visitors want tourism and rest, and Erika refuses a lunch fight to preserve her hair. These low-stakes details are not expendable because the same event contains danger. They specify goods which prestige politics might use, but which the people concerned also want for themselves. The argument does not award virtue for every pleasure or require each preference to cause a public reform. [PS02] [PS03]",
+            "",
+            "## 6. Selective care, hospitality and the recipients who can contradict it",
+            "",
+            "Cocoa is the most compact test of selective care. Ibuki asks for something pleasant. Iroha's use of absence as a deduction criterion is a separate action, based on Makoto's instruction to find fault. A hospitality standard can be a genuine concern, but the episode supplies no communicated universal criterion or financial irregularity that would make this drink a justified basis for tactical-training punishment. When concern follows the fall, Ibuki's fine/not-crying statement remains present. Taking her welfare seriously requires keeping it beside Iroha's protective interpretation rather than making either statement erase the other. [PS05]",
+            "",
+            "MINI150 supplies a different result because the recipient can set a condition. Ibuki leaves after repeated pudding taking despite a prior promise, refuses an escort back, and later wants to stay with the sisters even when no longer angry. Hina helps because of the lost child, not because she approves Makoto; Ako finds Ibuki, but the child's voluntary-leaving statement contradicts kidnapping. Aru's office and Haruka's company are things Ibuki wants. The institutional search is therefore not itself entitlement to return her immediately, and warm rescue language must remain answerable to her expressed preference. [PS35]",
+            "",
+            "The apology is actual and narrow. Makoto apologizes; Ibuki demands a promise not to take **anyone's** pudding; the finger promise is followed by forgiveness. Makoto's reported purchase of ten replacements does not print delivery or eating of all ten, and future promise-keeping is not shown. Iroha and Satsuki thank PS68. Satsuki offers a desk with a genuine taste option, but Aru's ritual refusal is accepted despite her unspoken expectation of another offer. No desk arrives. The ending gives real repair and real company without turning a forgiven local wrong into universal institutional consent or an enacted new resource arrangement. [PS35]",
+            "",
+            "The same sequence preserves official and unofficial boundaries. Ako's tolerance is conditional, with arrest still possible if a line is crossed. Kayoko distinguishes an unapproved club from business registration; the statement is not an independently inspected certificate. Aru objects to address disclosure, and Ako's assertion that offices already knew it does not erase that objection. Chiaki textually takes a group photo, while later transmission remains promised. An institutional encounter can be warm and retain exposure, privacy and information inequality. Its quiet black-coffee ending, with Aru coughing and Kayoko suggesting milk, is not a decorative appendix to politics: it is an actual small social world beyond the office's claim. [PS35]",
+            "",
+            "Hospitality also creates actual burden and actual success. EVENT833 makes Hina's responsibility acceptance and piano acceptance distinct, shows pressure and a covert fiscal strategy, then narrates local disorder resolved and the party restarted. The written performance is positively received by differentiated speakers. Makoto's humiliation strategy fails, but Hina's pleasure and effort must not be redescribed as mere forced output. Equally, habituation to repeated disorder is not proof the workload is acceptable or harmless. A successful celebration is one result; settled liability, repaired funds and fair future work arrangements are others which the ending does not print. [PS02]",
+            "",
+            "The holiday and trip provide contrary care outside the same ritual. Makoto actually draws pursuit away from Ibuki, rejects forced retention of Iroha and compensates the boat owner; Iroha catches Makoto when Teacher cannot reach her. During the festival, Iroha challenges vague commands and acts protectively, and Ibuki's fear turns to fun after reframing. Yet fun does not certify a danger was authorized or safe, and Ako's later meeting-labor/interference report prevents guest help from becoming institutional acquittal. Care is strongest here when an actual act and recipient state can be named; it becomes weakest as a claim to general fairness which outgrows those witnesses. [PS04] [PS03]",
+            "",
+            "## 7. Public change, crisis and finite endings without a fabricated developmental calendar",
+            "",
+            "The S2V002 local sequence gives a real movement from bounded permission through broadcast control and coercion to rejection of war. Before the disrupted speech, Makoto accepts a broadcast bargain; E015 supplies reported maintenance and anticipation, not an aired speech. E016 prints the strange transmission and public declaration; E017 differentiates support, alarm, dissent and continued work. The subsequent chapter supplies seizure, confinement, coalition work, counterbroadcast and local reconsideration. This order is shown within those chapters. It does not date the private reading scenes, group audit, party, pudding sequence or holiday as proof of before/after moral improvement. [PS06] [PB14] [PB15] [PB16] [PB17] [PS08]",
+            "",
+            "The crisis cannot excuse every office action through a single causal word. Shoko's later organizer-level admission is serious direct evidence, whereas frequency theories, exposure rules, selective susceptibility and a death-trigger claim have separate limits. The counterbroadcast starts, pain is shown and multiple local speakers reject war; narration closes the incident. Personal appeals and Makoto's anti-puppet words occur alongside that signal, so the account cannot isolate one cause of each recovery. Actual recovery is retained without a verified campus-wide clinical cure. Hina's subsequent refusal to use brainwashing as an excuse and Makoto's acceptance of chair responsibility likewise are speech acts in an unresolved accountability process. [PS08] [PS09] [PS20]",
+            "",
+            "The audience's aftermath is essential. C002E019 students remember compulsion, ask about ammunition and points, report property not returned, lament a limited item and react anxiously to the assembly sound. Their labels are episode-local, not automatically the seizure victim or crowd member from earlier. Makoto withdraws the battle plan and promises prompt return; Hina attempts to surrender authority and is refused; Ako lists repair and discipline ahead. These are meaningful public responses with uncompleted material and procedural ends. Teacher's thanks and support cannot substitute for those affected students' answers or establish that every property return has occurred. [PS20]",
+            "",
+            "Eden supplies adverse evidence of a different kind. Makoto's self-claimed collusion and sham treaty assent are not dated automatically by source-reading order against the S2 crisis, and their responsibility cannot simply be transferred to a broadcast mechanism from another arc. Iroha's warning of deception, Ibuki's flammable-box observation and the second explosion do not establish exact devices or deaths. A later medical member reports the delegates rescued from an airship in a lake; the epilogue has Makoto complain of deception and request unnamed retaliation while Iroha urges rest. Rescue and survival correct uncertainty, but they do not show a completed retaliation, institutional settlement or victim-facing accounting of the collusion. [PS26] [PS29] [PS30]",
+            "",
+            "Final supplies a genuine positive operation. Toramaru descends from an airship into the ninjas' encirclement; Iroha deploys and the next scene reports the area mostly cleared and no injury. Makoto attributes information and timing to her network and admits wanting Ibuki's favor after pudding; Ibuki says she asked them to help. The intervention is represented, while the exact balance of motives and prior information path remain attributed, especially through substantial speaker drift. Rescue does not prove that Makoto engineered the threat or settle the ninjas' whole mission. It demonstrates usable capacity with a bounded recipient result, not retrospective vindication of every office use of force. [PS33]",
+            "",
+            "The holiday ending provides a particularly strong safeguard against chronology by theme. Actual drift, rescue, compensation and afterstories must remain distinct from the later dream-qualified tournament. Imagined school conquest, crab victories and rank claims cannot enter the institution's real achievement record, but wanted creature company, exhaustion limits, poetry and playful ceremony still carry literary meaning. Hoshino's pleasure in dream sea creatures is a positive answer to the closing questioned director's nihilism without supplying a shared-dream mechanism or Yume-office evidence. Mode limits preserve ordinary value while preventing invented geopolitical success. [PS04]",
+            "",
+            "| Local episode or context | Actual supported result | End which remains unprinted |",
+            "|---|---|---|",
+            "| G1902 audit | Scrutiny, described revisions, punitive proposals and formal-processing qualification | Approved final95%/zero allocation, treasury transfer, full remedy |",
+            "| MINI150 | Found child, wanted play, actual apology/promise/forgiveness, taken group photo | All pudding delivery/eating, future compliance, transmitted photograph |",
+            "| MINI120 | Volunteer broadcast, cable untangling, represented song and success | Original host return, permanent replacement, fully informed budget disclosure |",
+            "| C001E009 | Destruction and denied chance; different shop becomes partner | First shop reprieve, contract terms, damages and formal culpability |",
+            "| C001E014–16 | Permission, entry, reported upgrade, actual disrupted declaration | Audit of metrics/equipment, editorial independence, completed invasion |",
+            "| C002 aftermath | Withdrawn plan, apologies, named work and local reconsideration | All returns, discipline, injuries and independently tested mechanism |",
+            "| EVENT833 | Local resolution, restarted party, positively represented piano | Full budget/legal repair, durable fair workload |",
+            "| EVENT835 | Cooperative response, resumed ceremony, safely ended trip | Zero costs, completed inspections, compensated harms |",
+            "| EVENT860 | Represented rescue and actual new-boat compensation | All pirate outcomes, mutual Makoto–Iroha apology, safe new ship budget |",
+            "| V003C003 | Claimed collusion, reported delegate rescue, return conversation | Complete bargain/culpability record, retaliation, comprehensive settlement |",
+            "| V100C002E018 | Arrival/deployment, local clearing and no-injury reports | Temple arrival, completed wider mission or enduring legitimacy |",
+            "",
+            "## 8. Broadcasts, audiences and the freedom to want a different programme",
+            "",
+            "Broadcasting is not simply an amplifier which reveals an already unanimous Gehenna. MINI120 gives Iroha an unwanted assignment and Erika/Kirara a wanted unfamiliar opportunity. Makoto treats unattended announcements as a way to claim budget cuts publicly disclosed, then wants broadcasting for prestige. That intention is not a printed enacted budget change or an informed process. The same apparatus can carry official self-praise, mistaken chain-letter fear, a club's quiet interest and a listener's preference for lunch solitude. Its institutional significance depends on who speaks, what is known and how recipients can answer. [PS35]",
+            "",
+            "The volunteer programme supplies a genuine alternative. Students welcome something other than Pandemonium hymns. An anonymous lunch writer values solitude without rejecting friends; the hosts recommend negotiating preferences, not an achieved resolution for that student. Another anonymous misfortune account receives encouragement and a streaming suggestion whose possible commodification remains a rival reading. That letter is not a newly identified Junko episode. A requested song cannot be played with the available equipment; encouragement to sing meets the objection that the listener did not ask for that voice. Limited assent and written song cues follow, and the narrator calls the broadcast successful. A successful programme need not be a unanimous preference or a performance this analyst heard. [PS35]",
+            "",
+            "The ending limits institutional appropriation. The hosts enjoy the work but decline permanent replacement because the original student may return and lose a place. They decline material thanks in favor of pleasure in useful work, then obtain permission to exchange contact with Iroha. The missing host's return, actual message delivery, transmitted contact and subsequent outing remain unknown. Voluntary help does not become an office's right to permanently requisition the helpers. Nor does preservation of another person's possible place require denying the actual pleasure and competence shown by the temporary hosts. [PS35]",
+            ""
+          ]
+        },
+        {
+          "kind": "replace",
+          "original_lines": [
+            136,
+            136
+          ],
+          "canonical_lines": [
+            136,
+            136
+          ],
+          "original_lines_complete_text": [
+            "The MAIN negotiation adds explicit bargaining over prestige. Shoko claims committee popularity, surveys, reduced incidents and economic improvement; Satsuki corroborates election talk, but neither supplies inspected datasets. The audience-growth graph is a displayed prop with unaudited denominator and baseline. Iroha supports qualitative popularity, not the precise percentage. Makoto accepts broadcast operation as a stage for himself, Chiaki records the purported collaboration, and Shoko's team actually enters the room. Makoto privately intends to absorb popularity while assigning failures elsewhere. Permission and access are achieved; editorial independence, operating safety and a verified right to externalize blame are not. [PB13] [PB14]"
+          ],
+          "canonical_lines_complete_text": [
+            "The MAIN negotiation adds explicit bargaining over prestige. Shoko claims committee popularity, surveys, reduced incidents and economic improvement; Satsuki corroborates election talk, but neither supplies inspected datasets. The audience-growth graph is a displayed prop with unaudited denominator and baseline. Iroha supports qualitative popularity, not the precise percentage. Makoto accepts broadcast operation as a stage for herself, Chiaki records the purported collaboration, and Shoko's team actually enters the room. Makoto privately intends to absorb popularity while assigning failures elsewhere. Permission and access are achieved; editorial independence, operating safety and a verified right to externalize blame are not. [PB13] [PB14]"
+          ]
+        },
+        {
+          "kind": "equal",
+          "original_lines": [
+            137,
+            234
+          ],
+          "canonical_lines": [
+            137,
+            234
+          ],
+          "exact_unchanged_lines": [
+            "",
+            "E015 differentiates accomplished maintenance work at the range from Shoko's claimed school-wide sound upgrade. Makoto praises infrastructure without spending the office's budget, but funding, procurement, coverage and cable repair are not independently witnessed. The proposed surprise speech is still anticipation. When E016 supplies the broadcast, four local crowd labels are already differentiated: curiosity, skepticism, concern about compelled attendance and anticipation of spectacle. After the transmission some become enthusiastic while others remain confused; Iroha, Chiaki, Ibuki, committee members and Teacher do not all assent. The six words and abrupt declaration support a consequential anomaly, not a count of universal conversion or a known operator. [PB15] [PB16]",
+            "",
+            "E017 makes recipients' differences politically meaningful. Iroha challenges the war declaration and fears it becoming real; Iori and Chinatsu defend protection of ordinary students rather than arbitrary violence; Satsuki rejects conquest despite the proposed grade pattern. Fuuka and Juri keep preparing meals and remain bewildered, while Erika/Kirara offer help. Ordinary continued work is neither endorsement nor proof every peer is unchanged. Later Chiaki's reported0.3% audience figure is another limited measure, not an audited verdict on the whole school. Public address is strongest as evidence of an actual utterance and actual local answers; prestige numbers and claims of all-student unity cannot silence the contradictory witnesses. [PB17] [PS20]",
+            "",
+            "## 9. Language, source-local roles and the limits of written visibility",
+            "",
+            "The office's vocabularies are competing descriptions of action. Iroha's only-an-audit/civil-servant disclaimer encounters her fault-finding disclosure and protective criterion change; Makoto's gears image encounters an actual leaving statement; freedom and loyalty meet claims to command; captaincy and conquest meet practical limits or dream qualification. These are situated Japanese written forms with literary force. Repeating a title does not show a regulation, and repeating a technical word does not establish a mechanism. School mythology is legible in what the office wants its acts to mean, while governance is tested by the represented decision, resource, processing step and affected answer. [PS05] [PS10] [PS04]",
+            "",
+            "G1902's display/text-bearing actor seams are retained exactly. The training-plan conclusion at scene001u0002 has a Makoto display label with Ako's text-bearing command; the caution at u0057 has Chinatsu display and Iori text-bearing roles; scene003u0058 has Makoto display and Iroha text-bearing roles. The clean followingu0059 independently supports the procedure limit. The account need not claim a repaired upstream actor table to use it. Ako's audible insult and parenthesized diplomatic phrase are explicitly switched, so parentheses cannot mechanically be treated as everyone else's knowledge. G1901's incidents are reports within a meeting rather than all their speakers being physically at the desk. [PS05]",
+            "",
+            "MAIN tags likewise constrain individual language claims. E014 has Makoto labels carrying Shoko-like pitch and argument; E015 has observer/flattering lines with uncertain labels; E017 has self-address and reply shifts. Coherent nearby statements support the bargain, entry, dissent and local ending without granting every printed line a stable idiolect. Shoko's committee identity is kept distinct from Pandemonium members; her returned sweets, tears, nonrecantation and Arashi testimony are different acts in the C002 ending. Bodensatz suspicion is not an Arashi identity join, and Makoto's possible-Ibuki-legacy thought supplies neither a mechanism nor her willing participation. [PB14] [PB15] [PB17] [PS21]",
+            "",
+            "Anonymous roles deserve actual analytical homes within the represented scenes. G1901 singular/collective Prefects and three Hot Springs members remain reported source-local actors with unresolved joins. The broadcast's audience A–D, anonymous letter writers, SNS handles, former host and generic post-crisis students are not one public. The first soba owner directly serves, pleads and reports loss; the different partner shop has a different endpoint. The holiday fisherman can report photographs and receive actual compensation without becoming a ghost captain or unnamed pirate. Repetition of a letter, occupation or setting does not justify those mergers. This is source-local role allocation within the institution argument, not a new census or biography. [PS05] [PB16] [PS20] [PS36] [PS04] [PS35]",
+            "",
+            "The mode distinctions also prevent a false uniform history. Profile/Talk/Think, whole MomoTalk tails, BOND choices, inward reactions, reports, log-like memories, narration, source video tokens and dream speech retain their respective force. Mutually exclusive choices do not all happen. An inward preference can be available to the reader while unknown to a peer; Teacher's inward lines sometimes receive replies without proving telepathy or a universal audibility rule. The maintained private comparison preserves Japanese/Korean differences rather than averaging them into one event. Written laughter, fatigue, singing and silence support interpretation of represented forms, not performed pitch, acting, music quality or physiological diagnosis. [PS01] [PS04] [PS35]",
+            "",
+            "## 10. Six serious competing readings and the evidence which limits each",
+            "",
+            "**Unrestricted chair authority.** Makoto receives requests, grants access, appoints work and issues public withdrawal, so the office has practical importance rather than being an empty title. The strongest version of this reading recognizes that material gatekeeping shapes what other groups can do. It nevertheless fails as a claim of unlimited legitimate power: Iroha corrects a presumed alliance, final audit redistribution requires processing, private refusal and public dissent remain, and the audience does not unanimously endorse the chair. Actual power to pressure is not itself adequate justification of each pressure or a complete printed legal mandate. [PS24] [PS05] [PB16]",
+            "",
+            "**Kindness legitimates selective punishment.** Concern for Ibuki, cocoa, a promised holiday and replacement boat are real, and an account that denies them cannot explain why members remain attached or why some recipients enjoy these acts. The alternative becomes untenable when it lets those acts settle unrelated recipients' claims. Ibuki does not design the training-budget criterion, says she is not crying, refuses immediate return and later sets an all-pudding promise. Hina's piano success does not pay a covert invoice. Particular kindness supports particular care; it does not make budget retaliation fair or render imposed work consensual. [PS05] [PS35] [PS02] [PS04]",
+            "",
+            "**Only comic incompetence.** Failed grand plans, embarrassing titles, inaccurate forecasts and borrowed prestige give this reading real support. It captures how the text often punctures self-importance. But it cannot absorb actual protective diversion, Toramaru intervention, volunteer broadcast success, returned local operation, tangible compensation or negotiated forgiveness without denying represented results. Neither should it erase capable maintenance by Iroha, Satsuki's explicit uncertainties, Chiaki's differentiated photography or Ibuki's knowledge and initiative. Comedy can expose a mismatch in measures while leaving the affected person's pleasure, work and harm serious. [PS04] [PS33] [PS35]",
+            "",
+            "**One shared family-care motive.** There is sincere attachment, especially around Ibuki, and cooperative work can coexist with rivalry. This makes the family-care reading a meaningful alternative to pure domination. Its total form erases Iroha's refused labor, Satsuki's control ambitions and requested company, Chiaki's news/privacy questions, Ibuki's separate play preference and Makoto's explicit prestige strategy. It also treats concealed rationing as transparent agreement and a forced or formal apology as sufficient repair. The separate ensemble remains necessary for differentiated belonging; the institution account asks what those distinct attachments authorize in resources and work, where they often authorize less than the office claims. [PS01] [PS04] [PS35] [PB14]",
+            "",
+            "**Spectacle equals informed recognition.** The crowd, displayed graph, articles sought, photos and resumed party show attention can be real. A useful broadcast can genuinely please hosts and listeners. Yet a photograph not transmitted, a quoted post laughing at a statue, a listener asking if attendance is compulsory and an audience divided after the declaration contradict the equation of visibility with informed assent. A reported audience percentage does not establish a public mandate. The missing prior host and temporary volunteers' refusal of replacement also prevent treating popularity as an entitlement to occupy another person's place. [PB14] [PB16] [PS02] [PS35] [PS20]",
+            "",
+            "**Later success settles earlier debts.** Actual apology, forgiveness, local rescue, reported recovery, withdrawal and compensation show that the narrative can produce changed situations rather than endless failure. Those ends should be stated positively. The universal version fails because each repair has its own scope: a finger promise does not return seized ammunition, a new boat does not authorize a new budget cut, a party opening does not audit contracts, and a local no-injury report does not establish permanent political legitimacy. Undated sources cannot be assembled into a convenient redemption or regression chronology. Continuing accountability is not denial of success; it is refusal to substitute one successful result for an unprinted different one. [PS35] [PS04] [PS02] [PS20] [PS33]",
+            "",
+            "## 11. Contribution, evidence route and the fourteen still-open warrants",
+            "",
+            "Pandemonium's institutional mechanism is an unstable attempt to make particular recognition, care or prestige carry a general demand. The sources also print resistance to that move: processing requirements, role correction, leaving, guest refusal, audience plurality, negotiated promise and independent ordinary work. This gives a distinct whole institution argument beyond “Makoto fails” or “the group cares for Ibuki.” It locates the office where authority meets resources and recipients, preserving genuine enjoyment and competent action while asking whose uncompleted interests remain. It is a literary synthesis, not an operational reconstruction rule set, held-out prediction or validation claim.",
+            "",
+            "The most consequential uncertainty is not whether cocoa, play or a local rescue matter; their actual value is shown. It is the unwitnessed transfer from those acts to durable fiscal, procedural, political or technical conclusions. Positive local endings are retained as strongly as the adverse ones. The source route therefore keeps the audit's draft limit, MINI's recipient conditions, MAIN's diverse answers and property questions, the events' labor/compensation boundaries, Eden's participation claims and Final's bounded rescue together. No one source class is discarded for quietness, humor, sparse dialogue or lack of crisis stakes, and no unclassified quiet material is silently declared irrelevant. [PS05] [PS35] [PS20] [PS04] [PS26] [PS33]",
+            "",
+            "| Original gap | Status | Contribution and remaining claim-specific warrant |",
+            "|---|---|---|",
+            "| G01 Ordinary and private breadth | OPEN | Five wanted repertoires and their adverse/failing ends remain intrinsic; this selected comparison does not exhaust every private context or make a universal governance persona. |",
+            "| G02 Yuuka council/club decision transfer | OPEN | Role correction, processing and shared work offer a comparison method, not Yuuka's separate council/security-transfer evidence or completion. |",
+            "| G03 Serika service, peer and reciprocity range | OPEN | Guest labor, taste and reciprocity remain recipient-specific; no Serika service or peer duty is fulfilled by analogy. |",
+            "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Piano, scheduling, coercion, apology and resource pressure remain distinct; signal isolation, injury/accountability allocation and complete restitution remain unprinted. |",
+            "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | Claimed collusion and pudding/search/company scenes contribute bounded contexts; they do not settle Arius safety, PS68 history, legal aftermath or every private repertoire. |",
+            "| G06 Cross-school ordinary repertoire | OPEN | Broadcast, festival, guest pleasure and wanted company are positive; no total school prevalence or universal consent follows from those participants. |",
+            "| G07 Story-world chronology | OPEN | Demonstrated within-chapter, within-trilogy and local holiday relations are retained; release, costume and receiving order give no cross-source developmental calendar. |",
+            "| G08 Event naming and repeat contexts | OPEN | Exact833/835/860 and MINI120/150 IDs retain titles, empty titles and edition boundaries; thematic resemblance neither invents a title nor proves one repeated occasion. |",
+            "| G09 Written speaker/choice attribution | OPEN | Display/text seams, report layers, inward wishes and anonymous roles are explicit; unresolved fine actors and branch runtime cannot become certain doctrines or shared knowledge. |",
+            "| G10 Performed voice | OPEN | Written public address, song, laughter, silence and video tokens are received only as text; AV, acting, heard music and delivery remain unreceived. |",
+            "| G11 Hoshino's Yume record and office states | OPEN | The holiday's comic awakening and dream pleasure supply no Yume record or proof of lasting office stabilization; institutional analogy does not close this original question. |",
+            "| G12 Counterpart, system and variant identity | OPEN | Positive five-person metadata is retained and anonymous/system/dream/questioned actors remain separate; no person merger, costume timeline or legacy mechanism is inferred. |",
+            "| G13 Office, contract, safety and technical outcomes | OPEN | Formal draft limits, stated contracts, harm, actual compensation and local rescue are distinguished; approved funds, full invoices, repairs, clinical outcomes and tested technical causes remain bounded or absent. |",
+            "| G14 Unclassified/mode continuity | OPEN | Maintained MAIN/GROUP/EVENT/MINI/private/written classes keep admitted scopes and mode differences; quiet unclassified routes remain duties, with no automatic continuation or exclusion. |",
+            "",
+            "### Complete source route used by this candidate",
+            "",
+            "The companion source/receiving receipt binds every source copy, the fresh complete readings, exact prior-own scopes and source-to-claim witnesses. Nineteen owners are adequate previously personally received arguments, with bounded current refreshes explicitly listed; six whole small MAIN owners are newly received arguments in this task. For the shared private account the actual whole substantive boundary is420–602, not whole1–419. Public owner reuse is neither a fresh reading of all underlying canonical objects nor transferred original-author primary credit. All preserved producer closure, admission, model and publication phrases are qualified by current governing controls.",
+            "",
+            "| Source IDs | Actual literary responsibility |",
+            "|---|---|",
+            "| PS01 | Complete connected Gehenna private/public account420–602, five ordinary repertoires and source-mode limits |",
+            "| PS05 | Complete G1901–1902: reported work, preselected audit, cocoa/fall, processing limit and hedged aftermath |",
+            "| PS02 / PS03 / PS04 | Complete accepted EVENT833/835/860 arguments at qualified prior-own scope; specific current refreshes of whole substantive meanings/endings |",
+            "| PS35 | Complete accepted MINI32 owner at qualified prior-own scope, with current complete120/150 argument refreshes; no new whole32-primary receipt |",
+            "| PS06 / PS08 | Complete S2V002 chapter arguments, role/access/coercion/reversal and still-unfinished accountability |",
+            "| PS07 / PS09 / PS10 / PS20 / PS21 | Complete small public role, theory, leaving and aftermath owners with recipient/claim boundaries |",
+            "| PS24 / PS25 / PS26 / PS29 / PS30 | Complete Eden formal contact, preparation, claimed collusion, delegate-rescue report and epilogue owners |",
+            "| PS33 | Complete Final Toramaru local operation with report and speaker limits |",
+            "| PS36 | Fresh complete C001E009: denied soba improvement chance, loss and different-shop partnership; explicit negative broadcast-route correction |",
+            "| PB13 / PB14 / PB15 / PB16 / PB17 | Fresh complete actual broadcast owners: diverse wants, access bargain, reported equipment, transmission, declaration and uneven answers |",
+            "",
+            "The candidate concludes at a whole bounded institution argument with all eleven allocated dimensions, six serious rival tests and all fourteen original gaps OPEN. ROOT's complete independent receiving and acceptance remain required. No named duty, new home, scope change, source admission, model promotion, milestone or literary completion counter is enacted by the author document. Its final question remains concrete: when Pandemonium claims to care for Gehenna, which actual persons can answer, refuse and have the material result made good?",
+            "",
+            "[PS01]: ../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+            "[PS02]: ../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+            "[PS03]: ../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "[PS04]: ../../02%20Sequential%20Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+            "[PS05]: ../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+            "[PS06]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_CHECKPOINT.md",
+            "[PS07]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md",
+            "[PS08]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_CHECKPOINT.md",
+            "[PS09]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md",
+            "[PS10]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E005_DEEP_READING.md",
+            "[PS20]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md",
+            "[PS21]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E021_DEEP_READING.md",
+            "[PS24]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E004_DEEP_READING.md",
+            "[PS25]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E006_DEEP_READING.md",
+            "[PS26]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E007_DEEP_READING.md",
+            "[PS29]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+            "[PS30]: ../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E025_DEEP_READING.md",
+            "[PS33]: ../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E018_DEEP_READING.md",
+            "[PS35]: ../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+            "[PS36]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E009_DEEP_READING.md",
+            "[PB13]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E013_DEEP_READING.md",
+            "[PB14]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E014_DEEP_READING.md",
+            "[PB15]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E015_DEEP_READING.md",
+            "[PB16]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E016_DEEP_READING.md",
+            "[PB17]: ../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E017_DEEP_READING.md"
+          ]
+        }
+      ],
+      "full_original_byte_recovery": "PASS",
+      "terminal_LF": "EXACT"
+    },
+    "all_source_claim_saved_control_inverses": "COMPLETE_OPERATIVE_ATTACHMENTS_PRESERVED"
+  }
+}

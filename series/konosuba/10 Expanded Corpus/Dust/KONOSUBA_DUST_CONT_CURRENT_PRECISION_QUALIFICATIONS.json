@@ -1,0 +1,232 @@
+{
+  "schema": "KONOSUBA_DUSTCONT_CURRENT_ATTRIBUTABLE_PRECISION_V1",
+  "created_utc": "2026-10-18T12:33:51.152475+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Exact source is the separately titled もっとあの愚か者にも脚光を！ 姫様からの招待状, not a newly invented numbered volume8. Printed spineあ-6/8-1 is an internal code. Author explicitly reopens the seven-volume ending under more.",
+      "source": "U017P0003–0011;U020;IMG003/004"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Whole supplied scope23text/22images/2916P; principal U010–0162846P including five chapters/two epilogues, other70P. No separate supplied bonus. All ruby/residuals and native images actually read before seal.",
+      "source": "admission/seal/U001–023"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Electronic colophon2026-02-28/ver.001 differs from print-base2026-03-01 first edition. Preserve both dates; inventory selling/release and OPF modification do not silently replace actual colophon observations.",
+      "source": "U020P0007–0012"
+    },
+    {
+      "id": "Q04",
+      "qualification": "All150 original short voice anchors join the exact native windows; purposeful selection, no audio/native-human, second independent pass, population gag census or new main J01 claim.",
+      "source": "current voice register/whole seal"
+    },
+    {
+      "id": "Q05",
+      "qualification": "ロリーサ is explicitly used for the small succubus here. Real ドレック and proxy devil ガイビル are separate actors; Leen/princess are separate lookalikes. No new names or identity facts are backfilled into frozen older states.",
+      "source": "U010P0149;U011P0416;U013P0085/0208–0223/0306–0314"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Princess letter pressure/no-veto and Dust refusal precede his actual revised travel choice. Leen offers accompaniment for her own reasons; party volunteered later. No automatic consent from invitation, authority or proposed travel.",
+      "source": "U010P0003–0067/0187–0209/0276–0285/0353–0368"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Actual child grooming, Leen cleanup, wanted walk, picture-book purchase, specific assent and generous cookie offers are nonsexual care/attachment evidence. Child is not an adult romantic rival; Cecilys inappropriate child approach/harassment is described only non-graphically, with actual protection attempts.",
+      "source": "U010P0068–0107;U011P0458–0550;U012P0320–0375;U015P0068–0069"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Old rescue declaration becomes reported DarkStalker gossip; Dust accidental confirmation amplifies it. Spy described female by Vanir, location/identity unresolved. Advanced-class expertise does not prove a newly observed spy scene.",
+      "source": "U010P0109–0167/0263–0272"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Child positively agrees and actually hands over her own hair for snacks; advisor waives fee after receiving this consideration. This present exchange does not authorize earlier Dust payments using her materials. Wiz expensive snacks/humiliation remain separate owner costs.",
+      "source": "U010P0213–0239"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Oracle advice is actually sought, extra disaster detail has explicit price and is knowingly declined; narrator perfect-accuracy appraisal is not a new observed accuracy census or identified future disaster. Vanir tracking limit is explicit.",
+      "source": "U010P0241–0272"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Travel decision precedes forgotten funds, actual empty wallet shown/Leen savings separate. Escort arrangement belongs Keith/Taylor distributed planning; billion bounty is rejected for danger/time. No new bounty attempt or fully printed binding financial loss.",
+      "source": "U010P0276–0299/0353–0380"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Yun main battle and prior past events remain mediated reports. Actual audience rejects a break in heroic ceremonial speech and Dust rebuke hurts Yun; his kindness claim does not prove no harm, future consolation unperformed. No clinical diagnosis or H3/H4 exemption from genre speech.",
+      "source": "U010P0302–0352"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Client misheard names and Dust cognitive-decline suggestion are written characterization, no medical diagnosis. Three-carriage client arrangement is actual; Small pays passenger/travel-work purpose and Leen invites her, not Dust commandeering.",
+      "source": "U010P0381–0427"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Road spear use occurs because magic sword still not returned by Kazuma. Small passenger objection precedes manipulated bait choice; first rescue real, hair graze/repetition/exhaustion real. Toad migration is Keith hypothesis, not proven exclusive Megumin causation.",
+      "source": "U010P0444–0498"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Client explicitly objects to meat/blood on carriages and Dust ignores. Actual useful food/burn disposal does not authorize provider property use. No cruelty-free result or total environmental repair claimed.",
+      "source": "U010P0493–0498"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Family whereabouts remain uncontacted and unknown; Dust parents-resilient belief is not evidence they are safe. His nostalgia/current-life enjoyment and grumble-smile are actual self-report, not total absence of regret.",
+      "source": "U010P0500–0542;U011P0210–0215/0263–0271"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Actual gate entry uses invitation and selective true help account without detailed old-identity check. Active hood/disguise persists. Princess public local mischief popularity is observed/reported in bounded groups, not every citizens view.",
+      "source": "U011P0030–0060"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Threatened fractures initially are threats; actual capture/binding/gagging occur. Dust hears protests despite false consent/bonus translation and cites kings permission. Leen objects. Later room hanging actually observed at U011P349; no authority, injury-threshold, comedy or affection exemption.",
+      "source": "U011P0065–0183/0341–0383"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Butler starts old name then repairs Dust; true/original princess labels are knowing role insults, not identity equality. Casual-address permission is recipient-specific, not general removal of rank.",
+      "source": "U011P0118–0139"
+    },
+    {
+      "id": "Q20",
+      "qualification": "King actually apologizes in private, using Line; Dust owns decision while acknowledging pressure, with 私-to-俺 repair/hedged no regret. Child exchange plus money twice refused. Old foreign match reportedly failed; current groom is domestic former chancellors eldest son, future office unperformed.",
+      "source": "U011P0231–0299"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Dust refused visit is forced by push/grip/whip binding and exposure threat. Princess feigned sleep/rope humor do not mean restraint is unreal or permitted. Doreck later begins untying, full release inferred after actual start.",
+      "source": "U011P0300–0383/0451–0452"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Bookshop free-use license attributed to princess includes Dust without his permission; idealized histories and author-supervised beauty changes are in-world reports/skims, not root reading all those books. Arson contemplated, not performed; child book actually bought.",
+      "source": "U011P0468–0496"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Axis conversion/refuge/suppression and anti-religion statements initially Cecily reports, princess conversion only directly confirmed U014P133. Signup form rejected before signature. Promised warning to butler and marriage-sabotage plans are not all performed at first mention.",
+      "source": "U011P0504–0541;U012P0381–0432;U014P0129–0136"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Actual three-day investigation has positive reputation reports, missing-investigator lead and scent evidence; Dust dismisses missing woman as jailed without confirmation, Taylor requires all reports before judgment. Possession/dead replacement/contract rivals are explicit. Missing woman outcome unresolved.",
+      "source": "U012P0051–0165"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Leen investigation food invoice handed/pocketed, not paid; double royal reimbursement contemplated intentional inflation, not actual settlement or overlooked term. Child cookie to groom actual; favorite cookie to Dust offered but declined.",
+      "source": "U011P0433–0437/0543–0550;U012P0101–0108"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Leen initially objects to wild-role ability; coordinated praise/dress appeal changes uptake, later her private reasons choose continuation. Training fatigue and help appeal real. Real princess bound uninformed/chair falls; liking tragic role not consent. Maid bribe cue heard despite credibility denial.",
+      "source": "U012P0191–0269/0436–0510"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Small says assignment was decided without her agreement, physically taken for training. Liking costume and later learning enthusiasm are separate. Dust actually withholds a further insult to preserve help, not complete ethical cure.",
+      "source": "U012P0269–0307/0475–0481"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Food/holy-water ban and health effects are fictional reports, not current law/medical claims. Dust protective warnings/entry-lift/exit attempts/bribe refusal occur but child consumes; medicine purchase unshown. No practical drug/chemical directions or medical diagnosis are provided.",
+      "source": "U012P0311–0419"
+    },
+    {
+      "id": "Q29",
+      "qualification": "Cecily promised princess permission/immunity has unheard qualifiers and no established actual clearance. Diversion later really exhausts guards; Dust explicitly recognizes cruelty. Helper police/royal authority does not erase actual labor/property costs.",
+      "source": "U012P0422–0432;U013P0003–0045/0385–0395"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Small map/window preparation/night vision/social lure and actual stop-wine intervention are credited. Later wine theft intention unperformed. Cheap praise explicitly fails; distinct claimed Vanir handkerchief actually given. No stated current counterfeit manufacture, unlike earlier fake token.",
+      "source": "U013P0047–0193"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Food restriction sign/list read by Small leads cookie-based replacement deduction, then real Doreck directly confirms. Cookie ingredients are not independently tested or a universal medical identity rule. Current real Doreck willing contract defeats assumed helpless captive account.",
+      "source": "U013P0079–0129/0202–0223"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Doreck childhood coercive outing/physical distress is reported with his later romantic interpretation; Dust risk remark ignored. No clinical hallucination diagnosis or erasure of force through later affection. All adult proxy-marriage/intimacy proposals kept non-graphic and unperformed.",
+      "source": "U013P0225–0288"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Actual direct wanted/paid and post-contract-plan questions are careful checks. NEW one-eye/one-ear shared senses exposes interrogation and actual Small capture, not an accessible earlier cue or proof total incompetence. False-groom formal voice and Gaibil rough own voice differ.",
+      "source": "U013P0216–0223/0291–0345"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Mutual Gaibil/Doreck care, forbidden killing and possible good governance do not supply princess informed agreement. Captivity/conditional no-harm threats and future deceptive-spouse plan remain. Comfortable two-night wait has actual food/cards/books and real worry; neither pure motive nor comfortable setting automatically resolves full N01 feasibility/leisure comparison.",
+      "source": "U013P0306–0499"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Cecily moved to another isolation area, not released. Fake illness actual ruse/pain not disease; resident doctor and extra guards defeat assumptions. Proposed doctor-hostage taking stopped before execution. Princess letter later explains missing rescue, previously unavailable to Dust.",
+      "source": "U013P0469–0531;U014P0144–0161"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Jail visitor is REAL princess, contrary Dusts Leen theory; she reports magically suppressing Leens wanted arrival to protect her. Actual band terms queried, unknown-strength test forced on resisting Dust, Small refuses as play. Shock/pain/temporary paralysis real; later king no-harm account cannot erase them.",
+      "source": "U014P0003–0108"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Wedding bride is LEEN, contrary Dusts real-princess assumption. No-shock cue was available and missed before body/contact recognition. Swap/security only partly reported by Leen, exact operation not all root-watched. Cecily ritual interruption unplanned and escape route unobserved.",
+      "source": "U014P0249–0347"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Holy exposure unexpectedly grows enemy and destroys church. Public name exposure begins ring loss/fan recognition then enemy broadcast; public child transformation actually occurs later at P428. No admiration-only restraint breach or globally restored job card; precise protected-person vow remains.",
+      "source": "U014P0292–0444"
+    },
+    {
+      "id": "Q39",
+      "qualification": "New maximum-shock hostage threat changes escape appraisal; Leen owns protect-both request/voluntary boarding, child specific yes. Taylor supplies country-knight spear, Keith staff source borrowed-or-stolen unknown. Actual water-cart/Leen screen/partner movement-fire/dust skill yield strike, not solo mastery; stuck spear accidentally deposits him on enemys back.",
+      "source": "U014P0410–0519"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Gaibil public brainwash story contrasts earlier private willing contract and Doreck later thanks; protective villain performance is strongly supported, not actual mind-control proof. Final nonlethal limit acknowledged by Dust, princess selfshock stops charge with collateral blackout; Dust reports two days unconscious.",
+      "source": "U014P0536–0573;U015P0006–0010;U016P0021–0028"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Gaibil alive/bandaged/unbound in private second epilogue, Doreck reported lenience/future service and king pragmatic no-human-harm comparison are attributed accounts. They do not erase earlier actual coercion/church damage. New contract seeks Dorecks own growth/appeal, no actual cure/marriage/new price/refund printed. Dust absent.",
+      "source": "U016full"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Rionor actually joins return; exact cooling-off/learn-world instruction differs from definitive equal exile. Her future priest/adventurer plans unperformed, lifetime celibacy forecast explicitly limited by her own for-a-while view. No actual mouth kiss, formal dating agreement or settled triangle; child attachment nonsexual.",
+      "source": "U015P0026–0073"
+    },
+    {
+      "id": "Q43",
+      "qualification": "IMG017hood reveal/IMG018child cookie offer/IMG019concealment proximity/IMG020formal tuxedo fire-spear/IMG021rival arm contact retain pictured limits. No separate full action, sex, solo provider ownership, mouth kiss or final kill certified by image placement.",
+      "source": "IMG017–021"
+    },
+    {
+      "id": "Q44",
+      "qualification": "U018/IMG022 is a reader-survey/social advertisement, NOT the contributor panel present in some older volumes. Two creator flap comments are on fullwrapIMG004. Printed URL/QR/password/respond/follow calls are source content, no agent instructions/external actions or current prize availability claim.",
+      "source": "U018/U019;IMG022/004"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Author discarded Crimson-village setting and recognizable character influences are production commentary, not canon travel or new blind reconstruction. Anime viewing/anniversary/future-season remarks are historical attributed author exposure, not root audio/video or current web verification. All fixed41/method/frozen/score boundaries remain.",
+      "source": "U017;IMG004;root prebody seal"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "schema": "konosuba.cohort42.publication-gate-close.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "closed_utc": "2026-10-25T01:06:31.771727+00:00",
+  "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+  "tree": "1290426538132b4fe72067fa1c5dcc31699f2fe4",
+  "parent": "c2e8af7cd40b2c49bba015396c9aee58f9018649",
+  "author_preflight": {
+    "paths": 10083,
+    "exact_index_tree": "1290426538132b4fe72067fa1c5dcc31699f2fe4",
+    "verified_receipt_sha256": "7291dfb563d0826d7940c93a34a6c301aca773713e992f7164a2248f59466e06"
+  },
+  "ordinary_publication": {
+    "force_push": false,
+    "all_unpublished_author_and_committer_identities_approved": true,
+    "push_receipt_sha256": "a148770a4ae051076e4cc0d3cedafcceb67c5bd3259b5a2aa729847b04739fe3"
+  },
+  "remote_readback": {
+    "repository_files": 10083,
+    "project_files": 1515,
+    "total_changed_streams": 43,
+    "authored_streams": 31,
+    "owner_registry_streams": 3,
+    "owner_foreign_streams": 9,
+    "all_byte_exact": true,
+    "receipt_sha256": "82f08d7137b0770bb9d4d45d9e4a23c058630bf225b34f055cb7c193a8bb3c5b"
+  },
+  "actual_source_audit": {
+    "run": 40148739580,
+    "source": "7acb76f63f77539b79dd4d9f7891855043058af1",
+    "paths": 10083,
+    "full_discovered_tests": 479,
+    "every_discovered_test_ID_compared": true,
+    "all5_non_success_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/7acb76f63f77539b79dd4d9f7891855043058af1",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57184735307,
+      "node_id": "SC_kwDOUJ9ads8AAAANUHnQSw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40148739580",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-25T01:02:32Z",
+      "updated_at": "2026-10-25T01:02:32Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    },
+    "verification_sha256": "e68249b5240b394b8b06aa49152a73b267161c813105cf96550d010a9756705e"
+  },
+  "fresh_authority_reload": {
+    "project_files": 1515,
+    "all_bodies_equal": true,
+    "receipt_sha256": "b1f6e7b2cb516ebd6448fde29fc41e3a16f4535a6e1bd56cfe5066ccf465ee69",
+    "technical_not_semantic_reading": true
+  },
+  "frozen_analytical_cores": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CRIMINAL_CHIEF_CHARACTER_MONOGRAPH.md",
+      "bytes": 13197,
+      "sha256": "bf27964d198353dc9b4dc246800cf5c3f3a654185a6c2e46412a40ee52e4ec4d"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CRIMINAL_SUBORDINATES_CHARACTER_MONOGRAPH.md",
+      "bytes": 11985,
+      "sha256": "0a4339555d5aaa500f3f345806ba29585e8e404f84ff9799508d30b25a69e489"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_COMPACT_PROFILES.md",
+      "bytes": 11624,
+      "sha256": "5e1da504c07279ac7f71085bb2fa2a8064bd92178966e10073a9b12ac5173153"
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_EARLY_IDENTITY_COHORT42_SUPPLEMENT.md",
+      "bytes": 11952,
+      "sha256": "c6fa740174b5220f123567a410bd47204f31147288080bb4ce61f149e7b8b951"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_EVIDENCE_INDEX.md",
+      "bytes": 12540,
+      "sha256": "51da2188ec393ca5733921f02420d751ad62be2abf7c32f6ebe1793d9487b31e"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_CRIMINAL_TRIO_COHORT42_NATIVE_PROVENANCE.json",
+      "bytes": 9439,
+      "sha256": "3c93e18c373fb107a5fdd3dcb10c5f51317a39ee8fd98c8b42f6fa62b320066f"
+    }
+  ],
+  "scope": {
+    "monographs": 2,
+    "compact_profiles": 7,
+    "new_Tier0_routes": 15,
+    "new_records_not_people": 22,
+    "current_models": 63,
+    "source_scoped_secondary_model_entries": 57,
+    "current_compact_profiles": 113,
+    "monograph_only_routes": 34,
+    "nonfinal_census_records": 419,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_exact_inputs": 0,
+    "new_first_bodies": 0
+  },
+  "source_access_qualification": "3461current unique P/3426ruby/10members/5DustEPUBs/50prepared pages;6fullparagraph projections4bounded;zeroimages,residuals,whole-edition. Separate259already received MAIN02/MASK Preturn in2members2objects;zeroextra core or global primary credit.",
+  "identity_and_adverse_precision": "Qualified specific-event Lolisa17/132join and contextual Luna disguise; unresolved individual masked/subordinate mapping; collective lake apology, chief own persuasion failure, MAIN02reported exit, narrowed staff group, dream onset and calendar qualification retained. Frozen model support/first histories unchanged.",
+  "preservation": {
+    "all63_models_and_prior_rules_originals_scores_notes_blanks_nulls_exact": true,
+    "all19_canonical_private_historical_differences_exact": true,
+    "all80_scratch_exact": true,
+    "all108_owner_binding_paths_and12controls_exact": true,
+    "retired_single_global_registry_absent": true,
+    "analysis_authored_global_curation": false
+  },
+  "PR324_at_close": {
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/324",
+    "state": "open",
+    "merged": false,
+    "head": "7acb76f63f77539b79dd4d9f7891855043058af1",
+    "provider_base_sha_attributed_only": "c2e8af7cd40b2c49bba015396c9aee58f9018649"
+  },
+  "observed_main_at_author_close": "10576e0dace0d2fe888f28357e9ed6dc95846c15",
+  "protected_integration_certified_by_this_record": false,
+  "independent_accuracy_grade_or_confidence_gain": false,
+  "final_validation_battery_complete": false,
+  "full_census_or_program_complete": false,
+  "next_work": "Reconcile current owner authority;publish reviewed closing progress withnexttranche;continueYorimichi/mainsecondaryroutes,sevenexpanded specialists,extended/fullseries synthesis,sixdistinctoriginalStageDsuccessors,ninecategoryfinalvalidation,designatedcuration/evaluation,integrationandrelease."
+}

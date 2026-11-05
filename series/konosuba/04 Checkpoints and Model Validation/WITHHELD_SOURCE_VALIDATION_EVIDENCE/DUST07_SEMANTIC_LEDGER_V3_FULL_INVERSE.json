@@ -1,0 +1,349 @@
+{
+  "state": "COMPLETE_BOUNDED_LEDGER_V3_RECEIVING_CLOSURE_NOT_ROOT_ACCEPTANCE",
+  "created_utc": "2026-10-17T21:13:08.155782+00:00",
+  "previous_full30_row_receiving": {
+    "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-02/RECEIVING_SEAL.json",
+    "bytes": 678,
+    "sha256": "b2017137c77676ebb43ae3ac7327919aba535589bf730bdd2a566f619fb272b1"
+  },
+  "manifest": {
+    "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/TEN_LEDGER_DUST07_VALIDATION_APPEND_MANIFEST.json",
+    "bytes": 7653,
+    "sha256": "a2009b7da850cfa5ac9f5baf7e4181ac75b8da68a906765d4b2940f7c213b0db"
+  },
+  "delta": {
+    "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/EXACT_V2_TO_V3_COUNT_SPACING_SCOPE_OPERATIONS_AND_FULL_INVERSE.json",
+    "bytes": 7851,
+    "sha256": "1cbfa46d3bb0ad4ddaf186c42080ad55627ea7442737a935a5e7ed1e18712e30"
+  },
+  "actual_read": "All34 count-bounded old/new operations and both complete new scope-clarification sentences read in one untruncated display. Previous complete ten-body/header/footer/30-row source receiving reused exactly; no fresh entire old ledger or primary read.",
+  "meaning_closure": "SO03 now states this behavioral response forecast, avoiding a stronger universality claim. KN02 supports a later attributable claim revision, preserving the frozen main-only interpretation and not falsely performing Stage D now. Other32 operations only separate genuinely new ordinary words/counts. Existing RS01/SO01 route574–605 repairs remain.",
+  "all_ten_full_forward_inverse_and_current_before_prefix_pins_exact": true,
+  "all34_operations": [
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_CHARACTER_STATE_LEDGER.md.append.md",
+        "bytes": 3022,
+        "sha256": "5c66ed840c002436c0fe9ffa48d7f2de680597e81b3139b527d887fa9845fb98"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_CHARACTER_STATE_LEDGER.md.append.md",
+        "bytes": 3025,
+        "sha256": "dbee7f8cb32b9764c32146353817d105f814ddf48b3b9d893b8b6acfd1d9197a"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        },
+        {
+          "old": "Formal31",
+          "new": "Formal 31",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md.append.md",
+        "bytes": 3183,
+        "sha256": "9a438fd5e2f9f960437f037e4ba32960363168c6783a29a0ef7c7f61d08dd7cb"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md.append.md",
+        "bytes": 3185,
+        "sha256": "583277ca30fa6c7de7e8d6c392316806f62b02d6742ba1486e01d9d9840c6100"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_DECISION_ERROR_LEDGER.md.append.md",
+        "bytes": 3151,
+        "sha256": "970ba9dbebb24ae69815f1ba735710a08ac8093eedd6ad76276758aa700dc172"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_DECISION_ERROR_LEDGER.md.append.md",
+        "bytes": 3153,
+        "sha256": "a478405988ccd893eb878b84a1b16229091b19e0060b2aa92a741142f48ca401"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md.append.md",
+        "bytes": 3168,
+        "sha256": "c1d0147ec14144b3ea5a4081ef4798e24253cee27e224280e620993f95cefc9d"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md.append.md",
+        "bytes": 3170,
+        "sha256": "c28771dfe2b40dd6c7292b3d964a5d0576805c59f1b6abcd9faf73a1ad9022a0"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_HUMOR_MECHANICS_LEDGER.md.append.md",
+        "bytes": 3258,
+        "sha256": "359a56022eb1fc1f3550fed620f92989f078bc84eb6ea432f86910938337fbe8"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_HUMOR_MECHANICS_LEDGER.md.append.md",
+        "bytes": 3265,
+        "sha256": "ce0f6583b01c0dc8071aa7dc64d72c15b9617826fa7a015dad544ba48f4855b0"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        },
+        {
+          "old": "root107",
+          "new": "root 107",
+          "occurrences": 1
+        },
+        {
+          "old": "and68",
+          "new": "and 68",
+          "occurrences": 1
+        },
+        {
+          "old": "I117/S75",
+          "new": "I 117/S 75",
+          "occurrences": 1
+        },
+        {
+          "old": "and38/40",
+          "new": "and 38/40",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md.append.md",
+        "bytes": 3324,
+        "sha256": "99b14de9bb93c87253603f2dcb3c41fb3d3256c2fb574a70f7156f96c235e205"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md.append.md",
+        "bytes": 3326,
+        "sha256": "211bd59a88a316379562c329a46784b8bda0bfdb5e22eab246e9aeb905f3f7b6"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md.append.md",
+        "bytes": 3085,
+        "sha256": "ea3af4dd71ae34246c95d10f8e8057fa649123a9b83415f4134174a12e0a8b16"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md.append.md",
+        "bytes": 3097,
+        "sha256": "0f03a994a091a64c966b52f8fd57621f2bb5c3e47191b818bafe85f672fedf43"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        },
+        {
+          "old": "behavioral universality",
+          "new": "this behavioral response forecast",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md.append.md",
+        "bytes": 3342,
+        "sha256": "0ae966b754d038d6b5b8521d696bdbea3572dd65a00c0a18a256e8ec2faccf49"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md.append.md",
+        "bytes": 3337,
+        "sha256": "18440b43f0b8b77f4d154b4734e034d2de33d8c2d2db95f579c4b0ff169cfd31"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        },
+        {
+          "old": "New source qualifies the earlier accepted MAIN16 profit-exposed interpretation through an attributable later claim revision.",
+          "new": "New source supports a later attributable claim revision to the earlier accepted MAIN16 profit-exposed interpretation.",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md.append.md",
+        "bytes": 3139,
+        "sha256": "d24cbf8e65d9836e9d247612010d7c33a664dd9f730e7acd1e1bd7f629eece1e"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md.append.md",
+        "bytes": 3141,
+        "sha256": "8ba04cf5d18b1758bbdf8a405bfaaff2698a47de3210b2c67f7242e4d6372e22"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    },
+    {
+      "input": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v2/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md.append.md",
+        "bytes": 3585,
+        "sha256": "58a0eec74f20c4c947866bd22e69ae4b014c68d73e87b0edcc9d713edbbccb59"
+      },
+      "output": {
+        "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/ten-ledger-payloads-v3/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md.append.md",
+        "bytes": 3594,
+        "sha256": "9d1556437878f00afcdd351ab0f5ddc256ed925fa4bb9c6458f497ae928cc43c"
+      },
+      "operations": [
+        {
+          "old": "original43",
+          "new": "original 43",
+          "occurrences": 1
+        },
+        {
+          "old": "at3b92",
+          "new": "at 3b92",
+          "occurrences": 1
+        },
+        {
+          "old": "exact43",
+          "new": "exact 43",
+          "occurrences": 1
+        },
+        {
+          "old": "scores,90",
+          "new": "scores, 90",
+          "occurrences": 1
+        },
+        {
+          "old": "not156",
+          "new": "not 156",
+          "occurrences": 1
+        },
+        {
+          "old": "generated-only4T",
+          "new": "generated-only 4T",
+          "occurrences": 1
+        },
+        {
+          "old": "All19",
+          "new": "All 19",
+          "occurrences": 1
+        },
+        {
+          "old": "duties,17",
+          "new": "duties, 17",
+          "occurrences": 1
+        },
+        {
+          "old": "components,5",
+          "new": "components, 5",
+          "occurrences": 1
+        }
+      ],
+      "full_forward_inverse_exact": true
+    }
+  ],
+  "hash_ID_link_preservation_verified": true,
+  "outcomes_originals_model43_contracts_unchanged": true,
+  "actual_UTC_header_rule": "Only replace PENDING_ACTUAL_ROOT_ACCEPTANCE once in each reviewed header after actual root acceptance; token currently stays pending. No adjacent private-placeholder text exists. Any other lifecycle/pin metadata needs its exact declared assembly.",
+  "conclusion": "No remaining material source, guard, scope or ordinary-spacing blocker at this exact ledger V3 scope. Unknown canonical/publication assembly and actual acceptance are not certified.",
+  "new_source_P_Git_canonical_index_or_model_mutation": false
+}

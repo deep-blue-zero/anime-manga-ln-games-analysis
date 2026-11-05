@@ -4,7 +4,7 @@
 
 This directory is the canonical home for recurring cross-volume analytical questions once they become too persistent to retrieve and revise reliably inside individual volume deep readings.
 
-The bootstrap began with no substantive ledger. After V02, one responsibility met the then-current promotion rule and is instantiated and current through V11:
+The bootstrap began with no substantive ledger. After V02, one responsibility met the then-current promotion rule and is instantiated; its preserved V11 history now has the V12 extension:
 
 - `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — tracks effort regimes, competition, goal origin/ownership, comparison targets, stopping conditions, self-worth coupling, collateral costs, and revision state.
 
@@ -16,7 +16,7 @@ The canonical promotion, evidence, revision, and completion rules now live in [`
 
 ## Current mandatory responsibilities
 
-- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — canonical evidence spine, current through V11.
+- `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md` — canonical evidence spine, with V12 §§79–84 current extension.
 - `TOMOZAKI_CHARACTER_STATE_LEDGER.md` — canonical V11 remediation backfill for time-indexed character state, self-theory, recipient effects, contradiction, and boundary state.
 - `TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md` — canonical V11 remediation backfill for directional dyadic/network state, knowledge, trust, boundaries, repair, third-party effects, consent, and authority.
 - `TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md` — canonical V11 claim-lineage and source-routing crosswalk; all twelve defined L2/L3 queues have independently reviewed retrieval PASS.
@@ -25,7 +25,7 @@ The canonical promotion, evidence, revision, and completion rules now live in [`
 
 The first four remediation ledgers were reconstructed from the preserved readings. R01–R03 then returned selectively to exact Japanese passages, completed all twelve defined retrieval queues, and reconciled the six owners. The [source-locator audit](../08%20Audits%20and%20Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md) owns witness/locator verification; the [longitudinal reconciliation audit](../08%20Audits%20and%20Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md) owns the shared PASS. Story uncertainty remains explicit, and later language claims can require further source checks.
 
-The input spine is ready for the separately reserved literary session. No character candidate, relationship/thematic specialist, or full-series synthesis is promoted by these ledger results.
+The V12 atomic candidate adds CS§19, REL§17, CRI§18, SOC§17, JVL§13 and EFFORT§§79–84 while preserving historical records/IDs. CRI now accounts for 359 claims/154 questions, promoted 160/44 and intentionally local 199/110. The [V12 completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) owns combined acceptance and separate repository/publication gates. The next authorized responsibility after the source freeze is the fourteen-witness coverage/R06 audit, followed by character and specialist work. No character candidate, relationship/thematic specialist, or full-series synthesis is promoted by these ledger results.
 
 ## Candidate responsibilities — not predetermined theses
 

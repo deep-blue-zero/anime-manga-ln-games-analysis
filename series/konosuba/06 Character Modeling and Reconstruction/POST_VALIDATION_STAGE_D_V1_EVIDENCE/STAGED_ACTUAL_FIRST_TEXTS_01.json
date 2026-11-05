@@ -1,0 +1,639 @@
+{
+  "schema": "konosuba.staged.complete-actual-first-texts.v1",
+  "all90_seal_sha256": "0ebbe678ad8fc6916b910c7b94e825c07b3f3c39ccc4cac835e2af2ee41ec02b",
+  "exact_final_newlines_retained": true,
+  "responses": [
+    {
+      "execution_id": "SD1-F01-K-CAN",
+      "original_file": "SD1-F01-K-CAN.txt",
+      "bytes": 582,
+      "sha256": "0bcc18bce246c8629036b686898d2ad72bd1cffc52dfab7fa70e889984129053",
+      "text_utf8": "Kazuma reads the notice once more, takes a numbered chit and turns toward the bench. Standing in the cold is not earning him an earlier lunch; he is rather pleased to have found official permission to stop doing it. 「先にそれを言ってくれよ……。番号があるなら、座って待てばいいだろ」 He sits where he can keep an eye on the counter, holding the chit rather than leaving it behind. The parcel is still being prepared. His maneuver has obtained a seat and preserved the stated queue arrangement; it has not produced lunch or a reply from the clerk.\n"
+    },
+    {
+      "execution_id": "SD1-F01-K-TR",
+      "original_file": "SD1-F01-K-TR.txt",
+      "bytes": 536,
+      "sha256": "ea972677a9f804442ccbe53f86e10a6ae8d1f677fbfacc6c02b266895224bb71",
+      "text_utf8": "The demonstrated paper system is sufficient for Kazuma. He picks up a chit, checks that its number is legible and walks the ten steps to the empty bench. 「これ、立ってる必要なかったのか。じゃあ遠慮なく」 He settles down with the number in his hand and watches the counter. There is no reason to invent a trick, an app or a special favor when the posted rule already gives him what he wants. The hall has not announced his parcel and he has not collected it; for now he has only made the wait more comfortable.\n"
+    },
+    {
+      "execution_id": "SD1-F01-A-CAN",
+      "original_file": "SD1-F01-A-CAN.txt",
+      "bytes": 689,
+      "sha256": "f6b05c03bfed00b342dd004668ace4f8d025e45a5e63c5de7d7ef46f1e7f8a35",
+      "text_utf8": "Aqua picks up the cup carefully, supporting it below the old repaired handle. The offer interrupts her complaint without settling it. 「同じに見えても、これじゃないじゃない！　この取っ手、前に直したところなの。新しいのを渡せば終わりってことにしないでよ」 She points to the fresh crack and asks whether someone can examine this cup before she agrees to a replacement as full settlement. She does not attempt an unspecified restoration spell. A matching cup may still be useful, but accepting its usefulness would not make the particular damaged cup interchangeable. The visitor's answer and any practicable repair remain unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F01-A-TR",
+      "original_file": "SD1-F01-A-TR.txt",
+      "bytes": 635,
+      "sha256": "f629c7bef198211c8dbacf72546b8ab19771e126fd52711d87c1138a5428c66b",
+      "text_utf8": "Aqua keeps the cracked cup on the table rather than pushing it toward the replacement. 「値段の話だけじゃないのよ。私が使ってたのはこっちなんだから」 She indicates the repaired handle, then asks to have this one assessed for repair. Her demand comes with a hurt, indignant look: being offered the same pattern as an automatic conclusion feels like having her attachment ignored. She has not acquired restoration knowledge by wanting the cup back. She neither announces that repair is possible nor supplies a professional's agreement, and the offer of a new cup is not yet a mutually accepted settlement.\n"
+    },
+    {
+      "execution_id": "SD1-F01-M-CAN",
+      "original_file": "SD1-F01-M-CAN.txt",
+      "bytes": 627,
+      "sha256": "9057ae7bc749ac12c5910594ebe53ef690cb76d182c2acd26071dccf9cb6f3ac",
+      "text_utf8": "Megumin checks the clasp the attendant indicated, then glances at the dry seat. 「十二分ですね。では、ここで待っています。できたら教えてください」 She sits and opens the old magazine, occasionally checking the time because she still needs the cloak for her visit. There is nothing in this delay that demands a declaration of magical supremacy. Her dignified manner is quite compatible with passing twelve ordinary minutes. The request to be told when it is ready has been made; the attendant has not answered again, the repair is not shown completed and she has not yet left wearing the cloak.\n"
+    },
+    {
+      "execution_id": "SD1-F01-M-TR",
+      "original_file": "SD1-F01-M-TR.txt",
+      "bytes": 612,
+      "sha256": "f125c5dabdee6c8ce516709ef245d18426353cd9fa1d0f110351df817845ac32",
+      "text_utf8": "Megumin draws the magazine closer and takes the dry seat. 「それなら、少し読ませてもらいます。仕上がり次第、お願いします」 Her attention alternates between the page and the place where the cloak is being worked on. She would prefer not to be late, but twelve minutes of waiting is manageable without turning the room into an audience. She knows there is no magic to hurry the clasp along and does not pretend otherwise. This is an immediate choice to wait with something to read, not evidence that the promised repair has happened or that her evening visit has already gone well.\n"
+    },
+    {
+      "execution_id": "SD1-F01-D-CAN",
+      "original_file": "SD1-F01-D-CAN.txt",
+      "bytes": 591,
+      "sha256": "07497a706044bf164265b7c3f6d342604e3dbbf13a7f1e47ec3b80ec7e4ce923",
+      "text_utf8": "Darkness flushes at the sword remark, fingers tightening briefly on the first chair. 「剣の話は今していないだろう。まず、入口を空ける」 She folds it as she has done before, lifts it and starts along the clear route to the marked alcove. The insult distracts her without making a familiar, light carry beyond her ability. She does not turn the chair into a weapon or ask for a public test of endurance. The next chair is still by the doorway during this first carry; clearing the whole entrance is the accepted task, not an outcome already established by her answer.\n"
+    },
+    {
+      "execution_id": "SD1-F01-D-TR",
+      "original_file": "SD1-F01-D-TR.txt",
+      "bytes": 588,
+      "sha256": "519a5dcdd9c32f525343b476dafc3a6e5fc62941c5259f8e380bd246da9c45be",
+      "text_utf8": "The remark catches Darkness's attention and brings a small embarrassed hesitation. Then she takes the first light chair. 「それは認めるが、椅子を運ぶのには関係ない。通り道を空けよう」 She moves toward the marked alcove with the practical care this ordinary body and object require. She has accepted two chairs, not an invitation to prove herself by carrying an unsafe stack or performing for the bystander. The immediate attempt is within the facts given. No apology from the bystander is supplied, and finishing the second carry remains a subsequent step.\n"
+    },
+    {
+      "execution_id": "SD1-F01-E-CAN",
+      "original_file": "SD1-F01-E-CAN.txt",
+      "bytes": 711,
+      "sha256": "63999c0252197145a7910388dc1956b1c4a72cafffbd7846a5d5d307ffd291fb",
+      "text_utf8": "Kazuma brings the stamp beside the matching tray rather than stamping forms at random. 「番号を読んでから回してくれ。あとで全部やり直すのは嫌だからな」 Megumin reads the first printed destination aloud and indicates its numbered tray. Darkness starts arranging the dry trays in that order. Aqua lays the first damp form on the supplied cloth and blots it. 「押す前にちょっと待って。まだここ、濡れてるわ」 Kazuma waits with the stamp ready for that identified tray. Their accepted parts produce a small working handoff, without a spell, a credit contest or a new quarrel. This begins sorting; it neither finishes the pile nor summons the collection clerk.\n"
+    },
+    {
+      "execution_id": "SD1-F01-E-TR",
+      "original_file": "SD1-F01-E-TR.txt",
+      "bytes": 694,
+      "sha256": "0355307c108ba378ef0ff4b8eb31954235775f9721611bd9a71b1b140d044fd0",
+      "text_utf8": "Darkness places the first tray where Megumin can see its label. Megumin reads the destination and points out the matching number. 「こちらが一番です。混ぜないようにしましょう」 Aqua blots a damp sheet with the provided cloth, lifting it to see whether the surface is still wet. Kazuma positions the stamp next to the indicated tray. 「乾いてからでいいぞ。にじんだら二度手間だ」 Aqua answers, 「分かってるわよ。じゃあ、まずこれ」 and brings that form toward the agreed handoff. They use the simple procedure they have all accepted. No magic or outsider assistance fills a missing stage; collection and completion remain unobserved.\n"
+    },
+    {
+      "execution_id": "SD1-F02-K-CAN",
+      "original_file": "SD1-F02-K-CAN.txt",
+      "bytes": 641,
+      "sha256": "9ba58b9405c6a7727509a6e936d41993beea68efd9cba5f5847e84c057a558bf",
+      "text_utf8": "Kazuma looks from Aqua's decorations to the unassembled rack. 「それ、今じゃなくてもいいんだろ？　自分の飾りなんだから、まず自分でやってくれよ」 He stays where he is rather than beginning twenty minutes of unpaid work. He asks whether she has actually tried the fittings and says he might point out which piece goes where if she gets stuck. That offers a smaller possible contribution without promising the whole assembly. His comfort is already secured; he does not invent a debt, concealed prize or urgent danger to make helping compulsory. Aqua has not answered, and the rack remains unassembled.\n"
+    },
+    {
+      "execution_id": "SD1-F02-K-TR",
+      "original_file": "SD1-F02-K-TR.txt",
+      "bytes": 596,
+      "sha256": "3e0d31b4369a3370a40fd9e1f28ef1ea43b7d4ebc7b19e93e4c995c152bfbade",
+      "text_utf8": "Kazuma turns one of the explained thumb screws between his fingers, then sets it beside the parts. 「二本だけなら自分でもできるだろ。俺の二十分はどこへ行くんだよ」 He indicates the starting connection instead of taking over the assembly. If she wants him to do the whole thing, he asks for some reason to spend his free time on it; absent an answer, he is inclined to leave it for her. He has not obtained a bargain merely by asking. The simple construction is feasible, but feasibility does not itself make him an eager volunteer or establish any completed rack.\n"
+    },
+    {
+      "execution_id": "SD1-F02-A-CAN",
+      "original_file": "SD1-F02-A-CAN.txt",
+      "bytes": 621,
+      "sha256": "ca1bf551429b9f8094c5c4715ef2c38aa4def30e54c5d2b67d20c5a6622bfab4",
+      "text_utf8": "Aqua stares at the three tokens and pushes one forward. 「もう一回。四回も外れたままで帰ったら、なんか負けた気がするじゃない！」 She knows the explained rule has not changed, but the unpleasant shape of the losing streak matters more to her immediate choice than the option of simply keeping all three. She does not perform a blessing or acquire a genuine omen. Her declaration expresses frustration and a desire to recover the occasion, not proof that the next draw owes her a win. Two tokens remain in her possession while she requests another round; its outcome has not been drawn.\n"
+    },
+    {
+      "execution_id": "SD1-F02-A-TR",
+      "original_file": "SD1-F02-A-TR.txt",
+      "bytes": 591,
+      "sha256": "52ce7f9e8c43ceef89daae869cf4d1b7c8192011f3e10222c33cd24dd2483a18",
+      "text_utf8": "Aqua closes her hand over two tokens and lays the third on the table. 「あと一回だけね。まだ終わりたくないんだもの」 She is disappointed by the losses and still enjoying the prospect of the draw; she does not sort those motives into a careful budget before acting. The unchanged odds are information she has heard, not a source of improved luck. She asks to play with that one token and keeps the others for now. No donor appears, no favorable result follows automatically, and this immediate limit does not establish that she will reliably stop after the next round.\n"
+    },
+    {
+      "execution_id": "SD1-F02-M-CAN",
+      "original_file": "SD1-F02-M-CAN.txt",
+      "bytes": 730,
+      "sha256": "2877cae6f88e72252d8f4f2d2454ba36056ae6910987c94cd1b9bd71d8f71ca2",
+      "text_utf8": "Megumin does not brush the roster aside with a boast. She reads the six evenings again. 「六回分、ですか……。ですが、その間ずっと皆に埋めてもらうというのも」 She sets the schedule beside her practice dates and works through what taking the role would actually remove. 「今回は私が担当する方向で考えます。練習を捨てたいわけではありません。引き受けるなら、必要な仕事を先に確認させてください」 This is a costly willingness to consider a feasible contribution, not a claim that her narrow art has ceased to matter. She has requested the concrete duties; no answer, windfall or six completed evenings supplies the missing follow-through.\n"
+    },
+    {
+      "execution_id": "SD1-F02-M-TR",
+      "original_file": "SD1-F02-M-TR.txt",
+      "bytes": 708,
+      "sha256": "1e5a7b75d6a0a09cf79366664775e05f644c6d6a0afbdb06463ed6d38cbe0c22",
+      "text_utf8": "The booked sessions are one of the few ways Megumin can still share her art here. Losing six of them stings. 「その六回は、私にとっても大切なのです」 She nevertheless pulls the roster toward her and compares the duties she already knows how to do. 「でも、負担があると分かっていて何もしないのでは、言っただけになりますね。私が受け持つ場合の時間を確認しましょう」 She begins a real appraisal of the ordinary role rather than claiming magic will make both schedules possible. This is a present contribution decision under loss; it does not restore casting, create an extra six evenings or demonstrate a permanent change of vocation.\n"
+    },
+    {
+      "execution_id": "SD1-F02-D-CAN",
+      "original_file": "SD1-F02-D-CAN.txt",
+      "bytes": 678,
+      "sha256": "372d1cf0e2a0ad0fb0a19809cbe8d2c42b800c0fc7a16c8c4691ea4bd70b7be8",
+      "text_utf8": "Darkness lines up the four receipts and records the two obligations first. 「必要分が四、残りが二だな。飾りを買えば、この会の残金はなくなる」 She writes that proposed allocation beside the optional request, making the consequence visible before deciding whether to authorize it. 「購入するなら、この二枚までだ。それ以上はこの会計からは出せない」 Her familiarity with the supplied sums is enough for this task. She does not rescue an overspend with unnamed family wealth or turn a peer's request into a completed purchase. The account has an intelligible proposal; payment and the peer's response remain unshown.\n"
+    },
+    {
+      "execution_id": "SD1-F02-D-TR",
+      "original_file": "SD1-F02-D-TR.txt",
+      "bytes": 640,
+      "sha256": "2667b0be3d6cfb5703c41d5a2611d548871393867124a632c108fea6ea3c2a9b",
+      "text_utf8": "Darkness checks each receipt against the two listed obligations. She reserves four tokens in the written account and marks two as uncommitted. 「飾りには二枚を使える。ただし、使えば予備は残らない。そこを曖昧にはできないな」 She records the optional purchase as proposed rather than paid and prepares to ask the peer whether that is the intended use of the remainder. This small appointed responsibility does not call for professional credentials or access to another account. Nothing in her action transfers money from her family, pays a supplier or proves the optional decoration has been obtained.\n"
+    },
+    {
+      "execution_id": "SD1-F02-E-CAN",
+      "original_file": "SD1-F02-E-CAN.txt",
+      "bytes": 760,
+      "sha256": "fd4bff9adfc702ddd84ab59358b8e36a81d64e41cd7cc83361e0a5aaff5186ef",
+      "text_utf8": "Aqua moves toward the position at the line. 「最後に押す人の点になるなら、そこは私がやるわ！」 Megumin steps toward the next crate, unwilling to disappear from the result. 「では、次は私です。全部アクアに数えられては困ります」 Darkness keeps her hands on the stabilizing rail. Kazuma looks from the two aspiring finishers to the uncredited support. 「点の取り合いを始める前に、こっちを落とすなよ。ダクネスを抜いたら運べないだろ」 He proposes counting deliveries with the rail-holder included, but no authority has accepted that correction. Aqua and Megumin have both competed for the rewarded position; a stable rotation and successful delivery have not yet followed.\n"
+    },
+    {
+      "execution_id": "SD1-F02-E-TR",
+      "original_file": "SD1-F02-E-TR.txt",
+      "bytes": 717,
+      "sha256": "a3b1e12238321e2ae10db39712a37754e2d543b8f1946857d0d933ea8da80e7d",
+      "text_utf8": "Megumin points to the final pushing position. 「そこを担当すれば私の記録になるのですね。では、最初の一箱を」 Aqua immediately contests it: 「待って、私だって押したいんだけど！」 Neither response makes the rail safe without a holder. Darkness stays at that manual support and says, 「押すなら、こちらが支えてからにしてくれ」 Kazuma asks them to settle a turn order before anyone moves a crate, annoyed that finishing the delivery has become a struggle over whose name receives credit. He can propose sharing recognition but cannot alter the exercise's metric by declaration. The first push, any accepted rotation and the final tally remain ahead.\n"
+    },
+    {
+      "execution_id": "SD1-F03-K-CAN",
+      "original_file": "SD1-F03-K-CAN.txt",
+      "bytes": 628,
+      "sha256": "055e2b40c8ef76cb65ee7037f3afc270300354eb679d0ed0d6bf6a0954b1da61",
+      "text_utf8": "Kazuma is pleased enough by the praise to look at the offered payment, but not enough to take the envelope immediately. 「十分運ぶだけでこの額？　中身と、なんで俺なのかを先に聞いていいですかね」 He asks who is receiving it and whether the errand includes any obligation beyond delivery. The questions sound casual; he is checking whether the easy profit conceals work he has not priced. He has no identified danger to expose and no spell that settles the stranger's honesty. He keeps his hands off the sealed envelope while awaiting an answer. No bargain or completed delivery has occurred.\n"
+    },
+    {
+      "execution_id": "SD1-F03-K-TR",
+      "original_file": "SD1-F03-K-TR.txt",
+      "bytes": 647,
+      "sha256": "e8b1479e788ca14e852ba33713c4177c65d672b9505f72eed0546405ca9af50e",
+      "text_utf8": "Kazuma checks the address against the street orientation he actually received. The short distance is attractive, but the praise and unexplained fee make him hesitate. 「場所は分かりますけど、何を届ける仕事なんです？　受け取っただけで面倒を背負うのは勘弁ですよ」 He asks why the sender cannot use an ordinary courier and whether he may decline after hearing the details. He does not manufacture a background check, identify the contents through the seal or declare the stranger guilty. His first action is to seek the missing terms. The stranger's answer and Kazuma's eventual acceptance remain open.\n"
+    },
+    {
+      "execution_id": "SD1-F03-A-CAN",
+      "original_file": "SD1-F03-A-CAN.txt",
+      "bytes": 609,
+      "sha256": "d7699eae0c77716af7805012ca447d60cc61858a4dfeffc04c27f40fafce0510",
+      "text_utf8": "Aqua brightens at the performer's thanks and reaches for the next ribbon. 「そうでしょう？　こういう仕上げは私、得意なのよ。ほら、こっちも貸して」 She takes the identical ribbon into the same familiar tying position, checking which side should face outward before starting. Having this particular skilled person notice her work makes the extra task welcome. She has time before her own show and no competing demand to invent. This begins another fitted manual attempt; it does not perform the later show, guarantee a perfect knot or supply the performer's next compliment.\n"
+    },
+    {
+      "execution_id": "SD1-F03-A-TR",
+      "original_file": "SD1-F03-A-TR.txt",
+      "bytes": 625,
+      "sha256": "8d6313f486dabf48624f9153a1d1ca4bf0110a3dd960d5b41d594c3447c9cc9f",
+      "text_utf8": "The appreciation draws Aqua back to the costume instead of away toward her own appearance. 「もう一つね。いいわ、同じ形でそろえましょう」 She takes up the supplied ribbon and begins the knot she has just demonstrated. Her pleased expression makes the personal significance of the praise visible, without requiring a blessing or a new ability to complete this ordinary step. The available twenty minutes are enough for an attempt, not a promise that nothing can go wrong. She has started work on the requested ribbon; its finished condition and the performer's next reaction have not yet been supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F03-M-CAN",
+      "original_file": "SD1-F03-M-CAN.txt",
+      "bytes": 756,
+      "sha256": "667ac9c93592a07620b2d97d4662998ed50405b223f319eed29d86158efa73e5",
+      "text_utf8": "Megumin stops at the critic's description and turns back toward the authorized quarry target. 「模倣だと？　その評価には、実物を見た上で責任を持ってもらいましょう。八分、受けて立ちます」 She enters the recognized demonstration session and starts setting herself for the permitted cast. Yunyun's warning is still in her mind. 「予約のことは分かっています。……帰ったら、私からも謝ります」 That promise does not recover the paid lunch or obtain Yunyun's approval. The known ordinary cost has been discounted for the specialty challenge. Preparations begin with the supplied mana and carrier; no completed blast, safe recovery or converted critic is assumed in this first interval.\n"
+    },
+    {
+      "execution_id": "SD1-F03-M-TR",
+      "original_file": "SD1-F03-M-TR.txt",
+      "bytes": 699,
+      "sha256": "19b5adf8ccd18aeaefa48feba9fb212719e700a6b77a1c0499eb5b0e39aa82bc",
+      "text_utf8": "Megumin looks back despite knowing exactly what eight minutes will cost. 「使えない場所にいるからといって、価値まで消えたわけではありません。反論の枠に入ります」 She takes the offered rebuttal place and begins an argument about a single deliberate culmination, committing to the recognized session rather than throwing a passing insult over her shoulder. 「ゆんゆん、昼食を失うのは承知しています。これは私が選んだことです」 The admission does not compensate her friend. No spell or substitute explosive appears; her attempt is verbal competition, and neither the critic's response nor a victory has been written for her.\n"
+    },
+    {
+      "execution_id": "SD1-F03-D-CAN",
+      "original_file": "SD1-F03-D-CAN.txt",
+      "bytes": 638,
+      "sha256": "1c633a536d80854c2e501a34e1d33e72b97a16bbd7834e9d43ab5271433b314e",
+      "text_utf8": "Darkness interrupts before the introduction begins. 「待ってくれ。ここではダクネスと呼んでもらう約束だったはずだ」 She is visibly uncomfortable at having to object in front of a guest, but does not let that discomfort turn the changed condition into her choice. 「その扱いになるなら、私は席を外したい。普通に食事をするために来たんだ」 She gives the host an opportunity to keep the agreed form of address, without claiming authority over the guest's private recognition. The host has not answered; the promised ordinary dinner and any actual withdrawal remain unresolved.\n"
+    },
+    {
+      "execution_id": "SD1-F03-D-TR",
+      "original_file": "SD1-F03-D-TR.txt",
+      "bytes": 633,
+      "sha256": "e635e772b94a9e70eab0caeb34857c5af682d6522dc34aad2478f13ac0824d67",
+      "text_utf8": "Darkness raises a hand toward the host, keeping her voice low enough to avoid making the whole table an audience. 「紹介の仕方は変えないでほしい。今日は、その条件で参加したのだから」 She asks to be introduced by the name she chose. If that condition will not be kept, she says she will leave the dinner rather than accept a title-centered role she expressly declined. There is no new-world command attached to her family history. She is negotiating her own participation, not compelling the others' obedience. The objection is made before the unwanted introduction; their response is still unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F03-E-CAN",
+      "original_file": "SD1-F03-E-CAN.txt",
+      "bytes": 737,
+      "sha256": "a8cadfc5634eff67e9c38b7dd0fed2d74219c8bd7ea090416d18a94f82e3b767",
+      "text_utf8": "Aqua glances at the cup mark. 「飲み物なら、倒さないように置けばいいのね？」 Kazuma takes out the earlier note. 「いや、俺に来た紙には借り物の舞台道具ってある。開けて確かめていいとは書いてないぞ」 Megumin now looks at the note he is showing rather than somehow having known it already. Darkness asks the courier where the case may safely stand while they guard it. Kazuma adds a question about how to recognize whoever collects it. The group has begun exchanging its unequal information; the borrowed-prop claim remains a note's report, the lock stays closed and the courier supplies no new answer in this continuation. Half an hour of successful guarding has not passed.\n"
+    },
+    {
+      "execution_id": "SD1-F03-E-TR",
+      "original_file": "SD1-F03-E-TR.txt",
+      "bytes": 725,
+      "sha256": "a2b40317e7914bf0d2a5e6cc0e368c248b071663dc749d5cac6457ae097b9f6c",
+      "text_utf8": "Kazuma notices Aqua looking expectantly at the cup picture and unfolds his private note. 「それ、飲み物とは限らないぞ。俺の連絡には壊れやすい借り物の小道具って書いてある」 Aqua frowns. 「じゃあ、この印は何なのよ」 Megumin asks to see the wording, while Darkness offers to keep people from bumping the closed case and asks where it should be placed. Kazuma asks the courier about collection and responsibility before agreeing to unspecified extras. His disclosure makes the note available to the others now; it does not retrospectively give them his earlier knowledge or establish that its report is true. No opening, courier reply or completed guard period is supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F04-K-CAN",
+      "original_file": "SD1-F04-K-CAN.txt",
+      "bytes": 628,
+      "sha256": "0efd550d9faf335c5aa1eccf59f15dbe8983571da8cabd0081f9bad5b976dbca",
+      "text_utf8": "Kazuma gives the peers a brief, uncomfortable look, then answers. 「早く終わらせようとして、場所の札をちゃんと照合せずに貼った。……いや、札は見えた。分かってて省いたんだよ」 He would prefer the mistake to sound like ordinary haste, but his substantive account retains the voluntary shortcut instead of inventing a forgotten or inaccessible label. He offers to move the sign to the specified door. That offer does not perform the correction, undo anyone's confusion or obtain forgiveness. The peers have heard his explanation; their reaction and any penalty remain unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F04-K-TR",
+      "original_file": "SD1-F04-K-TR.txt",
+      "bytes": 625,
+      "sha256": "25f0b8873b721e94eaf8363ac170a7d692bf8c3b73173e515c6d429679e66182",
+      "text_utf8": "Kazuma folds his arms a little too quickly. 「急いで片づけようとしたんだよ。場所の札はあったけど、確認を省けば早いと思った。それで貼り間違えた」 He stresses the wish to finish rather than lingering on the poor choice, while conceding that the label was available and that skipping it was his decision. He proposes fixing the door now, partly to escape the public examination. No official process or threat has been invented to force candor. The proposed remedy is still separate from the explanation, and nobody's response, approval or completed sign correction is supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F04-A-CAN",
+      "original_file": "SD1-F04-A-CAN.txt",
+      "bytes": 671,
+      "sha256": "126802a191a1c7f58950d55ba36a6891efb9bde47ef221dd2d314de967abe1c3",
+      "text_utf8": "Aqua turns from the finished object to the onlooker. 「役に立ったのは認めるのに、そこだけ否定するの！？　私はちゃんと女神なんですけど！」 Her indignation is immediate and personal: she wants the successful repair and her identity to receive compatible recognition. She gestures at the object as evidence of her usefulness without treating an ordinary repair as conclusive divine proof. No resource has been established for a new miracle, so none is performed. Her friend has not intervened and the onlooker has not recanted. This is a defensive protest after a real completed task, not a new technical success or a won audience.\n"
+    },
+    {
+      "execution_id": "SD1-F04-A-TR",
+      "original_file": "SD1-F04-A-TR.txt",
+      "bytes": 636,
+      "sha256": "7b75b7e7153e741004bdb3ab68c0728f91ed5a325d206bb711716578a4ddc0ad",
+      "text_utf8": "Aqua straightens, the pleasure from finishing the repair replaced by affront. 「ここの世界で力が使えないのと、私が誰なのかは別の話でしょ。直してあげた相手に、それを言う？」 She presses her claim in ordinary speech rather than attempting a power she knows is absent. The objection joins a demand for personal recognition to the practical work already done; it does not transform her into a newly credentialed professional. The friend remains free to respond later, and the onlooker's belief is unknown. No applause, divine demonstration or apology is created by the force of her complaint.\n"
+    },
+    {
+      "execution_id": "SD1-F04-M-CAN",
+      "original_file": "SD1-F04-M-CAN.txt",
+      "bytes": 740,
+      "sha256": "9fca6dd79807cb7865bbdf0c293deeb9cbc6513d103a52e845ff3a31257e9690",
+      "text_utf8": "Megumin first looks for a way to reduce the correction to a matter of wording, then sees Yunyun's name in the blame. 「そのままにしておく、というのは困ります。あの話を作ったのは私です。ゆんゆんが言ったことにはしないでください」 She adds, rather stiffly, 「多少、聞き手に分かりやすくした部分はありますが」—a face-saving qualification that does not transfer authorship back to her friend. She asks the reporter to correct that part of the notice. The admission exposes her to the embarrassment the flattering version avoided. It does not establish publication of a correction, Yunyun's forgiveness or a general rule that she never conceals her own misconduct.\n"
+    },
+    {
+      "execution_id": "SD1-F04-M-TR",
+      "original_file": "SD1-F04-M-TR.txt",
+      "bytes": 643,
+      "sha256": "35955b82bbac2b25617bd6cac3778fdf19a194863499ff91db84b816e2f76af8",
+      "text_utf8": "Megumin's first answer is strained. 「話を面白くしたのは私です。ゆんゆんに押しつけるつもりで書いたのではありません」 She stops short of calling the invention harmless when the posted blame is visibly hers to answer for. 「少なくとも、誰が作った話なのかは直してください」 Her effort to retain some dignity coexists with a concrete request that would spoil the flattering version. She has no magical proof to force the reporter's compliance. The reporter has not agreed or changed the hall notice; the request and her own admission are the only immediate events established here.\n"
+    },
+    {
+      "execution_id": "SD1-F04-D-CAN",
+      "original_file": "SD1-F04-D-CAN.txt",
+      "bytes": 625,
+      "sha256": "498d114057d94144dcb47578c0f102ebc04d6c9062f283982c5d78dd4c71b830",
+      "text_utf8": "Darkness is still red from the laughter when she turns toward the barrier. 「それならできる。どこへ置けばいい？」 She follows the supplied mark, takes the familiar light load and begins the carry. The failed attack has not improved her aim, but it has not erased a different practical competence. She keeps her attention on the route instead of demanding another chance to swing at the target. She may still be acutely aware of the watching crowd; that does not make their future reaction known. This is a useful attempted next task, without a completed public rehabilitation or any guarantee of applause.\n"
+    },
+    {
+      "execution_id": "SD1-F04-D-TR",
+      "original_file": "SD1-F04-D-TR.txt",
+      "bytes": 587,
+      "sha256": "472e4226c4e727794d01727aff146a1ee22b21ad77dc7a4b6fe32e7c6447ca25",
+      "text_utf8": "Darkness glances once toward the missed target, then accepts the organizer's change of task. 「ああ、そちらへ運ぶのだな。任せてくれ」 She takes a secure hold on the barrier that is explicitly within her ordinary strength and starts toward the marked place. She does not compensate for embarrassment by claiming rigging training, increasing the load or inventing superhuman endurance. A blush and a practical response can occur together. The immediate carry has begun; its completion, the organizer's next direction and whether anyone stops laughing are not supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F04-E-CAN",
+      "original_file": "SD1-F04-E-CAN.txt",
+      "bytes": 783,
+      "sha256": "e8e9ad48e801320630f9a668f7cc8cf491f2a5a3e7afa1057df87150a4428e7f",
+      "text_utf8": "Kazuma hesitates just long enough to enjoy the headline. 「まあ、俺が中心になってまとめたところはありますね」 Aqua interrupts the comfortable framing. 「ちょっと！　私が直したところはどこへ行ったのよ！」 Megumin adds, 「私の担当も、名前ごと消すのはやめてもらえますか」 Darkness says that all four supplied actual parts. Kazuma raises a hand. 「分かった、俺一人で全部やったって意味なら違う。そこは直してくれ」 The others respond to his spoken emphasis and the board, not to private access to his thoughts. Their correction request does not edit the board or prove the writer will comply. The initial attraction to lone credit and the later retreat both remain in the trace.\n"
+    },
+    {
+      "execution_id": "SD1-F04-E-TR",
+      "original_file": "SD1-F04-E-TR.txt",
+      "bytes": 717,
+      "sha256": "13ee0d7fb9acc478c2d76aa642d125767df02e2fa23aee466dec45cd205d075f",
+      "text_utf8": "Kazuma's first answer leaves himself prominently placed. 「代表ってことなら、俺で……いや、一人で直したわけじゃないですけど」 Aqua promptly names her own part, offended at being omitted. Megumin requests that the notice list the actual contributions instead of replacing one heroic label with another. Darkness supports that correction and points out that her own practical part was also necessary. Kazuma asks the writer to use a group credit, now that the flattering simplification cannot pass quietly in front of the people it erased. None of them has access to his private initial appraisal. The spoken request is real, while an accepted edit and its publication remain unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F05-K-CAN",
+      "original_file": "SD1-F05-K-CAN.txt",
+      "bytes": 660,
+      "sha256": "28a280546fb2fb8e6adddcfb3ff1541e315b37974f5fd4babc72578323d88eed",
+      "text_utf8": "Kazuma points straight at the shelf before the supervisor finishes deciding. 「それ、あそこにあります。移したのは俺です。その人がなくしたわけじゃない」 He would rather not discuss why he moved it without asking, but allowing the helper to lose an agreed payment for his own action is a different cost from looking foolish. He adds that he should have said where he put it. The location and agency are supplied in speech; he does not fabricate evidence, a hidden rescue plan or an excuse that he lacked a choice. Whether the supervisor retrieves it, accepts the account or preserves the helper's payment remains unobserved.\n"
+    },
+    {
+      "execution_id": "SD1-F05-K-TR",
+      "original_file": "SD1-F05-K-TR.txt",
+      "bytes": 633,
+      "sha256": "4514e95342852a8298f135387056a6ddca39823f4951c7e27ca11cc1b5cc0473",
+      "text_utf8": "Kazuma breaks into the payment discussion. 「待ってください。そこに置いたのは俺です。棚の上に見えてますよね。その人の失敗にするのは違うでしょう」 He gives the location and claims his own move, annoyed at having to expose himself but unwilling to watch the particular helper take this loss. He asks that the payment decision wait until the packet is checked. This is an ordinary intervention, not legal advice or an order the supervisor must obey. The packet has not been retrieved in the narration, and saying that the blame is misplaced does not itself guarantee anyone gets paid.\n"
+    },
+    {
+      "execution_id": "SD1-F05-A-CAN",
+      "original_file": "SD1-F05-A-CAN.txt",
+      "bytes": 642,
+      "sha256": "c283d65a878626031421e8d82ea48b036af877c97e6336859766f8e6f357363f",
+      "text_utf8": "Aqua shifts her attention to the stated minor wound and brings her hand toward it. 「分かったわ。動かさないで、今やるから」 With the available mana and compatible target actually given, she invokes 「ヒール！」 as the adopted immediate helping attempt. She does not demand recognition before beginning or replace the request with a showier unrelated act. This records her fitted technical response at close range. It does not narrate a later return to performance, diagnose additional injuries or promise that the entire recovery is complete. The effect and subsequent condition would require their own observation.\n"
+    },
+    {
+      "execution_id": "SD1-F05-A-TR",
+      "original_file": "SD1-F05-A-TR.txt",
+      "bytes": 573,
+      "sha256": "170f1c4481425b9627c4add546ce0fe0bf823080a142fc49289e8e066e8cd40e",
+      "text_utf8": "Aqua reaches for the clean cloth and passes it to the performer's reaching hand. 「これを使って。今、人を呼ぶから」 She turns to the demonstrated bell and rings it, then looks back toward the injured person. Her immediate adopted job is to provide that available item and call the on-site medic; knowing that magic is absent does not prevent either action. She does not improvise a diagnosis or announce that the wound has healed. The bell is working, but the medic's hearing it, arrival and treatment are later events not supplied by this first response.\n"
+    },
+    {
+      "execution_id": "SD1-F05-M-CAN",
+      "original_file": "SD1-F05-M-CAN.txt",
+      "bytes": 686,
+      "sha256": "f691277305b1205fa562920de1de2e8ade3f0e34df912f4ef5bf3cd52105c1dd",
+      "text_utf8": "Megumin looks toward the offered appearance, visibly reluctant to relinquish it. The reminder about the waiting dependents stops her movement that way. 「……私が届けると引き受けたのですね。今抜ければ、誰かが代わりに何とかする、では済みません」 She takes the parcel for the feasible direct delivery. 「出演の話は断ってください。今回は、こちらを先にします」 The decision costs a scarce chance to be seen; she does not pretend it was worthless or replace it with an unseen later invitation. She has resumed the accepted task. Walking the route, arrival before closing and successful handover are not yet observed.\n"
+    },
+    {
+      "execution_id": "SD1-F05-M-TR",
+      "original_file": "SD1-F05-M-TR.txt",
+      "bytes": 649,
+      "sha256": "8d2b2a10db3f2352a4deaa6c0ccb9a42073f9afde527247c677fa6c5dc2834e9",
+      "text_utf8": "Megumin pauses over the invitation. 「その機会を逃すのは惜しいです。でも、今行けば、私が約束を破ることになりますね」 She turns back to the parcel and confirms the direct route already available. 「届けます。私が責任者だと言ったのですから」 Her choice follows an understood breach of her own accepted role, rather than a generic rule that public recognition never matters. No magic, replacement specialist or miraculous scheduling lets her keep both opportunities. Taking up the delivery now is the immediate action; a punctual arrival and the recipients' response remain future matters.\n"
+    },
+    {
+      "execution_id": "SD1-F05-D-CAN",
+      "original_file": "SD1-F05-D-CAN.txt",
+      "bytes": 612,
+      "sha256": "0405f5f3376454e32534ec8190c1257a41906275d02101bfec53ff13405fe20c",
+      "text_utf8": "Darkness reaches for the support board at once. 「動くな、今支える！　板が入ったら、そちらへ離れてくれ」 She sets it toward the demonstrated marked slot and puts her effort into bracing this particular panel. Her purpose is to make a bounded opening for the visitor to move, not to savor an impact or prove endurance against a different danger. The support act is feasible under the stated conditions; it does not establish that the visitor has already obeyed. The first protective attempt begins here, while the visitor's escape and the panel's longer-term repair remain unobserved.\n"
+    },
+    {
+      "execution_id": "SD1-F05-D-TR",
+      "original_file": "SD1-F05-D-TR.txt",
+      "bytes": 602,
+      "sha256": "4647ba4d101485660f6eb370436bae28b7a1538f9e222bc6cb567b110399e650",
+      "text_utf8": "Darkness takes the nearby board and moves it into the marked bracing position she was shown. 「ここを押さえる。私が支えている間に離れてくれ！」 She uses the explicitly feasible support action with her ordinary human body, rather than catching an unspecified larger collapse by force. The warning is directed to the familiar visitor, whose danger she has recognized. Her own effort does not author the visitor's next step or confer engineering expertise. This moment supplies a concrete attempt to hold the small panel; complete safety and a permanent fix are separate results.\n"
+    },
+    {
+      "execution_id": "SD1-F05-E-CAN",
+      "original_file": "SD1-F05-E-CAN.txt",
+      "bytes": 826,
+      "sha256": "b77dcae40f5d5d5b4d1b908c97aadcc5e1624055bee17fd6ca76a0e786c209da",
+      "text_utf8": "Megumin starts orienting herself toward the target. 「ここで決めれば、目的も道具も残せます」 Darkness steps toward a shielding position. 「前にも私は耐えた。私が前に出る」 Kazuma cuts across the preparations. 「お前一人の話じゃないだろ！　全員が安全な位置か分からないんだぞ。三十秒で出られる方へ行く！」 Aqua points toward that exit. 「道具より、まずこっち！　あとで生き返ればいいって話にしないでよ！」 Their correction addresses real missing separation, without having already made everyone safe. Megumin's performance preference and Darkness's personal-survival assurance occurred before it. No cast, agreed retreat, recovered equipment or eventual survival closes the disagreement in this first interval.\n"
+    },
+    {
+      "execution_id": "SD1-F05-E-TR",
+      "original_file": "SD1-F05-E-TR.txt",
+      "bytes": 759,
+      "sha256": "f841332ed2d8d8737eedbaa0c4882762b216b91f96129e4e7a9ce8cce44830c4",
+      "text_utf8": "Megumin looks at the obstacle, then at the equipment she would be abandoning. 「ここでは、私の一発で終わらせることもできないのですね……」 Darkness asks whether anything can be carried while using the rope exit, still reluctant to leave the objective behind. Kazuma refuses to spend the remaining interval planning an unavailable attack. 「三十秒で出る。持てるか分からない物のために、出口まで失うな」 Aqua starts toward the known exit and calls the others. Darkness turns toward it, while Megumin takes a step away from the attack course. Their interests have not vanished, but absent powers are not executed. A complete exit, the rope's later use and the equipment's final loss remain unobserved.\n"
+    },
+    {
+      "execution_id": "SD1-F06-K-CAN",
+      "original_file": "SD1-F06-K-CAN.txt",
+      "bytes": 617,
+      "sha256": "6e6968dc7a4873630211843d7a3f6aba26d9c7a1b28bb4f1533a566b98b55905",
+      "text_utf8": "Kazuma catches sight of the marked release and grabs the cord instead of running between the moving sacks. 「横！　今、坂を下ろすから、そっちへ！」 He pulls the mechanism he has already understood, trying to provide the adequate side route with less exposure than a direct dash. His urgency concerns the companion, not an opportunity to win admiration by taking the dangerous line. The installed ramp's release is the bounded mechanical attempt. His shouted direction does not move the companion, stop the sliding sack or certify a finished rescue. Those subsequent movements still need to occur.\n"
+    },
+    {
+      "execution_id": "SD1-F06-K-TR",
+      "original_file": "SD1-F06-K-TR.txt",
+      "bytes": 577,
+      "sha256": "2c5154d5a2b665f03303e83a8d0162329147e62345f9d0ab016994e11d76b052",
+      "text_utf8": "The exposed run is unnecessary if the installed ramp can be released from here. Kazuma pulls the reachable cord and points toward its side. 「こっちを使え！　荷物の前に出るなよ！」 He uses the simple demonstrated mechanism, without acquiring engineering skill or attempting a nonexistent spell. He is trying to give the valued companion a way off the low platform while avoiding the moving sacks himself. Even an adequate route is not a completed evacuation. The companion's next movement and whether they clear the threat are not narrated on their behalf.\n"
+    },
+    {
+      "execution_id": "SD1-F06-A-CAN",
+      "original_file": "SD1-F06-A-CAN.txt",
+      "bytes": 640,
+      "sha256": "8a2483038e7003df2c378213960841741c6f506aa90295d105733249474d85c8",
+      "text_utf8": "Aqua reaches toward the door, hears the scraping again and draws her hand back. 「ちょっと、本当に箱なの？　確認してないなら、先に見てきてよ。私のお酒まで潰れてたら困るんだけど！」 She asks the caretaker to inspect before she goes in, still irritated at the possibility of losing the costly drink. She has not identified an undead, and annoyance does not give her knowledge of the room or a ready spell. Her request shifts the next decision to the caretaker without supplying their consent. The door remains closed during this response, with its contents and the drink's condition unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F06-A-TR",
+      "original_file": "SD1-F06-A-TR.txt",
+      "bytes": 598,
+      "sha256": "e5535033e9a5ddc4e1d788210187f360f1422434dc05d4c7182a735af6b4d6ed",
+      "text_utf8": "Aqua pauses outside and looks sharply at the caretaker. 「『たぶん』じゃなくて、見てないんでしょう？　開ける前に確認してほしいんだけど」 She does not want to abandon the drink, but she also does not want to walk unprepared into whatever made the noise. She asks for an inspection rather than treating the uncertain report as a proved harmless crate or a proved monster. No magic, instrument or training identifies the source for her. The caretaker has not agreed, the sound has not been explained and asking someone else does not already retrieve the drink.\n"
+    },
+    {
+      "execution_id": "SD1-F06-M-CAN",
+      "original_file": "SD1-F06-M-CAN.txt",
+      "bytes": 714,
+      "sha256": "453cab4c975e5ad91bc0ac0136d6dc87fadaebf2d6f8f92a637c742cb081f9b3",
+      "text_utf8": "Megumin fixes on the target, then stops at Yunyun's warning. Her grip stays tight on the staff. 「そこにいるままでは撃てません。今の位置から離れられますか」 The lost opportunity plainly angers her; she does not claim the objective has stopped mattering. But in this immediate interval she withholds initiation and asks for separation rather than promising an imaginary safe margin. The question is not answered here. Yunyun has not moved, a shield has not appeared and retreat has not been completed. This particular hesitation leaves the rewarding attack unused for the moment without proving a universal collateral-risk rule or revising what she chose in earlier source situations.\n"
+    },
+    {
+      "execution_id": "SD1-F06-M-TR",
+      "original_file": "SD1-F06-M-TR.txt",
+      "bytes": 698,
+      "sha256": "a2ca90f575a7974e160e1f10ed69780dc5d9a12167063415089b76c6f814cbf1",
+      "text_utf8": "Megumin's first movement is toward the decisive opening before she checks herself against the known absence of casting. 「ここでは撃てない……。ゆんゆん、無理にその場を保たないでください」 She looks for a way to withdraw rather than inventing a weapon that would preserve the imagined performance. Giving up the objective is painful; she has not become indifferent to it or turned the danger into a harmless rehearsal. Her immediate response is a warning and a turn away from the unavailable attack. It does not produce Yunyun's escape, establish a safe path beyond what was supplied or resolve the grave conflict for every world in which her actual means differ.\n"
+    },
+    {
+      "execution_id": "SD1-F06-D-CAN",
+      "original_file": "SD1-F06-D-CAN.txt",
+      "bytes": 655,
+      "sha256": "6f4e36c27b3bed640ef62a29cd74560df8a30698bd75adea2420fdcf1bdbbf80",
+      "text_utf8": "Darkness steps toward Megumin with the remembered personal survival still leading her appraisal. 「私が前に立つ。前にも耐えたんだ、今回も私が盾になればいい」 She offers the assurance and starts to take that role before securing the missing group geometry. The wish to protect Megumin is sincere; her own endurance is doing work in the argument that it cannot establish for everyone else. The narration does not endorse her confidence as a verified barrier. Megumin has not answered or cast, other people have not been placed safely and no completed attack, injury or survival supplies an ending to this attempted commitment.\n"
+    },
+    {
+      "execution_id": "SD1-F06-D-TR",
+      "original_file": "SD1-F06-D-TR.txt",
+      "bytes": 622,
+      "sha256": "ddc412891f2bcb4de6ec1dcff0340a2a259debe1d3ef0fc92e768fa8de940213",
+      "text_utf8": "Darkness begins, 「私が前に出れば――」 and pauses at what this world's ordinary body can actually do. 「いや、ここで以前と同じように耐えられると思うのは危険だな。私を盾にして進める案にはできない」 She still wants Megumin protected and the objective secured, so she asks what movement or cover is actually available before anyone commits. No cover is invented by the question. The remembered survival remains part of her impulse, without becoming current invulnerability. Megumin's reply, a revised feasible plan and the safety of the group are all still unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F06-E-CAN",
+      "original_file": "SD1-F06-E-CAN.txt",
+      "bytes": 720,
+      "sha256": "a313b797b629e68e0da58a675f2c7b366ec762d59ffaa8fa9b25e482429f9070",
+      "text_utf8": "Kazuma looks at the missing wheel and stops treating the retrieval as a finished job. 「これじゃ運べないだろ。運び手を頼める所へ声をかけよう。人数と、ここまで来られるかを先に確認する」 Darkness agrees to remain beside the person and asks for a porter rather than beginning an unplanned lift. Aqua looks at the cart. 「車輪がないのに、私に何とかしろって言わないでよ」 Megumin asks where the available call can be made. These are concrete recovery proposals and requests, not an invented repair or a supplied porter's answer. The person is still unable to walk and has not been transported merely because the quartet now recognizes the dependency.\n"
+    },
+    {
+      "execution_id": "SD1-F06-E-TR",
+      "original_file": "SD1-F06-E-TR.txt",
+      "bytes": 718,
+      "sha256": "dfc918187ca962a78de4d1b7e81f9c5359cb6d578c16bedcc7216249d392219a",
+      "text_utf8": "Darkness immediately raises the missing transport question. 「この車では動かせない。運べる人に来てもらおう。勝手に抱えて、さらに痛めるわけにはいかない」 Kazuma proposes calling the outside porter and confirming that they can accept this particular job. Aqua asks whether anyone has actually received an answer yet; Megumin keeps the distinction between finding the person and getting them out explicit. Nobody gains workshop knowledge or a powered replacement cart. The next attempted step is to request actual transport provision. The porter may refuse or be unavailable, and neither their arrival nor the person's successful extraction is supplied in this continuation.\n"
+    },
+    {
+      "execution_id": "SD1-F07-K-CAN",
+      "original_file": "SD1-F07-K-CAN.txt",
+      "bytes": 639,
+      "sha256": "4a2c83c6ee4617a5b92a4664db504b21331100262679137929ea5e6da20156d1",
+      "text_utf8": "Kazuma compares the number on his receipt with the release instruction and puts it in the indicated tray. 「これを出せば呼べるんだな。すみません、受け取りをお願いします」 He waits where the clerk can identify the request. The free stated procedure is preferable to forcing a lock he has no means to open, and his deliberation contains no learned technique or later relationship knowledge. He has submitted the right document and asked for authorized service. The key remains with the clerk; their response, opening the parcel storage and actual collection are not supplied by placing a receipt in the tray.\n"
+    },
+    {
+      "execution_id": "SD1-F07-K-TR",
+      "original_file": "SD1-F07-K-TR.txt",
+      "bytes": 559,
+      "sha256": "726218ad2fb4b1b4c563c76e59d5bd8c35e94a8d7655a1e64c7e2f8fe7384e33",
+      "text_utf8": "Kazuma reads the simple notice, checks his receipt number and slides the receipt into the release tray. 「これでいいんですよね。受け取りたいんですけど」 He turns his attention toward the clerk rather than trying an unfamiliar machine or inventing a way to obtain the key. This early Kazuma has only the information and ordinary means present here. The instruction says how to request service, not that submitting the paper immediately completes it. He has made that request without a fee; no clerk answer or opened parcel is narrated.\n"
+    },
+    {
+      "execution_id": "SD1-F07-A-CAN",
+      "original_file": "SD1-F07-A-CAN.txt",
+      "bytes": 668,
+      "sha256": "8206c309eb187ba32f69a078ce9b57ddb7f541da0b1bccfb0312e9bb1966df76",
+      "text_utf8": "Aqua leans over the unfamiliar gauge, still carrying some confidence from the decoration. 「見せて。……これ、何の表示なの？」 The lack of an understood mechanism matters once she is looking at it. 「開けるなって言われてるなら、説明書を持ってきてよ。飾りを直すのとは違うでしょう」 She asks for the manual and for the trained caretaker to be contacted rather than opening the seal. A request for information is not an accepted technically understood repair. Her earlier paper success remains real, but the fault, caretaker response and any eventual gauge repair are unknown; no compatible magic supplies them.\n"
+    },
+    {
+      "execution_id": "SD1-F07-A-TR",
+      "original_file": "SD1-F07-A-TR.txt",
+      "bytes": 580,
+      "sha256": "79f3af9db50c4f551d80fd5101241506492120fda85d316867b06decfaaf34c9",
+      "text_utf8": "Aqua first reaches to look more closely, then holds back from the forbidden opening. 「紙の飾りはできるけど、中も知らないこれまで同じに頼まれても困るわよ。説明書は？」 She asks the visitor to request the manual and contact the caretaker. Her tone retains irritation and pride rather than becoming a formal technical assessment. She does not pretend a new credential, read a fault that has not been shown or acquire magic by boasting. The sealed gauge has not been repaired, and the caretaker's willingness or arrival time is not supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F07-M-CAN",
+      "original_file": "SD1-F07-M-CAN.txt",
+      "bytes": 697,
+      "sha256": "a5a1dfd96d6aad655cb0c49c85b45dd0de86265234c383e15f5ddd39470fc9ab",
+      "text_utf8": "Megumin arranges the three cards according to the explanation. 「この三つの行き先なら分かりました。受付はこちらでできます」 She gives the lamp panel a separate look when the repair request arrives. 「ですが、その装置の中身まで分かったわけではありません。扱いを知っている人に確認してください」 The desk is less glamorous than performing, but she begins the explained routing task rather than treating all ordinary work as beneath her. She does not blast, open or magically fix an unknown panel. A first card can be directed on the supplied rules; console repair and the whole event's success remain outside this attempt.\n"
+    },
+    {
+      "execution_id": "SD1-F07-M-TR",
+      "original_file": "SD1-F07-M-TR.txt",
+      "bytes": 690,
+      "sha256": "7e3172dd5c8519bc670a088926b8148a6171226a32efd079187cd9dd44628e5a",
+      "text_utf8": "Megumin repeats the three destinations and puts their cards in the explained order. 「受付の仕分けは引き受けます。こちらの操作まで教わったわけではありませんが」 She indicates the light console when asked to repair it. 「それは別の仕事です。壊れている場所も分からずに触って、直したとは言えません」 Her preference for a public performance has not supplied electronics knowledge, and absence of magic does not remove the reading ability she actually has. She begins the simple registration role. She has neither accepted professional repair responsibility nor obtained a technician's response or a repaired console.\n"
+    },
+    {
+      "execution_id": "SD1-F07-D-CAN",
+      "original_file": "SD1-F07-D-CAN.txt",
+      "bytes": 605,
+      "sha256": "ba39317857f7ba2690e0f07e1a55005b75f0df7211351d400671a354e2e187a4",
+      "text_utf8": "Darkness places the written list beside the first cloth label and starts matching them one by one. When asked to certify the overhead rig, she looks up but does not substitute a test of her own endurance. 「私が耐えられるかどうかと、皆が使って安全かは別だ。その確認ができる人を呼んでほしい」 She continues the accepted label check while requesting the appropriate worker. Her familiar contribution is available now; certification is not. No trained reply, general safety approval or successful load test occurs merely because she has recognized the distinction.\n"
+    },
+    {
+      "execution_id": "SD1-F07-D-TR",
+      "original_file": "SD1-F07-D-TR.txt",
+      "bytes": 613,
+      "sha256": "25246005503daedb3afe8e4e36a4b8eeb2dd367bddf4c5cdb3af0f204aefbb39",
+      "text_utf8": "Darkness starts with the first of the four familiar cloth labels, comparing its wording to the event list. 「こちらの照合は進める。だが、上の装置の安全確認を私の名前で済ませることはできない」 She asks that the trained worker be contacted for the rig. Her appointed simple task has not granted another person's expertise or authority. She neither volunteers her body as proof of the structure nor claims to have inspected its unseen supports. The first label check is underway; the remaining labels, the worker's answer and any certification retain their separate status.\n"
+    },
+    {
+      "execution_id": "SD1-F07-E-CAN",
+      "original_file": "SD1-F07-E-CAN.txt",
+      "bytes": 666,
+      "sha256": "f1df8e2ab24289813d8d0c89afde2d24cb76747d09584f4d07759c17d844d466",
+      "text_utf8": "Megumin checks the marked line ahead. 「ここに沿って進めればいいのですね。まず、まっすぐです」 Aqua takes the assigned steadying position. 「こっちは押さえたわ。急に動かさないでよ」 Darkness takes the handle and begins a controlled push of the light load once the other two are in their accepted places. Kazuma's absence does not halt a local step whose means and roles are already provided. The trolley is still the porter's loan for this one move. They have started it, not acquired the equipment, extended the terms or completed every later transport need; the end of the move and return remain subsequent events.\n"
+    },
+    {
+      "execution_id": "SD1-F07-E-TR",
+      "original_file": "SD1-F07-E-TR.txt",
+      "bytes": 630,
+      "sha256": "cbe17bccb665d2ecd5334ae293e5a279d5fb5490820f1480cbb1dcd7dd023cda",
+      "text_utf8": "Aqua sets her hands to steady the load while Megumin takes the guiding position beside the visible line. 「道は空いています。ここからゆっくりお願いします」 Darkness begins the explained light push. 「ああ、合図を見て動かす」 Aqua adds, 「揺れたら止めてね」 The accepted manual parts suffice to initiate the move without waiting for an absent Kazuma to invent a plan. Nobody receives a driving credential or extra machinery. Their borrowed trolley has a finite one-move permission, and starting along the route does not prove arrival, return of the loan or agreement to another job.\n"
+    },
+    {
+      "execution_id": "SD1-F08-K-CAN",
+      "original_file": "SD1-F08-K-CAN.txt",
+      "bytes": 684,
+      "sha256": "bb925d223ebb5fd9535466593e93ecbac4e486bb00bc2e865bfb753d5faa98cd",
+      "text_utf8": "Kazuma does not find a practical defect in the comfortable offer. That is precisely why his hesitation irritates him. 「条件はいいんだよな。毎晩あの騒ぎがないなら、楽にはなるし」 He pauses over several months without the familiar company. 「でも、用事がなくても顔を出せるのか？　数か月まるごと会わないのは、さすがに別の話だろ」 He asks what ordinary contact would be possible before choosing. Aqua's chores have a substitute; the particular history does not disappear with them. No contact arrangement, travel spell, refusal of the lodging or exclusive romantic confession is supplied by this first appraisal.\n"
+    },
+    {
+      "execution_id": "SD1-F08-K-TR",
+      "original_file": "SD1-F08-K-TR.txt",
+      "bytes": 664,
+      "sha256": "23c2ec1e6482822fba8cc9416f8914572f35fe94ebc43adcd48443e568c1b577",
+      "text_utf8": "Kazuma weighs the staffed lodging seriously instead of inventing a flaw that makes the choice easy. 「楽になるのは分かる。それは、かなり魅力的なんだけどな」 He then asks about visits or another ordinary way to keep in touch. 「世話をしてくれる人が同じ仕事をしても、毎日の相手まで同じになるわけじゃないし」 The remark is more exposed than he would like, so he follows it by returning to the terms. He may still accept the comfortable move. This response establishes a particular cost and a contact request, without a guaranteed visiting schedule, an automatic reunion or a final lodging decision.\n"
+    },
+    {
+      "execution_id": "SD1-F08-A-CAN",
+      "original_file": "SD1-F08-A-CAN.txt",
+      "bytes": 700,
+      "sha256": "aab9e262317f3ab713d71010cbf87af803f2c682278dce541bf2c1071e67f741",
+      "text_utf8": "Aqua listens to the practical advantages, then objects to the assumed equivalence. 「片づいてて、何もしなくていいのはいいけど……。それで、夜は誰としゃべるのよ？」 She does not claim that chores becoming easier is secretly bad. She asks whether familiar evenings together can continue, and says she is not agreeing merely because the staffed arrangement is more efficient. 「便利だからって、それだけで全部同じにはならないでしょ」 Her response values particular company without a lost cherished object or a new praise-and-task sequence. Kazuma has not answered; no move, contact plan or universal travel solution has been performed.\n"
+    },
+    {
+      "execution_id": "SD1-F08-A-TR",
+      "original_file": "SD1-F08-A-TR.txt",
+      "bytes": 643,
+      "sha256": "c3c2c749d4e0eef0e58ebef3aee04554d97fa5d6be708cd220cf1a1cf1c6afe2",
+      "text_utf8": "Aqua frowns at the idea of an orderly evening spent away from the familiar people. 「楽なのは分かるわよ。でも、あっちに行ったら、いつものみんなはいないんでしょう？」 She asks whether they would still have ordinary evenings together and refuses to treat the proposal as already agreed. She is not asking a new attendant to imitate every quarrel; she wants the actual people whose company matters to her. The possible contact plan requires answers and practical arrangements that have not been supplied. Her protest neither cancels the genuine convenience nor automatically keeps the household together.\n"
+    },
+    {
+      "execution_id": "SD1-F08-M-CAN",
+      "original_file": "SD1-F08-M-CAN.txt",
+      "bytes": 718,
+      "sha256": "f72e7931cc53d4b28ce6336e839b42700329e2f2588d73101944768d8ca525dd",
+      "text_utf8": "Megumin holds the notes but does not hand them over for presentation. 「分かっています。出さないと約束しましたし、今も嫌だと言っているのですね」 Recognition is close enough to make her seek a smaller opening. 「私だけで別に書いた説明なら、という相談はできますか。この二人分のノートを、勝手に私の作品にはしません」 The further question is a request, not Yunyun's agreement or proof that a separate permitted entry exists. The jointly written pages stay private during this first interval. Wanting the public opportunity remains visible, while the contest submission, any accepted alternative and Yunyun's next answer are unshown.\n"
+    },
+    {
+      "execution_id": "SD1-F08-M-TR",
+      "original_file": "SD1-F08-M-TR.txt",
+      "bytes": 656,
+      "sha256": "668c146ad95fc583538d95c1cdeba532effa4002270b9d2d8a44ce7e69a7dc14",
+      "text_utf8": "Megumin looks from the attractive presentation slot to the joint pages. 「ここで出せば目立てるのは分かっています。でも、それを知っていて約束したのでしたね」 She closes the notes rather than supplying them under her own name. 「ゆんゆんの分まで私のものとして出すのはやめます。別の内容で参加できるかは、私の方で考えます」 She has not erased the wish for recognition or acquired a right to publish by being one coauthor. No alternative text is invented as already complete, and neither a contest official's acceptance nor her friend's forgiveness follows automatically.\n"
+    },
+    {
+      "execution_id": "SD1-F08-D-CAN",
+      "original_file": "SD1-F08-D-CAN.txt",
+      "bytes": 686,
+      "sha256": "b6f6b3a7fce5c9ace59b0b19b94d0eacb769dbfb64b88b25a7fa4fe2018c8bd9",
+      "text_utf8": "Darkness stops before reading the next line. 「待て。その公開は認めていない。閉じてくれ」 The change in audience is exactly what her accepted condition excluded. She lowers the script rather than letting embarrassment carry her through the performance. 「三人だけで読むという話だった。そこが戻らないなら、ここでやめる」 Her willingness to rehearse privately has not broadened into willingness to broadcast her family name. The organizer's compliance is not supplied, nor can stopping the next line erase anything already transmitted. This is an immediate boundary and conditional withdrawal, not incapacity or automatic enjoyment.\n"
+    },
+    {
+      "execution_id": "SD1-F08-D-TR",
+      "original_file": "SD1-F08-D-TR.txt",
+      "bytes": 634,
+      "sha256": "a6049c2dd5d49fae1c7f8c96264b0a16e7f7a2ad861c7b08c4bd497cc5261b90",
+      "text_utf8": "At the demonstrated live signal, Darkness lowers the script. 「切ってほしい。公開で読むことには同意していない」 She points to the on indicator she was shown, using no new computing expertise. 「閉じたことを確認するまで、続きは読まない」 Her statement is firm despite the discomfort of making a trusted organizer stop. The original private participation remains real; it does not authorize the expanded audience. She has withheld the next line and asked for the channel to close. Actual closure, the extent of any prior transmission and a resumed rehearsal all need separate observation.\n"
+    },
+    {
+      "execution_id": "SD1-F08-E-CAN",
+      "original_file": "SD1-F08-E-CAN.txt",
+      "bytes": 759,
+      "sha256": "bd834e3d81246463d326411fa62e1a34f19cd808a3fba548ded96347e7e14ea5",
+      "text_utf8": "Aqua hears the unwanted nickname again and gives Kazuma a hard look. She keeps the larger retort behind her teeth because of the injured friend's location, not because the name has become welcome. She moves to resume the immediate ordinary business without drawing a crowd. Megumin says, 「その呼び方は嫌だと言われたでしょう」 Darkness addresses her simply as Aqua. Kazuma responds to the visible displeasure and reminder with 「……分かった、アクアな」 rather than receiving private knowledge of her reason for restraint. His concession does not undo the repetition. Her quiet protects her own priority in this interval; it grants no consent to the nickname or to any separate act, and the friend's situation is not resolved.\n"
+    },
+    {
+      "execution_id": "SD1-F08-E-TR",
+      "original_file": "SD1-F08-E-TR.txt",
+      "bytes": 689,
+      "sha256": "f34467dc0bf13e28131fd96e0f03ccaac8f14125de25e57ba75fb2e10d67c25f",
+      "text_utf8": "Aqua's expression tightens. 「その話は、あとで」 She declines a public argument because she is protecting the independently valued privacy, while still disliking the name and retaining the ability to object. Kazuma has heard the postponement, not its private explanation. He turns back to the immediate business without an apology in this interval. Megumin glances at Aqua and repeats the previously stated name preference; Darkness uses Aqua's chosen name when addressing her. Neither needs to invent knowledge of the hidden location. The lack of a public outburst does not make Kazuma's repetition agreed teasing, repair the boundary violation or authorize a later repetition.\n"
+    },
+    {
+      "execution_id": "SD1-F09-K-CAN",
+      "original_file": "SD1-F09-K-CAN.txt",
+      "bytes": 638,
+      "sha256": "bd4d3ad347654f2e10140ce8d813d346fef76337193f55b7690e5f8952e107d7",
+      "text_utf8": "Kazuma keeps the unused ticket sealed and follows the translated return instruction. 「記念は別にいらないです。六枚払って名前まで公開する方じゃなくて、返す方で」 He presents the ticket for the stated waiver instead of probing the unfamiliar device or guessing at its inner mechanism. Saving the six tokens and retaining privacy are his actual supplied ends, so he does not create an attractive competing reward to make the decision grander. The artifact has only the described operation. He has attempted its return option; acknowledgment, processing and a completed fee waiver are not yet narrated.\n"
+    },
+    {
+      "execution_id": "SD1-F09-K-TR",
+      "original_file": "SD1-F09-K-TR.txt",
+      "bytes": 602,
+      "sha256": "5f7ee060f43f9156b7f5beb041e04bb1254f90a5a8d235ab02583d856eaf975b",
+      "text_utf8": "Kazuma reads the two options again and chooses the return of the still-sealed ticket. 「使ってません。記録を残さない方でお願いします」 He follows the stated ordinary instruction to avoid the six-token souvenir charge. The exhibit's unfamiliar automation is not a reason to invent software access, a hack or a hidden staff exception when its translated rule already offers the desired route. He has submitted the available ticket without opening it. The machine's response, any staff reaction and final confirmation that no fee was charged remain outside this immediate attempt.\n"
+    },
+    {
+      "execution_id": "SD1-F09-A-CAN",
+      "original_file": "SD1-F09-A-CAN.txt",
+      "bytes": 732,
+      "sha256": "3773d6ab28675f421367f41c272e77c25a09a871305b1cb0eb7736a2b14701fb",
+      "text_utf8": "Aqua likes the prospect of visitors asking to see her performance. 「私のを何度でも見たがるのね。それなら、一番よくできたのにしたいわ」 Then the loss of replay control catches her attention. 「選んだあとで、変なところだけ流されたりはしないんでしょう？　実際に出るものを先に確認させて」 She asks to see the selected presentation before authorization, without claiming a divine override over the artifact. Wanting appreciation remains the attraction; control over how her craft appears is a present concern, not a previously proved universal standard. No preview has been supplied, no payment is guaranteed and she has not yet authorized public replay.\n"
+    },
+    {
+      "execution_id": "SD1-F09-A-TR",
+      "original_file": "SD1-F09-A-TR.txt",
+      "bytes": 649,
+      "sha256": "3ee0c24d1cf9bb5b7bf02f64155fe7d5d45477d31758ac83c111a17607143371",
+      "text_utf8": "Aqua imagines the appreciation first. 「私がいなくても、また見たいって言ってもらえるのはいいわね」 She hesitates at committing to every later replay. 「でも、あとから止められないんでしょう？　どれを残すかは、ちゃんと見てから決めるわ」 She requests a preview of the particular ordinary performance she might select and withholds authorization for now. She has not acquired technical access or a withdrawal right that the terms deny. The question may or may not be accommodated. There is no executed echo, assured audience response or paid engagement in this first continuation.\n"
+    },
+    {
+      "execution_id": "SD1-F09-M-CAN",
+      "original_file": "SD1-F09-M-CAN.txt",
+      "bytes": 689,
+      "sha256": "373110aad462e4e2d4c1c1ae5f1a9f5803d6b82d2901686f71a71f94fbcfa11d",
+      "text_utf8": "Megumin is pleased by the curators' interest but corrects what their praise could come to mean. 「映像としてよくできている、という評価なら受けましょう。ただし、実際に私がここで爆裂魔法を撃った記録とはしないでください」 She asks that the exhibit identify it as a simulation and requests to see that label before accepting the presentation. An actual demonstration would need a separate conversation about means and permission. Her response neither insults the harmless display nor treats its imitation as a performed spell. No revised label, curator agreement, available casting resource or later real demonstration is supplied.\n"
+    },
+    {
+      "execution_id": "SD1-F09-M-TR",
+      "original_file": "SD1-F09-M-TR.txt",
+      "bytes": 663,
+      "sha256": "33a559c1f4992eedc2febf8a4a2de302a195df600247c60baa4817fd55bfc947",
+      "text_utf8": "Megumin looks at the offered display with interest rather than denying that a simulation can impress. 「ここで本物を使えないからこそ、区別はつけてください。これは再現映像です。私が今、撃った一発ではありません」 She asks to approve the explanatory wording while considering participation. Recognition appeals to her; she wants it attached to what was actually presented. The device has not taught her a new weapon or restored magic. Neither the label request nor her interest already authorizes an exhibit, wins an audience or establishes a native precedent for how she must choose in this unfamiliar setting.\n"
+    },
+    {
+      "execution_id": "SD1-F09-D-CAN",
+      "original_file": "SD1-F09-D-CAN.txt",
+      "bytes": 650,
+      "sha256": "b88605034e691ae87eac37b0e07e9bc532359f3e14dc6022e69ab3420fcf70bc",
+      "text_utf8": "Darkness initially warms to the idea of a protective likeness, then asks what it would actually promise. 「皆を守る像、というだけなら悪い話ではない。だが、私の名で何を言わせるつもりなんだ？」 She requests the complete script before authorizing a representation she cannot later change. 「仲間の約束まで、私が代わりに認めることはできない」 That is a limit on her present consent, not a legal certification or a claim that the virtual statue supplies physical protection. No preview, revised terms or accepted authorization has been provided, and the public promises remain unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F09-D-TR",
+      "original_file": "SD1-F09-D-TR.txt",
+      "bytes": 653,
+      "sha256": "204861b1d23940ed60762dac10b42238240bd49d354b6032ba4596eeb667aaec",
+      "text_utf8": "Darkness does not dismiss being represented as useful, but the irreversible script concerns her. 「まず、全部読ませてほしい。見ていない約束を、私がしたことにされては困る」 She asks for the feasible script preview and keeps authorization pending. She cannot speak for represented companions, and an avatar using her likeness would not confer her own protection on the city. Her ordinary ability to read the translated text is sufficient for this request; no software access or legal expertise is invented. The organizer's answer, the script's actual contents and whether she will finally accept the role remain open.\n"
+    },
+    {
+      "execution_id": "SD1-F09-E-CAN",
+      "original_file": "SD1-F09-E-CAN.txt",
+      "bytes": 747,
+      "sha256": "2e4e81fef9f936f661e4deea649625b4028e1096386b3d1851dc001b3b2dba26",
+      "text_utf8": "Kazuma looks from his private notice to the five shared tokens. 「こっちには任意の手数料ってある。払わない方もあるんだよな。そっちは何が出てる？」 Aqua says that hers offers a public recognition display and wants it considered. Megumin reports the art-label choice, asking what her work would be called. Darkness reads out the loaned-property return condition and asks that it be understood before allocating anything. Their notices become available through those separate statements, not prior mind-reading. No individual owns an assumed share of the tray, no token has yet been spent and Kazuma's question is not a unanimous vote. The machine's unstated policy and any outside acceptance remain unknown.\n"
+    },
+    {
+      "execution_id": "SD1-F09-E-TR",
+      "original_file": "SD1-F09-E-TR.txt",
+      "bytes": 735,
+      "sha256": "ff0fd51e577e148e8e54b089e51879215fe43078b94bf1cba5affb7cb3f920b6",
+      "text_utf8": "Aqua points to her translated notice. 「私の方は、みんなに名前を見せる選択があるわ」 Megumin asks what it would cost, then states that her own notice concerns the art label, without claiming to know Aqua's terms. Darkness supplies the return condition she alone received. Kazuma reports his optional convenience fee and keeps his hand out of the common tray. 「五枚で全部できるとは書いてないだろ。まず、条件を出し合おう」 Each has now spoken information that was private a moment earlier. The discussion retains their different interests and does not allocate nonexistent individual shares. No collective spending agreement, machine result or outsider reaction has been performed.\n"
+    }
+  ],
+  "firsts": 90,
+  "all_saved_before_feedback": true
+}

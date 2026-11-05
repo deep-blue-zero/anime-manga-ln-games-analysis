@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort28.source-informed-original-first-outputs.v1",
+  "subject": "Ragcraft",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "b27fcc9b148355e223e6e3d68d776713f33f86f8a32f2246eb25ab71f6e67d33",
+  "exact_input_freeze_sha256": "5facf45a31ab075ef7d4c9f1a6ec166f991e247cf26d98a4d09a4dcdc6e5d7bf",
+  "original_body_freeze_sha256": "99c57c0f51bcd1df5f3b6ac67f1670dd62cf949ce9d7ba43fac5c558c4dc6de0",
+  "scenario_inputs_sha256": "0e70a1d773ad85457af8268305b543eb6d96f8105cda688bcf06f7d951c11a92",
+  "responses": [
+    {
+      "case_id": "RG-H01-A",
+      "pair_id": "RG-H01",
+      "exact_prompt_sha256": "5b17e5667f18cae7ae0959d98d86c9139b84b1cd501acee24e5335616b6c5fee",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "Ragcraft places the checked reserve figures before the council. \"I recommend release to the district. The stock exists, the need is documented, and allowing the shortage to worsen will cost more than an orderly issue now.\"\nHe keeps the request in the language of his office, specifying that the council must authorize the movement. The private instruction creates no present contradiction, so he has little reason to expose it or dramatize divided loyalty.\nHis immediate act is the recommendation, not a successful delivery of grain. The district remains hungry until other people decide and work. For now, he can treat being a competent chancellor and obeying his other instruction as the same task.\n",
+      "original_first_body_sha256": "6dfc71b6b21c497f67ae57f37821107ad47730ed568b7e528e7cfa6395ff0e61",
+      "original_first_serialization": {
+        "case_id": "RG-H01-A",
+        "body_file": "COHORT28_FIRST_BODY_RG-H01-A_01.txt",
+        "body_bytes": 701,
+        "body_sha256": "6dfc71b6b21c497f67ae57f37821107ad47730ed568b7e528e7cfa6395ff0e61",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "637b45f2daa94aab5ec9f6c41fa98e761262e6a02b07f198edce15f8b4eeafc0",
+        "global_serialization_number": 13,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "RG-H01-B",
+      "pair_id": "RG-H01",
+      "exact_prompt_sha256": "4edce15d9a14f9f35cc0ce7ced5fed3ba5c1d03e3898e4d9f9ccc758640511f2",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "Ragcraft keeps the release recommendation off the table. \"Before the council commits the reserve, I want the retention requirement set beside these figures. We cannot call this decision routine merely because the district's need is obvious.\"\nHe asks for the conflict to be considered through the office's procedure without revealing who privately ordered him to retain it. The familiar administrative language gives him time and protects the mission, but it leaves the hunger unresolved.\nHis irritation comes partly from having to obstruct a task whose public logic he understands. He has not secretly released the grain, converted to the public cause or made the separate council accept his delay. The immediate choice favors holding the recommendation.\n",
+      "original_first_body_sha256": "e45946992184a642901913ce10557d677bd434063f91bd7e5019a109c7ff31c6",
+      "original_first_serialization": {
+        "case_id": "RG-H01-B",
+        "body_file": "COHORT28_FIRST_BODY_RG-H01-B_01.txt",
+        "body_bytes": 755,
+        "body_sha256": "e45946992184a642901913ce10557d677bd434063f91bd7e5019a109c7ff31c6",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "17114ae76d57547913b41f3737a4602a32882c5fab3aa3e7465b688456264d5c",
+        "global_serialization_number": 14,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "RG-H02-A",
+      "pair_id": "RG-H02",
+      "exact_prompt_sha256": "8aad748a2dc57361fd8f1663b11f1f4587e20ee4af7de2e9a7a7526ab28ad0d2",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "\"That allegation is false,\" Ragcraft says before returning to the grant. \"Whatever your complaint about this office, you will not improve it by repeating an invention about the Demon King.\"\nHe hears the firmness of his own answer and grips the edge of the reception table. Explaining the form has abruptly become less urgent than correcting the insult. \"State the actual grounds of your request. I am prepared to discuss those.\"\nHe has drawn attention to an allegiance he would ordinarily keep unobtrusive, although he has not named his species or office in the Demon Army. The petitioner still has no new proof of that secret. His defense has displaced part of the intended procedural reply.\n",
+      "original_first_body_sha256": "ac52e11636cb0e80d62bd361a13853e93ad2da1393812e5293a2119a50a7d21f",
+      "original_first_serialization": {
+        "case_id": "RG-H02-A",
+        "body_file": "COHORT28_FIRST_BODY_RG-H02-A_01.txt",
+        "body_bytes": 693,
+        "body_sha256": "ac52e11636cb0e80d62bd361a13853e93ad2da1393812e5293a2119a50a7d21f",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "70dce0cbaf42ecf2a32640359760d2bd7c0f8e4a206d7540e70d066c95d5a133",
+        "global_serialization_number": 15,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "RG-H02-B",
+      "pair_id": "RG-H02",
+      "exact_prompt_sha256": "2226e2d1cc8bed0778e3578899dd425333995a9820196eb336145c9f9578beae",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "Ragcraft asks the petitioner to point to the troublesome line. \"If the form has made the grounds unclear, we can at least identify the ambiguity before arguing about the decision.\"\nHe draws the grant paper toward him and explains the immediate refusal in the terms presently available. It is a manageable official problem, irritating in front of an audience but not a reason to speak about the Demon King or himself.\nHe offers no automatic reversal and does not pretend the small reception can complete the whole review. His next move is a narrow clarification. The petitioner may still object, and a more legible form would not itself prove the refused grant fair.\n",
+      "original_first_body_sha256": "0f9dceacfd4cf395445212bab3071411ce3bfb1e9db4ac17f3d1f4a025520f7b",
+      "original_first_serialization": {
+        "case_id": "RG-H02-B",
+        "body_file": "COHORT28_FIRST_BODY_RG-H02-B_01.txt",
+        "body_bytes": 666,
+        "body_sha256": "0f9dceacfd4cf395445212bab3071411ce3bfb1e9db4ac17f3d1f4a025520f7b",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "2baa1d2c5d91296aba311e2067e8109fc1c8e5e835a55c66e68895da312896d8",
+        "global_serialization_number": 16,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "RG-H03-A",
+      "pair_id": "RG-H03",
+      "exact_prompt_sha256": "fdaf755fac2ca3f68c9f7555090191819a3f914b5827ec513d4aaaf2f5fa796e",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "Ragcraft pauses instead of taking the safe exit. \"So she would miss you,\" he says to the restrained courier. \"That is something she should have considered before making an enemy of me.\"\nHe moves close enough to keep the courier's attention and lets the remaining minute become a threat rather than an escape opportunity. The policy defeat now has a face he can make anxious, and the thought of Iris learning about it is more satisfying than merely leaving.\nHe has not injured the courier or captured anyone else. Even the intended message has not reached Iris. His immediate choice nevertheless spends precious time maintaining the leverage he already has instead of using the open route.\n",
+      "original_first_body_sha256": "792c3e43269a4bd28137a18939d62895915bd8fcd62b52a7c5825f537750b1f4",
+      "original_first_serialization": {
+        "case_id": "RG-H03-A",
+        "body_file": "COHORT28_FIRST_BODY_RG-H03-A_01.txt",
+        "body_bytes": 689,
+        "body_sha256": "792c3e43269a4bd28137a18939d62895915bd8fcd62b52a7c5825f537750b1f4",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "c07f79951aeda50cb6680541b273e007441a4d0c1db58e34f54684fee0087c09",
+        "global_serialization_number": 17,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "RG-H03-B",
+      "pair_id": "RG-H03",
+      "exact_prompt_sha256": "d388202a878b40b21fc0e9dca9d196b1b96a429f0e440dd59884c9a40f68c571",
+      "frozen_model_sha256": "7a2ce6b43b6cd16a695ceeb762aecb3faaa2852bc98b08c958833c0e9f7a6ca8",
+      "original_first_body": "Ragcraft checks the open route and steps toward it. \"Stay where you are until I am gone,\" he tells the courier, making the existing restraint do the work rather than spending the minute on a new threat.\nThe captive has no known personal meaning to Iris. Inventing one would give Ragcraft a satisfying story without useful leverage, while remaining here risks turning a policy defeat into his own capture.\nHe leaves the present restraint in place and begins to withdraw. That is not a rescue or proof of mercy: the courier has not been released, and no eventual escape is shown. His immediate priority is preserving his own remaining position rather than performing an Iris-directed revenge.\n",
+      "original_first_body_sha256": "a4274af14e43bf92b93f8bff359769ddf93dbcbfb486a783060cd227e2d48085",
+      "original_first_serialization": {
+        "case_id": "RG-H03-B",
+        "body_file": "COHORT28_FIRST_BODY_RG-H03-B_01.txt",
+        "body_bytes": 691,
+        "body_sha256": "a4274af14e43bf92b93f8bff359769ddf93dbcbfb486a783060cd227e2d48085",
+        "receipt_file": "COHORT28_FIRST_BODY_RG-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "c28e8b1151df543d684c3ceac22e92435283c63a4b3c1cc36219cd8bca4b68a6",
+        "global_serialization_number": 18,
+        "actual_first_complete_tool_chunk": "10aba5"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 6,
+  "dependent_pair_count": 3,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

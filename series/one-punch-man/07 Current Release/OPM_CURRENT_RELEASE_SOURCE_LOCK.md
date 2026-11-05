@@ -1,21 +1,24 @@
 ---
 series: OPM
 artifact_type: source_lock
-scope: Official Tonari no Young Jump web serialization, provider labels 232-284
+scope: Official Tonari no Young Jump web serialization, provider labels 232-287
 generation: V2
 status: active_provisional
-source_boundary: Public official state retrieved 2026-09-16; collected anchor web 232-234 and uncollected web 235-284
+source_boundary: September lock web 232-284 plus October extension web 285-287 and overlap recheck web 282-284; uncollected web 235-287
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-09-16
-retrieval_date: 2026-09-16
+retrieval_date: 2026-10-28
+updated: 2026-10-28
 evidence_code: PR
 ---
 
 # One Punch Man — Current-Release Source Lock
 
-## Lock result
+Current intake ends at web 287. Use the [October rolling extension](#rolling-extension--2026-10-28) for the new objects and overlap comparison; the September register remains an exact record of that earlier capture.
+
+## Historical lock result — 2026-09-16
 
 **PASS.** The official Tonari no Young Jump series feed and all 53 public episode objects labeled web 232-284 were captured on 2026-09-16. The snapshot contains 1,075 main pages. Every image decoded, every provider restoration round-trip reproduced the original displayed image, and each episode retains its HTML, reader metadata, unmodified response bytes, restored PNGs and per-object manifests under the excluded local staging root.
 
@@ -126,3 +129,25 @@ This proves stability only across those two retrievals. It does not convert the 
 3. A later provider replacement requires a fresh snapshot and explicit diff; the prior object remains historical revision evidence.
 4. A future tankobon replaces the corresponding web material as stable analytical authority only after direct reconciliation.
 5. No raw page image, capture payload, restoration output or receipt is committed to Git.
+
+## Rolling extension — 2026-10-28
+
+The owner requested that analysis and synthesis continue from the latest official chapters without waiting for tankobon publication. The current source boundary is now web 235-287: **53 uncollected installments / 1,013 pages**. Including the three collected overlap objects, the register contains **56 distinct objects / 1,114 pages**. The September records above keep their original retrieval identity; the October capture adds three new objects and rechecks three overlap objects.
+
+- Fresh feed SHA-256: `c6d4086eb280190d898c66dcfe333b375cf554379fc472733c253c0d803b86a0`.
+- Fresh snapshot: `_staging/current-web/tonari_2026-10-28/snapshot_manifest.json`.
+- Fresh capture: web 282-287, **6 objects / 97 pages**, capture PASS and restoration round-trip PASS.
+- New analytical intake: web 285-287, **3 objects / 39 pages**, all sequentially inspected.
+- Overlap: web 282-284, **58/58 page hashes** and **3/3 ordered-content digests** match the September snapshot.
+- Latest numbered public object in the captured official feed: web 287.
+- Web 235-281 was not re-downloaded in October; it retains the September public-state lock. This update does not claim a fresh revision census of those earlier objects.
+
+| Web label | Provider episode ID | Published UTC | Main pages | Ordered-content SHA-256 | Classification / current authority |
+|---:|---|---|---:|---|---|
+| 285 | 12207421984252262240 | 2026-09-23T15:00:00Z | 15 | ce3ef57f86a035e5ceb648551fc8e2be9dadb6514837809d1abb8836710ede58 | main narrative; active_provisional / PR |
+| 286 | 12207421984346359674 | 2026-10-07T15:00:00Z | 12 | cdd6ce70a17242f3688faa2bed6de5dc83496bd7fc47a74a4f08afe6d93b1352 | main narrative; active_provisional / PR |
+| 287 | 12207421984402522227 | 2026-10-21T15:00:00Z | 12 | efe816ef39712dd256263ca2524d7010864ccedeefe8eaab3158907469cf6e11 | main narrative; active_provisional / PR |
+
+Printed title pages read 238撃目「なかなか」, 239撃目「きっとうまくいく」 and 240撃目「ヒドーくん」. Publication dates displayed in Japan are respectively September 24, October 8 and October 22. Full locator expansion is `OPM|WEB|provider_episode_id:<ID>|display_label:<web label>|date:<UTC publication date>|page:<N>`; the table supplies the exact ID/date for every shorthand new-page locator.
+
+The [web 285-287 reading](OPM_WEB_285-287_DEEP_READING.md) and [propagation manifest](../08%20Audits%20and%20Manifests/OPM_WEB_285-287_UPDATE_MANIFEST.md) own the new semantic closeout. Every current-release claim is usable now under PR and remains subject to explicit redraw/collection reconciliation.

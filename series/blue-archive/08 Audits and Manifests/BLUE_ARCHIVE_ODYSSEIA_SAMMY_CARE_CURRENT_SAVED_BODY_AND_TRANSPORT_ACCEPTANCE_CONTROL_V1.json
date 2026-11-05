@@ -1,0 +1,138 @@
+{
+  "schema": "CARE_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_20261013_V1",
+  "existing_home": "P3-REL-ODYSSEIA-SAMMY-CARE",
+  "composer": "receive_last16",
+  "role": "Supplemental current controls; original V4 transport6811 and all five existing candidates preserved byte-identically.",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 26647,
+    "sha256": "19a7b0aab2f1096ad798d4a5b237035203190bf9cb1d2b8494a234bcaa062aca",
+    "git_blob_oid_of_actual_bytes": "618974b1a809b5a561be48dee4e76b59af561321",
+    "mode": "100644",
+    "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+  },
+  "complete_claim_register": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+    "bytes": 231191,
+    "sha256": "90e8696639330b8c6bf01f7dcadc5550c175133be2299da290fb2222a1f992d4",
+    "git_blob_oid_of_actual_bytes": "ade0cfb5653cc4d9f75f2c0c2240256311c660f6",
+    "mode": "100644",
+    "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+  },
+  "source20_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+    "bytes": 30556,
+    "sha256": "ade6904c486588f4802e026d779a89e8376d3945f05071cd27c09dde20f6a21a",
+    "git_blob_oid_of_actual_bytes": "d482019a6215e303906123d5d0e98c6793d4a0b9",
+    "mode": "100644",
+    "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+  },
+  "all105_source_specific_target_purpose_judgments": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+    "bytes": 528023,
+    "sha256": "18c37e0659b70d81a38786d60abe96cac301a4147c31fbd3561a0c36cc742325",
+    "git_blob_oid_of_actual_bytes": "9e596410e928e8b13bb1e644c202cdf0ec711afb",
+    "mode": "100644",
+    "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+  },
+  "original_V4_saved_body_and_transport": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+    "bytes": 6811,
+    "sha256": "3d54e43b2b2d47d6f61aad39fbe09cd68b9a54ef6bb9fd9d3e6601c551771cc6",
+    "git_blob_oid_of_actual_bytes": "4a452e2256de2e83cac5a61d15ab23db54ccf8da",
+    "mode": "100644",
+    "role": "Existing exact V4 candidate preserved byte-identically; installation not certified."
+  },
+  "ROOT_current_adoption": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "bytes": 12718,
+    "sha256": "58fa5861fa0cbac6e1ea44d26c838f32ec24c48278e03bcd12982a84cfdf37d2",
+    "git_blob_oid_of_actual_bytes": "767094b5b01342f39364e6653ec06c44b3d64ee4"
+  },
+  "complete_independent_current_review": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json",
+    "bytes": 150777,
+    "sha256": "79e1660b4d67e40d7f35da30a042488c18912ee744d7f71ecf7f442cc9aaf7ea",
+    "git_blob_oid_of_actual_bytes": "e0234fec9e50cd3620ed517f3f87fb63e21fead7"
+  },
+  "complete_exact8_candidate_paths": [
+    "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_ODYSSEIA_SAMMY_DIRECTED_CARE_RELATIONSHIP_SYNTHESIS.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+    "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+    "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_COMPLETE_INDEPENDENT_REVIEW_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_V1.json"
+  ],
+  "original_pending_seams_qualified_without_rewrite": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_OWN20_CONNECTED_NORMALS_AND_SOURCE_SPECIFIC_MEANING_RECEIVING_V1.json",
+      "pointer": "/105_current_relationship_purposes",
+      "dated_value": "IN_PROGRESS; no all105 new-target completion from these20 normal receipts.",
+      "current_qualification": "The complete current105 file and ROOT adoption now supply all105 at report grade; the original20-only creation statement remains historical, and author/source grade is not transferred."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+      "pointer": "/stage",
+      "dated_value": "C_ONLY_COMPLETE_FINITE_TARGET_SPECIFIC_PURPOSE_REPORT_ROOT_RECEIVING_PENDING",
+      "current_qualification": "ROOT current V4 complete105 semantic receiving/adoption is bound above; installation/publication/main still pending."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_COMPLETE_CLAIM_SOURCE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+      "pointer": "/independent_QA_and_ROOT_receiving",
+      "current_qualification": "Creation-state pending language is superseded only for current semantic receiving by the exact public ROOT and complete review derivatives above."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+      "pointer": "/canonical_installation",
+      "dated_value": "PENDING_ROOT_SEMANTIC_RECEIVING_INDEPENDENT_QA_EXACT_PUBLIC_ALLOWLIST_AND_ACTUAL_INSTALLATION",
+      "current_qualification": "ROOT semantic receiving and independent current V4 QA are complete at disclosed grades; exact8 composition final receiving, actual installation/metadata and publication remain ROOT-only pending gates."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/ODYSSEIA_SAMMY_CARE_ALL105_SOURCE_SPECIFIC_TARGET_QUESTIONS_MEANINGS_AND_LIMITS_V1.json",
+      "pointer": "/operative_V4_source_local_purpose_qualification/current_V4_distinct_delta_QA_and_ROOT_final_adoption",
+      "dated_value": "PENDING",
+      "current_qualification": "The bound current V4 review and ROOT adoption supersede only this semantic pending clause; original fields remain intact."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_SAMMY_CARE_SAVED_BODY_AND_TRANSPORT_RECEIPT_V1.json",
+      "pointer": "/operative_V4_source_local_purpose_qualification/current_V4_distinct_delta_QA_and_ROOT_final_adoption",
+      "dated_value": "PENDING",
+      "current_qualification": "The bound current V4 review and ROOT adoption supersede only this semantic pending clause."
+    }
+  ],
+  "counts": {
+    "body_lines": 117,
+    "claims": 41,
+    "dimensions": 11,
+    "source_contexts": 20,
+    "target_purposes": 105,
+    "rivals": 8,
+    "finite_ends": 16,
+    "original_OPEN_gaps": 14,
+    "models": 0
+  },
+  "actual_scope": "All existing5 bytes copied and guarded. Complete ROOT adoption and review decision/grade/finding controls inspected as C reports; no body/105 source re-audit or source semantics credit from composition. Original reviews retain their complete receiving declarations.",
+  "ROOT_final_composition_receiving": "PENDING",
+  "canonical_installation": {
+    "performed": false,
+    "exact8_absence_requirements": "All eight future paths require actual ROOT absence/current-state check; no R check by composer.",
+    "shared_metadata": "PENDING_ROOT_ONLY"
+  },
+  "publication": {
+    "performed": false,
+    "commit": null,
+    "tree": null,
+    "branch": null,
+    "SOURCE": null,
+    "HOUSEKEEPING": null,
+    "FINAL": null,
+    "main_integration": null
+  },
+  "merge_approval": "RESERVED; no new permission from C semantic adoption",
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_primary_native_raw_AV_source_admission_identity_model_package_named_parent_registry_generated_or_milestone_credit": 0
+}

@@ -2,11 +2,11 @@
 title: Manga / Anime Reasoning and Model Routing Policy
 artifact_id: MANGA_ANIME_REASONING_MODEL_ROUTING_POLICY
 artifact_type: reasoning_model_routing_policy
-version: "2.0"
+version: "2.1"
 status: canonical
 scope: corpus-wide cognitive workload classification and model resolution
 created: 2026-08-27
-last_updated: 2026-09-13
+last_updated: 2026-10-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -102,6 +102,8 @@ Apparent contradiction may arise from chronology, unreliable narration, ignoranc
 No amount of reasoning substitutes for a missing source, an inaccessible file, or a perception channel that was never inspected.
 
 ## 5. Current provider snapshot and proposed resolutions
+
+**Snapshot scope (2026-10-15).** This snapshot covers OpenAI products only and was last checked on 2026-09-13; its review prompt (Section 9) has passed, so recheck a product fact below before relying on it. Work run by another provider's agents resolves each reasoning class to a configuration documented for its own environment, records the model and effort at the operation or artifact level (Section 12), and assumes no equivalence to the configurations below. Another provider joins this snapshot only with dated official sources, like the OpenAI entries.
 
 ### 5.1 Officially documented product facts, checked 2026-09-13
 
@@ -282,6 +284,10 @@ These are dated product references, not literary evidence or permanent product g
 - [O5] OpenAI, [ChatGPT Work admin FAQ - Usage and cost](https://learn.chatgpt.com/docs/enterprise/work-admin-faq#usage-and-cost), checked 2026-09-13. Distinguishes shared Work/Codex usage and the shared workspace credit allocation applicable to eligible credit-based agreements.
 
 ## Changelog
+
+### v2.1 - 2026-10-15 - Snapshot scope
+
+States that the provider snapshot covers OpenAI products only and is past its review prompt, and how work on other providers records its configuration until a reviewed snapshot covers them. No class, routing default or product fact changed.
 
 ### Proposal revision 2 - 2026-09-13
 

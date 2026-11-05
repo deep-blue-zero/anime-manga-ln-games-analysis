@@ -2,7 +2,7 @@
   "$id": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/main/governance/schemas/character-reconstruction-capability.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Character Reconstruction Capability Assessment v1",
-  "description": "A future, separately reviewed assessment of what one discovery analysis subject's exact evidence boundary can responsibly support. This schema does not create or populate a production registry.",
+  "description": "One assessment of what one discovery analysis subject's exact, commit-bound evidence boundary can responsibly support. Production records live in characters/reconstruction_capabilities.jsonl under the reconstruction maintenance policy.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -453,9 +453,9 @@
     "Resolve every evidence reference to reviewed evidence on the same analysis subject; leaf, unrelated-subject, and cross-series references fail even for composites.",
     "Validate the full basis_commit against the repository object format and require it to resolve directly to a commit object with available history.",
     "At basis_commit, require regular exact-case non-LFS blobs, current-evidence qualification for REVIEWED, exact raw-blob SHA-256, and the CHARACTER_EVIDENCE_SET_V1 RFC 8785 digest.",
-    "Reevaluate artifact authority and the bounded supersession graph at the comparison commit; changed bytes, evidence membership, scope, or currentness make a reviewed assessment stale.",
+    "Reevaluate artifact authority and the bounded supersession graph at the comparison commit; changed bytes, evidence membership, scope, or currentness make an assessment effectively stale. Effective currentness is derived per comparison snapshot and never stored.",
     "Require assessment supersession links to resolve reciprocally within compatible entity/subject scope and remain acyclic.",
     "Overall tiers are human judgments and must never be mechanically derived from dimension grades."
   ],
-  "x-production-state": "SCHEMA_AND_SPECIFICATION_ONLY; characters/reconstruction_capabilities.jsonl and characters/CHARACTER_RECONSTRUCTION_INDEX.md are deliberately absent until separately authorized."
+  "x-production-state": "ACTIVE_PRODUCTION; characters/reconstruction_capabilities.jsonl is the canonical registry and characters/CHARACTER_RECONSTRUCTION_INDEX.md its generated view. Production rejects UNASSESSED placeholder records and, until the publication gate is ROUTINE, REVIEWED records."
 }

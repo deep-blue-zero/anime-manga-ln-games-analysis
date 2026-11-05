@@ -1,0 +1,255 @@
+{
+  "schema": "youjo-senki/verified-analytical-authority-promotion/v1",
+  "artifact_id": "YOUJO_SENKI_CMR_AUTHORITY_PROMOTION",
+  "artifact_type": "analytical_authority_promotion_receipt",
+  "status": "active_provisional",
+  "canonical_home": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION.json",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "analytical_body_authority": "VERIFIED_ACCEPTED_MAIN_WITH_LIMITS",
+  "native_predecessor_pointers": "VERIFIED_NATIVE_CUTOVER",
+  "certified_event_scope": "Previously accepted analytical tree and completed native cutover only. Later wrapper/receipt publication/integration is determined by exact Git/CI history and final handoff, not self-certified here.",
+  "source_boundary": "Original Japanese LN V01-V14",
+  "created_utc": "2026-10-13T22:56:06.227300+00:00",
+  "accepted_main_proof": {
+    "accepted_main_sha": "813cc91553f99e2de7c357794897bb8c59b2f548",
+    "accepted_source_head": "ba1a2d9ba7678c87c7e8150dc086495aa70e2b5e",
+    "accepted_tree": "376a98db21e0cf145c194b91e20421a766cfe0b9",
+    "source_author_commit": "ba1a2d9ba7678c87c7e8150dc086495aa70e2b5e",
+    "source_audit_run_id": 38473456241,
+    "housekeeping_run_id": 38475002859,
+    "final_source_audit_run_id": 38475048423,
+    "owner_controller_run_id": 38477378313,
+    "exact_main_audit_run_id": 38477488222,
+    "exact_main_full_audit": "SUCCESS",
+    "source_and_main_tree_equal": true,
+    "all_176_path_contents_matched": true,
+    "required_regression_execution": "full",
+    "selection_enabled": false,
+    "discovered_tests": 301,
+    "tests_run": 301,
+    "pull_request": 154
+  },
+  "proof_receipt_hashes": {
+    "FIRST_ACCEPTED_MAIN_INTEGRATION_PROOF.json": "b7041f53c2aa4e92f433495790cea3f8e4fe4b14406e14624f8834ca69b02495",
+    "DRIVE_AUTHORITY_CUTOVER_VERIFIED_READBACK.json": "fd666293e25884a22821fbb5c3bf6068443e8a31aae70e43c18a31bac5d7ab26"
+  },
+  "native_cutover_state": "ALL_SIX_EXISTING_IDS_NATIVE_FULL_RAW_HASH_AND_BODY_PRESERVATION_VERIFIED",
+  "no_name_parent_acl_change": true,
+  "six_native_predecessors": [
+    {
+      "label": "METHOD",
+      "id": "16tMcTb0rZZ7U3gjidf6bzJ-TravNQcCh",
+      "name": "YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "parent_ids": [
+        "1Ul_BbZkw9UkSOrDik3hmWVfcK84WWGvW"
+      ],
+      "before_bytes": 43630,
+      "before_sha256": "405d89789d730ec3ccdff1de020d318dc39c9910b36577d2b3e1f63a52737361",
+      "before_revision": "0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ",
+      "original_substantive_body_sha256": "c943b0ce3867c4952cefb8209766e15a47f482133ad2d68420af17b31e3c45f3",
+      "canonical_git_route": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "candidate_bytes": 44995,
+      "candidate_sha256": "f22e3c66a2e7c39a2c78d2a1c22042407f8e0b50e99bc99013f7644f69f34e99",
+      "remote_bytes": 44995,
+      "remote_sha256": "f22e3c66a2e7c39a2c78d2a1c22042407f8e0b50e99bc99013f7644f69f34e99",
+      "after_revision": "0B24avie5yJngejRIbS9sa250OEdYeDliWXpFSVpuTHNYdkhvPQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngbHg3Uk5tVzE5NXJhYzJONDNVMTFGRWErUURBPQ",
+        "0B24avie5yJngSElKajFBL2hDaFE4Qm9vazUweGdMcldtT3BzPQ",
+        "0B24avie5yJngejRIbS9sa250OEdYeDliWXpFSVpuTHNYdkhvPQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    },
+    {
+      "label": "READINESS",
+      "id": "1LYRzJS4AL6jHAmIAjkaOC-HIWQQdBp51",
+      "name": "YOUJO_SENKI_CHARACTER_RECONSTRUCTION_READINESS_AUDIT.md",
+      "parent_ids": [
+        "1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ"
+      ],
+      "before_bytes": 26319,
+      "before_sha256": "30ace4c0f4a0b03aa003aea8e7377cb1595450bed326451908a59bf13c5c3417",
+      "before_revision": "0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ",
+      "original_substantive_body_sha256": "ed9dd9a46a94eddead7f85c154e5b2027490916e4197a5d24728b22b2bf48542",
+      "canonical_git_route": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CHARACTER_READINESS_REAUDIT.md",
+      "candidate_bytes": 27955,
+      "candidate_sha256": "dc355a7c07f97f36a39d62c97d98a935dcc3da227ed54ac5370d8224da7a5a4e",
+      "remote_bytes": 27955,
+      "remote_sha256": "dc355a7c07f97f36a39d62c97d98a935dcc3da227ed54ac5370d8224da7a5a4e",
+      "after_revision": "0B24avie5yJngaFgrNmNSR2x4MXQ2VElJOHc1c3kwN1JhTGVvPQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngQ3BBWHVLcXRXQXRleW5KWkR2Nis0dzBTdEpzPQ",
+        "0B24avie5yJngaFgrNmNSR2x4MXQ2VElJOHc1c3kwN1JhTGVvPQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    },
+    {
+      "label": "EVIDENCE_README",
+      "id": "1d6vk6xFzkML17mwbUmBrWyxNxftptkv4",
+      "name": "README.md",
+      "parent_ids": [
+        "1aDiFqWjWHZ53xX-lBvjMLfA6eN89Z7SZ"
+      ],
+      "before_bytes": 7294,
+      "before_sha256": "cbb374eb7d6a55602300004bd3dda3a13bc3b773c7db46ee0dfef152aeb38059",
+      "before_revision": "0B24avie5yJngUzQvNVpQY3I4TTRqNlQvOUp3SjdMN1N5Slo4PQ",
+      "original_substantive_body_sha256": "f54f27f63e2d7385070b913fdc9be8ff5e35e0b6fde07e4202b0f9501184d1db",
+      "canonical_git_route": "series/youjo-senki/CMR/README.md",
+      "candidate_bytes": 8900,
+      "candidate_sha256": "0e890f290832f4cca1275de796b832471aa204a3a9eba06558fc7387d21b0205",
+      "remote_bytes": 8900,
+      "remote_sha256": "0e890f290832f4cca1275de796b832471aa204a3a9eba06558fc7387d21b0205",
+      "after_revision": "0B24avie5yJngeUFjWHBkcWZ1MXFWQU4vY3NyeDNlUzYxaERRPQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngUzQvNVpQY3I4TTRqNlQvOUp3SjdMN1N5Slo4PQ",
+        "0B24avie5yJngeUFjWHBkcWZ1MXFWQU4vY3NyeDNlUzYxaERRPQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    },
+    {
+      "label": "MODELS_README",
+      "id": "1VJj8j-KwC2ODJT7mkJcX1zvExrY4Cvl2",
+      "name": "README.md",
+      "parent_ids": [
+        "1AMNfngVWTSm_4O0XadlJjHWjR8hMw21X"
+      ],
+      "before_bytes": 1401,
+      "before_sha256": "b937176e3c85e5b86a88b40e3343b9c66846bbb8d05be5c866464f0eca13e416",
+      "before_revision": "0B24avie5yJngKzBzenBUZTE4WWE1dElxTFFTMjA1KzArVVY0PQ",
+      "original_substantive_body_sha256": "9df47f1e384f689285b34b27e5ebf43f3e677e0c6432579c7f73ccf6894a1ac3",
+      "canonical_git_route": "series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md",
+      "candidate_bytes": 2799,
+      "candidate_sha256": "df71515b379c300d1ab870868eff4d865bdf0ade03433614cc3ac9a912942aeb",
+      "remote_bytes": 2799,
+      "remote_sha256": "df71515b379c300d1ab870868eff4d865bdf0ade03433614cc3ac9a912942aeb",
+      "after_revision": "0B24avie5yJngSkJBVmxRTzQwRlJOc1FMd1RpOC9nNS8xZ0drPQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngKzBzenBUZTE4WWE1dElxTFFTMjA1KzArVVY0PQ",
+        "0B24avie5yJngSkJBVmxRTzQwRlJOc1FMd1RpOC9nNS8xZ0drPQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    },
+    {
+      "label": "RELATIONS_README",
+      "id": "1B9k4mqImDwLNhZz4jrbXi85h5fSsN7dP",
+      "name": "README.md",
+      "parent_ids": [
+        "1TomsYaw1BmQMRp-JuMils2PeHzl375uo"
+      ],
+      "before_bytes": 1160,
+      "before_sha256": "4149b405131c6752d343badea04ec7f83d1c231e9d328e2292009740fc665bf0",
+      "before_revision": "0B24avie5yJngZS9mNlBjVStKbGNxekhzN2U5OURHbVdrblZjPQ",
+      "original_substantive_body_sha256": "11180a9407cbc2603e099d25e75c2fb9aceba457f9e82d1749acbdd8e50e7e95",
+      "canonical_git_route": "series/youjo-senki/CMR/Relations/YOUJO_SENKI_DIRECTED_RELATIONSHIP_REGISTER.md",
+      "candidate_bytes": 2610,
+      "candidate_sha256": "c5e474b39a72d85643b85a9ae4f2d7b2b739fa38269eed501cb0924872e089f0",
+      "remote_bytes": 2610,
+      "remote_sha256": "c5e474b39a72d85643b85a9ae4f2d7b2b739fa38269eed501cb0924872e089f0",
+      "after_revision": "0B24avie5yJngUUQ5aWUrdlBNM214dWgwcWtwby9HdFQrWW44PQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngZS9mNlBjVStKbGNxekhzN2U5OURHbVdrblZjPQ",
+        "0B24avie5yJngUUQ5aWUrdlBNM214dWgwcWtwby9HdFQrWW44PQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    },
+    {
+      "label": "QA_README",
+      "id": "1Z7UPnnWeFoO2tpXxv1NfvWtcMkPwt63V",
+      "name": "README.md",
+      "parent_ids": [
+        "1dPqF3RjqawccCi8LA59QVMXsp2KDvH63"
+      ],
+      "before_bytes": 1224,
+      "before_sha256": "43a09f35d735cd04edff32e127cc843e0b3d6626ade794687c1c29f6a06263b1",
+      "before_revision": "0B24avie5yJngRUZXb3M3T1FqTTFJWXNiNk54cm54bVdyamw4PQ",
+      "original_substantive_body_sha256": "3aecd568837a11528821b238c66bc4039dce226265e81c137db477e7cd753591",
+      "canonical_git_route": "series/youjo-senki/CMR/QA/YOUJO_SENKI_ENSEMBLE_CONSISTENCY_QA.md",
+      "candidate_bytes": 2618,
+      "candidate_sha256": "f3f5a9b34a558b128c5305e056570050253a32ce5d726d9525b49f2168d95ce5",
+      "remote_bytes": 2618,
+      "remote_sha256": "f3f5a9b34a558b128c5305e056570050253a32ce5d726d9525b49f2168d95ce5",
+      "after_revision": "0B24avie5yJngdFNkd1lWaVRVYzlnN2RxVWxJc3BTWElwNFlVPQ",
+      "retained_revision_ids_after": [
+        "0B24avie5yJngRUZXb3M3T1FqTTFJWXNiNk54cm54bVdyamw4PQ",
+        "0B24avie5yJngdFNkd1lWaVRVYzlnN2RxVWxJc3BTWElwNFlVPQ"
+      ],
+      "metadata_and_banner_only_exact_inverse": true,
+      "original_body_exactly_preserved": true
+    }
+  ],
+  "accepted_original_wrapper_bindings": [
+    {
+      "path": "series/youjo-senki/CMR/Methods/YOUJO_SENKI_CHARACTER_MODELING_REFERENCE_METHOD.md",
+      "before_bytes": 46350,
+      "before_sha256": "3a32d7c4611e2b216e3283e4b6a7b6234e036ed005dd1fdb81e1902c2aab28c2",
+      "protected_substantive_suffix_sha256": "c4429b93bf8999adc0d96a106a7d60551a8b8b08cf5f56b55d2f8f39e2edf8c5"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR1_READINESS_BASELINE.md",
+      "before_bytes": 28910,
+      "before_sha256": "8561999c94fefa68f497d527c14895b41e29ecbc51a67843c4772b61bb1ee13e",
+      "protected_substantive_suffix_sha256": "c54277b69af9cf5e94f5b1e844225150dd0e10ced98fccd450111fd6798d8226"
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_PORT_AUDIT.md",
+      "before_bytes": 16964,
+      "before_sha256": "23ad74b5d6fabaf8e985d4498f3fef7e75f06474b03b87978da2d485b9d65b1d",
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/README.md",
+      "before_bytes": 8372,
+      "before_sha256": "35adb2cf2e38c46b3ff33d8d35c22d87a9e7a960df0e458e0bc374a5c9d61fe6",
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_bytes": 25416,
+      "before_sha256": "79785e4623ea8ec4343ccdebb2264d5bd14b766e04740d8f5c81c0d7d337e59c",
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/YOUJO_SENKI_MODEL_AND_SOURCE_NAVIGATION.md",
+      "before_bytes": 17840,
+      "before_sha256": "52d9b58248b9d476d34560c1ffcf9cf35dc96d86baa52b83610419c74d74ce23",
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_COMPLETED_MODEL_NAVIGATION.jsonl",
+      "before_bytes": 62486,
+      "before_sha256": "6aa22a7123a7cbd3d8c204121b95c2476fb2aede3baaca4a7f471d881cc8f48a",
+      "protected_substantive_suffix_sha256": null
+    },
+    {
+      "path": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_COMPLETION_REVIEW.md",
+      "before_bytes": 5900,
+      "before_sha256": "b7bc574454b23b0dc799f35c826d22a1bb6ff68172b81f3f41ec9dc7031d628f",
+      "protected_substantive_suffix_sha256": null
+    }
+  ],
+  "accepted_analytical_delivery_manifest": {
+    "route": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_DELIVERY_MANIFEST.json",
+    "sha256": "683cf9cd7c9a0cc721c104e8cba5c3c1b464fe64fd9a9bf3ca02b9412c9bbc04",
+    "role": "Frozen previously accepted analytical package, not later wrapper current hashes"
+  },
+  "final_current_delivery_manifest": {
+    "route": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_FINAL_DELIVERY_MANIFEST.json",
+    "role": "Root-owned final-current wrappers/authority/current-package manifest; its hash is bound by Git/root publication receipts without a circular self-hash"
+  },
+  "preservation": {
+    "original_method_and_initial20_readiness_substantive_bodies": true,
+    "initial25_and_sourceappend12_and_original_delivery_manifest": true,
+    "all29_models_indices_QA_classes_ceilings_V2_global_files": true,
+    "new_primary_or_reserve_access": false,
+    "new_behavior_confidence_blind_or_empirical_score": false,
+    "construction_QA_headers_mass_rewritten": false
+  },
+  "wrapper_patch_trace_route": "series/youjo-senki/CMR/Provenance/YOUJO_SENKI_CMR_AUTHORITY_PROMOTION_WRAPPER_PATCH_TRACE.json"
+}

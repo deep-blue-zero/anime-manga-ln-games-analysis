@@ -3,7 +3,7 @@ series: TOMOZAKI
 artifact_type: source_lock_and_inventory
 scope: JP_LIGHT_NOVEL_EPUB_CORPUS
 source_audit_date: 2026-08-29
-generation: V0.1
+generation: V0.3
 status: canonical
 release_state: mutable_active
 ---
@@ -34,6 +34,8 @@ The audit identifies the series as:
 The normalized English filename is an inventory label only. Source semantics remain Japanese.
 
 ## 3. Inventory lock
+
+The following counts preserve the historical **2026-08-29** audit. The additive V12 record in §4.1 defines the subsequently admitted increment.
 
 | Class | Count / state |
 |---|---:|
@@ -71,15 +73,42 @@ The audit manifest is the canonical per-file checksum, old-name/new-name, embedd
 
 The Drive file IDs above identify the currently enumerated folder objects. The audited SHA-256 values in `audit_manifest.json` remain the byte-identity authority.
 
+## 4.1 Additive V12 admission — 2026-10-22
+
+The owner has authorized the final numbered source increment, V12 only. This record adds one witness to the unchanged 2026-08-29 inventory above; it does not replace that audit, its manifest, the thirteen prior witness identities, or their prospective reading states.
+
+| V12 provenance / integrity field | Admitted state |
+|---|---|
+| Japanese title | `弱キャラ友崎くん Ｌｖ．12` |
+| Normalized filename | `Bottom-Tier Character Tomozaki - Volume 12.epub` |
+| Drive file ID | `1JiEphan-hEtNiyBRIooarYbjoaDcerFh` |
+| Source routing | Selected local witness; the associated Drive object is identified above |
+| Selected evidence witness | Verified local EPUB, identified by normalized filename and the checksum below |
+| Verified local byte size | 10,165,455 |
+| Owner-approved local SHA-256 | `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c` |
+| Metadata-only integrity inspection | ZIP CRC PASS, 79/79 members; EPUB 3 package, 75 manifest items, 42 spine items, 26 JPEG assets |
+| Drive verification limit | Metadata inspected; remote payload bytes have not been retrieved and independently hashed. Drive metadata alone does not establish identity with the selected local witness. |
+| Narrative and image inspection | **ADMITTED / UNREAD**; no prose, substantive preview, illustration, or story-bearing supplemental content consulted for this admission record |
+| Execution authorization | `continuous_sequential`; `authorized_start: V12`; `terminal_boundary: V12`; no other narrative admission |
+| Completed analytical high-water mark | **V11 plus separately routed V06.5/V08.5**, unchanged |
+
+The local checksum was independently recomputed and is the value explicitly approved by the owner for this transaction. The project-local V12 source audit owns the detailed checksum-discrepancy and package-verification receipt. The October 22 propagation records do not replace independent byte verification of any later retrieved remote payload.
+
+The current admitted source boundary is therefore fourteen EPUB witnesses: main V01–V12 plus separately routed V06.5 and V08.5, retaining the V07 Special Edition distinction. Only the thirteen prior witnesses have completed source-facing readings at this entering checkpoint. Before V12 narrative or image consultation, freeze the entering V11 claims, predictions, alternatives, actor knowledge, and open questions. V12 completion requires the complete source transaction and affected cumulative-owner updates; admission does not advance that high-water mark.
+
+### 4.2 V12 subsequent consultation and atomic completion candidate — 2026-10-22
+
+The admission table above preserves the entering checkpoint. Subsequent consultation of the same owner-approved c7c local witness covered all 42 linear spine members, 5,244 all-HTML paragraphs/5,255 body units, all 26 actual images, nonspine navigation and full afterword/profile/colophon; eleven publisher advertising pages supply no new narrative. The [V12 reading](../02%20Sequential%20Readings/TOMOZAKI_V12_DEEP_READING.md) and [completion audit](../08%20Audits%20and%20Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md) own the source-facing result and six-owner/repository gate receipt. No raw Drive payload identity, new source witness or successor after-story is inferred. Historical thirteen-witness identities and admission provenance remain unchanged.
+
 ## 5. Main-chain routing
 
 The prospective numbered reading chain is:
 
-`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11`
+`V01 → V02 → V03 → V04 → V05 → V06 → V07 → V08 → V09 → V10 → V11 → V12`
 
 Repository deep-reading filenames should use:
 
-`TOMOZAKI_V01_DEEP_READING.md` through `TOMOZAKI_V11_DEEP_READING.md`.
+`TOMOZAKI_V01_DEEP_READING.md` through `TOMOZAKI_V12_DEEP_READING.md`. The earlier V12 admission was unread at its entering checkpoint. The current V12 completion candidate and certification limits are routed in §4.2 and the canonical map.
 
 Volumes V06.5 and V08.5 are available source witnesses but are not silently inserted into the integer-numbered chain. Their analytical placement must be explicitly decided from publication/diegetic context before consultation, then recorded without rewriting earlier prospective freezes.
 
@@ -113,7 +142,7 @@ The V04/V11 findings are **packaging-structure warnings, not evidence that the b
 
 For a numbered deep reading:
 
-1. identify the exact normalized filename, Drive file ID, and audited SHA-256 from `audit_manifest.json`;
+1. identify the exact normalized filename, Drive file ID, and audited SHA-256 from `audit_manifest.json`, or from the explicit additive admission record for a later witness;
 2. analyze the Japanese text;
 3. if extraction or text conversion is used, preserve enough provenance to return to the EPUB passage;
 4. use illustrations as evidence only when actually reviewed and relevant;
@@ -124,9 +153,9 @@ For wording-sensitive claims, preserve the Japanese expression and enough local 
 
 ## 9. Current exclusions / not-yet-integrated material
 
-This lock contains only the audited 13 EPUB objects described above. It does not by itself establish presence or authority for:
+This lock contains the historical thirteen audited EPUB objects and the separately admitted V12 local witness in §4.1. It does not by itself establish presence or authority for:
 
-- Volume 12 or any later numbered volume;
+- numbered prose after V12 or future after-stories;
 - anime adaptations;
 - manga adaptations;
 - official or unofficial translations;

@@ -1,0 +1,157 @@
+{
+  "schema": "konosuba.cohort31.original-first-output-annotations.v1",
+  "subject": "Otohime",
+  "annotated_utc": "2026-10-24T07:03:35.582686+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "exact_input_freeze_sha256": "71f913686f4a131dd2dcd9bfc0517656548784e395b0e4ec94aeba984da4eb24",
+  "first_body_freeze_sha256": "4e1d327748846046c95b99b79415d14f73693082ce85e615433d24e623bcbedd",
+  "scenario_inputs_sha256": "1c890b8e752c3b1dbf4549c92fd70b2396077e6b255ed5001e7338e1728c5890",
+  "first_outputs_sha256": "fa8ce99190e555b09f1fc39fff3650f344faf952049bf862fff046e5205da59f",
+  "cases": [
+    {
+      "case_id": "OT-H01-A",
+      "pair_id": "OT-H01",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "first_body_sha256": "f96e820eb701e582777cbc046edfdb5a2296b69f7cc82d8919413ff5d5ef123e",
+      "observed_rendering": "Names fear and narrow margin,declares available redirection without claiming damage already taken.",
+      "retained_limitation_or_failure": "A calculated affordance is stipulated;this is not evidence of independently generated costly care or a rulebook result.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Stipulated arithmetic strongly cues a generic choice and does not isolate fear,care,pact or optimal tank play. The counterfactual is not a new source outcome or a rulebook certification.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H01-B",
+      "pair_id": "OT-H01",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "first_body_sha256": "b7883184267d4a24c6c0b1fe6d0891d2afe887368cc8feb16c85b56a51c93c4d",
+      "observed_rendering": "Declines to declare lethal-cost Covering and leaves hesitation visible without magical rescue.",
+      "retained_limitation_or_failure": "The quoted survival-promise language renders the known source premise,not a verbatim new prior line. Exact survival preference outside this controlled setup remains uncertain.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Stipulated arithmetic strongly cues a generic choice and does not isolate fear,care,pact or optimal tank play. The counterfactual is not a new source outcome or a rulebook certification.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H02-A",
+      "pair_id": "OT-H02",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "first_body_sha256": "685723fc3bcf9b21fb6c214e8d152cdc93f2cbe3ed8ea4b16eddd847e96f24d2",
+      "observed_rendering": "Recognizes restricted terms,separates money and considers asking separately for comfort.",
+      "retained_limitation_or_failure": "The prospective request is unperformed. Explicitly careful ownership handling may be author-imposed prudence rather than a demonstrated stable Otohime practice;original retained.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Loan/gift terms directly constrain permissible spending; respecting them is generic constraint following and cannot establish selflessness. No repayment,purchase or assent beyond the stated terms may be invented.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H02-B",
+      "pair_id": "OT-H02",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "first_body_sha256": "667cf51c4ce0436d6eb953130f63e853e1993e314aa27b1cb49379a058fcf8bc",
+      "observed_rendering": "Plans both purchases and explains comfort as readiness;no items or future protection supplied.",
+      "retained_limitation_or_failure": "Gift terms supply permission;the safety rationale is a character claim,not a finding that a better bed causes protection or that older debts are settled.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Loan/gift terms directly constrain permissible spending; respecting them is generic constraint following and cannot establish selflessness. No repayment,purchase or assent beyond the stated terms may be invented.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H03-A",
+      "pair_id": "OT-H03",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "first_body_sha256": "58e415764448b00f7f8f9e280776a91a70075bbfa272da5558606ccf7ead11ee",
+      "observed_rendering": "Begins willing explanation of fear/preparation and takes unused scrolls out for consideration.",
+      "retained_limitation_or_failure": "Detailed feared-failure account is a source-informed extrapolation,not a new fact supplied by this scene. The scene does not establish scroll cost or usage;none is claimed performed. Source echo limits discrimination.",
+      "constraint_disposition": "GENERATED_MOTIVE_EXTRAPOLATION_RETAINED_NOT_NEW_EVIDENCE",
+      "prompt_design_limit": "Willingness is stipulated,so the exercise tests conditional rendering and restraint rather than discovering it. The known counseling source and visible pair invite reconstruction/cueing.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "OT-H03-B",
+      "pair_id": "OT-H03",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "first_body_sha256": "608e2b54158a6fa0724def18e0dbb5f3b6917d631bc3fcc3aeadfcb377ede6e9",
+      "observed_rendering": "Retains refusal,recognizes unresolved concern and keeps scrolls unused without confessional reversal.",
+      "retained_limitation_or_failure": "Reflective boundary speech is plausible fiction,not a clinically effective intervention or a repeated source outcome. General instruction following can explain it.",
+      "constraint_disposition": "BOUNDED_RENDERING_WITH_SOURCE_AND_DESIGN_LIMITS_NOT_VALIDATION",
+      "prompt_design_limit": "Willingness is stipulated,so the exercise tests conditional rendering and restraint rather than discovering it. The known counseling source and visible pair invite reconstruction/cueing.",
+      "original_unchanged": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "OT-H01",
+      "case_ids": [
+        "OT-H01-A",
+        "OT-H01-B"
+      ],
+      "observed_contrast": "At15HP he declares Covering with five expected to remain;at5HP he hesitates/does not declare it and names the survival limit. Neither hit is narrated as resolved.",
+      "rivals_and_unresolved_branches": "The exact arithmetic,promise and absence of fallback nearly supply the decision. Fear,care,optimal play and resource protection are not separated. One scenario does not establish that every future danger is answered by the same cutoff.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "OT-H02",
+      "case_ids": [
+        "OT-H02-A",
+        "OT-H02-B"
+      ],
+      "observed_contrast": "Restricted loan produces separated40/60and a possible separate request;unrestricted gift produces a plan for both scroll and bed,with readiness rhetoric.",
+      "rivals_and_unresolved_branches": "Terms directly authorize the changed spending plan. A conscientious handling of earmarked money is not source-established stable behavior;source has no comparable restricted-loan trial. No purchases,return of money or new consent are performed.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    },
+    {
+      "pair_id": "OT-H03",
+      "case_ids": [
+        "OT-H03-A",
+        "OT-H03-B"
+      ],
+      "observed_contrast": "Willing branch produces an explanation and consideration of scrolls;refusal branch leaves them unused and retains the unresolved concern.",
+      "rivals_and_unresolved_branches": "Willingness is stipulated,not predicted. A echoes the known counseling account and supplies a specific fear explanation beyond this scene stated content. No actual800KE expenditure,new private conversation,recipient response or repair occurs.",
+      "dependent_pair_not_independent_cases": true,
+      "behavioral_success_score": null,
+      "confidence_gain": 0
+    }
+  ],
+  "method_limits": [
+    "Same informed root authored source interpretation,models,all exact visible contrasts,all first responses and these annotations.",
+    "No external model call,blind judge,unseen source,independent observer,accuracy estimate,grade or confidence gain.",
+    "All26firsts meet80-140word budget;that is format compliance,not behavioral success. Responses share105-115word range and audit-like restraint,which can suppress source-specific errors and flatten voice.",
+    "Each response repeatedly states what did not happen,reflecting the contract and author controls. A guarded ending is not an independently discovered character behavior.",
+    "Stipulated permission,resources,domain,eligibility and willingness often nearly supply the intended distinction;generic instruction following remains a strong rival.",
+    "Local consistency cannot establish every branch of a rule,stable moral improvement,Japanese voice or final nine-category transfer."
+  ],
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "original_firsts_repaired": false,
+  "frozen_models_revised": false,
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

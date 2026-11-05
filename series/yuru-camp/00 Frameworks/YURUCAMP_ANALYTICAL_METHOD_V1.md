@@ -3,7 +3,12 @@ title: "Yuru Camp Analytical Method v1.0"
 series: "ゆるキャン△ / Yuru Camp△"
 document_type: "governing_method"
 version: "1.0"
-status: "proposed"
+artifact_type: analytical_method
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+authority_metadata_reconciled: "2026-10-17"
 primary_medium: "manga"
 primary_language: "Japanese"
 primary_source_priority:
@@ -16,6 +21,10 @@ core_principle: "Description first; pattern second; interpretation third; theme 
 ---
 
 # Yuru Camp△ Analytical Method v1.0
+
+## Authority maintenance — 2026-10-17
+
+The legacy `proposed` workflow label is reconciled to `canonical`: this is the existing V1 method actually used by the accepted V01–V15 corpus, not a new analytical generation. Its identifier, substantive method, and historical version title remain intact. The current entrypoint is `../CURRENT_STATE_AND_CORPUS_MAP.md`. The series-local `YURUCAMP_CHARACTER_RECONSTRUCTION_SPEC.md` adds a future behavioral-reconstruction contract without replacing literary analysis.
 
 ## 1. Purpose
 
@@ -860,6 +869,8 @@ Not every section must be equally long.
 ---
 
 # 27. Cumulative ledgers
+
+The ten classes below are continuing analytical responsibilities. Their physical consolidation schedule is governed by synthesis-architecture §6. The authorized `V01–V15_RETROSPECTIVE_LEDGER_BACKFILL` advances five core standalone ledgers; the other five remain in identified volume/checkpoint sections until their specified retrieval dependency justifies consolidation. This clarifies the original deferral rather than declaring earlier work missing.
 
 Maintain at least:
 

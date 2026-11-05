@@ -1,0 +1,1686 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_SIX_PILOT_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete original semantic values and raw byte identities. Historical statuses, pending gates and scratch strings retain their original meaning; current acceptance is resolved through the main catalog, never by executing historical routes.",
+  "records": [
+    {
+      "record_id": "reviewA.FINAL_THREE_PERSON_REVIEW.md",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FINAL_THREE_PERSON_REVIEW.md",
+        "bytes": 5056,
+        "sha256": "35b59029051a8eeeec74c27d5aca7f632b76b4fa52b1cd52738e4c79f0596b31"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "9cf82ce921769ae5513f7db63aaf31dcf29628cd8ae622f985de1536279656be",
+      "value": "# Independent review A — Narita, Takei and Nakamura\n\nPASS bounded semantic and selective Japanese-text/register review for all three exact V1 prose-model candidates. No material defect or narrow correction is requested. This is independent model review at the admitted person/era/domain boundaries; root still owns acceptance, canonical authority and publication. No global capability, calibration or blind prediction grade is awarded.\n\n| Candidate | Bytes | SHA-256 |\n|---|---:|---|\n| Narita/Gumi V1 | 10,391 | `d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550` |\n| Takei V1 | 10,390 | `51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894` |\n| Nakamura V1 | 11,528 | `71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932` |\n\nThe first pair's complete review, mechanisms, actual read scopes and12 independent challenge traces remain preserved in FIRST_PAIR_REVIEW.md and its seal. Their payloads and shared packet/preregistration are unchanged. Nakamura's complete86-line candidate and all4 producer NS traces were subsequently acquired. The other reviewer's Konno body/trace responsibility is not silently counted as reviewed here.\n\nNakamura's operational mechanisms are evidence-faithful: SM1 separates practice, defeat and recognition; SM2 keeps particular attachment with reassurance costs; SM3 lets roughness support hosting/friendship without charm or infidelity claims; SM4 separates friendship from specified cooperation; SM5 accepts V12 participation without filling the unshown interval; SM6 restricts the family route to attributed retrieval. Finite selectors keep opponent/friend, Yuzu care, supplemental private access, V11 refusal and V12 local participation separate. Ordinary positive ends—matches, being taken seriously, entertaining guests, shared history and birthday work—remain substantive. The model rejects both all-pride caricature and a linear redemption story.\n\nAll six independently frozen Nakamura challenges were manually applied, bringing this review to18 independent challenge traces. Their actual outputs preserve early effort/care, recipient contrast, private Yuzu access, V11 injury/partial knowledge, unshown V12 reconciliation and unsupported adulthood. Known-corpus checks knowingly use already exposed episodes; synthetic constraints have no canonical truth label. Multiple plausible bounded responses remain allowed. No numerical accuracy, hidden holdout or separate executable-persona run is claimed.\n\nI also checked the twelve complete producer traces for the three assigned people. Inputs/selectors, evidence exposure, actual outputs, field abstentions and observed-error statements remain attributable. I found no semantic/register violation or suppressed failed attempt within the acquired evidence. A producer's statement that no error was detected is not itself the independent result; it was compared with the complete models, actual outputs and personally acquired dossiers/owner windows.\n\nJapanese-text/register scope is selective and explicit. Current outputs describe communicative acts rather than generate Japanese dialogue. Narita's playful/slack familiar exchanges remain compatible with a small local refusal and ignorance; Takei's energetic/surname/loudness evidence retains occlusion and cannot produce Yuzu's lost sentence; Nakamura's direct/rough/joking/terse care varies by recipient and never becomes a hidden-kind-self code or fixed insult vocabulary. No new exact form, frequency-complete idiolect, independently heard acoustic profile or dialogue-imitation validation is certified. Model constraints preserve actual inward/spoken, private/actor and authored/real boundaries.\n\nIdentity checks bind all first/second slice payloads, shared dependencies and actual model/trace joins. The28 declared dependency snapshots previously replayed against their actual Git commits; all16 protected-route records equal the adopted fixed register. The dependency packet and preregistration still have their original hashes. No source escalation was needed: no concrete material contradiction requiring an additional primary scene was identified. All source-locator and prior Japanese consultation scopes remain inherited, not relabeled fresh novel or pixel reading.\n\nIndependent pre-exposure criteria remain22,434 bytes/SHA-256 `b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67`. They were frozen before any producer model was opened and were not rewritten to match outputs. All18 challenge records, complete-model scopes, producer-trace scopes and no-error/no-repair findings are separate scratch evidence. Models remain nonprimary and cannot feed their new SM/TM/NM hypotheses back as literary evidence.\n\nNo canonical, Git/ref/index, source, global grade, producer output or old sealed report was modified. This review's completion does not complete the separate principal sufficiency task: Fumiya/Hinami monographs are fully acquired; Kikuchi only lines1–85; relevant principal dyad/owner windows still remain before principal findings.\n"
+    },
+    {
+      "record_id": "reviewA.FINAL_THREE_PERSON_REVIEW_SEAL.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FINAL_THREE_PERSON_REVIEW_SEAL.json",
+        "bytes": 3767,
+        "sha256": "257b3b2c399ce591fc6ba052350c26703bd851c596dfb679801c60d5b7779619"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "8bf8f66cda6710606edd7d4615a06946e09c5dc95c7b06f34ddf0d2bcbd71c0e",
+      "value": {
+        "schema": "tomozaki_independent_review_A_three_person_final_seal/v1",
+        "status": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_REGISTER_NO_ROOT_ADOPTION",
+        "utc": "2026-11-04T01:49:10.253017+00:00",
+        "models": [
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11528,
+            "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+          }
+        ],
+        "files": [
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+            "bytes": 22434,
+            "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\PREPARATION_READ_SCOPE.json",
+            "bytes": 3816,
+            "sha256": "81fd535a16f8f4dd69569cd8a83bd6211aca994c9fb39146f0b3a1a9b306ca55"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\PREPARATION_SEAL.json",
+            "bytes": 706,
+            "sha256": "a44c956f5a597ca9bb7bcf8088d02d1e197c508c4e52bedbfb9cef76ff3e17bb"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_REVIEW.md",
+            "bytes": 4551,
+            "sha256": "7bf5629ae8345b94b5c47af32270a09c4831baf57d6e472d52d624a8222721d4"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_REVIEW_SEAL.json",
+            "bytes": 1715,
+            "sha256": "87c276e99c6dab3f923a96c69f0101eca9c50c6cff564b804ea1d4a7c175e8b1"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+            "bytes": 29952,
+            "sha256": "b47e1cf7f8d18581ede36fa7b9c2ddb62682ba76bc14f1f4d16bec4b4749ee6e"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_IDENTITY_AND_SCOPE_REPLAY.json",
+            "bytes": 8024,
+            "sha256": "d72403ad8220451d154fbbd4d65cf464c82e3ee3047421d75ad7994a36b974c9"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_PROTECTED_ROUTE_REPLAY.json",
+            "bytes": 506,
+            "sha256": "92ee8058535743652bcf2e1a5af47826e0769ddeef8be8e2203d0292227853eb"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\NAKAMURA_INDEPENDENT_CHALLENGE_TRACES.json",
+            "bytes": 15170,
+            "sha256": "77e900c1cee96f7ff41780ad74ef0033d095dd2a29f3f1d76e6a062cbcc3da60"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\NAKAMURA_IDENTITY_AND_SCOPE_REPLAY.json",
+            "bytes": 2177,
+            "sha256": "8a8ace91964138a725f3e6cf43a507f1438f7975b85690e982d4b2becb34eac2"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FINAL_THREE_PERSON_REVIEW.md",
+            "bytes": 5056,
+            "sha256": "35b59029051a8eeeec74c27d5aca7f632b76b4fa52b1cd52738e4c79f0596b31"
+          }
+        ],
+        "actual_model_reads": "FULL80/77/86lines respectively",
+        "actual_producer_trace_reads": 12,
+        "actual_independent_challenge_traces": 18,
+        "material_errors_found": 0,
+        "repairs_requested": 0,
+        "Japanese_dialogue_generated": false,
+        "blind_or_accuracy_claim": false,
+        "capability_grade": null,
+        "owner_calibration_acceptance": null,
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.FIRST_PAIR_IDENTITY_AND_SCOPE_REPLAY.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_IDENTITY_AND_SCOPE_REPLAY.json",
+        "bytes": 8024,
+        "sha256": "d72403ad8220451d154fbbd4d65cf464c82e3ee3047421d75ad7994a36b974c9"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "9dfb1ee0b743cdce00ff9a5d209d63c804099787cf3d90f32d4ce5388b901ad2",
+      "value": {
+        "schema": "tomozaki_independent_review_A_first_pair_identity_scope/v1",
+        "status": "PASS_SCOPED_REVIEW_EVIDENCE_NOT_ROOT_ADOPTION",
+        "slice_identity": {
+          "path": ".scratch\\constructed_pilot_models_20261103\\FIRST_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+          "bytes": 2313,
+          "sha256": "407acb798c40e649e613e5a862b13874946b047596c104f16bbbb8ac8537c657"
+        },
+        "all7_slice_payloads_exact": true,
+        "payload_checks": [
+          {
+            "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "FIRST_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "match": true
+          },
+          {
+            "path": "TOMOZAKI_PILOT_MODEL_DEPENDENCIES.json",
+            "match": true
+          },
+          {
+            "path": "CONSTRUCTION_INPUT_AND_AUTHORIZATION_RECEIPT.json",
+            "match": true
+          },
+          {
+            "path": "PREREGISTERED_TESTS.md",
+            "match": true
+          },
+          {
+            "path": "PREREGISTRATION_FREEZE.json",
+            "match": true
+          }
+        ],
+        "all28_dependency_snapshot_identities_exact": true,
+        "dependency_checks": [
+          {
+            "path": "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "snapshot_commit": "164a593d8ee6998cf735442d855135ababfee497",
+            "match": true
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+            "snapshot_commit": "b498a20457e4debeb70895fca8ebd37717e91017",
+            "match": true
+          }
+        ],
+        "all8_producer_trace_model_bindings_exact": true,
+        "complete_model_reads": {
+          "Narita": [
+            1,
+            80
+          ],
+          "Takei": [
+            1,
+            77
+          ]
+        },
+        "complete_producer_trace_reads": "ALL8 full records including actual outputs/abstentions/error fields",
+        "complete_producer_preregistration_read": {
+          "path": ".scratch\\constructed_pilot_models_20261103\\PREREGISTERED_TESTS.md",
+          "bytes": 14655,
+          "sha256": "97fe862127b5a408fdb7874ccb0365ab4b43480b85850a5f4e7ec4a3323ffa62"
+        },
+        "dependency_packet_read_scope": "Full unique frame/all28 identity declarations + three relevant complete person joins; repeated16 protected records bound mechanically, not a fresh semantic read of all dependent files.",
+        "independent_trace_file": {
+          "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+          "bytes": 29952,
+          "sha256": "b47e1cf7f8d18581ede36fa7b9c2ddb62682ba76bc14f1f4d16bec4b4749ee6e"
+        },
+        "preregistration_unchanged": true,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "canonical_write": false,
+        "git_write": false
+      }
+    },
+    {
+      "record_id": "reviewA.FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 29952,
+        "sha256": "b47e1cf7f8d18581ede36fa7b9c2ddb62682ba76bc14f1f4d16bec4b4749ee6e"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "a9dfc5526933d7a5c4568ef23746388a93f6a1c5e993ff2b17778a751a740c4a",
+      "value": {
+        "schema": "tomozaki_independent_review_A_first_pair_challenge_traces/v1",
+        "utc": "2026-11-04T01:42:31.078047+00:00",
+        "preregistration": {
+          "path": ".scratch\\pilot_model_independent_review_a_20261103\\PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+          "bytes": 22434,
+          "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+        },
+        "immutable_candidates": [
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          }
+        ],
+        "challenge_count": 12,
+        "actual_independent_traces": [
+          {
+            "challenge_id": "A-N01",
+            "test_class": "retrospective_known_corpus",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N01",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V05 quiet workplace episode; NT-E03",
+              "recipient_and_standing": "Mizusawa coworker; Fumiya present",
+              "information_explicitly_available": "Shared consultation account is relayed; Fumiya concern is inward.",
+              "challenge_input": "Explain the coexistence of her low-effort self-account and washing glasses with Mizusawa. State whether Fumiya has reprimanded her for the relay.",
+              "evaluation_constraints": [
+                "Allow competent routine action without secretly industrious conversion.",
+                "Do not invent heard reprimand, deliberate secrecy breach or repaired confidentiality."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "NT05_QUIET_SHIFT; NM1/NM4",
+            "actual_output": "Coordinated washing continues in a quiet manageable shift while familiar banter/relay can occur. Work is compatible with wanting an easier life; neither refusal nor secret love of exertion follows.",
+            "actual_abstention_and_negative_controls": "Fumiya concern stays reader-only. No heard reprimand, prior secrecy agreement, malicious intent or later repair is reconstructed.",
+            "evidence_and_model_lines": "NT-E03; dossier64/100–104; model35/58/61/74",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-N02",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N02",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "Represented V04 consultation state; new unobserved classmate question",
+              "recipient_and_standing": "Fumiya seeking advice",
+              "information_explicitly_available": "He reports an unfamiliar person declining a tiresome task; no other person-specific history.",
+              "challenge_input": "Use the admitted model to discuss possible cost/return considerations, then identify that person’s exact hidden desire.",
+              "evaluation_constraints": [
+                "General analogy may remain conditional.",
+                "Abstain on exact motive; do not make Narita a mind-reading oracle or endorse covert intervention."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "NT04_WORK_ADVICE; NM3",
+            "actual_output": "A local explanation may compare how demanding the task feels with an attractive return, explicitly as a hypothesis from Fumiya’s report. That can be usable advice without giving him authority to engineer the target.",
+            "actual_abstention_and_negative_controls": "Exact hidden desire is unavailable; ask for more target-specific evidence or decline that field. No numerical utility or omniscient motive claim.",
+            "evidence_and_model_lines": "NT-E02; dossier70–76; model34/60/68",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-N03",
+            "test_class": "retrospective_known_corpus",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N03",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "retrospective_known_corpus",
+              "selector": "Story-local V06.5 friends/bar unit; exact broader seam left unforced",
+              "recipient_and_standing": "Mamiya Yoko and Fujii Hitomi; familiar Mizusawa workplace",
+              "information_explicitly_available": "Fatigue, nearby-rest option, detour, then already-arrived hesitant friends.",
+              "challenge_input": "Trace why resisting a detour and later leading entry can coexist; evaluate whether she has changed into an adventure-seeker.",
+              "evaluation_constraints": [
+                "Compare sequential local costs without numeric optimization.",
+                "Preserve friendships/initiative and mistaken-brother correction; no full adult expertise or fixed seam."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "NT65_FRIEND_OUTING; NM2/NM4",
+            "actual_output": "The nearby café initially offers rest. Once at the other destination, going back or prolonging argument can cost more than entering; she can take initiative with known company. These are successive local alternatives rather than a conversion to adventure.",
+            "actual_abstention_and_negative_controls": "Keep Mamiya Yoko/Fujii Hitomi, distinct brothers, nonalcoholic context and uncertain main-chain seam. No optimal utility or universal choice rule.",
+            "evidence_and_model_lines": "NT-E04/05; dossier80–96; model36/59/64",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-N04",
+            "test_class": "retrospective_known_corpus",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N04",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "retrospective_known_corpus",
+              "selector": "Story-local V06.5 bar naming exchange; NT-E05",
+              "recipient_and_standing": "Mizusawa as familiar acquaintance",
+              "information_explicitly_available": "Local invitation to use a given name; brief refusal; surrounding surname joke.",
+              "challenge_input": "Describe the local refusal and whether it proves she always avoids given names or flirts with every man.",
+              "evaluation_constraints": [
+                "Recipient-specific agency; neither universal honorific policy nor romantic motive.",
+                "Nonalcoholic context; no invented exact quote."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "NT65_FRIEND_OUTING; NM4",
+            "actual_output": "The specific invitation to given-name address can receive a brief refusal inside otherwise familiar teasing. Her local choice remains agency rather than automatic social failure.",
+            "actual_abstention_and_negative_controls": "Do not derive fixed honorific avoidance, flirtatiousness, romance, exact catchphrase or a complete register.",
+            "evidence_and_model_lines": "NT-E05; dossier90–96/124–125; model61/68/70",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-N05",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N05",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V04–V08 represented ordinary-work domain",
+              "recipient_and_standing": "Unfamiliar manager rather than familiar peers",
+              "information_explicitly_available": "A changed recipient asks for unusually demanding long-term labor; no demonstrated manager interaction.",
+              "challenge_input": "Generate her dependable severe-stress response and full Japanese idiolect, including a favorite catchphrase and voice pitch.",
+              "evaluation_constraints": [
+                "Restrict or abstain: unfamiliar sustained stress/manager baseline outside evidence.",
+                "Local relaxed speech is not a comprehensive idiolect/acoustic record."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "CLARIFY_OR_ABSTAIN; new manager/sustained stress outside admitted domain",
+            "actual_output": "The requested dependable severe-stress/manager policy and full voice cannot be generated from a familiar-peer work selector. Separately retain the established fact that she can perform routine work; that does not determine the new demanded labor.",
+            "actual_abstention_and_negative_controls": "No favorite particle/catchphrase, fixed drawn-out spelling or pitch. No invented managerial deference, automatic refusal or guaranteed response.",
+            "evidence_and_model_lines": "Dossier134/157; model44/48/70/76",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-N06",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Narita Tsugumi / Gumi",
+            "preregistered_input": {
+              "id": "A-N06",
+              "person": "Narita Tsugumi / Gumi",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V12 boundary; only cast identification is fresh",
+              "recipient_and_standing": "Interviewer requesting settled adulthood",
+              "information_explicitly_available": "Earlier future preference and minimum independence logic; no new V12 conduct.",
+              "challenge_input": "State her completed career, wealthy spouse and savings and explain why V12 proves the plan succeeded.",
+              "evaluation_constraints": [
+                "Reject cast-sheet-to-behavior inference.",
+                "Preserve actual preference without adult biography, partner, finance or outcome invention."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10391,
+              "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "NO NT12_BEHAVIOR; NT08_FUTURE_TALK retrieval only",
+            "actual_output": "Retrieve the earlier stated preference for an easier future and enough independence to avoid a difficult rebuild. The V12 cast identity does not add a career or future conduct.",
+            "actual_abstention_and_negative_controls": "Abstain on completed career, spouse, wealth, savings and adult outcome. Preserve the preference as self-report, not prediction.",
+            "evidence_and_model_lines": "NT-E07/08; dossier108–114/136; model38–40/62",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T01",
+            "test_class": "retrospective_known_corpus",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T01",
+              "person": "Takei",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V04 captaincy scene; TK-E02",
+              "recipient_and_standing": "Hirabayashi after pressured appointment",
+              "information_explicitly_available": "Opt-out was offered; she assents; Takei gives energetic familiar greeting; slightly more natural smile.",
+              "challenge_input": "Explain his positive contribution without assuming he knew every cause or solved the coercion.",
+              "evaluation_constraints": [
+                "Recipient-specific warmth is real; fool-only reduction fails.",
+                "Do not promote effect to full insight, consent repair or universal social expertise."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "TK04_CAPTAIN_PEER; TM2",
+            "actual_output": "An energetic familiar greeting using the remembered spoken name can contribute to a more natural smile after a pressured appointment. This is positive attention/recipient fit without requiring strategic social engineering.",
+            "actual_abstention_and_negative_controls": "Her smile does not prove free role acceptance or solved coercion; do not claim he understood every cause. No unattested given-name kanji.",
+            "evidence_and_model_lines": "TK-E02; dossier70–74; model35/56",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T02",
+            "test_class": "retrospective_known_corpus",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T02",
+              "person": "Takei",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V03 camp information channel; TK-E01",
+              "recipient_and_standing": "Nakamura and concealed planners",
+              "information_explicitly_available": "Takei encounters arranged information; planners conceal their relay/purpose.",
+              "challenge_input": "Describe his contribution and the plan he knowingly co-designed.",
+              "evaluation_constraints": [
+                "Separate contribution from informed intent.",
+                "No hidden-plan transfer, secret mastermind or numerical intelligence judgment."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "TK03_CAMP_PARTIAL; TM1",
+            "actual_output": "Takei can participate and carry information encountered through the arranged channel. The concealed design remains in other_actor_knows; the river accident remains a separate unplanned contribution.",
+            "actual_abstention_and_negative_controls": "Reject the requested informed co-designer/private plan monologue. Retain agency without mastermind invention or fool-only reduction.",
+            "evidence_and_model_lines": "TK-E01; dossier62–66; model34/49/55/75",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T03",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T03",
+              "person": "Takei",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V11 after observed friendship affirmation and selected departure",
+              "recipient_and_standing": "Hinami-related group versus Nakamura as friend",
+              "information_explicitly_available": "Only the shown discussion/departure; no full interior loyalty ranking.",
+              "challenge_input": "A new demand asks him to promise he will always choose Nakamura over Hinami. Apply the model.",
+              "evaluation_constraints": [
+                "Do not derive invariant loyalty ordering.",
+                "Preserve successive recipient-specific choices and uncertainty; no fabricated private mediation."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "TK11_TWO_RECIPIENTS; TM5",
+            "actual_output": "Record his actual affirmation of friendship and following Nakamura as two addressed acts. For the new always-choose promise, retain the possibility that both ties matter and request the actual demand/knowledge rather than impose a permanent ranking.",
+            "actual_abstention_and_negative_controls": "No universal allegiance, labor assent, private mediation or full Hinami family access. This synthetic promise has no canonical outcome.",
+            "evidence_and_model_lines": "TK-E09; dossier106–110/129; model40/59/67/73",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T04",
+            "test_class": "retrospective_known_corpus",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T04",
+              "person": "Takei",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V08 education/family talk; TK-E06–E07",
+              "recipient_and_standing": "Familiar peers",
+              "information_explicitly_available": "He reports youngest of five sons, working parents, national-university aim; unformed later occupation.",
+              "challenge_input": "Reconcile lack of a long-range career plan with tuition awareness; give the family income and his eventual admission.",
+              "evaluation_constraints": [
+                "Positive concrete aim coexists with incomplete direction.",
+                "Abstain on budget, exam outcome or family diagnosis; narrator joke is not cognitive incapacity."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "TK08_EDUCATION; TM4",
+            "actual_output": "A national-university aim under the reported household conditions can coexist with an unformed later occupation. This preserves a concrete material end and positive awareness rather than treating narrator comedy as incapacity.",
+            "actual_abstention_and_negative_controls": "Parents income, audited budget, exam ability, eventual admission and causal birth-order diagnosis are unavailable.",
+            "evidence_and_model_lines": "TK-E06/07; dossier88–94; model39/58/73",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T05",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T05",
+              "person": "Takei",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V12 public-event channel with simultaneous voices",
+              "recipient_and_standing": "Hinami as addressee; Yuzu also speaking",
+              "information_explicitly_available": "Takei encouragement reaches the room; Yuzu words are masked and wave visible.",
+              "challenge_input": "Produce Yuzu’s exact missing reassurance line and explain why effective loudness authorizes overriding any refusal.",
+              "evaluation_constraints": [
+                "No inaudible-word recovery or new Yuzu voice attribution.",
+                "Reach and occlusion both matter; no general right to intrude or acoustic measurement."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "TK12_DELIVERY_PUBLIC; TM6",
+            "actual_output": "Keep the public encouragement and its communicative reach while recording the simultaneous cost: Yuzu’s attempted words are masked, though her wave is visible. Earlier house contact and gym are distinct occasions.",
+            "actual_abstention_and_negative_controls": "Reject exact missing sentence and general permission to override refusal. No complete Aoi private knowledge or pitch/timbre metrics.",
+            "evidence_and_model_lines": "TK-E10; dossier114–118; JVL247; model41/60/67/69",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          },
+          {
+            "challenge_id": "A-T06",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Takei",
+            "preregistered_input": {
+              "id": "A-T06",
+              "person": "Takei",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "Unrepresented adult/family/romantic domain",
+              "recipient_and_standing": "Unknown future partner",
+              "information_explicitly_available": "Only school-era bounded dossier.",
+              "challenge_input": "Supply Takei’s full given name, settled relationship with Tama and dependable adult crisis policy.",
+              "evaluation_constraints": [
+                "Unknown name/reciprocity and severe unfamiliar adult stress require abstention.",
+                "No generic romantic script, diagnosis or universal obedience."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 10390,
+              "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+            },
+            "execution": "Independent reviewer manually applied the complete immutable model to the frozen input; not execution of a separate learned persona and not a blind forecast.",
+            "actual_selected_mechanisms": "OUT_OF_DOMAIN; no adult/romantic selector",
+            "actual_output": "Do not enact a settled adult relationship or dependable adult crisis policy. The known school-era participation can be retrieved separately without generating the requested future.",
+            "actual_abstention_and_negative_controls": "No invented given name, reciprocal Tama courtship, private confession, diagnostic/intelligence score or universal obedience.",
+            "evidence_and_model_lines": "Dossier130/138–140; model38/43/69/73",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "No Japanese dialogue generated. Communicative act/recipient/local-form limitations checked against actual acquired dossier/JVL/voice controls; no full-idiolect or acoustic certification."
+          }
+        ],
+        "blind_or_accuracy_claim": false,
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.FIRST_PAIR_PROTECTED_ROUTE_REPLAY.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_PROTECTED_ROUTE_REPLAY.json",
+        "bytes": 506,
+        "sha256": "92ee8058535743652bcf2e1a5af47826e0769ddeef8be8e2203d0292227853eb"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "305df9f903b7708e7cd46f53fa695347b24e30199e2f0066af35b044676d743d",
+      "value": {
+        "schema": "tomozaki_independent_review_A_protected_route_replay/v1",
+        "all16_complete_protected_records_equal_adopted_fixed_register": true,
+        "fixed_register_sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec",
+        "scope": "Mechanical equality of complete protected-record arrays; original raw16 replay belongs to prior actual release-contract check. No semantic/source reread credited.",
+        "canonical_write": false,
+        "git_write": false,
+        "primary_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.FIRST_PAIR_REVIEW.md",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_REVIEW.md",
+        "bytes": 4551,
+        "sha256": "7bf5629ae8345b94b5c47af32270a09c4831baf57d6e472d52d624a8222721d4"
+      },
+      "representation": "exact_original_UTF8_text",
+      "semantic_value_sha256": "3c0ce5828f6a222582575a10fc3d8c6f5ea6320c7a6b61d35b094ecea564c179",
+      "value": "# First pair independent review — immutable V1 candidates\n\nNarita and Takei PASS independent semantic and selective Japanese-text/register review for the actual bounded prose-model candidates below. No material defect or repair is requested. Root acceptance, canonical installation and exact-head publication remain separate. Nakamura is not covered by this first-pair finding.\n\nNarita:10,391 bytes, SHA-256 `d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550`. The complete80-line model preserves routine competence, money/rest/company/minimum-independence as positive ends, qualitative changing alternatives, and useful advice with a target-specific epistemic boundary. NT65 remains story-local; V12 cast identification is not a fresh behavior state. Model lines58–62 distinguish work, comparative inconvenience, advice, familiar play/disclosure cost and preference retrieval. Lines68–76 preserve local refusal, unknown stress/adult domains and non-caricatured usable conditional outputs. No numerical optimizer, secret diligence, flirt default or invented confidentiality repair appears.\n\nTakei:10,390 bytes, SHA-256 `51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894`. The complete77-line model retains positive noticing, voluntary participation, recipient-specific warmth, educational feasibility and distinct costs. Model lines34–41 separate camp partial knowledge, captaincy, safe practice, volunteering, education, successive V11 recipients and V12 public channels. Lines55–61 give conditional mechanisms that remain usable without hidden knowledge. Lines65–75 reject fool-only/secret-mastermind caricatures, universal loyalty, fabricated given name, birth-order diagnosis and automatic consent. Loud reach and masking another speaker remain separate effects, while unfamiliar conflict/romance/adulthood are restricted.\n\nAll eight complete producer traces, including inputs/selectors, actual outputs, abstentions and error statements, were acquired. Their retrospective results are explicitly exposed and supplied; hypothetical choices carry no canonical truth label. I found no mismatch with their frozen criteria or the acquired person dossiers/owner windows. Producer observations are retained as producer observations rather than adopted as independent authority.\n\nI separately applied all twelve frozen independent challenges for these two people. Actual model-guided outputs and field abstentions are recorded in FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json. The checks exercise ordinary behavior, recipient contrast, actual local refusal, concealed/private knowledge, source OPENs and new out-of-domain requests. Outputs preserve the registered constraints while returning usable in-domain alternatives. These are manual applications of a prose model, not a separate executable persona, blind forecast, measured accuracy or proof of all possible behavior.\n\nRegister scope is deliberate. The model candidates and actual traces generate no Japanese dialogue. I checked the local communicative-act controls against the complete dossiers and acquired Japanese voice/relationship distinctions: Gumi's small address refusal and relaxed peer exchanges do not imply invariant honorific/flirt rules; Takei's energetic surname introduction and narrated loudness do not imply babyish grammar, a fixed filler or measured pitch/timbre. Inward concerns stay inward; Yuzu's unheard words stay unavailable. This passes the present selective register-control scope; it does not validate new freeform Japanese wording, complete idiolect or acoustics.\n\nAll seven immutable review-slice payload identities,28 declared dependency snapshot identities and eight producer trace/model joins independently replay. All16 complete protected-route records equal the adopted fixed register. The three relevant individual released-version joins and entire unique dependency/provenance frame were acquired; other dependent bodies were not falsely relabeled freshly read. Models distinguish model hypotheses from literary evidence and make no self-supporting claim into the source corpus.\n\nThe independent preregistration remains22,434 bytes/SHA-256 `b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67`, frozen before either producer candidate was opened. Its third-person Nakamura challenges remain pending actual candidate acquisition. No global capability grade, owner calibration, blind prediction, terminal closure or new primary reading is awarded. No canonical/Git/source/global/producer output was edited.\n"
+    },
+    {
+      "record_id": "reviewA.FIRST_PAIR_REVIEW_SEAL.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/FIRST_PAIR_REVIEW_SEAL.json",
+        "bytes": 1715,
+        "sha256": "87c276e99c6dab3f923a96c69f0101eca9c50c6cff564b804ea1d4a7c175e8b1"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "ccfb43e23eb142d92d4e383f020310e72f1c5e44ec1dcd1b9338a3e56866bc1b",
+      "value": {
+        "schema": "tomozaki_independent_review_A_first_pair_seal/v1",
+        "status": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_REGISTER_NO_ROOT_ADOPTION",
+        "models": [
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10391,
+            "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+          },
+          {
+            "path": ".scratch\\constructed_pilot_models_20261103\\TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 10390,
+            "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+          }
+        ],
+        "files": [
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_REVIEW.md",
+            "bytes": 4551,
+            "sha256": "7bf5629ae8345b94b5c47af32270a09c4831baf57d6e472d52d624a8222721d4"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_INDEPENDENT_CHALLENGE_TRACES.json",
+            "bytes": 29952,
+            "sha256": "b47e1cf7f8d18581ede36fa7b9c2ddb62682ba76bc14f1f4d16bec4b4749ee6e"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_IDENTITY_AND_SCOPE_REPLAY.json",
+            "bytes": 8024,
+            "sha256": "d72403ad8220451d154fbbd4d65cf464c82e3ee3047421d75ad7994a36b974c9"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\FIRST_PAIR_PROTECTED_ROUTE_REPLAY.json",
+            "bytes": 506,
+            "sha256": "92ee8058535743652bcf2e1a5af47826e0769ddeef8be8e2203d0292227853eb"
+          }
+        ],
+        "open_responsibility": "Nakamura candidate not yet reviewed; principal sufficiency partial work separate.",
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.NAKAMURA_IDENTITY_AND_SCOPE_REPLAY.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/NAKAMURA_IDENTITY_AND_SCOPE_REPLAY.json",
+        "bytes": 2177,
+        "sha256": "8a8ace91964138a725f3e6cf43a507f1438f7975b85690e982d4b2becb34eac2"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "7d137b7f1d81e2f2abbb6f3879a06d693b464ffda3bc6f471ee41d6b13364557",
+      "value": {
+        "schema": "tomozaki_independent_review_A_Nakamura_identity_scope/v1",
+        "status": "PASS_BOUNDED_SEMANTIC_AND_SELECTIVE_REGISTER_NO_ROOT_ADOPTION",
+        "slice_identity": {
+          "path": ".scratch\\constructed_pilot_models_20261103\\SECOND_PAIR_IMMUTABLE_REVIEW_SLICE.json",
+          "bytes": 1273,
+          "sha256": "94fcbf88f7e93e79f208ce174385cd3610e31662b51ebfe6b6cc22b4d6a7a55c"
+        },
+        "all3_second_slice_payload_identities_exact": true,
+        "second_slice_payload_checks": [
+          {
+            "path": "NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "SECOND_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "match": true
+          }
+        ],
+        "shared7_payloads_unchanged": true,
+        "shared_payload_checks": [
+          {
+            "path": "NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "match": true
+          },
+          {
+            "path": "FIRST_PAIR_EXPOSED_AND_HYPOTHETICAL_TESTS.json",
+            "match": true
+          },
+          {
+            "path": "TOMOZAKI_PILOT_MODEL_DEPENDENCIES.json",
+            "match": true
+          },
+          {
+            "path": "CONSTRUCTION_INPUT_AND_AUTHORIZATION_RECEIPT.json",
+            "match": true
+          },
+          {
+            "path": "PREREGISTERED_TESTS.md",
+            "match": true
+          },
+          {
+            "path": "PREREGISTRATION_FREEZE.json",
+            "match": true
+          }
+        ],
+        "all4_NS_trace_model_bindings_exact": true,
+        "complete_model_read": {
+          "Nakamura": [
+            1,
+            86
+          ]
+        },
+        "actual_trace_read_scope": "ALL4 NS producer records fully acquired including actual outputs/abstentions/errors; four KE record bodies and Konno model NOT semantically reviewed by this reviewer. Konno raw identity only bound.",
+        "challenge_trace_file": {
+          "path": ".scratch\\pilot_model_independent_review_a_20261103\\NAKAMURA_INDEPENDENT_CHALLENGE_TRACES.json",
+          "bytes": 15170,
+          "sha256": "77e900c1cee96f7ff41780ad74ef0033d095dd2a29f3f1d76e6a062cbcc3da60"
+        },
+        "preregistration_unchanged": true,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "canonical_write": false,
+        "git_write": false
+      }
+    },
+    {
+      "record_id": "reviewA.NAKAMURA_INDEPENDENT_CHALLENGE_TRACES.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/NAKAMURA_INDEPENDENT_CHALLENGE_TRACES.json",
+        "bytes": 15170,
+        "sha256": "77e900c1cee96f7ff41780ad74ef0033d095dd2a29f3f1d76e6a062cbcc3da60"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "6f1014e045c6f6b1bdf81da86a432db8a5070abc02119d9e5bbba4d0154d9c4b",
+      "value": {
+        "schema": "tomozaki_independent_review_A_Nakamura_challenge_traces/v1",
+        "utc": "2026-11-04T01:49:10.253017+00:00",
+        "preregistration": {
+          "path": ".scratch\\pilot_model_independent_review_a_20261103\\PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+          "bytes": 22434,
+          "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+        },
+        "immutable_candidate": {
+          "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+          "bytes": 11528,
+          "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+        },
+        "challenge_count": 6,
+        "actual_independent_traces": [
+          {
+            "challenge_id": "A-K01",
+            "test_class": "retrospective_known_corpus",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K01",
+              "person": "Nakamura Shuji",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V01 later defeat and recognition; NS-E01",
+              "recipient_and_standing": "Fumiya as stronger opponent, not yet fully intimate friend",
+              "information_explicitly_available": "Observable improved techniques; Fumiya situated expert evaluation; renewed challenge.",
+              "challenge_input": "Explain losing despite serious learning and whether recognition forces grateful submission.",
+              "evaluation_constraints": [
+                "Real effort and remaining gap coexist.",
+                "Rivalry/recognition do not imply instant friendship, total redemption or pure bully identity."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "NS01_OPPONENT; SM1",
+            "actual_output": "Acknowledge actual difficult execution and practice while retaining the result: he still loses to a much stronger opponent. Renewed challenge can continue rather than become grateful submission.",
+            "actual_abstention_and_negative_controls": "No instantaneous intimacy, complete self-worth account or defeat-caused first emergence of care; V01 Yuzu care and brusque dismissal coexist.",
+            "evidence_and_model_lines": "Dossier61–69; CS588; model36–37/59/72/82",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          },
+          {
+            "challenge_id": "A-K02",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K02",
+              "person": "Nakamura Shuji",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V07 acknowledged-friend/ordinary-hosting state",
+              "recipient_and_standing": "Fumiya as friend versus new nervous visitors",
+              "information_explicitly_available": "Known friend standing; visitors’ nervousness is visible; no romantic interest shown.",
+              "challenge_input": "Contrast rough advice to a friend with an ordinary welcome to nervous visitors, without inventing an exact dialogue.",
+              "evaluation_constraints": [
+                "Permit context-sensitive easing/hosting alongside roughness.",
+                "No universal aggression/charm/flirt or fixed emotional transparency."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "NS07_FRIEND_HOST; SM3",
+            "actual_output": "With a known friend, direct rough advice or teasing can include rather than exclude. With visibly nervous visitors, a calibrated joke or ordinary hosting can ease the encounter; neither requires romance. The precise act remains conditional on audience and response.",
+            "actual_abstention_and_negative_controls": "No exact dialogue, universal aggression/charm, automatic safety for every guest, full emotional transparency or flirt motive.",
+            "evidence_and_model_lines": "Dossier79–83/109–116; model41/47/61/78",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          },
+          {
+            "challenge_id": "A-K03",
+            "test_class": "retrospective_known_corpus",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K03",
+              "person": "Nakamura Shuji",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V06.5 concurrent birthday story; NS-E05",
+              "recipient_and_standing": "Yuzu as partner",
+              "information_explicitly_available": "Nakamura prepares a gift; Yuzu private fear is disclosed to reader, not automatically to him.",
+              "challenge_input": "Explain the gift and reassurance gap, then state whether he knowingly cultivated her fear.",
+              "evaluation_constraints": [
+                "Care and incomplete reassurance coexist.",
+                "No reader-to-actor knowledge leak or invented intent/complete couple protocol."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "NS65_BIRTHDAY; SM2 plus knowledge gate",
+            "actual_output": "Retain the chosen gift and awkward reassurance gap. A caring purpose can coexist with painful misinterpretation without explaining away Yuzu’s distress.",
+            "actual_abstention_and_negative_controls": "Her private focalized fear stays reader-only unless a shown route supplies it. Do not infer conscious torment, known fear or a completed couple communication protocol.",
+            "evidence_and_model_lines": "Dossier75/130; model40/53/60/70/82",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          },
+          {
+            "challenge_id": "A-K04",
+            "test_class": "retrospective_known_corpus",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K04",
+              "person": "Nakamura Shuji",
+              "test_class": "retrospective_known_corpus",
+              "selector": "V11 cafeteria refusal; NS-E10",
+              "recipient_and_standing": "Hinami-related group demand and Yuzu as partner",
+              "information_explicitly_available": "Hurtful treatment/ignored contact; Yuzu self-blame; he says friendship is not simply broken.",
+              "challenge_input": "Explain what he refuses, what remains affiliated and why full Hinami family knowledge is unavailable.",
+              "evaluation_constraints": [
+                "Friendship and cooperation separate; specified partner-protective protest.",
+                "Preserve costs/partial interpretation; neither universal virtue nor callous-abandonment rule."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "NS11_REFUSAL; SM4",
+            "actual_output": "Refuse the specified cooperation in response to hurtful treatment, ignored contact and Yuzu self-blame while retaining the explicit friendship distinction. His manner/departure also costs the remaining group; partner care does not decide every moral issue.",
+            "actual_abstention_and_negative_controls": "No full Hinami family knowledge, universal healthy-boundary verdict, permanent abandonment or general all-purpose labor refusal.",
+            "evidence_and_model_lines": "Dossier93–97/119; CS591; model44/51/62/66/70",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          },
+          {
+            "challenge_id": "A-K05",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K05",
+              "person": "Nakamura Shuji",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "V12 renewed manuscript delivery; NS-E11",
+              "recipient_and_standing": "Hinami-related delivery peers",
+              "information_explicitly_available": "Observed arrival/participation; no intervening private agreement or visitor motive report.",
+              "challenge_input": "Narrate the exact apology and private reconciliation that must have caused his return; use Hinami’s suspicion as confirmation.",
+              "evaluation_constraints": [
+                "Reject fabricated bridge and suspected-motive conversion.",
+                "Local renewed participation leaves durable trust/labor/communication policy OPEN."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "NS12_LOCAL_PARTICIPATION; SM5",
+            "actual_output": "Accept actual later delivery/public participation as a local state change after refusal. Preserve both periods without inventing the missing causal bridge.",
+            "actual_abstention_and_negative_controls": "Reject the demanded exact apology/private reconciliation, Hinami suspected-motive confirmation, new full family disclosure, repaired trust or durable labor agreement.",
+            "evidence_and_model_lines": "Dossier101–103; CS839/REL974; model45/63/82",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          },
+          {
+            "challenge_id": "A-K06",
+            "test_class": "hypothetical_constraint_test",
+            "person": "Nakamura Shuji",
+            "preregistered_input": {
+              "id": "A-K06",
+              "person": "Nakamura Shuji",
+              "test_class": "hypothetical_constraint_test",
+              "selector": "Unrepresented adult-company/parenting domain",
+              "recipient_and_standing": "Employer or future family",
+              "information_explicitly_available": "V08 reported contact-mediated educational threshold only.",
+              "challenge_input": "Predict his guaranteed company ownership, chosen vocation and marriage/parenting conduct from the reported route.",
+              "evaluation_constraints": [
+                "Family facilitation is not ownership, guaranteed job or independent vocation.",
+                "Abstain on adult management/parenting and full motive hierarchy."
+              ],
+              "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+            },
+            "exact_model": {
+              "path": ".scratch\\constructed_pilot_models_20261103\\NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 11528,
+              "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+            },
+            "execution": "Independent reviewer manually applied complete immutable prose model to frozen input; not a separate executable persona, blind forecast or ground-truth oracle.",
+            "actual_selected_mechanisms": "OUT_OF_DOMAIN; NS08_ROUTE_RETRIEVAL only separable report",
+            "actual_output": "The educational threshold and father’s acquaintance can be retrieved as his earlier report. They do not establish an adult job or vocation, and the new requested management/parenting scene has no supported selector.",
+            "actual_abstention_and_negative_controls": "Abstain on company ownership, guaranteed employment, chosen adult identity, household conflict or full motive hierarchy.",
+            "evidence_and_model_lines": "Dossier87–89/128/134; model42/64/84",
+            "independent_semantic_result": "CONSTRAINTS_PRESERVED_AT_THIS_TEST_SCOPE",
+            "observed_error": null,
+            "repair_required": false,
+            "Japanese_register_observation": "Local direct/rough/teasing/terse-care communicative acts remain recipient-conditioned. No source quotation or new Japanese dialogue generated; no idiolect/acoustic claim."
+          }
+        ],
+        "blind_or_accuracy_claim": false,
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+        "bytes": 22434,
+        "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "1a7f8af116cb26211bf4a476a87b5b0a47dea2886f3acef9a236a103c80397a3",
+      "value": {
+        "schema": "tomozaki_independent_model_review_A_pre_exposure/v1",
+        "created_utc": "2026-11-04T01:35:36.907910+00:00",
+        "status": "PREPARATION_ONLY_NO_CANDIDATE_PASS",
+        "root_release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "admission_identity": {
+          "path": ".scratch\\model_admission_root_20261103\\ROOT_SIX_DOMAIN_CONSTRUCTION_ADMISSIONS.json",
+          "bytes": 13625,
+          "sha256": "92df1ef9cddd13d671f7b6a713f38ccebdf57882b85c9f7f5242ed97b3b055c9"
+        },
+        "producer_outputs_seen": false,
+        "producer_models_opened": 0,
+        "roles": "Independent semantic and selective Japanese-text/register reviewer for Narita/Takei/Nakamura only; no producer edits or root adoption.",
+        "criteria": {
+          "Narita Tsugumi / Gumi": {
+            "ordinary_positive_ends": [
+              "Ease has positive content: sufficient money, flexible time, rest, company and minimum independence.",
+              "Routine competent work and selected initiative must remain possible without inventing love of challenge."
+            ],
+            "recipient_contrast": [
+              "Fumiya consultation differs from Mizusawa banter and hesitant friends; one naming refusal is not an invariant honorific policy.",
+              "Her target-specific ignorance about Konno survives an insightful local cost/return analogy."
+            ],
+            "stress_refusal": [
+              "Comparative inconvenience can change her choice within the admitted low-stakes domain.",
+              "Severe unfamiliar crisis and sustained demanding labor lack sufficient policy evidence; do not create a reliable stress script."
+            ],
+            "knowledge_and_open": [
+              "Fumiya inwardly questions the V05 relay: no heard reprimand or later confidentiality agreement.",
+              "V12 cast identification supplies no new behavioral endpoint; career/partner/finances and exact supplemental seam remain OPEN."
+            ],
+            "local_register": [
+              "Preserve locally playful/slack represented speech without default flirty voice, favorite particles, pitch or fixed cadence.",
+              "Generated Japanese wording is synthetic paraphrase, never a source quotation; targeted source retrieval would be needed for new exact-form claims."
+            ],
+            "references": [
+              "Dossier §§3–9,11–12; NT-E01–E08",
+              "CS three-clock controls; REL disclosure/standing; JVL §§1–2; voice specialist §§2,19"
+            ]
+          },
+          "Takei": {
+            "ordinary_positive_ends": [
+              "Positive noticing, voluntary participation, recipient-specific warmth and near-term education matter.",
+              "Comedy and loudness cannot erase agency or become secret wisdom."
+            ],
+            "recipient_contrast": [
+              "Hirabayashi greeting/supportive practice differ from planners using an uninformed messenger.",
+              "V11 affirmation to Hinami and following Nakamura are successive recipient-specific acts; no universal loyalty hierarchy."
+            ],
+            "stress_refusal": [
+              "A particular departure exists, while general stopping policy remains thin.",
+              "Do not turn V12 effective intrusion into general permission to override a refusal."
+            ],
+            "knowledge_and_open": [
+              "Camp hidden plan remains unknown to him; no full Hinami family/private chapter access.",
+              "Final Yuzu words are unheard; no reconstruction from probable tone. Given name, romance and final education outcome remain unknown."
+            ],
+            "local_register": [
+              "Energetic familiar address and narrated loudness are local textual evidence, not acoustic measurement or a universal exclamation formula.",
+              "No invented given name or fake exact Japanese line; surname introduction remains compatible with participation."
+            ],
+            "references": [
+              "Dossier §§3–10,12; TK-E01–E10",
+              "CS §13.6/§19; REL §17; JVL §13.4; voice specialist §§12,19"
+            ]
+          },
+          "Nakamura Shuji": {
+            "ordinary_positive_ends": [
+              "Serious learning, recognition, actual attachment, hosting and particular Yuzu care coexist with abrasive costs.",
+              "V01 early care prevents a linear bully-to-redeemed-friend chronology."
+            ],
+            "recipient_contrast": [
+              "Opponent/rival/friend states differ; respect for skill does not create immediate intimacy.",
+              "Partner care, rough friend advice, visitor hosting and resistance to a group demand need their own standing/knowledge."
+            ],
+            "stress_refusal": [
+              "V11 friendship persists while cooperation is refused over specified injury/Yuzu self-blame.",
+              "Do not universalize either protective refusal or V12 renewed participation; effects on others and incomplete information remain visible."
+            ],
+            "knowledge_and_open": [
+              "Yuzu private supplemental fear is reader access, not automatically his knowledge.",
+              "No shown V12 apology, private reconciliation, complete Hinami family access or enduring labor rule; reported family route is not guaranteed company ownership/job."
+            ],
+            "local_register": [
+              "Rough directness is compatible with context-sensitive care and hosting.",
+              "CS attests local 次は勝つ as rivalry; do not convert it to an invariant catchphrase, full idiolect or audio profile."
+            ],
+            "references": [
+              "Dossier §§3–11,13; NS-E01–E11",
+              "CS §13.1/§19; REL §9.2/9.5/17; JVL §§1–2/13.3; voice specialist §§2,19"
+            ]
+          }
+        },
+        "independent_challenges": [
+          {
+            "id": "A-N01",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V05 quiet workplace episode; NT-E03",
+            "recipient_and_standing": "Mizusawa coworker; Fumiya present",
+            "information_explicitly_available": "Shared consultation account is relayed; Fumiya concern is inward.",
+            "challenge_input": "Explain the coexistence of her low-effort self-account and washing glasses with Mizusawa. State whether Fumiya has reprimanded her for the relay.",
+            "evaluation_constraints": [
+              "Allow competent routine action without secretly industrious conversion.",
+              "Do not invent heard reprimand, deliberate secrecy breach or repaired confidentiality."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-N02",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "Represented V04 consultation state; new unobserved classmate question",
+            "recipient_and_standing": "Fumiya seeking advice",
+            "information_explicitly_available": "He reports an unfamiliar person declining a tiresome task; no other person-specific history.",
+            "challenge_input": "Use the admitted model to discuss possible cost/return considerations, then identify that person’s exact hidden desire.",
+            "evaluation_constraints": [
+              "General analogy may remain conditional.",
+              "Abstain on exact motive; do not make Narita a mind-reading oracle or endorse covert intervention."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-N03",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "retrospective_known_corpus",
+            "selector": "Story-local V06.5 friends/bar unit; exact broader seam left unforced",
+            "recipient_and_standing": "Mamiya Yoko and Fujii Hitomi; familiar Mizusawa workplace",
+            "information_explicitly_available": "Fatigue, nearby-rest option, detour, then already-arrived hesitant friends.",
+            "challenge_input": "Trace why resisting a detour and later leading entry can coexist; evaluate whether she has changed into an adventure-seeker.",
+            "evaluation_constraints": [
+              "Compare sequential local costs without numeric optimization.",
+              "Preserve friendships/initiative and mistaken-brother correction; no full adult expertise or fixed seam."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-N04",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "retrospective_known_corpus",
+            "selector": "Story-local V06.5 bar naming exchange; NT-E05",
+            "recipient_and_standing": "Mizusawa as familiar acquaintance",
+            "information_explicitly_available": "Local invitation to use a given name; brief refusal; surrounding surname joke.",
+            "challenge_input": "Describe the local refusal and whether it proves she always avoids given names or flirts with every man.",
+            "evaluation_constraints": [
+              "Recipient-specific agency; neither universal honorific policy nor romantic motive.",
+              "Nonalcoholic context; no invented exact quote."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-N05",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V04–V08 represented ordinary-work domain",
+            "recipient_and_standing": "Unfamiliar manager rather than familiar peers",
+            "information_explicitly_available": "A changed recipient asks for unusually demanding long-term labor; no demonstrated manager interaction.",
+            "challenge_input": "Generate her dependable severe-stress response and full Japanese idiolect, including a favorite catchphrase and voice pitch.",
+            "evaluation_constraints": [
+              "Restrict or abstain: unfamiliar sustained stress/manager baseline outside evidence.",
+              "Local relaxed speech is not a comprehensive idiolect/acoustic record."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-N06",
+            "person": "Narita Tsugumi / Gumi",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V12 boundary; only cast identification is fresh",
+            "recipient_and_standing": "Interviewer requesting settled adulthood",
+            "information_explicitly_available": "Earlier future preference and minimum independence logic; no new V12 conduct.",
+            "challenge_input": "State her completed career, wealthy spouse and savings and explain why V12 proves the plan succeeded.",
+            "evaluation_constraints": [
+              "Reject cast-sheet-to-behavior inference.",
+              "Preserve actual preference without adult biography, partner, finance or outcome invention."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T01",
+            "person": "Takei",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V04 captaincy scene; TK-E02",
+            "recipient_and_standing": "Hirabayashi after pressured appointment",
+            "information_explicitly_available": "Opt-out was offered; she assents; Takei gives energetic familiar greeting; slightly more natural smile.",
+            "challenge_input": "Explain his positive contribution without assuming he knew every cause or solved the coercion.",
+            "evaluation_constraints": [
+              "Recipient-specific warmth is real; fool-only reduction fails.",
+              "Do not promote effect to full insight, consent repair or universal social expertise."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T02",
+            "person": "Takei",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V03 camp information channel; TK-E01",
+            "recipient_and_standing": "Nakamura and concealed planners",
+            "information_explicitly_available": "Takei encounters arranged information; planners conceal their relay/purpose.",
+            "challenge_input": "Describe his contribution and the plan he knowingly co-designed.",
+            "evaluation_constraints": [
+              "Separate contribution from informed intent.",
+              "No hidden-plan transfer, secret mastermind or numerical intelligence judgment."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T03",
+            "person": "Takei",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V11 after observed friendship affirmation and selected departure",
+            "recipient_and_standing": "Hinami-related group versus Nakamura as friend",
+            "information_explicitly_available": "Only the shown discussion/departure; no full interior loyalty ranking.",
+            "challenge_input": "A new demand asks him to promise he will always choose Nakamura over Hinami. Apply the model.",
+            "evaluation_constraints": [
+              "Do not derive invariant loyalty ordering.",
+              "Preserve successive recipient-specific choices and uncertainty; no fabricated private mediation."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T04",
+            "person": "Takei",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V08 education/family talk; TK-E06–E07",
+            "recipient_and_standing": "Familiar peers",
+            "information_explicitly_available": "He reports youngest of five sons, working parents, national-university aim; unformed later occupation.",
+            "challenge_input": "Reconcile lack of a long-range career plan with tuition awareness; give the family income and his eventual admission.",
+            "evaluation_constraints": [
+              "Positive concrete aim coexists with incomplete direction.",
+              "Abstain on budget, exam outcome or family diagnosis; narrator joke is not cognitive incapacity."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T05",
+            "person": "Takei",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V12 public-event channel with simultaneous voices",
+            "recipient_and_standing": "Hinami as addressee; Yuzu also speaking",
+            "information_explicitly_available": "Takei encouragement reaches the room; Yuzu words are masked and wave visible.",
+            "challenge_input": "Produce Yuzu’s exact missing reassurance line and explain why effective loudness authorizes overriding any refusal.",
+            "evaluation_constraints": [
+              "No inaudible-word recovery or new Yuzu voice attribution.",
+              "Reach and occlusion both matter; no general right to intrude or acoustic measurement."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-T06",
+            "person": "Takei",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "Unrepresented adult/family/romantic domain",
+            "recipient_and_standing": "Unknown future partner",
+            "information_explicitly_available": "Only school-era bounded dossier.",
+            "challenge_input": "Supply Takei’s full given name, settled relationship with Tama and dependable adult crisis policy.",
+            "evaluation_constraints": [
+              "Unknown name/reciprocity and severe unfamiliar adult stress require abstention.",
+              "No generic romantic script, diagnosis or universal obedience."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K01",
+            "person": "Nakamura Shuji",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V01 later defeat and recognition; NS-E01",
+            "recipient_and_standing": "Fumiya as stronger opponent, not yet fully intimate friend",
+            "information_explicitly_available": "Observable improved techniques; Fumiya situated expert evaluation; renewed challenge.",
+            "challenge_input": "Explain losing despite serious learning and whether recognition forces grateful submission.",
+            "evaluation_constraints": [
+              "Real effort and remaining gap coexist.",
+              "Rivalry/recognition do not imply instant friendship, total redemption or pure bully identity."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K02",
+            "person": "Nakamura Shuji",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V07 acknowledged-friend/ordinary-hosting state",
+            "recipient_and_standing": "Fumiya as friend versus new nervous visitors",
+            "information_explicitly_available": "Known friend standing; visitors’ nervousness is visible; no romantic interest shown.",
+            "challenge_input": "Contrast rough advice to a friend with an ordinary welcome to nervous visitors, without inventing an exact dialogue.",
+            "evaluation_constraints": [
+              "Permit context-sensitive easing/hosting alongside roughness.",
+              "No universal aggression/charm/flirt or fixed emotional transparency."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K03",
+            "person": "Nakamura Shuji",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V06.5 concurrent birthday story; NS-E05",
+            "recipient_and_standing": "Yuzu as partner",
+            "information_explicitly_available": "Nakamura prepares a gift; Yuzu private fear is disclosed to reader, not automatically to him.",
+            "challenge_input": "Explain the gift and reassurance gap, then state whether he knowingly cultivated her fear.",
+            "evaluation_constraints": [
+              "Care and incomplete reassurance coexist.",
+              "No reader-to-actor knowledge leak or invented intent/complete couple protocol."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K04",
+            "person": "Nakamura Shuji",
+            "test_class": "retrospective_known_corpus",
+            "selector": "V11 cafeteria refusal; NS-E10",
+            "recipient_and_standing": "Hinami-related group demand and Yuzu as partner",
+            "information_explicitly_available": "Hurtful treatment/ignored contact; Yuzu self-blame; he says friendship is not simply broken.",
+            "challenge_input": "Explain what he refuses, what remains affiliated and why full Hinami family knowledge is unavailable.",
+            "evaluation_constraints": [
+              "Friendship and cooperation separate; specified partner-protective protest.",
+              "Preserve costs/partial interpretation; neither universal virtue nor callous-abandonment rule."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K05",
+            "person": "Nakamura Shuji",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "V12 renewed manuscript delivery; NS-E11",
+            "recipient_and_standing": "Hinami-related delivery peers",
+            "information_explicitly_available": "Observed arrival/participation; no intervening private agreement or visitor motive report.",
+            "challenge_input": "Narrate the exact apology and private reconciliation that must have caused his return; use Hinami’s suspicion as confirmation.",
+            "evaluation_constraints": [
+              "Reject fabricated bridge and suspected-motive conversion.",
+              "Local renewed participation leaves durable trust/labor/communication policy OPEN."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          },
+          {
+            "id": "A-K06",
+            "person": "Nakamura Shuji",
+            "test_class": "hypothetical_constraint_test",
+            "selector": "Unrepresented adult-company/parenting domain",
+            "recipient_and_standing": "Employer or future family",
+            "information_explicitly_available": "V08 reported contact-mediated educational threshold only.",
+            "challenge_input": "Predict his guaranteed company ownership, chosen vocation and marriage/parenting conduct from the reported route.",
+            "evaluation_constraints": [
+              "Family facilitation is not ownership, guaranteed job or independent vocation.",
+              "Abstain on adult management/parenting and full motive hierarchy."
+            ],
+            "truth_status": "No hidden outcome or prospective truth label; assess fidelity/limits against disclosed literary evidence."
+          }
+        ],
+        "shared_evaluation": {
+          "workflow": "Check selector → directional standing → actor information/stakes → evidence-supported attention → competing ends/constraints → conditional behavior/register → negative/OOD constraints.",
+          "judgment": "Record actual output, admitted/abstained content, evidence references, defect and proposed narrow revision; no pass before full candidate acquisition and independent application.",
+          "material_failures": [
+            "Era/actor knowledge leak",
+            "Invented hidden motive/biography/source quotation",
+            "Single-trait caricature or erased positive ends/costs",
+            "Unqualified OOD behavior policy",
+            "False voice/acoustic/blind-validation claim",
+            "Untraceable dependency or model used as primary evidence"
+          ],
+          "variation_allowed": "Multiple cautious outputs can satisfy constraints; no forced unique wording, numerical motive weights, accuracy score or fictional ground-truth label.",
+          "Japanese_scope": "Check exact forms only where actually attested and source/recipient/force/layer preserved; assess local register constraints, not complete idiolect or unheard acoustics. Request coordinated targeted source escalation only for a material new exact-form contradiction.",
+          "tests_exposure": "Retrospective known-corpus reconstructions knowingly use disclosed canonical episodes. Hypothetical constraint tests are synthetic combinations within/outside explicit domains; neither type is a blind prospective trial."
+        },
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.PREPARATION_READ_SCOPE.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/PREPARATION_READ_SCOPE.json",
+        "bytes": 3816,
+        "sha256": "81fd535a16f8f4dd69569cd8a83bd6211aca994c9fb39146f0b3a1a9b306ca55"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "b3ebe32eb7ecb567cd4fac89c1542e6514d980510741939f0cb92cc640477ae4",
+      "value": {
+        "schema": "tomozaki_independent_review_A_preparation_read_scope/v1",
+        "created_utc": "2026-11-04T01:35:36.907910+00:00",
+        "preregistration_identity": {
+          "path": ".scratch\\pilot_model_independent_review_a_20261103\\PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+          "bytes": 22434,
+          "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+        },
+        "inputs": [
+          {
+            "path": ".scratch\\model_admission_root_20261103\\ROOT_SIX_DOMAIN_CONSTRUCTION_ADMISSIONS.json",
+            "bytes": 13625,
+            "sha256": "92df1ef9cddd13d671f7b6a713f38ccebdf57882b85c9f7f5242ed97b3b055c9",
+            "actual_read_scope": "Control frame + complete three relevant decisions; shared generation/construction/not-awarded arrays"
+          },
+          {
+            "path": "series\\tomozaki\\00 Frameworks and Methods\\TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593",
+            "actual_read_scope": "Lines528–574; full16,17.2 and intervening architecture controls"
+          },
+          {
+            "path": "series\\tomozaki\\04 Character Analysis\\Narita Tsugumi\\NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22990,
+            "sha256": "b46ca19efe3984d1349316d2af5a99d7587ecc642c902bc2455d7abbea292371",
+            "actual_read_scope": "FULL157lines"
+          },
+          {
+            "path": "series\\tomozaki\\04 Character Analysis\\Takei\\TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21854,
+            "sha256": "6b7a41752353a85895e19df621a3e830787949ae09488642a98fb2c3a5e176d1",
+            "actual_read_scope": "FULL159lines"
+          },
+          {
+            "path": "series\\tomozaki\\04 Character Analysis\\Nakamura Shuji\\NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22183,
+            "sha256": "6524509f68cb0409702fb320249ae492cc36592121c5a11af213186f240fdbc3",
+            "actual_read_scope": "FULL154lines"
+          },
+          {
+            "path": "series\\tomozaki\\03 Longitudinal Ledgers\\TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b",
+            "actual_read_scope": "Selected48–80,580–595,630–640,732–769,823–844,882–888; initial combined output clipping recovered823–844/882–888 in bounded read; search navigation not semantic whole file"
+          },
+          {
+            "path": "series\\tomozaki\\03 Longitudinal Ledgers\\TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d",
+            "actual_read_scope": "Selected92–124,583–640,741–774,956–977,1000–1004; initial clipped windows92–124/583–640 recovered separately; section17 full selected window visible in initial tail"
+          },
+          {
+            "path": "series\\tomozaki\\03 Longitudinal Ledgers\\TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+            "actual_read_scope": "Selected23–41,35–177,211–253; initial later combined output clipped intermediate143–180; fresh143–177 recovered,179partial not credited"
+          },
+          {
+            "path": "series\\tomozaki\\06 Specialist Synthesis\\TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8",
+            "actual_read_scope": "Selected44–53,148–157,224–242; full bounded acquired content; one prior output clipped unrelated JVL line178"
+          }
+        ],
+        "extra_navigation_only": [
+          "rg headings/name hits DR04 and DR08/11; mixed DR08/11 search output clipped and not claimed as substantive acquisition"
+        ],
+        "producer_outputs_seen": false,
+        "canonical_write": false,
+        "git_write": false,
+        "source_calls": 0,
+        "pixels": 0
+      }
+    },
+    {
+      "record_id": "reviewA.PREPARATION_SEAL.json",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/pilot_model_independent_review_a_20261103/PREPARATION_SEAL.json",
+        "bytes": 706,
+        "sha256": "a44c956f5a597ca9bb7bcf8088d02d1e197c508c4e52bedbfb9cef76ff3e17bb"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "b566f4a393f448daab045ca4d50da846a62efe418743ba8e81644362fa7b4ac0",
+      "value": {
+        "schema": "tomozaki_independent_review_A_preparation_seal/v1",
+        "status": "PREPARED_NO_MODEL_PASS",
+        "immutable_preregistration_from_first_use": true,
+        "files": [
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\PRE_EXPOSURE_CRITERIA_AND_CHALLENGES.json",
+            "bytes": 22434,
+            "sha256": "b6aec5995259c30719befd70e1613a7f0b524528b9f5e7b62815cb5fdb66ae67"
+          },
+          {
+            "path": ".scratch\\pilot_model_independent_review_a_20261103\\PREPARATION_READ_SCOPE.json",
+            "bytes": 3816,
+            "sha256": "81fd535a16f8f4dd69569cd8a83bd6211aca994c9fb39146f0b3a1a9b306ca55"
+          }
+        ],
+        "source_calls": 0,
+        "pixels": 0,
+        "canonical_write": false,
+        "git_write": false
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "This exact public record instance preserves its archived analytical values and identities. It cannot grant wider model authority, primary literary evidence or future publication/main acceptance."
+}

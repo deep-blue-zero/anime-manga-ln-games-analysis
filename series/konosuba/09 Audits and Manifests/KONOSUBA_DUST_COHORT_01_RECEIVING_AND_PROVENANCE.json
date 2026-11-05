@@ -1,0 +1,368 @@
+{
+  "schema": "KONOSUBA_DUST_COHORT06_RECEIVING_AND_PROVENANCE_V1",
+  "accepted_utc": "2026-10-20T01:37:10.780416+00:00",
+  "status": "ROOT_SCOPED_SEMANTIC_RECEIVING_AND_FULL_PUBLICATION_GATE_CLOSED",
+  "source_boundary_commit": "d0ca81788a2cc80bb44c384dd5a81ef43df6e42e",
+  "previous_published_source": "5a4bc7d7386452c9afc5aa5e12bc8e9af44d8c23",
+  "incorporated_audited_main": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+  "preceding_gate": "09 Audits and Manifests/KONOSUBA_CECOHORT01_PUBLICATION_GATE_CLOSE.json",
+  "receiver": "Same continuing informed root author; complete eight Dust analytical reports, recorded bounded native joins, ten-responsibility selected ledger entries, exact first responses and explicit rival review. No independent reviewer/model, blind holdout or native-human adequacy claim.",
+  "tier": "Dust scoped Tier3 earned by varied goals/costs/roles/knowledge/ordinary life/skill/real contrary choices and differentiated falsifiable rules; reliability provisional. Full final individual census remains open.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUST_CHARACTER_MONOGRAPH.md",
+      "bytes": 20043,
+      "sha256": "30fccc887518ddb227640f4639a02c6f501e2b0327c3d816c151727ae693d5a3"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_DUST_EVIDENCE_INDEX.md",
+      "bytes": 18240,
+      "sha256": "d75511bd56cf8f3789cb1c826866be14cd7b74d33350494cdd71b41275a8f613"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_SOURCE_KNOWN_CONTRAST_SPEC_01.json",
+      "bytes": 5429,
+      "sha256": "882bf0276a5e40368939bc0974564c4b113b2f17074e49c861aca94fdfd04a27"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_ACTUAL_FIRST_SOURCE_KNOWN_RESPONSES_01.json",
+      "bytes": 5082,
+      "sha256": "f76f50d2a35d36fe513d615a351de1a4fe9a1a0e8fbe9bde5de0496ed2bede53"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_SOURCE_KNOWN_INTERNAL_RECEIVING_01.json",
+      "bytes": 3185,
+      "sha256": "d9269d12d5b04c5b0e2100f433c50f555f26a6996cde21d4b1b1c6d919a9956e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "bytes": 23201,
+      "sha256": "ceb5e2a773f9677c9513f46beeea40a26092d565ebb9d605dbd3f47c89ebbb5c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_CURRENT_EVIDENCE_RECEIVING_01.json",
+      "bytes": 7700,
+      "sha256": "3f7a112b9947da76385c854c83661c251db6d0013fc14836e07fb5347dc554e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/DUST_EXPANDED_V1_EVIDENCE/DUST_EXACT_DRAFT_LINEAGE_01.json",
+      "bytes": 143827,
+      "sha256": "22a7afc7bfcdfeeb682a30f459be4fc98621a371f82e9e41afff45b147333403"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json",
+      "bytes": 6761,
+      "sha256": "35ec59db791cdb2b497df28aa0c3e1e4b3d73d2db88e40091be45d9f1e3e91cd"
+    }
+  ],
+  "maintained_census_candidate_at_authorship": {
+    "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SECONDARY_CHARACTER_INCREMENTAL_CENSUS.json",
+    "before_sha256": "48f9454cc1b9508e64f5386baa69f92b07044364ce58fd1cb9b811504657d2e7",
+    "after_sha256": "0b0529853a718bee4c81d951db58c2d9391d1ed85a070e441ca50854e45e97b0",
+    "bytes": 435025,
+    "input_rows": 151,
+    "rows": 157,
+    "targeted_existing_rows": [
+      "Iris Belzerg",
+      "Yunyun",
+      "Chris / Eris",
+      "Wiz",
+      "Vanir",
+      "Dust",
+      "Komekko",
+      "Claire",
+      "Rain / Rein",
+      "Mitsurugi",
+      "Zesta",
+      "Cecily",
+      "Zereschilt",
+      "Sylphina",
+      "Yuiyui",
+      "Soketto / Socket",
+      "Bukkorori",
+      "Aigis (sentient sacred armor)",
+      "Lucy / ルーシー",
+      "Regina / レジーナ",
+      "Serena",
+      "Duke (デューク)",
+      "Nerimaki / ねりまき",
+      "Aloerina / アロエリーナ",
+      "Anna Filante Esteroid / mansion ghost",
+      "Unnamed dungeon vampire owner (MAIN16 training trip)",
+      "Zel / Emperor Zel",
+      "Chomusuke",
+      "Yunyun's father / current Crimson chief (MAIN14)"
+    ],
+    "new_subjects": [
+      "Stella / ステラ (MAIN16 dungeon adventurer)",
+      "Gil / ギル (MAIN16 dungeon adventurer)",
+      "Gain / ゲイン (MAIN16 dungeon adventurer)",
+      "Stella's unnamed younger sister (MAIN16 dungeon party)",
+      "Amaryllis / アマリリス (MAIN16 devil)",
+      "Stesky / ステスキー (MAIN16 reported hell-neroid pet)"
+    ],
+    "untouched_prior_rows_exact": 122,
+    "preserved_previous_current_metadata": true
+  },
+  "eleven_entering_model_pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "semantic_acceptance_basis": [
+    "Separate monograph, operational model and retrieval index preserve wanted ordinary life, prior identity, actual role/disclosure states and independently motivated relationships.",
+    "Six informed rules retain privacy/protective-permission structure, particular care with rejected unconditional override, distributed tactical methods, selective term checks versus deliberate appropriation, bounded appetite inference and purpose-dependent written voice.",
+    "Direct adverse attraction, rescue obstruction, refused companion wager, delayed inquiry, harmful training, Keith nonhelp and tolerated royal coercion remain; comedy/outcome/authority/injury/pure-motive floors do not erase them.",
+    "A real sword loan retains defense purpose, friendship, public cover and genuine conditional profit. Cross-viewpoint initial loan is deduplicated; use and unshown return remain later states.",
+    "Source-known three-pair/six-first-response receiving does not isolate a unique privacy mechanism, uniquely predict appropriation, or demonstrate third-pair behavioral discrimination. No score/confidence gain.",
+    "Current derivative review finishes MAIN01-17/all six checkpoints; exact CP05 table/CP06 contract reuse and earlier92 documentary scope remain explicit. Targeted ledger receiving is not every body or392 unique retrieval lines.",
+    "157 qualified rows carry29 targeted revisions/six narrow new subjects/122 prior rows exact; only Dust newly receives scoped Tier3. Earlier five tier states and eleven entering model bodies remain exact.",
+    "Bounded named-subject/knowledge/attribution review records Faitifore naming, source-required anonymity and purposeful role labels. Historical first drafts and corrected newer bodies are preserved."
+  ],
+  "additional_narrow_census_receiving": {
+    "SECONDARY_ACCEPTED_MAIN16_STELLA_PARTY_AMARYLLIS_NATIVE_RECHECK_01.json": {
+      "original_receipt_sha256": "666e85a4d944248e6fb4e14ebe68c6ef1c471a866e7353f0ccb5e14d6284af5d",
+      "exact_source_scope_and_findings": {
+        "schema": "KONOSUBA_ACCEPTED_NATIVE_TARGETED_INDIVIDUAL_IDENTITY_AND_CHOICE_RECHECK_V1",
+        "recorded_utc": "2026-10-20T00:41:56.968186+00:00",
+        "source_id": "MAIN-16",
+        "native_filename": "Konosuba - Main Series - Volume 16.epub",
+        "native_bytes": 8530869,
+        "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991",
+        "accepted_principal_contract": {
+          "alias": "C2 / start",
+          "paragraph_slots": 578,
+          "member_sha256": "722b44dbe6a27c039dc902c9447e602b9139a12a8a8a03a1fb7492a34da3e991"
+        },
+        "actual_current_received_complete_base_p_windows": [
+          [
+            136,
+            249
+          ],
+          [
+            273,
+            342
+          ]
+        ],
+        "actual_tool_display_segments": [
+          [
+            136,
+            158
+          ],
+          [
+            215,
+            249
+          ],
+          [
+            159,
+            214
+          ],
+          [
+            273,
+            310
+          ],
+          [
+            311,
+            342
+          ]
+        ],
+        "current_distinct_member_p_slots": 184,
+        "new_unique_source_coverage_credit": 0,
+        "new_whole_principal_or_excluded_pass_credit": 0,
+        "no_retained_ruby_xml_residual_or_image_review": true,
+        "independent_validation": false,
+        "scope_guard": "Accepted principal base-text targeted current recheck; existing1395unique retainedMAIN16 scope is not automatically expanded, because overlap union against its exact coverage has not been reconstructed. Current184slots are received, not extra independent observations.",
+        "findings": [
+          "Stella is directly addressed by name atP139; she is the I focalizer who answers the exhausted Flash-scroll requestP141, recalls prior six-month careful mappingP149 and overconfidenceP150-151, weighs depleted food/protection/mana recoveryP170-175 and death risk, stops when wounded Gain cannot fleeP182, warns arriving strangerP204 and reacts to his lost armP210. Actual rescue/trade later yields her mistaken god/humility explanationP234-249, not verified deity identity.",
+          "Gil/ギル directly addresses StellaP139, proposes ecological stair escapeP168-169, and when Gain is hit proposes defensive magicP186-187. He later explicitly thanks the seller for actual rescue/resourcesP240-241. Commanding here does not establish a permanent leader rank or unique expertise.",
+          "Gain/ゲイン is named as rear runner with treasure bagP143-144; P178-182 shows his scream, lost treasure and actual scratched back, causing the others to stop. His fall/dropped property is not a voluntary greedy choice or an invented refusal to discard burden.",
+          "P157-158 explicitly identifies the crying next runner as Stella's younger sister. P189/P194-195 establishes four adventurers. Her name, exact age, class, spells and later individual speech attribution are not supplied; group buying/replies cannot all be assigned to her.",
+          "Amaryllis/アマリリス selfnamesP279 and performs a tragic abandoned-chimera child storyP283/286. Only Wiz makes the cure promiseP290/294/298/313; Kazuma's intervening reassurance/candy offer is not another cure commitment. Apparent child persona and spider form are distinct from actual biography.",
+          "Amaryllis stops herselfP320 on hearing VanirP317-319, then shifts to respectful adult discourseP321/325. She explicitly admits the history was false and fear is her preferred negative emotionP328; anger is Vanir's preference, not an automatically nourishing substitute for her. Vanir marks the two as his companionsP324. New audience/affiliation information changes her behavior without an observed physical restraint.",
+          "Amaryllis reports seeking her escaped hell-neroid pet Stesky/ステスキーP325/333, asks Vanir for foresightP333, receives an evasive departureP334 and leavesP336. No successful location request, returned pet, accepted promise or omniscient knowledge is shown. Same passage does not explicitly identify Stesky as the monster Vanir killed earlierP213; retain a cross-event identity hypothesis without merger.",
+          "The invented child's dead parents, purchaser-experimenter and abandonment belong to expressly fabricated biography, so they do not automatically become additional real-cast people. Amaryllis is one actor across performed forms, not two individuals. No known cross-source alias merge is inferred from broad demonic species."
+        ],
+        "candidate_dispositions": "Stella/Gil/Gain bounded0-1 or1 candidates; sister narrow0candidate; Amaryllis1-2candidate with concentrated discrimination potential; reported named pet0-1, identity-to-killed-neroid open. All provisional; no final tier or model promotion.",
+        "canonical_mutations": false,
+        "independent_observation_denominator": null
+      }
+    },
+    "SECONDARY_ACCEPTED_MAIN11_MAIN15_REGINA_AFFILIATION_NATIVE_JOIN_01.json": {
+      "original_receipt_sha256": "8495fc853442059c71f209cba453e49df6be9046d17003852255208374169529",
+      "exact_source_scope_and_findings": {
+        "schema": "KONOSUBA_ACCEPTED_NATIVE_AFFILIATION_JOIN_V1",
+        "verified_utc": "2026-10-20T00:25:44.572971+00:00",
+        "members": [
+          {
+            "source": "MAIN11",
+            "native_filename": "Konosuba - Main Series - Volume 11.epub",
+            "native_bytes": 6177663,
+            "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+            "member": "item/xhtml/p-005.xhtml",
+            "member_bytes": 97251,
+            "member_sha256": "6d37867cc78380b4980018711fc5e494540d6d2d774f85274b606108ae2b7c6d",
+            "actual_complete_BASE_P_ranges": [
+              [
+                483,
+                552
+              ]
+            ],
+            "scope": "Bounded current native base text only; no whole-member/wholebook/ruby/image/independent pass."
+          },
+          {
+            "source": "MAIN15",
+            "native_filename": "Konosuba - Main Series - Volume 15.epub",
+            "native_bytes": 2513225,
+            "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+            "member": "OEBPS/Text/part0010.xhtml",
+            "member_bytes": 69182,
+            "member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e",
+            "actual_complete_BASE_P_ranges": [
+              [
+                1,
+                40
+              ]
+            ],
+            "scope": "Bounded current native base text only; no whole-member/wholebook/ruby/image/independent pass."
+          }
+        ],
+        "current_member_scope_slots": 110,
+        "MAIN11_repeat_of_already_received_427_579_slots": 70,
+        "MAIN15_current_new_targeted_scope_slots": 40,
+        "new_whole_source_or_independent_validation_credit": 0,
+        "failed_attempts_with_zero_reading_credit": [
+          "Incorrect MAIN11 text/part0012.html rejected by accepted-member lookup before source display; corrected by metadata-only member map."
+        ],
+        "findings": [
+          "MAIN11 C3P525/533 explicitly names Regina in Lucy prayers and identifies puppetry/revenge; MAIN15C1P22 explicitly names Regina and the same domains in Serena/Seresdina own dark-priest self-identification. This supports joining the deity reference, not merging Lucy and Serena.",
+          "MAIN11P487 is Aqua relaying the receptionist information about Lucy solitary prayer;P541 last-follower extinction is Aqua claim. MeguminP512/P545 hypothesizes other followers after a reported release abouttwo years earlier. Neither is an audited follower census.",
+          "MAIN15P22 supplies another explicit self-professed adherent at the later source boundary. It does not retrospectively verify Megumin exact prediction, establish recruitment date, prove prior total believers or contradict every historical solitary-prayer observation.",
+          "LucyP542 retribution/help history is her testimony. MeguminP509/P550 release is her claim with her own narrated role; no direct present Regina choice or voice appears in either current native window. Regina remains a proportionally bounded reported subject until further evidence.",
+          "SerenaP35 admits corpse-puppet staging and repeat trust-building use;P39 admits reusable tragic-girl fiction. These are her present admissions, without retroactive V14 knowledge or an invented independently observed past repetition."
+        ],
+        "canonical_mutation": false,
+        "global_population_or_final_tiers_closed": false
+      }
+    },
+    "SECONDARY_ACCEPTED_MAIN15_ALOERINA_EXISTING_IDENTITY_NATIVE_RECHECK_01.json": {
+      "original_receipt_sha256": "7f16d4d16b57ddbb6323a3e7250694c3f955f3bb9a523d9773adde0f2110f638",
+      "exact_source_scope_and_findings": {
+        "schema": "KONOSUBA_ACCEPTED_NATIVE_EXISTING_IDENTITY_RECHECK_V1",
+        "verified_utc": "2026-10-20T00:27:46.632744+00:00",
+        "source": "MAIN15",
+        "native_filename": "Konosuba - Main Series - Volume 15.epub",
+        "native_bytes": 2513225,
+        "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+        "member": "OEBPS/Text/part0011.xhtml",
+        "member_bytes": 145103,
+        "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+        "actual_complete_BASE_P_ranges": [
+          [
+            427,
+            463
+          ]
+        ],
+        "current_member_scope_slots": 37,
+        "new_unique_native_slot_credit": 0,
+        "scope": "Current bounded recheck of already accepted character identity; not a new wholebook/member/ruby/image/independent pass.",
+        "findings": [
+          "Aloerina names herselfアロエリーナ atC2P461 and explicitly states23/single. This validates the existing distinct Aloerina row rather than creating another actor. NativeP430/436/450 retains the same female knight in the officer departure sequence.",
+          "P434/438/446 are the officer account of Claire letter and Rain rushed visit/document handoff/Teleport. No new direct Claire appearance is shown. P435/442-444 gives Kazuma letter contents and his guarantor inference; P447 fear explanation is his inference, not direct private court thought.",
+          "Actual changed deference427/430, offered blind eye451 and own status/partner appraisal456-461 are distinct from proof of legal validity or universally corrupt behavior. No diagnosis or stable lifetime model follows from age/status.",
+          "Sena, Luna, Aulip and unnamed officials remain distinct pending explicit identity proof. Existing working30 has both Sena and Aloerina, so the count remains151qualified working rows. No row/denominator mutation here."
+        ],
+        "canonical_mutation": false,
+        "new_source_or_independent_validation_credit": 0
+      }
+    }
+  },
+  "source_known_internal_receiving": {
+    "first_outputs": 6,
+    "contrasts": 3,
+    "source_or_independent_validation_credit": 0,
+    "score": null,
+    "confidence_increase": false,
+    "third_pair_behavioral_discrimination": false
+  },
+  "current_native_credit": "DUST07 explicit current-audit lineage1218 BASE-TEXT member slots, not a global observation count; other bounded/inherited scopes remain separate. Zero new whole-book/ruby/image/independent-test credit.",
+  "main15_external_erratum": "09 Audits and Manifests/KONOSUBA_MAIN15_PV29_ACTOR_ATTRIBUTION_ERRATUM_01.json",
+  "preservation": "66 immutable current files/72 historical pins/four scores/seven original Dust questions/fourteen blanks/eleven entering models/SI-SY28 original nulls/80 scratch and seven Chris-Eris post-gate paths preserved. No direct global discovery/reconstruction/routing output authorship.",
+  "not_completed": [
+    "Full individual/event census, proportional additional artifacts, expanded specialists and versioned six principal/party/transfer models",
+    "Designated curation, currently governed integration and component/release/final-entry audits"
+  ],
+  "integration_boundary": "Current main governance makes EC2 stewardship primary but requires independently enforced shared exclusion before apply. This series-author candidate does not activate or invoke a protected-merge executor or change provider settings.",
+  "full_publication_gate": {
+    "path": "09 Audits and Manifests/KONOSUBA_DUSTCOHORT01_PUBLICATION_GATE_CLOSE.json",
+    "sha256": "4028d588c7424d416cc20abe44d77c103db8edf3c670980b87621c5759f3ba3f",
+    "actual_source": "59a60ed821e8bf295a37e0770b52023f60f7ae9c",
+    "tree": "6694640879ec16afb1f3868cb4b26ffe9895eb2c",
+    "source_run": 39356025994,
+    "housekeeping_run": 39356388057,
+    "final_run": 39356428059,
+    "full_tests_each": 385,
+    "all5_non_success_zero": true,
+    "all9181_remote_paths_and39streams_exact": true,
+    "fresh1005_project_authority_reload": true
+  },
+  "post_gate_current_operation": "Full individual census and joins, further proportional artifacts including Komekko, expanded specialists and separately versioned six models, designated curation/integration and component/release/final-entry audit continue. No full-program completion or protected merge."
+}

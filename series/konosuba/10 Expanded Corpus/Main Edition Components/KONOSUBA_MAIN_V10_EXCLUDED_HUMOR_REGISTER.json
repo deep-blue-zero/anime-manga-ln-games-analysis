@@ -1,0 +1,419 @@
+{
+  "schema": "KONOSUBA_MAIN10_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-10",
+  "records": [
+    {
+      "id": "M10EX-H01",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 3,
+        "end_P": 7
+      },
+      "whole_selected_premise": "At eleven Aqua eats a large late breakfast prepared by Megumin, then naps again with Zel on her stomach.",
+      "primary_L": "L0",
+      "L_rationale": "Late waking, appetite and immediate return to sleep survive paraphrase; the observer's framing adds local emphasis.",
+      "primary_H": "H2",
+      "H_rationale": "Actual narrated acts with amplified indolence framing; no diagnosis, universal daily routine or failure of an adopted task.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H02",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 8,
+        "end_P": 12
+      },
+      "whole_selected_premise": "Darkness converts Aqua's request for pocket money into a bargain over tomorrow's dishwashing so she can return to reading.",
+      "primary_L": "L0",
+      "L_rationale": "The interruption/resource/labor exchange is structurally portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actual money grant on a stated condition; tomorrow's work is not yet performed.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H03",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 13,
+        "end_P": 16
+      },
+      "whole_selected_premise": "Aqua enjoys an elder's worship and gives Heal, while the observer suspects the elder's mind rather than immediately accepting the goddess recognition.",
+      "primary_L": "L1",
+      "L_rationale": "The narrator's ominous いよいよ/かもしれない framing reverses the apparent honor.",
+      "primary_H": "H1",
+      "H_rationale": "Worship/Heal are represented acts, mental decline is Kazuma's speculation and cure is unshown.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H04",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 17,
+        "end_P": 20
+      },
+      "whole_selected_premise": "Aqua announces that kindness keeps her from waking a cat, and that loud announcement wakes it.",
+      "primary_L": "L0",
+      "L_rationale": "Intended restraint versus actual noisy consequence is portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actual waking contradicts the local effect of her claim; desire/fear from prior rejection remains inferred.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H05",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 21,
+        "end_P": 25
+      },
+      "whole_selected_premise": "The three-o'clock bell seems to send Aqua directly toward another meal despite the observer having recorded a large earlier one.",
+      "primary_L": "L1",
+      "L_rationale": "Time-stamped observation and the speculative 'snack as duty' account supply the phrasing.",
+      "primary_H": "H2",
+      "H_rationale": "Actual purchase/eating with amplified appetite framing; a compulsory belief is not established.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H06",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 26,
+        "end_P": 28
+      },
+      "whole_selected_premise": "Aqua reviews the vendor's crepe from above, then happily accepts dough scraps as a bonus.",
+      "primary_L": "L2",
+      "L_rationale": "Superior evaluator stance contrasts with pleasure in an informal extra.",
+      "primary_H": "H1",
+      "H_rationale": "Actual attributed comment and received scraps; vendor intention and habitual-customer status remain uncertain.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H07",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 29,
+        "end_P": 34
+      },
+      "whole_selected_premise": "Aqua uses water and craft to outdo children's sand play, accepts their praise and explicitly lets them wreck the impressive goblin.",
+      "primary_L": "L0",
+      "L_rationale": "Overperformance before children and willing destruction of its product are portable.",
+      "primary_H": "H2",
+      "H_rationale": "Real sculpture, praise, permission and kick with inflated competition framing; no irreversible-possession-loss test.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H08",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 35,
+        "end_P": 39
+      },
+      "whole_selected_premise": "Caught collecting fountain coins, Aqua claims them as donations to the ruler of water; the officer withdraws after apparently recognizing an Axis follower.",
+      "primary_L": "L2",
+      "L_rationale": "Ownership/status justification and pragmatic avoidance shape the exchange.",
+      "primary_H": "H1",
+      "H_rationale": "Coin taking, objection and departure occur; lawful ownership and the officer's private motive are not verified.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H09",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 40,
+        "end_P": 46
+      },
+      "whole_selected_premise": "Aqua's short shop visit ends with Vanir throwing salt, then she casts at the door and flees while blocking her ears as he shouts.",
+      "primary_L": "L0",
+      "L_rationale": "Expulsion, retaliatory obstruction and refusal to hear the victim are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Actions/glow/shouting are observed; unseen shop cause, exact holy-barrier type, confinement and frequency remain inferred.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H10",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 47,
+        "end_P": 49
+      },
+      "whole_selected_premise": "The same walk combines useful clean-water provision for merchants with being scolded for peering into liquor barrels.",
+      "primary_L": "L0",
+      "L_rationale": "Alternating contribution and nuisance complicates a single good/bad description.",
+      "primary_H": "H1",
+      "H_rationale": "Water/thanks and rebuke are actual observations, not evidence that every service succeeds or every merchant dislikes her.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H11",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 50,
+        "end_P": 56
+      },
+      "whole_selected_premise": "Aqua repeatedly takes Eris charity bread until stopped, then distributes it with Cecily while advertising Axis charity as a rival achievement.",
+      "primary_L": "L0",
+      "L_rationale": "Resource rerouting and sectarian credit-seeking survive paraphrase; denomination wording supplies local context.",
+      "primary_H": "H1",
+      "H_rationale": "Bread receipt, repeated queueing, limit and redistribution are shown. The pitch is not individually tagged to Cecily and legal ownership is unadjudicated.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H12",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 57,
+        "end_P": 60
+      },
+      "whole_selected_premise": "Aqua's virtuous work summary turns the day's awkward acts into grounds for pocket money, only for Kazuma to reveal he watched with Hide.",
+      "primary_L": "L1",
+      "L_rationale": "Selective parallel list and late observer reveal produce the reversal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual self-account/request/rebuke; sincere self-justification and deliberate concealment remain rival motives.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H13",
+      "boundary": {
+        "component_id": "MAIN-10-U021",
+        "start_P": 59,
+        "end_P": 60
+      },
+      "whole_selected_premise": "The goddess's request for reward ends with the witness bluntly denying her goddess identity.",
+      "primary_L": "L2",
+      "L_rationale": "A familiar moral-status rebuke conflicts with literal established divinity; no civil-pressure surface is invented.",
+      "primary_H": "H2",
+      "H_rationale": "Actual emphatic devaluation, not proof she is ontologically human or an observed response from her after the ending.",
+      "source_plane": "NEW_BONUS_NARRATIVE_WITH_ATTRIBUTIONS",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0019.html",
+      "native_member_sha256": "d0113ca88fa17097ed252a2ad12948e21e1086af3af129436433fd9acc99266b",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H14",
+      "boundary": {
+        "component_id": "MAIN-10-U018",
+        "start_P": 4,
+        "end_P": 7
+      },
+      "whole_selected_premise": "The author moves near the city yet says he lives more like a hermit, while admitting ample time for home games.",
+      "primary_L": "L1",
+      "L_rationale": "City-access/self-isolation incongruity and hermit metaphor supply the local wording.",
+      "primary_H": "H2",
+      "H_rationale": "Creator's amplified self-presentation; not Kazuma's residence, private diagnosis or independently verified lifestyle.",
+      "source_plane": "AUTHOR_AFTERWORD",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0016.html",
+      "native_member_sha256": "1767f829d89228e5449f346494ce8d07014eb241255543ee745f5e8836a0e125",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H15",
+      "boundary": {
+        "component_id": "MAIN-10-U018",
+        "start_P": 10,
+        "end_P": 13
+      },
+      "whole_selected_premise": "A proposed few-page poll reward becomes a web serial after the author anticipates reader anger at giving so little.",
+      "primary_L": "L1",
+      "L_rationale": "Scale escalation and imagined audience complaint make the production explanation comic.",
+      "primary_H": "H1",
+      "H_rationale": "Historical authorial account of a publishing decision; no actual threatening reader scene or current serialization check.",
+      "source_plane": "AUTHOR_AFTERWORD",
+      "eligibility_and_limits": "Whole-purpose selection after the source-first seal. Overlap is declared and supplies no frequency denominator, independent trial or complete motive access.",
+      "native_member": "text/part0016.html",
+      "native_member_sha256": "1767f829d89228e5449f346494ce8d07014eb241255543ee745f5e8836a0e125",
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H16",
+      "boundary": {
+        "component_id": "MAIN-10-U010",
+        "image_id": "MAIN-10-IMG009"
+      },
+      "whole_selected_premise": "A supposedly uncontrollable goddess, lucky novice, defensive specialist, Explosion-only genius and fond princess are compressed into contrasting profile identities.",
+      "primary_L": "L1",
+      "L_rationale": "Editorial role descriptions make the contrast; no one form fixes every behavior.",
+      "primary_H": "H2",
+      "H_rationale": "Exaggerated editorial summary of source roles, not universal competence/motive laws.",
+      "source_plane": "EDITION_PROFILE",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0008.html",
+      "native_member_sha256": "50f6364e0f8a6ad42f45750e559f9c43b8cf3c7e58bd2202e9125bd4577c8a6f",
+      "native_image_sha256": "c8a96dcf510779fb2bc42a19dfdf59f837e4b74c8c2f7b8dd6797348dfaf9e59",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H17",
+      "boundary": {
+        "component_id": "MAIN-10-U012",
+        "image_id": "MAIN-10-IMG011"
+      },
+      "whole_selected_premise": "A portrait that resembles affectionate leaning belongs to a poisoning/readiness crisis, with the supposed antidote provider asleep after drinking.",
+      "primary_L": "L0",
+      "L_rationale": "The divergence between surface romantic composition and actual practical dependency is portable.",
+      "primary_H": "H1",
+      "H_rationale": "Retained C1P259-279; bodily effects and reported church recovery remain real, no new voluntary-intimacy trial.",
+      "source_plane": "RETAINED_PRINCIPAL_ILLUSTRATION",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0010.html",
+      "native_member_sha256": "f87f7afb3581d5ce16fed794c82b7fa4421ce6df21fde22c4dc4722482e6c74f",
+      "native_image_sha256": "33dd00da8645f331addcfc84434e42acc28aebd0dceea92a65670e18074fe567",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H18",
+      "boundary": {
+        "component_id": "MAIN-10-U013",
+        "image_id": "MAIN-10-IMG013"
+      },
+      "whole_selected_premise": "Iris and Megumin's fierce handclasp is a seating tussle that abandons Kazuma's assumed contest over being next to him.",
+      "primary_L": "L0",
+      "L_rationale": "Rival positions and the narrator's mistaken flattering premise survive paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "Retained C2P140-156. Claire/Rain are attendants in143; no new arm-wrestling outcome or formal royal submission.",
+      "source_plane": "RETAINED_PRINCIPAL_ILLUSTRATION",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0011.html",
+      "native_member_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+      "native_image_sha256": "2c4d16407731f997a1026fbc3abd88cd583ded75fb0195517f91592e07599c88",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H19",
+      "boundary": {
+        "component_id": "MAIN-10-U013",
+        "image_id": "MAIN-10-IMG014"
+      },
+      "whole_selected_premise": "Kazuma performs authoritative cooking for an eager Iris, then the supposedly inert cabbage escapes and she corrects his elementary mistake.",
+      "primary_L": "L0",
+      "L_rationale": "Claimed authority versus elementary practical omission is portable.",
+      "primary_H": "H1",
+      "H_rationale": "Retained C2P264-305. Cooking skill and finished meal coexist with a specific failure; source-world live ingredients are not automatic H4.",
+      "source_plane": "RETAINED_PRINCIPAL_ILLUSTRATION",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0011.html",
+      "native_member_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+      "native_image_sha256": "4622c5ed6f0337a9cd400b1cb228f01912236f34d1bb2c310b9f067d0fdbcb77",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H20",
+      "boundary": {
+        "component_id": "MAIN-10-U016",
+        "image_id": "MAIN-10-IMG023"
+      },
+      "whole_selected_premise": "Kazuma misreads Darkness's close face in a crisis until she bites his gag to make their escape possible.",
+      "primary_L": "L0",
+      "L_rationale": "Mistaken intimate interpretation versus practical coordination survives paraphrase.",
+      "primary_H": "H1",
+      "H_rationale": "Retained C5P629-660, enemy restraint, actual singed gag and later handcuffs. Teeth/close posture are not automatic enjoyment or consent.",
+      "source_plane": "RETAINED_PRINCIPAL_ILLUSTRATION",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0014.html",
+      "native_member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+      "native_image_sha256": "ac25de6787c23939d5955ef1a3ca34cae55658a7ed27a0474a8020558abcf6d0",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    },
+    {
+      "id": "M10EX-H21",
+      "boundary": {
+        "component_id": "MAIN-10-U020",
+        "image_id": "MAIN-10-IMG027"
+      },
+      "whole_selected_premise": "The next-volume script's castle-staying banter is interrupted by Komekko calmly reporting that the house went bang and vanished.",
+      "primary_L": "L1",
+      "L_rationale": "Casual explosive sound and escalating speech bubbles supply the comic phrasing; the family situation needs its own source context.",
+      "primary_H": "H4",
+      "H_rationale": "Future-volume editorial staging, not a newly performed volume10 explosion, parental fate or observed Komekko decision.",
+      "source_plane": "FUTURE_PROMOTIONAL_STAGED_SCRIPT",
+      "eligibility_and_limits": "Actually viewed native raster with exact retained-body joins or explicit promotional plane. No new principal event/pass or optional secondary source opportunity.",
+      "native_member": "text/part0018.html",
+      "native_member_sha256": "c64bfbb6e06df97a8170e584b5f531d21690a26b83213dd0eca107e4e504a7db",
+      "native_image_sha256": "fad1d6d1b7046a36c8d18ccfd5ea791abd3740158e6022a6a8d97287b14b1614",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T15:05:03.982412+00:00",
+      "source_first_selection_precision": "Purposeful post-seal selection after complete actual excluded-text/raster reception. Declared principal calibration retains previous authority and no new event/pass credit."
+    }
+  ],
+  "H_protocol": "H1 literal acts or attributed statements; H2 underlying reaction with amplified intensity; H3 only behavior contingent on a local gag, not uncertainty; H4 staged/nonliteral presentation rather than fantasy automatically. Actual and projected effects remain different.",
+  "L_protocol": "L0 structurally portable; L1 phrasing-sensitive; L2 register/pragmatic stance; L3 central Japanese-form dependence. Whole effects and named nested forms are distinct; selected overlap is not a denominator."
+}

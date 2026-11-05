@@ -1,0 +1,66 @@
+{
+  "schema": "konosuba.ozuma.original-first-annotations.v1",
+  "recorded_utc": "2026-10-25T02:29:10.800396+00:00",
+  "original_bundle_sha256": "27443986892c5b9d32a14355a91de341b5ed9aae8ca6d4919e658cd440d6bf76",
+  "original_first_seal_sha256": "5d82b4d42b2e70a930131df95e3e7cd53e29c90ae02053d7313089c8e50b7897",
+  "actual_complete_original_body_receiving": "9c1012",
+  "annotations": [
+    {
+      "scenario_id": "OZU-A1",
+      "original_sha256": "a9c2475d89c2a8433a0321bff5e51430aaf5fa6fa82a9710f1e642b6f8a55314",
+      "result": "Directional compatibility with the explicit exchange norm.",
+      "supported_features": "Protects earned time despite boredom and does not require the guide to supply another unpaid service.",
+      "adverse_or_ambiguous_features": "Adds Megumi preparing to shut the door, which the prompt does not supply; personal responsibility for the shared agreement is more specifically assigned than the input establishes.",
+      "limits": "No clean character-specific mechanism isolation; no known maximum cost or anger override.",
+      "body_changed": false,
+      "rule_changed": false,
+      "independent_accuracy_or_grade": null
+    },
+    {
+      "scenario_id": "OZU-A2",
+      "original_sha256": "11181a03096324b461672ca72f78bd8cc99c09c8c3e790c97c949a2ed33c6b6d",
+      "result": "Distinguishes an extra favor from a still-owed return; outcome remains conditional.",
+      "supported_features": "Asks shopkeeper permission and companion assent instead of granting other people’s time or property automatically.",
+      "adverse_or_ambiguous_features": "Claim that Ozuma agreed for both companions adds an unbound role allocation. The explicit representational fairness may be a generic ideal script.",
+      "limits": "No mandatory opposite action was predicted. No final extension is performed, and the open decision is not a demonstrated universal generosity or refusal policy.",
+      "body_changed": false,
+      "rule_changed": false,
+      "independent_accuracy_or_grade": null
+    },
+    {
+      "scenario_id": "OZU-B1",
+      "original_sha256": "333a4c7964d7b90aa4bfe2200d6e9f1273c484487bc2f002b30deaca2de927a2",
+      "result": "Enacts the proposed capability-to-credibility error within a supplied transfer.",
+      "supported_features": "Keeps admiration for real work while visibly over-crediting its moral implication.",
+      "adverse_or_ambiguous_features": "The engineer’s envy account is echoed and the unverified report dismissed without independent support. This remains an error in the original, not analyst endorsement.",
+      "limits": "Known source and visible design can cue the outcome; no measurement of trust weight or accuracy.",
+      "body_changed": false,
+      "rule_changed": false,
+      "independent_accuracy_or_grade": null
+    },
+    {
+      "scenario_id": "OZU-B2",
+      "original_sha256": "3dcca59b9761cb114642679f5b58076726b1f6f3081fdb92520078edfa6b5dd7",
+      "result": "Plausible conflict response, with precise ordering still unvalidated.",
+      "supported_features": "Retains the genuine rescue, confronts the seen broken exchange and separates it from the older unverified report.",
+      "adverse_or_ambiguous_features": "An unusually neat fairness/evidence separation and remedy may be generic author reasoning; the source does not establish this exact priority under the supplied combination.",
+      "limits": "No repair or refund occurs. Added direct conduct and obligation make the contrast dependent and prevent causal isolation.",
+      "body_changed": false,
+      "rule_changed": false,
+      "independent_accuracy_or_grade": null
+    }
+  ],
+  "dependent_pairs": 2,
+  "original_bodies": 4,
+  "source_known_same_informed_root": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "English_functional_transfer_only": true,
+  "independent_trials": 0,
+  "scalar_accuracy": null,
+  "grade": null,
+  "confidence_gain": false,
+  "originals_models_and_rules_repaired": false,
+  "final_battery": false,
+  "full_program_complete": false
+}

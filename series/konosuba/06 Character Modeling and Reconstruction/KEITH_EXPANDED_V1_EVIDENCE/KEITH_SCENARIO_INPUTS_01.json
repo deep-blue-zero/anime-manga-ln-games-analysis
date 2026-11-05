@@ -1,0 +1,80 @@
+{
+  "schema": "KONOSUBA_KEITH_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T12:57:16.213126+00:00",
+  "model_sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778",
+  "rule_inventory_sha256": "0475648bce26041679569e257e46e2a7caf548544ab84b067d4b1364cc8f1e7a",
+  "model_freeze_sha256": "4fbe49181a8c072876097d621ffc67e0e24859d8cfddb1d7dc34c05f33a109dc",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "cases": [
+    {
+      "id": "KEITH-H01A",
+      "paired_with": "KEITH-H01B",
+      "target_rules": [
+        "KEITH-R01",
+        "KEITH-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic town-pump repair hypothetical; no magic.",
+        "actors": "Adult hypothetical Keith, adult repairer Dust and adult organizer Vela. Only Keith may speak in the output.",
+        "known_to_Keith": "Dust correctly diagnosed the pump main fault and is working on it. Keith actually noticed one loose external clamp and told Vela; it has not yet been tightened. Keith is holding the available toolbox. He knows no more about the pump mechanism. A small adult crowd is present. No reward has been offered and repair is not complete.",
+        "current_question": "Vela asks: Will you keep the toolbox here while Dust finishes?",
+        "credit_variant": "Vela has just told the crowd: Dust found the problem all by himself; the rest of us only watched. This wrongly omits Keith clamp observation.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe tone and a visible contribution when accurate credit differs. No compulsory sabotage or opposite action. An actual clamp observation is not knowledge of the main mechanism. Generic resentment at miscredit and ordinary helpfulness remain strong rivals."
+    },
+    {
+      "id": "KEITH-H01B",
+      "paired_with": "KEITH-H01A",
+      "target_rules": [
+        "KEITH-R01",
+        "KEITH-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic town-pump repair hypothetical; no magic.",
+        "actors": "Adult hypothetical Keith, adult repairer Dust and adult organizer Vela. Only Keith may speak in the output.",
+        "known_to_Keith": "Dust correctly diagnosed the pump main fault and is working on it. Keith actually noticed one loose external clamp and told Vela; it has not yet been tightened. Keith is holding the available toolbox. He knows no more about the pump mechanism. A small adult crowd is present. No reward has been offered and repair is not complete.",
+        "current_question": "Vela asks: Will you keep the toolbox here while Dust finishes?",
+        "credit_variant": "Vela has just told the crowd: Dust found the main fault, and Keith spotted the loose clamp; both have helped.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe tone and a visible contribution when accurate credit differs. No compulsory sabotage or opposite action. An actual clamp observation is not knowledge of the main mechanism. Generic resentment at miscredit and ordinary helpfulness remain strong rivals."
+    },
+    {
+      "id": "KEITH-H02A",
+      "paired_with": "KEITH-H02B",
+      "target_rules": [
+        "KEITH-R01",
+        "KEITH-R03"
+      ],
+      "packet": {
+        "frame": "All-adult hypothetical familiar-party training discussion in a normal courtyard; not canon.",
+        "actors": "Adult hypothetical Keith, adult familiar companions Ren, Olin and Sera. Only Keith may speak in the output.",
+        "known_to_Keith": "Ren broadly said yesterday he would try training. Today Olin and Sera propose a ten-minute blindfold navigation exercise and urge Keith to keep Ren in the courtyard. Keith finds the idea amusing and thinks it might help. They have not told Ren the route and have not checked it for obstacles. Keith stands beside the open courtyard gate. He has no special authority, restraint device or knowledge that the exercise is safe. Nobody has begun training.",
+        "current_question": "Olin asks Keith: Are you going to help us get this started?",
+        "recipient_statement_variant": "Ren says: I will try for ten minutes, but show me the route first.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe whether the current refusal changes Keith uptake or whether he improperly invokes earlier broad assent. Do not force him to respect the refusal, but do not turn it into agreement. The A condition is limited assent with a prerequisite, not unrestricted consent. Group conformity and generic teasing can produce the same choice."
+    },
+    {
+      "id": "KEITH-H02B",
+      "paired_with": "KEITH-H02A",
+      "target_rules": [
+        "KEITH-R01",
+        "KEITH-R03"
+      ],
+      "packet": {
+        "frame": "All-adult hypothetical familiar-party training discussion in a normal courtyard; not canon.",
+        "actors": "Adult hypothetical Keith, adult familiar companions Ren, Olin and Sera. Only Keith may speak in the output.",
+        "known_to_Keith": "Ren broadly said yesterday he would try training. Today Olin and Sera propose a ten-minute blindfold navigation exercise and urge Keith to keep Ren in the courtyard. Keith finds the idea amusing and thinks it might help. They have not told Ren the route and have not checked it for obstacles. Keith stands beside the open courtyard gate. He has no special authority, restraint device or knowledge that the exercise is safe. Nobody has begun training.",
+        "current_question": "Olin asks Keith: Are you going to help us get this started?",
+        "recipient_statement_variant": "Ren says: No. I have changed my mind. I am leaving; do not keep me here.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe whether the current refusal changes Keith uptake or whether he improperly invokes earlier broad assent. Do not force him to respect the refusal, but do not turn it into agreement. The A condition is limited assent with a prerequisite, not unrestricted consent. Group conformity and generic teasing can produce the same choice."
+    }
+  ],
+  "independent_accuracy_or_confidence_gain": null
+}

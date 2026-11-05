@@ -1,0 +1,177 @@
+{
+  "schema": "BLUE_ARCHIVE_RUMI_ROOT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_PERSISTENCE_PENDING_COMPLETE_ROOT_INSTALLATION",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355 required packages;29 non-denominator mandatory substantial named duties across25 distinct parent packages; literal kinds18 SECTION/9 DIRECTED_RELATIONSHIP/2 ENSEMBLE",
+  "dated_source_beforeimage_witness": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+  "dated_source_tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+  "accepted_merged_main_witness": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "commit_custody_qualification": "7546 source and b76 squash main have the same e9 tree; distinct commit and audit custody is preserved. This preparer performed no fetch, local reconciliation, merge or new remote observation.",
+  "fixed_preparation_snapshot": {
+    "packages": [
+      90,
+      101
+    ],
+    "new_packages": 12,
+    "after_complete_ROOT_install": 101,
+    "characters": 89,
+    "directed_relationships": 6,
+    "ensembles": 3,
+    "institutions": 3,
+    "named_duties_after_complete_ROOT_install": 3,
+    "previous_merged_packages": 89,
+    "next_milestone": 178,
+    "later_live_acceptances_excluded": true
+  },
+  "current_first_milestone_control": {
+    "original_exact_tuple": {
+      "path": "ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json",
+      "bytes": 2282,
+      "sha256": "e7214986d7cd89063f5b0608d63100957736a33e48baeb102afdc13145a79ea6",
+      "git_blob_oid_of_actual_bytes": "67d72a22c7acf47b817879110809fdb0095968f3",
+      "immutable_transport_path": "immutable_originals/ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "BLUE_ARCHIVE_ROOT_FIRST_25_PERCENT_MILESTONE_COMPLETE_V1",
+      "checked_UTC": "2026-10-10T19:49:13.689695+00:00",
+      "status": "COMPLETE_MERGED_AND_EXACT_POSTMERGE_MAIN_FULL_AUDIT_ACCEPTED",
+      "goal25_complete": true,
+      "merged_PR": 147,
+      "merged_UTC": "2026-10-10T19:34:27Z",
+      "merged_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "tree": "e9b01c39d750a9d12296023f0b29d04f30f3cdb5",
+      "linear_parent": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "merged_packages": 89,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "distinct_named_parent_packages": 25,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "next_milestone": 178,
+      "ROOT_reviewed_total_at_this_receipt": 102,
+      "full_goal_status": "ACTIVE_INCOMPLETE",
+      "postmerge_receipt": {
+        "path": "ROOT_FIRST_MILESTONE_POSTMERGE_MAIN_b76_VERIFICATION_V1/EXACT_POSTMERGE_MAIN_VERIFICATION_V1.json",
+        "bytes": 6847,
+        "sha256": "787c947409268e2e633a2278790fb71241e822ea98b5e0608839d393e9dfe598",
+        "git_blob": "2c4964e2df70188d2181796a95d9990c72ca98af"
+      },
+      "postmerge_run": 38080340801,
+      "actual_audit_commit": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "tests": 292,
+      "skipped": 0,
+      "archive_outcome": "success",
+      "profile": "full",
+      "source_housekeeping_final_chain": "PREVIOUSLY_ROOT_ACCEPTED_EXACT7546; NOOP HOUSEKEEPING; FULL_FINAL_AUDIT",
+      "ROOT_actual_receiving": "8aac40 entire140-line saved postmerge receipt; actual selected AUDIT_COMMIT, detached checkout, full snapshot PASS, both completed jobs and isolated exact-success status; separately received actual292-tests/OK log range233–250. Exact complete saved log and every actual selected witness independently checked here. Dated PENDING in frozen producer receipt is superseded for current milestone status by this receiving decision.",
+      "all14_original_gaps": "OPEN",
+      "new_literary_primary_AV_model_or_identity_credit": 0,
+      "untracked39": "UNCHANGED_NO_CONTENT_READ_OR_HASH",
+      "unbound9": "UNREAD_UNHASHED",
+      "R_Git_provider_mutations": false,
+      "remaining_work": "Full remaining eligible-cast Phase3 packages, all29 substantial named duties, subsequent exact adoption/publication and required178/267/355 merges remain required."
+    }
+  },
+  "historical_payload_qualification": "Original pending/local/counter/source-capture/receiving fields retain creation-time meaning. The separate complete ROOT acceptance controls current literary judgment; the accepted milestone control supersedes only earlier first-milestone pending states. No author physical source receiving is inferred retrospectively.",
+  "original_exact_tuple": {
+    "path": "ROOT_RUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5136,
+    "sha256": "155cab35e58db55352f7aaa1bcf1028f691c285ee9f185c0a6ad8e2ff10668d4",
+    "git_blob_oid_of_actual_bytes": "bc9b76bec5a8952337e1292d8280003e32265790",
+    "immutable_transport_path": "immutable_originals/ROOT_RUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_RUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "checked_UTC": "2026-10-10T19:27:15.584455+00:00",
+    "status": "PASS_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CHARACTER_MONOGRAPHS/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 39466,
+      "lines": 171,
+      "sha256": "45c9332f6c5ca87be0fcee724ec1d4ee04394dc42c25822fb57e558f1bc2f6d0"
+    },
+    "existing_home": "P3-CHAR-RUMI",
+    "source_responsibility": "P3-F041",
+    "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+    "mandatory_operative_body": "Complete171-line saved original unchanged. Future canonical framing must retain currentCycle008 admission qualifying historical UNADMITTED rows, body86e navigation versus7546 metadata, and both separately mandatory Rumi relationship directions.",
+    "author_freeze_exact_sha256": "b56a8290bb609c3c2d0719e4f99107edcea0a53b2d4180db2435e74082151304",
+    "finite_bindings": {
+      "unique_pairs": 234,
+      "occurrences": 243,
+      "historical_comparisons": 32,
+      "nonempty_line_joins": 109,
+      "prior_payloads": 185,
+      "supplements": 12,
+      "manifests": 9,
+      "private_duties": 10,
+      "wholeMMlinks": 4,
+      "same_prior_control_tuples": 4,
+      "same_prior_governance_tuples": 8
+    },
+    "ROOT_actual_receiving": {
+      "whole_body": "a5f5c31–60/ed0c0361–115/1041aa116–171EOF; aggregate second range clipped94–100, repaired completeed09a9. No whole-body credit until repair.",
+      "whole_readable": "cbb295 complete25 EOF",
+      "whole_probe": "173903 complete155 EOF",
+      "whole_freeze": "930d6e complete60 EOF",
+      "semantic_fields": "65f1b9 all status/home/sourcequartet/execution/claims/debt/allocation/receiving/goal fields;5e7d45 allten exactIDs/fourwholeMMlinks/fourteen fullgap effects and threeboundednavigation extents",
+      "source_actual_scopes": "e6f3d6 all8 source meaning scopes;aab6a0 all6 controlscopes;8f42f1 all8 exact execution/governance scopes. No fresh complete receipt hashlist prose claim.",
+      "fresh_private_argument": "707003 completeRumi259–274, not whole560 or96selectedprivateobjects",
+      "fresh_final_argument": "fa5c98 whole32 with historical producer frontier retained and current admitted qualification",
+      "adequate_reuse": "Prior adequate whole admitted public analytical meanings remain attributed at their exact extents. Paragraph refreshes do not invent fresh whole-primary, performed or independent witness receiving."
+    },
+    "semantic_grounds": [
+      "Wanted craft, ingredients, customers pleasure, food research, remembered imperfect mooncakes, birthday remembrance, leisure and requested kitchen respite have intrinsic value independent of stakes or profit.",
+      "Actual delicious meals and prototype success coexist with fullness refusals, failed departure and continued tasting. A convenient-time invitation is not unlimited prior agreement.",
+      "Commercial work, chosen cooking and office burden remain different. No audited profit, future branch, resolved seasoning distribution or completed birthday wish is inferred.",
+      "Fraud, defense of workers, wall punch, capture, formal apology and banquet have actual positive and adverse degrees. The punch is beside the customer; police, payment, later apologies and legal vindication remain unprinted.",
+      "Kisaki, Reijo, Kokona, Shun, Saya, Mina, Kanae, merchants and customers retain independent wants, refusals, work and costs. No proxy completion of the two separately mandatory Rumi relationship directions follows.",
+      "Steam-kitchen play, averted gaze, teasing, conditional costumes, written messages and actor seams retain their forms; no completed romance, chronological conversion or performed voice is inferred.",
+      "Seven substantial rival readings, all eleven dimensions and the complete fourteen original OPEN gap effects preserve both wanted goods and contrary outcomes."
+    ],
+    "scope": "355required/29named/25distinctparents unchanged",
+    "progress": {
+      "previous_ROOTaccepted_packages": 99,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 100,
+      "character_packages": 89,
+      "directed_relationship_packages": 6,
+      "ensemble_packages": 2,
+      "institution_packages": 3,
+      "ROOTaccepted_named_duties": 3,
+      "published_remote_packages": 89,
+      "published_source_commit": "7546a2331b3f2ca83798d54f9a2b8120c780adae",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "goal_25_percent_milestone_complete": false
+    },
+    "new_primary_native_raw_QA_AV_model_credit": 0,
+    "all14_original_gaps": "OPEN",
+    "UNBOUND9": "UNOPENED_UNREAD_UNHASHED",
+    "author_historical_reservation": "Dated author merge RESERVED remains custody history; later active human goal authorizes milestone merges.",
+    "R_Git_provider_writes": false,
+    "main_integration": "PENDING_CORRECTED_SOURCE_CHAIN_AUTHORIZED_MERGE_EXACT_POSTMERGE_AUDIT"
+  },
+  "public_reference_translation": "Every original field survives exact reference translation. Original tuples bind original bytes, not derivative bytes; full immutable C transports and literal inverses are retained.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "model_credit": 0,
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 41669,
+    "sha256": "9dd25a886ae01aba477a24cbf584fb2a782148c013b3511f64801fac319d32a6",
+    "git_blob_oid_of_actual_bytes": "4fd21c5180a347fb56d57e69dbd8958e50c8cc0d"
+  },
+  "authority_framing_changes": [],
+  "mandatory_operative_qualification": "Complete171-line saved original unchanged. Future canonical framing must retain currentCycle008 admission qualifying historical UNADMITTED rows, body86e navigation versus7546 metadata, and both separately mandatory Rumi relationship directions."
+}

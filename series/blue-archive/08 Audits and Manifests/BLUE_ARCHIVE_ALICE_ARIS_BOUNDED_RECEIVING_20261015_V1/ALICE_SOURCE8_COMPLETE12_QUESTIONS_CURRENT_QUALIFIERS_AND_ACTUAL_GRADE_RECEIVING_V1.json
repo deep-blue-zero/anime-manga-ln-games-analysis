@@ -1,0 +1,804 @@
+{
+ "schema": "ALICE_SOURCE8_ORIGINAL12_CURRENT_MEANINGS_AND_ACTUAL_SCOPE_WITH_NEW105_BOUNDARIES_V1",
+ "existing_home": {
+  "required_id": "P3-CHAR-ALICE-ARIS-BOUNDED",
+  "required_zero": 40,
+  "required_ordinal": 41,
+  "required_CSV_physical": 42,
+  "partition_pointer": "/homes/40",
+  "candidate_id": "P3-F005",
+  "candidate_zero": 4,
+  "candidate_CSV_physical": 6,
+  "private_retrieval_family": "ARIS",
+  "positive_private_person_key": "BA_PERSON_ARIS",
+  "subject": "Alice / AL-1S (provisional)",
+  "selected_variants": [
+   "10015",
+   "10066",
+   "10134"
+  ],
+  "named_inside_duty": null,
+  "extra_REL_or_home": 0,
+  "prior_legacy_mapping_zero": 27,
+  "current_acceptance_target_row_NOT_assumed": true
+ },
+ "body": {
+  "C_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_ALICE_ARIS_BOUNDED_CHARACTER_MONOGRAPH.md",
+  "bytes": 54142,
+  "sha256": "0da002c72fad5bca4b320ef6f8c3e028319e1267c456024af1b2dec11b057eb6",
+  "git_blob_oid_of_actual_bytes": "f9468640930f58387946fbc48779bb8d729bf388",
+  "physical_lines": 286,
+  "complete_paragraphs": 75,
+  "original_private_header_pending_fields": "Original275 header and its pending states are private exact historical beforeimages; current scope is qualified by CONTROL."
+ },
+ "source8": [
+  {
+   "source_id": "AS01",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+   "bytes": 77214,
+   "sha256": "1727d6def95a381338e04fe7bb00e622b6c0c49aaf6a7c1754e5ed0af355806c",
+   "git_blob_oid_of_actual_bytes": "e6809bed384b08f1147beee6dbf177f948e24b07",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS01",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+     "bytes": 77214,
+     "sha256": "1727d6def95a381338e04fe7bb00e622b6c0c49aaf6a7c1754e5ed0af355806c",
+     "git_blob_oid_of_actual_bytes": "e6809bed384b08f1147beee6dbf177f948e24b07",
+     "grade_of_capture": "COMMITTED_MAINTAINED_ANALYTICAL_OR_DECLARED_COVERAGE_SCOPE_COPY_ONLY;NO_PERSONAL_SOURCE_READ_CREDIT"
+    },
+    "physical_lines": 556,
+    "own_actual_maintained_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      1,
+      556
+     ]
+    ],
+    "actual_received_distinct_line_count": 556,
+    "own_actual_source_display_capture_ids": [
+     "737217",
+     "2401bc",
+     "26477b",
+     "95fef4"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS02",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "bytes": 33564,
+   "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+   "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS02",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "bytes": 33564,
+     "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+     "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 257,
+    "own_actual_maintained_grade": "SELECTED_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      73,
+      219
+     ],
+     [
+      231,
+      257
+     ]
+    ],
+    "actual_received_distinct_line_count": 174,
+    "own_actual_source_display_capture_ids": [
+     "367513",
+     "945a78"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS03",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+   "bytes": 23039,
+   "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+   "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS03",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+     "bytes": 23039,
+     "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+     "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 137,
+    "own_actual_maintained_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      1,
+      137
+     ]
+    ],
+    "actual_received_distinct_line_count": 137,
+    "own_actual_source_display_capture_ids": [
+     "b15068",
+     "945a78"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS04",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+   "bytes": 22309,
+   "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+   "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS04",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+     "bytes": 22309,
+     "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+     "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 125,
+    "own_actual_maintained_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      1,
+      125
+     ]
+    ],
+    "actual_received_distinct_line_count": 125,
+    "own_actual_source_display_capture_ids": [
+     "035182",
+     "945a78"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS05",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+   "bytes": 22203,
+   "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+   "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS05",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+     "bytes": 22203,
+     "sha256": "11d758d98de1a967cd93e86a789a778e9dc04bfab520be0d558d127da6b7ad37",
+     "git_blob_oid_of_actual_bytes": "94c2927af342ed823a661f79999c6f6268edb95a",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 144,
+    "own_actual_maintained_grade": "WHOLE_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      1,
+      144
+     ]
+    ],
+    "actual_received_distinct_line_count": 144,
+    "own_actual_source_display_capture_ids": [
+     "a6d380"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS06",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+   "bytes": 37786,
+   "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+   "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS06",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 37786,
+     "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+     "git_blob_oid_of_actual_bytes": "d42104a33d911bddec431a94c5c030e2834f2e7d",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 169,
+    "own_actual_maintained_grade": "SELECTED_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      69,
+      169
+     ]
+    ],
+    "actual_received_distinct_line_count": 101,
+    "own_actual_source_display_capture_ids": [
+     "afae3d",
+     "90a188"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS07",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+   "bytes": 47958,
+   "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+   "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS07",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+     "bytes": 47958,
+     "sha256": "f8ce4ffdedac78b6e92b296515c9ace92a4277e441dee72348d815785b5283f7",
+     "git_blob_oid_of_actual_bytes": "23b45869c2d1a6f08b988ec2e00c435d271ca327",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 217,
+    "own_actual_maintained_grade": "SELECTED_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      95,
+      217
+     ]
+    ],
+    "actual_received_distinct_line_count": 123,
+    "own_actual_source_display_capture_ids": [
+     "1ec968",
+     "dd43a5"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  },
+  {
+   "source_id": "AS08",
+   "current_raw_C_copy": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+   "bytes": 49292,
+   "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+   "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+   "actual_source_scope_record_NOT_rewritten": {
+    "source_id": "AS08",
+    "complete_original_ROOT_supplied_binding_record_NOT_rewritten": {
+     "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "C_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+     "bytes": 49292,
+     "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+     "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+     "capture_grade": "COMMITTED_MAINTAINED_ANALYTICAL_ACCOUNT_CHECKPOINT_OR_PEER_COPY_ONLY",
+     "human_source_receiving_credit_from_capture": 0
+    },
+    "physical_lines": 452,
+    "own_actual_maintained_grade": "SELECTED_MAINTAINED_ANALYTICAL_NOT_PRIMARY",
+    "actual_physical_intervals": [
+     [
+      89,
+      175
+     ],
+     [
+      235,
+      253
+     ],
+     [
+      288,
+      295
+     ],
+     [
+      443,
+      452
+     ]
+    ],
+    "actual_received_distinct_line_count": 124,
+    "own_actual_source_display_capture_ids": [
+     "5052b6",
+     "063265"
+    ],
+    "source_author_primary_raw_hash_claims": "ATTRIBUTED_ONLY_NO_TRANSFER",
+    "source_capture_credit": 0
+   }
+  }
+ ],
+ "complete12_original_questions_and_current_answers_NOT_rewritten": [
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ01",
+    "track": "identity_and_scope",
+    "question": "Across the ARIS normal account and selected10015/10066/10134 records, what literal person labels and retrieval joins are positively documented, and where must Alice/AL-1S remain provisional rather than being joined to a historical Key/Kei or a global registry identity?",
+    "exact_existing_source_scope_request": "P3-F005 and complete normal private account; current home40 and preserved Millennium V2 section3.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ01",
+   "actual_received_source_loci": [
+    "AS01:physical_loci251,288,428,440,442",
+    "AS03:L32,42,46,72,83,87,131",
+    "AS04:L28,40,48,50,68,81,85,118",
+    "AS08:L99,134,156,160,173,290"
+   ],
+   "own_current_source_specific_answer": "BA_PERSON_ARIS and the three selected playable variants10015/10066/10134 positively delimit the existing ARIS private retrieval family; the shared written天童アリス and reported dev names remain the maintained owner’s documentary assertions. Main C001 finds, names and admits a willing clubmate while AL-1S, Divi:Sion and the separate <Key> folder remain unexplained source classifications. C002’s speaking Key is provisional and distinct from externally silent Alice; her in-dive first-personアリス/勇者 choice and subsequent external speech do not resolve the system’s architecture. Final says Alice asks Kei to cooperate and extends choice to Kei, then its epilogue cannot authenticate roughly2KB Kei.sav as Key or revive Kei. E854 social天童ケイ naming and reported new structure are actual local meanings; no merge to either modern Kei registry key or the private future unnamed companion follows. Unknown age/origin, chosen birthday and variant sequence cannot supply a creation date or global identity proof.",
+   "own_finite_disposition": "The existing character/home40 is ready at one bounded person responsibility. No added Key/Kei duty, named relation, person merge or ontology conclusion."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ02",
+    "track": "intrinsic_ordinary_wants",
+    "question": "What do all fifteen BOND encounters actually establish about Alice's wanted activities, pleasures, equipment, company or care, including small wishes that matter without a major plot consequence? Which wishes are enacted, requested, imagined or still unfinished?",
+    "exact_existing_source_scope_request": "Complete declared BOND15 normal-owner coverage, preserving each local locator and variant.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ02",
+   "actual_received_source_loci": [
+    "AS01:L298–458",
+    "AS05:L65–99",
+    "AS06:L99,103,127",
+    "AS07:L129,148,171–175",
+    "AS08:L173,241"
+   ],
+   "own_current_source_specific_answer": "Alice’s pleasures deserve their own claims: walking with Sensei without a quest objective, cats, a familiar RPG home alongside other games, stickers and shared play, clean headgear and slower return, affectionate night scenery, and an imperfect first game valued as the one that made her a hero. The maintained private owner separates each actual act from its wish or message coda: a tentative cat touch is local, hoped-for generous treasure giving remains prospective, the collectively made roguelike is reported rather than independently audited, and the future buddy is unnamed. Armor ownership does not supply mastery; local carrying and returned game-club company do not cancel injury or burden. E825 actually ends with late enjoyable play while consoles, reward cash and the next-game budget remain unperformed. E854’s uniform gift has wanted shared happiness and differentiated recipient reaction, and its daily-company preference is stronger than a blanket appetite for status. Final’s made model is an ordinary aftermath result; it need not prove utility, safety or identity-file restoration.",
+   "own_finite_disposition": "Pleasure, wanted company, clothing, care and material memory remain intrinsic. No stakes threshold, all-wishes-fulfilled endpoint or universal pleasure response."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ03",
+    "track": "making_work_and_practical_agency",
+    "question": "What independent initiatives, practical work, chosen making or learning and help-seeking are represented across the private encounters, and which successes or failures constrain a reading that reduces Alice to a borrowed role, title or competence myth?",
+    "exact_existing_source_scope_request": "Complete private normal account BOND15 plus its specifically identified comparative owner routes.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ03",
+   "actual_received_source_loci": [
+    "AS01:L338–424",
+    "AS03:L38,42,48,54–64",
+    "AS04:L36,44,48,50,54,89–93",
+    "AS05:L75,85,87,118,126",
+    "AS06:L99–107,115–127",
+    "AS07:L124–138,160–175",
+    "AS08:L156–173"
+   ],
+   "own_current_source_specific_answer": "The material distinguishes Alice’s initiatives, learning, help-seeking and participation from makers’ authorship. C001 Alice’s receptive repeated play changes the club’s understanding of its old game; it is not proof she independently authored TSC2 or secured the prize. C002 her concrete self-definition needs peers’ remembered work plus power cutoff, hacking, equipment and a risky dive; imaginative job-change language alone does not disable danger. Private cleaning has actual local labor and acquired familiarity, alongside laundry/cooking immaturity and errors. Her TSC criticism and affection can coexist, while original-game creation preceded her membership. Concern for armor and appreciation of a weaker noncombat replica require neither engineering authority nor subjective agency in the armor. E825 has actual helping and invitation, but borrowed clothes do not confer agent expertise and bounty wording is not paid cash. E854 and Final retain novice-programmer/self-made-growth language, a model-making act and collaborative interventions while unfinished games, unexplained repair capabilities and physical cost remain exact.",
+   "own_finite_disposition": "No borrowed role becomes a competence myth, complete product or sole-actor explanation. The bounded package can describe learning without predicting all future mastery."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ04",
+    "track": "whole_thread_recipient_answers",
+    "question": "Across all fifteen whole MomoTalk threads, what do the complete preface, requests, possible Sensei replies, answers and coda establish about recipient agency, timing, repair, wanted company, refusal and privacy? Which alternatives are mutually exclusive?",
+    "exact_existing_source_scope_request": "Complete positively paired wholeMM15; Schedule links are custody links, not proof that all choices occurred.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ04",
+   "actual_received_source_loci": [
+    "AS01:L260–277,298–424,440–458",
+    "AS05:L69,75,79,85,97–99",
+    "AS06:L99,101,107,115,121,139–141",
+    "AS07:L129,131,133,148,157,160–185",
+    "AS08:L245–251"
+   ],
+   "own_current_source_specific_answer": "The private account owns fifteen whole MomoTalk pair arguments and nineteen Schedule witness edges; four pairs have two alternatives. I received that complete maintained account, not the underlying canonical threads or a fresh branch reconstruction. Its prefaces, possible replies and tails carry distinct local states: invitation/help followed by hesitation, future generosity rather than completed giving, cat or armor concern without invented coda, wanted all-night play and an unnamed future companion. Written waiting, touch and sunrise boundaries retain exact recipient directions. Public comparison sharpens the rule: group attendance with a separate console attraction is not consent to every subsequent role or fame, E825 offered help and a voluntary refusal to abandon Toki do not retroauthorize the undisclosed commission, and E854 later Yuzu satisfaction does not supply prior consent to an unannounced pilot assignment. A later accepted touch, arrival or company cannot erase an earlier refused request. Inward teacher content and represented alternatives remain their own modes rather than accumulated audible acts.",
+   "own_finite_disposition": "Adequate maintained whole-pair reasoning is available for the character body. No own fifteen-primary/thread-tail or normal105 receiving claim, no mutually exclusive branches combined into lived history."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ05",
+    "track": "conditional_written_presentation",
+    "question": "What do the seven written character-data objects actually contribute to public/private self-presentation, Japanese wording, profile or variant conditions, and which fields cannot prove performed voice, timeless desire or institutional fact?",
+    "exact_existing_source_scope_request": "All seven declared written objects under10015/10066/10134 at the source pin, with exact field/mode boundaries.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ05",
+   "actual_received_source_loci": [
+    "AS01:L251–294,426–458",
+    "AS02:L188,200–216,255–257",
+    "AS05:L33,55,103,128",
+    "AS06:L139–141,153,161",
+    "AS07:L183–185,203",
+    "AS08:L245–251,290–295"
+   ],
+   "own_current_source_specific_answer": "The seven written objects add the base profile, UI and variant-specific situations, and empty costume profiles remain empty. Base birthday/meeting and unknown origin do not establish biological creation. Maid presence and chosen idle company are positive; poking/no-monster/no-drop and incomplete mastery keep contrary preferences. Armor window-entry boast meets the door-safety boundary; reported maintenance offers do not become Himari/Rio/Utaha’s inspected acts; quoted Kei advice and love for Momoi do not join historical Main Key. The source’s literal Event855 character10015 context remains a written classification despite surrounding10134 text; there is no captured canonical BA:event855 sequence to invent. E854’s timed/log/Korean contextual labels and social names add local written meaning without creating costume/person records. VoiceId0 or a video cue is not proof the game lacks audio; it supplies no performed voice to this author.",
+   "own_finite_disposition": "Use the received wording and condition at its field/mode extent. No AV/native/KR receiving, timeless preference, costume registry or unseen Event855 narrative."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ06",
+    "track": "main_private_local_history",
+    "question": "Which already admitted maintained MAIN contexts are necessary to interpret Alice's actual public/crisis history, and what explicit anchors can connect them to the private material? Where does unresolved inter-class chronology prevent a development or causal claim?",
+    "exact_existing_source_scope_request": "Normal account's actual cited MAIN owner routes, then source-specific complete necessary contexts; no guessed source presence.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ06",
+   "actual_received_source_loci": [
+    "AS03:L24–97,129–137",
+    "AS04:L24–95,116–125",
+    "AS02:L128–156,214–218,231–257",
+    "AS07:L115–185",
+    "AS08:L131–175,245–251,290"
+   ],
+   "own_current_source_specific_answer": "The admitted C001→C002 chapter sequence supplies finite public history: found person and appreciative player; willing clubmate and coerced decoy; independent action and criticism restraint by peers; device-linked damage, forced removal and pressure toward self-erasure; in-space choice; then external speech and ordinary club study. The two checkpoints’ source-local prospective frontiers and old deferred-side-source policy stay dated, qualified by current Cycle008/V3 admissions and the current normal convergence. Final’s four-chapter sequence later gives Alice’s cooperation request to Kei, transformed Light Sword, partial breach and unconsciousness, followed by model making and uncertainty over Kei.sav. This is a received maintained analytical sequence, not fresh64 MAIN primary. Private remembered TSC, maid fear and some-time-after Steel Continent references may support exact stated local comparisons; variants, release dates or common motifs cannot establish the order or cause of every private scene. E854’s return of named familiar figures and recalled crises do not solve its relation to every BOND/MM episode.",
+   "own_finite_disposition": "Use exact checkpoint/episode and local callback scope. No invented global calendar, backdated actor knowledge, AL-1S safety proof or private-lesson-caused-rescue history."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ07",
+    "track": "directed_peer_company",
+    "question": "Which positively identified peer or group contexts supply Alice's own wanted company, recognition, care or disagreement, and how do each actor's knowledge, request and response differ from the Sensei dyad?",
+    "exact_existing_source_scope_request": "Only complete maintained GROUP/EVENT/MAIN sequences positively routed by the received normal account or accepted eligibility argument.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ07",
+   "actual_received_source_loci": [
+    "AS01:L338–424,460–496",
+    "AS05:L57–99,118,124–140",
+    "AS06:L97–127,131–141",
+    "AS07:L129–162,171–179",
+    "AS08:L145,156–173"
+   ],
+   "own_current_source_specific_answer": "Peer contexts prevent Alice’s whole life from becoming a Sensei dyad. Group2501–2502 gives her wanted arcade play, RPG retaliation self-report at a consequential actor seam, a speculative bug explanation and crown-weight praise while Yuzu expressly rejects celebrity as her reason for playing. No Sensei appears; students resolve the local match/apology themselves. The same club’s destination thus contains different ends: Momoi’s dignity/community grievance and pressure, Midori’s controller and criticism, Yuzu’s console and bounded attendance, Alice’s play/raid frame. E825 Alice hesitates at C&C clothes, receives group self-continuity reassurance, acknowledges a rescue, invites Toki and refuses to abandon a friend. E854 her first-uniform gift to Kei shares remembered happiness; familial naming, actual reciprocal assistance, different reactions, continued refusals and opponents’ wanted sisterhood are distinct. Final her request that Kei choose cooperation grants a similar right rather than treating Kei as disposable. None makes all peers equally close or universally willing.",
+   "own_finite_disposition": "Directed actor/request/response differences are ready for the character package. No symmetric network, universal trust, unnamed future-buddy assignment or extra required relationship parent."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ08",
+    "track": "club_institution_and_resource_limits",
+    "question": "What is Alice's actual club/school standing, contribution, access or dependency in each received setting, and what contrary choices distinguish shared making and care from universal club assent or lawful/infallible institutional protection?",
+    "exact_existing_source_scope_request": "Existing Alice responsibility's source-specific public/peer contexts; preserve local role, audience and capacity.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ08",
+   "actual_received_source_loci": [
+    "AS03:L38–64,82–95,107–113,131–137",
+    "AS04:L36–62,77,87–93,118–123",
+    "AS05:L69,118,125–138",
+    "AS06:L99–127,149",
+    "AS07:L124,136,157,160–179,199–211",
+    "AS08:L140–175,239"
+   ],
+   "own_current_source_specific_answer": "Alice’s school/club home is materially desired and governed, not simply a symbolic reward. C001 Yuuka checks willing membership and later offers a temporary next-term reprieve after a special prize; room, funds, paperwork and durable standing remain distinct. The club’s instrumental recruitment/decoy plan, security breach, property harm and sanction threats do not become authorized because it loves Alice or games. C002 actual risk requires safety work, but secrecy, excluded dissent and coercive destruction cannot claim an established exclusive remedy. Ordinary return does not complete a charter, Eridu audit or accountability hearing. Group gaming skill, courtesy or an apology supplies no club product, institutional recognition or platform reform. E825 the withheld protection job, partial cooperation, unpaid/lost commission and future Valkyrie transfer keep work and informed agreement separate. E854 freely offered school choice is refused; welcome and technical suitability do not complete enrollment or informed pilot consent. Final coordinated defense and restored channels are local civic results, not all public offices repaired.",
+   "own_finite_disposition": "The body can describe standing, dependence, resource conditions and objections without issuing a legal/institutional verdict or importing missing audits."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ09",
+    "track": "vulnerability_repair_and_outcomes",
+    "question": "What losses, embarrassment, fear, conflict, dependency or acts of care are actually represented; what is repaired locally, what remains unfinished, and what would contradict a global recovery or clinical explanation?",
+    "exact_existing_source_scope_request": "Complete private and necessary admitted public contexts at their actual maintained grade; no implied diagnosis.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ09",
+   "actual_received_source_loci": [
+    "AS01:L298–424,440–458,522–556",
+    "AS03:L48,54–56,72,86,133–134",
+    "AS04:L40–62,68,73–75,118–121",
+    "AS06:L99–127",
+    "AS07:L129–138,146–187",
+    "AS08:L158–175,235–247"
+   ],
+   "own_current_source_specific_answer": "Fear, harm and care are received without a clinical story. C001 destruction and Alice’s48% self-report, bodily recovery appraisal and continuing maid fear remain situated; C002 Momoi’s injury/unconsciousness, Nel’s grave symptoms, Alice’s fear/amnesia and pressure to disappear do not disappear because friends help her speak and return. Private cat refusal, a twisted foot, declined rest, accepted carrying, shaking that stops after particular company/work, and laundry/clothing comfort end locally, with no permanent cure or diagnosis. Armor loss and reduced replica capacity are distinct from person repair. E825 rescue, thanks and handkerchief care have finite recipients; later pleasure does not settle every bodily/legal cost. E854 after overcapacity, exhaustion, machine destruction, reported ejection and relief, continued heaviness remains; ability to communicate is not medical clearance. Final Alice’s unconsciousness follows a real breach, and ordinary model-making later provides positive continued life without quantifying all recovery or authenticating a saved subject.",
+   "own_finite_disposition": "No automatic resilience, harmlessness, trauma label, diagnostic metaphor, complete health audit or permanent safety is claimed."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ10",
+    "track": "written_language_and_choice_mode",
+    "question": "Which received literal Japanese examples support stable or situational self-reference, address, role language, politeness, teasing, gratitude, refusal or self-correction? How do messages, represented speech, narrator/unknown and choice seams differ?",
+    "exact_existing_source_scope_request": "Exact normal-owner written locators across BOND/MM/written and any positively necessary contextual sources; AV remains absent.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ10",
+   "actual_received_source_loci": [
+    "AS01:L288–294,298–458",
+    "AS03:L80–87",
+    "AS04:L79–85,93",
+    "AS05:L37–55,65,77,85,97,107–116,128",
+    "AS06:L99,107,131,139–141,153",
+    "AS07:L129–185,203",
+    "AS08:L245–251"
+   ],
+   "own_current_source_specific_answer": "The received Japanese/source modes support situated game-role language, self-reference, greeting, praise, requests and refusals. C001ゲームを愛しなさい is an artifact maxim, 面白い/夢 are Alice’s reception and実用性/特別賞 are evaluators’ judgments. C002王女/AL-1S/鍵 classifications differ from her direct in-diveアリスになりたい andアリスがそう決めたからです;仲間（友達） and転職 loosen a fixed role without acting as a safety mechanism. Group king/raid talk and E825 hero/costume reassurance may be imaginative company or coercive overreach according to the recipient; seam-qualified Alice self-report does not justify silently repairing headings. E854天童アリス/天童ケイ, unnamed voice, inward/log/timed registers and failed loud mediation keep audiences distinct. Main inward Sensei text, choices, actor flips and video markers retain their labels. I did not receive source-primary Japanese/raw/KR or performed acting; exact strings here remain maintained witnesses.",
+   "own_finite_disposition": "No stable voice essence, merged alternatives, audible inward monologue, telepathy, unnamed-divine identity or native actor repair."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ11",
+    "track": "serious_rivals_and_finite_endpoints",
+    "question": "What sustained competing readings best explain the same positive and contrary evidence, including intrinsic ordinary wants, and which finite endings actually decide between them without closing missing future history?",
+    "exact_existing_source_scope_request": "Whole available source arguments and their actual local terminal scenes, preserving reported/inward/conditional modes.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ11",
+   "actual_received_source_loci": [
+    "AS01:L298–458,522–556",
+    "AS03:L24–95",
+    "AS04:L24–95",
+    "AS05:L57–99",
+    "AS06:L87–141",
+    "AS07:L115–191",
+    "AS08:L112–175,235–251"
+   ],
+   "own_current_source_specific_answer": "The strongest connected argument values Alice’s chosen present as a learning person and companion, whose game language can support interpretation, courage and care while also yielding dangerous or mistaken responses. Serious rivals must retain their positive grounds: a machine-function reading has real hazard/device evidence, a pure-hero reading has actual rescue and self-choice, a total-coercion reading has forced removal/role pressure, an immaturity reading has mistakes, a sole-teacher reading has useful support, an anti-technical reading has secrecy costs, a recognition-progress reading has prizes/praise, and a triumphant-rebirth reading has local return and body-structure reports. Each fails as a whole factual summary when weighed against ordinary pleasures, recipient objections, distributed labor, critical play, injury, withheld decisions, identity-file uncertainty and E854’s open battle. Finite endings decide narrower claims: tentative cat contact; joint cleaning/local calm; completed laundry; carried return; preserved game appreciation; replica/company; local club reprieve; in-dive choice plus external return; volunteered match/apology with unwanted fame; Toki friendship/praise; gifted uniform and refused enrollment; model made while file identity unknown; refusal of memory-erasing paradise and reversal only beginning.",
+   "own_finite_disposition": "Eight rivals and sixteen finite endpoints are explicitly inventoried below as author source preparation, not a model, predictive result or granted full body review."
+  },
+  {
+   "complete_original_question_object_NOT_rewritten": {
+    "id": "AQ12",
+    "track": "evidence_route_and_claim_specific_gaps",
+    "question": "For every consequential claim, which whole received source sequence and literal locator supports it, what does the evidence permit or prohibit, and which of the fourteen original OPEN gaps or unread comparative contexts narrows that exact claim?",
+    "exact_existing_source_scope_request": "Source-class crosswalk, declared normal account and finite comparative routes; no new admission/model/normal105 credit.",
+    "actual_answer": "NOT_YET_RECEIVED;NO_SOURCE_FACT_ASSUMPTION"
+   },
+   "question_id": "AQ12",
+   "actual_received_source_loci": [
+    "AS01:L522–556",
+    "AS02:L180–218,249–257",
+    "AS03:L86–87,129–137",
+    "AS04:L85,114–125",
+    "AS05:L132–144",
+    "AS06:L139–169",
+    "AS07:L183–217",
+    "AS08:L245–253,288–295,443–452"
+   ],
+   "own_current_source_specific_answer": "Every planned consequential claim must cite the maintained source ID and its actually received physical interval plus the source’s literal BOND/MM/profile/episode/scene/utterance locator only where actually supplied. The selected C sources do not create new source count or primary receiving. Source owners’ complete-primary/raw statements are attributed; group membership metadata, speaker/person joins, audience appraisals, UI conditions, narrator/inward/choice forms and source-hash claims keep their own grades. Current Cycle008/V3 source controls supersede only the dated unresolved-admission/frontier statements in older accounts; those words stay recoverable history. Claim-specific abstentions concern origin/AL-1S system architecture and Key/Kei/file lineage, consequential actor seams, unknown private/event ordering, performance, clinical duration, engineering capability and whole technical/legal/budget/institutional endings. The maintained E854 source’s actual EOF is known, so an unprinted final defeat must be an abstention rather than a new unread-episode allocation. All fourteen original gaps remain OPEN; no model or cast-count change follows.",
+   "own_finite_disposition": "Source-scoped body preparation is ready WITH LIMITS. Full body authoring/review, genuinely new105 purposes/register/component gates, ROOT adoption and public installation are still separate future work."
+  }
+ ],
+ "chronology_and_identity_controls_NOT_rewritten": [
+  "The C001→C002 and Final four-chapter sequences have exact maintained chapter/episode boundaries; direct speech/action, reports, plans and internal space have distinct endpoints.",
+  "Private remembered TSC, maid fear and some-time-after Steel Continent context permit stated comparisons; release dates, variants, corpus order and motifs cannot form a universal calendar or private-lesson causal bridge.",
+  "BA_PERSON_ARIS selected private identity, Main AL-1S/Key/<Key>, modern Kei’s two literal keys, event-local social naming, Kei.sav and the private unnamed future buddy remain distinct warrants.",
+  "Group2501 ten-minute departure versus2502 yesterday is preserved. No continuous same-afternoon bridge is invented.",
+  "Written Event855 context under literal10015 is not a canonical EVENT855 narrative; E854 source existence and body-structure reports do not join registry records.",
+  "E854029 ends at reversal-time declaration and Sensei’s choice to go; final battle, barrier destruction, resurrection, return and enrollment are unprinted."
+ ],
+ "ordinary_goods_policy_NOT_rewritten": "All fifteen pair arguments and seven written contexts contribute ordinary preferences, making, company, care and refusal intrinsically. An unfinished wish can be evidence without a completed product, prize, rescue utility or high-stakes plot result. Repetition and recipient difference are preserved.",
+ "source_grade_count_contract_NOT_rewritten": {
+  "maintained_source_total": 8,
+  "current_actual_WHOLE": 4,
+  "current_actual_SELECTED": 4,
+  "current_distinct_physical_lines_received": 1484,
+  "WHOLE_distinct_physical_lines": 962,
+  "SELECTED_distinct_physical_lines": 522,
+  "current_primary_native_raw_KR_AV_receiving": 0,
+  "new_source_admission": 0,
+  "new_normal_common105_receiving": 0
+ },
+ "current_common105_qualifier_reference": {
+  "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+  "bytes": 61767,
+  "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+  "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+  "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+ },
+ "original_common105_qualifier_scope": "Original source629 audit, PR152 frozen fields and later current effective qualifications remain operative at their disclosed snapshots; original source payloads are retained as dated owner history.",
+ "full_narrow61767_and59334_raw_copies": {
+  "frozen_25": {
+   "source_C_path": "ALICE_PRIVATE_WITNESS_0BBC565E76EA4B7FFB7AB7BE",
+   "current_exact_C_raw_copy": "ALICE_PRIVATE_WITNESS_9975911694FC45429A2ACE55",
+   "bytes": 61767,
+   "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+   "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+  },
+  "frozen_26": {
+   "source_C_path": "ALICE_PRIVATE_WITNESS_E9C2E434DFED2BC4F26A3191",
+   "current_exact_C_raw_copy": "ALICE_PRIVATE_WITNESS_2EB56C291F466682EC1FAED2",
+   "bytes": 59334,
+   "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+   "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  }
+ },
+ "current_O094_reading_access_only": {
+  "schema": "ROOT_CURRENT_O094_READING_ACCESS_CORRECTION_AND_EXACT14_OPERATIVE_BYTE_BINDINGS_V1",
+  "prepared_after_actual_ROOT_adoption_UTC": "2026-10-14T23:48:30.081378+00:00",
+  "role": "CURRENT_SOURCE_USE_AND_ACCEPTED_CORRECTIVE_BYTE_ROUTE_OVERRIDE_PRESERVING_DATED_ORIGINALS",
+  "ROOT_actual_byte_adoption_witness": {
+   "private_witness_id": "ROOT_ACTUAL_GW094_AP094_EXACT14_CURRENT_BYTE_ADOPTION_WITH_LIMITS_V1",
+   "bytes": 18029,
+   "sha256": "04ee94c6863e1bd9eef369c6c95bd6b4fe7de0461538246baae340db01999473",
+   "git_blob_oid_of_actual_bytes": "50b34693b2748ecbb8e6363f204e1fc08c5a3a3e"
+  },
+  "different_author_current_dependency_QA": {
+   "private_witness_id": "INDEPENDENT_GW094_AP094_EXACT14_COMPLETE_OWN_RAW_CURRENT_DEPENDENCY_AND_DATED_HISTORY_MANUAL_QA_V1",
+   "bytes": 14791,
+   "sha256": "20b397aef3efee034747d544492e23f459f41e78b65168bbdccf437486be6ad8",
+   "git_blob_oid_of_actual_bytes": "79ea7ed1293d3cda1794135ab836c219234d8863"
+  },
+  "source_interpretation": "Miyo refuses Teacher’s request to read one of her wanted romance novels. The maintained locus does not establish refusal to write or share authored romance writing. No authorship or its absence is asserted.",
+  "maintained_selected_scope": {
+   "source_id": "EVENT850",
+   "physical_selected_lines": "81–100",
+   "decisive_physical_line": 98,
+   "normal_local_locus": "007:u0063–0074",
+   "original_complete_carrier_tuple": {
+    "bytes": 28418,
+    "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+    "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+   },
+   "grade": "ADMITTED_MAINTAINED_ANALYTICAL_SELECTED_CONTEXT",
+   "author_actual_selected_receiving": "8652f7",
+   "whole139_primary_native_raw_AV_normal105_or_new_admission_credit": 0
+  },
+  "current_exact14_component_bindings": [
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "bytes": 17156,
+    "sha256": "03e4398525e104bcbf905586bb7ad266a1c6de111713563f455a631641937017",
+    "git_blob_oid_of_actual_bytes": "159de5def15d75ff5285bf89f2253a87c9da1772"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "bytes": 240402,
+    "sha256": "e446122f7b2ab4ad002385275642cc67243076a2142378af8779148476871309",
+    "git_blob_oid_of_actual_bytes": "3aacf0e51bc65a62858053d3d30fd90c47e7ea03"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_ROOT_CURRENT_TYPED_ARGUMENT_AND_SOURCE_PURPOSE_RECEIVING_STATUS_V1.json",
+    "bytes": 33011,
+    "sha256": "62c6d626931e95ed7417279ba803b4e6839d316fd617c42870da04d43790689f",
+    "git_blob_oid_of_actual_bytes": "c9af9086fd78893ae2a77c1a268d20eff9a4b4d6"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_EXACT12_PENDING_ACCEPTANCE_AND_CONDITIONAL_PUBLIC_TRANSPORT_CONTROL_V1.json",
+    "bytes": 15144,
+    "sha256": "c50f004e12bc664a3caf20bfcaa5eaf4e887476492200d4436b544f2b8b88788",
+    "git_blob_oid_of_actual_bytes": "a0627f7934cc7d603bd948efc06b2c37058546df"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_DIRECTED_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+    "bytes": 499358,
+    "sha256": "cf366601d9505d90d6b76c511053a1eef7f931cb7c22d90026b2cd465d49fdbf",
+    "git_blob_oid_of_actual_bytes": "18dd021f6aaa250e25e090a21a1eda519fad0738"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_LITERAL66_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+    "bytes": 551017,
+    "sha256": "779150a2597123b4a0b146d3e137283b6f60c8bad5fcc398a5634f32e6393f0a",
+    "git_blob_oid_of_actual_bytes": "5401ec50cf5b358a0c8ca616c620eafc1dd7edc8"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+    "bytes": 5234,
+    "sha256": "c4a43c3ef883fd903e9abe0f0165c16e9c71641859599daf658fd1c4c8364426",
+    "git_blob_oid_of_actual_bytes": "bdc7f50bef2cb1b47e3b94675a2b47a4f2843c7a"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_COMPLETE_INDEPENDENT_LITERAL66_PURPOSE105_AND_QUALIFIED_HISTORY_REVIEW_V1.json",
+    "bytes": 661743,
+    "sha256": "82cb0a184fcc5f11dc0d9009a3771f43a7ec422b01bec9526aa56ff98b691604",
+    "git_blob_oid_of_actual_bytes": "f7c375222cb133ecf5a364c2f934249c5d8acaef"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT_DATED_PREPARATION_TUPLES_AND_SEMANTIC8_PRESERVATION_WITNESS_V1.json",
+    "bytes": 11070,
+    "sha256": "99a4803eeca377ac0c1a95fb52ec4b11c5b8f7069efd95ceb958d2245e27a9c7",
+    "git_blob_oid_of_actual_bytes": "1ca7b823dd7903d07f0d306cfc19c3ad9dd96eb5"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_SOURCE_PURPOSE_INDEX_V1.json",
+    "bytes": 18261,
+    "sha256": "d54e4f09eb764db053bfdef22aa951d3aca0d5bd6dbfd43b3a537aab2e987c0b",
+    "git_blob_oid_of_actual_bytes": "afdfaa84650c1afd45350322acaa15d7490fc5bd"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_COMPLETE_CLAIM_SOURCE_SCOPE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+    "bytes": 200650,
+    "sha256": "491e9eafb61eeff2869c3c856f2098a9a8f402c244fcafe31a6582b13795b15b",
+    "git_blob_oid_of_actual_bytes": "d05ad660fe1524a843dc2bed4e29b093cd679b8e"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_SAVED_BODY_AUTHOR_VERIFICATION_V1.json",
+    "bytes": 17956,
+    "sha256": "b1c26664243b160a712865a7f835748a44b84c215cae583b47e9d3c0165a2b52",
+    "git_blob_oid_of_actual_bytes": "b1d47a99f5a504012b93a80598ed9a77220f9049"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_NEW_DIRECTED_PURPOSES_GW071_GW104_V1.json",
+    "bytes": 900892,
+    "sha256": "c4fa40f18473ac8d8fd93c608b73300da248d2208031318c180462956b56de1f",
+    "git_blob_oid_of_actual_bytes": "e5016f062c10f3f0deac0365d7b354e92647ee0f"
+   },
+   {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP071_AP104_V1.json",
+    "bytes": 218766,
+    "sha256": "6c3a0dec558f85dc415cb27762ecfc159cc34d500ae34abe83c3b72f58d5b871",
+    "git_blob_oid_of_actual_bytes": "f67ab9f06d7fa32ce01dccd9c6c7b827ad9bdf10"
+   }
+  ],
+  "correction_changed_existing_files": 11,
+  "original_QA_preparation_witnesses_raw_NOOP": 3,
+  "semantic_scalar_changes": 3,
+  "current_reference_alias_scalar_changes": 33,
+  "additive_current_source_use_qualifications": 6,
+  "current_component_edges": 21,
+  "current_graph": "ACYCLIC",
+  "frozen_O094_and_original_QA_ROOT_receiving_role": "Complete original common105/reviewer/ROOT records remain literal and dated. For current reuse of these retained writing/sharing-refusal phrases use the supported Teacher reading-access act. The new qualification does not retell old reviewer decisions as review of changed bytes.",
+  "old_shared_GSC141_and_Ami135_receiving_tuples": "PRESERVED_AS_PRE_CORRECTION_DATED_RECEIVING;USE_THE_EXACT_CURRENT14_BINDINGS_FOR_CURRENT_BYTES",
+  "candidate_creation_pending_roles": "Prepared six current candidate qualifiers accurately recorded pending independent review/ROOT adoption at their creation. Actual distinct QA and ROOT byte adoption are now bound here; installation,preflight,publication and exact-head fullCI remain separate actual events.",
+  "ordinary_goods": "Wanted genres,typewriter/materials,food/sweets,company and artistic recognition remain intrinsic evidence;financial,coercion,trust,environment and finite outcome limits remain unchanged.",
+  "unchanged_scope": "All104 other current purposes,body/source/rival/end fields,sourcegrades,all14OPEN,models0,fixed355/29/25/384/788 and existing package/named counts are unchanged by this corrective module.",
+  "global_source_audit150": "ACTIVE;NO_TERMINAL_OR_BLANKET_GLOBAL_CREDIT_FROM_THIS_MODULE",
+  "actual_published_predecessor": "0003bcdb3d16fe075644762e20e60635e4d0bdb1",
+  "published_required_named_before_next_successor": [
+   151,
+   18
+  ],
+  "correction_package_or_named_count_credit": 0,
+  "future_application": "C_ONLY_EXACT_CURRENT_BYTE_COMPOSITION_ADOPTED;R_INSTALLATION_PUBLICATION_FRESH_CI_SEPARATE",
+  "merge": "RESERVED"
+ },
+ "current_O087_agreement_only": {
+  "schema": "KEI_CURRENT_V4_ONE_O087_POSITIVE_AGREEMENT_NOT_FULFILLED_WEEK_ACTUAL_TWO_MIRROR_INVENTORY_V1",
+  "current_scalar": "Seia's retained self-proof wish and Rio's recognition of the impossible standard coexist with C&C's demands for information and against unilateral exclusion. Rio's actual agreement to stay one week under a no-force clause compares with Kei's negotiated company and resistance to compulsory overwork.",
+  "complete_selected_source_lines": [
+   {
+    "physical_line": 72,
+    "complete_line": "Seia arrives seeking proof that she can stand without prophecy. The event makes that wish both valuable and mistaken when it becomes the belief that needing help invalidates her. Nagisa’s care, Rio’s rationalized protection and Seia’s effort all have real reasons, but none gives one person unrestricted authority over another’s participation. Neru articulates limits directly, Karin asks for information, and Seia learns through seeing Rio demand the same impossible self-proof. Ordinary pleasure and company—not merely useful institutional service—are the wish that the ending tries to make possible. Its success is bounded: Rio agrees to stay a week; neither the whole week nor full legal/technical accountability is narrated.\n"
+   },
+   {
+    "physical_line": 88,
+    "complete_line": "The final invitation is a mixture of wanted company and useful pretext. Seia asks Rio to stay another week and witness the event she protected. Rio denies qualification to enjoy it. Seia argues that EXPO is only at its first day, Seminar may not resolve every later exception and Rio can help. Neru adds that staying discreetly might be a president’s job; this is a suggestion, not a new installed office state. Rio feels she is being persuaded. Neru says no one can force her if she dislikes it; she says she has not said she dislikes it, agrees to one week and goes to unpack. Her explicit limit—leave when the event ends—remains. No later safe week, cure, public absolution or permanent return is established.\n"
+   },
+   {
+    "physical_line": 140,
+    "complete_line": "BLUE_ARCHIVE_CLAIM_REVISION_LEDGER.md — PRESERVE/COMPLICATE local success versus whole technical/legal closure: complete handover report and actual agreement/unpacking strengthen bounded cooperation; proposed machine destruction, sponsor purpose and future week remain unresolved. Reasoned NO_MATERIAL_RECONSTRUCTION_DELTA for model, readiness, source admission and global chronology: new contextual evidence warrants these qualified clauses, not changed governance state or a completed full arc. Locators E007 u54–71;E008 u1–10/90–93;E009 u33–50.\n"
+   }
+  ],
+  "source": {
+   "C_path": "ALICE_PRIVATE_WITNESS_AA1181B11A01187FD2E4F555",
+   "bytes": 26925,
+   "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+   "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a",
+   "source_scope": "Own PRIOR WHOLE maintained RioS08 comparison; actual current selected L72/L88/L140 at6802ab, not seventh Kei core/newprimary."
+  }
+ },
+ "actual_original105_report_meaning_receiving": "O000–104 complete original source-specific questions, positive/counter meanings, finite endpoints, actor/mode/chronology/individual owner grades received by bounded projections; no replay of old target answers as Alice results.",
+ "original105_source_grade": "Original26WHOLE79SELECTED remain attributed; only exact core AS05/AS06/AS07 exceptions are separately own source reading.",
+ "current_independent_body_QA_basis": {
+  "original_raw": {
+   "original_C_path": "ALICE_PRIVATE_WITNESS_44B69C5DE729FD31BD2905B7",
+   "raw_C_copy": "ALICE_PRIVATE_WITNESS_0E41BCBD5067665F87AA5F1C",
+   "bytes": 77442,
+   "sha256": "a5a4cc2703324d5da20af10caa2e8b770c83847c9411870775bff83ca40dfd71",
+   "git_blob_oid_of_actual_bytes": "1b147be2057aa7668d1a5ca1f87a85edb4cda5fd"
+  },
+  "decision": "PASS_WITH_LIMITS",
+  "source_scope": {
+   "file": "ALICE_HOME40_F005_SOURCE8_ACTUAL_1484_MAINTAINED_LINES_TWELVE_OWN_READINESS_ANSWERS_V1.json",
+   "bytes": 36946,
+   "sha256": "aa7e655efb8ff249a50c3f62e4c6334d43cb6df4b87221979bfe5653fe69fd2d",
+   "grade": "4 WHOLE +4 SELECTED maintained analytical; 1484 distinct lines; original primary/raw claims attributed only"
+  },
+  "new_current_findings": [],
+  "component_QA_credit": 0
+ },
+ "actual_ROOT_body_adoption_for_new105_only": {
+  "original_C_path": "ALICE_PRIVATE_WITNESS_299E936DE65D9D92017CA0B1",
+  "raw_C_copy": "ALICE_PRIVATE_WITNESS_7AEC7CFD8117B16B67E61EEB",
+  "bytes": 12172,
+  "sha256": "a645c7ee7cd27d8a85cb20afe49afa7e1056cd4886352aefecfddc04cee6a427",
+  "git_blob_oid_of_actual_bytes": "5055840af2436593b401ff95965dfa3751a5cadb"
+ },
+ "all14_original_gaps": "OPEN",
+ "models": 0,
+ "component_QA_ROOT_package_count_publication": "PENDING",
+ "R_Git_provider_shared_protected39_private9_read_hash": 0
+}

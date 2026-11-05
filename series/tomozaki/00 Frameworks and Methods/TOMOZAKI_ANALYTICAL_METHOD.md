@@ -2,7 +2,7 @@
 series: TOMOZAKI
 artifact_type: analytical_method
 scope: JP_LIGHT_NOVEL_SEQUENTIAL_AND_LONGITUDINAL_ANALYSIS
-generation: V0.2
+generation: V0.4
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,10 +22,12 @@ The companion [`TOMOZAKI_SYNTHESIS_ARCHITECTURE.md`](TOMOZAKI_SYNTHESIS_ARCHITEC
 
 ## 2. Current source and authority boundary
 
-The current semantic anchor is the audited Japanese-language EPUB set dated 2026-08-29: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5. Volume 07 is the acquired Special Edition witness. The exact source boundary is recorded in `../01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md`.
+The current semantic anchor is the Japanese-language EPUB corpus comprising the historical 2026-08-29 audit of numbered main Volumes 01-11 and side-story Volumes 06.5 and 08.5, plus the separately admitted V12 local witness dated 2026-10-22. Volume 07 retains its acquired Special Edition witness. V12 now has complete source consultation and a substantively reviewed source-facing/six-owner transaction candidate. Exact repository validation/publication and source-run certification are recorded separately by the V12 completion audit; prior prospective freezes remain historical authority. The exact witness identities, additive admission and integrity limits are recorded in `../01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md`.
+
+The owner authorizes V12 only under `continuous_sequential`, with `authorized_start: V12` and `terminal_boundary: V12`. The current entrypoint owns the recognized execution fields. The prospective entering state must be frozen before V12 prose, substantive preview, illustrations or story-bearing supplemental material is consulted; this method is not an admission authorization or a substitute for the governing gate. Later retrospective synthesis, audits and derived models remain separately subject to the architecture dependencies and validation requirements.
 
 - Git stores interpretation, analytical state, and routing.
-- The governed Drive evidence plane stores primary EPUBs and the audit manifest.
+- The governed Drive evidence plane stores primary EPUBs and the historical audit manifest; the V12 transaction selects the independently verified local witness without asserting remote byte identity from Drive metadata.
 - Normalized English filenames are locators, not translations and not semantic authority.
 - Anime, manga, official translations, interviews, reception material, and other supplements are separate witnesses unless a later source-lock revision explicitly integrates them.
 

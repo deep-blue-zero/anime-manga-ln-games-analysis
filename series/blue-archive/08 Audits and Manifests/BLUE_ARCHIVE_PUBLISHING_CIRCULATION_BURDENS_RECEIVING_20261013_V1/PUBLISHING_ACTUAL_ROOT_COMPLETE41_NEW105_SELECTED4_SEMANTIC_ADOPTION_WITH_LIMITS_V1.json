@@ -1,0 +1,678 @@
+{
+  "schema": "ROOT_PUBLISHING_CURRENT232_LITERAL41_NEW105_SELECTED4_EXACTV2_SEMANTIC_ADOPTION_V1",
+  "ROOT": "ROOT",
+  "signature_state": "SIGNED_BY_ROOT_AFTER_ACTUAL_COMPLETE_RECEIVING",
+  "ROOT_decision": "ACCEPT_CURRENT_PUBLISHING_EXACTV2_BODY232_LITERAL41_NEW105_SELECTED4_AND_CURRENT_DISTINCT_QA_WITH_LIMITS_FOR_METADATA_ONLY_PUBLIC14_COMPOSITION",
+  "existing_home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+  "required_row": 254,
+  "partition_home_pointer": "/homes/259",
+  "source_responsibility": "P3-XRW-I004",
+  "current_author_manifest": {
+    "bytes": 11624,
+    "sha256": "a99604c5d5d6703989c6f7caf0f45ce0f6fe6b73210bdecc8530f464de4e3e9e",
+    "git_blob_oid_of_actual_bytes": "094b58c382d52af5c7debfdf1494b6cde5ad67a4"
+  },
+  "current_author_exact8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 39346,
+      "sha256": "d0d49c28cfc096d42ef22d2b2131015172d8a0d460e8beeb885b04ec7e005909",
+      "git_blob_oid_of_actual_bytes": "d9a55694b6173802fd2b4d1e4eb17f39e432a1fe"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 124236,
+      "sha256": "6227cdb3b7ecfdf80cabcc9a2d5350c28ef972bcd10c6dd1aee0ea88be0540ef",
+      "git_blob_oid_of_actual_bytes": "646b99cd1bfdab44bab2f0907f6affc546fa8380"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+      "bytes": 18320,
+      "sha256": "7e2ece260e11ab6d372f389a61bc74a794d821b41eddd05bd70e19216451c5ae",
+      "git_blob_oid_of_actual_bytes": "ff77f9de83c6c0fdc474300da7a0f7f0b89691d4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 492852,
+      "sha256": "26f7cd213610a3ab1f1b2906f7f945cfd58f983e4e001e497d98c0624f7b80d6",
+      "git_blob_oid_of_actual_bytes": "0bc28f05c56298e85d23710150c86a2f37bdc115"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_SAVED_BODY_AND_EXACT8_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 7149,
+      "sha256": "d4218214c393df8b995f320293bdbb528be1749bf13e74cf80004ffa26a963a9",
+      "git_blob_oid_of_actual_bytes": "67422371bf6bee74b06094893747ac168ddb44d0"
+    }
+  ],
+  "applicable_distinct_QA3": [
+    {
+      "private_original_relative_path": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-00",
+      "public_prospective_basename": "INDEPENDENT_PUBLISHING_CURRENT232_COMPLETE41_BODY_FIRST_LITERARY_AND_THREE_PRECISE_ACTOR_ACTION_LOCATION_FINDINGS_V1.json",
+      "bytes": 185812,
+      "sha256": "44d6d46322fc1842253e4a72083bb0fb838c40624c171c1ca6fa8f67d6e73cdb",
+      "git_blob_oid_of_actual_bytes": "e0192a32e992c7b5c7d5b6d1d79bb65cc9f958e2",
+      "qa_role": "OLD232_HOLD_BODY_ONLY",
+      "original_decision_unchanged": "HOLD_CURRENT232_COMPLETE41_BODY_ONLY_PENDING_TWO_SUPPORTED_FINDING_GROUPS_IN_THREE_LITERAL_LOCATIONS;NO_ALL105_COMPONENT_ROOT_ADOPTION_OR_PACKAGE_CREDIT",
+      "named_opacity_count": 6
+    },
+    {
+      "private_original_relative_path": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-01",
+      "public_prospective_basename": "INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+      "bytes": 14550,
+      "sha256": "3a14771226c3bac1c64da9299ae85f3289f6329bd92c9f61904f7f8885b0c9e2",
+      "git_blob_oid_of_actual_bytes": "879ccd96a46073b5daaf4380e013268286457535",
+      "qa_role": "CURRENT232_EXACT3_BODY_REPAIR",
+      "original_decision_unchanged": "PASS_WITH_LIMITS_CURRENT232_COMPLETE41_BODY_ARGUMENT_BY_RETAINED_WHOLE_BODY_FIRST_REVIEW_AND_EXACT_CURRENT3_LITERAL_RECEIVING;ALL105_COMPONENT_ROOT_ADOPTION_INSTALLATION_PUBLICATION_SEPARATE",
+      "named_opacity_count": 3
+    },
+    {
+      "private_original_relative_path": "private-witness:PUBLISHING-ROOT-ORIGINAL-QA-02",
+      "public_prospective_basename": "INDEPENDENT_PUBLISHING_CURRENT41_ALL105_NEW_TARGET_MEANINGS_SOURCE4_EXACT8_COMPLETE_LITERARY_COMPONENT_MANUAL_QA_V1.json",
+      "bytes": 205175,
+      "sha256": "d7913e6e35b29cbf033809ad08461a2a25b327db9c3029bb0e69bcd7164a6a6c",
+      "git_blob_oid_of_actual_bytes": "f822c2e3d48610c258d39fb3cf64419d314bed6d",
+      "qa_role": "CURRENT41_NEW105_SOURCE4_EXACT8_FULL_COMPONENT",
+      "original_decision_unchanged": "PASS_WITH_LIMITS_CURRENT_EXACT8_COMPLETE_NEW105_PURPOSE_AND_LITERAL41_COMPONENT_QA_NO_ROOT_ADOPTION",
+      "named_opacity_count": 2
+    }
+  ],
+  "semantic_receiving_extent": {
+    "body232_literal41": true,
+    "selected4_maintained_core_and_currentINPUT16_operative_boundaries": true,
+    "all105_new525_target_fields": true,
+    "all41_current_source_purpose_inferential_joins": true,
+    "all_current41_and105_QA_manual_reasons_and_preservation_controls": true,
+    "current_exact8_and_original11_source4_raw_preservation": true
+  },
+  "unsigned_false_gate_role": "Prior template false values were preparation gates. All six current true values above are ROOT actual completed receiving, supported by the individual tool trace and executed read-only preservation closure below.",
+  "current_collection_bounds": {
+    "paragraphs": 41,
+    "dimensions": 15,
+    "rivals": 8,
+    "finite_ends": 16,
+    "all14_OPEN": 14,
+    "source_core_complete_maintained_arguments": 4,
+    "consequential_selected_carrier": 1,
+    "new_target_purposes": 105,
+    "new_target_semantic_fields": 525,
+    "named_duty": 0
+  },
+  "source_grade_roles": {
+    "author": "Four whole maintained written analytical arguments, plus consequential selected E850; underlying121/15/10/20 and common10526whole79selected remain attributed.",
+    "ROOT": "ROOT personally received the whole current232 body/all41 argument paragraphs, all525 current Publishing-specific fields and all146 linked manual QA reasons; four necessary selected maintained source contexts and all16 current INPUT boundaries. Maintained report/reuse grade, not primary/native/raw/audiovisual.",
+    "new105": "All105 current Publishing-specific five-field judgments were personally read through complete105/525 endpoint, with each own finite reason and full current independent QA reason; original26 whole/79 selected producers remain attributed. No fresh normal105/source consumption inferred.",
+    "fresh_normal_primary_native_raw_AV_source_admission_model_or_identity_credit": 0
+  },
+  "source_INPUT_coverage_actual_ROOT": {
+    "grade": "Four necessary selected maintained analytical contexts; no EOF whole4, normal105, original-source, native, raw or audiovisual receiving credit for ROOT.",
+    "actual_selected_ranges": [
+      {
+        "source_id": "PS01",
+        "physical_lines": 495,
+        "bytes": 65295,
+        "sha256": "bcef31e175975f32307d589c151c9b270a72094df084999f92eda5d1b6fa2f57",
+        "necessary_ranges": [
+          [
+            236,
+            241
+          ],
+          [
+            279,
+            309
+          ]
+        ],
+        "actual_metadata_tool": "1bf9de",
+        "actual_selected_tools": [
+          "5312ee",
+          "1f79b0"
+        ]
+      },
+      {
+        "source_id": "PS02",
+        "physical_lines": 160,
+        "bytes": 28281,
+        "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+        "necessary_ranges": [
+          [
+            82,
+            108
+          ],
+          [
+            109,
+            133
+          ]
+        ],
+        "actual_metadata_tool": "971e28",
+        "actual_selected_tools": [
+          "7edf9a",
+          "390ef8"
+        ]
+      },
+      {
+        "source_id": "PS03",
+        "physical_lines": 205,
+        "bytes": 38411,
+        "sha256": "14559582a911ee118c9663a60fadaf06193733082b980495f486ed7729098e4f",
+        "necessary_ranges": [
+          [
+            91,
+            119
+          ],
+          [
+            120,
+            150
+          ],
+          [
+            151,
+            177
+          ]
+        ],
+        "actual_metadata_tool": "7a0b29",
+        "actual_selected_tools": [
+          "065fa6",
+          "75a44b",
+          "546611"
+        ]
+      },
+      {
+        "source_id": "PS04",
+        "physical_lines": 267,
+        "bytes": 47096,
+        "sha256": "ff7e1d8947fa3f52d3da19ef1d91fa3190bbcb81fceceffaa8b6431eb427b265",
+        "necessary_ranges": [
+          [
+            70,
+            118
+          ],
+          [
+            123,
+            160
+          ]
+        ],
+        "actual_metadata_tool": "2a1d48",
+        "actual_selected_tools": [
+          "9cfb26",
+          "21ba67"
+        ]
+      }
+    ],
+    "current_INPUT16_operative_boundaries": {
+      "complete_records": 16,
+      "actual_tools": [
+        "2a2253 records0-3",
+        "a82774 records4-9",
+        "cf3e90 records10-15"
+      ],
+      "current_practical_limits": [
+        "PS01 L239 supports wage conflict and stopped work, without demonstrated payroll nonpayment or settlement; the original unpaid-wage counter remains historical under its operative qualifier.",
+        "PS03 supplied food precedes bargaining under reported three-day foodlessness; no withholding-a-meal or clinical/intention assertion.",
+        "PS04 Yakumo food/timetable refusal is separate from the adult refusal of perpetual company/interview.",
+        "E850 comparison distinguishes Miyo wanted romance reading/reading refusal from Ritsu sculpture/material/favourite-author access. ROOT own prior actual selected81-100 c4e4ea is retained same-carrier reuse, not a renewed source read.",
+        "The six61767 source qualifications for025/071/073/075/079/087 remain separate from59334 GSC coffee-only direction; no fresh GSC comparator.",
+        "E862 comparison separates Anna failure/fuel fear from Elina projection; local naming without identity promotion."
+      ]
+    },
+    "actor_action_corrections": "Current bodyL98/L102/L208 exact3 repairs personally compared with the full existing body-first findings and complete14550 current repair review; no rewrite of oldHOLD."
+  },
+  "oldHOLD_and_repairs_operative_role": "Keep originalwhole232/body-only decision and two finding groups/three locations literal. ExactV3 body repair14550 and currentfull205175 qualify the repaired currentbody; no old positive regrade/erasure.",
+  "authorized_metadata_only_body236_scope": {
+    "keep_artifact_type": "institutional_synthesis",
+    "keep_status": "active_provisional",
+    "do_not_use_as_current_authority": false,
+    "review_state": "ROOT_ACCEPTED_WITH_LIMITS_INDEPENDENT_COMPONENT_REVIEW_COMPLETE",
+    "supersedes": [],
+    "superseded_by": [],
+    "canonical_home": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+    "body_physical_lines_after": 236,
+    "all41_complete_arguments_and_all525_fields_literal": true
+  },
+  "retained_old232_current236_source_and_pending_statements": {
+    "old_physical_lines": [
+      16,
+      18,
+      232
+    ],
+    "current_proposed_lines": [
+      20,
+      22,
+      236
+    ],
+    "complete_original_statements": [
+      "This private body-first draft occupies existing required row254/home259, P3-XRW-I004. The declared future primary filename is BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md; no published path or adoption is claimed. Four complete maintained analytical arguments were personally received through EOF. Their producers' underlying121/15/10/20 scopes remain attributed and overlapping comparisons are not new original source counts. Current70db binds captured bytes, not a future publication head or green runtime. Method/architecture controls retain their declared58a capture role. All355/29/25/384/788 controls, all14OPEN, models0, next178UNREACHED and reserved merge approval remain. Full current105/claim/register/component receiving, distinct QA and ROOT adoption/install/publication are pending.",
+      "Source aliases: PS01 RedWinter121 maintained account (495 lines); PS02 E829 maintained account (160); PS03 E852 maintained account (205); PS04 Takane/Yakumo20 maintained account (267). A PS locator names these actual analytical carriers and their retained local source locator/mode, not a fresh original read. Cycle008 current adoption qualifies their dated intake/queue statements. Existing61767 six-source qualifications and59334 GSC coffee-direction scope remain distinct and frozen; no new GSC coffee comparator is used here.",
+      "The source4 core and control receiving record supplies actual ranges and newly identified Publishing questions/results, with metadata and primary grades separated. This body is an authored literary argument, not a registry update, source admission, model, forecast, full character/relationship completion or accepted package. The required current common105 judgments must genuinely assess each source-purpose meaning for this target, preserve all original scopes and complete payload inverses, and leave absent direct attendance or higher-stakes labels without automatic exclusion. Distinct body-first review precedes full literal/component QA and ROOT current receiving. All existing originals stay immutable."
+    ],
+    "public_ROOT_control_qualification": "These are original dated author assembly/input/70db capture statements, not operative absence of currentQA/adoption after actual acceptance. No future runtime or source grade upgrade."
+  },
+  "current_PS01_operative_wage_scope": "Maintain sourcePS01L239 wage conflict/stopped work/no demonstrated wage settlement; preserve original retainedliteral counter and every other source/QA meaning.",
+  "ROOT_receiving_complete": true,
+  "signed_ROOT_actual_receiving_trace": {
+    "actual_date_UTC": "2026-10-14T08:34:27.883752+00:00",
+    "body232_literal41": {
+      "complete_tools": [
+        "a29f5d lines1-80",
+        "a4502d lines81-160",
+        "848be6 lines161-232"
+      ],
+      "whole_current_body_receiving": true
+    },
+    "all105_new525": {
+      "actual_batches_and_own_finite_reasons": [
+        {
+          "owners": [
+            0,
+            3
+          ],
+          "tool": "6478f1",
+          "actual_complete_five_fields": 20,
+          "current_independent_reasons": 4,
+          "own_finite_reasons": [
+            "Sensory aroma and volunteered help are positive endpoints; their comparison with readers' delight grants no finishedmeal or publisher production authorization.",
+            "Temporary delegatedservice and reportedprofit do not cancel Neru's refusal of a permanentrole; continuing work requires its own new agreement.",
+            "Nodoka's pudding,telescope,home and interrupted performance retain intrinsic value beside coercedpublicity and unrepairedproperty; no fictional Publishing attendance is assigned.",
+            "Useful invention and different tastes do not grant ownerpermission or repair; the manuscript/publicity comparison is bounded to the actual property asymmetry."
+          ]
+        },
+        {
+          "owners": [
+            4,
+            11
+          ],
+          "tool": "3c6914",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "False data and correction require the actual audience afterstate; Chihiro and Yuuka provide local norms without full reputation repair.",
+            "The checked kitchen stage differs from the later drink and adverse response; no chemistry or enacted cut is inferred.",
+            "Care/company coexist with injury and unequal knowledge; threatened injection is not administered treatment or authorization.",
+            "Tsurugi's happiness and tea do not establish peers' reciprocal welcome or any cure.",
+            "Cocoa and Ibuki concern differ from Iroha's unprocessed accounting; decision-makers and resource stages remain distinct.",
+            "Desiredholiday and realicicles do not establish safe assent or swallowing afterfeeding; earlier leisure refusals survive.",
+            "Literalgarbage cleaning differs from seniors' villain interpretation; agreement does not establish shared task knowledge or compensation.",
+            "Rejected salespitch and futurevow are local endpoints; useful recognition does not grant legitimate retaliation or durable reform."
+          ]
+        },
+        {
+          "owners": [
+            12,
+            19
+          ],
+          "tool": "65c2d1",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Umika's quiet ideas and rest have value before procurement; low scale is no exclusion rule.",
+            "Kaede's wanted film and imaginedpraise differ from actual rebuke and reported completion; no audience success follows.",
+            "Renewedconditional invitation has a different object from priorrefusal, with sleepworry remaining.",
+            "Yuzu's good local performance leaves her publicity refusal intact; performance does not authorize publishing the performer.",
+            "Unknownpackageprivacy and inventedrumor remain separate; explanation/stoppedpropagator is not openedpackageproof.",
+            "Successful capture and donuts/rest do not authorize wrongdeployment or restore a destroyedshop.",
+            "Fiction and hardshipadvocacy reach different recipients; proposal/agreement/narratedashes do not identify an unprinted burner or reliefdelivery.",
+            "Backstagework,stars,welcome and agreedinterview have intrinsic value without fictional charter,subscribers or genuineperformed filmfeat."
+          ]
+        },
+        {
+          "owners": [
+            20,
+            27
+          ],
+          "tool": "00394d",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Rationtastes and relievedwatch differ from unwanted disposalwork; cleanup does not identify one explosioncause or collective authorization.",
+            "Lucky personalmoney coda differs from requested metalprice output; no financial law or calibrated prediction is established.",
+            "Chise's own preparation and tastes cannot be replaced by helperprojection or undisclosed following.",
+            "Rei wants training/home-run/food/break while equipmentobjection and proposednonreturn remain; nohome-run achievement or identityjoin follows.",
+            "Kisaki and Kokona are the currentactors; privateexercise/request/acceptance differs from projected mandates or demonstratedgrowth.",
+            "Meg's chosen digging/rest and particularHina icepop acceptance keep qualified sourceboundaries; warmth doesnot establish clinicalrevival or generalgiftrules.",
+            "Nagisa's company/gratitude coexist with fatigue and dislikedtastes; temporarypleasure doesnotimplement lastingrest.",
+            "Gifts/work/photos/thanks keep value beside false summons/timepressure/undisclosedaddition; no allegiance,efficacy or imposed companyauthority follows."
+          ]
+        },
+        {
+          "owners": [
+            28,
+            35
+          ],
+          "tool": "ac6831",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Distinct makercredit,privateletters and Eri's exit cannot become authenticated contents or retrospectivepermission from a later gift.",
+            "Izuna's own choice and peerhelp defeat sole-adult authorship; rescue/allegiance change are not fullrestitution.",
+            "RedWinter commandrestoration differs from supplies/rightsfulfilled; actual802rescue cannottransfer to806offer.",
+            "Sea,sand,food,beauty matter beside exhaustion and uncertainphotoreception; no universalapproval.",
+            "Hina chosenleisure is not Ako's inferredstresscure; concealedrisk and issueduncompletedtraining remain.",
+            "Shun's chosenreturn/qualifiedforgiveness doesnot authorize earlierdeception/restraint or establishdrugmechanism.",
+            "Asuna's service/uniform/curry/freeplay and conditionalrelease remain distinct from unexecutedrescue/securityrepair.",
+            "Miku's actualintro/joy/difficulty do not establish futureaudience or engineeridentity/ontology."
+          ]
+        },
+        {
+          "owners": [
+            36,
+            43
+          ],
+          "tool": "40107b",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Warmreading/craft and late reuseconcession do not restore workers'housing/wages afterblast.",
+            "Renewedtoyoffering and rituals retainvalue while emptyfunds,hesitation/exhaustion and conditionalrest remain.",
+            "Chosenkeeping/viewing/slowappreciation preservegiftrecipientcontrol; no automaticconsumption,install or owedfeedback.",
+            "Restart/subdual and heldchocolate are particular; jammedcontact doesn'tprovepresence and giftsarenot eating/romance.",
+            "Restoredscripture/bakedgift/accountability do not make acceptance liking or smoothie favorite; exact coffee request remains.",
+            "Actualcatch/help do not enact all plans/payments/charters or unprintedanimalpermission.",
+            "Shiroko wantedfishing,Serika holiday,Nonomisouvenir and boathome have separate owners; tacticalsuccessisnotachievedfishing/rodrepair.",
+            "Feast/cooperation stand alongside reportedtitle/deadline/forgery/recovery and no verified hiddenintent/refund."
+          ]
+        },
+        {
+          "owners": [
+            44,
+            51
+          ],
+          "tool": "39f43c",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Kazusa initiates contact/meeting and offersdrink; request and gift do not solve the introduceddanger or make alternativeanswers cumulative.",
+            "Desiredcessationwithoutpunishment is specific; Reisa's declaration is not an enactedblow or a completedmandate.",
+            "Pastdisclosure changes knowledge without a hiddenviolentessence or inspectedphotoprovenance.",
+            "Courtesy allows situationalrespect and a stopboundary; limitedSuzumi knowledge cannotbecome omniscientcommand.",
+            "Reisa's immediate own conflictresolution and time tothink matter without diagnosis/durable reform or fixedspeakers.",
+            "Belonging affirmedbeforedisclosure doesnotrepair the dropped-photoinspectionbreach.",
+            "Gratitude and criticismofpublicnames coexist with chosenpracticalpersuasion; shameisnot clinicalcure or proofmasterplanning.",
+            "Clubmates'wantedtheatre canbe misrecognitionwhenKazusaobjects; kindintention cannotauthorize oldroleperformance."
+          ]
+        },
+        {
+          "owners": [
+            52,
+            59
+          ],
+          "tool": "ce8179",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Gratitude and a did-I-request-this boundary remainbothoperative; silence/fatigue cannotanswerforrecipient.",
+            "Chosenpresentcessation isreal yetlaterO060renewedchallengequalifiespermanence; existingSuzumiaiddefeats no-contactabsence.",
+            "Returnedletter and privatejoy/sadness arevaluable withoutclinicalclearance or reciprocalfriendship.",
+            "Kazusa's renewedconcern isherowninquiry,not reversedaversion; adult inwardwarningisnotheard.",
+            "Peercommitment/theatre/positioning areparticularhelpwithcontestedlabels; predictedpoliceactionisnotjurisdiction orarrival.",
+            "Arrivedallies areactualhelp whilehumiliatingnamesstillanger; blastcauseandsaferescue remainopen.",
+            "Retreat/letter/hunger/offeredtreat restorelocalfellowshipbutnoeating,clinicalprotocol or agreedrelationship isshown.",
+            "Cake/friends/warmth motivateordinarylifewithout naming rememberedgirl by resemblance,provingcalendar orpermanentcure."
+          ]
+        },
+        {
+          "owners": [
+            60,
+            67
+          ],
+          "tool": "615af2",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Parfaitordering/routine and renewedexplanationrequest do notmakechallengepermanentlyended or solorescuepublicitytrue.",
+            "Recipient-shapedcontests and openedmachine matter with onlyUtaha'swantedoutfitcompleted; otheroutfitsremainembarrassing.",
+            "Usefulcoaching/sixthplace don'teraseChihiro'snonenjoyment,Hibiki'sexitwish or deniedrest.",
+            "Changedaccount/apology/treatment/party keepvaluewhileblockedexplanation/force/nonlexicalassentarenot fullrepair.",
+            "Fuuka'slaterchosenservice/tastes/victory don'tauthorizeinitialkidnapping,overtime or unprintedpayroll/contracts.",
+            "Reportedoperationalcompletion hasvalueatitschannelwhile revivals/futureconstructionprevent permanentsafety/singlecause.",
+            "Technicalpride/spacefood/roomopening/accompaniment staymode-specific; lostcontact/nearfinishedrepairdonot certifyontology,safety or Publishingattendance.",
+            "Scarf/home/hunger/work/company/entrusting preserveaparticularperson; selfblameandpriestlycosmology do notestablishcausal guilt or clinicalrecovery."
+          ]
+        },
+        {
+          "owners": [
+            68,
+            75
+          ],
+          "tool": "ced541",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Civicrequests and aidapproval differfrompaidprocurement/reinstatement/completedcontributions.",
+            "Toki'schosenfriendship/Neruapology areE825local; E843distinctexclusion,crownreceipt and reportedcommandrights donotsettletitle/payment/universalaccess.",
+            "E826banquet/apology/foodpleasures coexistwithsecretuseofKokona/expenses/childcare,withoutmergingE844 or provingmedicalcause.",
+            "Fishinginstruction/lights/apps/shrimp/barbecue retainusefulgoods; Sakifood/bodyrefusals and RABBIT/coastguard/fishersroles remainexactqualifiedscope.",
+            "Ui'squiet/capsule/map/aid/thanksretainmemorywithoutrecoveringlostwriting,provenance,repayment orpolicy.",
+            "DirectE829Mel freelyfinishes afterreconciliation; acceptance/reading aredistinct fromprinting/sales,appropriationwithdrawal retainsnextclaim andMomiji'scost.",
+            "Crossschoolaid/rest/exitrequests do notcreateindefinitehelpobligation or unconditionalrestoration.",
+            "Eimivaluedgift/departureandvariedcuriositystaypositivewhilemanufacturedfailures/bodycomplaints,actor-specificrest andunknownerasure/reunion remain."
+          ]
+        },
+        {
+          "owners": [
+            76,
+            83
+          ],
+          "tool": "c67a99",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Sharedcampreading/food/cocoa/cleanup/sunrise keepvaluewhile initialcompulsionandhiddencampingretaincosts;laterexit isnot retrospectivepermission.",
+            "Writtenmusicresponsesandpartyworkhavevaluewithoutheardperformance,settledbudgets or Iroha'srefusalbeingcancelled.",
+            "Mixedcollectionreading/food/livelihood/actualexitsstopatdifferent stages;no universal sincerity/consentmeterfollows.",
+            "Umika'schosenhostingandguestenjoyment coexist withlostschedule/danger; thanksdoesnotrestoretime orzero costs.",
+            "Airi'spresenceiswantedbeforeskill; selfacceptancecannotcumulativelyjoinalternativeendings orerase imposedroles/fatigue.",
+            "Childthanksandpaidleisure do notauthorize earlierfalseaccusation/restraint or certifyinjuryfree rescue/restitution.",
+            "Ariusmusic/magazines/quiet/art/reception havevaluebesidelocalunpaidlaboranddistinctphotos; no newAzusaparticipation/payrollaudit follows.",
+            "Kisaki culturalvisit/correction/farewell areparticular; deferredfineattribution and earliercellpressure remainwithoutunanimity/cure."
+          ]
+        },
+        {
+          "owners": [
+            84,
+            91
+          ],
+          "tool": "8408e7",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Kaguya refusedheadship andacceptedboundedworkaredifferent objects; celebration/treatmentordersarenotjustlastingreform/recovery.",
+            "Mari enjoyedanintervalandchosetoendit; privatephotogift isnotpublicuploadpermission orimagedisposal.",
+            "Fittinggifts/games/Noarememberingretainvaluewhileprivacyfear/recording/unreleasedfiling remaincosts.",
+            "Neru refusal,Karin informationrequest,Rio one-weeknoforce assentkeepactorandduration;Seiaharm/proposedtechnicalactsremain.",
+            "Juri laterpermits refusalbeforeactualpancakeeating; latergiftcannotrestoreFuuka'sinterruptedrest/overload orprovegeneralsafety.",
+            "Rei'sactualgrand-slamandchosenclubdifferentiatewantedearliertraining; next-dayfailure/restoverridepreclude durable skill orcareer.",
+            "Cargo signatures/intactpizzaentitlement/Aobaselfdirectionretainvaluewhilecontact/couponrefusal andunperformed dinner/accountabilityremain.",
+            "Initialmeetingyesdoesnotprovidechangedbeach/festival orfearconditionedconfidentialitypermission; pleasureandbodilycoststaytogether."
+          ]
+        },
+        {
+          "owners": [
+            92,
+            99
+          ],
+          "tool": "da6bb9",
+          "actual_complete_five_fields": 40,
+          "current_independent_reasons": 8,
+          "own_finite_reasons": [
+            "Differentbarbecue/cards/reading/withdrawalsarevaluablewhileunconsultedguards/staffandlocaltimespreventall-personrest/napstrategy.",
+            "Wildhuntart/company/recognitionandRena'schosencontribution do notauthorizeimposedritual orfulfilwishes/museumaccess/unknownvoice.",
+            "Miyo refusesTeacherreadingwantednovels;Ritsusculpture/materials/favouriteauthorintereststaydifferent,withfrozenwriting-refusalqualified.",
+            "Protection/reading/craft/voluntarymedia andLove'sactualwin/electricityclarificationkeepfiniteoutcomes; Uiquiet/sleepandbody/worklimitsremain.",
+            "DirectE852settlement/readerjoy/creation/temporaryshelter coexistwith rejectedproposal/unprintedterms/falsepersona. Starvation-leveragenarrowly meansbargainingafterreporteddeprivationandsuppliedfood,notdeliberatewithholding.",
+            "Tsukuyo todayonlyperformance/chosenreturn/ramen/repaired dressarefinite; restrictions/unprintedfilmpermissiondonotcreatepermanentcareer.",
+            "Alice presentfriendsandKeinames/attachmentmatteragainsterasure; codesignisnotpilotconsent oridentityfusion.",
+            "Oneconfessionexplainsnamedplantedactswithfood/inquiry/localcleanupvalue; othermysteries,coercedhelp/contactandprocess limits remain."
+          ]
+        },
+        {
+          "owners": [
+            100,
+            104
+          ],
+          "tool": "c9ec07",
+          "actual_complete_five_fields": 25,
+          "current_independent_reasons": 5,
+          "own_finite_reasons": [
+            "Rumi hospitality/Kisaki chosenpace/walk/swimmingandmerchantassentkeepvaluewhileKanaework/collapseandfactionsremain; latemedicineisnotabsentmedicine.",
+            "Iroha rest/chosenphoto/rescue andMakotoreplacementboat remainfinite; refusedshipphoto,contradictorysafety/blame anddreamqualifiedtournamentstopuniversal loyalty/restitution.",
+            "E861curry/navigation/narratedaid/icecream andAmiworkexitarelocal; MAINSammygriefisaseparatesource,nodissolution/policy/debtidentityjoin.",
+            "Anna failurefear/fueluse differsfromElina'smotivationalprojection; mutualapology/output/qualification leaveinjury/property/future race unresolved.",
+            "Mixedfinitegloves/party/cookies/broadcast/rescue/dinner/gardeningandlocalreleasefromendlessrepayment donotcreate universalservice. Differentcaptivity,drawing,prototype/body/property costsandunperformedfuturepromisesremainattributed30primary/2reusegrade;finitepositiveenumerationisnotanexhaustiveclaimor payroll outcome."
+          ]
+        }
+      ],
+      "complete_purpose_count": 105,
+      "complete_new_target_fields": 525,
+      "complete_current_QA_reason_count": 105
+    },
+    "all41_source_purpose_and_distinct_QA_reason_joins": {
+      "complete_tools": [
+        "927661 claims001-003 full literal joins/reasons",
+        "d1b6a0 claims004-015",
+        "13647d claims016-027",
+        "713979 claims028-039",
+        "0595bc claims040-041"
+      ],
+      "actual_common_factored_templates": "Four complete source nonspan templates and three complete purpose-pointer templates were personally read; byte-complete reconstruction equality verifies factoring only repeated metadata. Whole232 body was received separately; no body text inferred from hashes.",
+      "complete_claim_reason_count": 41
+    },
+    "dimension_rival_end_gap_QA": {
+      "dimensions": 15,
+      "rivals": 8,
+      "ends": 16,
+      "gaps": 14,
+      "actual_tools": [
+        "c53fe2 complete15 dimensions and aggregate8 rival reason; all8 actual paragraphs/reasons also in wholebody/41 joins",
+        "a83751 endsT01-08",
+        "06da61 endsT09-16",
+        "2f4b96 all14 complete original gap names/boundaries/current QA reasons",
+        "2d7ae5 all six current shared-context distinct semantic values"
+      ],
+      "clipped_display_not_counted": "0fc791 gap output and cb1608 source scope projection had clipping; their missing semantic fields were received via the complete projections above."
+    },
+    "applicable_QA3_scope": [
+      {
+        "role": "OLD232_HOLD_BODY_ONLY",
+        "actual_receiving": "5f5aea complete decision, two supported finding groups and exact three complete literal proposals only; no whole185812 personal consumption claim."
+      },
+      {
+        "role": "CURRENT232_EXACT3_BODY_REPAIR",
+        "actual_receiving": "61794a whole14550 current body-only exact3 repair QA and33 actual checks; prior wholebody first review supplies unchanged229 lines."
+      },
+      {
+        "role": "CURRENT41_NEW105_SOURCE4_EXACT8_FULL_COMPONENT",
+        "actual_receiving": "All41 and105 complete current manual reasons, operative decisions/independence/source grades/actor-food-wage qualifiers/preservation conclusion were received through bounded exact readers; no whole205175 human print or full13296 checkstream claim."
+      }
+    ],
+    "exact8_and_original11_source4_RAW": {
+      "actual_code_personal_read": "24a3b4 whole26299 pinned read-only guard",
+      "actual_ROOT_execution": "e9ab5b",
+      "actual_critical_closure_read": "2481fb all8/11/source4/body3 closures and scope",
+      "result_pin": {
+        "bytes": 29857,
+        "sha256": "c7acf0efe8185156c0fd0ee3d5ec232b25de797b8edb43ba5aabd9493d710713",
+        "git_blob_oid_of_actual_bytes": "23452fa628e0c7237aa516ee8bb480ee4cc98b0e"
+      },
+      "actual_predicates": 1977,
+      "findings": 0,
+      "machine_preservation_only": "All8 sparse raw reverse/forward, original11 frozen105 envelopes, original source4 report/4 locator reversals, whole232/body3 repair and declared live literal-source-purpose graph. Machine source-byte verification adds no human source-reading scope."
+    },
+    "public_metadata_plan_and_named_QA11": "09ed75 complete unique72232 plan controls/body3 metadata operations/dependency edges/history/source roles; b0bf13 all54 bodytuple locations, all79 line updates, all49 two-endpoint spans with lossless equality-factored common tuples; 2481fb whole10430 exact11 QA scalar inventory; e24da8 whole unsigned template; strict2002 contract previously36faa4; original11624manifest6f4f47.",
+    "prior_partial_v4_pin": {
+      "bytes": 19719,
+      "sha256": "a277f4fdc8195c9bf0663cf3b337f8612f00ad17d4725bedb06991fefe6d4289",
+      "git_blob_oid_of_actual_bytes": "7f136f0252b91eedc1e4d24a0160aab039f1afe8"
+    },
+    "human_semantic_receiving_does_not_follow_from_machine_checks": true
+  },
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge": "RESERVED"
+  },
+  "no_installation_publication_future_runtime_newsource_model_named_or_canonical_credit": true,
+  "remaining_gates": "Only actual signature enablesmetadata public14 composition; distinct finalcompositionQA/ROOTbyteadoption/freeze/install/PF/provider/push/readback/newheadCI/mainintegration remain separate.",
+  "unsigned_template_creation_history": {
+    "original_template_pin": {
+      "bytes": 12434,
+      "sha256": "90d7c3710e8a4b0ed22b37deca551f81037f46a15ea3028412de3240d0cdeff5",
+      "git_blob_oid_of_actual_bytes": "f0e3173ea79268f2de26180d2339aefca54a124f"
+    },
+    "original_source_grade_roles": {
+      "author": "Four whole maintained written analytical arguments, plus consequential selected E850; underlying121/15/10/20 and common10526whole79selected remain attributed.",
+      "ROOT": "Four necessary selected maintained contexts at actual Root-reported grade; whole232body/currentINPUT16boundaries accepted as receiving only, not signature.",
+      "new105": "Current target-specific report/reuse meanings and actual current QA. Root receiving was incomplete60/105 atdurable snapshot, later76 reported atassignment; no completion/adoption inferred here.",
+      "fresh_normal_primary_native_raw_AV_source_admission_model_or_identity_credit": 0
+    },
+    "old_preparation_snapshots": "Original60/76 and pending fields are preserved here as dated unsigned-template creation history. Current actual completeness is governed only by this signed record and its trace."
+  },
+  "ROOT_own_literary_adoption_reasons": [
+    "Publishing has actual finite goods: wanted manuscripts, drawn work, reading, discussion, material routes and opportunities for readers to meet work. Assistance, sharing and completed local tasks are evidence of these goods; no account of exploitation erases them.",
+    "Yakumo planning, rail/rest/bento limits and Takane criticism, cooking, hockey, photos and a private evening are intrinsic motives and endpoints. They do not need crisis stakes or direct Publishing attendance to remain useful comparison evidence.",
+    "Mel figures, tools, workroom, cafe desire and quiet readers make creative and recipient purposes concrete. Appropriation, a false persona, carrying burdens and the bargain under reported deprivation constrain publicity claims; delivery and benefit do not retroactively certify creator permission or fair terms.",
+    "Current Yakumo/adult refusals and food-before-bargaining chronology are supported by selected actual source contexts and exact body3 repairs. The RedWinter wage conflict and stopped work support a finite burden argument without establishing unpaid payroll or settlement. These distinctions qualify rather than erase old frozen payloads.",
+    "All105 new report/reuse comparisons answer this institution question in their own five fields and full current QA reasons. Wanted fishing, Miyo romance-reading, Ritsu material access and local release from endless repayment remain finite purposes. Missing direct institutional attendance or low crisis stakes do not auto-exclude any owner.",
+    "The literal41 argument,15 dimensions,8 rivals and16 finite ends support this existing institution home WITH LIMITS. Local permissions and prevented clashes are bounded outcomes, not a treaty, universal consent, audited wage terms, completed character/relationship monograph or model. All14 original gaps remain OPEN."
+  ],
+  "named_QA11_value_opacity_approval": {
+    "ROOT_decision": "APPROVE_EXACT11_NAMED_QA3_VALUE_ONLY_LOCATOR_OPERATIONS_AND_NO_KEY_OR_SEMANTIC_REWRITE",
+    "inventory_pin": {
+      "bytes": 10430,
+      "sha256": "a5088016dffa25e9bd6544eb74a8f79e958b2e09843582094c61a9e60e3879de",
+      "git_blob_oid_of_actual_bytes": "e1b485b79ad96843e667f4a5f9d4e00a4118cbcb"
+    },
+    "actual_personal_read": "2481fb whole10430",
+    "operation_counts": [
+      6,
+      3,
+      2
+    ],
+    "exact_total": 11,
+    "pathlike_keys": 0,
+    "original_before_scalars_executed_equal": true,
+    "full_original_raw_inverses_required": true,
+    "future_actual_signed_ROOT_opacity": "Separate inventory and ROOT approval of actual delivered three QA relative-path values after this signed receipt exists. Do not infer or broaden from QA11."
+  },
+  "current_source_publication_snapshot": {
+    "source": "a729478bf7942cc48d6c7a7e86528856590bfd75",
+    "tree": "e4b854d2c95329f3fe1a3ffac5d41aa7cb0f2ada",
+    "source_counts": [
+      145,
+      16
+    ],
+    "main": "67b2a064714c099204636764a24aabc9ca58f2e6",
+    "main_counts": [
+      133,
+      13
+    ],
+    "closed_source_HK_final": [
+      38530946962,
+      38532768816,
+      38532812741
+    ],
+    "trusted_latest_status": 56305244377,
+    "actual_publication_closure": "3484/8809993bef823a093b6a4fc943572f3fa1c61d354774899544f65888a0be87d5",
+    "this_Publishing": "C_ONLY_SEMANTIC_ACCEPTANCE_NOT_INSTALLED_NOT_COUNTED"
+  }
+}

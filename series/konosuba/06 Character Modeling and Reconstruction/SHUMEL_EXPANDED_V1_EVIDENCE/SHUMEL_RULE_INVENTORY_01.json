@@ -1,0 +1,26 @@
+{
+  "schema": "konosuba.cohort45.shumel-rule-inventory.v1",
+  "subject": "Shumel / シュメール・ミード・ひゃんひゃん",
+  "status": "active_provisional",
+  "source_known_same_informed_root": true,
+  "source": "YORI-03U014 complete629-P paragraph/ruby projection",
+  "rule_count": 1,
+  "rules": [
+    {
+      "id": "SHU-R01",
+      "status": "active_provisional",
+      "proposition": "In an already adversarial public encounter over her authority, continued lower-status use of the given name she has expressly forbidden can shift Shumel from status sarcasm into punitive assertion, including threatened force and a costly actual escalation. Her reported reciprocal name etiquette with Darkness shapes the grievance. Favor this identity-boundary response over treating repeated teasing as inconsequential, while retaining raid resistance, rank and exposure risk as competing causes. Respectful address removes this particular documented trigger; it does not compel cooperation or resolve the independent dispute.",
+      "support": "YORI-03U014P358-364 introduces formal contempt for the uninvited inspection and adventuring role before Kazuma joins the exchange. She rejects Crimson identification367, prohibits teasing her name with an execution threat370, repeats the warning and actually casts Cursed Lightning375. Kazuma assesses a direct hit as lethal377; Darkness intercepts381 and exploits the public upper-magic/injury grounds383. Shumel invokes a prior reciprocal convention about given names385, proposes a thief-defense court account391 and signals guards392; later she threatens disclosure and grapples414. These constrain the pattern without supplying a private monologue.",
+      "contrary": "She is hostile before the given-name teasing358-361, so name violation is not a complete cause of the dispute. The inspection is itself coercive and supported by superior rank. Chris and Kazuma offer reassuring comments388-389 without observable repair, but those comments follow threats and an attack rather than forming a controlled kindness test. Her cast fails to intimidate Darkness and worsens her legal/tactical position383. Later fighting requires her restraint414. No actual execution, court success, complete ancestry proof or inventory of every intended use is shown.",
+      "rivals": "A generic insulted noble, resistance to a raid, fear of property exposure, rank defense and local comic escalation explain overlapping portions of the encounter. The name is especially articulated but covaries with public audience and coercion; no independent causal weights or prevalence are identified. Her account of prior mutual etiquette385 may also be self-serving.",
+      "applies_when": "Specify her knowledge of the addressee, relative standing, current dispute, audience, the exact address used, whether she has already objected, available means and immediate danger. The strongest source extension concerns an adversarial public encounter with repeated forbidden-name familiarity after an explicit warning. Other settings, sincere negotiated concessions, changed relations or absent powers may warrant uncertainty rather than transplanting the whole raid.",
+      "do_not_assume": "No universal execution policy, guaranteed spell use, successful killing, legal immunity, mind-reading, infinite magic, automatic guard obedience, proved genealogy or constant incompetence. No permission to invent an attack by the other party, hidden evidence, a prior promise or a conspiracy that makes her response optimal. Polite forms do not guarantee goodwill; respectful address does not erase unrelated resistance. Existing Darkness/Chris/Kazuma motives and knowledge stay separate.",
+      "confidence": "Provisional and concentrated in one known dense confrontation. The explicit warning/cast sequence supports a limited generator, not a trait score, mature transfer readiness or independent discrimination. Serious generic and situational rivals remain. Any later informed same-root English firsts provide no independent accuracy, capability grade, confidence gain or final-battery credit.",
+      "falsifier": "Adequate later canonical evidence under prospectively comparable conditions would weaken the expectation if she repeatedly treats an expressly forbidden given-name violation by a lower-status public adversary as irrelevant without an evidenced changed circumstance, or if her asserted address boundary consistently bears no relation to her escalation. A simulation that silently ignores the warning, invents a killing or makes all respectful opponents trusted is an adverse model output rather than new canon. Record changed conditions and rival explanations honestly; do not invent them after feedback to protect this rule."
+    }
+  ],
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "authorship_phase": "Foundation candidate authored before any C45 exact scenario input or original first; complete semantic review/freeze still due.",
+  "full_program_complete": false
+}

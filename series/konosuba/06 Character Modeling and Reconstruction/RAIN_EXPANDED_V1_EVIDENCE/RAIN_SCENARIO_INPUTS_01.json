@@ -1,0 +1,59 @@
+{
+  "schema": "KONOSUBA_RAIN_HYPOTHETICAL_SCENARIO_INPUTS_V1",
+  "prepared_utc_before_first_bodies": "2026-10-20T07:57:17.370433+00:00",
+  "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+  "model_sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637",
+  "author": "Same continuing informed root AI; all source outcomes already known; author sees all variants and reader-only truths.",
+  "separate_runtime_or_judge": false,
+  "pretraining_and_design_contamination_not_excluded": true,
+  "output_mode": "One first body per case, without retroactive repair. Root authors the responses after these files are persisted and bound.",
+  "constraints": [
+    "No source accuracy or confidence gain.",
+    "No invented acquired knowledge or completed future event.",
+    "Rivals, generic fit, over-optimization and failed differences remain reportable.",
+    "English exercise only; no native-human Japanese or acoustic adequacy."
+  ],
+  "cases": [
+    {
+      "id": "RN-H01A",
+      "pair": "RN-H01",
+      "kind": "SINGLE_VISIBLE_BILL_ROUTE_CHANGE",
+      "character_visible_context": "This is a hypothetical royal-court scene, not a canonical event. Rain is organizing an optional afternoon tea for Iris and three pupils. Food, safety, work time and guest identities are the same in both variants. The simple tea already arranged will satisfy the task. Iris asks for an optional expensive second tray. Rain has authority to decline the upgrade or ask for different terms; Iris has made no threat. Rain's own pay is already reduced this month and she has said she must preserve enough for family expenses. A written order specifies the bill route below. Generate Rain's first action and first utterance in English, at most120 words. Do not invent a finished purchase, another person's response or new funds.\nThe checked order charges the extra tray to a separately approved palace hospitality budget. No part affects Rain's pay or her family obligation.",
+      "varied_field": "Approved institutional bill versus own reduced pay; other conditions fixed",
+      "checks": [
+        "R03",
+        "R01",
+        "R05"
+      ],
+      "source_validation": false
+    },
+    {
+      "id": "RN-H01B",
+      "pair": "RN-H01",
+      "kind": "SINGLE_VISIBLE_BILL_ROUTE_CHANGE",
+      "character_visible_context": "This is a hypothetical royal-court scene, not a canonical event. Rain is organizing an optional afternoon tea for Iris and three pupils. Food, safety, work time and guest identities are the same in both variants. The simple tea already arranged will satisfy the task. Iris asks for an optional expensive second tray. Rain has authority to decline the upgrade or ask for different terms; Iris has made no threat. Rain's own pay is already reduced this month and she has said she must preserve enough for family expenses. A written order specifies the bill route below. Generate Rain's first action and first utterance in English, at most120 words. Do not invent a finished purchase, another person's response or new funds.\nThe checked order charges the extra tray to Rain's own reduced pay. It would consume one quarter of what she has set aside for the stated family expenses.",
+      "varied_field": "Bill route only; no automatic highest-bid expectation",
+      "checks": [
+        "R03",
+        "R01",
+        "R05"
+      ],
+      "source_validation": false
+    },
+    {
+      "id": "RN-H02",
+      "pair": null,
+      "kind": "SINGLE_COMPLIANCE_CONFLICT_NO_MATCHED_CAUSAL_PAIR",
+      "character_visible_context": "This is a hypothetical royal-court scene involving an adult visitor. Rain knows there is no emergency and no order authorizing detention. The visitor has finished an agreed delivery and wants to leave. Claire, her higher-ranking colleague and patron, is afraid the visitor will repeat an embarrassing but truthful account of a dispute over Iris's company. Claire orders Rain to tell him that he must remain for a private interview, adding that she will remember which colleagues stood by her. A further talk with Claire is possible; a guaranteed quick remedy is not supplied. Rain has already recognized that the request would impose an involuntary delay and misstate its authority. Generate Rain's first action and first utterance in English, at most140 words. Preserve the conflict and a plausible flawed choice; do not invent consent, legal authority, an actual emergency, a completed interview or operational violence.",
+      "varied_field": null,
+      "checks": [
+        "R04",
+        "R01",
+        "R05"
+      ],
+      "source_validation": false
+    }
+  ],
+  "planned_first_bodies": 3,
+  "source_validation_or_independence_credit": 0
+}

@@ -1,0 +1,286 @@
+{
+  "schema": "KONOSUBA_MAIN17_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-17",
+  "findings": [
+    {
+      "id": "M17EX-Q01",
+      "topic": "Current native/source precision 01",
+      "current_qualification": "Current native precision totals 1,517 unique BASE-TEXT P across all five retained members: complete C1 591 P and epilogue 93 P; bounded C2 342 P/C3 141 P/final350 P. No fresh retained ruby/residual, all2,608P, whole EPUB, new principal pass or independent credit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q02",
+      "topic": "Current native/source precision 02",
+      "current_qualification": "IMG003 directly joins C1 P11/12/45 and the repeated-cast sequence P14–171. Finite high-grade mana stones are consumed; Megumin's own reserve finishes the gatekeeper, then real fever/nosebleed/physical burden and a contested further-cast limit P175–195. No unlimited spell loop or newly independent repeated event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q03",
+      "topic": "Current native/source precision 03",
+      "current_qualification": "IMG004 joins C1 P298/302–305: Kazuma recognizes Aqua, she runs toward him, automatic evasion triggers and she strikes the wall; actual Heal P317–319 precedes a role-threat reaction. A post-seal source-pixel magnification resolves Kazuma's caption glyph as か (アクアか), not the original uncoded が guess. Original notes and seal stay exact; no extra asset credited.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q04",
+      "topic": "Current native/source precision 04",
+      "current_qualification": "IMG005 is a composite role/promotion page, not a new jointly performed battle. Its two Mitsurugi companions remain unnamed; source C2 P503–506 distinguishes spear-user and thief and their own expressed commitments. No personal name from hair/class.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q05",
+      "topic": "Current native/source precision 05",
+      "current_qualification": "IMG008's uncontrolled Aqua/luck-only Kazuma/Explosion-only-interest Megumin capsules are editorial compressions. Current native actual skilled actions and interventions constrain universal interpretations. They are not complete character mechanisms or new choices.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q06",
+      "topic": "Current native/source precision 06",
+      "current_qualification": "IMG010 joins C1 P160–171, Megumin's own final reserve and performed final strike against the unnamed gatekeeper. The foe's regenerative capacity is actually seen P114–141; infinite mana/divine blood/reputation remain attributed claims. Name is interrupted P166–171; not automatically Duke or a new angel species.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q07",
+      "topic": "Current native/source precision 07",
+      "current_qualification": "IMG011 joins C1 P211–224: Yunyun is frightened by the bombardment, Megumin actually pats her head and comforts her before the cause is disclosed. No image-only new meeting or invented intimate act. Later C2 P497–511 supplies Yunyun's knowledge, objection and conflict, not earlier shared knowledge.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q08",
+      "topic": "Current native/source precision 08",
+      "current_qualification": "IMG012 joins C1 P383–400, a real back-to-back fight whose Flash signal fails because Aqua expects a different learned combination P431–432. Pain/Nos/Logia have own detection, warnings, tactical reassignment, trust, injury and responses. Kazuma's impersonation causes lethal friendly fire; these costs are not erased by banter or party success.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q09",
+      "topic": "Current native/source precision 09",
+      "current_qualification": "Painペイン is the wraith, Nosノス the knight and Logiaロギア the ogre, explicitly identified C1 P450–452. Pain is destroyed P498; Logia's death is observed and reported C1 P578/C2P93. Nos is teleported P563 with armor left behind; destination stated as police-front and no resulting arrest/conviction/fate is shown. Do not merge this Nos with the Dust07 namesake without explicit identity proof.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q10",
+      "topic": "Current native/source precision 10",
+      "current_qualification": "DarkStalker's taught Eavesdrop is explicitly attributed C1P330–331; Assassin's taught skill and supplied potion C2P76–78; Dust's lent magic sword C1P378/480 and C2P79. Class/role provenance supplies distinct outside contributions, not fresh independent encounters or proof of every desired ally consent.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q11",
+      "topic": "Current native/source precision 11",
+      "current_qualification": "IMG014 joins C2 P287–327. Kazuma impersonates Nos, uses a hostage/degradation pretext and imposes public cost on Darkness; Mitsurugi explicitly objects and Mammon stops the escalation P334. Handle non-graphically. Mixed response does not erase initial refusal, imposed humiliation or others' distinct knowledge; an opponent's interruption is not automatically a neutral tactical error.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q12",
+      "topic": "Current native/source precision 12",
+      "current_qualification": "Mammonマモン is directly named in received C2 windows and is a goat-headed commander with threats, fear, praise and a boundary on further mistreatment. Actual corpses after the battle P468 include him; most kills are attributed to Mitsurugi P469. The immediate killing sequence P346–449 has not been freshly received here. Keep this actual figure distinct from YORI04's reported Mammon-history lead until joined.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q13",
+      "topic": "Current native/source precision 13",
+      "current_qualification": "IMG015 joins C2 P486–502: Darkness/Megumin pinch Aqua's cheeks, she says it hurts and asks release/forgiveness; Kazuma's amused description does not certify enjoyment or assent. Related arm-lock/humiliation retaliation C2P525–526 likewise preserves his pain/stop request.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q14",
+      "topic": "Current native/source precision 14",
+      "current_qualification": "IMG017 is confirmed Eris, not an unnamed cleric: actual Blessing C3P397–406 after she proposes/rejects plans, identifies finite constraints and discloses current battles. Her role includes aesthetic reward and strategic selection; correct capability advice does not imply unlimited foresight or pure motive.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q15",
+      "topic": "Current native/source precision 15",
+      "current_qualification": "C3P324 distinguishes what Aqua can weaken from the Demon King's ongoing monster buff. Eris rejects police-front teleport because Axel is under actual attack P327, rejects abandonment because of exit/capability P335 and rejects the stronger-sword-user alternative on context P353. Her rationale and imagined genre code are attributed, not universal laws inferred solely from success.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q16",
+      "topic": "Current native/source precision 16",
+      "current_qualification": "C3P371–372 retracts a teasing marriage reply; no actual agreement/ceremony or unperformed personal reward. Eris's late disclosure about Iris at P384 is mediated information received at that phase; Kazuma's theory about why she waited P392–393 is his inference. Do not create a new direct Iris trial.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q17",
+      "topic": "Current native/source precision 17",
+      "current_qualification": "IMG019 joins finalP480–492: Kazuma actually releases Explosion after a specific failed negotiation and attempted enemy curse, not a new unidentified beam or another separate cast. Current received final begins P440; preceding fight/learning remains accepted prior authority rather than freshly received here.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q18",
+      "topic": "Current native/source precision 18",
+      "current_qualification": "IMG020 joins finalP525–539: Aqua actually cries against Eris, who holds/touches/comforts her and explains others' state. Kazuma's inference of permanent death P530 is not the final outcome; special options and exceptional resurrection follow. No image-only new afterlife event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q19",
+      "topic": "Current native/source precision 19",
+      "current_qualification": "FinalP553–625 supplies explicit special options, overbroad reward problem and jointly performed exceptional resurrection. The express warning against a second such exception is not unlimited bodily reconstruction. Keep discussion of restored clothing non-graphic; do not create sexualized teen simulations.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q20",
+      "topic": "Current native/source precision 20",
+      "current_qualification": "FinalP663–700 actually brings Eris instead of Aqua, then Aqua independently descends despite Eris's permission warning. Darkness recognizes similarity and probes; Eris looks away/denies and later avoids her. Suspicion is not fully confirmed Chris/Eris identity knowledge, and unshown wish negotiation does not prove prior free assent.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q21",
+      "topic": "Current native/source precision 21",
+      "current_qualification": "FinalP702–751 retains Mitsurugi's companions' urgent aid requests, Yunyun's observed return warning and two finite four-person teleports. Megumin continues casts despite warning/nosebleed, then actually gives a mana stone for the remaining return. No safety result is manufactured from another speaker's confidence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q22",
+      "topic": "Current native/source precision 22",
+      "current_qualification": "IMG021 joins finalP764–788: Aqua deliberately resists Teleport to speak privately, then saysありがとうね; Kazuma feels surprised affection. This real agency carries time/risk; it is not an involuntary spell failure or completed permanent romance. Original ending image is not another choice beyond this sequence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q23",
+      "topic": "Current native/source precision 23",
+      "current_qualification": "Complete epilogue is Eris focalization. She initially assumes a new death, then learns Kazuma came by a registered Teleport destination P47–60. No new death is credited. She explicitly refuses casual visits, retains undisclosed Megumin/Yunyun castle trips P32, reports her difficult return and avoids Darkness's inquiry P63, then actually blesses P82–90. Privacy boundaries and finite viewing/knowledge remain visible.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q24",
+      "topic": "Current native/source precision 24",
+      "current_qualification": "IMG023 is a dated illustrator closing dedication. The actual epilogue contains no scene of the four walking away with Kazuma carrying Megumin; the picture can summarize a familiar party motif without certifying a separate later journey or an additional accepted-principal event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q25",
+      "topic": "Current native/source precision 25",
+      "current_qualification": "IMG024's first untagged blurb quotation joins Eris C3P355, second bounty quotation Kazuma C2P575. Full wrap plus two pre-seal source-pixel reading magnifications supply biography/design/marketing text, not additional novel scenes. No current-office or post-2020 publishing/adaptation claim is made.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q26",
+      "topic": "Current native/source precision 26",
+      "current_qualification": "Creator U016P8–27 gives a modal parallel-campaign sketch and future threads. It is relevant source information at creator-synopsis authority, not automatically nothing; it is also explicitly outside SI-C01 eligibility (afterword/creator wishes) and does not give each actor's directly observed full-guard choice. Keep all fourteen SI and fourteen SY fields null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q27",
+      "topic": "Current native/source precision 27",
+      "current_qualification": "Supplied issue/print-basis are 2020-05-01,ver.001,copyright2020. Fifteen new resources71P/25images, including37Pcreator and34other P; no separate bonus fiction/text. All original uncoded observations remain exact, with corrections attributable in this current record.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q28",
+      "topic": "Exact local edition",
+      "current_qualification": "MAIN17 native2,197,695B/SHA5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c; content.opf SHAbcb1fa6a6479b790f3edea18a9d00ed3fff6fcf4c16bfc2d6e9cb9dc02ad4d7c; declared ja. No substituted translation/adaptation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q29",
+      "topic": "Complete new resource reception",
+      "current_qualification": "All fifteen new resources and71P, all ruby and empty nonparagraph residuals, and25 individual native images actually received before the uncoded seal; wrapper/image slots are not extra fictional episodes.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q30",
+      "topic": "Creator synopsis is real source information at a bounded plane",
+      "current_qualification": "P8–18 explicitly calls the preceding account broad spoilers while retaining modal でしょう/かもしれません. Neither blanket rejection as irrelevant nor full participant-eyewitness promotion is warranted.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q31",
+      "topic": "Creator future differs from enactment",
+      "current_qualification": "P19–27 closes the main story while offering possible later writing, mysteries, daughter aftermath and reward/personal threads. No actual later publication, ceremony, marriage or completed permanent peace is invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q32",
+      "topic": "Sealed chronology",
+      "current_qualification": "Original source-first text and image observations remain byte-exact. Current glyph/identity/event corrections are attributed after seal. Two jacket reading magnifications were pre-seal; one caption glyph magnification was post-seal, allzeroextraassetcredit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q33",
+      "topic": "No invented denominator",
+      "current_qualification": "Nine purposeful whole-effect selections and27 short written fragments are not a full humor/voice census, frequency distribution, narrative percentage or independent case set. Global completion percentage remains null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q34",
+      "topic": "Humor axes separate",
+      "current_qualification": "H1literal acts/attributions and H2intensity/role compression are not statements of confidence. No H3from uncertainty, H4from fantasy/paratext alone or L3from katakana; profiles/promotion/creator voice keep different functions.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q35",
+      "topic": "Same scene and multi-view deduplication",
+      "current_qualification": "C1 attacks, reunion, defender fight, Eris blessing and afterlife ending recur in text, color/monochrome art, jacket, reports and ledgers. Representation count does not multiply event count.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q36",
+      "topic": "All scoped fields preserved",
+      "current_qualification": "Seven SI-C01 and seven SY-C01 source-local NT comparisons leave all28 original outcome/adjudication nulls, historical secondary forecasts and current eight model pins unchanged. Known retained choices remain evidence without new test credit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q37",
+      "topic": "Frozen main authorities",
+      "current_qualification": "Current66immutable/historical72/four accepted scores/Dust14original blanks and six principal-party-transfer model pins stay exact. No old confirmation, partial, failure or ambiguity is overwritten by a later resemblance.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q38",
+      "topic": "Child and coercion handling",
+      "current_qualification": "Child/teen subjects are treated age appropriately and nonsexually; no sexualized reconstruction/simulation. All coercion/privacy/imposed-cost analysis remains non-graphic; later affection or success never supplies blanket permission.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q39",
+      "topic": "Census continuity",
+      "current_qualification": "Private WORKING23 contains129 qualified working rows with grouped/provisional identities and open lead groups, not the final individual denominator. Keele/Hans/Pain/Logia/castleNos/Mammon/unnamed gatekeeper and other report/native leads require controlled inclusion and joins; no arbitrary source-count quota blocks earned artifacts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    },
+    {
+      "id": "M17EX-Q40",
+      "topic": "Terminal main program is not final release",
+      "current_qualification": "MAIN17 is the last main excluded-component program; no MAIN18 exists here. Exact publication/full gate/fresh authority reload precede full census, earned secondary artifacts, expanded synthesis/versioned principal-party-transfer revisions, designated curation/integration and component/release/final-entry audits.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:46:52.526476+00:00"
+    }
+  ]
+}

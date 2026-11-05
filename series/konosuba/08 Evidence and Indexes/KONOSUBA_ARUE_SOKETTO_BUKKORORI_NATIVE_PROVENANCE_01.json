@@ -1,0 +1,670 @@
+{
+  "schema": "konosuba.arue-soketto-bukkorori.native-provenance.v1",
+  "recorded_utc": "2026-10-20T20:58:29.986961+00:00",
+  "status": "KNOWN_SOURCE_FOUNDATION_DRAFT_NO_CONTAINING_PUBLICATION_OR_INDEPENDENT_VALIDATION",
+  "published_preparation_base": "0c0146c354b05649cb669cc5ec7e414d4dddac5c",
+  "native_objects": [
+    {
+      "source_id": "EXP-01",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be",
+      "previous_admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+      "new_admission_credit": 0,
+      "previous_admission_reference_scope": "Older admission hash retained from actual preparation receipt; not a new admission."
+    },
+    {
+      "source_id": "MAIN-14",
+      "native_filename": "Konosuba - Main Series - Volume 14.epub",
+      "native_bytes": 2839172,
+      "native_sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V14_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "67dd17b1d29f61183d6cc6dfbeed68335be3cfdfc58189dcae65a9346fc3285f",
+      "previous_admission_sha256": "66516800b5b49a768d316ac684b65643c51cbbd063c52363dbe501ba061e9c73",
+      "new_admission_credit": 0,
+      "previous_admission_reference_scope": "Older admission hash retained from actual preparation receipt; not a new admission."
+    },
+    {
+      "source_id": "EXP-02",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "previous_admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+      "new_admission_credit": 0,
+      "previous_admission_reference_scope": "Older admission hash retained from actual preparation receipt; not a new admission."
+    },
+    {
+      "source_id": "MAIN-05",
+      "native_filename": "Konosuba - Main Series - Volume 05.epub",
+      "native_bytes": 14376279,
+      "native_sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V05_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "a8d47cffa2b1a1de2099b9dfbfe8aab328e903a986a173d039b981581468462d",
+      "previous_admission_sha256": null,
+      "new_admission_credit": 0,
+      "previous_admission_reference_scope": "Previously accepted principal contract and current component register govern; separate older admission hash is not repeated here, not absent admission."
+    },
+    {
+      "source_id": "MAIN-17",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "native_bytes": 2197695,
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "current_component_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V17_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "f073b2670e602f0673dbd0fd8dc2125cc4eeca6e5e95fa883ee8d476f69131ff",
+      "previous_admission_sha256": null,
+      "new_admission_credit": 0,
+      "previous_admission_reference_scope": "Previously accepted principal contract and current component register govern; separate older admission hash is not repeated here, not absent admission."
+    }
+  ],
+  "actual_known_BASE_members": [
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U028",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+      "member_bytes": 245177,
+      "total_member_P": 493,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          493
+        ]
+      ],
+      "unique_context_slots": 493,
+      "full_BASE_member_reinspection": true,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U049",
+      "member": "item/xhtml/p-039.xhtml",
+      "member_sha256": "6b11990f5101539067279b4f7870ea3670f8bc8b7106fe62439fea33043ea62c",
+      "member_bytes": 39480,
+      "total_member_P": 71,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          71
+        ]
+      ],
+      "unique_context_slots": 71,
+      "full_BASE_member_reinspection": true,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+      "member_bytes": 325725,
+      "total_member_P": 614,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          240
+        ],
+        [
+          450,
+          535
+        ]
+      ],
+      "unique_context_slots": 326,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-14",
+      "unit_or_principal_alias": "MAIN14-C1-start",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "member_bytes": 66610,
+      "total_member_P": 418,
+      "actual_known_BASE_union_windows": [
+        [
+          190,
+          329
+        ]
+      ],
+      "unique_context_slots": 140,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-14",
+      "unit_or_principal_alias": "MAIN14-C3-start",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "aa8db56f63b180d4740d7bd38d974c0490b2fd79211fc42e433d23131e19d23b",
+      "member_bytes": 63290,
+      "total_member_P": 404,
+      "actual_known_BASE_union_windows": [
+        [
+          145,
+          215
+        ],
+        [
+          315,
+          350
+        ]
+      ],
+      "unique_context_slots": 107,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "member_bytes": 340563,
+      "total_member_P": 703,
+      "actual_known_BASE_union_windows": [
+        [
+          241,
+          330
+        ],
+        [
+          350,
+          510
+        ]
+      ],
+      "unique_context_slots": 251,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U037",
+      "member": "item/xhtml/p-027.xhtml",
+      "member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+      "member_bytes": 227178,
+      "total_member_P": 427,
+      "actual_known_BASE_union_windows": [
+        [
+          90,
+          125
+        ]
+      ],
+      "unique_context_slots": 36,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-02",
+      "unit_or_principal_alias": "EXP-02-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "member_bytes": 304447,
+      "total_member_P": 702,
+      "actual_known_BASE_union_windows": [
+        [
+          270,
+          310
+        ],
+        [
+          350,
+          490
+        ],
+        [
+          550,
+          702
+        ]
+      ],
+      "unique_context_slots": 335,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-14",
+      "unit_or_principal_alias": "MAIN14-C2-start",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "17f21fce2f092f99ce3a4804e8f6e9a4090ceb54132d3f3cf96676222cf835d4",
+      "member_bytes": 81381,
+      "total_member_P": 573,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          75
+        ],
+        [
+          130,
+          205
+        ],
+        [
+          380,
+          465
+        ]
+      ],
+      "unique_context_slots": 237,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-14",
+      "unit_or_principal_alias": "MAIN14-C4-start",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "075798f5e4b5d5bef9de78001acd181a45575221b33e9bcafec302d55c60b319",
+      "member_bytes": 99095,
+      "total_member_P": 681,
+      "actual_known_BASE_union_windows": [
+        [
+          470,
+          555
+        ]
+      ],
+      "unique_context_slots": 86,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-05",
+      "unit_or_principal_alias": "MAIN05-C5 / start-p-018.xhtml",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "member_bytes": 429563,
+      "total_member_P": 823,
+      "actual_known_BASE_union_windows": [
+        [
+          180,
+          245
+        ],
+        [
+          710,
+          760
+        ]
+      ],
+      "unique_context_slots": 117,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-05",
+      "unit_or_principal_alias": "MAIN05-C3_start / start-p-011.xhtml",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "member_bytes": 131049,
+      "total_member_P": 257,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          80
+        ]
+      ],
+      "unique_context_slots": 80,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-05",
+      "unit_or_principal_alias": "MAIN05-C2 / continuation-p-010.xhtml",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "809236f0db8b6a8eb2983894fc356e8ae515bc5a521762d5f855794a5c9b1342",
+      "member_bytes": 159131,
+      "total_member_P": 280,
+      "actual_known_BASE_union_windows": [
+        [
+          230,
+          280
+        ]
+      ],
+      "unique_context_slots": 51,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-01",
+      "unit_or_principal_alias": "EXP-01-U034",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "member_bytes": 96824,
+      "total_member_P": 179,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          179
+        ]
+      ],
+      "unique_context_slots": 179,
+      "full_BASE_member_reinspection": true,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-02",
+      "unit_or_principal_alias": "EXP-02-U032",
+      "member": "item/xhtml/p-023.xhtml",
+      "member_sha256": "ed49452c157b27c581b0f11a82b71ea77efe5536e1a01cc973ad5df59d1d8ec6",
+      "member_bytes": 85492,
+      "total_member_P": 130,
+      "actual_known_BASE_union_windows": [
+        [
+          65,
+          130
+        ]
+      ],
+      "unique_context_slots": 66,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-02",
+      "unit_or_principal_alias": "EXP-02-U038",
+      "member": "item/xhtml/p-029.xhtml",
+      "member_sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "member_bytes": 276179,
+      "total_member_P": 534,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          75
+        ],
+        [
+          140,
+          360
+        ],
+        [
+          490,
+          534
+        ]
+      ],
+      "unique_context_slots": 341,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "MAIN-17",
+      "unit_or_principal_alias": "MAIN17-F-start",
+      "member": "text/part0012.html",
+      "member_sha256": "43b8bcea92d4723fb7ea62d3d84cb6e2e862c0ac9c3c596c088d455a741e6b84",
+      "member_bytes": 127087,
+      "total_member_P": 789,
+      "actual_known_BASE_union_windows": [
+        [
+          1,
+          65
+        ]
+      ],
+      "unique_context_slots": 65,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": false
+    },
+    {
+      "source_id": "MAIN-05",
+      "unit_or_principal_alias": "MAIN05-C1-start-p-005.xhtml",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "member_bytes": 304135,
+      "total_member_P": 523,
+      "actual_known_BASE_union_windows": [
+        [
+          90,
+          145
+        ]
+      ],
+      "unique_context_slots": 56,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-02",
+      "unit_or_principal_alias": "EXP-02-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "99c8ff03dac04abe0a342aa9772ba1655d35e77cab323e73a616f94acab985a1",
+      "member_bytes": 91186,
+      "total_member_P": 158,
+      "actual_known_BASE_union_windows": [
+        [
+          60,
+          125
+        ]
+      ],
+      "unique_context_slots": 66,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    },
+    {
+      "source_id": "EXP-02",
+      "unit_or_principal_alias": "EXP-02-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "cf78620ba8660a2f821f83de83cd6cfb896874014de7cfaeeabf49407d10d638",
+      "member_bytes": 252061,
+      "total_member_P": 487,
+      "actual_known_BASE_union_windows": [
+        [
+          30,
+          80
+        ]
+      ],
+      "unique_context_slots": 51,
+      "full_BASE_member_reinspection": false,
+      "ruby_or_residual_or_whole_source_new_credit": 0,
+      "character_identity_return": null
+    }
+  ],
+  "actual_prior_image_rechecks": [
+    {
+      "source_id": "EXP-01",
+      "image_id": "EXP-01-IMG017",
+      "member": "item/image/img-009.jpg",
+      "bytes": 598999,
+      "sha256": "73d561b0c40fe4cd73aa32c725019269d4f6b8be4edf5c149b643e2d624def6b",
+      "referenced_from_unit": "EXP-01-U028",
+      "reference_P": 193,
+      "actual_view_receipt": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "actual_role": "Actual full printed Bukkorori routine/surveillance/projection speech; attributed report,not neutral Sok biography.",
+      "new_image_set_or_independent_credit": 0
+    },
+    {
+      "source_id": "EXP-01",
+      "image_id": "EXP-01-IMG019",
+      "member": "item/image/img-011.jpg",
+      "bytes": 305320,
+      "sha256": "6749a7c150dd77184b685de8f6f1cfaef1610d2c03b65b90e0f2cd94293ce5eb",
+      "referenced_from_unit": "EXP-01-U028",
+      "reference_P": 320,
+      "actual_view_receipt": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "actual_role": "Actual portrait; no printed dialogue,no clinical inference. Earlier expected prose role corrected by actual view.",
+      "new_image_set_or_independent_credit": 0
+    },
+    {
+      "source_id": "EXP-01",
+      "image_id": "EXP-01-IMG020",
+      "member": "item/image/img-012.jpg",
+      "bytes": 555503,
+      "sha256": "dc02e7cf859edb09710d9a15dcb98d6ac6f7d75247b26e426643c64cab8a8b48",
+      "referenced_from_unit": "EXP-01-U028",
+      "reference_P": 321,
+      "actual_view_receipt": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "actual_role": "Actual full printed Bukkorori training/power/shared-hobby speech; his claims,not independent level/consent.",
+      "new_image_set_or_independent_credit": 0
+    }
+  ],
+  "actual_private_receiving_pins": [
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "bytes": 3852,
+      "sha256": "0335083ab22cffdd26406de0e562418c244c645781f4137815d2bbce7b0eb49a",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "bytes": 6462,
+      "sha256": "daf76040c136d856b6eb57ea1b22dcd6ead0b6d8cd42676b50255bc27e8b680f",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "bytes": 4200,
+      "sha256": "4bfe93c62c5943f0472d9fd7e0fa004dd2a199e48473bae232640554d0a45f1f",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "bytes": 6719,
+      "sha256": "4fe3b4c01ee47f88ac8e00a8dc3519942f97355f11cd5881cee606e679928757",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "bytes": 6480,
+      "sha256": "eeda6a537e06731ee74594395b3d1870571eafe14303e7586922ca2cc1f5ba6f",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "bytes": 6473,
+      "sha256": "e0c1cdba291da27c9152d6c66da22f39b06b1415c21663a26643234dc83d4ac9",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_07.json",
+      "bytes": 8352,
+      "sha256": "9c0ee6f52efe93cf2df3213c71e9656da834c334289650288ffcf31ff25ffcd8",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_08.json",
+      "bytes": 9815,
+      "sha256": "d5378a2ed676c61e8fd7fc61e1ace31422c2a3f7fa68f5e4bfdbc19a8633db43",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_09.json",
+      "bytes": 9567,
+      "sha256": "d70d6752019d9df1e853d45fd65e12692df8187b574ec33c1b63dd76d96a7544",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_10.json",
+      "bytes": 11110,
+      "sha256": "2e0741c0ad5ff90cd621fd41445a75ace0b331798385395dcc5212a0154d6577",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_11.json",
+      "bytes": 15158,
+      "sha256": "1f6afcea7dd61da22ced2bd4e0e4f49b824e6be7f8e5e01b4dbffb30734e8a3f",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    },
+    {
+      "private_receiving_id": "ARUE_SOKETTO_BUKKORORI_ACTUAL_KNOWN_PREPARATION_RECEIVING_12.json",
+      "bytes": 8708,
+      "sha256": "b6651525098c957f62be1a4830b4898af229e837a9d5ecfd8f947006dbd531cd",
+      "scope": "Actually received known source windows/images at its stated scope; qualified reuse and failed/truncated attempts remain typed in chain."
+    }
+  ],
+  "scope": {
+    "unique_known_BASE_context_slots": 3154,
+    "members": 20,
+    "native_objects": 5,
+    "actual_individual_image_rechecks": 3,
+    "retrieval_rows_not_independent_decisions": 43,
+    "new_whole_source_ruby_residual_image_set_pass_credit": 0,
+    "new_source_admission": false,
+    "new_independent_validation_credit": 0,
+    "global_coverage_percentage": null
+  },
+  "principal_contract": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+    "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+    "members": 137,
+    "retrieval_scope": "Previously acquired accepted principal contract bytes rechecked exact; native-member integrity verification is not another semantic full pass."
+  },
+  "other_owned_foundation_pins": [
+    {
+      "private_draft_id": "ARUE_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ARUE_CHARACTER_MONOGRAPH.md",
+      "bytes": 15803,
+      "sha256": "bcb13f1f26924bb439184935ce4a64876a5584c7edfb649522cc1cb260b2453f"
+    },
+    {
+      "private_draft_id": "SOKETTO_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SOKETTO_CHARACTER_MONOGRAPH.md",
+      "bytes": 16286,
+      "sha256": "d1fcebc4bee6be45bbcd23440511cb7b9197bbada82cc8f0b5936bbbe7eb512f"
+    },
+    {
+      "private_draft_id": "BUKKORORI_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "target_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_BUKKORORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 16474,
+      "sha256": "e60b81811647e715710c9def0b5061321d5aca1c74442eb8e6bf2dc6bee3eaf3"
+    },
+    {
+      "private_draft_id": "SOKETTO_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_SOKETTO_RECONSTRUCTION_MODEL.md",
+      "bytes": 14153,
+      "sha256": "95ff070b1d244446ac39b47383afc21f3bdffb9549213e1f0315889f0ff295b5"
+    },
+    {
+      "private_draft_id": "BUKKORORI_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "target_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_BUKKORORI_RECONSTRUCTION_MODEL.md",
+      "bytes": 16781,
+      "sha256": "58eb7af904048542aa1579683000e84543c9aebbe686c9b1b4eab54ace149203"
+    },
+    {
+      "private_draft_id": "KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_ARUE_SOKETTO_BUKKORORI_EVIDENCE_INDEX.md",
+      "bytes": 15818,
+      "sha256": "4804567f30e36a9d6162d1f3ae3826b42d31e2af20de26fca453fe359d80c9ad"
+    },
+    {
+      "private_draft_id": "KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_DRAFT_01.md",
+      "target_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_SOKETTO_BANDAGING_ATTRIBUTION_ERRATUM_01.md",
+      "bytes": 3297,
+      "sha256": "7f29caaf629913e1d5ea02070f4f62212903f0086f5d164c6bd04af3cc8ae7d4"
+    }
+  ],
+  "bounded_profile_fragment": {
+    "private_draft_id": "COHORT21_BUKKORORI_FATHER_BOUNDED_PROFILE_DRAFT_01.md",
+    "target_existing_path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+    "target_anchor": "cohort21-bukkororis-father-bounded-profile",
+    "bytes": 3255,
+    "sha256": "8feea94968bf2d90831af9c20b3d58ff0e5cf12b0927330701cfa6262ec4b805",
+    "new_separate_profile_file": false
+  },
+  "source_interpretation_limits": [
+    "Direct name-tags,contextual speaker joins,participant reports,narrator inferences,fictional scripts,reader mistakes and performed acts remain separate.",
+    "MAIN17 F P33 rhetorical interjection is not Arue;65 raw context slots remain in union with zero character-return credit.",
+    "Sok current bandaging attribution corrected through external C21-CR01;EXP01 accepted report0dd1f512 retains exact bytes.",
+    "Arue patch removal/absolute recollection contradiction and explicit magical-story retraction remain visible.",
+    "Father care promise belongs to father;upper-magic reports/collective casts and specific actual spells retain different access.",
+    "Three actual image rechecks do not credit every image;two printed monologues are B claims,the intervening portrait has no printed testimony.",
+    "No output-language/native-human adequacy,independent source-test accuracy,capability grade or confidence gain."
+  ],
+  "model_and_diagnostic_boundary": {
+    "same_continuing_informed_root": true,
+    "private_new_model_drafts": 2,
+    "private_new_monographs": 3,
+    "entering_canonical_model_bodies": 28,
+    "canonical_model_changes_performed": false,
+    "exact_new_inputs_or_first_bodies_authored": false,
+    "broad_transfer_directions_already_anticipated": true,
+    "model_drafts_not_yet_semantically_frozen": true
+  },
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": 0,
+  "full_program_complete": false,
+  "record_boundary": "Foundation provenance authored before semantic freeze and exact diagnostic inputs/first responses. Later receiving/diagnostic/publication records govern later state; old boundary fields are not present-tense completion claims."
+}

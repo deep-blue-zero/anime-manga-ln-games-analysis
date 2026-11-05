@@ -1,0 +1,64 @@
+{
+  "schema": "konosuba.scoped-secondary-known-hypothetical-inputs.v1",
+  "recorded_utc": "2026-10-20T14:40:39.324683+00:00",
+  "subject": "Lolisa",
+  "model_sha256": "e493e89c2a9d12196d80cd9ad007e8e4063d02ce04dc7b70136171896d404475",
+  "rule_inventory_sha256": "64e3ac50c4e383a6028550b28160e5129c65f707a0e152f3f0a1f85596cd4aef",
+  "precase_freeze_sha256": "68d75851f12d966e3da635d68a038d52da5c854b6dcac34a0248714df058d417",
+  "case_count": 4,
+  "paired_contrasts": 2,
+  "cases": [
+    {
+      "case_id": "LOLISA-H01A",
+      "pair_id": "H01",
+      "target_rules": [
+        "LOLISA-R01",
+        "LOLISA-R02"
+      ],
+      "variant_label": "Valued personal provenance verified",
+      "exact_input_text": "This is a source-known, realistic all-adult hypothetical, not a canonical event. Lolisa, Dust and Vanir are adult human coworkers in this analogue; Vanir is a particular mentor whom she admires. There is no magic. Lolisa has finished her paid shift and has no debt or duty to Dust. Dust asks her to spend45minutes labeling ordinary archive crates. The work is safe and finite, she can leave freely, and there is no emergency or later promised access to Vanir. Dust offers one clean, ordinary cotton handkerchief as a gift whether or not she helps. He does not praise or threaten her and makes no false claim. Lolisa can read the reliable inventory record herself.\n\nThe inventory record verifies that this handkerchief previously belonged to Vanir; it is available for an authorized gift.\n\nWrite Lolisa's next spoken reply and her first visible act only. Do not narrate later success, another person's compliance, unprovided private knowledge or an analyst explanation. Use ordinary English; this does not test Japanese-language adequacy.\n",
+      "exact_input_utf8_sha256": "00891e3263d6b20389d30cfdf85a2b527b791ee8a3dd80d996c5f7d03ff17973"
+    },
+    {
+      "case_id": "LOLISA-H01B",
+      "pair_id": "H01",
+      "target_rules": [
+        "LOLISA-R01",
+        "LOLISA-R02"
+      ],
+      "variant_label": "Ordinary provenance verified",
+      "exact_input_text": "This is a source-known, realistic all-adult hypothetical, not a canonical event. Lolisa, Dust and Vanir are adult human coworkers in this analogue; Vanir is a particular mentor whom she admires. There is no magic. Lolisa has finished her paid shift and has no debt or duty to Dust. Dust asks her to spend45minutes labeling ordinary archive crates. The work is safe and finite, she can leave freely, and there is no emergency or later promised access to Vanir. Dust offers one clean, ordinary cotton handkerchief as a gift whether or not she helps. He does not praise or threaten her and makes no false claim. Lolisa can read the reliable inventory record herself.\n\nThe inventory record verifies that this handkerchief is newly purchased stock and has no connection to Vanir; it is available for an authorized gift.\n\nWrite Lolisa's next spoken reply and her first visible act only. Do not narrate later success, another person's compliance, unprovided private knowledge or an analyst explanation. Use ordinary English; this does not test Japanese-language adequacy.\n",
+      "exact_input_utf8_sha256": "573ba80d331eed289a7d220bd9bd5d02b5c5dd53b9ec4dfb70eb08da9dc76435"
+    },
+    {
+      "case_id": "LOLISA-H02A",
+      "pair_id": "H02",
+      "target_rules": [
+        "LOLISA-R02",
+        "LOLISA-R03"
+      ],
+      "variant_label": "Specific assent",
+      "exact_input_text": "This is a source-known, realistic all-adult hypothetical, not a canonical event. Lolisa, Dust, Leen, Keith and Vanir are adult human event workers in this analogue. There is no magic or emergency. Lolisa wants interview material for a future exhibit. Dust and Leen want to move Keith's occupied wheeled chair a few metres behind a curtain for a short recorded interview. The floor is level, the chair is stable, and no one is in danger. Vanir has said he wants the exhibit finished today but has given no instruction about Keith or force. Lolisa has the skill to do a quick interview, is irritated by Keith's earlier teasing and knows Dust and Leen want her help. No recording or chair movement has begun.\n\nKeith says clearly: Yes, move the chair over; a short interview is fine. He remains seated and leaves his hands clear of the wheels.\n\nWrite Lolisa's next spoken reply and her first visible act only. Do not narrate later success, another person's compliance, unprovided private knowledge or an analyst explanation. Use ordinary English; this does not test Japanese-language adequacy.\n",
+      "exact_input_utf8_sha256": "4a2a259521d6a0e747b30f25335efe8b492388041681d7d6ddc08182424002eb"
+    },
+    {
+      "case_id": "LOLISA-H02B",
+      "pair_id": "H02",
+      "target_rules": [
+        "LOLISA-R02",
+        "LOLISA-R03"
+      ],
+      "variant_label": "Specific refusal",
+      "exact_input_text": "This is a source-known, realistic all-adult hypothetical, not a canonical event. Lolisa, Dust, Leen, Keith and Vanir are adult human event workers in this analogue. There is no magic or emergency. Lolisa wants interview material for a future exhibit. Dust and Leen want to move Keith's occupied wheeled chair a few metres behind a curtain for a short recorded interview. The floor is level, the chair is stable, and no one is in danger. Vanir has said he wants the exhibit finished today but has given no instruction about Keith or force. Lolisa has the skill to do a quick interview, is irritated by Keith's earlier teasing and knows Dust and Leen want her help. No recording or chair movement has begun.\n\nKeith says clearly: No. Do not move my chair or interview me. He remains seated, holds the chair arms and says he will leave when the route is clear.\n\nWrite Lolisa's next spoken reply and her first visible act only. Do not narrate later success, another person's compliance, unprovided private knowledge or an analyst explanation. Use ordinary English; this does not test Japanese-language adequacy.\n",
+      "exact_input_utf8_sha256": "8076b473d8c5a16e63d27479c3912e2f97e335b7ba5adfcf2f37109daf8959fa"
+    }
+  ],
+  "input_construction_limits": [
+    "H01 changes verified object provenance tied to a particular admired person. It does not isolate all components of admiration, ownership, souvenir value or scarcity; generic fandom is a strong rival.",
+    "H02 changes the recipient’s expressed answer and associated hand posture while the coalition aim and irritation remain. It is not a calibrated force threshold and cannot isolate wording from posture.",
+    "Same informed root author knows the sources, model and likely contrasts, and considered possible response directions while constructing the packets. There is no clean blind or unexposed-author claim. No exact formal first-body record existed before this seal.",
+    "Only four illustrative scenarios, two paired contexts. No independent trial count, prospective source prediction, external human judgment, Japanese adequacy, accuracy score or confidence gain."
+  ],
+  "first_bodies_recorded": false,
+  "regeneration_permission": false
+}

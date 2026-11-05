@@ -1,579 +1,423 @@
 ---
 series: TOMOZAKI
 artifact_type: full_series_synthesis
-scope: JP_LIGHT_NOVEL_V01-V11_PLUS_V06_5_AND_V08_5
-source_boundary: "Audited Japanese light-novel EPUB corpus: numbered main Volumes 01-11 plus side-story Volumes 06.5 and 08.5; source audit dated 2026-08-29"
-analytical_boundary: V11_PLUS_ROUTED_SUPPLEMENTS
-generation: V1.0_PRE_REMEDIATION
-status: active_provisional
+scope: JP_LIGHT_NOVEL_V01-V12_PLUS_ROUTED_V06_5_AND_V08_5
+source_boundary: "Fourteen admitted Japanese EPUB witnesses: main V01-V12 plus separately routed V06.5 and V08.5; V07 Special Edition layers retained"
+analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS
+generation: V2.0_R11_MATERIAL_REVISION
+status: canonical
 release_state: mutable_active
-maturity_state: PRE_SPECIALIST_HYPOTHESIS_BANK
-full_series_synthesis_gate: CLOSED_PENDING_LONGITUDINAL_AND_SPECIALIST_CONVERGENCE
-governing_architecture: "../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
+maturity_state: R11_INTEGRATED_ARGUMENT_INDEPENDENTLY_ACCEPTED
+full_series_synthesis_gate: PASS_AT_R11_BOUNDARY
+repository_authority: true
+independent_review: PASS
+accepted_scope: R11_FULL_SERIES_INTEGRATED_ARGUMENT
+integration_review: "../08 Audits and Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md"
+evidence_and_review_manifest: "../08 Audits and Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json"
+do_not_use_as_current_authority: false
 supersedes: []
 superseded_by: []
-do_not_use_as_current_authority: false
+intended_canonical_path: "series/tomozaki/05 Full-Series Synthesis/TOMOZAKI_FULL_SERIES_SYNTHESIS.md"
+governing_architecture: "../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md"
+convergence_authority: "../08 Audits and Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md"
 ---
 
-# Bottom-Tier Character Tomozaki — pre-remediation full-series synthesis candidate through Volume 11
+# Bottom-Tier Character Tomozaki — full-series synthesis through Volume 12
 
-> **Authority notice:** This document preserves a useful first integrated argument and hypothesis inventory, but it was drafted before the required longitudinal, character, relationship, and specialist layers converged. It is not mature full-series authority. Substantive revision occurs last, after the architecture-defined synthesis gate opens.
+> **Authority and history.** This materially revised synthesis passes independent R11 review at the fourteen-witness literary boundary. The [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_INTEGRATION_REVIEW.md) and [evidence/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R11_FULL_SERIES_EVIDENCE_AND_REVIEW_MANIFEST.json) preserve the actual decisions, complete earlier V11 hypothesis bank and all forty historical claim/twenty section dispositions. The argument remains mutable literary authority within this scope. R12 literary release, justified derived models, repository validation, publication, main integration and terminal closure remain separate responsibilities.
 
-## 1. Responsibility and evidence boundary
+## 1. Boundary, position and route back to evidence
 
-This document is a provisional whole-corpus synthesis candidate for the audited Japanese light novels currently admitted to the Tomozaki project:
+The completed admitted novels tell a story in which learning works, people remain partly opaque, and an offered account of life can matter without becoming a proof about the world. That combination is the subject here. The boundary is Japanese main V01–V12, with V06.5 and V08.5 at their separately established story clocks. V07's Special Edition artwork is a distinct visual layer. The afterword's possible future book, adaptations, translations, interviews and reception supply no additional narrated outcome. Exact witness identities remain in the [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md).
 
-- numbered main Volumes 01-11;
-- Volume 06.5, integrated under story-local chronology after the V06 freeze; and
-- Volume 08.5, integrated as mixed-chronology supplemental evidence after the V08 freeze.
+A completed series boundary does not give every question a completed answer. V12 actually convenes the collaborators, completes the revised manuscript, delivers it, represents Hinami reading it and shows her limited public return. Those acts replace the V11 bank's prospective uncertainty about execution. They do not provide Nagisa's final testimony, a permanent cure, a commercial publication outcome or a final match result. Conversely, those remaining unknowns do not make the depicted achievements unreal.
 
-It integrates the immutable prospective volume readings and the maintained effort/competition/goal-ownership ledger. It does not replace those artifacts. The volume documents preserve what was knowable at each boundary; this synthesis may use later evidence to revise the current model but may not rewrite earlier predictions as if they had already known V11.
+The argument uses the accepted character, relationship, ensemble and thematic studies after the [R10 convergence audit](../08%20Audits%20and%20Manifests/TOMOZAKI_ADVERSARIAL_AND_CROSS_SPECIALIST_CONVERGENCE_AUDIT.md). It does not make the seven themes chapters of a single universal doctrine. Game technique asks what can be learned; effort asks what work is for and when it is enough; social atmosphere asks who can act at what cost; relationship study asks who has standing with whom; causal analysis asks what warrants a conclusion; authorship asks who selects an account and offers it; voice analysis asks who owns the proposition being uttered. One scene can answer these questions differently.
 
-The exact source identities, hashes, package warnings, image segregation, and excluded promotional layers remain authoritative in:
+For compact retrieval, **GF**, **TE**, **SS**, **TC**, **RC**, **AO** and **LV** identify the accepted [game/form](../06%20Specialist%20Synthesis/TOMOZAKI_GAME_FORM_AND_SELF_AUTHORSHIP_SYNTHESIS.md), [effort](../06%20Specialist%20Synthesis/TOMOZAKI_EFFORT_MASTERY_AND_GOAL_OWNERSHIP_SYNTHESIS.md), [social-system](../06%20Specialist%20Synthesis/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_SYNTHESIS.md), [causality](../06%20Specialist%20Synthesis/TOMOZAKI_CONTROL_CAUSALITY_AND_MEANING_SYNTHESIS.md), [romance/care](../06%20Specialist%20Synthesis/TOMOZAKI_ROMANCE_CARE_DISCLOSURE_AND_INTERVENTION_SYNTHESIS.md), [authorship](../06%20Specialist%20Synthesis/TOMOZAKI_AUTHORSHIP_FICTION_OBSERVATION_AND_PERSONHOOD_SYNTHESIS.md), and [Japanese voice](../06%20Specialist%20Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md) specialists. **EP** identifies the [ensemble/coequal Mimimi–Tama study](../06%20Specialist%20Synthesis/TOMOZAKI_ENSEMBLE_AND_PEER_NETWORK_SYNTHESIS.md). **FH/FK/FM** identify the primary [Hinami](../06%20Specialist%20Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md), [Kikuchi](../06%20Specialist%20Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md), and [Mimimi](../06%20Specialist%20Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md) dyads. CS/REL/EFF/CRI/SOC/JVL are the six [longitudinal owners](../03%20Longitudinal%20Ledgers/README.md); DR and SR are the numbered and supplemental [source-facing readings](../02%20Sequential%20Readings/README.md). Local FS-C/FS-L handles below are retrieval aids, not new global source claims.
 
-- [`../01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md`](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md);
-- [`../02 Sequential Readings/`](../02%20Sequential%20Readings/); and
-- [`../03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md`](../03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md).
+Each interpretation retains its access limit. Fumiya's focalization is not omniscience; a character's self-theory is evidence of a self-theory; a reported conversation is not its full transcript. Hinami's V12 first person gives the reader access that the other characters need not have. Imagined Nagisa, Alcia's speech, the fictional mother and actual family memories retain different sources. The corrected current owners also qualify the frozen reading where later source checks sharpened apology actors, role-play sequence, package initiative or guest preparation. Preserving a freeze is compatible with correcting a current synthesis.
 
-Seven pre-remediation character-study candidates live in [`../04 Character Analysis/`](../04%20Character%20Analysis/). Their mature scopes and cross-character responsibilities are governed by the remediation architecture; this candidate cannot substitute for missing relationship or specialist synthesis.
+## 2. The integrated problem: a capacity to act without jurisdiction over a life
 
-This is a **current-boundary** synthesis, not a fabricated ending. V11 closes with Hinami absent from school and with a collective narrative project only proposed. Its afterword describes the volume as part of a split climax, but no continuation is inside the locked boundary. All post-V11 outcomes remain inadmissible here.
+The opening argument between Fumiya and Hinami concerns a game. Fumiya exempts social life from the scrutiny he applies to Atafami because unequal starting conditions and opaque rules make it seem unwinnable. Hinami decomposes that global verdict into actions: posture, clothes, expression, entry, attention, preparation and practice. The early novels give her a substantial empirical victory. A person can learn more than his identity judgment allowed. Later novels never revoke that discovery.
 
-## 2. Integrated thesis
+What fails is the move from a useful method to total jurisdiction. Knowing how to obtain an outcome does not establish that the outcome is wanted. Wanting it does not establish that another person must help. Carrying the cost oneself does not transfer someone else's secret. A result can support a local causal claim without proving the value of the resulting self. A story can move its reader without certifying the person it portrays. These are connected limits, but they are not the same limit.
 
-The series begins by asking whether life is learnable. By V11, that question has become much harder:
+The series repeatedly lets achievement expose a question it could not answer. Fumiya becomes able to execute a confession and must decide whether he wants the relationship. Tama acquires a public interface and uses it to oppose the punitive victory that interface made receivable. Kikuchi gets a path to public authorship and has to ask what her insight does to its subjects. Hinami beats the person presented as her unbeatable guarantor and still has no answer to why she should trust herself. The final manuscript reaches her without recovering the fact around which her demand for proof hardened.
 
-> **If a life can be improved through technique, who owns the end, what gives the end value, what costs may be imposed on other people, and what happens when no amount of skill can supply a trustworthy reason to continue?**
+The strongest whole-series account is therefore a **revisable capacity for owned action among other agents**, rather than mastery or inner purity. “Owned” does not mean invented alone. Desire can be learned, borrowed, conventional, relational or supported by a story. It becomes consequential when the actor can acknowledge it, choose a way to pursue it and answer for the effects. This account remains incomplete if ownership is used to legitimate any means. Fumiya sincerely owns helping Hinami and knowingly uses rhetoric likely to secure Kikuchi's acceptance; the coexistence is part of his development, not a reason to deny either fact.
 
-The early opposition between Tomozaki and Hinami appears simple. Tomozaki calls life a bad game because initial conditions, opaque rules, and unequal abilities seem to make effort irrational. Hinami calls it a great game because observable subskills, preparation, iteration, and feedback make change possible. V01 validates much of her empirical claim: appearance, delivery, attention, conversational entry, planning, and network access can improve. It does not validate her universal ontology.
+V12's affirmative ending is credible because the action no longer waits for a recovered universal warrant. It is also ethically unsettled because the route to that action contains pressure, unasked-for observation and displaced work. The novel's hope and its objections belong together. If the argument made every effective intervention permissible, every borrowed value alien, or every unresolved future a failure of present agency, it would cease to fit the corpus.
 
-Across the sequence, the conflict moves from **whether technique works** to five more exact distinctions:
+**Evidence route:** GF-E01–06/13/17; TE-E01 and the EFF regime history; RC's standing/means distinction; AO-E01–03; R10-G02/10/24/26. Exact scene routes FS-L01–04/15–24 support the applications below.
 
-1. **method versus end** — a trained method can be effective while its assigned objective remains unowned;
-2. **effort versus warrant** — costly work does not prove that the goal, comparison target, or stopping condition is sound;
-3. **care versus authority** — understanding someone, loving them, or bearing risk for them does not create ownership of their secrets or recovery;
-4. **form versus alienation** — practiced social form can become genuine competence and carry sincere content, while spontaneous directness can still wound or dominate;
-5. **result versus meaning** — winning can prove performance in a bounded game without explaining why the victory should define the self.
+## 3. Learnable form: a medium that can carry more than its inventor's end
 
-Tomozaki's development is real because he increasingly chooses ends, modifies methods, accepts revision, and builds reciprocal relationships. It is incomplete because his greatest strength—treating action as a solvable game—repeatedly becomes an ownership error when he treats people as systems he may repair.
+Fumiya's initial problem is not an absence of effort. His game practice already contains observation, repetition and loss review. Hinami makes those capacities available to a field from which his bad-game judgment had excluded them. The resulting change is neither a miraculous personality replacement nor mere obedience. He transfers the procedure to helping Yuzu and eventually recognizes wants the curriculum did not supply. Competence, confidence, status and self-description do not advance at the same rate; having a usable move precedes feeling like someone who belongs.
 
-Hinami's optimization is real competence, not empty theater. It teaches, protects, delights, wins, and gives other people usable routes. Its crisis lies elsewhere. V11 establishes that measurable victory and controllable cause became substitute warrants after a beloved retrospective meaning system collapsed around Nagisa's death. Hinami can prove that an action works and still cannot prove why the resulting self should be believed.
+V03 is a decisive test because he can perform the assigned confession. His refusal concerns its end, not an inability to complete the task. His first correction goes too far: discarding the imposed objective threatens to discard useful appearance and communication practices with it. Kikuchi's recipient-specific response distinguishes memorized material that conveys little lived image from prepared form that can carry something the speaker actually means. The negotiated return to coaching preserves a method while revising its jurisdiction. That agreement is consequential and provisional; it does not make teacher and learner equal authors of every subsequent task.
 
-The current source therefore supports neither `life is objectively a great game` nor `life is objectively a bad game`. It supports a narrower and more durable conclusion:
+Tama prevents the lesson from becoming a defense of a single standardized curriculum. She already has expressive strengths. The copied drills fail because they misdescribe the learner, her curiosity, settled public character and the exceptional risk of failure under harassment. Mizusawa, Takei, Mimimi and Kikuchi contribute different resources to a revised interface. She changes what classmates can receive without handing the aggressor or trainer authority over her governing reason. The same method can liberate one actor and misfit another.
 
-> **Life contains learnable systems, irreducible randomness, other agents, and competing values. Good play requires skill, but also goal ownership, revisability, consent, cost accounting, and relationships that do not convert support into possession.**
+V12's Mizusawa meal supplies an unusually intimate retest. He admits that learning about Hinami was one motive for approaching Fumiya. Fumiya feels the wound; the new fact does not retroactively make every shared meal, invitation or act of help empty. The awkward borrowing of fictional language to call Mizusawa his best friend is constructed and locally sincere. Embarrassment, teasing, thanks and an offer to help are actual responses, not an analyst's guarantee of a permanently transparent friendship. A practiced voice can make an otherwise difficult truth sayable.
 
-## 3. Developmental architecture across the volumes
+The result is a limited defense of form. Practice can acquire ownership and transmit sincere content; it can also conceal, instrumentalize or fail. Direct speech has no automatic ethical superiority. Tama's directness can impose a rigid demand, Kikuchi's unfiltered insight can wound Haruka, and Fumiya's sincere guarantee can demand a trust he has not earned the authority to require. Public and private are recipient positions, not two containers marked false and true.
 
-| Boundary | Dominant question | Durable change | Unresolved cost carried forward |
+**Evidence route:** DR01, DR03 §§10–14/17; CS-TAM-01/02 and EFF §§22–24; GF-E02/03/14; EP-C03/13 and EP-L07/15; MZ-P03/04, V12 p0011 P331–507. FS-C01–04 and FS-L01–03/12 preserve the distinctions.
+
+## 4. Owning an end does not require an unprecedented or solitary desire
+
+A self-authorship account can quietly reinstall the hierarchy it means to escape. Fumiya's novel professional aim can look like agency while Yuzu's wish for a familiar relationship or a fashionable university looks derivative. The admitted evidence does not support that hierarchy. Yuzu chooses game learning for a person she likes, asks situated questions when Tama is targeted, accepts fashion correction, assesses clothes and photographs, initiates ordinary affection and surprise, and takes a public festival role. Her V06.5 focalization gives taste, anxiety and direct declaration that are not merely Fumiya's account of a helpful girl.
+
+Her educational preference is equally specific. She wants Aogaku because she has heard that reader-model China-chan attended. The heard reason remains heard; this is not a verified biography, a wish to become a model, admission or demonstrated feasibility. But it is a selected direction. Treating it as no direction would make uncertainty about implementation erase an ordinary person's actual choice. Her recurrent mediation and absorber costs remain important without monopolizing her identity. The question of how much she can continue carrying belongs beside her wants, not in place of them.
+
+Mizusawa likewise cannot remain “fluent but destinationless” throughout the series. His V03 confession is already owned, actually made and refused. The later-summer V06.5 waiting account and the mainline pursuit do not supply a cleanly dated first awakening; their precise seam remains open. His bar work, relation to his brother and the master, invitations, educational exploration and practical negotiations give other fields in which presentation has stakes. V12's admission of one instrumental origin is a revision of an effortless-friend image, not proof that he has only one motive or no person beyond a mask.
+
+Tama's hero-derived conduct is learned too. The cake-shop scene makes this unmistakable: she traces an ideal to childhood imitation and has made it part of her own practice. Remaking a child's damaged birthday cake is chosen care performed with real skill. It also consumes staff time and queue capacity, and she acknowledges the privilege of being the manager's daughter. Disliking herself when she compromises can sustain courage and rigidity. Neither a pristine unborrowed core nor a wholly imprisoning role explains the whole scene. A cake does not decide shop succession; an open vocation does not cancel her craft, work-self or evaluative agency.
+
+These cases alter the central conflict. The choice is not between alien social form and a desire uncontaminated by other people. Fumiya learns from Hinami; Hinami's play depends on nanashi and Haruka; Mimimi takes particular recognition from Tama; Kikuchi finds an authorial direction through other people's making. The test is what the actor can do with an inheritance, including whether to keep, revise or refuse it. Conventionality is not lack of ownership, and ownership is not immunity from competing obligations.
+
+**Evidence route:** current Yuzu §16.2/IY-R01–11 and CRI §24; MZ-P01/02 plus Mizusawa §9.3; GF-E14, TE-E05/06/09/11/13; DR12 §3.4; V12 p0014 P30–152. FS-C05–07 and FS-L03–06 retain positive ends and their limits.
+
+## 5. Effort has a goal, a comparison, a stopping problem and a livelihood
+
+The novels admire effort too consistently to support an anti-improvement reading, and damage people through effort too repeatedly to support effort worship. What changes is the relation between work and its warrant. Fumiya's iterative game practice can use defeat as information because the next move remains available. Mimimi's pursuit of Hinami can turn each second place into evidence against the whole self because its comparison target is a person whose excellence moves across domains. Hinami's measurable result can become proof that she has produced something of value, and failure can become evidence that she has not. Similar hours of discipline therefore have different psychological and social structures.
+
+Mimimi's election and athletic crisis already disprove Fumiya's first assumption that respecting someone else's effort means encouraging more of it. The election loss also matters as an actual outcome: strategic ingenuity does not make a vote a merit test or guarantee victory. Later, V08.5's basketball account shows Hinami facing a collective field in which her own intensity cannot be assumed to belong to every teammate. Yokoyama Chinami's substantial earlier training and helplessness about her dependence on Aoi remain positive evidence; her inability to console Aoi or share Aoi's full regret does not make the teammate indifferent. The wider-team inference does not give every member identical commitment or Aoi's private experience. A shared team has more than one end and more than one account of what could have been done.
+
+Relationship-owned effort has equally serious distinctions. Tama wants to act for Mimimi without adopting the harassers' verdict. Yuzu wants affiliation and ordinary continuity but becomes available to absorb unresolved friction. Haruka's admiration supports her own work and also makes being a model burdensome for Aoi. These are real reasons, not inferior copies of a solitary vocation. They become dangerous when a recipient's need has no limit, when the worker cannot refuse, or when another person's dependence supplies all the worker's value. The source does not give every character a permanent stopping constitution.
+
+Fumiya's professional aim adds institutional tests that an owned desire cannot pass by declaration. Offline play, the one-opportunity format, technical transfer, audience work and Jack's fourth-place result are material achievements. They do not establish income, family agreement, an educational plan or a viable exit condition. Ashigaru's professional account is evidence about Ashigaru's route and public obligations, not a guarantee that Fumiya can reproduce it. The final desire to show others the pleasure of living and playing makes the aim more specific; it still needs a way to be sustained.
+
+The Endo exchange must be positive evidence rather than a vague possibility without terms. The three-month follower proposal, pressure and assent differ from the six-month promotion/game bargain and discussion of continuation. Mizusawa's negotiation and Endo's practical design, work and compensation interests matter independently. Explicit terms do not prove adequate quality, termination or disclosure protections; acceptance is not performance, continuation discussion is not renewal, and audience growth is not earnings. The series supplies experiments in a future, not a silently completed career montage.
+
+The most discriminating effort questions thus concern what work is for, who can revise it and which costs success leaves elsewhere. V12 finally tests the helpers by this standard: time spent on Hinami's story is also time not spent preparing the school event. A desirable end can consume an obligation that did not vanish merely because another plot became urgent. The correction is not to renounce care or aspiration. It is to stop treating the intensity and sincerity of either as sufficient accounting.
+
+**Evidence route:** EFF's distinct regimes and §§22–24/31/53/64–66; TE-E01/05/06/09/11/14/17; EP-C20/23/24; CRI §24 and C-D22 Endo; FS-L04–07/24. The source-open practical future stays separate from current chosen ends.
+
+## 6. A voice is an act addressed to someone
+
+The language of the series does not merely label finished psychological facts. It changes the act a speaker performs and the person expected to receive it. Hinami's public delivery, game speech, familial position and crisis self-description have different stakes. Fumiya can be more pessimistic with Mizusawa than with Kikuchi in the same period. Kikuchi's careful observational language coexists with competitive play, irritation and affection. Mimimi's comic form can invite, protect, disclose and cover pain. None of these requires a hidden single register that alone reveals the real person.
+
+This matters especially when an apparent universal proposition is voiced inside a contest or a relationship. A bad-game verdict can express Fumiya's opening fatalism or Hinami's post-victory crisis. The final god-tier judgment belongs to Fumiya's narration after changed action. These are consequential evaluations, not three successive omniscient descriptions of the universe. Similarly, Hinami's statement that she has stopped clinging to correctness is hers; it is not an instruction that Fumiya must stop being correct, or proof that every future conflict with correctness has been settled.
+
+“Reason” must retain its object. A causal explanation of death, a motive for coaching, a warrant for trusting a self, and a reason to continue playing can overlap without becoming interchangeable. “Special” can name nonfungible standing, attachment or a requested priority without settling romantic classification or access rights. Game-tier language can describe visible social position, a capacity to revise, or an inability to believe without proof. Reading these as fixed personality categories would erase the movement the language performs.
+
+The final volume also uses voice to make an epistemic limit felt rather than merely stated. Hinami reads an authored scene and addresses the sister she has lost. Semantic ruby lets Alcia, her first person and Nagisa interpenetrate without creating an authenticated transcript from the dead. The imaginative address is powerful precisely as her address. It is not necessary to diagnose a hallucination, assert a ghost, or declare every line Nagisa's actual wish in order to take the experience seriously.
+
+Register therefore belongs inside the argument about agency. A borrowed manner can make Fumiya's gratitude possible; a repeated maternal phrase can acquire a new speaker and force; a polished entrance can be reused rather than exposed as inherently false. But a recurring lexeme is not proof of an unchanged meaning, and a moved reader is not proof that the speaker modeled in the text said it. The accepted selective Japanese ledger and voice specialist support these distinctions; they are not an exhaustive census of every character's habitual speech.
+
+**Evidence route:** JVL's attested recipient/state records; LV-C01/07/09/11–17/19/21–24; MZ-P03/04; R10-G10/11/12/20/23. FS-L12/15/21–24 retain exact wording-sensitive source positions.
+
+## 7. Social success is not yet repair of the field
+
+The classroom makes the limit of local victory visible before the final rescue does. Reputation alters what an act can do. A central actor's joke, a vulnerable person's correction and the same words after a reputation shift are not socially identical. The election shows strategy working inside an unequal vote field; the sports and harassment sequence shows successful mobilization accumulating grievance and changing later targets. `空気` is a causal description of such local receivability, not an excuse that abolishes the actors who reinforce it.
+
+Hinami's counterattack on Konno is effective partly because it uses the field rather than merely arguing against one aggressor. It makes overreach legible and draws other people's resentment into retaliation. Defeating Konno does not abolish the punitive machinery: the group can now treat Konno as the legitimate target. Tama's intervention is consequently more than the success of her new performance. It uses an improved interface to refuse a collective victory that repeats the wrong she opposed. That act gives moral judgment an actor, a risk and an audience, rather than making it a doctrine that social technique itself guarantees.
+
+The subsequent record needs exact actors. Konno leaves and Yuzu follows. Akiyama and other present group members then directly apologize to Tama. Her weighted assent is an actual response, not complete forgiveness. Yuzu's work on Konno's ordinary re-entry is likewise real. Konno's own apology, full acknowledgment, restitution, durable trust and institutional safeguards remain unestablished. The old synthesis's blanket claim that no apology appears erased a positive act; treating the brief apology as complete justice would erase everything it does not do.
+
+The broader peer network is a different field, not a morally pure outside. Birthday planning can carry carefully remembered tastes and genuine delight while exposing a family meaning system its organizers do not understand. Council substitution and a proposed party can preserve options after Hinami withdraws, but they do not restore her handoff or obligate Yuzu. Nakamura's protective V11 refusal and his changed V12 participation are different choices. His later help does not prove that the earlier objection was false or that the couple negotiated a full allocation rule offstage.
+
+Distributed care has actors with limited access. Takei's loud delivery reaches Hinami at home; at the later school audience, his encouragement masks Yuzu's words. Haruka independently reads and urges; Yuzu carries her own relationship stakes; Nakamura can protest and later cooperate. A group label does not give every member every motive, observation or permission. The same applies outside school: the festival's children, elders, workers and visitors do not need a common literary interpretation to participate. A collective can coordinate action while remaining plural in what matters to its members.
+
+Adult and institutional limits should be stated with the same precision. A teacher's locally offered opt-out, a parent's intended reading, a professional's paid or prospective work and a classmate's constrained assent are positive acts even when they fall short of structural protection. Neither “adults solve it” nor “all adults are absent” fits the routed evidence. The series makes local support meaningful without making it a substitute for the safeguards it does not depict.
+
+**Evidence route:** SOC-C01–22 and §18; SS-C03–14/19/22–27; EP-C16–23; CRI §19; supporting Akiyama/Hirabayashi/Kawamura and C-D37/39. V05 part0028 P2–25, V06.5 part0029 P245–303 and V12 p0022 P114–226 distinguish the material acts; FS-L07–09/20/24.
+
+## 8. Mimimi and Tama: a good that does not depend on winning Fumiya
+
+Mimimi–Tama is a central alternative to treating every bond as a resource in the protagonist's education. Both have ends and relations that do not begin with him. Mimimi wants distinction, athletic accomplishment, pleasure and company; Tama values her governing correctness, particular people, craft and ordinary time. Their friendship supplies recognition, but it also supplies food, jokes, bodily presence, concealed accommodation, questions and friction. Its evidence is longitudinal and reciprocal; it cannot be reduced to the moment when Tama tells Mimimi she is already a hero.
+
+That recognition matters because it answers a different question from rank. Mimimi need not defeat Hinami to matter particularly to Tama. It does not follow that ambition is wrong or that a friend can permanently replace every comparative reference. The particular relation changes the available reasons to continue and stop. Mimimi's return to running and her process-valued experience matter alongside the care she receives. Her brightness and comic competence are genuine capacities, not a deceptive covering whose only truth is pain.
+
+The friendship also resists an effortless giver/receiver division. The V05 appended bonus represents mutual accommodation and food exchange through two focalizers. Each can make room for the other without broadcasting the cost. Its exact diegetic date is not invented, and its brief agreed trial does not establish a completed karaoke outcome. The V06.5 Tama viewpoint then gives ordinary company beyond an exclusive pair. Mimimi feels some loss of her old role and explicitly greater joy at Tama's expanded relationships. Those feelings coexist. Sadness is not proof that she wants to keep Tama dependent; joy does not make the loss unreal.
+
+Tama's later waiting, questions and bodily answer to Mimimi's weight and warmth give care a recipient-specific form. Mimimi's private conversation with Kikuchi is not automatically Fumiya's knowledge. Tama need not understand every hidden thought for her return to matter. Nor does the scene bind her to unlimited future availability. Her own learning was partly undertaken for Mimimi's pain, but it was still a choice made under an unfair field; a friend's importance neither authors every step nor assigns the victim fault for being targeted.
+
+V12 puts the earlier solution under a new question. Mimimi can imagine physical separation from Tama and fears looking for another person to supply the same confirming position. This is her conditional self-question, not a forecast that the friendship will end, an announced replacement plan or a new promise by Tama. The substantial earlier good survives the new limit. What fails is only the demand that one particular recognition must settle the whole future of the self.
+
+Mimimi's answer in the real interview is similarly particular. She still loves Fumiya and recognizes a chance to exploit his vulnerability after the play. Refusing it is something she can like about herself. This strengthens an affirmative regard already present in V09; it does not first invent her agency or extinguish longing. The proposed race makes her bodily competence and preferred medium part of the conversation. She contributes an argument through action and voice rather than serving as a diagnostic example in Kikuchi's model.
+
+The friendship and the romantic refusal consequently illuminate each other without becoming the same relation. Particular dependence can make a person more able to choose, while exclusive dependence remains vulnerable. A chosen limit can be painful and positively owned. Ordinary joy can coexist with a residual role, and Tama's own work can impose costs. The novel does not need a later partner for Mimimi, a settled Tama vocation or a prediction of separation to establish these current goods.
+
+**Evidence route:** EP-C04–10 and EP-L05/06/09–11; FM, current Mimimi/NM-P07/21/30 and Tama; REL §8.3/§17. V05 part0034 P1–47/part0036 P1–50; V06.5 part0033 P1–205; V08.5 part0021 P80–189; V12 p0013 P26–169. FS-C10/11 and FS-L10/13 keep the two directions and earlier self-regard.
+
+## 9. Selected romance becomes a practice of allocation and limits
+
+Fumiya's choice of Kikuchi is an owned act, not the curriculum's reward or an analyst's verdict about the best compatible girl. Mimimi's confession is real, and he does not discharge its response by selecting gratitude. Kikuchi's public play and private ending express different choices rather than predicting one inevitable outer relationship. Direct clarification, request and accepted response begin the actual couple. The sequence respects a distinction the later crisis will test: a chosen beginning does not supply a complete policy for living together.
+
+V08's failure accumulates in ordinary allocation. Gaming, work, peer activity and incomplete reporting leave Kikuchi's repeated requests for time, information and touch crowded by other priorities. Rena's sexual proposition and access are part of this field, but the notification proves a disclosure problem rather than an affair. V09's apology, painful fuller disclosure and mutual selection make specialness a history the two choose to build. They do not prove permanent compatibility or retrospectively make every withheld fact harmless.
+
+Recipients remain material in the boundary scenes. Rena's appraising words concerning Kikuchi are addressed to Kikuchi; her attempted bodily contact concerns Fumiya and is locally rejected. His earlier refusal, the wording restriction, inward protest and removal of touch are separate acts. Useful perception does not purchase sexual or relational access. Rena's attention history and ordinary tastes prevent a villain-only psychology, while neither explanation nor a local exit demonstrates broad reform. These are limits on a particular adult's conduct, not proof that jealousy gives a couple ownership of every outside friendship.
+
+Mimimi's continuing love creates another asymmetry. Declining the private walk is a meaningful no; the later forceful resumption is not authorized by the fact that she wants to preserve friendship. Permission to continue a brief leaning belongs to a later point after contact has begun. Subsequent gratitude does not travel backward to authorize initiation. Her restraint is real without becoming an immaculate rule, and Fumiya's knowledge of her feeling does not give him her complete future policy. These precise distinctions make the relationship intelligible without reducing every mixed act to either purity or guilt.
+
+V12 also keeps the couple's affirmative life visible. Kikuchi comforts Fumiya while challenging the assumption that he alone must help. He wants to help, knows a particular formulation will be difficult for her to refuse, and understands its unfairness. Her actual agreement is not erased; his rhetorical awareness cannot be removed to make agreement frictionless. Later, she refuses his company on the solo inquiry. He accepts that no, then makes a changed invitation grounded in his wish to see her and waits for her answer. These are locally different requests, not a proof that persistence defeats refusal.
+
+At the island they share descriptive games, competitive language, food, embarrassment and specific affection. Her loneliness and gladness that he came are spoken; his particular observations of her reach her where generic praise did not. Fumiya's mother worries, his younger sister requests a souvenir and his father shows understanding. These are Fumiya's household recipients beyond the rescue plot; he has described the plan only as a solo trip, without its full couple purpose. A shared room, separate futons and reciprocal touch do not supply an unshown sexual event. The pair's pleasure is not valuable only because it restarts a manuscript.
+
+Their later collaboration also has independent stakes. Kikuchi can choose the work and still be hurt by Fumiya's exceptional attachment to Hinami. He can be reassured by her care without becoming entitled to it. Particular circulation permission, scoped sharing, a changed invitation, a manuscript loan and the eventual reader's uptake do not combine into one blanket consent. Sustained allocation, third-party disclosure, representation, commercial use and stopping rules remain separate responsibilities after the local repair. That open future is compatible with a relationship that is actually chosen and lived.
+
+**Evidence route:** FK/FM/FH; RC-E01/07/09/12–16/20–22; CRI-REL-004/005 and §21; Rena RE-P routes; R10-G15/16/24. V12 p0011 P46–113, p0013 P563–591, p0014 P158–206 and p0016 P35–191 supply the new local negotiations; FS-L11/14/16–18.
+
+## 10. Hinami's formation explains a demand without exhausting a person
+
+The later family history changes the interpretation of Hinami's project because it shows what proof promises her. Yoko's affirmation supplies love and a way to organize events retrospectively as meaningful. Aoi's remembered mathematical achievement supplies another real hope: something she does can change a world otherwise interpreted through inherited meaning. Calculation is not originally only sterile output. It can promise agency. Later, individually measurable competition offers a field in which cause, work and result seem attributable to one person rather than distributed across a team with different stakes.
+
+Nagisa's history breaks the assurance that correctness and retrospective meaning can make loss intelligible. The remembered sister acts on an ideal of defending others, becomes targeted, suffers and questions the value of correct action. Her death supplies a permanent result without a recoverable intention or demonstrable prevention. Yoko's meaning-making after the death is experienced by Aoi as false. That experience grounds a reversal: rather than let an authority name the meaning after a result, construct a controllable antecedent and demand that the result verify the value. It is a strong formation account, not an omniscient declaration of all causes.
+
+The epistemic restriction is essential to its explanatory force. Nagisa has ordinary game and sister life, aspirations, reported speech and effects on others; she is not merely an unexplained death provided for Aoi's arc. Yet her final intention is not available. The V10/V11 school-year tension remains genuine. Guilt shows Aoi's guilt, not actual culpability or a proven missed intervention. A current account can retain the represented limits of maternal reassurance without claiming to know every adult action, Yoko's full interior or an institutional history the source does not supply.
+
+V12 sharpens the immediate birthday trigger: the remembered prayer room and illegible scroll in the video, rather than the mere appearance of familiar mother and sister faces. The room and prayer are represented; a named denomination, cult, diagnosis or total doctrine is not. Haruka's admiration, initiative, reading and distress have their own force. She is neither a substitute Nagisa nor an instrument that gives Fumiya the whole family's knowledge. Similarly, Yoko's affectionate ordinary conduct and birth gratitude do not disappear because Aoi experiences part of the inherited framework as damaging.
+
+Hinami's competence and particular pleasures survive this explanation. She enjoys rivals and games, loves Tama's correctness, helps produce group goods, remembers tastes, gives Haruka a model and can receive the birthday's care. Revenge on Konno is an action she owns and must answer for; it cannot be excused as an involuntary symptom, nor does affection for Tama authorize it. Her public role can produce real goods even when proof governs some of its construction. `NO NAME` is a domain-owned mode with calculation, labor and pleasure of its own, not the only true self exposed beneath a fake heroine.
+
+The ending accordingly revises the significance of a lived history rather than announcing that all prior work was pointless. Remembered mathematics, track, game rankings and public applause can become different experiences again instead of interchangeable first-place certificates. Reframing the self does not retroactively make every manipulation harmless. The integrated claim is narrower: the past contains more than the one evaluative box in which she had counted it, and receiving that possibility need not first solve the death that made the box compelling.
+
+**Evidence route:** current Hinami §§3/16, Nagisa/Haruka/Yoko dossiers, TC-E06/08–10/16, LV-C21–23 and EFF §81; R10-G11/12/23. V12 p0022 P6–10/P59–110/P504–514/P708–742; FS-C16/17 and FS-L14–16/21.
+
+## 11. Knowing someone changes the relation; it does not transfer the person
+
+Fumiya and Hinami first meet with sharply unequal social knowledge and unusually reciprocal game standing. She supplies a curriculum, access and challenges; he supplies a rival who can defeat and surprise her. As he transfers the skills, practical dependence decreases before the governing asymmetry disappears. V03's negotiated continuation is not a completed emancipation. By V09 he owns knowing Hinami as an end, and she resists the inquiry whose premise he has chosen. His ownership of that end establishes his motive, not her obligation to be known.
+
+Mizusawa's desire exposes another directional problem. He actually confesses and is refused in V03. Later effort, better understanding and delayed opportunity do not reopen the answer by analyst decree. He can recognize an earlier wish to be understood without disclosing himself and the possible hero fantasy in claiming to understand Hinami. V12's fictional Sharif is not a renewed real confession, and his contribution to another person's project does not purchase another reply. The love is owned; the recipient retains authority to refuse.
+
+The V10 disclosure to Mizusawa is thus a major test of Fumiya's developed agency. He knows that he is crossing Hinami's rights and still recruits help. Owning the consequences may distinguish him from someone unaware of the cost. It is not equivalent to subject consent, harmlessness, necessity or ethical completion. Mizusawa's later acceptance of a particular sharing of his own history with Kikuchi has its own subject and scope. That particular acceptance cannot waive an absent Hinami's rights.
+
+Knowledge also has routes. Aoi's later recollection certifies some spoken overlap with what Fumiya heard, and current source review retains the earlier V10 overlap. That does not make every V11 retrospective thought or the V12 private chapter a transcript available to him. Her guess that he told the novelist nearly everything is evidence of her inference, not an actual transfer inventory. Haruka's DM can tell him where to search after Aoi leaves; finding her does not give him the full interior reading that preceded the encounter.
+
+The same distinction keeps concern from becoming passivity. Haruka independently reads and presses her own stake. Kikuchi can stop a method and ask why she writes. Mimimi can disclose what she chooses while withholding other private thoughts. Hinami refuses contact, resists the novel and eventually takes and continues it. These are different forms of agency under unequal circumstances. The case against appropriating a person is strongest when it does not erase the actual choices that remain available to her inside a compromised encounter.
+
+Exceptional attachment survives without a forced romantic classification. Fumiya chooses and repeatedly reselects Kikuchi, and Hinami's importance exceeds the tutorial. Neither the final game nor a private disclosure establishes reciprocal romance, permanent non-romance or a destined later pairing. The relation's change concerns what they ask each other to bear and what they can do together, not an analyst's need to award one final category.
+
+**Evidence route:** FH/FK/FM, REL-C09/12/16, CRI-REL-004/005 and §§20–21; EP-C12–15/19/22; MZ-P01–05; R10-G07/12/22/24. FS-L05/12/14–17/20–21 preserve the direction, recipient and access.
+
+## 12. The failed credential and the already-groundless assurance
+
+V11's set defeats Fumiya's proposed warrant, not the fact that he cares or all the value Hinami's training produced. He makes a singular claim: trust the person she cannot beat, the nanashi whose competitive standing seems able to carry an answer where ordinary reassurance has failed. Hinami studies his secondary character, reverses the set and wins. The result is real evidence about performance in that contest. It cannot decide whether life is inherently bad, whether a friend can matter, or who may govern her self-belief.
+
+The prior bank needs a precise revision here. V11 already speaks of reassurance without grounds alongside the unbeaten credential. Fumiya has not simply mistaken a proof for a promise and first discovered groundlessness in V12. The earlier proposal is already knowingly underwarranted; nevertheless, it asks Hinami to rely on his exceptional competitive and personal position. Acknowledging that one has no sufficient reason does not by itself remove the authority claim one is making.
+
+His collapse after defeat is therefore more specific than a return to V01. Skill, a girlfriend, peers and professional evidence still exist. The identity of the uniquely useful rescuer has failed, and those resources do not immediately make themselves usable. Kikuchi's fiction and rebuke reach him where the competence record cannot. V12 extends that recovery through received partner care, awkward friendship, work with other contributors and an expressive audience aim. None has to make him uniquely superior to count.
+
+The later exchange also retains a limit. He jokingly offers to replace Nagisa and immediately retracts the substitution. The new proposed carrier is local shared fiction and relational commitment in the presence of doubt, not a certified sister substitute or another unbeatable credential. His enduring reassurance is still marked as unfounded confidence. The change concerns what support is being offered and what reliance is requested; it is not the discovery that every assurance lacks proof, nor a completed solution to dependence.
+
+This gives the final shared play its force. He can choose to show a good he wants others to see without knowing the match's result or claiming that the result will authorize Hinami's life. The rival reading—that he still promises beyond what he can know—remains warranted. The ending narrows the claim's jurisdiction and makes its risk visible. It does not make risk disappear.
+
+**Evidence route:** GF-E13, TE-E14/17, TC-E13/17, LV-C09; R10-G10/20; V11 p0032 P174–193, especially P179/P187–189; V12 p0026 P26–102/P261–284. FS-C18/19 and FS-L15/23–24 distinguish the two assurances.
+
+## 13. A party can collect a preset answer; it can also learn to stop
+
+The collective project is an actual epistemic change from lone rescue because it brings separate observations and capabilities into one work. It is not automatically an ethical improvement. The empty chair in the sewing room matters: Fumiya, Kikuchi, Mizusawa and Mimimi have convened, but the person they intend to reach is absent and no permission for their representation is shown. Author permission to circulate unfinished chapters governs that circulation. It does not supply every modeled person's agreement or commercial permission.
+
+The early independent-star answer also begins as a selected destination. Hinami is modeled as a moon or planet receiving a mother's light; the helpers intend to make her a self-luminous star. That prescription is plausible within their account and still not a discovered end belonging to her. Mimimi's real interview complicates what one particular recognition can support, while preserving the good Tama has supplied. Her chosen refusal of romantic opportunism supplies positive self-regard that Hinami's later model has not registered. The participant is an author of evidence, not merely material obediently illustrating the helpers' conclusion.
+
+The scene sequence must remain exact. The first Kikuchi/Mizusawa role-play is resisted, negotiated under pressure and locally reassuring to the project. It is not the point at which an improvised Hinami directly falsifies the star solution. Later, when Kikuchi writes and reconsiders the figures in the developing manuscript, the prescribed answer becomes visible as a premise. The later meeting receives her acknowledgment of preselection. Mimimi and Mizusawa answer with a serious counterargument: stories can reasonably have messages and desired effects. Their objection is not evidence that they failed to understand an obviously correct ethical rule.
+
+Kikuchi nevertheless stops this method because the particular intervention risks reproducing the structure it opposes. To tell Hinami that her mother's imposed meaning is wrong while supplying the correct meaning she ought to accept may change the message without changing the claim to jurisdiction. The stop is not merely writer's block, a wish to avoid labor or a proof that fiction should have no effects. It is an accountable action taken before the recipient's eventual tears can be used to vindicate the procedure.
+
+Distributed understanding therefore has two possible directions. It can correct an individual model by introducing observations and the power to refuse. It can also recruit several people to a conclusion selected in advance and enlarge the pressure placed on an absent subject. The V12 project contains both tendencies. Its merit lies partly in allowing its author and contributors to change course; its compromised circulation and delivery do not become prior consent because it later changes course well.
+
+**Evidence route:** EP-C20–22, SS-C23–26, TC-E14, RC-E21/22, AO-E10 and R10-G13/24; V12 p0011 P233–278/P511–543, p0013 P206–277 then P278–488. The current R10 chronology qualifies DR12's earlier compressed improvisation formulation. FS-C20 and FS-L16–17 carry that qualification explicitly.
+
+## 14. Ordinary makers and damaged things constrain the heroic account
+
+Kikuchi's island inquiry changes the method partly by giving her people who do not exist to complete it. Andi's remembered drinking, jokes, meals, work and temper come through fallible witnesses and surviving objects. Their reports prevent the effortless sage from standing in for an ordinary working author, without giving access to his whole interior. Mitsu is a craft expert and custodian with her own priorities, bodily limits, humor and relations. She can refuse an interview, decline Fumiya's unsolicited help and later give a trusted helper a bounded task. Age and need do not transfer authority over her work to a well-intentioned visitor.
+
+The couple's bargain is correspondingly scoped. They help with festival labor and receive promised tower access after completing the task. The archive has handling limits and later the manuscript has a return deadline. None is ownership of the material or a right to publish it. Mitsu's own full name is positively attested through the later addressed surname and package, not a complete name supplied by the innkeeper's earlier introduction. Her relation to Andi does not establish an unstated marriage or identify the widow in the festival's earlier history.
+
+The costume problem gives this epistemic lesson a material object. The written blue-color name is correct; the attached scarlet sample does not match it. Fumiya proposes opening the package and opens it with Kikuchi's assent, without shown prior permission from Mitsu; he later acknowledges that the proposal was his. Their color and movement work is useful; Mitsu objects, accepts a pairing, corrects placements and cords, and performs the expert sewing. The source does not establish the mismatch's mechanism or culprit. Calling it simply a wrong label or blaming a hand impairment would lose the evidence. Calling the eventual usefulness permission would lose the relation.
+
+Perception is learned and contextual here. A color viewed in one setting or beside another fabric can require a different discrimination; repeated work matters. The fish account likewise separates first dislike, acquired liking, indifference and renewed aversion. Increased understanding need not culminate in liking everything. These scenes make the claim about revisable framing concrete without endorsing arbitrariness. Context matters because there is something to get more exactly right, not because every assertion is equally adequate.
+
+The rain is the harder test. Paper birds are damaged, food and structures are lost, and continuation does not restore the original festival. Mitsu refolds imperfectly and others return. Children create a use for damaged birds, but their play does not cause the rain to have been necessary. Elders, younger participants and children take different meanings and pleasures from the same event. Mitsu also corrects the author-centered origin story: earlier folding and crossing practices existed, and later people borrowed and changed a story. Neither one genius nor one shared belief owns the entire social good.
+
+This changes what observation can demand of authorship. Looking closely can expose a wrong sample, preserve a broken bird and recognize a refusal. It cannot make the remaining choice write itself. The maintained tower makes painstaking work visible, while Mitsu's own account of liking herself slightly through an imperfect fictional model gives reception a positive example. That local good neither makes the model exact nor supplies permission for all later models. Ordinary work, loss and partial appropriation have already complicated the heroic rescue before the final manuscript resolves its own method.
+
+**Evidence route:** AO-E12–17, TC-E15/16, SS-C24–26; Mitsu UM-E/P and Andi MA-E/P registers; CRI §21; R10-G17–19/24. V12 p0016 P305–497/P634–857/P1157–1308 and p0018 P1–250; FS-C21/22 and FS-L18–19.
+
+## 15. Observation cannot eliminate the author's remaining wish
+
+The island does not supply a correct answer that Kikuchi merely carries home. It exposes three insufficient ideals: select the desired lesson first; observe until a complete truth writes itself; or remove all subjectivity so no one can be harmed. The first risks prescribing Hinami's end. The second cannot recover an unavailable voice. The third is not available to an author who must select whether to include, omit or arrange material at all.
+
+Nagisa makes the problem irreducible. Kikuchi cannot observe her final intention, and Fumiya explicitly never met or spoke to the actual girl. Restoring the fictional sister would introduce a wish; declining to restore her would also select an ending. The reasonable alternative of omitting resurrection and displaying the observations is a choice, not an escape from authorship. Kikuchi's acknowledgment that research partly deferred asking what she wanted does not make all the research insincere. It explains why more information cannot finish this task for her.
+
+The water encounter preserves a limit on interpretation too. She enters calf-deep water; Fumiya fears she is departing, grasps her wrist, and she grips his clothing and returns. Distress and action are available. A completed suicidal intention, an attempt, a diagnosis or a parallel with the actual Nagisa's road entry is not. The temptation to make another person's ambiguous act yield the story's needed cause is the very error the argument must avoid.
+
+The handwritten continuation lent by Mitsu gives a different kind of evidence. The pair read through translation assistance; they do not acquire unmediated English fluency or publication rights. Visible verb changes end in a circled prayer. Those marks establish revision in a document. The mental trajectory the couple reconstructs from them remains an interpretation of Andi, rather than a recovered interior monologue or final testament. Kikuchi returns the loan before leaving and chooses to write; the later completed manuscript, not this intention alone, demonstrates execution.
+
+Observation remains a discipline because it can resist the desired shape. Prayer names the subjective remainder after that discipline, not a license to choose any comforting claim. Damaged birds do not become undamaged; the correct blue name does not make a scarlet sample blue; refusal does not become assent; Nagisa's unavailable intention does not become known. The author can offer a wish whose ownership she acknowledges instead of presenting it as a fact the world has disclosed.
+
+This is the sense in which AO's responsible-offer account is useful. It describes an accountable literary practice that the late work pursues. It must not be mistaken for a necessary condition of *any* effect. A biased, invasive or prescribed story can also move a person, as the conflict itself shows. Meaningful reception alone therefore cannot prove that the account was true or the method justified. The ethical rival survives: the collaborators still want an effect on Hinami and use her private pain. The distinction lies in their changed premise, observational constraints, avowed remainder and room for a recipient's resistance, not a guarantee that prayer purifies every means.
+
+Kikuchi finally owns a reason for writing more specific than pleasing Fumiya, winning recognition or becoming the right author for Hinami. She wants to offer believable anchors through which weak, ordinary people might like themselves a little and try living. That is a positive authorial end. It is also an offer made by a finite person, with interests and effects she cannot exhaustively govern. Completion of this story is real; a publication contract, sustainable vocation and general permission to model other lives remain different questions.
+
+**Evidence route:** AO-E01–03/15–20, TC-E03/15/16, RC-E21/22, LV-C22/23 and R10-G18/23/26; V12 p0020 P1–66, p0021 P11–61/P95–149/P209–433 and p0026 P114–163. FS-C23/24 and FS-L19/22 distinguish artifact, inference, chosen procedure and ethical judgment.
+
+## 16. Receiving a story: fact can stay fixed while an address changes
+
+The delivery is not a clean consent ceremony. Hinami refuses contact and says she will not read; peers arrive and Haruka leaves the bundle. Haruka then reads independently, recognizes her sister and urges Aoi to accept what has been written for her. Emotional pressure matters. So does Hinami's eventual taking and continued reading. It is neither a physically forced reading nor freely granted prior permission for representation. Her suspicion that the visitors want apology or that Fumiya has laid a trap is her conjecture, not their certified motive.
+
+The narration then gives the reader a position the collaborators do not possess. Hinami initially resents being identified and defined, despite the absence of real names. She also receives particular challenges. Her account of Mimimi as dependent and a lesser copy is a limited defensive model; the reader already has Mimimi's own earlier self-regard and real interview. The novel is not inventing a new agency in Mimimi merely because Hinami discovers an image unlike her expectation. Successful observation includes the risk of mistaking a subject's model of another person for the other person's truth.
+
+The ellipse episode resists that mistake at another level. Inside the fiction, retained records and public checking constrain the offered account. Alcia changes an assumption about the required shape rather than falsifying the observations to preserve a perfect circle. Hinami already knows the mathematics. Its new force is personal: what she has treated as a defective self might be movement misdescribed by a demanded frame. Moving from geometry to living remains metaphor. There is no mathematical theorem that every person needs exactly two supports, no new physical star required at the focus, and no general declaration that all facts depend on preference.
+
+Her response includes resistance. She recognizes a resemblance to her mother's meaning-making and nevertheless continues. Particular remembered achievements can acquire different textures; genuine birthday care can be recognized as something she discarded, rather than something that never existed. She tentatively wonders whether coaching and disclosure contained hope that time could move again. This is a present self-interpretation with retrospective force, not a newly proven single original motive for every action. Nor does it erase the costs her methods imposed on other people.
+
+The imagined reunion changes the question she can address without answering the question she cannot know. Accident, intentional action, collapse or despair remain possible in the actual death account. Instead of receiving authenticated last words, Hinami finds apology, love, admiration and thanks she wants to express. The maternal birth-gratitude antecedent, the fictional mother's elaboration and the reunion's revoicing retain different speakers and layers. Semantic ruby makes their conjunction experientially forceful without converting an authored scene into Nagisa's testimony. Inherited language can become a received prayer rather than a guarantee that the world selected a necessary good.
+
+This is substantial agency inside a received form. Hinami need not become the self-luminous star first prescribed for her. Reflected light, attachment and doubt need not disqualify the life she has already lived. Her later report of slight self-liking is positive evidence, not a reader's deduction from tears. Fumiya explicitly permits temporariness, and Kikuchi expressly refuses the claim that crying proves the novel right. The ending thus contains its own strongest evidentiary objection. An account can help someone continue while the facts it cannot establish remain unavailable.
+
+**Evidence route:** current Hinami §16; TC-E16/17, AO-E17/19/20, LV-C21–24, SS-C26/27; R10-G11/12/22/23. V12 p0022 P114–226/P294–398/P504–742/P825–979, p0026 P15–23/P114–119; FS-C25/26 and FS-L20–23.
+
+## 17. The ending performs some futures and leaves others unperformed
+
+The present ending is more than an interpretation of a story. The group meets, the book is completed and renamed, the relay reaches Hinami, she reads and resists and continues, and she actually returns in uniform to a school event. She sits between Mimimi and Tama; Yuzu waves; ordinary banter resumes locally. Fumiya lip-reads a quiet response rather than hearing it, and Takei masks Yuzu's words. No invented dialogue is needed to make this ordinary participation matter. It does not establish regular attendance, council presidency, restarted coaching, full forgiveness or durable recovery.
+
+The event supplies counterevidence to an easy rescue triumph. Fumiya and Mimimi have neglected practical acting-council preparation. The guest has been chosen but what he will do has not been settled at the relevant planning point; an actual monitor/projector fallback and later printed program exist. Ashigaru's effective contribution carries real work. Nothing establishes that all of his talk was improvised, quantifies a fee loss or makes professional competence an inexhaustible resource. Beneficial intervention and displaced obligation remain on the same page.
+
+Fumiya's café question and later inward professional purpose are likewise different events. Kikuchi asks what he wants to show; the final prospective image concerns making the pleasure of life and play visible to friends, supporters and Hinami. She says she has stopped clinging to correctness. He invites enjoyable shared play. Both choose Found after the character-selection hesitation, but no match or result follows in the admitted narrative. The separate thirty-one empty replay frames are not explained by this later pause. The source lets a choice and relationship act count without manufacturing a winner.
+
+The unfinished lives are distributed, not a set of deficits waiting for Fumiya. Tama has actual craft and chosen care without a settled succession. Mizusawa has love, practical skill and educational/vocational exploration without a final career or renewed reply. Yuzu has tastes, inquiry, public agency and a university preference without admission or a durable absorber limit. Takei's finance-conscious education and family self-report and Narita's competent work, fatigue, preferred company and self-support reasoning likewise support particular futures without narrated completion. Narita's resistance to dependence is not proof of universal liking or a completed life plan; Takei's comic position does not erase his recipient-specific competence.
+
+Family time offers another measure of what can matter without closure. In the separately placed V08.5 New Year's Eve household story, Kikuchi's unnamed father joins, asks about the play, accepts the offered script and defers intended reading until work settles. Work delays the proposed reading; the cause of his earlier nonattendance is not assigned. Her mother's kitchen call and later contextually attributed speech show more than Riku's initial report, while the father's surprised questions mark unequal immediate knowledge. No completed later reading, occupation or whole parenting theory follows. The same evidence makes the household inhabited rather than merely an obstacle to romance, without turning this earlier father into Fumiya's V12 travel interlocutor.
+
+Formal recognition also remains distinct from the actual creative good. Kikuchi completes and delivers *Pure Mixed Blood and God*; she does not thereby publish it commercially or settle every represented person's rights. Fumiya's tournament result and professional audience aim do not settle income, university, equipment, family negotiation, the follower target or an exit rule. Haruka's present initiative does not prove permanent independence from Aoi as a model. Konno's restitution and Rena's broader conduct remain untested at this later boundary; the absence of a new scene is no evidence of reform.
+
+The final god-tier judgment can consequently be read as Fumiya's owned answer after learning, defeat, dependence and revised action. It is more than the opening claim repeated untouched. It is less than proof that life is fair, pain necessary, everyone redeemable or the shown methods universally right. The ending closes the performance of this answer while deliberately withholding many biographies and causal conclusions. To deny the answer because it is bounded would repeat Hinami's demand that only total warrant can support a local life. To universalize it would repeat Fumiya's temptation to make one capacity govern everyone else's.
+
+**Evidence route:** GF-E17, TE-E11/17, SS-C27, EP-C20–24; current seven A/eleven B and C-D37/39; CRI §§19/23/24. DR12 §§3.7/8–9; V12 p0026 P106–284 and V08.5 part0035 P1–13/part0037 P31–38/P59–66; FS-C27–30 and FS-L06/20/23–24 plus the supporting person routes below.
+
+## 18. Cross-cutting claims and the retrieval contract
+
+These thirty local claims index the argument above. They are not an exhaustive replacement for the source claims, the 359-claim cumulative universe or the character models. **CI** means CORROBORATED INFERENCE across the cited acts; **IH** means INTERPRETIVE HYPOTHESIS; **VJ** marks an evaluative conclusion; **OPEN** identifies what the proposition does not settle. A direct act cited inside an inference remains direct at its own scope. Neither a confidence label nor an exact locator makes an author's ethical judgment an observed fact.
+
+| ID | Current bounded proposition | Class and material limit | Routes |
 |---|---|---|---|
-| V01 | Is social life learnable? | Tomozaki moves from categorical `クソゲー` to testable `良ゲー`; learned technique begins becoming transferable | Hinami still defines much of the curriculum; skill growth outpaces self-concept |
-| V02 | Is intense effort self-validating? | decisive election loss produces causal analysis; Mimimi's crisis introduces comparison target, goal ownership, stopping condition, and self-worth coupling | Tomozaki initially maps his mastery ethic onto another person's destructive persistence |
-| V03 | Can learned form serve an owned end? | Tomozaki rejects an assigned confession end while retaining useful technique; sincerity and practiced delivery are integrated | his correction first overshoots into throwing away useful form; control-heavy strategy persists |
-| V04 | Can local optimization change a group without displacing harm? | `空気` becomes a modifiable, path-dependent field; Yuzu and Tama show that chosen reason matters more than surface compliance | a successful intervention helps create later target substitution and retaliation |
-| V05 | Can adaptation preserve the actor's evaluative core? | Tama's training is rebuilt around recipient fit and her chosen reason; she uses improved delivery to reject collective attack | immediate cessation is achieved without apology, restitution, or systemic repair |
-| V06 | What happens when optimized method is confronted? | Hinami names the excess against Erika as revenge; Tomozaki transfers learned strategy into an owned festival end | knowing motive does not supply accountability; workload and consent remain uneven |
-| V06.5 | What do side perspectives change? | ordinary-life and retrospective stories clarify process-valued effort, relationship history, and Hinami's early result loop | only the final Mimimi story advances post-V06 chronology; no retroactive rewrite is allowed |
-| V07 | Can romance become an owned terminal choice? | Tomozaki chooses Kikuchi outside assignment logic; Kikuchi retains authorship; Mimimi supports a result costly to herself | Mimimi's future rule is open; fiction's public/private split and Hinami model remain unresolved |
-| V08 | Can self-authored aspiration survive feasibility and relationship cost? | professional play becomes a real aim; offline play supplies a route test; Tomozaki/Kikuchi face the first maintenance crisis | income, family, university, and exit conditions remain open; disclosure failure accumulates |
-| V08.5 | What does retrospective placement clarify? | Hinami's team-goal isolation, Nagisa/Haruka structure, `NO NAME`, and Rena's attention history sharpen | Nagisa's fate and the mainline V08 endpoint remain untouched |
-| V09 | Who owns priority, specialness, and change? | Tomozaki and Kikuchi mutually select the relationship; he abandons Hinami's group-center end and owns professional/Hinami-facing goals | Rena governance, capacity limits, and authority over Hinami remain incomplete |
-| V10 | Can care reach Hinami without curing her? | distributed birthday care produces joy and voluntary Nagisa disclosure; professional barter and Mizusawa's possible vocation gain form | Tomozaki violates privacy to recruit support; Nagisa's intent and the family video remain open |
-| V11 | What remains when proof cannot authorize self-belief? | Hinami's formation mechanism becomes visible; Jack transfers offline; Kikuchi's fiction creates a new method; lone rescue becomes a proposed party project | Hinami defeats Tomozaki's guarantee, leaves the central crisis unresolved, and supplies no affirmative future end |
-
-The progression is cumulative rather than a sequence of abandoned lessons. V11 does not negate V01's evidence that skills can be learned. It shows why learnability alone cannot govern a life.
-
-## 4. Tomozaki Fumiya — from domain-bounded mastery to revisable self-authorship
-
-### 4.1 The opening deficit is a classification error, not lack of effort
-
-Tomozaki begins as a highly disciplined person in one domain and a fatalist in another. His Atafami mastery already requires observation, frame knowledge, repetition, loss review, and tolerance for long practice. His `life is a bad game` theory exempts social life from those same operations because he treats its starting conditions and rules as decisive.
-
-Hinami changes him by making that exemption answerable to his own anti-excuse ethic. The early training works because it decomposes a global identity judgment into local skills. Clothing, facial expression, posture, conversational entry, topic preparation, and repeated exposure become observable actions rather than proof that he is naturally defective.
-
-The strongest V01 evidence is not compliance. It is transfer. Tomozaki independently uses the training architecture to help Yuzu and begins acting outside assigned tasks. His competence rises before confidence, status, or self-concept. The series therefore refuses the fantasy that one makeover instantaneously changes identity; skill, expectation, position, and self-description move at different speeds.
-
-### 4.2 His durable strength is revision under evidence
-
-Tomozaki's best capacity is not charisma. It is the willingness to update while continuing to act.
-
-- He revises life from globally bad to at least worth testing.
-- He loses the V02 election by 456-131 and performs causal analysis rather than returning to categorical fatalism.
-- He discovers that respecting effort can become harmful when the actor's comparison target and stopping condition are uncontrolled.
-- He rejects Hinami's assigned confession when he recognizes that he does not own the end.
-- He later retains the training methods after rejecting the goal, avoiding the opposite error that all learned form is fake.
-- He abandons the V08 group-centrality metric when it no longer describes what he wants.
-- He chooses professional gaming as an aim while admitting that desire is not yet a viable route.
-- He moves from a lone-Hinami-rescue model to a party model after his own guarantee fails.
-
-This pattern is more defensible than calling him either an obedient student or an autonomous hero. His agency develops through **selective retention**: keep what works, reject what is unowned, and revise again when the rejection is too broad.
-
-### 4.3 Strategy remains both competence and danger
-
-Tomozaki can create alternate fields rather than simply compete on existing ones. His V02 election plan, V03 camp intervention, V04 group mobilization, V05 distributed training, V06 festival leadership, V10 birthday project, and V11 student-council replacement all show real strategic growth.
-
-The ethical risk is constant. A plan can preserve another person's final choice while still manipulating the conditions around it. It can infer a desire accurately and still expose or pressure the person. Tomozaki's recurring failure is not that he never recognizes this risk. By V10 he explicitly calls his disclosure to Mizusawa a violation of Hinami's rights. The failure is believing that owning the consequence himself can substitute for the other person's authority.
-
-V11 makes the problem decisive. Tomozaki waits outside Hinami's home, contacts Haruka secretly, recruits interpreters, reconstructs the family system, and then tells Hinami to trust him. Much of the reconstruction is accurate. The correctness of the model does not give him ownership of the recovery goal.
-
-### 4.4 The strong-character identity is achieved and contingent
-
-By V09, Tomozaki can accept the label `strong character` because he changes without waiting for a complete reason. This marks enormous development from V01. V11 also shows that the identity was partly secured by a protected credential: nanashi is the one person Hinami cannot beat, so he imagines himself uniquely qualified to guarantee her.
-
-When Hinami defeats his Jack, Tomozaki stops attending school, cannot play, and rejects Kikuchi's words. This does not restore the V01 state. He now has friends, a girlfriend, professional evidence, and learned competence. His collapse is narrower: the story of unique usefulness fails. The episode reveals that self-authorship is not a possession acquired once; it is a capacity that must survive losses in the domains used to prove it.
-
-### 4.5 Current Tomozaki model
-
-| Variable | Current-boundary state |
-|---|---|
-| competence | high strategic and gaming competence; functional social fluency; capable of leadership, negotiation support, disclosure, and repair |
-| confidence | materially increased but state-dependent under singular romantic or Hinami-facing stakes |
-| status | integrated into several peer worlds and increasingly visible in competitive gaming |
-| self-concept | can strong, revisable, and still vulnerable to the claim that he must be uniquely useful |
-| agency | strongly self-authored in professional and relationship choice; incomplete in respecting another person's ownership during rescue |
-| central value | effort joined to owned ends, sincerity, revision, and direct answerability |
-| central risk | converting understanding, skill, and willingness to suffer consequences into permission to govern others |
-
-## 5. Hinami Aoi — competence after the death of warrant
-
-### 5.1 Perfection is labor, role, proof, and relationship
-
-The early volumes establish that Hinami's performance is not effortless. Her appearance, timing, reputation, academic achievement, athletics, and social calibration are supported by extraordinary repeated labor. Calling the result fake would erase both the work and its effects.
-
-Her roles are also not empty in one simple sense. She enjoys competition with nanashi, loves Tama's uncompromising correctness, helps peers, creates group traditions, and becomes Haruka's practical model. The public heroine produces consequences beyond the proof motive that partly governs it.
-
-The problem is not that performed form can never be real. It is that Hinami cannot let those effects settle the prior question: why should any value standard be trusted, and why should the self constructed through it count as valid?
-
-### 5.2 V11 substantially answers formation without reducing the person to one cause
-
-Hinami's childhood family system supplied more than praise. Yoko gave events retrospective meaning. Bad outcomes could be turned into preparation, trial, or necessary passage toward good. Young Aoi could believe herself because a beloved authority interpreted the world as coherent.
-
-Nagisa's bullying creates the contradiction. Yoko offers love and verbal affirmation but interprets suffering as meaningful rather than showing effective intervention. Nagisa acts through the `おにただ` ideal, becomes a target, deteriorates, and questions whether correct action has value. After Nagisa dies, Yoko still frames the death as meaningful. Aoi experiences the explanation as proof that the entire inherited system is a self-protective falsehood.
-
-The later Hinami regime reverses the order of justification:
-
-`result occurs -> authority gives it meaning`
-
-becomes
-
-`actor controls cause -> result verifies method -> result can be counted as personal value`.
-
-This explains why first place, recognized demand, and reproducibility matter. They do not require trust in the interpreter who arrives afterward. They appear measurable before the story is told.
-
-The model has a double edge. Success can be internalized as self-produced value. Loss, randomness, and another person's irreversible harm can also become personal fault. Nagisa's uncertain road entry is therefore especially destructive: the result is permanent, the cause cannot be fully recovered, and no correct counterfactual action can be proved.
-
-This formation account is strong. It is not total. The source does not identify Yoko's private practice, resolve Nagisa's intent, or state that this one rupture singularly produced every mask, preference, affection, or decision.
-
-### 5.3 `NO NAME` is a domain-owned mode, not the one true self
-
-The series repeatedly tempts a simple mask reading: public Hinami is controlled, private gamer Hinami is sharp and emotional, therefore the latter is authentic. Later evidence resists it.
-
-- The public role contains genuine care, labor, pleasure, and remembered relationship.
-- The gamer role also contains calculation, study, identity investment, and chosen presentation.
-- Family Hinami is another relational state shaped by responsibility and old fear.
-- Crisis Hinami speaks directly but is not thereby an exhaustive or permanent self.
-
-`NO NAME` is important because individually measurable play gives Hinami a bounded arena where cause, result, and personal responsibility feel legible. It is also a relationship with nanashi. Neither function makes it her whole identity.
-
-### 5.4 Hinami's exceptions reveal values her doctrine cannot absorb
-
-Tama is the clearest exception. Hinami engineers Erika's collapse beyond what conflict cessation requires and later names the excess as revenge because she loves Tama's unchanged correctness. This is not a minor inconsistency to be smoothed away. It is evidence that relationship-specific value can override the universal adaptation doctrine.
-
-Nanashi is another exception. Hinami invests in Tomozaki not only as a test subject but as the one player who defeats and surprises her. The coaching project is a reproducibility experiment, but competition also produces direct enjoyment and irritation.
-
-Haruka supplies a third. Hinami's perfection is not only self-proof; it is a promise to show a younger sister a usable example. When she collapses, she apologizes for appearing uncool. The role has become an obligation she values and cannot currently perform.
-
-These exceptions do not secretly prove that Hinami already has a complete affirmative life end. They show that her action is never exhausted by the proof system she uses to explain it.
-
-### 5.5 Current Hinami model
-
-| Variable | Current-boundary state |
-|---|---|
-| competence | exceptionally high and retained even during withdrawal |
-| confidence | result-confident and self-distrustful; domain performance does not generalize into reason-independent self-belief |
-| status | publicly central before V11, then absent; accumulated trust remains visible in the systems and people she shaped |
-| self-concept | explicitly empty and weak at the crisis boundary |
-| agency | can disclose, refuse, choose a game, and defeat Tomozaki; does not select an affirmative broader end |
-| central value structure | controllable cause, victory, demand, proof, and relationship-specific exceptions |
-| central risk | limitless responsibility, self-worth dependent on outcome, and other lives used as tests of method |
-
-## 6. Tomozaki and Hinami — mentorship becoming a dispute over authority
-
-The pair cannot be reduced to mentor/student, rivalry, friendship, or romance. The relation contains all but the last as a confirmed category, and the source leaves romantic classification open.
-
-### 6.1 Directional structure
-
-| Direction | What is given | What is demanded | What remains unequal |
-|---|---|---|---|
-| Hinami -> Tomozaki | training, access, challenge, attention, methods, a reason to test life | compliance, effort, measurable change, initially her selected goals | she controls information, curriculum, and many success criteria |
-| Tomozaki -> Hinami | competition, surprise, challenge to doctrine, later care and inquiry | recognition of owned ends, acknowledgment of desire, and eventually access to burden | he claims increasing interpretive and rescue authority without Hinami's consent |
-
-The early asymmetry is practical and epistemic. Hinami knows the social curriculum and hides her own governing motive. Tomozaki gradually reduces practical dependence by internalizing and transferring techniques. He then contests ends. V03 is the decisive threshold: he can execute the confession assignment but refuses because the relationship goal is not his.
-
-By V09 the relation has reversed in one respect. Tomozaki names `knowing Hinami` as his own life goal, while Hinami ends coaching after the reproducibility motive becomes explicit. The learner now chooses the inquiry; the teacher refuses its premise.
-
-### 6.2 Atafami is their most reciprocal language and not a neutral court
-
-Atafami gives them symmetrical rules and a shared respect for mastery. It lets Hinami compete outside her public hierarchy and lets Tomozaki possess unquestioned status. Their games carry joy, pedagogy, rivalry, identity, and proof.
-
-But the game cannot decide every outside question. Tomozaki repeatedly uses his superiority as rhetorical leverage. In V11 he makes that leverage explicit: believe him because he is the one strong character Hinami cannot beat. Hinami's Boxman win invalidates the credential.
-
-The sequence is not an authorial declaration that Hinami's worldview wins. The set shows why bounded game results cannot authorize a whole life. Tomozaki's error is using a local rank as jurisdiction over Hinami's self-belief. Hinami's error is treating removal of that rank as removal of every reason to trust him.
-
-### 6.3 Care reaches; cure and ownership do not follow
-
-The V10 birthday matters because it produces reactions Hinami does not wholly control. Friends remember food, games, words, and habits. The effects demonstrate that her life has generated value outside her stated motive.
-
-The same project also shows why care is ethically mixed. Tomozaki discloses private history to Mizusawa. The family video reaches a structure the group does not understand and precipitates collapse. In V11, Tomozaki expands the inquiry into the family without consent. Good effects and invasive methods coexist.
-
-The final party model is the best current correction because it rejects the belief that nanashi alone owns Hinami's truth. It remains incomplete because more interpreters do not automatically create consent.
-
-### 6.4 Romantic classification remains open
-
-Tomozaki calls Hinami special, spends a month thinking about her, tells Haruka he likes her, and treats her as uniquely important. He also explicitly selects Kikuchi, experiences couple jealousy, repairs that relationship, and recruits Kikuchi as co-author of the next plan. Hinami offers no reciprocal romantic declaration.
-
-The correct current conclusion is not `romance absent` or `romance confirmed`. It is:
-
-> exceptional attachment is directly established; its romantic classification and eventual relational form are unresolved.
-
-## 7. Kikuchi Fuka — selected habitat, relational coauthorship, and the ethics of fiction
-
-### 7.1 Kikuchi's growth is not a march toward universal sociability
-
-Kikuchi's early significance lies in a shared-interest relationship that Tomozaki initially approaches under false premises and then rebuilds through genuine reading and quiet time. Her development does not require becoming maximally integrated into the class. V07 makes the alternative explicit: she can choose affinity, craft, and `作家志望` rather than treating universal ease as the only valid adulthood.
-
-This matters for the series-wide model of social skill. Adaptation can expand agency; compulsory adaptation can make the actor disappear. Kikuchi's selected habitat is not surrender. It is a self-authored answer to which environments deserve effort.
-
-### 7.2 The relationship with Tomozaki becomes real through choice, then difficult through maintenance
-
-Tomozaki's V07 choice is not a reward for task completion. He distinguishes Mimimi and Kikuchi as real people, seeks clarification after apparent rejection, makes a direct request, and receives consent. The relation begins with unusually strong authorship.
-
-V08 then rejects the idea that correct selection guarantees maintenance. Gaming, work, group activity, Rena's sexualized contact, incomplete disclosure, and Kikuchi's repeated requests accumulate. V09 repairs the immediate crisis through fuller disclosure and mutual selection: specialness is a history they choose to build, not a compatibility score proved in advance.
-
-V10 and V11 expand the relationship into Tomozaki's family, peers, professional path, and Hinami project. This is development. It also raises the cost. Kikuchi names jealousy, defends their boundary against Rena, says that Tomozaki/Hinami specialness hurts, and ends a call when Tomozaki rejects her words. She does not merely accommodate.
-
-The V11 repair joins apology, gratitude, and a project with explicit purpose. Standing governance remains incomplete. The source still lacks exhaustive rules for privacy, scheduling, fictionalization, one-to-one contact, and third-party disclosure.
-
-### 7.3 Fiction is a model, intervention, and risk
-
-Kikuchi's plays and `純混血とアイスクリーム` are central analytical devices because they render motives not available to Tomozaki's focalization. Alcia helps characters and readers formulate Hinami's emptiness, proof system, and difficulty with value.
-
-The series carefully denies fiction automatic authority.
-
-- Alcia is authored, not Hinami testimony.
-- A fictional ending can express Kikuchi's desire without predicting reality.
-- Insight can be accurate and still violate privacy.
-- A narrative can reach a defended reader while also assigning inner states the subject never authorized.
-
-V11 makes the ethical question explicit when Kikuchi's lost-god inference makes Haruka cry. Kikuchi asks why she writes when the work can wound. The publication approach makes the question more serious, not less: professional recognition increases audience and consequence.
-
-The final group project distributes authorship because Hinami is too complex for one observer. That is an epistemic improvement. Consent and harm governance remain independent requirements.
-
-## 8. Mimimi, Tama, Mizusawa, Yuzu, and the counter-model network
-
-### 8.1 Mimimi — comparative self-worth without reduction to rank
-
-Mimimi is highly capable, energetic, funny, ambitious, and socially generous. V02 shows why those strengths do not settle self-worth. Her comparison target is Hinami; second place becomes evidence that she is not special; increasing effort has no stable stopping condition because the reference moves with the person she chases.
-
-Tama's answer is relational rather than anti-competitive. Mimimi can be first within a particular relationship—as hero, friend, and uniquely valued person—without defeating Hinami. Later evidence shows the correction is durable enough to prevent every comparison from becoming collapse, not strong enough to erase comparison sensitivity.
-
-Her love for Tomozaki is equally mixed. She declares it, helps him pursue Kikuchi, stops a private routine to avoid wrongdoing, and later monitors physical boundaries around him. This is real restraint with real cost. The current source never supplies a terminal rule for the feeling or an independent romantic end.
-
-V11 gives Mimimi new positive evidence. She diagnoses fluctuating self-worth, temporarily leads the student council, and succeeds as an improvised commentator. These are capacities not defined by defeating Hinami. She does not yet select them as long-term ends.
-
-### 8.2 Tama — principled directness plus chosen interface
-
-Tama disproves two simple equations: directness is not automatically effective, and training is not automatically betrayal. Her V05 difficulty is not a universal deficit. She already has expressive strength and a stable moral core. The copied drills fail because they ignore recipient, reputation, curiosity, and the extraordinary cost of failure under harassment.
-
-The distributed curriculum works when it changes delivery and relational access without replacing her reason. At the climax, Tama uses the improved interface to say what she already believes: collective attack remains wrong even when its target has acted wrongly.
-
-Her function is not moral omniscience. Directness can carry its own rigidity, and one V10 cake does not settle her vocation. She is the series' strongest evidence that authenticity can include deliberately learned form when the actor owns the reason.
-
-### 8.3 Mizusawa — fluency without owned destination
-
-Mizusawa begins as a counterexample to equating competence with selfhood. His social success is easy enough to feel external because he has not selected a destination that makes the performance matter. His rejected confession to Hinami is valuable partly because it is genuinely owned.
-
-V10 shows formal fluency acquiring consequence. He turns Tomozaki's audience into a negotiated exchange, receives Ashigaru's contact, and imagines promotion or negotiation as a vocation. V11 supplies no sustained route test.
-
-His love for Hinami also changes. He first wanted her to understand his loneliness without his having to disclose it; later he imagines himself able to understand her without her disclosure. He recognizes the possible hero fantasy. The source never shows the confession or stopping condition.
-
-### 8.4 Yuzu — maintenance, affiliation, and the invisible cost of repair
-
-Yuzu repeatedly helps groups continue: she crosses local `空気`, manages plans, maintains Erika's re-entry, supports birthdays, and reports student-council failure. Her actions are not mere passivity; she often owns the relationship reason.
-
-The risk is structural. Because she can absorb friction, other characters and the narrative system can treat that labor as available. V11 makes her guilt visible when Nakamura objects to Hinami leaving her responsible for the video. No explicit absorber limit appears.
-
-### 8.5 Erika, Akiyama, and Rena — unresolved accountability and boundary lines
-
-Erika's V05 defeat stops immediate harassment but does not complete justice. The group itself becomes punitive; Tama interrupts collective retaliation; Yuzu later helps ordinary coexistence. No apology, restitution, institutional process, or durable accountability rule is shown through V11. Akiyama remains similarly unresolved.
-
-Rena is perceptive and repeatedly violates sexual, age, touch, and relationship boundaries. Her history explains attention as a source of belonging without excusing conduct. Tomozaki and Kikuchi resist individual acts. The source does not show Rena internalizing a broader stop.
-
-## 9. `空気`, reputation, and social systems
-
-The series' `空気` model is neither an excuse for conformity nor a claim that groups are infinitely programmable. It describes local coordination around what a group currently rewards, fears, or treats as legitimate.
-
-Across the corpus, `空気` is shown to be:
-
-- **path-dependent** — accumulated reputation changes what the same act means;
-- **modifiable** — campaigns, humor, framing, allies, and visible results can change response;
-- **status-sensitive** — central actors can violate or redefine norms at lower cost;
-- **feedback-driven** — small public responses can make later responses easier;
-- **target-substituting** — pressure can move from one vulnerable person to another without the underlying punitive structure changing;
-- **plural** — classroom, gamer, workplace, family, and couple contexts have different rules.
-
-The V04-V06 Erika/Tama arc is the strongest systemic test. Strategic intervention can mobilize grievance and stop one aggressor while licensing a crowd to reproduce the same exclusion. Immediate victory is therefore insufficient evidence of system repair.
-
-The friend network offers a different model. It is not frictionless and physically fragments in V11, yet it can preserve work, recruit specialized understanding, and resist a single actor's collapse. Its strength is not unanimity. It is differentiated contribution.
-
-## 10. Effort, competition, and the ownership of goals
-
-The longitudinal evidence rejects any single moral category called `hard work`.
-
-| Effort regime | Example | Productive capacity | Characteristic risk |
-|---|---|---|---|
-| mastery-centered iteration | Tomozaki in Atafami and later social practice | learning, causal review, resilience after loss | universalizing controllability or using mastery as jurisdiction |
-| first-place comparative effort | Mimimi in the election; Hinami across domains | intense mobilization and high performance | moving target, absent stopping condition, self-worth collapse |
-| result-proof effort | Hinami's coaching and cross-domain excellence | reproducible method and measurable feedback | persons become proof objects; outcomes become the only warrant |
-| relationship-owned effort | Tama for Mimimi; Yuzu's maintenance; Haruka following Hinami | durable action grounded in a particular bond | another person's need can consume the actor or model |
-| craft-owned effort | Kikuchi's writing; Tama's cake experiment | self-authored making and identity | vocation becomes an excuse for exposure or predetermined future |
-| performed competence seeking an end | Mizusawa's social and negotiation skill | agreements, access, de-escalation | fluency remains experientially empty or promises others' resources |
-| professional public effort | Tomozaki's account, tournament, Ashigaru's model | audience, obligation, repeatable public practice | recognition replaces self-worth; economics and exit remain vague |
-
-The durable evaluative questions are:
-
-1. Who selected the end?
-2. Who selected the method?
-3. Can the actor revise or refuse?
-4. What counts as enough?
-5. Whose comparison target governs success?
-6. Which costs fall on third parties?
-7. Does success become the whole basis of worth?
-8. What happens when luck or another person's agency defeats the plan?
-
-These questions explain why the series can admire discipline while rejecting effort worship.
-
-## 11. Form, authenticity, and self-presentation
-
-The corpus repeatedly refuses to equate spontaneity with truth and practice with falsity.
-
-Tomozaki's rehearsed topics eventually support interactions he genuinely wants. Kikuchi's prepared language can transmit carefully considered desire. Mizusawa's polished presentation can produce a meaningful agreement. Yuzu's familiar birthday devices carry recipient-specific memory. Mimimi's public comedy can preserve relationships. Hinami's public form produces real help.
-
-Conversely, unfiltered directness can humiliate, pressure, or make another person's vulnerability serve the speaker's need. Tomozaki's V11 confrontation is sincere and invasive. Kikuchi's lost-god inference is insightful and harmful. Tama's early directness is principled but not always recipient-effective.
-
-Authenticity is therefore better modeled through four variables:
-
-- **authorship** — does the actor own or accept the end?
-- **fit** — does the form transmit what this actor means to this recipient?
-- **revisability** — can the actor change the performance when evidence or values change?
-- **consequence** — what does the form enable, conceal, or impose?
-
-No single public/private split can answer those questions in advance.
-
-## 12. Helping, consent, and distributed agency
-
-Tomozaki's early bounded-agency lesson is that responsible intervention may mean connecting the person with the right relationship rather than solving the problem alone. The later volumes repeatedly test whether he can retain it under higher stakes.
-
-The series supplies at least four helping modes:
-
-| Mode | Strength | Failure condition |
+| FS-C01 | Social subskills become learnable and transferable without proving general control over life. | CI; not universal fairness or controllability. | FS-L01–03; GF-E01/02 |
+| FS-C02 | Fumiya's selective retention of technique while contesting ends is real development. | CI; revision remains state-dependent and means remain contestable. | FS-L02/12/15/17; GF-E05/06/13 |
+| FS-C03 | Practiced form can carry owned sincere content across different recipients. | CI; no equivalence of all form with sincerity or permission. | FS-L02–04/12; LV-C11–17 |
+| FS-C04 | Hinami's public, game and family states contain real capacities and affects. | CI; no single true-mask hierarchy or complete motive inventory. | FS-L14/21; TC-E08; current Hinami |
+| FS-C05 | Yuzu has chosen relationships, public roles, inquiry, tastes and an educational preference beyond maintenance. | CI supported by direct acts/self-report; feasibility and capacity limits remain OPEN. | FS-L04/09/20/24; IY-R01–11; CRI §24 |
+| FS-C06 | Mizusawa's owned ends and ordinary relations precede the final vocational possibility. | CI; actual V03 refusal retained, precise waiting seam and renewed reply OPEN. | FS-L05/06/12/16; MZ-P01–05 |
+| FS-C07 | Tama's learned integrity sustains chosen care while admitting rigidity, privilege and external cost. | CI/VJ; no moral perfection or settled shop succession. | FS-L03/10/18; GF-E14; TE-E06/13 |
+| FS-C08 | Effort must be distinguished by goal, comparison, ownership, stopping, worth and collateral cost. | Analytical CI; not one numerical score or universal cast law. | FS-L01/03/06/07/24; TE-E01; EFF |
+| FS-C09 | The Endo experiment has explicit terms but no depicted proof of sustainable livelihood. | Direct terms/OPEN outcomes; pressure, protections and performance distinct. | FS-L06; CRI §24; TE-E11; C-D22 |
+| FS-C10 | Mimimi–Tama is a reciprocal ordinary good with independent ends and unequal knowledge. | CI; neither a protagonist service relation nor unlimited care contract. | FS-L10/13; EP-C04–10; FM/REL |
+| FS-C11 | Mimimi's continuing love, chosen restraint, self-regard and conditional separation fear coexist. | Direct/CI; V09 self-regard predates V12, no terminal romantic or replacement rule. | FS-L11/13; EP-C10; RC-E13 |
+| FS-C12 | Harassment cessation, Akiyama/group apology, Konno re-entry and fuller repair are different states. | Direct actors/OPEN restitution; no Konno apology invented. | FS-L08; CRI §19; SS-C13 |
+| FS-C13 | Distributed work and care can coordinate without identical ends, knowledge or consent. | CI; plurality can also amplify pressure or hide burden. | FS-L07/09/16/19/20/24; EP/SS |
+| FS-C14 | The couple's selected relationship becomes a continuing practice of priority, disclosure and repair. | CI; no permanent compatibility or exhaustive future allocation. | FS-L11/17/18/23; FK; RC-E07/12/20 |
+| FS-C15 | Permission belongs to an actor, act, recipient and time; later benefit does not authorize an earlier act. | CI/VJ; actual assent and agency inside pressure still count. | FS-L09/11/16–18/20; R10-G15/24 |
+| FS-C16 | Hinami's formation explains the proof demand while preserving prior hope, affection, chosen acts and later self-revision. | CI/IH; no total cause, diagnosis or exculpation. | FS-L14/21; TC-E06/08/09/16 |
+| FS-C17 | Nagisa's final intention, cause, prevention and grade tension remain unresolved. | Direct uncertainty/OPEN; guilt, fiction and tears add no missing testimony. | FS-L14/21/23; TC-E10; Nagisa dossier |
+| FS-C18 | V11 already names groundlessness while Fumiya invokes a singular competitive/personal credential. | Direct/CI; defeating the credential does not settle every outside value. | FS-L15; LV-C09; R10-G10 |
+| FS-C19 | V12 changes the offered carrier and requested reliance, not the mere presence of unproved assurance. | CI; substitution is retracted and enduring reassurance still unproved. | FS-L15/23; TC-E17; FH |
+| FS-C20 | The actual party initially pursues a preset star answer; later written critique, counterargument and stop revise its method. | Direct chronology/CI; role-play is not Hinami testimony or renewed confession. | FS-L16; AO-E10; R10-G13 |
+| FS-C21 | Island makers retain expertise, refusal, custody and particular ends independent of the visitors' inquiry. | Direct/CI; no complete Andi interior, marriage or public-use right. | FS-L18/19/22; UM/MA registers |
+| FS-C22 | New use and meaning can coexist with actual unreversed loss and plural prior practices. | CI; damage is not necessary good, fiction not sole festival origin. | FS-L19; SS/TC/AO; R10-G19 |
+| FS-C23 | Observation constrains fiction but does not eliminate selection, omission or an owned wish. | CI/IH; documentary marks differ from interpreted author psychology. | FS-L19/22; AO-E15–20; LV |
+| FS-C24 | A responsible offered account and a consequential effect are different judgments. | IH/VJ; harmful or preselected stories can act, reception proves no general permission. | FS-L16/20–23; AO-E01–03; TC-E03; R10-G26 |
+| FS-C25 | Private first-person access, heard overlap, testimony and fiction remain different knowledge layers. | Direct access/CI; no total transcript or pooled privacy waiver. | FS-L12/14/16/20–23; CRI §20; LV |
+| FS-C26 | Hinami's received frame and imagined address change what she can affirm without recovering Nagisa's voice. | Direct reception/CI; geometry is not a psychological theorem, duration remains OPEN. | FS-L21/23; LV-C21–24; R10-G23 |
+| FS-C27 | Assembly, creative completion, delivery/reception and a limited uniformed public return actually occur. | Direct; no full routine, council/coaching or permanent recovery inferred. | FS-L16/20/23/24; DR12 §§3/8–9 |
+| FS-C28 | Rescue work displaces real event preparation onto others. | Direct/CI/VJ; printed program exists, no unproved talk improvisation or quantified harm. | FS-L24; CRI §23; AS-E10; EP-C23 |
+| FS-C29 | Found selection and the final god-tier judgment perform Fumiya's chosen answer without narrating a result. | Direct choice/value judgment; earlier replay motive and final winner OPEN. | FS-L24; GF-E17; TE-E17; LV-C07 |
+| FS-C30 | Unfinished careers, family disclosures and future relations do not erase existing ordinary ends and present goods. | CI/IH; no extra biography, exhaustive psychology or source absence. | FS-L04–07/20/24–26; current A/B/C owners |
+
+### 18.1 How the local and inherited handles resolve
+
+The source-facing files remain the primary analytical chronology; the maintained ledger/index owns current revision. The named specialist handles above resolve in the linked canonical studies from §1. **R10-G01–26 resolve in the complete detailed collision register, not numbered sections of the shorter R10 audit.** Its portable record is `R10R-0007`, in [R10 evidence records 001](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_RECORDS_001.json), JSON pointer `/records/6/value/cases`; case Gnn has zero-based array index nn−1. The [routing manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_R10_CONVERGENCE_EVIDENCE_AND_REVIEW_MANIFEST.json) supplies its exact identity and catalogue. The companion exact 346-row register is R10R-0006, `/records/5/value`; later canonical row projections are separately retained in that packet. The original and current line numbers have different histories.
+
+The FS-L table supplies the least duplicative usable return. L1 routes suffice for established broad developmental comparisons. Wording, chronology, recipient, causality and disputed acts carry exact member/all-P positions or an identified accepted locator register which does. An all-P ordinal counts every HTML paragraph, including empty/image paragraphs, resets per member and retains semantic ruby. It is not a printed page. For V11/V12, `pNNNN` abbreviates `item/xhtml/p-NNNN.xhtml`: for example, `p0032` is `item/xhtml/p-0032.xhtml` and `p0026` is `item/xhtml/p-0026.xhtml`. Other extensions and paths are written explicitly. Source hashes stay in the source lock and bound source/review records; the V12 source is the approved `…5287c7c` witness. These are inherited verified routes, not twenty-six new primary readings.
+
+| Route | Material scene and backward analytical chain | Exact return and limiting distinction |
 |---|---|---|
-| direct instruction | clear, actionable, easy to test | teacher owns the end or ignores actor-specific state |
-| strategic environment change | can lower cost and make action possible | manipulation hides information or displaces harm |
-| relationship-specific affirmation | can provide non-comparative identity and reason | support becomes dependency or compulsory performance |
-| distributed collaboration | combines situated knowledge and reduces single-author monopoly | group consensus is mistaken for subject consent |
+| FS-L01 | Early skill transfer, election/effort; GF/TE → CS/EFF → DR01/DR02 | DR01 §§10–14/17 and DR02 election/Mimimi bands; established artifact routes, not a new lexical claim. Transfer is not instant self-concept or guaranteed electoral success. |
+| FS-L02 | Assigned end, correction and negotiated coaching; GF/RC → CS/REL → DR03 | DR03 §§10–14/17, including the retained form/sincere-content argument; R10-G03 preserves the bounded negotiation. Fumiya's ability to execute is distinct from actually performing an unwanted confession. |
+| FS-L03 | Tama learner fit and own reason; EP/GF/TE → CS-TAM/EFF → DR04/DR05 | DR04 §12; DR05 §§4–6/10–11; EP-L07/08. The accepted source routes preserve contributors, the recording defect and unequal failure cost; no universal-deficit or pure-virtue inference. |
+| FS-L04 | Yuzu's independent ordinary/education evidence; current Yuzu/SS/LV → CS/CRI → SR06.5/DR08 | V06.5 `OEBPS/Text/part0029.xhtml` P105–164/P245–303/P485–543, IY-R05; V08 `text/part0014.html` P150–176, IY-R11/CRI §24. Private access and heard model-school reason remain attributed. |
+| FS-L05 | Mizusawa's actual confession and unresolved waiting seam; current Mizusawa/EP → CS/REL → DR03/SR06.5 | V03 `text/part0028.html` P1–94; MZ-P02 gives separately routed V06.5 part0041/0043/0045, including part0045 P104–151. Actual refusal survives; no invented exact chronology or first-awakening hinge. |
+| FS-L06 | Professional tests and explicit barter; TE/current Mizusawa/Endo → EFF/CRI → DR08/DR10/DR11 | DR08 offline/professional bands and DR11 tournament state; V10 `text/part0017.html` P1–63, especially P36–61. Three-month target, six-month exchange and continuation discussion do not prove performance or safeguards. |
+| FS-L07 | Team effort and unequal defeat; EP/TE/TC → EFF §53/C-D18 → SR08.5 | V08.5 `text/part0013.html` P99–113 and `text/part0015.html` P1–47. Yokoyama's preceding training and self-directed helplessness are distinct from Aoi's full regret; broader-team interior is partly conjectural. |
+| FS-L08 | Class retaliation, actual apologies and revenge; SS/EP → SOC/REL/CRI §19 → DR04–DR06 | V05 `text/part0028.html` P2–25; V06 `OEBPS/Text/part0008.xhtml` P202–282 via EP-L13/HA-P06. Akiyama/group act after Konno leaves; Hinami's later owned revenge supplies no repair. |
+| FS-L09 | Device, first sending and unequal help; Yuzu/Konno/SS → CRI-KON/REL → SR06.5 | V06.5 `OEBPS/Text/part0029.xhtml` P245–303, especially P256–260; R10-G06. Kawaguchi Mutsumi is owner/assenter; taking precedes assent and first sending follows it. Yuzu is beneficiary/observer. |
+| FS-L10 | Coequal ordinary Mimimi–Tama; EP/FM/current pair → REL/EFF → DR05/SR06.5/SR08.5 | V05 `text/part0034.html` P1–47/part0036 P1–50; V06.5 `OEBPS/Text/part0033.xhtml` P1–205; V08.5 `text/part0021.html` P80–189. Unknown bonus date, dual accommodations, greater joy with role-loss and later recipient care remain distinct. |
+| FS-L11 | Selected romance, maintenance and contact acts; FK/FM/RC/Rena → REL/CRI §22 → DR07–DR09/DR11 | DR07 §§10–11/14–15; V09 `text/part0029.html` P220–257/part0031 P1–60 for initiation then continuation; Rena RE-P01–12 gives V08 part0028 P12–79, V09 part0020 P105–224/part0028 P84–200 and V11 p0028 P210–258/p0030 P1–10. Recipients, local refusals and later assent are not pooled. |
+| FS-L12 | Constructed friendship and scoped disclosure; EP/LV/current Mizusawa → REL/JVL → DR12 §3.2 | V12 p0011 P331–507, MZ-P03/04. One instrumental origin, recent owned liking and awkward best-friend response are not one exhaustive motive or general privacy waiver. |
+| FS-L13 | Earlier self-regard and real V12 interview; EP/FM/RC → CS/REL/EFF → DR09/DR11/DR12 | V09 `text/part0029.html` P115–257/part0031 P1–113; V11 p0016 P43–70; V12 p0013 P26–169. Self-regard is not first discovered at the ending; private supplemental knowledge does not automatically reach Fumiya. |
+| FS-L14 | Formation, positive agency and bounded spoken overlap; TC/LV/current Aoi/family → CS/EFF/CRI §20 → SR08.5/DR10–DR12 | V10 `text/part0026.html` P1–75; V11 p0030 family retrospective and P1090–1096/p0032 P1–16; V12 p0022 P6–110/P504–514/P708–742. TC-P03/06 and family registers supply source subranges. Reader access exceeds certified speech; guilt is not cause. |
+| FS-L15 | Already-groundless assurance with a credential; FH/GF/TE/LV → REL/EFF → DR11/DR12 | V11 p0032 P153–194, especially P174/P179/P187–189/P193; V12 p0026 P26–102. The change is carrier and requested reliance, not first discovery of unproved reassurance. |
+| FS-L16 | Party assembly, initial role-play then later written critique/stop; EP/SS/TC/AO → REL/CRI → DR12 | V12 p0011 P149–278/P511–543; p0013 P206–277 followed by P278–488, especially P414–488; R10-G13. The first role-play is locally reassuring; later manuscript work exposes preselection, receives a serious counterargument and is halted. |
+| FS-L17 | Care, refusal and changed invitation; FK/RC → REL/CRI §21 → DR12 §§3.2–3.4 | V12 p0011 P46–113, especially P96–98; p0013 P563–591; p0014 P158–211. Fumiya's aware rhetoric, Kikuchi's solo no, later acceptance and Fumiya's household at P210–211 retain their different actors. |
+| FS-L18 | Mitsu's authority, name and sample/proposal; AO/UM/MA → REL/CRI §21 → DR12 §3.4 | V12 p0016 P1–30/P305–497/P625–857; name P634/P653, correct written name P701, sample P702–707, opening proposal P686–690 and acknowledgment P799. Initiation and missing permission remain attributable; culprit and marriage remain unknown. |
+| FS-L19 | Damaged birds, prior practice and plural reception; SS/TC/AO/UM/MA → SOC → DR12 §3.4 | V12 p0016 P861–1129/P1157–1308 and p0018 P1–250. Testimony is attributed; loss persists, prior ritual exists and later participants do not share one author-supplied meaning. |
+| FS-L20 | Refusal, peer relay and independent Haruka; SS/EP/Aoi/Haruka → REL/SOC → DR12 §§3.6–3.7 | V12 p0022 P114–226, p0024 P9–12; later audience/inaudible Yuzu p0026 P212–234. Home delivery and gym voices are different settings; suspicion is not visitor motive and uptake not prior permission. |
+| FS-L21 | Private reading, ellipse and imaginative address; TC/AO/LV/current Aoi → CS/JVL/CRI → DR12 §3.6 | V12 p0022 P294–398/P504–742/P825–979. Math already known; testimony about Nagisa unavailable; defensive model of Mimimi is not the analyst's model. |
+| FS-L22 | Unavailable voice, omission, loan and marked verbs; AO/TC/LV → CRI/REL → DR12 §§3.4–3.5 | V12 p0020 P1–66; p0021 P11–61/P95–192/P209–433. Actual manuscript marks, translation-mediated access and interpreted motive differ; choice/prayer is not an observed Nagisa answer. |
+| FS-L23 | Slight self-liking, inherited words and authorial purpose; TC/RC/AO/LV → CS/REL/JVL → DR12 §§3.6–3.7 | V11 p0030 P721–750, especially P736–738; V12 p0011 P180–205/p0021 P150–182/p0022 P947–979; p0026 P15–23/P40–102/P106–173. Maternal antecedent, fictional elaboration, revoicing, promise and tears have distinct attribution. |
+| FS-L24 | Event costs, local return, professional question and final choice; EP/GF/TE/AS/LV → SOC/EFF/CRI §23 → DR12 §3.7 | V12 p0026 P106–284: café question P167–173; neglect P177–202; actual program P214; audience P212–234; Found selection P231–258; later purpose P260–279; final narration P283–284. No unplayed result or solved replay motive. |
+| FS-L25 | Kikuchi household knowledge and intended reading; current Kikuchi/C-D37/39 → CS/CRI §24 → SR08.5 | V08.5 `text/part0033.html` P12–30/part0035 P1–13/part0037 P31–38/P59–66. Maternal part0035 P6 is tagged at P7; part0037 P33/P62 are contextual attributions. Father's work delays intended reading, not an assigned cause of play nonattendance. |
+| FS-L26 | Supporting ordinary ends; current eleven B and C/group companion → coverage/scope/CS → separately routed DR/SR | Nakamura NS-E01–11, Takei TK-E01–10, Narita NT-E01–07; current Haruka/Nagisa/Yoko, Rena, Ashigaru, Mitsu and Andi registers. [Supporting companion](../06%20Specialist%20Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md) retains C-D01–39/G01–06. Group association gives no all-member act; unknown coverage is not absence. |
 
-V10-V11 add the hardest case. Care for Hinami is justified by relationship and demonstrably reaches her. Tomozaki still has no authority to disclose every secret, contact every family member, or define the cure. The fact that he admits the violation and accepts possible consequences is ethically relevant; it is not consent.
+The historical synthesis's twenty sections and all forty confidence/open entries receive separate exact dispositions in the companion review evidence. Their preservation does not require this integrated argument to keep a character-by-character architecture. The old endpoint remains true at V11, while execution, reception and present return are now answered in the current state. Source OPENs and the difference between effect and justified means remain part of every current claim that depends on them.
 
-The endpoint's party model is therefore promising because it distributes interpretation, not because it resolves authority. A mature continuation would still require Hinami's ability to know, refuse, revise, and choose an affirmative end.
+## 19. Rival whole-series readings and the uncertainty they preserve
 
-## 13. Games, randomness, and why the title remains unstable
+### 19.1 Improvement solves life, or improvement was exposed as empty
 
-Game language performs three functions across the series.
+**REJECT both totalizations.** Learnable skills materially improve options. Fumiya's transfer, Tama's fitted curriculum, public making and ordinary fluency are not revoked by grief or ethical failure. The same corpus shows why skill cannot choose every end, make initial conditions fair, confer standing or supply a recoverable reason for irreversible loss. A useful technique can survive a failed universal philosophy. The final judgment should neither cancel V01 nor pretend the final volume needed only more of V01's exercises.
 
-### 13.1 Decomposition
+### 19.2 Hinami is fake and Fumiya becomes the natural authentic self
 
-It turns identity judgments into local operations. A conversation can be practiced; a tournament can be reviewed; a reputation can be influenced. This is the emancipatory side of the metaphor.
+**REVISE the distinction.** A difference between owned and alienated conduct is real, but public/private and practiced/spontaneous do not map onto it. Hinami's public work can carry care; her game self can calculate and perform. Fumiya borrows voices and can sincerely pressure. Tama owns a learned heroic ideal that also imposes cost. Yuzu's socially familiar ends can be chosen. Authorship, fit, revisability and consequence discriminate more than a single hidden-core story.
 
-### 13.2 Measurement
+### 19.3 Formation explains away Hinami's agency
 
-Ranks and results provide feedback less dependent on interpersonal interpretation. Hinami's attraction to individual games emerges from this property. This is the proof side.
+**REJECT a total cause; PRESERVE explanatory history.** The family meaning system, loss and result regime strongly illuminate her demand for warrant. They do not make her care unreal, explain every preference, establish Yoko's entire intention or remove responsibility for retaliation and disclosure pressure. The converse caricature, that Hinami merely chooses an irrational method and should know better, also loses the history that makes the promise of controllable proof intelligible. Compassion and answerability need not compete for one final label.
 
-### 13.3 Distortion
+### 19.4 The party's success vindicates its method
 
-People are not fixed-rule opponents, and relationships do not have one shared win state. Randomness, hidden information, institutional structure, and other agents resist total optimization. This is the limit.
+**REVISE success into its separate objects.** It actually produces a completed work, received meaning and limited return. It also assembles without shown subject permission, presses contributors, delivers through refusal and displaces practical work. Changed inquiry and an actual stop are substantive improvements over simply pursuing the first answer. They do not certify the whole route. A serious ethical reading can judge the intrusion inadequately justified while accepting the benefit and the recipient's own agency; a hopeful reading can value the offered support without claiming that the effect proves the means right. The present source does not require that disagreement to disappear.
 
-V11's Boxman set brings all three together. Hinami learns a new system, measures success, and defeats Tomozaki. Tomozaki then experiences the distortion of treating one result as authority over a relationship. Hinami performs the inverse distortion by treating the result as removal of every reason to trust him.
+### 19.5 Fiction reveals Nagisa's true answer and thereby repairs causality
 
-The title `bottom-tier character` changes referent across the series. It first names Tomozaki's low social position. V11 lets Hinami claim it for an inability to believe without a warrant. The label therefore shifts from **visible status deficit** to **experienced authorship deficit**. Neither use should be treated as a permanent essence.
+**REJECT.** The ending explicitly retains unknown intention and denies that tears prove the novel correct. Aoi's address can carry love and thanks without converting an imagined sister into a witness. The ellipse changes a demanded frame while retaining testable data inside the fiction; its psychological application remains a received metaphor. An account that resolved the death by interpretation would undo the ending's distinction between answering a cause and choosing how to continue without it.
 
-## 14. Reasons, recognition, and the problem of the empty self
+### 19.6 A new external story merely replaces one dependency with another
 
-V11 allows the whole corpus to distinguish three sources of reason:
+**DOWNGRADE “merely”; OPEN durability.** The helpers first prescribe an independent star, but the final response need not disqualify reflected light, inherited words or particular attachment. Hinami resists, continues, revises an evaluation, reports slight self-liking and accepts public play. These are more than passive exposure. Yet the narrator permits temporariness and no sustained retest follows. The supported claim is a changed present relation to received meaning, not perfected self-sufficiency or an analyst's guarantee of lasting recovery.
 
-1. **self-authored desire** — act because this is what the actor chooses;
-2. **relationship and recognition** — act because another person matters or believes;
-3. **causal/result proof** — act because a method produces measurable success.
+### 19.7 The romance identifies the objectively best match, and other bonds compensate the losers
 
-No source is universally sufficient.
+**REJECT the ranking.** Fumiya's repeated choice of Kikuchi is direct relational evidence; it is not a general evaluation of women by compatibility, sacrifice or plot importance. Mimimi's continuing love and restraint have her own stakes, while Mimimi–Tama's ordinary reciprocal history exists independently of a romantic result. Mizusawa's confession was real and refused; a future answer is not secretly supplied by Sharif. Hinami's exceptional relation to Fumiya does not override the selected couple or establish reciprocal romance. Different bonds do not need the same outcome to be substantive.
 
-Tomozaki is strongest in reason-independent self-assertion and later learns relationship dependence. Mimimi needs relationship-specific value to loosen total comparison. Haruka uses admiration to create her own effort. Ashigaru describes fans as a reason to persist. Kikuchi owns desire to write but seeks a reason compatible with impact. Hinami distrusts self-authored desire because the self formed by Yoko's system appears contaminated; she uses results as substitute warrant.
+### 19.8 No complete repair or future means that nothing has changed
 
-The series does not solve emptiness by discovering a hidden pure core. It repeatedly constructs workable identity through action, recipient, memory, craft, and revision. That approach remains vulnerable to dependency and loss. Its advantage is that no single result must bear the entire person.
+**REJECT the negative inference; PRESERVE the missing outcomes.** Akiyama/group's brief apology is not restitution, but it is an apology by those actors. A three-/six-month bargain is not a viable livelihood, but it has actual terms. Yuzu's university preference is not admission, but it is a direction. Kikuchi's father intends to read without a depicted later completion. Hinami returns without a permanent cure. The same precision limits positive inference: consent to first sending does not authorize earlier phone-taking; permission to continue contact does not authorize its initiation; a useful costume fix does not authorize opening. Real partial acts and their limits are the units of the story's answer.
 
-## 15. Ordinary life is evidence of ownership and relationship
+### 19.9 Observation could avoid responsibility by leaving the difficult scene unwritten
 
-Clothing, hair, food, games, commutes, messages, work shifts, cakes, cinema, books, shopping, quiet library time, group outings, and teasing do more than decorate climaxes.
+**REJECT neutrality; OPEN competing ethical choices.** Omission is an authored choice, but that fact does not make every invention legitimate or oblige a novelist to write a dead person's voice. The source offers no procedure that removes accountability. The late method makes its wish attributable and lets facts constrain it. Another author or recipient could reasonably select a different ending. Its consequential power and its responsible character are separate judgments, not two names for a proven universal literary formula.
 
-They show:
+## 20. What the completed admitted series establishes
 
-- whether a practiced skill has become ordinary;
-- who notices and remembers another person's preferences;
-- how much maintenance labor a relationship requires;
-- whether a character has a habitat beyond crisis;
-- when professional aspiration becomes obligation rather than fantasy;
-- how public roles differ across recipients; and
-- whether people can share low-stakes time without converting the relationship into a task.
+The series does not finally choose between a trainable life and a meaningful life. It shows that trained action can create possibilities in which meaning, relationship and owned ends become practicable, while none of those goods grants a total warrant over another person. Its early lesson survives: difficulty is not an immutable identity, and practice can matter. The later lesson changes the scale of the claim. A life cannot be made just, wanted or trustworthy merely by extending one technique until it governs everything.
 
-The V10 birthday succeeds as far as it does because it is built from mundane memory. The V11 crisis is equally legible through mundane failure: unread messages, missed school, unfinished handoff, gaming alone, and a sibling's unexplained outings. Whole-person reconstruction requires both scales.
+That limit is not a recommendation to stop acting until every motive and permission is solved. The characters act amid imperfect information, and the novel makes both the resulting goods and the costs available for judgment. They can learn, refuse, borrow, depend, make, revise and address one another. Particular self-regard need not wait for a first-place certificate; a received story need not be factual testimony; ordinary company need not become a cure; a future direction need not already be a career. The opportunity to choose is repeatedly supported by other people whose own ends remain real.
 
-## 16. Wording-sensitive concepts
+V12 gives the argument a performed ending rather than an omniscient conclusion. Hinami's history is not solved; she participates. Kikuchi cannot authenticate Nagisa; she finishes an owned offer and refuses proof from its tears. Fumiya cannot guarantee a life through unbeaten status; he prepares to show a pleasure he wants to share. His final game judgment belongs to that changed position. The shared match remains about to happen.
 
-| Term | Current analytical use | Limit |
-|---|---|---|
-| `クソゲー` / `神ゲー` / `良ゲー` | character theories about whether life rewards learnable action | none is omniscient world description |
-| `やりたいこと` | desired end that may ground self-authorship | desire can be uncertain, mixed, borrowed, or ethically constrained |
-| `空気` | local norm and response field | not a universal law or excuse for harm |
-| `本物` / `偽物` | contested language for owned desire, performance, and story | surface polish does not decide authenticity |
-| `特別` | relationship priority or nonfungibility | does not by itself classify romance or transfer authority |
-| `空っぽ` | Hinami's and Alcia's language for missing trusted self-warrant | not an analyst diagnosis or proof of absent emotion |
-| `弱キャラ` / `強キャラ` | shifting self-concepts about status, capacity, and self-belief | not stable personality classes |
-| `おにただ` | Nagisa/Tama-associated ideal of acting according to perceived correctness | principled action can remain vulnerable to power and consequence |
-| `理由` | causal explanation, motive, warrant, or reason to proceed depending on context | these senses must not be collapsed |
+The remaining uncertainty is therefore not an appendix that withdraws the conclusion. It is part of what makes the conclusion answerable to the source. Facts can constrain a story without dictating the one life to lead; another person's support can matter without becoming ownership; and a provisional affirmative act can be worth making without pretending that it proves the whole world good.
 
-The final distinction is especially important. Hinami asks for a warrant she can trust, Tomozaki often supplies motive, and retrospective family stories supply meaning. All can be called a reason while doing different analytical work.
+## Version and adoption history
 
-## 17. Current relationship and responsibility matrix
+### V2.0 — 2026-10-23 — independently accepted R11 material revision
 
-| Relation / system | Achieved state | Live unresolved responsibility |
-|---|---|---|
-| Tomozaki -> self | learnability, revision, owned professional desire, stronger self-concept | survive loss without returning to total isolation or unique-usefulness proof |
-| Hinami -> self | formation mechanism disclosed; capacity retained | affirmative end, reason not wholly dependent on victory, school/life re-entry |
-| Tomozaki <-> Hinami | deep reciprocity in game and disclosure; explicit value conflict | consent, privacy repair, non-savior support, post-defeat relationship form |
-| Tomozaki <-> Kikuchi | chosen romantic relationship, conflict repair, public integration, coauthorship | privacy, fictionalization, time allocation, Hinami priority, third-party rules |
-| Tomozaki <-> Mimimi | friendship, direct romantic knowledge, ethical restraint | her stopping condition and their future private routine |
-| Mimimi <-> Tama | mutual regulation and non-comparative value | durability under future stress without overdependence |
-| Mizusawa -> Hinami | owned love and increasingly explicit identification | confession, response, stopping condition, hero-fantasy governance |
-| Yuzu -> peer network | extensive repair and maintenance | absorber boundary and distributed responsibility |
-| Rena -> Tomozaki/couple | local acts resisted | generalized respect for consent and relationship boundaries |
-| Erika/Akiyama -> class | immediate conflict ended; ordinary coexistence partly restored | acknowledgment, apology, restitution, and institutional learning |
-| Tomozaki -> profession | public account, barter, tournament, admirer, adult mentor | follower result, income, family/university decision, sustainable workload, exit rule |
-| Kikuchi -> profession | editor interest and conditional manuscript route | completion, contract, publication, consent/impact governance, durable motive |
-| party -> Hinami | specialized knowledge recognized and project proposed | actual assembly, subject participation, delivery, effect, and stopping rule |
+The full-series identity is retained through a substantive fourteen-witness revision. Middle independently accepts the complete argument and final evidence; the root integrating agent separately records PASS_AT_R11_BOUNDARY. This canonical render preserves every literary byte from §1 through §20 of the final 91,050-byte R11 submission SHA256 `dd45f3c148aad9b6e8f88f7187e6e034614a6fed9e21cb4e5daa87a97bba2898`. Only authority/version metadata, the banner and this history differ. The separately recorded STABILIZED architecture decision does not freeze the text or award literary release, models or publication. Installation and subsequent validation remain separately evidenced operations.
 
-## 18. Canonical current-boundary claims
+### V1.0 — preserved V11 pre-remediation hypothesis bank
 
-### High confidence
-
-1. Several social skills in the series are learnable and transferable; this never proves that all outcomes are controllable.
-2. Tomozaki's major development is selective, revisable self-authorship rather than simple adoption of Hinami's rules.
-3. Goal ownership, method ownership, stopping condition, comparison target, self-worth coupling, and collateral cost are independent effort variables.
-4. Deliberately learned form can become genuine competence and carry sincere, actor-owned content.
-5. Directness and spontaneity do not automatically establish authenticity or ethical adequacy.
-6. `空気` is a path-dependent and modifiable social field capable of redistributing harm.
-7. Hinami's excellence is extensively labored, causally effective, and not reducible to empty performance.
-8. Hinami's coaching functions substantially as a reproducibility test of her life method.
-9. V11 directly grounds Hinami's later proof regime in the collapse of a childhood retrospective-meaning system after Nagisa's death.
-10. V11 does not resolve Nagisa's intent at the road or authorize a single-cause account of Hinami.
-11. Hinami retains high competence during withdrawal, demonstrating that capacity and reason for deployment are distinct.
-12. Tomozaki repeatedly owns caring ends while exceeding his authority over disclosure, family contact, and rescue method.
-13. Beneficial effects do not erase instrumental or coercive dimensions of method.
-14. Tomozaki and Kikuchi form a genuinely selected romantic relationship whose maintenance remains an active practice rather than a solved status.
-15. Kikuchi's fiction provides analytically powerful hypotheses and interventions, not direct testimony about its models.
-16. Mimimi's comparison pain, affection, restraint, ambition, and friendship coexist; none cancels the others.
-17. Tama's development demonstrates that chosen adaptation can preserve a stable evaluative core.
-18. Mizusawa demonstrates that social fluency can precede an owned end and later acquire meaning through consequence.
-19. Yuzu's maintenance labor is structurally important and remains underbounded.
-20. Atafami is simultaneously training system, identity resource, relationship language, and limited proof arena.
-21. Recognition can create real reasons in both admirer and model without giving either ownership of the other.
-22. Distributed interpretation can reduce monopoly but cannot manufacture consent.
-23. V11 ends before the central Hinami crisis, party intervention, professional paths, and several relationship lines resolve.
-
-### High-medium confidence
-
-1. Tomozaki's strongest stable trait is willingness to revise under evidence, but V11 proves that even this capacity is state-dependent.
-2. Hinami's maximal self-responsibility works as both a value-acquisition rule and a self-punishment rule.
-3. Her relationship-specific exceptions are evidence of real values that her explicit proof doctrine cannot fully integrate.
-4. Tomozaki's unique-savior identity, not only his game loss, drives his V11 collapse.
-5. The final party model is a genuine ethical and epistemic improvement over lone rescue, provided later action preserves Hinami's refusal and participation.
-
-### Open
-
-- Hinami's affirmative future end and post-V11 school state;
-- Nagisa's intent and the full adult/institutional response;
-- the exact nature of Yoko's private belief practice;
-- Tomozaki/Hinami romantic classification;
-- the final Tomozaki/Kikuchi relationship form;
-- Mimimi and Mizusawa stopping conditions;
-- Rena's future boundary conduct;
-- Yuzu's absorber limit;
-- Erika/Akiyama accountability;
-- Tomozaki's professional viability and Endo-deal results;
-- Kikuchi's completed book, publication, and impact governance; and
-- the execution and reception of the collective story project.
-
-## 19. Rival whole-series readings rejected or bounded
-
-### 19.1 `The series proves self-improvement solves life`
-
-It proves many subskills improve. It also shows randomness, other agents, unowned goals, structural retaliation, grief, and missing warrant. Improvement is necessary in some domains and insufficient as a total theory.
-
-### 19.2 `Hinami is fake while Tomozaki becomes authentic`
-
-Both use learned form, self-presentation, and strategic action. Both can act sincerely and coercively. The meaningful questions are authorship, fit, revisability, and consequence.
-
-### 19.3 `Hinami is only a victim of family trauma`
-
-Her history materially explains her system. She also chooses, competes, helps, retaliates, teaches, refuses, and harms. Formation does not erase agency or make every act a symptom.
-
-### 19.4 `Tomozaki is a savior whose invasions are justified by results`
-
-His care and achievements are real. He explicitly violates privacy, and V11 defeats the authority claim at the center of his rescue. Good intent and accepted consequences do not substitute for consent.
-
-### 19.5 `Kikuchi's insight gives her artistic permission`
-
-The source dramatizes the opposite problem. Insight can reach truth and still wound. Publication raises the need for motive and impact governance.
-
-### 19.6 `The romance plot identifies the objectively best match`
-
-Tomozaki chooses Kikuchi at V07 and reselects the relationship in V09. That is direct current evidence. The corpus does not turn narrative prominence, compatibility, sacrifice, or Hinami's specialness into a universal ranking of partners.
-
-### 19.7 `Nagisa definitely died by suicide`
-
-The context makes intentional action plausible but does not establish it. The uncertainty is part of Hinami's governing problem and must not be erased.
-
-### 19.8 `Life is finally revealed as a bad game`
-
-Hinami speaks the line after defeating Tomozaki. Her statement reverses the opening and destroys his easy credential. It remains a character conclusion under crisis, not an uncontested fact of the fictional world.
-
-## 20. Pre-remediation closure claim and current disposition
-
-This candidate correctly records several durable accomplishments at the current source boundary:
-
-- every numbered volume V01-V11 has a canonical prospective deep reading;
-- both admitted side-story volumes have chronology-controlled supplemental readings;
-- the recurring effort/competition/goal-ownership responsibility is current through V11;
-- no comparative framework, adaptation conclusion, or post-V11 outcome is admitted; and
-- the project-wide character registry and generated character index remain outside this branch's writing authority.
-
-Its former conclusion that no additional ledger was required is superseded by the architecture/role-gap audit. Character state, relationship state, claim/evidence lineage, social atmosphere/group systems, and Japanese voice/register each have an independent cumulative burden. Likewise, short integration sections here cannot substitute for mature character, relationship, and thematic specialists. The seven associated character files remain provisional candidates until their architecture-defined responsibilities are fulfilled.
-
-This artifact therefore preserves a useful integrated hypothesis bank while the final-synthesis gate remains closed. It should be substantially revised only after longitudinal backfill and cross-specialist convergence.
-
-A later source-lock revision that admits another numbered volume should:
-
-1. preserve this candidate and every source-facing reading as historical V11-boundary evidence;
-2. create and stage a pre-next-volume freeze from `TOMOZAKI_V11_DEEP_READING.md` before opening the new witness;
-3. read and adjudicate the new volume prospectively;
-4. update every affected cumulative layer and re-run the architecture gates; and
-5. issue a new synthesis generation only after its dependencies converge rather than silently converting this candidate into a completed endpoint.
+The complete earlier 53,526-byte text, SHA256 `6e51ba07492b46cf824909ab420704d988d6f48352ea4cdda3c536fc324ca27f`, remains exact in the accompanying evidence. Its twenty sections and forty confidence/open entries have explicit current dispositions. Earlier prospective limits remain true at their original boundary; the new ending does not rewrite what the earlier readers knew. The stable canonical filename continues to identify the materially revised synthesis, with the preserved earlier generation separately recoverable.

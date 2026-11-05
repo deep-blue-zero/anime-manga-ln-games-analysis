@@ -1,0 +1,366 @@
+{
+  "schema": "konosuba.secondary.native-provenance.v1",
+  "created_utc": "2026-10-20T17:50:25.542604+00:00",
+  "subjects": [
+    "Rex",
+    "Sophie",
+    "Terry"
+  ],
+  "source_known": true,
+  "current_published_source": "5e001f0e5c97f994f9bce98707e2566026b74a33",
+  "source_objects": {
+    "EXP-03": {
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+      "native_bytes": 15716486,
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "admission_sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53",
+      "published_register_path": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
+      "published_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6",
+      "published_source": "5e001f0e5c97f994f9bce98707e2566026b74a33"
+    },
+    "CONTEXP-02": {
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "native_bytes": 2412289,
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "admission_sha256": "7f77c217d7a711a0966a74377ddcc1ec9852b75be97fd82a01e68cad4516ccaa",
+      "published_register_path": "series/konosuba/10 Expanded Corpus/Continued Explosions/KONOSUBA_CONTEXP_V02_COMPONENT_REGISTER.json",
+      "published_register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "published_source": "5e001f0e5c97f994f9bce98707e2566026b74a33"
+    }
+  },
+  "actual_receipt_pins": [
+    {
+      "file": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "dec09d2952dd3708369e80e8ee2fd50d7814770400e97d5015f4a17496dcfd57"
+    },
+    {
+      "file": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "b2752aa6db2fea5ac15d4c7cddaca460dabbaa0eaf6c57bff752a75b3a7772ba"
+    },
+    {
+      "file": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "9044f986f8966bbb7cf4e4693b66eb376b8a366614a48b2175854cfa1ffb0af4"
+    },
+    {
+      "file": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "c894cecd555cca2268face674279f82658fe2be98be4577a05843c136059fb65"
+    },
+    {
+      "file": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "07712e5cc2c10c0b43e792c1cb79cc1f937800e46de36bd3422f2c48df63864c"
+    }
+  ],
+  "members": [
+    {
+      "source": "EXP-03",
+      "unit": "EXP-03-U026",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "5cb6df62f026bb773df21ee652bb6b86b9e12e88522ea408ec5d504cf0b69fd1",
+      "total_member_P": 627,
+      "actual_returns": [
+        {
+          "start_P": 1,
+          "end_P": 59,
+          "actual_untruncated_output_chunk": "d4918d",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json"
+        },
+        {
+          "start_P": 111,
+          "end_P": 170,
+          "actual_untruncated_output_chunk": "bc35a7",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json"
+        },
+        {
+          "start_P": 60,
+          "end_P": 110,
+          "actual_untruncated_output_chunk": "c9e50a",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json"
+        },
+        {
+          "start_P": 171,
+          "end_P": 229,
+          "actual_untruncated_output_chunk": "c9e50a",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json"
+        },
+        {
+          "start_P": 390,
+          "end_P": 469,
+          "actual_untruncated_output_chunk": "580106",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json"
+        },
+        {
+          "start_P": 470,
+          "end_P": 539,
+          "actual_untruncated_output_chunk": "59ef83",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json"
+        },
+        {
+          "start_P": 540,
+          "end_P": 627,
+          "actual_untruncated_output_chunk": "adb3fd",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json"
+        },
+        {
+          "start_P": 230,
+          "end_P": 309,
+          "actual_untruncated_output_chunk": "cab479",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        },
+        {
+          "start_P": 310,
+          "end_P": 389,
+          "actual_untruncated_output_chunk": "13e109",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        }
+      ],
+      "unique_BASE_context_slots": 627,
+      "actual_unique_BASE_intervals": [
+        [
+          1,
+          627
+        ]
+      ],
+      "BASE_member_complete": true,
+      "ruby_or_image_completeness_claim": false
+    },
+    {
+      "source": "EXP-03",
+      "unit": "EXP-03-U034",
+      "member": "item/xhtml/p-025.xhtml",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "total_member_P": 561,
+      "actual_returns": [
+        {
+          "start_P": 1,
+          "end_P": 80,
+          "actual_untruncated_output_chunk": "fbdd60",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json"
+        },
+        {
+          "start_P": 81,
+          "end_P": 139,
+          "actual_untruncated_output_chunk": "baec72",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json"
+        },
+        {
+          "start_P": 140,
+          "end_P": 219,
+          "actual_untruncated_output_chunk": "29573c",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        },
+        {
+          "start_P": 220,
+          "end_P": 299,
+          "actual_untruncated_output_chunk": "97929c",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        },
+        {
+          "start_P": 300,
+          "end_P": 379,
+          "actual_untruncated_output_chunk": "a364b1",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        },
+        {
+          "start_P": 380,
+          "end_P": 449,
+          "actual_untruncated_output_chunk": "29d1e7",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        },
+        {
+          "start_P": 450,
+          "end_P": 510,
+          "actual_untruncated_output_chunk": "fa3ccb",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        },
+        {
+          "start_P": 511,
+          "end_P": 561,
+          "actual_untruncated_output_chunk": "d5cbcb",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json"
+        }
+      ],
+      "unique_BASE_context_slots": 561,
+      "actual_unique_BASE_intervals": [
+        [
+          1,
+          561
+        ]
+      ],
+      "BASE_member_complete": true,
+      "ruby_or_image_completeness_claim": false
+    },
+    {
+      "source": "EXP-03",
+      "unit": "EXP-03-U032",
+      "member": "item/xhtml/p-023.xhtml",
+      "member_sha256": "7464b2929ae2aa0c7b79028dd29f76038f1df0bc6b3b0330f14c5649c230fdaf",
+      "total_member_P": 97,
+      "actual_returns": [
+        {
+          "start_P": 1,
+          "end_P": 97,
+          "actual_untruncated_output_chunk": "0aaca5",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        }
+      ],
+      "unique_BASE_context_slots": 97,
+      "actual_unique_BASE_intervals": [
+        [
+          1,
+          97
+        ]
+      ],
+      "BASE_member_complete": true,
+      "ruby_or_image_completeness_claim": false
+    },
+    {
+      "source": "EXP-03",
+      "unit": "EXP-03-U045",
+      "member": "item/xhtml/p-036.xhtml",
+      "member_sha256": "8ff72e2f28ea55435374a3f80975af85e14ddf9d76d5565800d9d5f76a35a3ea",
+      "total_member_P": 104,
+      "actual_returns": [
+        {
+          "start_P": 1,
+          "end_P": 60,
+          "actual_untruncated_output_chunk": "397158",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        },
+        {
+          "start_P": 61,
+          "end_P": 104,
+          "actual_untruncated_output_chunk": "206be0",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        }
+      ],
+      "unique_BASE_context_slots": 104,
+      "actual_unique_BASE_intervals": [
+        [
+          1,
+          104
+        ]
+      ],
+      "BASE_member_complete": true,
+      "ruby_or_image_completeness_claim": false
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "CONTEXP-02-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+      "total_member_P": 509,
+      "actual_returns": [
+        {
+          "start_P": 175,
+          "end_P": 260,
+          "actual_untruncated_output_chunk": "14d4b7",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        }
+      ],
+      "unique_BASE_context_slots": 86,
+      "actual_unique_BASE_intervals": [
+        [
+          175,
+          260
+        ]
+      ],
+      "BASE_member_complete": false,
+      "ruby_or_image_completeness_claim": false
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "CONTEXP-02-U023",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+      "total_member_P": 412,
+      "actual_returns": [
+        {
+          "start_P": 115,
+          "end_P": 195,
+          "actual_untruncated_output_chunk": "9621e6",
+          "receipt": "REX_SOPHIE_TERRY_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json"
+        }
+      ],
+      "unique_BASE_context_slots": 81,
+      "actual_unique_BASE_intervals": [
+        [
+          115,
+          195
+        ]
+      ],
+      "BASE_member_complete": false,
+      "ruby_or_image_completeness_claim": false
+    }
+  ],
+  "actual_unique_known_BASE_context_slots": 1556,
+  "text_member_count": 6,
+  "native_object_count": 2,
+  "scope": "All paragraph slots, including blanks, other actors, hypotheses and reports, in the stated union only. Four EXP03 BASE members complete; two CONTEXP02 members partial. No new whole-source,ruby,residual,image,admission,independent observation or accuracy/confidence credit.",
+  "redundant_actual_BASE_returns": [
+    {
+      "unit": "EXP-03-U026",
+      "windows": [
+        [
+          31,
+          51
+        ],
+        [
+          89,
+          115
+        ],
+        [
+          438,
+          465
+        ],
+        [
+          485,
+          510
+        ]
+      ],
+      "chunk": "b9be4f",
+      "additional_unique_credit": 0
+    },
+    {
+      "unit": "EXP-03-U026",
+      "windows": [
+        [
+          123,
+          143
+        ]
+      ],
+      "chunk": "7fafc5",
+      "additional_unique_credit": 0
+    },
+    {
+      "unit": "EXP-03-U034",
+      "windows": [
+        [
+          403,
+          441
+        ]
+      ],
+      "chunk": "823252",
+      "additional_unique_credit": 0
+    }
+  ],
+  "retrieval_only": {
+    "EXP03_number_search_chunk": "678b6a",
+    "CONTEXP01_02_number_search_chunk": "2ff2f8",
+    "semantic_credit": 0,
+    "absence_limit": "No exact queried names in accepted CONTEXP01 text does not establish no unnamed return or all-source absence."
+  },
+  "identity_joins": {
+    "Rex": "Explicit レックス address EXP03U026P32/38,leader68 and CONTEXP02U013P210/216,U023P144/157.",
+    "Sophie": "Explicit ソフィ name EXP03U026P37/89/453/486 and CONTEXP02U013P210.",
+    "Terry": "Explicit テリー address EXP03U026P38/451/486/491/493/496 and CONTEXP02U013P210.",
+    "later_adjacent_crew": "CONTEXP02U023P146 woman/axeman consistent with prior named crew and explicit Rex continuity; qualified adjacency join,not fresh individual names."
+  },
+  "chronology_limits": [
+    "EXP03U026firstdefeat/retreat is returning-adventurer report,not a witnessed frontal battle by Rex crew.",
+    "Crew injury accounts differ by observer/time; right-arm fracture and barely-fightable healing do not become full recovery.",
+    "Post-victory apology is Rex’s later report CONTEXP02U013P224,not a newly watched earlier apology.",
+    "Capital preparation and departure observed EXP03U045; later capital presence confirms return,not every claimed gain or earlier plan completion."
+  ],
+  "ownership": "Continuing informed root AI reader/model author/case designer/output author/assessor. No independent or native-human claim.",
+  "full_program_complete": false
+}

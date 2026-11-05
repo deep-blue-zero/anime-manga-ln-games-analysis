@@ -1,0 +1,265 @@
+{
+  "schema": "konosuba.cohort34.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T12:42:13.302216+00:00",
+  "gate_scope": "Author publication tranche: ordinary continuing-source push, ready PR and full passing exact-source audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+  "tree": "ac9e6cc19cb9f85d7bf822a8a3fc640abfa4e1fa",
+  "source_parent": "48d5b27916773293b054a0bbd04b8a65d347b458",
+  "previous_published_source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+  "publication_main": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "main_observed_at_close": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT34_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "af70a9ae0293fdd1bee7aa6388c55eadd3481224055b422d52ad56b9fad01883",
+    "paths": 9753,
+    "project_paths": 1416
+  },
+  "remote_readback": {
+    "file": "COHORT34_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "49ea8596cf403497c83881f1c9a54fe44f1e33900c252eca05a50f1267b33ee1",
+    "all9753_files_and39_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C34_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "1d037814006ca459623bc5098ae4d66db02f79c57ca0778dcca2262711f96d8c",
+    "run": 40094359692,
+    "job": 120873399845,
+    "reporter_job": 120874654620,
+    "actual_source": "dd66c466d1b14accf73646e3b52e8418dc8e349b",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/dd66c466d1b14accf73646e3b52e8418dc8e349b",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57163316343,
+      "node_id": "SC_kwDOUJ9ads8AAAANTzL8dw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40094359692",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T12:38:51Z",
+      "updated_at": "2026-10-24T12:38:51Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT34_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 353534,
+    "sha256": "746cf63207fbecb271db808851270e752234192564cf84f3ea1269821ac4540f"
+  },
+  "current55_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort34.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T11:45:56.103360+00:00",
+    "starting_authority_sha256": "09a44fb62e1c6e93082dd2ad56f4ceb4cb4b3c800311a40f09e9f5ee34c18c6b",
+    "context_receiving_sha256": "9cff9332eeac9f30d1a879dc1b7ab0db8fae3f4f6e9630fda0e9a1fb16ff2243",
+    "native_receiving_sha256": "922303c6e4eba8d89f222bf272ce74ba1b14ad19e27a73ac4f078fc0122c3048",
+    "additional_known_coda_image_receiving_sha256": "7e47407992b353de91b6c35ed2f353fc4877af1f64abb4d3545fc3d0e0a3b616",
+    "native_notes_sha256": "1afebae7dc1fe62693b36137eb67eb97bc0ab69a2ba369d9335b236be18d4c0c",
+    "subjects": [
+      {
+        "row": 67,
+        "character": "Lucy / ルーシー",
+        "tier": 3,
+        "monograph": true,
+        "provisional_rules": 2,
+        "reason": "Explicit believed unfinished benefactor obligation, credibility query and actual release state change, reciprocal faith doctrine and enacted retaliatory farewell support two unequal provisional causal hypotheses; generic gratitude, religious duty and comedy rivals remain."
+      },
+      {
+        "row": 69,
+        "character": "安楽王女 (MAIN11 individual forest entity)",
+        "tier": 3,
+        "monograph": true,
+        "provisional_rules": 2,
+        "reason": "Observable public/private/precise-truth contrasts and sequentially revised survival offers permit two bounded conditional models. Retaliation under poisoning is retained as a countercondition, not padded into a third stable rule."
+      },
+      {
+        "row": 66,
+        "character": "ビフランツ伯",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Mediated courtly approach, familiar status and engagement query against repeated refusal support a narrow individual interaction profile; prior receipt, private motive and recurrence are insufficient for a monograph/model."
+      },
+      {
+        "row": 68,
+        "character": "Regina / レジーナ",
+        "tier": 1,
+        "compact_profile": true,
+        "reason": "Distinct named deity and cross-source attributed histories/domains/mechanics justify a reported-reference profile; own direct psychology/voice and precise follower chronology remain unidentifiable in current evidence."
+      }
+    ],
+    "route_only_rows": [
+      76
+    ],
+    "route_only_qualifications": [
+      "MAIN13 garden plant remains a separate pending subject; add forest identity route only, with no core-tier promotion."
+    ],
+    "new_records": 9,
+    "new_Tier0_records": 9,
+    "proposed_new_row_indices": [
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328
+    ],
+    "planned_changed_entering_rows": [
+      54,
+      55,
+      66,
+      67,
+      68,
+      69,
+      76
+    ],
+    "planned_other_entering_rows_exact_per_plane": 313,
+    "planned_totals": {
+      "models": 55,
+      "scoped_secondary_model_subjects": 49,
+      "bounded_profiles": 80,
+      "monograph_only_subjects": 27,
+      "nonfinal_records": 329
+    },
+    "new_models": 2,
+    "new_monographs": 2,
+    "new_monograph_only": 0,
+    "new_compact_profiles": 2,
+    "new_provisional_rules": 4,
+    "planned_original_firsts": 10,
+    "planned_dependent_pairs": 5,
+    "diagnostic_allocation": {
+      "Lucy": {
+        "rules": 2,
+        "pairs": 2,
+        "firsts": 4
+      },
+      "forest_Tranquility_Princess": {
+        "rules": 2,
+        "pairs": 3,
+        "firsts": 6
+      }
+    },
+    "classification_basis": "Source-supported choices, information, conditional agency and identifiable rivals; no appearance, word, document, rule quota or permanent secondary-character ceiling.",
+    "source_known": true,
+    "same_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "exact_new_models_or_inputs_or_firsts_serialized": true,
+    "canonical_changed": false,
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "new_whole_source_or_independent_credit": 0,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false,
+    "prior_scope_assessment_file": "COHORT34_SCOPE_ASSESSMENT_DRAFT_01.json",
+    "prior_scope_assessment_sha256": "91fe976e25c7d5d03527d0289269c1f978a04d0967a55ab669d299eb81eace4e",
+    "precision": "Synchronize the two old aggregate parents current likely_tier/priority/disposition fields to their existing published children, retaining exact prior fields. A route alone would leave misleading active discovery labels. No child tier, profile, support or count changes. Garden76 remains route-only.",
+    "aggregate_current_field_synchronization_rows": [
+      54,
+      55
+    ],
+    "aggregate_fields_to_preserve_before_replacement": [
+      "likely_tier",
+      "priority",
+      "disposition_status"
+    ],
+    "aggregate_qualifications": [
+      "Six EXP03 child records157–162 and their published cohort09 profiles/gate remain byte/field exact. Retain both old aggregate parent fields in named history; current parent labels become historical aggregates with published individual pointers. No new EXP03 reading or duplicate profile/model credit."
+    ],
+    "exact_inputs_or_firsts_serialized": false,
+    "new_model_drafts_serialized": 2,
+    "new_monograph_drafts_serialized": 2
+  },
+  "scope_qualification": "Preserved pre-input scope assessment flags remain dated facts. Current production separately records ten genuine original firsts and later annotations.",
+  "actual_received_artifact_scope": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 80,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 329,
+    "new_models": 2,
+    "new_monographs": 2,
+    "new_compact_profiles": 2,
+    "new_Tier0_dispositions": 9,
+    "new_records": 9,
+    "new_Tier0_records": 9,
+    "new_rules": 4,
+    "new_original_firsts": 10,
+    "new_dependent_pairs": 5
+  },
+  "current_totals": {
+    "models": 55,
+    "scoped_secondary_model_subjects": 49,
+    "bounded_profiles": 80,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 329
+  },
+  "source_known_same_root_diagnostics": true,
+  "actual_original_firsts": 10,
+  "actual_dependent_pairs": 5,
+  "original_defects_preserved": [
+    "Lucy archive current-role underbinding and added registration imagery",
+    "Princess initial sorrow mask",
+    "Princess finitude implication",
+    "Princess past conversation not supplied in H02",
+    "Princess afternoon",
+    "Princess map-position transition; possible cross-case cause unproved"
+  ],
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

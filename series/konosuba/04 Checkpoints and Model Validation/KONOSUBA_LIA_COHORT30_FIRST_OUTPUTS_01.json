@@ -1,0 +1,102 @@
+{
+  "schema": "konosuba.cohort30.actual-original-first-outputs.v1",
+  "subject": "Lia",
+  "recorded_utc": "2026-10-24T05:24:45.244163+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "exact_input_freeze_sha256": "8eea093ea2e54917c2d33f9ee273aba7f66b7611be9c9c2cdaaa13fc3c00e0d7",
+  "scenario_inputs_sha256": "c5eb45ec0f85772fcc1327f31ea31c941e18618835b1464641d8e398e19de64c",
+  "original_body_freeze_sha256": "ca402376d1cb9db19faa7a8e5d77980ad53d660b290965ae65053920b8758464",
+  "responses": [
+    {
+      "case_id": "LI-H01-A",
+      "exact_prompt_sha256": "709bff5e893012801fa49dd5bc7339f747a3ece6666bcdb18f384857906b3925",
+      "response_text": "The rehearsal matters to her, but the unattended gate fixes her attention on what her delay might have caused. Thirty minutes feels like a cost she should absorb herself. She does not establish that the whole repair problem is actually her fault.\n\n\"I want to keep singing. But I cannot leave that entrance unwatched. Cielo, Erika, continue without me for a little while. I will take this part.\"\n\nLia leaves her rehearsal position and walks toward the gate, already treating the interruption as hers to bear. She has announced a plan rather than obtained her partners' agreement. The watch and its eventual result have not yet occurred.\n",
+      "raw_body_sha256": "13a63cc1c2569a5d30e72c12ab9815d042da129d2c68ec55fd0a3f931b8d46c9",
+      "original_receipt_sha256": "3e1577269b22e897ecded29e006ce0020d8570079788a2b82191f79940a2d91f",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H01-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "a8171e",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H01-B",
+      "exact_prompt_sha256": "2759c7f1dc65190274b9bbeae0c941905dd820dc7b55aab3188f5cb10cdfc304",
+      "response_text": "Lia starts to offer herself anyway. The earlier delay still bothers her, but another capable person is already here for the actual task. Taking over would not make the gate safer on the facts she has; it would only displace the rehearsal she wants.\n\n\"Thank you. I was about to say I should do it myself. If you are taking this watch, I would like to go back and sing with the others. Please call if something changes.\"\n\nShe turns back toward the rehearsal, hesitating for a moment rather than declaring her worry cured. She does not invent a new emergency or make the attendant responsible for an unstated additional job.\n",
+      "raw_body_sha256": "191c7583ed99f489e1e0bc59fcec6cca76640f2ff21de85a76ef4a567b4e7c04",
+      "original_receipt_sha256": "9499aa1bc0b197b601d04d2b86c7d737f5034f96a0a14c097d4073e59efea42f",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H01-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "a8171e",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H02-A",
+      "exact_prompt_sha256": "cbf752111840e1517adcc4761f411455be54846174961e2fc9a4a0c1f7576042",
+      "response_text": "The names matter before the modest pay does. Lia wants the song, but being invited by these two also makes the rehearsal a particular place she wants to occupy. She feels relief without assuming that a whole relationship has already been repaired.\n\n\"Cielo, Erika... yes. I would like to sing with you today. I have been turning that simple wish into something I must justify. Let me start with this rehearsal.\"\n\nShe moves toward the place where the three can rehearse, looking at her partners rather than an imagined audience. She has accepted the offered afternoon; she does not supply their next words or pronounce a permanent reunion complete.\n",
+      "raw_body_sha256": "e185d7c326064506d48833358d3ced8a99d116c615ae4244329e014de0fe6a7b",
+      "original_receipt_sha256": "7036bc73e7153e9d603a993360b40e17cf8cc71b5c522deef6548ea00c2a9370",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H02-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "fa96f3",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H02-B",
+      "exact_prompt_sha256": "7e9576587f91e26a57a7fb0c862c60344331ea483689eb3f4368a3ce2c467eec",
+      "response_text": "The chance to sing attracts Lia, although the offer does not carry the shared place she associates with Cielo and Erika. Comparable skill and pay tell her little about these unfamiliar people. She need not reject them simply because they are strangers.\n\n\"I would like to sing. One rehearsal today, then. Before we begin, what would you like us to practice together? I do not know how the two of you work yet.\"\n\nShe approaches far enough to take part in the conversation, then waits for the requested information. Her interest is real, but she does not call them Axel Hearts, invent a shared past or accept an unstated continuing membership.\n",
+      "raw_body_sha256": "ff505e0a63fa244f45ec877daf6150bf68ff85d03ab7bb5ce2f52b4ac032e94e",
+      "original_receipt_sha256": "ebe9c6da128fa2410432bb4dc12f2bfe6960058abb68af29ae47c68863d6bcf5",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H02-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "fa96f3",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H03-A",
+      "exact_prompt_sha256": "c283ad52a4c2fd52904813b4dcbd829762c09f9da30d048ce7171a3307ea68a1",
+      "response_text": "The name makes Lia's attention narrow immediately. Her first impulse is to reach the doorway, although the unsigned demand proves nothing and there is still daylight. Remembering that this attachment has been exploited gives her a reason to interrupt the rush, without making the concern disappear.\n\n\"Konjiro... wait. I have not even looked here yet. I am not leaving him because someone tells me to come alone. First, I need to know whether he is missing.\"\n\nShe turns toward the room and begins checking the places within reach before setting out. The search has not found anything yet; she neither supplies a captor nor makes the plush speak.\n",
+      "raw_body_sha256": "e18910a8578330e9a1e224b36e4dc3f70dc3f8df43a110886e6ff37f3d4156ec",
+      "original_receipt_sha256": "5bafacde8830095fadec1c14d8cab39cee7c8f61860c37123318e48d0b390db5",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H03-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "0ed838",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H03-B",
+      "exact_prompt_sha256": "ce221e2d6c1d4ba102c6031c1805f4075853016a3ea870c4d8e65afb507eed6c",
+      "response_text": "Lia looks from the note to the familiar plush beside her. The demand still angers her, but its central claim conflicts with what she can presently see. She need not invent another Konjiro, a secret replacement or a voice to preserve the threat.\n\n\"He is here. Whoever wrote this is using his name to get me alone. Konjiro is not bait for your games. I am not going to that doorway on this claim.\"\n\nShe picks up the plush and sets the note aside to examine rather than obey it. Her response protects a particular attachment; it does not establish who sent the note or that no unrelated danger exists.\n",
+      "raw_body_sha256": "57fc9d61cb0e07804834b61c2d6cf5861c14ca3bfa82ca6119bf2c4a8e25d3f6",
+      "original_receipt_sha256": "0acbdcd8431c7b7ebf577a2de06b7495501ab93d31120b55d22520bfe3a28ebb",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H03-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "0ed838",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H04-A",
+      "exact_prompt_sha256": "12606f236019d64f4b9caf8452427f2803ae017d27869886401906821de239b3",
+      "response_text": "This is a procedure Lia has actually practiced in the hypothetical, rather than a chance to demonstrate an unexplained gift. The familiar sequence gives her a first action, but not evidence that the mechanism has already worked.\n\n\"I know this gate. First the lever, then the latch and marked pin. Keep the props back until I have checked it; knowing the procedure is not the same as having secured it.\"\n\nShe places her hand on the lever and begins the stipulated downward movement. The account stops before the latch catches or the pin is inspected. No magical barrier, successful repair or other person's compliance is supplied.\n",
+      "raw_body_sha256": "4267d46e63e683aafb956fe27a3a07d3cb86dcae8d575e2c569852f769e38916",
+      "original_receipt_sha256": "b7bb1871b7ae1954d2c494928e023c39fa64d987cae5e691f279fd3ef8ba622f",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H04-A_01.txt",
+      "actual_complete_delivery_tool_chunk": "a4e19b",
+      "original_serialization_number": 1
+    },
+    {
+      "case_id": "LI-H04-B",
+      "exact_prompt_sha256": "c7c6bb1661daafcce0c7fc4d8d6488e13a4a8c5170403fbadd045a1e2e07230b",
+      "response_text": "Lia cannot answer the mechanism with confidence she has not earned. A gate on a stage is still an unfamiliar device, and no current danger requires an immediate blind movement. The instruction card is a source she can consult before acting.\n\n\"I have not used this one. I would rather check the procedure than move the wrong lever and make more work for everyone. Leave the props where they are for a moment; let me look at the instructions.\"\n\nShe keeps her hand off the lever and opens the card. Its contents and anyone else's response remain unprovided. She has sought information, not demonstrated mastery or completed the task.\n",
+      "raw_body_sha256": "faa50745bf9d54ed5f54b2972f0e5825b73a419f68a0f723758ca3554739060e",
+      "original_receipt_sha256": "98b6ed957b4b2bde5c8863bc96569ed609570bdd4b537b9faad3b362b4a8d04a",
+      "original_body_file": "COHORT30_FIRST_BODY_LI-H04-B_01.txt",
+      "actual_complete_delivery_tool_chunk": "a4e19b",
+      "original_serialization_number": 1
+    }
+  ],
+  "actual_original_firsts": 8,
+  "dependent_pairs": 4,
+  "same_informed_root_author": true,
+  "all_contrasts_visible": true,
+  "source_known": true,
+  "external_model_calls": 0,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "source_or_independent_validation_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

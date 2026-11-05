@@ -1,0 +1,519 @@
+{
+  "schema": "KONOSUBA_CECILY_ZESTA_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T10:07:08.593403+00:00",
+  "entering_published_source": "432b8fd18d0d4ad0047defc8d8a614ecfb2770f4",
+  "private_receiving11_sha256": "287cf3e60b4d6c786501c8a2ef573df9ed1ee1364f98e9816beadcdaedc04f33",
+  "shared_known_BASE_context_slots": 3702,
+  "known_text_members": 15,
+  "native_objects": 7,
+  "actual_original_resolution_image_prose_pages": 20,
+  "current_windows": [
+    {
+      "source": "MAIN-16",
+      "unit": "U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9b52838e6052c13d4e5b04af9e45b1a454b7e6268e86a5372eb4bc6338d52c9a",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          47
+        ]
+      ],
+      "within_member_context_slots": 47
+    },
+    {
+      "source": "MAIN-16",
+      "unit": "U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "03da2957104d1de41be93db36f0842b2cb5ffe9ada50c0684a731727706aa0d8",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          46
+        ]
+      ],
+      "within_member_context_slots": 46
+    },
+    {
+      "source": "MAIN-16",
+      "unit": "U017",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "007af3c04dc55d9d130e5a86017580caae7840926483d39f58121b5f3ad67c80",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          41
+        ]
+      ],
+      "within_member_context_slots": 41
+    },
+    {
+      "source": "MAIN-04",
+      "unit": "U025",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "f86298103f93103711c50ff08be9648ab723588fa168fecdd39c3f62747e5b46",
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "register_sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          94
+        ]
+      ],
+      "within_member_context_slots": 94
+    },
+    {
+      "source": "MAIN-16",
+      "unit": "U016",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "352391e223c1fcf189eea740f0fcbecee08b961f27aa320afa79c18b4d4cbe26",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          492
+        ]
+      ],
+      "within_member_context_slots": 492
+    },
+    {
+      "source": "MAIN-16",
+      "unit": "U018",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "e5c2f1995c931789bbc5c8921779ae24fc0f2cf44c7691a92511a7d16eabbb23",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          90
+        ],
+        [
+          290,
+          340
+        ]
+      ],
+      "within_member_context_slots": 141
+    },
+    {
+      "source": "EXP-02",
+      "unit": "U038",
+      "member": "item/xhtml/p-029.xhtml",
+      "member_sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          534
+        ]
+      ],
+      "within_member_context_slots": 534
+    },
+    {
+      "source": "CONTEXP-01",
+      "unit": "U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "fddde7e2b79954035eb31215c302cf1e38c851ef5156117f530fc308557d7984",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "register_sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120",
+      "actual_complete_BASE_windows": [
+        [
+          96,
+          497
+        ]
+      ],
+      "within_member_context_slots": 402
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "U016",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          485
+        ]
+      ],
+      "within_member_context_slots": 485
+    },
+    {
+      "source": "CONTEXP-02",
+      "unit": "U018",
+      "member": "OEBPS/Text/part0016.xhtml",
+      "member_sha256": "224a107ccf68f82ce7ed516f39058ae40ff2c353fb15f5d63e41bc9b253693ad",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          470
+        ]
+      ],
+      "within_member_context_slots": 470
+    },
+    {
+      "source": "DUST-04",
+      "unit": "U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "7750438d70c7202687c9493860d87c3ce02c55582dc69deb4c998dfdd546c1a8",
+      "native_sha256": "db62634fde71d33a45d2bb4832611825ff6853efdd7cac1bc4d0fc99b47f2c23",
+      "register_sha256": "9e28960e0a4e145affde1fa834936c1ad0bf75257eb9f81b66849b41b2ea88b2",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          480
+        ]
+      ],
+      "within_member_context_slots": 480
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U013",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "actual_complete_BASE_windows": [
+        [
+          130,
+          230
+        ]
+      ],
+      "within_member_context_slots": 101
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U014",
+      "member": "text/part0012.html",
+      "member_sha256": "85f37b44972ef42c48be09c971b6a7534911e8f3820e33e0544a642b7312166c",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "actual_complete_BASE_windows": [
+        [
+          370,
+          560
+        ]
+      ],
+      "within_member_context_slots": 191
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U016",
+      "member": "text/part0014.html",
+      "member_sha256": "8e0471cea86790dfc08d99c05442c28065dee47a452c4d46e3e12cbf2dc0e0f6",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          65
+        ],
+        [
+          500,
+          559
+        ]
+      ],
+      "within_member_context_slots": 125
+    },
+    {
+      "source": "MAIN-08",
+      "unit": "U018",
+      "member": "text/part0016.html",
+      "member_sha256": "940db90d25bff7aade065e706e76455022e066a65ae841ce87c4d4e0af8d257e",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "register_sha256": "ee2a658a50019d041a54769ee53b3353f88bdc4bf1632f2203a18564fd7a5b8c",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          53
+        ]
+      ],
+      "within_member_context_slots": 53
+    }
+  ],
+  "actual_image_rechecks": [
+    {
+      "source": "EXP-02",
+      "narrative_component": "EXP02-INTERLUDE-I/序幕",
+      "native_units": [
+        "U018",
+        "U019",
+        "U020",
+        "U021"
+      ],
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_full_original_resolution_images_received": [
+        {
+          "image_id": "EXP-02-IMG023",
+          "native_member": "item/image/img-txt001.jpg",
+          "sha256": "a17fad5e40259a451e30aed650a81da0b983f27743adb1ff40ecddb4e44ffe2a",
+          "bytes": 285631
+        },
+        {
+          "image_id": "EXP-02-IMG024",
+          "native_member": "item/image/img-txt002.jpg",
+          "sha256": "6eaa5ab1ccf64779d9da5a4d10f11615d9294b4add803e0a7ab700eb470e7219",
+          "bytes": 332697
+        },
+        {
+          "image_id": "EXP-02-IMG025",
+          "native_member": "item/image/img-txt003.jpg",
+          "sha256": "0203b842b343c4649b6809b3827a6db932616891f3768fd78bfc63be51da399d",
+          "bytes": 330324
+        },
+        {
+          "image_id": "EXP-02-IMG026",
+          "native_member": "item/image/img-txt004.jpg",
+          "sha256": "6cbb5c8526a8e0922b746e23f8da31439b545c4c3180987c159ee5b06faa86ee",
+          "bytes": 255696
+        }
+      ],
+      "scope": "All four native image-prose pages actually viewed and read as printed; not paragraph/ruby/audio/native-human-generation or new unique-global image credit. Earlier original acknowledgments remain preserved.",
+      "source_first_findings_non_graphic": [
+        "Cecily independently narrates herself and mistakes a healer-recruitment approach for potential personal provision; magic-sword ownership becomes her wealth inference.",
+        "Own powder and limited food purchases, salary versus church-meal arrangements and hunger are reported in first person; no external account ledger or exact private wealth proved.",
+        "Boy repeatedly requests release; Cecily continues unwanted restraint. Reduced resistance is her interested interpretation, not assent; no lifetime/provider contract is formed.",
+        "Reported Crimson divination concerns an encountered Axis priest; boy corrects that this need not mean Cecily. No prophecy fulfillment or divine endorsement of the pursuit is established.",
+        "Final page Cecily intensifies refusal to let him go, misreads god-sent provision, then boy actually frees himself and flees; she actually pursues. This is a refused-agency case, described non-graphically.",
+        "First-person candor reveals own wishes but does not make every appraisal reliable. The boy is not named in these four pages; later identity joins need their own admitted source."
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "narrative_component": "EXP02-INTERLUDE-II/弐幕",
+      "native_units": [
+        "U024",
+        "U025",
+        "U026",
+        "U027"
+      ],
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_full_original_resolution_images_received": [
+        {
+          "image_id": "EXP-02-IMG027",
+          "native_member": "item/image/img-txt005.jpg",
+          "sha256": "3cb93ad7330c2fc82451bbb251d412c9e5c8a58ab64dc69c6a21e6ec5ba204f5",
+          "bytes": 288114
+        },
+        {
+          "image_id": "EXP-02-IMG028",
+          "native_member": "item/image/img-txt006.jpg",
+          "sha256": "8460a8bf0b9b14fdb680cb5d3b59b6cd2d39348097f362822b063ee58b0b50e7",
+          "bytes": 326621
+        },
+        {
+          "image_id": "EXP-02-IMG029",
+          "native_member": "item/image/img-txt007.jpg",
+          "sha256": "e79a4ab3e5d33a1e90383c7b56ee96326cd8a33ef16a4c5bf2e87669c9950660",
+          "bytes": 350732
+        },
+        {
+          "image_id": "EXP-02-IMG030",
+          "native_member": "item/image/img-txt008.jpg",
+          "sha256": "42cf2dda9cd0ae6e34ad20ac80abe3beb448da775aefe6f0d1718afff3d8c1f9",
+          "bytes": 325596
+        }
+      ],
+      "scope": "Complete four native image-prose pages actually viewed/read at printed visual scope. No new unique-global image,BASEparagraph,ruby/audio/native-human-generation or independent credit.",
+      "source_first_findings_non_graphic": [
+        "Cecily reports repeatedly relying on boy meals and pleading before he leaves a note. The note states a goddess-power/world-saving quest, not independently performed quest or continuing provider contract.",
+        "She considers placing a collection box near a school but questions its personal moral cost; this is considered, not performed. Another income route is rejected for Axis public-image cost, not a proved universal restraint.",
+        "Eris men report prior harassment reducing young congregants; that demographic claim remains their account. Cecily denies responsibility and invokes doctrine about enjoying the present, not an analyst-endorsed moral law.",
+        "Own first-person narration explicitly describes feigning hurt after criticism, following which the men apologize. Her displayed victim framing and actual inner plan diverge.",
+        "She actually takes a bread bag the men say they jointly purchased for poor distribution and runs. Self-described affective poverty is not ownership or consent; men reject her offer to take only bread and demand its return.",
+        "Aqua closing prayer is her own address. No divine endorsement of taking bread, universal religion judgment, private-wealth total or completed restitution is proved."
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "narrative_component": "EXP02-INTERLUDE-III/参幕",
+      "native_units": [
+        "U033",
+        "U034",
+        "U035",
+        "U036"
+      ],
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_full_original_resolution_images_received": [
+        {
+          "image_id": "EXP-02-IMG031",
+          "native_member": "item/image/img-txt009.jpg",
+          "sha256": "0f7fe1413ee07748d47cabb7124fb7a1acdb7207b528a193731559d5d9f6d96f",
+          "bytes": 291811
+        },
+        {
+          "image_id": "EXP-02-IMG032",
+          "native_member": "item/image/img-txt010.jpg",
+          "sha256": "4ffe570138efdbc580ce4dc9dfa670edea6d1e91007a7e49dceeff0c170fde8e",
+          "bytes": 297144
+        },
+        {
+          "image_id": "EXP-02-IMG033",
+          "native_member": "item/image/img-txt011.jpg",
+          "sha256": "a2716bc9d4fff97f271e65ad0ddb3e99f26a445375deb4e2c9cfa8c37274abb1",
+          "bytes": 288887
+        },
+        {
+          "image_id": "EXP-02-IMG034",
+          "native_member": "item/image/img-txt012.jpg",
+          "sha256": "f77eb4cc3ef51b674abe733997427f9e33e658ffd233ff9e2e48522675719ee3",
+          "bytes": 229582
+        }
+      ],
+      "scope": "Complete four image-prose pages actually read; same rescue episode supplies new Cecily private plane, not another independent rescue trial or new global source credit.",
+      "source_first_findings_non_graphic": [
+        "Cecily privately admits boredom-driven Eris-portrait vandalism before Megumin initially rescues her. This defeats an innocent-victim reading of her later public frame.",
+        "She values being believed and the rescuer company, but anticipates public/legal consequences of her own desired unwanted handling; this is consequence awareness, not a universal ethical veto.",
+        "Men actual complaints about vandalism and bread are not dissolved by her claim to qualify for poor distribution through lack of love. A retaliatory letterbox-slime thought is a plan, not an executed act.",
+        "She recognizes a familiar patrolling officer through local experience and actually appeals to him with tears, falsely alleging the pursuing men threatened a passing girl. Officer expresses doubt about Eris adherents; no completed punishment or automatically successful accusation shown here.",
+        "First-person candor about own misconduct coexists with deliberate public victim framing. Protagonist/girl does not automatically share this private knowledge; no extra event from the narrative return."
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "narrative_component": "EXP02-INTERLUDE-IV/肆幕",
+      "native_units": [
+        "U039",
+        "U040",
+        "U041",
+        "U042"
+      ],
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_full_original_resolution_images_received": [
+        {
+          "image_id": "EXP-02-IMG035",
+          "native_member": "item/image/img-txt013.jpg",
+          "sha256": "71c8a57d81c7f645c1422334a953f4776558b8e164938fbc856f61a71fa8867f",
+          "bytes": 301478
+        },
+        {
+          "image_id": "EXP-02-IMG036",
+          "native_member": "item/image/img-txt014.jpg",
+          "sha256": "5f193b1c89690e003ce2f0834f500ec231d9dc2c3028a276ff13f94692dd9c28",
+          "bytes": 303416
+        },
+        {
+          "image_id": "EXP-02-IMG037",
+          "native_member": "item/image/img-txt015.jpg",
+          "sha256": "9c10c2afa0ecc0715abe969bafa4dc32dd6349be02972c4bf2e88144b1d80446",
+          "bytes": 316627
+        },
+        {
+          "image_id": "EXP-02-IMG038",
+          "native_member": "item/image/img-txt016.jpg",
+          "sha256": "8c7f1b0ef4029b67392c7a1d7e61b552fead57ba8d1401a31ffa732fb2e69952",
+          "bytes": 279695
+        }
+      ],
+      "scope": "Four complete native image-prose pages actually read. Causal backfill to contamination/investigation episode, not a new later spill or independent trial. Non-graphic agency account.",
+      "source_first_findings_non_graphic": [
+        "Cecily actually washes dishes while anticipating personal bath/company. Zesta reminds her that source cleaning is her assigned duty; competing work and wanted leisure are concrete, not global incapacity.",
+        "Her detergent threat is spoken, not actually applied. Zesta proposed intrusive access/reporting and Cecily discomfort retain their distinct actors and unperformed stages.",
+        "She brings out a hidden food-powder bag as an inducement and negotiates relief from duty; Zesta agrees to clean while counter-demanding a private report about Megumin. Subject permission is not supplied by their bargain.",
+        "Zesta explicitly says he has not done source cleaning and asks where bicarbonate is. Cecily leaves amid his question whether the bag is right, without a shown received answer. No actual pour, completed cleaning, verified chosen bag or deliberate sabotage is shown in these pages.",
+        "Combined with later outflow the mix-up route is strong retrospective inference, not a witnessed pour. Zesta ignorance/distraction cannot be replaced by an invented observed action.",
+        "Cecily interprets his later tile-counting as a shared interest and supplies her own all-day absorption account; do not certify completed competent cleaning or her knowledge of the accident from that ending. Divine reward/piety claims are her interpretation."
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "narrative_component": "EXP02-INTERLUDE-FINAL/終幕",
+      "native_units": [
+        "U045",
+        "U046",
+        "U047",
+        "U048"
+      ],
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8",
+      "actual_full_original_resolution_images_received": [
+        {
+          "image_id": "EXP-02-IMG039",
+          "native_member": "item/image/img-txt017.jpg",
+          "sha256": "1b5397c85def12b36e5233d7caaef3e9df48106b3b8f69b69c2f418985d8bc69",
+          "bytes": 267254
+        },
+        {
+          "image_id": "EXP-02-IMG040",
+          "native_member": "item/image/img-txt018.jpg",
+          "sha256": "8bd7f524839b76c33be56c82e158d5a299e9b328e43ac3a99270d44e0170a1c0",
+          "bytes": 279413
+        },
+        {
+          "image_id": "EXP-02-IMG041",
+          "native_member": "item/image/img-txt019.jpg",
+          "sha256": "50d4f4bf22cda9f6f92ed7fca05e92ea3ef8fe408c5987364ffea897c88223b4",
+          "bytes": 302778
+        },
+        {
+          "image_id": "EXP-02-IMG042",
+          "native_member": "item/image/img-txt020.jpg",
+          "sha256": "d27dac7b23e661c0c4bd3a626448554efae15b82615c29d3f33a70749bb68a81",
+          "bytes": 201222
+        }
+      ],
+      "scope": "All four native image-prose pages actually read; completes all five own focalizer interludes/20image pages at current printed scope. Known-source recheck only, zero new unique-global image/BASE/ruby/audio/independent credit.",
+      "source_first_findings_non_graphic": [
+        "Cecily finds her hidden powder missing after Megumin leaves and confidently blames Arnes. This is an unproved accusation against the reader-known probable mix-up route, not a witnessed theft.",
+        "Her return to former routine still brings loneliness/regret over not following Megumin. Own company and pleasure motives are distinct from solely institutional function.",
+        "Zesta claims receiving Aqua message asking to borrow money. Followers initially suspect foolishness and Cecily objects to using Aqua for a joke; then they specifically trust his devotion on this subject, not every assertion he makes.",
+        "Quoted message is his received-report claim; no independent Aqua viewpoint, verified amount, transferred loan, arrived emissary or proof of actual impending danger in this component.",
+        "He proposes sending someone to inspect Axel; Cecily immediately volunteers as he looks for someone. Easy-life doctrine, pleasure, reported sacred request and the known destination of wanted company all bear on her choice, with causal weights unresolved.",
+        "No divine endorsement of earlier harm or automatic causal proof linking an earlier prayer to later aura is inferred. The five interludes contain different true disclosures, errors, contemplated acts and false public claims; first-person access is not uniform reliability."
+      ]
+    }
+  ],
+  "precision": [
+    "Aqua mislocation/exalted follower reading is her own. Cecily own drinking/bar-ban account remains report; her actual suggested-driver advice and identity-warning differ.",
+    "U015 actual route/delay excuses and risky crab attraction context; Aqua performs FalseFire before Cecily warning finishes.",
+    "U017 actual crab party precedes Cecily explicit delay confessionP33; not every earlier excuse independently certified a lie.",
+    "U017P38 finite level/escort boundary; whisperP39 content unheard; BlessingP40-41 actually cast. Rescue actors own contributions, blanket scene praise not all Cecily.",
+    "MAIN16U016 complete1-492 now received, including unnamed returning church guide76-122 (not Cecily without identity proof), Zesta road impact168 and Heal172, religious anger toward Serena, dangerous group coercion, direct threats, actual buffs/physical contest/driving. Attribute group rope actions to shown adherents; threats are not completed assaults. Afterlife/Japan claims remain beliefs and reports.",
+    "EXP02U038 complete1-534 now received. Previous truncated attempts271-360 and361-450 received zero credit until smaller fully visible271-315/316-360/361-405/406-450;451-495/496-534 also complete. No truncated-output inference.",
+    "TrueDetector is Zesta retrospective account of official exoneration, not reproduced full interrogation. Foreign-collusion charge withdrawn with official apology does not prove no accidental spill or no other misconduct. Cecily always-believed story contradicts own earlier campaign/celebration.",
+    "EXP02U038271-373: Zesta actual Reflect against Arnes fireball323-326; actual sacred attack349-355 misses her and strikes street. Highest-level status362 is self-appraisal, not measured rank survey. Cecily actually flanks343. Both misattribute contamination to Arnes despite her denial366-369 and pursue373; demon identity does not prove this charge.",
+    "EXP02U038398: Zesta reports intentionally letting lethal magic graze Arnes to enjoy her crying; she escaped, no captured/killed result. Cecily continuing search is his report402. Real defensive competence coexists unjust accusation and reported cruelty.",
+    "EXP02U038403-407: actual coach-fare bag given to Megumin as thanks for recruitment technique; prospective refinement not independently completed citywide result. Zesta joins teasing Yunyun426; Lightning432 is Megumin report of same evening, not newly watched casting.",
+    "EXP02U038440-478: Cecily actual unwanted proximity and Megumin objections/distance; retain non-graphic. She reports bath construction and authorizes enlargement; Megumin chooses own Explosion, not Cecily casting. Larger bath is later Zesta appraisal487. Cecily twice refuses mixed bathing488/490; specific boundary does not erase her earlier conduct.",
+    "EXP02U038498-507: Zesta actually Blesses Megumin, refuses Yunyun by spitting; grudge is Megumin inferred cause. Selective resentment contradicts universal charitable service. Cecily actually gives heavy bag510-520, revealed conversion forms not cash; Megumin throws it back521. No successful recruitment or received money invented.",
+    "EXP02U038102-117 Tristan explicit named Axis finance officer is a census return lead absent168 named rows. Do not merge with devil Zereschilt, unnamed church guide, or all campaigners. Campaign proposals are not enacted laws. Ten aggregate interruptions do not yield ten fully identified individuals.",
+    "CONTEXP01U01596-497 actual complete bounded context: two offered tasks investigation and sales, ten-percent commission offer139-145. Extortionate broken-pot recruitment108-120; Iris literal trust is not harmlessness. Cecily admits too many grudges to identify162, earlier neighbor conflict reported169. Self-reported improved slime no-choking/safety201/210/235 is not independent product certification; narrator identifies slime198, not narcotics. Actual stock sold253, no itemized commission transfer independently shown.",
+    "CONTEXP01U015: oil-trail self-Heal is Cecily retrospective report278; refrigerator-underwear user286 distinct unnamed male. Proposed intimidation288 rejected by Megumin289; own defamatory butcher rumor292 and police fear294, Iris obtains release300. Actual door-kicking/accusations and Eris-priest quarrel318-347; Cecily apology forced347, attempted graffiti stopped352. Slime actually observed eating crops364 and narrator identifies her altered slime369; no demonstrated butcher/Eris guilt. Her punitive investigation is wrong, not total inability to make products or money.",
+    "CONTEXP01U015: Iris kindness and thanks produce visible moral discomfort261-263 and genuine delight, not universal ethical brake. Cecily switches to competent polite branch-leader presentation392, but her protection claim is contested by narrated events393. Recruitment presses Claire400-409 and Claire leaves410-414; no conversion. She asks to join group as condition for future help450, not automatically unpaid permanent provisioning. Real support and intrusive access motives coexist; no new harmless-person repair.",
+    "CONTEXP02U0161-485 wholeBASE complete: noble/maid play is staged, own neglected duties31 literal. Request for slime removal68 refused for location69; she invokes earlier help58. Holywater profit proposal82 interrupted by Iris free-sharing expectation83, illness pretext88-91 not independently sick. Request for Wiz Teleport131 then arrival261 does not show caster. Vanir unwanted mask-grab110/explicit rejection116 and Zereschilt restraint177/225 distinct from Iris welcomed contact. No mistaken initial demon-detection inference112 retained as fact after115/117 correction; mask reveal offstage, reported impressions not identity proof.",
+    "CONTEXP02U016: Cecily guilt-avoidance revealed299; earlier hidden powdered slime/refused theft narrative294 not complete causal proof for every outbreak. Actual recognizes her role enough to seek concealment. Zesta encourages Eris harassment308/311 but proposed photographs not already taken. Feigned collapse and preference-based response343-361 distinguish available role from care. His supervisor offer368 explained by own access motive382. Cecily physically keeps him from Iris/Yunyun382-383, mixed protectiveness/possessive exclusivity, not universal permission-respect.",
+    "CONTEXP02U016: Zesta claims evil presence414, directs toward Eris church430; no blanket accurate sacred detection. Actual orchestrated public false-confession allegation439, Cecily trip/restraint445-446, deliberate threatened unwanted contact, priest refusal461 and actual self-buff/throw/punch466-467. His praise/leniency447 incentivizes Cecily, no institutional duty reliably outweighs enjoyment. Unnamed Arcanretia Eris priest is a distinct census return lead, not automatically Axel Eris priest or reporting male142.",
+    "CONTEXP02U0181-470 wholeBASE complete: Zesta provisionally calls Eris church probably innocent10 yet both falsely blame same sect at inn snack theft26-28. Named Axis priest クレイン/Crane appears in signed note64, actual retrospective return80; his tears not repentance proven81. Both stop Megumin police trip66. Named lead absent168 rows, retain precise note/report access. Unnamed innkeeper22-40 distinct own attempt to recruit shop help; no agreement.",
+    "CONTEXP02U018: Cecily and Zesta propose bait plan121-135, Iris actually guards door151. Permission is contingent on actual bathers167; Cecily joins169 after pressure, not carte-blanche for contact. Her holywater weakness observation171-176 is useful and later investigation warranted, contradicts all-her-detection-fails. Unsupported slime preference125 is no scientific rule. Zesta remains with Iris192, no remote source combat/heal credited.",
+    "CONTEXP02U018: black slime has own speech/memory and rejects Chappy designation241/246; story ultimately names Hans through316/known prior binding. Cecily adoption/moneymaking238-255 flips prior denial and after-disposal372 flips again. Profit/date grief311 does not establish only motive on all occasions. Yunyun actual Inferno300, Lightning326, ice348; danger clear to Yunyun and help request339 ignored while Cecily/Megumin misread as performance. Megumin actual Explosion365/clearance370, no Cecily combat credit, sale, or date.",
+    "CONTEXP02U018: Zesta actually Dispels Yunyun blade381-382 while protecting self-serving object; threatened loss of arm383 not actual injury. Destruction407 and his grief408 actual, no final balloon retention. Cecily actual Blessing393/394 then unwanted contact397-398 after objection, and own shared-fun399 with Megumin qualified positive response402. Useful care does not erase objection. Zesta asks Aquas wellbeing423 and visibly relaxes427-430 after earlier humiliation: real specific devotion is supported, universal pure charity is not. Final blessing429 verbal wish, not necessarily another performed cast.",
+    "DUST04U013 whole1-480BASE actually received: Zesta casino recruitment/gambling losses and complaints16-38 are own retrospective account, not honest civic innocence. Own two-week solitary/dinner/boredom27 and playful incarceration views do not erase confinement. Dust special-cell allocation is prosecutor ordinary-cells-full explanation54, not proved severity. Prosecutor explicitly resembles Sena53, no identity join. Self-introduced Zesta38, named Cecily or Tristan alternatives43 do not identify the earlier unnamed searching priestess.",
+    "DUST04U013: Zesta original accusation120 provokes Ragcraft, but private admission124 heard by Dust126 establishes revenge/playing along, not accurate prior detection. Ragcraft confession137 and later Zesta boast140 do not certify foresight. Dust separately inferred danger131-132, Ragcraft separately forgot other prisoner147. Zesta donmai150 is genuine unconcern/banter under an actual death threat, not death nullified by comedy. After Aqua named185 his posture visibly changes180-186. Casino pleasure as additional volunteered-mission motive190 preserves mixed devotion/pleasure.",
+    "DUST04U013: actual joint search174 finds no route195; Dust guard persuasion201-204 fails. Zesta antidote promise217 lacks provider readiness: he eats218-219 and later states magic suppressed244, Dust challenges246; no poison occurred247. Desire-driven medical excuse224 obtains no food. His high competence outside does not repair false earlier reassurance. Cell suppression and unavailable practical escape differ from lacking all priest capacity.",
+    "DUST04U013: Small supplies keys294/opens Dust295, Dust opens Zesta298; Zesta does not devise rescue. Small secret access317 is not her invented passage301; Zesta actual knowledge of her species remains uncertain458. His coercive treatment of evasive consideration as assent306 is his interpretation, not actual consent. Dust interrupts308/310; Small explicit refusal350 persists under fear. Retain all unwanted conduct non-graphically.",
+    "DUST04U013: Zesta actual sacred attack336-339 destroys attacking demon; high-level claim342 not independently surveyed ranking. Supplies sword344, mentions other preferred weapon345, Dust infers observational skill346. Actual coordinated anti-demon/undead clearing355-357, no harm to human Dust by species-targeted spell means no ethical purity test. Zesta deliberate harassment/chosen precision367 and female demon escape375 are adverse process/outcome, not inability to defeat every demon. Actual TurnUndead377-378 clears skeletons. Small terrified and Dust shields her373; no future universal species-tolerance rule inferred.",
+    "DUST04U013: recognizes golem matchup limit395/withdraws396, Dust makes own failed reach/joint assumptions399-424 and saves Small406-409, actual injury412 then Zesta Heal417-418. Healing real, injury not erased retroactively. Spear supplied431-434 dangerously thrown432-433, Dust alone vaults439 and removes head-letter441; Zesta support not solo victory. Two disguised demons attacked453, human harmlessness455 specific spell property. Zesta insight into Small458 explicitly unknown. Allies actually flee477 leaving Dust arrested480; real useful escape cooperation does not equal reliable long-term companion care.",
+    "MAIN08U013130-230 received: Cecily named church leader144, false sister claim145 contradicted146, actual recipient distance143. Zesta supplied information about Aqua150 is Cecily report. Devotional warmth151 and servant offer154 coexist with own leisure-through-patronage account157; K exact-divinity inference160-162 not a new Cecily confession of every detail. Cecily anti-Eris vandalism plan176 stopped177, actual choking of merchant chair189 ends when K intervenes205, renewed attempt stopped213. Initial courtesy183 does not ensure restraint or competence in refusal. K joint-festival/competitive-profit plan217-228 is K contribution, not Cecily original idea.",
+    "MAIN08U014370-560 received: Cecily actual police dispute390-395, tadpole fishing stall401 based on Aqua idea, danger of giant-toad growth407 police explanation, she stops K proposed pesticide409 but no disposal/killing actually shown. Thirty-plus stalls414 are collective activity, not all her own design or each separate fully identified actor. Squid seller422, show caller426, target seller430 are distinct incidental leads, not all Cecily. Aqua lizard deception433-445 is Aqua own act, not Cecily. C suggests slime498; K cooking/assignments512 and actual prospering stall526, Chris actual assistant522, Cecilia wrapper-recruitment547 and continued slime-sale offer550; no automatic successful membership. Sole profitable stall554 not every Axis business skill success.",
+    "MAIN08U0161-65/500-559 received: Cecily own regulatory-relaxation request17, misreads K objection22, threatens nightly doorstep hymns30 (not shown performed), Aqua quotes Cecily promise to indulge32 as report. Actual warm serving11 coexists enabling, not universal institutional competence. Pyramid scheme at end is Aqua action with prior K explanation542-545; group involvement not automatically a particular unshown Cecily transaction. Victim reimbursement557 is Darkness report, not Cecily watched payment or complete process repair.",
+    "MAIN08U0181-53 received as complete member, not presumed bonus classification from unit number. Cecily authored thank-you/status letter is read by Aqua5, K rejects honorary membership8-10. K donation11-13 actual own retrospective report, not church money independently audited. Cecily denial-as-opposite idea14 is Aqua quotation; both initial expressed refusal and later misreading matter. Do not certify inferred party/kinship/conversion from labels or donation."
+  ],
+  "scope": "Known retrospective receiving only; no new global unique-primary/full-source/ruby/image/admission/independent/forecast/Japanese/acoustic/native-human credit. Shared count includes other actors and blanks, not per-character decisions or independent trials. No raw source text/images/private acquisition files included. Earlier full source/report/ten-ledger scopes remain separate.",
+  "global_census_closed": false,
+  "full_program_complete": false
+}

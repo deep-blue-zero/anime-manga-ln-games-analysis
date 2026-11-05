@@ -1,0 +1,42 @@
+{
+  "schema": "KONOSUBA_CLAIRE_EXPANDED_V1_RULE_INVENTORY",
+  "recorded_utc": "2026-10-20T07:57:17.370433+00:00",
+  "subject": "Claire",
+  "model_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+  "model_sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1",
+  "responsibility": "Index of rule identity and limit; full model prose owns support, contrary cases, conditions, confidence and disconfirmers.",
+  "rules": [
+    {
+      "id": "CLAIRE-R01",
+      "proposition": "Accepted Iris-related task can restrain rank enforcement and support a conditional alliance.",
+      "material_limit": "Shared-interest pragmatism remains a rival; no universal egalitarian conversion.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "CLAIRE-R02",
+      "proposition": "Favorable regard and protector identity can destabilize objection before a final choice.",
+      "material_limit": "Meeting refusals, office and perceived danger remain contrary to automatic assent.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "CLAIRE-R03",
+      "proposition": "Technical skill coexists with an overbroad proxy in an unfamiliar task.",
+      "material_limit": "Ordinary novice information deficit remains a rival; no global low-intelligence claim.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "CLAIRE-R04",
+      "proposition": "Gratitude and acknowledged benefit can coexist with imposed control under perceived threat.",
+      "material_limit": "Threat is sometimes real; neither gratitude nor warning supplies an automatic ethical veto.",
+      "future_source_outcome_not_assessed": true
+    },
+    {
+      "id": "CLAIRE-R05",
+      "proposition": "Recipient, act and affect alter stance, with functional shifts beyond generic noble politeness.",
+      "material_limit": "Printed forms do not establish Japanese generation, acoustic adequacy or universal taste.",
+      "future_source_outcome_not_assessed": true
+    }
+  ],
+  "new_source_trial_or_score": false,
+  "designated_capability_grade": null
+}

@@ -1,0 +1,2126 @@
+{
+  "schema": "konosuba.cohort29.native_provenance.v1",
+  "recorded_utc": "2026-10-24T03:32:14.091918+00:00",
+  "published_parent": "068a950a967d9fcf7a5f15bceaa317a48380ec30",
+  "published_tree": "9ca1a6ad407c3f239e7696a695bba422824224cc",
+  "local_EPUB_only": true,
+  "canonical_roster_objects": 41,
+  "literal_query_pins": [
+    {
+      "file": "BARTON_BARBERA_ZERESCHILT_NAMES_NUMBER_RETRIEVAL_01.json",
+      "sha256": "ff9b4904a4c4a637e92961c3991e0d03c6bb520670c9f3ae5a6d467bfa6da803"
+    },
+    {
+      "file": "BARTON_BARBERA_ZERESCHILT_COSTUME_TITLE_ALIAS_RETRIEVAL_02.json",
+      "sha256": "c98ff8cd9520ec153f03b3f103586fd5d34d829a15bdad7aa73e62c923753b8a"
+    }
+  ],
+  "routed_interval_reconciliation_sha256": "bb38fa750987140f32d04e5661d3387c28ade7b204f0e2beaff4bed89bd2e494",
+  "actual_receiving_file": "COHORT29_ACTUAL_KNOWN_NATIVE_RECEIVING_07.json",
+  "actual_receiving_sha256": "ecf4b2f0b1aeefd07b1e29ea87d4482f3c3c7fc3a1537962fc6d3931b622cc63",
+  "actual_received_windows": [
+    {
+      "file": "C29_CONTEXP02_U013_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunks": [
+        "6189c3",
+        "f5f8fa"
+      ],
+      "received_slices": [
+        {
+          "BASE_range": [
+            1,
+            75
+          ],
+          "tool_chunk": "6189c3"
+        },
+        {
+          "BASE_range": [
+            76,
+            150
+          ],
+          "tool_chunk": "f5f8fa"
+        }
+      ],
+      "bytes": 18143,
+      "sha256": "64fc4e81118820635da28dd85b61390af7b7be61a49ea215cbb18c6bdc9a346c",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U013_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ffd150",
+      "bytes": 18810,
+      "sha256": "2430299b31e34a30d0f27ed992f4021a5b85a96c31feca648cf8385a6921692c",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U013_P301_425_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "6de823",
+      "bytes": 16452,
+      "sha256": "ce5812ffad2c8fc24f8cb1b4d7cfb32e2700e7f302c39d07746fe7ecac90abb3",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        301,
+        425
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U013_P426_509_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "bc0eb0",
+      "bytes": 10959,
+      "sha256": "8024f75da8595f219b0d37775477fe63b24ee6c35b8046793d1f730d45a729f5",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        426,
+        509
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U016_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "604229",
+      "bytes": 17042,
+      "sha256": "5a393761483d5fee33bd62a5aba9528bcc5043bbbd2f20d8b103a2a7fede557b",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U016_P151_220_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "3b3c9f",
+      "bytes": 10498,
+      "sha256": "6c7fbafc8e3e338b4f65890e57c112525d3a72ba6f0bb176a909cba200c13435",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        151,
+        220
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U031_P001_057_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "84336f",
+      "bytes": 7039,
+      "sha256": "e8cda5efed33367745038f55f250a429842fc5b9ce4900bb53c3642d2d5f62bf",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0029.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        57
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U020_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "34c8c7",
+      "bytes": 17121,
+      "sha256": "6f57f0f421d7cbb2c11a56052bc7abc97d370c39f6b4fd6102f5eacf43793fdb",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U020_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "57bb58",
+      "bytes": 18142,
+      "sha256": "43071bef7527a08c5a97ac3a4c813058b1306fd5c5113306845b0161433fb3ed",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U020_P301_425_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "d86eda",
+      "bytes": 15172,
+      "sha256": "2549dbee046bd345c284032ff82c76c8e5779e2dad42645783d95728ac11c9bf",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        301,
+        425
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U020_P426_577_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "669dd4",
+      "bytes": 17803,
+      "sha256": "c9beda64aa9c7ca1e617eea9fbe81f21c27bd2f43b3df826310dc6706aa6cfbc",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        426,
+        577
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U026_P001_079_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "dc2c21",
+      "bytes": 10104,
+      "sha256": "3f90e1e6c1fa809853db28b71f7c2852b1b4987d9f4df19c5b03c3c2b2a79b5a",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0024.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        79
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U023_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "9d8aa5",
+      "bytes": 21120,
+      "sha256": "b29deb455267c822f935be5abc84e652125a42643a7c2f80c3b7a9f16177c9ca",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U023_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "393e48",
+      "bytes": 16737,
+      "sha256": "c917bdede919dc105c6d917ed88249d46bd30d3ff33612b871bec1a490a01d17",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U023_P301_412_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ac5108",
+      "bytes": 12247,
+      "sha256": "c5108c1ecb30119df6642140d625cd9f633337864ef74225f27b8ad74201c410",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        301,
+        412
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C1_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "01f92e",
+      "bytes": 16864,
+      "sha256": "a721d7c5a0649321fe4701d8a2f04f501c6d2ef39b2257c4de8dcab5886e9c12",
+      "source_id": "MAIN-12",
+      "member": "text/part0010.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C1_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "338096",
+      "bytes": 20063,
+      "sha256": "938d26405211c1825bd5788f197b9bceff489abd849ba136854376f09c035cce",
+      "source_id": "MAIN-12",
+      "member": "text/part0010.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C1_P301_378_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "a9a93d",
+      "bytes": 10766,
+      "sha256": "e0434951076488ad45c22dab5420b5fcf420edfb1de7d679a7d48bf5cd7c4ad7",
+      "source_id": "MAIN-12",
+      "member": "text/part0010.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        301,
+        378
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C2_P001_175_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "6ae830",
+      "bytes": 19989,
+      "sha256": "ffecef1b01e0511482bf0f743bcdac6a4d3a7079b365c9768a999db8e047db53",
+      "source_id": "MAIN-12",
+      "member": "text/part0011.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        1,
+        175
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C4_P240_346_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ef046a",
+      "bytes": 13481,
+      "sha256": "0d3e6253e71ea95a763659160482e733e6937250f1260a72c5b3a1b7b5f01a26",
+      "source_id": "MAIN-12",
+      "member": "text/part0013.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        240,
+        346
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C5_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "af894b",
+      "bytes": 18987,
+      "sha256": "51aa452fde88092232197cb61cae32f66954d958d6ff8783d761a68b6ecfc46e",
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C5_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "dfb24e",
+      "bytes": 15166,
+      "sha256": "f9b43ef5f72727daf7fdf82a4d0b7b78a8616cf8a3ac42ac81c780c81fab1595",
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C5_P301_450_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "a7c4a8",
+      "bytes": 19966,
+      "sha256": "7315e656c96c922dc3e51474e4d41f700fa01eabf3cb1de8493412c553b2b062",
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        301,
+        450
+      ]
+    },
+    {
+      "file": "C29_MAIN12_C5_P451_582_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "5ab579",
+      "bytes": 15779,
+      "sha256": "87493b300e83a2892247e966e558c70a6d7b985887f4aebfa6771e0d8001f73c",
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        451,
+        582
+      ]
+    },
+    {
+      "file": "C29_MAIN12_F_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "cb8cac",
+      "bytes": 18205,
+      "sha256": "5e2433363f4fe59263714b047cd728259a8df21156cdb2f4ce2e611fe82b7dda",
+      "source_id": "MAIN-12",
+      "member": "text/part0015.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_MAIN12_F_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "b6e19f",
+      "bytes": 18802,
+      "sha256": "6be2cd532eb68a6e8c539e81d6302e14da29e7ff6cb4fb50a90e50a742697393",
+      "source_id": "MAIN-12",
+      "member": "text/part0015.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_MAIN12_F_P301_438_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "7858c0",
+      "bytes": 14640,
+      "sha256": "09d03ccc9f51bfdd0575194b4c964e256e8d617e4efcecaef2c59160349cc715",
+      "source_id": "MAIN-12",
+      "member": "text/part0015.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        301,
+        438
+      ]
+    },
+    {
+      "file": "C29_MAIN12_Ep_P001_091_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "882040",
+      "bytes": 11142,
+      "sha256": "59d1c5a20709b2ac0d7ac06aded3770997a836f69bf8be6958b5649eb7116fe8",
+      "source_id": "MAIN-12",
+      "member": "text/part0016.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "BASE_range": [
+        1,
+        91
+      ]
+    },
+    {
+      "file": "C29_MAIN13_Pro_P001_022_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "96bc30",
+      "bytes": 3041,
+      "sha256": "c1f4c43b08c21f69e17c63b44a34412054666ce42d08587464451bd9d7d47134",
+      "source_id": "MAIN-13",
+      "member": "text/part0009.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        1,
+        22
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C1_P001_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "18930d",
+      "bytes": 18584,
+      "sha256": "51de17981059c6977adcbd56dc99b780d5d9d11bb578d7cf82104c649b8113a4",
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        1,
+        150
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C1_P151_300_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ad57c2",
+      "bytes": 19553,
+      "sha256": "4bea3a0dcee9d05e8c5422f3a1ca5c253d141a0f4f0d0348d4c858c39953253a",
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        151,
+        300
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C1_P301_425_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "729e90",
+      "bytes": 15973,
+      "sha256": "b10ddcb35f02b0944d971208b8f4649d484ce7cf97845ec11c726209341a9565",
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        301,
+        425
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C1_P426_473_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "b12e16",
+      "bytes": 5815,
+      "sha256": "bdade63834de4efb05e14a02d9935e6cc7cbd077c31644bc18e2dfe0dd2b7360",
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        426,
+        473
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C2_P180_280_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "813892",
+      "bytes": 15238,
+      "sha256": "6253e55a7c2673696c57c9c4f4227d63965c0ed5ff7c92e9cb274106a0a9a38e",
+      "source_id": "MAIN-13",
+      "member": "text/part0011.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        180,
+        280
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C2_P380_495_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "f7578f",
+      "bytes": 15648,
+      "sha256": "ee73a29b3804989c4be4cb25c365432655f8ea16ca480c4cc9320203f9c4ff76",
+      "source_id": "MAIN-13",
+      "member": "text/part0011.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        380,
+        495
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C3_P001_100_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "29bf69",
+      "bytes": 12444,
+      "sha256": "668f13ef1174656346d09019fb03bf8fabcf31ccfba12a7bd5e6c2f66397f9d4",
+      "source_id": "MAIN-13",
+      "member": "text/part0012.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        1,
+        100
+      ]
+    },
+    {
+      "file": "C29_MAIN13_C4_P001_120_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "4e6919",
+      "bytes": 16264,
+      "sha256": "1cd248d5058b28049282b3b76bfb9fe1c64fa0c37452dc50bf9a1404cccef2da",
+      "source_id": "MAIN-13",
+      "member": "text/part0013.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        1,
+        120
+      ]
+    },
+    {
+      "file": "C29_MAIN13_U014_P001_160_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "9f738d",
+      "bytes": 19408,
+      "sha256": "a941a20ad85f10ae12cba701d047fe97c7382108c0c79aae3b3772a97b800300",
+      "source_id": "MAIN-13",
+      "member": "text/part0014.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "BASE_range": [
+        1,
+        160
+      ]
+    },
+    {
+      "file": "C29_MAIN15_U014_P080_210_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "697e91",
+      "bytes": 16019,
+      "sha256": "a8153d3f8be964902d5f53ad6454c7f5d7cd9f6c8da8d7794b52411f7bafbc96",
+      "source_id": "MAIN-15",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "BASE_range": [
+        80,
+        210
+      ]
+    },
+    {
+      "file": "C29_MAIN16_U006_P090_240_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "805304",
+      "bytes": 18590,
+      "sha256": "1f2b0f39b5917a8b134dee024fe6526c12f081a8e2a09bdd26a12bc986c2eb31",
+      "source_id": "MAIN-16",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "BASE_range": [
+        90,
+        240
+      ]
+    },
+    {
+      "file": "C29_DUST07_U011_P200_360_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "24b918",
+      "bytes": 17501,
+      "sha256": "f9776e8b68e9942f3599552000011a8bc51f31d223c86cb4334dceeb7215a43e",
+      "source_id": "DUST-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "BASE_range": [
+        200,
+        360
+      ]
+    },
+    {
+      "file": "C29_DUST07_U013_P120_260_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "220bbb",
+      "bytes": 15903,
+      "sha256": "c68957e9306d13ee7092356a343ecd0e1fd5dfbe3d4b5c8e58ef309cd7a1dcf2",
+      "source_id": "DUST-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "BASE_range": [
+        120,
+        260
+      ]
+    },
+    {
+      "file": "C29_DUST07_U011_P990_1075_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "25edf3",
+      "bytes": 9480,
+      "sha256": "0ce70f78244d220fa9cc3b2b85152afe87f72c43427ef19b18580adddc807c36",
+      "source_id": "DUST-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "BASE_range": [
+        990,
+        1075
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_U016_P221_270_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "8028ef",
+      "bytes": 6218,
+      "sha256": "641c180160645b3f6c5c2e1efc1fecc8e7db9d88137b57d58f780099b0311a1b",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        221,
+        270
+      ]
+    },
+    {
+      "file": "C29_MAIN17_AFTERWORD_U016_P001_037_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "ee026a",
+      "bytes": 6688,
+      "sha256": "a336a694ad9e73ff8c5c98971e1e1e9f9e1b773f7d883eff991e5c7a7a11d633",
+      "source_id": "MAIN-17",
+      "member": "text/part0014.html",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "BASE_range": [
+        1,
+        37
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_TOC_U008_P001_013_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "3eca00",
+      "bytes": 805,
+      "sha256": "a43eb89f6ec11c7dad01561292849cbb8f6fdf1ea335b2d0f2cdd40b7e7d11f0",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0006.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        13
+      ]
+    },
+    {
+      "file": "C29_CONTEXP02_BONUS_TITLE_U030_P001_002_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "eafcfa",
+      "bytes": 428,
+      "sha256": "5dd856c13ad6f9c436bcf09a65c3ebe5d485cad050f5f534c5690eda665b4705",
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0028.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "BASE_range": [
+        1,
+        2
+      ]
+    },
+    {
+      "file": "C29_MAIN15_U010_P330_400_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "86256b",
+      "bytes": 7273,
+      "sha256": "f9852cfcfdd9dccaade92a7110f959fa5abf69e092d8a11da76f4382b09c9dee",
+      "source_id": "MAIN-15",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "BASE_range": [
+        330,
+        400
+      ]
+    },
+    {
+      "file": "C29_MAIN16_U006_P241_310_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "597382",
+      "bytes": 7960,
+      "sha256": "5e28c04949e5c34cf13f70e21d785ed345c86f4c8f36e4f573eb45237d9cd63b",
+      "source_id": "MAIN-16",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "BASE_range": [
+        241,
+        310
+      ]
+    },
+    {
+      "file": "C29_MAIN02_U006_P220_255_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "e17e2f",
+      "bytes": 5538,
+      "sha256": "ccf0572cab03189091d680aa34c5cd14d44e29c9eec4f3535b3d419c2894b123",
+      "source_id": "MAIN-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "BASE_range": [
+        220,
+        255
+      ]
+    },
+    {
+      "file": "C29_MAIN03_U007_P460_515_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "95c32f",
+      "bytes": 6065,
+      "sha256": "ff3e09dda88418ae58347209ffe1df7433a6aef724f92f531b8fbaa7951ca82d",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "BASE_range": [
+        460,
+        515
+      ]
+    },
+    {
+      "file": "C29_MAIN03_U007_P550_600_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "906b3f",
+      "bytes": 6324,
+      "sha256": "9cf2ec32438f58bc9dd3db907952f33439cc895369cb6d39f5983afc49ff5cfd",
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "BASE_range": [
+        550,
+        600
+      ]
+    },
+    {
+      "file": "C29_MAIN08_U010_P290_370_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "3dc757",
+      "bytes": 10940,
+      "sha256": "e7b85b1e9e1434971e5767257e3b99af1dcc1a7de9db4303bbf43e61cb69f53e",
+      "source_id": "MAIN-08",
+      "member": "text/part0010.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "BASE_range": [
+        290,
+        370
+      ]
+    },
+    {
+      "file": "C29_MAIN09_U014_P115_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "bc3041",
+      "bytes": 4531,
+      "sha256": "91d728ca64e19cd526dc222584c1340eb64a5711ff65adda544ed31828c25661",
+      "source_id": "MAIN-09",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "BASE_range": [
+        115,
+        150
+      ]
+    },
+    {
+      "file": "C29_YORI01_U010_P150_265_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "8532be",
+      "bytes": 15571,
+      "sha256": "c5bc8b8119b6813f906b95617999bd0b5d47611f5f3d60dcf933fa93aa5328f5",
+      "source_id": "YORI-01",
+      "member": "text/part0010.html",
+      "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "BASE_range": [
+        150,
+        265
+      ]
+    },
+    {
+      "file": "C29_YORI02_U019_P045_077_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "43cac7",
+      "bytes": 4809,
+      "sha256": "bfa2648cdb46c8d84c912290247ac3bc846fe44cac389a9e56974fc2054fcafd",
+      "source_id": "YORI-02",
+      "member": "item/xhtml/p-019.xhtml",
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "BASE_range": [
+        45,
+        77
+      ]
+    },
+    {
+      "file": "C29_DUSTCONT_U004_P270_330_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "277a1d",
+      "bytes": 9125,
+      "sha256": "2a34e3cbc2450cc2bb8b7c601696f1c93e2c6ce205016705d2bc29eca14f8a21",
+      "source_id": "DUST-CONT",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "BASE_range": [
+        270,
+        330
+      ]
+    },
+    {
+      "file": "C29_FD_U004_P075_115_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "65c724",
+      "bytes": 5456,
+      "sha256": "b13cf1536726e07ba881df57bc6cfcb9f00fb2bdf3cfab139ac09e50264b1b92",
+      "source_id": "FD",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "BASE_range": [
+        75,
+        115
+      ]
+    },
+    {
+      "file": "C29_FD_U006_P280_350_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "67bb5c",
+      "bytes": 8264,
+      "sha256": "f70be9e49d42d75d84541ed450e9ed7cfc686818d12cdd340990fb7fe7d9d698",
+      "source_id": "FD",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "BASE_range": [
+        280,
+        350
+      ]
+    },
+    {
+      "file": "C29_FD_U008_P065_110_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "7cc7f8",
+      "bytes": 5525,
+      "sha256": "273503ce23c8bc693f5a0115a0927278c4f545c63b93cac1b790f6ec67f78d10",
+      "source_id": "FD",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "BASE_range": [
+        65,
+        110
+      ]
+    },
+    {
+      "file": "C29_FD_U008_P280_340_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "f780f2",
+      "bytes": 6886,
+      "sha256": "504f5280ace23a8e97f0a3466cd577e8a23214ff1976081eb8bc836ce28df397",
+      "source_id": "FD",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "BASE_range": [
+        280,
+        340
+      ]
+    },
+    {
+      "file": "C29_EXP03_U034_P015_150_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "0c89e3",
+      "bytes": 16180,
+      "sha256": "517e50fb65ef364090a07aef53c3b1ff2c727738c25eddb3d2700c8db12de6d6",
+      "source_id": "EXP-03",
+      "member": "item/xhtml/p-025.xhtml",
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "BASE_range": [
+        15,
+        150
+      ]
+    },
+    {
+      "file": "C29_EXP03_U034_P195_260_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "418d4a",
+      "bytes": 6333,
+      "sha256": "3eb099cebd8e2ab48b92c875348a7d96c0d939ba5227e8f4e1d983baf9fa2312",
+      "source_id": "EXP-03",
+      "member": "item/xhtml/p-025.xhtml",
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "BASE_range": [
+        195,
+        260
+      ]
+    },
+    {
+      "file": "C29_EXP03_U034_P430_490_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "2cefa3",
+      "bytes": 7600,
+      "sha256": "60749ae67aad0ef4c874944d4b3b5b6c6d82353d49123570018b912fd129466d",
+      "source_id": "EXP-03",
+      "member": "item/xhtml/p-025.xhtml",
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "BASE_range": [
+        430,
+        490
+      ]
+    },
+    {
+      "file": "C29_EXP01_U023_P235_275_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "f285f2",
+      "bytes": 4855,
+      "sha256": "1a4e20f4344b00f0f0ebbe8220fee50489632d28ced2fe6696561c32f9bcc070",
+      "source_id": "EXP-01",
+      "member": "item/xhtml/p-013.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "BASE_range": [
+        235,
+        275
+      ]
+    },
+    {
+      "file": "C29_DUST02_C04_P285_325_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "0df50b",
+      "bytes": 4687,
+      "sha256": "30c2936247baa8f915266d8e9b3ee205db31667809ff4f2748d612675956853c",
+      "source_id": "DUST-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "BASE_range": [
+        285,
+        325
+      ]
+    },
+    {
+      "file": "C29_DUST02_C04_P520_550_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "eea7c0",
+      "bytes": 3917,
+      "sha256": "ae253052b7a25b95eb2b451c51c02ee9e08555047d36cc046c08ae9673009712",
+      "source_id": "DUST-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "BASE_range": [
+        520,
+        550
+      ]
+    },
+    {
+      "file": "C29_DUST02_Epi_P001_035_FIRST_DELIVERY_01.txt",
+      "actual_complete_delivery_tool_chunk": "b7c0dc",
+      "bytes": 4362,
+      "sha256": "3c837285c1c359d8103a09f1c10d260ba55f87a01c357916e7213f2f163e417f",
+      "source_id": "DUST-02",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "BASE_range": [
+        1,
+        35
+      ]
+    }
+  ],
+  "known_BASE_context_slots": 6730,
+  "members": [
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+      "member_total_slots": 509,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U013",
+        "member": "OEBPS/Text/part0011.xhtml",
+        "member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+        "paragraph_slots": 509,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          425
+        ],
+        [
+          426,
+          509
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+      "member_total_slots": 485,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U016",
+        "member": "OEBPS/Text/part0014.xhtml",
+        "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+        "paragraph_slots": 485,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          220
+        ],
+        [
+          221,
+          270
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0029.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+      "member_total_slots": 57,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U031",
+        "member": "OEBPS/Text/part0029.xhtml",
+        "member_sha256": "cb026f94f3d357144f20c57734a29ce4d411e7012588cec609ece06645a963f9",
+        "paragraph_slots": 57,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          57
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+      "member_total_slots": 577,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U020",
+        "member": "OEBPS/Text/part0018.xhtml",
+        "member_sha256": "f38c42820af4a9c0c718fa1267b50e7c79a651453cd6d46f6f7c96bcd6102cf1",
+        "paragraph_slots": 577,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          425
+        ],
+        [
+          426,
+          577
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0024.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+      "member_total_slots": 79,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U026",
+        "member": "OEBPS/Text/part0024.xhtml",
+        "member_sha256": "bd43453f9732468efff17988ffd25e76af6fade6039c44f7aacba449169a7991",
+        "paragraph_slots": 79,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          79
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+      "member_total_slots": 412,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U023",
+        "member": "OEBPS/Text/part0021.xhtml",
+        "member_sha256": "8b5d6508b4571489e3bd944ee46a63291e3512c64fadeda1c4c1d56bbb004b6e",
+        "paragraph_slots": 412,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          412
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0010.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "969c064b40c2efd41fd73941f3a9645bd301d6dfab1c00d0fac09f2e4f605f49",
+      "member_total_slots": 378,
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 378,
+        "member_sha256": "969c064b40c2efd41fd73941f3a9645bd301d6dfab1c00d0fac09f2e4f605f49"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          378
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0011.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "c98b5bfb627be5a78df510209dc9820a941c8962a9e851600c845dc6d5d602bf",
+      "member_total_slots": 400,
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 400,
+        "member_sha256": "c98b5bfb627be5a78df510209dc9820a941c8962a9e851600c845dc6d5d602bf"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          175
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0013.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "1c6c24403c57af3e0a9462e2da5cbd02e167718d69322f7d01a9e38104de8bde",
+      "member_total_slots": 346,
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 346,
+        "member_sha256": "1c6c24403c57af3e0a9462e2da5cbd02e167718d69322f7d01a9e38104de8bde"
+      },
+      "received_BASE_ranges": [
+        [
+          240,
+          346
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799",
+      "member_total_slots": 582,
+      "accepted_member_contract": {
+        "alias": "C5 / start",
+        "paragraph_slots": 582,
+        "member_sha256": "fc3b0d46cdd18a686df87885665e1e3b877384c6aae34285d34a0713cdc58799"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          450
+        ],
+        [
+          451,
+          582
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0015.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "1d8af593820e85dc0b6db453efa5e29d8ea89b039667ecfa4db7a733007569de",
+      "member_total_slots": 438,
+      "accepted_member_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 438,
+        "member_sha256": "1d8af593820e85dc0b6db453efa5e29d8ea89b039667ecfa4db7a733007569de"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          438
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0016.html",
+      "native_sha256": "d42bc3dc218d094d93ff029830e66cd4f87d466ec502c5fe63aa42fc59b53a24",
+      "native_filename": "Konosuba - Main Series - Volume 12.epub",
+      "member_sha256": "f572a9dcc431590cfe995d876010db9859eec857f22a6100cece0b481d00a495",
+      "member_total_slots": 91,
+      "accepted_member_contract": {
+        "alias": "Ep / start",
+        "paragraph_slots": 91,
+        "member_sha256": "f572a9dcc431590cfe995d876010db9859eec857f22a6100cece0b481d00a495"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          91
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0009.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "7e3b03feb0c2a989cb7ecb27ab06b81df51fc90bbe99b8dab71ea4acce165f68",
+      "member_total_slots": 22,
+      "accepted_member_contract": {
+        "alias": "Pr / start",
+        "paragraph_slots": 22,
+        "member_sha256": "7e3b03feb0c2a989cb7ecb27ab06b81df51fc90bbe99b8dab71ea4acce165f68"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          22
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "31b9d68d2e16635d2c30f3959c888924c8b1e5f5114b7985c32cd6feb30bd2b9",
+      "member_total_slots": 473,
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 473,
+        "member_sha256": "31b9d68d2e16635d2c30f3959c888924c8b1e5f5114b7985c32cd6feb30bd2b9"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          150
+        ],
+        [
+          151,
+          300
+        ],
+        [
+          301,
+          425
+        ],
+        [
+          426,
+          473
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0011.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2",
+      "member_total_slots": 518,
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 518,
+        "member_sha256": "17688b0c3148fa3c14699e304a546710824204f681fc5f367b43178bc01c56f2"
+      },
+      "received_BASE_ranges": [
+        [
+          180,
+          280
+        ],
+        [
+          380,
+          495
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0012.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "12590adbafb9ee7f56f93b81db010f04598185528298f75719ebb2ca3ac412ab",
+      "member_total_slots": 498,
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 498,
+        "member_sha256": "12590adbafb9ee7f56f93b81db010f04598185528298f75719ebb2ca3ac412ab"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          100
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0013.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988",
+      "member_total_slots": 411,
+      "accepted_member_contract": {
+        "alias": "C4 / start",
+        "paragraph_slots": 411,
+        "member_sha256": "8e6f60737c6087d1d786c2bc89ba7d116c4c7370bc52397c273d0901369ee988"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          120
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0014.html",
+      "native_sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "native_filename": "Konosuba - Main Series - Volume 13.epub",
+      "member_sha256": "fc3416a3a5c0dd4f6eb16037b4d9518da6cfc3b94f9a6a8f4572b8b53747bf8a",
+      "member_total_slots": 470,
+      "accepted_member_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 470,
+        "member_sha256": "fc3416a3a5c0dd4f6eb16037b4d9518da6cfc3b94f9a6a8f4572b8b53747bf8a"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          160
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-15",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "native_filename": "Konosuba - Main Series - Volume 15.epub",
+      "member_sha256": "62264c946d696bf76f8157315c0afc387761798f1c3bf565a5aaf9b05f272203",
+      "member_total_slots": 373,
+      "accepted_member_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 373,
+        "member_sha256": "62264c946d696bf76f8157315c0afc387761798f1c3bf565a5aaf9b05f272203"
+      },
+      "received_BASE_ranges": [
+        [
+          80,
+          210
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-16",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45",
+      "member_total_slots": 538,
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 538,
+        "member_sha256": "2c808e5d6c6a062a4ffcf30ee79751c71013956608ad60039aedc20f77f6fa45"
+      },
+      "received_BASE_ranges": [
+        [
+          90,
+          240
+        ],
+        [
+          241,
+          310
+        ]
+      ]
+    },
+    {
+      "source_id": "DUST-07",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "member_total_slots": 1115,
+      "accepted_member_contract": {
+        "component_id": "DUST-07-U011",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+        "paragraph_slots": 1115,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          200,
+          360
+        ],
+        [
+          990,
+          1075
+        ]
+      ]
+    },
+    {
+      "source_id": "DUST-07",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "member_total_slots": 677,
+      "accepted_member_contract": {
+        "component_id": "DUST-07-U013",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+        "paragraph_slots": 677,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          120,
+          260
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-17",
+      "member": "text/part0014.html",
+      "native_sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "native_filename": "Konosuba - Main Series - Volume 17.epub",
+      "member_sha256": "0e6c75df4820ebbb68b8b42bb6e6348d17c9d41e2558c13c752f67b942bbe846",
+      "member_total_slots": 37,
+      "accepted_member_contract": {
+        "component_id": "MAIN-17-U016",
+        "current_component_role": "CREATOR_AFTERWORD_MODAL_PARALLEL_CAMPAIGN_SYNOPSIS_FUTURE_THREADS_AND_CLOSING_ART",
+        "actual_full_text_and_ruby_read": null,
+        "actual_full_text_ruby_and_residual_read": true,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          37
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0006.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "75b39bacdfafaa28c555ba15cb7156e43f5b15576e441a0a9e28509360a9fd45",
+      "member_total_slots": 13,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U008",
+        "member": "OEBPS/Text/part0006.xhtml",
+        "member_sha256": "75b39bacdfafaa28c555ba15cb7156e43f5b15576e441a0a9e28509360a9fd45",
+        "paragraph_slots": 13,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          13
+        ]
+      ]
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0028.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "native_filename": "Konosuba - Spin-off - Continued Explosions - Volume 02.epub",
+      "member_sha256": "17bdbaf8a0f5b0b34fcf30a165cf1dc8ff0f846621e46293d83446e3e49231c9",
+      "member_total_slots": 2,
+      "accepted_member_contract": {
+        "component_id": "CONTEXP-02-U030",
+        "member": "OEBPS/Text/part0028.xhtml",
+        "member_sha256": "17bdbaf8a0f5b0b34fcf30a165cf1dc8ff0f846621e46293d83446e3e49231c9",
+        "paragraph_slots": 2,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-15",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "native_filename": "Konosuba - Main Series - Volume 15.epub",
+      "member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e",
+      "member_total_slots": 505,
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 505,
+        "member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e"
+      },
+      "received_BASE_ranges": [
+        [
+          330,
+          400
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "native_filename": "Konosuba - Main Series - Volume 02.epub",
+      "member_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc",
+      "member_total_slots": 530,
+      "accepted_member_contract": {
+        "alias": "C3 / start",
+        "paragraph_slots": 530,
+        "member_sha256": "ef17fa152242d088aacdc2d2e8d867ada55e6e495162d849e50f16086cc006fc"
+      },
+      "received_BASE_ranges": [
+        [
+          220,
+          255
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-03",
+      "member": "item/xhtml/p-007.xhtml",
+      "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "native_filename": "Konosuba - Main Series - Volume 03.epub",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "member_total_slots": 638,
+      "accepted_member_contract": {
+        "alias": "C2 / start",
+        "paragraph_slots": 638,
+        "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d"
+      },
+      "received_BASE_ranges": [
+        [
+          460,
+          515
+        ],
+        [
+          550,
+          600
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-08",
+      "member": "text/part0010.html",
+      "native_sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "native_filename": "Konosuba - Main Series - Volume 08.epub",
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "member_total_slots": 452,
+      "accepted_member_contract": {
+        "alias": "C1 / start",
+        "paragraph_slots": 452,
+        "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874"
+      },
+      "received_BASE_ranges": [
+        [
+          290,
+          370
+        ]
+      ]
+    },
+    {
+      "source_id": "MAIN-09",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "native_filename": "Konosuba - Main Series - Volume 09.epub",
+      "member_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a",
+      "member_total_slots": 868,
+      "accepted_member_contract": {
+        "alias": "F / start",
+        "paragraph_slots": 868,
+        "member_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a"
+      },
+      "received_BASE_ranges": [
+        [
+          115,
+          150
+        ]
+      ]
+    },
+    {
+      "source_id": "YORI-01",
+      "member": "text/part0010.html",
+      "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+      "member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+      "member_total_slots": 336,
+      "accepted_member_contract": {
+        "component_id": "YORI-01-U012",
+        "current_component_role": "STORY01_AXEL_ARCHPRIEST",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          150,
+          265
+        ]
+      ]
+    },
+    {
+      "source_id": "YORI-02",
+      "member": "item/xhtml/p-019.xhtml",
+      "native_sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "native_filename": "Konosuba - Short Stories - Yorimichi 2.epub",
+      "member_sha256": "8fbfe5da64f05b627311e515fb61f9bd73636b3ddc89eb8cb39728ddf3e6630b",
+      "member_total_slots": 77,
+      "accepted_member_contract": {
+        "component_id": "YORI-02-U028",
+        "current_component_role": "MINI03_CONCERNED_FRIEND_BIRTHDAY",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          45,
+          77
+        ]
+      ]
+    },
+    {
+      "source_id": "DUST-CONT",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+      "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "member_total_slots": 510,
+      "accepted_member_contract": {
+        "component_id": "DUST-CONT-U012",
+        "current_component_role": "PRINCIPAL_CHAPTER_THREE_INVESTIGATION_AND_LEEN_VIEWPOINT",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          270,
+          330
+        ]
+      ]
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+      "member_sha256": "e2b37d53c0f123af0a10e896a3f9ca552b74cd2a3050ecad462a7b4f73c734e8",
+      "member_total_slots": 592,
+      "accepted_member_contract": {
+        "component_id": "FD-U013",
+        "current_component_role": "PRINCIPAL_CHAPTER_TWO_KAZUMA_NARRATOR",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          75,
+          115
+        ]
+      ]
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+      "member_sha256": "84b69ab4fbb7c997ed442716b501abb2b7d6079ef858f16f9939f16ac08b06b7",
+      "member_total_slots": 560,
+      "accepted_member_contract": {
+        "component_id": "FD-U015",
+        "current_component_role": "PRINCIPAL_CHAPTER_FOUR_KAZUMA_NARRATOR",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          280,
+          350
+        ]
+      ]
+    },
+    {
+      "source_id": "FD",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "native_filename": "Konosuba - Spin-off - Fantastic Days.epub",
+      "member_sha256": "df2b7d5cc566cba5825265989977d995a68483d874ce20d8994a7c09578dc803",
+      "member_total_slots": 455,
+      "accepted_member_contract": {
+        "component_id": "FD-U017",
+        "current_component_role": "PRINCIPAL_CHAPTER_SIX_KAZUMA_NARRATOR_WITH_QUOTED_LIA_PAST",
+        "actual_full_text_and_ruby_read": true,
+        "actual_full_text_ruby_and_residual_read": null,
+        "source_plane": "Previously accepted separate component; role preserved,not presumed principal fiction"
+      },
+      "received_BASE_ranges": [
+        [
+          65,
+          110
+        ],
+        [
+          280,
+          340
+        ]
+      ]
+    },
+    {
+      "source_id": "EXP-03",
+      "member": "item/xhtml/p-025.xhtml",
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+      "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+      "member_total_slots": 561,
+      "accepted_member_contract": {
+        "component_id": "EXP-03-U034",
+        "member": "item/xhtml/p-025.xhtml",
+        "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+        "paragraph_slots": 561,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          15,
+          150
+        ],
+        [
+          195,
+          260
+        ],
+        [
+          430,
+          490
+        ]
+      ]
+    },
+    {
+      "source_id": "EXP-01",
+      "member": "item/xhtml/p-013.xhtml",
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "member_total_slots": 703,
+      "accepted_member_contract": {
+        "component_id": "EXP-01-U023",
+        "member": "item/xhtml/p-013.xhtml",
+        "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "paragraph_slots": 703,
+        "scope": "Current accepted supplemental component; bounded BASE context, no new admission/ruby/full-source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          235,
+          275
+        ]
+      ]
+    },
+    {
+      "source_id": "DUST-02",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "member_sha256": "03ba3c619b0841e887d3d17d285391661633457189007737fc37a3c9ce710fac",
+      "member_total_slots": 550,
+      "accepted_member_contract": {
+        "unit": "C04",
+        "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+        "gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+        "scope": "Current exact accepted Dust02 principal unit; original blank questions preserved; no new source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          285,
+          325
+        ],
+        [
+          520,
+          550
+        ]
+      ]
+    },
+    {
+      "source_id": "DUST-02",
+      "member": "item/xhtml/p-008.xhtml",
+      "native_sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "native_filename": "Konosuba Extra - Dust - Volume 02.epub",
+      "member_sha256": "76cf0ab4cc98c9394868a130ff5ae11ecfce1fefe95fe3cd378b03277af733c2",
+      "member_total_slots": 68,
+      "accepted_member_contract": {
+        "unit": "Epi",
+        "accepted_reading_receipt_sha256": "8c9de1f7c8d701de4ca3821115e2855c2a425b7471a99bb56dc31ed4b49e0e34",
+        "gate_sha256": "ef6802eb2cbcff646245478ec232f896399d662beb7c7e62a4ea7c8d31563663",
+        "scope": "Current exact accepted Dust02 principal unit; original blank questions preserved; no new source pass"
+      },
+      "received_BASE_ranges": [
+        [
+          1,
+          35
+        ]
+      ]
+    }
+  ],
+  "member_count": 40,
+  "native_text_object_count": 18,
+  "complete_BASE_member_scopes": [
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "slots": 509
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0029.xhtml",
+      "slots": 57
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0018.xhtml",
+      "slots": 577
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0024.xhtml",
+      "slots": 79
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0021.xhtml",
+      "slots": 412
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0010.html",
+      "slots": 378
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0014.html",
+      "slots": 582
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0015.html",
+      "slots": 438
+    },
+    {
+      "source_id": "MAIN-12",
+      "member": "text/part0016.html",
+      "slots": 91
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0009.html",
+      "slots": 22
+    },
+    {
+      "source_id": "MAIN-13",
+      "member": "text/part0010.html",
+      "slots": 473
+    },
+    {
+      "source_id": "MAIN-17",
+      "member": "text/part0014.html",
+      "slots": 37
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0006.xhtml",
+      "slots": 13
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "member": "OEBPS/Text/part0028.xhtml",
+      "slots": 2
+    }
+  ],
+  "source_receiving_notes": [
+    {
+      "scope": "CONTEXP-02 U013 P1-265",
+      "judgment": "Complete scene setup read. Megumin narrates her recruitment failure,Yunyun social caution,Iris guards and royal identity,capital guild encounter with Rex/Sophie/Terry,and constrained guild requests. These preserve relational/narratorial context; none establishes current target traits merely by proximity. Arshe/Andy atP20 are additional named-role retrieval leads,not joined to any existing census identity here."
+    },
+    {
+      "scope": "CONTEXP-02 U013 P266-328",
+      "judgment": "Barton explicitly self-identifies P281 and says biology is his livelihood. He rejects Megumin weakness-research assumption and voices curiosity about flying cabbages/field saury P286; Iris questions receive admitted ignorance P292/300. Professor demand P298,child-question aversion P318 and trained-intuition fallback P320 are actual speech. He admits hypothesis proof is irrelevant to this request P304: rain dislikes and next-day conditional date with Barbera P310 are his reported motives. Monster existence is later observed; weather causal claim is not thereby verified."
+    },
+    {
+      "scope": "CONTEXP-02 U013 P330-441",
+      "judgment": "Barton remains engaged with and explains alraune while restrained/affected; claims about seeds/sap are his account,not independently established biology. Sketching a threatened novice-killer delays withdrawal P355-367. He revises spoiled-child judgment of Iris after demonstrated competence P370 and offers future live-in assistant work P370-379,not an actual appointment. Freeze advice to Scareosaurus knowingly enhances its power and scale value P383-394,task-mismatched but domain-specific; actual scale change is seen. Actual toad vast size surprises him P414; he wants ingestion for research but recognizes death risk. Withholds hint for title then rapidly gives it under threat P418-420. Advertising his book P428 is spoken,not independent evidence all book facts are true."
+    },
+    {
+      "scope": "CONTEXP-02 U013 P443-509",
+      "judgment": "Barton initially resists retreat for date P443-447,then accepts guild refusal/context,severity and companions effort P452; no invariant disregard for others. His Barbera childhood friendship,debt-laden inherited tavern,other customers dates/gifts and his repeated refusals are reports P456; younger-brother explanation P460 is explicitly his conjecture. Megumin other-customer claim P448 and unfinished explanation P475 are not Barbera testimony. Megumin/Iris choose costly assistance and teleport cover; toad strike and rain-charms do not establish weather causation or a performed date. Barbera never appears or speaks in this component."
+    },
+    {
+      "scope": "CONTEXP-02 U016 P1-220",
+      "judgment": "Narrator sees recent sunshine P34 but explicitly wonders whether previous quest caused it and whether date occurred P35; neither is causal confirmation. Shop-sweeping costume devil named Zereschilt by Iris P143-150; narrator former lord/royal acquaintance and Iris childhood play are separate contextual reports. He invokes species constraint against casually naming people P151,then concedes requested Iris-sama P157 when she starts drawing sword; narrator says he backs away P158 and remaining lives precarious P159. This is coerced accommodation,not a completed fair recognition duel. Cecily pursues costume opening P175-179 despite his protests and appeal to Vanir; no consent or inferred enjoyment. Full remaining U016221-485 not received in this tranche."
+    },
+    {
+      "scope": "CONTEXP-02 U031 P1-57",
+      "judgment": "Whole bounded component read. Zereschilt sweeping shop,initial surprise at being invited as demon,asks about prejudice P19 and shows enjoyment with wings. His own self-description twice uses exact 残虐候 P25/P37; do not silently change to侯 or equate with COUNT address elsewhere. Requests mutual power test; protests surprise attacks as defeating purpose P28. Megumin attacks during speech and orders Yunyun to open costume rear; his surrender P32 is under two-person pressure,not fair test. Accepts adventure,states desire to restore respect P37,then Wiz/Vanir take outing and assign him shop duty P50-55. Desired plan and actual outcome differ; no performed monster-hunt feat in this component."
+    },
+    {
+      "scope": "CONTEXP-02 U020 P1-183",
+      "judgment": "Guild staff report Barton donations,publication fame,and submitted toad remains P61-74; Megumin own card verifies recorded toad kill,not weather theory. Beat/Clarice explicitly identify warrior/priest P90-103; retain current separate queued census subjects,not current tier decision. Unnamed royal gate captain volunteers after shift to protect Iris by substitute-frontline work P155-180; no personal name/identity with earlier guards inferred. Principal relational scenes preserve Megumin recruitment interference,Yunyun loss of desired companions and Iris desire to remain useful."
+    },
+    {
+      "scope": "CONTEXP-02 U020 P184-240",
+      "judgment": "Barton ignores greetings lacking professor then replies immediately P193-198; formally awarded doctorate is his P194 report corroborated only as public status by staff/companions,not a viewed certificate. Thanks party for success while enjoying status/signed-book offers. Says Barbera initiated later date and requested gifts P209,refused highest-price engagement ring P215. Refusal cause is unresolved: Megumin unwanted-commitment interpretation P217,Barton doubts P220 and Iris own-ring projection P229 are distinct,not Barbera stated motives. He belittles Iris age P232 yet takes her advice seriously P235-237."
+    },
+    {
+      "scope": "CONTEXP-02 U020 P249-416",
+      "judgment": "Barton gives real magic-eater options but impractical hundred-light-of-saber fallback; Iris stronger weapon actually defeats them. Announces hidden scat evidence and small shed crystal P293-315; later actual rare animal supports presence,not infallible tracking. Refuses killing rarity,proposes regenerating tail tip P319; regeneration remains his report. Weak point answer instead describes petting P350 and he obstructs explosion P354-358. Megumin invokes child danger and Barbera likely refusal P361; he agrees with that conjecture P370 then personally volunteers trembling decoy P375-385,not purely abstract morality or absence of fear. Submission pose attempt fails to calm creature P399-407; companions still act. Ecology,selective affection,status and relationship goal interact; no universal conservation principle."
+    },
+    {
+      "scope": "CONTEXP-02 U020 P419-499",
+      "judgment": "Liger steals necklace after Iris hesitation/recalled lapse; Barton accepts responsibility for initiating search and offers apology/restitution P435,not actually completed payment or royal pardon. Small fallen crystal becomes feasible gift P448-453; he doubts initially but accepts companions encouragement. Immediately objects rediscovery could cause hunting P458; explicitly differentiates beloved liger from toad P464,showing selective concern. Requests trusted party ingenuity P468. Iris states royal identity P480; his startled sweating recognition P481-492 is actual narrated reaction,not prior deliberate disrespect of known princess. Megumin stages false extinction story/explosion to conceal surviving animal; no performed animal extermination."
+    },
+    {
+      "scope": "CONTEXP-02 U020 P501-577",
+      "judgment": "Distant woman at small tavern tentatively identified as proprietress by narrator P502; companions explicitly name Barbera P505 and both seem happy. Narrator explicitly cannot hear questions/replies P503; no invented line,ring acceptance,engagement or marriage. Megumin mutual-affection conclusion P511 is narrator interpretation,not omniscient independent proof. Female capital police officer detains/admonishes explosion P512-526 then releases in royal-presence context; preserve as unnamed role follow-up until census identity checked. Party leadership/self-serving judgments in final discussion concern principals,not independent target validation."
+    },
+    {
+      "scope": "CONTEXP-02 U026 P1-79",
+      "judgment": "Whole bounded epilogue read before preceding U023 scene; preserve narrative gap pending actual reading. Narrator recalls Barton persuading liger to return jewel and leave P7-12; he celebrates nonlethal outcome and possible human-language understanding P8-26,not proof of general animal speech capacity. Gladly gives signatures and launches ecology explanation under Aqua flattery P28-30. Late theory about crystallized goji component P74 is explicitly minority/unaccepted,not established transformation identity. Megumin/Kazuma recognize resemblance to prior novice-killer but cannot verify individual identity. No Barbera follow-up or performed repayment here."
+    },
+    {
+      "scope": "CONTEXP-02 U023 P1-163",
+      "judgment": "Whole component now received in three complete windows. Narration switches to Kazuma here,distinct from Megumin in other received CONTEXP02 components. Party pressure includes actual restraint,drain and threats,not a neutral consensual contract simply because later play language is enjoyed. Royal-capital teleport worker refusal follows superior instruction P108-113; unnamed role,not automatically royal gate officer. Rex corrects Megumin erroneous Max to Rex P142-157,explicitly confirms past recruitment. No join to Maxwell or prior nickname."
+    },
+    {
+      "scope": "CONTEXP-02 U023 P164-300",
+      "judgment": "Barton introduces biological authority/celebrated writer and offers signature P166. Says he accompanies as repayment of prior help and because tracking needs him P172,while narrator attributes guilty responsibility P175. Professor demand P183,own chosen familiar -kun with party and ecological question-answer rapport with Aqua are observed. Scat bait prediction P194-201,actual liger after one hour P204-208,but gaze on Megumin leaves lure cause unisolated. Bikini armor theory P211 is Barton sexualized conjecture challenged by Darkness,not narrator-independent biology/actual survival data. Liger too fast and track lost; when party assumes he can derive exact den location,Barton explicitly says impossible P267-271. No universal tracking skill. Fruit-mimic naming and planned submission P281-295 are enthusiasm/future registration,not actual institutional approval."
+    },
+    {
+      "scope": "CONTEXP-02 U023 P301-412 / U026 P1-26",
+      "judgment": "Barton distinguishes beetle friendliness P302 and agrees behavior,not every monster threat. Interprets relaxed liger as dismissive P330-333; Kazuma cat-reading alternative P339 immediately fails at attackP347,not proof every Barton interpretation infallible. Protests rare-liger lethal plans P374/P400-402 and worries specifically about Darkness caught in blast P382; this adds concern for human companion beyond favored species. Goji/temperament statementP402 prompts later Megumin own recollection (U026P34-40); narrator U023expects killing but actual blast hits nestP412,and U026P7-12 retrospectively reports Barton persuaded liger to return jewel/leave. Do not invent his exact unseen dialogue or say his intervention alone caused Megumin deliberate miss. Necklace already stolen back by Kazuma U023P393-395. Broader individual-liger continuity remains conjectural in narrated recollection,not exact identification."
+    },
+    {
+      "scope": "MAIN12 C1 P1-166",
+      "judgment": "Sylphina directly states Dustiness Ford Sylphina P38 and cousin relationship P46; Darkness explicitly rejects daughter inference P40 and says living fatherP50,prior careP54; maternal death and maternal-aunt lineage are Darkness report P65-67,not invented genetics. Child visibly anxious under adult insinuations,formal greeting,own laughter P55/77 and apology for enjoying cousin livelinessP79,own assent to playP113. Mama address becomes privately allowedP92-93; no literal parentage. Pretend-play mother sets civic/hero-support goalsP123/132,then revises to merchant supporting heroes after alternate explanationP135-137. Wants Darkness sleep companyP151 and shows delightP152; narrator motiveP153 remains inference. Adult reproductive/romantic comments P154-165 are not child consent,sexual interest or mature readiness."
+    },
+    {
+      "scope": "MAIN12 C1 P169-378 / C2 P1-175",
+      "judgment": "Dinner Sylphina enjoys reported play but assumes guilt for Mama rumorP182-183 and is reassuredP184; ordinary companionship/gamesP190. C1later romance is between principals,not Sylphina agency beyond contextual mentionP212/312. C2Aqua reports child nervously feeding chick P14,with narrator rejecting dragon interpretationP15; Darkness arranging same-age playP17 and Aqua futurepicnic wishP82 are adult plans,not performed child social success or explicit child request. C2tax official justification and crowd collectionP131-175 are a separate unnamed role lead; no join to royal or Elroad prosecutors."
+    },
+    {
+      "scope": "MAIN12 C4 P240-346",
+      "judgment": "Adults rumor/teasing claims about Sylphina-as-daughter are explicitly false/contextually jocular; no parentage evidence. Orphanage children collapseP294,Sylphina identified collapsedP312. Vanir attributes carrier disease/toxin processP311 and differential treatmentP318-325; keep diagnosis/explanation his source-level account,not real-world medical advice. Aqua symptomatic relief noted P317; carrier requires remedy despite stamina supportP320. Vanir actual soil-body distinctionP332 and low-rank succubi inadequacyP335 set material constraints; solicitation of material from higher demon remains future here."
+    },
+    {
+      "scope": "MAIN12 C5 P1-321",
+      "judgment": "Quest setup: Aqua/Megumin remain to support children; Kazuma pays for obtainable materials and adventurers volunteer other ingredients P49-60. Travel humor shows chosen food/comfort and knowledge gaps in principals,not current-target traits. Castle guards initial appointment rule,one offers referral P299,actual admission follows Darkness toilet requestP306-311; do not misattribute urgent admission to flawless negotiation or Zereschilt knowingly refusing sick children. Unnamed castle guard/staff roles are leads,not named-character joins."
+    },
+    {
+      "scope": "MAIN12 C5 P322-434",
+      "judgment": "Darkness introduces ゼーレシルト伯爵 and nickname 残虐公 P322; this exact 公 differs from own CONTEXP02 残虐候 P25/P37; retain both source spellings,not silently fix rank. Actual costume matched by name/relationship and narrative,not penguin appearance alone. Courtly greeting P338,then blunt food/negative-emotion talk when Vanir connection disclosedP368. His question about Eris faith concerns lost spell capacityP378,not Darkness grand ethical self-descriptionP374. States physically manifested nail removal painful P385 unlike Vanir soil surrogate. Refuses money because satisfied administrating/tax revenueP405,refuses more landP411; fiscal proficiency remains his report. Kazuma territory offerP408 unauthorized (Darkness objectionsP409/414) separate from subject refusal. Subject recognizes exposure/Aqua threat as blackmailP419-425,finds novelty amusing,denies sexual demandP428,proposes contestP430-432. Money refusal alone is not altruistic help."
+    },
+    {
+      "scope": "MAIN12 C5 P437-582",
+      "judgment": "Subject chooses Darkness as spectacleP443-448,explicitly seeks shame/humiliation/inferiority from proud nobleP467 after earlier rejecting her ordinary embarrassment as Vanir tasteP382; no simplistic claim he never likes shame. Real refusal of giving nail without payment persists. Monsters fail desired emotional result: Darkness attacks miss; subject invents intentional restraintP480-484,and misreads orc retreat as holy protectionP525; narrator trauma theoryP528 also conjecture. Demonic affect detection does not imply infallible motive interpretation. Personal attack occurs P541-545; bodily form details deliberately skippedP562-565. Narrator says Darkness enjoyed and subject withdrew frustrated at no desired emotionsP570-571; do not invent precise unreported acts,completed fair duel,or drug/nail transfer here."
+    },
+    {
+      "scope": "MAIN12 F P1-300",
+      "judgment": "Darkness prior visits/location knowledgeP159/189 corrects Kazuma/Chris presumptions; monsters actively patrolP197/230. Unnamed human guards,orc pair and staff remain roles pending census check. Zereschilt welcomes masked intruders knowinglyP267-284; Chris first stabs him with anti-demon daggerP287 before his physical counterP290. Actual wound emits dark miasmaP291. Needs material,not annihilation: characters explicitly distinguish loss of bodily material after banishmentP292. No spontaneous unprovoked first attack by Zereschilt in this night scene; earlier arena remains his own coercive spectacle."
+    },
+    {
+      "scope": "MAIN12 F P301-438",
+      "judgment": "Zereschilt protests holy dagger painP306/336; tries opening back,restrained with Darkness. Actual dark tendrils from cuts burn herP325-342; actual nail found in excised wingP344. Aqua water burns himP364-368. Eris later beats him,he resists costume opening and loses many livesP389-394; no total destruction/unlimited lives. Narrator conclusion he did nothing particularly bad besides demonhoodP394 is limited/evaluative and does not erase prior deliberate humiliation/threat spectacle. Sylphina greets and smiles before material deliveryP400-402,embrace initiated by DarknessP410. Megumin says recovery exceeds disease harmP419; Vanir explicitly says girl remains internally gravely illP422. Thus appearance is not cure,and nail quest not retrospectively unnecessary. Recipe debate still unresolved by endP428-436."
+    },
+    {
+      "scope": "MAIN12 Ep P1-91",
+      "judgment": "Whole epilogue read. Sylphina convalescent qualifierP14,delights in rainbowP10-12,had envied prior picnic and helps prepared outingP32,excitedly watches cookingP37. Own fish-sharing proposalP40 has explicit limited appetite plus response to quarrel,not self-starvation or indiscriminate adult caretaking. Brings Darkness fishP78; surprise/apologyP79 at adult intimacy does not establish child approval,trauma diagnosis or sexual understanding. Adults continue their own rivalry/teasing; child profile keeps those planes separate."
+    },
+    {
+      "scope": "MAIN13 Pr P1-22 / C1 P1-150",
+      "judgment": "Sylphina directly offers small flower and thanks to WizPr16-20; Wiz kneels/eye-level invitation is Wiz action. C1P27 explicitly attributes dramatic recovery to medicine and reports daily school attendance; do not retain old broad wording as independently voiced cure/picnic/school requests. Child requested thanking adventurersP28,actually gives shy thanksP34-35,laughs at lively surroundingsP49. Recovery after completed remedy distinct from M12pre-remedy wellness. Adult ownership/harassment claimsP13-46 are not her consent/understanding. No new final adult/mature model inferred from these scenes."
+    },
+    {
+      "scope": "MAIN13 C1 P151-300",
+      "judgment": "Zereschilt enters for helpP198,actual Aqua annihilation/Vanir immediate restorationP201-220. Vanir says all remaining lives erased and only immediate nearby intervention allowed sharing; future encounter absent him finalP220. Eris repeated raidsP231,Zer castle likingP248,job as succubus doorman/guard and favored affectsP251 are subject reports/plans,not performed appointment or his DemonKing allegiance. He recognizes Kazuma,asks mediationP244,regrets homelessness and money lossP272. Sylphina own fascinationP270 and embraceP289 precede adults arrangement; sadness at maternal denialP280 is child attachment,not altered parentage. Zer glad she recovered and waives grudgeP281,requests Darkness patronageP290 while refuge objective coexists compassion. Aqua promises only not to purify in child presenceP291,explicitly threatens elsewhere. No general child-derived protection charm or universal safety."
+    },
+    {
+      "scope": "MAIN13 C1 P301-473 / C2 P180-280",
+      "judgment": "Zer volunteers shop watchP319 while Darkness stays with child and others chase treasure; no forced outing replacement in this specific scene (CONTEXP02U031 differs). Remaining C1turtle scene belongs to other actors,not Zer hunting feat. C2actual Aqua ambush kills him sweepingP207-219; Vanir rebukes actual shared-life costP214-215. Tea goes to water due Aqua,not evidence Zer cannot make teaP227-230. His specific plea to Kazuma to hear morale-breaking grievanceP231 is own emotional speech,not assumption demons feel nothing. Party abandons systematic leveling because empathy/tactical alternativesP242-248,yet further Aqua purification is reportedP252; do not turn their qualms into completed enduring safety."
+    },
+    {
+      "scope": "MAIN13 C2 P380-495 / C3 P1-100",
+      "judgment": "C2Sylphina mentionP447 occurs only in Darkness explanation of thanks during adult bath; child absent,not a fresh child choice. C3Sylphina recovery-party mentionP12 is retrospective context for Kazuma boasting,not child testimony or extra independent recovery event. These spans were fully received but yield no new target action beyond attributable mentions. Preserve broader principals jealousy/pressure/accountability for later distinct successor work,not sexual material for child reconstruction."
+    },
+    {
+      "scope": "MAIN13 C4 P1-120 / F P1-160",
+      "judgment": "C4Zer voluntarily risks visiting household outside Vanir protectionP21-27 to seek Kazuma aid because shop superiors conflict beyond his abilityP41; fear does not imply automatic withdrawal or total interpersonal passivity. Aqua immediate threat distinct from purpose; no actual attack in this C4span. FactualAqua purification/Vanirrestoration againP46-54. Vanir staffing explanationP63 is other speaker,while Zer own introductionP66 and naming conventionP69 are direct. Says recognizes Darkness as proper nobleP72; does not here name Megumin or complete recognition contest. Shop duty/currentwork observed,permanent contract/actualsuccubus appointment unproved. F160bound only,not whole470P reading."
+    },
+    {
+      "scope": "MAIN15 F P80-210",
+      "judgment": "Zer carries shop purchasesP82,freezes under Aqua scrutinyP85,then despite trembling moves to Wiz side as threat escalatesP123. Vanir explicitly interposesP125; Zer by-side movement should not be inflated into solo shield/completed fight. Later shares gaze at AquaP163. No Zer speech or use of violence in this span. Wiz trust/choice and Aqua retreat are their own acts. Favored relationship can prompt approach despite fear; unconditional courage or universal altruism not earned."
+    },
+    {
+      "scope": "MAIN16 C3 P90-240",
+      "judgment": "First portion concerns principals relationship/absentAqua,not target. Zer present at sendoffP152 and explicitly identifiedP165; thanks Kazuma for repeated goddess protection and offers hospitality in own hell territory if he diesP166. This is a conditional encouragement/invitation,not performed afterlife transfer,destined damnation,or life-saving protection charm. Kazuma treats as demon-style encouragementP168,his interpretation. He does not himself verbally send Kazuma to kill DemonKing."
+    },
+    {
+      "scope": "DUST07 U011 P200-360",
+      "judgment": "Dust narrates. Zer self-identifies ゼーレシルト / 残虐公 / noble / devilP269,providing own 公 spelling in addition to CONTEXP候; preserve source variant. Dust remembers rumor from knight daysP271,not full independent biography. InsultingcourtesyshiftsP255-259; Dust kicks then tries forcingzipperP261-264; Zer says cannot riot in Vanir baseP264 and asks child help,showing restraint context,not incompetence. Begins conditional information bargainP281; Dust forcesholy-whitedragon saliva into costumeP282-289; actual pain/forced disclosureP293,not voluntary fair trade. Dragon identity realized after harm; no inferred omniscience. Grabs Dust to ask removal of distraughtsuccubusP297-302,not attack/revenge. Remaining wartime defense talk is Dust/Lolierina/shopkeeper agency; no performed Zer battlefield feat in this window. Earlier clerk-proof,public rumor and present troops remain different source planes."
+    },
+    {
+      "scope": "DUST07 U013 P120-260",
+      "judgment": "Actual alias-only positive target sceneP187-188: Dust sees the same shop bird-costume figure moving nimbly and overwhelming monsters at magic shop,within town invasion. This adds performed context-specific combat/defense competence and directly contradicts absolute helpless/coward caricature. Dust calls it guardbird P188. Do not inflate to solo town victory,all-enemy annihilation or infer specific demonic techniques/own unspoken motive. Parallel main-afterword is another plane of the campaign,not independent duplicate event. Other actors defenses,Vanir paid aid,P253Noth arrest are distinct; Noth identity not Zer costume."
+    },
+    {
+      "scope": "DUST07 U011 P990-1075",
+      "judgment": "Bird plush at bus sendoffP1036 is contextual identification with prior named shop figure and matching MAIN16C3P152-166. Presence adds no new named speech or own speech beyond previously read MAIN16 hospitality. Simultaneous-viewpoint recurrence is not independent validation/event. Lolierina messenger and spear provenance are separate speaker/narrator planes."
+    },
+    {
+      "scope": "CONTEXP02 U016 P221-270",
+      "judgment": "Cecily still holds exhausted,resisting costumeP225 after attemptsP224,not successful consent to exposure. Remaining mask demonstration/transport concerns Vanir/Cecily and travel party; do not impute observed contents or title to Zer. Completes received shop transition through exit; U016 remains bounded1-270 of485."
+    },
+    {
+      "scope": "MAIN17 creator afterword U016 P1-37",
+      "judgment": "Correct exact component is previously accepted excluded CREATOR_AFTERWORD_MODAL_PARALLEL_CAMPAIGN_SYNOPSIS_FUTURE_THREADS_AND_CLOSING_ART,not principal epilogue. Actual text contains creator campaign sketchP8-18: former-noble strange costume may be fightingP10,with modal かもしれません and broader でしょう. It is attributed creator summary/proposal,not participant witness or an independently dramatized battle. Actual DUST07P187 supplies separate performed shop-defense scene; do not count two independent events or invent every sketch detail. Author spoiler-order requestP6 is book content,not an instruction from human. Future awards/marriage/promisesP23-26 not performed events. P37 image slot not viewed by text delivery."
+    },
+    {
+      "scope": "CONTEXP02 TOC U008 P1-13 / bonus title U030 P1-2",
+      "judgment": "Both exact bibliographic/title components use たまには本気の着ぐるみ侯爵,distinct from bonus body self-spelling残虐候. MAIN12 and DUST07 use残虐公; count address伯/伯爵 another function. Preserve source/title orthographic variation without declaring a uniform rank,typo correction or different person solely from 公/候/侯爵. Title existence is metadata/bibliographic reading,not enacted seriousness or rank promotion."
+    },
+    {
+      "scope": "MAIN15 C1 P330-400 / MAIN16 C3 P241-310",
+      "judgment": "Alias mascot hits are explicitly Aqua M15P367/M16P263,not Zereschilt. No target event/identity credit from mascot wording. Later M16P294-298 prison escape report concerns Serena manipulating unnamed guard,not directly witnessed current cohort action or a new independent Serena test. Retain separate future census role lead and priorC27cores unchanged."
+    },
+    {
+      "scope": "Reader failures8a4a08/d8f839 and correction437ad2/79e410",
+      "judgment": "Two guarded MAIN17attempts produced no rawfile/no native-slot credit: principalreader correctly refused excluded member,additionalreader01 lacked MAIN17accepted flag actual_full_text_ruby_and_residual_read. Current register/member/role inspected437ad2; immutable adapter02 adds that observed trueflag while preserving all native/member/register pins,then actual nativeee026a received. Failed labels preserved as absent files; no source gate bypass or new admission."
+    },
+    {
+      "scope": "MAIN02 C3 P220-255",
+      "judgment": "Plush/doll preferenceP239 occurs in Aqua attributed account of deceased Anna=Filante=Esteroid and her isolation,not Sylphina or Zer. Kazuma explicitly doubts narrator reliabilityP240-243; neither biological family nor claimed witness access may be transferred by thematic resemblance. Bounded negative alias classification only; no full ghost-profile review earned."
+    },
+    {
+      "scope": "MAIN03 C2 P460-515 / P550-600",
+      "judgment": "Samurai/WinterShogun prize toy explicitly gift for YunyunP484-500,and held laterP579. It is an object,not the costume demon. Shopkeeper forbids archer/sniper skill by postedrule and charges doubleP491; preserve discrete existing long-tail stall/vendor lead,not join to unnamed later merchants. Yunyun social desire and rivalry are own/source-known observations for later separate successor work,not new independent tests."
+    },
+    {
+      "scope": "MAIN08 C1 P290-370 / MAIN09 F P115-150",
+      "judgment": "M8mascotP311 is Zel chick plus Vanir empty-shell bed context; M8plushP351 is Aqua account of Darkness tastes,not Zer. M9plushP133-134 compares Chomusuke to cute toys and Darkness preference; no Zer individual. M8Darkness says civil recordcleanP346,narrator infers privilege-driven alterationP348-350; this is later claim/inference,not an official viewed correction document or proof no prior registration. Retain later qualification for principal successors while preserving closedC28cores/firsts exact."
+    },
+    {
+      "scope": "YORI01 U012 P150-265",
+      "judgment": "Teddy bear holds deceased Transam Pickles per MeguminP176 and Aqua-mediated speech,not Zer demonic costume. Abraham/Pickles,maids,adoption-revelation,unheard ghost speech and narrator skeptical-to-accepting update remain separate long-tail actors/planes. Material doll cannot be joined to Zer or source-unknown family to Sylphina by wish/lineage themes. This span is a bounded reference classification,not wholeYori story pass or finished Pickles/Abraham disposition."
+    },
+    {
+      "scope": "YORI02 U028 P45-77 / DUSTCONT U012 P270-330",
+      "judgment": "Yori2P77 is contemplated plush gift for Darkness after Chris birthday scene,not Zer event. DUSTCONT P301-303 is positive anonymous recall of same magicshop bird-costume devil/count/favored humiliation; Dust explicitly treats Doreck motives as uncertain conjectureP304-306. No enacted Zer presence or proof Doreck is same demon. Lolierina/Lorysa names and royal disguise are distinct source-knowncontinuation contexts,not automatic newidentity/behavior join from costume word."
+    },
+    {
+      "scope": "FD U013 P75-115 / U015 P280-350 / U017 P65-110,P280-340",
+      "judgment": "All four FDspans preserve separate novelization continuity. Plush/mascot hits are Lia objects Ponta and Konjiro,not Zer. U015Daniel falsehostage/ventriloquism admissionsP332-334 and U017Lia changing own voiceP299-300 do not create independent living Konjiro character. Lia memories/reincarnation/illness are reported personal past at U017P68-106,not main-continuity fact or current C29tier assignment. Cielo/Erika own responses belong nextFDreview; no cross-continuity role merge from common noun."
+    },
+    {
+      "scope": "EXP01 U023 P235-275 / EXP03 U034 P15-150,P195-260,P430-490",
+      "judgment": "EXP01P253 plush simile is Komekko holding Kuro; EXP03plush is explicit black-cat scent lure for HoostP28/87-95/211/237/459; mascotP126-127 refers live Chomusuke/familiar. None is Zer. Hoost own remaining-life loss/contract releaseP489 is separate devil phase and cannot be transferred as universal Zer revival rule. Context includes Yunyun sleep/best-friend protection and Megumin correction of own magical-plan omission,plus Cecily actual treatment/hostile rivalry; preserve target-specific and narrator planes. No modification to earlier Hoostindex/Yunyuncores/qualitative scores."
+    },
+    {
+      "scope": "DUST02 C04 P285-325,P520-550 / Epi P1-35",
+      "judgment": "All plush references concern Yunyun desired shop toy and Dust smaller gift bought with remainingmoneyP537-545,followed by her own boastP15epilogue. No Zer identity. Current C04/Epi principal acceptance verified against exact readingreceipt8c9de1f7 and full gateef6802; original Breaderstdout saved for each alongside adaptedheader/unchanged nativeparagraphs. Explicitly no alteration of fourteen original blank Dust questionfields or four historical scores; no new full/ruby/image/independent credit from bounded context."
+    }
+  ],
+  "incomplete_delivery_attempts": [
+    {
+      "file": "C29_CONTEXP02_U013_P001_150_FIRST_DELIVERY_01.txt",
+      "sha256": "64fc4e81118820635da28dd85b61390af7b7be61a49ea215cbb18c6bdc9a346c",
+      "attempt": "Prior-context tool output exceeded available context and was truncated; raw file preserved untouched. No credit from that attempt.",
+      "recovery": "Complete original raw received through two bounded readbacks,6189c3 and f5f8fa."
+    }
+  ],
+  "source_plane_boundaries": [
+    "BASE excludes rt/rp/script/style. All paragraph slots in a complete declared window received; no new whole-source/ruby/residual/image/admission pass.",
+    "CONTEXP02 TOC13P and electronic bonus title2P are bibliographic text,not events. MAIN17afterword37P is creator modal campaign summary with final image slot unviewed,not principal epilogue or independent witness.",
+    "Initial name routing21resources and alias routing36resources share overlapping members/events;40members and6730BASE contexts are access counts,not target appearances,population or independent observations. Generic toys and Aqua/Zel mascot descriptions are classified separately.",
+    "FD contexts stay in their separate novelization continuity and only classify toys in this cohort. LaterFDcharacter review remains due.",
+    "DUST07actual shop defense and MAIN17modal campaign synopsis do not count as two independent defense trials. Retelling,report,letters,narrator inference and own present action remain distinct."
+  ],
+  "new_whole_source_ruby_residual_image_set_admission_or_independent_validation_credit": 0,
+  "new_image_views": 0,
+  "independent_observation_count": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

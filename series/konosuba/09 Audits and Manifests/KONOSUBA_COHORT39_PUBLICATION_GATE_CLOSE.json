@@ -1,0 +1,275 @@
+{
+  "schema": "konosuba.cohort39.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T19:30:11.702024+00:00",
+  "gate_scope": "Author publication tranche:ordinary source push,ready PR,full exact-source audit/latest trusted status and complete published authority reload. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "bebd59912de46d82a02777050ccb175f5e075029",
+  "tree": "37d0213161e1a0cffcd278b8af19f3f80babff85",
+  "source_parent": "883caf4419e117acc1fe83880b1316495a8b8640",
+  "previous_published_source": "9eb4d4c1a4f2c4c6ac130e9869ad478ecb40e47a",
+  "publication_main": "b44b96da54f0782ec7b006672a0a528b11057234",
+  "main_observed_at_close": "b44b96da54f0782ec7b006672a0a528b11057234",
+  "pull_request": {
+    "number": 316,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/316",
+    "state": "open",
+    "merged": false,
+    "head": "bebd59912de46d82a02777050ccb175f5e075029",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT39_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "d8ee7fcedca9ebedba12fd62cd4beb1dcf3b959bb9942b2d791e1258c10c8049",
+    "paths": 9949,
+    "project_paths": 1465,
+    "failed_attempt01_retained": true,
+    "passed_attempt": 2
+  },
+  "remote_readback": {
+    "file": "COHORT39_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "4de1c40e49a6bcd94feff00c0916af5a8333d70212ae44df01e7961af51733db",
+    "all9949_files_and46_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C39_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "8492a3c99578826b0ba2691fae179eae5e3003a73ac96532a4617719e57bfa99",
+    "run": 40124981724,
+    "job": 120964362144,
+    "reporter_job": 120965758204,
+    "actual_source": "bebd59912de46d82a02777050ccb175f5e075029",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/bebd59912de46d82a02777050ccb175f5e075029",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57175705667,
+      "node_id": "SC_kwDOUJ9ads8AAAANT_AIQw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40124981724",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T19:28:28Z",
+      "updated_at": "2026-10-24T19:28:28Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT39_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 368544,
+    "sha256": "695ac2214d05de45596ef0ec7f0cd7b87cd7e9ac774cd66b15c5b6ba993eaec5"
+  },
+  "current59_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort39.scope-assessment-draft.v1",
+    "recorded_utc": "2026-10-24T18:34:21.195059+00:00",
+    "subjects": [
+      {
+        "row": 79,
+        "subject": "Rouzeri / ルーゼリ",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "ROU-R01"
+        ],
+        "justification": "Expressed campaign accountability,desire to flee,valued army life and rejected exit coexist with pact argument,range change,recruitment and actual combat. One integrated provisional role-preserving survival hypothesis earns falsifiable conditional reconstruction;not a bravery label.",
+        "limits_and_rivals": "One concentrated encounter;generic fear,employment dependence,face-saving and attraction remain. No isolated cause,exact thresholds,executive appointment or checked permanent fate."
+      },
+      {
+        "row": 80,
+        "subject": "Recurring Axel general-store owner",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "DGO-R01"
+        ],
+        "justification": "Explicit recurrence across Dust01-07,ordinary property/work choices,recipient differences,chosen aid,own shared-life history and errors earn twelve dimensions and one bounded provision/ownership hypothesis. Correct old weapon-store label without erasing history.",
+        "limits_and_rivals": "No personal name,complete household or uniform pricing/care mechanism. Generic property defense,commercial interest,child-directed care and collective-defense investment remain. Source-known report and inference boundaries constrain former career,identity recognition and repair."
+      },
+      {
+        "row": 88,
+        "subject": "Helmeted noble / Dust admirer",
+        "proposed_scoped_tier": 3,
+        "proposed_rules": [
+          "HNO-R01"
+        ],
+        "justification": "Own private viewpoint,object-associated value,fallible rival inferences,actual acquisition,resources/combat assistance,concealment accommodation and finite lending terms earn one provisional closeness/preservation hypothesis. No anonymity or comic-sexual ceiling.",
+        "limits_and_rivals": "No personal name,wider noble alias join,precise cost threshold or reciprocity. Generic attachment,generosity,shyness and ordinary ownership remain. Contact violation stays adverse;child care and adult attraction distinct."
+      }
+    ],
+    "neighboring_roles": [
+      {
+        "row": 348,
+        "subject": "Larger apparent ogre leader at Axel defense (DUST07)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Taunts wounded defenders,recognizes Vanir and switches to respectful questioning,objects to his shop employment,then falls silent after dismissal. An enemy ogre starts competing bids;untagged later funding demand is not individually assigned.",
+        "limits_and_rivals": "No personal name,global disjoint identity,final payment or full troop-death check;Dust leaves during the outcome. One local agency profile,no inherited ogre model."
+      },
+      {
+        "row": 349,
+        "subject": "Familiar arresting officer requesting evacuation time (DUST07)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Initially rebukes apparent shirking,then accepts needed help,asks time to move wounded and obtain reinforcement,and warns Dust about the dangerous opponent. Recent arrest is not described as an innocent charge.",
+        "limits_and_rivals": "Request and danger warning are actual;completed evacuation/reinforcement by this hand unshown. Nos self-name and knockout retain existing78/137routes;no automatic future immunity from arrest."
+      },
+      {
+        "row": 350,
+        "subject": "Tomato seller lending a cart (DUST01)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Reports scarcity and a contracted farm,quotes a large total,actually takes Dust payment,and lends a cart with a return request. Dust notes changed sales manner after money is visible.",
+        "limits_and_rivals": "Crop/farm claims and source-of-money indifference are seller speech;no certified provenance,actual returned cart,completed compensation or identity join to other vendors. General-store owner later offers a separate purchase that is not completed."
+      },
+      {
+        "row": 351,
+        "subject": "Café waitress requiring an order (DUST01)",
+        "proposed_scoped_tier": 1,
+        "proposed_rules": [],
+        "justification": "Interrupts a lengthy discussion to require ordering and quieter speech;after customers reject expense and insult pricing,she explicitly tells them to leave.",
+        "limits_and_rivals": "Waitress role is explicit;ownership,private life,police action,actual bill and identity join to DUST06red-haired guild waitress342 remain unproved. Bounded service veto,not a new generic waitress model."
+      },
+      {
+        "row": 352,
+        "subject": "Gate coughing soldier and separate wine-explanation voice (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "The soldier reports monsters split toward guild and affluent district,then coughs up apparent blood. Dust initially infers a fatal wound;another voice explains it as earlier secretly drunk wine,and Dust drops that inference.",
+        "limits_and_rivals": "Sparse roles only. Wine explanation is attributed speech,not verified physiology;no death,global zero-casualty claim or confirmed identity with previous gate guards. Later narrated healing does not independently identify this hand."
+      },
+      {
+        "row": 353,
+        "subject": "Unidentified Axel defenders,healers and dragon-battle witnesses (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Wounded defense,requests/auction-side voices,healing and later battle-witness talk contribute local action and information.",
+        "limits_and_rivals": "No assignment of every auction bid or collective utterance to the apparent leader;no new personal identities,exact group headcount,verified knight identity or checked Rouzeri death. Rumor fading is a forecast,not completed forgetting."
+      },
+      {
+        "row": 354,
+        "subject": "General-store owner reported deceased wife (DUST07)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Reported shared work and loss help explain the owner stated attachment to the store.",
+        "limits_and_rivals": "No onstage private viewpoint,exact biography,death mechanism or invented instruction to remain. Reported relation,not a separately modeled motive or global new-person proof."
+      },
+      {
+        "row": 355,
+        "subject": "Noble commissioned covert photographer / thief (DUST01)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "The noble describes commissioning a concealed photograph and receiving reports,then plans more detailed instructions.",
+        "limits_and_rivals": "Commission and report history are own narrator account;no newly witnessed photo-taking scene,agreed Dust surveillance permission or automatic identity join to a main-series photographer."
+      },
+      {
+        "row": 356,
+        "subject": "Helmeted noble reported parents (DUST01)",
+        "proposed_scoped_tier": 0,
+        "proposed_rules": [],
+        "justification": "Expected family objection constrains his stated wearing plan.",
+        "limits_and_rivals": "No actual parental speech,executed veto,complete household or independently certified global person count."
+      }
+    ],
+    "rule_count": 3,
+    "monographs": 3,
+    "models": 3,
+    "compact_profiles": 4,
+    "sparse_records": 5,
+    "no_model_inherited_by_species_or_role": true,
+    "no_word_appearance_rule_gender_species_or_anonymity_quota": true,
+    "entering_current_models": 56,
+    "proposed_current_models": 59,
+    "entering_scoped_secondary_models": 50,
+    "proposed_scoped_secondary_models": 53,
+    "entering_compact_profiles": 89,
+    "proposed_compact_profiles": 93,
+    "monograph_only": 28,
+    "entering_total_records": 348,
+    "proposed_total_records": 357,
+    "independent_observation_counts_remain_null": true,
+    "formal_adoption": false,
+    "exact_inputs_or_firsts_serialized": false,
+    "full_program_complete": false
+  },
+  "scope_qualification": "Three individual monographs/one-rule provisional models,four compact profiles andfive sparse role/report records. Current source-qualified speaker/status,store/transaction,spear-fault/repair,loan/surveillance and contact-violation distinctions retained. DGO-B1/HNO-A2defects remain exact. Four public header statuses normalized with analytical bodies unchanged and failed preflight retained. All twelve firsts precede feedback;source-known same-root contrasts do not isolate mechanism or establish independent validation.",
+  "actual_received_artifact_scope": {
+    "models": 59,
+    "scoped_secondary_models": 53,
+    "compact_profiles": 93,
+    "monograph_only": 28,
+    "nonfinal_records": 357,
+    "new_models": 3,
+    "new_monographs": 3,
+    "new_rules": 3,
+    "new_compact_profiles": 4,
+    "new_records": 9,
+    "new_Tier1_records": 4,
+    "new_Tier0_records": 5,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "current_totals": {
+    "models": 59,
+    "scoped_secondary_models": 53,
+    "compact_profiles": 93,
+    "monograph_only": 28,
+    "nonfinal_records": 357,
+    "new_models": 3,
+    "new_monographs": 3,
+    "new_rules": 3,
+    "new_compact_profiles": 4,
+    "new_records": 9,
+    "new_Tier1_records": 4,
+    "new_Tier0_records": 5,
+    "new_input_cases": 12,
+    "new_first_bodies": 12,
+    "new_dependent_pairs": 6
+  },
+  "source_known_same_root_author": true,
+  "actual_original_firsts": 12,
+  "actual_dependent_pairs": 6,
+  "all_original_outputs_and_defects_preserved": true,
+  "clean_mechanism_isolating_pairs": 0,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

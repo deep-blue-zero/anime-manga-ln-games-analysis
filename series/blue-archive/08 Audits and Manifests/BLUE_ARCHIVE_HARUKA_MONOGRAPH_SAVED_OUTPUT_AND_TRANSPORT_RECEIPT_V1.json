@@ -1,0 +1,1247 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-HARUKA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 44494,
+    "sha256": "fc7c6c5b022fe6aef1ae604fe80a5c09242a7dbd2c2f1b3ee4d4d54334cdf869",
+    "git_blob_oid_of_actual_bytes": "beccd8bfe349d82a30218c6296ee9921d1d0232e"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "PS68_MONOGRAPHS/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 43114,
+      "sha256": "f306d79a8a33e536ccefb8aaa0acff2dbd250d6d7b886ed0d11a78ea7ef2766a",
+      "git_blob_oid_of_actual_bytes": "1f21eb1f07195fda632ca8889ee96911087f7810",
+      "lines": 181
+    },
+    {
+      "path": "ROOT_HARUKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 3973,
+      "sha256": "49b3f3ab29d6ec0b458af214866c203fcacbd8a4fb2b82987e28f5472e734b7f",
+      "git_blob_oid_of_actual_bytes": "0e76e8e7a53b96d26617ad80eb131e1aa7ee9e50",
+      "lines": 53
+    },
+    {
+      "path": "PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 98755,
+      "sha256": "54c51e81808c59e637d77f0475c5a4c9adf1969e91c33a0783e5098df873f102",
+      "git_blob_oid_of_actual_bytes": "509b8ef8925b5723b76f5b1ad57887f5b43e6b51",
+      "lines": 1927
+    },
+    {
+      "path": "PS68_MONOGRAPHS/HARUKA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2146,
+      "sha256": "18635efe3a5bad01def064df128b4860c9a2c312f20386be197002ff10acfa79",
+      "git_blob_oid_of_actual_bytes": "2200afe6ca85bbea5fa7519aec355302d78f9c45",
+      "lines": 37
+    },
+    {
+      "path": "PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 8252,
+      "sha256": "928f82646bc696cff2286cb6b729025f87811ee64cf02ac78e96cdeec8305d44",
+      "git_blob_oid_of_actual_bytes": "1214fcfb1a29c43856e77394b1102eabecdfc1d4",
+      "lines": 52
+    },
+    {
+      "path": "PS68_MONOGRAPHS/HARUKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3645,
+      "sha256": "d677cbf4faa1c9aa12f2ec977f4a4d44e1ed2999839d33a0c400db2762e31358",
+      "git_blob_oid_of_actual_bytes": "cdb43439fd0d27f1389ecc286fa1a0c12e2f06f9",
+      "lines": 49
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARUKA_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARUKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only authority/frontmatter/current-scope framing, ROOT acceptance paragraph and explicitly disclosed historical-to-current status are changed. All original substantive body lines not named in the exact changed ranges are byte-equal and exhaustively mapped through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "d8ef0181cda69a618d0cc10556c5cd72fc9970d726d8c2ca77ff3a68ee84183d",
+      "line_text": "character: \"伊草ハルカ / Haruka\""
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "57f7134d463ba26dd5f2e2a5baf6ac3a903e0594428f24c36cc2c92fba7049b1",
+      "line_text": "person_scope: \"BA_PERSON_HARUKA;16000/20025/10141;costume1900912101→20025 and1900955101→10141\""
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 5,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 6,
+      "line_sha256": "2084413932021b66232c019d7d67e81ba2cf005acb31f12c32acb13608a5283c",
+      "line_text": "architecture: \"1.12, section7.1, eleven required dimensions\""
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 7,
+      "line_sha256": "2b4c71a3936349b6920c14d8d0327b826ca56d5e7944bc878548abba1650fe54",
+      "line_text": "analytical_base: \"2e2018d0d62d91e3e0a5e7681f72a31cec08e02c\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 8,
+      "line_sha256": "c8ef145b6da8758b2dd4f184f0c6454d958b15d80fcfd350803c0682bf3d65dd",
+      "line_text": "historical_source_witness: \"c1f14d5120c29209ca571fea8d7cfbe111076ec5\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 9,
+      "line_sha256": "a7128a3b6afa054c49654fbcb14fcbdd61123b6ed5e0cac56e74d54399bb96b6",
+      "line_text": "japanese_supplemental_source: \"a038020f1f5ac02dcfe76962426d38f86414cdd8\""
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "14e0401cbb122674957ed72090cd06063f320f5d1d77a57ec343b3b2cbe52b04",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; ROOT qualified complete analytical receiving with limits; historical order/independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "d0718320c7cea23ca3bee1a77dea20445606fa01cb1bac555388d1ce333d9ec7",
+      "line_text": "scope: \"Bounded literary synthesis; all fourteen gaps OPEN; no clinical/person model, denominator or milestone credit\""
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "8fecbb6a3875013f0e9b08c2e80984516ba9166974308b35a91a124bb697c029",
+      "line_text": "date: \"2026-10-10\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 30,
+      "line_sha256": "2b7b2df0a50e6f6605bc363c95156f572d6c005ae2881f28fb2e57497231cc17",
+      "line_text": "# Haruka: authored care, wanted company, and the costs of destructive protection"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 34,
+      "line_sha256": "eaab415764cbb511b2a972f9bab3e04afef79353b134b8a4364b628fef3bc3e8",
+      "line_text": "The selected private responsibility contains twenty-nine complete objects: twelve BOND encounters, twelve whole linked MomoTalk objects and five written contexts. Ordinary16000, New Year20025 and dress10141 are positively named members of the same retrieval family, with different scene conditions and no forced calendar. The complete maintained private account and accepted Main, Final, event, GROUP and MINI arguments support this monograph. Necessary Japanese recovery resolves the exact adult response to a security report, the fulfilled slow-walk wish, independent museum judgment and its full message coda. Written modes, actual small endings and report/choice limits remain explicit."
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 36,
+      "line_sha256": "1f53be05debed90359fae551d119b04c7043aeae729dfb9bebc7c5c19244600f",
+      "line_text": "## 1. Core thesis: she already makes and wants things worth attending to"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 38,
+      "line_sha256": "dc7b1e17fa7524bb9754175fbf8019eb32455071913043658a1bc56056ceb6c9",
+      "line_text": "Haruka is easily read through apologies, catastrophic compensation offers and loyalty to powerful recipients. Those forms are real evidence, but they do not exhaust what she initiates. She grows weeds as a hobby, knows local soil and terrain, cares about overlooked plants, selects clothes for mobility and price, adapts a long-grown plant into a decoration, invites the adult to a museum and articulates a preference for persistence over beauty. These ends are not given to her only after an adult recognizes her. The garden predates his discovery, and the invitation precedes his advice about artistic judgment. [16000:003/006/008;20025:002/003;10141:006.]"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 40,
+      "line_sha256": "67aad306d23c900843d4b4851e2df0532c032a843749b9d5cb6603fbd768d71b",
+      "line_text": "The central thesis is that Haruka's authored care and wanted company coexist with a costly effort to make herself acceptable through service, gifts or protection. Recognition can help her express a small wish, accept a smile or correct a misunderstanding. It does not make every method acceptable, and it does not abolish her self-devaluation. The source gives actual returns, shared transport, food, a slower walk and completed art viewing. It also gives a destroyed pot, severe venue damage, uncommanded bomb installation and a later report of shooting every even-slightly-suspicious person. Both sets must survive synthesis."
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 42,
+      "line_sha256": "67de31be31600f1ec371eefb716689ade475936b6ec016e2bdbfa8e651f2cdba",
+      "line_text": "Her own criterion is especially important in the museum encounter. She admires the artworks yet says their beauty is not why she likes weeds; toughness and persistence are her ideal, and shining is unnecessary if she can spend time with important people. The sequence is secured by explicit dress-Haruka log context while remaining timed narration in the canonical source. It is positive evidence of preference and wanted living, not an authenticated diagnosis, universal resilience law or determined romantic confession. [10141:006scene002u0026–0038.]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 44,
+      "line_sha256": "456e4e6444312d61d5a198ccf02bb9b17cbfb0f5a0fc4837026637aad26a3b72",
+      "line_text": "The analysis therefore asks how giving and protecting can answer the actual recipient while still leaving room for Haruka's own wishes. The museum invitation, literal refusal of a replacement kimono, refusal of already-finished gardening help and request to walk more slowly make that question concrete. She can care, decline and judge; she is not simply the person who accepts whatever others decide. Her continued extreme debt language prevents a smooth account of completed confidence, while her fulfilled small requests prevent the opposite claim that no agency or benefit is possible."
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 46,
+      "line_sha256": "ac3fe4723bb942ab5b8ea2d0cf67d3382b7bcdb8c76da0d8559dae46b8de1b50",
+      "line_text": "This is a literary thesis about a repertoire under particular conditions. A scene that ends in enjoyed company can complete that end without completing ethical learning. An apology or wish can remain meaningful without achieving a promised result. The company and the adult can offer genuine help while being fallible or implicated in harmful means. Keeping recipients, consequences and authored ordinary ends distinct is necessary to explain Haruka rather than treating her either as a dangerous symptom or an automatically harmless devotee."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 48,
+      "line_sha256": "2ffc71e578ce60c093262456e68c1ac70a9eb9e5c7de3927098f59868c088b04",
+      "line_text": "## 2. Longitudinal repertoire: local correction and pleasure do not establish a completed recovery"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 50,
+      "line_sha256": "b1b26437905c7ac18d19a9460afea1ce0c1f92fb8cb136273067df10c9790414",
+      "line_text": "MainV001 first supplies PS68's contracting and loyalty problems without a complete ordinary baseline at that historical frontier. Haruka's restaurant demolition is uncommanded; Aru's later approval is a separate act. The loss of the building and the proprietor's reported light injuries matter independently of a later collective intervention. C002 entangles loyalty, guilt and overcommitment with useful aid. The new private evidence broadens how Haruka can be understood, but it does not rewrite the historical chapter or make subsequent help compensation for all damage. [MainV001C001E017–020;C002;private204–210.]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 52,
+      "line_sha256": "1746a659ecfa72608e5b8c7580500482ace9611dba1e9af68787dba589c2fff9",
+      "line_text": "Ordinary encounters already contain initiatives and concrete corrections.16000:002 distinguishes wanted contact from approval of self-initiated bombs and gives accompanied retrieval with a narrated double-digit initial collection, while all-removed remains her report.16000:003's offered weed pot is actually broken by gunfire after an adult wait.16000:005 ends in actual returns of unopened goods and shared apologies at every shop, without legal closure.16000:006 gives student care for a lost/collapsed adult and narrated joint return with soil;16000:008 reveals an independently cultivated place and wanted future visits. Each establishes a different boundary of learning, help or harm."
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 54,
+      "line_sha256": "6ec20fa64b03535f6d6693d451bf80ad159524aba7fbe1411e4adddc7a816e04",
+      "line_text": "New Year adds craft, practical judgment and refusal.20025:002's shared search fails after nearly an hour; next-day adaptation and actual transport of decorations are positive continuations, with installation and peer reception unprinted.20025:003 chooses a cheap short kimono, defends mobility and appearance, and refuses an adult-paid replacement. Sweets occur instead, followed by a warmer purchase and reported warmth at home; heirloom processing remains her report.20025:005 refuses help with gardening already finished and receives a narrated warm meal. Its afterlife-debt coda does not let food complete a recovery narrative."
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 56,
+      "line_sha256": "a44d8c31e9fefa09045d7b7765a3a1c327d5e8df964a15475531a47c7d215d37",
+      "line_text": "Dress similarly differentiates work and company.10141:002 combines a paid-security account, quick suppression and severe venue damage.10141:003 misreads a compliment as desire for her dress, then receives clarification and an actual handback; changing and returning are narrated.10141:005 reports overbroad security shooting before requesting one small wish. The adult's pace is actually slowed and the private time enjoyed.10141:006 completes joint art viewing and return, with a wanted future opportunity in the whole message coda. These outcomes do not collectively establish that later commissions have become proportionate or all self-devaluation has ended."
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 58,
+      "line_sha256": "4630699e3c8bfef0ae9d98725f45a0bfc01fa4ca407234621c7b801a86c6113b",
+      "line_text": "The separate Valentine encounter gives a deliberately prepared gift chosen by affordability, price and a striking number under unfamiliarity. Appreciation yields a local smile and thanks; the Japanese endpoint tastes sweetness in99% chocolate after she has been seen off. Korean's eating difficulty is a distinct supplied reading, and neither version assays ingredients or proves permanent confidence. FinalC003E009 places PS68's return-meal promise and farewell in a crisis, but Haruka-label drift prevents a secure individual promise being extracted from the collective comparison. [BA:event:810:063u0014–0032;BA:main:100:003:009scene001u0025–0054.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 60,
+      "line_sha256": "3f70ff6197501a5b972268f2c32a6619e6e1f14c1746d2dd1d9e1e11047958e6",
+      "line_text": "Whole messages, explicit recollections and the decoration scene's next day support local relative relations. Variant order and releases do not place all these scenes against Main or produce a sequence from anxious danger to healed confidence. The defensible longitudinal result is an enlarged repertoire: already authored cultivation and culture, fallible protection, real local restitution, reciprocal care, literal refusal and fulfilled small company wishes. Local change is positively available; a global completed repair remains unprinted."
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 62,
+      "line_sha256": "9d74cbd96e93bccffeef77de14894242a0f8bffbd6e74ab31c1d99ff65706917",
+      "line_text": "## 3. Public and private self: self-devaluation is her formulation, not the narrator's verdict"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 64,
+      "line_sha256": "c0416cc310a332e8ace0c80e97de9f5ea2d2b10bed7ed5287e0ff9689214b951",
+      "line_text": "Haruka's analogy between herself and unwanted or useless weeds is subjective. It explains something about what she sees in the plant, but the offered pot is a cultivated object with her effort behind it. The adult's praise and her tentative reader-only interpretation of that praise do not certify his hidden intention. When gunfire destroys the pot, the final soil, leaves and bugs remain concrete losses. The metaphor does not make those losses inconsequential because the plant was a weed. [16000:003u0015–0031,0051–0055.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 66,
+      "line_sha256": "3c98077c0de036a0aac2e007bcf273e46033f62d794fbc75bf4d3da004102eb3",
+      "line_text": "The written childhood-bullying and Aru-help account is an origin account in editorial mode. It can support a source-bounded reading of belonging, but it is not a witnessed childhood or a clinical cause covering every later decision. Her scene choices must still be read in their own circumstances. For instance, the bombs in16000:002 are explicitly her initiative; the dress security report has its own employer and work account; the pot destruction has a different recipient and motive. One general origin cannot transfer orders, identify targets or settle culpability among them. [private186,206.]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 68,
+      "line_sha256": "838cbb3b56b85ca7f4c2538c010895fb70f4cbebe567f74437a1742b207c8af8",
+      "line_text": "Private access also challenges a purely passive image. Soil care exists before praise, and she can recognize the inconsistency between the adult's normal-walk reassurance and his collapse. She can identify a false weed representation in the museum and direct attention to actual-weed art. She can refuse a replacement garment, ask about a proposed destination and say the gardening is already done. These are positive judgments even when some questions are retracted or surrounded by apologies. An analyst should not treat hesitant form as an absence of content."
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 70,
+      "line_sha256": "67a9e4d72562d3098ec97a1a943e84be08a489bb8ba3ea830413290fd027467e",
+      "line_text": "Recognition is meaningful but remains bounded by information.16000:005 distinguishes contact without tribute from an expensive gift acquired through taking goods and leaving cash. Actual shop returns and apologies follow; her hesitant uptake is not complete comprehension of every future gift rule.10141:003 distinguishes pleasure at her appearance from wanting possession of her dress. The adult hands the folded dress back and clarification stops a further replacement search. Those corrections protect particular material and recipient boundaries, not a permanent guarantee that all future praise will be understood as intended."
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 72,
+      "line_sha256": "96ea804f1c89fa4ea206ebc6c553ed41c3a5acb52c2a4dcebfae16bb31cae54a",
+      "line_text": "Reader-access material must not become everyone's knowledge. Ordinary garden timing has blank speaker/person fields and contextual correspondence; later securely named continuation supports the cultivated place without repairing every earlier row into public speech. Dress museum timing has an explicit Haruka-dress log and first-person context, yet remains narration with blank raw fields. The final好き has no printed direct object. Those distinctions allow positive person-specific literary comparison while withholding an invented public confession or uniform psychological revelation. [16000:008u0016–0033;10141:006scene002u0029–0038.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 74,
+      "line_sha256": "ed541746b5fc329a6a8245e9924ed817572746d869cb30e245f13a136d667c31",
+      "line_text": "The garden encounter also retains the adult's peeking and entry before express site permission, Haruka's do-not-touch warning and a halted/refused proposal to be bitten instead. Wanting future visits does not retroactively grant permission for all discovery methods. Her no-invitation history is a report, not proof of never having any visitors. The site's independent cultivation, present recognition and continued self-devaluation can coexist without making intrusion necessary to care or making pleasure false because it is incomplete."
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 76,
+      "line_sha256": "1b32d93384d51534706b2d9dcc7f3466574002b60801b5769e1b1c8522ca4639",
+      "line_text": "## 4. School and club belonging: wanted loyalty requires distinctions among orders and initiatives"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 78,
+      "line_sha256": "8e8c04df4ff1af1bda24f1fce3ab85ea70fa40b10418499cde80596f1aa1c20a",
+      "line_text": "PS68 is a wanted place of belonging for Haruka, but her role cannot be explained by automatic obedience. GROUP2201 gives a belonging question and note-taking, a proposed erasure of the recommender, and then a secure Aru command with uptake. Those are distinct moments. Some harmful acts have an explicit direction; the restaurant demolition and the ordinary bomb installation do not. Source actor seams limit exact attribution elsewhere, and later flight does not become a full legal adjudication. The monograph keeps both authored initiative and commanded participation. [GROUP2201u0007,0071,0089,0106–0110;16000:002.]"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 80,
+      "line_sha256": "94a865882cd23d941904f51716ebfe4f5a6bd29297619e35025825e6c4803b60",
+      "line_text": "The company can affirm her while also multiplying her burdens. Event809's offered earnings and exhaustion have a specific material cost. Aru's actual attempt to stop excess is evidence of concern but does not prevent the loss. Haruka's later earn-again offer can comfort the president while renewing the exhausted member's labor; it is not reimbursement. Her conditional wish for ramen with Aru gives wanted company at the ending, but the proposed treat has not been eaten or paid. Belonging therefore includes both an ordinary end and a problem in how resources are offered. [EVENT809E002u0122–0135;E018u0013;E020u0039,0049.]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 82,
+      "line_sha256": "23e00ce13a71bd277ab1ceeb1ad782fb21d0fb9d2e8740a6801859d6ba873f79",
+      "line_text": "GROUP1901–1902 keeps forged-notice failure and Haruka's fidgeting in Ako's report layer. It does not put her at the meeting, prove that every member copied a seal or complete a conviction. Likewise, the private profiles' Gehenna/PS68 role and raw ClubNone/textual-club discrepancy are data and editorial conditions, not evidence that her membership is unreal or that every institutional label has one legal meaning. The applicable source controls must stay specific to the question asked. [GROUP1901–1902u0048–0058;private218.]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 84,
+      "line_sha256": "63e6e07db8e9753d2b39e44aee11abcbce776d48d160faa510a9dd7d5ce60f4f",
+      "line_text": "Security work exposes what a successful-job standard can conceal.10141:002 reports paid duties and gives quick suppression with severe venue damage; the adult's fulfilled-her-work defense accompanies the known damage.10141:005 then reports shooting every slightly suspicious person and employer satisfaction with quietness. Work approval is an attributed response, not a proportionality standard established by the narrator. Neither the employer's approval nor the adult's remark makes the unidentified recipients expendable. Pay, manuals, liability and subsequent repair require their own evidence."
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 86,
+      "line_sha256": "820efde72a9d61b54a39d90b82ea6984e0992ed7fed05f559a12e3572218e7dd",
+      "line_text": "Ordinary labor in the company also matters. The Kayoko cleaning account reports Haruka sometimes tidying her own things; it does not allocate all maintenance or prove refusal of work. Event834's bin relocation and disposal reports supply practical activity while leaving explosive neutralization and safe storage unestablished. The ending's hospitality and permission to stay seated give a local limit on further service, rather than an expectation that she must always rise to prove gratitude. Useful labor and welcomed rest can both belong to a place she values. [13005:003 comparison;EVENT834E006u0007;E014u0063–0064;E015u0004–0007.]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 88,
+      "line_sha256": "1dd36300498bd370c28817bce90b637c4c4d2a24c5f3f902a80af0a72c8c6ac1",
+      "line_text": "The separate PS68 ensemble and institutional packages must address these different directions, work conditions and recipient consequences in full. This character home supplies Haruka's wanted belonging, fear of failure, authored ordinary ends and contrary methods. It does not complete every contracting, legitimacy, labor or repair question simply because those questions share PS68. The distinction protects substantial relationship and institutional work from becoming a list of traits or a company affiliation label."
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 90,
+      "line_sha256": "98dccece5852f5be09cf96a6dfc138e1b44d3add43d8b721499552c6bcc99aa3",
+      "line_text": "## 5. Ordinary life: cultivation and cultural judgment have intrinsic ends"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 92,
+      "line_sha256": "03e2e6472051d0f852fc86804c12073056c0c7a237a56396c3b1bae994558a4d",
+      "line_text": "16000:006 gives a concrete reason for soil collection: she wants to help sidewalk-edge or unnoticed plants rather than plants already growing in the forest. Her distinction is ecological judgment in a local scene, not a scientific certification of every intervention's benefit. It establishes that she notices different conditions and tries to help what she can. Local terrain knowledge and the joint soil return are positive competencies, while the adult's difficulty navigating is his own fallibility. Haruka's care is already present before his recognition. [16000:006u0030–0031,0050–0069.]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 94,
+      "line_sha256": "8b12f23bea4746fd5f932ca443a61c0fc85422c01af8e3dfdeebe4b9a422885a",
+      "line_text": "20025:005 gives a further principle: plants might live without her, yet receiving care should still be welcome. Plant happiness and resilience are her attributions rather than measured biological outcomes, but the principle is analytically substantial. It refuses to reduce care to the minimum required for bare survival. She can also refuse an already-finished gardening task's help. Concern about the adult's cold, acceptance of a warm meal and an extreme afterlife-debt coda coexist. The meal is actually received; a cure or debt contract is not. An ordinary pleasure need not prove permanent confidence to count."
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 96,
+      "line_sha256": "b6e8e9083ebb4063f74d65806d1359c9f1ee9ecd3710cde919b9b51b2364ff93",
+      "line_text": "The private site in16000:008 gives cultivation a place and a future-facing wish. Haruka warns against touching a plant, values recognition, wants later visits and offers waiting-for-life language while continuing to devalue herself. The place is not created by the visitor's praise. Neither unseen pixels nor metaphor identifies every species, evaluates toxicity or proves that the adult can safely be bitten. Independent authorship and actual pleasure are supported at the same time as those limits. The narrative's modest object has its own material existence, not just symbolic use as a mirror of the student."
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 98,
+      "line_sha256": "e92fd64dca441c17861faf7a36da04860b1e8765e0f6ccfb42269c2b1d87bdba",
+      "line_text": "Her museum judgment then makes culture more than an exercise in accepting the adult's compliments. She chooses the exhibition, supplies its pamphlet account and corrects his assumption that a displayed metal construction is real weeds. Actual-weed art is pointed out separately. They quietly discuss impressions and complete viewing. She praises the artists, worries about criticizing better people and receives permission to err that explicitly includes the adult and the artists as well as herself. Her alternative preference for toughness does not declare the works wrong; admiration and a different criterion can coexist. [10141:006scene001u0013–0019;scene002u0004–0039.]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 100,
+      "line_sha256": "bbc6e21a16409fe245b5c5a58560839b5d6a25b9e26dfb8f7ae94aa5a9cfb011",
+      "line_text": "Seasonal objects show further practical choices. The decoration search actually fails, so she adapts what has been growing over time and gives feelings priority. Transport to the office is narrated; botanical material, installation and peer response are unprinted. The cheap short kimono is selected partly for peer fit but defended through mobility, looks and the shared café opportunity. Her no to replacement is respected through changed support, sweets and later warmth. Reported heirloom treatment indicates conservation's intensity without a chemical audit or proof of future adherence to cold-avoidance promises. [20025:002u0034–0081;20025:003u0029–0042 and coda.]"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 102,
+      "line_sha256": "ecb7be159d728d5c61a81a40c190b939aebcb34e542baa02e9aa1f0443acf03d",
+      "line_text": "The Valentine gift similarly demonstrates decision-making under unfamiliarity: careful carrying, a limit of available money and selection by expense and number. The local smile and thanks follow appreciative contact; the adult eats after she has left. There is no bodily payment, literal foresight or checked ingredient composition. Written coffee-aroma enjoyment, crowd/hiding preferences, rest hesitation and birthday/company wishes broaden these ordinary ends even where a scene does not complete them. Gardening, clothing, art, food and wanted time are evidence of a life she authors, not rewards to be discarded because crisis work is louder."
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 104,
+      "line_sha256": "ea5f3401513a1e7b49424f91da2b819232d16f02c059aeeede4f3f5c59ffe313",
+      "line_text": "## 6. Crisis and adverse methods: protection can destroy what it claims to preserve"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 106,
+      "line_sha256": "077bd05401c2f3f5eddb6a0f96cfd1866241bb5d07ba1e87623b2c08d6e4d46b",
+      "line_text": "The clearest contrary case is the weed pot itself. Haruka grows and offers something she cares about, then fires after an adult wait and destroys the offering while trying to protect it. Bugs remain in the broken pot/soil/leaves; extermination, cleanup and replacement are not printed. The source neither says the object was worthless nor makes her intention an adequate account of consequence. This is a local form of the broader problem: a protective purpose does not guarantee a protective method. [16000:003u0051–0055.]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 108,
+      "line_sha256": "c9f39eefdbab5f78790b149d5950c6a3ceb8108d68a5f89a9163336fb383bf4d",
+      "line_text": "16000:002 distinguishes the reported commission to make someone late from an uncommanded decision to install bombs. The adult clarifies that welcoming contact does not mean approving bombs. Accompanied retrieval has a concrete narrated initial collection, while her all-removed statement remains a report, not an inspected clearance of every device. The final elimination offers keep ethical change incomplete. MainV001's demolition is a different self-initiated escalation, with post hoc leader ownership and actual damage. Neither source identifies a common client or a single learned mechanism behind all force. [16000:002;MainV001C001E017–020.]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 110,
+      "line_sha256": "c36f5ca160dfda3ce230c404fc1eb0b412db5f42058f75f08d5f16fdfaca3753",
+      "line_text": "Dress security makes the public-service frame equally contestable. In10141:002 a faction fight, fragment/pain, threats and fast suppression accompany severe venue damage. The adult's unfinished statement that he is fine does not prevent escalation. Payment and management explanations remain attributed where reported; no casualty/death result, court decision or compensation is recovered.10141:005's later claim to have shot every even-slightly-suspicious person is report-layer evidence, but it is material contrary evidence. The fixed adult response about violence solving everything cannot be silently changed into a reprimand or declared harmless irony from uninspected performance."
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 112,
+      "line_sha256": "dcd13c4abc3db10b7ad32ed679d3fa799bd6fc57c7970e7ee2797728742593fc",
+      "line_text": "Event834 adds practical work with an uncertain explosive aftermath. Haruka reports collected bombs placed in a back-alley bin; later remembering their location may aid a route or proposal, but it does not prove neutralization or a safe shield. Incoming-projectile language and post-text explosion commands are not a casualty audit. At the finite ending she blames herself and Kayoko offers reassurance; neither settles collapse causation. News reports, criminal connections and custody/investigation are separately attributed, with most not all and custody not conviction. Useful disposal work, self-blame and adverse uncertainty must stay distinct. [EVENT834E006u0007;E014u0044–0075;E015u0011–0022.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 114,
+      "line_sha256": "323355d0f6324bd7b8144707704aa71c8e07f51e307350fc007b805665d12806",
+      "line_text": "Her useful collective crisis acts also deserve precise credit. MainV001C002 gives the company's actual aid while retaining earlier culpability. MINI70013040 gives Haruka and Mutsuki's local rescue and Rigatoni's arrest by Valkyrie, not a completed trial or permanent safety. Event821002 gives uptake of the plan in a distributed action, without a school-strength ranking or a medical all-clear for Hoshino. FinalC003E009 provides a collective meal/farewell promise whose Haruka-label drift limits exact attribution. These scenes support participation and concern without an omnipotent protector or guaranteed safe return."
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 116,
+      "line_sha256": "14f90e256f5a81f86a6fa363d28927a88a7dd130163a817876a6fffc262691a0",
+      "line_text": "The adverse argument is not that all care is false. It is that good intention, leader approval, employer quietness and recipient affection cannot replace information about means and consequences. Actual restitution of unopened gifts and useful local aid can count without absolving demolition, bombs or overbroad force. Her small fulfilled wants remain part of the person who acted; they neither cause a pardon nor become meaningless because harmful conduct is admitted. Required aftercare and institutional analysis must keep those distinct responsibilities alive."
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 118,
+      "line_sha256": "09d715ce60ef6bb1060e6f01cd8c2887443494a76fcbc26ac52d54490d4fc485",
+      "line_text": "## 7. Sensei relationship: reciprocity exposes adult fallibility and makes room for a small wish"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 120,
+      "line_sha256": "fc74ce8ae605f8ff5ffdd5b5ed89348c2fe91b308fcba3ee2aaf53dde53b1052",
+      "line_text": "The relationship includes valuable clarification and practical action. The adult distinguishes contact from approval of bombs, helps retrieve them, accompanies shop returns and shared apologies, hands back the dress and changes support after a literal kimono refusal. In the museum he explicitly permits mistakes by everyone, including himself and the artists. The slow-walk encounter gives a request with an actual fulfilled end. These are substantial positives, yet they do not show that every statement or intervention is successful, proportionate or permanently understood."
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 122,
+      "line_sha256": "8b976b0fd81c72f35c1d4a9fd5f80683aad08f12f8e27938d248a917fa404e07",
+      "line_text": "Haruka also cares for this adult.16000:006's farewell is misread; he gets lost and collapses, she gives lap-pillow care and a guided return, and he later recognizes the route was less complex than assumed. She notices that normal-walk reassurance conflicts with collapse. The scene is reciprocal care with an adult error, not proof of an intended self-harm crisis or a student incapable of practical judgment. Her concern about cold in20025:005 and her anticipated work/travel/rest worries in10141:005 likewise matter, while the anticipated activities do not become his confirmed history."
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 124,
+      "line_sha256": "6bb9fb0a9689bddfc6970b6f0ee80aef595526d0113d3328adf2b0db76e2bd3b",
+      "line_text": "The slow-walk sequence specifically corrects an adult timing assumption. He supposes work has just ended; she says it ended two hours earlier and explains hesitating to contact him. The source gives her taking up the need to voice wishes, asking oneワガママ and grasping his sleeve. The request is to walk a little more slowly, and narration actually slows the pace and enjoys their private time. That local completion answers a small desire she expresses. It is stronger than merely a promise of future confidence and narrower than a couple status or permanent capacity to ask without fear. [10141:005u0023–0048;necessary whole Japanese recovery.]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 126,
+      "line_sha256": "6c7ed7a60aadefe7756abcbe74cab1660bba4950724ef08af106fbf91725ce16",
+      "line_text": "His methods remain open to criticism. One companion option can pressure her through do-you-dislike-coming-with-me language. Garden peeking and entry precede express site permission. His return-shop support also benefits him through later purchase of an unsold limited item; a walk option acknowledges his own work escape. The fulfilled-her-work defense and fixed violent-solution line are particularly troubling alongside damage and reported shooting. Gratitude, warmth and farcical context do not supply inspected performance that could erase those literal written forms. [16000:002/005/008;10141:002/005.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 128,
+      "line_sha256": "d4fcece72f3f6578af38e41364fd912cba0e2e0816d31249b80ca66e194a8042",
+      "line_text": "His positive adjustment after refusals has a different structure.20025:003 does not override her no to a replacement garment: sweets occur instead, then a warmer item.20025:005's already-finished gardening help is refused, and the encounter can continue toward food.10141:003's clarification returns possession rather than turning a mistaken gift into an irreversible donation. Respecting specific material and timing limits is a stronger account of support than treating every initial refusal as evidence that she needs to be persuaded more firmly."
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 130,
+      "line_sha256": "9e77252c1bb21c3ac7fe61320d7e6724c7ead44fafe61f999656c2a1958b0960",
+      "line_text": "The relationship remains vulnerable to extreme indebtedness and adult-infallibility language from Haruka. Museum permission to err directly complicates those formulations; it does not prove them gone. Whole codas retain afterlife language, gift effort, gratitude and future outings. The final museum好き remains open-object timed/log text, and the adult's unconditional enthusiasm before hearing a theme does not settle their mutual tastes. A bounded account can recognize wanted adult-specific company and local benefit while refusing a guessed confession, total cure or perfect adult. The wider required Sensei ethics and directed relationship packages remain distinct from this character argument."
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 132,
+      "line_sha256": "c1b18849df2fb7d14b2010337283947e98d802e39580cd8ece600af1ddc02559",
+      "line_text": "## 8. Peers and recipients: wanted belonging must leave others visible"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 134,
+      "line_sha256": "56fbced1e70a4d9719f757b9cb6f3a515771540421a6ffb865c020cba8b76d8b",
+      "line_text": "Aru is an important recipient of Haruka's loyalty and an independent leader whose responses differ. Main gives post hoc approval of demolition; GROUP2201 has an explicit command and acceptance; Event809 has an actual attempt to stop excessive offering. The latter is real concern but does not prevent money loss. An exhausted member's earn-again promise can comfort Aru while imposing further work. Haruka's conditional ramen preference gives wanted company rather than a guaranteed purchased meal. These distinctions prevent both automatic blame transfer to the leader and automatic absolution of the company's expectations."
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 136,
+      "line_sha256": "b39564c184d2cf6c7483b76e1f4984424b205d288816482ccdbd932add717f6a",
+      "line_text": "MINI70013020 makes peer reception consequential at a quieter scale. The garden and bullying context precede a hurtful nickname and Mutsuki's apology, with Aru's protective stance and refusal boundaries remaining specific. Haruka's feeling cannot be measured by the analyst's assessment that the nickname was only a joke. MINI70013040 then gives Mutsuki and Haruka actual rescue action under a different threat; a helpful act does not erase the earlier hurt. Their independent initiatives and response conditions support a directed question rather than a claim that all teasing is wanted because they remain colleagues."
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 138,
+      "line_sha256": "587f141b151cb17e74b5daf9993babe890e8e3684af0219115603208dc4c069f",
+      "line_text": "Kayoko likewise supplies practical regard and correction without a universal guarantee. Her private cleaning report acknowledges some Haruka tidying, and New Year writing gives concern. Event834 ends in Haruka's self-blame and Kayoko's reassurance, but not settled causation; Mutsuki's permission to stay seated matters separately from Kayoko's interpretation. Being welcomed at the table is a local rest boundary, not an exhaustive allocation of responsibility for the collapse. The two peers do different work and cannot be fused into one benevolent company response. [EVENT834E015u0004–0022.]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 140,
+      "line_sha256": "d44a89634074ff02e9a9dfc15ab908e64f050a33f17c484bb33b88d328ebb179",
+      "line_text": "Saori brings a different worker's vulnerability to exploitation. The Event834 parking exchange includes Haruka's hedged appraisal, Mutsuki's laughter and Kayoko's rejection as different judgments. Saori's thanked-for assistance and report of safe escape are positive at their stated scopes; generosity is not certified payment. The unpaid balance and used/discarded fear remain. Her view of PS68 is attributed, and shared adversity does not automatically make all methods or labor conditions just. The required PS68–Arius and Saori work questions must preserve each recipient's agency and cost. [EVENT834E012u0018–0020;E014u0007–0029;E015u0019,0026–0045.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 142,
+      "line_sha256": "7f0cf3af5a7c60e99a95e7ac37af241befa427c4efb5fbc6f0cd880efca3fdf6",
+      "line_text": "Shiba and other affected people cannot disappear when the story turns toward warmth. Restaurant loss, reported light injuries, shop returns, venue damage and unidentified suspected targets are different consequences for different recipients. The ordinary shops are not globally joined to a Main client; every employer and faction is not a named institution. Police arrest is not conviction, and care for plants is not permission to destroy a cultivated offering. The analysis preserves people, objects and local-role limits rather than treating them as prompts for Haruka's self-evaluation."
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 144,
+      "line_sha256": "3cf012a490a80b4c7abec96743de32de634e45db1a18db0e3a5f06ee2eb4c741",
+      "line_text": "The adult, artists and plants also retain independent conditions. The adult can collapse or be mistaken about material; artists can produce works she admires while she values something else; plants can already be thriving or still receive desired care. Haruka's modest competence therefore has room to be real without making every recipient an instrument of recognition. Her desired belonging is strongest as a relation among differentiated actors, with permission to judge, refuse and want, rather than an obligation to become useful at any cost."
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 146,
+      "line_sha256": "ca9030e4f98472b23d628b2980cdfb384e726d3f847da4d06582af7a93b5a1a4",
+      "line_text": "## 9. Written register and source form: apologies do not silence refusals or wishes"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 148,
+      "line_sha256": "b88281b814f944aded55edf3515c8ba0723d0c87592c645a3b9b2b5badec8298",
+      "line_text": "The register includes tribute/presentation language, borrowed-life formulations, self-correction, typed errors and extreme compensation. It also includes literal no, questions about adult assumptions, practical material correction, an aesthetic criterion and the smallワガママ request. These textual actions differ. The frequency of apology does not make a refusal nonliteral, and catastrophic rhetoric does not establish a performed technique, clinical diagnosis or literal lifelong contract. Independent care and preference remain legible inside hesitant language."
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 150,
+      "line_sha256": "096f5326e4ed40505a8a2ebf9f544a98c3db74e63598da57d5327d21ccd10177",
+      "line_text": "The complete private producer census gives seven hundred fifty-four utterance-layer records, eighty-eight formal groups and one hundred thirty-one options across fourteen scenes. Five location records are rendered as headings rather than missing speech. Whole MomoTalk contains two hundred sixteen messages: one hundred seventy-eight student and thirty-eight adult records, with thirty-eight Answers in twenty-nine groups. Fixed successive Answers, alternative Answers and conditional repetitions retain different forms. Six additional raw paired inner records are separate from the formal menus. The new narrow Japanese recovery counts actual numbered units and locations rather than altering those inherited fields. [private131–158;receipt exact primary scopes.]"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 152,
+      "line_sha256": "3aef7d0611b23357d747cf4eb38cd443228eb3bae561d7feb2e6defedf1406ac",
+      "line_text": "The museum source is a positive identity case with a mode limit. Scene002u0029–0038 has explicit Haruka-dress log, first-person context and ten-line Special correspondence while retaining narration and blank raw speaker/person fields. That permits attributing the source-context preference to her without repairing unrelated blank blocks. Common scene001u0011 responds to perfect even though choice001 offers no, not-so and perfect; the shared response remains shared, not three invented tailored reactions. Its final好き is open-object. Performed delivery and the analyst's preferred confession are not supplied by a resource label."
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 154,
+      "line_sha256": "9ad90d01681b538e51695f5efc0a70efc74f21de37a164dfb269499fd6bf47f7",
+      "line_text": "Three profiles and one hundred ninety-four contextual records include one blank ordinary title. Ordinary lobby and Special Think records, dress Café Think and other Talk forms retain their data conditions. Weapon descriptions shift pest/enemy definitions but do not audit mechanics or firing outcomes. Editorial origin, coffee interest, crowd preferences, rest hesitation and company wishes belong to written context, not every lived scene. Master voice-group zero on the dress costume does not defeat the positive OriginalCharacterId join; neither positive routing nor credits admit actual audio."
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 156,
+      "line_sha256": "8f5187774a0b44befe03b41a140d66e63fbe5a12cea04769776762339de6eecb",
+      "line_text": "The seventy-five costume records preserve New Year809/10809 Day6/13/Close and the ungated900809 pool, while dress forms are ungated across their three event IDs. Reuse is not three lived repetitions or a changed personality. UI questions about self-blame, task-free contact, Aru enjoyment, trouble/robot and possible enjoyment of disturbance provide context with their own wording. They do not certify opera comprehension, complete event repair or causation. Audio, image pixels, gesture and performed timing remain UNRECEIVED; this bounded written monograph claims no additional performance credit."
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 158,
+      "line_sha256": "b427841c7bf547ee29f5ff2c51486901dba7df41b16dc9b54226a704e3fd9d36",
+      "line_text": "## 10. Competing readings and what changes the conclusion"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 160,
+      "line_sha256": "68f42ce37156b30d5e0d4d57bacecda1724282c0d82a6d6ba7db0286360de8b9",
+      "line_text": "**An anxious subordinate without independent agency.** Apology, fear of burden, tribute language and loyalty give this reading real support. Its total form is contradicted by uncommanded bomb installation as well as positive gardening, soil knowledge, craft adaptation, price/mobility judgments, material correction, refusal and invitation. Agency is not automatically good agency. The retained conclusion recognizes authored choices with mixed methods rather than treating obedience as an explanation for everything."
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 162,
+      "line_sha256": "923cdc394e845d11d60bc554f104436251b96af03f9d0249aa04c246634966f8",
+      "line_text": "**A harmless gardener whose violence is only comic excess.** Independent cultivation, wanted warmth and shy company make the gentle interpretation attractive. Against harmlessness stand the destroyed pot, severe venue damage, bombs, demolition and reported shooting. Comedy and affection do not supply a missing medical/legal aftermath or inspected irony. The stronger reading preserves genuine ordinary care while allowing harm and unresolved responsibility to remain consequential."
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 164,
+      "line_sha256": "532212c54331a2f37ebb58d7fe14989c41766cea523b1e0309365b0e8f22851a",
+      "line_text": "**Devotion guarantees effective protection.** Protective intention and useful rescue support local benefits. The pot demonstrates protection destroying its object; the adult's wait or unfinished reassurance does not stop escalation; explosive bin relocation remains short of neutralization. Employer approval and a successful-work defense also coexist with damage. The source supports particular completed aid, not a general rule that intensity of loyalty produces safety or just means."
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 166,
+      "line_sha256": "730f84cc6905ce5eefe5065e8093bbcb7a4b3378b6bd3d4e3c4c1d8be433d41b",
+      "line_text": "**The adult's praise restores self-worth.** Local smiling, pleasure, actual reciprocal care, clarification and permission to err are strong positives. Continued self-devaluation, afterlife debt, withheld future outcomes and repeated hesitation prevent a completed cure. Some adult methods are also intrusive, pressuring, self-benefiting or troubling. A bounded recognition account explains local benefit without making the adult flawless or treating independent cultivation as something his praise created."
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 168,
+      "line_sha256": "6731707263e91c40708d0fcddb6358832fa5f4748e55f6d46cd496eae3dbecc2",
+      "line_text": "**Her own wants matter only once she becomes confident enough to say them.** The fulfilled slow-walk wish and museum judgment could support a local change in expression. Soil care, already-established cultivation and gift/craft choices also show authored wishes, and there is no global chronology joining all variants into a confidence ladder. The source can make articulation and reception important without withholding analytical value from those independent wants. Low-stakes wishes are not a lesser class of evidence."
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 170,
+      "line_sha256": "9711c865bb421be53e392a9df141bfca36cf3eeeac174ca2972858ac77eab712",
+      "line_text": "The preferred thesis handles these contrary cases together: care has independent authorship, recognition can give real local benefit, and protection remains answerable to recipients and consequences. Future admitted evidence might print a promised visit, a repaired venue or a proportionate commission, or clarify an actor seam. Those would revise particular claims. They cannot be added now to produce a neater ending, and lack of total repair does not erase the actual returns, walk or viewing already complete."
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 172,
+      "line_sha256": "729cd756b5706b91834ac5608d5bcddbb038297ea4c2ae20f3f4fe42c28d8a9d",
+      "line_text": "## 11. Evidence boundary and fourteen open gaps"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 174,
+      "line_sha256": "5b2344a364d5bd976d2f427fcaf01554250737376a06bfa13bbdce3d9ea2a602",
+      "line_text": "The receipt separates twenty-nine exact selected private bindings, complete accepted analytical arguments, specific fresh Japanese recovery and saved prose. The current maintained account controls historical producer proposal statements; accepted public meanings are reused at personally complete declared scopes. A source hash is a binding, not narrative credit. Necessary recovery receives the whole dress005, whole dress006 and whole museum-linked MomoTalk, preserving the violence response, actual slower pace, criterion, mode/choice seam and unperformed future request. No all-source primary replay, raw/native/AV recovery or new original producer credit is claimed."
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 176,
+      "line_sha256": "515266b250afa6b478398977839d7ee373164083653476d547fd5f441b82e9bd",
+      "line_text": "| Gap | Positive supported claim and specific remaining limit |"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 177,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 178,
+      "line_sha256": "b4a4a141ce98fc4c8b3aeb9ff63991d50ec9b9fbf9b80a065f91c46de323e16f",
+      "line_text": "| G01 ordinary/private breadth | Twelve BOND, twelve whole messages and five written contexts supply selected breadth. Cultivation, actual returns, soil return, craft transport, food, warmth, slower walk and completed viewing remain positive. Stable self-evaluation, future visits and total recovery remain unprinted. |"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 179,
+      "line_sha256": "33f3a90a7c15cba59d21d1c2531a9a682ee6b4a8565109be82e5be829866bbea",
+      "line_text": "| G02 Yuuka comparison | Labor, wanted provision and responsibility give a bounded care comparison. Yuuka's separate character and institutional directions are not completed by Haruka's gratitude or PS68 membership. |"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 180,
+      "line_sha256": "94a2b369eeca46ecc4450b4a372510e17bee279cc309383c9b93b72d80259f21",
+      "line_text": "| G03 Serika comparison | Event809 distinguishes exhausted offered earnings from guide wages and later unpaid pay. Neither restored funds nor a shared employment rule follows; hunger and proposed ramen are not a received paid meal. |"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 181,
+      "line_sha256": "8bf4c6a615c40bcca72141da17d8bbb653f49d7b0a5a29a989092d534c08e45b",
+      "line_text": "| G04 Hina comparison | Gehenna duty and work approval are relevant comparative questions. No direct Haruka–Hina relationship or universal security standard is established by a school label. |"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 182,
+      "line_sha256": "bf53786d0732b5068aab01aa83ef9e12290e940b8487cb8bc8554fadb515d0cf",
+      "line_text": "| G05 Arius/PS68 | Saori's work/care and company cooperation are real at scoped endings. Unpaid balance, explosive aftermath, exploitation and separately affected recipients remain; a character paragraph does not discharge required ensemble/institution/directed packages. |"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 183,
+      "line_sha256": "bc273719358a21304e85dcd638ec5d342fc49e61a687a6a322e1289e3cc8b959",
+      "line_text": "| G06 cross-school breadth | Actual collective aid and rescue coexist with Trinity merchant reports and Wild Hunt pamphlet information. No anonymous client, artist, employer or faction is joined to a named principal solely through shared location or role. |"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 184,
+      "line_sha256": "4197ca0cc42b9b79f7d12cf1963ca11325688a8e5dd1f550155b6e9351cd509d",
+      "line_text": "| G07 chronology | Complete message joins, recalled exposition/gifts and decoration's next day give local relations. Variant/publication order does not establish years, Main placement or progressive cure. |"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 185,
+      "line_sha256": "2518482768e1f3523538ba323c06ba030fdfe045a3a9f66ebb9a1bd6ff265318",
+      "line_text": "| G08 events and local identities | Event809/810/821/834 duties and finite endings remain separate. Costume gates and repeat IDs are not lived reruns; raw actor ownership and canonical printed labels retain their event-specific seams. |"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 186,
+      "line_sha256": "2b82d75f8f521f38d6fc0f4479488d70ef695ddc243e3991788935b800ac5ba5",
+      "line_text": "| G09 speakers and alternatives | Five locations, six raw inner pairs, formal menus, template name placeholders, log timing and common-perfect reply are preserved. Inward content is not automatically public speech, and final好き has no repaired object. |"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 187,
+      "line_sha256": "b130026c8d769e7b0ae701bf48f068a5f8c3dad3022925a4ca1abe023a2e2de8",
+      "line_text": "| G10 audiovisual | Written Japanese/records are received; sound, performance, pixels and timing remain unreceived. Harmless irony, acted stammer, visible plant species and romantic gesture cannot be certified from text/credits alone. |"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 188,
+      "line_sha256": "239341461b701e4828a24071aae6075c4eaffdb5f1c7349b4c06b9858c5bd9b2",
+      "line_text": "| G11 records and offices | Actual shop return/cleaning comparisons and particular Schale purposes retain local scope. Payment recovery, all finance/access, unfinished office duties and broader Yume/office-history questions remain distinct. |"
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 189,
+      "line_sha256": "60a04dfcee5e94c38787e27d622beeaf0e725dfd48cb75e5a8be50316e269869",
+      "line_text": "| G12 identity and variants | 伊草ハルカ16000/20025/10141 and two OriginalCharacterId costume joins are positive. Unknown clients, local shops, faction members, artists, plants and possible pursuers remain unjoined; variants do not transfer acts or authenticate a calendar. |"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 190,
+      "line_sha256": "d61f89a28500638bdabdd655286ba3edb6ac7fa2c637142f4e9203cdb6dd51c4",
+      "line_text": "| G13 legal, clinical and technical | Actual material damage and local aid/restoration are admitted. Full bomb clearance, safe bin storage, casualties, legal closure, compensation, medical effects, chemical heirloom treatment and permanent security learning remain unverified where unprinted. |"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 191,
+      "line_sha256": "815d360d1f76446bb4667a29c972603e99634205502578e1868eafcb15073e34",
+      "line_text": "| G14 source modes and admission | Cycle008 supersedes historical proposed/UNADMITTED wrappers for admitted current duties. Report, inward, editorial, timed/log, wish and actual narration remain separate. No special-operation/unclassified pool is selected for this family, and no global source absence or automatic new admission is asserted. |"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 192,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 193,
+      "line_sha256": "bd49c914fbb03025a9187e8694c54d9fc734e1a2e5d30baec2797005e88381a0",
+      "line_text": "All fourteen gaps remain OPEN. They are claim-specific boundaries on stronger outcomes, not a reason to erase the ordinary completions and judgments the selected corpus does provide. No known mandatory source recovery remains for the consequential bounded claims made here. Clinical reconstruction, total chronology, legal/technical aftercare or performance would require their actual evidence and separate architecture decisions. The monograph retains uncertainty where consequential rather than substituting an invented conclusion."
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 194,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        11,
+        11
+      ],
+      "canonical_lines": [
+        10,
+        9
+      ],
+      "frozen_text": [
+        "generation: \"BA_REFRESH_20260928T032248159554Z\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        10
+      ],
+      "frozen_text": [
+        "status: \"LOCAL_CANDIDATE; ROOT whole receiving and canonical adoption pending\""
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        13,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "source_generation: BA_REFRESH_20260928T032248159554Z",
+        "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+        "source_boundary: \"Accepted textual analytical meanings at main2e2018d0d62d91e3e0a5e7681f72a31cec08e02c, with qualified historical c1f14d5120c29209ca571fea8d7cfbe111076ec5 and original earlier MAIN producer pins retained at their declared scopes; current scope control355/29; performed material unreceived\"",
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        31,
+        32
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARUKA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARUKA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Source publication, main integration, separately required directed/institutional packages and full eligible-cast completion remain separate."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        181,
+        181
+      ],
+      "canonical_lines": [
+        195,
+        195
+      ],
+      "frozen_text": [
+        "Independent ROOT whole receiving and exact verification can decide whether this candidate supplies the required bounded Haruka character home with limits. That decision does not complete full-cast Phase3, its directed relationships, PS68 ensemble/institution/labor/legitimacy/repair or the Sensei/register specialists. Those are required distinct packages, not optional polish for this monograph. No canonical adoption, publication, model, frozen prediction, diagnostic success, denominator or quarter is declared; sources were exposed before synthesis, so NO_DIAGNOSTIC_OPPORTUNITY remains literal."
+      ],
+      "canonical_text": [
+        "After independent whole receiving and exact verification, ROOT accepted this monograph as the required bounded Haruka character home with limits. That decision does not complete full-cast Phase3, its directed relationships, PS68 ensemble/institution/labor/legitimacy/repair or the Sensei/register specialists. Those are required distinct packages, not optional polish for this monograph. No remote publication, model, frozen prediction, diagnostic success, new denominator or quarter is declared; sources were exposed before synthesis, so NO_DIAGNOSTIC_OPPORTUNITY remains literal."
+      ]
+    }
+  ],
+  "source_argument_and_endpoint_credit": "Accepted original literary meanings/endings/recipient bounds and ROOT scopes retain their declared credit. Transport and public framing add zero literary, primary, performed, independent or identity-join credit.",
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "full_required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "no_separate_directed_institution_ensemble_completion": true
+}

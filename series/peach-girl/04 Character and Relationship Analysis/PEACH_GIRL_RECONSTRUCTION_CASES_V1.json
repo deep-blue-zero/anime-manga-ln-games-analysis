@@ -1,0 +1,232 @@
+{
+  "artifact_id": "PEACH_GIRL_RECONSTRUCTION_CASES_V1",
+  "version": "1.0",
+  "rule_freeze_commit": "073af8008bab1226b854772019cf5e8d76b3613e",
+  "rule_sha256": "cba94fb7b62b3499140bbfe22fde12e719517f52b828031247327341ac688419",
+  "created_utc": "2026-10-20T20:19:50.991064+00:00",
+  "design": "RETROSPECTIVE_FULL_SOURCE_EXPOSED_NOT_HELD_OUT",
+  "categories": "Predeclared source-grounded qualitative categories; no numeric calibration; K1/S2 only broad category and post hoc selection limits",
+  "cases": [
+    {
+      "id": "M1",
+      "subject": "Momo",
+      "domain": "response_to_unwanted_contact",
+      "known_facts": [
+        "experienced_unwanted_contact",
+        "can_voice_refusal"
+      ],
+      "features": [
+        "unwanted_contact",
+        "exit_sought"
+      ],
+      "frontier": "V15_i0099 beforeMreply",
+      "source_outcome": "V15_i0099–0100: M refuses strangerwristcontact/triesdistance",
+      "expected_category": "assert_refusal_and_try_leave",
+      "context": "V15_stranger",
+      "limitation": "Retrospectively selected; predicts own response, not successfulescape or T intervention",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "M2",
+      "subject": "Momo",
+      "domain": "response_to_unwanted_contact",
+      "known_facts": [
+        "experienced_unwanted_contact",
+        "can_voice_refusal"
+      ],
+      "features": [
+        "unwanted_contact",
+        "exit_sought"
+      ],
+      "frontier": "V18_i0014 beforetaxiobjection",
+      "source_outcome": "V18_i0015–0016: kidnappingobjection/stoprequest",
+      "expected_category": "assert_refusal_and_try_leave",
+      "context": "V18_taxi",
+      "limitation": "Different intimate context; same author already knewoutcome",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "K1",
+      "subject": "Kairi",
+      "domain": "rivalry_and_disclosure",
+      "known_facts": [
+        "still_loves_M",
+        "saw_M_T_kiss"
+      ],
+      "features": [
+        "asked_own_pain_cause",
+        "fears_burdening_M"
+      ],
+      "frontier": "V17_i0031 beforecauseexplanation",
+      "source_outcome": "V17_i0032–0033: falseMis/RcauseacceptedM",
+      "expected_category": "deflect_cause_to_Misao",
+      "context": "V17_cause",
+      "limitation": "Actor-accessible fear is interpretation supportedlatertrueMisreport54–57; weakrule and outcome-awareselection",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "K2",
+      "subject": "Kairi",
+      "domain": "rivalry_and_disclosure",
+      "known_facts": [
+        "still_loves_M",
+        "saw_M_T_kiss"
+      ],
+      "features": [
+        "rival_present",
+        "fears_loss"
+      ],
+      "frontier": "V17_i0083–0084 beforeMmovestowardT",
+      "source_outcome": "V17_i0087–0094: refusesrelease/directclaim/hold",
+      "expected_category": "hold_and_make_direct_claim",
+      "context": "V17_rival",
+      "limitation": "Counterexample; no posttestruleexception added",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "T1",
+      "subject": "Toji",
+      "domain": "response_to_M_boundary",
+      "known_facts": [
+        "M_previously_dated_K",
+        "has_heeded_refusal"
+      ],
+      "features": [
+        "M_explicit_boundary"
+      ],
+      "frontier": "V18_i0114 MWAITbeforeTresponse",
+      "source_outcome": "V18_i0115: stops/movesapart",
+      "expected_category": "stop_and_allow_distance",
+      "context": "V18_hotel",
+      "limitation": "Same encounter asT2; not two independent contexts",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "T2",
+      "subject": "Toji",
+      "domain": "response_to_M_boundary",
+      "known_facts": [
+        "M_previously_dated_K",
+        "has_heeded_refusal"
+      ],
+      "features": [
+        "M_explicit_boundary"
+      ],
+      "frontier": "V18_i0122 MwantstoleavebeforeTresponse",
+      "source_outcome": "V18_i0123–0125: blocksdoor/pullsbed/pins",
+      "expected_category": "block_and_restrain",
+      "context": "V18_hotel",
+      "limitation": "Mandatoryunfavorableepisode retained; laterstop133 not substitute",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "S1",
+      "subject": "Sae",
+      "domain": "intervention_in_others_romance",
+      "known_facts": [
+        "prior_manipulation",
+        "has_helped_M"
+      ],
+      "features": [
+        "M_relationship_uncertainty",
+        "opportunity_to_intervene"
+      ],
+      "frontier": "V18_i0044 MquestionsShiranamibeforereport",
+      "source_outcome": "V18_i0047–0050: truejourneyreport/noobligationrestart",
+      "expected_category": "truthful_report_without_demand",
+      "context": "V18_S_report",
+      "limitation": "Uncertainty is Sbelief aboutM; truthfulhelp counters habitualcontrol",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "S2",
+      "subject": "Sae",
+      "domain": "intervention_in_others_romance",
+      "known_facts": [
+        "prior_manipulation",
+        "has_helped_M"
+      ],
+      "features": [
+        "M_relationship_uncertainty",
+        "opportunity_to_intervene"
+      ],
+      "frontier": "V18_i0110 phoneborrowed/beforemail120",
+      "source_outcome": "V18_i0120/0176: alarmingemail/authoradmission",
+      "expected_category": "intervene_through_indirect_control",
+      "context": "V18_S_forgery",
+      "limitation": "Only broadcategorymatches; doesnotpredictspecificwords/suicidethreat/actualwaterdanger",
+      "kind": "RETROSPECTIVE_NARRATIVE"
+    },
+    {
+      "id": "P1",
+      "subject": "Momo",
+      "domain": "response_to_unwanted_contact",
+      "known_facts": [
+        "police_cause_received"
+      ],
+      "features": [
+        "unwanted_contact",
+        "exit_sought"
+      ],
+      "frontier": "V18_i0061 afterpartialMisrelay",
+      "source_outcome": "Policequestioningcause notactuallyreceivedbyM",
+      "expected_category": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+      "context": "knowledge_probe_M",
+      "limitation": "Whitelistimplementationprobe, not behavioralforecast",
+      "kind": "KNOWLEDGE_GUARD_PROBE"
+    },
+    {
+      "id": "P2",
+      "subject": "Kairi",
+      "domain": "rivalry_and_disclosure",
+      "known_facts": [
+        "knows_final_M_T_break143"
+      ],
+      "features": [
+        "rival_present",
+        "fears_loss"
+      ],
+      "frontier": "V17_i0084",
+      "source_outcome": "V18_finalbreak isfuture/unavailableatfrontier",
+      "expected_category": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+      "context": "knowledge_probe_K",
+      "limitation": "Implementationguarddoesnotprovefullmentalstatereconstruction",
+      "kind": "KNOWLEDGE_GUARD_PROBE"
+    },
+    {
+      "id": "P3",
+      "subject": "Toji",
+      "domain": "response_to_M_boundary",
+      "known_facts": [
+        "Sae_authored_email"
+      ],
+      "features": [
+        "M_explicit_boundary"
+      ],
+      "frontier": "V18_i0122",
+      "source_outcome": "SauthorshipnotreceivedbyT atfrontier; finalreceiptalso unshown",
+      "expected_category": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+      "context": "knowledge_probe_T",
+      "limitation": "Rejectreaderknowledge; no genuineheldouttest",
+      "kind": "KNOWLEDGE_GUARD_PROBE"
+    },
+    {
+      "id": "P4",
+      "subject": "Sae",
+      "domain": "intervention_in_others_romance",
+      "known_facts": [
+        "acoustic_voice_profile"
+      ],
+      "features": [
+        "M_relationship_uncertainty",
+        "opportunity_to_intervene"
+      ],
+      "frontier": "Unvoicedmangawitness",
+      "source_outcome": "Acousticvoice unavailablefromsource",
+      "expected_category": "ABSTAIN_FORBIDDEN_OR_UNVERIFIED_KNOWLEDGE",
+      "context": "capability_probe_S",
+      "limitation": "Capabilityguard, not narrativeprediction",
+      "kind": "KNOWLEDGE_GUARD_PROBE"
+    }
+  ]
+}

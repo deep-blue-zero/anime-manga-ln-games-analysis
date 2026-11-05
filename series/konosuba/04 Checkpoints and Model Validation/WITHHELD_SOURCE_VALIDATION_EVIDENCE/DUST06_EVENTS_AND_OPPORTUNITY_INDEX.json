@@ -1,0 +1,2301 @@
+{
+  "status": "ACCEPTED_PRINCIPAL_VALIDATION_EVENT_AND_PURPOSIVE_FORM_INDEX_NOT_SOURCE_CENSUS",
+  "source_id": "DUST-06",
+  "actual_accepted_utc": "2026-10-17T19:39:07.686147+00:00",
+  "original_root_initial_pin": {
+    "name": "ROOT_INITIAL_ALL39_SOURCE_ASSESSMENTS.json",
+    "bytes": 365293,
+    "sha256": "50054343e593d8f7ce583028e0687e4da692b8f2318be0d9d5565adbc6a9844c"
+  },
+  "original_root_event_cards": [
+    {
+      "id": "D06-E01",
+      "source_id": "DUST-06",
+      "title": "Present flight/reveal and old-role accommodation",
+      "locators": "C01P6–126",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Faitfore",
+        "Taylor",
+        "Keith"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-001",
+        "D06-R-002",
+        "D06-R-003",
+        "D06-R-004"
+      ],
+      "independently_available_before_response": "Different private identity premises; financial/public information still bounded.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-001",
+          "route": "C01P6–27",
+          "actors": [
+            "Dust",
+            "Faitfore/フェイトフォー",
+            "Taylor/テイラー",
+            "Keith/キース",
+            "person appearing as Leen/リーン"
+          ],
+          "observation": "Packed Dust plans immediate temporary flight with Faitfore, but first informs his familiar party15. Taylor physically holds him18/21 and demands explanation22; Dust protests20/23/27 and narrates a private-past disclosure barrier24. Keith speculates/mockingly treats past misconduct as normal17, not independent proof of a new crime. Faitfore accepts food from the apparent Leen19.",
+          "cautions": "Known relationships and voluntary disclosure compete with urgency, not simple cowardice/incapacity. Source positions are new only; no Dust01–05 event knowledge imported. GenericE boundary/different-account candidates, not principalK/D trial or formal outcome."
+        },
+        {
+          "id": "D06-R-002",
+          "route": "C01P28–63",
+          "actors": [
+            "Dust",
+            "Taylor",
+            "Keith",
+            "Princess Rionor/リオノール impersonating Leen"
+          ],
+          "observation": "All three notice unfamiliar refinement33–35, while Dust uses remembered vegetable routine32, composure38 and embodied difference41–44 before the old private name Line Shaker48 and explicit Rionor identification51. Hair change via remembered disguise tool60 is initially his inference, later discussed84–85. His former knight history is narrated50/54–63; present plan followed Faitfore report of incoming princess56.",
+          "humor_voice": "Slow identity reveal exploits actual discrepant social script, self-claimed salacious expertise43 and privileged private name. No acoustic reconstruction from textual voice descriptions. No new formalH/L census.",
+          "cautions": "Not every early guess is reliable competence; princess report/investigated status remain report, resemblance does not prove biological relation."
+        },
+        {
+          "id": "D06-R-003",
+          "route": "C01P64–100",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "real Leen as reported captive"
+          ],
+          "observation": "Dust moves private67, mixes formal address70 with familiar rough request74. Rionor reports accidental substitution/capture75/77, performs tearfulness without actual tears78; Dust alleges deliberate scheme79/81–83. She confirms refusal unavailable93 and uses his inability to approach the noble residence. Dust reports old total loss95 and infers Leen physically safe from former staff acquaintance96–100, not independently shown treatment.",
+          "voice_form": "Source-first witnesses64 self-correctionリオノ…リーン;70/74 rough-polite address;77 emphasized偶然;80 self-naming cute denial;92–93 refusal-right question/direct denial. Speaker/addressee fixed to this encounter.",
+          "cautions": "Narrator planned-deception inference is strongly supported but not objective omniscience;88 princess denies royal relation based on claimed inquiry, no verified genealogy. Leen actual consent/response/treatment unobserved. Temporary substitution is not automatically E04durable loss; Dust old identity is not Darkness D03. No scores yet."
+        },
+        {
+          "id": "D06-R-004",
+          "route": "C01P101–126",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "overhearing guild people"
+          ],
+          "observation": "Rionor confirms she named him Dust108 and gave his still-carried sword110; he remains silent112, so particular loyalty motive is not certified by her appraisal alone. Her order to drop honorifics113 causes actual speech self-corrections114/122, while he narrates habitual former-role burdens115–126. Bystanders misread truthful princess address as monetary flattery105–106.",
+          "voice": "Source-specific self-correcting polite/plain morphology, mixed address109, long written sigh117–118, different public/private knowledge. No acoustic performance inferred.",
+          "limits": "No universal unconditional obedience or independent proof every past hardship; no main-character forecast by Dust analogy."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E02",
+      "source_id": "DUST-06",
+      "title": "Quest financing and sales work",
+      "locators": "C01P129–170;201–269",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Faitfore",
+        "Luna",
+        "shopkeeper"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-005",
+        "D06-R-007",
+        "D06-R-008"
+      ],
+      "independently_available_before_response": "Financial insecurity, royal food offer and safer ordinary work are visible before adoption; sales roles are selected before the observed result.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-005",
+          "route": "C01P129–170",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Taylor",
+            "Faitfore",
+            "Luna",
+            "Kazuma/Serena as reported"
+          ],
+          "observation": "Dust lies about financial ease131 to forestall dangerous royal quest exposure135; Taylor independently contradicts it136 through feeding costs. Rionor offers kingdom-funded Faitfore meals142 BEFORE his enthusiastic work adoption143; actual later payment unshown. His admitted prospective overbilling147 is deliberate self-interested opportunity, not inability. Quest scarcity is explained162 by post-Serena recovery;166–167 report Kazuma exposed/captured her and freed the guild.",
+          "chronology": "Current C01 after MAIN15 Serena affair, referenced brawl two days earlier170; exact upper boundary unknown. MAIN15 background is dependent known-event report, not an independent Kazuma success.",
+          "limits": "Provider promise vs actual resource use distinguished. Actual protective motive135 competes with fees; no low-incentive Kazuma K02 test from another actor."
+        },
+        {
+          "id": "D06-R-007",
+          "route": "C01P201–215",
+          "actors": [
+            "Dust",
+            "Luna",
+            "Rionor"
+          ],
+          "observation": "Dust persists in self-exoneration201/203 despite Luna202. He independently recognizes actual royal magic competence209 yet avoids monster jobs because injury would have international consequences210. Chooses low-risk ordinary work211 against usual preference reported212, deliberately managing likely worse unoccupied behavior214–215.",
+          "limits": "Capability, willingness, goal-consistent safer selection and habitual avoidance distinguished. No principalKazumaK02 test by analogy; no full serious-battleE08 conjunction."
+        },
+        {
+          "id": "D06-R-008",
+          "route": "C01P219–269",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore",
+            "shopkeeper"
+          ],
+          "observation": "Actual excess-stock sale request222; Rionor complains219 but becomes engaged237 and teaches Faitfore239–242. Her magic talent is not proof of generic trade incompetence. Dust deliberately returns to old formal voice224; privately attributes personality change to royal flight227–229 yet explicitly owns his decision/enjoys current freedom232. Faitfore formerly nonhuman dragon243 is narrated history. Dust objects245 to the teaching content; princess dismisses246, he yields247. Merchant detects odd behavior248; Dust invents alcohol cover252 then provokes fight254–257. Goods sell early257/258, with customer-motive attribution inferential. He then avoids old familiar companions268–269 to protect disguise.",
+          "humor_voice": "Source-form calqued sales patter236 weakens superlative praise; repeated polite/plain corrections233–234/260–266 are actual and recipient-conditioned. Private ownership232 counters a universal excuse/helplessness account even while earlier blame228 persists.",
+          "limits": "Full sales outcome vs good overall judgment separate. Same sales/managing-disguise chain, not independent success per participant or utterance. No AquaArt/recognition forecast from another woman."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E03",
+      "source_id": "DUST-06",
+      "title": "Two-days-earlier Serena-victim mockery and brawl",
+      "locators": "C01P174–203",
+      "actors": [
+        "Dust",
+        "familiar guild recipients including Taylor/Keith",
+        "Luna later"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-006"
+      ],
+      "independently_available_before_response": "One continuous provocation, early silence and later physical protest; do not split each taunt/person into independent events.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-006",
+          "route": "C01P174–200",
+          "actors": [
+            "Dust as narrator",
+            "familiar guild adventurers inclTaylor/Keith",
+            "Luna as later cleanup reporter"
+          ],
+          "observation": "Two-days-earlier scene: drunk Dust deliberately mocks recipients176–184, recognizes shame178/180/182, wants more teasing183, then crowd rises185–187 and rejects his conditional apology188–190. He attempts opportunistic touching191/mistaken male target192–193, fights/claims three down but is beaten195; present narration still blames them199–200. Luna cleanup168 independently contextualizes brawl but not every claimed fight detail.",
+          "humor_voice": "Written baby-register mockery179; boasts of immunity to feminine deception184; incongruous conceding apology offered as a favor188 and self-serving reverse-anger diagnosis. Intentional provocation, tactical retreat and actual costs differ.",
+          "cautions": "Early silent shame180–182 and later actual capacity/collective objection189 retained as possible E06 adverse/fit components; do not infer inability or consent from silence. One continuous episode, no per-utterance/group-member multiplication. Dust narrator parallel is not Kazuma K07 test."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E04",
+      "source_id": "DUST-06",
+      "title": "Dream-shop exterior and disclosure",
+      "locators": "C01P273–324",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Faitfore",
+        "Rorisa"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-009",
+        "D06-R-010"
+      ],
+      "independently_available_before_response": "Recognized business interference; private identity withheld, food incentive changes disclosure. No actual dream-service execution.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-009",
+          "route": "C01P273–300",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore",
+            "ロリーサ/young-looking succubus",
+            "customers"
+          ],
+          "observation": "Dust visits familiar dream-service shop exterior; asserts wish to share misfortune280, then says initial arrival was habitual/unintended282. Customer embarrassment279 is his causal inference. Succubus privately objects to business interference291, Dust reassures/promises leave292 and actually departs295–298. Rionor imitates prior familiarity287–288 though this is their first meeting. Dust evaluates disguise success from succubus failure to identify294.",
+          "limits": "Keep conflicting narrator accounts and actual boundary response; no acoustic inference, entry/sexual act or adult/minor age fabricated. Provider business complaint is a natural outsiderE06 candidate, not principal-character rule. Two actual reported causes of route/lingering cannot be silently merged into preplanned foresight."
+        },
+        {
+          "id": "D06-R-010",
+          "route": "C01P301–324",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore"
+          ],
+          "observation": "Dust deliberately withholds succubus identity302. Faitfore responds to eye instruction306, then discloses after food offer308–309; new incentive, not incapacity. Rionor explicitly declines intervention318 citing apparent harmlessness and foreign jurisdiction, makes Dust accept a favor319. Unnamed prior discovery317 remains unidentified; no automatic MASK identity match. Her314 past-intimacy complaint is actual speech, Dust315 interpretation kept distinct. Early intention280 and habitual arrival282 remain competing narration.",
+          "voice": "Child spellings309 vs princess parsing312; defensive Dust313, private secrecy316, bounded royal judgment318. No acoustic performance or new formal census."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E05",
+      "source_id": "DUST-06",
+      "title": "Shared meal, rumor, funds and bill",
+      "locators": "C01P325–500",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Faitfore",
+        "Yunyun",
+        "restaurant staff"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-011",
+        "D06-R-012",
+        "D06-R-013",
+        "D06-R-014",
+        "D06-R-015"
+      ],
+      "independently_available_before_response": "Feeding-cost promise precedes appetite knowledge; wallet/exit signals expose remaining payment dependency. Rumor is mediated, not a separate elopement.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-011",
+          "route": "C01P325–370",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore",
+            "restaurant staff"
+          ],
+          "observation": "Rionor no-food-aversion329 and royal gratitude framing. Shops compete for known appetite339–345; buffets close346; Dust reports actually ignoring earlier owner plea347, an adverse generic boundary candidate rather than consent. Rionor knows dragon identity349 but lacks current human-shape appetite knowledge351; checks purse tearfully353. Dust354 claimed money taken/adequacy is inference, not proven theft or long-term funding. Actual feeding/care364 and mutual nostalgia366–368 precede Dust considering companions despite disguise risk370; bill not yet shown paid.",
+          "limits": "Same continuing meal/finance chain, no per-turn trial multiplication; secondary actors do not establish principal-character rules. E04 durable stakes not assumed from temporary affect."
+        },
+        {
+          "id": "D06-R-012",
+          "route": "C01P371–400",
+          "actors": [
+            "Dust",
+            "Yunyun",
+            "Rionor",
+            "Faitfore"
+          ],
+          "observation": "Dust recruits Yunyun375 believing loneliness prevents disguise detection; his motive inference distinct from actual welcome. Face-saving378 meets withdrawal379 then pleading380; Rionor objects383 to bullying and explicitly welcomes389, recipient relaxes391. Intense company preference393 overwhelms princess395–396. Faitfore finishes then requests more397–400, princess payment still prospective.",
+          "voice": "Yunyun conditional form378 to repeated pleading380; Rionor private protective correction383; recipient-specific scripts, not global social incompetence."
+        },
+        {
+          "id": "D06-R-013",
+          "route": "C01P401–453",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Iris as reported"
+          ],
+          "observation": "Rionor encourages more401 but actually checks funds406; Dust407 insufficiency inference becomes later493 practical gap. Yunyun declines free meal403 and later pays488. Rionor elicitation415 is Dust explanation, not independently measured lifetime skill. Yunyun voices prior non-help416 and differentiates apology target422–424, so loneliness does not erase real disagreement. Dust physical interruption433 meets royal foot stamp435; accepts resistance futility439 based on claimed experience. Yunyun440–451 repeats Iris-mediated rumor of knight/royal affair and downfall; Dust452 says broad agreement with errors, not full corroboration of every element. No direct main-character choice opportunity from that retelling.",
+          "voice": "Rumor apology target garden-path422–424; Rionor feigned curiosity/staring441–446 and emphasizedあ、の427 depend on secret identity. Literal text/provocation separate from acoustic claims."
+        },
+        {
+          "id": "D06-R-014",
+          "route": "C01P454–477",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Faitfore",
+            "Vanir/Wiz as reported"
+          ],
+          "observation": "Dust attempts anti-shop excuses456/459 to protect disguise; Faitfore surprises him462, gives retrospective hair-for-candy trade464/466. His old species-conflict prediction461 fails locally because of reported new incentives, not incapacity or source model forecast. Narrated magic material value470 and Vanir finance/Wiz spending471 are viewpoint background, not independently observed ledger proof or main Kazuma/Aqua trial. Dust considers own hair trade473 but rejects baldness/hopes gambling477: evidence against absolute no-boundaries exploitability, alongside questionable alternative judgment.",
+          "limits": "Past narrated trade not a new observed independent Vanir event. No publication or expanded literary completion from these notes."
+        },
+        {
+          "id": "D06-R-015",
+          "route": "C01P478–500",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Faitfore"
+          ],
+          "observation": "Princess slips first meeting478; Dust covers481 and identifies separate Leen safety/political resemblance risks483–485. Yunyun actually pays488. Dust blocks princess exit489, rejects renewed status claim490–492 because current role Leen, demands payment. She asks to sell jewels493; Dust supplies shortfall from actual earlier quest earnings at stated10%interest495, then leaves500. Rionor calls kindness498; his motives and repayment remain not fully proved, no actual later jewel sale/loan repayment shown. Correct prior prospective provider estimate354 with actual insufficiency493 without rewriting it.",
+          "limits": "Same meal/sales financial chain and relationship-conditioned royal script; not two independent resource tests. Generic E07/E08 opportunity components may matter later; no formal outcomes yet."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E04",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E06",
+      "source_id": "DUST-06",
+      "title": "Distant daily Explosion and local habituation",
+      "locators": "C01P504–529",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "townspeople",
+        "unseen caster"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-016"
+      ],
+      "independently_available_before_response": "Actual distant explosion; absent caster identity, trigger receipt and pre-cast decision interval. Kazuma sommelier is reported.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-016",
+          "route": "C01P504–529",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "main characters as described"
+          ],
+          "observation": "Princess imagines romance at Vanir/Wiz shop507; Dust rejects it508. Dust514 describes unnamed daily Explosion caster/masochistic noble/self-proclaimed goddess in caricatural institutional introduction, not independent full main-character behavior. Actual distant explosion516 and townspeople habituation522 observed; caster identity, motives, safe opportunity not independently shown. Kazuma sommelier519 is report, not actual calibration trial. Rionor initial skepticism515 revises with visible explosion517–525 and enjoys unusual town, not general incapacity or terror.",
+          "voice": "Outsider expectation vs habituated local explanation; daily Explosion claim receives physical partial corroboration but not all514 claims."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-M01",
+        "R1-M03",
+        "R1-K01"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E07",
+      "source_id": "DUST-06",
+      "title": "Magic-shop purchase, secrecy and supplies",
+      "locators": "C01P530–592",
+      "actors": [
+        "Dust",
+        "Vanir",
+        "Wiz",
+        "Rionor",
+        "Yunyun",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-017"
+      ],
+      "independently_available_before_response": "Actual secrecy purchase agreement and finite snack/material offer; Wiz cause on floor is inference. Actual acquisition/use of Yunyun item is not shown.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-017",
+          "route": "C01P530–592",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Vanir",
+            "Wiz",
+            "Yunyun",
+            "Faitfore"
+          ],
+          "observation": "Vanir531/533 refuses nonbuying customer status verbally; Dust actually enters534. Wiz on floor537 observed, but cause wasteful purchase/punishment is Dust inference; she actually revives/answers578. Vanir546/549 distinguishes apparent Leen; princess556 confirms knowledge of being recognized, Dust548 exact instantaneous ability still inference. Dust diverts Yunyun552–555 with liked-object claim before she can examine identity; Vanir559 conditional stronger secrecy induces actual purchase agreement561–562. Dust563 trusts promises based on experience, not objectively universal guarantee. Vanir564 actual hair/nail-for-snack offer and hospitality566 follow earlier reported trade; no per-retelling independent success. Dust568 explicitly conditional acceptability, not unconditional consent to all demands. Yunyun580 purchase declaration precedes full target range581 including monsters, story cuts outside582; actual subsequent use/success unknown. Dust leaves her583 despite claim leaving with two576; positions are princess/Faitfore, not all party. He recalls missed Leen divination591–592, real omitted check rather than completed rescue."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E08",
+      "source_id": "DUST-06",
+      "title": "Leen captivity, letter, role induction and renewed choice",
+      "locators": "C01P596–640;C03P427–597",
+      "actors": [
+        "Leen",
+        "butler",
+        "maid",
+        "Rionor by letter"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-018",
+        "D06-R-049",
+        "D06-R-050",
+        "D06-R-051",
+        "D06-R-052"
+      ],
+      "independently_available_before_response": "Distinct phases: coerced capture, private explanation/conditional release, initial acceptance, withdrawal denied, then a later actual paid-withdrawal offer and renewed acceptance. Not separate independent successes for each retelling.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-018",
+          "route": "C01P596–640",
+          "actors": [
+            "Leen as first-person focalizer",
+            "royal butler/maids/soldiers"
+          ],
+          "observation": "Explicit focalizer switch from Dust to Leen: she describes expensive ordinary inn599/606 and confirms own identity621. Royal search instruction596/607 portrays princess as masterful escape/manipulator; staffs wrongly classify accurate denial as deception626–631, decline guild verification630–631, physically bind and carry her633, reject last protest635–638. These actual actions qualify earlier Dust96–100 safe-treatment inference, without proving actual injury or kinship. Leen640 calls mentally for Dust; she is not consenting. This section recalls the earlier capture rather than establishing that all chronology proceeds after evening return. No Darkness royal-role test by Leen analogy.",
+          "voice": "First-personあたし vs Dust俺; household reverence/title mixed distrust628; true denial recursively read as proof of disguise; knowledgeable butler confidence636 opposed by actual mistaken identity and direct retort637. Preserves referential/epistemic separation."
+        },
+        {
+          "id": "D06-R-049",
+          "route": "C03P410–450",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Leenasnewfirst-personfocalizer",
+            "unidentifiedmaid"
+          ],
+          "observation": "Partyactuallyseparates410andquestpaid;princess415reportsarrangedcompensationletter/maidforLeen, noactualdeliveryorLeenacceptanceyet. Dust417suggestsfailedactingstillunverified;422princessclaimsnonpunishmentinstructionand423Dustimaginesluxurytreatment. Focalizerswitch427–428actuallyshowsLeenconfined,429alltruthdeniedasbadacting. Herchoice431avoidpropertydamage isanticipatedliabilitynotincapacity. Bodilycomparisongivesdifferentphysicalevidence438butexposure439onlyhypotheticalrejected440; actualneverundressedhere. Maidactuallyheard441/444, selfreportsformerthiefskills446andcontinuouspresence449. No proof allskillcertificationsorallpastcapturesshown. Differentviewpointcorrectsroyl-Dustassumptionswithnonconsentstillpresent."
+        },
+        {
+          "id": "D06-R-050",
+          "route": "C03P451–518",
+          "actors": [
+            "Leen",
+            "royalmaid",
+            "Rionorviawrittenletter",
+            "pastDustviaphotographdescription"
+          ],
+          "observation": "Maid453explicitlyknowsfalseidentity,455admitsprincessplanand460doublepay/bribery; distinctfrombutlersstillmistaken. Actualletter469–475relaysapologyandroyalprivationcomplaints,theft/leaksareherclaimsnotallindependentlyobserved. Letter490promisesyearsfundingplusconditionalDusthistory,498explicitlyallowsrefusal/release. Leenactuallyreceivesnarratedphotograph504–506ofyoungDustandroyal/dragon, notanEPUBimagewehaveviewed;affect512andattention495precedeacceptingrole516. Princesscorrectlyanticipatedinterest498butcannottherebyproveallpsychology. Shecontinuesdenials517–518; noautomaticclinicaldiagnosisorfullromanticmodel. Knowledgecues actualnewsource,notproofnoearlierrumor."
+        },
+        {
+          "id": "D06-R-051",
+          "route": "C03P519–560",
+          "actors": [
+            "Leen",
+            "royalmaid",
+            "butler anddinnerattendeesasreported"
+          ],
+          "observation": "Halfdaytraining520/actualdensetimetable523,wardrobemannersforactualdinner524. Whip534seen,actualwhippingNOTnarratedinthisrange;donotassertphysicalpunishmentfromtoolalone. LaterLeen540reportsactualdinnerperformancewithhelpers541anduncertainacceptance;maid549passes,notindependentbroadcompetenceproof. Exhaustion544blocksreactionbutactualdirectboundary545remains;maid546sayshabit,nothearinginability. Leen554requestswithdrawal,maid555categoricallydeniescontraryletter498;threat/skillcontext558–559makesescapeinhibitionplausible,nophysicallyattemptedescapeproven. Refusalprivileges mustinclude later594offer, notfreeze555asuniversalrule."
+        },
+        {
+          "id": "D06-R-052",
+          "route": "C03P561–597",
+          "actors": [
+            "Leen",
+            "royalmaid",
+            "Rionor asstorysource",
+            "Dust asreferent"
+          ],
+          "observation": "Maid563offersknightstory,Leen565attends;actualcontentelided569,specificfullhistorymaynotbeclaimednewlyrecountedfromomission. Maid577explicitlyqualifiesflighttaledetailasprincessselfreportand581callsherhabitualfalsehood,conservesuncertaintyagainstLeen576truewholeaccountinference. Storyaffect584notsameasfactualreliability. Leen586–588/596deniesjealousywhileangrywithconcealedpast,role-switchandrelationshiprivalrycompetingmechanisms,notonefact. Maid591offersreplacement-princessrevengeframe;then594actuallyofferspaidwithdrawal/homeescortcontrary555. Leen595activelychoosescontinueafterthisoffer,soinitialcoercionandlaterrenewedacceptancebothrequired. Stafffantasyofreplacingprincess591NOTactualofficialreplacementdecision.",
+          "voice": "Repeatedどうでもいい586–588vsムカつき/ほっぺ589, narrativeironicselfpresentationnotinfallibleliteraldenialorcertifiedunconsciousmind. 白々しいsubservience/colloquialいらないんじゃね591intentionalrolecontrast; image597unviewed."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E04",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E09",
+      "source_id": "DUST-06",
+      "title": "Present evening drinking and disguise protection",
+      "locators": "C02P6–46;1023–1033",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Taylor/Keith as reported"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-019",
+        "D06-R-039"
+      ],
+      "independently_available_before_response": "Frame around the historical flashback. Keep actual drinking separate from retrospectively reported deliberate incapacitation.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-019",
+          "route": "C02P6–46",
+          "actors": [
+            "present Dust",
+            "Rionor"
+          ],
+          "observation": "Returns to current guild evening after outing8; Rionor says strong drinker10 while Dust15 warns BECAUSE known drinking trouble, ability/willingness/judgment distinct. She presses private Leen intimacy16–29; Dust26 anticipates possible national intelligence but does not ask, so no actual confirmed use. He agrees own exile life enjoyable31, her emotional change32–35 complicates simple kindly/reckless princess. Dust recognizes simulated crying36–38. He44–46 explicitly opposes romantic rumor with own comic retrospective framing, not automatically superior objective whole history.",
+          "voice": "Spokenシクシク35 exposed36; feigned formalおほほ41; intimacy questions plus narrator response, no acoustic reconstruction."
+        },
+        {
+          "id": "D06-R-039",
+          "route": "C02P1023–1033",
+          "actors": [
+            "present Dust",
+            "Rionor",
+            "Keith/Taylor as reported"
+          ],
+          "observation": "Explicitreturntopresentguilddrinkingscene1023: princesssleepingdrunk1025–1027 andpromiseadventure1031. Dust1030saysdeliberatelymadeKeith/Taylordrunkearliertopreventdisguisedetection; noindependentconsent/proofallbeverages observed. TheirpriorabsenceatC02P9notchronologycontradiction, heexplainspresentbeforehisowndrinking. Heactuallychoosesoldpolitevoiceonlysleepingprincess1032–1033, contextualhabit/relationreinstatement ratherthangloballyfixednewregister. Earlierabsolutestrongdrinker10doesnotsupplyimmunitytoeventualintoxication.",
+          "limits": "Flashbackpastdays1–7+prison+departure separatecurrentoutingday. Source1517? MainSerenaknowneventretellingnotnewtrial. ExcludedimagesP1020unviewed."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E10",
+      "source_id": "DUST-06",
+      "title": "Earlier knight training, dragon care and role conflict",
+      "locators": "C02P50–121",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "Faitfore",
+        "knights/king"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-020"
+      ],
+      "independently_available_before_response": "Earlier relationship state and actual training success; local boundary/retaliation and jointly received reprimand.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-020",
+          "route": "C02P50–121",
+          "actors": [
+            "past Line/Dust as first-person私",
+            "Rionor",
+            "Faitfore",
+            "knights/king"
+          ],
+          "observation": "Extended explicit earlier-knight flashback: training defeat of multiple peers51–57 and their remarks support domain skill without proving every-life competence. Past narration shifts私 vs present俺. Royal resistance prompts physical extraction69–73 and duty-release refusal76–77; dust threatens limited dragon nibbling71, actual bite not shown. Her claims of equality92 meet his real exposure/legal hierarchy concerns93–94. He deliberately startles96–101 then actually brushes above-breast dust109 after her invitation105–106; subsequent long lecture115, both reprimanded116–118, interpretations of king intentions119 reported/inferential. Former rigid formality coexists with retaliatory play and dragon care84–86, not a pristine hero baseline.",
+          "limits": "Secondary history admissible for holdout test only where contract subject/trigger fits. No core-main character opportunity by analogy; no actual parent intentions independently established."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E11",
+      "source_id": "DUST-06",
+      "title": "Earlier elopement decision",
+      "locators": "C02P124–266",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "maid",
+        "guards"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-021",
+        "D06-R-022",
+        "D06-R-023"
+      ],
+      "independently_available_before_response": "Known marriage, rules, cost and romantic value precede the one-day decision. Later supplies, letter and optional withdrawal are real state changes.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-021",
+          "route": "C02P124–150",
+          "actors": [
+            "past Line/Dust",
+            "Rionor"
+          ],
+          "observation": "Next night return124, princess uses midnight calendar loophole128 despite explicit confinement127. Actual request for ride138 met immediate prepared refusal139–141, colleagues reported changes144–147 while he maintains professionalpride148 and rules/danger150. Increased visits136 is narrator longitudinal report. Adaptive flexibility need not erase moral/safety/institutional limits; princess order149 not automatically obeyed.",
+          "voice": "Direct short refusal131/133/139 vs full polite professional rationale148/150, conditioned by relationship and stakes; no one-universal register."
+        },
+        {
+          "id": "D06-R-022",
+          "route": "C02P151–204",
+          "actors": [
+            "past Line/Dust",
+            "Rionor"
+          ],
+          "observation": "Rejects erotic inducement153, states disciplined civic role159, recognizes mutual influence156–157, but serious upcoming marriage173 changes decision structure. Princess177 requests real freedom, narrator180 intentionally switches to serious response. He explicitly anticipates job/extreme penalties182/203 and admits mutual romantic feeling187–190 before choosing one-day trip193–196/204. Thus no knowledge-free mistake or unqualified coerced only model; actual intrinsic/relationship value competes with duty. Exact one-day condition195 and tomorrow-wedding timing196 retained.",
+          "voice": "Earlier formal refusal159 vs recognition and boundedconsent195. Hand/voice trembling179 is textual description; no acoustically generated performance."
+        },
+        {
+          "id": "D06-R-023",
+          "route": "C02P205–266",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "maid",
+            "rival knight",
+            "other guards"
+          ],
+          "observation": "Prepared bag206 and admitted treasury taking208/visible jewels209 show advance planning. He attempts cancel214; princess invokes promise/pride215 and threatens misleading loss statement217. Letter223 deliberately appears coercive; maid actual public reading228, but payment/co-conspiracy231 remains narrator inference, denied232. Crucially princess offers genuine-looking opt-out240 with father reassurance; he nevertheless actively rechooses243–246. Other guards255 recognize her instigation, undermining universal no-listener narrative. Princess262 proposes threatening minister with dragon breath, actual breath NOT shown. Narrator265 career farewell is anticipation not completed punishment yet.",
+          "limits": "Same continuous elopement decision/escape; no per-bag/letter/guard extra trial. Character refusal, changed information, values and relational pressure all preserved."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E04",
+        "R1-E05",
+        "R1-E06",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E12",
+      "source_id": "DUST-06",
+      "title": "Initial flight, speed objections and shelter",
+      "locators": "C02P270–338",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "Faitfore",
+        "old couple"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-024",
+        "D06-R-025"
+      ],
+      "independently_available_before_response": "Protective slow flight precedes provoked acceleration and ignored slowdown; fatigue later limits response. Real shelter is provided by recognized earlier beneficiaries.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-024",
+          "route": "C02P270–300",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "Faitfore"
+          ],
+          "observation": "Narrator explicitly credits princess272 with cutting other dragon tack271, not his independent sabotage. He admits no destination274; she gives practical border/forest/monetization criteria276 and five alternatives claim280. His belief282 she would succeed alone is inference; actual destination selection286 based on previous mission. Protective slow speed291 then provoked acceleration293–295; explicit princess requests slow297/stop299 deliberately ignored300 while he pretends mishearing298. This is adverse boundary evidence, not inability to hear established, nor consent inferred from earlier wish faster290.",
+          "voice": "Literal mock nonhearing298 contrasted narrator actual ignore300; fear scream source-grapheme compression294/297/299, not inferred actor delivery. Track royal/practical scripts without promoting generic outsider behavior to principal rules."
+        },
+        {
+          "id": "D06-R-025",
+          "route": "C02P301–338",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "old couple",
+            "Faitfore"
+          ],
+          "observation": "Narrator301 denies feigned-hearing resentment despite explicit earlier300ignore; keep denial against actual reported acts. Extra aerial tricks302 end with unsteady near-speechless princess304–306; silence has physical fatigue context323–324, not consent. Hecalms couple312–317 via actual recognition, lies secret mission319, secures barn320–321 and room325; own fatigue326 real. Royal plain clothes332 described as maid-cooperative, some corroboration of earlier suspicion but actual bribery still unknown. Hair tool336–338 identified, selfnamed rather than official brand.",
+          "voice": "ワタシ地面スキ305 represents printed altered register, no acoustic claim. Oldwoman309 prior casual no-care vow contradicted in register after recognition315–316, recipient-specific scripts."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E13",
+      "source_id": "DUST-06",
+      "title": "Foreign stroll, identity and jewelry funding",
+      "locators": "C02P339–379",
+      "actors": [
+        "Line/Dust",
+        "Rionor"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-026"
+      ],
+      "independently_available_before_response": "Alias and actual small-necklace sale; own valuation knowledge missing, royal near-treasure claim attributed. One-day return plan still operative.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-026",
+          "route": "C02P339–379",
+          "actors": [
+            "past Line/Dust",
+            "Rionor usingリール/Riiru"
+          ],
+          "observation": "Name/private address dispute343–350 yields exactaliasリール, notLeen/リーン, preserve distinct. Dust admits unfamiliar tourist knowledge353 despite known mission contact. Royal adventure request354 refused for danger355 and postponed357, not actual present adventuring. They actually sell smallest jeweled necklace363 and getlarge funds364; no calibrated independent valuation from Dust366; princess367 says near-national-treasure, he368deliberatelyignores known concern. She agrees to return371; his confidence373 plus sharedmealmotive379 explain later vulnerability, not proof no plan. One-day/return/wedding conditions358–359 unchanged."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E14",
+      "source_id": "DUST-06",
+      "title": "Drugged oversleep, false intimacy and search",
+      "locators": "C02P383–450",
+      "actors": [
+        "Line/Dust",
+        "Rionor by speech/letter",
+        "receptionist as reported"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-027"
+      ],
+      "independently_available_before_response": "Sexual insinuation is contradicted by the later sleeping-drug/no-sex letter; actual search follows new information. No sexual event invented.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-027",
+          "route": "C02P383–450",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "inn receptionist as reported"
+          ],
+          "observation": "First waking noon390 after offered alcohol/blackout386; returns too late392. Nude princess406 and her explicit claims404/409/414 induce inference of sex/faint415; NO actual sexual event established. Second wakingevening418, he first frames duty423 then actively considers her anxiety424–425, countering absolute selfishness. Visible bottle427 plus princess written admission430 of sleepingdrug/no sex/hiding deliberately contradicts earlier insinuation. He actually reads/crumples432 and hunts435–440, receptionist departure report435 separate. His no-method belief444 revises to unconventional plan448–449 under unchanged redressgoal446–447. No KazumaK05trial by outsider parallel.",
+          "limits": "Letter is attributable admission and narrative causal evidence, not independent toxicology or literal proof every claimed detail. Previously implied intimacy corrected without erasing initial uncertainty. Statements about past repeated royal escapes442–443 are narrator reports."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E15",
+      "source_id": "DUST-06",
+      "title": "Aerial pursuit, pepper escape and rope retaliation",
+      "locators": "C02P453–546",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-028",
+        "D06-R-029"
+      ],
+      "independently_available_before_response": "Tracking/capture, pepper escape, later capture and ongoing coercive flight are dependent phases. Clear objections survive later acclimatization.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-028",
+          "route": "C02P453–484",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "Faitfore",
+            "town bystanders"
+          ],
+          "observation": "Changes search to airborne tracking456/463; explicitly recognizes international consequences465 and proceeds deliberately. First apparent surrender466 leads his care/water469 and optimistic corrective inference470–472, then actual pepperattack475–478/escape480 disconfirms success. Faitfore nose suffers478; child is dragonformhere. Royal promised meat479 prospective only. Dust switches redress with dragon assent483–484; this is known-evidence tactic/change of willingness, not incapacity to devisealternatives. No need global fallacy to recognize actual error471–472.",
+          "voice": "Literal-vs-figurative縛って振り回す460–461; serious loss statement460 is metaphorical role death, not physical death."
+        },
+        {
+          "id": "D06-R-029",
+          "route": "C02P487–546",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "Faitfore"
+          ],
+          "observation": "Three-day duration496; retrospective halfday chase487 and actual rope-suspendedprincess508–509 after twoextra escapes509. His debatefreedom500–505 occurs while she explicitly pleads493/507, wavedaway494; later feignedallowance511 doesnot erase stop/protest515. He orders spin513–514; actual acclimatization516–519 comes later and cannot retroactively certify consent. He chooses continuedouting520/526 while expects soleblame525 and distinguishes smart/culturallyignorant530, not unintelligent. Princess527 promises futureprotection, not actual punishmentoutcome. Deliberate spearplay542–543 triggers clear rope-safety objection544; actual ropebreak/fallnotshown. Genderedcurse544 is threat, not demonstratedsupernaturalcause of laterhistory.",
+          "limits": "One continuing flight/capture chain; actual costs and comic framing coexist. E06adversecandidate includes ignoredquiet/explicit limits with actualcapacity and socialdominance; no principalDarkness inference from bondage alone."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E06",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E16",
+      "source_id": "DUST-06",
+      "title": "Casino learning, losses and retaliatory theater",
+      "locators": "C02P550–693",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "dealer",
+        "owner/guards"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-030",
+        "D06-R-031",
+        "D06-R-032"
+      ],
+      "independently_available_before_response": "Days four/five actual reported gambling and loss chasing; day-six fake distressed-family routine has a newly admitted retaliatory objective. Do not use that revelation to erase earlier loss interest.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-030",
+          "route": "C02P550–600",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "casino staff/patrons"
+          ],
+          "observation": "Dayfour550 casino: princess heard prior freedom remark556 contrary claimedwind533. Limited prior wagerdomain558 vsnohighstakes597; not all-gamesincapacity. Her uncouthassessment562 actuallydraws hostilelooks563; he swiftly apologizes565 and buysround566, socialrepair capacityindependentofgambling. Rionor personallyselectsclothes574–576 and trainsregister580; he deliberately imitates senior582 but produces awkwardsegmentedぜ583/585/589/596, keeps politefeatures, correctedby pinching590. His expressedmoderation597 is intention, not actual lateroutcome. Selfdescription561 never-suchlife is contextually contradicted by currentDust reading, preserve ironiclongitudinal gap.",
+          "voice": "Concrete register learning mechanism, pragmaticaudience mismatch, stance/address choice and metalinguisticcorrection; notcatchphrase imitationscoredassuiteT. Narrator570 explicitly leaves princess ironycomprehensionuncertain."
+        },
+        {
+          "id": "D06-R-031",
+          "route": "C02P601–656",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "dealer",
+            "casino patrons"
+          ],
+          "observation": "Actual continuing-loss narration602–603, visible losingball619, princessreportedwins607/actual620 and luckvalue606 onlyhypothesis. New desireimpress615 and recoup618/631 displaces initialmoderation597. Explicit dealerquitadvice609 ignored610, anotherpleaseleave623/628; nextday634 halfrefundoffer635 ignored638. Princessexpelled640, butDustsendsheraway641–644 to keepgambling645–646, then self-excusingjustacting655 contradicts his own expressedinterest646 and unchangedrecouplossgoal656. No global K/A rule from Dust. Complete episode overtwodays may contain dependent opportunities, not independent perloss.",
+          "voice": "Speech gains roughstyle638/650 but still私 narrator655; finalぜ641 selfmonitoring, realanger vsrole notautomatically identical. Report of full losses not proofs casino ontologically fair or supernaturalLuckstat."
+        },
+        {
+          "id": "D06-R-032",
+          "route": "C02P659–693",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "casinoowner",
+            "bystanders/guards"
+          ],
+          "observation": "Daysix: apparentfamilydeprivation660–674 explicitlyrevealed as plannedretaliatorytheater682 for precedingban681. Actual imaginaryownercoercion674 is allegation/performance, notsexualassaultrecord; narrative678 says reputationaldamage and realowner679angry. Do notextend revelation682 backward to erase realearlierlosses/interest withoutbasis. Overtquitexpulsion683 leadsDust685 willingnessretreat, princessrecruitsmop686–687; he hasrealweaponskill688 but statescivilianlimit689 and actuallycarriesherout693 insteadofstriking even whenattacked. Publicbystanders669–670 misinformation notvalidfamily/carecase. Samecontinuingcasinochain, finephaseboundaries retained.",
+          "voice": "Practice redo690–692 literalcontrol ofvoice performance conflictswithactualsituation; identifies humor as actor-aware socialimpracticality, notinability."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E02",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E17",
+      "source_id": "DUST-06",
+      "title": "Adventurer registration and escape",
+      "locators": "C02P697–859",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "guild staff/adventurers"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-033",
+        "D06-R-034",
+        "D06-R-035"
+      ],
+      "independently_available_before_response": "Actual civilian restraint, registration payment, role disclosure, bounty receipt and nonlethal escape. Preserve native766リーン/771リール inconsistency.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-033",
+          "route": "C02P697–750",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "guild receptionist"
+          ],
+          "observation": "Heactuallytakesblowsprotectingher697 withoutvisiblemajorwound698; initialworry699 revises to herenjoyment701, mirrorsmiles707 showsexpressedexasperation notwholeaffect. Heacceptsfreedomrole711 but retainsprincessprotectioncondition716 and admitsownprioradventurerdesire717–718;actualregistrationapproach719–750. SpecificpastguildepresentrequestrealmcontrastscurrentAxel. Princess737 royalbountyexplainsownpriorcapturelimitedguildaccess, notprovenactualalljurisdictionpolicy. Payment749actual; noadventurerclasscardresultyet. Sheexplicitlyteaches私→俺741–744, hisselfcorrectingrequest746/748 actual uptake. No coreR1 modelchanged.",
+          "limits": "Scenariocross-context mechanism illustrationcouldinformStageCsecondaryprofile aftervalidation; thisnotesfile doesnotopensecondarymodelrevisionearly."
+        },
+        {
+          "id": "D06-R-034",
+          "route": "C02P751–790",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "guild receptionist",
+            "recruiters"
+          ],
+          "observation": "Dust751 selectivelyignoresfamiliarjobexplanation, plansdisguise aroundactualeyecolor/redcontacts760–761. Princess763 coinsダスト fromほこり誇り/埃 meaningdifference; he764recognizespun and765 adopts. Actual text766callsherリーン whereasherchosenaliaswasリール350 and immediate771 isリール. Preserveeditionreferentinconsistency, do notsilentlynormalizeorclaimmainLeenpresent. Guildcard771 givesactualreportedhighmagic/intelligence/luck, comparativelystrongcorroboration vs earlierluckconjecture606, notindependentlabmeasureorall-reasoningcompetence. Narrator774–776 worldheredity/foodexplanationattributedasreport. Realrecruiters initiallyinterested783 thenwithdraw788–789 afteractualtaunting786; highabilitydistinctsocialjudgment."
+        },
+        {
+          "id": "D06-R-035",
+          "route": "C02P791–859",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "guild staff/adventurers"
+          ],
+          "observation": "Guildcardidentifiesalreadydragonknight797; Dust800–801 rememberspreviousregistrationonlyafterexposure, domainknowledgegap/despitetrainingnotglobalstupidity. Bountyletteractuallyread814 givespairtraits/goodreward, sameaspreviousescapebutnonlocalavailabilitynowconfirmed. Fakecouple817–819 failsactualcharge823; nonlethalcoveredspeartrip824 andescape828 showcombatjudgmentin dangerouspursuit, notnocapacity. He physicallycarriesprincess833; her834 wantsprincesscarry, actualenjoyment836 remainsnarratorinference. Heoffersfutureadventure846/849 andcorrectsfalseclaimednamepromise855—accommodatingwithoutuniversalcredulity. Fatigue858–859 causeslodgingchoice860; notflightphysicslimit.",
+          "voice": "Honorific/plain mixtures785/807/832/846/851 plusnative narrator俺 vs preceding私; notmonotonicone-stepvoicetransformation."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E02",
+        "R1-E03",
+        "R1-E05",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E18",
+      "source_id": "DUST-06",
+      "title": "Seventh-day surrender, judgment and farewell",
+      "locators": "C02P863–1019",
+      "actors": [
+        "Line/Dust",
+        "Rionor",
+        "Faitfore",
+        "commander",
+        "king",
+        "butler"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-036",
+        "D06-R-037",
+        "D06-R-038"
+      ],
+      "independently_available_before_response": "Present valuation already established before durable exile/name/house losses. State-engineered kidnapping story differs from actions; final chosen departure and gift preserve actual cost.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-036",
+          "route": "C02P863–900",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "Faitfore",
+            "knightcommander andotherknights"
+          ],
+          "observation": "Dayseven863, firstnatural俺875–877 isexplicitmetalinguisticchange; urgency879understoodandactedon880–882 byprincess, counteringuniversalnoncompliance. Actuallypaysinn883, proposesfarthercity885; Elroadprince/premiercharacterization886 ispast-timeprincessreport, notcurrentpostSerenapoliticalfact. Atforest891 dragonalreadyencircled. Dust896 thinkshecoulddefeatcommander butwontbecausebenefactor, othersandcaptured dragon897–898 bound actualescape; donotclaimprovenheadtoheadsuperiorityorincapacity. Commander899 priorpredictionofcontrolledmanfailed, attributedperspective."
+        },
+        {
+          "id": "D06-R-037",
+          "route": "C02P901–947",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "commander",
+            "king",
+            "royal court"
+          ],
+          "observation": "Rionoractuallytriesprotect903/907/910, commander905 explicitlystate-engineerskidnappingaccountdespiteherconfession. Dust909acceptsfalsefullblame,913nationalstakes overownlife; admittedregret917–918 remainsrelationship/dragonpromise ratherthanperfectno-lossstoicism. Actualprison922, courtjudgment939commutesdeathbutdissolveshouse/exileshim; actualnamedeprivation946. Royalunderstanding934/942–945 partiallyinferredfromlooks, do notconvertallcourtfacialexpressionsintoindependentknowledge. King939explicitlyattributescommutationto princessrequest, strongeractualcausalevidencethan merelylaterlife. Publicvillainstorynotomniscientnarratortruth; narratorwillingness/abilityseparate."
+        },
+        {
+          "id": "D06-R-038",
+          "route": "C02P950–1019",
+          "actors": [
+            "past Line/Dust",
+            "Rionor",
+            "butler"
+          ],
+          "observation": "Realdeparture950–955withsalutefromguard954. Princessactualapology965 andchangedmarriage970; narrator968ownschoiceand969halfbravadolimit. Embeddedpreviousnightbutler977–979reportsrolecompliance/newengagementasexplicitlighten-sentencebargain; currentking939andprincess1008supportnotmerelyspeculation982. Dustextendsunspokenrequest999–1002, sheDOESNOTtakehand1003, choosesnationalduty1008despitetears1006–1007; lossandvaluationnotabsence. Actualswordgift1009/nationaltreasurestatusherclaim1011; actualkiss1014 andconditionalspear-useinstruction1015. Dustfinallyusesbareリオノール1019beforedeparture. Courtly/roughroleadaptationretainsprivateloyaltyandcompetencelimit; no needabsolutehelplessnessoroldvirtueerasure."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E04",
+        "R1-E06",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E19",
+      "source_id": "DUST-06",
+      "title": "New-morning substitutions and quest recruitment",
+      "locators": "C03P6–117",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Yunyun",
+        "Rorisa",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-040",
+        "D06-R-041",
+        "D06-R-042"
+      ],
+      "independently_available_before_response": "Drug disclosure changes capacity account. Party lacks quest details; actual recipient questions and conditional recruitment, not identical beliefs or blanket consent.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-040",
+          "route": "C03P6–50",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore",
+            "Yunyun",
+            "Keith/Taylor as absent"
+          ],
+          "observation": "Nextcurrentmorning, Dust11initiallyblamesoverdrinking but princess12admitsdrugging, showsmatchingbottle13–14, so17–18 causalsleepinference hasnewsource support, dose/laboratoryidentitynotindependentlychecked. Her20assumesdragonavailable; Dust23explicitlyexplainssecrecyconstraintvsactualcapability, source25priorhuntreport. RecruitYunyun29 leadsactualobjection30/35toinvitationaldisrespect; five-secondpressure38→pleadingaccept39, princess42alsoobjects, Dust43deliberatelyignores. Realprotestnotincapacityorconsentfromsubmission. Threat ofpastdisclosure46 causesanswer47, unlike ignoredmerequestion. Differentenforcementpower matters. No principal-charactertrialbysecondaryanalogy."
+        },
+        {
+          "id": "D06-R-041",
+          "route": "C03P53–78",
+          "actors": [
+            "Dust",
+            "Rorisa",
+            "Rionor",
+            "Yunyun",
+            "succubusshopmanager"
+          ],
+          "observation": "Dust55claimsusedVanircupabouttobediscarded, inducesdesire56 thenphysicallycarriesRorisa62 beforeworkagreement63. Addsquest/rewardterms64, shethenactivelyagreesandnotifiesmanager65, managerwaves66. Keep initialprocedureobjection andlaterinformedagreementdistinct; noterasecoercivestartasallconsent. Royal/Yunyunnamepullingcrimelike68–69; Dustdefendsends-equivalence71 andignores74. Cupactualpossession/awardunshown. Rorisa76professionalinexperienceclaim/hypotheticaldreamdeceptionisnotactualnewsexordreamcase; pragmaticencouragementhasinsultingeffect77–78."
+        },
+        {
+          "id": "D06-R-042",
+          "route": "C03P82–117",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Rorisa",
+            "Faitfore"
+          ],
+          "observation": "Dust85admitsfailedtoprovidequestdetailsbefore82–84questions. TwoToads+Worm87, feedingplan88andmoney-management89attempt toreduceactualfundlimit, notunawarecost. Yunyun91reportedpastMeguminwormevent, noindependentnewM02opportunity; Rorisa92genericcustomerfantasyreportnotactualscene. Dust94lowthreatbelieffailsaccountwomenaversion95–99/earlierrealLeenrefusal96; Faitforefoodquestion100notconsenttoeveryrole. Childactualclimb/strap102thenDust103/107ascribeslearnedefficiency, inferredmotive. Rionor112explicitlyrefusesbackcarrydespiteempathy108—capacityvswillingnessandboundedhelpdistinguished."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E20",
+      "source_id": "DUST-06",
+      "title": "Toad encounter and recovery",
+      "locators": "C03P118–211",
+      "actors": [
+        "Rionor",
+        "Dust",
+        "Yunyun",
+        "Rorisa",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-043",
+        "D06-R-044"
+      ],
+      "independently_available_before_response": "Large missed Fireball, real heat risk, praise, unguarded second toad, actual Yunyun rescue, retaliatory slime and actual washing/fire. One operation with distinct guard-changing phases.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-043",
+          "route": "C03P118–150",
+          "actors": [
+            "Rionor",
+            "Yunyun",
+            "Dust",
+            "Rorisa",
+            "Faitfore",
+            "Toads"
+          ],
+          "observation": "RionorinterruptsYunyuncast123–125viauninvitedbreastgrab;Yunyundetectsvoice/persona127,Dust128falsealcoholcoveraccepted129. Rorisa131usesrealprofessionalodor/behaviorcounterevidence;Dust133weighsdisclosurebutnotdone. RoyalactualFireball135/137huge, Dust140triesstopbutfired141, MISSEStoad142andhits hill; actualheat/reaction143–147andtoblackback148 supportphysicalrisk. Dust149explains toadshieldasprotectiveinference. No actualfatalityorfullburnextentasserted. Ability/outputpowerdoesnotequaltargetaccuracy/judgment. NoMegumincastmerelybecauseexplosionstylepower.",
+          "voice": "Changedvocativeゆんゆんちゃん126/127 isactualrecipientcue; playful/drunkcovernotreliableauthorialconfirmation. Burningcomplaints145–146dialoguenotcompletedcookedflesh."
+        },
+        {
+          "id": "D06-R-044",
+          "route": "C03P151–211",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Rorisa",
+            "Faitfore"
+          ],
+          "observation": "Rionoracknowledgesovershooting151thenpraise153–155restoresboast157,leavesonetoad158andisswallowed159. Dustteasesratherthanrescues163–166;Yunyunexplicitlyobjects167andactuallycutsfree168. Heinitiallyrejectsdischarge171, princesspursues173, bothsecretlyplantoevade184/187andcollide189, notunilaterallygenuinehug thenaccident. Theirclaimedboundaries174/192andactualchildjoining196–197allretained. Yunyun200explicitlydeclinesslimeparticipationandactuallywashesall201–202, thirdpartyskillresolvesdeadlock. PriorMeguminincident200isreportnotnewevent. Princess207declarescooperativechangeafterhumbling,butfutureconsistencyunsettled. Dust211imaginesgoddesshealingasfallback, realrecognizedabilitybutNOactualAquaheal/request/response."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E02",
+        "R1-E03",
+        "R1-E06",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E21",
+      "source_id": "DUST-06",
+      "title": "Worm rescue and forged reward",
+      "locators": "C03P212–269",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Yunyun",
+        "Rorisa",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-045"
+      ],
+      "independently_available_before_response": "Actual entrapment prevents sword access; reward changes three participants’ motives before simultaneous successful spells. Reward is explicitly counterfeit, not fulfilled genuine compensation.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-045",
+          "route": "C03P212–269",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Rorisa",
+            "Faitfore",
+            "Worm"
+          ],
+          "observation": "Dustnotesappropriatewormhabitat213 thenjointreassurance214–215actuallyfalsifiedbyemergence219. Trapped228cannotevenunsheath sword, literalcontextincapacitynotlostcombatability. Callsforhelp223/226,others227watchuntilseriousshoulderdepth235–237andconditionalreward238/241. Threeactualdifferentmotives:princessknowsproduct243 (exactpersonalusevsresalenotyetcertain), Yunyun254explicitsocialpopularity,Rorisa245/255idolproximity. Combinedsimultaneousspells253–256kill, oneeventnotthreeindependentsuccesses. Dust250–252explicitfakebunsandanticipatesfutureexposure257–258; do notlabelactualauthenticrewardorfulfilledpromise. EarlierVanirproductmanufacture248–249retrospectivereport, Clare/Raintransmission247inference. Child267wantsfoodoverhisassumedcare266, but269nooneevercaresextrapolationislocalcomplaintnotuniversalbaseline.",
+          "limits": "Humortakesplaceamidactualescalatingdanger; seriousnessoverridecanbepartial/failed,andmaterialrewarddoesnotproveuniversalgreed. Primaryactorsactualcapabilitydistinctfromdelay/willingness."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E05",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E22",
+      "source_id": "DUST-06",
+      "title": "First Perie encounter and paralysis",
+      "locators": "C03P273–406",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Yunyun",
+        "Rorisa",
+        "Faitfore",
+        "Perie"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-046",
+        "D06-R-047",
+        "D06-R-048"
+      ],
+      "independently_available_before_response": "Wrong royal-agent inference; real clothing objections and simultaneous paralysis. Paralysis-bound silence cannot be counted as a freely able response; actual third-party correction remains distinct.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-046",
+          "route": "C03P273–300",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Faitfore",
+            "unidentifiedredhairedwoman"
+          ],
+          "observation": "Princesscomplaint273contrastsactualsatiated/tiredchild276,noassentfromawakenedmimicry288. Dust279connectsfulfilledadventurepromise, princess282fearretrieval,he283–285realizesLeenroleconstraint. Faitforeactuallydetects289,Dustconfirmsseparateshadow291 thenWRONGLYpresumesroyalretainer292; actualnewwoman297notyetidentified. Detectingpresencecompetenceindependentofcausalidentification. Women299–300speculateclothes/privateselfexpression,nottestedactualmotives.",
+          "voice": "Actualunidentifiedwomanusesあたい296;donotassignknownidentityfrommodelmemory. Apparentreadingisnotfemaleagejudgment."
+        },
+        {
+          "id": "D06-R-047",
+          "route": "C03P301–350",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Rorisa",
+            "Faitfore",
+            "Perie/ペリエ"
+          ],
+          "observation": "Intruder304explicitlyrejectssexworker/shytheory;Dust305–307actuallyhopesaccidentalexposure,Rionor308notesit,woman310objectsand311covers. Dust312broaddefensivelectureoverstatesherclaim, actual313shedenieseverthosewords, peers315–318correcthisgazing. Princess323onlyofferselectiverecipienthypothesis, woman326explicitlystatesownpreferredclothes; neitherassumedmale-pleasingnorroyaldisguisemotiveestablished. Rionor328apologyretainsinsult痴女, Yunyun329genrecomparisonnottruegentlecomfort. Perienamesherself336; furtherexactidentityunknown. Rorisa339invitesexplicitcommentyet342objectsactualinsult341;notacontradictiononlyifliteralpermissiontreateduniversal, keeppragmaticdifference. Dust343framesreverseanger, recipient344callsitjustified."
+        },
+        {
+          "id": "D06-R-048",
+          "route": "C03P351–406",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Yunyun",
+            "Rorisa",
+            "Perie"
+          ],
+          "observation": "Dust351–352/royal356–357continueunprovenroyal-agenthypothesisdespitewomanstatedclothingpreference326. Yunyun359actuallydefendsapparentLeen;364friendstatusuncertain,368DustexplainsLeendistancingasprotectionfrommen, notactualLeenselfreport. Royal/Rorisaprivatecoordination369followstwoParalysis371–374, onecoordinatedeventnotindependentcastertrials. Dust382declaresnoinjurythenplanscoercion;princess383explicitnoviolence. Actualparalyzedsilentrecipient385/388 falselytreatedasconsentbyDust, tears390plusrealphysicalincapacity contradictconsentinference. Heusesbranch387tomovedress; actualcolorvisible389onlyalmost,and398claimhehasseenpantiesnotindependentcompletedexposureproof. Princessactuallypuncheshim391andnamescrime392,Yunyun393warns,Rorisa394comparesscenariotoDarknesstasteONLYhypotheticalreportedpreference,notnewDarknessopportunity. Dust398everyonehappyexplicitlyrebutted399. Exit404followsexpirymonitor403;princessaddsParalysis405andactualdeparture406. No sexualconsentfromsilence/contemptuousnarrator; nomscomedydoesnotestablishnonevent.",
+          "limits": "Thisisparticularlymaterialgenericboundaryadverseevidence. Scope/triggerstillrequiresunchangedliteralcontracttestafterfullbook; noautomaticprincipalK/A/M/DforecastfromDustnorautomaticretirement."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E23",
+      "source_id": "DUST-06",
+      "title": "Post-encounter misunderstanding",
+      "locators": "C03P410–423",
+      "actors": [
+        "Dust",
+        "Rionor"
+      ],
+      "source_first_observation_ids": [],
+      "independently_available_before_response": "Observed paid quest and report of royal arrangements; Leen counterview belongs to08. No completed royal-agent verification.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E05"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E24",
+      "source_id": "DUST-06",
+      "title": "Present guild meal, misconduct and Perie return",
+      "locators": "C04P6–150",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Taylor",
+        "Keith",
+        "waitress",
+        "Perie",
+        "guilddrinkers",
+        "unnamed priest as reported"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-053",
+        "D06-R-054",
+        "D06-R-055"
+      ],
+      "independently_available_before_response": "Financial penalties use false blame; public drinking insult triggers forced drink then later voluntary association. Unnamed reported Cure is not automatically Aqua.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-053",
+          "route": "C04P6–53",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Keith",
+            "Taylor",
+            "Faitfore",
+            "waitress"
+          ],
+          "observation": "Explicittwonightssince substitution6. Druggedmenblamealcohol10–12,actualRionorhypocriticaladvice13andDustinitialknowingcompassion18–20. Men21–22suspiciousandrequestshare, soDust24reversesand25imposesfeedingpenaltyfornotactualfault; princess26concurs, men28acceptunderfalsebelief. Waitress29upsell, men31–32cleareconomyrequests overruled33; actualmealcost34, notcompletedinsolvency. Dust38assumesmennotlisteningfromwalletanxiety, notknowsactualnohearing. Princess40noPeriememoryactuallyevidenceagainsthouseholdtheory, skill41–44partlyreport. Theyproposehiredoutsider45–46withoutcheckingbaseassumption. Dust49–50considersprincessreturn/Leenwelfare, disclosurethreat51preventsaction; actualLeenstatusstillunknown."
+        },
+        {
+          "id": "D06-R-054",
+          "route": "C04P54–108",
+          "actors": [
+            "Perie",
+            "Dust",
+            "Rionor",
+            "guilddrinkers"
+          ],
+          "observation": "Perienowwearsjacket58afterearlierclothingcriticism, reasonDust/royal57inference. Royal60apologycarriesfreshinsult, recipient62collapsespartially. Threat67aboutothersfailsbecauseprincess68/72explicitindifference; Dust74halftrueinterpretationunknownroleintention, feigneddrunkreveallater113–114. Perie81broaddaydrinkingcondemnationalienatesactualrecipientcrowd87–90, unexpectedgeneralization/socialaudiencefailure ratherthanfailcombatability. Crowdactuallyforcesalcohol96, fastintoxication97–98laterwillingassociation102doesnotretroactivelysupplyconsenttofirstcoercion. No completedsexualtransactionfrom92–94misidentification. Dust108extractsprincessbeforefurtherdisclosure, leavesothermenfoodburden."
+        },
+        {
+          "id": "D06-R-055",
+          "route": "C04P109–150",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Perie",
+            "unnamedpriestasreported"
+          ],
+          "observation": "Princess112/115privatequestionaboutLeenvsher; coherent113leadsDust114feigneddrunkinference, notindependenttoxicologyorproofeveryearlierstatementpureact. Dust118–122noticesunusualadvancewarning/dragonmessageandactuallyasksdeepergoal,123lastchancerevealsunfinished. Periereturn127blamestrap,131reportsunnamedpriestsCureafterbadmanners; doNOTautomaticallyidentifyAquaordirectlyobservehealfromreport. ActualPeriesoberappearance129supportscurepossiblewithoutactualmechanismindependentlyshown. Dust134–141questionsbutretainsfalseemployeroptions; explicitdemongeneral142surprisesboth143–149andtheybothadmitpriorignorance147–148. Earlierroyal-agentinterpretationnowcorrected, no needretrospectiveforesight.",
+          "voice": "Repeatedemployment/commandreference135–138 semanticmisalignmentandsynchronisedはあ143, actualsourcecomedy; speaker/knowledgeboundarymaintained."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E25",
+      "source_id": "DUST-06",
+      "title": "Hostage negotiation and demon combat",
+      "locators": "C04P151–254",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Perie"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-056",
+        "D06-R-057"
+      ],
+      "independently_available_before_response": "Royal-agent hypothesis explicitly fails. False no-value claim181 is not actual valuation; hostage avoidance yields murder threat200. Royal flight is followed by actual spear return242. Gruesome defeat is implied254, explicit death not certified.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-056",
+          "route": "C04P151–202",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Perie"
+          ],
+          "observation": "Perie151creditsdisguisewithantidemonstrategy,butactualRionor152/155sayspureescape, deflatesfalsecompetenceinference. Demon160largescaleinvasionreportplusprincess163diplomaticmeetingreasonaddsconvergentbutnotindependentlyverifiedallmilitaryplan. Hostagetactic170 explainsdragonknightconstraint;Dust175/180devaluesprincessdeliberatelyLIES181,and182saysactuallypopular—notaccepting175asvaluation. Her183–186hurtpossiblyreal vsactingunresolved. Demandstobetaken188/191 plusluxuryconditions195makePerierefuse196; Dust199prematurelyjudgessuccessbeforeactualmurderthreat200. Neither180unpopularnor199all-successsupportableasfinalobjectiveaccount."
+        },
+        {
+          "id": "D06-R-057",
+          "route": "C04P203–254",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Perie"
+          ],
+          "observation": "Dustactuallyprotectsher204,Perierevealsdemonicwings/horns208;herdresspracticalopening209–210correctearlierunqualifiedfashion/stagingassumption. Princessactuallyruns213butRETURNSwithspear242–245; thusnotfinalabandonment/universalselfishness. Demon225saysforciblytookassignmentfromotheragent, explicitlycontradicts own205blameuppermanagement;Dust227notes. Realcombat223/230/231boundedbypurephysicalspeed/reach, aerialretreat232, notgeneralcombatincapacity. Dustconsidersflight235butstaysbecausesheisnext236–237; potentiallysuicidalmutualstrike241beforeactualspeartransfer244. Usesplantedpoint248/sideevade249againstdeclaredirreversibledive251; narrative254saysheblocksroyalviewfromgruesomeoutcome, butnodefinitiveexplicitdeathcertificateandexactimpactmostlyelliptical. Keepseveredefeatinferencequalifieduntilrestsource. Retreat213recalibratedbyactualsupport, noafter-the-facthelperforeknowledgeclaim.",
+          "voice": "Roughdialoguepersistsdespiteseriousprotectivestakes, notcatchphrasequietassoleoverridecriterion. Perie225selfreportcombatonlyrankqualifiedbyactualobservedpressure."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E05",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E26",
+      "source_id": "DUST-06",
+      "title": "Royal return and replacement challenge",
+      "locators": "C04P257–346",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "guards",
+        "butler",
+        "maid",
+        "Leen"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-058",
+        "D06-R-059"
+      ],
+      "independently_available_before_response": "Royal voluntary return responds to own/Leen security. Staff knowingly prefer new princess and set rescue condition; genuine permanent substitution versus disciplinary staging remains uncertain.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-058",
+          "route": "C04P257–300",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "royalguard",
+            "butler",
+            "maid",
+            "Leenasabsentreferent"
+          ],
+          "observation": "Princess257activelychoosesreturn:explicitownsecurityANDLeenrisk260/264, recognizespossibleotherdemons,nottreatingnewstrategyasunmotivatedtraitflip. Actualthanks265andfinalmeeting267remainrelationshippressure. Returninggate272,guard275wrongidentitybecauseactualbriefing284/Leeninside; heknowsappearance279butcategoriestheorybias. DustwearsVanirmask290, sourceclaimitemactuallyboughtbutpriorproduct560identitylinknotexplicit. Royalcredentials/behavior287–288readasgoodacting, inverseofLeeninitialtruedenialreadasbadacting. Butler295andmaid299reinforceimpostorclassification, exactknowledge/intentionstillunknownhere. NoDarknesscourttrialbyanalogy; context-specificauthority/voiceerrorsmatter."
+        },
+        {
+          "id": "D06-R-059",
+          "route": "C04P301–346",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "butler",
+            "maid",
+            "Leen"
+          ],
+          "observation": "Butler303explicitallstaffprefercurrentprincessandcallsoriginal309free, maid304saysoriginalword; knowledgeofsubstitution306stronglycorroborated, initialidentityfailure301notliteralfullignorance. Leenmessage314demandsbeingchosen; maid319admitsromancestoryembellishmentandwaitforDustapology, notobjectiveproofexactoldplot. Dust321–322selfblameswithheldpromise,predictsapologyneeded. Guardchallenge323allowsretrievalexchange, he332–333inferseducationaltheaterbut338–341realoppositionpromised; do nottreatactualfullreplacementascompletedplanfromtaunts. Leenactuallyseenwindow344–345glare/tongue; Dust346commitsrescuetoappease, notonlyabstractheroism. Staff334–336preferLeengratitude/delights, boundedrecognition/rolefeedback, notuniforminhumanmalice."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E04",
+        "R1-E05",
+        "R1-E06"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E27",
+      "source_id": "DUST-06",
+      "title": "Recruitment and raid planning",
+      "locators": "C04P350–450",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Yunyun",
+        "Rorisa",
+        "Taylor",
+        "Keith",
+        "Faitfore"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-060",
+        "D06-R-061"
+      ],
+      "independently_available_before_response": "False cover story clearly identified; questions precede it. Real objection withdraws nude plan. Child safety challenge precedes royal assurance; do not reorder those turns. Complementary roles and actual distraction/entry follow.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-060",
+          "route": "C04P350–404",
+          "actors": [
+            "Dust",
+            "Rionorunderリール",
+            "Rorisa",
+            "Yunyun",
+            "Taylor",
+            "Keith",
+            "Faitfore"
+          ],
+          "observation": "Same-nightraid350. Rorisa352actualwork-opportunitycostprotestignored353,othersunbriefed361;men357–360demandexplanationbeforewillinghelp. Dust362storyorphanedheiress/forcedmarriageEXPLICITFICTION363–364, royal365–366acts. Rorisa367professionalnarrativeinterest,Yunyun369friendship/justice,men372–373Leenwelfare/groupcompositionmotives, notallidenticalheroism. Sleepingchild377hadwantedcompany379butDustalsoexplicitcontractpowerboost379withholdsfromothers;378safetyassuranceconditional, noactualescapeplanproven. Dust381nude-bombardproposalfirmlyrefused382/385,others388–390joinpressure,andhe391ACTUALLYwithdraws. Countercasetouniversalignoredboundaries alongsideearlierclearoverrides. Herdoor-knockalternative394actuallyexecuted399–400andfailsbyreportedcurfewadvice401; fullconversationunheard400, do notinventguardsactualanswerwordforword. Proposalpunishmentpressure403–404suppressesothersuggestions, nottheirincapacity."
+        },
+        {
+          "id": "D06-R-061",
+          "route": "C04P405–450",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Rorisa",
+            "Yunyun",
+            "Taylor",
+            "Keith",
+            "guards"
+          ],
+          "observation": "Rionor405alonevolunteerscontinuedplanning, noninjurypremise408expressedwithinFALSEcoverstory425, cannotcertifyallactualfamily/politicalclaims424. Actualtwoteamplan410adopted411–414; Dust417–418choosesRorisaformentalmagic/stealthskills, unlikeundifferentiatedtraitselection. Childsurprise423rationalizationnotwholetruepurpose379. Actualdistraction435–442poorlyactedbecauseYunyunenjoysinvitation441andTaylorformal, buteffectiveguardattention445andsuccessfulgateentry448, skillfailurecanachieveoverallgoalunintentionally. Wallalternative449contextunfeasibleforprincess, notgeneralDustinability. Narrator433admitsplanhalfimprovised; notperfectomniscientgenius.",
+          "voice": "Voiceperformanceisrelationship/institutionalconstraint: Taylor436politeness vsKeith435rough role, characterabilityinonearea vsactorincapacityinrole distinct. No human/acousticreviewclaim."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E28",
+      "source_id": "DUST-06",
+      "title": "Raid, specialist handoff and Leen retrieval",
+      "locators": "C04P451–640",
+      "actors": [
+        "Dust",
+        "Rionor",
+        "Leen",
+        "Faitfore",
+        "Rorisa",
+        "two knights/dragons",
+        "butler/maids"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-062",
+        "D06-R-063",
+        "D06-R-064",
+        "D06-R-065"
+      ],
+      "independently_available_before_response": "Actual fire interruption, named current valuation before duel, partner request instead of food offer, hidden-signal sleep assistance, disarming and dragon-protected landing. Rorisa knowledge was actually disclosed600; not mind-reading. Physical retrieval resistance is retained before later enjoyment.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-062",
+          "route": "C04P451–495",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Leen",
+            "butler",
+            "guards/maids"
+          ],
+          "observation": "Actualfloorplan453obtainedasprioralternateescape455; notreverseengineeringfromoutcome. Spotlight462andwaitingguards466exposefailureofstealthnotnecessarilywrongchoiceallalternatives. Dustactuallyinterruptsprincesscast470–471, explicitlyLeenfire risk473/474motivatesratherthanuniversalnonviolence. Leen483–489directlyacknowledgesjealousy486andexplainsbeliefsheisreplacement; qualifiespreviousselfdenials596asnowactualavowalwithoutretrospectiveomniscience. Dust490admitsfirstmistakenidentityyetclaimsnewindependentcurrentfeeling, Leen491blocksfullanswer. Unheardcore491–492notcompletedboyfrienddeclaration. Butler494knowsexdragonknightsoDust495unmasks, noactualperfectmaskcamouflage."
+        },
+        {
+          "id": "D06-R-063",
+          "route": "C04P496–545",
+          "actors": [
+            "Dust",
+            "Rionor",
+            "Leen",
+            "formerknights",
+            "maids",
+            "Faitfore"
+          ],
+          "observation": "Dust497saysforcefirstthenapology, actualgoalnotyetrecipientconsent. Princess505framingnewprotectee followedhis507explicitvaluation;508formalupcomingmarriagerevealslastvisitgoal,509–510distinguishesoldengagementfromnewcurrentconfirmation. He511genuinecongratulations512notoldacutehurt, relationshipdevelopmentandpersistentvaluenotmutuallyexclusive. Maidsthreats518–520aftercommand516areliteralexpressions/tools521–523,butactualcannibalism/mincingnotshown. Royal525didnotknowtheirpersonas, refutesallknowledgeofstaffthoughknowsfaces. Dust535STARTSfoodinducementthenreplacesitwithpartnerrequest, actualFaitfore536immediateconsent/happines537andtransformation538–539. Thus intrinsicrelationalrecognitionnotalwaysfoodbribery; no assertfoodrequestwasfulfilledorignored. PreviouschildexposurerestrictionC03P23knowinglyrecalibratedforcurrentgoal, notforgottenidentity.",
+          "voice": "Seriousadoption承知いたしました532coexistsroughrest, royalprivateさようなら私の騎士543; narrator554notreturnedfarewellonlyhandgesture."
+        },
+        {
+          "id": "D06-R-064",
+          "route": "C04P546–604",
+          "actors": [
+            "Dust",
+            "Faitfore",
+            "twoknights/dragons",
+            "Rorisa"
+          ],
+          "observation": "Dust547choosesairbypassbecausegroundcombatunneeded, blocked550byrealcontract/jobsalary552andrivalmotivation553. Speargift554enablesduel, actual570–574provesfineskillwhileownpriorstrongerclaim557/560notunqualifiedmeasurement. He580rejectsoldfairnessscriptand582fingersignaltriggersRorisasleep583–585, disarms/knocksout586, dragonscarefullyland587; nofatalfall. Actualnewcausalreveal595–596Rorisaseparatedaftergateandprearrangedsignal—notDustmagicallycastingnorposthocunplannedassistance. Cohesionincentivesanddifferentcompetences jointlyproducevictory. Rorisa591/593ethical/genreobjectiondoesnotpreventtaskperformance594. Actualthanks597; prioridentitydisclosure600explainsherknowledgeunderreciprocalsecretleverage,notYunyunalsoinformed. His592historyfabricationclaimcynicalnormativeassertion, notauthorialapprovalorobjectiveuniversaltruth."
+        },
+        {
+          "id": "D06-R-065",
+          "route": "C04P605–640",
+          "actors": [
+            "Dust",
+            "Leen",
+            "Faitfore",
+            "butler/maids"
+          ],
+          "observation": "Maidsactuallyflee603,butlerpassivelyallows604,noactualdestructionofallsecurity. Leennontakinghand610andturningaway614followsexplicitawkwardness613; Dustphysicallylifts616despiteprotest617/resistance618–620. Subsequentquiet621andactualdelight622notretroactiveconsenttoremoval. She626asksaboutprincess; currentmarriageinfo627/631genuinelynewandchangesappraisal633, rivalrelationshipwaspartlybadinformationratherthanirrationalfixedjealousy. Dust634deliberatelyforgoeshabitualjokingtoreaffirm635, actualmutualteasing637–639followsnoterasevaluation. Narrator640newnightuniquemeaningnotglobalerasureoldlove. Sourceorderkey: actualprincipledcommitment507beforeknowingLeenlaterreaction/advantage; exacthistoryanddeclaredcurrentchoicebothmatter."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E01",
+        "R1-E03",
+        "R1-E04",
+        "R1-E05",
+        "R1-E06",
+        "R1-E07",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    },
+    {
+      "id": "D06-E29",
+      "source_id": "DUST-06",
+      "title": "Ordinary relationship return and emergency",
+      "locators": "EpiP3–67",
+      "actors": [
+        "Dust",
+        "Leen",
+        "Keith",
+        "Taylor",
+        "Luna",
+        "guildcrowd"
+      ],
+      "source_first_observation_ids": [
+        "D06-R-066",
+        "D06-R-067"
+      ],
+      "independently_available_before_response": "No formal progress claim versus friends’ observations and mutual current actions. Luna quiet request receives compliance before full raid report. No battle aftermath in this source.",
+      "initial_decision_interval": "Use explicitly located phases in underlying observations; later acquired facts are not earlier knowledge. Full-book reading preceded this retrospective card.",
+      "actual_observation": [
+        {
+          "id": "D06-R-066",
+          "route": "EpiP3–41",
+          "actors": [
+            "Dust",
+            "Leen",
+            "Keith",
+            "Taylor",
+            "guildadventurers",
+            "Rionor asdepartedreferent"
+          ],
+          "observation": "Royalpartyactuallydeparts3 towardBelzerg4. No widelyheardwhitedragonrumor5basedonDustsearch/inference, notproofnooneeverwitnessed. Dust6saysno progressbutKeith13noticescloseness,Taylor17finallyrelationshipappraisal, soformalstatusundefineddoesnoterasechange. Leen14deniesfeelingwhileflustered15, actualpunch22afterhisprovocation19; deaththreat20notcompleteddeath, actualmagicfirespast27, Dust29deathcounterfactualunverifiedexactlethality. Crowdwagers32–34andshared日頃の行い37challengehisonesidedvictimhoodbutnotindependentvalidationeveryallegation. Dustexplicitvaluesbelonging40–41despiteactualpubliccosts, notmerelyabsenceofmaincharacters. Presentdynamicsresumewithrelationshipstatechanged,notfullreset."
+        },
+        {
+          "id": "D06-R-067",
+          "route": "EpiP42–67",
+          "actors": [
+            "Dust",
+            "Leen",
+            "guildcrowd",
+            "Luna"
+          ],
+          "observation": "Dust46publicloveavowalfollowsdeliberateretaliationplan45 aswellaspriorgenuinechoice; sincerecontentandprovocativepurposecanbothhold. Hedeliberatelyexposesheraudi50;actualheadbutt53. Leen54objectsPUBLICsetting, finalqualifierinaudibletotheDust55thoughprintedforreader—do notclaimheactuallyheard/understoodorattributewholeknowledgetonarrator. His56strippingthreatnotperformedhere; challenge57notblanketconsenttoalllateracts. Lunarequestsquiet60 andactualgroupinclDustcomplies62BEFOREfullraidexplanation63/66; no posthoccausalclaimtheyquietedonlyAFTERnarrativerumor. Seriousface/voice67changesaffectafteractualurgentinvasionreport66; no actualbattle/outcomeinthisbook. Goodcounterweighttoallinstructionsalwaysignoredandallharmcomic-only. Allfourprincipalmodelsstillunchanged; nextbooknotopened."
+        }
+      ],
+      "eligibility": "CONTRACT_SPECIFIC; candidate list is not full eligibility or a trial denominator",
+      "observed_direction": "MIXED/COMPATIBLE/UNOBSERVABLE as separated in each contract assessment; not a group moral score",
+      "missing_or_confounded_conjuncts": "Keep every observation-specific caution, uncertain attribution and unperformed conditional. A chapter/window boundary never supplies independence.",
+      "strongest_contrary_or_competing_reading": "Narrator assertions may misdescribe motives; later cooperation cannot authorize the start; an effective phase is not a completed campaign. Read the specific contrary fields retained below.",
+      "dependent_descriptions": "Repeated rumors/photos/retellings of the same elopement are linked toD06-E11–18, not new trials; MAIN15 Serena capture atC01P167 is the same known main event. Possible unnamed shop-discovery linkC01P317 remains unresolved, not counted separately.",
+      "selection": "SOURCE_FIRST_FULL_BOOK_THEN_OUTCOME_AWARE_CARDS; not prefix-blind",
+      "narrator_and_access": "Primarily Dust first-person, knight flashback shifts私/俺. Leen first-person atC01P596–640/C03P427–597. Actual speech/action vs narrator inference, mediated letter/rumor and hypothesis remain separated. E6 in the original protocol specifically describes Kazuma; Dust/Leen framing is tagged by access here without silently converting it into Kazuma evidence.",
+      "candidate_contract_ids": [
+        "R1-E03",
+        "R1-E04",
+        "R1-E06",
+        "R1-E08"
+      ],
+      "evidence_class_axes": "E1 direct acts/speech; E5 money/food/work routines; E4 only actually evidenced stakes override; E7 for heavily local comic projections. Report/inference tags qualify each. H1 literal event versus H2 amplified intensity; no magic-is-H4 shortcut. No formal H/L census."
+    }
+  ],
+  "current_external_correction_route": "DUST06_ROOT_RECEIVING_CORRECTIONS.json",
+  "current_E23_observation_route": {
+    "event_id": "D06-E23",
+    "existing_observation_id": "D06-R-049",
+    "context": "C03P410–423 within existing original C03P410–450 observation",
+    "also_embedded_in": "D06-E08",
+    "overlapping_same_observation_not_new_event": true
+  },
+  "original_purposive_Japanese_and_humor_sample": {
+    "status": "SOURCE_LOCAL_UNACCEPTED_POST_OWN_INITIAL_PRE_PEER_ANNOTATION",
+    "created_utc": "2026-10-17T19:04:58.941587+00:00",
+    "root_initial_seal_sha256": "5e1873d5f1a4f973c10b4c9d0b8c1246b65badb9fa6d5728a30d37a69cd2d5ac",
+    "initial_source_discovery": "67sourcefirstobservations in fullpass before owninitial; this26-record selection/coding is newly authored after owninitial, not falsely an original precoding census.",
+    "peer_DUST_substantive_findings_received": false,
+    "records": [
+      {
+        "id": "D06-RV-01",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 64,
+        "speaker": "Dust",
+        "addressee_and_audience": "Rionor in public",
+        "context_locator": "C01P48–74",
+        "short_Japanese_base_anchor": "リオノ……リーン",
+        "literal_basic_gloss": "Starts one identity/name then substitutes the public cover name.",
+        "pragmatic_effect": "Public concealment competes with habitual address; the correction indexes actual private knowledge.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "No acoustic hesitation duration or mind-reading.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-02",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 74,
+        "speaker": "Dust",
+        "addressee_and_audience": "Rionor privately",
+        "context_locator": "C01P67–74",
+        "short_Japanese_base_anchor": "どこにやりやがりました",
+        "literal_basic_gloss": "Asks where she has put the real Leen, mixing roughやがる and politeました.",
+        "pragmatic_effect": "Resentment and ingrained hierarchy coexist inside one utterance; neither universal formal nor universal delinquent voice.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Question form alone does not establish R1-K08 purpose; speaker is Dust.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-03",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 179,
+        "speaker": "Dust",
+        "addressee_and_audience": "familiar Serena-victim adventurer, guild audience",
+        "context_locator": "C01P175–189",
+        "short_Japanese_base_anchor": "どうちたんでちゅかー",
+        "literal_basic_gloss": "Mock baby-register question about the embarrassed recipient.",
+        "pragmatic_effect": "Deliberate infantilization makes social aggression, unlike Faitfore’s ordinary child articulation.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L3 is a defensible secondary sensitivity for exact phonetic spelling; central social insult is pragmatic. Actual recipient silence and later protest remain distinct.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-04",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 188,
+        "speaker": "Dust",
+        "addressee_and_audience": "approaching offended guild group",
+        "context_locator": "C01P185–190",
+        "short_Japanese_base_anchor": "謝ってやる",
+        "literal_basic_gloss": "Offers to apologize using a benefactive stance that presents the apology as his favor.",
+        "pragmatic_effect": "Face-threatening retained superiority undermines ostensible retreat; actual refusal189 follows.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Not all謝ってやるtokens have this function; the preceding blame and power context establish this one.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-05",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 236,
+        "speaker": "Rionor",
+        "addressee_and_audience": "prospective shop customers",
+        "context_locator": "C01P219–258",
+        "short_Japanese_base_anchor": "それなりなお兄さん",
+        "literal_basic_gloss": "Calls to a merely decent-looking man rather than unqualified sales flattery.",
+        "pragmatic_effect": "Qualified praise subverts conventional hawking while she performs enthusiasm.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L1 alternative for comic rhythm; later sales success does not prove customers liked this exact phrase.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-06",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 309,
+        "speaker": "Faitfore",
+        "addressee_and_audience": "Rionor, overheard by Dust",
+        "context_locator": "C01P301–312",
+        "short_Japanese_base_anchor": "ちゃきゅばちゅ",
+        "literal_basic_gloss": "Child spelling for succubus, decoded explicitly by the princess312.",
+        "pragmatic_effect": "A phonologically distorted word carries a consequential secret; recipient reconstruction is part of the joke.",
+        "L_primary": "L3",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Textual phonological representation only, no performed child voice or age diagnosis.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-07",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 380,
+        "speaker": "Yunyun",
+        "addressee_and_audience": "Dust and welcomed meal companions",
+        "context_locator": "C01P375–391",
+        "short_Japanese_base_anchor": "食べます、食べます",
+        "literal_basic_gloss": "Repeats that she will eat, after face-saving reluctance and threatened withdrawal.",
+        "pragmatic_effect": "Polite superior-benefactor stance378 collapses into urgent requests380; need for company matters.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Actual pressure and later enjoyment coexist; compliance is not proof she preferred the disrespect.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-08",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 422,
+        "speaker": "Yunyun",
+        "addressee_and_audience": "Dust/Rionor, over the meal",
+        "context_locator": "C01P422–426",
+        "short_Japanese_base_anchor": "ドラゴンナイトさんに",
+        "literal_basic_gloss": "Late dative identifies the knight, rather than present Dust, as the person owed regret.",
+        "pragmatic_effect": "Expected apology recipient is reversed, incidentally insulting the actual knight’s current persona.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L1 syntactic timing also matters; do not infer Yunyun knowingly knew Dust’s identity.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-09",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "p": 559,
+        "speaker": "Vanir",
+        "addressee_and_audience": "Dust and Rionor at the shop",
+        "context_locator": "C01P546–563",
+        "short_Japanese_base_anchor": "強固なものとなる",
+        "literal_basic_gloss": "Says his already firm mouth may become stronger with a purchase.",
+        "pragmatic_effect": "Conditional euphemism makes commercial leverage over secrecy; actual purchase561 follows.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Do not turnかもしれぬinto an unconditional guarantee or claim the product has literal magical mouth-sealing properties.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-10",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 128,
+        "speaker": "Rionor",
+        "addressee_and_audience": "Line in earlier dragon stable",
+        "context_locator": "C02P124–134",
+        "short_Japanese_base_anchor": "まだ今日よ",
+        "literal_basic_gloss": "Claims it is still today because the midnight reprimand crossed dates.",
+        "pragmatic_effect": "Calendar literalism evades the intended confinement instruction.",
+        "L_primary": "L0",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Portable loophole mechanism; wording can matter atL1, no Japanese-only cultural explanation required.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-11",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 217,
+        "speaker": "Rionor",
+        "addressee_and_audience": "Line during elopement decision",
+        "context_locator": "C02P214–225",
+        "short_Japanese_base_anchor": "大事なものを破られた",
+        "literal_basic_gloss": "Threatens to say that Line broke something important to her.",
+        "pragmatic_effect": "Literal promise-breaking is made available for a damaging sexual/reputational interpretation, explicitly challenged218.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "No actual sexual harm event follows merely from the insinuation; later drug-letter430 denies sexual event in another phase.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-12",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 298,
+        "speaker": "Line/Dust",
+        "addressee_and_audience": "Rionor riding Faitfore",
+        "context_locator": "C02P290–305",
+        "short_Japanese_base_anchor": "もっと速くですか",
+        "literal_basic_gloss": "Pretends to hear a request for more speed after an actual request to slow down.",
+        "pragmatic_effect": "Polite surface conceals deliberate disregard; narrator300 says he ignores her.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "No real hearing incapacity inferred from this performed question; subsequent silence has fatigue context.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-13",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 305,
+        "speaker": "Rionor",
+        "addressee_and_audience": "herself/nearby Line after landing",
+        "context_locator": "C02P290–306",
+        "short_Japanese_base_anchor": "ワタシ地面スキ",
+        "literal_basic_gloss": "Says she likes the ground, in compressed katakana self-reference and noun.",
+        "pragmatic_effect": "Written register collapse punctures earlier confident speed bravado.",
+        "L_primary": "L1",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L3 alternative for exact script-based effect; the situational fear reversal isL0. No acoustic performance is reconstructed.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-14",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 585,
+        "speaker": "Line/Dust",
+        "addressee_and_audience": "Rionor and casino setting",
+        "context_locator": "C02P580–596;638–655;741–748",
+        "short_Japanese_base_anchor": "分かりました、ぜ",
+        "literal_basic_gloss": "Adds rough finalぜ to a polite acknowledgment.",
+        "pragmatic_effect": "Deliberate but awkward role-language uptake keeps older deference; later natural anger638 and explicit私→俺 training741 distinguish phases.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L3 alternative for exact morphology; no universal pronoun-to-personality inference, nor all later anger merely acting.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-15",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 763,
+        "speaker": "Rionor",
+        "addressee_and_audience": "Line at adventurer registration",
+        "context_locator": "C02P763–765;988–1019",
+        "short_Japanese_base_anchor": "ほこり、ほこり",
+        "literal_basic_gloss": "Uses repeated spokenほこり from his knightly pride to motivate the new name Dust.",
+        "pragmatic_effect": "誇り/pride and埃/dust are homophonous; English-derivedダスト makes the disparaging reinterpretation durable in his name.",
+        "L_primary": "L3",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Base writesほこり; distinguish semantic readings rather than inventing ruby printed there. Alias is consciously adopted, not proof of literal worthlessness.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-16",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "p": 1019,
+        "speaker": "Line newly becoming Dust",
+        "addressee_and_audience": "departing Rionor",
+        "context_locator": "C02P90–94;989–1019;1032–1033",
+        "short_Japanese_base_anchor": "分かったよ、リオノール",
+        "literal_basic_gloss": "Accepts using her bare name at farewell.",
+        "pragmatic_effect": "Repeated earlier resistance to bare address resolves only at a costly relationship transition.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Later private polite response1032 survives: no universal permanent formality deletion.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-17",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "p": 328,
+        "speaker": "Rionor",
+        "addressee_and_audience": "Perie, with companions listening",
+        "context_locator": "C03P323–334;C04P57–62",
+        "short_Japanese_base_anchor": "痴女みたいなセンス",
+        "literal_basic_gloss": "Supports dressing as one likes while again likening the style to a lewd woman’s.",
+        "pragmatic_effect": "An attempted apology preserves its own insult; recipient’s actual stated clothing preference326 counters motive projection.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "No identity/occupation/sexual-consent fact is established by her clothing or this label.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-18",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "p": 342,
+        "speaker": "Rorisa",
+        "addressee_and_audience": "Dust after his breast-size comment",
+        "context_locator": "C03P338–346",
+        "short_Japanese_base_anchor": "本当に言う人がどこにいる",
+        "literal_basic_gloss": "Objects that someone actually said it after she had rhetorically invited frankness339.",
+        "pragmatic_effect": "Literal compliance by Dust343 collides with pragmatic facework; she explicitly calls her anger justified344.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Do not treat the earlier invitation as blanket consent to humiliation; actual assault attempt345 also stays visible.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-19",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "p": 388,
+        "speaker": "Dust",
+        "addressee_and_audience": "paralyzed Perie, companions nearby",
+        "context_locator": "C03P371–405",
+        "short_Japanese_base_anchor": "抵抗しないのは同意",
+        "literal_basic_gloss": "Claims lack of resistance can be treated as agreement.",
+        "pragmatic_effect": "Bogus inference converts imposed incapacity into permission; princess physically and verbally corrects it391–392.",
+        "L_primary": "L0",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Not ethical endorsement or a full E06 able-recipient silence trial; pleasure/affection never supplies missing consent.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-20",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "p": 480,
+        "speaker": "maid",
+        "addressee_and_audience": "Leen in captivity",
+        "context_locator": "C03P475–482",
+        "short_Japanese_base_anchor": "二を掛けた",
+        "literal_basic_gloss": "Adds the princess’s bad traits then multiplies by two, rather than dividing.",
+        "pragmatic_effect": "Familiar compromise arithmetic is replaced by amplification, explicitly recognized481.",
+        "L_primary": "L1",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "L0 arithmetic reversal is portable; do not infer intelligence from deadpan manner or claim two is a measured trait quantity.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-21",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "p": 591,
+        "speaker": "maid",
+        "addressee_and_audience": "Leen after exhausting role performance",
+        "context_locator": "C03P553–596",
+        "short_Japanese_base_anchor": "いらないんじゃね",
+        "literal_basic_gloss": "Drops into coarse hypothetical quoted judgment inside polite service speech.",
+        "pragmatic_effect": "Replacement/revenge fantasy reframes continued role work as a way to displace the rival; actual paid withdrawal offered594.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Hypothetical staff thought is not a completed policy decision. Initial555 denial and later594 opt-out are both retained.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-22",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "p": 532,
+        "speaker": "Dust",
+        "addressee_and_audience": "Rionor before serious retrieval",
+        "context_locator": "C04P505–545",
+        "short_Japanese_base_anchor": "承知いたしました",
+        "literal_basic_gloss": "Uses formal acceptance then shifts within the same speech to rough practical readiness.",
+        "pragmatic_effect": "Old duty and current chosen identity coexist under meaningful stakes rather than humor being simply removed.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Specific partner/goal/stakes bound; not proof every serious sentence becomes formal.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-23",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "p": 535,
+        "speaker": "Dust",
+        "addressee_and_audience": "Faitfore before transformation",
+        "context_locator": "C04P532–545",
+        "short_Japanese_base_anchor": "相棒、力を貸してくれ",
+        "literal_basic_gloss": "Replaces a begun food inducement with a request for his partner’s help.",
+        "pragmatic_effect": "Recognized partnership recruits willing contribution536–537; the relationship is not reducible to food payment.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "No completed food offer is shown in this turn; no unlimited obedience inference from one enthusiastic acceptance.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-24",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "p": 592,
+        "speaker": "Dust",
+        "addressee_and_audience": "Rorisa after assisted duel",
+        "context_locator": "C04P580–600",
+        "short_Japanese_base_anchor": "勝者は好き勝手に歴史をねつ造",
+        "literal_basic_gloss": "Claims victors may fabricate history in defense of hidden help rather than a noble solo fight.",
+        "pragmatic_effect": "Local pragmatic self-justification is answered by her continuing objection593; both real tactical success and disputed method remain.",
+        "L_primary": "L2",
+        "H_scope": "H2",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Narrator’s normative maxim is not established world law or author endorsement. Actual earlier signal/knowledge route595–600 supplies assistance.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-25",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "p": 54,
+        "speaker": "Leen",
+        "addressee_and_audience": "Dust plus public audience; final qualifier unheard by Dust",
+        "context_locator": "EpiP46–57",
+        "short_Japanese_base_anchor": "こんな場所じゃ恥ずかしいし",
+        "literal_basic_gloss": "Says this public place would be embarrassing, qualifying the preceding refusal.",
+        "pragmatic_effect": "Printed reader knowledge exceeds narrator-heard knowledge55; public/privacy boundary explains different response without granting prior permission.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Dust explicitly does not hear final part55; do not model him as acting from it or claim literal mutual confession already public.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      },
+      {
+        "id": "D06-RV-26",
+        "source_id": "DUST-06",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "p": 60,
+        "speaker": "Luna",
+        "addressee_and_audience": "assembled guild adventurers including Dust",
+        "context_locator": "EpiP58–67",
+        "short_Japanese_base_anchor": "静かにしてもらえませんか",
+        "literal_basic_gloss": "Polite negative question requests quiet with actual compliance62 before emergency particulars63/66.",
+        "pragmatic_effect": "Institutional authority and local context make formal question effective; serious information subsequently shifts mood67.",
+        "L_primary": "L2",
+        "H_scope": "H1",
+        "access": "Directly read Japanese dialogue, with context and narrator access distinguished in limits; not acoustic performance.",
+        "uncertainty_and_competing_reading": "Do not assign causal knowledge of the later invasion to the earlier silence, or score this as Kazuma K08 speaking.",
+        "confidence": "HIGH on text/speaker within declared context; MODERATE on transferable mechanism and single coding choice",
+        "frozen_model_effect": "NONE; source-local annotation under unchanged R1, prospective initial assessments preserved."
+      }
+    ],
+    "denominator": "PURPOSIVE26examples, no population denominator, newJ02sum, Lproportion, intercoder reliability or statistical independence claimed. Lalternatives retained rather than forced consensus.",
+    "source_boundary": "Only five admitted Japanese principal members, all actual images/afterword/front/end and Dust07 closed. No English translation primary evidence.",
+    "typed_integrity": "Japanese base anchor verified against exact private projection. Ruby/base distinction retained in complete source receipt; no unprinted ruby invented. Short quotes only; full text stays private.",
+    "main_only_models": "All43literalcontracts and previous score histories unchanged; T01–04 generated-only N/A, no new replay."
+  },
+  "original_form_input": {
+    "name": "ROOT_POST_INITIAL_PREPEER_JAPANESE_AND_HUMOR_SAMPLE.json",
+    "bytes": 31746,
+    "sha256": "01043788b9125f677cc395b27f238a8a49b11afebb4e2c651b62ed15ce7eb7c5"
+  },
+  "current_form_precision": "C01P422 concerns the target of regret/反省, not a newly performed apology. The actual native alias discrepancy is retained. The sample contains26 anchors totaling233 Japanese characters, at most14 per anchor.",
+  "reader_inventory_scopes": {
+    "root": "67 observations/29 episode groups, then26 purposive local L/H examples after root initial before peer findings.",
+    "independent": "65 outcome-aware event cards and10 illustrative forms; full root receiving of every new semantic field.",
+    "semantic": "75 broad families and26 selected Japanese/pragmatic witnesses; full root receiving. Its coordinated review does not claim a fresh full read of the I65-card map.",
+    "not_new_independent_coders_or_denominator": true
+  },
+  "excluded_components": "All actual images, afterword and other excluded bodies remain closed.",
+  "whole_edition_or_StageC_completion": false
+}

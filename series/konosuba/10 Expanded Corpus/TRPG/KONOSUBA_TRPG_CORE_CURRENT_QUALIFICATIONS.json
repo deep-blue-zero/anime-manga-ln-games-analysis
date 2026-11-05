@@ -1,0 +1,453 @@
+{
+  "schema": "KONOSUBA_TRPG_CORE_ATTRIBUTABLE_CURRENT_RECEIVING_QUALIFICATIONS_V1",
+  "recorded_utc": "2026-10-18T02:29:30.403076+00:00",
+  "authority": "Current root findings govern later reuse alongside the immutable attributed initial records. No initial source note/code is silently corrected.",
+  "qualifications": [
+    {
+      "id": "CORE-RQ01",
+      "targets": [
+        "TRPGC-CC02",
+        "initial literary report cover statements",
+        "printed235"
+      ],
+      "issue": "Overbroad cover multiplier",
+      "current_finding": "Standard cover doubles the final HP damage only when the same attack has also hit the coverer. If the coverer succeeds at evasion, process cover normally. Defense is applied before any applicable doubling. This is not a blanket multiplier for every single-target cover or an exhaustive ruling on named skills.",
+      "actual_source_or_receiving_basis": "Root whole nativeS237/235; replayS074-080/072-078 inspected coherently. Covering, shielding, evasion, HP loss and death-return retain their distinct rules/source planes.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ02",
+      "targets": [
+        "TRPGC-U044",
+        "333registerS115",
+        "TRPGC-HM03",
+        "TRPGC-JV03"
+      ],
+      "issue": "Compressed label and unproved pun",
+      "current_finding": "The fresh native crop resolves the visible label as殺しの魔名. This corrects the initial魔客 transcription and resolves glyph legibility at this scope. It does not establish pronunciation, a killing-guest pun or L3 centrality. Optional assassination-family prose and portable prestige reversals remain; initial UNCERTAIN code and earlier note history are preserved.",
+      "actual_source_or_receiving_basis": "Root fullS115/113 and crop nativebox240,1090,460,1240 enlarged4x. AuthorQ03 had already qualified its own original pun claim before this local receiving.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ03",
+      "targets": [
+        "TRPGC-U025",
+        "TRPGC-HM01"
+      ],
+      "issue": "Behavioral H target versus reported device property",
+      "current_finding": "Retain MIXED L for portable privacy/romance and central nested king/frog wordplay. H1 applies to the performed diary intrusion at replay plane. GM explicitly reports the artifact mishearing as its特性; that property is not a general human psychology inferred from one gag. No additional witnessed transformation occurs. The original MIXED H is retained as history; its artifact-psychology H3 rationale is not current evidence.",
+      "actual_source_or_receiving_basis": "Root completeS064/062:王に変える/カエルの王 contrast and explicit recognition as a pun; complete author source-plane argument received.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ04",
+      "targets": [
+        "TRPGC-U041",
+        "TRPGC-V024",
+        "TRPGC-JV03"
+      ],
+      "issue": "Printed comic timing versus specifically Japanese centrality",
+      "current_finding": "Current warrant is MIXED: portable grand-chant/ordinary-spell bathos plus materially written L1 pause/prolongation and visible katakana-to-hiragana contrast. No acoustic reading is claimed. The initial L3 label is preserved; its given timing rationale does not yet show that specifically Japanese form is central enough to require L3 reconstruction. Do not treat every script change as automatically L3.",
+      "actual_source_or_receiving_basis": "Root fullS107/105; actual marker and extended continuation inspected. This is an unnamed sample mage, not a new Megumin cast.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ05",
+      "targets": [
+        "TRPGC-U002",
+        "TRPGC-V001"
+      ],
+      "issue": "Skeptical question versus categorical refusal/H3",
+      "current_finding": "Kazuma asks a doubtful corrective question. Current behavioral object is that literal staged question, H1 at the pedagogical plane, not a categorical refusal to endorse or a stable reluctance to recommend anything. Portable recommendation/correction structure and nested skeptical timing remain distinct. Local staging alone is not a gag-contingent behavior warrant. Initial H3 preserved.",
+      "actual_source_or_receiving_basis": "Root all three balloons onS011/009; exact question ending inspected, not a new natural main-timeline before/after case.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ06",
+      "targets": [
+        "TRPGC-U037",
+        "TRPGC-V022"
+      ],
+      "issue": "Recruitment motive versus chapter-specific staging",
+      "current_finding": "The all-Axis-PC imperative is recognizable recruitment amplified in a teaching balloon, current H2 at that source plane; Chris explains the chapter and Eris permits choice. It does not force every PC conversion or show a main-timeline coercive act. The original H3 is retained but source-plane caution is not its behavioral warrant.",
+      "actual_source_or_receiving_basis": "Root completeS087/085; known prior recruitment orientation disclosed, no independent new validation test.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-RQ07",
+      "targets": [
+        "TRPGC-U059",
+        "TRPGC-V031",
+        "initial guide analysis"
+      ],
+      "issue": "Advertised price versus completed collection",
+      "current_finding": "The500E guide charge is displayed/offered, while the complete250-260 guide does not narrate its collection. Useful assistance and self-interest coexist; a price alone does not prove fraud.1000E registration and3000E newcomer funds are distinct stated amounts.",
+      "actual_source_or_receiving_basis": "Root fullS252-262/250-260, including embedded259map. Megumin immediately qualifies her loneliness; do not turn it into her sole motive.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW008",
+      "targets": [
+        "TRPGC-U008"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Selective romance inference remains intelligible through appraisal and mistaken evidence; the supplied L1 rationale does not name a material phrasing/tone dependency. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW011",
+      "targets": [
+        "TRPGC-U011"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Fear, reassurance, invented authority and reluctant participation supply a causal sequence; no particular Japanese form is identified as necessary to the whole premise. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW014",
+      "targets": [
+        "TRPGC-U014"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Ordinary-frog expectations versus large swallowing threats and disrupted tutorial order are structurally portable; delivery may sharpen them but is not demonstrated as material here. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW016",
+      "targets": [
+        "TRPGC-U016"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. An assurance fails and its speaker narrows the claim after actual swallowing; the causal error is portable and must not be made language-dependent solely because dialogue reports it. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW018",
+      "targets": [
+        "TRPGC-U018"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Small actual success becomes inflated self-appraisal and immediate correction; this contrast alone does not establish material wording dependence. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW020",
+      "targets": [
+        "TRPGC-U020"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Competing religious/romantic/client appraisals are structurally available; the generic L1 account does not independently establish which surface form changes the whole mechanism. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW022",
+      "targets": [
+        "TRPGC-U022"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Ordinary furniture solves an ostentatious test and a gift is romantically reappraised; such event structure does not itself prove L1. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW026",
+      "targets": [
+        "TRPGC-U026"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. An openly authored trigger changes the PC priority; source authorship and causation are portable even though exact dialogue may separately carry voice. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW029",
+      "targets": [
+        "TRPGC-U029"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Appearance changes a restoration proposal and a refusal survives, followed by costly magic; that causal contrast is portable absent a more specific material surface warrant. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW030",
+      "targets": [
+        "TRPGC-U030"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Mechanical misses and socially rewarded self-appraisal separate; mere contrast does not establish language dependence. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW031",
+      "targets": [
+        "TRPGC-U031"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Health rhetoric is narrowed, then cover/return have costs; the literal rescue and survival structure do not depend on a specific Japanese form. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW032",
+      "targets": [
+        "TRPGC-U032"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Effective healing and correction of triumphal doctrine are portable; table-reader metacommentary is separately phrased, not grounds to code the whole as language-dependent. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW036",
+      "targets": [
+        "TRPGC-U036"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. A desired party trick needs an absent skill; the absence and future learning plan are structurally portable. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW038",
+      "targets": [
+        "TRPGC-U038"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Different reference/replay reputation frames do not alone demonstrate material wording or rhythm. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW040",
+      "targets": [
+        "TRPGC-U040"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Chosen-hero ambition deflated by mundane equipment is a portable mismatch; no specific decisive form is supplied by this entry. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW047",
+      "targets": [
+        "TRPGC-U047"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Magical prestige contrasted with an eccentric name practice is not automatically L1; the exact naming form would need its own material warrant. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW049",
+      "targets": [
+        "TRPGC-U049"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Scarcity creates bargaining power and rumored free riding; rumor authority and occupational contrast do not establish form dependence. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW051",
+      "targets": [
+        "TRPGC-U051"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Divinity and public disbelief form a portable social mismatch in an optional template; source-plane uncertainty is a separate issue. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW057",
+      "targets": [
+        "TRPGC-U057"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Danger, exhaustion, grievance and mock ending have portable structure; mock-narrator phrasing can be a nested timing layer, not a demonstrated language-specific whole. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW063",
+      "targets": [
+        "TRPGC-U063"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. No lunch subsidy followed by an offered novice partnership is portable; exact courteous hesitant speech can separately carry L2 pragmatic analysis. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW066",
+      "targets": [
+        "TRPGC-U066"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. The reassuring employment script and concealed mechanical risk create a portable contrast. The quoted easy-job formula matters as risk framing but no unique Japanese mechanism is proved. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW072",
+      "targets": [
+        "TRPGC-U072"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Pre-dawn secrecy and an expert forgetting his traps reverse the novice-job promise structurally; staged scripts are unperformed and do not supply additional trials. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    },
+    {
+      "id": "CORE-LW075",
+      "targets": [
+        "TRPGC-U075"
+      ],
+      "issue": "Generic whole-premise L1 warrant requires qualification",
+      "current_finding": "Current supported whole-premise structure is L0 at the stated causal scope. Eating trades payment for XP and a forgetful expert plans more traps; this causal recurrence is portable. No completed further trapping is recorded. Initial L1 is preserved; any stronger nested voice/form claim needs its own actual evidence. This is a scope qualification, not a new exhaustive census or a claim that wording can never matter.",
+      "actual_source_or_receiving_basis": "Full initial premise/authority/rationale received. Additional native receiving scope is separately enumerated; this is not a fresh full-page verification for every selected row.",
+      "initial_objects_and_codes_preserved": true,
+      "changes_frozen_model_or_score": false
+    }
+  ],
+  "voice_basic_gloss_additions": [
+    {
+      "voice_id": "TRPGC-V016",
+      "literal_basic_gloss": "Waku-waku Frog Land (an excited, playful park name)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V017",
+      "literal_basic_gloss": "death-return",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V019",
+      "literal_basic_gloss": "I have read/seen through [your move] (not a promise of successful evasion)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V021",
+      "literal_basic_gloss": "banquet/party (here a named party-trick skill)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V023",
+      "literal_basic_gloss": "Here, how about this one?",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V024",
+      "literal_basic_gloss": "Fire (fragment of Fireball; printed pause and continuation separate)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V025",
+      "literal_basic_gloss": "yawn",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V026",
+      "literal_basic_gloss": "surely, probably (paired certainty/hedge)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V027",
+      "literal_basic_gloss": "outwit / this devil (addressed retort distinguished from reference)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V028",
+      "literal_basic_gloss": "promotion/advertising",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V030",
+      "literal_basic_gloss": "sorry (childishly deformed written apology; no recorded sound)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V033",
+      "literal_basic_gloss": "I wonder if [this/they] will be all right (private concern)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V035",
+      "literal_basic_gloss": "I am a goddess, though (staged/reference context retained)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V036",
+      "literal_basic_gloss": "eternally20 (profile formula, not Wiz speaking this phrase)",
+      "initial_gloss_preserved": true
+    },
+    {
+      "voice_id": "TRPGC-V037",
+      "literal_basic_gloss": "Do not lie (correcting balloon; armored blond speaker identity stays qualified)",
+      "initial_gloss_preserved": true
+    }
+  ],
+  "voice_surface_scope": {
+    "purposefully_selected_witnesses": 41,
+    "short_checked_fragment_records": 15,
+    "paraphrase_only_records": 26,
+    "limit": "Paraphrase establishes reported pragmatic function, not independently checked exact morphology. Checked fragments do not prove a natural voice population, audio, before/after effect or41independent tests."
+  },
+  "unchanged_qualifications": [
+    "AuthorQ01/Q02 normalized short forms remain qualified rather than treated as exact whole quotations.",
+    "V036 eternal20 is profile text; separate Wiz tagline is separately attributed.",
+    "V037 illustrated corrector remains cautiously identified; no newly confident identity imposed.",
+    "U027 local park conception, U056 promotional wink, U065 GM/god appropriation and U071 reader-directed unperformed threat retain their specific local-gag H3 warrants; no blanket erasure of H3.",
+    "No H4 forced for fantasy or game abstraction. Optional rules/scenarios/reference with no performed behavioral target remain NOT_APPLICABLE."
+  ],
+  "no_aggregate_census_or_score": true,
+  "cohort52_current_source_qualification_route": {
+    "authored_utc": "2026-10-25T23:11:09.495270+00:00",
+    "current_owner": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "qualification_ids": [
+      "C52-Q01",
+      "C52-Q02",
+      "C52-Q03",
+      "C52-Q08"
+    ],
+    "scope": "Attributable additions to preserved historical source-first notes and current qualifications. No rewriting of frozen C31 index, H/L coding, model, first response or score.",
+    "actual_complete_native_return": 82,
+    "source_known_same_AI_lineage": true
+  }
+}

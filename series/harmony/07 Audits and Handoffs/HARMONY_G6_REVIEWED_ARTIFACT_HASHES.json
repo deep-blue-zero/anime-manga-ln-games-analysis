@@ -1,0 +1,466 @@
+{
+  "schema": "harmony-g6-reviewed-candidate-hashes/v1",
+  "review_completed_utc": "2026-10-19T04:54:01Z",
+  "reviewer": "/root/harmony_final_review",
+  "review_head": "1635227cb8c1c5778c626ebd5a4e56de08d39a83",
+  "comparison_main": "339254b7d3f425502f110eaa5ab8dd0a8a2a04ba",
+  "inspection_boundary": "Hashes pin the full candidate corpus; substantive depth is explicitly bounded in the independent final review. No assertion of a fresh whole-novel reread or full reread of every unchanged historical artifact.",
+  "files": [
+    {
+      "path": "series/harmony/.repository/series-registry.json",
+      "bytes": 739,
+      "sha256": "1a8621fb9c4915fcecb8494b12abaaaddb5284a6401283e188216aeeca3430b9"
+    },
+    {
+      "path": "series/harmony/00 Frameworks and Methods/HARMONY_ANALYTICAL_METHOD.md",
+      "bytes": 16469,
+      "sha256": "24e2d3c58287d27a9a7fb767322e74d6ed8c35816e4726707cc4a85236eb9873"
+    },
+    {
+      "path": "series/harmony/00 Frameworks and Methods/HARMONY_SOURCE_AND_SCOPE_MAP.md",
+      "bytes": 94924,
+      "sha256": "de94fd72508e42fc286f34bf4fe3b7138193bb8cd8c157612eba411c2c54ce58"
+    },
+    {
+      "path": "series/harmony/00 Frameworks and Methods/HARMONY_SYNTHESIS_ARCHITECTURE.md",
+      "bytes": 32163,
+      "sha256": "fbe52d0f7b873e314feada64c04b5cee8687fdb9355e575eca89121a85e19d06"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U001_OPENING_AND_PART_I_01_DEEP_READING.md",
+      "bytes": 21240,
+      "sha256": "1fc5fb04abc2d4808d7f273984fa96aba676654972913471e20f0a63ecd7aa8a"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+      "bytes": 31181,
+      "sha256": "4c82895565c445604d5204d58099e55ed879e014e34a8c3c42fe86ea9b6bad54"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+      "bytes": 26863,
+      "sha256": "8cf26bcd5ebce15777d0c8a47a1244a9dbda801fd9aef5ce9ec488a19057d7a7"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+      "bytes": 23274,
+      "sha256": "e2784d2f216e5d8ed1390950dd9e3208f0cdf9c1845eafeb4c513c1eda0cd250"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+      "bytes": 19755,
+      "sha256": "eb9c3dd4ff4d19e92e4c786c8e5dcdcb86d44d0a56dfc98a2cd06009cb24106a"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U006_PART_I_06_DEEP_READING.md",
+      "bytes": 25227,
+      "sha256": "c40563151b21b8cf7a736e2d0450007df58614a55a9c2a05d8d71371e0fc3b8d"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+      "bytes": 23185,
+      "sha256": "5e1987e994d7febed2c19a101e41de5044adcdb66d65d5aaa1ac6251fce83fe2"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+      "bytes": 29778,
+      "sha256": "fd3883861c9cf236d420c931afbe1ab329c34286e5db64c0ae6ae5b797af203a"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+      "bytes": 35633,
+      "sha256": "92ec2cba8d6f9f493a3605e95326a7d4cd46747bb1cefe40d711cc536782afc2"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+      "bytes": 29412,
+      "sha256": "ff91c732518f53d94ef47c5450bf0dbcc608a09d51f9dbd9937b932c392839b5"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+      "bytes": 37961,
+      "sha256": "cf612ad73622f0aadb15bf7b6719c06634fa8801e5801c7e76578c5de1985d18"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U012_PART_III_03_DEEP_READING.md",
+      "bytes": 28139,
+      "sha256": "b32602c3af16c8a2bf071fd74361fd66b1ad041528563bd11e0ef78c90306b70"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+      "bytes": 33594,
+      "sha256": "d58e6d9a1dac36ce1f885fcb10da898a2b74e55a605f4c61ccf9897de943605b"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+      "bytes": 34803,
+      "sha256": "23ef241a140488295fc9c12178deb39cba5c9da7f15fa3aec03edf968e4b1bbb"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+      "bytes": 43298,
+      "sha256": "c268049fdb564036bcc405eedd1163e0a8bdb218e91c5512e78443c471653247"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+      "bytes": 40342,
+      "sha256": "cff5f65e888fb827aaea26ca9ab78bb3a3ea32687206a79f158d426be483fe11"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+      "bytes": 33276,
+      "sha256": "41e909bebec875c7a1c5314b4d3196fdc32e23fb4b64231beffc5c63a1969370"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+      "bytes": 33768,
+      "sha256": "032b411017fc48b3a67dad99a8e1b71040af6b549c6f00181c425da768e6d37c"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+      "bytes": 41798,
+      "sha256": "25563b05a47ab8d9250301f2d7ce4fd18c04de0271b56f82ec4a5d5150bc36bb"
+    },
+    {
+      "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+      "bytes": 30646,
+      "sha256": "6f22c49ed635f73b5847cb649999c63126df8564f7f6ce765432b54e0fd5fd9e"
+    },
+    {
+      "path": "series/harmony/03 Longitudinal Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md",
+      "bytes": 344453,
+      "sha256": "05583b09f498fd45fed57eb22212916b7dff6a19b6715791d2771c7e441df95c"
+    },
+    {
+      "path": "series/harmony/03 Longitudinal Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md",
+      "bytes": 198847,
+      "sha256": "a37689e8ab4006ba262d096b103da4fea5f0d5c9e4b61d37be33ca89232ee24f"
+    },
+    {
+      "path": "series/harmony/03 Longitudinal Ledgers/HARMONY_KNOWLEDGE_INSTITUTIONS_AND_COERCION_LEDGER.md",
+      "bytes": 117487,
+      "sha256": "6b4670e94f41af075263830dd69d033c8ab126b7faaa10c67b15aeccfe8aa202"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_KIAN_MONOGRAPH.md",
+      "bytes": 12977,
+      "sha256": "abfb5c5c65bd50523e07471de1ce1c6d5a47562081223fd02141b746b277d474"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_MIAHA_MONOGRAPH.md",
+      "bytes": 30351,
+      "sha256": "23fada815eff2b5d800475eb64a3a7e9efdc765c4ccd4c6fd05d2bca2bb25376"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_NUAZA_MONOGRAPH.md",
+      "bytes": 23007,
+      "sha256": "f95bdda9d6fbd52142ac695a1a7277cc0160c9a0c6c37d271350abd5d1d0aab3"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_OSCAR_STUDY.md",
+      "bytes": 12976,
+      "sha256": "be9fe7fb44ed0fa7f8959f45c387366082b7cd4032f92f39f14d3a0f33705725"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_TUAN_MONOGRAPH.md",
+      "bytes": 19621,
+      "sha256": "e21b037cce2efa7886ccf68e6af784301a0b390c8241826a97bc867488d69e6a"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/HARMONY_VASHILOV_STUDY.md",
+      "bytes": 14069,
+      "sha256": "a7e02de12623fe87f0158654cb9817fc34c88b0e736b38635ff61170ef27a6b5"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_CIAN_RECONSTRUCTION_MODEL.md",
+      "bytes": 5329,
+      "sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "bytes": 4864,
+      "sha256": "87fb32063efb9dec9d9d8dbd41f5dff2e7de47de9c86215b8fb0974763a404c6"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_ALL_ACTUAL_TURN_JUDGMENTS.json",
+      "bytes": 167162,
+      "sha256": "cb73ac0cd5b88f3e370b2ce246ed85484d390a6aa7cbf240202e5bdf4ee29802"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_CURRENT_MODEL_SELECTION.json",
+      "bytes": 6995,
+      "sha256": "611ceb28d4789b3f3a4f908e6844c467e3c31e7ce34df92be13a005128322b50"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_FREEZE_V1.json",
+      "bytes": 11737,
+      "sha256": "05e532de04bf370d4706ca7cb291c9ac789d3b5d35968b9c8d6f95cab417eb59"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_INDEPENDENT_INTERACTIVE_REVIEW.md",
+      "bytes": 34340,
+      "sha256": "bf7b90b5c997a9c976a34cb8a4f8a89549dac4c2d03e0694ea644d99c8fb02a4"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_INDEPENDENT_PUBLIC_PACKET_REVIEW.json",
+      "bytes": 11861,
+      "sha256": "245224fc9469b51866ed3607f091c92ca9202f200fa9705e4be64de68a4096c4"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW.md",
+      "bytes": 39634,
+      "sha256": "7a5b4be5a6205d9fdd76f08be724d825e683cfaf93e4d76574ddc61c2686ad15"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_INDEPENDENT_RETROSPECTIVE_REVIEW_INITIAL_32_CASES.md",
+      "bytes": 31127,
+      "sha256": "5b9f0ef588c9a9a5d4d023e7f43bf63c39aa6849923c6d93eb08333e8cfd2fc7"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_KEITA_ORIGINAL_V1.json",
+      "bytes": 4958,
+      "sha256": "0280deba21119e3f38de039b5bf19f5ba5e137480b18cbcaee63140ba4e44c9e"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_KEITA_SUCCESSOR_FREEZE_V1_1.json",
+      "bytes": 1089,
+      "sha256": "27ea8b6d2c439fbdda28281fd0ce1addd870aaf8373b7798a955032c76534705"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_ORIGINAL_V1_POLICIES.json",
+      "bytes": 20556,
+      "sha256": "d161f25d5a0c0417fc18933f43dbaab4de12f66272254d069fcd4be5acbd6be2"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_SUCCESSOR_FREEZE_V1_1.json",
+      "bytes": 1991,
+      "sha256": "f45e8f62b675d57d5f36c69f603c7f3691f7456860c90527f4820c29f327b822"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_SUCCESSOR_SOURCE_REVIEW.md",
+      "bytes": 8261,
+      "sha256": "b4b28ab860a6af29079d7ba581085ca1c2b5078d9321cc7f173f50a0cf849e3b"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_TESTED_V1_1_PAYLOADS.json",
+      "bytes": 29548,
+      "sha256": "709e82c4ce9d8c731b49dff15aed830d80b6705caf39232cdd5c6a913d18f841"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_G5_VALIDATION_AND_ERROR_ANALYSIS.md",
+      "bytes": 13390,
+      "sha256": "afe4102d78feb044deacbf2a8fb2605543750f7944186a75dda55f726e0adcd6"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "bytes": 5879,
+      "sha256": "b06784e90e947eca4266446db97a549329c7a1e94ab81b7eb3eb00ed9ef9e86a"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_MIACH_RECONSTRUCTION_MODEL.md",
+      "bytes": 7383,
+      "sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "bytes": 6286,
+      "sha256": "485b6d0ad5689898731c76254ce538f80a1f2bdbdcc2b1930eb76593453146e6"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_OSCAR_RECONSTRUCTION_MODEL.md",
+      "bytes": 5604,
+      "sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+      "bytes": 13904,
+      "sha256": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 5097,
+      "sha256": "c063a9e8452e2b67d6a284c6c6034e5c5c6719f5eeece8853ec8643f8e95409a"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_TUAN_RECONSTRUCTION_MODEL.md",
+      "bytes": 10017,
+      "sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "bytes": 5258,
+      "sha256": "b6e5589682482758c0b6dbf4f3df3508fff958c909b23aff1a29c63d5c5fd97e"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_VASHILOV_RECONSTRUCTION_MODEL.md",
+      "bytes": 4991,
+      "sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-additional-conversation-judgments.json",
+      "bytes": 58464,
+      "sha256": "3e5b48bd5212ceb6cc40af16c29e8cbd93439b837b209bc2ef71601e072b9e10"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-additional-runtime-integrity.json",
+      "bytes": 26863,
+      "sha256": "9702367b6b394eb30f911c129d68a53347f2255b8a436cc3326f41dd3e4c2fef"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-freeze-verification.json",
+      "bytes": 2185,
+      "sha256": "5b4867217eee65f90450e435f84f60b14bb47a99c0671914ad9f9d1cf3f59d13"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-initial-conversation-judgments.json",
+      "bytes": 38180,
+      "sha256": "e914f799abc09f853b7f74d57b6b9d4daa1bcb602860f3782c072e7985b9ebe1"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-initial-runtime-integrity.json",
+      "bytes": 19460,
+      "sha256": "a7d7205e24428226a56a4b10636469764632dcc9ebe691df14665ae0d75f13de"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-retrospective-case-judgments.json",
+      "bytes": 47407,
+      "sha256": "2d6a5547d2c351dc6a9a23c3c15e9d404ff53f012261ced41f6282df758b1841"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/independent-successor-freeze-verification.json",
+      "bytes": 3369,
+      "sha256": "40739a17de5f51b93ef03b44e2f3b8f41aabb1ff7100fa59f3f991214954ad40"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/character_harness.py",
+      "bytes": 8796,
+      "sha256": "ed084abedf37ec96da1bbf7c5b4d36dd8d730bb4c180e9172082cc237fad9b01"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/extract_runtime_context.py",
+      "bytes": 3093,
+      "sha256": "b66a3fcb9d7aecde7c2bec166602ddf862f807d1b85bdd42ed3515aa8bcd1935"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/interactions.json",
+      "bytes": 252506,
+      "sha256": "c78e24c0952ba5c76f7c70cf338915aa7c5f556bb8dc3a4df121efe508e430d0"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/materialize_frozen.py",
+      "bytes": 2669,
+      "sha256": "f4cee59377d005a9d14e23bce19fac44e1020192599a1b75bfd7e3167fdc2d7c"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/package_receipts.py",
+      "bytes": 7364,
+      "sha256": "92678a7cde3aa2bb564b72e785076b801abc7af584c83be27fca5a0c0f671b60"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/README.md",
+      "bytes": 11295,
+      "sha256": "cee4b6551fb3b61336507305f5d04c4bd96128d4673cbb64273e5a640baf2f99"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/resume_followups.py",
+      "bytes": 4214,
+      "sha256": "971d1b044f5c96c787e3a4aa71476809229e9856520db90d7680992f30d9c4d8"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/runtime_context.json",
+      "bytes": 42966,
+      "sha256": "493d5e03d4586859899f5a2bf63a2396077aff312cd0db86831eb1d6946557e8"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/runtime_receipt.json",
+      "bytes": 586575,
+      "sha256": "ce36eb6e7e5c1f3ed9fb4683e8421e75da98c7f2869c12387841683e8689ec1c"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios.json",
+      "bytes": 24999,
+      "sha256": "0da633068a28c274934b620c511e497b739fd6b2c75f12dfc15c97b22cfb28e9"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_keita_successor.json",
+      "bytes": 2742,
+      "sha256": "a0b73554747fc3aaa5fdcbf8aeffca979cbd492ee02c1d6b39d9928eef5bf6bc"
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios_successors.json",
+      "bytes": 10334,
+      "sha256": "7fca35d1bed60cc5859b44e4705a1cb17fbc87c4bd352d61f86f1b450ea5ff8a"
+    },
+    {
+      "path": "series/harmony/05 Specialist Synthesis/HARMONY_ENDING_STUDY.md",
+      "bytes": 18828,
+      "sha256": "3a44b191abd14d02a1e05d802b1f763d1f878e619137157bcea93a045b5a82b3"
+    },
+    {
+      "path": "series/harmony/05 Specialist Synthesis/HARMONY_INSTITUTIONAL_CARE_AND_COERCION.md",
+      "bytes": 28294,
+      "sha256": "bd3d7c0e37543d9918487371c2c0da69897b20b6a39dde35a142023b7cad745e"
+    },
+    {
+      "path": "series/harmony/05 Specialist Synthesis/HARMONY_NARRATION_ETML_AND_FINAL_VOICE.md",
+      "bytes": 18182,
+      "sha256": "9ee3e50711116acf9f167daa35996a0f5648973a5645a7ddf9bc9bc7fb9bc5ac"
+    },
+    {
+      "path": "series/harmony/05 Specialist Synthesis/HARMONY_RELATIONSHIPS_AND_AUTONOMY.md",
+      "bytes": 15975,
+      "sha256": "c9e50bf9986f87d89446d6f49b0f355ba8345527a7c94659a7c83df5e599558e"
+    },
+    {
+      "path": "series/harmony/06 Novel Synthesis/HARMONY_INTEGRATED_NOVEL_SYNTHESIS.md",
+      "bytes": 42055,
+      "sha256": "883eb143c012ab7c431de6946c567d90eedab6009d435a821874b68e9d045e75"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_BOOTSTRAP_RECEIPT.md",
+      "bytes": 10150,
+      "sha256": "56588af9844c3a27f5f4372b0b6ce4363426aae7820d4e3c3803c16a711a6ad5"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_CONTINUATION_RUN_2026-10-16.md",
+      "bytes": 135733,
+      "sha256": "202af70cdcb632476b91d168a62bd3857e862ac4fb811605e6d74da7a86fe3a2"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_ENGLISH_NAME_MAINTENANCE_2026-10-19.md",
+      "bytes": 17053,
+      "sha256": "488dc486c85d3b075032d658624d684f9af8da730fb8c33f70b8e4229e8f57a7"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_G2_RECONCILIATION_AND_HANDOFF.md",
+      "bytes": 12396,
+      "sha256": "0b95b51f79e8a3f073c55df7aa3d62ff66c2a3275733ee25bd16023b727291e2"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_G3_CONVERGENCE_AND_HANDOFF.md",
+      "bytes": 24587,
+      "sha256": "e7ac525ca98666fb764f3f8e155e61de99cfd78831b92e1dc344502068f2ac1f"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_G4_INDEPENDENT_SEMANTIC_REVIEW.md",
+      "bytes": 10089,
+      "sha256": "ecfa9fd08b6f6dbb8968a3b9761fc09a662e010aae008d94b4267fa86166ee5e"
+    },
+    {
+      "path": "series/harmony/07 Audits and Handoffs/HARMONY_PILOT_EXECUTION_RECEIPT_2026-10-16.md",
+      "bytes": 18352,
+      "sha256": "e5232dcb4faad22e3b1c84272b151ffb5a40e5243f4d384e9a53c9e42627d01f"
+    },
+    {
+      "path": "series/harmony/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 15247,
+      "sha256": "364be1ee8dff2b9c79f08c2d75ff836e1832248761dc1410f2ca0a9ddb8aa531"
+    },
+    {
+      "path": "series/harmony/HARMONY_PROJECT_HISTORY.md",
+      "bytes": 20787,
+      "sha256": "0dbaa6be90008a90b229cde8a9a527769a176ded99f3506afd8424fce05c0ca5"
+    }
+  ],
+  "entrypoint_final_status_review": "Read entire updated v0.28 current entrypoint; independent semantic acceptance and protected-main/postmerge-audit pending remain separate; only current status and audit route changed after initial manifest."
+}

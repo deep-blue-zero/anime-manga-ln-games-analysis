@@ -1,0 +1,329 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Neru",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_NERU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 12123,
+    "sha256": "667960b90d854619b347eef9f54be12c04563505876c26472e0cd72766837229",
+    "git_blob_oid_of_actual_bytes": "28f460bc783b8bf67fac92b42321525646d53892",
+    "lines": 289
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_NERU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "72a6ab70b4f9d08df52446230082b2419998126875dc2d2088fff0ed9f536b3e",
+    "root_current_head": "7489d76d96b232609f1cd16473173b6dc4ab0eee",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": false
+      },
+      {
+        "source_id": "C02",
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C03",
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C04",
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "G12",
+        "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "M02",
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "M21",
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "M22",
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E06",
+        "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E06C",
+        "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E25",
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "C05",
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "current_bytes_exact": true,
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_SCOPE_CONTROL"
+      },
+      {
+        "source_id": "C06",
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "current_bytes_exact": true,
+        "snapshot_comparison": "NOT_APPLICABLE_CURRENT_ROOT_SCOPE_CONTROL"
+      },
+      {
+        "source_id": "N01",
+        "sha256": "f8de600c9349986e51101217f1c04d4370a32b5aeb8811636d093c310a86e762",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E21",
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E43",
+        "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "L67",
+        "sha256": "fcbc7f4d853a04feb2169fda2db232ff1a7a0f7fc63c4ea8562f749f3a7ec61c",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "E10",
+        "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      },
+      {
+        "source_id": "F00",
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "current_bytes_exact": true,
+        "same_declared_snapshot": true,
+        "same_main": true
+      }
+    ],
+    "historical_detail_exact_checks": [
+      {
+        "source_id": "H01",
+        "sha256": "94d92eda6e650465d5860e25527c4a6342f2e77c482a4410dec6a16b569c29d4",
+        "content_blob_oid": "107896c47adbe0a40d0b2bdb1f91ef3a5c2a3ebf",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H02",
+        "sha256": "4f85787e8182fc18840511007820e6794ff901511f7540ef6d543c14533d4846",
+        "content_blob_oid": "73d3c245e5b6ad6fc4d168b1158387ddae673f00",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H03",
+        "sha256": "963e9928d5384f7751d35c76923ff17f169eb92f9a18479b567416430259be5f",
+        "content_blob_oid": "aa73027dc50933153ab92d3073f425fc69737773",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H04",
+        "sha256": "efcbdb89b2db4fd9237ecbe5c1f5760db60b0bf89cd7e47d9c1a3e0e5d4d8072",
+        "content_blob_oid": "eeb31c3e73eb5da1f70735200031d2e1a24db5f3",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H05",
+        "sha256": "860366c04fb506059bedfef927caa4ab795f2fa034d5a9b4c2d3d2ab0d64be99",
+        "content_blob_oid": "d20b5c448b501aa6cccd5e9b93caba9b71766be5",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H06",
+        "sha256": "f9e08d7830466c3e6c4d33461dabef909617e0d364d94d587b62398c0d6ed321",
+        "content_blob_oid": "088eca9141e18b00c59117406da5549bf508a7d8",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H07",
+        "sha256": "862a1baec223582a02fa84566694f757629b4039a07ea5bbcc40abdc7fec72f2",
+        "content_blob_oid": "e5cd2f45f24dfe48a6f11a0a90d3c22eb9af8a51",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H08",
+        "sha256": "44a5a6a3fd3256deff8d0c0000279523cf8484bd8168faa3396f2894ee2c0d8b",
+        "content_blob_oid": "7ef1b42549cd0f5ebdba59faf873661004a75d3e",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H09",
+        "sha256": "ea2175e5efcc315bef82472ce2754b871ed7e9fafa3d217f42dba6eb06c0a1b8",
+        "content_blob_oid": "432bfc01ab99372743b562bc3634fa703f4e9752",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H10",
+        "sha256": "0b2e4d4f5dd0b6307caa00c86a09046566b706913925b7c471e0aacbee0d3b49",
+        "content_blob_oid": "43444f3617f0d6c14e0f950abc8e9b670134443f",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H11",
+        "sha256": "3d19f3832fa205ba3ee677e25bd68a9fc23971ee6ba51387902365c1c25ea9e5",
+        "content_blob_oid": "ab2d6b9bd904c935cd558d7c1d8100b09a293417",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H12",
+        "sha256": "5f94098aff5c4b31ccc3a245e32f383521d02652435414121b48b4ba77e9b3a2",
+        "content_blob_oid": "c6f469229dab71b61ade638bf7aea82528dbe02f",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H13",
+        "sha256": "5bda53b686aacfafcd1c13cab969e73aa32f787768219f2582602d700752d583",
+        "content_blob_oid": "aba42af846aafc7f136f7fe6b0182e06d0dcb91e",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H14",
+        "sha256": "5f5322ea44aa5a7f1fc4a365ef69419a79b7e3c905a233da4faface7012d5b74",
+        "content_blob_oid": "7e69496640119164cd562e92bfb255c52342e699",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H15",
+        "sha256": "a8179186ffce50aae9527d6865b979f0a2d9f5d9f6fcf957af0a413d3ac0818a",
+        "content_blob_oid": "f027fe14469ec482447397a4a8cac353f066fb91",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H16",
+        "sha256": "bd6b80a7912a7bc9dc7ff12aedb35ec73f7989351cd803377aac7ec78148cf1c",
+        "content_blob_oid": "a80e7ad9c2b0009c81ebee1019608ad9979bb975",
+        "exact_only_not_new_receiving": true
+      },
+      {
+        "source_id": "H17",
+        "sha256": "7b18ee7e623cdf46ecd99d9cd67c7925f76565b598d04677190ef18bd8b52201",
+        "content_blob_oid": "6db83ce668c90b5999e790cf321868eeb30e3523",
+        "exact_only_not_new_receiving": true
+      }
+    ],
+    "exact_saved_claim_paragraphs": 56,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "6ec7dbb1fd2b29e8677a4d77ee49c423ab77ab2850e623f12f2d857c14232bed",
+    "prior_frozen_outputs_preserved": 56,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "49bbbd lines1–80",
+        "27c1e6 lines81–150EOF"
+      ],
+      "source_fields": [
+        "aafb36 all source controls",
+        "90e5a0 inputs0–9",
+        "b1d829 inputs10–18",
+        "133863 H12 metadata",
+        "eea5e0 inputs0–3 and4b9f6a inputs17–18 rereceived; no whole17historical field manual claim"
+      ],
+      "claim_fields": [
+        "2014c9 schema/control projection",
+        "06e0fa first2 full claim rows; all56 exact paragraph joins checked and joined meanings received in full saved body. No whole56support-row manual receiving claim."
+      ],
+      "saved_receipt": [
+        "65aba4 complete controls",
+        "36a72d complete3outputs;19source/17historical/56prior rows mechanically exactchecked; no whole612line manual reading claim"
+      ],
+      "additional_accepted_argument_receiving": [
+        "a08d83 private182–245 andda2922 private246–311EOF, complete declared current adoption and substantive contextual account",
+        "a5dd20 whole94line H12 paired argument throughEOF, actual later permission to refuse and uncompleted next outing"
+      ],
+      "authority_qualification": "Other adequate analytical owners use author-attributed scopes and prior ROOT accepted meanings. Nineteen exact bindings, seventeen historical detail checks and snapshot comparisons do not confer new whole primary, performance, source-field or independence credit."
+    },
+    "semantic_grounds": [
+      "Strength does not ensure reciprocal company. Liked jacket, can play, toys, pond, roof, holiday, rides and rest retain their intrinsic worth and specific failures; they do not require combat utility or hidden trauma.",
+      "Wanted care and companionship coexist with compulsory eating, explosive entry, privacy conditions, threats, pressure and an actual release request. Changing privacy is concretely respected; photograph deletion and offered shoulder reciprocity remain unperformed.",
+      "Last-uniform-day leisure allows the adult rest. Its initially forceful invitation is specifically revised in the whole Momo aftermath to permit refusal and extend company beyond uniform. This changes this request; it neither repairs all earlier coercion nor completes the next outing.",
+      "Institutional signing remains Akane internal-rule account, Karin reported signing, Asuna acknowledgment and Neru refusal. No instrument, free Neru assent or legal validity is inferred. Accommodation, apology and EXPO no-force agreement retain finite contexts and unfinished costs.",
+      "Coalition work and peer agency are distributed. Combat success, simpleminded labels, generalized profile boasts, recipient fear and resisted demands remain distinct rather than erased by affection or competence.",
+      "Variant modes, written actor seams, inward/action forms, conditional replies, actual endings and source-local chronology remain scoped. No performed voice or universal development calendar is reconstructed."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Current355/29 ROOT V3 controls exact; historical353 bytes and Neru home unchanged",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-NERU-NEL",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NERU_CHARACTER_MONOGRAPH.md",
+    "bytes": 41998,
+    "sha256": "a26b21ee3554d21fde069acd6ada8344d1c1932804950165425e468187284c2f",
+    "git_blob_oid_of_actual_bytes": "ca5687faf034cc7adbf8e259bb2214a1ec858019"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "The author considers this a complete bounded eleven-section literary candidate, with ROOT receiving and adoption pending.",
+      "new": "ROOT accepted this complete bounded eleven-section literary monograph with limits after whole receiving.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

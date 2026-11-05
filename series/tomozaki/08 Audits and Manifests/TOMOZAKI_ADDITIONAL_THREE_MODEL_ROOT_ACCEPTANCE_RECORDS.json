@@ -1,0 +1,616 @@
+{
+  "schema": "tomozaki_portable_historical_analytical_records/v1",
+  "packet_id": "TOMOZAKI_ADDITIONAL_THREE_PUBLIC_EVIDENCE_20261103_V1",
+  "record_semantics": "Complete unchanged original JSON values/exact UTF8 texts. Pending/scratch/helper identities are historical provenance; active retrieval uses canonical portable pointers. No helper body/argv/raw primary/media.",
+  "records": [
+    {
+      "record_id": "root.producer_binding_proof",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PRODUCER_ACQUISITION_AND_BINDINGS.json",
+        "bytes": 14646,
+        "sha256": "d6674cd33752cf07e9fbe52410521f31c4e34d4883ce630ecc6172685bf100f8"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "e5fa0238c9d9d4324bf8a11c0e577bcda89af3ce405654c1cd874fba92de7bc1",
+      "value": {
+        "schema": "tomozaki_root_additional_three_producer_acquisition_and_binding/v1",
+        "utc": "2026-11-04T02:18:26.992756+00:00",
+        "status": "PRODUCER_BODY_TRACE_REVIEW_COMPLETE_INDEPENDENT_OUTPUT_REVIEW_STILL_PENDING",
+        "producer_seal": {
+          "path": ".scratch/constructed_additional_models_20261103/FINAL_ADDITIONAL_THREE_CONSTRUCTION_HANDOFF_SEAL.json",
+          "bytes": 6044,
+          "sha256": "7f62ccf54b97522dde41b9e64a2cf655a649150f216a004a27bbb207f5bd5760"
+        },
+        "raw_checks": [
+          {
+            "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+            "bytes": 27744,
+            "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852"
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+            "bytes": 16539,
+            "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8"
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+            "bytes": 20131,
+            "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06"
+          },
+          {
+            "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+            "bytes": 25457,
+            "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848"
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+            "bytes": 17025,
+            "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+            "bytes": 129891,
+            "sha256": "265b6ae9c61dad6896061ea29176277f0dc1276f2c51b4ea39285845c6c5c68b"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+            "bytes": 145033,
+            "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+            "bytes": 52873,
+            "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_JAPANESE_CONCEPTUAL_LANGUAGE_VOICE_AND_REGISTER_SYNTHESIS.md",
+            "bytes": 72543,
+            "sha256": "897cb97ad9694c153a96246e353896e581a4e7b5c3824b774cde77992a2d87b8"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+            "bytes": 198814,
+            "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59"
+          },
+          {
+            "path": "governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md",
+            "bytes": 20236,
+            "sha256": "1566fcada5d71f27f3d75d9cb884f45fef1ec261c0e00926f8cc43da3b07f4c4"
+          },
+          {
+            "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+            "bytes": 11684,
+            "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "bytes": 160805,
+            "sha256": "6017c3eee7ab60cc3ba5e689c4a127b78191fb1b747c06f7f6cec36007160b4b"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+            "bytes": 35306,
+            "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "bytes": 14151,
+            "sha256": "1c2628ede4a780de5de44cd0c057b7281a41d80310c518c1a0cfd2c4d3db4343"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "bytes": 592652,
+            "sha256": "72083a0d45d607dde901787176c9446754ab58d4ac53a6313b37fb056439fe53"
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "bytes": 72802,
+            "sha256": "f5c6d752193d5659a900c108a3629d26e4d3a0cb09a3118bfa1286d1461df593"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_DECISION.json",
+            "bytes": 24746,
+            "sha256": "8a51e0e7d7124b9bf07189bcd2e6a8fa7d216a5068df0a4c9ca2fc3ef8085a90"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_VERSION_REGISTER.json",
+            "bytes": 73740,
+            "sha256": "4dfcce1ebcb5c1f3bac5cb33f364b5413f401b2a9e8d9c8202c1667fefdef5ec"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_JP_V12_LITERARY_EDITION_1_RELEASE_AUDIT.md",
+            "bytes": 15549,
+            "sha256": "307d94cef6c9d0d0c52fa311d5058a7d7f69b55c4d9ca7801a0cc76e53c84dfb"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+            "bytes": 115139,
+            "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+            "bytes": 39886,
+            "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21156,
+            "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36387,
+            "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+            "bytes": 18196,
+            "sha256": "6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+            "bytes": 48947,
+            "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+            "bytes": 48429,
+            "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+            "bytes": 54677,
+            "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+            "bytes": 55108,
+            "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+            "bytes": 62512,
+            "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+            "bytes": 34031,
+            "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+            "bytes": 57844,
+            "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+            "bytes": 67696,
+            "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+            "bytes": 39200,
+            "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+            "bytes": 50690,
+            "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+            "bytes": 60208,
+            "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+            "bytes": 57797,
+            "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+            "bytes": 75055,
+            "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8"
+          },
+          {
+            "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V12_DEEP_READING.md",
+            "bytes": 68805,
+            "sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md",
+            "bytes": 61110,
+            "sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md",
+            "bytes": 22379,
+            "sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/actual_inspection_log.jsonl",
+            "bytes": 7824,
+            "sha256": "ed56d1f9ea0fb8bdbd24234b2ec8730503b64643c26bc3579d8e98d27c10c196"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_HANDOFF.md",
+            "bytes": 3946,
+            "sha256": "a1e7e5e450c781a717e5f5b2d0725599081b87cf7059665571821141d388ecd8"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+            "bytes": 12425,
+            "sha256": "bec1f6fa4b34a16b2346fd1e153af93f6c1c4ffdef437555563913863c09d3e1"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/FINAL_PRODUCER_READBACK.json",
+            "bytes": 1922,
+            "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 14649,
+            "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HH_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2491,
+            "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15917,
+            "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MZ_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2495,
+            "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15986,
+            "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RE_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2482,
+            "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          }
+        ],
+        "exact_snapshot_dependencies": 25,
+        "protected_rows_raw_Git_blob_exact": 16,
+        "released_version_records_exact": 3,
+        "literal_frozen_input_expected_range_and_model_bindings_exact": [
+          "MZ-R1",
+          "MZ-R2",
+          "MZ-R3",
+          "MZ-H1",
+          "MZ-H2",
+          "HH-R1",
+          "HH-R2",
+          "HH-R3",
+          "HH-H1",
+          "HH-H2",
+          "RE-R1",
+          "RE-R2",
+          "RE-R3",
+          "RE-H1",
+          "RE-H2"
+        ],
+        "root_actual_read_scope": "All3 full model bodies36873B/19mechanisms;all15 actual producer selectors, mechanisms, positive/causal output, register, field abstentions and observation/error/attempt; common exposure/execution/outerframes separately acquired. Literal15criteria fullyread previously, now exactjoined. Complete dependency unique frame/schema/alias/provenance and3releasedjoins acquired; repeated dependency/protectedrows mechanicallyreplayed.",
+        "root_semantic_first_pass": "No material defect found. Mizusawa nonmonotonic three clocks/mixedfriendship/scopedsharing/negotiation/capacity; Haruka play/achievement/selectiveaccess/inquiry/reading agency+pressure; Rena non-graphic ordinary/advice/thirdpersonaccountability, genuineinterests/attributedtheory/localstops/noglobalreform.",
+        "no_new_primary_pixel_audio": true,
+        "independent_review_or_root_acceptance_awarded": false
+      }
+    },
+    {
+      "record_id": "root.acceptance",
+      "record_role": "immutable_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_BOUNDED_MODEL_ACCEPTANCE.json",
+        "bytes": 12205,
+        "sha256": "eeb39b8331a2cf380d06504e3f95ed81911170c6f321b4f49a3836b8a1429a55"
+      },
+      "representation": "complete_original_JSON_semantic_value",
+      "semantic_value_sha256": "2e0c47b0765566286c42a47645da251649438ed6b3512703bcf76a18d6660cef",
+      "value": {
+        "schema": "tomozaki_root_additional_three_bounded_model_acceptance/v1",
+        "utc": "2026-11-04T02:28:30.696082+00:00",
+        "status": "ACCEPTED_THREE_BOUNDED_DERIVED_MODELS_CANONICAL_RENDER_AND_PUBLICATION_PENDING",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "models": [
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          }
+        ],
+        "producer_seal": {
+          "path": ".scratch/constructed_additional_models_20261103/FINAL_ADDITIONAL_THREE_CONSTRUCTION_HANDOFF_SEAL.json",
+          "bytes": 6044,
+          "sha256": "7f62ccf54b97522dde41b9e64a2cf655a649150f216a004a27bbb207f5bd5760"
+        },
+        "independent_seal": {
+          "path": ".scratch/additional_models_independent_review_20261103/FINAL_ADDITIONAL_THREE_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 6333,
+          "sha256": "31d3d88e36ca0d598730fc3bc1f4e5c75bc60571aea9f82dedf8f5c3f7fa5ff1"
+        },
+        "root_producer_binding_proof": {
+          "path": ".scratch/model_review_root_20261103/ROOT_ADDITIONAL_THREE_PRODUCER_ACQUISITION_AND_BINDINGS.json",
+          "bytes": 14646,
+          "sha256": "d6674cd33752cf07e9fbe52410521f31c4e34d4883ce630ecc6172685bf100f8"
+        },
+        "root_actual_semantic_scope": "All3complete36873B/19mechanism modelbodies;full15producer actual unique output/selectors/register/abstention/observation/error/attempt and commonframes;literal frozen15input+expected exactjoined. Full14007B independenthuman and6333B finalseal;all12actualfrozenindependentinput/criteria/source/selector/motives/actualoutput/cost/register/abstention/result/truthlabelfields acquired via two complete6-case projections. All12frozencriteria/model joins replay exact.",
+        "raw_payload_helper_identity_only_replay": [
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/ACTUAL_INPUT_AND_DEPENDENCY_BINDING_PROOF.json",
+            "bytes": 32534,
+            "sha256": "e647613498a21cf38a684d8ae5c401ada9557680be404855a16e794dff34071d"
+          },
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/MIZUSAWA_HARUKA_RENA_INDEPENDENT_REVIEW.md",
+            "bytes": 14007,
+            "sha256": "bd4d3db2d5f2e6072ac1cce9054eba9b6bb6c75b28971bf444b934b9731c43a4"
+          },
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/PRE_EXPOSURE_INTEGRITY_PROOF.json",
+            "bytes": 3948,
+            "sha256": "81298f8266658c4056bda5d053a408d13a1beff477049a08f98518036dd6d8b1"
+          },
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/PRE_REGISTERED_ADDITIONAL_REVIEW.json",
+            "bytes": 24627,
+            "sha256": "c09b99954d201de4bd6baca9782fbec4da861fa004b07bf5166320f8b7476348"
+          },
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/PRE_REGISTRATION_SEAL.json",
+            "bytes": 650,
+            "sha256": "8f79675a1fdb1f8631a23e69a0eaa3b17883276fad82a0c2f4fc737d625e98a4"
+          },
+          {
+            "path": ".scratch/additional_models_independent_review_20261103/TWELVE_INDEPENDENT_ACTUAL_CHALLENGE_TRACES.json",
+            "bytes": 45280,
+            "sha256": "ea9cbe24f60571aee12054e90415df482b574e9353cf2c7928583586c0fa6e93"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ACTUAL_CONSTRUCTION_AUTHORIZATION_RECEIPT.json",
+            "bytes": 2681,
+            "sha256": "194be4878e271412b9ae30e23e037472208fb960923772d27cf5bd12d070d6f6"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/actual_inspection_log.jsonl",
+            "bytes": 7824,
+            "sha256": "ed56d1f9ea0fb8bdbd24234b2ec8730503b64643c26bc3579d8e98d27c10c196"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_HANDOFF.md",
+            "bytes": 3946,
+            "sha256": "a1e7e5e450c781a717e5f5b2d0725599081b87cf7059665571821141d388ecd8"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_DEPENDENCIES.json",
+            "bytes": 34394,
+            "sha256": "fa52928b7b1a8f6afcf9c4f66fed7a3d6e40699c0c2a8a65a6faf6b6decbc097"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+            "bytes": 12425,
+            "sha256": "bec1f6fa4b34a16b2346fd1e153af93f6c1c4ffdef437555563913863c09d3e1"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/FINAL_PRODUCER_READBACK.json",
+            "bytes": 1922,
+            "sha256": "47d1e61e1cdb34d6f273b6540f61d07245d6d768be6e3a515dc86cb94ef1af26"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HH_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 14649,
+            "sha256": "93c10c370967e10b72b3234772e431f1191f2fd6f753fd5fda749c9a53b90b53"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HH_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2491,
+            "sha256": "99881dd8dd1478d058b20d307d72e07fed37c451736587c16c0877d3aaeb4c91"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 11598,
+            "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/INPUT_ACQUISITION_AND_PREPARATION_RECEIPT.json",
+            "bytes": 11845,
+            "sha256": "7347112e9734f1f7bb63d16f6a7b6e907f6ac2d51b9b4cbef0e1bb7cb984d769"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 12093,
+            "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MZ_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15917,
+            "sha256": "1ac5f13869071b9e554ba427d5298292d367c2ff57b28290d6c6e5c0d6f8b4bf"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/MZ_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2495,
+            "sha256": "0700e13e4551708af3acdd5b04e11afb7164282935ac323c08eebcffef87237a"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/PREREGISTRATION_DRAFT_FOR_ROOT_FREEZE.md",
+            "bytes": 15309,
+            "sha256": "4fdb146faafb1c5d389c72f3266fe8170b1a0ddedffda96764e85485f124c1f1"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RE_ACTUAL_EXPOSED_AND_HYPOTHETICAL_TRACES.json",
+            "bytes": 15986,
+            "sha256": "1400e2cb872d6f94cad7a28486af919b123d2c25fb75958a7bea8ee64a5587ff"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RE_IMMUTABLE_REVIEW_SLICE.json",
+            "bytes": 2482,
+            "sha256": "35c3ffbaa8b217a81ad591b44b579630acb487592ec378ae19f51197179a8661"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+            "bytes": 13182,
+            "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/ROOT_PREREGISTRATION_FREEZE_REQUEST.json",
+            "bytes": 1077,
+            "sha256": "26731966eb2795d300791153ab70f4b1a7a565b85546aeefc1c7e4e02c12ee61"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/build_additional_dependencies.py",
+            "bytes": 6462,
+            "sha256": "f2cc5feba41cf1e4b1bc9495333876b5f273a5f4bd7a5796e2b0cec2b8017735"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/build_additional_handoff.py",
+            "bytes": 7577,
+            "sha256": "473fee4ee31978d62503dd6bb6ac58268000052b31076704bde88e4dec3c1e00"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/finalize_additional_handoff.py",
+            "bytes": 6639,
+            "sha256": "f3254b242dfb8768065b68fda14150c65c084c65aeb3c821c31355c24cbb8ee8"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/prepare_root_freeze_request.py",
+            "bytes": 8339,
+            "sha256": "1952da6a638c3dd761d5dadeb65401458530b2259ed725783a9f106a5e6ac910"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/read_pinned_windows.py",
+            "bytes": 1068,
+            "sha256": "81cb1653b186c069c360ca5a019e2dab3ef13e966f9e8aa44c253ea14cb69474"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/record_three_actual_traces.py",
+            "bytes": 20013,
+            "sha256": "83db41ad93b4ad5d6e5b4d92338e5a7277cb28ef9e13903a661466ac195490b6"
+          },
+          {
+            "path": ".scratch/constructed_additional_models_20261103/seal_additional_review_slice.py",
+            "bytes": 3170,
+            "sha256": "166919441b226f06fdb24b6ca0a85f4d666d0e6047ed01d6a9b761eb6adbb75b"
+          }
+        ],
+        "actual_test_scope": {
+          "producer": 15,
+          "independent": 12,
+          "exposed_retrospective_or_hypothetical_no_truth_label": true,
+          "runtime_or_oracle": false,
+          "blind_accuracy_claim": false
+        },
+        "decisions": [
+          {
+            "person": "Mizusawa Takahiro",
+            "decision": "ACCEPT_STATED_BOUNDED_SCOPE",
+            "reason": "Nonmonotonic finitepolicy/clocks and actualrefusal retained; ordinarywork/teaching/mixedfriendship and capacity yield usefulacts. Scopedsharing/absentrights,3monthtarget/6monthpromotion/renewal distinct."
+          },
+          {
+            "person": "Hinami Haruka",
+            "decision": "ACCEPT_STATED_BOUNDED_SCOPE",
+            "reason": "Game/achievement/selectivecontact/inquiry/ownreading/practicalrelay retain positiveagency andpressure/costs. Operatorcanon/inwardqualifier/privatechapter/therapy/futureindependence withheld."
+          },
+          {
+            "person": "Rena",
+            "decision": "ACCEPT_STRICT_NON_GRAPHIC_ORDINARY_ADVICE_THIRD_PERSON_ACCOUNTABILITY_SCOPE",
+            "reason": "Genuineinterests/multiplebelongings/attributedselftheory/usefuladvice/localwithdrawal andongoingaccountability kept; actor/recipient/clocks/permissionexact; no erotic/sexualpersona or coerciveenactment."
+          }
+        ],
+        "material_defects_found": [],
+        "corrections_or_retests_required": false,
+        "register_scope": "PASS_source-derived_local_communicative_act/register_constraints_ONLY_NO_FREEFORM_JAPANESE_FULL_IDIOLECT_ACOUSTICS",
+        "permission_scope_qualification": "Output-domain/permission gates restrict what this model may generate; they do not prove ideal fictional compliance or a general stopping policy. Actual source harms and unestablished future behavior remain distinct.",
+        "canonical_derivative_authorization": "Preserve sealedoriginals; only reviewedcurrentauthority/review/provenanceadministrativewrapper with unchangedcompleteanalyticalcore. Materialchange usesattributablesuccessor/affectedretests. Portablecase/dependency/rawIDs required beforepublication.",
+        "no_global_grade_owner_calibration_human_REVIEWED_or_terminal_pass": true,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0,
+        "remaining_campaign": "Nineof15individualmodels nowrootaccepted. Principal6onlyconstructionadmitted/preparation; historical3/context45constructedpendingindependentreview. Initial6publicationpreflightrunning separately."
+      }
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "Exact historical analytical value/identity container; no wider model/literary/grade/publication authority. An attributable successor is required for change."
+}

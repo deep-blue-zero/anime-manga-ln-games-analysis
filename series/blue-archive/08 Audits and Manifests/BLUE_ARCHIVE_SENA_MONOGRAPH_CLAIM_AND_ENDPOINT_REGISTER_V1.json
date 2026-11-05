@@ -1,0 +1,1967 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_INSTALLATION_PENDING",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SENA_CHARACTER_MONOGRAPH.md",
+    "bytes": 72688,
+    "sha256": "fcb4271fda0863a71d1a0723417c82829921e64dc7fbdf3f2deddebe0867dd7a",
+    "git_blob_oid_of_actual_bytes": "89dd49d49114918d988fe1edf2a3864d508d1a38",
+    "lines": 297
+  },
+  "historical_frozen_claim_and_endpoint_register": {
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/BLUE_ARCHIVE_SENA_CHARACTER_MONOGRAPH.md",
+      "bytes": 70976,
+      "sha256": "beeaa1ecc229e28ca4d7de1e6a1bc8a45299753ec802287eeb449a3dedaf67e3",
+      "git_blob_sha1": "89df8c9b36b7d75f1df4492b2c9d39319a2c8757",
+      "lines": 284
+    },
+    "claims": [
+      {
+        "claim_id": "SENA-CLAIM-001",
+        "claim": "Care and coercion coexist; beneficial ends do not settle recipient experience",
+        "body_line": 21,
+        "body_block_id": "SENA-BLOCK-006",
+        "body_paragraph_text": "Sena's central literary tension is between a responsibility she can state very clearly and a tendency to make that responsibility authorize too much. She accepts patients across school lines, helps when the adult is incapacitated, values another clinician's work and later rejects a rationale that treated mass injury as beneficial surgery. Those acts establish genuine care and a capacity for criticism. They coexist with an officer left unconscious, painful awakening challenged by the victim and peers, gun-related treatment objections, and explicitly forced feeding after a welcome gift. An adequate account has to retain the practical good and the recipient who objects to its means. Her own claim that an intervention is safe cannot settle that tension. [Eden09] [Eden11] [Eden18] [E81818] [S2E020] [E844] [Gift062]",
+        "body_paragraph_sha256": "eb2d2c679e0aac717d5d0aa052ff3ac620c2ab068cbbcd0e0f80d1db97e0a13c",
+        "supports": [
+          {
+            "input_id": "SENA-IN-026",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E009_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E009_DEEP_READING.md",
+            "bytes": 7469,
+            "sha256": "94bcc860dae2a747afdc69dc70200c43bbe1bf65eb71d815879eb2b70a143a91",
+            "git_blob_sha1": "8e6ef014c0791507dc54e712efd9ef05b5657b66",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "d4d867"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-037",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_062_80000062_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_810_EPISODE_062_80000062_DEEP_READING.md",
+            "bytes": 7860,
+            "sha256": "3ef32ba9999e3d9824b3ce3a42145318864502582afe1519076b3967614a89fc",
+            "git_blob_sha1": "f5c44ca6594a73e10b57e00241e73d0760e58a9c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  71
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "b12d53"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Keep actual aid/taste and protests/forced feeding together; no blanket consent, cure or moral acquittal",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-002",
+        "claim": "Ordinary private repertoire has intrinsic significance",
+        "body_line": 23,
+        "body_block_id": "SENA-BLOCK-007",
+        "body_paragraph_text": "Her ordinary wants give this question a positive object. She anticipates a day off, completes a craft, looks at the sea, notices a cafe, enjoys a picnic and a meal, experiments with clothes and a borrowed phrase, and tries to ask for company without making every wish an order. These are ways of living that care can preserve. They are also her own pleasures, deserving analysis without being converted into evidence that she is a successful professional. The picnic need not cure fatigue, the craft need not improve public safety, and the horizon need not become a rescue. Their significance is that someone whose habitual vocabulary organizes people as patients also wants an interval in which no one needs to become one. CURRENT001–003/006–011 make that ordinary range explicit. [G20]",
+        "body_paragraph_sha256": "dfb13dbf4ddaf70d4df47aa2a68b63882569b420be69988e8e7667d9f153184d",
+        "supports": [
+          {
+            "input_id": "SENA-IN-002",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2925,
+            "sha256": "3cc4dd1501f3ae7989c32141b492b24968c44f94f9f34f7af2220840f1c47594",
+            "git_blob_sha1": "c40f5549cf22d07ca7d814d31ec5f8b1c7d851aa",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-003",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_002_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_002_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2699,
+            "sha256": "beac18d6302d7df2e08605373ef0574cb0e4212c5695a2bf74d2e2fc30cd1847",
+            "git_blob_sha1": "bdb032049d54f91d31013e2008902532663f0c6b",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-004",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2720,
+            "sha256": "5152bf609879728d6bec9cbb73868cd0c15477d72391d0373c2efcdbb2e6dc6e",
+            "git_blob_sha1": "f505cc0399949f83af7da1b5234f35612182865c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-007",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_006_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_006_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2576,
+            "sha256": "a57bb1566d187e19133c5b950a0b3e148760eebb9ff37485e7e73c12bc87890f",
+            "git_blob_sha1": "c122f7621e5d030d4a815674216964b77bdae826",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-008",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2882,
+            "sha256": "f60944d29134e23e6bd49fe04b292e5b73bac71e5dfa1950f36425820a158485",
+            "git_blob_sha1": "5439e1e9daffeb7a019b31d194d28fc3a4cb65eb",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Craft/landscape/company do not require crisis relevance; conditional rescue is not enacted",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-003",
+        "claim": "Readiness and curiosity coexist with explicit no-incident wishes",
+        "body_line": 25,
+        "body_block_id": "SENA-BLOCK-008",
+        "body_paragraph_text": "Standby is therefore both a professional practice and a way Sena tries to remain near what she values. It can leave her unable to shop for a gift or travel freely; it can become an excuse for proximity; it can let a replacement's arrival mark the end of a peaceful conversation. The same readiness cannot be read as a uniform desire for emergencies. CURRENT001 explicitly prefers no incident, EVENT811001 values peace because emergency work is absent, and written844 responses wish for quiet while retaining spectacle curiosity. The contradiction is meaningful because the desire for an interesting scene survives beside the wish that no one be hurt. A joke or apology limits what we infer about intention, but does not remove the earlier fascination from her repertoire. [G20] [E811] [E844]",
+        "body_paragraph_sha256": "e77c05b7ffaccf17c03286cc4a51e267c4b80ea1748f99881d6462f1cafa33ab",
+        "supports": [
+          {
+            "input_id": "SENA-IN-002",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2925,
+            "sha256": "3cc4dd1501f3ae7989c32141b492b24968c44f94f9f34f7af2220840f1c47594",
+            "git_blob_sha1": "c40f5549cf22d07ca7d814d31ec5f8b1c7d851aa",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-012",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_011_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_011_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "bytes": 2866,
+            "sha256": "13010de83d2a5a13ce8f9dbf15e26d05e35e4fa633a0c7c981b0a352897b500f",
+            "git_blob_sha1": "c39fdc94fac846df27b06d9553feb41dba26db37",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-019",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 21750,
+            "sha256": "8eb34eb0d4788b0fa54f62a5de5ba6f96d358978b47c42bff0182ad41ef37745",
+            "git_blob_sha1": "6f85372add8a9402297c5911b8c5f562f486e69e",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  126
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "03fc58"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-021",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_sha1": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  119
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "0c9b3c"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "No stable wish for casualties; joke/apology does not erase curiosity; no global chronology",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-004",
+        "claim": "Sena remembers and rejects her conquest-as-treatment rationale",
+        "body_line": 29,
+        "body_block_id": "SENA-BLOCK-010",
+        "body_paragraph_text": "The most serious public revision makes the issue explicit. In S2V002 C002E002 Sena preserves affection and pride toward Chinatsu while describing conquest as necessary treatment, with casualties as tolerable bleeding. In E020 she recalls that language, calls it sophistry and insists the words cannot simply be erased. She restates medicine as resisting even avoidable blood loss. This is Sena's own moral work, not an approval borrowed from a younger colleague's separate monograph. It changes her articulated criterion of care, but the proposed joint inspection remains a proposal. The literary achievement is accountable self-correction under an unfinished practical duty. It is not an institutional acquittal or a guarantee that all other intrusive means have been reconsidered. [S2E002] [S2E020]",
+        "body_paragraph_sha256": "1e128a67195967bf5cee70bd2019ce9badc114206d361aa18b421a89484bb112",
+        "supports": [
+          {
+            "input_id": "SENA-IN-023",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_sha1": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-024",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_sha1": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Her own stated correction is meaningful; proposed joint inspection unexecuted, all other force not retrospectively condemned",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-005",
+        "claim": "Early transfer uses medical framing with actual loading",
+        "body_line": 35,
+        "body_block_id": "SENA-BLOCK-013",
+        "body_paragraph_text": "The early Eden encounter gives Sena a concrete public introduction through transport rather than a timeless personality description. V003 C002E007 has an Emergency Medicine vehicle arrive at the bridge, a delivery list of three injured and one hostage, and a corpse-to-injured correction. Hina says Emergency Medicine's presence is the chosen public presentation because it is less politically entangled than a Prefect handoff. Loading is supported by Sena's confirmation, farewells and Fuuka's relieved response. The list does not certify injury grades; transport does not print subsequent treatment or lawful detention. This starting point nevertheless locates Sena's practical work in a world where medical appearance can mediate school antagonism and conceal the politics of a transfer. [Eden207]",
+        "body_paragraph_sha256": "41b57b1447917a32d82ee6195513dbcbba0626d2a5e1727e794b23fd2cce25ff",
+        "supports": [
+          {
+            "input_id": "SENA-IN-025",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_E007_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C002_E007_DEEP_READING.md",
+            "bytes": 12056,
+            "sha256": "4c03ef4d6379ee4d50396eeac382336e12190dbcceeb4275bf0519f922dd35f6",
+            "git_blob_sha1": "605ca397161f010965b49f3f46e7bed9bce71b38",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  61
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Three injured/one hostage delivery list does not certify injuries, later cure or lawful detention",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-006",
+        "claim": "First aid and protected ambulance passage preserve independent helpers",
+        "body_line": 37,
+        "body_block_id": "SENA-BLOCK-014",
+        "body_paragraph_text": "C003E009 then makes care an urgent answer to the adult's vulnerability. Hina rallies and calls Sena; the emergency vehicle reaches Sensei, whom Saori has shot. Sena identifies dangerous bleeding and begins first aid. Saori's expectation that a halo-less outsider will die is contested by the living patient and begun intervention. E010 repeats that separation by refusing to let Saori's termination belief replace E009's care state. E011 brings the ambulance to Trinity's fifth gate, where students threaten it because they assume a Gehenna enemy is inside. Rescue Knights and Suzumi independently oppose that attack. Sena's thanks and disclosure that the patient is Sensei belong to the achieved passage/care encounter; they do not make the other helpers extensions of her will. [Eden09] [Eden10] [Eden11]",
+        "body_paragraph_sha256": "acde77e8c0eea319e5944cdc46521409dae0ab3c1ec7ba327854467535798501",
+        "supports": [
+          {
+            "input_id": "SENA-IN-026",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E009_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E009_DEEP_READING.md",
+            "bytes": 7469,
+            "sha256": "94bcc860dae2a747afdc69dc70200c43bbe1bf65eb71d815879eb2b70a143a91",
+            "git_blob_sha1": "8e6ef014c0791507dc54e712efd9ef05b5657b66",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "d4d867"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-027",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E010_DEEP_READING.md",
+            "bytes": 9391,
+            "sha256": "f378301e2032268d5094b8e4b32eeadc2c32e8a614cbb438cf7b7ec6e324d3bd",
+            "git_blob_sha1": "2f4152c9c8c68390751e8403d55832bdc9a28c0c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  61
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "d4d867"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-028",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E011_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E011_DEEP_READING.md",
+            "bytes": 9331,
+            "sha256": "5181680ed6ca5dbfbaf3c73a8326643f7f9ef1e225d336706b843ee64cd37495",
+            "git_blob_sha1": "e24e8bd7b364b42a4a61afcd37f274cbcf6c9abd",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  67
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "d4d867"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Saori death expectation is not outcome; Knights/Suzumi independent, no hospital/cure in gate unit",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-007",
+        "claim": "Later report, observed awakening and thanks extend actual care success",
+        "body_line": 39,
+        "body_block_id": "SENA-BLOCK-015",
+        "body_paragraph_text": "The sequence develops through changed evidence modes. E012 relays a medical-room update: heavy blood loss, first aid, apparently no immediate fatal danger, still unconscious. It is a secondhand report. E016 directly shows Sensei open their eyes and sit up, and the episode also shows Sena directing rescue and intensive care. E018 gives Sena a direct encounter with the responsive adult and her statement that treating an adult was new and appears to have worked. Sensei thanks her. The move from intervention to reported condition to observed awakening and acknowledged treatment is real. It supports a bounded care success without inventing an isolated rescue mechanism, complete healing or a success rate for the club. An argument that keeps every stage permanently at “unverified” would lose the later evidence just as an argument that declares full recovery at E009 would anticipate it. [Eden12] [Eden16] [Eden18]",
+        "body_paragraph_sha256": "86242f6aa6913d4831e12d672927f5ec4ddbd36ed7f0f907a7502f638ba61804",
+        "supports": [
+          {
+            "input_id": "SENA-IN-029",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E012_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E012_DEEP_READING.md",
+            "bytes": 6038,
+            "sha256": "3e7be0ad27f04d36e09bee9bdeee3621ed1b6944d064280f4064efdac02a2474",
+            "git_blob_sha1": "b8bf84e3ae0a7592affc800092917c77e8e1d28f",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  53
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "d4d867"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-030",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E016_DEEP_READING.md",
+            "bytes": 10050,
+            "sha256": "0b058069cac89d2d0b6eda4eb7dcbd5dca34e2d6bc34427f488bfcebe03b26f9",
+            "git_blob_sha1": "29c48ca794c0f76a8791291a82d8800553ef7c6a",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  61
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-031",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_E018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V003_C003_E018_DEEP_READING.md",
+            "bytes": 6085,
+            "sha256": "9ee4a1a5567665aaa8691c1f35e6bc8fc11875de45d850a437e9a22966a53bfa",
+            "git_blob_sha1": "257c9205388504c65b7df2d8888466fba626abc2",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  51
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Modes report/direct differ; crosscut not precise simultaneous timing; no complete cure or isolated mechanism",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-008",
+        "claim": "Final coalition assignments differ from corroborated civic help",
+        "body_line": 41,
+        "body_block_id": "SENA-BLOCK-016",
+        "body_paragraph_text": "Final C002E002 places Emergency Medicine within distributed district protection, while preserving Sena/Chinatsu label inversions in the Gehenna exchange. The coalition's assignments and promises are distinct from completed evacuation. E011 gives a more specific civic endpoint: Sena corroborates that Satsuki and Pandemonium helped guide citizens to shelters and shortened the process. Her testimony matters because she credits useful action across office antagonism rather than echoing only the Prefect suspicion. It is corroboration of a local contribution, not an evacuation census or an explanation of Makoto's separate plan. The public role grows through cooperative witnessing as well as direct care. [Final02] [Final11]",
+        "body_paragraph_sha256": "319b1fec0d1b92646fa0a24e75d132d931893b1cf624bbe08eaed25cc9ce4a41",
+        "supports": [
+          {
+            "input_id": "SENA-IN-033",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+            "bytes": 8889,
+            "sha256": "d630c4abc79e08951a469e0f45703bca766026750a09e433ae6b14cb1ed54d8d",
+            "git_blob_sha1": "cf44268b1ea44a1ead03cf47bf0335b637d8adf9",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-034",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E011_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V100_C002_E011_DEEP_READING.md",
+            "bytes": 3302,
+            "sha256": "fefc7ae9097903e1d793e57482da2c617144f31831d7751870d79c06834685bf",
+            "git_blob_sha1": "7215152a0ab5079c39f0b8f64ac1637597675bbc",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  32
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Promise not evacuation completion; Sena credits local Pandemonium help, not census allsafe or hypnosis validation",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-009",
+        "claim": "Mine awakening/request/lapse and promised delivery have distinct endpoint",
+        "body_line": 43,
+        "body_block_id": "SENA-BLOCK-017",
+        "body_paragraph_text": "V006 C002E004 supplies another care sequence with its own ending. Sena directly arrives after a separately summoned call, reports normal vitals and qualifies a bad feeling as field intuition. Mine briefly wakes, makes a personal request about Arius ordinary life, then loses consciousness again. Sena reads the awakening positively, promises delivery and leaves. The endpoint is departure with a patient, not arrival at the destination, full recovery or confirmation of the threatened ontology. This is a further situated demonstration of readiness and of the difference between a clinician's confidence and an unopened outcome. It should not be merged with the earlier adult treatment simply because both scenes contain an ambulance. [V6E004]",
+        "body_paragraph_sha256": "1e7a922406276695d68539e1dc7b8f04bac58fe74cd15a909802f7392ea3d74a",
+        "supports": [
+          {
+            "input_id": "SENA-IN-032",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C002_E004_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V006_C002_E004_DEEP_READING.md",
+            "bytes": 8686,
+            "sha256": "540992f473223986c68276bc1a8b58d0e1883995449781e580eafcc45e5b71a3",
+            "git_blob_sha1": "0dd0b271b06a3f317f49cbf549cef5f83571fb67",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  55
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Normal vitals and intuition reported; departure not destination arrival or cure; no clinical ontology diagnosis",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-010",
+        "claim": "Whole MM documentary pairs do not establish global calendar",
+        "body_line": 47,
+        "body_block_id": "SENA-BLOCK-019",
+        "body_paragraph_text": "The private family adds local developments without becoming a second global calendar. Whole linked MomoTalk bodies and Schedule records establish documentary pairs for10113 stories002/003/005 and20012 stories002/003/005/006. A prerequisite or outside NextGroupId is not the body of the next encounter. CURRENT005's relevant Favor record is interior6/8; two later care messages remain part of the same whole thread. Those messages alter the account of aftercare but do not place the outing after a MAIN crisis. The casual and base variants identify selected representations of the same typed family; their number, clothing and release order cannot decide psychological development. [G20]",
+        "body_paragraph_sha256": "1c4cf695465f3ea1c534e8d382b1c295973b31a245a2a4436d580e14df792938",
+        "supports": [
+          {
+            "input_id": "SENA-IN-006",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_005_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_005_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2937,
+            "sha256": "49caadd4362d228e590ac23d429bb08e03d144d35de5b43b2bc0c243b06f8549",
+            "git_blob_sha1": "2fa8748cff9042695fe27c1fcdc1ee2da7862f06",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-013",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_012_SENA_FAMILY_CHECKPOINT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_012_SENA_FAMILY_CHECKPOINT_V1.md",
+            "bytes": 4302,
+            "sha256": "5a12f15f7306655c4bec9b8ba7230935b33374bc15d18732ce4da5b3954d1b5c",
+            "git_blob_sha1": "1418a14231793f09cf61615a05de34f620735ba0",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  31
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Favor interior6/8 versus terminal8; later caremessages retained; variants/release not development chronology",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-011",
+        "claim": "Admitted hypothermia pretext makes desired proximity legible",
+        "body_line": 55,
+        "body_block_id": "SENA-BLOCK-023",
+        "body_paragraph_text": "CURRENT001 is especially revealing because the medical explanation for proximity is eventually admitted as a pretext. Hypothermia is no longer a clinical claim at that point; the explanation is a hesitant interpersonal strategy. Japanese permission language and Korean necessary-distance wording remain different. We can locate the desire for closeness without turning either version into general bodily permission. Her personal expression is sometimes circuitous because the language of duty is a familiar way to make it speakable. That interpretation explains the scene more economically than either a literal clinical reading or the claim that all medicine is merely a disguise for affection.",
+        "body_paragraph_sha256": "56d288641c170da94917bb8a910264a2820cd72d17acc64a4563eb900dc290b2",
+        "supports": [
+          {
+            "input_id": "SENA-IN-002",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2925,
+            "sha256": "3cc4dd1501f3ae7989c32141b492b24968c44f94f9f34f7af2220840f1c47594",
+            "git_blob_sha1": "c40f5549cf22d07ca7d814d31ec5f8b1c7d851aa",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "JP permission/KR distance different; no general bodily permission or mutual category",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-012",
+        "claim": "Written repertoire includes recipient-sensitive language variation",
+        "body_line": 57,
+        "body_block_id": "SENA-BLOCK-024",
+        "body_paragraph_text": "Written baselines retain both professional and ordinary registers. The casual profile and normal dialogue value clothes, shared standby, holidays and new expression; the base profile preserves hobbies, birthday surprise and two-person wishes. The birthday first-bite offer in Japanese differs from Korean feeding wording, and the rest line can change its recipient between Sena and Sensei. These are not performed meetings. Their value is a repertoire of conditional self-expression, shaped by the specific written situation. A holiday greeting can broaden what she values without proving an annual ritual or a relationship stage. [G20]",
+        "body_paragraph_sha256": "20c4c142f99901b2f60b78ce0f925dcf44b4549e5cfb2dc979154a3b382f6f48",
+        "supports": [
+          {
+            "input_id": "SENA-IN-009",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_008_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_008_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "bytes": 2715,
+            "sha256": "15fd2111a3c278e724223be373b5be9ea75242895eb290dfaa4f8ff3910b3212",
+            "git_blob_sha1": "8f2fb40519677d26573ff7c0c57b4d83f74a21f3",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-010",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_009_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_009_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "bytes": 2936,
+            "sha256": "5f113709a9f8d736976e4aa3331f2a40bbf8ddb1bf512f84c017e0bbc7e75f1d",
+            "git_blob_sha1": "100e85108d024d7f3c452be0176a484f0a9379c2",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Conditional greeting not actual ritual; JP Sena/KR Sensei restactor; firstbite/feeding not performed",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-013",
+        "claim": "Shop/mission and personal-contact refusals qualify access",
+        "body_line": 59,
+        "body_block_id": "SENA-BLOCK-025",
+        "body_paragraph_text": "Private self also includes constraints on access. The shop refuses to treat Sena as merchandise or supply a free giveaway, and mission wording says she cannot take over the adult's work. MINI70002020 gives a locally agreed exception to her reluctance about personal patient contact, followed by an unaccepted crepe offer. These small limits prevent a reading of unlimited service or universal intimacy. They do not yield the opposite rule that she always keeps professional and personal relationships separate. The point is her situated ability to permit, refuse or qualify an invitation. [G20] [Mini020]",
+        "body_paragraph_sha256": "26d58ebffa3c5e1b049d5ab01042dddf89e5eb7b9be3359f62c51bac28ed1bb7",
+        "supports": [
+          {
+            "input_id": "SENA-IN-011",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_010_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_010_SENA_COMPLETE_WRITTEN_BASELINE_V1.md",
+            "bytes": 2471,
+            "sha256": "c517dfde27e5bf7a15d240ee6b17e1e0f910d4368ee6124f8e324fe6abb8b4b4",
+            "git_blob_sha1": "dc0c97a0f755ac1f6f3cc8cdaa401464f55c29bc",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-040",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_erika_relevant_mini002_source_scope_20261004_v1/current_mini_source_bounded_arguments_20261004_v1/distinct_only_two_new_otedama_gonggi_locale_literal_successor_v3/immutable_complete_successors/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "bytes": 9369,
+            "sha256": "1bcf1fe0aa3d6b7484d3103f45bb2e75b229c5dddff6b200beb6c11af30f4448",
+            "git_blob_sha1": "2f09f6f1ac013f697c62a66ce5ab775bced65b7b",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  65
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "2388b7"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Refused merchandise/freegiveaway/takeover not universal separation; contact agreement not transmission/outing",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-014",
+        "claim": "Actual cross-school clinic care changes a local patient expectation",
+        "body_line": 69,
+        "body_block_id": "SENA-BLOCK-030",
+        "body_paragraph_text": "EVENT818018 gives that norm a fuller local expression. Sena states that accepted patients are their responsibility regardless of status or identity, and Serina credits her with locating and transporting the Justice member. The patient had doubted receiving Gehenna help and now apologizes after actual assistance. This is stronger than a slogan: a particular prejudiced expectation is confronted by a received service. It is weaker than a proof that every clinic treats all patients equally or that no alleged misconduct exists. Serina's reassuring denial of rumors and Sena's decision to cease suspicion remain interpersonal judgments made after this shared work. [E81818]",
+        "body_paragraph_sha256": "55f25bd2a0793a6ee08120cf8b7c2e37a89f13388c730b78edbf06ef4b5a2990",
+        "supports": [
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Patient apology and Sena gratitude/learning genuine, not all clinics equal or all rumors disproved",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-015",
+        "claim": "Clinic tasks and closed-room explanation preserve roles and reports",
+        "body_line": 71,
+        "body_block_id": "SENA-BLOCK-031",
+        "body_paragraph_text": "The station in E006 adds resources and access limits. Clinicians describe heavy demand, request supplies and prepare care; Sena's secure turns concern a splint, with the raw text-actor witness also assigning the gauze request to her despite a Serina display label. The injured Genbu clerk remains a distinct local person, not Rumi. Both medics block entry to a room and offer a critically injured-patient explanation. Their authority to control access does not make the concealed patient or one-hour recovery claim inspected fact. The practical institution includes triage, supply tasks, guarded space and people unsettled by its language. [E81806]",
+        "body_paragraph_sha256": "f95322baef6515651abd1b2bb22ded3589641949493aefc5bc4caf88bab18ade",
+        "supports": [
+          {
+            "input_id": "SENA-IN-038",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_006_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_006_DEEP_READING.md",
+            "bytes": 7385,
+            "sha256": "5d2c19c9beee81cc47796f201eada47a7bffb626c1f293680c04bfa2b5889bf8",
+            "git_blob_sha1": "5fd0074ee95c8c513929c453bee81917995e8147",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Raw actor76Sena/79clerk/86Serina; injured Genbu clerk not Rumi; hidden room/onehour claim uninspected",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-016",
+        "claim": "Conquest medical metaphor is rejected but inspection remains proposed",
+        "body_line": 75,
+        "body_block_id": "SENA-BLOCK-033",
+        "body_paragraph_text": "The conquest episode demonstrates how a broadly stated jurisdiction can be corrupted. Kivotos becomes a figurative patient, plural school orders become a disease, and Gehenna conquest becomes treatment. The medical metaphor changes scale until injured students and civilians are accepted as surgical bleeding. No clinical finding supplies that necessity. Chinatsu challenges it as a moral proposition concerning people who would suffer. Sena's later rejection returns medicine to resisting avoidable blood loss, but also acknowledges that leadership must answer for language already used. Her proposed joint inspection is an institutional response in prospect, with Chinatsu intending to relay it; the monograph cannot call that inspection completed. [S2E002] [S2E020]",
+        "body_paragraph_sha256": "ea70395d0a32c20208fe509c2445a356d29847537cd9a8374ff4d553dc6648df",
+        "supports": [
+          {
+            "input_id": "SENA-IN-023",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_sha1": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-024",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_sha1": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "No clinical necessity for conquest, source-isolated cause, completed repair or erased prior language",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-017",
+        "claim": "Craft actually finishes before a meal decision",
+        "body_line": 83,
+        "body_block_id": "SENA-BLOCK-037",
+        "body_paragraph_text": "CURRENT002 gives craft a similarly concrete endpoint. Maintenance activity, a reported twenty-seven-minute wait and colleagues' concern about rest place the encounter near professional habits. The craft itself is completed. Choosing to go eat afterward is a next action, not a printed meal or cleanup. That distinction does not demote the intention: wanting a reward after quiet making is part of the character. It prevents the reader from manufacturing a more complete enjoyable day than this object contains. Japanese meal and Korean lunch remain specific versions of the future activity, rather than a shared extra event.",
+        "body_paragraph_sha256": "f583cb05baa616f31da463c706b489b7cdb1cde1331ae13e2971236d29ec7a6f",
+        "supports": [
+          {
+            "input_id": "SENA-IN-003",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_002_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_002_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2699,
+            "sha256": "beac18d6302d7df2e08605373ef0574cb0e4212c5695a2bf74d2e2fc30cd1847",
+            "git_blob_sha1": "bdb032049d54f91d31013e2008902532663f0c6b",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Reported27minwait; meal/cleanup not printed; JP meal/KR lunch separately specific",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-018",
+        "claim": "Sea/cafe/cycling are actual ordinary content with locale differences",
+        "body_line": 85,
+        "body_block_id": "SENA-BLOCK-038",
+        "body_paragraph_text": "CURRENT003 makes unfamiliar landscape and atmosphere valuable without rescue. Japanese says she has never seen the sea, Korean says she has not seen much of it; the two versions differently qualify newness. Horizon, cafe atmosphere, cost and food, then forest/cycling give the outing affirmative content. The adult's panting is inward narration, while collapse and aid are conditional. Japanese slowing and Korean leading/pulling have different physical emphases. If this were summarized only as conditional CPR, it would miss the scene's actual experiences. If it were summarized as a completed rescue, it would invent the event that the ordinary outing does not need.",
+        "body_paragraph_sha256": "e574224720eec811852caca3e517337ea9b0fd54c92bb0c9bdf9974abf0a7f05",
+        "supports": [
+          {
+            "input_id": "SENA-IN-004",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2720,
+            "sha256": "5152bf609879728d6bec9cbb73868cd0c15477d72391d0373c2efcdbb2e6dc6e",
+            "git_blob_sha1": "f505cc0399949f83af7da1b5234f35612182865c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "JP neversea/KRnotmuch; conditionalcollapse/CPR no rescue, adultpanting inward; generic actor seams remain",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-019",
+        "claim": "Picnic/usual-shop lunch achieve wanted shared pleasure",
+        "body_line": 87,
+        "body_block_id": "SENA-BLOCK-039",
+        "body_paragraph_text": "CURRENT006's picnic is a fulfilled local pleasure. Sena anticipates it, reports a long wait and wants the meeting less visible to colleagues. Japanese likes the picnic; Korean names it as a long-held wish. The food comes from the usual shop, not homemade preparation. The improved taste in company belongs to the scene's experience, with Korean's tree detail separately retained. A tentative date metaphor and alternative adult replies make her personal attempt legible but do not settle a relationship category. What is achieved is shared time and enjoyed lunch, an adequate ordinary endpoint in its own right.",
+        "body_paragraph_sha256": "9cdae47007116c2f9b962869e4471794caf8d1a95487322ab9b5d7c9124f9e8b",
+        "supports": [
+          {
+            "input_id": "SENA-IN-007",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_006_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_006_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2576,
+            "sha256": "a57bb1566d187e19133c5b950a0b3e148760eebb9ff37485e7e73c12bc87890f",
+            "git_blob_sha1": "c122f7621e5d030d4a815674216964b77bdae826",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Not homemade; waitreported1h27; datealternatives not mutualstage; JP5/6/KRempty retained",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-020",
+        "claim": "Meal/conversation and leftover branches have distinct endpoints",
+        "body_line": 89,
+        "body_block_id": "SENA-BLOCK-040",
+        "body_paragraph_text": "CURRENT007 shows another actual meal, followed by conversation until replacement and a peaceful night within that interval. The small leftover offer matters because its alternatives differ. One branch has acknowledgment; another has silence and a hygienic withdrawal. Neither narrates the food's handoff or consumption, including Sena's intended later eating of what she withdraws. The scene makes an offer, a possible limit and a changed proposal visible without turning them into a grand relational crisis. Her excited evening-work or future-talk wish becomes a pause, an apology about pressure and reassurance. Ordinary company can be desired intensely while still requiring room for the other person's response.",
+        "body_paragraph_sha256": "ecfa95b22507f25147aa5c520e3d8c9296eb401cc2d9ff5bdee652ed4c7d2c09",
+        "supports": [
+          {
+            "input_id": "SENA-IN-008",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2882,
+            "sha256": "f60944d29134e23e6bd49fe04b292e5b73bac71e5dfa1950f36425820a158485",
+            "git_blob_sha1": "5439e1e9daffeb7a019b31d194d28fc3a4cb65eb",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Actualmeal18 and interval untilreplacement; leftoverack/silence/withdrawal nohandoff/eating; healthreportqualified",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-021",
+        "claim": "Gift intention/appreciation/taste coexist with forced method",
+        "body_line": 93,
+        "body_block_id": "SENA-BLOCK-042",
+        "body_paragraph_text": "The gift in EVENT810062 adds a different achieved ordinary end. Standby and recent work constrain shopping. Sena reports improvising with ambulance materials; the adult notices bandage packaging, whose cleanliness is her assurance. She wants to avoid missing an occasion she would regret, worries about presentation and is relieved by appreciation. Her claim about composition, harmlessness and benefit remains her explanation, not a verified recipe. The closing Japanese narration does supply good chocolate taste and explicitly forced feeding. The positive result is real; so is the boundary failure. A gift can matter personally and taste pleasant while its method remains objectionable. That is a more demanding ordinary reading than either dismissing it as a corpse joke or declaring every action authorized by gratitude. [Gift062]",
+        "body_paragraph_sha256": "8b1d1fb8c8b27e3da84b928925e3dba996ee7feaf044f7f8a38d96765df0b38e",
+        "supports": [
+          {
+            "input_id": "SENA-IN-037",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_062_80000062_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_810_EPISODE_062_80000062_DEEP_READING.md",
+            "bytes": 7860,
+            "sha256": "3ef32ba9999e3d9824b3ce3a42145318864502582afe1519076b3967614a89fc",
+            "git_blob_sha1": "f5c44ca6594a73e10b57e00241e73d0760e58a9c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  71
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "b12d53"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Ambulance ingredients/cleanliness/benefit Sena assurance not verifiedrecipe; adult observesbandage;JP forcedfeeding/KRwithoutforce clause; no blanketconsent",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-022",
+        "claim": "Park-bench gifts and gratitude affirm ordinary civic goods",
+        "body_line": 95,
+        "body_block_id": "SENA-BLOCK-043",
+        "body_paragraph_text": "EVENT811009 locates everyday value in civic rather than exclusively private intimacy. Gifts are received and organized on a park bench. Sena appreciates advice, small problem-solving, visits and listening, alongside concern about the adult's risk and an uncertain admiration. Her claim that everyone is grateful and that things would have been worse without the adult is not a population survey or sole-cause demonstration. The local fulfilled exchange still gives protection an affirmative object: people can spend time, make something, listen or seek an answer. Her gratitude recognizes those ordinary goods while her proposed retreat to fortified Schale would constrain their continuation. The adult's reasons to continue patrol remain alternatives. [E811]",
+        "body_paragraph_sha256": "8cd526453bc8ea42e2bc3d3565e38f603851c1623353f925640162004c798d42",
+        "supports": [
+          {
+            "input_id": "SENA-IN-019",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+            "bytes": 21750,
+            "sha256": "8eb34eb0d4788b0fa54f62a5de5ba6f96d358978b47c42bff0182ad41ef37745",
+            "git_blob_sha1": "6f85372add8a9402297c5911b8c5f562f486e69e",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  126
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "03fc58"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Everyone/counterfactual not population/solecause proof; risky retreat proposal/uncertainadmiration not implemented universally",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-023",
+        "claim": "Patient custody boundary coexists with disputed force",
+        "body_line": 105,
+        "body_block_id": "SENA-BLOCK-048",
+        "body_paragraph_text": "The private patient-custody confrontation is harder. In CURRENT004 she refuses to relinquish a patient before treatment completion, or discharge in the Korean wording. That boundary can protect against an officer's competing demand. The officer's mastermind accusation remains an accusation. Sena then uses force, leaving the officer unconscious and ordering transport. Her no-wound and safety-mechanism account does not independently demonstrate that the action was safe or justified. Japanese shock language and Korean grenade-shock wording differ, as do the adult's inward excessive-force and nearly-kidnapping judgments. The outcome supplies a second person affected by the provider's decision. It cannot be erased by the first patient's legitimate need, nor does it erase the prior custody refusal. [G20]",
+        "body_paragraph_sha256": "01ecb90d5627dc85c60a3fc1979d4da39478d8dbb52e7700d859595d14920f16",
+        "supports": [
+          {
+            "input_id": "SENA-IN-005",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_004_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_004_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2919,
+            "sha256": "157a664d332ba6247631a2b69dbfbdc52e07e7c0507be7ec117f4421281f894e",
+            "git_blob_sha1": "785ceb816466abd67c3805f177784e9a60458908",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Accusation not adjudicated; officerunconscious/transport actual, safety no-wound unverified; no interrogation/cure",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-024",
+        "claim": "Research assistance achieves half-day work, not clinical cure",
+        "body_line": 107,
+        "body_block_id": "SENA-BLOCK-049",
+        "body_paragraph_text": "CURRENT005 gives a less violent care case with a precise practical success. The dizzy adult receives an assessment, and Sena organizes and mediates research so work expected to take a day finishes in half a day. Return to Schale occurs. This is useful assistance; the result being work completion rather than cure does not make it trivial. The complete MomoTalk tail adds aftercare reports, with the relevant Favor witness interior rather than terminal. Japanese hydration/spare towels and later laundry collection differ from Korean blanket/wet-towel/desk-medicine placement, immediate washing by the adult and later collection. The report does not witness placement, ingestion, completed laundry or recovered health. The scene supports task-effective care and attempted attention to the person, with clinical and recipient outcomes separately bounded.",
+        "body_paragraph_sha256": "ef7f6499dee1eb1542b4bd54dea264bba722ff051c9dcb4f200bdf0f71c4860d",
+        "supports": [
+          {
+            "input_id": "SENA-IN-006",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_005_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_005_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2937,
+            "sha256": "49caadd4362d228e590ac23d429bb08e03d144d35de5b43b2bc0c243b06f8549",
+            "git_blob_sha1": "2fa8748cff9042695fe27c1fcdc1ee2da7862f06",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "ReturnSchale actual; two tailaftercare reports locale-specific, placement/ingestion/laundry/recovery not witnessed",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-025",
+        "claim": "Iori care assessment and growth hypothesis are tentative",
+        "body_line": 109,
+        "body_block_id": "SENA-BLOCK-050",
+        "body_paragraph_text": "EVENT844 develops a more public adverse test. Sena and Chinatsu judge Iori's immediate danger after she is found unconscious and covered in sauce; Sena's explanation about the taste is explicitly tentative. Iori's later return supplies actual resumed participation, but not an isolated care mechanism. Sena observes changing traces and proposes that attacks make the slime grow, while admitting the consequences are still unknown. This is an in-world working hypothesis. Game and cinema references express a wanted repertoire; they neither explain the creature's biology nor make another person's distress insignificant. [E844]",
+        "body_paragraph_sha256": "604630d91d10d3d6f4fce4d27dfac4ec4767c00bc4767b43af1e2d58c45a2433",
+        "supports": [
+          {
+            "input_id": "SENA-IN-021",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_sha1": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  119
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "0c9b3c"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "LaterIori participation real but isolated clinicalmechanism unknown; slimehypothesis unknownconsequences, no validatedbiology",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-026",
+        "claim": "Painful method is challenged by victim and peers",
+        "body_line": 111,
+        "body_block_id": "SENA-BLOCK-051",
+        "body_paragraph_text": "The painful awakening in006 directly exposes the limits of her confidence. The victim protests, the adult and Fuuka object, and Chinatsu questions a method meant for other circumstances. Sena's universal-applicability and Gehenna-toughness assertions are not the reading's medical conclusion. A comment that the condition is nonfatal or naturally recoverable is not the patient's printed recovery. Her later sunrise/lunch/transport routine is countered by Chinatsu's reminder of Prefect and Hina labor. The scene contests both patient handling and the impression that institutional order is simply a background natural condition. It gives peers grounds to object without requiring them to prove that no useful care has ever occurred.",
+        "body_paragraph_sha256": "25f9460c5dbe6e47f01014b741b67fd590b53b843ceab9eecfd85f757dc33345",
+        "supports": [
+          {
+            "input_id": "SENA-IN-021",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_sha1": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  119
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "0c9b3c"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Toughness/universalapplicability Sena claims not medical conclusion; nonfatal/naturalrecovery comment not actualvictimcure; labor objection retained",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-027",
+        "claim": "Sena admits no solution and stops joking without owning others success",
+        "body_line": 113,
+        "body_block_id": "SENA-BLOCK-052",
+        "body_paragraph_text": "Her fascination becomes more difficult when Juri acts as a decoy and Ako is incapacitated. Sena reads the response as a film scene and eats popcorn; Fuuka challenges that detachment. Sena also admits that she has no solution in the blocked-authority crisis, and earlier stops joking when the target's scale becomes unmistakable. The changes are real local responses. They do not erase her previous minimization, establish that the victim accepted the treatment or assign Sena credit for Juri's initiative, Hina's bounded delegation, Teacher's order and the collective response. The event's eventual shared pancakes are Fuuka/Juri/Teacher's actual ordinary endpoint; it is not a personal clinical success that can be transferred to Sena.",
+        "body_paragraph_sha256": "74465b12165456384c44e777f719444a954fb06a0bbb72431e6082eecc290326",
+        "supports": [
+          {
+            "input_id": "SENA-IN-021",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 23127,
+            "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+            "git_blob_sha1": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  119
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "0c9b3c"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Detachment/protests remain; Juri initiative, Hina delegation and final Fuuka/Juri/Teacher pancakes independent",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-028",
+        "claim": "Mini treatment objections survive contact agreement",
+        "body_line": 115,
+        "body_block_id": "SENA-BLOCK-053",
+        "body_paragraph_text": "MINI70002020 preserves another recipient objection. Sena asks visitors to calm injured patients while she prepares injections. The patients object to treatment and want to return to fighting; the students' conversations about preferred foods become a form of company rather than proof of clinical qualification. Shot and collapse controls accompany Sena's statement that anesthesia is complete. They do not independently show an injection, consent, recovery or validated efficacy. Japanese questions pointing a gun at patients; Korean questions shooting them that way. The source thus gives both a provider's protective defense and a challenge to its means. The local agreement about later personal contact does not resolve the treatment objection retroactively. [Mini020]",
+        "body_paragraph_sha256": "cbb2c25e5d2addd474d80974b3c24018c4f6271de1d059016815a74c18feb425",
+        "supports": [
+          {
+            "input_id": "SENA-IN-040",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_erika_relevant_mini002_source_scope_20261004_v1/current_mini_source_bounded_arguments_20261004_v1/distinct_only_two_new_otedama_gonggi_locale_literal_successor_v3/immutable_complete_successors/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "bytes": 9369,
+            "sha256": "1bcf1fe0aa3d6b7484d3103f45bb2e75b229c5dddff6b200beb6c11af30f4448",
+            "git_blob_sha1": "2f09f6f1ac013f697c62a66ce5ab775bced65b7b",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  65
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "2388b7"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Anesthesia assertion+shot/collapse controls not witnessed injection/consent/cure; JPpoint/KRshoot distinction; foodwants intrinsic",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-029",
+        "claim": "Phone apology accepts responsibility under alternative reassurance",
+        "body_line": 129,
+        "body_block_id": "SENA-BLOCK-060",
+        "body_paragraph_text": "EVENT810003 gives Sena responsibility-taking after a different choice. She apologizes by phone for being deceived into leaving the adult's side. The offered reassurances either say the decision looked best then or acknowledge the adult's own failure to advise; her future-oriented maxim is her amplified interpretation. The adult questions the scale of her praise. Her desire for future joint activity remains wanted, and no restitution is printed. This is a relationship in which comfort can be received, overread and questioned, rather than an adult issuing all of Sena's principles. [E810003]",
+        "body_paragraph_sha256": "4334da556b31e75eeb2ece1aed84bac58002fe36ec46dc058dc8564166ef59cf",
+        "supports": [
+          {
+            "input_id": "SENA-IN-036",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_003_10009075_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_810_EPISODE_003_10009075_DEEP_READING.md",
+            "bytes": 14122,
+            "sha256": "c1b92c334f5fe82b1735c209fca1c7afb10389244ead54f5e44539c0d498483a",
+            "git_blob_sha1": "baf6d98ed682758ebfaccaca32f267b1006b261c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  100
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "b12d53"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Deceivedleaving genuine apology; amplifiedmaxim Sena interpretation, no restitution or future jointactivity execution",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-030",
+        "claim": "Former junior chooses a distinct role and can critique Sena",
+        "body_line": 139,
+        "body_block_id": "SENA-BLOCK-065",
+        "body_paragraph_text": "S2V002 C002E002 gives Sena's own account of the training relation. She had hoped Chinatsu might lead Emergency Medicine and worried whether leaving meant the club had failed her. Chinatsu states her reason independently: reaching repeated casualties sooner through the Prefect role, not dissatisfaction with Sena or the club. Sena affirms that each chose a place, expresses pride and trusts taught skills. Gratitude does not annul Chinatsu's separate reason for transfer, and Sena's earlier unspoken expectation does not give her ownership of the younger clinician's role. [S2E002]",
+        "body_paragraph_sha256": "4acf56f664ee231b736a8c095a4d18f39d1ea536a429cd5185db8a8c9c5e87a8",
+        "supports": [
+          {
+            "input_id": "SENA-IN-023",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_sha1": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-024",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_sha1": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Pride/trust not ownership; Chinatsu independentearlierresponse reason; direction analytic responsibility not invented counted package",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-031",
+        "claim": "Mutual clinic learning does not resolve absent allegations",
+        "body_line": 149,
+        "body_block_id": "SENA-BLOCK-070",
+        "body_paragraph_text": "In018 a Justice member's suspicion of Gehenna help meets Serina's credited account that Sena located and transported her. Sena's accepted-patient principle and the member's apology are specific relational acts. They neither eliminate every school prejudice nor prove a professional performance measure. Sena then thanks Serina, admires her manner, acknowledges things to learn and apologizes for earlier suspicion. Serina's denial of rumors and diversion from the ghostlike-nurse question are separate responses. The warm work gives Sena reason to revise her own expectation; it gives the analyst no warrant to dismiss all absent allegations. [E81818]",
+        "body_paragraph_sha256": "2d487150d7a76be7572b8dfb4a5761386f93dc8c7f85798e8d99dac66fa05c57",
+        "supports": [
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Patientapology, learning/thanks genuine; Serina rumor reassurance not allrumors false; actor seams preserved",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-032",
+        "claim": "Campfire and rumor ending remain prospective",
+        "body_line": 151,
+        "body_block_id": "SENA-BLOCK-071",
+        "body_paragraph_text": "The campfire invitation ends this relation in prospect. Sena first declines, then becomes interested through possible injuries. The final eager preparatory turn at018u0057 is raw Serina despite a Sena display; Sena securely postpones the rumor discussion at0058. Neither completed campfire attendance nor a hidden supernatural identity follows. This ending retains an ordinary invitation alongside Sena's professional frame, without supplying the shared outing that would make the relational development more complete.",
+        "body_paragraph_sha256": "04658438f0e1b0d504e3e6a8eae444be0da513764633f5f02a2efdd7dde7b26c",
+        "supports": [
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Raw57Serina despiteSena display; secure58Sena postponesrumors, no attendance/ghostidentity",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-033",
+        "claim": "Visitors keep chosen club future separate from care help",
+        "body_line": 161,
+        "body_block_id": "SENA-BLOCK-076",
+        "body_paragraph_text": "The mini visit has ordinary food conversation amid a care setting. Sena asks help, thanks the visitors and agrees to a personal-contact exception. Erika denies designing a deliberate calming strategy; Kirara wants crepes after recovery. Sena declines being bought one. Their pleasure in helping does not prove treatment efficacy, a delivered contact or a completed outing. Their later decision to choose none of the existing clubs also prevents the clinic visit from becoming implied membership. A visitor's own future can diverge from the host's valued role after a genuinely enjoyed exchange. [Mini020]",
+        "body_paragraph_sha256": "41dec96e21d0c1b79470575687fa31e399c909edcaa2528cb169f79dec98b410",
+        "supports": [
+          {
+            "input_id": "SENA-IN-040",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/kirara_erika_relevant_mini002_source_scope_20261004_v1/current_mini_source_bounded_arguments_20261004_v1/distinct_only_two_new_otedama_gonggi_locale_literal_successor_v3/immutable_complete_successors/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BA_ARGUMENT_MINI_70002020_KIRARA_ERIKA_DEEP_READING_V1.md",
+            "bytes": 9369,
+            "sha256": "1bcf1fe0aa3d6b7484d3103f45bb2e75b229c5dddff6b200beb6c11af30f4448",
+            "git_blob_sha1": "2f09f6f1ac013f697c62a66ce5ab775bced65b7b",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  65
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "2388b7"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Erika deniesdesignedstrategy; crepedeclined; contactnotdelivered; no inferredclinicmembership",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-034",
+        "claim": "Generic narration and written lines do not repair actor-empty intervals",
+        "body_line": 177,
+        "body_block_id": "SENA-BLOCK-084",
+        "body_paragraph_text": "Attribution limits remain consequential. BOND003's generic #st intervals u0064–0069/u0071–0077 and BOND007u0006–0017 are typed narration with empty person identity despite a Sena log name. VoiceId and timing do not silently identify them as her speech. Named #na, inward ns and formal choices remain different modes. Separately attributed written special lines cannot retrospectively repair the generic BOND interval. Typed sibling labels and raw addressed roles in CURRENT001 also remain unresolved; one expected personality or family convention cannot decide them. [G20]",
+        "body_paragraph_sha256": "6e1bc8c24a3aaa3dfefb417264620fefaf86c0f45df2a89210b4a8f0ab740ef0",
+        "supports": [
+          {
+            "input_id": "SENA-IN-004",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_003_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2720,
+            "sha256": "5152bf609879728d6bec9cbb73868cd0c15477d72391d0373c2efcdbb2e6dc6e",
+            "git_blob_sha1": "f505cc0399949f83af7da1b5234f35612182865c",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-008",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_007_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2882,
+            "sha256": "f60944d29134e23e6bd49fe04b292e5b73bac71e5dfa1950f36425820a158485",
+            "git_blob_sha1": "5439e1e9daffeb7a019b31d194d28fc3a4cb65eb",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  25
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "fa1806"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-002",
+            "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/sena_ROOT_first_source_author_review_20261004_v1/current_source_bounded_arguments_20261004_v1/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/CURRENT_001_SENA_WHOLE_BOND_MM_ARGUMENT_V1.md",
+            "bytes": 2925,
+            "sha256": "3cc4dd1501f3ae7989c32141b492b24968c44f94f9f34f7af2220840f1c47594",
+            "git_blob_sha1": "c40f5549cf22d07ca7d814d31ec5f8b1c7d851aa",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  23
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "5d132f"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "B00364–69/71–77 andB0076–17 narrationpersonempty; VoiceId/timing/style not attribution; siblingrolesunresolved",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-035",
+        "claim": "Public text-actor witnesses and probable inversions remain explicit",
+        "body_line": 179,
+        "body_block_id": "SENA-BLOCK-085",
+        "body_paragraph_text": "The public actors require equally literal treatment. In S2E002 the question and answer at0010–0011 both display Sena, but the former question context fits Chinatsu. In S2E020 the0077–0079 run displays Chinatsu while addressing her as a former junior and praising her; likely Sena context is quarantined, with a secure Sena label returning at0080. Final's Gehenna pledge exchange has Sena/Chinatsu inversions. EVENT818's complete small arguments positively preserve text-actor witnesses:006u0076 is Sena under a Serina display;018u0019 and0043 are Sena under other labels, while018u0028 and0057 are another actor under a Sena display. Those distinctions prevent a mistaken style or motive model from accumulating contradictory turns as if all were securely hers. [S2E002] [S2E020] [Final02] [E81806] [E81818]",
+        "body_paragraph_sha256": "541b0fcdc0350940183f121a1abf4e32fcfc9b2ce5e64048413c94e267c23389",
+        "supports": [
+          {
+            "input_id": "SENA-IN-023",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_sha1": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-024",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_sha1": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-033",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md",
+            "bytes": 8889,
+            "sha256": "d630c4abc79e08951a469e0f45703bca766026750a09e433ae6b14cb1ed54d8d",
+            "git_blob_sha1": "cf44268b1ea44a1ead03cf47bf0335b637d8adf9",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "89dafc"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-038",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_006_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_006_DEEP_READING.md",
+            "bytes": 7385,
+            "sha256": "5d2c19c9beee81cc47796f201eada47a7bffb626c1f293680c04bfa2b5889bf8",
+            "git_blob_sha1": "5fd0074ee95c8c513929c453bee81917995e8147",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  59
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "Likelycontext atS2E00210 andS2E02077–79 quarantined; E818raw76/19/43/28/57 handledliterally; no style repair or newpersonjoin",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      },
+      {
+        "claim_id": "SENA-CLAIM-036",
+        "claim": "Relation and institution questions survive character synthesis",
+        "body_line": 256,
+        "body_block_id": "SENA-BLOCK-116",
+        "body_paragraph_text": "The character home also does not complete separate significant relationship or institution questions. Sena–Chinatsu's former instruction, chosen role, disputed medical analogy and proposed joint work; Sena–Serina's clinic cooperation, mutual learning and rumor limits; Emergency Medicine's patient jurisdiction, force and resources; and the cross-school care network retain their source arguments here. Their eventual responsible allocation must preserve those differences. The current required-index literal Sena/EmergencyMedicine/RescueKnights inquiry positively establishes the character home only; it does not authorize a new counted relationship package or a claim that a broader existing home's aliases have been completely adjudicated. ROOT controls that scope decision. No relation or institutional completion is inferred from this monograph.",
+        "body_paragraph_sha256": "fde2b4dfcd96ae8306736ea5a10bede6081d7577aa98b5a5d54f9853603c3605",
+        "supports": [
+          {
+            "input_id": "SENA-IN-023",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E002_DEEP_READING.md",
+            "bytes": 4655,
+            "sha256": "fee3693f064b66211324aa362aa14f126586eae8449f41c1c1b26220dc17e1cd",
+            "git_blob_sha1": "831af4fdb955225e7bdf42828a58a127b6f389d1",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-024",
+            "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_MAIN_S2_V002_C002_E020_DEEP_READING.md",
+            "bytes": 6284,
+            "sha256": "b34bcd9795960392094b70713bc37f60d7f70533651da167f84625c8fc2fe5a1",
+            "git_blob_sha1": "f7c1f247fbc6f44a939e9eb363ba710025e15838",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  35
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "557805"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          },
+          {
+            "input_id": "SENA-IN-039",
+            "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "copy": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SENA_MONOGRAPH/inputs/BLUE_ARCHIVE_EVENT_818_EPISODE_018_DEEP_READING.md",
+            "bytes": 6912,
+            "sha256": "3d683889691df8cb1155b002bb01a28f8eedda8ada1813a5a82657be657d0d1f",
+            "git_blob_sha1": "7cc3a8c14c5fad991f47caa8c955af04c307e380",
+            "actual_receiving_scope": {
+              "mode": "COMPLETE_ANALYTICAL_ARGUMENT_RECEIVED_TO_PHYSICAL_EOF",
+              "line_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "actual_receiving_outputs": [
+                "1102b2"
+              ],
+              "new_primary_narrative_credit": 0,
+              "new_native_control_credit": 0,
+              "performed_audiovisual_credit": 0
+            }
+          }
+        ],
+        "claim_specific_limit": "PositivehomeP3-CHAR-SENA only in literalnarrow query; ROOTbroaderallocationowns control; noinvented countedhome/relcompletion",
+        "ROOT_acceptance": "PENDING",
+        "model_promotion": false
+      }
+    ],
+    "register_limit": "Claims are literary assertions bounded to received complete or explicit scoped accepted arguments; hashes and locators are exact metadata, not independent semantic acceptance. All14globalgapsOPEN; performed/newprimarycredit0; no denominator/relationship/home changes."
+  },
+  "historical_coordinates": "Original coordinates stay frozen. Complete canonical saved-line mappings govern current retrieval without retroactive source or other-package credit.",
+  "canonical_saved_line_mapping": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SENA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_source_or_literary_credit": 0
+}

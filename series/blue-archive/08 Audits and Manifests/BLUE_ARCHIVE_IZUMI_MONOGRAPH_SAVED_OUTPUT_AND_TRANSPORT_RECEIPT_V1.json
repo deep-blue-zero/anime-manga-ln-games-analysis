@@ -1,0 +1,1248 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-IZUMI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+    "bytes": 38469,
+    "sha256": "06ab92056d0af521408d54c34a91b9f20b7324f4a94f3adfa70ab616b47ab627",
+    "git_blob_oid_of_actual_bytes": "f76b5f4f87cfa48a3cd40c64203d6f9b22021067"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 37279,
+      "sha256": "e0f97fa48b11240afae2f44799b18a7765b67001c07742f24ee97b1f68772e2d",
+      "git_blob_oid_of_actual_bytes": "5552a052dbaa4d0b55f54dae19ceeb4533b1ca47",
+      "lines": 184
+    },
+    {
+      "path": "ROOT_IZUMI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5143,
+      "sha256": "a7f833bcb9f312437fce6cbb1f99bac4b60fdddd5555137801165c14cafdfafa",
+      "git_blob_oid_of_actual_bytes": "b85d4cd9de040beb1b9df36678c806049516a44d",
+      "lines": 80
+    },
+    {
+      "path": "GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 169532,
+      "sha256": "609b1213af43978e5868fac18b684b61920421a48f50386f7619c8e629055562",
+      "git_blob_oid_of_actual_bytes": "a663c0cadf91be915d82e123b80285c0e1ca994a",
+      "lines": 3272
+    },
+    {
+      "path": "GEHENNA_GOURMET_MONOGRAPHS/IZUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3599,
+      "sha256": "77c4178c7c2cd6fbea65c9e2fd535c7bea6450457edf811cfab46cd3cd301c5c",
+      "git_blob_oid_of_actual_bytes": "7167bb6dace107286615cc4df86e78945d4be4cd",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_GOURMET_MONOGRAPHS/IZUMI_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2065,
+      "sha256": "3abbc94dfb7359c54d9f1071b3fbaabfe26928d6691e2bec15416a4e71798f3a",
+      "git_blob_oid_of_actual_bytes": "fdd5f90315ce8efd96991d6c07151a694ef1c467",
+      "lines": 38
+    },
+    {
+      "path": "GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 13952,
+      "sha256": "f9c4a32728664895aaf7d5181a5fd2fd4331c94b4779c43f801f8e7f0c705832",
+      "git_blob_oid_of_actual_bytes": "4e0aa5205721ed2da18de524d6c28455f3c92103",
+      "lines": 70
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IZUMI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IZUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter authority, ROOT acceptance paragraph and declared authority-framing sentences change; no literary meaning, source endpoint, recipient boundary, source credit or identity route changes. Exhaustive saved line joins and changed ranges bind every line through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "7e24bc029d0d2a409ba1bafbd06731b0bf25083a2c4fdcba3b0b4a941d3f5d45",
+      "line_text": "scope: IZUMI_BOUNDED_LITERARY_SYNTHESIS"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 4,
+      "line_sha256": "48cec75a4e5107138d187aa434c9f6aab40e2c6afce7872c22eb45e058b07f6c",
+      "line_text": "person_key: BA_PERSON_IZUMI"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 5,
+      "line_sha256": "9f136469c3b635289f1447b89cd4f002089b2758f893c2f8089d160870bb8033",
+      "line_text": "required_home: P3-CHAR-IZUMI"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 6,
+      "line_sha256": "25df325a0df3be024b3e4c27929108f8f517cda997246aa4a61f5df8e4d298d7",
+      "line_text": "candidate_responsibility: P3-F099"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 7,
+      "line_sha256": "7dac5eb5b8a95a51cf439c807fd0c11fd6a23cfd463c4f572383e3aa28449ad5",
+      "line_text": "architecture: \"1.12; section7.1 eleven dimensions\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 8,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 9,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 10,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 11,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 12,
+      "line_sha256": "3dd080e2b61ae424ee1d968e88f7806cf402cf4dc2e0b60eab96bced588b3bd5",
+      "line_text": "source_boundary: \"Complete effective current17V3 private arguments and corrected comparisonV3 for27 selected BOND/whole-message/written objects; personally complete accepted public meanings and exact argument spans declared in receipt. One necessary bounded Japanese canonical queue-exchange recovery; no new whole-primary/native/raw/performed credit.\""
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 13,
+      "line_sha256": "43ab1ff4f365f558a26b7a8944f8e778786295bec05754bef830648c6ec71980",
+      "line_text": "authority_quartet: \"Current Cycle008 admission; qualified complete accepted analytical meanings with limits; historical reading order/authorship independence UNKNOWN; performed voice UNRECEIVED\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 14,
+      "line_sha256": "cb8659c21815a556ee745df1f579529b8f800d1ba5e20dbd370ea5e1e23c90b5",
+      "line_text": "retrospective_exposure: \"Prior complete meanings and endings exposed; retrospective synthesis, no independent primary or held-out prediction credit.\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 15,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 28,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 29,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 30,
+      "line_sha256": "0a5e226a08a870eaac7166348a8ae3ef8b390d96f2f83910e24adab7c5fe9d51",
+      "line_text": "# 獅子堂イズミ — her own pleasure, another person's portion"
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 34,
+      "line_sha256": "1d8e87797d61703f6ab1556848ce7b33b34667f2bd786dd8b1883f9799027c29",
+      "line_text": "## 1. Core thesis: sincere taste and reciprocal intention are different questions"
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 36,
+      "line_sha256": "b5ed675edad0999c5049250215ea2aa8670cc12fcea1dba86af4d6cf2b8fc4f4",
+      "line_text": "Izumi seeks unfamiliar tastes, but unfamiliarity is neither her only pleasure nor an unlimited instruction. She rejects extreme queue trades, dislikes particular menus, enjoys water play after disappointment, reconciles with a cat, shows gratitude for help and wants company. In New Year encounters she can recognize that she has left Sensei out, apologize and choose with his preferences in mind. Her ordinary repertoire contains judgment, vulnerability, consideration and imagination, not just a body capable of eating whatever the group finds strange. [I01–I17; I-CMP§1–2]"
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 38,
+      "line_sha256": "228ad4ed869ff35142d5f1a16d1be76777404b1871b7c4fb7edf394209cac790",
+      "line_text": "The right to take that pleasure seriously does not make it an adequate answer to another person's experience. The juice Izumi enjoys is offered beside Iori's distress and revised inspection outcome. Cookies she wants belong to a timed school provision. In MINI she can misread captive Fuuka's wishes while enjoying the requested food. In a private summer encounter an invitation precedes an uncomfortable ending, and in another the adult fades without an explicit tasted dose or established cause. Equal enjoyment, universal safety and consent are separate propositions. [G1601–1602; MINI06010/06020; I05/I08]"
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 40,
+      "line_sha256": "35246aadeca028043f9bae977d5f3b705d9f03c541dd4061837a435c1a1d45b4",
+      "line_text": "Her belonging is also contested. A recalled plea not to be abandoned contradicts the club's willing-sacrifice account, while Haruna's later desire to include her and shared residual aroma are positive evidence. Izumi can participate in disruptive club work and independently support giving someone else's food back. She is neither simply the club's disposable fool nor its innocent moral center. Her desires and choices need their own direction, including the occasions when another member fails her or she fails to understand a recipient. [G1101–1104; E848006]"
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 42,
+      "line_sha256": "1c10d164ca5adcf50a8691dd493ebdb5b597c90f19437eb7555d50c55d6444ba",
+      "line_text": "The strongest portrait concerns someone who wants to discover and share, whose sincere experience cannot decide another person's portion, taste or willingness. Actual successful making and appreciated meals matter beside adverse outcomes and unfinished promises. The thesis remains literary and bounded: it installs no immunity, genetic taste law, permanent reform, romance stage or prediction rule."
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 44,
+      "line_sha256": "f720b8e113ad25fe8d5c030dac4d161ddf17f6a1a0dea1d750a5fedcc20a44c1",
+      "line_text": "## 2. Longitudinal development: local responses without a manufactured calendar"
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 46,
+      "line_sha256": "575e30d7796872461062b2e15b3877f498e4637f3b082740fbdc3349a7857079",
+      "line_text": "The effective private scope is eleven BOND objects and eleven whole linked message threads, with three profile/normal objects and two event-written costumes. Literal10009,16006 and20043 identify source conditions of one bounded person;20043 is the New Year presentation. They do not establish a base→summer→New Year sequence of moral growth or a date against MAIN. Explicit local responses and message associations can support development at their own scale. A self-report of change is evidence of self-understanding rather than a measured new global state. [I01–I17; I14:raw9141–9144]"
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 48,
+      "line_sha256": "c8b565fb7cd072ea65f4285fc0ef9508664838778595cf67b81cfdea277a5041",
+      "line_text": "The base stories already complicate indiscriminate appetite. Exercise gives initiative and care through exertion and two prepared cups, without showing equal consumption or taste change. The scarce eel-jelly outing contains refused extravagant trades, actual purchase and separate tasting acts. The cat outing has real feeding, a bite and local forgiveness but no completed ramen meal or clinical recovery. The stolen-object encounter corrects a mistaken plastic-biting assumption, enacts pursuit/help and ends with recognition and an offered hot dog, not an explicit final bite. None is simply preparation for a later considerate self. [I01–I04]"
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 50,
+      "line_sha256": "2965a247967c0a2141f5061c3befe2d1980a3b90b8842797cff315596e808a25",
+      "line_text": "Summer material adds stronger distinctions among a shared setting, tasted pleasure and what the adult actually receives. Competitive anticipation gives mixed incentives, disappointment, offered rice/juice and an uncomfortable ending. The peanut-butter encounter gives actual adult chewing/swallowing and another pleasurable taste, followed by crowds and commercial attention whose cause is unaudited. Water play actually becomes enjoyable after a disappointing food tour, with help and a safe return but no completed octopus meal. The fruit-punch encounter gives Izumi's actual taste and later concern, yet no explicit adult ingestion before the fade. These are different results, not interchangeable eccentric-food jokes. [I05–I08]"
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 52,
+      "line_sha256": "ccd3e0e593d045aaa0a8cb9b6699034f943090f8618944cf4dad2b53b0959535",
+      "line_text": "The New Year arguments make reflection and recipient attention more explicit. Izumi describes her own food adventure and different club priorities; the adult's candy acceptance is not praise for the earlier takoyaki. Commissioned service is actually provided after a reported failed cooking attempt. Sensei declines, Izumi apologizes for leaving him out and reassurance follows; her next handmade meal remains promised. Chosen dishes and expressed happiness in the next account lead into a whole message thread that preserves later thanks, concern, warmth, another proposed adventure, his ordinary/moderate preference and goodnight. The added range of care is substantive without requiring a common taste or settled stage of intimacy. [I09–I11]"
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 54,
+      "line_sha256": "f84765dff77b4df83bcab0d7f76ba139339da3f89e729eeaeb1928a37dab9d04",
+      "line_text": "A defensible longitudinal account therefore keeps local learning and accommodation beside repeated risk, disappointment and incomplete results. It does not need a successful meal in every story, nor a single moment after which all food-sharing becomes considerate. The written claim that meeting Sensei changed her is sincere as a statement; her failure to name a concrete example constrains an analyst from supplying a completed transformation on her behalf. [I14; E810036]"
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 56,
+      "line_sha256": "a2cf504b0092dce36660e04ef56da8b1a4aced9dbfe27db583e558d3d45fa8b7",
+      "line_text": "## 3. Public and private: being included, making room for someone else"
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 58,
+      "line_sha256": "d88543bc2551aed09ec1d5260160727f400007b5876033a394470fa812c51558",
+      "line_text": "Public Izumi belongs to a club whose food interventions often become a problem for other people. Private Izumi can be a negotiator, helper, animal enthusiast, giver and concerned companion. This distinction supports comparison without granting the private evidence moral veto over public harm or treating every public appearance as a transparent expression of hidden affection. The family/MAIN comparison specifically separates local recipient-oriented meals from institutional supply obligations. A thoughtful dish does not fill an unfilled ration line. [I-CMP§1–4; S2C1/S2C2]"
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 60,
+      "line_sha256": "5f2606f152bd2400d35dc0bd1a869d13fb402149ab24d0defdb4eec9b06d04a9",
+      "line_text": "Her desire for inclusion has a serious public contrary case. In the truffle story the club tells a sacrifice account, but the recalled Izumi plea asks not to be abandoned. Haruna later wants to rescue her before tasting, and arrest/custody follow; residual aroma becomes actual shared pleasure after the dish itself is confiscated. Those endpoints show a real group bond and a real failure. A warm later tasting atmosphere cannot transform the earlier plea into volunteered exclusion. [G1101:u0010–0023/u0052–0065; G1102:u0001–0022]"
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 62,
+      "line_sha256": "fac3a48378db0d54003d436332c7f85985e961b1481978205d3bf6c8cc1e0dfb",
+      "line_text": "Private reciprocity gives the complementary question: whether she includes the companion on his own terms. In the commissioned New Year meal she is absorbed in her own actual tasting and apologizes after Sensei declines. The recipient's reassurance is local repair, not proof that he consumed the meal or that she cooked it herself. The later recipient-oriented dishes and full message exchange retain his preference for ordinary/moderate food. Company need not mean the other person has acquired her adventurous palate. [I10; I11:recipient reasoningu51–55; whole thread200430120]"
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 64,
+      "line_sha256": "cdf1e357f766c8bbf69d2733c3fa88e7d7a30928bf5b10c955b043635bbc800e",
+      "line_text": "Her successful chocolate-making account is a useful bridge. She wants actively to create ideal food and share it, researches/prepares unusual materials and participates in actual making. Adult anxiety gives way to actual unexpectedly harmonious taste and a delicious-but-not-chocolate qualification. The achievement is stronger than a hypothetical experiment, while categorical disagreement, venue permission and nutritional claims remain separate. Quiet shared making is intrinsically valuable and still answerable to the recipient's own description. [E810036:u0014–0043/raw14136–14195]"
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 66,
+      "line_sha256": "d5ebd9417fd34702e9531deddb00f745a9e1988642d7db2c3e504471ed1cd181",
+      "line_text": "The public/private synthesis consequently follows both directions of inclusion. Others can exclude or misinterpret her; she can overlook or accommodate another person's desire. Neither direction is made unimportant by humor or small stakes. Nor does either settle the whole club, teacher or institutional repair field."
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 68,
+      "line_sha256": "f561ad4a5f2b040ff6cff499db1c304c141455bcf2c00be1dfcb5bda27923fef",
+      "line_text": "## 4. School and club: belonging does not erase differences of taste or labor"
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 70,
+      "line_sha256": "1715aeee4ce6cfe191172fefbd1875c85a66e04220f9b8ae8fda2ee10e8ae112",
+      "line_text": "Izumi's written baseline places her in Gehenna's Gourmet Research Society. GROUP1602 explicitly identifies her as a Gourmet visitor rather than School Lunch member. Helping an inspection or being present in a kitchen does not transfer club membership, the cook's duties or institutional authority. The school supplies a setting for food desire, distribution, evaluation and work; it is not merely a background that authorizes consumption. [I12–I16; G1602:u0007/u0041]"
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 72,
+      "line_sha256": "a25b6242c356c255980ae4e7df199303a7598cbf3c88b64535a3ae34482d5ac5",
+      "line_text": "Her New Year account describes different Gourmet priorities: Haruna's novelty/experience, Akari's amount with taste, and Junko's uninterrupted eating in Japanese or urgency in Korean. These are Izumi's reports of peers, not independent readings of all their private lives. They nevertheless show that her own unfamiliar-taste interest is not a group consensus. In other group arguments peers directly dispute enforcement, flavor and selling a product. The monograph preserves both the reported interpretation and their separately represented acts. [I09; G1101–1104]"
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 74,
+      "line_sha256": "16bca87b28bb71342cc3c71e3b3b8da5d564c4886d4fb507da9f0ad934fa13fa",
+      "line_text": "The mint inquiry makes difference especially clear. Haruna's attempt at impartiality and the reported receptor classification fail to settle Izumi's felt pleasure. Hare refuses to make preference a disease; Izumi's enjoyment survives the result that surprises the group's expectations. That is positive agency in taste, with no empirical genetic model or pathological body required. The toothpaste/shampoo analogy does not itself enact another test, and pleasure alone does not decide whether a drink should be sold. [G1103:u0001–0064]"
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 76,
+      "line_sha256": "c4776a95d3238b878c8e09a50b160357c56018fa718df005905fc60c543ed497",
+      "line_text": "The School Lunch inspection supplies another distinction. Izumi arrives early for cookies and asks for even a little soup; Fuuka refuses because service timing and distribution matter. During inspection Izumi participates and connects hygiene with enjoyable eating, despite not being a member. Her positive cleanliness ethic coexists with earlier appetite overriding provision boundaries. The later juice pleasure beside Iori's distress makes her an unsuitable universal safety test, not a person whose pleasure can be discarded as unreal. [G1601:u0003–0028/u0057–0058; G1602:u0005–0007/u0090–0092]"
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 78,
+      "line_sha256": "dfe60b0882ba94a6759f6028206e3068b8547d5954294a1d823e69e1ca6e4018",
+      "line_text": "Club responsibility is therefore differentiated. Captive cooking, interrupted warnings and institutional penalties affect Fuuka/Juri and recipients whose own ends continue after a Gourmet scene. Helpful food work or useful advertising can be real without constituting a charter to raid supplies, judge others' safety or impose labor. Gourmet ensemble, School Lunch institution and their directed relations remain separate required syntheses. [G1104; G1901; E820; E841019; MINI06010/06020]"
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 80,
+      "line_sha256": "fbbe0bcccd07da6854ec0987bd2d6faa12f71c8c8060107d436b9919418001a6",
+      "line_text": "## 5. Ordinary life: curiosity has pauses, play and boundaries"
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 82,
+      "line_sha256": "4d5540abcd4f639c1927a4a87fd451416bb228117b4580440abe55da6549edc5",
+      "line_text": "Izumi's ordinary curiosity contains selection. The remote scarce-food outing includes rejected one-year noodles, six-month anmitsu and five-year company-sweets trades. In the necessarily recovered Japanese exchange, the adult's alternatives leave the decision to her or promise not to blame her. Izumi then explicitly refuses all offers because she came to eat this pudding with Sensei; the repeatedu37/u38 stay separate printed units. Actual eel-jelly purchase and individual tastes follow, without showing equal enjoyment or measured consumption. The choice favors a particular shared occasion over tempting future quantities, limiting an appetite account that would make every novelty irresistible. This small decision has substantial analytical force. [I02:raw132104–132116/raw132133/raw132143–132144; canonical `BA:bond:10009:003`:u21–42/G9–11]"
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 84,
+      "line_sha256": "8f6bd37d1a003cc8f5a7a737c16317332e33dd14d2ba32b076dd8260e73a4c7d",
+      "line_text": "Animal interest also has its own endpoint. The cat outing's ramen goal is interrupted; feeding, hurt and forgiveness still occur. The later stolen-item account corrects an initial assumption about biting plastic and gives actual pursuit, animal help, recognition and gratitude. Offered real hot dogs remain an offer at the endpoint. These scenes show curiosity, care and response to disruption without certifying animal immunity, supernatural luck or a permanently reliable helper. Omitting them would make her less particular and less vulnerable. [I03–I04]"
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 86,
+      "line_sha256": "6ab66f326e227be75dc085f26b825528325ffa35028cd438159d49adc38ffd18",
+      "line_text": "Food disappointment need not end pleasure. Izumi initially resists water activity after an unsatisfying tour, then actually plays and enjoys it. The explanation of her smile stays unfinished. Octopus separation and safe return occur, while a proposed bite is interrupted. Wanting food and enjoying a different activity can coexist; the analyst need not turn this scene into a romance stage or claim that she drank the saltwater because it prompts a food association she denies. [I07:u0045–0063; whole thread160060230]"
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 88,
+      "line_sha256": "fd74a1719342f7dde1bb0eba4ca2c745bced80921049ee88a88516288c9489ec",
+      "line_text": "Her imagination and anticipation are likewise ordinary evidence. The written summer baseline has a cooler, questions about shaved-ice syrup, a proposed edible swimming ring whose existence is denied, waiting until Sensei's work finishes and seasonal invitations. New Year writing includes birthday remembrance, written-down dates, uncertain loneliness and a declined hug accepted on the recipient's terms. Costume shop dialogue refuses free items despite poking and redirects attention to merchandise. A conditional Buy line is not an actual sale, but the boundary is still meaningful. [I13–I16]"
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 90,
+      "line_sha256": "8184608039f4f79cb35a8bcf9870070946654f490c4a201d315534a3b0fd04f8",
+      "line_text": "Ordinary craft can succeed. The peanut-butter encounter gives actual adult pleasure, with uninspected manufacture and unaudited business rescue. The gift gives actual making and unexpectedly pleasing taste, with ingredient/health explanations still participant claims. These results correct a failure-only expectation without producing a safe recipe, universal taste hierarchy or guarantee about the next invitation. The enjoyment, preparation pride and wanted shared time do not require such certification to count. [I06; E810036]"
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 92,
+      "line_sha256": "d708b5a49a6a25382cb39dc0f0c2ecae2c137240543e7da9ffcd619d3c8a87f2",
+      "line_text": "## 6. Crisis conduct: useful action, adverse means and unfinished repair"
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 94,
+      "line_sha256": "a3437cc52649d24a4d68d359e4b4a7c3b165ee206bceed9a5b885334caf8f7ab",
+      "line_text": "Izumi's crisis conduct must retain her own role rather than inherit the entire club's importance. MAIN S2V002's accepted whole account and chapter checkpoints put food/supply actions beside refusals, captivity and unfilled institutional obligations. Her private recipient attention contextualizes a person's possibilities; it does not demonstrate her appearance in every summary or relief of every burden. The comparison is literary, not a retrospective mechanism that predicts a completed supply solution from enthusiasm for sharing. [S2C1/S2C2/current working account; I-CMP§1–4]"
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 96,
+      "line_sha256": "b869f2962c9b9a8e5a0a14ce9c2a11827bbf5d2c9c51448f89b5999ac314caa1",
+      "line_text": "EVENT820 supplies meaningful work beside coercive beginnings and different economic interests. The Gourmet purpose, owner constraints, cooks' interrupted wishes, customer price differences, later chosen help, competition and final provision have different actors and degrees of completion. Izumi's food enthusiasm belongs within that collective account, but the announced win and provision do not make her sole rescuer, verify a food business or retroactively consent for captive cooks. Roof concerns about possible displacement of opposing workers and the final disruptive report keep costs open. [E820002–015]"
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 98,
+      "line_sha256": "3c6b26b4194dfbf29ece30c0234820a207f31105a8060e175c22cdd90fb73e04",
+      "line_text": "Final/Ark evidence likewise distributes initiative. Izumi's desire for space food is a wish, alongside qualified volunteering and other participants' different work. Actual strikes, severed connections, evacuation associations and successful driving must stay with their declared actors and scopes. A collective operational outcome gives neither a fulfilled private space-food gift nor an individual body-capacity certification. Fuuka's driving objection is not cured because the group reaches its destination. [E822007/E009; FinalC4E003–004; E823003]"
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 100,
+      "line_sha256": "f30a80c65ab74d3cbae4262d85c97cf81a8232b5a18d1c2366198658b370e849",
+      "line_text": "Other encounters show independent influence and affected hosts. In EVENT848 Izumi and Junko support giving the food to its intended recipients; their reasons help change Haruna's decision, which remains conditional on future barter. Actual transfer and recipient barbecue occur, while replacement payment and truck-attack guilt remain differently bounded. In the Hyakkiyako visit appetites and active food discovery confront Umika's licensing refusal, guide fatigue and an unclosed inquiry. Supporting a wanted meal or group scheme cannot erase the people it costs. [E848005–007; E835007–008]"
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 102,
+      "line_sha256": "1bd41006c782f6971c90ff52eacbecc4d7d88959f6fee4d30a31e91cb54f2fbc",
+      "line_text": "The public portrait is therefore neither helpless comic witness nor uniformly good helper. It gives her choices within different groups, and distinguishes a wish, a report, a recommendation and completed aid. Local helpfulness can qualify a fixed recklessness label; captivity, harmful hospitality, abandoned company and unfinished repair prevent it from becoming blanket authorization."
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 104,
+      "line_sha256": "61efb43b43d62c6b0fd7bea9df6b0290d315e2344754598dfe75e4bb9564645c",
+      "line_text": "## 7. Sensei: different tastes can still make valued company"
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 106,
+      "line_sha256": "c0bd3a7cc742f131cb03cd6a8b8e2de1d1d8cfeb08d039c9c88d33c923b52a16",
+      "line_text": "Sensei's relationship with Izumi includes participation, attention, anxiety, refusal and reassurance. Exercise/cup preparation and eel-jelly tasting give local shared settings without proving identical bodily response. The queue-exchange alternatives support her own decision, not an adult order that settles it; her subsequent refusal and chosen company are hers. In the peanut-butter encounter his actual pleasure is clear. In the summer competition his position and the uncomfortable ending resist equal-enjoyment shorthand. In the fruit-punch encounter his hesitation and fade show no explicit pre-fade ingestion. The adult's experience must be read from the actual sequence rather than inferred from her enthusiasm. [I01–I02/I05–I08; recovered canonical10009:003:G9–11/u37–41]"
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 108,
+      "line_sha256": "ad0dfdcd97edad6ec37e3ff48a8582359cd18232de2972668c80539afb87484d",
+      "line_text": "The New Year service encounter gives a specific relational adjustment. Sensei declines—Japanese full, Korean accepting the sentiment—and Izumi apologizes for absorption and leaving him out. His reassurance matters as an answer, not merely a device that validates all her food choices. The reported failed attempt and actual commission remain distinct from personal cooking mastery. A future handmade meal remains a promise. Recipient attention is valuable precisely because this scene preserves a difference between what she enjoys and what he wants now. [I10:u0018–0019/u0048/end; whole thread200430070]"
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 110,
+      "line_sha256": "32961b74f21a535e33b39be89d3a6fc3e509c0c5ee3489e283ce651911fe7168",
+      "line_text": "The later whole thread gives ordinary life continuing after the apparent endpoint. Its BOND witness is interior message290/group190/raw12480; seventeen later records lead to terminal460/raw12497. Thanks for company, cold concern, reported warmth, another proposed adventure, his ordinary/moderate preference and goodnight all belong to the received relationship evidence. Truncating at the favor join would artificially remove reciprocal conversation and make the source chiefly a reward scene. None of those later proposals is silently performed. [I11; whole `BA:momotalk:20043:thread:200430120`]"
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 112,
+      "line_sha256": "e608806ff7fdfee4ac883b28ddc0239890fee611fedeb9f95faf789d1a555d46",
+      "line_text": "Written company has local boundaries too. She accepts a hug refusal, waits for work, remembers a birthday and calls company most special. She also says she has changed without supplying a concrete example. These expressions justify attention to attachment and care, with no demonstrated global transformation or compulsory romance label. Japanese praise and Korean explicit liking in the adventure encounter stay separated; they do not create one common declaration. [I09/I13–I14/I16]"
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 114,
+      "line_sha256": "deed9b75915cae7156361a5f18f5335cfb8e7da31b1118933f7c4303ce72349e",
+      "line_text": "The gift gives the adult genuine pleasure with a category disagreement. Anxiety about unusual materials is followed by actual shared making, actual tasting and a delicious-but-not-chocolate judgment. His appreciation does not endorse health claims, venue permission or every future experiment; her intended sharing does not need those stronger claims to be valued. A separate Sensei ethics package must still compare his participation, constrained refusals, knowledge and responsibilities across recipients. [E810036:u0020–0043/G5–9]"
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 116,
+      "line_sha256": "0d408a8a72fe07215085e0c8b1ceb9511721f747d2b1f86f38c84a14cc5799e8",
+      "line_text": "## 8. Peers and recipients: felt pleasure does not settle their wants"
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 118,
+      "line_sha256": "301703d7d14b50796ebec99a5d17e106c875618715ced4c9c80a713786646945",
+      "line_text": "Haruna's inclusion of Izumi has both promise and failure. Wanting everyone present before tasting is positive; the recalled plea not to be abandoned remains contrary. In the taste inquiry Haruna's fairness project does not give her authority to diagnose away Izumi's sincere enjoyment. The relation must preserve what each wants and what happens, rather than treating either chair benevolence or member resilience as the conclusion. [G1101–1103]"
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 120,
+      "line_sha256": "2b94c6b4af9c62f4d2f22781b88cb45f67043587cebeaa6e5d6657f9f19ef6a8",
+      "line_text": "Junko and Akari also remain separate people. Izumi's reported accounts of their priorities are scoped to her perspective. Direct group objections and the barbecue exchange show actual differences that matter to a decision. Izumi can favor giving someone else's meal back independently of the chair, while still participating elsewhere in club disruption. One supportive intervention does not make her a moral proxy for peers or prove every appetite harmless. [I09; G1101–1104; E848006]"
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 122,
+      "line_sha256": "aea45627afcb84edbf56c02e2e1908d93efd52f8f2b159d3ec85fc63a51ce431",
+      "line_text": "Fuuka's relation to Izumi tests the difference between appetite and care. A visitor wants early cookies/soup; a cook maintains meal timing and distribution. Izumi later participates in hygiene checking for enjoyable food. MINI's forceful rescue and captivity supply a more adverse context: interpreting restraint or requests through a food opportunity fails to answer Fuuka's protest. Actual cookies and wanted tastes are positive food outcomes for their eaters, with no released cook, returned lunch or restored workplace at the ending. [G1601–1602; MINI06010/06020]"
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 124,
+      "line_sha256": "ddbcef0b215c69c9e280c223d678c6e9bf409df38dffdbdddba12bf365a73c99",
+      "line_text": "Iori's distress is the strongest countercase to pleasure as safety. She gives actual favorable checklist findings, accepts the subsequent hospitality drink, becomes distressed and unresponsive, then is narrated as safely awakening and imposing an F. Izumi drinks and enjoys it. The coexistence is explicit, but no empirical pathology, chemical analysis or lasting clearance is supplied. Nor is the feared next budget halving shown implemented. Respect for Izumi's experience requires keeping Iori's different experience equally real. [G1602:u0061–0092]"
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 126,
+      "line_sha256": "5b817e51dfc1a3a0ace73bd02f0f1e0621418d7e3813708408f6e7eab49b8b54",
+      "line_text": "Hosts and recipients broaden the social field. EVENT803 gives a proprietor's craft/work and Izumi's wanted reciprocal food adventure alongside adverse food/sport reception; EVENT841 gives actual student-stall advertising and arriving customers while reputation fears persist. EVENT835 retains licensing refusal and fatigue. Helpful, enthusiastic and grateful participation can coexist with pressure and risks to someone else. Each directed relationship requires its own complete evidence, rather than being resolved by the club's shared appetite or one private apology. [E803008–011/E018; E841019; E835007–008]"
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 128,
+      "line_sha256": "bbffdf2859c283d5975781e0f2d331f7034f66d9e4a78fdaa9bacf82785e9fd2",
+      "line_text": "## 9. Written Japanese and mode: enthusiasm has qualified speakers and conditions"
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 130,
+      "line_sha256": "00e344dcd1ab09a4c63338ebecb98d920964e96875fc50918d37808748406f69",
+      "line_text": "The current family identity is獅子堂イズミ/BA_PERSON_IZUMI with literal10009,16006 and20043. The New Year name/source presentation corrects an unsupported sports shorthand. Costume1900900801 belongs to16006;1900935201 belongs to20043. Three profile/normal objects contain47/39/55 normal contexts; two separate event-written objects contain28/39 rows. These are five selected written responsibilities, with three profiles rather than five profiles or sixty-seven acted shop encounters. [I12–I17; current coverage row]"
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 132,
+      "line_sha256": "7e0d69ac2801fb21c920e07277cefaf5550be435b85e28c45ba58f6faaa9305a",
+      "line_text": "Her written register includes excited unfamiliar-food proposals, gratitude, reassurance, reluctance, waiting, embarrassment and questions about another person's preference. New Year food-adventure self-description and company-as-new-taste imagery supply a literary relation between discovery and companionship. Japanese reported adventure with companions differs from Korean its desirability; Japanese discoveries/excitement differs from Korean everything feeling new. Written date/Day/visibility/VoiceId fields do not show the lines actually played or supply heard acting. [I13–I16]"
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 134,
+      "line_sha256": "06f251560bc424ad824373eec590ca720892d9ee5caeb51024a190693ece4544",
+      "line_text": "Source modes protect agency. Cat generic#st passages are empty-label narration, with one combined inward unit rather than an extra formal group. The stolen-item story has named Izumi#na narration, and inward observations are not public explanations. The summer competition retains opposing derived/native owner–Izumi seams. Its99 physical units include exceptional100–105 replacements, not six added scenes; the corrected physical fifteenth choice group is labeled016 and branch_effect_known:false. Generic New Year narration remains narration despite Izumi log tags. [I03–I05/I07/I11]"
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 136,
+      "line_sha256": "68a804e5b5e5477f9bffe399bc372d1b919cdfa31c4cfa3f3511a1fbd5c3e2da",
+      "line_text": "Locale distinctions can change what happened or its certainty. More than two hours differs from two; fifteen consecutive championships differs from fifteen-year career; approximately five shops differs from five. Japanese luggage-help reciprocity differs from Korean cracker offer. Eel omelet differs from eel sushi; condensed milk differs from mild mustard. Adult candy acceptance does not become approval of takoyaki, and Japanese most-special company does not composite every Korean stronger phrase into a Japanese declaration. The adverse toilet wording also gives no common clinical duration. [I01/I05–I11]"
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 138,
+      "line_sha256": "8b919f38ac9d6854ce8260d5159aabc2f0ba32885b6f07b84ec7107b67dc6251",
+      "line_text": "Formal alternatives and whole endpoints remain essential. The extra opening typed favor in MM019 does not add a twelfth pair; MM023's actual witness is an adult Answer, and MM024's terminal differs from its preceding Favor0/Next0 row. MM027's interior favor does not end the thread. Gift036's masked opening does not authenticate all unknown speakers by later reveal; named initiative and actual sensory narration have their own anchors. Public actor seams, reported diagnosis and recap remain bounded. This is written interpretation, with performed voice unreceived and a separate register specialist still required. [I03/I07–I08/I11; E810036; G1601–1602]"
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 140,
+      "line_sha256": "61864aa0b07a8e879b41fd5d6f2a8330825c981ca381de9efe978cec16b883d9",
+      "line_text": "## 10. Rival readings and finite endings"
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 142,
+      "line_sha256": "0f6894165e45a57b5c04c1e41cb4e3dc821100921c0f3057a389d6e118a8f28b",
+      "line_text": "**An appetite mechanism with no meaningful choice.** Unfamiliar foods, early cookie eating and sincere enjoyment of alarming dishes are substantial evidence. Refused queue trades, disliked menus, waiting, play, gratitude, animal reconciliation and recipient-oriented choices contradict the reduction. Appetite can matter without exhausting agency. A preference remains real even when it cannot justify provision timing or another person's safety. [I01–I17; G1601]"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 144,
+      "line_sha256": "810e1b4b857b372b0fa38d50e415b61a46da82ea133e06ae7e2765f74e4676ba",
+      "line_text": "**A harmless or immune body validates every experiment.** Izumi's actual pleasure contrasts with Iori's distress and Sensei's differing outcomes, but those contrasts do not certify biology. Fruit-punch adult ingestion is unprinted; fainting cause is unresolved. The mint result is a fictional reported classification, and pleasure does not confirm a general physiological capacity. The justified account is individual represented response, with recipient harm and uncertain mechanisms retained. [I05/I08; G1103; G1602]"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 146,
+      "line_sha256": "fef7875cd28e3bf8080c177cb7b66f9ef42c65429005bcdeeafa5153335ed79e",
+      "line_text": "**Every unusual recipe is bound to fail.** Actual peanut-butter meal pleasure and unexpectedly harmonious chocolate are secure contrary cases. Business rescue, manufacture, nutritional benefit and strongest-food rank remain unverified. Success has a local actor, process/result and category limit; it does not license a universal recipe, just as failure cannot erase the achieved pleasure. [I06; E810036]"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 148,
+      "line_sha256": "73213fce5e9eebb12273877ba6c8a92d69f5c7f3b507962a7f94e0249b28408e",
+      "line_text": "**Company means identical tastes or unrestricted acceptance.** Warmth, hugs, selected dishes and whole messages support attachment. Declined food/hug, ordinary/moderate preferences, waiting for work and incomplete plans keep the other's terms visible. Izumi's apology and reassurance are meaningful precisely where she has overlooked them. Appreciation and another proposed adventure do not close all future refusals or establish a formal romance stage. [I10–I11/I13–I16]"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 150,
+      "line_sha256": "445877a98b4639efe6a2cb8b0aa4cf65db978f0ebed5da5c894c104016bd19a1",
+      "line_text": "**The club only mistreats a passive member.** Abandonment and imposed interpretations are strong adverse cases. Her actual play/help, hygiene participation, chosen making, private care and independent support for food return give her initiative too. Conversely, those acts do not remove her participation in disruption or mistaken understanding of a captive cook. Belonging has responsibilities as well as vulnerability. [G1101–1104/G1602; MINI060; E848006]"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 152,
+      "line_sha256": "3ac42e0f6919dd9f553ff9618d21168a35a6ac4ee1d009eb47e28a15e7c9568e",
+      "line_text": "**Quiet pauses and future messages can be omitted.** Cat forgiveness, an offered hot dog, an unmade ring, birthday remembrance, gratitude, ordinary preference and goodnight directly limit the appetite-only thesis. Their actual completion levels differ, but that difference is informative rather than grounds for disposal. In particular seventeen post-witness messages are part of the whole source, not optional surplus after a useful plot fact. [I03–I04/I11–I16]"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 154,
+      "line_sha256": "2c3799e30ae57d28f99513039fc31a3bcc779d177baaf3dd054e83a66e1f71e0",
+      "line_text": "The preferred reading preserves Izumi's sincere pleasure, reciprocal intention and imperfect answerability. It recognizes fulfilled play, local help, making and tastes beside refusal, adverse outcomes, unaudited rescue and unfinished invitations. It neither pathologizes her difference nor makes it the measure of everyone else's experience."
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 156,
+      "line_sha256": "f75b0fddb4dcf57a0528eda81c76fac72aeb0c6bbbd2924c9dfee23b0b912f7e",
+      "line_text": "## 11. Evidence and remaining claim limits"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 158,
+      "line_sha256": "ddae7e6f9289a4faa9f4db2aa56d2b5ffff5afd7875f9ced654a0a9f06d54082",
+      "line_text": "I01–I17 denote the exact effective current17V3 bodies, with the corrected005 physical-count and Japanese-championship/Korean-career successor; I-CMP is corrected comparisonV3 with both005 corrections. All complete linked threads and written sources are represented. The receiving receipt separates personally complete current/private/public meanings, unchanged prior full custody, necessary new analytical owners, narrow controls and source bindings. The one Japanese canonical queue-exchange recovery resolves who refuses and why; it grants no whole-primary, raw/native, historical independent-author, source-field QA or model credit."
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 160,
+      "line_sha256": "e78452763ebfe425d983c8be1e78a50598552964539eb010302818bdd9e3b276",
+      "line_text": "| Reference | Exact source responsibility and consequential endpoint |"
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 161,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 162,
+      "line_sha256": "cb9e64a2b9e4ea342dcb79fef33dc8d74c3eff8f835cb81ec195eb98dc4a46be",
+      "line_text": "| I01–I04 | `BA:bond:10009:002,003,005,020` and whole threads100090010/070/120/160: exercise/cups; refused trades and actual tastesraw132143–144; cat bite/local forgiveness without ramen; mistaken-plastic correction/retrieval and offered unbitten hot dog. |"
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 163,
+      "line_sha256": "0447087cd65dd49894e60b5f94160aa1dc9948d5b8dd882e6713eef7b9bfcc3b",
+      "line_text": "| I05–I08 | `BA:bond:16006:002,003,005,020` and threads160060010/130/230/320: mixed competition/uncomfortable ending; adult actual peanut-butter pleasure; actual water play/help/safe return without octopus bite; Izumi actual fruit-punch tasteu33/raw146093 and adult fade without explicit ingestion. |"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 164,
+      "line_sha256": "01e7af249b2568a7717dac902496b0a2d11bebe4da4bb7a7e84961164a410a2b",
+      "line_text": "| I09–I11 | `BA:bond:20043:002,003,005` and threads200430010/070/120: distinct peer reports; commissioned service/declined adult meal/apology; recipient dishes and whole later concern/preferences through terminal460/raw12497. |"
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 165,
+      "line_sha256": "ab0090792ba1a64cb066783becc8f5d25c53e7b7af149c7469736f7a33fe4fa3",
+      "line_text": "| I12–I17/I-CMP | Three profile/normal objects10009/16006/20043 and costumes1900900801→16006/1900935201→20043; zero-extra family and corrected comparison, not new encounters or chronology. |"
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 166,
+      "line_sha256": "a131c259321fd684ef8446744f093d2945a9791f557bf862ba9861b492c5c9e8",
+      "line_text": "| G1101–1104 | Complete accepted Gourmet group meaning: recalled abandonment plea, inclusion desire/custody/shared aroma; reported classification versus genuine taste; provided/ignored help and unfinished kitchen work. |"
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 167,
+      "line_sha256": "74e349926aab278774b61863aa86bc34bdb5c4ca3a5391ca0144b67141f37aab",
+      "line_text": "| G1601–1602 | Complete accepted assessment meaning, freshly whole refreshed: early-cookie timing boundary, visitor status, positive hygiene participation, actual favorable checklist, harmful welcome, Izumi pleasure and Iori waking/F; no immunity or next-cut implementation. |"
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 168,
+      "line_sha256": "97bdc5a847f8a318b506886c5591ab9417e5311ceb357a93b64d08dc4471ec24",
+      "line_text": "| E810036 | Complete gift036/raw80000036: masked opening, deliberate shared making, actual unexpected harmony/delicious category objection and continued-eating invitation; no complete depletion/safe recipe/health effect/venue permission. |"
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 169,
+      "line_sha256": "39355c8f0da7dd64a7f6816e4e51833ec1f0ea2f299aec9649a31264dc099849",
+      "line_text": "| E803/E818/E841 | Complete accepted21-object seaside and prior complete sports19/student-stall19 owners: reciprocal food adventure/work, differentiated familiar/flavor/play pleasures and actual implemented promotion; adverse recipients/reputation/labor limits remain. |"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 170,
+      "line_sha256": "fbe9b22c5b1f6b7134c35aa044a7f11f8443d4b7b8c7858a9dc08291691cddbf",
+      "line_text": "| E820/E835 | Complete accepted culinary15/visit16 meanings: different interests, chosen and coerced aid, local victory/provision; distinct tastes, host refusal/fatigue and unfinished inquiry. |"
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 171,
+      "line_sha256": "03872a6390b2ae88df4318969773f3e2b3358039fc308fef5b7f8c2ad577244f",
+      "line_text": "| E822/E823/Final | Complete declared accepted contexts: different volunteering/space-food wish and collective operations/evacuation; source-local associations do not finish wanted gift or certify individual safety. |"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 172,
+      "line_sha256": "7a85f283d593cae27a6c41cc25d9347341c65ee3a1c8a6397dc011f18880fd5e",
+      "line_text": "| E848/MINI06010–20 | Complete84830 episode/whole-event/source-limit spans and prior wholeMINI32: independent peer support/conditional actual transfer/recipient barbecue; actual cookies beside captive cook, concealed restraint and chase without release. |"
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 174,
+      "line_sha256": "0353f5f1a9fa9bc2d5e8711e4fe674c127609e894e2752bc3b99bd7dedef8ee0",
+      "line_text": "All fourteen original gaps remain OPEN at the following claim limits."
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 176,
+      "line_sha256": "a6b410bfd112edbf9c29959e2fd4fdd48c9a803ce96f2a254d61148077297dfd",
+      "line_text": "| Gap | Izumi-specific contribution and remaining debt |"
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 177,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 178,
+      "line_sha256": "cc85df5b06eabcbfdb68bd041a749ba9bafc7d3109a2df31b117a58fd3d04c50",
+      "line_text": "| G01 | Complete27 private/written objects and whole tails retain tastes, care, play, disappointment and boundaries; other people, unselected modes and full cast remain separate. |"
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 179,
+      "line_sha256": "7d802b4338b5f3ec26c97bb91816c42294929b03b85dca4cd85e85d51e5e906a",
+      "line_text": "| G02 | Supply/work and provision comparisons do not complete Yuuka administration, accounting or institutional transfer. |"
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 180,
+      "line_sha256": "48e39c2ff1216d54b55d6e2cbbc7baf1ad67687b66f60aa62b7983e511615883",
+      "line_text": "| G03 | Food/work/customer encounters do not complete Serika's own labor history or reciprocal relationships. |"
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 181,
+      "line_sha256": "db415901d93bd1d2f3545572866309442ae25a6a90d793e4cfda05be62770118",
+      "line_text": "| G04 | Prefect recipient objections and evaluation coexist with actual favorable findings; Hina's full ordinary/crisis/repair allocation is separate. |"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 182,
+      "line_sha256": "1b44a9989abdfb220e364d137fa2cf49b3cd537119640a3a47633af5e7972e22",
+      "line_text": "| G05 | Club/private company and local food return do not complete Arius/PS68 aftermath, forgiveness or restitution. |"
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 183,
+      "line_sha256": "f2c9e0a28e38f6304ed805453e18a4ddaf0bee1e466568a347c29a964f898ff0",
+      "line_text": "| G06 | Different tastes, peers, workers and hosts remain individual; one bounded three-variant person is not a prevalence sample or all-school assent. |"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 184,
+      "line_sha256": "4081401464a65096ccec300d5926121f57dd800c410a4b0b79318a32f973e769",
+      "line_text": "| G07 | Explicit group/local scene/message order is retained; variants, release windows and seasonal forms do not place private material against MAIN or prove inevitable growth. |"
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 185,
+      "line_sha256": "c14cd561f73d87efc7618abf2b66c9811b602c1784781a397c8e30e90b3dcfc9",
+      "line_text": "| G08 |803/10803 and820/10820/900820 costumes, gift036/raw80000036 and exact whole-thread joins remain routes, not extra encounters or interchangeable titles. |"
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 186,
+      "line_sha256": "61ff868a89aa36c09718bd48371ba89a1cae48f6d114a6f5c53d5aa2d2853f87",
+      "line_text": "| G09 | Masked/named narration, inward selectors, formal alternatives, owner seams and interior/terminal witnesses remain distinct; no all-options performance or repaired actor by convenience. |"
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 187,
+      "line_sha256": "ba7836dd21d514d3f4f8c8cf6ff58d9a8697e1f932a6e8394663a1c03d44434b",
+      "line_text": "| G10 | VoiceId, wait/equipment/video/audio and written sound/taste descriptions do not supply inspected performance, acoustics or acted tone. |"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 188,
+      "line_sha256": "ba69272f4a378ac1e90458e8910f911340cf2fe0e7448fe7004e7d779d07b8ee",
+      "line_text": "| G11 | Food testimony, group reports and concern authenticate no Yume record, death/custody provenance or completed office history. |"
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 189,
+      "line_sha256": "536f8b778459d65070083903ea6737c0b2a6d57f6e3273c27cc6f0baa3c7ecf2",
+      "line_text": "| G12 | BA_PERSON_IZUMI and exact10009/16006/20043 remain bounded; unnamed proprietor, anonymous clusters, reported helpers and moving food are not global joins. |"
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 190,
+      "line_sha256": "2ceb02e2107c4a45425adeebb9b2a8626b2c0b73921c2fc5aee683a0f20c7b1b",
+      "line_text": "| G13 | Actual tastes, making, play/help, waking/F and transfer are finite textual endpoints. Mechanisms, immunity/clinical cure, safety, price/business rescue, staffing, future budget and complete repair remain unverified. |"
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 191,
+      "line_sha256": "25c10ecad4e10645545ebc1a1ea939202386dee9bbb486a1805e17d31dc02729",
+      "line_text": "| G14 | BOND/whole messages/profile/normal/costume/group/event/MAIN/report/recap/personification/video-only classes have different authority; continuity/admission is not inferred from resemblance. |"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 192,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 193,
+      "line_sha256": "258f1934ba3e048673f718b2bd5441dbce97e08dd73445ce96780531a06d3495",
+      "line_text": "No known mandatory consequential recovery remains for these bounded asserted claims after effective whole private/public argument receiving and the necessary gift/public argument recovery. Stronger claims about equal consumption, toxic cause, immunity, medical benefit, inspected manufacturing, audited business rescue, permanent change, fulfilled future meals/adventures, whole worker/victim/institutional repair or performed meaning need additional evidence. Unadmitted or unselected historical leads cannot become plots or duties from a suggestive label; source mode and admission require their own justified treatment."
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 194,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        5,
+        6
+      ],
+      "canonical_lines": [
+        4,
+        3
+      ],
+      "frozen_text": [
+        "generation: V1",
+        "status: local_candidate_root_review_pending"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        16,
+        27
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        22,
+        21
+      ],
+      "canonical_lines": [
+        31,
+        32
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IZUMI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IZUMI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        184,
+        184
+      ],
+      "canonical_lines": [
+        195,
+        195
+      ],
+      "frozen_text": [
+        "This complete local candidate proposes DEEP_SYNTHESIS, pending ROOT independent whole prose/receipt verification and canonical adoption. It makes no source/admission/model/prediction/independence/denominator/milestone decision. Required directed Gourmet/Fuuka/Iori/Sensei relationships, Gourmet and School Lunch ensembles/institutions, work/evaluation/legitimacy/repair, written register and the remaining eligible cast continue as separate mandatory Phase3 responsibilities."
+      ],
+      "canonical_text": [
+        "ROOT independently received and accepted this complete DEEP_SYNTHESIS literary monograph with limits; canonical persistence follows the complete ROOT installation. It makes no source/admission/model/prediction/independence/denominator/milestone decision. Required directed Gourmet/Fuuka/Iori/Sensei relationships, Gourmet and School Lunch ensembles/institutions, work/evaluation/legitimacy/repair, written register and the remaining eligible cast continue as separate mandatory Phase3 responsibilities."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

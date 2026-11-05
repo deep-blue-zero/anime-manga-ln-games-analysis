@@ -1,0 +1,111 @@
+{
+  "schema": "konosuba.secondary.rule-inventory.v1",
+  "created_utc": "2026-10-20T17:03:40.576571+00:00",
+  "subject": "Arnes",
+  "status": "PROVISIONAL_SOURCE_KNOWN_PRECASE_RULES",
+  "rules": [
+    {
+      "id": "AR-R01",
+      "name": "Retrieval loyalty includes immediate protection but can override present resistance",
+      "proposition": "Track the being she treats as master and her belief about its remembered relationship. Expect costly or immediate protective action and continued retrieval efforts. Present resistance may produce a concession, yet she may reinterpret it as lost-memory wariness rather than accept it as the final preference. A loyal self-description is not a complete account of the recipient’s interests.",
+      "support": [
+        "A01-A03: explicit master identification, invocation of will, name distress, paid silver and postponement after resistance.",
+        "A05: rejection is reinterpreted as memory loss and capture attempted again.",
+        "A07/A18/A20: actual catches and relief when Yunyun catches the creature."
+      ],
+      "contrary": [
+        "A03: she actually recognizes resistance enough to permit another night; not mechanically indifferent to it.",
+        "A10: attachment to Megumin limits an expressed intent to harm her, but Arnes attacks Zesta.",
+        "A17: she threatens other people to obtain the being; loyalty is not universal recipient-centered care."
+      ],
+      "rivals": [
+        "Generic loyal servant or attached pursuer",
+        "Generic paternalistic recovery narrative",
+        "Narrator anthropomorphism or inferred affection"
+      ],
+      "apply": "A specifically valued recipient and known interpreted relationship are supplied. Separate current visible preference from her account of remembered identity. A concession or a rescue need not settle the longer retrieval objective.",
+      "not_assume": "No shared current mind, verified memory loss, global comprehension, biological kinship, precise magical pact or automatic consent. No rescue of every stranger or fixed willingness to sacrifice herself in every context. Do not invent remembered agreement that the scene does not provide.",
+      "confidence": "Provisional moderate support for goal/response pattern, low-to-moderate for interpreting motive; generic loyalty remains a strong rival.",
+      "falsifier": "Repeated equally clear present refusals that she accepts without reinterpreting or pursuing would weaken the override component. Repeated opportunities for modest immediate protection of the specified master that she deliberately ignores would weaken the protective component. Source-known hypothetical agreement is not independent validation."
+    },
+    {
+      "id": "AR-R02",
+      "name": "After setbacks change the available means and leverage, with finite resources",
+      "proposition": "Keep the retrieval goal while updating location, timing, intermediaries and coercive leverage after an observed setback. Her use of available money, later observation, induced exhaustion and new hostages can replace a failed approach. Practical adaptation is permitted without granting foresight, success or infinite means.",
+      "support": [
+        "A03/A09/A14: finite actual payment, uncompleted exchange and later refund/retrieval demand.",
+        "A10-A15: return without the same protectors, later observation and admitted monster herding.",
+        "A16-A17: actual disabling, explicit threat to survivors/passengers against an escape using the creature as shield."
+      ],
+      "contrary": [
+        "A11: she underestimates priests and is routed.",
+        "A18: a new bluff reading still leaves the catch response exploitable.",
+        "A20: interruption and an unfamiliar finished spell defeat the adapted plan. Correct means identification is not optimality or guaranteed outcome."
+      ],
+      "rivals": [
+        "Generic tactical learning after failure",
+        "Generic coercive bargaining or resource conservation",
+        "Narrator-selected sequence rather than a unique personal planner"
+      ],
+      "apply": "A previous failed means and a currently feasible alternative are specified or remembered in the scenario. Preserve who actually observes, acts, is threatened and controls the resource. Meaningful harm is not silently changed into harmless banter.",
+      "not_assume": "No access to offstage surveillance, automatic knowledge of protectors’ absence, fabricated hostages, unlimited money or perfect counterfactual planning. A refund does not necessarily settle a separate retrieval goal; no borrowed money is established here. Do not perform an unspecified violent act merely because canonical Arnes has done harm.",
+      "confidence": "Provisional moderate support for observed adaptation and finite means; distinctiveness beyond generic pursuit remains underidentified.",
+      "falsifier": "Repeated equally feasible setbacks followed by no means change would weaken adaptation; repeated abandonment of the separate retrieval goal solely on repayment would weaken its priority as currently represented. Relevant new evidence must distinguish goals and changed constraints."
+    },
+    {
+      "id": "AR-R03",
+      "name": "Observed non-use can be overgeneralized into inability",
+      "proposition": "Use her actual observations rather than the reader’s explanation. She can correctly notice depleted capacity, yet interpret repeated context-limited non-use through a familiar ability schema as global inability. A credible contrary display can prompt late guarding or revision. Preserve the possible mistake instead of optimizing it away.",
+      "support": [
+        "A14-A15: correctly identifies Yunyun’s depletion but says Megumin cannot cast, citing earlier non-use and three induced attacks.",
+        "A18: learned Crimson skill progression is offered as a confident explanatory schema; a changed demeanor increases her guard.",
+        "A20: completed Explosion prompts a question, fear, apology and proposed withdrawal."
+      ],
+      "contrary": [
+        "A10-A11: she does update her estimate after reflected magic and credible holy power.",
+        "Megumin’s stated inability explanation is not automatically known or believed by Arnes; multiple earlier contexts had genuine collateral constraints.",
+        "A17-A18: her appraisal of one bluff does not establish universal insight into what Megumin may do."
+      ],
+      "rivals": [
+        "Generic induction error or confirmation bias",
+        "Generic incomplete intelligence about a specialist",
+        "Genre-selected antagonist underestimation"
+      ],
+      "apply": "Observed non-use, actual information access and a relevant learned schema are present. Distinguish unavailable opportunity, readiness, voluntary restraint and capability. Her answer may remain wrong; the reconstruction need not make her a good analyst.",
+      "not_assume": "Do not force the same error when the scene explicitly gives her knowledge of the limiting constraint or a demonstrated ability. Do not use reader knowledge, hidden alternative powers or later canonical truth to complete her mind. One explicit cue in an invented case can make the contrast generic.",
+      "confidence": "Provisional moderate support for the specific fallible inference, low identification beyond generic incomplete-information rivals.",
+      "falsifier": "Repeated comparable non-use with equally limited knowledge in which she consistently reserves judgment and identifies the context constraint would weaken this error tendency. Continuing unchanged after a fully credible direct demonstration would weaken the late-update component. Invented correct prose cannot establish either result independently."
+    },
+    {
+      "id": "AR-R04",
+      "name": "Retaliatory pride competes with practical fear and a narrow offered withdrawal",
+      "proposition": "Retain injury, frustration and affront as motives alongside retrieval. She can enjoy making an opponent suffer or make cruel threats, yet retreat from credible superior force and offer a local apology when a particular judgment fails. A withdrawal offer is a meaningful action, not necessarily comprehensive remorse or abandonment of every goal.",
+      "support": [
+        "A07-A12: anger after injury, cruel pursuit by others, and fear-based escape after credible power.",
+        "A14-A17: grievances coexist with admitted delight in frustration, actual severe injuries and hostage threats.",
+        "A20: direct fear of finished Explosion, apology for all-talk dismissal and offer to leave; after rejection she tries another spell."
+      ],
+      "contrary": [
+        "A01-A03: respectful thanks, real expenditure and temporary postponement are not only aggression.",
+        "A20: her relief when Yunyun catches the creature occurs despite their opposition.",
+        "The attempted final spell follows a refused retreat; no completed peace, permanent reform or universal refusal to yield is shown."
+      ],
+      "rivals": [
+        "Generic prideful pursuer under threat",
+        "Generic self-preservation",
+        "Generic villain taunting or narrator emphasis"
+      ],
+      "apply": "An actual affront, history of harm or credible capability change is supplied. Preserve genuine fear and imperfect late revision as well as cruelty. Report only the action reached before the response ends.",
+      "not_assume": "No automatic sexualized intimidation, tears on demand, comprehensive confession, forgiveness or precise retaliation against an unprovided target. Being a devil does not erase harm done to her; being wronged does not erase her later acts. Do not turn an offered retreat into a completed safe exit.",
+      "confidence": "Provisional moderate support for competing affect/goal pressures, low-to-moderate for portable specificity.",
+      "falsifier": "Repeated comparably credible superior threats with no revision or attempted withdrawal would weaken the practical-fear component. Repeated disinterested relinquishment of retaliation in otherwise comparable pursuit would weaken the pride/retaliation component. Same-author known-source exercises cannot certify moral recovery or accuracy."
+    }
+  ],
+  "source_provenance": {
+    "file": "KONOSUBA_SENA_ARNES_NATIVE_PROVENANCE_DRAFT_01.json",
+    "sha256": "b05d0dc94eecf294ffed05d6810072ae51a5b0ebd19540abec5f1dc2a2d52c4a"
+  },
+  "inventory_count": 4,
+  "independent_validation": 0,
+  "full_program_complete": false
+}

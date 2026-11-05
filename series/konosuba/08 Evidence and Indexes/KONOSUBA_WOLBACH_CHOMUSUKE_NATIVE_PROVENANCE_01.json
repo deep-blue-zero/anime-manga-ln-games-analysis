@@ -1,0 +1,766 @@
+{
+  "schema": "konosuba.secondary.known-native-provenance.v1",
+  "recorded_utc": "2026-10-20T15:51:55.167049+00:00",
+  "subjects": [
+    "Wolbach",
+    "Chomusuke"
+  ],
+  "preparation_source_commit": "5ec165a0b9a209ad3d8781e751a3feb4064484e7",
+  "preceding_cohort16_full_gate_sha256": "807862a786110d2dcfd400d1024b808b1d07cf95270e26a030a791170e88ba30",
+  "known_BASE_context_slots": 3093,
+  "text_members": 20,
+  "native_objects": 7,
+  "sources": [
+    {
+      "source": "EXP-01",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 01.epub",
+      "native_bytes": 19168549,
+      "native_sha256": "ce67dad2bc3a47506f8bcaf699f11b767e353f43b94860b23bab35cc1635447e",
+      "accepted_admission_sha256": "615c86a7c62c699cd5f6274172f192117e5157f15572931f2b0135b4863d7d1e",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V01_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "28bbfa4f4a7914cf1e4318230a810855f97eb13f071e99237a09e086ae2ea2be"
+    },
+    {
+      "source": "EXP-02",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 02.epub",
+      "native_bytes": 13672536,
+      "native_sha256": "ecf3e635c97be3d23366b7d15a153c546ba04a597caba190bb8ae44e71a1f1ff",
+      "accepted_admission_sha256": "8e980e97636b77f7eec790ff9f38830f586b2a91a780fc9c07f5fab94f5440e3",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V02_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "9d9bb676fe0fa9a813153993d1b2a2a1b196df103b2c8ee469763e1b77b3e2b8"
+    },
+    {
+      "source": "EXP-03",
+      "native_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+      "native_bytes": 15716486,
+      "native_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "accepted_admission_sha256": "7f8c4267abdeeadc3df0191b2e76911144b33c4931ac8ccf7f145ce085c88c53",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Explosions/KONOSUBA_EXP_V03_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "27a4589a38bfb63773448a7579e4236bf8f868636afa89bfded94bc9f3aad4e6"
+    },
+    {
+      "source": "MAIN-04",
+      "native_filename": "Konosuba - Main Series - Volume 04.epub",
+      "native_bytes": 3907671,
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "accepted_admission_sha256": "fcb57c6be68440b882b67463db1c3364d05088ce6559e9bb43526815c58036f1",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V04_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "0378a7648acf9b1caa4a061cc2c9cc8bb7979d2ca2161ab5f2a6d96d1da579a3"
+    },
+    {
+      "source": "MAIN-09",
+      "native_filename": "Konosuba - Main Series - Volume 09.epub",
+      "native_bytes": 3086699,
+      "native_sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "accepted_admission_sha256": "bf5db2e5c63cebf417bfef6c9de71e792da955ff821501c6bcd5cf879c07b12c",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V09_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "977733b92cb4d8fb7330b1ba6b3fba008edaf9c722adbaea697c56a87b6e0fc6"
+    },
+    {
+      "source": "MAIN-15",
+      "native_filename": "Konosuba - Main Series - Volume 15.epub",
+      "native_bytes": 2513225,
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "accepted_admission_sha256": "7dba1af5876ba14525fb94946e5d47597ee095b0d1353468186b55978184979d",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V15_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "8d550c03bd34d188dbbcf28567a7dd5d2cb3d9a74a67223c9ddbed6bb6ab2594"
+    },
+    {
+      "source": "MAIN-16",
+      "native_filename": "Konosuba - Main Series - Volume 16.epub",
+      "native_bytes": 8530869,
+      "native_sha256": "7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1",
+      "accepted_admission_sha256": "2fd8f04a8ca67452cbf6d7234cc7c5e54b23c177e97f0761e6cca972bf59525d",
+      "current_component_register": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V16_EXCLUDED_COMPONENT_REGISTER.json",
+      "current_component_register_sha256": "6bc806d44b6f9b4f5c8ffb0e8bcf0e22dda766a3e082a9d76ea276b97880a806"
+    }
+  ],
+  "actual_known_BASE_members": [
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "62aa05713d8653627ef91f2ef3698cd182314c1aa03e5a2ddf7a3d6b6d5e3046",
+      "total_member_P": 29,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 29,
+          "complete_tool_chunk": "88c5e5"
+        }
+      ],
+      "known_BASE_context_slots": 29,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          29
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "615198d8c4ec0905416e97249a4b7f9b070d4b0b7faac512cee9c1d22de7942d",
+      "total_member_P": 57,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 57,
+          "complete_tool_chunk": "f1544f"
+        }
+      ],
+      "known_BASE_context_slots": 57,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          57
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+      "total_member_P": 703,
+      "actual_receiving": [
+        {
+          "lo": 110,
+          "hi": 179,
+          "complete_tool_chunk": "4bdf1d"
+        },
+        {
+          "lo": 180,
+          "hi": 259,
+          "complete_tool_chunk": "659f46"
+        },
+        {
+          "lo": 260,
+          "hi": 319,
+          "complete_tool_chunk": "f739a3"
+        },
+        {
+          "lo": 320,
+          "hi": 359,
+          "complete_tool_chunk": "f23132"
+        }
+      ],
+      "known_BASE_context_slots": 250,
+      "known_BASE_union_ranges": [
+        [
+          110,
+          359
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-024.xhtml",
+      "member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+      "total_member_P": 179,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 89,
+          "complete_tool_chunk": "5ceff9"
+        },
+        {
+          "lo": 90,
+          "hi": 179,
+          "complete_tool_chunk": "326301"
+        }
+      ],
+      "known_BASE_context_slots": 179,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          179
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-033.xhtml",
+      "member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+      "total_member_P": 614,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 124,
+          "complete_tool_chunk": "0779da"
+        },
+        {
+          "lo": 125,
+          "hi": 194,
+          "complete_tool_chunk": "6a17da"
+        },
+        {
+          "lo": 520,
+          "hi": 614,
+          "complete_tool_chunk": "f43c1b"
+        }
+      ],
+      "known_BASE_context_slots": 289,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          194
+        ],
+        [
+          520,
+          614
+        ]
+      ]
+    },
+    {
+      "source": "EXP-01",
+      "member": "item/xhtml/p-039.xhtml",
+      "member_sha256": "6b11990f5101539067279b4f7870ea3670f8bc8b7106fe62439fea33043ea62c",
+      "total_member_P": 71,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 71,
+          "complete_tool_chunk": "01760c"
+        }
+      ],
+      "known_BASE_context_slots": 71,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          71
+        ]
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "7815e5bd9b505481befbb570e409ce2180d48afe638c2c7b2fcc813235c8b014",
+      "total_member_P": 702,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 100,
+          "complete_tool_chunk": "57e601"
+        },
+        {
+          "lo": 250,
+          "hi": 269,
+          "complete_tool_chunk": "936dbc"
+        },
+        {
+          "lo": 270,
+          "hi": 359,
+          "complete_tool_chunk": "65c52c"
+        }
+      ],
+      "known_BASE_context_slots": 210,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          250,
+          359
+        ]
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-029.xhtml",
+      "member_sha256": "0913fc720e19e3e0acf3c75c76bc06d2b2bacfc48a83c43361e5496dc47aabb2",
+      "total_member_P": 534,
+      "actual_receiving": [
+        {
+          "lo": 280,
+          "hi": 359,
+          "complete_tool_chunk": "b6c216"
+        }
+      ],
+      "known_BASE_context_slots": 80,
+      "known_BASE_union_ranges": [
+        [
+          280,
+          359
+        ]
+      ]
+    },
+    {
+      "source": "EXP-02",
+      "member": "item/xhtml/p-035.xhtml",
+      "member_sha256": "ab04b3fd93b2e314f27aae8c514d14a3965fe5b70831e6ca0179a4a3ace16b17",
+      "total_member_P": 671,
+      "actual_receiving": [
+        {
+          "lo": 470,
+          "hi": 559,
+          "complete_tool_chunk": "b051a0"
+        },
+        {
+          "lo": 560,
+          "hi": 599,
+          "complete_tool_chunk": "f6b02f"
+        }
+      ],
+      "known_BASE_context_slots": 130,
+      "known_BASE_union_ranges": [
+        [
+          470,
+          599
+        ]
+      ]
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9163b51601a5120ea24278c21391046227765a561c2fa99d2cf8b41924cd7784",
+      "total_member_P": 575,
+      "actual_receiving": [
+        {
+          "lo": 60,
+          "hi": 109,
+          "complete_tool_chunk": "cfbb5c"
+        }
+      ],
+      "known_BASE_context_slots": 50,
+      "known_BASE_union_ranges": [
+        [
+          60,
+          109
+        ]
+      ]
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "84648b40c0e160d4b2aa4d8547f02a237f903c19554f3b740cc2b585959f2cb8",
+      "total_member_P": 611,
+      "actual_receiving": [
+        {
+          "lo": 541,
+          "hi": 611,
+          "complete_tool_chunk": "9f35e0"
+        }
+      ],
+      "known_BASE_context_slots": 71,
+      "known_BASE_union_ranges": [
+        [
+          541,
+          611
+        ]
+      ]
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "5cb6df62f026bb773df21ee652bb6b86b9e12e88522ea408ec5d504cf0b69fd1",
+      "total_member_P": 627,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 60,
+          "complete_tool_chunk": "61c010"
+        },
+        {
+          "lo": 145,
+          "hi": 199,
+          "complete_tool_chunk": "781fd9"
+        }
+      ],
+      "known_BASE_context_slots": 115,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          60
+        ],
+        [
+          145,
+          199
+        ]
+      ]
+    },
+    {
+      "source": "EXP-03",
+      "member": "item/xhtml/p-023.xhtml",
+      "member_sha256": "7464b2929ae2aa0c7b79028dd29f76038f1df0bc6b3b0330f14c5649c230fdaf",
+      "total_member_P": 97,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 97,
+          "complete_tool_chunk": "8cb6fc"
+        }
+      ],
+      "known_BASE_context_slots": 97,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          97
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-04",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7",
+      "total_member_P": 218,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 60,
+          "complete_tool_chunk": "78b317"
+        },
+        {
+          "lo": 61,
+          "hi": 140,
+          "complete_tool_chunk": "ca1d41"
+        },
+        {
+          "lo": 141,
+          "hi": 218,
+          "complete_tool_chunk": "ade594"
+        }
+      ],
+      "known_BASE_context_slots": 218,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          218
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+      "total_member_P": 658,
+      "actual_receiving": [
+        {
+          "lo": 360,
+          "hi": 399,
+          "complete_tool_chunk": "d12c98"
+        },
+        {
+          "lo": 400,
+          "hi": 439,
+          "complete_tool_chunk": "7cb118"
+        }
+      ],
+      "known_BASE_context_slots": 80,
+      "known_BASE_union_ranges": [
+        [
+          360,
+          439
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0012.xhtml",
+      "member_sha256": "40571af74e14c4eb2861e7857c542804e68b286408d272f2a52c55628d453ba9",
+      "total_member_P": 544,
+      "actual_receiving": [
+        {
+          "lo": 350,
+          "hi": 429,
+          "complete_tool_chunk": "5001ac"
+        },
+        {
+          "lo": 430,
+          "hi": 469,
+          "complete_tool_chunk": "c2c01b"
+        }
+      ],
+      "known_BASE_context_slots": 120,
+      "known_BASE_union_ranges": [
+        [
+          350,
+          469
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "26b9cf78a4d301aef90ec736b1c7570cfccd9ef5119e6af46eb03e387b119c85",
+      "total_member_P": 300,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 99,
+          "complete_tool_chunk": "53f2cf"
+        },
+        {
+          "lo": 100,
+          "hi": 129,
+          "complete_tool_chunk": "80d14a"
+        },
+        {
+          "lo": 130,
+          "hi": 219,
+          "complete_tool_chunk": "366ec7"
+        },
+        {
+          "lo": 220,
+          "hi": 300,
+          "complete_tool_chunk": "0e9681"
+        }
+      ],
+      "known_BASE_context_slots": 300,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          300
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-09",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "c9f50626467b97b546fe002429f26293ee9437169d4fd9bad81b6a91c6e0bd3a",
+      "total_member_P": 868,
+      "actual_receiving": [
+        {
+          "lo": 100,
+          "hi": 139,
+          "complete_tool_chunk": "23029c"
+        },
+        {
+          "lo": 140,
+          "hi": 179,
+          "complete_tool_chunk": "f9b765"
+        },
+        {
+          "lo": 180,
+          "hi": 219,
+          "complete_tool_chunk": "72f1ea"
+        },
+        {
+          "lo": 430,
+          "hi": 469,
+          "complete_tool_chunk": "5ea9ac"
+        },
+        {
+          "lo": 470,
+          "hi": 509,
+          "complete_tool_chunk": "2c5441"
+        },
+        {
+          "lo": 800,
+          "hi": 839,
+          "complete_tool_chunk": "ec8eda"
+        },
+        {
+          "lo": 510,
+          "hi": 549,
+          "complete_tool_chunk": "a074d6"
+        },
+        {
+          "lo": 550,
+          "hi": 589,
+          "complete_tool_chunk": "e4a1b1"
+        },
+        {
+          "lo": 840,
+          "hi": 868,
+          "complete_tool_chunk": "063952"
+        },
+        {
+          "lo": 1,
+          "hi": 99,
+          "complete_tool_chunk": "23118c"
+        },
+        {
+          "lo": 220,
+          "hi": 299,
+          "complete_tool_chunk": "24cdc8"
+        },
+        {
+          "lo": 300,
+          "hi": 369,
+          "complete_tool_chunk": "f0b848"
+        },
+        {
+          "lo": 370,
+          "hi": 429,
+          "complete_tool_chunk": "30f72b"
+        }
+      ],
+      "known_BASE_context_slots": 658,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          589
+        ],
+        [
+          800,
+          868
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-15",
+      "member": "OEBPS/Text/part0009.xhtml",
+      "member_sha256": "f8039c2caf0fe4104d3a6223c09643d0991d96aabe4f7c0355931db7cdc7dc10",
+      "total_member_P": 44,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 44,
+          "complete_tool_chunk": "2083c7"
+        }
+      ],
+      "known_BASE_context_slots": 44,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          44
+        ]
+      ]
+    },
+    {
+      "source": "MAIN-16",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "ac772ee6f9bf6a4ab402c82cf5232521aea3180de172d42c8ab7f7c842c86a74",
+      "total_member_P": 45,
+      "actual_receiving": [
+        {
+          "lo": 1,
+          "hi": 45,
+          "complete_tool_chunk": "a73173"
+        }
+      ],
+      "known_BASE_context_slots": 45,
+      "known_BASE_union_ranges": [
+        [
+          1,
+          45
+        ]
+      ]
+    }
+  ],
+  "private_actual_receiving_receipt_pins": [
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_01.json",
+      "sha256": "dca5644a059387671655d727663baa36ebb46ef0d71249e9b7b8f2ab2cd309df"
+    },
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_02.json",
+      "sha256": "fbab6605cb9d5703051d220104db52b7b028d39779dc3a65a06199129c3ba4c0"
+    },
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_03.json",
+      "sha256": "93f8b6d5654886779eb60437a11e8f36c5d2217aa5e48062f5a51645f66a6dc6"
+    },
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_04.json",
+      "sha256": "3057d5f54af353a4185fa24f5bf97e31de8f3ca990b8398bf63ed0c6c5c9e1cc"
+    },
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_05.json",
+      "sha256": "9cc6b444eaafa6f390be71e4a04465c7afe04e9202dca9eb776d72f13a15ed6b"
+    },
+    {
+      "file": "WOLBACH_CHOMUSUKE_ACTUAL_KNOWN_PREPARATION_RECEIVING_06.json",
+      "sha256": "d0061158171462d962eae2bfc15fe32abc8951392719df12d1306362d6d87bdf"
+    }
+  ],
+  "known_integral_prose_images": {
+    "source": "EXP-03",
+    "actual_complete_pages": 8,
+    "actual_visible_ruby_read": true,
+    "receiving_sha256": "b6090eb2a4869a3074cbb0c60a2bcc5079ccac51b0433039e09d1ccf9d4ba5fb",
+    "images": [
+      {
+        "image_id": "EXP-03-IMG032",
+        "member": "item/image/img-txt14.jpg",
+        "sha256": "9fba6341faad24e740842628d440cc0240b642dbc3a2f8b66226c3e5fb5e93fa",
+        "bytes": 310095,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Complete final-interlude heading and Yunyun first-person account,including visible ruby: her solo-leveling rationalization and wish to surpass Megumin precede the carriage encounter; this is not Wolbach’s private motive."
+      },
+      {
+        "image_id": "EXP-03-IMG033",
+        "member": "item/image/img-txt15.jpg",
+        "sha256": "43edb2e7a112e47c4c3f40fd9e3db7ad11fca3e3810177d781394209028e011a",
+        "bytes": 365154,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Yunyun privately retracts self-sufficiency and wants companions/conversation. The unnamed woman notices distress,asks if she is ill,offers concern and actually hands over wrapped baked goods. Her traveler-mage appraisal and gentle warning do not establish omniscience or parental relation."
+      },
+      {
+        "image_id": "EXP-03-IMG034",
+        "member": "item/image/img-txt16.jpg",
+        "sha256": "341a6d399dc6f7ea959259caff3e13ce07eed8ef7c1e7347153ce505ffa6933f",
+        "bytes": 347337,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Yunyun thanks her; woman encourages tasting. Hood removed,the woman has short red hair and yellow eyes,looks nostalgic at red eyes,asks Crimson identity and permits not giving the difficult name because she knows unusual Crimson names. Earlier cookie memory is Yunyun’s separate recalled journey,not a second present gift by this woman."
+      },
+      {
+        "image_id": "EXP-03-IMG035",
+        "member": "item/image/img-txt17.jpg",
+        "sha256": "7987254c64771b552e486c3134d64bbc94831b5380f27dfbae3ce62a9596129e",
+        "bytes": 382746,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Yunyun actually eats the gift and explains her failed recruitment and separation from Megumin. Woman listens,closes eyes and reports longstanding subordinates left this world in succession,with a lonely smile. The immediate next-page qualification must accompany this wording; it cannot alone certify permanent deaths."
+      },
+      {
+        "image_id": "EXP-03-IMG036",
+        "member": "item/image/img-txt18.jpg",
+        "sha256": "e136d75d3700cac10cf5ab75e944fc9bfd229f20ee1d04b5a257d49718502522",
+        "bytes": 358781,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Woman explicitly clarifies only temporary parting,not never seeing the subordinates again. She asks Yunyun’s destination and offers company plus occasional adventuring while she takes hot-spring treatment,claiming strength. Yunyun eagerly accepts before learning the intended Arcanretia destination,then hesitates; this is not final acceptance of all travel terms."
+      },
+      {
+        "image_id": "EXP-03-IMG037",
+        "member": "item/image/img-txt19.jpg",
+        "sha256": "aeefa6c75131a3a9587fa67250146081ea3432ab11c0c01f2e6583b6984f86f5",
+        "bytes": 386643,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "At Yunyun’s demon-army-incident report,the woman changes expression and mutters that the Arcanretia plan should occur much later. She questions the alleged slime sabotage and grips Yunyun’s shoulders in surprise. The report attributes blame to Axis doctrine and an observed female devil; it is not an independently witnessed army operation,powder pour or complete insider confession. The woman’s foreknowledge/timing is incomplete,not universal strategy control."
+      },
+      {
+        "image_id": "EXP-03-IMG038",
+        "member": "item/image/img-txt20.jpg",
+        "sha256": "a52300faee5364a067e824b66ad58d7b80862655df53afe4e1ea5077d39e86f6",
+        "bytes": 406142,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "At the transfer stop,the woman says they part here and she will take the Arcanretia carriage. Yunyun declines that destination and promises lifelong memory; woman asks her not to take a modest training-interest invitation so heavily,then advises balancing friends and training lest she become like the Demon King. The woman actually disembarks and waves; she does not compel continued company."
+      },
+      {
+        "image_id": "EXP-03-IMG039",
+        "member": "item/image/img-txt21.jpg",
+        "sha256": "ce3fd499672b88b7a2e6bf7e286fd1bf78f2a2a54a8ad4c2e4508d532a2d2a9a",
+        "bytes": 311292,
+        "actual_viewed_in_this_preparation": true,
+        "complete_visible_page_and_ruby_read": true,
+        "after_view_source_first_notes": "Yunyun waves back,reflects on the woman’s lonely-Demon-King story and the child’s special power needing companions,and realizes she forgot to ask the woman’s name. This is reader-access information,not Yunyun’s named identification at this earlier time. No biological kinship or completed later operation follows from the story."
+      }
+    ]
+  },
+  "scope": "Known accepted-source context union,not new source admission or global coverage. BASE excludes rt/rp and includes collateral actors,blank slots,reports and hypotheses. Twenty member count includes bounded returns and does not claim twenty complete text/ruby passes. Eight image pages were separately inspected completely with visible ruby; EXP03 image/text share one native object.",
+  "identity_and_access_controls": [
+    "MAIN04 Hans explicitly names the bath woman P53; later narrator uncertainty is separate.",
+    "EXP03 carriage-woman join uses MAIN09Wolbach/Yunyun specific recalled invitation,not hair/eyes alone. Arnes shares hair/eye traits and remains distinct.",
+    "EarlyMegumin opening,resealing,laterKomekko opening and repeated retellings remain distinct times/access.",
+    "Wolbach/Chomusuke half relation does not certify shared current memories,goals,personhood or assent.",
+    "IMG035 subordinate-separation wording is qualified by IMG036 as temporary.",
+    "MAIN09 final smile is explicitly uncertain; no forgiveness or planned death is inferred.",
+    "MAIN15 averted gaze means present fire is Aqua’s report; do not turn it into Kazuma’s current watched act or negate separately accessed earlier acts.",
+    "MAIN16 actual head contact and belly refusal have distinct permission scope."
+  ],
+  "new_admission_credit": 0,
+  "new_full_principal_or_ruby_pass_credit": 0,
+  "new_independent_source_test_credit": 0,
+  "independent_observation_count": null,
+  "accuracy_or_confidence_gain": false,
+  "protected_existing_model_body_count": 24,
+  "protected_existing_models_unchanged": true,
+  "full_program_complete": false
+}

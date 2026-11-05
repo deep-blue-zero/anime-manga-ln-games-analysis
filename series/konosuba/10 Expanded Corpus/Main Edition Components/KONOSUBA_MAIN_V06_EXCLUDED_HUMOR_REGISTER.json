@@ -1,0 +1,298 @@
+{
+  "schema": "KONOSUBA_MAIN06_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-06",
+  "records": [
+    {
+      "id": "M06EX-H01",
+      "boundary": {
+        "component_id": "MAIN-06-U003",
+        "image_id": "MAIN-06-IMG005"
+      },
+      "whole_selected_premise": "Darkness tries to contain aristocratic embarrassment while Aqua and Megumin each plan a personally gratifying introduction.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "COLOR_STAGED_PARTY_PREPARATION",
+      "primary_H": "H4",
+      "H_rationale": "U012P390-437/438-477 distinguishes planned entrance, interrupted performance, actual art and mediated royal response.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "native_member_sha256": "0f3ae8841317aee93f3e2091c12395c87fa10feabf9d010866e224836c032677",
+      "native_image_sha256": "ed17fee72fa0aaccf04b32dbd2c379092ec7047fe49ba297ef0aefc8483ca791",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H02",
+      "boundary": {
+        "component_id": "MAIN-06-U004",
+        "image_id": "MAIN-06-IMG006"
+      },
+      "whole_selected_premise": "An Iris montage moves from formal mediation to familiar play and first-such-person recognition, using a modern controller as an overt illustration device.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "STAGED_IRIS_COMPOSITE_WITH_MIXED_SPEAKERS",
+      "primary_H": "H4",
+      "H_rationale": "U012P423-426 makes the harsh right quote Claire spoken mediation; U013P224/543 fixes Iris own contexts. No literal console or single chronological scene.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "native_member_sha256": "da54d62a31ce4394475fad69d631a2091f254b3215003273c90d97f817db9acc",
+      "native_image_sha256": "af06c4241d2b4b6ec50cfe2dd36149c6a9a9ec8222e7652329366c1af83e0457",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H03",
+      "boundary": {
+        "component_id": "MAIN-06-U005",
+        "image_id": "MAIN-06-IMG007"
+      },
+      "whole_selected_premise": "Chris's casual invitation, Eris's artifact request and Iris's limited thief admiration juxtapose public identities with concealed activity.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "STAGED_CHRIS_ERIS_IRIS_COMPOSITE",
+      "primary_H": "H4",
+      "H_rationale": "Different reader-facing labels and requests do not reveal identity to every actor or make the proposed visit new leisure.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "native_member_sha256": "06a1e7b431cc6d2a541a4416d981243a8b34cf3eac6f049604b634d0836552c5",
+      "native_image_sha256": "7bb70aa04df108c521665788d930983fa764e04f0772c3c29a182ec4e467685b",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H04",
+      "boundary": {
+        "component_id": "MAIN-06-U012",
+        "image_id": "MAIN-06-IMG010"
+      },
+      "whole_selected_premise": "An actual maid bargain recruits Darkness's exaggerated service/punishment script; the supposedly treasured broken vase turns out not to belong to Kazuma.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "ILLUSTRATION_OF_RETAINED_ADULT_BARGAIN",
+      "primary_H": "H1",
+      "H_rationale": "U012P111-145 preserves conditions, excess she adds herself, actual housework and the corrected property claim. No retroactive completion of MAIN05's proposal.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+      "native_image_sha256": "5d81a1d9b82d77dcb36a22b350892834800adf3828305383c3c8fa2f77d268bc",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H05",
+      "boundary": {
+        "component_id": "MAIN-06-U012",
+        "image_id": "MAIN-06-IMG011"
+      },
+      "whole_selected_premise": "Aqua's precise portrait craft earns a gem despite an insulting extra detail and Darkness's attempts to contain the performance.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "RETAINED_DINNER_EVENT_CONTEXT_OF_NEW_ILLUSTRATION",
+      "primary_H": "H1",
+      "H_rationale": "U012P438-477 is the contextual premise; Iris receives/gives through actual mediation. Art competence and social externality coexist.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+      "native_image_sha256": "277bc9cbf28708bf6e9b3eba2c8a350ece38e3cc907ecdeb0078ebbf08247de0",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H06",
+      "boundary": {
+        "component_id": "MAIN-06-U013",
+        "image_id": "MAIN-06-IMG013"
+      },
+      "whole_selected_premise": "Darkness calls Kazuma's coercive bluff and holds him; Iris's appeal then meets an explanation about his worried companions.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "RETAINED_GRAPPLE_AND_REDUCED_REQUEST_CONTEXT",
+      "primary_H": "H1",
+      "H_rationale": "U013P388-424 makes the illustrated woman Darkness and preserves the farewell-dinner request. No automatic full royal-duty I02 comparison.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+      "native_image_sha256": "4927df37140f52d26ea7033c0a5f161190e8ac1dfd6ed2d8880a467af381e473",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H07",
+      "boundary": {
+        "component_id": "MAIN-06-U014",
+        "image_id": "MAIN-06-IMG014"
+      },
+      "whole_selected_premise": "Aqua chooses Kazuma's immobility to confess damaged belongings, then expands the confession after obtaining a grudging response.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "RETAINED_CONFESSION_WITH_ATTRIBUTABLE_OLD_REPORT_CORRECTION",
+      "primary_H": "H1",
+      "H_rationale": "U014P273-336: Kazuma requests Chris Bind as cover; she escapes; Darkness tries release. CR-MAIN06EX-001 corrects the old report's restraint actor/cause without erasing the opportunistic mechanism.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "native_image_sha256": "46ca5f5ba9f25ec4036499b0bb4c146a7379f02dc2300352dc4cce6d4f83a036",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H08",
+      "boundary": {
+        "component_id": "MAIN-06-U014",
+        "image_id": "MAIN-06-IMG015"
+      },
+      "whole_selected_premise": "Chris's urgent night visit meets Kazuma's sexualized reinterpretation and refusal to hear the troubling account, which she explicitly contests.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "RETAINED_VISIT_AND_OBJECTION_CONTEXT",
+      "primary_H": "H1",
+      "H_rationale": "U014P545-576 supplies explicit objection and denial of a sexual invitation. A playful face supplies no consent; no Bind is shown in this pictured visit.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "native_image_sha256": "7908794cc97b148ef14dcf99dc3b449b03fe024a2d5e103a94988de110c70329",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H09",
+      "boundary": {
+        "component_id": "MAIN-06-U017",
+        "image_id": "MAIN-06-IMG017"
+      },
+      "whole_selected_premise": "The masked heist brings different competent task accounts into the same confrontation, with some companions aiding the thieves while Aqua blocks their goal.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "EMBEDDED_COMPOSITE_OF_RETAINED_HEIST",
+      "primary_H": "H4",
+      "H_rationale": "U016P9-17/403-431 andU018P1-12 fix mask gift, actor access and actual seal. The image is not actual Vanir possession or another heist.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "native_member_sha256": "cc7e90959dd1a3b45aac3891f1612893cf4e998c163e22e8ac38b32df906d5a7",
+      "native_image_sha256": "adb33e7f98f0390877850b243c0229f46734ff5157330702386f996eefa6d2cd",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H10",
+      "boundary": {
+        "component_id": "MAIN-06-U019",
+        "image_id": "MAIN-06-IMG018"
+      },
+      "whole_selected_premise": "A farewell smile coexists with an actual argument over older-brother address and a request for another game rather than the request Kazuma expects.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "RETAINED_FAREWELL_PORTRAIT_CONTEXT",
+      "primary_H": "H1",
+      "H_rationale": "U019P143-194 preserves whose request is interrupted, Darkness's intervention, Iris's specific rematch and private-reader limits. No adult settlement.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "native_member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+      "native_image_sha256": "367f0bf3605e0d7a227a183a7cc32e615dc2391bde446d2ea23a624fbf6bb1ce",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H11",
+      "boundary": {
+        "component_id": "MAIN-06-U024",
+        "image_id": "MAIN-06-IMG019"
+      },
+      "whole_selected_premise": "The illustrator stages Iris holding a Kazuma doll while Megumin objects to the older-brother address, alongside the artist's own wish.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "ILLUSTRATOR_CODA",
+      "primary_H": "H4",
+      "H_rationale": "No new actual doll contact, independent Iris decision or observed romantic rivalry event.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "cce0d8f6639486587a42819726c994752ed1978c950c408a9b7cc9e9c8134931",
+      "native_image_sha256": "ee3e05bb30b97b6573c3eb7d3e2170b7fda0cb1413788b00df5770cf2db63085",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H12",
+      "boundary": {
+        "component_id": "MAIN-06-U026",
+        "image_id": "MAIN-06-IMG021"
+      },
+      "whole_selected_premise": "The next-volume pitch turns Darkness's alarm about marriage into companions' inappropriate congratulations and competing body/pet jokes.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "FUTURE_PROMOTIONAL_BANTER",
+      "primary_H": "H4",
+      "H_rationale": "Possible marriage and a modified-roper preference are prospective/speculative lines, not performed outcomes or established Darkness desire.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-017.xhtml",
+      "native_member_sha256": "ffda4ac2716e7e09a2bc57160a3ee15a9193a36f8d8d7dac455906b205ae3f71",
+      "native_image_sha256": "efeb620d392634eae42e33259aaeae78e6a2853d3364285844b514b92d2bb941",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H13",
+      "boundary": {
+        "component_id": "MAIN-06-U023",
+        "start_P": 4,
+        "end_P": 8
+      },
+      "whole_selected_premise": "The author prepares for another-world combat by reading fighting manga and offers a grappler explanation if the next volume vanishes.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "NONFICTION_CREATOR_SELF_JOKE",
+      "primary_H": "H1",
+      "H_rationale": "U023P4-8 is authorial joking, not actual summoning or fictional Kazuma training.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "503f33a6026cd8edaa975ce34b3ecd8112a06f830afa8069afe49e9aee9619fa",
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M06EX-H14",
+      "boundary": {
+        "component_id": "MAIN-06-U023",
+        "start_P": 13,
+        "end_P": 15
+      },
+      "whole_selected_premise": "Extensive autograph practice and spare paper fail to remove the fear when the actual request arrives on illustrated boards.",
+      "primary_L": "L1",
+      "L_rationale": "The whole expectation, role, information or practical mismatch survives semantic translation. Names, ordinary honorifics, written forms, visual controller imagery and familiar genre formulas do not automatically make this complete effect Japanese-only.",
+      "source_plane": "NONFICTION_CREATOR_ACCOUNT",
+      "primary_H": "H1",
+      "H_rationale": "U023P13-15 is a reported work anecdote and proposed later resistance, not a performed future refusal or a character-model trial.",
+      "eligibility_and_limits": "Purposeful post-seal selection from actual images/paratext and declared inherited context. Overlapping old events remain old; no new independent enactment, blind score, frequency or acoustic claim.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "503f33a6026cd8edaa975ce34b3ecd8112a06f830afa8069afe49e9aee9619fa",
+      "formal_assignment_after_seal_utc": "2026-10-19T10:03:36.873254+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    }
+  ],
+  "H_protocol": "H1 actual act/speech or explicitly attributed documentary/creator statement; H4 explicit staged, promotional or imagined-role presentation. Real-world creator speech is not a fictional actor trial; fantasy or intention alone does not automatically mean H3/H4.",
+  "L_protocol": "Whole effects and nested written forms are distinct. All14whole selected effects are L1; no compulsory Japanese-only dependence follows from a name, title, ruby or honorific. Selections overlap and are not a denominator."
+}

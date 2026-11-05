@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_DUST07_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "DUST-07",
+  "accepted_utc": "2026-10-18T11:33:04.335402+00:00",
+  "native_filename": "Konosuba Extra - Dust - Volume 07.epub",
+  "native_bytes": 4740436,
+  "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "3614bd9ba45b3c5d2fad98c01ed416cc0adfefc131681b6f71b63bd922081c5d",
+  "language": [
+    "ja"
+  ],
+  "colophon": "2020-05-01/ver.002, same-date first print; exact subtitle 竜に愛されし愚者（ぐしゃ）. Original Akatsuki Natsume, prose Hirukuma, distinct illustration/concept credits.",
+  "admission_sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834",
+  "admission_utc": "2026-10-18T10:24:43.680030+00:00",
+  "preceding_full_gate_source": "e9f4ae451a02bfc2c8a0b8220fc7e2d7b91c4ace",
+  "preceding_gate_sha256": "273384671cc449bc91951b119acc1af49198334a7dcf571f58ad4b6d83abe5ba",
+  "preceding_fresh_reload_sha256": "89c2513f7f4f14f7384d6a9313f42740245b95c83f0f6a8114bf1f94bfd482eb",
+  "complete_uncoded_seal_sha256": "79a08efc721bc6d5077d277fb41d4cf243e097f82c215b0f526dba50df4b5de2",
+  "complete_uncoded_seal_utc": "2026-10-18T11:04:05.328502+00:00",
+  "actual_reading": {
+    "all_textual_components": 20,
+    "all_native_P_slots": 2952,
+    "principal_P_slots": 2881,
+    "other_P_slots": 71,
+    "separate_bonus_narrative": false,
+    "all_native_images_actually_viewed": 19,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 39,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 22495,
+      "sha256": "715c760ef593ee52c7717f843f40d03fde10b9617ecd6f40c0aea102c1684834"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 7175,
+      "sha256": "6ad45162b880e7582dbe929736c6d1bdeae0e375e744f4bd9be8252dd31cca91"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 126497,
+      "sha256": "e3960ff45bcc013bb1a838e6e2fce500e513b67178b207ebda4a0ed36d81c108"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 14619,
+      "sha256": "f9288724a5ef53849fee2dd3b9c2d0a6c1e0430eed1852932dd33e0cc302ebf7"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 64,
+    "native_verified_short_form_context_witnesses": 146,
+    "local_unchanged_question_assessments": 7,
+    "append_only_decisions_across_ten_ledgers": 34,
+    "current_precision_qualifications": 44
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "Dust04 coercive-danger precision and Dust05/06 assessments/working inquiries preceded this body; known earlier Dust07 principal holdout/R1 exposure retained. Exact title controls early uncoded expansion; one sealed elongation mismatch preserved with current verified shortened form."
+}

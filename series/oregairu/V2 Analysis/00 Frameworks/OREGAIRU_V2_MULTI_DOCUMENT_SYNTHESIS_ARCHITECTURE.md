@@ -1,12 +1,16 @@
 ---
 title: "Oregairu V2 Multi-Document Synthesis Architecture and Execution Phases"
 project: "Yahari Ore no Seishun Love Comedy wa Machigatteiru. / Oregairu"
-version: "2.2"
-status: "governing architecture"
+version: "2.3"
+status: canonical
+artifact_type: governing_architecture
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 companion_method: "OREGAIRU_V2_ANALYTICAL_METHOD.md"
 artifact_prefix: "OREGAIRU_V2_"
-last_updated: "2026-08-19T16:20:00-04:00"
-architecture_amendment: "Phase 8.5 reconstruction models + shared everyday-life/preferences evidence infrastructure"
+last_updated: "2026-10-16"
+architecture_amendment: "Original eight-model suite retained; evidence-gated supporting-character expansion and release reconciliation"
 ---
 
 # OREGAIRU V2 MULTI-DOCUMENT SYNTHESIS ARCHITECTURE AND EXECUTION PHASES
@@ -78,6 +82,8 @@ Their authority must be labeled rather than silently equated with numbered mainl
 Treat as a possible **post-ending continuation annex** after the V2 mainline corpus has stabilized.
 
 It may test whether the mainline synthesis survives later ordinary-life continuation.
+
+For the owner-authorized 2026 completion and expanded release, **Shin is excluded**. The historical possible-annex description above is not an active acquisition, admission, analytical, or completion obligation.
 
 ### Ketsu
 
@@ -1221,6 +1227,34 @@ Before closure:
 Phase 8.5 closes when the eight architecture-defined models are canonical **or** a model has been explicitly downgraded/deferred with an evidence-insufficiency finding; every canonical model has a completed everyday-life/preferences slice in the shared ledger; targeted source escalations are recorded; cross-model consistency QA passes; and the release README can route simulation/reconstruction tasks deterministically.
 
 Phase 9 may not begin while an architecture-defined Phase-8.5 model remains silently incomplete.
+
+---
+
+## Supporting-character expansion — owner amendment, 2026-10-16
+
+This retrospective expansion follows the original Phase 8.5 suite audit and precedes expanded release QA. It does not reopen sequential reading, redefine the eight initial models, renumber Documents 01–14, or supersede the original twelve specialists. Existing literary conclusions remain current subject to Document 13 and attributable evidence-backed correction.
+
+Use the existing `05 Specialist Synthesis/` home for the following independent responsibilities:
+
+| Artifact | Responsibility |
+|---|---|
+| `SC01_TOTSUKA_SAIKA_AGENCY_FRIENDSHIP_AND_THE_NARRATED_GAZE.md` | Totsuka as an independent subject; tennis, aspirations, friendship, boundaries, narrative gaze and Japanese voice. Test recognition without presuming a completed escape from aestheticization. |
+| `SC02_MIURA_YUMIKO_AUTHORITY_CARE_AND_VULNERABILITY.md` | Miura's social authority, desire, friendship, perception, conflict, apology and limits of insight. |
+| `SC03_ZAIMOKUZA_YOSHITERU_PERFORMANCE_AND_CREATIVE_COMMITMENT.md` | Zaimokuza's performed identity, actual creative/peer commitments, collaboration, embarrassment and voice. |
+| `SC04_EBINA_HINA_PERFORMANCE_INTIMACY_AND_GROUP_CONTINUITY.md` | Ebina's avoidance, group preservation, agency and responsibility for costs; no invented private history. |
+| `SC05_KAWASAKI_SAKI_FAMILY_WORK_AND_BOUNDARIES.md` | Kawasaki's material constraints, family obligations, choice, work and social boundaries. |
+| `SC06_SAGAMI_MINAMI_REPUTATION_ACCOUNTABILITY_AND_CHANGE.md` | Sagami's state changes, competence, reputation and limits of redemption narratives. |
+| `SC07_HAYAMA_SOCIAL_CIRCLE_COORDINATION_AND_AVOIDED_CONFLICT.md` | Emergent group mechanisms linking Hayama, Miura, Ebina, Tobe and Yui; external interventions and distributed costs. |
+
+Evidence density governs depth, including a narrower completed study where a full monograph would require unsupported interiority. Begin with existing derived ledgers, specialists, Phase 6 and Document 13; reopen primary Japanese scenes for disagreements, exact language, sparse cells and material gaps. Keep assertion, focalized observation, inference and literary interpretation distinct. Do not convert Hachiman's reaction into another person's identity or desire.
+
+Operational models remain optional, separately justified outputs in `06 Continuous Synthesis/Character Reconstruction Models/`. A completed literary monograph is not itself a simulation qualification. Any new model must satisfy the existing nineteen-part schema, chronological and relationship-conditioned language requirements, primary-first shared everyday-life slice, negative constraints, uncertainty controls and bounded scenario/source QA. A candidate lacking those gates is explicitly deferred rather than padded. These local eligibility decisions are not global capability grades or registry assessments.
+
+Assess Yukinoshita's mother, Shiromeguri, Rumi, Tobe, Orimoto and Tamanawa in the existing completion status by distinctive analytical responsibility: standalone monograph, narrower treatment, operational model or distributed retention. Record insufficiency and the source needed; symmetrical cast coverage is not a completion criterion.
+
+The integrator owns shared map/ledger changes and claim reconciliation. Distinct authors may own separate studies against the recorded source snapshot. Each consequential finding is classified as elaboration, strengthening, required revision, contradiction or OPEN. Amend Document 13 or other mutable homes only for material effects; frozen specialists/checkpoints/readings use attributable errata. Preserve adverse evidence and differences among mainline prose, qualified Watari supplements, alternate continuity, adaptation, guest fiction, paratext and derived simulation.
+
+The expanded Phase 9 package includes these completed responsibilities, justified model decisions, source reconciliation, current curator handoff and release QA. It must retain the original eight-model audit as a historically identifiable completed suite. The registered mutable corpus map remains the single entrypoint until an explicit approved release transition; a reader guide does not silently replace it. Without a verified protected integration or required final approval, produce a clearly marked release candidate rather than claim a definitive freeze.
 
 ---
 
