@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0203
+current_event_boundary: EVENT_0204
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0203
+## Current coverage — all five human units synchronized through EVENT_0204
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0203 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0203` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0204 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0204` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0204 — complete envelope integrated
+
+The complete fully read frozen envelope is **25 stories / 45 scenes / 1,576 records / 206,180 canonical bytes**: eight core chapters, ten card halves (1386–1390), three monthly areas and four ev_street_26 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/cards 1389–1390/release areas use `2026-05-08T06:00:00Z`; cards 1386–1388 use `03:00:00Z`; monthly rows retain archive timestamp `2023-09-29T15:00:00Z`. Pre-qualifier practice, rivals’ celebration and the separate local-singer party retain their narrative ordering.
+
+**EVENT_0204 is fully integrated:** VBS qualifies for the main competition and chooses contact with DG. Kohane adapts to unfamiliar studio work and articulates self-direction alongside actual dependence; existing human/group owners remain. Scoped VBS-REL-GROUP-DG-E0204 and VBS-EPI-DG-E0204 record the materially new relationship and divided evidence, including an audience-only adverse judgment and unspecified arrangement.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0204_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0204--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading distinguishes observed support, conflicting testimony, the quartet’s unresolved unease and DG’s private instruction. No new contract, proved past wrongdoing, specified sabotage or tournament victory is certified. All cards/areas preserve training limits, family contact, ordinary tastes, mediated cross-unit receipt and unfinished plans. Historical bodies, EVENT_0170 closure and R3 through EVENT_0140 remain intact. 33 of 42 newly authorized events are closed; EVENT_0205 is next, 9 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0203 — complete envelope integrated
 

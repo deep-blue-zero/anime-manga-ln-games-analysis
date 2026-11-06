@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0203
+current_event_boundary: EVENT_0204
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0203
+## Current state — founded units synchronized through EVENT_0204
 
-All five human units now track the same source-present event history through `EVENT_0203`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0203 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0204`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0204 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0171–0213 continuation — EVENT_0203 integrated boundary
+### Active EVENT_0171–0213 continuation — EVENT_0204 integrated boundary
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 
@@ -243,14 +243,14 @@ The owner authorized this new continuous run on 2026-11-05. The registered READM
 |---|---|
 | Run mode / state | `continuous_sequential` / active |
 | Authorized source interval | EVENT_0171 through EVENT_0213, source-present events only |
-| Integrated analytical high-water mark | EVENT_0203; 32 of 42 newly authorized events closed |
-| Next atomic operation | Complete EVENT_0204 envelope discovery, reading, five-unit routing and ledger integration |
-| Remaining interval | 10 source-present events; EVENT_0186 absent in the frozen lock |
+| Integrated analytical high-water mark | EVENT_0204; 33 of 42 newly authorized events closed |
+| Next atomic operation | Complete EVENT_0205 envelope discovery, reading, five-unit routing and ledger integration |
+| Remaining interval | 9 source-present events; EVENT_0186 absent in the frozen lock |
 | Prior source absence | EVENT_0166; no fabricated bridge reading |
 | Frozen source generation | `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, pipeline v0.2.7, primary `22b4d19e982feaece6cd42c074e86e2cefac5cdd` |
 | Local source recovery | Preserved `releases/corpus-v0.2.7-generated-archive-20260921` generated files plus the matching retained `corpus/01_RAW_UPSTREAM` commit, under the supplied Project_SEKAI pipeline root |
 | Excluded source refresh | Active corpus run `20261030T035133Z`; no silent expansion to its later inventory |
-| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0203 deltas captured, no R4 or performed-voice promotion |
+| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0204 deltas captured, no R4 or performed-voice promotion |
 | Inspection lane | Complete frozen Japanese text; video, CG and performed audio remain uninspected |
 | Publication discipline | Commit each closed analytical transaction; publish coherent tranches only with exact-head Repository integration audit before the next published tranche |
 | Terminal work | After EVENT_0213, audit EVENT_0141–0213 deltas and prepare the reconstruction/synthesis handoff; no full-series completion claim from event coverage alone |
@@ -441,11 +441,17 @@ The [EVENT_0201 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0201_DEEP_R
 
 The [EVENT_0202 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0202_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0202--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The complete reading distinguishes actual bereavement from Ichika’s imagined losses, participant knowledge from audience-only new-world information, and particular creative receipt from universal recovery or world laws. All five units receive scoped epistemic dispositions; all cards/areas preserve consent concerns, local singers, ordinary contact and unfinished plans. Prior event bodies, EVENT_0170 closure and reconstruction authority remain intact. EVENT_0203 is next; reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0203 current checkpoint
+#### EVENT_0203 historical checkpoint within this run
 
 **EVENT_0203 is fully integrated:** an actual week off follows Honami’s fatigue concern and Shindo’s already progressing arrangements. Newly specified childhood history and a present return to its changed site strengthen the quartet’s received reciprocity. Honami proposes actual music for their own pleasure. Existing human, group, Solis and School-local owners remain current at differentiated I2; no new I3 is required.
 
 The [EVENT_0203 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0203_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0203--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The complete reading preserves actual childhood history, hypothetical causal alternatives, present receipts and unperformed plans. It retains Saki’s undisclosed E0188 conflict, the actual dog reunion without certain animal recognition, and the distinction between Honami’s satisfied food drawing and Mafuyu’s private knowledge of Kanade’s misreading. Five-unit dispositions, all cards/areas, historical bodies and EVENT_0170 closure remain complete. EVENT_0204 is next; reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0204 current checkpoint
+
+**EVENT_0204 is fully integrated:** VBS qualifies for the main competition and chooses contact with DG. Kohane adapts to unfamiliar studio work and articulates self-direction alongside actual dependence; existing human/group owners remain. Scoped VBS-REL-GROUP-DG-E0204 and VBS-EPI-DG-E0204 record the materially new relationship and divided evidence, including an audience-only adverse judgment and unspecified arrangement.
+
+The [EVENT_0204 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0204_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0204--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The complete reading distinguishes observed support, conflicting testimony, the quartet’s unresolved unease and DG’s private instruction. No new contract, proved past wrongdoing, specified sabotage or tournament victory is certified. All cards/areas preserve training limits, family contact, ordinary tastes, mediated cross-unit receipt and unfinished plans. Historical bodies, EVENT_0170 closure and R3 through EVENT_0140 remain intact. EVENT_0205 is next; reconstruction packages remain through EVENT_0140.
 
 ### EVENT_0141–0170 continuation — EVENT_0170 committed boundary
 

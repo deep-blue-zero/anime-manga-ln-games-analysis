@@ -74,3 +74,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0193 — GO ALL OUT](PJSK_EVENT_0193_DEEP_READING.md): complete 25-story envelope; Professional preparation becomes actual overseas work; trusted disclosure creates equal rivalry, while expressive success, competitive defeat and the need for shared rest coexist.
 
 - [EVENT_0201 — Show 'em what's up！](PJSK_EVENT_0201_DEEP_READING.md): complete 23-story envelope; Requested rival help lets An connect learned English with remembered sound and lead a first-stage win; ordinary initiative and mistakes keep the acquired method bounded.
+
+- [EVENT_0204 — Stay solid, No fold](PJSK_EVENT_0204_DEEP_READING.md): complete 25-story envelope; Actual qualification opens industry access; Kohane’s supported curiosity and stated self-direction meet generous material provision, unsettling appraisal and a private adverse judgment she does not hear.
