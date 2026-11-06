@@ -15,7 +15,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ## Recorded assessments
 
-- Recorded totals: `CANDIDATE` 50; `STALE` 1; `SUPERSEDED` 7
+- Recorded totals: `CANDIDATE` 52; `SUPERSEDED` 8
 
 ### Subject `86-eighty-six:shinei-nouzen@original-light-novels`
 
@@ -1438,6 +1438,41 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 - Evidence at basis commit:
   - [`re-zero:wilhelm-van-astrea@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357/series/re-zero/05%20Character%20Analysis/REZERO_WILHELM_VAN_ASTREA_V01_V16_CHARACTER_MODEL.md)
 
+### Subject `shokugeki-no-soma:aldini-takumi@manga`
+
+#### Assessment `shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:aldini-takumi`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:aldini-takumi@manga\#reviewed-dedicated-analysis, the active\_provisional bounded character model SHOKUGEKI\_TAKUMI\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis consolidated from the project's original-Japanese V01-V36 sequential reading including Le dessert. Its linked deep readings, ledgers, evidence matrix and audits were not used as evidence; they are not curated on this subject. The project's substantial readiness label is an input, not a conclusion. No original manga page, anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The model's six named states from the family-trained early rival \(V03\) through the Mimasaka defeat and tool return \(V10-V11\), Régiment \(V24-V29\) and the BLUE partnership \(V34\), with a compressed adult vocation state. Detailed behavior is supported for the school-era and late-school states only; the adult state, the serialized ending and the Le dessert tiers are not assessed beyond the model's compressed account.
+- Basis commit: `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `422df281f56e37f6b449641a86b19b1fc341d0f787a7750155a31361881ba9bd`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is fixed to the rebuilt post-Election or cooperative late-school state \(Régiment through the BLUE partnership\), or to one earlier named state; the compressed adult state is not used for detailed behavior.
+  - `CROSS_SCENARIO` condition: The situation is a culinary, rivalry or partner-cooking problem in a school or professional kitchen where the model's H rules apply.
+  - `CROSS_SCENARIO` condition: The interlocutor is Isami, Soma, Gin or another recipient in the model's table, or an unfamiliar coworker handled at M with the mezzaluna custody question retained.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description carrying the model's H, M or U label, abstaining on rematch history, adult business arrangements, unseen romance, ordinary conflict policy and automatic tool consent.
+  - `CROSS_SCENARIO` condition: No quoted dialogue is produced as canon, and no readiness is inherited from the project's substantial label.
+  - `CROSS_SCENARIO` bounds: chronology The rebuilt post-Election or cooperative late-school state through the BLUE partnership, or one earlier named state; no detailed adult state.; interlocutor Isami as constitutive partner, Soma as rival and emergency partner, Gin as mentor, or an unfamiliar coworker without invented history.; settings A culinary, rivalry or partner-cooking task is present; Behavioral description with H/M/U labels, not canon dialogue; Abstain where the model abstains
+  - `PROFESSIONAL_CONTEXT` condition: Only culinary work in the school-era or late-school states: family-style service, competition dishes, Régiment team work and partner cooking.
+  - `PROFESSIONAL_CONTEXT` condition: Competence is held to the model's named domains; no universal cuisine, institutional or managerial expertise is assumed, and losses to Mimasaka and Rindō remain limits.
+  - `PROFESSIONAL_CONTEXT` condition: Contributions stay attributed \(Gin's plan, Isami's and Soma's stations\), and adult business arrangements are not invented.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `adult-endpoint-compressed` (evidence-backed limitation): The adult vocation state is compressed career evidence and does not supply a private life, a rematch tally or business arrangements, even though the model names it as the default.
+  - `isami-not-replaceable` (evidence-backed limitation): Soma's successful substitution in the BLUE partnership does not make Isami replaceable, and the win does not resolve Isami's abduction.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, ledgers, evidence matrix and audits the model links are not curated on this subject, so its volume-keyed claims were not checked against them.
+  - `losses-are-real` (evidence-backed limitation): The Mimasaka, Régiment and Rindō losses are real limits; the Eizan win is not universal foresight, and table skill is not universal expertise.
+  - `no-character-image-verification` (evidence gap): The model records no character-specific image verification or primary reread; it is a consolidation of the earlier sequential reading through analytical retrieval.
+  - `rindo-fear-cause-unestablished` (evidence-backed limitation): Takumi perceives Rindō's fear but does not establish its cause; the model abstains on that cause.
+  - `tool-custody-not-free-access` (evidence-backed limitation): One consensual shared-blade scene with Soma does not license free access to the mezzaluna; voluntary entrustment is on his own terms.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:aldini-takumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:ikumi-mito@manga`
 
 #### Assessment `shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`
@@ -1654,9 +1689,42 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
 
 ### Subject `tokyo-7th-sisters:araki-rena@game`
 
+#### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:araki-rena`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the six reviewed readings curated on tokyo-7th-sisters:araki-rena@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): T7S\_B0199 \(complete Sub Intimacy family 200630, read in full\); T7S\_B0232 case 15 \(Short message 402001801\); T7S\_B0239 Birthday portfolio 404000046; T7S\_B0248 Event family 200410 \(これがLe☆S☆Ca！！, 505018301-04\); T7S\_B0250 Event family 200470 \(507020101-02\); and T7S\_B0251 Event families 200500 \(507020701-02\) and 200510 \(508021701-04\). For the multi-subject readings, Rena's chapters and the families' synthesis, comparison and limits sections were read. The earlier Main and Sub readings these cite as context are not curated and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the readings, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Independent occasions with no chronology, age or unlock level across them: the eight B0199 occurrences \(internal sequence only in episode 401006487\), one Short message, one Birthday portfolio, the pre-debut making-of family 200410, the rehearsal family 200470, the post-live family 200500 and the Christmas family 200510. Order holds only inside each family; no default state is designated, and nothing before, after or between these occasions is assessed.
+- Basis commit: `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `025b1ab32ae8d47974d17e06357ea90e27893f1ec09b72ab00b1e46ae8f588ff`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the unordered occasions in the six curated readings; nothing before, after or between them is assumed.; interlocutor The manager, Kyoko, Honoka, Sui, Coney or the written birthday-board contributors as the readings describe them; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts beyond the located occasions; Behavioral or dialogue simulation rather than bounded canon description
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `care-not-consent` (evidence-backed limitation): The manager's unannounced foot grasp drew her objection, and peers object to her bodily jokes; neither care nor teasing establishes standing consent, and her requested slap on the back is a different kind of support.
+  - `earlier-states-not-curated` (evidence gap): The earlier Rena readings \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are not curated on this subject, so the readings' comparisons with them were not checked. Missing support is not evidence of absence.
+  - `japanese-wording-mostly-paraphrased` (evidence gap): The readings mostly paraphrase Rena's Japanese, so register, sentence endings and self-reference are largely absent from the curated evidence.
+  - `no-performed-medium` (evidence-backed limitation): No performed voice, singing, dance, music or continuous runtime was heard or watched in any curated reading, and the lives are reported or promised rather than performed.
+  - `no-permanent-change` (evidence-backed limitation): Her choice of both activities and her stated gladness at joining Nanasta are local; the readings say they establish no permanent cure for overwork or settled confidence.
+  - `outcomes-not-shown` (evidence-backed limitation): The higher-bar result \(B0199\), the making-of footage \(B0248\), the rematch \(B0250\), and the illumination outing and gift reception \(B0251\) are not shown; reported improvements and appraisals are self-reports or peers' accounts.
+  - `plural-assent-not-individual` (evidence-backed limitation): Kyoko's plural Le☆S☆Ca reply to the future-live invitation is not Rena's separate assent \(B0251 507020702\).
+  - `teasing-has-costs` (evidence-backed limitation): Her teasing draws objections, a birthday-board caution and two explicit apologies; the readings keep these repairs local and do not treat teasing as universally welcome.
+  - `unordered-occurrences` (evidence-backed limitation): The curated sources are independent occasions with no chronology, age or unlock level across them; sequence holds only inside each family, and cross-case comparisons are thematic.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0239-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0239_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0248-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0248_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0250-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0250_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0251-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/tokyo-7th-sisters/02%20Readings/T7S_B0251_DEEP_READING.md)
+- Supersedes: `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
+
 #### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `tokyo-7th-sisters:araki-rena`
 - Scope: continuity `tokyo-7th-sisters-game`
 - Source boundary: Only tokyo-7th-sisters:araki-rena@game\#b0199-deep-reading, the canonical T7S\_B0199 reading at basis\_commit, read in full: the complete Sub Intimacy family 200630 \(NM-INTIMACY-200630\) of seven short addresses \(episodes 401000131, 401000135, 401000460, 401000762, 401001042, 401001210, 401001494\) and the long episode 401006487, in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Rena states \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, singing, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
@@ -1678,6 +1746,7 @@ Inclusion in the [Character Analysis Index](../CHARACTER_ANALYSIS_INDEX.md), cha
   - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology or unlock level; only episode 401006487 has an internal sequence, and cross-case comparisons are thematic.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+- Superseded by: `tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:araki-rena@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `tokyo-7th-sisters:asami-miwako@game`
