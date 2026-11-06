@@ -69,3 +69,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0159 — Connect hearts message](PJSK_EVENT_0159_DEEP_READING.md): complete 23-story mixed envelope; Saki, Emu, and Shiho move a company-study exercise into differentiated paid event work, while Saki–Emu school friendship gains beyond-committee reciprocal continuity.
 
 - [EVENT_0160 — You are my HERO!!](PJSK_EVENT_0160_DEEP_READING.md): complete 23-story mixed envelope; Tsukasa reconstructs a retiring owner's original show and adapts it around an independently inspected ride stoppage with audience participation and direct recipient feedback.
+
+- [EVENT_0179 — Link the Beats！](PJSK_EVENT_0179_DEEP_READING.md): complete 37-story envelope; Six local singers visit other established SEKAI and return with selective experience. Stage Miku refines an offer of warmth for a particular recipient; repeated tree care does not reopen a route.
