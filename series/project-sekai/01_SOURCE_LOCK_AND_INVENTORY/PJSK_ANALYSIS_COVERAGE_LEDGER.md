@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0191
+current_event_boundary: EVENT_0192
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0191
+## Current coverage — all five human units synchronized through EVENT_0192
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0191 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0191` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0192 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0192` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0192 — complete envelope integrated
+
+The complete fully read frozen envelope is **24 stories / 37 scenes / 1,454 records / 170,894 canonical bytes**: eight core chapters, ten card halves (1315–1319), two monthly areas and four ev_night_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1318–1319 and release areas use `2026-01-11T06:00:00Z`; cards 1315–1317 use `03:00:00Z`. Both monthly rows retain archive timestamp `2023-09-29T15:00:00Z`; it is not their inferred diegetic date.
+
+**EVENT_0192 is fully integrated:** scoped `K-E0116-01 → K-E0192-01` records Kanade being forced to consider a life beyond needing to rescue Mafuyu, receiving a provisional distance option and deciding to think, without resolving the conflict. Mafuyu E0189, Ena E0184 and Mizuki E0150 remain current. Reciprocal practical care and differentiated Empty singer intervention strengthen established relationships; Mafuyu has not received the proposed family-distance discussion.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0192_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0192--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six selective ledger additions distinguish received questions, private unease, tentative family hypotheses and actual ordinary support. Luka’s exclusivity/dependence claims are attributed, not clinical or metaphysical authority. Neither a new song, resolved rescue dependence, family decision nor universal intervention rule is completed. Historical readings and EVENT_0170 closure are preserved; all five units are dispositioned. 21 of 42 newly authorized events are closed; EVENT_0193 is next, 21 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0191 — complete envelope integrated
 

@@ -68,3 +68,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0177 — ほどけぬ明日に手を伸ばして](PJSK_EVENT_0177_DEEP_READING.md): complete 27-story envelope; Mizuki’s existing recipient-owned support gains an explicitly imagined future through clothing, while the choice remains open. Actual introductions, ordinary sibling time and group gratitude strengthen existing relations at I2 without a forced successor.
 
 - [EVENT_0184 — Colors of Pure Sense](PJSK_EVENT_0184_DEEP_READING.md): complete 24-story envelope; Ena regains expressive freedom without erasing a low technical assessment, names her university target and deletes one approval-seeking account while keeping her art work and shared place of return.
+
+- [EVENT_0192 — 覚めない幻想をノックして](PJSK_EVENT_0192_DEEP_READING.md): complete 24-story envelope; Kanade confronts the possible end of her rescuer role; provisional advice, guarded knowledge and ordinary reciprocal care leave the decision open.
