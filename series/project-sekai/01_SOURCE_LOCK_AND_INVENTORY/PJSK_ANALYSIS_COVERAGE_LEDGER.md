@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0211
+current_event_boundary: EVENT_0212
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0211
+## Current coverage — all five human units synchronized through EVENT_0212
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0211 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0211` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0212 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0212` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0212 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 38 scenes / 1,288 records / 163,580 canonical bytes**: eight core chapters, ten card halves (1434–1438) and four linked areas. Canonical/pinned-raw hashes, normalized content, ordered identities, membership and chronology reconcile. Core/1437–1438/areas publish at `2026-07-31T06:00:00Z`, 1434–1436 at `03:00:00Z`; arrangement, composition, the two-week progress check and later live retain their story intervals. CG, music, rehearsal and concert AV were not independently inspected.
+
+**EVENT_0212 is fully integrated:** independent creation feeds Ichika’s band craft and enjoyment while consuming rest. A concrete Opus offer and Shindo’s correction of an assumed contract prohibition lead to her chosen, enacted refusal and continued personal work. Treasure Box is posted and the band’s joint-bill live succeeds. The others’ concern, canceled singer surprise and Shindo’s undisclosed parent-company prospect keep the costs open.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0212_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0212--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. Ichika’s choice is consequential but not certified permanently optimal; fatigue, continued desire, differentiated recipients and agency roles remain. Parent-company transfer is producer thought, not band receipt or a signed move. Historical bodies and EVENT_0170 closure are preserved; reconstruction remains R3 through EVENT_0140. 41 of 42 newly authorized events are closed; EVENT_0213 is next, 1 remains and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0211 — complete envelope integrated
 
