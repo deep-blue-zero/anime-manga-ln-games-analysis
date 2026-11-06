@@ -74,3 +74,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0171 — ordinary,yet special us](PJSK_EVENT_0171_DEEP_READING.md): complete 24-story envelope; a shared alternative life clarifies that affection alone does not maintain shared time. Actual reciprocal recognition and ordinary follow-through advance the group, while observed station-tree change remains distinct from proposed mechanisms and four character histories are preserved.
 
 - [EVENT_0173 — Unsteady, still steady step](PJSK_EVENT_0173_DEEP_READING.md): complete 27-story envelope; Honami coordinates preparation and researches two worthwhile audiences, but the outside offer is withdrawn before she chooses. Existing human, group and Solis owners receive strong I2; the decision-making difficulty remains open, with no new I3. All five routes and six ledgers are integrated.
+
+- [EVENT_0182 — 君と繋ぐHeart Beat](PJSK_EVENT_0182_DEEP_READING.md): complete 22-story envelope; Ichika’s personal song generates reciprocal artistic exchange and new creative chains, leading her to welcome interpretations beyond her intention while Shiho’s different response remains open.

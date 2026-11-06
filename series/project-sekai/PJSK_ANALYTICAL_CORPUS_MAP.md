@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0181
+current_event_boundary: EVENT_0182
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0181
+## Current state — founded units synchronized through EVENT_0182
 
-All five human units now track the same source-present event history through `EVENT_0181`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0181 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0182`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0182 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0171–0213 continuation — EVENT_0181 integrated boundary
+### Active EVENT_0171–0213 continuation — EVENT_0182 integrated boundary
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 
@@ -243,14 +243,14 @@ The owner authorized this new continuous run on 2026-11-05. The registered READM
 |---|---|
 | Run mode / state | `continuous_sequential` / active |
 | Authorized source interval | EVENT_0171 through EVENT_0213, source-present events only |
-| Integrated analytical high-water mark | EVENT_0181; 11 of 42 newly authorized events closed |
-| Next atomic operation | Complete EVENT_0182 envelope discovery, reading, five-unit routing and ledger integration |
-| Remaining interval | 31 source-present events; EVENT_0186 absent in the frozen lock |
+| Integrated analytical high-water mark | EVENT_0182; 12 of 42 newly authorized events closed |
+| Next atomic operation | Complete EVENT_0183 envelope discovery, reading, five-unit routing and ledger integration |
+| Remaining interval | 30 source-present events; EVENT_0186 absent in the frozen lock |
 | Prior source absence | EVENT_0166; no fabricated bridge reading |
 | Frozen source generation | `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, pipeline v0.2.7, primary `22b4d19e982feaece6cd42c074e86e2cefac5cdd` |
 | Local source recovery | Preserved `releases/corpus-v0.2.7-generated-archive-20260921` generated files plus the matching retained `corpus/01_RAW_UPSTREAM` commit, under the supplied Project_SEKAI pipeline root |
 | Excluded source refresh | Active corpus run `20261030T035133Z`; no silent expansion to its later inventory |
-| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0181 deltas captured, no R4 or performed-voice promotion |
+| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0182 deltas captured, no R4 or performed-voice promotion |
 | Inspection lane | Complete frozen Japanese text; video, CG and performed audio remain uninspected |
 | Publication discipline | Commit each closed analytical transaction; publish coherent tranches only with exact-head Repository integration audit before the next published tranche |
 | Terminal work | After EVENT_0213, audit EVENT_0141–0213 deltas and prepare the reconstruction/synthesis handoff; no full-series completion claim from event coverage alone |
@@ -315,11 +315,17 @@ The [EVENT_0179 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0179_DEEP
 
 The [EVENT_0180 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0180_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0180--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The reading and six cumulative updates distinguish observed space, sensory reports, causal hypotheses and future hopes. Earlier cards, historical bodies, independent local epistemic owners and current human operatives remain preserved; no pending professional outcome is completed by the finale. EVENT_0181 is next; reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0181 current checkpoint
+#### EVENT_0181 historical checkpoint within this run
 
 **EVENT_0181 is fully integrated:** `REL-CROSS-HARUKA-AN-E0142 → REL-CROSS-HARUKA-AN-E0181` records mutually witnessed growth and an explicitly accepted race toward their separate dreams. Add bounded I2 An–Saki direct contact. All twenty human and five group owners remain current at differentiated I2; Minori and Akito’s separate shard encounters strengthen existing characterization and thought-shard evidence. Four units perform on the island; Nightcord’s public MV, Mizuki’s staff work, private remote call and later recorded receipt remain distinct.
 
 The [EVENT_0181 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0181_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0181--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The reading and six ledger additions preserve prior authority, separate public and private recipients, identify conditioned self-manifestations, and distinguish actual festival receipt from future bookings, contests and fireworks plans. EVENT_0182 is next; reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0182 current checkpoint
+
+**EVENT_0182 is fully integrated:** `LN-EP-ICHIKA-E0143 → LN-EP-ICHIKA-E0182` retains recipient-led, song-specific authorship and adds a tested welcome for creative interpretations beyond her intended meaning. New bounded high-I2 `LN-REL-ICHIKA-AOI-E0182` records actual permission, posted fan-video and reciprocal testimony, with future collaboration provisional. Current group, coauthor, School Miku, Solis and other human owners remain at high I2. Shiho’s honest praise and unresolved interpretive question coexist; the other four units are explicit I0.
+
+The [EVENT_0182 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0182_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0182--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The complete reading and six ledger additions distinguish the band song from WITH, public/software Miku from the School manifestation, reported views from audience or income claims, actual fan-video use from future collaboration, and current preparation from the unperformed solo live. EVENT_0183 is next; reconstruction packages remain through EVENT_0140.
 
 ### EVENT_0141–0170 continuation — EVENT_0170 committed boundary
 
