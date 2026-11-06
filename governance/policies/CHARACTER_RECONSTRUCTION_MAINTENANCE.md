@@ -64,7 +64,7 @@ Capture the full current `main` SHA. Derive all work from integrated Git state a
 python tools/reconstruction_status.py work-queue --snapshot commit --commit <full-main-sha> --since <last-verified-checkpoint-sha> [--deferred <subject-id> ...] [--hint <subject-id> ...]
 ```
 
-The queue is keyed by exact `analysis_subject_id`; each subject appears once with all applicable reasons merged. Its tiers are the required priority:
+The queue is keyed by exact `analysis_subject_id`; each subject appears once with all applicable reasons merged. Its tiers are the required priority, apart from the backfill slot reserved under [Initial population and backfill](#initial-population-and-backfill):
 
 1. `EFFECTIVELY_STALE_ASSESSMENT`: a current-claim record no longer applies; historical validity failures stop the run before any queue is produced.
 2. `REASSESSMENT_NEEDED`: an included subject whose assessments are all historical.
@@ -93,7 +93,14 @@ This standing approval is for selection and candidate preparation only. It does 
 
 ## Initial population and backfill
 
-There is no deadline for assessing every registered subject. Backfill proceeds in bounded batches selected from the queue after higher tiers are empty, preferring one shared basis commit per batch so validation and review cost stay proportional. A subject may be deferred for insufficient evidence, unresolved authority, ambiguous identity, or reviewer unavailability; deferral is recorded in the checkpoint and the PR description, never as a registry record.
+There is no deadline for assessing every registered subject, but backfill must advance. New enrollments and extended rows refill the higher tiers on almost every run, so waiting for them to empty would never reach tier 4. While the queue has tier-4 subjects, one slot of each run's candidate capacity is reserved for them. The other slots follow tier order, and mechanical reconciliations are never limited.
+
+- A run whose capacity is a single candidate alternates. It uses the reserved slot when the previous run's candidates included no backfill subject, and follows tier order otherwise.
+- Choose backfill subjects whose curated evidence is complete and stable: prefer dedicated reviewed models or monographs in projects that are not currently adding analysis of that subject, so the candidate stays current until owner review. Prefer one shared basis commit per batch so validation and review cost stay proportional.
+- Deferring a backfill subject does not use the slot; take the next suitable one. Leave the slot unused only when no examined tier-4 subject has sufficient evidence.
+- During `CALIBRATION`, a backfill subject is a cohort addition under the standing selection authorization.
+
+A subject may be deferred for insufficient evidence, unresolved authority, ambiguous identity, or reviewer unavailability; deferral is recorded in the checkpoint and the PR description, never as a registry record.
 
 Do not equate discovery inclusion with a capability, and do not assess a subject merely to increase coverage.
 
@@ -170,7 +177,7 @@ Work discovery is Git-derived. Either agent may note leads for the other in its 
 
 ## Checkpoints, conflicts and failures
 
-In addition to the shared rules, record in the checkpoint and PR description the reviewed `main` SHA, the queue derived at it, subjects assessed, deferred subjects with reasons and basis SHAs, mechanical reconciliations, and outstanding leads. Advance completed coverage only to work verified on `main`; without a trustworthy checkpoint, establish a documented baseline from the integrated registry and recompute the full queue.
+In addition to the shared rules, record in the checkpoint and PR description the reviewed `main` SHA, the queue derived at it, subjects assessed, how the backfill slot was used (the subject assessed, or the subjects examined and why none qualified), deferred subjects with reasons and basis SHAs, mechanical reconciliations, and outstanding leads. Advance completed coverage only to work verified on `main`; without a trustworthy checkpoint, establish a documented baseline from the integrated registry and recompute the full queue.
 
 The discovery registry, analytical evidence and `main` may advance at any time. Before every push, re-derive currentness for the PR's added or transitioned records and revalidate. Resolve conflicts only within the two outputs by re-deriving them from the reconciled registry and the generator. A conflict that needs discovery or analytical changes is reported, not repaired.
 

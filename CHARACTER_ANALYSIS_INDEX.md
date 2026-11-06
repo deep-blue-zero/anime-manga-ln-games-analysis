@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 25 |
+| [`re-zero`](characters/index/re-zero.md) | 26 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -500,6 +500,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Serena](characters/index/konosuba.md#serena) | Original light-novel continuity, scoped current monograph | `konosuba:serena@original-light-novel` | セレスディナ; セレナ |
 | [Serika](characters/index/blue-archive.md#serika) | Blue Archive game | `blue-archive:serika@game` | — |
 | [Serizawa Momoka](characters/index/tokyo-7th-sisters.md#serizawa-momoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:serizawa-momoka@game` | — |
+| [Shaula](characters/index/re-zero.md#shaula) | Re:Zero main light novel | `re-zero:shaula@light-novel` | シャウラ |
 | [Shiba Seki master](characters/index/blue-archive.md#shiba-seki-master) | Blue Archive game | `blue-archive:shiba-seki-master@game` | — |
 | [Shiden Iida](characters/index/86-eighty-six.md#shiden-iida) | 86 - Eighty-Six original light novels | `86-eighty-six:shiden-iida@original-light-novels` | シデン・イーダ |
 | [Shigaraki Tomura](characters/index/my-hero-academia.md#shigaraki-tomura) | My Hero Academia manga | `my-hero-academia:shigaraki-tomura@manga` | — |
