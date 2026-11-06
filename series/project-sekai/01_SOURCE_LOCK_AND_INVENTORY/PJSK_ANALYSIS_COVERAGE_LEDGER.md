@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0182
+current_event_boundary: EVENT_0183
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0182
+## Current coverage — all five human units synchronized through EVENT_0183
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0182 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0182` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0183 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0183` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0183 — complete envelope integrated
+
+The fully read frozen envelope contains **26 stories / 61 scenes / 1,722 records / 228,504 canonical bytes**: eight core chapters, ten card halves (1266–1270), four monthly conversations and four ev_idol_23 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1269–1270 and event areas use `2025-10-21T06:00:00Z`; cards 1266–1268 use `03:00:00Z`. Monthly records retain archive timestamp `2023-09-29T15:00:00Z`, not an asserted in-event date. No additional listed source is omitted.
+
+**EVENT_0183 is fully integrated:** `MMJ-EP-SZ-E0151 → MMJ-EP-SZ-E0183` adds a tested method for combining former and present craft, asking permission to help a competitor and retaining her own ambition. New scoped I3 `MMJ-REL-SHIZUKU-ARISA-E0183` records accepted assistance, shared stage effect, specific acknowledgment and renewed rivalry. Group E0176, other MMJ humans, Stage singers and Hikarin E0174 remain high/local I2. Former-member resentment, Arisa’s public/private qualification, possible injury and labor costs stay open; all other human units are I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0183_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0183--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading and six selective ledger additions preserve private knowledge, task-specific artistic judgments, informal polling, consent and changed conditions after refusal, member coauthorship, actual stage receipt and unperformed future plans. No collective forgiveness, official qualifier, safe-overwork claim or public SEKAI disclosure follows. 13 of 42 newly authorized events are closed; EVENT_0184 is next, 29 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0182 — complete envelope integrated
 

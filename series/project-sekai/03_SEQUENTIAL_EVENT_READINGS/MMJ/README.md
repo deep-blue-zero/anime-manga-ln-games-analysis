@@ -73,3 +73,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0174 — start rolling! stars' crossing](PJSK_EVENT_0174_DEEP_READING.md): complete 23-story envelope; a reciprocal Minori–Hikarin relationship receives scoped I3, while existing MMJ human/group and Stage-local scopes remain high/bounded I2. The preliminary begins with selected privacy and mixed reception; no qualifying outcome is established.
 
 - [EVENT_0176 — All ways Jump! with you](PJSK_EVENT_0176_DEEP_READING.md): complete 25-story envelope; A shared alternative clarifies chosen interdependence, then actual work and gratitude carry it forward. The group advances at scoped I3 beside a separate bounded tree epistemic owner; human operatives remain intact and mechanisms unresolved.
+
+- [EVENT_0183 — 交わる色はあの日のままに](PJSK_EVENT_0183_DEEP_READING.md): complete 26-story envelope; Shizuku combines the two groups’ artistic strengths and obtains consent to help her rival, producing a shared stage and renewed rivalry without resolving all former-group conflict.
