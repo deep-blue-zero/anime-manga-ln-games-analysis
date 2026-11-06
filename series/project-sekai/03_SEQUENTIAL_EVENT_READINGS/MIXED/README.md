@@ -93,3 +93,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0207 — Into the New Light](PJSK_EVENT_0207_DEEP_READING.md): complete 21-story envelope; Four helpers support a creator through success and renewed distress; Mafuyu chooses selective honesty and receives usable freedom of manner, while new work, world access and future comfort remain bounded.
 
 - [EVENT_0211 — 君の隣、君と見る明日](PJSK_EVENT_0211_DEEP_READING.md): complete 21-story envelope; A costly opening, an initially failed conversation and a co-created show/song support two recipients’ chosen reunion. Selective autobiographical disclosure and observed fragment joining widen knowledge without guaranteeing access, cure or future admission.
+
+- [EVENT_0214 — Again And Again Ambition！](PJSK_EVENT_0214_DEEP_READING.md): complete 21-story envelope; A rescue, an inadequate first intervention and an actual rejected submission support a bounded sibling acknowledgment and recipient-owned next attempt; fatigue, rivalry, local-singer differences and uncertain future access remain.
