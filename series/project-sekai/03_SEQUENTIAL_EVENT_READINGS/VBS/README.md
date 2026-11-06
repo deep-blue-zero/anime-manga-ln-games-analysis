@@ -70,3 +70,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0175 — Competitive fire！](PJSK_EVENT_0175_DEEP_READING.md): complete 25-story envelope; VBS and illys form a bounded reciprocal rival relation after hearing each other and receiving a chosen disclosure. Existing human/group scopes remain high I2; tournament entry and outcomes, family repair and future conversations remain open.
 
 - [EVENT_0187 — Overcome one's limits](PJSK_EVENT_0187_DEEP_READING.md): complete 24-story envelope; Akito combines available languages and collaborators to reach a specific audience; a pre-contract offer and explicit return reflection preserve the difference between a starting line and completed professional entry.
+
+- [EVENT_0193 — GO ALL OUT](PJSK_EVENT_0193_DEEP_READING.md): complete 25-story envelope; Professional preparation becomes actual overseas work; trusted disclosure creates equal rivalry, while expressive success, competitive defeat and the need for shared rest coexist.

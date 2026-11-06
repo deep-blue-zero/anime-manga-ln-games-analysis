@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0192
+current_event_boundary: EVENT_0193
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0192
+## Current coverage — all five human units synchronized through EVENT_0193
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0192 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0192` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0193 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0193` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0193 — complete envelope integrated
+
+The complete fully read frozen envelope is **25 stories / 43 scenes / 1,411 records / 182,570 canonical bytes**: eight core chapters, ten card halves (1320–1324), three monthly areas and four ev_street_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1323–1324 and release areas use `2026-01-21T06:00:00Z`; cards 1320–1322 use `03:00:00Z`. All three monthly rows retain archive timestamp `2023-09-29T15:00:00Z`, not inferred scene dates.
+
+**EVENT_0193 is fully integrated:** `VBS-REL-GROUP-E0169 → VBS-REL-GROUP-E0193` records the executed No.9 contract, first overseas work and a received competitive benchmark. Scoped `VBS-REL-TOYA-EMBERS-E0193` records trusted disclosure and enacted equal rivalry. Toya E0154 remains current at very strong I2: new expressive intensity and accepted rest extend, rather than invent, his love of music. VBS loses COUNT X; no RUSH BEATS win or festival appearance follows.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0193_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0193--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six selective ledger additions distinguish an actual label contract/work trip, a restricted disclosure, opponent recognition, defeat, recovery and received coffee hospitality. Toya’s illness is not a performance method; medical content remains attributed to dialogue, and willingness to compete is not safety certification. Akito, An, Kohane and illys do not receive Slade’s full private history. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. 22 of 42 newly authorized events are closed; EVENT_0194 is next, 20 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0192 — complete envelope integrated
 
