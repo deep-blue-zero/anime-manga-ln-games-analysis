@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V23
-generation: V1.35
+generation: V1.36
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6386,3 +6386,11 @@ Qualitatively earn boundedShaulaV21–23andPatrascheV01–23external-behavior co
 V23 saved-content/source/name-reference/fidelity acceptance and repaired readback COMPLETE; whole29548-byte outgoingV24body SEALED. Next: V23 atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SHAULA_V21_V23_MODEL_AND_FIDELITY_REVIEW and its own complete gate → PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW with external-behavior/interiority abstentions and its own complete gate → sealed V24. CI owns merges; continuousV43 plus mandatory terminal architecture/state/role-gap/acquisition review remains active.
 
 All14complete substantive candidates were measured before eight whole historical spans823963bytes moved verbatim to same-base ledger archive04/root archive01V1.4,with228heading routers/full native inverses under unchanged1MiB. Current605claims,V23increments and five older literal bodies remain in master. Separate saved-content acceptance/readback precedes outgoingV24seal/final-index publication. The continuousV43run and mandatory terminal review remain incomplete.
+
+## Shaula V21–V23 reconstruction and separate fidelity review
+
+V23 full gate CLOSED through [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) before construction. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01`, verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d`. Each exact audit ran 486 discovered tests. Source housekeeping and later immutable correspondence verified the gate. The source census remains V23 with 605 claims, 26 confirmed deaths and 27 arrived segments.
+
+The [Shaula V1.0 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) cover 25 behavioral decisions and four use guards, with a separately applied nineteen-dimension local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six bounded repair groups. Default is the latest personally witnessed E027 dinner. Shaula’s relation to the later scorpion and her terminal fate stay open. The analyst recovered 28 contextual intervals and viewed seven original stills from the admitted Japanese V21–V23 sources. The 22 older model scopes and grades, five owners and six whole prospective seals retain their bytes.
+
+Next is the Shaula full gate, then Patrasche’s V01–V23 external-behavior model and separate review and its full gate, then sealed V24. CI owns merges.
