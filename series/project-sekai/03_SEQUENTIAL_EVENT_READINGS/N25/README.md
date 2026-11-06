@@ -66,3 +66,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0170 — 泡沫に抱かれて](PJSK_EVENT_0170_DEEP_READING.md): complete 29-story World Link envelope; four shared possible lives without Nightcord converge through Kanade's song and direct contact, followed by actual four-person recommitment and an observed change in the Empty lake tree. The alternate family, school, art and fashion paths are not present biography; singer contact and shard cause stay bounded.
 
 - [EVENT_0177 — ほどけぬ明日に手を伸ばして](PJSK_EVENT_0177_DEEP_READING.md): complete 27-story envelope; Mizuki’s existing recipient-owned support gains an explicitly imagined future through clothing, while the choice remains open. Actual introductions, ordinary sibling time and group gratitude strengthen existing relations at I2 without a forced successor.
+
+- [EVENT_0184 — Colors of Pure Sense](PJSK_EVENT_0184_DEEP_READING.md): complete 24-story envelope; Ena regains expressive freedom without erasing a low technical assessment, names her university target and deletes one approval-seeking account while keeping her art work and shared place of return.
