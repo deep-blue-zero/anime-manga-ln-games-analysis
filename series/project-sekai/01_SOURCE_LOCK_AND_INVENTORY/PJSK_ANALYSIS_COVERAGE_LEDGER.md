@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0208
+current_event_boundary: EVENT_0209
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0208
+## Current coverage — all five human units synchronized through EVENT_0209
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0208 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0208` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0209 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0209` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0209 — complete envelope integrated
+
+The complete frozen envelope is **26 stories / 54 scenes / 1,776 records / 235,098 canonical bytes**: eight core chapters, fourteen card halves (1415–1421) and four event areas. Toya 1415 and Nene 1416 are verified members despite filenames without the featured-event suffix. All canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core, cards 1420–1421 and areas publish at `2026-06-30T06:00:00Z`; cards 1415–1419 at `03:00:00Z`. Publication association does not place Toya’s temporary Japan return or Nene’s post-E0208 encounter inside Minori’s filmed week. AV remains uninspected.
+
+**EVENT_0209 is fully integrated:** a documentary, coordinated civic assignment and particular recipients help Minori recognize already developing hope-giving work; a displayed photograph preserves the received evidence. Toya’s fragment encounter elaborates his already mixed musical past without resolving every wound. Nene deliberately retains her shy starting point after recovering her appearance, adding independent E0209 self-continuity beside performance and leadership. All associated professional, ordinary-life and local-singer material is included.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0209_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0209--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. Keep particular reception distinct from national fame, documentary framing from universal facts, remembered paternal words from a new reconciliation, field embodiment from ordinary physical age, and attributed fragment mechanisms from universal guarantees. Historical bodies, prior IDs, EVENT_0170 closure and the EVENT_0140 reconstruction baseline are preserved. 38 of 42 newly authorized events are closed; EVENT_0210 is next, 4 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0208 — complete envelope integrated
 
