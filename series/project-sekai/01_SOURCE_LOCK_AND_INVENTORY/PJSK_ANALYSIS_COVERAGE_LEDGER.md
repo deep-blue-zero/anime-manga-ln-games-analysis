@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0207
+current_event_boundary: EVENT_0208
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0207
+## Current coverage — all five human units synchronized through EVENT_0208
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0207 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0207` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0208 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0208` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0208 — complete envelope integrated
+
+The complete fully read frozen envelope is **24 stories / 40 scenes / 1,728 records / 217,092 canonical bytes**: eight core chapters, ten card halves (1410–1414), two monthly areas and four event areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, 1413–1414 and event areas use `2026-06-20T06:00:00Z`; 1410–1412 use `03:00:00Z`; monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. Preparation, month-long transition, two-week run, midrun coaching and later follow-through remain distinct. Performances, music and linked CG were not independently inspected.
+
+**EVENT_0208 is fully integrated:** Tsukasa’s recovered childhood anger, deliberately removed reassurance, dangerous role immersion, received intervention and actual repair advance E0208 without resolving his willingness to reuse the method. The quartet completes its first cohosted production and accepts an explicit retrieval role. Rui’s artistic ambition and regret over inadequate intervention remain unresolved; Nene, Emu and local singers contribute distinct craft and care. Saki’s actual household support and received apology supply high I2 evidence, not access to every private feeling.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0208_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0208--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The transaction separates remembered childhood feeling from parental intent, current role-work images from actual Saki biography, nested theatrical violence from human actions, public reception from AV inspection, and future safeguards from achieved protection. All cards/areas retain ordinary preferences and action status. Historical readings, prior closure and EVENT_0140 reconstruction packages remain intact. 37 of 42 newly authorized events are closed; EVENT_0209 is next, 5 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0207 — complete envelope integrated
 
