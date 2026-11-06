@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0214
+current_event_boundary: EVENT_0215
 source_current_boundary: EVENT_0222
 source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
@@ -18,9 +18,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0214
+## Current state — founded units synchronized through EVENT_0215
 
-All five human units now track the same source-present event history through `EVENT_0214`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0214 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0215`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0215 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -246,8 +246,8 @@ The owner authorized catch-up to the latest locally collected source material on
 | Run mode / state | `continuous_sequential` / active |
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
-| Integrated analytical high-water mark | EVENT_0214; 1 of 9 new event transactions closed |
-| Next atomic operation | EVENT_0215 complete-envelope discovery and integration |
+| Integrated analytical high-water mark | EVENT_0215; 2 of 9 new event transactions closed |
+| Next atomic operation | EVENT_0216 complete-envelope discovery and integration |
 | Supplemental work | 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments pending; context-aware transactions after the event queue |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
@@ -257,11 +257,17 @@ The owner authorized catch-up to the latest locally collected source material on
 
 The [new lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md), [intake and completion checklist](08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) and [exact delta inventory](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) define this run. They do not certify every older non-event corpus item as newly read. The original source lock, prior event readings, explicit errata, EVENT_0170 closure and EVENT_0213 terminal handoff remain historical authorities. Their former next-action or excluded-generation wording does not override the newly authorized current state above.
 
-#### EVENT_0214 current checkpoint
+#### EVENT_0214 historical checkpoint within this run
 
 **EVENT_0214 is fully integrated:** Airi, Akito, Nene and Ena rescue Interstice MEIKO and help two brothers make another concrete manga attempt. The submission fails; renewed purpose and a choice of separate careers remain real without professional success. Ena explicitly apologizes to Akito. Specific shared-world observations, local-singer introductions and ordinary aftermath widen evidence without making access reliable or personalities universally changed.
 
 The [EVENT_0214 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0214_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The sibling acknowledgment, mixed cohort, brothers’ working arrangement and shared-world knowledge have separate scoped owners. Human operatives and five unit groups remain; direct testimony, dreams, proposals, reports and received acts retain distinct status. Earlier historical closures and all character-package bytes are preserved. EVENT_0215 is next; 8 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0215 current checkpoint
+
+**EVENT_0215 is fully integrated:** Street Luka and Stage Len coordinate thirty local singers and twenty humans through four preparation teams, a completed party and specific continuing contacts. Actual replies, diaries and voluntary thank-you messages preserve distinct preferences and recipient knowledge. A later tree-song attempt brings Street Luka an unidentified audible response, without confirming reliable Interstice contact. All human operatives and five unit groups remain.
+
+The [EVENT_0215 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0215_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The scoped party network preserves individual edges, phone/material mediation and local singer identities. Awkwardness, divergent preferences, managed allocation and uncertain mechanisms remain; past refusals and guarded human histories are not rewritten. Earlier historical bodies and all character packages are preserved. EVENT_0216 is next; 7 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 
