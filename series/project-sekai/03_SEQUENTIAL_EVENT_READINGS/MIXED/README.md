@@ -99,3 +99,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0215 — Mix&Make Party Time!!](PJSK_EVENT_0215_DEEP_READING.md): complete 25-story envelope; Shared preparation becomes an actual party, reciprocal letters, illustrated memories and chosen thanks; a brief unidentified song response remains narrower than stable world access.
 
 - [EVENT_0218 — Connect to SEKAI！](PJSK_EVENT_0218_DEEP_READING.md): complete 95-story envelope; A common twenty-human/six-observer reunion becomes practical repeat visits and ordinary company; changed shared-world access preserves individual privacy, local distinctions and incomplete plans.
+
+- [EVENT_0219 — Side by Side, Our Ways！](PJSK_EVENT_0219_DEEP_READING.md): complete 26-story envelope; A shared creative award and future messages deepen received support; Saki retains a still-conflicting wish, while Interstice Miku’s retrospective encounter has a bounded audience and unknown cause.
