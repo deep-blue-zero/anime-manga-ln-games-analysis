@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0179
+current_event_boundary: EVENT_0180
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0179
+## Current coverage — all five human units synchronized through EVENT_0180
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0179 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0179` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0180 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0180` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0180 — complete envelope integrated
+
+The complete frozen envelope is **64 stories / 125 scenes / 3,516 records / 455,971 canonical bytes**: two core chapters, fifty-two card halves cross-listed from EVENT_0163/0167/0170/0171/0176/0179, and ten finale areas. Every text is consumed: 36 directly read here and 28 previously fully read in this continuation, reused only after identical canonical/raw hashes, paths and record identities were verified. All 64 members pass frozen membership, normalized-content, ordered-identity and chronology checks. No separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-09-25T11:00:00Z`; areas `2025-09-28T11:00:00Z`. The card clusters retain their original April–September timestamps and causal homes; manifest association does not create new action chronology or duplicate state transitions.
+
+**EVENT_0180 is fully integrated:** `EPI-PJSK-SEKAI-E0179 → EPI-PJSK-SEKAI-E0180` adds the six Interstice singers’ encounter with a newly formed shared SEKAI, a larger tree with creative forms, and partial touch-linked sound reports. Formation remains a character hypothesis; human access, sound provenance and travel control remain open. All five human units are co-primary/high I2. The 52 cross-listed card halves keep their original events and already recorded consequences; no human, group or Stage Miku successor is duplicated.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0180_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0180--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six cumulative updates distinguish observed space, sensory reports, causal hypotheses and future hopes. Earlier cards, historical bodies, independent local epistemic owners and current human operatives remain preserved; no pending professional outcome is completed by the finale. 10 of 42 newly authorized events are closed; EVENT_0181 is next, 32 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0179 — complete envelope integrated
 

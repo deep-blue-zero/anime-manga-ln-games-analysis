@@ -71,3 +71,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0160 — You are my HERO!!](PJSK_EVENT_0160_DEEP_READING.md): complete 23-story mixed envelope; Tsukasa reconstructs a retiring owner's original show and adapts it around an independently inspected ride stoppage with audience participation and direct recipient feedback.
 
 - [EVENT_0179 — Link the Beats！](PJSK_EVENT_0179_DEEP_READING.md): complete 37-story envelope; Six local singers visit other established SEKAI and return with selective experience. Stage Miku refines an offer of warmth for a particular recipient; repeated tree care does not reopen a route.
+
+- [EVENT_0180 — Wishes in Bloom！](PJSK_EVENT_0180_DEEP_READING.md): complete 64-story envelope; The six Interstice singers encounter a newly formed shared space and investigate its tree, while five ordinary human continuations keep future outcomes open. Earlier card associations retain their original chronology and state ownership.
