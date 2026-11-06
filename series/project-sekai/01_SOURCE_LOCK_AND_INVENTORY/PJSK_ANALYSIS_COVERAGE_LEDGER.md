@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0190
+current_event_boundary: EVENT_0191
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0190
+## Current coverage — all five human units synchronized through EVENT_0191
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0190 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0190` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0191 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0191` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0191 — complete envelope integrated
+
+The complete fully read frozen envelope is **26 stories / 47 scenes / 2,039 records / 259,293 canonical bytes**: eight core chapters, fourteen card halves (1307–1313, including independent Shiho and Emu thought-fragment stories) and four ev_shuffle_60 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1312–1313 and areas use `2025-12-31T06:00:00Z`; cards 1307–1311 use `03:00:00Z`. No monthly row is present. Shared publication does not date every card scene to the festival.
+
+**EVENT_0191 is fully integrated:** independent scoped `LN-EP-SHIHO-E0191` records Shiho refusing to discard painful separation and applying that recognition to present ordinary patience; E0162/E0148 remain independent. Emu E0104 and E0164 receive very strong I2, not a duplicate first decision to learn outside the park. Minori and Toya’s festival work, reciprocal Street Rin participation and all five units receive proportional dispositions. The shrine girl’s identity remains an explicitly qualified possibility despite her absence from the photograph.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0191_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0191--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six selective ledger additions distinguish a completed reading, show, dance, mikoshi carrying, handkerchief receipt and local party from planned ritual instruction and future meetings. Shiho/Emu field figures are personified self-positions; no ordinary-world rejuvenation, resurrected grandfather, independent park consciousness or deterministic shard cure follows. The shrine-girl hypothesis stays separate from established SEKAI topology. Historical readings and EVENT_0170 closure are preserved. 20 of 42 newly authorized events are closed; EVENT_0192 is next, 22 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0190 — complete envelope integrated
 

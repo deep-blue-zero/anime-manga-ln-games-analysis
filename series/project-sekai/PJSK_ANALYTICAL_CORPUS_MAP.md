@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0190
+current_event_boundary: EVENT_0191
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0190
+## Current state — founded units synchronized through EVENT_0191
 
-All five human units now track the same source-present event history through `EVENT_0190`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0190 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0191`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0191 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0171–0213 continuation — EVENT_0190 integrated boundary
+### Active EVENT_0171–0213 continuation — EVENT_0191 integrated boundary
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 
@@ -243,14 +243,14 @@ The owner authorized this new continuous run on 2026-11-05. The registered READM
 |---|---|
 | Run mode / state | `continuous_sequential` / active |
 | Authorized source interval | EVENT_0171 through EVENT_0213, source-present events only |
-| Integrated analytical high-water mark | EVENT_0190; 19 of 42 newly authorized events closed |
-| Next atomic operation | Complete EVENT_0191 envelope discovery, reading, five-unit routing and ledger integration |
-| Remaining interval | 23 source-present events; EVENT_0186 absent in the frozen lock |
+| Integrated analytical high-water mark | EVENT_0191; 20 of 42 newly authorized events closed |
+| Next atomic operation | Complete EVENT_0192 envelope discovery, reading, five-unit routing and ledger integration |
+| Remaining interval | 22 source-present events; EVENT_0186 absent in the frozen lock |
 | Prior source absence | EVENT_0166; no fabricated bridge reading |
 | Frozen source generation | `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, pipeline v0.2.7, primary `22b4d19e982feaece6cd42c074e86e2cefac5cdd` |
 | Local source recovery | Preserved `releases/corpus-v0.2.7-generated-archive-20260921` generated files plus the matching retained `corpus/01_RAW_UPSTREAM` commit, under the supplied Project_SEKAI pipeline root |
 | Excluded source refresh | Active corpus run `20261030T035133Z`; no silent expansion to its later inventory |
-| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0190 deltas captured, no R4 or performed-voice promotion |
+| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0191 deltas captured, no R4 or performed-voice promotion |
 | Inspection lane | Complete frozen Japanese text; video, CG and performed audio remain uninspected |
 | Publication discipline | Commit each closed analytical transaction; publish coherent tranches only with exact-head Repository integration audit before the next published tranche |
 | Terminal work | After EVENT_0213, audit EVENT_0141–0213 deltas and prepare the reconstruction/synthesis handoff; no full-series completion claim from event coverage alone |
@@ -363,11 +363,17 @@ The [EVENT_0188 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0188_D
 
 The [EVENT_0189 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0189_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0189--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The full reading and six selective ledger additions preserve actual shared game completion, simulated rather than bodily risk, differentiated authorship of the alternate route, private-history limits, souvenir possession and uncompleted future plans. Empty Luka’s stated observation understates her actual private question; Wonderland Rin’s cross-SEKAI recollection gives Emu only a bounded report. No universal cure, maternal resolution or global singer state is certified. EVENT_0190 is next; reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0190 current checkpoint
+#### EVENT_0190 historical checkpoint within this run
 
 **EVENT_0190 is fully integrated:** scoped `MMJ-EP-HR-E0142 → MMJ-EP-HR-E0190` adds cross-group production, permissible rival consultation, narrative sequencing and accepted visibility risk to the retained E0133 producer lineage. Independent family/vocation E0153 remains current. MMJ E0176 and Minori–Hikarin E0174 remain very strong I2. MMJ actually qualifies second with 359,045 votes; the final remains unperformed. Leo/need receives bounded ordinary evidence; VBS, WxS and N25 humans are I0.
 
 The [EVENT_0190 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0190_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0190--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The full reading and six selective ledger additions distinguish local audience response, mediated testimony and official votes; the later result does not retroactively remove uncertainty. Hiiragi supplies advice without confirmed doctrinal conversion, Hikarin receives hope despite elimination, and Stage singers retain separate observation and learning channels. Rest advocacy coexists with admitted late-night fatigue. No guaranteed exam result, permanent team merger, complete former-group repair or audiovisual readiness is certified. EVENT_0191 is next; reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0191 current checkpoint
+
+**EVENT_0191 is fully integrated:** independent scoped `LN-EP-SHIHO-E0191` records Shiho refusing to discard painful separation and applying that recognition to present ordinary patience; E0162/E0148 remain independent. Emu E0104 and E0164 receive very strong I2, not a duplicate first decision to learn outside the park. Minori and Toya’s festival work, reciprocal Street Rin participation and all five units receive proportional dispositions. The shrine girl’s identity remains an explicitly qualified possibility despite her absence from the photograph.
+
+The [EVENT_0191 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0191_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0191--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The reading and six selective ledger additions distinguish a completed reading, show, dance, mikoshi carrying, handkerchief receipt and local party from planned ritual instruction and future meetings. Shiho/Emu field figures are personified self-positions; no ordinary-world rejuvenation, resurrected grandfather, independent park consciousness or deterministic shard cure follows. The shrine-girl hypothesis stays separate from established SEKAI topology. Historical readings and EVENT_0170 closure are preserved. EVENT_0192 is next; reconstruction packages remain through EVENT_0140.
 
 ### EVENT_0141–0170 continuation — EVENT_0170 committed boundary
 
