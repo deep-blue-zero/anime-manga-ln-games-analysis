@@ -216,14 +216,21 @@ class ExecutorTests(unittest.TestCase):
 
     def test_reconstruction_outputs_come_only_from_the_evaluator_branch(self):
         """Only character-reconstruction may change reconstruction outputs, and it may change nothing else."""
-        outputs = {'characters/reconstruction_capabilities.jsonl', 'characters/CHARACTER_RECONSTRUCTION_INDEX.md'}
+        # Both layouts: the retired single file and the per-subject partitions with their pages.
+        outputs = {'characters/reconstruction_capabilities.jsonl', 'characters/CHARACTER_RECONSTRUCTION_INDEX.md',
+                   'characters/reconstruction_capabilities/re-zero/emilia@light-novel.jsonl',
+                   'characters/reconstruction_index/re-zero.md'}
         self.assertTrue(eligible_paths('character-reconstruction', outputs))
-        for paths in (outputs | {'tools/validate_repository.py'}, {'series/a/analysis.md'}, {'README.md'}):
+        for paths in (outputs | {'tools/validate_repository.py'}, {'series/a/analysis.md'}, {'README.md'},
+                      outputs | {'characters/registry/re-zero.jsonl'}, outputs | {'characters/README.md'}):
             with self.subTest(branch='character-reconstruction', paths=paths):
                 self.assertFalse(eligible_paths('character-reconstruction', paths))
         for branch in ('agent/fix', 'series/a', 'character-registry'):
-            with self.subTest(branch=branch):
-                self.assertFalse(eligible_paths(branch, {'characters/reconstruction_capabilities.jsonl'}))
+            for path in ('characters/reconstruction_capabilities.jsonl',
+                         'characters/reconstruction_capabilities/re-zero/emilia@light-novel.jsonl',
+                         'characters/reconstruction_index/re-zero.md'):
+                with self.subTest(branch=branch, path=path):
+                    self.assertFalse(eligible_paths(branch, {path}))
 
     def test_reconstruction_outputs_wait_for_the_owner_until_calibration_is_accepted(self):
         """Reconstruction PRs are owner-merged in any phase but ROUTINE, read from main's policy."""
@@ -231,8 +238,9 @@ class ExecutorTests(unittest.TestCase):
             with self.subTest(phase=phase):
                 worker = self.worker()
                 worker.api.pr['head']['ref'] = 'character-reconstruction'
-                worker.graph.paths.return_value = {'characters/reconstruction_capabilities.jsonl',
-                                                   'characters/CHARACTER_RECONSTRUCTION_INDEX.md'}
+                worker.graph.paths.return_value = {
+                    'characters/reconstruction_capabilities/re-zero/emilia@light-novel.jsonl',
+                    'characters/CHARACTER_RECONSTRUCTION_INDEX.md', 'characters/reconstruction_index/re-zero.md'}
                 worker.graph.reconstruction_phase.return_value = phase
                 worker.run('character-reconstruction')
                 self.assertEqual(worker.rows[-1]['outcome'], outcome)

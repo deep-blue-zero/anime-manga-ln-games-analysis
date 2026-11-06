@@ -27,6 +27,10 @@ jobs:
     name: Read-only integrity and publication audit
     outputs:
       integration_state: ${{ steps.validate.outputs.integration_state }}
+      tests_run: ${{ steps.summarize.outputs.tests_run }}
+      failures: ${{ steps.summarize.outputs.failures }}
+      errors: ${{ steps.summarize.outputs.errors }}
+      skipped: ${{ steps.summarize.outputs.skipped }}
     runs-on: ubuntu-24.04
     timeout-minutes: 20
     env:
@@ -100,6 +104,7 @@ jobs:
           PY
 
       - name: Summarize audit execution
+        id: summarize
         if: ${{ always() }}
         shell: bash
         run: |
@@ -109,20 +114,39 @@ jobs:
           import os
           from pathlib import Path
           lines = ["### Audit execution", "", "All discovered regression tests remain mandatory.", ""]
+          count_fields = ("tests_run", "failures", "errors", "skipped")
+          summary_count_fields = (*count_fields, "expected_failures", "unexpected_successes")
+          counts = {}
           for filename, label in (("audit-timings.json", "Archive validation"), ("test-timings.json", "Regression execution")):
               path = Path(os.environ["RUNNER_TEMP"]) / filename
               if not path.exists():
                   lines.append(f"- {label}: no completed report; inspect earlier steps.")
                   continue
               report = json.loads(path.read_text(encoding="utf-8"))
-              print(f"AUDIT_EXECUTION_REPORT_BEGIN: {filename}")
-              print(json.dumps(report, sort_keys=True, indent=2))
-              print(f"AUDIT_EXECUTION_REPORT_END: {filename}")
+              valid_counts = {
+                  key: report[key] for key in summary_count_fields
+                  if type(report.get(key)) is int and report[key] >= 0
+              }
+              compact = {"outcome": report["outcome"], "seconds": report["seconds"], **valid_counts}
+              prefix = f"AUDIT_EXECUTION_SUMMARY: {filename} "
+              line = prefix + json.dumps(compact, sort_keys=True)
+              print(line if len(line) <= 300 else prefix + '{"summary": "too large"}')
               lines.append(f"- {label}: {report['outcome']}, {report['seconds']:.2f} seconds.")
-              if "tests_run" in report:
-                  lines.append(f"- Tests executed: {report['tests_run']}; skipped: {report['skipped']}.")
+              if filename == "test-timings.json":
+                  counts = {key: valid_counts[key] for key in count_fields if key in valid_counts}
+                  if "tests_run" in counts and "skipped" in counts:
+                      lines.append(f"- Tests executed: {counts['tests_run']}; skipped: {counts['skipped']}.")
+              rendered = json.dumps(report, sort_keys=True, indent=2)
+              lines.extend([
+                  "", f"<details><summary>{label} report ({filename}, {len(rendered.encode('utf-8'))} bytes)</summary>",
+                  "", "```json", rendered, "```", "", "</details>", "",
+              ])
           with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as output:
               output.write("\n".join(lines) + "\n")
+          if counts and os.environ.get("GITHUB_OUTPUT"):
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+                  for key, value in counts.items():
+                      output.write(f"{key}={value}\n")
           PY
 
   report:
@@ -141,6 +165,10 @@ jobs:
           AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}
           AUDIT_RESULT: ${{ needs.audit.result }}
           INTEGRATION_STATE: ${{ needs.audit.outputs.integration_state }}
+          AUDIT_TESTS_RUN: ${{ needs.audit.outputs.tests_run }}
+          AUDIT_FAILURES: ${{ needs.audit.outputs.failures }}
+          AUDIT_ERRORS: ${{ needs.audit.outputs.errors }}
+          AUDIT_SKIPPED: ${{ needs.audit.outputs.skipped }}
         run: |
           set -euo pipefail
           python - <<'PY'
@@ -159,11 +187,19 @@ jobs:
           integration = os.environ["INTEGRATION_STATE"]
           if result == "success" and integration in {"success", "pending"}:
               state = integration
-              description = (
-                  "Exact commit passed the repository audit"
+              counts = {key: os.environ.get(f"AUDIT_{key.upper()}", "") for key in ("tests_run", "failures", "errors", "skipped")}
+              unavailable = "test counts unavailable"
+              summary = unavailable
+              if all(re.fullmatch(r"[0-9]+", value) for value in counts.values()):
+                  summary = f"{counts['tests_run']} tests, {counts['failures']} failed, {counts['errors']} errors, {counts['skipped']} skipped"
+              template = (
+                  "Exact commit passed the repository audit: {}"
                   if state == "success"
-                  else "Authored content passed; awaiting housekeeping to regenerate routing outputs"
+                  else "Authored content passed ({}); awaiting housekeeping to regenerate routing outputs"
               )
+              description = template.format(summary)
+              if len(description) > 140:
+                  description = template.format(unavailable)
           else:
               state = "error" if result in {"cancelled", "skipped"} else "failure"
               description = "Audit did not complete successfully; this commit is not integration-ready"

@@ -127,7 +127,9 @@ class RegistryLayoutTests(unittest.TestCase):
         for path in (
             "characters/README.md",
             "characters/reconstruction_capabilities.jsonl",
+            "characters/reconstruction_capabilities/example/alice@anime.jsonl",
             "characters/CHARACTER_RECONSTRUCTION_INDEX.md",
+            "characters/reconstruction_index/example.md",
             "series/example/A.md",
         ):
             self.assertFalse(is_discovery_output(path), path)

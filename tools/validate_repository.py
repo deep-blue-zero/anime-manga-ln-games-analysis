@@ -15,24 +15,27 @@ from typing import Any, Mapping
 from urllib.parse import unquote_to_bytes
 
 from character_index_core import (
+    ABSENT_LAYOUT,
     DISCOVERY_REGISTRY_PREFIX,
     RECONSTRUCTION_INDEX_PATH,
     RECONSTRUCTION_POLICY_PATH,
-    RECONSTRUCTION_REGISTRY_PATH,
     RECONSTRUCTION_SCHEMA_PATH,
     AuthorityGraph,
     DomainError,
     _restricted_yaml_load,
     GitSnapshot,
     current_layout_errors,
+    current_reconstruction_layout_errors,
     decode_json,
     decode_jsonl_with_lines,
-    decode_reconstruction_registry,
     evaluate_reconstruction_assessments,
     is_ancestor_commit,
     is_discovery_output,
+    is_reconstruction_output,
     load_reconstruction_policy,
     read_discovery_registry,
+    read_reconstruction_registry,
+    reconstruction_commit_snapshot,
     reconstruction_registry_changes,
     render_schema_diagnostics,
     run_git,
@@ -42,7 +45,10 @@ from character_index_core import (
     validate_schema_document,
 )
 from generate_character_index import generated_output_errors, render_outputs
-from generate_reconstruction_index import render as render_reconstruction_index
+from generate_reconstruction_index import (
+    generated_output_errors as reconstruction_output_errors,
+    render_outputs as render_reconstruction_outputs,
+)
 from completed_run_publication import CompletionProof, PROOF_NAME
 from audit_timing import AuditTimer, report_path, write_report
 from frozen_publication import frozen_publication_paths, publication_grants
@@ -110,9 +116,9 @@ ARCHIVED_PROTECTED_HASHES = {
     f"{MIGRATION_ARCHIVE}/G3_BOOTSTRAP_TRACKED_PATHS.txt": G3_MANIFEST_SHA256,
     f"{MIGRATION_ARCHIVE}/bootstrap-bindings.json": BOOTSTRAP_BINDINGS_SHA256,
 }
-# The evaluator's ordinary production delta. Any other path changed beside
-# these requires a reviewed amendment that also changes the publication gate.
-RECONSTRUCTION_OUTPUTS = frozenset({RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH})
+# The evaluator's ordinary production delta is the set of paths accepted by
+# character_index_core.is_reconstruction_output. Any other path changed beside
+# them requires a reviewed amendment that also changes the publication gate.
 # The curation agent's ordinary delta on its continuing branch is the set of
 # paths accepted by character_index_core.is_discovery_output.
 DISCOVERY_BRANCH_REF = "refs/remotes/origin/character-registry"
@@ -851,6 +857,36 @@ def hazard_matches(data: bytes, patterns: Mapping[str, re.Pattern[bytes]]) -> li
     return found
 
 
+def _named_exception_matches(exception: Mapping[str, Any] | None, data: bytes) -> bool:
+    return bool(
+        exception
+        and len(data) == exception["bytes"]
+        and hashlib.sha256(data).hexdigest() == exception["sha256"]
+    )
+
+
+def review_threshold_errors(
+    snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str
+) -> list[str]:
+    """Report every snapshot entry over the review threshold without a matching exception.
+
+    This is the one size rule; ``validate_bytes`` applies it to a whole audited
+    snapshot and the staged commit gate applies it to the staged blobs, so a
+    file that would fail the audit fails locally first.
+    """
+
+    threshold = int(policy["review_threshold_bytes"])
+    named_exceptions, _exception_errors = load_named_text_exceptions(
+        policy, set(policy["allowed_text_extensions"]), threshold
+    )
+    return [
+        f"{phase} file exceeds 1 MiB review threshold: {path} ({len(entry.data)} bytes)"
+        for path, entry in snapshot.entries.items()
+        if len(entry.data) > threshold
+        and not _named_exception_matches(named_exceptions.get(path), entry.data)
+    ]
+
+
 def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str) -> list[str]:
     errors: list[str] = []
     threshold = int(policy["review_threshold_bytes"])
@@ -859,19 +895,14 @@ def validate_bytes(snapshot: GitSnapshot, policy: Mapping[str, Any], phase: str)
         policy, text_extensions, threshold
     )
     errors.extend(exception_errors)
+    errors.extend(review_threshold_errors(snapshot, policy, phase))
     special_text = {".gitattributes", ".gitignore", "CODEOWNERS"}
     for path, entry in snapshot.entries.items():
         data = entry.data
         exception = named_exceptions.get(path)
-        exception_matches = bool(
-            exception
-            and len(data) == exception["bytes"]
-            and hashlib.sha256(data).hexdigest() == exception["sha256"]
-        )
+        exception_matches = _named_exception_matches(exception, data)
         if exception is not None and not exception_matches:
             errors.append(f"named text exception tuple mismatch: {path}")
-        if len(data) > threshold and not exception_matches:
-            errors.append(f"{phase} file exceeds 1 MiB review threshold: {path} ({len(data)} bytes)")
         for label in hazard_matches(data, SECRET_PATTERNS):
             errors.append(f"possible {label} in {path}")
         for label in hazard_matches(data, PUBLICATION_PATTERNS):
@@ -1178,8 +1209,11 @@ def validate_generated_repository_indexes(snapshot: GitSnapshot) -> list[str]:
         return [str(exc)]
 
 
+TRACKED_FILE_POLICY_PATH = "governance/repository-controls/tracked-file-policy.json"
+
+
 def _policy_from_snapshot(snapshot: GitSnapshot) -> Mapping[str, Any]:
-    path = "governance/repository-controls/tracked-file-policy.json"
+    path = TRACKED_FILE_POLICY_PATH
     entry = snapshot.get(path)
     if entry is None:
         raise DomainError(f"missing policy: {path}")
@@ -4240,21 +4274,30 @@ def validate_reconstruction_domain(
     notices: list[str] = []
     phase, policy_errors = load_reconstruction_policy(snapshot)
     errors.extend(policy_errors)
-    registry = snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
     output = snapshot.get(RECONSTRUCTION_INDEX_PATH)
     schema_entry = snapshot.get(RECONSTRUCTION_SCHEMA_PATH)
-    if registry is None or not registry.qualifies_as_evidence:
-        errors.append(f"production capability registry is missing: {RECONSTRUCTION_REGISTRY_PATH}")
     if output is None or not output.qualifies_as_evidence:
         errors.append(f"generated reconstruction index is missing: {RECONSTRUCTION_INDEX_PATH}")
     if schema_entry is None or not schema_entry.qualifies_as_evidence:
         errors.append(f"reconstruction capability schema is missing: {RECONSTRUCTION_SCHEMA_PATH}")
-    if registry is None or schema_entry is None or not registry.qualifies_as_evidence:
-        return errors, notices
     try:
-        records_with_lines = decode_reconstruction_registry(
-            registry.data, f"{snapshot.identity}:{RECONSTRUCTION_REGISTRY_PATH}"
-        )
+        registry = read_reconstruction_registry(snapshot)
+    except DomainError as exc:
+        return errors + [str(exc)], notices
+    layout_errors = current_reconstruction_layout_errors(registry)
+    if registry.layout == ABSENT_LAYOUT:
+        # Published history is never deleted: name the records a change
+        # removed with its last partition, not only the missing input.
+        try:
+            base = _reconstruction_integration_base(root, _reconstruction_target_commit(root, kind, commit), kind)
+            if base is not None:
+                published = read_reconstruction_registry(reconstruction_commit_snapshot(root, base))
+                errors.extend(reconstruction_registry_changes(published.records, [])[1])
+        except DomainError as exc:
+            errors.append(f"unable to read the published capability registry: {exc}")
+    if layout_errors or schema_entry is None or not schema_entry.qualifies_as_evidence:
+        return errors + layout_errors, notices
+    try:
         schema = decode_json(schema_entry.data, RECONSTRUCTION_SCHEMA_PATH)
         if not isinstance(schema, dict):
             raise DomainError("reconstruction capability schema is not a JSON object")
@@ -4262,14 +4305,14 @@ def validate_reconstruction_domain(
     except DomainError as exc:
         return errors + [str(exc)], notices
     diagnostics = []
-    for line_number, record in records_with_lines:
+    for row in registry.rows:
         diagnostics.extend(
-            schema_diagnostics(record, schema, RECONSTRUCTION_REGISTRY_PATH, line_number=line_number)
+            schema_diagnostics(row.record, schema, row.path, line_number=row.line_number)
         )
     schema_failures = render_schema_diagnostics(diagnostics)
     if schema_failures:
         return errors + schema_failures, notices
-    assessments = [record for _line_number, record in records_with_lines]
+    assessments = registry.records
     for record in assessments:
         status = record["assessment_status"]
         if status == "UNASSESSED":
@@ -4309,15 +4352,12 @@ def validate_reconstruction_domain(
     base_records: list[dict[str, Any]] = []
     if base is not None:
         try:
-            base_snapshot = GitSnapshot.from_commit(root, base, paths={RECONSTRUCTION_REGISTRY_PATH})
-            base_entry = base_snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
-            if base_entry is not None:
-                base_records = [
-                    record
-                    for _line_number, record in decode_reconstruction_registry(
-                        base_entry.data, f"{base}:{RECONSTRUCTION_REGISTRY_PATH}"
-                    )
-                ]
+            # Published history is read in whichever layout the base commit used,
+            # so the migration itself and pre-migration bases compare correctly.
+            base_registry = read_reconstruction_registry(reconstruction_commit_snapshot(root, base))
+            if base_registry.layout_errors:
+                raise DomainError("; ".join(base_registry.layout_errors))
+            base_records = base_registry.records
         except DomainError as exc:
             errors.append(f"unable to read the published capability registry at {base}: {exc}")
     touched, change_errors = reconstruction_registry_changes(base_records, assessments)
@@ -4341,20 +4381,16 @@ def validate_reconstruction_domain(
         except DomainError as exc:
             errors.append(f"unable to determine the reconstruction delta: {exc}")
             changed = set()
-        if (
-            changed & RECONSTRUCTION_OUTPUTS
-            and changed - RECONSTRUCTION_OUTPUTS
-            and RECONSTRUCTION_POLICY_PATH not in changed
-        ):
+        production = {path for path in changed if is_reconstruction_output(path)}
+        if production and changed - production and RECONSTRUCTION_POLICY_PATH not in changed:
             errors.append(
                 "reconstruction production outputs must change alone; other changed paths: "
-                + str(sorted(changed - RECONSTRUCTION_OUTPUTS, key=lambda item: item.encode("utf-8")))
+                + str(sorted(changed - production, key=lambda item: item.encode("utf-8")))
             )
     if output is not None and not evaluation.errors:
         try:
-            rendered = render_reconstruction_index(assessments, evaluation.basis_entries)
-            if output.data != rendered.encode("utf-8"):
-                errors.append(f"{RECONSTRUCTION_INDEX_PATH} is out of date")
+            rendered = render_reconstruction_outputs(assessments, evaluation.basis_entries)
+            errors.extend(reconstruction_output_errors(snapshot, rendered))
         except (DomainError, KeyError, ValueError) as exc:
             errors.append(f"unable to render the reconstruction index: {exc}")
     return errors, notices
