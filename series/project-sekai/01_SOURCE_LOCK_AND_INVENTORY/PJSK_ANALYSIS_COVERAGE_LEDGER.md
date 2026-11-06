@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0209
+current_event_boundary: EVENT_0210
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0209
+## Current coverage — all five human units synchronized through EVENT_0210
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0209 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0209` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0210 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0210` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0210 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 35 scenes / 1,329 records / 154,326 canonical bytes**: eight core chapters, ten card halves (1422–1426) and four event areas. Canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core, cards 1425–1426 and areas publish at `2026-07-09T06:00:00Z`; cards 1422–1424 at `03:00:00Z`. Preparatory, intra-trip, next-day and later ordinary scenes remain distinct; drawings, linked CG, VR, fireworks, voice and music were not independently inspected.
+
+**EVENT_0210 is fully integrated:** Ena and Mizuki arrange an actual day out because they cannot resolve the current difficulty. Ena records how shared moments look to her present self; Mafuyu chooses more of a particular visual pleasure and receives the drawings; Kanade shares family memories and accepts specific help; Mizuki values a finally realized wish. Empty MEIKO joins, accepts gifts and shares food while maintaining selective distance. Their existing states remain, with substantial reconstruction deltas and no crisis-resolution claim.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0210_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0210--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. Keep current leisure distinct from changed circumstances, technical assessment from expressive receipt, planned walks/trips/bottles from completed acts, remembered family from present recovery, and local singer knowledge from universal access. All historical bodies and EVENT_0170 closure remain intact; all 20 reconstruction packages stay R3 through EVENT_0140. 39 of 42 newly authorized events are closed; EVENT_0211 is next, 3 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0209 — complete envelope integrated
 

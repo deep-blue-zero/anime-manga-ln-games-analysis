@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0209
+current_event_boundary: EVENT_0210
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0209
+## Current state — founded units synchronized through EVENT_0210
 
-All five human units now track the same source-present event history through `EVENT_0209`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0209 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0210`, with EVENT_0166 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0210 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -235,7 +235,7 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0171–0213 continuation — EVENT_0209 integrated boundary
+### Active EVENT_0171–0213 continuation — EVENT_0210 integrated boundary
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 
@@ -243,14 +243,14 @@ The owner authorized this new continuous run on 2026-11-05. The registered READM
 |---|---|
 | Run mode / state | `continuous_sequential` / active |
 | Authorized source interval | EVENT_0171 through EVENT_0213, source-present events only |
-| Integrated analytical high-water mark | EVENT_0209; 38 of 42 newly authorized events closed |
-| Next atomic operation | Complete EVENT_0210 envelope discovery, reading, five-unit routing and ledger integration |
-| Remaining interval | 4 source-present events; EVENT_0186 absent in the frozen lock |
+| Integrated analytical high-water mark | EVENT_0210; 39 of 42 newly authorized events closed |
+| Next atomic operation | Complete EVENT_0211 envelope discovery, reading, five-unit routing and ledger integration |
+| Remaining interval | 3 source-present events; EVENT_0186 absent in the frozen lock |
 | Prior source absence | EVENT_0166; no fabricated bridge reading |
 | Frozen source generation | `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, pipeline v0.2.7, primary `22b4d19e982feaece6cd42c074e86e2cefac5cdd` |
 | Local source recovery | Preserved `releases/corpus-v0.2.7-generated-archive-20260921` generated files plus the matching retained `corpus/01_RAW_UPSTREAM` commit, under the supplied Project_SEKAI pipeline root |
 | Excluded source refresh | Active corpus run `20261030T035133Z`; no silent expansion to its later inventory |
-| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0209 deltas captured, no R4 or performed-voice promotion |
+| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0210 deltas captured, no R4 or performed-voice promotion |
 | Inspection lane | Complete frozen Japanese text; video, CG and performed audio remain uninspected |
 | Publication discipline | Commit each closed analytical transaction; publish coherent tranches only with exact-head Repository integration audit before the next published tranche |
 | Terminal work | After EVENT_0213, audit EVENT_0141–0213 deltas and prepare the reconstruction/synthesis handoff; no full-series completion claim from event coverage alone |
@@ -477,11 +477,17 @@ The [EVENT_0207 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0207_DEEP
 
 The [EVENT_0208 reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0208_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0208--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. The transaction separates remembered childhood feeling from parental intent, current role-work images from actual Saki biography, nested theatrical violence from human actions, public reception from AV inspection, and future safeguards from achieved protection. All cards/areas retain ordinary preferences and action status. Historical readings, prior closure and EVENT_0140 reconstruction packages remain intact. EVENT_0209 is next; reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0209 current checkpoint
+#### EVENT_0209 historical checkpoint within this run
 
 **EVENT_0209 is fully integrated:** a documentary, coordinated civic assignment and particular recipients help Minori recognize already developing hope-giving work; a displayed photograph preserves the received evidence. Toya’s fragment encounter elaborates his already mixed musical past without resolving every wound. Nene deliberately retains her shy starting point after recovering her appearance, adding independent E0209 self-continuity beside performance and leadership. All associated professional, ordinary-life and local-singer material is included.
 
 The [EVENT_0209 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0209_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0209--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. Keep particular reception distinct from national fame, documentary framing from universal facts, remembered paternal words from a new reconciliation, field embodiment from ordinary physical age, and attributed fragment mechanisms from universal guarantees. Historical bodies, prior IDs, EVENT_0170 closure and the EVENT_0140 reconstruction baseline are preserved. EVENT_0210 is next; reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0210 current checkpoint
+
+**EVENT_0210 is fully integrated:** Ena and Mizuki arrange an actual day out because they cannot resolve the current difficulty. Ena records how shared moments look to her present self; Mafuyu chooses more of a particular visual pleasure and receives the drawings; Kanade shares family memories and accepts specific help; Mizuki values a finally realized wish. Empty MEIKO joins, accepts gifts and shares food while maintaining selective distance. Their existing states remain, with substantial reconstruction deltas and no crisis-resolution claim.
+
+The [EVENT_0210 reading](03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0210_DEEP_READING.md), [routing inventory](01_SOURCE_LOCK_AND_INVENTORY/PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0210--forward-discovery-and-integrated-routing), coverage ledger and six cumulative ledgers close this transaction. Keep current leisure distinct from changed circumstances, technical assessment from expressive receipt, planned walks/trips/bottles from completed acts, remembered family from present recovery, and local singer knowledge from universal access. All historical bodies and EVENT_0170 closure remain intact; all 20 reconstruction packages stay R3 through EVENT_0140. EVENT_0211 is next; reconstruction packages remain through EVENT_0140.
 
 ### EVENT_0141–0170 continuation — EVENT_0170 committed boundary
 
