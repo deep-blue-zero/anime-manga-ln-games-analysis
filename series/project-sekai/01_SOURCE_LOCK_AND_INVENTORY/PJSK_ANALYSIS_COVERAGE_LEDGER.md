@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0210
+current_event_boundary: EVENT_0211
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0210
+## Current coverage — all five human units synchronized through EVENT_0211
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0210 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0210` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0211 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0211` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0211 — complete envelope integrated
+
+The complete fully read frozen envelope is **21 stories / 45 scenes / 1,865 records / 228,945 canonical bytes**: seven World Link core chapters, ten card halves (1428–1432) and four World Link areas. Canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core/areas publish at `2026-07-19T11:00:00Z`, cards at `03:00:00Z`. The opening overlaps other cohorts; inquiry, failed conversation, a production week and later receipt remain successive. CG, show, singing and `link3_team04_ed` were not independently inspected.
+
+**EVENT_0211 is fully integrated:** Saki, Toya, Rui and Mizuki turn different histories of nearly lost companionship into sustained inquiry and an actual bespoke show/song. Moriya and Majima first fail to reconcile, then reciprocally choose friendship and a shared university goal. Rui’s earlier theatre invitation/rejection becomes newly shared biography. Two fragments visibly mend, join and ascend; temporary cross-world singer contact follows failed tests. Existing human states remain, with new scoped relational and epistemic authority.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0211_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0211--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The recipients retain decision ownership; scholarship rumor is corrected by direct motives, school visitor permission is actual, Toya’s wounds and prior prank harm remain, nested roles do not disclose guarded identity, and shared-world access stays unreliable. Historical bodies and EVENT_0170 closure are preserved; reconstructions remain R3 through EVENT_0140. 40 of 42 newly authorized events are closed; EVENT_0212 is next, 2 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0210 — complete envelope integrated
 
