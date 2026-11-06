@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0195
+current_event_boundary: EVENT_0196
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0195
+## Current coverage — all five human units synchronized through EVENT_0196
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0195 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0195` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0196 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0196` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0196 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 29 scenes / 1,553 records / 207,166 canonical bytes**: eight core chapters, ten card halves (1339–1343) and four ev_wonder_24 areas; no monthly rows. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1342–1343/release areas use `2026-02-19T06:00:00Z`; cards 1339–1341 use `03:00:00Z`. Internal antecedents, concurrent park scenes and aftermath remain distinct.
+
+**EVENT_0196 is fully integrated:** scoped `WXS-REL-EMU-EL-E0196` records chosen assistance, received advocacy, reciprocal study influence and continuing contact. Supporting `REL-FAMILY-EL-FATHER-E0196` records a shift from dismissal to an actual hearing, expert review and permission to begin preparations. Emu E0164 and independent E0104 remain current: this applies established institutional and recipient-oriented work, with errors, limits and returned authorship.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0196_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0196--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading and six selective ledger additions separate agreed substitution from Emu’s later unplanned advocacy, El’s own revised plan from its partial representation, and a conditional process from completed construction. El’s father’s illness reaches Tsukasa/Rui/Nene; Emu and Wonderland Rin receive a different information path. Asahi’s reported absence is now actual but its purpose remains unknown. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. 25 of 42 newly authorized events are closed; EVENT_0197 is next, 17 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0195 — complete envelope integrated
 

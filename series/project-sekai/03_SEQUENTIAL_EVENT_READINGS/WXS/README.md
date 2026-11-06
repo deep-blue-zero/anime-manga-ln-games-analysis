@@ -74,3 +74,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0178 — Deep Dark For Light](PJSK_EVENT_0178_DEEP_READING.md): complete 25-story envelope; Tsukasa’s role method advances through an imagined loss of recipients and actual contest response; Asahi explicitly reciprocates rivalry. A special award opens a shared prospective theatre run, with allocation and public performance pending.
 
 - [EVENT_0185 — 超克のプロタゴニスタ](PJSK_EVENT_0185_DEEP_READING.md): complete 22-story envelope; Nene answers specific professional trust in a completed lead performance, then receives bounded former-peer repair; Rui’s admitted risk and Rin’s gentler success preserve multiple ways of helping.
+
+- [EVENT_0196 — CHANGE！えむは王女さま！？](PJSK_EVENT_0196_DEEP_READING.md): complete 22-story envelope; Resemblance enables a risky substitution, but support succeeds through returned authorship and a specific hearing; reciprocal study, ordinary play and local-singer initiative retain their own value.
