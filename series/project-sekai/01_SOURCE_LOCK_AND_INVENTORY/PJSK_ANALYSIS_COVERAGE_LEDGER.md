@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0206
+current_event_boundary: EVENT_0207
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0206
+## Current coverage — all five human units synchronized through EVENT_0207
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0206 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0206` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0207 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0207` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0207 — complete envelope integrated
+
+The complete fully read frozen envelope is **21 stories / 43 scenes / 1,699 records / 203,219 canonical bytes**: seven core chapters, ten card halves (1404–1408) and four shuffle_03 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/areas use `2026-06-08T11:00:00Z`; cards use `03:00:00Z`. Opening and meetup preparations overlap E0202/E0205; later shoots, weeks of activity, crisis and follow-up retain their own order. CG, film, songs and link3_team03_ed ending video were not inspected.
+
+**EVENT_0207 is fully integrated:** Mafuyu’s chosen experience-based counsel, explicit acknowledgment of different presentation, accepted peer accommodation and ordinary follow-up advance MF-E0207-01. The founded Shizuku dyad advances separately; the cohort and unnamed creator gain bounded relationship owners. Honami, Shizuku and Kohane’s existing methods receive very strong I2 evidence. One successful shoot does not cure harmful conditions; the creator later reports choosing a new club while uncertainty remains.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0207_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0207--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading separates four local Lukas from Interstice Luka, observed fragments from attributed mechanisms, the creator’s reports from achieved competition outcomes and Mafuyu’s selective honesty from full private-history disclosure. All ten card halves/four areas retain ordinary behavior and specific chronology. Historical readings, prior closure and the 20 R3 packages through EVENT_0140 remain intact. Film/video/performance channels stay uninspected. 36 of 42 newly authorized events are closed; EVENT_0208 is next, 6 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0206 — complete envelope integrated
 
