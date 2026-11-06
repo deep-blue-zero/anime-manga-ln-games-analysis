@@ -33,6 +33,12 @@ This closes event-history coverage only. Character-package readiness and later s
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
 
+## Terminal closure — EVENT_0213 and reconstruction-delta handoff
+
+All 42 authorized source-present EVENT_0171–0213 event envelopes are closed; EVENT_0186 is absent and no further event is authorized. At event-closure commit `a1f8a8d4bcbffb070e108c903d5f641297d34ef1`, all five units have explicit dispositions and all six ledgers have selective updates. The preserved EVENT_0141–0170 interval contributes 29 earlier events, with EVENT_0166 absent.
+
+The [terminal audit](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0141_0213_RECONSTRUCTION_DELTA_AUDIT.md) now reconciles those 71 events against all forty existing monographs/models, identifies revisions for all twenty packages, and separately assesses readiness to begin unit, specialist and full-series retrospective work. The [single handoff packet](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0213_SYNTHESIS_RECONSTRUCTION_HANDOFF.md) and [exact input/output manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0213_TERMINAL_HANDOFF_MANIFEST.json) preserve receiver obligations and source/AV limits. The packages remain unchanged at R3 through EVENT_0140; no refreshed generation, R4, performed-voice or full-series completion is claimed. Publication/audit and later main integration are recorded on [PR 473](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/473). The event checkpoints below retain their historical pending/next language; this terminal closure governs the present run.
+
 ## EVENT_0213 — complete envelope integrated
 
 The complete fully read frozen envelope is **22 stories / 37 scenes / 1,155 records / 157,047 canonical bytes**: eight core chapters, ten card halves (1440–1444) and four linked areas. Canonical/pinned-raw hashes, normalized content, ordered identities, membership and chronology reconcile. Core/1443–1444/areas publish at `2026-08-09T06:00:00Z`, 1440–1442 at `03:00:00Z`; packing, announcement, planning days and the next-day decision remain ordered. The semifinal is still future. CG, broadcast, training and performance AV were not independently inspected.

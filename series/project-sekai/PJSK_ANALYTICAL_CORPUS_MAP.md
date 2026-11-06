@@ -235,25 +235,27 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0171–0213 continuation — EVENT_0213 integrated boundary
+### Closed EVENT_0171–0213 continuation — terminal audit and handoff complete
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 
 | Operational field | Current value |
 |---|---|
-| Run mode / state | `continuous_sequential` / event interval closed; terminal audit and handoff active |
+| Run mode / state | `continuous_sequential` / closed at the authorized boundary; terminal audit and handoff complete |
 | Authorized source interval | EVENT_0171 through EVENT_0213, source-present events only |
 | Integrated analytical high-water mark | EVENT_0213; 42 of 42 newly authorized events closed |
-| Next atomic operation | Audit EVENT_0141–0213 reconstruction deltas and prepare the synthesis/reconstruction handoff; NO_NEXT_AUTHORIZED_EVENT |
+| Next atomic operation | Verify the delivered handoff and current Git state before a separately assigned reconstruction or retrospective-synthesis responsibility; NO_NEXT_AUTHORIZED_EVENT |
 | Remaining interval | 0 source-present events; EVENT_0186 absent in the frozen lock |
 | Prior source absence | EVENT_0166; no fabricated bridge reading |
 | Frozen source generation | `PJSK_SOURCE_20260822T184634Z_EVENT_0213`, pipeline v0.2.7, primary `22b4d19e982feaece6cd42c074e86e2cefac5cdd` |
 | Local source recovery | Preserved `releases/corpus-v0.2.7-generated-archive-20260921` generated files plus the matching retained `corpus/01_RAW_UPSTREAM` commit, under the supplied Project_SEKAI pipeline root |
 | Excluded source refresh | Active corpus run `20261030T035133Z`; no silent expansion to its later inventory |
-| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0213 deltas captured, no R4 or performed-voice promotion |
+| Reconstruction | Generation 1, all 20 humans R3 through EVENT_0140; EVENT_0141–0213 deltas audited against all 20 monographs/models; refresh remains unperformed, no R4 or performed-voice promotion |
 | Inspection lane | Complete frozen Japanese text; video, CG and performed audio remain uninspected |
 | Publication discipline | Commit each closed analytical transaction; publish coherent tranches only with exact-head Repository integration audit before the next published tranche |
-| Terminal work | After EVENT_0213, audit EVENT_0141–0213 deltas and prepare the reconstruction/synthesis handoff; no full-series completion claim from event coverage alone |
+| Terminal work | Complete: [71-event delta audit](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0141_0213_RECONSTRUCTION_DELTA_AUDIT.md), [operational handoff](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0213_SYNTHESIS_RECONSTRUCTION_HANDOFF.md) and [exact manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0213_TERMINAL_HANDOFF_MANIFEST.json); unit/specialist/full-series outputs remain unperformed |
+
+The terminal analytical base is `a1f8a8d4bcbffb070e108c903d5f641297d34ef1`, the verified EVENT_0213 closure. The handoff identifies current state owners, independent scopes, explicit historical errata, unresolved narrative questions and pending AV evidence. Its receiver acceptance is pending; later package refresh and synthesis are distinct responsibilities. The final publication receipt and CI/owner integration status are maintained on [PR 473](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/473). Historical checkpoints below retain their contemporaneous next-action wording and do not reopen this closed run.
 
 #### EVENT_0171 historical checkpoint within this run
 
