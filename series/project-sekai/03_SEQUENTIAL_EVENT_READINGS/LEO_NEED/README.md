@@ -76,3 +76,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0173 — Unsteady, still steady step](PJSK_EVENT_0173_DEEP_READING.md): complete 27-story envelope; Honami coordinates preparation and researches two worthwhile audiences, but the outside offer is withdrawn before she chooses. Existing human, group and Solis owners receive strong I2; the decision-making difficulty remains open, with no new I3. All five routes and six ledgers are integrated.
 
 - [EVENT_0182 — 君と繋ぐHeart Beat](PJSK_EVENT_0182_DEEP_READING.md): complete 22-story envelope; Ichika’s personal song generates reciprocal artistic exchange and new creative chains, leading her to welcome interpretations beyond her intention while Shiho’s different response remains open.
+
+- [EVENT_0188 — 仰ぐ夜空に、星は紛れて](PJSK_EVENT_0188_DEEP_READING.md): complete 24-story envelope; A successful first professional solo concert clarifies Saki’s wish for intimate audience contact; she hides that wish to preserve the quartet, while the others experience a shared step toward wider reach.

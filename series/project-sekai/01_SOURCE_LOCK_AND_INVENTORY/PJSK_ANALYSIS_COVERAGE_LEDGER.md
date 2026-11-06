@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0187
+current_event_boundary: EVENT_0188
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0187
+## Current coverage — all five human units synchronized through EVENT_0188
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0187 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0187` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0188 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0188` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0188 — complete envelope integrated
+
+The complete fully read frozen envelope is **24 stories / 53 scenes / 1,289 records / 168,225 canonical bytes**: eight core chapters, ten card halves (1289–1293), two monthly areas and four ev_band_23 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1292–1293 and event areas use `2025-11-30T06:00:00Z`; cards 1289–1291 use `03:00:00Z`. Both monthly2601 rows retain `2023-09-29T15:00:00Z` archive metadata. No listed source is omitted.
+
+**EVENT_0188 is fully integrated:** scoped `LN-EP-SAKI-E0091 → LN-EP-SAKI-E0188` records a recognized wish for nearby individual audience response, feared separation from the quartet and chosen concealment. Independent E0155, E0027, E0065 and E0106 remain. New epistemic `LN-EPI-SAKI-PREFERRED-SCALE-E0188` separates Luka’s earlier loneliness receipt from Saki’s later private conclusion. The first professional solo concert succeeds; group E0171 and Solis E0147 receive very strong I2. WxS receives historical sibling I2 and ordinary/reported monthly I1; MMJ, VBS and N25 are I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0188_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0188--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The full reading and six selective ledger additions preserve genuine concert enjoyment alongside concealed divergence, actual history versus performed puppet fiction, differentiated knowledge, shared technical authorship and the unbooked larger-venue plan. No group rejection, inevitable separation, disclosed preference, medical diagnosis or permanent recovery is certified. 17 of 42 newly authorized events are closed; EVENT_0189 is next, 25 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0187 — complete envelope integrated
 
