@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0184
+current_event_boundary: EVENT_0185
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0184
+## Current coverage — all five human units synchronized through EVENT_0185
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0184 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0184` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0185 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0185` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0185 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 31 scenes / 1,615 records / 204,400 canonical bytes**: eight core chapters, ten card halves (1279–1283) and four ev_wonder_23 areas. Frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1282–1283 and areas use `2025-11-10T06:00:00Z`; cards 1279–1281 use `03:00:00Z`. No monthly or additional listed source is omitted.
+
+**EVENT_0185 is fully integrated:** `WXS-EP-NENE-E0149 → WXS-EP-NENE-E0185` adds an audience-directed response to recurring fear and received trust. Founded `WXS-REL-NENE-RUI → WXS-REL-NENE-RUI-E0185` becomes explicitly acknowledged director–lead reciprocity, retaining Rui’s admitted risk. New scoped `WXS-REL-NENE-YUMEMI-E0185` records actual repair with encountered former peers and corrected departure attribution. Group E0178 gains the completed theatre run at very strong I2; Rin’s different successful support prevents a universal severity rule. Other human units are I0.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0185_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0185--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading and six selective ledger additions distinguish remembered failure, nightmare recurrence and performed fiction; preserve the month of prior assistance, the intervention’s uncertainty, bounded peer apologies, specific audience receipt and unresolved Asahi direction. No universal pressure method, permanent recovery, whole-company repair or future booking is certified. 15 of 42 newly authorized events are closed; EVENT_0187 is next, 27 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0184 — complete envelope integrated
 

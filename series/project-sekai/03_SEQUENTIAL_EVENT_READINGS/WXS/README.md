@@ -72,3 +72,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0172 — Deeper and deeper](PJSK_EVENT_0172_DEEP_READING.md): complete 29-story envelope; Rui makes personal experience an explicit part of recipient-responsive direction through direct consultation and a staged trial whose audience balance remains unfinished. Ena and the distinct KAITO manifestations have separate I2 routes; all five units and six ledgers are integrated.
 
 - [EVENT_0178 — Deep Dark For Light](PJSK_EVENT_0178_DEEP_READING.md): complete 25-story envelope; Tsukasa’s role method advances through an imagined loss of recipients and actual contest response; Asahi explicitly reciprocates rivalry. A special award opens a shared prospective theatre run, with allocation and public performance pending.
+
+- [EVENT_0185 — 超克のプロタゴニスタ](PJSK_EVENT_0185_DEEP_READING.md): complete 22-story envelope; Nene answers specific professional trust in a completed lead performance, then receives bounded former-peer repair; Rui’s admitted risk and Rin’s gentler success preserve multiple ways of helping.
