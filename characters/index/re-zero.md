@@ -510,6 +510,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Scarf Echidna: V20–V22 explicit artificial-operator character model](../../series/re-zero/05%20Character%20Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md)
 
+<a id="shaula"></a>
+
+### Shaula
+
+- Entity ID: `re-zero:shaula`
+- Entity aliases:
+  - シャウラ (ja, ORIGINAL_SCRIPT) — Japanese name as used in the character model's scope and Japanese-register sections (V21 part0014 B0575–0605); the model keeps 星番 as her self-described role and お師様 as her address for Subaru, not as names.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:shaula@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the Pleiades Watchtower's star-keeper across the original Japanese main light novels V21–V23, built from 28 contextual intervals of already-consumed V21, V22 and V23 with seven original stills; it covers her reported antecedents (as attributed report only), the E021–E022 approach defenses, the E024 rescue, reunion and permitted speech, the nonharm promise, Merope refusal and four reported tower rules, the Electra faint and recovery, ordinary camp life, the V23 E024–E025 memory-loss disclosures, the E026 corpse encounter, and the E027 standby, book crisis, personal search request and dinner default. The later E027 scorpion catastrophe is treated only as evidence context, with no identity bridge or terminal Shaula state claimed. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Shaula: V21–V23 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
+
 <a id="subaru"></a>
 
 ### Subaru
