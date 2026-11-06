@@ -70,3 +70,5 @@ This directory contains complete-envelope Nightcord event readings and bounded N
 - [EVENT_0184 — Colors of Pure Sense](PJSK_EVENT_0184_DEEP_READING.md): complete 24-story envelope; Ena regains expressive freedom without erasing a low technical assessment, names her university target and deletes one approval-seeking account while keeping her art work and shared place of return.
 
 - [EVENT_0192 — 覚めない幻想をノックして](PJSK_EVENT_0192_DEEP_READING.md): complete 24-story envelope; Kanade confronts the possible end of her rescuer role; provisional advice, guarded knowledge and ordinary reciprocal care leave the decision open.
+
+- [EVENT_0199 — Amid the Wavering Light](PJSK_EVENT_0199_DEEP_READING.md): complete 27-story envelope; A desired future is tested against time, materials and belonging; reciprocal counsel permits a conditional choice without removing capacity fears or promising permanent balance.
