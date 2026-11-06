@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0204
+current_event_boundary: EVENT_0205
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0204
+## Current coverage — all five human units synchronized through EVENT_0205
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0204 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0204` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0205 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0205` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0205 — complete envelope integrated
+
+The complete fully read frozen envelope is **24 stories / 45 scenes / 2,269 records / 290,444 canonical bytes**: eight core chapters, twelve card halves (1392–1397) and four wl_shuffle_02 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/areas use `2026-05-17T11:00:00Z`; all cards use `03:00:00Z`. The opening and ordinary-world introductions overlap the EVENT_0202 branch; later practice, auditions, reported results and closed access retain their own ordering. Text includes an uninspected final video pointer, not inspected audiovisual evidence.
+
+**EVENT_0205 is fully integrated:** Shiho, Minori, An, Tsukasa and Interstice Rin/Len help two dancers recover a chosen purpose, negotiate partnership and obtain a real performance opportunity. Current human operatives remain at very strong I2. Scoped EPI-PJSK-SEKAI-E0205, REL-CROSS-DREAMERS-E0205 and REL-EXTERNAL-DANCER-PARTNERS-E0205 record different knowledge and relationship changes. A successful substituted show and reported parental permission are achieved; no audition prize or professional career is certified.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0205_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0205--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The full reading preserves overlap with E0202, specific memory/live-view interpretations, the four local singer pairs, Nene’s privacy boundary and the later loss of shared-world access. All twelve card halves and four areas retain ordinary play, teaching choices, actual music and incomplete outings. The new-world visit is later reported only by the observers. Historical bodies, EVENT_0170 closure and R3 through EVENT_0140 remain intact; final video and performance channels were not inspected. 34 of 42 newly authorized events are closed; EVENT_0206 is next, 8 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0204 — complete envelope integrated
 
