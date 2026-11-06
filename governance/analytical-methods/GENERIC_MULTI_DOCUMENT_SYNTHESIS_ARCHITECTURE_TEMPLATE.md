@@ -198,7 +198,7 @@ If reconstruction is in scope, adapt the [generic character reconstruction metho
 - **timing**: evidence capture is prospective, during sequential reading; model building may run incrementally, mid-pipeline, or after literary release, as the dependency graph states;
 - **artifact split**: per subject and state, an evidence ledger, an operational model, and (separately) any monograph. A monograph does not certify a model.
 
-The project produces analysis and models. The reconstruction evaluator alone grades capability in `characters/reconstruction_capabilities.jsonl`; the architecture never assigns those grades.
+The project produces analysis and models. The reconstruction evaluator alone grades capability in the capability registry partitions `characters/reconstruction_capabilities/<namespace>/<subject>.jsonl`; the architecture never assigns those grades.
 
 ## 9. Specialist synthesis (contract 5.6)
 

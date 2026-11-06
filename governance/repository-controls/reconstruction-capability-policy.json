@@ -1,5 +1,6 @@
 {
   "schema": "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1",
   "publication_phase": "CALIBRATION",
-  "calibration_acceptance_record": null
+  "calibration_acceptance_record": null,
+  "registry_layout": "SUBJECT_PARTITIONS_V1"
 }

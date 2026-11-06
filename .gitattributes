@@ -10,6 +10,8 @@
 /characters/README.md text eol=lf
 /characters/index/** text eol=lf
 /characters/registry/** text eol=lf
+/characters/reconstruction_capabilities/** text eol=lf
+/characters/reconstruction_index/** text eol=lf
 /governance/** text eol=lf
 /series/README.md text eol=lf
 /series/registry.json text eol=lf
