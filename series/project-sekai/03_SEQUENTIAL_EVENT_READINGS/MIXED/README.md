@@ -83,3 +83,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0194 — 粉砕せよ！アンヴァレンタインの復讐](PJSK_EVENT_0194_DEEP_READING.md): complete 22-story envelope; A game’s secret role becomes an unexpected shared ending; respected authorship, actual enjoyment and reciprocal performance extend established relationships without converting fictional outcomes into biography.
 
 - [EVENT_0197 — 悪夢の庭を歌い明かして](PJSK_EVENT_0197_DEEP_READING.md): complete 22-story envelope; Close reading and reciprocal practice make different voices useful together; the author’s receipt does not exhaust the work or verify its inferred biography.
+
+- [EVENT_0202 — 約束のPasserelle](PJSK_EVENT_0202_DEEP_READING.md): complete 21-story envelope; Temporary shared-world contact enables a particular collaborative song; distinct experiences of grief support a recipient’s own wish while ordinary privacy, local identities and future uncertainty remain.

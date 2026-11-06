@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0201
+current_event_boundary: EVENT_0202
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0201
+## Current coverage — all five human units synchronized through EVENT_0202
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0201 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0201` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0202 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0202` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0202 — complete envelope integrated
+
+The complete fully read frozen envelope is **21 stories / 52 scenes / 2,173 records / 245,232 canonical bytes**: seven core chapters, ten card halves (1374–1378) and four wl_shuffle_01 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/areas use `2026-04-18T11:00:00Z`; cards use `03:00:00Z`. Preparation, production and aftermath retain their internal ordering rather than one release-derived scene date.
+
+**EVENT_0202 is fully integrated:** the formerly open shared-SEKAI human-access question becomes observed temporary contact and differentiated cross-unit knowledge. Scoped Passerelle collaboration and Emu–costumed-attendant reciprocity receive I3. Ichika, Haruka, Emu and Kanade retain current operative owners at very strong I2 through recipient-sensitive choices and actual collaborative work. The girl reports school return and a new goal; shared-world access closes again, and private histories remain bounded.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0202_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0202--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading distinguishes actual bereavement from Ichika’s imagined losses, participant knowledge from audience-only new-world information, and particular creative receipt from universal recovery or world laws. All five units receive scoped epistemic dispositions; all cards/areas preserve consent concerns, local singers, ordinary contact and unfinished plans. Prior event bodies, EVENT_0170 closure and reconstruction authority remain intact. 31 of 42 newly authorized events are closed; EVENT_0203 is next, 11 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0201 — complete envelope integrated
 
