@@ -80,3 +80,5 @@ Source Drive folder ID: `1FNx7gP6h69ov1qzmLQNfDV8oANywc0ey`.
 - [EVENT_0200 — 残照のInside Direction](PJSK_EVENT_0200_DEEP_READING.md): complete 28-story envelope; Rui coordinates an effective film performance with a real interpersonal cost; associated self-encounters distinguish Shizuku’s accepted past from Mafuyu’s unsettled need to preserve herself.
 
 - [EVENT_0208 — Phantom maze monster](PJSK_EVENT_0208_DEEP_READING.md): complete 24-story envelope; A cohosted production succeeds while costly autobiographical role work exposes a need for social return. Tsukasa accepts help and repairs ordinary contact but will not renounce the method; the group’s new agreement and Rui’s unresolved responsibility remain bounded.
+
+- [EVENT_0217 — Drive to Dream！](PJSK_EVENT_0217_DEEP_READING.md): complete 22-story envelope; Adapted theatre and a direct request win particular help; actual Broadway viewing sharpens Nene’s ambition and perceived distance, while Wonder! remains an announced audition rather than a cast role.
