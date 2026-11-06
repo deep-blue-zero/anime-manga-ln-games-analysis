@@ -75,3 +75,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0176 — All ways Jump! with you](PJSK_EVENT_0176_DEEP_READING.md): complete 25-story envelope; A shared alternative clarifies chosen interdependence, then actual work and gratitude carry it forward. The group advances at scoped I3 beside a separate bounded tree epistemic owner; human operatives remain intact and mechanisms unresolved.
 
 - [EVENT_0183 — 交わる色はあの日のままに](PJSK_EVENT_0183_DEEP_READING.md): complete 26-story envelope; Shizuku combines the two groups’ artistic strengths and obtains consent to help her rival, producing a shared stage and renewed rivalry without resolving all former-group conflict.
+
+- [EVENT_0190 — この物語は希望をのせて](PJSK_EVENT_0190_DEEP_READING.md): complete 25-story envelope; Haruka coordinates rival idols around an audience-specific sequence, accepts advice without conceding her whole vocation, and receives a successful event and preliminary qualification while Hikarin’s exit preserves the cost of competition.
