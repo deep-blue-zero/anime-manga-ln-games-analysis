@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0205
+current_event_boundary: EVENT_0206
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0205
+## Current coverage — all five human units synchronized through EVENT_0206
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0205 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0205` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0206 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0206` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0206 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 29 scenes / 1,393 records / 182,763 canonical bytes**: eight core chapters, ten card halves (1399–1403) and four shuffle_63 areas. Membership, pinned-raw/canonical hashes, normalized content, ordered identities and chronology reconcile. Core/areas/cards 1402–1403 use `2026-05-31T06:00:00Z`; cards 1399–1401 use `03:00:00Z`. Planning, temporary care, return, death report, memorial and later response retain internal chronology. CG and performed song/choreography channels were not inspected.
+
+**EVENT_0206 is fully integrated:** a completed costume collaboration and brief care of a lost bird become received memorial work after its death. Mizuki, Kanade and Airi gain very strong I2 evidence within current states; Shizuku, MMJ peers, Mafuyu and Ena retain specific high/bounded impacts. Existing cross-unit and Nightcord reciprocity deepen without new principal-human successors. Particular comfort and renewed courage do not solve bereavement, career uncertainty or Kanade’s rescue question.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0206_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0206--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The full reading preserves owner testimony versus inferred animal intent, differentiated singer knowledge, the private Kanade–Mizuki return, actual shared mourning and public disclosure limits. Every card/area retains low-stakes craft, taste, planning and domestic evidence, including Kanade’s near fall and accepted help. Historical readings, EVENT_0170 closure and all 20 R3 packages through EVENT_0140 remain intact; no performance-informed promotion follows. 35 of 42 newly authorized events are closed; EVENT_0207 is next, 7 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0205 — complete envelope integrated
 

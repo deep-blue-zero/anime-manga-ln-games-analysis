@@ -87,3 +87,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0202 — 約束のPasserelle](PJSK_EVENT_0202_DEEP_READING.md): complete 21-story envelope; Temporary shared-world contact enables a particular collaborative song; distinct experiences of grief support a recipient’s own wish while ordinary privacy, local identities and future uncertainty remain.
 
 - [EVENT_0205 — Great Yell for Dreamers！](PJSK_EVENT_0205_DEEP_READING.md): complete 24-story envelope; A temporary shared-world meeting becomes practical support for two dancers; their own choices, negotiated partnership and a collectively remade performance keep the dream open while access and privacy remain limited.
+
+- [EVENT_0206 — 最果てへと飛ぶキミへ](PJSK_EVENT_0206_DEEP_READING.md): complete 22-story envelope; A short caregiving encounter leaves material and relational traces; lace, a personal concert and a public tribute offer particular comfort without undoing loss or guaranteeing healing.
