@@ -5,6 +5,8 @@ scope: DRIVE_ANALYTICAL_CORPUS_IMPORT
 generation: V1_import_2026_09_05
 status: canonical
 current_event_boundary: EVENT_0213
+source_current_boundary: EVENT_0222
+source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
@@ -27,7 +29,11 @@ Start with the [analytical corpus map](PJSK_ANALYTICAL_CORPUS_MAP.md), then the 
 
 The original Drive import centered on N25 and is preserved as historical provenance. The current Git analytical layer now contains all five human main-story foundations, complete historical screening through EVENT_0028, founded-unit backfill through EVENT_0090, continuous source-present forward integration through EVENT_0213 (EVENT_0166 and EVENT_0186 absent), and the first complete principal-human reconstruction generation through EVENT_0140. Keep each artifact's analytical and source boundary explicit; publication does not reconcile differences among historical checkpoint boundaries.
 
-The analysis uses the [frozen source lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md), `PJSK_SOURCE_20260822T184634Z_EVENT_0213`. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `ANALYSIS_CURRENT` is EVENT_0213; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140, with the EVENT_0141–0213 terminal delta audit complete and the next-stage revision needs recorded. Final unit/specialist and full-series syntheses and the reconstruction refresh remain separate unfinished layers.
+The active catch-up uses the [20261030 source lock through EVENT_0222](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md). The [earlier frozen lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK.md) remains the authority for the completed through-EVENT_0213 campaign. The [corpus map's current state](PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns recovery and continuation. `SOURCE_CURRENT` is EVENT_0222 plus the explicitly inventoried side material; `ANALYSIS_CURRENT` is EVENT_0213; `RECONSTRUCTION_CURRENT` remains provisional generation 1 through EVENT_0140. The EVENT_0141–0213 terminal delta audit remains complete. Package refresh and later unit/specialist/full-series syntheses remain separate responsibilities.
+
+## Active collected-source catch-up — EVENT_0214–0222
+
+The owner's 2026-11-06 instruction authorizes continuous catch-up to the latest verified local generation, `20261030T035133Z` (pipeline v0.2.9). The [intake packet](08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) and [delta manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) cover nine complete event envelopes, all 449 additional new side-story segments and the recorded retained-source revisions. The old-to-new delta contains 670 added stories, including 89 event episodes; no old story ID was removed. Intake verification is complete; all nine event transactions and the 449 supplemental additions remain pending. **Next: EVENT_0214.** The prior completed-run statements below describe their historical authorization and do not restrict this newly authorized run.
 
 The owner's 2026-11-05 `continuous_sequential` run is closed at EVENT_0213: all 42 source-present EVENT_0171–0213 envelopes are integrated, with EVENT_0186 absent and no next authorized event. The terminal EVENT_0141–0213 reconstruction-delta audit and synthesis/reconstruction handoff are complete. The earlier EVENT_0170 closure, frozen source generation, six cumulative ledgers and unchanged EVENT_0140 reconstruction packages remain preserved. Publication and main-integration status are tracked separately on PR 473.
 

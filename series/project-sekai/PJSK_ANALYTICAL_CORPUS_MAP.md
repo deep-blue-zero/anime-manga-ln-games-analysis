@@ -5,6 +5,8 @@ scope: FULL_SERIES
 generation: V1
 status: canonical
 current_event_boundary: EVENT_0213
+source_current_boundary: EVENT_0222
+source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI Japanese corpus pipeline; analysis layer only"
 supersedes: []
@@ -235,7 +237,27 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Closed EVENT_0171–0213 continuation — terminal audit and handoff complete
+### Active EVENT_0214–0222 collected-source catch-up
+
+The owner authorized catch-up to the latest locally collected source material on 2026-11-06. This is a new `continuous_sequential` run under the existing method, architecture and initialized six-ledger layer. Source verification and the older-source comparison are complete; substantive new reading begins at EVENT_0214. The inherited Project SEKAI tree is unchanged by reconciliation commit `3299b92b66474bbe4baadb951bddfd5ea157db55`, which includes main `6393ca952c0a3ca3040976e1e969fa1e40a8d953`.
+
+| Operational field | Current value |
+|---|---|
+| Run mode / state | `continuous_sequential` / active |
+| Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
+| Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
+| Integrated analytical high-water mark | EVENT_0213; 0 of 9 new event transactions closed |
+| Next atomic operation | EVENT_0214 complete-envelope discovery and integration |
+| Supplemental work | 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments pending; context-aware transactions after the event queue |
+| Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
+| Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
+| Reconstruction | All 20 packages remain R3 through EVENT_0140; later changes accumulate as explicit deltas |
+| Inspection lane | Japanese canonical text; no independent AV inspection or performance-readiness promotion |
+| Terminal operation | Reconcile all nine events and supplemental dispositions, update the reconstruction/synthesis handoff, and verify the final published exact-head audit |
+
+The [new lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md), [intake and completion checklist](08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) and [exact delta inventory](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) define this run. They do not certify every older non-event corpus item as newly read. The original source lock, prior event readings, explicit errata, EVENT_0170 closure and EVENT_0213 terminal handoff remain historical authorities. Their former next-action or excluded-generation wording does not override the newly authorized current state above.
+
+### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 
 The owner authorized this new continuous run on 2026-11-05. The registered README, analytical method, synthesis architecture, reconstruction method, source lock and initialized six-ledger layer remain the current project contract. The imported mature root retains its existing entrypoint convention. Main and the stable branch were reconciled at local parent `d99cd9839a246c25abd66fa365605c6f60ca92ed`; its exact two-parent tree passed current-phase routing preflight across 10,857 paths. This starts a new run and preserves the prior EVENT_0170 closure below.
 

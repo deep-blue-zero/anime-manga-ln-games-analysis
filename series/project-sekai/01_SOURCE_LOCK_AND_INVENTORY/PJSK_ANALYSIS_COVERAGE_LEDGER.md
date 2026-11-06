@@ -5,6 +5,8 @@ scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
 current_event_boundary: EVENT_0213
+source_current_boundary: EVENT_0222
+source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -32,6 +34,12 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## Active catch-up — source generation through EVENT_0222
+
+The owner authorized a new continuous collected-source catch-up on 2026-11-06. **Source-current is EVENT_0222; integrated event analysis remains EVENT_0213.** All nine EVENT_0214–0222 transactions are pending, together with 449 newly added standalone-card, area, special and My SEKAI stories outside their envelopes. The [intake](../08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) lists their exact counts and completion requirements; the [new source lock](PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md) and [delta manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) bind the current generation.
+
+Integrity comparison verified 670 added stories and no removals, 42 unchanged prior-read stories newly reused by event association, and 36 older raw-segment revisions. Only Nagi's concessive spelling at `PJSK:event:0097:07:006:0049` changes normalized text; the source-context review preserves existing interpretation. Metadata-only associations do not change release dates or narrative knowledge. Newly added text is not claimed read by inventory verification. **Next: EVENT_0214.** The terminal closures below remain historical; the new run and its separate supplemental obligations govern current continuation. Reconstruction remains R3 through EVENT_0140.
 
 ## Terminal closure — EVENT_0213 and reconstruction-delta handoff
 
