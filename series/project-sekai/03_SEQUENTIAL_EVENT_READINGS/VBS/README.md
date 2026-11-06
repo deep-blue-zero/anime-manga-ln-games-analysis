@@ -72,3 +72,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0187 — Overcome one's limits](PJSK_EVENT_0187_DEEP_READING.md): complete 24-story envelope; Akito combines available languages and collaborators to reach a specific audience; a pre-contract offer and explicit return reflection preserve the difference between a starting line and completed professional entry.
 
 - [EVENT_0193 — GO ALL OUT](PJSK_EVENT_0193_DEEP_READING.md): complete 25-story envelope; Professional preparation becomes actual overseas work; trusted disclosure creates equal rivalry, while expressive success, competitive defeat and the need for shared rest coexist.
+
+- [EVENT_0201 — Show 'em what's up！](PJSK_EVENT_0201_DEEP_READING.md): complete 23-story envelope; Requested rival help lets An connect learned English with remembered sound and lead a first-stage win; ordinary initiative and mistakes keep the acquired method bounded.
