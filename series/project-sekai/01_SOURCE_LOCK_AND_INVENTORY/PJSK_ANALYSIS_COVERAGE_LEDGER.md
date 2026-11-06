@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0202
+current_event_boundary: EVENT_0203
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0202
+## Current coverage — all five human units synchronized through EVENT_0203
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0202 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0202` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0203 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0203` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0203 — complete envelope integrated
+
+The complete fully read frozen envelope is **24 stories / 47 scenes / 1,248 records / 163,097 canonical bytes**: eight core chapters, ten card halves (1380–1384), two monthly areas and four ev_band_25 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/cards 1383–1384/release areas use `2026-04-30T06:00:00Z`; cards 1380–1382 use `03:00:00Z`; monthly rows retain archive timestamp `2023-09-29T15:00:00Z`. Actual childhood recollections and present preparation/aftermath retain their own ordering.
+
+**EVENT_0203 is fully integrated:** an actual week off follows Honami’s fatigue concern and Shindo’s already progressing arrangements. Newly specified childhood history and a present return to its changed site strengthen the quartet’s received reciprocity. Honami proposes actual music for their own pleasure. Existing human, group, Solis and School-local owners remain current at differentiated I2; no new I3 is required.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0203_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0203--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading preserves actual childhood history, hypothetical causal alternatives, present receipts and unperformed plans. It retains Saki’s undisclosed E0188 conflict, the actual dog reunion without certain animal recognition, and the distinction between Honami’s satisfied food drawing and Mafuyu’s private knowledge of Kanade’s misreading. Five-unit dispositions, all cards/areas, historical bodies and EVENT_0170 closure remain complete. 32 of 42 newly authorized events are closed; EVENT_0204 is next, 10 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0202 — complete envelope integrated
 

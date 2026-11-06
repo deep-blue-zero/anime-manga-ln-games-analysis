@@ -80,3 +80,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0188 — 仰ぐ夜空に、星は紛れて](PJSK_EVENT_0188_DEEP_READING.md): complete 24-story envelope; A successful first professional solo concert clarifies Saki’s wish for intimate audience contact; she hides that wish to preserve the quartet, while the others experience a shared step toward wider reach.
 
 - [EVENT_0195 — Path made by faith](PJSK_EVENT_0195_DEEP_READING.md): complete 24-story envelope; Shiho performs with the person who first invited her into bass and learns that her sound already reached her; television gives the quartet’s established work new, specifically received public expression.
+
+- [EVENT_0203 — あたたかな思い出を辿って](PJSK_EVENT_0203_DEEP_READING.md): complete 24-story envelope; A granted break and a remembered beginning let the quartet return care to Honami and choose music for themselves; practical support, ordinary tastes and unequal knowledge remain distinct.
