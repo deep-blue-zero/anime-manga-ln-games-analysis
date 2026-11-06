@@ -81,3 +81,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0191 — 新年言祝ぐ、祈りの舞](PJSK_EVENT_0191_DEEP_READING.md): complete 26-story envelope; A recipient-specific festival succeeds through distributed work; Shiho elects to retain painful history, Emu reaffirms distributed park stewardship, and the unexplained shrine encounter remains unresolved.
 
 - [EVENT_0194 — 粉砕せよ！アンヴァレンタインの復讐](PJSK_EVENT_0194_DEEP_READING.md): complete 22-story envelope; A game’s secret role becomes an unexpected shared ending; respected authorship, actual enjoyment and reciprocal performance extend established relationships without converting fictional outcomes into biography.
+
+- [EVENT_0197 — 悪夢の庭を歌い明かして](PJSK_EVENT_0197_DEEP_READING.md): complete 22-story envelope; Close reading and reciprocal practice make different voices useful together; the author’s receipt does not exhaust the work or verify its inferred biography.

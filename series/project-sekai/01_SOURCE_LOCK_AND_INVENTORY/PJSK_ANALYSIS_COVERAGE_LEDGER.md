@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0196
+current_event_boundary: EVENT_0197
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0196
+## Current coverage — all five human units synchronized through EVENT_0197
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0196 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0196` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0197 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0197` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0197 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 32 scenes / 1,416 records / 179,928 canonical bytes**: eight core chapters, ten card halves (1345–1349) and four ev_shuffle_62 areas; no monthly rows. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1348–1349/release areas use `2026-02-28T06:00:00Z`; cards 1345–1347 use `03:00:00Z`. Antecedents, practice, opening, closing and later contact remain distinct.
+
+**EVENT_0197 is fully integrated:** `REL-CROSS-KOHANE-ENA-E0197` succeeds E0120 as competitive respect becomes reciprocal interpretation, specific practice, completed co-performance and ordinary contact. Ena E0184 remains current at very strong I2, carrying inherited vocational and technical/expression scopes. Bounded local Ena–Empty Len and professional Ena–Iwo I2 channels preserve wanted companionship and actual receipt without automatic mentorship or personal successors.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0197_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0197--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The complete reading and six selective ledger additions distinguish received interpretation from inferred author biography, artistic fit from superior technique, and the author’s changed plan from a predetermined tie. Closing performance is actual; the next painting and grade are not. Honami/Kanade and N25 relationships retain distinct reciprocal evidence; local singers and withdrawn jokes do not create new world rules. Five-unit dispositions and historical readings/EVENT_0170 closure are preserved. 26 of 42 newly authorized events are closed; EVENT_0198 is next, 16 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0196 — complete envelope integrated
 
