@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0212
+current_event_boundary: EVENT_0213
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0212
+## Current coverage — all five human units synchronized through EVENT_0213
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0212 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0212` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0213 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0213` (EVENT_0166 and EVENT_0186 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0213 — complete envelope integrated
+
+The complete fully read frozen envelope is **22 stories / 37 scenes / 1,155 records / 157,047 canonical bytes**: eight core chapters, ten card halves (1440–1444) and four linked areas. Canonical/pinned-raw hashes, normalized content, ordered identities, membership and chronology reconcile. Core/1443–1444/areas publish at `2026-08-09T06:00:00Z`, 1440–1442 at `03:00:00Z`; packing, announcement, planning days and the next-day decision remain ordered. The semifinal is still future. CG, broadcast, training and performance AV were not independently inspected.
+
+**EVENT_0213 is fully integrated:** the announced single-performance semifinal rules challenge MMJ’s familiar design. Haruka receives rest and Chiharu’s differently situated departure history, proposes a Shizuku-centered arrangement with demanding roles for all four, explains its reasons and obtains each member’s considered assent. The new direction is adopted; its song, stage execution and competitive result remain future.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0213_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0213--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. Actual group consent and Haruka’s accountable production choice are distinct from guaranteed victory or permanent hierarchy. Private biography, public rules and later strategy receipt stay separated; Chiharu’s historical name split is corrected by explicit erratum without rewriting EVENT_0174. Earlier bodies and EVENT_0170 closure remain; reconstruction stays R3 through EVENT_0140. 42 of 42 newly authorized events are closed; 0 remain and EVENT_0186 is absent. No further event is authorized. The terminal EVENT_0141–0213 reconstruction-delta audit and synthesis/reconstruction handoff remain required. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0212 — complete envelope integrated
 
