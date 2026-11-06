@@ -78,3 +78,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0182 — 君と繋ぐHeart Beat](PJSK_EVENT_0182_DEEP_READING.md): complete 22-story envelope; Ichika’s personal song generates reciprocal artistic exchange and new creative chains, leading her to welcome interpretations beyond her intention while Shiho’s different response remains open.
 
 - [EVENT_0188 — 仰ぐ夜空に、星は紛れて](PJSK_EVENT_0188_DEEP_READING.md): complete 24-story envelope; A successful first professional solo concert clarifies Saki’s wish for intimate audience contact; she hides that wish to preserve the quartet, while the others experience a shared step toward wider reach.
+
+- [EVENT_0195 — Path made by faith](PJSK_EVENT_0195_DEEP_READING.md): complete 24-story envelope; Shiho performs with the person who first invited her into bass and learns that her sound already reached her; television gives the quartet’s established work new, specifically received public expression.
