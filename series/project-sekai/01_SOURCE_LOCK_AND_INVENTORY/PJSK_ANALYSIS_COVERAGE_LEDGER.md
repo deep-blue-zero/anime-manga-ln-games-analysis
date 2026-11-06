@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0180
+current_event_boundary: EVENT_0181
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
@@ -16,9 +16,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0180
+## Current coverage — all five human units synchronized through EVENT_0181
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0180 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0180` (EVENT_0166 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0181 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0181` (EVENT_0166 absent from the frozen lock).
 
 Artifacts:
 
@@ -32,6 +32,14 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## EVENT_0181 — complete envelope integrated
+
+The complete frozen envelope is **28 stories / 51 scenes / 2,063 records / 261,952 canonical bytes**: eight core chapters, sixteen card halves (1252–1259), and four ev_shuffle_58 areas. All texts were fully read; frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology identities/timestamps pass. Core, cards 1258–1259 and areas publish at `2025-09-30T06:00:00Z`; cards 1252–1257 at `2025-09-30T03:00:00Z`. Depicted preparation, festival and aftermath remain distinct. No separately listed unlock-dependent or additional cross-linked story is omitted.
+
+**EVENT_0181 is fully integrated:** `REL-CROSS-HARUKA-AN-E0142 → REL-CROSS-HARUKA-AN-E0181` records mutually witnessed growth and an explicitly accepted race toward their separate dreams. Add bounded I2 An–Saki direct contact. All twenty human and five group owners remain current at differentiated I2; Minori and Akito’s separate shard encounters strengthen existing characterization and thought-shard evidence. Four units perform on the island; Nightcord’s public MV, Mizuki’s staff work, private remote call and later recorded receipt remain distinct.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0181_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0181--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and complete source surfaces. The reading and six ledger additions preserve prior authority, separate public and private recipients, identify conditioned self-manifestations, and distinguish actual festival receipt from future bookings, contests and fireworks plans. 11 of 42 newly authorized events are closed; EVENT_0182 is next, 31 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; the terminal delta audit and synthesis handoff remain separate work.
 
 ## EVENT_0180 — complete envelope integrated
 

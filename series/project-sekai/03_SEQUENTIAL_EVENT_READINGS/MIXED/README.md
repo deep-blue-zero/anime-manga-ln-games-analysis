@@ -73,3 +73,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0179 — Link the Beats！](PJSK_EVENT_0179_DEEP_READING.md): complete 37-story envelope; Six local singers visit other established SEKAI and return with selective experience. Stage Miku refines an offer of warmth for a particular recipient; repeated tree care does not reopen a route.
 
 - [EVENT_0180 — Wishes in Bloom！](PJSK_EVENT_0180_DEEP_READING.md): complete 64-story envelope; The six Interstice singers encounter a newly formed shared space and investigate its tree, while five ordinary human continuations keep future outcomes open. Earlier card associations retain their original chronology and state ownership.
+
+- [EVENT_0181 — Our Golden Days](PJSK_EVENT_0181_DEEP_READING.md): complete 28-story envelope; A shared island festival renews An and Haruka’s reciprocal rivalry, while ordinary leisure, remote Nightcord participation and two owner-specific shard encounters retain distinct consequences and witnesses.
