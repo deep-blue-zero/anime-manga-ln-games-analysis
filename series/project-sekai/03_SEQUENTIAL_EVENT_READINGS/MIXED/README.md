@@ -75,3 +75,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0180 — Wishes in Bloom！](PJSK_EVENT_0180_DEEP_READING.md): complete 64-story envelope; The six Interstice singers encounter a newly formed shared space and investigate its tree, while five ordinary human continuations keep future outcomes open. Earlier card associations retain their original chronology and state ownership.
 
 - [EVENT_0181 — Our Golden Days](PJSK_EVENT_0181_DEEP_READING.md): complete 28-story envelope; A shared island festival renews An and Haruka’s reciprocal rivalry, while ordinary leisure, remote Nightcord participation and two owner-specific shard encounters retain distinct consequences and witnesses.
+
+- [EVENT_0189 — ともに、トゥルールートを目指して](PJSK_EVENT_0189_DEEP_READING.md): complete 22-story envelope; Kohane asks that Mafuyu remain part of their success; Mafuyu revises the game strategy, acknowledges received inclusion and chooses a shared keepsake while broader preference and family conflicts remain open.
