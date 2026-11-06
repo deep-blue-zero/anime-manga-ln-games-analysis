@@ -79,3 +79,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0189 — ともに、トゥルールートを目指して](PJSK_EVENT_0189_DEEP_READING.md): complete 22-story envelope; Kohane asks that Mafuyu remain part of their success; Mafuyu revises the game strategy, acknowledges received inclusion and chooses a shared keepsake while broader preference and family conflicts remain open.
 
 - [EVENT_0191 — 新年言祝ぐ、祈りの舞](PJSK_EVENT_0191_DEEP_READING.md): complete 26-story envelope; A recipient-specific festival succeeds through distributed work; Shiho elects to retain painful history, Emu reaffirms distributed park stewardship, and the unexplained shrine encounter remains unresolved.
+
+- [EVENT_0194 — 粉砕せよ！アンヴァレンタインの復讐](PJSK_EVENT_0194_DEEP_READING.md): complete 22-story envelope; A game’s secret role becomes an unexpected shared ending; respected authorship, actual enjoyment and reciprocal performance extend established relationships without converting fictional outcomes into biography.
