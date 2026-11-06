@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0217
+current_event_boundary: EVENT_0218
 source_current_boundary: EVENT_0222
 source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
@@ -18,9 +18,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0217
+## Current state — founded units synchronized through EVENT_0218
 
-All five human units now track the same source-present event history through `EVENT_0217`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0217 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0218`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0218 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -246,8 +246,8 @@ The owner authorized catch-up to the latest locally collected source material on
 | Run mode / state | `continuous_sequential` / active |
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
-| Integrated analytical high-water mark | EVENT_0217; 4 of 9 new event transactions closed |
-| Next atomic operation | EVENT_0218 complete-envelope discovery and integration |
+| Integrated analytical high-water mark | EVENT_0218; 5 of 9 new event transactions closed |
+| Next atomic operation | EVENT_0219 complete-envelope discovery and integration |
 | Supplemental work | 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments pending; context-aware transactions after the event queue |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
@@ -275,11 +275,17 @@ The [EVENT_0215 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0215_DEEP
 
 The [EVENT_0216 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0216_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The scoped trust/evidence records preserve established rival histories, restricted hearing knowledge and the separate audience-only DG postscript. Cards add actual ordinary exchange, received musical influence and selective singer reciprocity; areas retain poor concentration and incomplete relief. No culprit, permanent data-loss verdict or trust repair is invented. Historical bodies and all packages remain preserved. EVENT_0217 is next; 6 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0217 current checkpoint
+#### EVENT_0217 historical checkpoint within this run
 
 **EVENT_0217 is fully integrated:** an adapted parking-lot show and explicit request obtain actual help after a missed bus, followed by reunion and completed Broadway viewing. Nene values the experience while recognizing the distance ahead; her separate established scopes remain. The Olivia encounter and received Wonder! audition title are bounded new records, without casting success or guaranteed future performance.
 
 The [EVENT_0217 reading](03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0217_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The reading retains practical preparation, distinct contributors, driver misidentification, explicit warnings, unequal knowledge and the difference between role fiction and real requests. Cards and areas add received gifts, independent singer interests, language-learning wishes and incomplete inventions/adaptation plans. Earlier histories, private scopes and all package bytes remain preserved. EVENT_0218 is next; 5 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0218 current checkpoint
+
+**EVENT_0218 is fully integrated:** clear tree communication and coordinated twenty-human arrival lead to the shared-world stabilization announcement; later deliberate visits substantiate usable repeat access. Six Interstice singers receive ongoing company. Ordinary exchanges retain personal differences, privacy and observation limits; all human and unit-group owners remain.
+
+The [EVENT_0218 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0218_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. All 41 new areas and 26 reused card pairs have explicit dispositions. Prior card chronology, failed access, private recipients and local singer identities remain intact. The new access state is neither left wholly hypothetical nor generalized to every world, all private knowledge or guaranteed future attendance. Historical bodies and all sixty package files remain preserved. EVENT_0219 is next; 4 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 

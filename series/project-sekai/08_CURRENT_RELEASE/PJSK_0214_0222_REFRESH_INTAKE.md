@@ -6,7 +6,7 @@ scope: EVENT_0214_0222_AND_SOURCE_GENERATION_ADDITIONS
 generation: SOURCE_20261030T035133Z
 status: canonical
 source_boundary: "PJSK_SOURCE_20261030T035133Z_EVENT_0222"
-analysis_cutoff: EVENT_0217
+analysis_cutoff: EVENT_0218
 reconstruction_package_cutoff: EVENT_0140
 supersedes: []
 superseded_by: []
@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 On 2026-11-06 the owner authorized catching up to the latest locally collected material after the completed EVENT_0213 campaign. The exact boundary is the [new source lock](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md), verified against the source current-state map, certification, manifests and retained raw snapshots. The existing [analytical method](../00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md), [architecture](../00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) and [live-service method](../00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) continue to govern.
 
-**SOURCE_CURRENT is EVENT_0222 plus the explicitly inventoried side material; ANALYSIS_CURRENT remains EVENT_0217; RECONSTRUCTION_CURRENT remains R3 through EVENT_0140.** Intake and integrity checks are complete. Event rows below distinguish integrated readings from pending sources; all supplemental additions remain pending. The [corpus map](../PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns the active run and next operation; this packet owns its source membership and completion checklist.
+**SOURCE_CURRENT is EVENT_0222 plus the explicitly inventoried side material; ANALYSIS_CURRENT remains EVENT_0218; RECONSTRUCTION_CURRENT remains R3 through EVENT_0140.** Intake and integrity checks are complete. Event rows below distinguish integrated readings from pending sources; all supplemental additions remain pending. The [corpus map](../PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns the active run and next operation; this packet owns its source membership and completion checklist.
 
 The start is the preserved analytical tree at `0c13c4ca44b5fc5df896322d47ed6eaeb21d6671`, reconciled with `main` at `3299b92b66474bbe4baadb951bddfd5ea157db55` (main parent `6393ca952c0a3ca3040976e1e969fa1e40a8d953`). That reconciliation changes no Project SEKAI analytical bytes. The previous run and its terminal audit remain completed historical authorities. This is a new continuous run, not a retroactive extension of their authorization.
 
@@ -33,7 +33,7 @@ Counts are envelope memberships, not claims of co-release or newly distinct read
 | EVENT_0215 | Mix&Make Party Time!! | 8 | 12 | 5 | 1,744 | INTEGRATED |
 | EVENT_0216 | After the Fire | 8 | 10 | 4 | 1,514 | INTEGRATED |
 | EVENT_0217 | Drive to Dream！ | 8 | 10 | 4 | 1,375 | INTEGRATED |
-| EVENT_0218 | Connect to SEKAI！ | 2 | 52 | 41 | 3,808 | PENDING |
+| EVENT_0218 | Connect to SEKAI！ | 2 | 52 | 41 | 3,808 | INTEGRATED |
 | EVENT_0219 | Side by Side, Our Ways！ | 8 | 14 | 4 | 1,600 | PENDING |
 | EVENT_0220 | Stars Off Orbit | 8 | 10 | 4 | 1,187 | PENDING |
 | EVENT_0221 | Vivid BAD SQUAD Memories | 20 | 0 | 0 | 2,337 | PENDING |
