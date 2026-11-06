@@ -14,12 +14,14 @@ TOOLS = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(TOOLS))
 from analytical_preflight import ROUTING_OUTPUTS, routing_preflight
 from character_index_core import (
-    RECONSTRUCTION_POLICY_PATH, AuthorityGraph, DomainError, GitSnapshot, SnapshotEntry,
+    LEGACY_RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PAGE_PREFIX, RECONSTRUCTION_INDEX_PATH,
+    RECONSTRUCTION_POLICY_PATH, RECONSTRUCTION_REGISTRY_PREFIX, AuthorityGraph, DomainError,
+    GitSnapshot, SnapshotEntry, is_reconstruction_output,
 )
 from generate_character_index import render_outputs
 from update_repository_indexes import expected_outputs
 from validate_repository import (
-    RECONSTRUCTION_OUTPUTS, _policy_from_snapshot, _reconstruction_delta_paths,
+    _policy_from_snapshot, _reconstruction_delta_paths,
     _reconstruction_integration_base, _reconstruction_target_commit, validate_bytes,
     validate_generated_index, validate_generated_repository_indexes, validate_paths,
     validate_reconstruction_domain, validate_registered_root_topology, validate_series_registry,
@@ -29,6 +31,18 @@ SOURCE_SHA = "a" * 40
 ENTRYPOINT = "series/example/CURRENT.md"
 DESCRIPTOR = "series/example/.repository/series-registry.json"
 OUTPUT_ISOLATION_ERROR = "reconstruction production outputs must change alone"
+# The synthetic evaluator outputs this fixture models: one subject partition,
+# the root index and the subject's namespace page.
+RECONSTRUCTION_OUTPUTS = frozenset({
+    "characters/reconstruction_capabilities/example/alice@anime.jsonl",
+    RECONSTRUCTION_INDEX_PATH, "characters/reconstruction_index/example.md",
+})
+
+
+def reconstruction_outputs(*snapshots: GitSnapshot) -> set[str]:
+    """Every reconstruction output path present in any of the snapshots, in either layout."""
+
+    return {path for snapshot in snapshots for path in snapshot.entries if is_reconstruction_output(path)}
 
 
 def entry(path: str, data: bytes) -> SnapshotEntry:
@@ -104,7 +118,7 @@ def fixture_baseline(
         source.get(RECONSTRUCTION_POLICY_PATH) == published.get(RECONSTRUCTION_POLICY_PATH)
     ):
         entries = dict(projected.entries)
-        for path in RECONSTRUCTION_OUTPUTS:
+        for path in reconstruction_outputs(projected, published):
             restored = published.get(path)
             if restored is None:
                 entries.pop(path, None)
@@ -112,7 +126,7 @@ def fixture_baseline(
                 entries[path] = restored
         projected = GitSnapshot(projected.root, projected.identity, entries)
     changed = sorted(
-        path for path in ROUTING_OUTPUTS | RECONSTRUCTION_OUTPUTS
+        path for path in ROUTING_OUTPUTS | reconstruction_outputs(projected, source)
         if projected.get(path) != source.get(path)
     )
     return projected, changed
@@ -145,7 +159,9 @@ def published_reconstruction(root: Path) -> GitSnapshot:
     """Read the reconstruction policy and outputs at the validator's integration base."""
 
     return GitSnapshot.from_commit(
-        root, reconstruction_base(root), paths=RECONSTRUCTION_OUTPUTS | {RECONSTRUCTION_POLICY_PATH},
+        root, reconstruction_base(root),
+        paths={LEGACY_RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PATH, RECONSTRUCTION_POLICY_PATH},
+        prefixes={RECONSTRUCTION_REGISTRY_PREFIX, RECONSTRUCTION_INDEX_PAGE_PREFIX},
     )
 
 
@@ -245,6 +261,12 @@ class AnalyticalPreflightTests(unittest.TestCase):
         for path in before.keys() - ROUTING_OUTPUTS - RECONSTRUCTION_OUTPUTS:
             self.assertEqual(projected.entries[path], before[path], path)
         self.assertEqual(fixture_baseline(projected, published)[1], [])
+        # A page the branch added under the generated-page prefix is restored too.
+        extra = "characters/reconstruction_index/other.md"
+        source.entries[extra] = entry(extra, b"unpublished page\n")
+        projected, changed = fixture_baseline(source, published)
+        self.assertIn(extra, changed)
+        self.assertNotIn(extra, projected.entries)
 
     def test_fixture_baseline_keeps_outputs_when_the_candidate_amends_policy(self) -> None:
         # A reviewed policy amendment may change the outputs beside other paths.
@@ -385,7 +407,7 @@ class AnalyticalPreflightTests(unittest.TestCase):
             changed = _reconstruction_delta_paths(root, "index", reconstruction_base(root), None)
             self.assertLessEqual({RECONSTRUCTION_POLICY_PATH, ENTRYPOINT, DESCRIPTOR}, changed)
             staged = GitSnapshot.from_index(root)
-            for path in RECONSTRUCTION_OUTPUTS:
+            for path in reconstruction_outputs(amended, staged):
                 self.assertEqual(staged.get(path), amended.get(path), path)
             errors, _notices = validate_reconstruction_domain(root, staged, "index", None)
             self.assertEqual(errors, [])

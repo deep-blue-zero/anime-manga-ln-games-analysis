@@ -547,8 +547,20 @@ class GitSnapshot:
         return cls(root, commit, entries)
 
     @classmethod
-    def from_index(cls, root: Path) -> "GitSnapshot":
-        raw = run_git(root, "ls-files", "--stage", "-z")
+    def from_index(cls, root: Path, *, paths: Iterable[str] | None = None) -> "GitSnapshot":
+        """Load the Git index; with ``paths``, only those exact index entries."""
+
+        pathspecs: list[str] = []
+        if paths is not None:
+            selected = sorted(set(paths))
+            for path in selected:
+                validate_repository_path(path)
+            if not selected:
+                return cls(root, "INDEX", {})
+            pathspecs = ["--literal-pathspecs", "ls-files", "--stage", "-z", "--", *selected]
+        else:
+            pathspecs = ["ls-files", "--stage", "-z"]
+        raw = run_git(root, *pathspecs)
         rows = []
         for item in raw.split(b"\0"):
             if not item:
@@ -561,7 +573,7 @@ class GitSnapshot:
             rows.append((path, mode, oid))
         blob_modes = {"100644", "100755", "120000"}
         blobs = read_blob_objects(root, (oid for _, mode, oid in rows if mode in blob_modes))
-        if run_git(root, "ls-files", "--stage", "-z") != raw:
+        if run_git(root, *pathspecs) != raw:
             raise DomainError("Git index changed during snapshot acquisition")
         entries = {
             path: SnapshotEntry(path, mode, blobs[oid] if mode in blob_modes else b"")
@@ -1296,8 +1308,18 @@ def resolve_evidence_entries(
     return entries
 
 
-RECONSTRUCTION_REGISTRY_PATH = "characters/reconstruction_capabilities.jsonl"
+# The reconstruction capability registry is one logical registry stored as one
+# JSONL file per analysis subject, grouped in one directory per ID namespace:
+# characters/reconstruction_capabilities/<namespace>/<subject>.jsonl, where
+# <subject> is the analysis_subject_id after its namespace. Records accumulate
+# per subject (each reassessment keeps its predecessors), so a file grows only
+# with one subject's own history, never with a franchise's subject count. The
+# retired single file stays readable for historical commits and is rejected in
+# current snapshots.
+RECONSTRUCTION_REGISTRY_PREFIX = "characters/reconstruction_capabilities/"
+LEGACY_RECONSTRUCTION_REGISTRY_PATH = "characters/reconstruction_capabilities.jsonl"
 RECONSTRUCTION_INDEX_PATH = "characters/CHARACTER_RECONSTRUCTION_INDEX.md"
+RECONSTRUCTION_INDEX_PAGE_PREFIX = "characters/reconstruction_index/"
 RECONSTRUCTION_SCHEMA_PATH = (
     "governance/schemas/character-reconstruction-capability.schema.json"
 )
@@ -1308,6 +1330,10 @@ RECONSTRUCTION_POLICY_SCHEMA = (
     "anime-manga-ln-games-analysis/reconstruction-capability-policy/v1"
 )
 RECONSTRUCTION_PUBLICATION_PHASES = frozenset({"CALIBRATION", "ROUTINE"})
+# The storage layout the publication gate records. A further split of the
+# registry amends it, which is the reviewed route for a change that touches
+# the reconstruction outputs beside other paths.
+RECONSTRUCTION_REGISTRY_LAYOUT = "SUBJECT_PARTITIONS_V1"
 # The discovery registry is one logical registry stored as one JSONL partition
 # per ID namespace: the franchise ID when set, otherwise the series ID. Every
 # row of an entity, and every composite with its leaves, therefore shares one
@@ -1492,6 +1518,186 @@ def discovery_commit_snapshot(
         prefixes={DISCOVERY_REGISTRY_PREFIX},
         blob_cache=blob_cache,
     )
+
+
+def reconstruction_partition_path(subject_id: str) -> str:
+    """The one file that holds every assessment of ``subject_id``."""
+
+    if not SUBJECT_ID_RE.fullmatch(subject_id):
+        raise DomainError(f"invalid analysis_subject_id: {subject_id!r}")
+    namespace, subject = subject_id.split(":", 1)
+    return f"{RECONSTRUCTION_REGISTRY_PREFIX}{namespace}/{subject}.jsonl"
+
+
+def reconstruction_partition_subject(path: str) -> str | None:
+    """The analysis_subject_id a partition path names, or None for a foreign path."""
+
+    if not path.startswith(RECONSTRUCTION_REGISTRY_PREFIX) or not path.endswith(".jsonl"):
+        return None
+    remainder = path[len(RECONSTRUCTION_REGISTRY_PREFIX) : -len(".jsonl")]
+    if remainder.count("/") != 1:
+        return None
+    namespace, subject = remainder.split("/")
+    subject_id = f"{namespace}:{subject}"
+    return subject_id if SUBJECT_ID_RE.fullmatch(subject_id) else None
+
+
+def reconstruction_index_page_path(namespace: str) -> str:
+    return f"{RECONSTRUCTION_INDEX_PAGE_PREFIX}{namespace}.md"
+
+
+def is_reconstruction_output(path: str) -> bool:
+    """Whether a path is written by the reconstruction evaluator, in either layout."""
+
+    return path in {RECONSTRUCTION_INDEX_PATH, LEGACY_RECONSTRUCTION_REGISTRY_PATH} or path.startswith(
+        (RECONSTRUCTION_REGISTRY_PREFIX, RECONSTRUCTION_INDEX_PAGE_PREFIX)
+    )
+
+
+@dataclass(frozen=True)
+class ReconstructionRow:
+    path: str
+    line_number: int
+    record: dict[str, Any]
+
+    @property
+    def label(self) -> str:
+        return f"{self.path}:{self.line_number}"
+
+
+@dataclass(frozen=True)
+class ReconstructionRegistry:
+    """One snapshot's logical capability registry and its storage-layout violations.
+
+    ``rows`` is in ASCII ``assessment_id`` order over the whole registry, the
+    order the retired single file kept, so consumers see one registry whichever
+    layout stores it.
+    """
+
+    layout: str
+    rows: tuple[ReconstructionRow, ...]
+    layout_errors: tuple[str, ...]
+
+    @property
+    def records(self) -> list[dict[str, Any]]:
+        return [row.record for row in self.rows]
+
+
+def _assessment_order(row: ReconstructionRow) -> tuple[int, bytes]:
+    identifier = row.record.get("assessment_id")
+    if isinstance(identifier, str):
+        return (0, identifier.encode("utf-8"))
+    return (1, f"{row.path}:{row.line_number}".encode("utf-8"))
+
+
+def read_reconstruction_registry(snapshot: GitSnapshot) -> ReconstructionRegistry:
+    """Read the capability registry of one snapshot in either storage layout.
+
+    Undecodable bytes and coexisting layouts raise. Partition placement, row
+    order, byte form and cross-file assessment_id uniqueness are returned as
+    layout errors for the caller to report.
+    """
+
+    legacy = snapshot.get(LEGACY_RECONSTRUCTION_REGISTRY_PATH)
+    partition_paths = sorted(
+        (path for path in snapshot.entries if path.startswith(RECONSTRUCTION_REGISTRY_PREFIX)),
+        key=lambda item: item.encode("utf-8"),
+    )
+    if legacy is not None and partition_paths:
+        raise DomainError(
+            f"{snapshot.identity}: the retired {LEGACY_RECONSTRUCTION_REGISTRY_PATH} and "
+            f"{RECONSTRUCTION_REGISTRY_PREFIX} partitions cannot coexist"
+        )
+    if legacy is not None:
+        if not legacy.qualifies_as_evidence:
+            raise DomainError(
+                f"{snapshot.identity}: {LEGACY_RECONSTRUCTION_REGISTRY_PATH} is not a regular tracked blob"
+            )
+        rows = tuple(
+            ReconstructionRow(LEGACY_RECONSTRUCTION_REGISTRY_PATH, line_number, record)
+            for line_number, record in decode_reconstruction_registry(
+                legacy.data, f"{snapshot.identity}:{LEGACY_RECONSTRUCTION_REGISTRY_PATH}"
+            )
+        )
+        return ReconstructionRegistry(LEGACY_LAYOUT, rows, ())
+    if not partition_paths:
+        return ReconstructionRegistry(ABSENT_LAYOUT, (), ())
+    rows_list: list[ReconstructionRow] = []
+    errors: list[str] = []
+    seen: dict[str, str] = {}
+    for path in partition_paths:
+        entry = snapshot.entries[path]
+        subject_id = reconstruction_partition_subject(path)
+        if subject_id is None:
+            errors.append(
+                f"unexpected path in the capability registry: {path}; partitions are "
+                f"{RECONSTRUCTION_REGISTRY_PREFIX}<namespace>/<subject>.jsonl"
+            )
+            continue
+        if not entry.qualifies_as_evidence:
+            errors.append(f"capability partition is not a tracked regular blob: {path}")
+            continue
+        data = entry.data
+        if not data:
+            errors.append(f"capability partition holds no records: {path}; delete an emptied partition")
+            continue
+        try:
+            decoded = decode_reconstruction_registry(data, f"{snapshot.identity}:{path}")
+        except DomainError as exc:
+            errors.append(str(exc))
+            continue
+        for line_number, record in decoded:
+            row = ReconstructionRow(path, line_number, record)
+            rows_list.append(row)
+            owner = record.get("analysis_subject_id")
+            if isinstance(owner, str) and SUBJECT_ID_RE.fullmatch(owner) and owner != subject_id:
+                errors.append(f"{row.label}: {owner} belongs in {reconstruction_partition_path(owner)}")
+            identifier = record.get("assessment_id")
+            if not isinstance(identifier, str):
+                continue
+            if identifier in seen:
+                errors.append(
+                    f"{row.label}: duplicate assessment_id {identifier}; also in {seen[identifier]}"
+                )
+            else:
+                seen[identifier] = row.label
+    rows_list.sort(key=_assessment_order)
+    return ReconstructionRegistry(PARTITIONED_LAYOUT, tuple(rows_list), tuple(errors))
+
+
+def current_reconstruction_layout_errors(registry: ReconstructionRegistry) -> list[str]:
+    """Storage errors for a current snapshot, which must use the partitioned layout."""
+
+    if registry.layout == LEGACY_LAYOUT:
+        return [
+            f"{LEGACY_RECONSTRUCTION_REGISTRY_PATH} is retired; store each record in "
+            f"{RECONSTRUCTION_REGISTRY_PREFIX}<namespace>/<subject>.jsonl "
+            "(run tools/reconstruction_registry.py normalize)"
+        ]
+    if registry.layout == ABSENT_LAYOUT:
+        # The registry has held records since 2026-10-23; a current snapshot
+        # without any partition is missing an input, not empty.
+        return [
+            f"the capability registry is absent: no {RECONSTRUCTION_REGISTRY_PREFIX}"
+            "<namespace>/<subject>.jsonl partition is tracked"
+        ]
+    return list(registry.layout_errors)
+
+
+def reconstruction_commit_snapshot(
+    root: Path, commit: str, *, blob_cache: MutableMapping[str, bytes] | None = None
+) -> GitSnapshot:
+    """Load only the capability registry of one commit, in either storage layout."""
+
+    return GitSnapshot.from_commit(
+        root,
+        commit,
+        paths={LEGACY_RECONSTRUCTION_REGISTRY_PATH},
+        prefixes={RECONSTRUCTION_REGISTRY_PREFIX},
+        blob_cache=blob_cache,
+    )
+
+
 HISTORICAL_ASSESSMENT_STATUSES = frozenset({"STALE", "SUPERSEDED"})
 CURRENT_CLAIM_STATUSES = frozenset({"CANDIDATE", "REVIEWED"})
 # Published claims are immutable. Only the lifecycle fields below may change,
@@ -2198,11 +2404,16 @@ def load_reconstruction_policy(snapshot: GitSnapshot) -> tuple[str | None, list[
     except DomainError as exc:
         return None, [str(exc)]
     errors: list[str] = []
-    expected_fields = {"schema", "publication_phase", "calibration_acceptance_record"}
+    expected_fields = {"schema", "publication_phase", "calibration_acceptance_record", "registry_layout"}
     if not isinstance(document, dict) or set(document) != expected_fields:
         return None, [f"{RECONSTRUCTION_POLICY_PATH} fields must be exactly {sorted(expected_fields)}"]
     if document["schema"] != RECONSTRUCTION_POLICY_SCHEMA:
         errors.append(f"{RECONSTRUCTION_POLICY_PATH}.schema is not recognized")
+    if document["registry_layout"] != RECONSTRUCTION_REGISTRY_LAYOUT:
+        errors.append(
+            f"{RECONSTRUCTION_POLICY_PATH}.registry_layout must be {RECONSTRUCTION_REGISTRY_LAYOUT!r}, "
+            "the layout this tooling reads and writes"
+        )
     phase = document["publication_phase"]
     if phase not in RECONSTRUCTION_PUBLICATION_PHASES:
         errors.append(f"{RECONSTRUCTION_POLICY_PATH}.publication_phase is not recognized")
