@@ -27,7 +27,7 @@ superseded_by: []
 This artifact is a reusable, corpus-level reference for building and validating character models from a project's source-grounded analysis. It is canonical only for this reference responsibility, and adoption is opt-in. It is not a repository policy, a project-local method, a capability assessment, or literary evidence.
 
 1. A project adapts it into its own reconstruction method or specification, named in its synthesis architecture (initiation Section 5.5). Mature projects keep their existing reconstruction methods.
-2. **It never grades capability.** Overall tiers, dimension grades, and scenario readiness are assigned only by the reconstruction evaluator, in `characters/reconstruction_capabilities.jsonl`, under [its maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md) and [specification](../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md). A project's model may describe what its evidence covers and lacks; it must not self-assign an A–E tier.
+2. **It never grades capability.** Overall tiers, dimension grades, and scenario readiness are assigned only by the reconstruction evaluator, in the capability registry partitions `characters/reconstruction_capabilities/<namespace>/<subject>.jsonl`, under [its maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md) and [specification](../../characters/RECONSTRUCTION_CAPABILITY_SPEC.md). A project's model may describe what its evidence covers and lacks; it must not self-assign an A–E tier.
 3. It does not create discovery rows. The discovery agent curates which artifacts become evidence items (the `characters/registry/` partitions).
 4. Modules for a medium apply only to projects in that medium.
 

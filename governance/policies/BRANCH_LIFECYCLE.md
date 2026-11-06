@@ -19,7 +19,7 @@ The discovery agent uses the reusable `character-registry` branch with at most o
 
 ## Continuing reconstruction evaluation
 
-The reconstruction evaluator uses the reusable `character-reconstruction` branch with at most one open PR; it may change only `characters/reconstruction_capabilities.jsonl` and `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, and series or study branches never carry those files. The same retention rules apply. See `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`.
+The reconstruction evaluator uses the reusable `character-reconstruction` branch with at most one open PR; it may change only the reconstruction outputs: the capability registry partitions under `characters/reconstruction_capabilities/`, `characters/CHARACTER_RECONSTRUCTION_INDEX.md` and the namespace pages under `characters/reconstruction_index/`; series or study branches never carry those files. The same retention rules apply. See `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`.
 
 ## Continuing maintenance branches
 

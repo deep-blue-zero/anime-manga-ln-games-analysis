@@ -2,7 +2,7 @@
   "$id": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/main/governance/schemas/character-reconstruction-capability.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Character Reconstruction Capability Assessment v1",
-  "description": "One assessment of what one discovery analysis subject's exact, commit-bound evidence boundary can responsibly support. Production records live in characters/reconstruction_capabilities.jsonl under the reconstruction maintenance policy.",
+  "description": "One assessment of what one discovery analysis subject's exact, commit-bound evidence boundary can responsibly support. Production records live in the partitions characters/reconstruction_capabilities/<namespace>/<subject>.jsonl, one file per analysis subject, under the reconstruction maintenance policy.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -457,5 +457,5 @@
     "Require assessment supersession links to resolve reciprocally within compatible entity/subject scope and remain acyclic.",
     "Overall tiers are human judgments and must never be mechanically derived from dimension grades."
   ],
-  "x-production-state": "ACTIVE_PRODUCTION; characters/reconstruction_capabilities.jsonl is the canonical registry and characters/CHARACTER_RECONSTRUCTION_INDEX.md its generated view. Production rejects UNASSESSED placeholder records and, until the publication gate is ROUTINE, REVIEWED records."
+  "x-production-state": "ACTIVE_PRODUCTION; the partitions characters/reconstruction_capabilities/<namespace>/<subject>.jsonl form the canonical registry, and characters/CHARACTER_RECONSTRUCTION_INDEX.md with the pages characters/reconstruction_index/<namespace>.md is its generated view. Production rejects UNASSESSED placeholder records and, until the publication gate is ROUTINE, REVIEWED records."
 }

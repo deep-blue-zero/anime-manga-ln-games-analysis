@@ -11,7 +11,11 @@ characters/
   index/
     <namespace>.md
   RECONSTRUCTION_CAPABILITY_SPEC.md
-  reconstruction_capabilities.jsonl
+  reconstruction_capabilities/
+    <namespace>/
+      <subject>.jsonl
+  reconstruction_index/
+    <namespace>.md
   CHARACTER_RECONSTRUCTION_INDEX.md
 governance/
   AGENT_ROUTING.md
@@ -41,7 +45,7 @@ tools/
 
 `governance/analytical-methods/` is the canonical home for reusable corpus-level analytical reference methods. These opt-in references are not automatically project-local governing methods.
 
-The partitions `characters/registry/<namespace>.jsonl` hold discovery metadata only, one partition per character ID namespace; `CHARACTER_ANALYSIS_INDEX.md` and the namespace pages `characters/index/<namespace>.md` are generated from them (`characters/README.md` specifies the layout). Substantive character monographs belong in the canonical series or study tree. Reconstruction capability assessments use `characters/reconstruction_capabilities.jsonl` and its generated `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, written only by the reconstruction evaluator; neither holds analytical prose. Series-local reconstruction manifests and empty symmetry folders are not required.
+The partitions `characters/registry/<namespace>.jsonl` hold discovery metadata only, one partition per character ID namespace; `CHARACTER_ANALYSIS_INDEX.md` and the namespace pages `characters/index/<namespace>.md` are generated from them (`characters/README.md` specifies the layout). Substantive character monographs belong in the canonical series or study tree. Reconstruction capability assessments use the partitions `characters/reconstruction_capabilities/<namespace>/<subject>.jsonl`, one file per analysis subject, and their generated root `characters/CHARACTER_RECONSTRUCTION_INDEX.md` with the namespace pages `characters/reconstruction_index/<namespace>.md`, written only by the reconstruction evaluator; none holds analytical prose. Series-local reconstruction manifests and empty symmetry folders are not required.
 
 Stable slugs use the best-known English or official Latin-script title, lowercase ASCII, and hyphens. A Japanese-script Drive directory is not mechanically transliterated when an established title exists. Slugs are owner-reviewed and remain stable after publication; alternate titles belong in metadata.
 
