@@ -40,3 +40,33 @@ Recorded assessments of subjects in the `blue-archive` namespace of the [Charact
   - [`blue-archive:aru@game#chapter-1-checkpoint`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_CHECKPOINT.md)
   - [`blue-archive:aru@game#character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md)
   - [`blue-archive:aru@game#voice-address-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md)
+
+### Subject `blue-archive:prenapates@game`
+
+- Registry file: [`characters/reconstruction_capabilities/blue-archive/prenapates@game.jsonl`](../reconstruction_capabilities/blue-archive/prenapates@game.jsonl)
+
+<a id="blue-archive-prenapates-game-character-monograph-20261106-01"></a>
+
+#### Assessment `blue-archive-prenapates-game-character-monograph-20261106-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `blue-archive:prenapates`
+- Scope: continuity `blue-archive-game`
+- Source boundary: Only blue-archive:prenapates@game\#character-monograph, the canonical BLUE\_ARCHIVE\_PRENAPATES\_CHARACTER\_MONOGRAPH \(P3-CHAR-M029, 20 paragraphs\) at basis\_commit, read in full. It interprets the named encounter in the Blue Archive main-story Final volume \(最終編\) as maintained in the Chapter 3 and Chapter 4 checkpoints \(C003, C004\), the Chapter 4 episode deep readings E006, E007 and E008 and the Final-volume working account \(V100\). Those inputs are not curated on this subject and nothing is borrowed from them beyond what the monograph states; no ordinary-life, event, bond or performed-voice coverage is claimed.
+- Temporal boundary: The Final-volume chapter 3-4 encounter and its reported aftermath only: confrontation and card gesture, the OS-reported gift and inward request, rescue proposals and current Sensei's reported return. The monograph states that this sequence is not a before-and-after biography and that processing order is not a dated chronology; no earlier history or later state is assessed.
+- Basis commit: `1ec6a88d6120d2e28a07c5e99a809ab985f67302`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `75ec45797ba444e599dfaa8ccd4a242df49acbf9701df0b71daf419edb8b2d21`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The Final-volume chapter 3-4 encounter and its reported aftermath as the monograph reads them; nothing before or after.; interlocutor Shiroko \(the alternate Shiroko of the encounter\), current Sensei as counterpart, and the OS; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts are not supported.; No identification with current Sensei and no borrowing of his speech or motives.; No use of the uncurated checkpoints and episode readings the monograph cites.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` NOT_ASSESSED; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `distinct-from-current-sensei` (evidence-backed limitation): Counterpart recognition does not establish numerical identity, shared memories or the same motives; current Sensei's explicit speech remains his own.
+  - `fate-unresolved` (evidence-backed limitation): No final impact, death, survival or controller or body diagnosis is supplied; current Sensei's reported return does not certify his fate.
+  - `gift-reported-not-staged` (evidence-backed limitation): The gift of his escape resource to Shiroko is an OS report across an omitted interval; giver and recipient are contextually plausible, the transfer and its cost are not shown, and the OS interpretation of trust is hers.
+  - `no-ordinary-life-evidence` (evidence gap): There is no evidence of ordinary life, tastes or routine for this subject.
+  - `no-primary-reading-or-voice` (evidence gap): The monograph is synthesized from maintained checkpoints and readings that are not curated on this subject; it claims no new primary, native or performed-voice reading, and the evaluator performed no primary-source inspection.
+  - `threat-attribution-uncertain` (evidence-backed limitation): Some Prenapates-tagged threatening lines may belong to adjacent speakers \(E006\); only the card gesture is securely represented as his act.
+- Evidence at basis commit:
+  - [`blue-archive:prenapates@game#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_PRENAPATES_CHARACTER_MONOGRAPH.md)

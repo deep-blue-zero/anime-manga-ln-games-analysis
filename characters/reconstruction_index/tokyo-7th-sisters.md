@@ -79,11 +79,44 @@ Recorded assessments of subjects in the `tokyo-7th-sisters` namespace of the [Ch
 
 - Registry file: [`characters/reconstruction_capabilities/tokyo-7th-sisters/araki-rena@game.jsonl`](../reconstruction_capabilities/tokyo-7th-sisters/araki-rena@game.jsonl)
 
+<a id="tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01"></a>
+
+#### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:araki-rena`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the six reviewed readings curated on tokyo-7th-sisters:araki-rena@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): b0199-deep-reading \(T7S\_B0199, read in full: the complete Sub Intimacy family 200630, seven short addresses A-G and the 290-page episode 401006487\); b0232-deep-reading \(T7S\_B0232 case 15, Short message 402001801, P0-P2, read with its synthesis section\); b0239-deep-reading \(T7S\_B0239 case 404000046, the complete Birthday portfolio P0-P29, read with its interpretation, attribution and freeze-limit sections and the whole-unit synthesis\); b0248-deep-reading \(T7S\_B0248 Family2, the complete Event family 200410, chapters 505018301-505018304, read through their factual reconstructions, interpretations, relationships and the complete-family reconstruction\); b0250-deep-reading \(T7S\_B0250 Family2, the complete Event family 200470, chapters 507020101-507020102, read through her factual items, claims, relationships and limits\); and b0251-deep-reading \(T7S\_B0251 Family2, Event family 200500, chapters 507020701-507020702, and Family3, Event family 200510, chapters 508021701-508021704, read through her per-subject and relationship entries and the complete-family syntheses; she is only referenced in 508021702\). The earlier Rena readings the readings cite as context \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are not curated on this subject and are not used.
+- Temporal boundary: Independent conditional occurrences \(eight Intimacy occurrences, one Short message, one Birthday portfolio and four Event families\) with no inferred unlock level, calendar year or total chronology across them. Only B0199 H's six phases and the chapter order inside each Event family are ordered. B0248 is explicitly pre-debut making-of material, B0250 has a local summer reference, B0251 200500 opens after the completed 2nd GEAR live and 200510 is a Christmas event, but none gives a year or a placement relative to Main or to the others. No default state is designated, and no state before, between or after these occurrences is assessed.
+- Basis commit: `1ec6a88d6120d2e28a07c5e99a809ab985f67302`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `025b1ab32ae8d47974d17e06357ea90e27893f1ec09b72ab00b1e46ae8f588ff`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the unordered occurrences in the six readings, including the internal order of B0199 H and of each B0248, B0250 and B0251 Event family; nothing before, between or after them.; interlocutor The manager \(支配人\) as she addresses him, Kyoko and Honoka as Le☆S☆Ca bandmates, Sui, Susu, Shizuka and Rona in B0250, Coney and the 2nd GEAR cast in B0251, and the board voices in B0239; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts are not supported.; No interpolation between occurrences or extrapolation beyond them.; No use of the uncurated earlier Rena readings \(B0085-B0191\).
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `main-story-states-uncurated` (evidence gap): The earlier main-story and Sub readings the readings cite \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are not curated on this subject, so her main-story states are not assessed.
+  - `no-established-romance` (evidence-backed limitation): No reciprocal romance is established; her appraisals of the manager are qualified and the courting exchange is contested.
+  - `no-permanent-cure` (evidence-backed limitation): The recovery in B0199 is a local turning point: she asks for a higher bar at once and the coda reports a complaint about nonstop dancing; later readings state that her current competence does not cure earlier dual-success demands.
+  - `performances-reported-not-shown` (evidence-backed limitation): No performance outcome is shown: the higher-bar attempt has no result \(B0199 H5\), the making-of footage is not supplied \(B0248\), the dance contest is elided with no winner \(B0250\), and the 2nd GEAR concert and the Christmas event are reported \(B0251\).
+  - `teasing-and-care-draw-objections` (evidence-backed limitation): Her teasing and body jokes draw explicit objections and at least two apologies, and the manager's unannounced touch draws her protest; candid play is not standing consent for any party.
+  - `unordered-occurrences` (evidence-backed limitation): The sources are independent conditional occurrences with no total chronology, year or unlock level; only B0199 H and each Event family have an internal order, and cross-case comparisons are thematic.
+  - `voice-unheard` (evidence gap): No performed voice, music or runtime was reviewed by any reading, and the evaluator performed no primary-source inspection.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0239-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0239_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0248-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0248_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0250-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0250_DEEP_READING.md)
+  - [`tokyo-7th-sisters:araki-rena@game#b0251-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/1ec6a88d6120d2e28a07c5e99a809ab985f67302/series/tokyo-7th-sisters/02%20Readings/T7S_B0251_DEEP_READING.md)
+- Supersedes: `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
+
 <a id="tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01"></a>
 
 #### Assessment `tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `tokyo-7th-sisters:araki-rena`
 - Scope: continuity `tokyo-7th-sisters-game`
 - Source boundary: Only tokyo-7th-sisters:araki-rena@game\#b0199-deep-reading, the canonical T7S\_B0199 reading at basis\_commit, read in full: the complete Sub Intimacy family 200630 \(NM-INTIMACY-200630\) of seven short addresses \(episodes 401000131, 401000135, 401000460, 401000762, 401001042, 401001210, 401001494\) and the long episode 401006487, in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with earlier Rena states \(B0085, B0122, B0123, B0159, B0161, B0167, B0186, B0191\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, singing, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
@@ -105,6 +138,7 @@ Recorded assessments of subjects in the `tokyo-7th-sisters` namespace of the [Ch
   - `unordered-occurrences` (evidence-backed limitation): The eight sources are conditional occurrences with no chronology or unlock level; only episode 401006487 has an internal sequence, and cross-case comparisons are thematic.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:araki-rena@game#b0199-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6cab13c6799a7f6488fabbdef96804643979de08/series/tokyo-7th-sisters/02%20Readings/T7S_B0199_DEEP_READING.md)
+- Superseded by: `tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:araki-rena@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `tokyo-7th-sisters:asami-miwako@game`
