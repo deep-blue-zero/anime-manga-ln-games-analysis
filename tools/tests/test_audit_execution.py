@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import contextlib
 import io
+import json
 import sys
 import tempfile
 import unittest
@@ -54,6 +55,21 @@ class ExecutionResultTests(unittest.TestCase):
             def test_failure(self):
                 self.fail("expected fixture failure")
         self.assertEqual(self.run_main(unittest.defaultTestLoader.loadTestsFromTestCase(Cases)), 1)
+
+    def test_a_skipped_test_fails_the_run_and_is_reported(self):
+        class Cases(unittest.TestCase):
+            @unittest.skip("fixture skip")
+            def test_skip(self):
+                pass
+
+        suite = unittest.defaultTestLoader.loadTestsFromTestCase(Cases)
+        with tempfile.TemporaryDirectory() as temp:
+            report_path = Path(temp) / "test-timings.json"
+            self.assertEqual(self.run_main(suite, ["--report-json", str(report_path)]), 1)
+            report = json.loads(report_path.read_text(encoding="utf-8"))
+        self.assertEqual(report["outcome"], "failure")
+        self.assertEqual(report["tests_run"], 1)
+        self.assertEqual(report["skipped"], 1)
 
     def test_empty_discovery_cannot_succeed(self):
         self.assertEqual(self.run_main(unittest.TestSuite()), 1)
