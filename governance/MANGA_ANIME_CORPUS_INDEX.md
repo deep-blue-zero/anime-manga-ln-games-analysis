@@ -24,6 +24,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
+- [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
