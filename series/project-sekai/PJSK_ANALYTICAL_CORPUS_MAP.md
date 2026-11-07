@@ -247,8 +247,8 @@ The owner authorized catch-up to the latest locally collected source material on
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
 | Integrated analytical high-water mark | EVENT_0222; 9 of 9 new event transactions closed |
-| Next atomic operation | Read and integrate the 449 supplemental source-generation additions |
-| Supplemental work | 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments pending; context-aware transactions after the event queue |
+| Next atomic operation | Read and integrate the 429 My SEKAI additions |
+| Supplemental work | 10 standalone card stories, 8 areas and 2 specials integrated; 429 My SEKAI segments pending |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
 | Reconstruction | All 20 packages remain R3 through EVENT_0140; later changes accumulate as explicit deltas |
@@ -310,6 +310,10 @@ The [EVENT_0221 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0221_DEEP_R
 **EVENT_0222 is fully integrated:** twenty narrated retrospective chapters select MMJ formation, freelance organization, audience reciprocity, media, rivals and the adopted semifinal strategy. Current operative and knowledge owners remain intact; original complete readings retain context omitted by compression. No semifinal performance/result, universal reconciliation or new shared memory access is established.
 
 The [EVENT_0222 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0222_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. All twenty chapters are independently read. Historical decisive changes remain at their original positions. The retrospective strengthens characterization without creating a new operative successor; ordinary life, independent developments, permission, bounded recipients and unresolved outcomes survive omissions. All earlier ledger bodies, readings and package bytes remain preserved. The nine event transactions are closed; 449 supplemental stories and the terminal reconciliation/handoff remain required. Reconstruction packages remain through EVENT_0140.
+
+#### Supplemental card/area/special checkpoint
+
+**Twenty supplemental additions are integrated:** birthday and monthly scenes add ordinary characterization; anniversary and special live preparation retain their distinct contexts, recipients and unfinished outcomes. The 429 My SEKAI additions remain pending. No principal-human operative is replaced. The [complete reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_MANIFEST.json) close 20 stories / 40 scenes / 1,016 records. All six ledgers and five-unit routing are updated; reconstruction remains through EVENT_0140.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 

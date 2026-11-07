@@ -101,3 +101,5 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0218 — Connect to SEKAI！](PJSK_EVENT_0218_DEEP_READING.md): complete 95-story envelope; A common twenty-human/six-observer reunion becomes practical repeat visits and ordinary company; changed shared-world access preserves individual privacy, local distinctions and incomplete plans.
 
 - [EVENT_0219 — Side by Side, Our Ways！](PJSK_EVENT_0219_DEEP_READING.md): complete 26-story envelope; A shared creative award and future messages deepen received support; Saki retains a still-conflicting wish, while Interstice Miku’s retrospective encounter has a bounded audience and unknown cause.
+
+- [20261030 card/area/special additions](PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md): Twenty fully read card/area/special stories add ordinary care, humor and practical participation; local frames and future performances remain distinct.

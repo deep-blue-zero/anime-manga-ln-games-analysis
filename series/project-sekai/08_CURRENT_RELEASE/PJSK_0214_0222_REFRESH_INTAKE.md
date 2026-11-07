@@ -19,7 +19,7 @@ do_not_use_as_current_authority: false
 
 On 2026-11-06 the owner authorized catching up to the latest locally collected material after the completed EVENT_0213 campaign. The exact boundary is the [new source lock](../01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md), verified against the source current-state map, certification, manifests and retained raw snapshots. The existing [analytical method](../00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md), [architecture](../00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md) and [live-service method](../00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md) continue to govern.
 
-**SOURCE_CURRENT is EVENT_0222 plus the explicitly inventoried side material; ANALYSIS_CURRENT remains EVENT_0222; RECONSTRUCTION_CURRENT remains R3 through EVENT_0140.** Intake and integrity checks are complete. Event rows below distinguish integrated readings from pending sources; all supplemental additions remain pending. The [corpus map](../PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns the active run and next operation; this packet owns its source membership and completion checklist.
+**SOURCE_CURRENT is EVENT_0222 plus the explicitly inventoried side material; ANALYSIS_CURRENT remains EVENT_0222; RECONSTRUCTION_CURRENT remains R3 through EVENT_0140.** Intake and integrity checks are complete. All nine event rows and the twenty card/area/special additions are integrated; 429 My SEKAI additions remain pending. The [corpus map](../PJSK_ANALYTICAL_CORPUS_MAP.md#current-state) owns the active run and next operation; this packet owns its source membership and completion checklist.
 
 The start is the preserved analytical tree at `0c13c4ca44b5fc5df896322d47ed6eaeb21d6671`, reconciled with `main` at `3299b92b66474bbe4baadb951bddfd5ea157db55` (main parent `6393ca952c0a3ca3040976e1e969fa1e40a8d953`). That reconciliation changes no Project SEKAI analytical bytes. The previous run and its terminal audit remain completed historical authorities. This is a new continuous run, not a retroactive extension of their authorization.
 
@@ -49,9 +49,9 @@ The full old-to-new comparison adds 670 stories. Of those, 221 are newly added d
 
 | Source class | New stories outside event envelopes | Integration state | Treatment |
 |---|---:|---|---|
-| Standalone card | 10 | PENDING | Read both relevant halves, retain actual release dates and character/context routing; do not fabricate event association. |
-| Area | 8 | PENDING | Preserve source context and recipient knowledge; index ordinary behavior where supported. |
-| Special | 2 | PENDING | Establish the explicit continuity/context boundary before using any claim. |
+| Standalone card | 10 | INTEGRATED | Read both relevant halves, retain actual release dates and character/context routing; do not fabricate event association. |
+| Area | 8 | INTEGRATED | Preserve source context and recipient knowledge; index ordinary behavior where supported. |
+| Special | 2 | INTEGRATED | Establish the explicit continuity/context boundary before using any claim. |
 | My SEKAI | 429 | PENDING | Read and route as a separate context class; group coherent evidence without manufacturing an exact ordinary-world chronology. |
 
 These additions will be integrated in bounded supplemental transactions after the event queue, with their actual source dates and contexts retained. They cannot supply later knowledge to an earlier event reading. The inherited older non-event corpus is not thereby certified as exhaustively reread or newly analyzed.

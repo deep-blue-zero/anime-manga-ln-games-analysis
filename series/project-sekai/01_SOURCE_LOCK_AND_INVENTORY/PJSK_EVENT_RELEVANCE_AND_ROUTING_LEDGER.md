@@ -6695,3 +6695,41 @@ The fully read envelope is **20 core chapters / 24 scenes / 2,636 records / 321,
 | External humans / institutions | SECONDARY / I2 historical family, fans, Mai, Saito, Arisawa, Hiiragi, ReLight, Cheerful＊Days, Hikarin, host and children. Public accounts, private thoughts, reported causes and outcomes remain distinct. |
 
 The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0222_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. All twenty chapters are independently read. Historical decisive changes remain at their original positions. The retrospective strengthens characterization without creating a new operative successor; ordinary life, independent developments, permission, bounded recipients and unresolved outcomes survive omissions. All earlier ledger bodies, readings and package bytes remain preserved. The nine event transactions are closed; 449 supplemental stories and the terminal reconciliation/handoff remain required. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## Supplemental 20261030 card/area/special — complete discovery
+
+Twenty supplemental stories, forty scenes and 1,016 records are fully read and integrated. Dates and contexts retain their original limits; no event association or current chronology is manufactured. Exact canonical paths, hashes, source provenance and accepted record ranges are in the [receipt manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_MANIFEST.json).
+
+| Story | Class | Records | Disposition |
+|---|---|---:|---|
+| `PJSK:area:areatalk_monthly2608_001:01` | area | 7 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2608_002:01` | area | 7 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2608_003:01` | area | 7 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2608_004:01` | area | 7 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2609_001:01` | area | 8 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2609_002:01` | area | 8 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2609_003:01` | area | 8 | Full text read; integrated |
+| `PJSK:area:areatalk_monthly2609_004:01` | area | 9 | Full text read; integrated |
+| `PJSK:card:1450:01` | card | 68 | Full text read; integrated |
+| `PJSK:card:1450:02` | card | 89 | Full text read; integrated |
+| `PJSK:card:1451:01` | card | 94 | Full text read; integrated |
+| `PJSK:card:1451:02` | card | 84 | Full text read; integrated |
+| `PJSK:card:1464:01` | card | 80 | Full text read; integrated |
+| `PJSK:card:1464:02` | card | 98 | Full text read; integrated |
+| `PJSK:card:1482:01` | card | 89 | Full text read; integrated |
+| `PJSK:card:1482:02` | card | 91 | Full text read; integrated |
+| `PJSK:card:1488:01` | card | 62 | Full text read; integrated |
+| `PJSK:card:1488:02` | card | 87 | Full text read; integrated |
+| `PJSK:special:sp070:01` | special | 32 | Full text read; integrated |
+| `PJSK:special:sp071:01` | special | 81 | Full text read; integrated |
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | I1 ordinary: Honami's company and family celebration, all-four gifts/mall presence, Saki styling, Shiho animal care, Ichika attention. Contextual I2 special planning; preserve E0220 strain and knowledge limits. |
+| MMJ | I1 ordinary/professional: Haruka's broadcast, all-four preparation/gifts, Minori public work, Shizuku playfulness and Airi time limits. Contextual I2 special planning; semifinal remains future. |
+| VBS | I1 greetings, An–Haruka contact, Kohane inclusion and food curiosity; contextual I2 special planning. No warehouse/tournament resolution. |
+| WxS | I1 leisure, permitted impromptu performance, gifts, preparation, humor and reported avoidance. Contextual I2 individual performance matching; preserve craft risks and pending audition outcome. |
+| N25 | I1 craft, gifts, leisure and practical participation; bounded I2 Empty-party/special context. Preserve individual operatives and unequal disclosures. |
+| Singers / external people | Keep Empty, generic anniversary stage and Interstice separate. Attribute staff, family, fictional attraction, anonymous audiences and unspecified addressees; no universal shared knowledge. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md) owns seven lenses, all twenty dispositions and reconstruction increments. Event analysis remains through EVENT_0222; 429 My SEKAI additions and terminal reconciliation remain.
