@@ -41,6 +41,38 @@ Recorded assessments of subjects in the `blue-archive` namespace of the [Charact
   - [`blue-archive:aru@game#character-state-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_CHARACTER_STATE_LEDGER.md)
   - [`blue-archive:aru@game#voice-address-ledger`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6a3afaaf1bb61e0993db379ab4074c46e9ea98dd/series/blue-archive/03%20Longitudinal%20Ledgers/BLUE_ARCHIVE_JAPANESE_VOICE_AND_ADDRESS_LEDGER.md)
 
+### Subject `blue-archive:kokuriko@game`
+
+- Registry file: [`characters/reconstruction_capabilities/blue-archive/kokuriko@game.jsonl`](../reconstruction_capabilities/blue-archive/kokuriko@game.jsonl)
+
+<a id="blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01"></a>
+
+#### Assessment `blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `blue-archive:kokuriko`
+- Scope: continuity `blue-archive-game`
+- Source boundary: Only the two items curated on blue-archive:kokuriko@game at basis\_commit, both read in full: \#character-monograph \(canonical BLUE\_ARCHIVE\_KOKURIKO\_CHARACTER\_MONOGRAPH, P3-CHAR-M019, 25 paragraphs\) and \#shuro-kokuriko-azami-relationship-synthesis \(canonical directed trio synthesis, P3-REL-SHURO-KOKURIKO-AZAMI\). Both interpret Blue Archive main-story Volume 5 Chapters 1 and 2 as maintained in the C001 and C002 chapter checkpoints and the V005 working account. Those inputs are not curated on this subject and nothing is borrowed from them beyond what the two items state; both claim no new primary, native, raw or performed-voice reading and no model, and the series entrypoint at basis\_commit records zero operational models.
+- Temporal boundary: Main-story Volume 5 Chapters 1-2 as maintained: Nagusa's retrospective loss testimony, the Chapter 1 close \(Shuro's admitted failure and the proposed further story\), the Chapter 2 praise, E024-E025 blocked threat and conditional path allowance, the book encounter with the Hyakkaryouran students, uncaptured escape and the reported disappearance. The monograph states this is a widening of access, not a demonstrated reform, and supplies no global calendar; no earlier history \(including any identity with the earlier unnamed miko\) or later state is assessed.
+- Basis commit: `0f3b661d66455030cb663d9486a11879f0911cf9`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `ae1b5f6c2d4cd516ee6e9bcb650c3d3610f0ba931fdc8406cc8d5ce10488ee5a`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_ASSESSED; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Main-story Volume 5 Chapters 1-2 as maintained, up to the uncaptured escape and reported disappearance; nothing before or after.; interlocutor Shuro and Azami as operatives, Ayame and Nagusa, the Hyakkaryouran students and Sensei as opponents; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts are not supported.; No identity with the earlier unnamed miko, no origin or trauma, and no settled motive may be supplied.; No use of the uncurated checkpoints and working account the items cite.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` E; `INTERIORITY` NOT_ASSESSED; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` E; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `book-mechanism-attributed` (evidence-backed limitation): The three-book scheme \(desire-, fear- and person-mirroring\) is her attributed claim; the object, restorer and activation are not displayed, and the students' induced speech is coerced self-report, not objective psychology.
+  - `history-and-identity-claimed-only` (evidence-backed limitation): Her Kadeno and Hyakka past and the diary-like account are her claim and an archival suggestion; identity with the earlier unnamed miko, age, origin and private trauma are not established.
+  - `motive-unsettled` (evidence-backed limitation): Whether the allowance to Shuro and her restraint of Azami are instrumental control or particular restraint is explicitly left open by both items; neither may be attributed as her motive.
+  - `no-ordinary-life-evidence` (evidence gap): There is no evidence of ordinary life, tastes or routine for this subject.
+  - `no-primary-reading-or-voice` (evidence gap): Both items are synthesized from maintained checkpoints and a working account that are not curated on this subject; they claim no new primary, native or performed-voice reading, and the evaluator performed no primary-source inspection.
+  - `others-acts-not-hers` (evidence-backed limitation): Shuro's writing and fear, Azami's escort work, Niya's appeal, Nagusa's offered hand and the arm's return remain their own acts; sequence does not transfer them to Kokuriko's authorship.
+  - `uncaptured-open-endpoint` (evidence-backed limitation): She escapes uncaptured and is later reported disappeared with Azami and Shuro; no capture, reform, reckoning, death or whereabouts is supplied.
+- Evidence at basis commit:
+  - [`blue-archive:kokuriko@game#character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/0f3b661d66455030cb663d9486a11879f0911cf9/series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_KOKURIKO_CHARACTER_MONOGRAPH.md)
+  - [`blue-archive:kokuriko@game#shuro-kokuriko-azami-relationship-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/0f3b661d66455030cb663d9486a11879f0911cf9/series/blue-archive/04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md)
+
 ### Subject `blue-archive:prenapates@game`
 
 - Registry file: [`characters/reconstruction_capabilities/blue-archive/prenapates@game.jsonl`](../reconstruction_capabilities/blue-archive/prenapates@game.jsonl)
