@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 52; `STALE` 2; `SUPERSEDED` 7
+- Recorded totals: `CANDIDATE` 54; `STALE` 1; `SUPERSEDED` 8
 
 ## Namespaces
 
@@ -32,9 +32,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`re-zero`](reconstruction_index/re-zero.md) | 17 | 17 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 2 | 2 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
+| [`solo-leveling`](reconstruction_index/solo-leveling.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
-| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 14 |
+| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 15 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -85,6 +86,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
+| `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
@@ -100,5 +102,6 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tokyo-7th-sisters:futagawa-mimi@game` | [`tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01) | `SUPERSEDED` | `E` | `dc7d803dcf13c48e633991a9cc89e497e732aec1` |
 | `tokyo-7th-sisters:maezono-rishuri@game` | [`tokyo-7th-sisters-maezono-rishuri-game-b0204-b0232-b0237-portfolio-20261104-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-maezono-rishuri-game-b0204-b0232-b0237-portfolio-20261104-01) | `CANDIDATE` | `E` | `ed6e1a4928dbb303ed3ad60cb95d353c89eda18d` |
 | `tokyo-7th-sisters:maezono-rishuri@game` | [`tokyo-7th-sisters-maezono-rishuri-game-b0204-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-maezono-rishuri-game-b0204-portfolio-20261030-01) | `SUPERSEDED` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
-| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01) | `STALE` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
+| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-b0253-b0254-portfolio-20261107-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-b0253-b0254-portfolio-20261107-01) | `CANDIDATE` | `E` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
+| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01) | `SUPERSEDED` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
 | `yuru-camp:shima-rin@manga` | [`yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`](reconstruction_index/yuru-camp.md#yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |

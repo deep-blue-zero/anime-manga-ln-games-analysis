@@ -458,11 +458,44 @@ Recorded assessments of subjects in the `tokyo-7th-sisters` namespace of the [Ch
 
 - Registry file: [`characters/reconstruction_capabilities/tokyo-7th-sisters/sakaiya-yumeno@game.jsonl`](../reconstruction_capabilities/tokyo-7th-sisters/sakaiya-yumeno@game.jsonl)
 
+<a id="tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-b0253-b0254-portfolio-20261107-01"></a>
+
+#### Assessment `tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-b0253-b0254-portfolio-20261107-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tokyo-7th-sisters:sakaiya-yumeno`
+- Scope: continuity `tokyo-7th-sisters-game`
+- Source boundary: Only the six reviewed readings curated on tokyo-7th-sisters:sakaiya-yumeno@game at basis\_commit, as each reports the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\): b0205-deep-reading \(T7S\_B0205, read in full: the complete Sub Intimacy family 200710, seven short addresses A-G\); b0232-deep-reading \(T7S\_B0232 case 21, Short message 402002401, P0-P2, with the collection synthesis\); b0239-deep-reading \(T7S\_B0239 case 404000040, the complete Birthday portfolio P0-P31, with its whole-unit synthesis and freeze limits\); b0247-deep-reading \(T7S\_B0247 Family2, the complete Event family 200380, chapters 505016901-505016905, read through Yumeno's factual items, claims CL-B0247-019 to -056, per-subject and relationship entries and the whole-family reconstruction\); b0253-deep-reading \(T7S\_B0253, the complete Event family 200550, chapters 512022401-512022406, read through her per-chapter character, knowledge and Japanese-written-voice entries and the whole-family reconstruction\); and b0254-deep-reading \(T7S\_B0254, the complete Event family 200560, chapters 513023001-513023006, read through the same per-chapter and whole-family entries\). The earlier Main and i-n-g readings the readings cite as resistant context \(B0093, B0131, B0168, B0169, B0174, B0183, B0202\) are not curated on this subject and are not used. No performed voice, music or runtime was reviewed by the readings, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Independent conditional occurrences \(seven Intimacy addresses, one Short message, one Birthday portfolio and three Event families\) with no inferred unlock level, calendar year or total chronology across them; B0205 expressly forbids reading its occurrences as a reform sequence. Only the chapter order inside each Event family is ordered. B0247's live is elided and reported in its aftermath, and B0254's coda leaves the solitary camp as a protested proposal. None is placed relative to Main or to the others. No default state is designated, and no state before, between or after these occurrences is assessed.
+- Basis commit: `7da71cb9be614645641dc5c0038b1df3acf07063`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cbabbcf8df25f37feec69e739e687c4d5bec9def4173743dd1c1a95fbbfa9984`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any of the unordered occurrences in the six readings, including the internal chapter order of the B0247, B0253 and B0254 Event families; nothing before, between or after them.; interlocutor The manager \(支配人\) as she addresses him; Ferb as live partner \(B0247\); Makoto, Susu, Tomoe, Kajika and Saori \(B0253\); Coney, Honoka, Sumire and the camp group \(B0254\); the B0239 board writers; the refusal applies equally to any other counterpart.; settings Crossover, counterfactual or materially novel contexts are not supported.; No interpolation between occurrences or extrapolation beyond them.; No use of the uncurated earlier Yumeno readings \(B0093-B0202\).
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` E; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` E
+- Known limits:
+  - `main-story-states-uncurated` (evidence gap): The earlier Main and i-n-g readings the readings cite as resistant context \(B0093, B0131, B0168, B0169, B0174, B0183, B0202\) are not curated on this subject, so her main-story states are not assessed.
+  - `no-performed-voice-or-primary` (evidence gap): No performed voice, music or runtime was heard by any reading, and the evaluator performed no primary-source inspection.
+  - `no-reform-certificate` (evidence-backed limitation): Gratitude, a verbal self-repair and a happy-ending appraisal are local; the readings state that none certifies reform or cures earlier boundary costs.
+  - `performances-and-outcomes-unshown` (evidence-backed limitation): The B0247 live is elided, the coffee, payment and hand-holding are not shown, B0253's prevention is not established and B0254's solitary camp remains a protested proposal.
+  - `permission-not-transferred` (evidence-backed limitation): Corrections, objections and absent assent are repeatedly recorded: the unlimited-touching claim is corrected, Ferb objects to the embrace and denies the wife claim, the apology for excitement is followed by continued appraisal, and peers never supply assent; play or gratitude is not standing consent for any party.
+  - `romance-inference-hers` (evidence-backed limitation): No reciprocal romance is established; Ferb's liking is clarified as musical and B0253 keeps the romance inference as Yumeno's own.
+  - `unordered-occurrences` (evidence-backed limitation): The sources are independent conditional occurrences with no total chronology, year or unlock level; only each Event family has an internal order, and cross-case comparisons are thematic.
+- Evidence at basis commit:
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0205-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0205_DEEP_READING.md)
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0232-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0232_DEEP_READING.md)
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0239-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0239_DEEP_READING.md)
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0247-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0247_DEEP_READING.md)
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0253-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0253_DEEP_READING.md)
+  - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0254-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/tokyo-7th-sisters/02%20Readings/T7S_B0254_DEEP_READING.md)
+- Supersedes: `tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`
+
 <a id="tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01"></a>
 
 #### Assessment `tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`
 
-- Recorded status: `STALE` — historical record; not current readiness
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `tokyo-7th-sisters:sakaiya-yumeno`
 - Scope: continuity `tokyo-7th-sisters-game`
 - Source boundary: Only tokyo-7th-sisters:sakaiya-yumeno@game\#b0205-deep-reading, the canonical T7S\_B0205 reading at basis\_commit, read in full: the complete Sub Intimacy family 200710 \(NM-INTIMACY-200710\) of seven short addresses \(episodes 401000181, 401000520, 401000774, 401000834, 401001058, 401001134, 401001414; 31 Japanese records\) in the Japanese offline game witness T7S\_GAME\_OFFLINE\_JA\_R484 \(c20260909-r484\), as the reading reports it. Its comparisons with the 155 earlier Yumeno context rows \(B0093, B0131, B0168, B0169, B0174, B0183, B0202\) are context only; those readings are not curated on this subject and nothing is borrowed from them. No performed voice, music or runtime was reviewed by the reading, and the evaluator performed no primary-source inspection.
@@ -484,4 +517,5 @@ Recorded assessments of subjects in the `tokyo-7th-sisters` namespace of the [Ch
   - `unordered-occurrences` (evidence-backed limitation): The seven sources are conditional occurrences with no chronology or unlock level; source order cannot make any address a reform or relapse, and separate occasions must not be merged.
 - Evidence at basis commit:
   - [`tokyo-7th-sisters:sakaiya-yumeno@game#b0205-deep-reading`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/77c83fcbd77a957fbd7659ec222e120bcb00406d/series/tokyo-7th-sisters/02%20Readings/T7S_B0205_DEEP_READING.md)
+- Superseded by: `tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-b0253-b0254-portfolio-20261107-01`
 - Stale reason: reconstruction\_status.py currentness at main 85bba9461b4a3c55746e0b9664bb4c98e14a91b6 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#422 added reviewed evidence tokyo-7th-sisters:sakaiya-yumeno@game\#b0232-deep-reading \(T7S\_B0232 Short message\) and a second coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
