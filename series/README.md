@@ -51,6 +51,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 
 - [`ascendance-of-a-bookworm/`](ascendance-of-a-bookworm/) — Ascendance of a Bookworm — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [`tomozaki/`](tomozaki/) — Bottom-Tier Character Tomozaki — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [`chainsaw-man/`](chainsaw-man/) — Chainsaw Man — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [`chiramune/`](chiramune/) — Chitose Is in the Ramune Bottle — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [`genocidal-organ/`](genocidal-organ/) — Genocidal Organ / 虐殺器官 — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [`harmony/`](harmony/) — Harmony / ハーモニー — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.

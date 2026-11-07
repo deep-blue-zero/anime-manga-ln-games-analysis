@@ -106,6 +106,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "chainsaw-man",
+      "stable_slug": "chainsaw-man",
+      "canonical_title": "Chainsaw Man",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/chainsaw-man/",
+      "canonical_entrypoint": "series/chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate."
+    },
+    {
       "series_id": "chiramune",
       "stable_slug": "chiramune",
       "canonical_title": "Chitose Is in the Ramune Bottle",
