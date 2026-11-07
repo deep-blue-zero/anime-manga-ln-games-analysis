@@ -6,18 +6,48 @@ This is the canonical operating policy for the scheduled character reconstructio
 
 The owner-authorized reconstruction evaluator is the sole routine writer of:
 
-- `characters/reconstruction_capabilities.jsonl`, the canonical production capability registry; and
-- `characters/CHARACTER_RECONSTRUCTION_INDEX.md`, its deterministic generated view, produced only by `tools/generate_reconstruction_index.py`.
+- the capability registry partitions `characters/reconstruction_capabilities/<namespace>/<subject>.jsonl`, the canonical production capability registry ([Registry storage](#registry-storage) specifies the layout); and
+- `characters/CHARACTER_RECONSTRUCTION_INDEX.md` with the namespace pages `characters/reconstruction_index/<namespace>.md`, its deterministic generated view, produced only by `tools/generate_reconstruction_index.py`.
 
 The evaluator decides what an exact, commit-bound evidence set can responsibly support for one discovery analysis subject. It does not decide whether substantial analysis exists, define entity or subject identities, curate evidence references or coverage, or revise analytical prose. Those remain with the character curation agent under `CHARACTER_DISCOVERY_MAINTENANCE.md` and with the owning `series/` or `studies/` projects. Neither global registry is a substitute for a monograph, reconstruction model, or behavioral ledger in its canonical analytical home.
 
-The two-file boundary applies to the evaluator's authored delta. It grants no authority to modify the discovery registry partitions under `characters/registry/`, `CHARACTER_ANALYSIS_INDEX.md` or its pages under `characters/index/`, analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, governance records, or Drive files. The repository validator enforces the boundary mechanically: a delta that changes either production output may change no other path unless the same reviewed change also amends `governance/repository-controls/reconstruction-capability-policy.json`, which only an owner-reviewed governance change may do.
+The output boundary applies to the evaluator's authored delta. It grants no authority to modify the discovery registry partitions under `characters/registry/`, `CHARACTER_ANALYSIS_INDEX.md` or its pages under `characters/index/`, analytical prose, evidence or authority metadata, schemas, tools, workflows, other registries, governance records, or Drive files. The repository validator enforces the boundary mechanically: a delta that changes any reconstruction output may change no other path unless the same reviewed change also amends `governance/repository-controls/reconstruction-capability-policy.json`, which only an owner-reviewed governance change may do.
 
 The evaluator follows the shared rules for scheduled agents in `../../AGENTS.md`.
 
+## Registry storage
+
+The registry is one logical registry stored as one JSONL partition per analysis subject, with a generated view to match:
+
+```text
+characters/reconstruction_capabilities/<namespace>/<subject>.jsonl   every assessment of one subject
+characters/CHARACTER_RECONSTRUCTION_INDEX.md                         generated root index, one table row per assessment
+characters/reconstruction_index/<namespace>.md                       generated namespace page: full recorded claims, limits and evidence
+```
+
+- A record's partition is fixed by its `analysis_subject_id`: `<namespace>` is the part before `:` and `<subject>` the part after it. Every assessment of a subject, current and historical, is in that one file, so a file grows only with the subject's own reassessment history and never with how many subjects a franchise registers.
+- Within a partition, records are in strictly ascending ASCII `assessment_id` order, one record per line, with no blank lines and a final LF. `assessment_id` is unique over the whole registry, and tools read the whole registry as one logical registry in ASCII `assessment_id` order, the order the retired single file kept. A partition left with no records is deleted.
+- A current snapshot has at least one partition. An absent registry is a missing input, never an empty registry; only a read of a commit from before the registry existed treats absence as no records.
+- `python tools/reconstruction_registry.py normalize` moves worktree records into their partitions in canonical order without changing a byte of any record, then lists every registry path whose worktree differs from the Git index. That list, not the set of files it rewrote, is what to stage: a lifecycle transition made in place or a new partition written already sorted needs no rewriting but still needs staging. `replay --base <commit> --head <commit>` applies the records changed between two commits, in either layout, to the worktree partitions; the procedure below uses it to carry assessments across the migration. `export --snapshot index`, or `--snapshot commit --commit <sha>`, prints the whole logical registry as one JSONL stream for a consumer or a comparison. The export is a view and is never committed.
+- `python tools/generate_reconstruction_index.py --snapshot index` writes the root index and the namespace pages, removes a page whose namespace no longer has records, and lists every generated output to stage. Tools read the registry only through `read_reconstruction_registry` in `tools/character_index_core.py`.
+
+The single file `characters/reconstruction_capabilities.jsonl` was retired on 2026-11-06 when it neared the 1 MiB review threshold; the migration moved every record byte for byte. Current snapshots reject that file. Commits from before the migration are still read in the old layout, so `reconstruction_status.py` verifies them and the validator compares a change with pre-migration published history. The publication gate records the layout in `registry_layout` (`SUBJECT_PARTITIONS_V1`), which validation requires to match the tooling. If one partition or one generated page ever approaches 1 MiB, splitting it further needs a reviewed tooling change that amends `registry_layout`, the route by which a change may touch the outputs beside other paths; never raise the threshold or add a named size exception for a living registry file.
+
+### Carrying a pre-migration branch across
+
+A branch whose unmerged assessments predate the 2026-11-06 partition migration changes the retired single file, so merging `main` would conflict on reconstruction outputs, and the merge gate rejects any merge that conflicts on them. Carry those assessments across without a conflicted merge:
+
+1. Note the branch head `H` and the merge base `B` of `H` and `origin/main`.
+2. In a commit touching only reconstruction outputs, restore them to the merge base: `git checkout B -- characters/reconstruction_capabilities.jsonl characters/CHARACTER_RECONSTRUCTION_INDEX.md`.
+3. Merge `origin/main`; it now applies cleanly and brings the partitions and namespace pages.
+4. Run `python tools/reconstruction_registry.py replay --base B --head H`. It applies exactly the records the branch added or transitioned, and stops before writing if `main` also changed one of those records; reconcile such a record by hand. Stage each `registry path to stage` it reports, run `python tools/generate_reconstruction_index.py --snapshot index`, stage each `generated output to stage` it reports, and commit the reconstruction outputs as an ordinary publication commit.
+5. Re-derive currentness for the carried records and run the commit gate as before any push.
+
+A candidate withdrawn only because the single file was full is prepared again through the ordinary procedure.
+
 ## Publication phases
 
-`governance/repository-controls/reconstruction-capability-policy.json` is the machine-readable publication gate.
+`governance/repository-controls/reconstruction-capability-policy.json` is the machine-readable publication gate; it also records the registry's storage layout ([Registry storage](#registry-storage)).
 
 - `CALIBRATION` is the initial phase. The registry may hold only `CANDIDATE` records and their `STALE` or `SUPERSEDED` history. `REVIEWED` is rejected by validation. The merge gate leaves every reconstruction PR for the owner, who reviews and merges each publication.
 - `ROUTINE` begins only through an owner-reviewed governance change that records calibration acceptance under `governance/reports/` and names that record in `calibration_acceptance_record`. The evaluator cannot make this change.
@@ -111,7 +141,7 @@ Do not equate discovery inclusion with a capability, and do not assess a subject
 3. Record one claim per controlled dimension and scenario. Grade only what the cited evidence supports; use `NOT_ASSESSED` rather than inference from silence. Distinguish `EVIDENCE_BACKED` limits from `EVIDENCE_GAP` limits, and bound every assessed `CROSS_SCENARIO` claim.
 4. Set `source_boundary` and `temporal_boundary` from the evidence, never broader than the subject. Name the method as this policy and the specification with an exact method version.
 5. Compute the exact claim union and `CHARACTER_EVIDENCE_SET_V1` digest with the repository implementation; never hand-compute or approximate it.
-6. Stage the registry, run `python tools/generate_reconstruction_index.py --snapshot index`, stage the index, and run `python tools/prepare_commit.py --base origin/main --check`. Confirm `reconstruction_status.py currentness` reports the new record as current against the staged index or the reconciled head.
+6. Write the record to its subject's partition, or run `python tools/reconstruction_registry.py normalize` to place it, and stage each registry path the tool reports. Run `python tools/generate_reconstruction_index.py --snapshot index`, stage each generated output it reports, and run `python tools/prepare_commit.py --base origin/main --check`, which also applies the repository audit's 1 MiB review threshold to the staged files. Confirm `reconstruction_status.py currentness` reports the new record as current against the staged index or the reconciled head.
 
 Structural validation cannot establish that a grade is correct. A candidate is a proposal for review, not a finding.
 
@@ -170,7 +200,7 @@ Work discovery is Git-derived. Either agent may note leads for the other in its 
 ## Branch, publication, and integration
 
 1. Use the reusable `character-reconstruction` branch with at most one open PR to `main`. Merge current `main` into it without force.
-2. The complete branch delta may contain only the two production outputs; the merge gate accepts them from no other branch.
+2. The complete branch delta may contain only the reconstruction outputs: the registry partitions, the root index and its namespace pages. The merge gate accepts them from no other branch.
 3. A PR whose only registry changes are `STALE` reconciliations that `reconstruction_status.py currentness` reports at the reconciled head, with `stale_reason` citing the derived reasons, is **mechanical maintenance**. Any other change, including a new candidate, a supersession or a promotion, is **substantive**. While substantive work is open, add mechanical reconciliations to that PR rather than opening a second one; the whole PR is then substantive.
 4. Push and open or update the PR. The repository audit reports `Repository integration audit` directly on the exact audited SHA; this branch never waits on housekeeping.
 5. During `CALIBRATION` the merge gate leaves every PR for the owner. During `ROUTINE` the CI agent may merge mechanical-maintenance PRs under `NIGHTLY_ANALYTICAL_INTEGRATION.md`, and holds substantive ones for the owner's review. Only the owner merges a promotion. Passing checks never establish semantic correctness.

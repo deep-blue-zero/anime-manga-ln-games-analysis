@@ -14,6 +14,10 @@ from pathlib import Path
 from typing import Any, Iterator
 
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from character_index_core import DomainError, GitSnapshot  # noqa: E402
+from validate_repository import TRACKED_FILE_POLICY_PATH, _policy_from_snapshot, review_threshold_errors  # noqa: E402
+
 OBLIGATIONS_PATH = "governance/repository-controls/change-obligations.json"
 EXPECTED_SCHEMA = "anime-manga-ln-games-analysis/change-obligations/v1"
 
@@ -120,6 +124,24 @@ def missing_required_output_paths(
     )
 
 
+def staged_size_errors(root: Path, changed: set[str], index_paths: set[str]) -> list[str]:
+    """Apply the validator's review threshold to the staged blobs of the changed paths.
+
+    The repository audit fails any tracked file over the threshold, so the local
+    gate reads exactly the same rule from the staged policy and reports it
+    before a commit is made. Only the changed paths are read: unchanged files
+    were already audited on the base.
+    """
+
+    staged = {path for path in changed if path in index_paths}
+    if not staged:
+        return []
+    snapshot = GitSnapshot.from_index(root, paths=staged | {TRACKED_FILE_POLICY_PATH})
+    policy = _policy_from_snapshot(snapshot)
+    checked = GitSnapshot(root, "INDEX", {path: snapshot.entries[path] for path in staged})
+    return review_threshold_errors(checked, policy, "staged")
+
+
 def run_python(root: Path, *args: str, overrides: dict[str, str] | None = None) -> None:
     environment = os.environ.copy()
     environment["PYTHONDONTWRITEBYTECODE"] = "1"
@@ -218,6 +240,12 @@ def main() -> int:
         raise RuntimeError(
             f"staged snapshot omits required output paths: {missing_outputs}"
         )
+    oversized = staged_size_errors(root, changed, index_paths)
+    if oversized:
+        raise RuntimeError(
+            "staged files fail the repository audit's size rule: "
+            + "; ".join(sorted(oversized, key=lambda value: value.encode("utf-8")))
+        )
 
     subprocess.run(["git", "-C", str(root), "diff", "--cached", "--check"], check=True)
     run_python(root, "tools/update_repository_indexes.py", "--snapshot", "index", "--check")
@@ -251,5 +279,5 @@ def main() -> int:
 if __name__ == "__main__":
     try:
         raise SystemExit(main())
-    except (OSError, RuntimeError, subprocess.CalledProcessError, ValueError) as exc:
+    except (DomainError, OSError, RuntimeError, subprocess.CalledProcessError, ValueError) as exc:
         raise SystemExit(f"FAIL: {exc}") from exc
