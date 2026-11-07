@@ -6733,3 +6733,18 @@ Twenty supplemental stories, forty scenes and 1,016 records are fully read and i
 | Singers / external people | Keep Empty, generic anniversary stage and Interstice separate. Attribute staff, family, fictional attraction, anonymous audiences and unspecified addressees; no universal shared knowledge. |
 
 The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md) owns seven lenses, all twenty dispositions and reconstruction increments. Event analysis remains through EVENT_0222; 429 My SEKAI additions and terminal reconciliation remain.
+
+## Supplemental 20261030 My SEKAI — complete discovery
+
+All 429 stories / 429 scenes / 1,566 record memberships are fully read and integrated: 185 furniture responses, 234 participant-keyed copies of 117 visit conversations and ten event-conditioned codas. The [receipt manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_MANIFEST.json) preserves every source ID, context, canonical and upstream hash, accepted range and individual disposition, plus all 312 distinct ordered-body equivalence groups. Paired copies are not independent encounters. Null dates and the unverified crosswalk remain explicit.
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | Contextual I1 preferences, care and fallibility; I2 bounded family/visitor knowledge and E0220 reflection. Honami's choice remains open; preserve all principal-human operatives. |
+| MMJ | Contextual I1 professionalism, leisure and limited skills; I2 specific permissions, meetings and reports. Preserve E0213 strategy and future semifinal. |
+| VBS | Contextual I1 gratitude, preferences and retained refusals; I2 differentiated disclosures and permissions. No E0216 culprit or trust resolution. |
+| WxS | Contextual I1 imagination, technical limits and social differences; I2 conditional recipients and E0217 reflection. No casting result or cure of E0200/E0208 risk. |
+| N25 | Contextual I1 pleasure, work, humor and care; I2 selective presentation and familiar visitors. No universal unmasking, recovery or changed enrollment. |
+| Singers / owner | Ten unit-routed singer keys remain separate; the upstream crosswalk is not independently certified. The player-facing owner is not a named principal human. Shared names do not establish shared minds. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_READING.md) owns seven lenses, twenty human/ten singer routes, all event-conditioned codas and reconstruction increments. The source-key partition does not erase cross-unit recipients. Event analysis remains through EVENT_0222; all 449 supplemental additions are integrated, with terminal reconciliation and handoff next.
