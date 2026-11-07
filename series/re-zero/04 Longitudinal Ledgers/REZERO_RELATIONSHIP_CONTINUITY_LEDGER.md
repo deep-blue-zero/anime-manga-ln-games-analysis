@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: relationship_continuity_ledger
 scope: STATE_SELECTED_RELATIONSHIP_HISTORY_MUTUALITY_AGENCY_AND_REPAIR
-generation: V1.26
+generation: V1.27
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V24
@@ -62,9 +62,9 @@ Rem is actually sleeping under current E018 Petra care and assigned Frederica ev
 
 Stable dyad IDs are `RZ-R-NNN`. Transition IDs in §3 are `RZ-RT-NNN`. These are analytical retrieval labels, not fictional offices or new source claims. `VNN Cxxx` routes to that freeze's stable claim; `VNN §n` routes to its source-facing argument and exact loci.
 
-### Shaula24 derived-use routing
+### Shaula24 integrated and manifested Reid24 derived-use routing
 
-[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25. Emilia’s declined invitation, refused group passage and Julius’s changing received appraisal retain their actual recipients. Useful force, assault and lethal harm do not establish mutualized discarded history.
 
 ## 2. State-selected current relationship register
 
@@ -3603,4 +3603,20 @@ R001–025 retain migrated responsibilities. V23 preserves all complete affected
 
 ``````````markdown
 | `RZ-R-197` Subaru ↔ unidentified balcony killer, hostile address | E026 Patrasche rescue places Subaru on a balcony amid shadow. | A rear voice addresses a hero and decapitates him; E027 arrival follows. | No proved named companion, Gluttony controller, Shaula identity or automatic fifth-rule enforcer; anonymity is source-required. | V23 part0011#B0526–0569 |
+``````````
+
+### Manifested Reid24 exact entering routing fragments
+
+These literal fragments preserve the entering V24 publication and readiness statements. The live manifested-Reid24 routing governs the new operation.
+
+#### Entering fragment 1
+
+``````````markdown
+### Shaula24 derived-use routing
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
 ``````````
