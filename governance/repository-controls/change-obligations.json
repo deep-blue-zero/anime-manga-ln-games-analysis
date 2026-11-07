@@ -64,10 +64,10 @@
     },
     {
       "id": "character-reconstruction",
-      "description": "The reconstruction capability index is a deterministic projection of the capability registry and its immutable basis commits.",
+      "description": "The reconstruction capability index and its namespace pages are a deterministic projection of the capability registry partitions and their immutable basis commits.",
       "trigger": {
-        "kind": "path_changed",
-        "path": "characters/reconstruction_capabilities.jsonl"
+        "kind": "path_prefix_changed",
+        "prefix": "characters/reconstruction_capabilities/"
       },
       "required_outputs": [
         "characters/CHARACTER_RECONSTRUCTION_INDEX.md"

@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 25 |
+| [`re-zero`](characters/index/re-zero.md) | 27 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -48,7 +48,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`sound-euphonium`](characters/index/sound-euphonium.md) | 1 |
 | [`the-idolmaster`](characters/index/the-idolmaster.md) | 25 |
 | [`to-be-hero-x`](characters/index/to-be-hero-x.md) | 14 |
-| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 51 |
+| [`tokyo-7th-sisters`](characters/index/tokyo-7th-sisters.md) | 52 |
 | [`tomozaki`](characters/index/tomozaki.md) | 18 |
 | [`watayuri`](characters/index/watayuri.md) | 7 |
 | [`wuthering-waves`](characters/index/wuthering-waves.md) | 6 |
@@ -435,6 +435,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Otto Suwen](characters/index/re-zero.md#otto-suwen) | Re:Zero main light novel | `re-zero:otto-suwen@light-novel` | オットー・スーウェン |
 | [Ozuma](characters/index/konosuba.md#ozuma) | Original light-novel continuity, bounded expanded cohort | `konosuba:ozuma@original-light-novel` | ザトゥ・オズマ |
 | [Pain](characters/index/konosuba.md#pain) | Original light-novel continuity, scoped Tier 2 cohort monograph | `konosuba:pain@original-light-novel` | ペイン |
+| [Patrasche](characters/index/re-zero.md#patrasche) | Re:Zero main light novel | `re-zero:patrasche@light-novel` | パトラッシュ |
 | [Paul](characters/index/mushoku-tensei.md#paul) | Japanese light-novel continuity | `mushoku-tensei:paul@light-novel` | — |
 | [Perie](characters/index/konosuba.md#perie) | Original light-novel continuity, bounded expanded cohort | `konosuba:perie@original-light-novel` | ペリエ |
 | [Petra Leyte](characters/index/re-zero.md#petra-leyte) | Re:Zero main light novel | `re-zero:petra-leyte@light-novel` | ペトラ・レイテ |
@@ -500,6 +501,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Serena](characters/index/konosuba.md#serena) | Original light-novel continuity, scoped current monograph | `konosuba:serena@original-light-novel` | セレスディナ; セレナ |
 | [Serika](characters/index/blue-archive.md#serika) | Blue Archive game | `blue-archive:serika@game` | — |
 | [Serizawa Momoka](characters/index/tokyo-7th-sisters.md#serizawa-momoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:serizawa-momoka@game` | — |
+| [Shaula](characters/index/re-zero.md#shaula) | Re:Zero main light novel | `re-zero:shaula@light-novel` | シャウラ |
 | [Shiba Seki master](characters/index/blue-archive.md#shiba-seki-master) | Blue Archive game | `blue-archive:shiba-seki-master@game` | — |
 | [Shiden Iida](characters/index/86-eighty-six.md#shiden-iida) | 86 - Eighty-Six original light novels | `86-eighty-six:shiden-iida@original-light-novels` | シデン・イーダ |
 | [Shigaraki Tomura](characters/index/my-hero-academia.md#shigaraki-tomura) | My Hero Academia manga | `my-hero-academia:shigaraki-tomura@manga` | — |
@@ -639,6 +641,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [瀬戸ファーブ](characters/index/tokyo-7th-sisters.md#seto-ferb) | Tokyo 7th Sisters game | `tokyo-7th-sisters:seto-ferb@game` | — |
 | [羽生田ミト](characters/index/tokyo-7th-sisters.md#hanyuda-mito) | Tokyo 7th Sisters game | `tokyo-7th-sisters:hanyuda-mito@game` | — |
 | [荒木レナ](characters/index/tokyo-7th-sisters.md#araki-rena) | Tokyo 7th Sisters game | `tokyo-7th-sisters:araki-rena@game` | — |
+| [西園ホノカ](characters/index/tokyo-7th-sisters.md#nishizono-honoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:nishizono-honoka@game` | — |
 | [越前ムラサキ](characters/index/tokyo-7th-sisters.md#echizen-murasaki) | Tokyo 7th Sisters game | `tokyo-7th-sisters:echizen-murasaki@game` | — |
 | [逢原ミウ](characters/index/tokyo-7th-sisters.md#aihara-miu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:aihara-miu@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |

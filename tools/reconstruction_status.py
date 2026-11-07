@@ -21,20 +21,21 @@ from pathlib import Path
 from typing import Any, Mapping, Sequence
 
 from character_index_core import (
+    ABSENT_LAYOUT,
     CURRENT_CLAIM_STATUSES,
-    RECONSTRUCTION_REGISTRY_PATH,
+    RECONSTRUCTION_REGISTRY_PREFIX,
     AuthorityGraph,
     DomainError,
     GitSnapshot,
     ReconstructionEvaluation,
     coverage_projection,
-    decode_reconstruction_registry,
     discovery_commit_snapshot,
     evaluate_reconstruction_assessments,
     is_ancestor_commit,
     load_discovery_snapshot_records,
     read_blob_objects,
     read_discovery_registry,
+    read_reconstruction_registry,
     reviewed_evidence_membership,
     run_git,
     subject_scope_projection,
@@ -71,15 +72,17 @@ def _snapshot(root: Path, mode: str, commit: str | None) -> GitSnapshot:
 def load_state(
     snapshot: GitSnapshot, repository: Path
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], ReconstructionEvaluation]:
-    registry = snapshot.get(RECONSTRUCTION_REGISTRY_PATH)
-    if registry is None or not registry.qualifies_as_evidence:
-        raise DomainError(f"snapshot lacks the production registry: {RECONSTRUCTION_REGISTRY_PATH}")
-    assessments = [
-        record
-        for _line, record in decode_reconstruction_registry(
-            registry.data, f"{snapshot.identity}:{RECONSTRUCTION_REGISTRY_PATH}"
+    # Either storage layout is read, so an exact commit from before the
+    # partition migration still verifies; an absent registry is a missing input.
+    registry = read_reconstruction_registry(snapshot)
+    if registry.layout == ABSENT_LAYOUT:
+        raise DomainError(
+            f"snapshot lacks the production registry: no {RECONSTRUCTION_REGISTRY_PREFIX}"
+            "<namespace>/<subject>.jsonl partition is tracked"
         )
-    ]
+    if registry.layout_errors:
+        raise DomainError("\n".join(registry.layout_errors))
+    assessments = registry.records
     discovery = load_discovery_snapshot_records(snapshot)
     evaluation = evaluate_reconstruction_assessments(
         assessments, repository, comparison=snapshot, comparison_records=discovery

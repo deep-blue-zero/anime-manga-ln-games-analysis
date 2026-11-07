@@ -82,7 +82,7 @@ def main(argv=None) -> int:
         report.update(tests_run=result.testsRun, failures=len(result.failures), errors=len(result.errors), skipped=len(result.skipped), expected_failures=len(result.expectedFailures), unexpected_successes=len(result.unexpectedSuccesses), tests=result.timings)
         if result.testsRun != len(ids):
             raise DomainError("test execution did not cover every discovered test")
-        success = result.wasSuccessful()
+        success = result.wasSuccessful() and not result.skipped
         report["outcome"] = "success" if success else "failure"
         return 0 if success else 1
     except (DomainError, OSError, ValueError) as exc:

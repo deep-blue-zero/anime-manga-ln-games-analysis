@@ -24,7 +24,7 @@ Substantive monographs and analyses remain in their canonical homes:
 series-specific analysis                    -> series/<stable-slug>/
 cross-series or taxonomy study              -> studies/<stable-slug>/
 character discovery metadata                -> characters/registry/<namespace>.jsonl
-reconstruction capability metadata          -> characters/reconstruction_capabilities.jsonl
+reconstruction capability metadata          -> characters/reconstruction_capabilities/<namespace>/<subject>.jsonl
 ```
 
 The `characters/` directory is global metadata and specification infrastructure, not a parallel home for analytical prose.
@@ -323,8 +323,9 @@ If the two leaves have continuities `anime` and `light-novel`, the derived effec
 Discovery says where substantial analysis exists. Reconstruction capability says what extrapolations an exact, commit-bound evidence set can responsibly support. The latter is defined in `RECONSTRUCTION_CAPABILITY_SPEC.md` and its schema; its production surfaces are:
 
 ```text
-characters/reconstruction_capabilities.jsonl
-characters/CHARACTER_RECONSTRUCTION_INDEX.md
+characters/reconstruction_capabilities/<namespace>/<subject>.jsonl   one partition per analysis subject
+characters/CHARACTER_RECONSTRUCTION_INDEX.md                         generated root index
+characters/reconstruction_index/<namespace>.md                       generated namespace page
 ```
 
-Only the reconstruction evaluator writes them, under `../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; the curation agent never does. Discovery inclusion never implies a capability grade. A discovery change that makes an assessment stale needs no synchronous capability update; the evaluator reconciles it. Migration does not perform reconstruction assessment.
+Only the reconstruction evaluator writes them, under `../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`, whose [Registry storage](../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md#registry-storage) section specifies the layout; the curation agent never does. The single file `characters/reconstruction_capabilities.jsonl` was retired on 2026-11-06 the same way as the discovery registry's single file. Discovery inclusion never implies a capability grade. A discovery change that makes an assessment stale needs no synchronous capability update; the evaluator reconciles it. Migration does not perform reconstruction assessment.

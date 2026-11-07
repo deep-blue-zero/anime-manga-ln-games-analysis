@@ -41,7 +41,9 @@ def workflow(path: str) -> dict:
 
 
 class AuditReportingTests(unittest.TestCase):
-    def report(self, result: str, state: str, *, sha: str = "a" * 40) -> tuple[object, dict]:
+    def report(
+        self, result: str, state: str, *, sha: str = "a" * 40, counts: dict[str, int | str] | None = None,
+    ) -> tuple[object, dict]:
         script = workflow(AUDIT)["jobs"]["report"]["steps"][0]["run"]
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         environment = {
@@ -50,6 +52,8 @@ class AuditReportingTests(unittest.TestCase):
             "GITHUB_RUN_ID": "123", "AUDIT_RESULT": result,
             "INTEGRATION_STATE": state, "GH_TOKEN": "test-token",
         }
+        if counts is not None:
+            environment.update({f"AUDIT_{key.upper()}": str(value) for key, value in counts.items()})
         with mock.patch.dict(os.environ, environment, clear=True):
             with mock.patch("urllib.request.urlopen") as urlopen:
                 urlopen.return_value.__enter__.return_value.status = 201
@@ -86,6 +90,25 @@ class AuditReportingTests(unittest.TestCase):
         self.assertIn("housekeeping", stale["description"])
         _, failed = self.report("failure", "success")
         self.assertEqual(failed["state"], "failure")
+
+    def test_reporter_publishes_test_counts_in_the_status_description(self) -> None:
+        counts = {"tests_run": 486, "failures": 0, "errors": 0, "skipped": 0}
+        _, current = self.report("success", "success", counts=counts)
+        self.assertEqual(
+            current["description"],
+            "Exact commit passed the repository audit: 486 tests, 0 failed, 0 errors, 0 skipped",
+        )
+        _, pending = self.report("success", "pending", counts=counts)
+        self.assertIn("486 tests, 0 failed, 0 errors, 0 skipped", pending["description"])
+        self.assertIn("housekeeping", pending["description"])
+        self.assertLessEqual(len(pending["description"]), 140)
+        _, failed = self.report("failure", "success", counts=counts)
+        self.assertEqual(failed["state"], "failure")
+
+        for unavailable in (None, {"tests_run": 486}, dict(counts, skipped="bad"), dict(counts, tests_run="9" * 141)):
+            with self.subTest(counts=unavailable):
+                _, payload = self.report("success", "success", counts=unavailable)
+                self.assertTrue(payload["description"].endswith("test counts unavailable"))
 
     def test_invalid_target_is_rejected_before_a_status_write(self) -> None:
         with self.assertRaisesRegex(SystemExit, "invalid audited commit"):
@@ -131,27 +154,35 @@ class AuditReportingTests(unittest.TestCase):
                             )
                             self.assertEqual(result.returncode, 0, result.stderr)
 
-    def test_execution_summary_preserves_large_reports_in_bounded_log_lines(self) -> None:
+    def test_execution_summary_keeps_full_reports_out_of_the_job_log(self) -> None:
         script = workflow(AUDIT)["jobs"]["audit"]["steps"][-1]["run"]
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         report = {
             "outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0,
+            "errors": "malformed count " * 300,
             "tests": [{"id": f"test_{i}_" + "fixture" * 40, "seconds": 0.1} for i in range(300)],
         }
         self.assertGreater(len(json.dumps(report)), 65536)
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             summary = root / "summary.md"
+            outputs = root / "outputs"
             (root / "test-timings.json").write_text(json.dumps(report), encoding="utf-8")
             output = io.StringIO()
-            with mock.patch.dict(os.environ, {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary)}, clear=True), contextlib.redirect_stdout(output):
+            environment = {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary), "GITHUB_OUTPUT": str(outputs)}
+            with mock.patch.dict(os.environ, environment, clear=True), contextlib.redirect_stdout(output):
                 exec(compile(program, "execution-summary", "exec"), {})
             emitted = output.getvalue()
-            payload = emitted.split("AUDIT_EXECUTION_REPORT_BEGIN: test-timings.json\n", 1)[1].split("\nAUDIT_EXECUTION_REPORT_END:", 1)[0]
-            self.assertEqual(json.loads(payload), report)
-            self.assertLess(max(map(len, emitted.splitlines())), 1024)
-            self.assertIn("Tests executed: 300; skipped: 0", summary.read_text())
-            self.assertIn("Archive validation: no completed report", summary.read_text())
+            self.assertNotIn("AUDIT_EXECUTION_REPORT_BEGIN", emitted)
+            prefix = "AUDIT_EXECUTION_SUMMARY: test-timings.json "
+            payload = next(line.removeprefix(prefix) for line in emitted.splitlines() if line.startswith(prefix))
+            self.assertEqual(json.loads(payload), {"outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0})
+            self.assertLessEqual(max(map(len, emitted.splitlines())), 300)
+            markdown = summary.read_text(encoding="utf-8")
+            self.assertIn("Tests executed: 300; skipped: 0", markdown)
+            self.assertIn("Archive validation: no completed report", markdown)
+            self.assertIn(json.dumps(report, sort_keys=True, indent=2), markdown)
+            self.assertEqual(set(outputs.read_text(encoding="utf-8").splitlines()), {"tests_run=300", "skipped=0"})
 
     def run_generation(self, *, routing_changed: bool, contains_main: bool) -> tuple[subprocess.CompletedProcess, list, Path]:
         if not shutil.which("bash"):

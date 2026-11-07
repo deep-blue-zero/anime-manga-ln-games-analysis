@@ -1,8 +1,8 @@
 # Character Reconstruction Capability Specification
 
 - Status: `ACTIVE_PRODUCTION_CALIBRATION`
-- Production registry: `reconstruction_capabilities.jsonl`
-- Generated index: `CHARACTER_RECONSTRUCTION_INDEX.md`
+- Production registry: `reconstruction_capabilities/<namespace>/<subject>.jsonl`, one partition per analysis subject
+- Generated index: `CHARACTER_RECONSTRUCTION_INDEX.md` with the namespace pages `reconstruction_index/<namespace>.md`
 - Publication gate: `../governance/repository-controls/reconstruction-capability-policy.json`
 - Maintenance policy: `../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md`
 - Discovery schema: `../governance/schemas/character-analysis-index.schema.json`
@@ -27,17 +27,20 @@ These are related but distinct ontologies. Discovery never implies reconstructio
 The production surfaces are active:
 
 ```text
-characters/reconstruction_capabilities.jsonl     canonical capability registry
-characters/CHARACTER_RECONSTRUCTION_INDEX.md     generated view; never edited by hand
+characters/reconstruction_capabilities/<namespace>/<subject>.jsonl   canonical capability registry, one partition per analysis subject
+characters/CHARACTER_RECONSTRUCTION_INDEX.md                         generated root index; never edited by hand
+characters/reconstruction_index/<namespace>.md                       generated namespace page; never edited by hand
 ```
 
-Their sole routine writer is the reconstruction evaluator under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; the index is produced only by `tools/generate_reconstruction_index.py`. The discovery registry, its generated index, and all analytical prose remain outside the evaluator's authority, and the reconstruction outputs remain outside the discovery agent's and housekeeping's authority.
+Their sole routine writer is the reconstruction evaluator under `CHARACTER_RECONSTRUCTION_MAINTENANCE.md`; the index and its pages are produced only by `tools/generate_reconstruction_index.py`. The discovery registry, its generated index, and all analytical prose remain outside the evaluator's authority, and the reconstruction outputs remain outside the discovery agent's and housekeeping's authority.
 
-The activation bootstrap state is an empty, zero-byte registry and the corresponding generated index stating that no assessment has been published. Activation creates no `UNASSESSED` placeholder records: production never admits them, and eligible-but-unassessed state is derived from the discovery registry and the absence of a capability record. Infrastructure activation does not establish that any character is reconstruction-ready, and no assessment, tier, or grade may be inferred from the existence of the schema, specification, or registry.
+The registry is one logical registry stored as one JSONL partition per `analysis_subject_id`, grouped in one directory per ID namespace (the part of the subject ID before `:`); `<subject>` is the part after it. Every assessment of a subject, current and historical, is in that subject's file, so a file grows only with one subject's own reassessment history. [Registry storage](../governance/policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md#registry-storage) in the maintenance policy specifies placement, the tooling and the migration from the retired single file `characters/reconstruction_capabilities.jsonl`, which current snapshots reject and historical commits still read. An absent registry is a missing input, never an empty registry.
+
+Activation created no `UNASSESSED` placeholder records: production never admits them, and eligible-but-unassessed state is derived from the discovery registry and the absence of a capability record. Infrastructure activation does not establish that any character is reconstruction-ready, and no assessment, tier, or grade may be inferred from the existence of the schema, specification, or registry.
 
 The production registry additionally requires:
 
-- one schema-valid record per nonblank line, LF-terminated, without blank lines, ordered by ASCII `assessment_id`;
+- one schema-valid record per nonblank line, LF-terminated, without blank lines, each partition ordered by ASCII `assessment_id` and holding only its subject's records, with `assessment_id` unique over the whole registry;
 - publication-gate compliance: in phase `CALIBRATION`, `REVIEWED` records are rejected; `ROUTINE` requires an owner calibration acceptance record;
 - a `basis_commit` that is an ancestor of the integrated history (the merge base of the validated snapshot with current `main`, or the parent of an exact commit `main` already contains), so unmerged evidence is never assessed as effective;
 - an `INCLUDED` discovery subject at the basis for every `CANDIDATE` or `REVIEWED` record;

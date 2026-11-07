@@ -53,7 +53,12 @@ COMMITTER = {"name": "GitHub", "email": "noreply@github.com"}
 GUARDRAIL_ROOTS = (".github/", "crosswalk/", "provenance/", "governance/repository-controls/", "governance/archive/")
 GUARDRAIL_FILES = frozenset({"AGENTS.md", "LICENSE.md", "THIRD_PARTY_NOTICES.md", CONTROLLER,
                              "governance/policies/NIGHTLY_ANALYTICAL_INTEGRATION.md"})
-RECONSTRUCTION = frozenset({"characters/reconstruction_capabilities.jsonl", "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
+# Reconstruction outputs: the per-subject registry partitions, the generated
+# root index and its namespace pages, and the retired single-file registry
+# still found in history.
+RECONSTRUCTION_FILES = frozenset({"characters/reconstruction_capabilities.jsonl",
+                                  "characters/CHARACTER_RECONSTRUCTION_INDEX.md"})
+RECONSTRUCTION_ROOTS = ("characters/reconstruction_capabilities/", "characters/reconstruction_index/")
 RECONSTRUCTION_BRANCH = "character-reconstruction"
 RECONSTRUCTION_POLICY = "governance/repository-controls/reconstruction-capability-policy.json"
 LOADED_SHA256 = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
@@ -96,6 +101,10 @@ def character_paths(paths: set[str]) -> set[str]:
     return {path for path in paths if path in CHARACTER_FILES or path.startswith(CHARACTER_ROOTS)}
 
 
+def reconstruction_paths(paths: set[str]) -> set[str]:
+    return {path for path in paths if path in RECONSTRUCTION_FILES or path.startswith(RECONSTRUCTION_ROOTS)}
+
+
 def scoped_paths(branch: str, paths: set[str]) -> bool:
     return bool(BRANCH.fullmatch(branch)) and all(
         path.startswith(branch + "/") or path in GENERATED or character_paths({path})
@@ -107,8 +116,8 @@ def eligible_paths(branch: str, paths: set[str]) -> bool:
     if any(path in GUARDRAIL_FILES or path.startswith(GUARDRAIL_ROOTS) for path in paths):
         return False
     # Reconstruction outputs come only from the evaluator's branch, which carries nothing else.
-    if branch == RECONSTRUCTION_BRANCH or paths & RECONSTRUCTION:
-        return branch == RECONSTRUCTION_BRANCH and paths <= RECONSTRUCTION
+    if branch == RECONSTRUCTION_BRANCH or reconstruction_paths(paths):
+        return branch == RECONSTRUCTION_BRANCH and reconstruction_paths(paths) == paths
     # An analysis branch stays inside its own root; cross-cutting work uses another branch.
     return scoped_paths(branch, paths) if BRANCH.fullmatch(branch) else True
 
@@ -540,7 +549,7 @@ class Integrator:
         if not eligible_paths(branch, delta):
             raise Blocked("Branch touches guardrail paths or files outside its allowed scope; the owner merges it")
         # Until the owner accepts calibration, every reconstruction PR is owner-merged.
-        if delta & RECONSTRUCTION and self.graph.reconstruction_phase(base) != "ROUTINE":
+        if reconstruction_paths(delta) and self.graph.reconstruction_phase(base) != "ROUTINE":
             raise Blocked("Reconstruction assessments are owner-merged until calibration is accepted")
         self.graph.verify_identities(base, source)
         if character_paths(delta):

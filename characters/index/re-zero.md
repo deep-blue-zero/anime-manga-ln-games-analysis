@@ -279,6 +279,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Otto Suwen: V01–V13 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
 
+<a id="patrasche"></a>
+
+### Patrasche
+
+- Entity ID: `re-zero:patrasche`
+- Entity aliases:
+  - パトラッシュ (ja, ORIGINAL_SCRIPT) — Japanese name as used in the character model's scope and Japanese-evidence sections; the model keeps 地竜 and the reported ダイアナ種 as her kind and breed, not as names.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:patrasche@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded external-behavior model of Subaru's ground dragon across the original Japanese main light novels V01–V23, built from 75 contextual intervals plus four supplemental windows of already-consumed volumes with seven original stills; her identified appearances run from the V07 approach and Whale hunt through the V09 diversion, V10 gift and Sanctuary, the V11 E014/E015 deaths, V12–V16 restraint, tomb and common travel, the V17–V20 indirect references, the V21–V22 Watchtower approach, cave, adverse E023 outcome and E024 rescue and care, the V22–V23 memory-loss contact, the E026 refusal, injury and rescue, and the E027 morning default. V01–V06 do not identify her; V17–V20 are indirect only; the late E027 shadow engulfment supplies no personal Patrasche state. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Patrasche: V01–V23 external-behavior character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md)
+
 <a id="petra-leyte"></a>
 
 ### Petra Leyte
@@ -509,6 +531,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
   - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the artificial spirit operating from Anastasia's scarf across the original Japanese main light novels V20–V22, built from 28 contextual intervals of already-consumed V20, V21 and V22; it covers reported prior companionship and borrowings (as report, not displayed history), the V20 Al/Ferris encounter and disclosure to Subaru, the V21 public portrayal, Julius defense, route guidance and the discarded E023 route including the stabbing of Ram, and the V22 E024 tower inquiry, failed Ziwald rescue of Julius, balcony inquiry with Subaru, coercive disclosure to Julius and escort default. Human Anastasia and the Witch Echidna are not covered. No V23 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
 - Reviewed current evidence:
   - [`character-model` — Scarf Echidna: V20–V22 explicit artificial-operator character model](../../series/re-zero/05%20Character%20Analysis/REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md)
+
+<a id="shaula"></a>
+
+### Shaula
+
+- Entity ID: `re-zero:shaula`
+- Entity aliases:
+  - シャウラ (ja, ORIGINAL_SCRIPT) — Japanese name as used in the character model's scope and Japanese-register sections (V21 part0014 B0575–0605); the model keeps 星番 as her self-described role and お師様 as her address for Subaru, not as names.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:shaula@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of the Pleiades Watchtower's star-keeper across the original Japanese main light novels V21–V23, built from 28 contextual intervals of already-consumed V21, V22 and V23 with seven original stills; it covers her reported antecedents (as attributed report only), the E021–E022 approach defenses, the E024 rescue, reunion and permitted speech, the nonharm promise, Merope refusal and four reported tower rules, the Electra faint and recovery, ordinary camp life, the V23 E024–E025 memory-loss disclosures, the E026 corpse encounter, and the E027 standby, book crisis, personal search request and dinner default. The later E027 scorpion catastrophe is treated only as evidence context, with no identity bridge or terminal Shaula state claimed. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Shaula: V21–V23 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
 
 <a id="subaru"></a>
 
