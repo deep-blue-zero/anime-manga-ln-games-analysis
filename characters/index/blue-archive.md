@@ -537,6 +537,30 @@ Reviewed analysis subjects in the `blue-archive` namespace of the [Character Ana
   - [`eden-3` — Eden Treaty Chapter 3 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md)
   - [`eden-4` — Eden Treaty Chapter 4 canonical checkpoint](../../series/blue-archive/02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md)
 
+<a id="kokuriko"></a>
+
+### Kokuriko
+
+- Entity ID: `blue-archive:kokuriko`
+- Entity aliases:
+  - _None._
+
+#### Subject: Blue Archive game
+
+- Analysis subject ID: `blue-archive:kokuriko@game`
+- Series: `blue-archive`
+- Continuity: `blue-archive-game`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `monograph-scope`: GAME OTHER: Dedicated interpretation of Kokuriko across main-story Volume 5 Chapters 1 and 2 as maintained in the C001 and C002 chapter checkpoints and the Volume 5 working account, with contextual comparison. This describes the monograph's analytical corpus, not every appearance. No ordinary-life, event, bond or performed-voice coverage is claimed.; continuity `blue-archive-game`
+  - `shuro-kokuriko-azami-relationship-scope`: GAME OTHER: Dedicated reading of Kokuriko's directed relation to Shuro and Azami across main-story Volume 5 Chapters 1 and 2 (C001/C002 checkpoints, E024–E025 allowance) with V005 context. This describes the synthesis's analytical corpus, not every appearance.; continuity `blue-archive-game`
+- Reviewed current evidence:
+  - [`character-monograph` — Kokuriko character monograph](../../series/blue-archive/04%20Specialist%20Synthesis/Character%20Monographs/BLUE_ARCHIVE_KOKURIKO_CHARACTER_MONOGRAPH.md)
+  - [`shuro-kokuriko-azami-relationship-synthesis` — Shuro–Kokuriko–Azami directed relationship synthesis](../../series/blue-archive/04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md)
+
 <a id="midori"></a>
 
 ### Midori

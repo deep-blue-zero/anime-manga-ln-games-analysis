@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
 scope: MAIN_LN_PROPOSITION_HOLDERS_DISCLOSURE_AND_FALSE_BELIEFS_THROUGH_V24
-generation: V2.18
+generation: V2.19
 status: canonical
 release_state: mutable_active
 current_source_horizon: V24
@@ -24,6 +24,10 @@ This ledger owns who knows, believes, receives, forgets or has not been tested, 
 Each row gives a proposition, state/source, holders and confidence, competing belief/material nonholder, disclosure constraint/consequence and revision route. HIGH means strong support for the bounded holder attribution, not that every attributed belief is true. “Reader” includes narrator/private-view information unavailable to a named character. Lack of a receipt is not proof nobody could ever infer the information.
 
 Japanese main LN V01–V24 is source-complete. V25 and later narrative remain outside the current source horizon. K926–987 adds named holders and exclusions. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives.
+
+### Shaula24 derived-use routing
+
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
 
 ## 1. Retained history, enforcement and household secrets
 

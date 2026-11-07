@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
 scope: MAIN_LN_INSTITUTIONS_FACTIONS_STATUS_AND_PRACTICAL_POWER_THROUGH_V24
-generation: V1.31
+generation: V1.32
 status: canonical
 release_state: mutable_active
 current_source_horizon: V24
@@ -21,6 +21,10 @@ Japanese main LN V01–V24 is source-complete. V25 and later narrative remain ou
 This is a maintained ledger, not a final political synthesis. The V01–V03 rows below are an explicitly retrospective migration of the former master institution table, not a claim that this artifact governed those readings. No later volume, external history or non-spine witness is admitted. Evidence classes distinguish witnessed conduct, participant explanation, political program, inference and OPEN attribution.
 
 Primary retrieval: corpus map → master routing → current row → frozen VNN section/claim → exact hashed Japanese EPUB. Each freeze §1 owns its block locators. V09 observes council arrival RZ-E-012 and later bedside arrival RZ-E-013 after death twelve. The event ledger owns what survives those boundaries; a reported agreement or conversation is not automatically replayed after return. Knowledge owns holders, mechanics causes, the relationship ledger personal terms/continuity, and master person/readiness reconstruction. Interpretive updates remain `SUBSTANTIVE_ANALYSIS` and broad architecture review follows its higher class.
+
+### Shaula24 derived-use routing
+
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
 
 ## 1. Operative selection rules and legitimacy
 
