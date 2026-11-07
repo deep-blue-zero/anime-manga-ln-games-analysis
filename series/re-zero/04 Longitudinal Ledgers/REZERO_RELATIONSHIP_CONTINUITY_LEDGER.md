@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: relationship_continuity_ledger
 scope: STATE_SELECTED_RELATIONSHIP_HISTORY_MUTUALITY_AGENCY_AND_REPAIR
-generation: V1.25
+generation: V1.26
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V24
@@ -61,6 +61,10 @@ Historical earlier Rem-selection paragraph — exact preimage:
 Rem is actually sleeping under current E018 Petra care and assigned Frederica evacuation, not awake or giving a new reply. Name/twin instruction to Garfiel/Frederica and Ram's residual gaps are not restored autobiographical familiarity, nor is her own memory tested. Carmilla's speaking likeness remains a different past source. Select an observed pre-ambush phase for Rem speech, not an invented bedside answer; internal escape-family marriage/children/exclusivity remain scenario-local.
 
 Stable dyad IDs are `RZ-R-NNN`. Transition IDs in §3 are `RZ-RT-NNN`. These are analytical retrieval labels, not fictional offices or new source claims. `VNN Cxxx` routes to that freeze's stable claim; `VNN §n` routes to its source-facing argument and exact loci.
+
+### Shaula24 derived-use routing
+
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
 
 ## 2. State-selected current relationship register
 
