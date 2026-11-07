@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V24
-generation: V1.39
+generation: V1.40
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6408,3 +6408,13 @@ The V24 full gate closed through [PR #490](https://github.com/deep-blue-zero/ani
 The latest default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. The source distinguishes human withholding, a proposed death-command window, an attempted human rescue and transformed aim. The fifth rule permits Trial destruction. The particular breach, practical command effect and post-impact fate remain OPEN. Current source facts stay at 672 claims, 30 deaths and 30 arrived segments through V24.
 
 Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+
+## Manifested Reid V22–V24 model and applied review
+
+The Shaula V21–V24 full gate closed through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491) before manifested Reid construction. Final source `fb3517ef05b287328df260a53440d825ce568ae2`, actual merge and verified entry main `589435c3ebada7c66aac6b44ed014876d9050423` share Re:Zero subtree `7056ddf14227a05f65a30098f8740617b612bd1e`. Ordered actual-merge parents are `ae140c557fc40d8e21bbb7d66ea3e6a5e995ea9b` and `fb3517ef05b287328df260a53440d825ce568ae2`. Exact final-source, actual-merge and current-main audits each executed 511 tests with zero nonpasses. Source housekeeping confirmed current routing and later native correspondence passed at 2026-11-07T08:54:13.273500Z.
+
+[Manifested Reid V22–V24 model](05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) implement 31 eight-field behavior rules, four eight-field caller controls, 40 retrieval bundles and 19 actually applied review dimensions. The local result is PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after three model repair groups, saved-review corrections and actual source/name/reference readback. Four matched-recipient families, forty adverse controls, eight unfamiliar cases and two known-source calibrations retain explicit state, confidence and source bounds.
+
+The default is `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. The reported E030 clash has no shown current wording or personal result. Earlier negotiated individual passage, sexual intrusion, cruel nonfatal torment, ordinary demands, imposed useful repair, witnessed Roy-body control, local shadow cutting and the E029 lethal slash remain separately selected. The target recovery used 23 intervals, 2942 positions and eight directly viewed original stills in 29 actual deliveries. Current narrative high-water stays V24 with 672 claims, 30 confirmed Subaru deaths and 30 arrived segments.
+
+Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
