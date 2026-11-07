@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: ledger_architecture
 scope: LONGITUDINAL_LEDGER_PROMOTION_AND_SCHEMA_CONTRACT
-generation: V0.51
+generation: V0.52
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -20,9 +20,13 @@ No recurring ledger was promoted at bootstrap. Frozen volume readings were the i
 
 ## Current promoted state
 
-V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+V24 is source-complete with 672 current claims. Verified integrated sequential high-water remains V23 through PR #467 while the V24 publication and integration gate is pending. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
-Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
+
+Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
+
+The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
 
 ### Post-Garfiel15 Ram field-contract review
 
@@ -356,17 +360,18 @@ Verified integrated sequential high-water remains V21/467claims; V22 is source-c
 Accepted V22 saved content and sealed outgoingV23whole body → V22 final-index author preflight/atomic publication/exact-source all-discovered-test audit/source-specific housekeeping/CI merge/actual-merge and current-main audits/later native proof → SCARF_ECHIDNA_V20_V22_MODEL_AND_FIDELITY_REVIEW and its own full gate → literal sealedV23. No routine-unit pause, independent/held-out/runtime/global grade or final goal completion.
 ````````
 
-### V23 unchanged contracts and two earned person responsibilities
+### V24 retained contracts and scoped next uses
 
-The existing five owners and registered fields carry the V23 claims and the evidence used by the [Patrasche V1.0 model](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md). Master §13 owns readiness. The eight V23 archive payloads and their original relative base and heading routes remain intact. Complete Patrasche candidates were measured against the 1048576-byte cap. All 15 fit.
+Event, knowledge, mechanics, institution and relationship responsibility each stays in its existing home. Body, actor, memory, form, recognition, received consent and current choice can be represented through the registered fields. No independent field or sixth owner is earned. Shaula V21–V24 and manifested Reid V22–V24 earn scoped construction and separate applied review. Both are unimplemented and ungraded. The 24 earlier local scopes, defaults and reviews remain exact.
 
-Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+[Current state and readiness](REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness). [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md).
 
-| Duty | Model | Separate review |
-|---|---|---|
-| Shaula V21–V23 integrated through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474) | [Model V1.0](../05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
-| Patrasche V01–V23 external behavior, own full gate pending | [Model V1.0](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
+| existing scope | model | separate review |
+| --- | --- | --- |
+| Shaula V21–V23, integrated through PR #474 | [Frozen model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
+| Patrasche V01–V23 external behavior, integrated through PR #485 | [Frozen model](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
 
+The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
 
 ### V23 exact entering schema preimages
 
@@ -476,6 +481,38 @@ Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index
 ````````markdown
 | Patrasche23 external behavior after Shaula23gate | `05 Character Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md` | `08 Audits and Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md` |
 ````````
+
+
+### V24 exact entering fragments
+
+These literal fragments record earlier states and preserve their provenance. Use the opening V24 selectors for current retrieval.
+
+#### Entering fragment 1
+
+``````````markdown
+
+V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+
+Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+### V23 unchanged contracts and two earned person responsibilities
+
+The existing five owners and registered fields carry the V23 claims and the evidence used by the [Patrasche V1.0 model](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md). Master §13 owns readiness. The eight V23 archive payloads and their original relative base and heading routes remain intact. Complete Patrasche candidates were measured against the 1048576-byte cap. All 15 fit.
+
+Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+
+| Duty | Model | Separate review |
+|---|---|---|
+| Shaula V21–V23 integrated through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474) | [Model V1.0](../05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
+| Patrasche V01–V23 external behavior, own full gate pending | [Model V1.0](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
+
+
+``````````
 
 ### Registered exact candidate homes
 
