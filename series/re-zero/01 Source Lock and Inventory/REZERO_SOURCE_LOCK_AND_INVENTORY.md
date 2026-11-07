@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.52
+generation: V0.53
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -14,11 +14,13 @@ do_not_use_as_current_authority: false
 
 ## Current lock state
 
-V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+V24 is source-complete with 672 current claims. Verified integrated sequential high-water remains V23 through PR #467 while the V24 publication and integration gate is pending. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
-V23 is the last fully consumed original. Patrasche’s derived external-behavior reconstruction uses focused contextual passages and original stills within the consumed Japanese V01–V23 corpus. The admission record governs the 43-volume spine, V41 exception, dated gaps and witness exclusions. V24 narrative remains unopened.
+The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
 
-V23original3178495bytes/SHA630d11e9218950be65ee1775cc156b1e5306c5c20a3cc0240814524a6c8df1bb/CRCpass;full actual text/contextualruby/originalimages/navigation attention and explicit jacket bound in frozenV23§1.
+RZ-MAIN-LN-JA-V24 has 3018032 bytes, SHA-256 `e8e3a5df8dcf984a2378959461f2d1318f5eef6f31499508349eba4044b7234f` and 57 ZIP entries with CRC passing. The full original has 24 OPF members, 3930 positions, 1424 ruby groups, 1879 reading labels, 24 original stills and 40 original navigation entries. Actual attention took 44 bounded offers. Independent raw correspondence passed. Jacket small print is partly resolution-limited.
+
+The admitted Japanese V01–V43 set, V41 exception, dated acquisition gaps and exclusions remain governed by the same lock. V25 and later narrative have not been opened.
 
 ## Authority responsibility
 
@@ -508,251 +510,13 @@ The complete replaced source-summary section follows verbatim from98acb720 as hi
 ```markdown
 ## Current source-state summary
 
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15, with actual complete V15 source consumption; committed authority advances only on this synchronized transaction's full gate. Earlier Subaru10/Otto13/Emilia14 models/reviews retain exact historical scope and grade.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `ARC04_CHECKPOINT` after complete V15 publication; then Beatrice15, Garfiel10–15, Ram15 and Roswaal15 separate model/review operations, each full gate before the next/source16. V16 remains unopened with the exact60/10 seal above.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
-```
+V24 is source-complete with 672 current claims. Verified integrated sequential high-water remains V23 through PR #467 while the V24 publication and integration gate is pending. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
-## Post-Arc04 Beatrice15 reconstruction source boundary — no new admission
+The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
 
-Arc04's complete gate at `6bce1604e7da9c688737568aaefb971abe4bc9a3` closed before construction. The [Beatrice15 model](../05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) revisit already-consumed V01–V15 only. Forty-seven actual contextual Japanese windows/118868characters in V02/V03/V06/V09/V10/V11/V12/V14/V15 were delivered at their returned endpoints with exact admitted archive hash/CRC checks; search matches, shortened requests and truncated deliveries were not falsely credited. No new fifteen-volume reread or new primary unit is claimed. Four other series' designs are design references, not literary evidence.
+Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
 
-All24 predecessor analytical artifacts, five owners/master narrative bodies and exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. Local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND does not admit a witness or close full publication. This pair's own gate precedes Garfiel10–15/Ram15/Roswaal15 separately/full-gated before source16. Admission43objects/V41exception/datedV44–45gaps/activeV43 remain; no nonspine, replacement edition, global curation or acquisition.
-
-Complete entering summary from6bce1604, retained verbatim as history:
-
-```markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate verified at98acb720. The separate V10–V15 Arc04 checkpoint is a source-free derived transaction under its own complete gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 models/reviews retain exact scope/defaults/grades.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Arc04 checkpoint's own complete gate; then separate Garfiel10–15, Ram15 and Roswaal15 constructions/reviews, each full gate before the next/source16. V16 remains unopened and its exact60/10 seal unchanged.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
-```
-
-## Post-Beatrice15 Garfiel reconstruction source boundary — no new admission
-
-The [Garfiel V10–V15 model](../05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
-
-**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
-
-All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
-
-This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause.
-
-### Historical entering source-state summary — complete preimage
-
-Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
-
-````markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 pairs retain exact scope/defaults/grades.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after the Beatrice15 pair's own complete gate; then Ram15/Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Beatrice15 has local documentary PASS_WITH_BOUND, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
-````
-
-## Post-Garfiel15 Ram reconstruction source boundary — no new admission
-
-The [Ram V01–V15 model](../05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
-
-Default is living E018 at Ram's latest actual V15 month-later party, p-027#B0218, beside sleeping Rem rather than Roswaal in that instant. Present care/residual bond does not restore old Rem autobiography, import E014's new lesson/Petra appraisal or provide an awake reply. Original revenge, changed self-directed rescue wish, received-and-denied love declaration, dependency, real harm, costly incomplete activation, existing green log-fire and medical gratitude without lover-selection authority remain distinct. No RBD/private soul/warded threat/trial/coda receipt, horn regrowth, completed death/resurrection, infinite aid or reciprocal-romance certificate.
-
-**Operative Ram chronology bound:** model§0.1/review§2 retain V03 p-023#B0004–0045's nearly-seven-year account and V14 p-024#B0219–0239's nine-year oath dating with attribution. No verified unified interval/age, two-year bridge, second attack, edition cause or retcon is invented; neither local assertion is erased. C01 remains OPEN. Frozen V03/V14/five owners/master§§2–12 are preserved, not repaired. The existing Garfiel correction also remains operative: M178/M236/C116-ancestry Frederica→Garfiel speaking/healing labels are not valid Garfiel evidence.
-
-All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Five historical model/review pairs retain exact bytes/defaults/local grades; Garfiel15's complete gatec6c8054c is closed, not pending again. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work.
-
-Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
-
-The first Ram source guard stopped before text when acquisition metadata changed. Removing only the appended subsequent_calibre_imports note reconstructs the historical23584-byte manifest/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 exactly; current23822-byte SHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d is separately pinned. All15locked actual EPUB sizes/hashes/CRCs were rechecked unchanged. The three-new-work note/report does not admit/open those works, update dated gaps automatically or extend terminal43; new report/contents remain unopened.
-
-The historical inventory/availability statements above remain dated claims, not automatically re-audited results for the three unexamined imports. The raw current acquisition-metadata hash and exactly reconstructed historical hash are distinguished; all15 selected original source identities remain unchanged. No new witness, citation edition or title is admitted.
-
-
-### Entering source-state summary — complete preimage
-
-Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical, not current routing or a pending predecessor gate:
-
-`````markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 complete gate6be67f9 is closed; Garfiel15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14/Beatrice15 pairs retain exact scope/defaults/grades.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Garfiel15 pair's own complete gate; then Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Garfiel15 has local documentary PASS_WITH_BOUND and a mandatory source-subject correction, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
-`````
-
-## Post-Ram15 Roswaal reconstruction source boundary — no new admission
-
-The [Roswaal V01–V15 model](../05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
-
-Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
-
-The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
-
-All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
-
-Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
-
-All15 actual locked originals were size/SHA/CRC rechecked unchanged; the46windows/150137characters are targeted rereads of consumed sources, not new complete-volume/image consumption. The metadata append remains exactly reconciled under both pinned hashes; new works/report remain unopened. Historical availability statements remain dated and no new edition/witness is admitted.
-
-### Entering source-state summary — complete preimage
-
-Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
-
-``````markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 complete gate6be67f9 and Garfiel15 complete gatec6c8054c are closed; Ram15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15 pairs retain exact scope/defaults/grades.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Ram15 pair's own complete gate; its separate construction/review/full gate precedes source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Ram15 has local documentary PASS_WITH_BOUND and an OPEN chronology bound; Garfiel's mandatory source-subject correction remains operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
-``````
-
-## Volume 16 consumption record — same admitted original, no new source admission
-
-| field | exact consumed witness and boundary |
-|---|---|
-| source | RZ-MAIN-LN-JA-V16; Japanese mainLN; Re Zero - Volume 16.epub;10591363bytes;SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8;CRCpass |
-| OPF/identity | item/standard.opf; ja; UUID2a614301-5660-4b20-a737-4b3866078987;77ZIPentries/23archive images; no inventedISBN/Driveobject |
-| dates | electronic/first-printbasis2018-03-25; afterword2018-03 writingdate |
-| source gate | structural inspection08:32:13Z followed Roswaal15's completed08:28:29Z fullgate; actual ordered reading/receipt proof completed12:25:12Z on2026-10-22, not a claim structure inspection was consumption |
-| actual EOF |39/39OPFmembers,77actual windows,3805positions=3773TEXT+32orderedIMAGEreferences;22distinct original spineassets;175738returnedtextcharacters; zero missing/duplicatedpositions; narrativep-020#B0215, whole-spinep-bookwalker#B0001 |
-| packaging | unreferenced23rdimage distribution advert separately inspected/excluded; no links/instructions followed or narrative admission |
-| prospective boundary | exact incoming60Q/10P seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 unchanged; outgoingV17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e fixed before V17 |
-| source-facing result | V16freeze/master/owners:340claims,292individualdispositions/60Q/10P; E019/18deaths19segments; new50K/28M/32I/18R/58RT; no inherited old model grade |
-| integrity/admission | historical23584-byte manifestSHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 still reconstructs exactly by removing only metadataappend from23822-byte currentSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d; no new works/report opened |
-
-The V16freeze§1 owns complete member coverage/locator convention. Private receipts/images remain outside staging. Actual source consumption, source-facing semantic acceptance and complete publication gate are separate. Ram chronologyOPEN/currentC116/M344 source-subject correction remain binding;32old artifacts/seven pairs exact. No V17 opening through four subsequent earned constructions/reviews/full gates.
-
-### Exact entering source-state summary — historical preimage
-
-````````markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
-- **Known published but not acquired/admitted main LN:** V44-V45.
-- **Admitted translations:** none.
-- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
-- **Admitted supplemental/EX/short-story:** none.
-- **Admitted IF/alternate route:** none.
-- **Admitted web novel:** none.
-- **Admitted anime/audiovisual:** none.
-- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 gate6be67f9, Garfiel15 gatec6c8054c and Ram15 gatec6388791 are closed; Roswaal15 model/local scoped documentary review is implemented under its own complete publication gate, not another consumed source. All six historical pairs retain exact scope/defaults/grades.
-- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
-- **Next analytical operation:** `V16` only after Roswaal15's own complete gate; consume its admitted Japanese original in OPF order through complete text/image EOF. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
-- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Roswaal15 has local documentary PASS_WITH_BOUND after four repairs; Ram's OPEN chronology and Garfiel's mandatory source-subject correction remain operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
-````````
-
-## Volume 17 consumption record — original admitted witness, no new admission
-
-| field | verified source-facing state |
-|---|---|
-| source | RZ-MAIN-LN-JA-V17; original Japanese EPUB, Re：ゼロから始める異世界生活 17 / 長月 達平;23970413bytes/SHA063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9; CRCpass,59archive entries |
-| prior gate / protected boundary | Ferris16's complete gate38bfed019a665455599792a7a5da22156d930fff preceded the first V17 opening;41protected prior analytical artifacts/eleven model-review pairs remain exact |
-| actual sequential coverage |21/21OPFmembers;78actually acknowledged contiguous deliveries;3780positions=3756TEXT+24orderedIMAGEreferences;167232base-text characters; no gaps/duplicates |
-| visual coverage |23unique original spine image assets actually viewed; one gaiji appears twice among24references, not a duplicate new image; no unreferenced image member |
-| supplemental packaging/wording coverage | separate nonspine navigation1329bytes/SHA5fcb5510636ccb78fadda8e97f9be337e56022b38f15884c91c1677cd1509f6e:13labels/104characters actually read;802unique ruby base/reading pairs in nine actual deliveries cover2769groups/3745labels, exact native reconciliation after text/image EOF |
-| wording-sensitive controls | p-006#B0615 僕 is readしもべ, Capella's servants, not first-personboku; Roy's 虎爪 isこそう/finger weapon, not a newly inferred beast transformation |
-| whole-source boundary | narrative ends p-006#B1105; afterword/design/promotional/jacket/colophon and final publisher asset consumed in their source positions. Historical release/promo text is not current instruction, later narrative or source admission |
-| prospective integrity | exact incoming60Q/10P V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e unchanged; all60questions/10forecasts separately adjudicated; outgoing V18seal3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d fixed after full source/review and before V18 |
-| source-facing result |371claims after340individual dispositions218PRESERVE/94STRENGTHEN/20REVISE/8OPEN+31NEW; E021/20deaths21arrived segments; K601/M382/I325/R125/RT288; no Subaru death21/E022 or Arc5-end closure |
-| manifest / admission | only the already recorded metadata append distinguishes current manifestSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d from reconstructable historical23584bytes/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314. No newly imported narrative/report is admitted or read |
-
-The [V17 reading](../02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) §1 owns the complete member/locator table, while its §§3–15 own source-facing argument and adjudication. Structural enumeration, assistant consumption, semantic review and full publication gate remain distinct. The reading and five specialist ledgers are synchronized with master; canonical drafting alone is not a completed V17 exact-commit gate.
-
-### V17 bounded V13 chronology check — earlier admitted evidence only
-
-The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886315cf4082ead6bace727acb1a41, CRCpass. Actual bounded retrieval p-025#B0183–0257 and p-027#B0040–0082 checks the mother's departure/trial/scar context and Ram's explicit statement that Garfiel is fourteen that year. The ten-year references concern the earlier trial/scar experience, not an independently certified maternal-departure date. V17's agefifteen is compatible with the common year; no exact birthday, retcon, second departure or invented full chronology is supplied. This is not a complete V13 reread, new source admission or alteration of its frozen reading. Ram's separate OPEN chronology and currentC116/M344's Frederica-subject correction stay binding.
-
-### Exact entering source-state summary — historical Ferris16 boundary
-
-````````markdown
-## Current source-state summary
-
-- **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
-- **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
-- **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
-- **Consumed into prospective main-LN analysis:** V01–V16; V16 source-facing/Julius16/Wilhelm16/Crusch16 complete gates are closed, latest Crusch9131ffb6. Ten prior pairs retain exact scopes/defaults/local grades. Ferris's derived model/review adds no consumed unit or current narrative claim generation; its own publication gate remains separate.
-- **Next analytical operation:** V17 only after the implemented Ferris V01–V16 pair's own complete publication gate. Its separately actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/held-out/runtime/global validation. All four V16-earned constructions are implemented; exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed.
-- **Derived-use source reconciliation:** Ferris revisits51bounded Japanese deliveries/3560uniqueTEXTpositions/154558characters in already-consumed V04/V05/V06/V07/V08/V09/V10/V12/V16, original hashes/CRC checked, no image/duplicate credit. One initially context-truncated V07 delivery was reread completely in two contiguous windows before its single credit. This is not nine fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all39older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected. Earlier Crusch reconciliation remains historical.
-- **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
-- **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
-````````
-
-## Volume 18 consumption record — original admitted witness, no new admission
-
-- **Identity:** RZ-MAIN-LN-JA-V18, Re Zero - Volume 18.epub (normalized filename is a locator);20485268bytes/SHA7cfdbbfd68d1141500df35f6cd0065545accdc50f0bb88dcbe471c2165a54584;58ZIPentries/originalCRCpass. Japanese title/edition/semantic source remain the locked original, not an advertisement's instructions.
-- **Actual consumption:**21OPFmembers/73bounded actual deliveries/3772positions=3751TEXT+21IMAGEreferences/166433base-text characters, zero gaps/duplicates. All21OPFimages and one extra packaging-ad image were actually viewed:22packaged images. Narrative p-007#B0209《了》and final p-bookwalker#B0001 are reached; all afterword/design/promotional/jacket/colophon/logo text is paratext.
-- **Navigation/ruby:** full1400-byte navigation/SHA700838839b0bf16985a9338ba7b89de8ec8f2d38d9deb3a398ced14dabd4d598,12labels/96characters; all571unique base/reading pairs in6actual deliveries cover1939groups/2636labels and match original raw text. Early deliveries2–6 retain honest actual-delivery acknowledgments, not a false claim that all original transient raw output was saved; no reconstructed/duplicate reading credit.
-- **Entering gate:** Mimi17 source/finala453ba89260ef5d1d00a7c89fd8719f686a8add0 completed actual459discovered/executed tests, trusted exact-head reporter, source-specific completed routing-current housekeeping no-op and later native/source/protected/seal proof before V18 opening. V17's earliercfad8d70gate is independently closed. These do not certify a later V18publication head.
-- **Prospective/state boundary:** exact incoming15685-byte60Q/10Pseal3cb3c253 remains literal; current377claims adjudicate371predecessors223P/110S/30R/8O+6NEW, all60Q/10P separately. LivingE021continues20deaths21arrived segments; connected leg/waking/focal shifts/independent departure add no return. No death21/E022, all-city safety, completed tower victory or restored resource is supplied.
-- **Current source-facing limits:** actual pre-speech英雄幻想warning529–0569 and earlier child/adult shelter restraint582–0603 are not the later speech's universal effect. Named Fredo/sister life does not supply every parent's fate. Public Kurgan/private Theresia, contested Tome responsibility/private motives, patient refusal/hidden retry and separate mirror1003–1022allocation keep actors/audiences distinct. Literalリブレ・フエルミ/屍兵reading and Frederica-subject control remain.
-- **No opening/admission through paratext:** V19/OVA/collection/booklet/rehost references were read as packaged paratext, not their advertised narrative or directions. JapaneseV01–V43/V41exception and datedV44/V45gaps stay unchanged. The metadata-only subsequent-import note is append-only against the historical manifest and does not admit/open those works. This is not a fresh all43object audit or complete-to-date bibliography.
-
-## V19 actual source consumption — RZ-MAIN-LN-JA-V19
-
-Exact admitted original `Re Zero - Volume 19.epub`,23535212bytes/SHA256 `d05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d`, ZIP CRCpass; Japanese/KADOKAWA/長月達平/大塚真一郎,2019-03-27colophon. Actual full correspondence covers23OPFmembers/3710positions=3671TEXT+39IMAGEreferences,55TEXTdeliveries/165170base characters,25distinct original assets actually viewed in29calls,2navigation resources and all2187ruby groups/2877reading labels occurrence-by-occurrence after their base contexts. Sixty incoming questions/ten forecasts and377claims are individually reconciled;393current claims/five-owner state and qualitative readiness require this transaction's complete gate.
-
-Regulus's private descent and later wife waking are different focalizations: private terminal irony ends p-008#B0158, wife waking beginsB0160. The declined caravan marriage invitation differs from a counterfactual returned-home family, earlier paid-tip amulet from later illness. Narrator names Anastasia; incomplete mechanics is no alternative operator. Advertisements/design/afterword remain packaged paratext, without V20/adaptation/supplement admission or current release-data claims. No all43fresh object audit or newly read import report is implied.
-
-## V20 actual source consumption — RZ-MAIN-LN-JA-V20
-
-The exact Japanese V20 original is23273776bytes/SHAd9959f536e55ad096a5fcd2b86670d25391230034fa9361438a76f0893e7f7a7, ZIP CRCpass. Actual reading reaches25OPFmembers/3992positions=3969TEXT+23IMAGEreferences/155377basecharacters,58original offers including48TEXT-containing,22distinct packaged original assets actually viewed,2navigation resources and2192contextual ruby groups/3039rt labels/598unique pairs in11deliveries. Clipped output was recovered before actual-read credit. Correspondence SHA0beb7f06e8e98318fe8c8d0db09d2baa34311765e103d74ebba4185bbcf03a65 binds original XML/base/image/nav/ruby; identity/count proof does not certify semantic attention. Narrow postEOF checks revisit already consumed V20 only; no fresh whole-volume credit.
-
-The Pristella fronts conclude, Kurgan dissolves and Theresia briefly actually recognizes/touches/answers Wilhelm before ashes, while the family rupture worsens. Beatrice/Mimi are awake with resource/injury limits; Ricardo's right forearm and Julius's public name remain lost. True partial farewell does not inform Subaru of the whole family catastrophe. Anastasia's body/current scarf operator/human mind have different knowledge and agency; the emergency promise has positive narrative support, but the fifth return is stuck. Al's private counts stay attributed, Puck lacks sufficient mana and Rem has no new waking. Custody is local; escort, new ice preservation and five-person Sage journey remain unperformed. Emilia's consultation promise is prospective, with no unshown later breach.
-
-The inspected original afterword explicitly completes Arc5. Advertisements, design notes, jacket/colophon and nav remain their own source planes. No supplement/adaptation/new import, later novel, fresh all43object audit or current publication-freshness check is claimed.
-
-## Current source-state summary
-
-V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
-
-The verified sequential high-water is V23. Patrasche’s focused recovery attended 75 contextual intervals with 2359 written positions and seven original stills, plus 95 additional written positions in four exact windows. The source census ends at E027 with terminal engulfment unresolved. Patrasche’s personal fate in that catastrophe remains open.
-
-Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
 
 ## Liliana V01-V19 routing maintenance - superseded entering fragments
 
@@ -1164,3 +928,277 @@ The verified sequential high-water is V23. The focused Shaula recovery attended 
 ````````markdown
 Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then complete `PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW` and its own full gate before opening the sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
 ````````
+
+## Volume 24 full original consumption
+
+RZ-MAIN-LN-JA-V24 has 3018032 bytes, SHA-256 `e8e3a5df8dcf984a2378959461f2d1318f5eef6f31499508349eba4044b7234f` and 57 ZIP entries with CRC passing. The full original has 24 OPF members, 3930 positions, 1424 ruby groups, 1879 reading labels, 24 original stills and 40 original navigation entries. Actual attention took 44 bounded offers. Independent raw correspondence passed. Jacket small print is partly resolution-limited.
+
+All incoming duties were attended after V23, Shaula and Patrasche gate closure and before opening the archive. The volume is Arc6. Author, design, colophon and advertisements have separate source authority. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+
+### V24 exact entering fragments
+
+These literal fragments record earlier states and preserve their provenance. Use the opening V24 selectors for current retrieval.
+
+#### Entering fragment 1
+
+``````````markdown
+
+V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+
+V23 is the last fully consumed original. Patrasche’s derived external-behavior reconstruction uses focused contextual passages and original stills within the consumed Japanese V01–V23 corpus. The admission record governs the 43-volume spine, V41 exception, dated gaps and witness exclusions. V24 narrative remains unopened.
+
+V23original3178495bytes/SHA630d11e9218950be65ee1775cc156b1e5306c5c20a3cc0240814524a6c8df1bb/CRCpass;full actual text/contextualruby/originalimages/navigation attention and explicit jacket bound in frozenV23§1.
+
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15, with actual complete V15 source consumption; committed authority advances only on this synchronized transaction's full gate. Earlier Subaru10/Otto13/Emilia14 models/reviews retain exact historical scope and grade.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `ARC04_CHECKPOINT` after complete V15 publication; then Beatrice15, Garfiel10–15, Ram15 and Roswaal15 separate model/review operations, each full gate before the next/source16. V16 remains unopened with the exact60/10 seal above.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
+```
+
+## Post-Arc04 Beatrice15 reconstruction source boundary — no new admission
+
+Arc04's complete gate at `6bce1604e7da9c688737568aaefb971abe4bc9a3` closed before construction. The [Beatrice15 model](../05%20Character%20Analysis/REZERO_BEATRICE_V01_V15_CHARACTER_MODEL.md) and [separate review](../08%20Audits%20and%20Manifests/REZERO_BEATRICE_V01_V15_FIDELITY_REVIEW.md) revisit already-consumed V01–V15 only. Forty-seven actual contextual Japanese windows/118868characters in V02/V03/V06/V09/V10/V11/V12/V14/V15 were delivered at their returned endpoints with exact admitted archive hash/CRC checks; search matches, shortened requests and truncated deliveries were not falsely credited. No new fifteen-volume reread or new primary unit is claimed. Four other series' designs are design references, not literary evidence.
+
+All24 predecessor analytical artifacts, five owners/master narrative bodies and exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. Local same-analyst nonblind nineteen-dimension documentary PASS_WITH_BOUND does not admit a witness or close full publication. This pair's own gate precedes Garfiel10–15/Ram15/Roswaal15 separately/full-gated before source16. Admission43objects/V41exception/datedV44–45gaps/activeV43 remain; no nonspine, replacement edition, global curation or acquisition.
+
+Complete entering summary from6bce1604, retained verbatim as history:
+
+```markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate verified at98acb720. The separate V10–V15 Arc04 checkpoint is a source-free derived transaction under its own complete gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 models/reviews retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `BEATRICE_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Arc04 checkpoint's own complete gate; then separate Garfiel10–15, Ram15 and Roswaal15 constructions/reviews, each full gate before the next/source16. V16 remains unopened and its exact60/10 seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. Sourceverified Arc04 end earns a separate checkpoint, not completed models or full-series synthesis.
+```
+
+## Post-Beatrice15 Garfiel reconstruction source boundary — no new admission
+
+The [Garfiel V10–V15 model](../05%20Character%20Analysis/REZERO_GARFIEL_TINSEL_V10_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_GARFIEL_TINSEL_V10_V15_FIDELITY_REVIEW.md) implement33bundles/28eight-field rules, all seven selector axes, ordinary/recipient/Japanese/knowledge/help/failure/refusal controls,19negativecontrols and14noncanonical applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level, yielding PASS_WITH_BOUND after attributable scoped corrections. Forty-six bounded Japanese windows/140445characters revisit already-consumed V10–V15; this is not six fresh complete novel rereads, independent/runtime/held-out validation, a global grade or cure.
+
+**Operative source-identity correction:** model§0.1/review§2 identify V11 p-005#B0183–0207's speaking/partly healed full feline as **Frederica**, not Garfiel. M131 is the accurate route; inherited M178/M236/C116-ancestry “V11 speaking/healing full tiger” labels are not valid Garfiel evidence. Actual V11 p-013 is Subaru's failed transfer; V12 human Ram treatment/V13 nonhuman tiger address/V15 human reversion before speech remain distinct. Frozen records/five owners are preserved, not silently repaired. Require person/form/event and reject the old subject conflation without inventing universal future incapacity.
+
+All26 predecessor artifacts/five owner files/master§§2–12/formal protocol§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Historical Subaru10/Otto13/Emilia14/Beatrice15 bytes/defaults/local grades remain exact; Beatrice's full gate at6be67f9 is complete, not pending again. One integrated model plus separate review is proportional; no new field, sixth owner, independent ordinary/voice/evidence/readiness home, final specialist or global evaluator/curation work.
+
+This pair's own complete exact-commit publication gate precedes RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW, then ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW after Ram's own full gate, and only then source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING remain; no routine checkpoint/model pause.
+
+### Historical entering source-state summary — complete preimage
+
+Complete entering text from6be67f9f7f4f9ae32238576ec3df1d6d7873187d; historical, not current routing or a pending predecessor gate:
+
+````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14 pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `GARFIEL_V10_V15_MODEL_AND_FIDELITY_REVIEW` only after the Beatrice15 pair's own complete gate; then Ram15/Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Beatrice15 has local documentary PASS_WITH_BOUND, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+````
+
+## Post-Garfiel15 Ram reconstruction source boundary — no new admission
+
+The [Ram V01–V15 model](../05%20Character%20Analysis/REZERO_RAM_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_RAM_V01_V15_FIDELITY_REVIEW.md) now implement35retrieval bundles/28eight-field rules, all seven selector axes,18ordinary/14recipient/20knowledge/18Japanese rows,19negativecontrols and14NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repair groups. Thirty-nine contextual Japanese windows/128450characters revisit already-consumed originals; no fifteen new complete rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018 at Ram's latest actual V15 month-later party, p-027#B0218, beside sleeping Rem rather than Roswaal in that instant. Present care/residual bond does not restore old Rem autobiography, import E014's new lesson/Petra appraisal or provide an awake reply. Original revenge, changed self-directed rescue wish, received-and-denied love declaration, dependency, real harm, costly incomplete activation, existing green log-fire and medical gratitude without lover-selection authority remain distinct. No RBD/private soul/warded threat/trial/coda receipt, horn regrowth, completed death/resurrection, infinite aid or reciprocal-romance certificate.
+
+**Operative Ram chronology bound:** model§0.1/review§2 retain V03 p-023#B0004–0045's nearly-seven-year account and V14 p-024#B0219–0239's nine-year oath dating with attribution. No verified unified interval/age, two-year bridge, second attack, edition cause or retcon is invented; neither local assertion is erased. C01 remains OPEN. Frozen V03/V14/five owners/master§§2–12 are preserved, not repaired. The existing Garfiel correction also remains operative: M178/M236/C116-ancestry Frederica→Garfiel speaking/healing labels are not valid Garfiel evidence.
+
+All28 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Five historical model/review pairs retain exact bytes/defaults/local grades; Garfiel15's complete gatec6c8054c is closed, not pending again. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work.
+
+Only after this Ram pair's own complete exact-commit publication gate execute ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW, with its own actual source/design reconciliation, construction, separate nineteen-dimension review and full gate before source16. Local documentary PASS_WITH_BOUND is not publication. Active continuous terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+The first Ram source guard stopped before text when acquisition metadata changed. Removing only the appended subsequent_calibre_imports note reconstructs the historical23584-byte manifest/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 exactly; current23822-byte SHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d is separately pinned. All15locked actual EPUB sizes/hashes/CRCs were rechecked unchanged. The three-new-work note/report does not admit/open those works, update dated gaps automatically or extend terminal43; new report/contents remain unopened.
+
+The historical inventory/availability statements above remain dated claims, not automatically re-audited results for the three unexamined imports. The raw current acquisition-metadata hash and exactly reconstructed historical hash are distinguished; all15 selected original source identities remain unchanged. No new witness, citation edition or title is admitted.
+
+
+### Entering source-state summary — complete preimage
+
+Complete entering text from c6c8054c02e34a4acaa9aeb9b11fff7ccba1669b; historical, not current routing or a pending predecessor gate:
+
+`````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 complete gate6be67f9 is closed; Garfiel15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14/Beatrice15 pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `RAM_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Garfiel15 pair's own complete gate; then Roswaal15 separately, each construction/review/full gate before the next/source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Garfiel15 has local documentary PASS_WITH_BOUND and a mandatory source-subject correction, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+`````
+
+## Post-Ram15 Roswaal reconstruction source boundary — no new admission
+
+The [Roswaal V01–V15 model](../05%20Character%20Analysis/REZERO_ROSWAAL_L_MATHERS_V01_V15_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_ROSWAAL_L_MATHERS_V01_V15_FIDELITY_REVIEW.md) now implement34retrieval bundles/26eight-field rules, all seven selector axes,18ordinary/14recipient/25knowledge/18Japanese rows,22negativecontrols and12NONCANONICAL_PROBE applications. All nineteen dimensions were actually applied at same-analyst nonblind documentary level: PASS_WITH_BOUND after four attributable repairs. Forty-six contextual Japanese windows/150137characters revisit already-consumed originals; no fifteen fresh complete novel rereads, independent/runtime/held-out/global grade or cure is claimed.
+
+Default is living E018, V15 p-027#B0118–0120, returning from the isolated Subaru conversation to the month-later Milord party. Historical A16, injured A, successive bodies, E017 deaths, acute book-loss collapse and current L remain distinct. Tactical adaptability, genuine care and an actual group apology/oath do not erase the continued private teacher-restoration aim and destructive threat. Roswaal knows redo, not the death trigger; current soul continuity does not provide Subaru's discarded-loop memories, descendant consent or everyone else's private experience.
+
+The actual review repairs neighboring frozen section/claim routes, A16's own naming preference, unsupported wine specificity and the settlement's eleven-person audience. V15 Petra/oath locators are narrowed without rewriting frozen findings. Beatrice alone receives the private soul disclosure; Subaru receives the warded threat; no general camp/villager receipt is invented. Care/dependency is not injury consent or reciprocal romance; a visible sanction is not a proved action lock.
+
+All30 predecessor artifacts/five owners/master§§2–12/formal protocol§§19–21/reserved schema tail/exact V16seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 remain unchanged. V15 retains292claims/E018alive/17deaths18segments and K495/M317/I262/R086/RT181. Six historical pairs retain exact bytes/defaults/local grades. Ram's nearly-seven-year/nine-year chronology remains OPEN and Garfiel's Frederica-subject correction remains mandatory. No new field, sixth owner, source-bearing extract, independent evidence/ordinary/voice/readiness home, final specialist or global evaluator/curation work is earned.
+
+Ram15's complete gate atc6388791f678f24d21f33ed83553fc192666e499 is closed: actual full459-test exact-source audit, trusted success status, routing-current housekeeping no-op without a redundant child/audit and later clean native checks are verified. Roswaal15's own complete exact-commit publication gate still precedes V16. Local documentary PASS_WITH_BOUND is not publication. Both current map operation fields select V16 conditionally on that gate; high-waterV15/active terminalV43/EVOLVING and no ordinary checkpoint/model pause remain.
+
+All15 actual locked originals were size/SHA/CRC rechecked unchanged; the46windows/150137characters are targeted rereads of consumed sources, not new complete-volume/image consumption. The metadata append remains exactly reconciled under both pinned hashes; new works/report remain unopened. Historical availability statements remain dated and no new edition/witness is admitted.
+
+### Entering source-state summary — complete preimage
+
+Complete entering text from c6388791f678f24d21f33ed83553fc192666e499; historical, not current routing or a pending predecessor gate:
+
+``````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 complete gate6be67f9 and Garfiel15 complete gatec6c8054c are closed; Ram15 model/local scoped review now implemented under its own complete publication gate, not another consumed source. Historical Subaru10/Otto13/Emilia14/Beatrice15/Garfiel15 pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `ROSWAAL_V01_V15_MODEL_AND_FIDELITY_REVIEW` only after the Ram15 pair's own complete gate; its separate construction/review/full gate precedes source16. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Ram15 has local documentary PASS_WITH_BOUND and an OPEN chronology bound; Garfiel's mandatory source-subject correction remains operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+``````
+
+## Volume 16 consumption record — same admitted original, no new source admission
+
+| field | exact consumed witness and boundary |
+|---|---|
+| source | RZ-MAIN-LN-JA-V16; Japanese mainLN; Re Zero - Volume 16.epub;10591363bytes;SHA81695f7fdb01767a705daf3011f84a20c2ec7cbba658efe173dd5fb32b7756c8;CRCpass |
+| OPF/identity | item/standard.opf; ja; UUID2a614301-5660-4b20-a737-4b3866078987;77ZIPentries/23archive images; no inventedISBN/Driveobject |
+| dates | electronic/first-printbasis2018-03-25; afterword2018-03 writingdate |
+| source gate | structural inspection08:32:13Z followed Roswaal15's completed08:28:29Z fullgate; actual ordered reading/receipt proof completed12:25:12Z on2026-10-22, not a claim structure inspection was consumption |
+| actual EOF |39/39OPFmembers,77actual windows,3805positions=3773TEXT+32orderedIMAGEreferences;22distinct original spineassets;175738returnedtextcharacters; zero missing/duplicatedpositions; narrativep-020#B0215, whole-spinep-bookwalker#B0001 |
+| packaging | unreferenced23rdimage distribution advert separately inspected/excluded; no links/instructions followed or narrative admission |
+| prospective boundary | exact incoming60Q/10P seal279e4a504f39376b8b7083a95841ef28ee10416976c93bc9d69bb20b9bf1b413 unchanged; outgoingV17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e fixed before V17 |
+| source-facing result | V16freeze/master/owners:340claims,292individualdispositions/60Q/10P; E019/18deaths19segments; new50K/28M/32I/18R/58RT; no inherited old model grade |
+| integrity/admission | historical23584-byte manifestSHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314 still reconstructs exactly by removing only metadataappend from23822-byte currentSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d; no new works/report opened |
+
+The V16freeze§1 owns complete member coverage/locator convention. Private receipts/images remain outside staging. Actual source consumption, source-facing semantic acceptance and complete publication gate are separate. Ram chronologyOPEN/currentC116/M344 source-subject correction remain binding;32old artifacts/seven pairs exact. No V17 opening through four subsequent earned constructions/reviews/full gates.
+
+### Exact entering source-state summary — historical preimage
+
+````````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01-V43 continuous.
+- **Known published but not acquired/admitted main LN:** V44-V45.
+- **Admitted translations:** none.
+- **Retained non-admitted translation:** English V21, local hash reverified on resumption.
+- **Admitted supplemental/EX/short-story:** none.
+- **Admitted IF/alternate route:** none.
+- **Admitted web novel:** none.
+- **Admitted anime/audiovisual:** none.
+- **Consumed into prospective main-LN analysis:** V01–V15; full V15 gate98acb720 and separate source-free Arc04 gate6bce1604 complete. Beatrice15 gate6be67f9, Garfiel15 gatec6c8054c and Ram15 gatec6388791 are closed; Roswaal15 model/local scoped documentary review is implemented under its own complete publication gate, not another consumed source. All six historical pairs retain exact scope/defaults/grades.
+- **Next source acquisition priority:** Japanese V44 and V45 before the sequential read reaches that boundary.
+- **Next analytical operation:** `V16` only after Roswaal15's own complete gate; consume its admitted Japanese original in OPF order through complete text/image EOF. V16 remains unopened/exact60-question/ten-forecast seal unchanged.
+- **Current execution state:** active continuous terminalV43. E018alive/17deaths18segments after actual rescue, three trials, two-site local release, finite chosen contract/defense, plural settlement and accepted office; reader-only Omega coda. No death18/E019, Rabbit extinction, gate/reserve repair, Rem awakening, full camp RBD/tea, origin telling/old apology or held capital reward ceremony is implied. The separate Arc04 checkpoint is fully gated; Roswaal15 has local documentary PASS_WITH_BOUND after four repairs; Ram's OPEN chronology and Garfiel's mandatory source-subject correction remain operative, not independent/global/runtime validation, new primary consumption or completed full-series synthesis.
+````````
+
+## Volume 17 consumption record — original admitted witness, no new admission
+
+| field | verified source-facing state |
+|---|---|
+| source | RZ-MAIN-LN-JA-V17; original Japanese EPUB, Re：ゼロから始める異世界生活 17 / 長月 達平;23970413bytes/SHA063327017f7b28665388610ee7853ef11b93ad4d6a356d633c368c87792f0dc9; CRCpass,59archive entries |
+| prior gate / protected boundary | Ferris16's complete gate38bfed019a665455599792a7a5da22156d930fff preceded the first V17 opening;41protected prior analytical artifacts/eleven model-review pairs remain exact |
+| actual sequential coverage |21/21OPFmembers;78actually acknowledged contiguous deliveries;3780positions=3756TEXT+24orderedIMAGEreferences;167232base-text characters; no gaps/duplicates |
+| visual coverage |23unique original spine image assets actually viewed; one gaiji appears twice among24references, not a duplicate new image; no unreferenced image member |
+| supplemental packaging/wording coverage | separate nonspine navigation1329bytes/SHA5fcb5510636ccb78fadda8e97f9be337e56022b38f15884c91c1677cd1509f6e:13labels/104characters actually read;802unique ruby base/reading pairs in nine actual deliveries cover2769groups/3745labels, exact native reconciliation after text/image EOF |
+| wording-sensitive controls | p-006#B0615 僕 is readしもべ, Capella's servants, not first-personboku; Roy's 虎爪 isこそう/finger weapon, not a newly inferred beast transformation |
+| whole-source boundary | narrative ends p-006#B1105; afterword/design/promotional/jacket/colophon and final publisher asset consumed in their source positions. Historical release/promo text is not current instruction, later narrative or source admission |
+| prospective integrity | exact incoming60Q/10P V17seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e unchanged; all60questions/10forecasts separately adjudicated; outgoing V18seal3cb3c253cb4ea264a72b9dc376c6d40f7aec608648c5e5a2fac97a229bcbac7d fixed after full source/review and before V18 |
+| source-facing result |371claims after340individual dispositions218PRESERVE/94STRENGTHEN/20REVISE/8OPEN+31NEW; E021/20deaths21arrived segments; K601/M382/I325/R125/RT288; no Subaru death21/E022 or Arc5-end closure |
+| manifest / admission | only the already recorded metadata append distinguishes current manifestSHAa17ec23885bd4730457ea50f93cd55be1d9d1df896b8b141595b98fc0b55642d from reconstructable historical23584bytes/SHA3daa190cefda6ab894f5d62ff547a93856c8133f2d4fc1cbc552b99d73c73314. No newly imported narrative/report is admitted or read |
+
+The [V17 reading](../02%20Sequential%20Readings/REZERO_LN_V17_DEEP_READING.md) §1 owns the complete member/locator table, while its §§3–15 own source-facing argument and adjudication. Structural enumeration, assistant consumption, semantic review and full publication gate remain distinct. The reading and five specialist ledgers are synchronized with master; canonical drafting alone is not a completed V17 exact-commit gate.
+
+### V17 bounded V13 chronology check — earlier admitted evidence only
+
+The original V13 witness is7580833bytes/SHAf352e6bf101a26c3b0cfc35bec32677afc886315cf4082ead6bace727acb1a41, CRCpass. Actual bounded retrieval p-025#B0183–0257 and p-027#B0040–0082 checks the mother's departure/trial/scar context and Ram's explicit statement that Garfiel is fourteen that year. The ten-year references concern the earlier trial/scar experience, not an independently certified maternal-departure date. V17's agefifteen is compatible with the common year; no exact birthday, retcon, second departure or invented full chronology is supplied. This is not a complete V13 reread, new source admission or alteration of its frozen reading. Ram's separate OPEN chronology and currentC116/M344's Frederica-subject correction stay binding.
+
+### Exact entering source-state summary — historical Ferris16 boundary
+
+````````markdown
+## Current source-state summary
+
+- **Acquired/admitted Japanese main LN:** V01–V43 continuous; V41 bounded replacement unchanged.
+- **Known dated published but unadmitted gaps:** V44–V45; no new freshness claim.
+- **Admitted translation/supplement/EX/IF/WN/anime:** none. EnglishV21/archivedV31 remain nonadmitted/unopened.
+- **Consumed into prospective main-LN analysis:** V01–V16; V16 source-facing/Julius16/Wilhelm16/Crusch16 complete gates are closed, latest Crusch9131ffb6. Ten prior pairs retain exact scopes/defaults/local grades. Ferris's derived model/review adds no consumed unit or current narrative claim generation; its own publication gate remains separate.
+- **Next analytical operation:** V17 only after the implemented Ferris V01–V16 pair's own complete publication gate. Its separately actually applied nineteen-dimension same-analyst nonblind documentary result is PASS_WITH_BOUND, not independent/held-out/runtime/global validation. All four V16-earned constructions are implemented; exact60Q/10P seal53ac9eb4456e84f00e1e2c8fbeef9b2d4910dd2f873f93143652cbc3854c724e remains fixed.
+- **Derived-use source reconciliation:** Ferris revisits51bounded Japanese deliveries/3560uniqueTEXTpositions/154558characters in already-consumed V04/V05/V06/V07/V08/V09/V10/V12/V16, original hashes/CRC checked, no image/duplicate credit. One initially context-truncated V07 delivery was reread completely in two contiguous windows before its single credit. This is not nine fresh complete novel rereads, new admission, changed original or additional current narrative claim generation. Source high-water remainsV16; all39older artifacts/five owners/current340claims/formal/reserved tails and exact V17seal remain protected. Earlier Crusch reconciliation remains historical.
+- **Current execution:** active continuous terminalV43; E019 alive after square death18/19segments. Common year/travel/family history survives, later atrocity Subaru-only; narrator short-point timing not yet recognized by him. No decodedWrath, complete family repair, crystal/Puck/Rem/Gate result or full campRBD. Award/medal now retrospectively confirmed without exact enrollment/date/type.
+- **Source admission and acquisition priority:** unchanged43-original lock/V41exception; V44/V45 acquisition before authorized boundary is reached, not done here. New metadata/report does not admit unread works. V17+/nonspine/new import narratives remain unopened.
+````````
+
+## Volume 18 consumption record — original admitted witness, no new admission
+
+- **Identity:** RZ-MAIN-LN-JA-V18, Re Zero - Volume 18.epub (normalized filename is a locator);20485268bytes/SHA7cfdbbfd68d1141500df35f6cd0065545accdc50f0bb88dcbe471c2165a54584;58ZIPentries/originalCRCpass. Japanese title/edition/semantic source remain the locked original, not an advertisement's instructions.
+- **Actual consumption:**21OPFmembers/73bounded actual deliveries/3772positions=3751TEXT+21IMAGEreferences/166433base-text characters, zero gaps/duplicates. All21OPFimages and one extra packaging-ad image were actually viewed:22packaged images. Narrative p-007#B0209《了》and final p-bookwalker#B0001 are reached; all afterword/design/promotional/jacket/colophon/logo text is paratext.
+- **Navigation/ruby:** full1400-byte navigation/SHA700838839b0bf16985a9338ba7b89de8ec8f2d38d9deb3a398ced14dabd4d598,12labels/96characters; all571unique base/reading pairs in6actual deliveries cover1939groups/2636labels and match original raw text. Early deliveries2–6 retain honest actual-delivery acknowledgments, not a false claim that all original transient raw output was saved; no reconstructed/duplicate reading credit.
+- **Entering gate:** Mimi17 source/finala453ba89260ef5d1d00a7c89fd8719f686a8add0 completed actual459discovered/executed tests, trusted exact-head reporter, source-specific completed routing-current housekeeping no-op and later native/source/protected/seal proof before V18 opening. V17's earliercfad8d70gate is independently closed. These do not certify a later V18publication head.
+- **Prospective/state boundary:** exact incoming15685-byte60Q/10Pseal3cb3c253 remains literal; current377claims adjudicate371predecessors223P/110S/30R/8O+6NEW, all60Q/10P separately. LivingE021continues20deaths21arrived segments; connected leg/waking/focal shifts/independent departure add no return. No death21/E022, all-city safety, completed tower victory or restored resource is supplied.
+- **Current source-facing limits:** actual pre-speech英雄幻想warning529–0569 and earlier child/adult shelter restraint582–0603 are not the later speech's universal effect. Named Fredo/sister life does not supply every parent's fate. Public Kurgan/private Theresia, contested Tome responsibility/private motives, patient refusal/hidden retry and separate mirror1003–1022allocation keep actors/audiences distinct. Literalリブレ・フエルミ/屍兵reading and Frederica-subject control remain.
+- **No opening/admission through paratext:** V19/OVA/collection/booklet/rehost references were read as packaged paratext, not their advertised narrative or directions. JapaneseV01–V43/V41exception and datedV44/V45gaps stay unchanged. The metadata-only subsequent-import note is append-only against the historical manifest and does not admit/open those works. This is not a fresh all43object audit or complete-to-date bibliography.
+
+## V19 actual source consumption — RZ-MAIN-LN-JA-V19
+
+Exact admitted original `Re Zero - Volume 19.epub`,23535212bytes/SHA256 `d05c621e02a9767a6ca44e792f03dbec33c62db62467f3c1f3386eb65fc1db5d`, ZIP CRCpass; Japanese/KADOKAWA/長月達平/大塚真一郎,2019-03-27colophon. Actual full correspondence covers23OPFmembers/3710positions=3671TEXT+39IMAGEreferences,55TEXTdeliveries/165170base characters,25distinct original assets actually viewed in29calls,2navigation resources and all2187ruby groups/2877reading labels occurrence-by-occurrence after their base contexts. Sixty incoming questions/ten forecasts and377claims are individually reconciled;393current claims/five-owner state and qualitative readiness require this transaction's complete gate.
+
+Regulus's private descent and later wife waking are different focalizations: private terminal irony ends p-008#B0158, wife waking beginsB0160. The declined caravan marriage invitation differs from a counterfactual returned-home family, earlier paid-tip amulet from later illness. Narrator names Anastasia; incomplete mechanics is no alternative operator. Advertisements/design/afterword remain packaged paratext, without V20/adaptation/supplement admission or current release-data claims. No all43fresh object audit or newly read import report is implied.
+
+## V20 actual source consumption — RZ-MAIN-LN-JA-V20
+
+The exact Japanese V20 original is23273776bytes/SHAd9959f536e55ad096a5fcd2b86670d25391230034fa9361438a76f0893e7f7a7, ZIP CRCpass. Actual reading reaches25OPFmembers/3992positions=3969TEXT+23IMAGEreferences/155377basecharacters,58original offers including48TEXT-containing,22distinct packaged original assets actually viewed,2navigation resources and2192contextual ruby groups/3039rt labels/598unique pairs in11deliveries. Clipped output was recovered before actual-read credit. Correspondence SHA0beb7f06e8e98318fe8c8d0db09d2baa34311765e103d74ebba4185bbcf03a65 binds original XML/base/image/nav/ruby; identity/count proof does not certify semantic attention. Narrow postEOF checks revisit already consumed V20 only; no fresh whole-volume credit.
+
+The Pristella fronts conclude, Kurgan dissolves and Theresia briefly actually recognizes/touches/answers Wilhelm before ashes, while the family rupture worsens. Beatrice/Mimi are awake with resource/injury limits; Ricardo's right forearm and Julius's public name remain lost. True partial farewell does not inform Subaru of the whole family catastrophe. Anastasia's body/current scarf operator/human mind have different knowledge and agency; the emergency promise has positive narrative support, but the fifth return is stuck. Al's private counts stay attributed, Puck lacks sufficient mana and Rem has no new waking. Custody is local; escort, new ice preservation and five-person Sage journey remain unperformed. Emilia's consultation promise is prospective, with no unshown later breach.
+
+The inspected original afterword explicitly completes Arc5. Advertisements, design notes, jacket/colophon and nav remain their own source planes. No supplement/adaptation/new import, later novel, fresh all43object audit or current publication-freshness check is claimed.
+
+## Current source-state summary
+
+V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+
+The verified sequential high-water is V23. Patrasche’s focused recovery attended 75 contextual intervals with 2359 written positions and seven original stills, plus 95 additional written positions in four exact windows. The source census ends at E027 with terminal engulfment unresolved. Patrasche’s personal fate in that catastrophe remains open.
+
+Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+
+``````````
