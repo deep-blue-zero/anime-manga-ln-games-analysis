@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
 scope: MAIN_LN_CAUSAL_MODELS_COSTS_COUNTERS_AND_EXCEPTIONS_THROUGH_V24
-generation: V1.27
+generation: V1.28
 status: canonical
 release_state: mutable_active
 current_source_horizon: V24
@@ -25,6 +25,10 @@ Japanese main LN V01–V24 is source-complete. V25 and later narrative remain ou
 The event ledger owns sequence, active/discarded status and durability. The knowledge ledger owns holders, false beliefs, disclosure and nonreceipt. The institution ledger owns rules, authority, resources and incentives. The relationship ledger owns personal terms/continuity; master keeps person/readiness reconstruction. Master §9 routes here, not a second full current mechanics table. Frozen VNN matrices remain source-facing historical evidence, not competing maintained current tables.
 
 Retrieval is corpus map → master router → `RZ-M-NNN` row → frozen VNN claim/section → that volume's exact admitted witness and locator convention. Older rows below preserve the necessary prior boundary; V07-specific tests receive distinct rows and explicit links. Unknown cause is not low confidence in an observed effect.
+
+### Shaula24 derived-use routing
+
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
 
 ## 1. Use and confidence rules
 

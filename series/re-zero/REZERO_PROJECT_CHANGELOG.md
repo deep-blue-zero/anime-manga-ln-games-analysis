@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V24
-generation: V1.38
+generation: V1.39
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6398,3 +6398,13 @@ Shaula V21–V24 and manifested Reid V22–V24 earn scoped construction and sepa
 After all fourteen complete candidates were measured, the 1730481-byte master and 1050687-byte changelog exceeded the 1048576-byte cap. Complete historical payloads retain their original bytes and relative bases, with original-heading routes and byte-exact native inverses. Current V24 claims and prospective bodies stay in the master.
 
 The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
+
+## Shaula V21–V24 successor and applied review
+
+The V24 full gate closed through [PR #490](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/490) before Shaula construction. Final source `9fb7bae20f339fe27cd773e92d4dcc7f465c7f8f`, actual merge and verified entry main `324f59ddda9d0e63580561945794502da259d0ea` share Re:Zero subtree `839e371bfdf026981ae3d7a140f164790b7e18b6`. Exact final-source and main audits each executed 508 tests with zero nonpasses. Source housekeeping confirmed current routing and later native proof passed at 2026-11-07T03:15:39.551297Z.
+
+[Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) implement 33 behavior rules, four caller guards, 43 bundles and 19 applied review dimensions. The local result is PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six repair groups and saved-pair name/reference readback. Four matched-recipient applications, 40 adverse controls and eight unfamiliar cases retain explicit source and confidence bounds.
+
+The latest default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. The source distinguishes human withholding, a proposed death-command window, an attempted human rescue and transformed aim. The fifth rule permits Trial destruction. The particular breach, practical command effect and post-impact fate remain OPEN. Current source facts stay at 672 claims, 30 deaths and 30 arrived segments through V24.
+
+Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
