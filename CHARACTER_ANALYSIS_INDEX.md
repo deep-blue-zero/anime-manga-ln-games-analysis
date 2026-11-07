@@ -38,7 +38,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`oreimo`](characters/index/oreimo.md) | 8 |
 | [`peach-girl`](characters/index/peach-girl.md) | 6 |
 | [`project-sekai`](characters/index/project-sekai.md) | 20 |
-| [`re-zero`](characters/index/re-zero.md) | 27 |
+| [`re-zero`](characters/index/re-zero.md) | 28 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
@@ -455,6 +455,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Reala Thompson](characters/index/re-zero.md#reala-thompson) | Re:Zero main light novel | `re-zero:reala-thompson@light-novel` | リーシア・ティンゼル; リアラ・トンプソン |
 | [Regulus Corneas](characters/index/re-zero.md#regulus-corneas) | Re:Zero main light novel | `re-zero:regulus-corneas@light-novel` | — |
 | [Rei](characters/index/tokyo-7th-sisters.md#first-spirit-rei) | Tokyo 7th Sisters game | `tokyo-7th-sisters:first-spirit-rei@game` | — |
+| [Reid Astrea](characters/index/re-zero.md#reid-astrea) | Re:Zero main light novel | `re-zero:reid-astrea@light-novel` | — |
 | [Reiner Braun](characters/index/attack-on-titan.md#reiner-braun) | Attack on Titan manga | `attack-on-titan:reiner-braun@manga` | — |
 | [Reinhard](characters/index/re-zero.md#reinhard) | Re:Zero main light novel | `re-zero:reinhard@light-novel` | — |
 | [Reinhard von Lohengramm](characters/index/legend-of-the-galactic-heroes.md#reinhard-von-lohengramm) | Legend of the Galactic Heroes original novels | `legend-of-the-galactic-heroes:reinhard-von-lohengramm@original-novels` | Reinhard von Müsel; ラインハルト・フォン・ローエングラム |
