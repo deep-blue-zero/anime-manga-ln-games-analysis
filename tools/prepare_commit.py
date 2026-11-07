@@ -6,20 +6,39 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
 from contextlib import contextmanager
 from pathlib import Path
-from typing import Any, Iterator
+from typing import Any, Iterator, Mapping
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from character_index_core import DomainError, GitSnapshot  # noqa: E402
-from validate_repository import TRACKED_FILE_POLICY_PATH, _policy_from_snapshot, review_threshold_errors  # noqa: E402
+from validate_repository import (  # noqa: E402
+    TRACKED_FILE_POLICY_PATH,
+    _policy_from_snapshot,
+    commit_identity_policy,
+    review_threshold_errors,
+    validate_commit_identities,
+)
 
 OBLIGATIONS_PATH = "governance/repository-controls/change-obligations.json"
 EXPECTED_SCHEMA = "anime-manga-ln-games-analysis/change-obligations/v1"
+IDENTITY_ENVIRONMENT = (
+    "GIT_AUTHOR_NAME",
+    "GIT_AUTHOR_EMAIL",
+    "GIT_COMMITTER_NAME",
+    "GIT_COMMITTER_EMAIL",
+)
+IDENTITY_SETTINGS = r"^(user|author|committer)\.(name|email)$"
+GIT_IDENT = re.compile(r"(?P<name>.*) <(?P<email>[^<>]*)> \d+ [+-]\d{4}")
+IDENTITY_REMEDY = (
+    "Set an approved identity from allowed_author_identities and "
+    f"allowed_committer_identities in {TRACKED_FILE_POLICY_PATH}"
+)
 
 
 def git(root: Path, *args: str) -> bytes:
@@ -142,6 +161,59 @@ def staged_size_errors(root: Path, changed: set[str], index_paths: set[str]) -> 
     return review_threshold_errors(checked, policy, "staged")
 
 
+def identity_configured(root: Path) -> bool:
+    """Report whether Git config or the environment names a commit identity.
+
+    Without one Git falls back to a host-derived identity. The housekeeping
+    workflow runs this gate before it exports its identity, so an unconfigured
+    identity is skipped here; the repository audit still checks every commit.
+    """
+
+    if any(os.environ.get(name) for name in IDENTITY_ENVIRONMENT):
+        return True
+    result = subprocess.run(
+        ["git", "-C", str(root), "config", "--get-regexp", IDENTITY_SETTINGS],
+        capture_output=True,
+    )
+    if result.returncode not in {0, 1}:
+        raise RuntimeError(f"git config failed: {result.stderr.decode(errors='replace').strip()}")
+    return result.returncode == 0
+
+
+def commit_identity_errors(root: Path, policy: Mapping[str, Any]) -> list[str]:
+    """Check the author and committer Git would record for the next commit.
+
+    A cloud sandbox can be recreated between turns with the platform's default
+    identity, so the gate reads what Git resolves now rather than trusting an
+    identity set earlier in the session.
+    """
+
+    allowed_authors, allowed_committers, errors = commit_identity_policy(policy)
+    if errors:
+        return errors
+    for variable, role, allowed in (
+        ("GIT_AUTHOR_IDENT", "author", allowed_authors),
+        ("GIT_COMMITTER_IDENT", "committer", allowed_committers),
+    ):
+        raw = git(root, "var", variable).decode("utf-8", "strict").strip()
+        match = GIT_IDENT.fullmatch(raw)
+        if match is None:
+            errors.append(f"unable to parse the Git {role} identity: {raw!r}")
+        elif (match["name"], match["email"]) not in allowed:
+            errors.append(f"disallowed Git {role} identity: {match['name']} <{match['email']}>")
+    return errors
+
+
+def push_identity_errors(root: Path, revisions: str) -> list[str]:
+    """Check every commit in a revision range against HEAD's identity policy."""
+
+    if not revisions or revisions.startswith("-"):
+        raise ValueError(f"invalid revision range: {revisions!r}")
+    head = git(root, "rev-parse", "--verify", "HEAD^{commit}").decode("ascii").strip()
+    snapshot = GitSnapshot.from_commit(root, head, paths={TRACKED_FILE_POLICY_PATH})
+    return validate_commit_identities(root, _policy_from_snapshot(snapshot), revisions)
+
+
 def run_python(root: Path, *args: str, overrides: dict[str, str] | None = None) -> None:
     environment = os.environ.copy()
     environment["PYTHONDONTWRITEBYTECODE"] = "1"
@@ -192,6 +264,12 @@ def main() -> int:
     operation = parser.add_mutually_exclusive_group(required=True)
     operation.add_argument("--write-generated", action="store_true")
     operation.add_argument("--check", action="store_true")
+    operation.add_argument(
+        "--check-push",
+        metavar="RANGE",
+        help="check the author and committer of every commit in RANGE, such as "
+        "origin/<branch>..HEAD, before pushing it",
+    )
     parser.add_argument(
         "--full",
         action="store_true",
@@ -201,6 +279,20 @@ def main() -> int:
     parser.add_argument("--repo", type=Path)
     args = parser.parse_args()
     root = args.repo.resolve() if args.repo else Path(__file__).resolve().parents[1]
+    if args.check_push is not None:
+        if args.full:
+            raise RuntimeError("--full is valid only with --check")
+        unapproved = push_identity_errors(root, args.check_push)
+        if unapproved:
+            raise RuntimeError(
+                f"commits in {args.check_push} would fail the repository audit: "
+                + "; ".join(dict.fromkeys(unapproved))
+                + f". Do not push. {IDENTITY_REMEDY}, "
+                "then rewrite only these unpushed commits with --reset-author; a commit "
+                "already on a continuing branch can be removed only by the owner"
+            )
+        print(f"PASS: every commit in {args.check_push} has an approved author and committer")
+        return 0
     base = git(root, "rev-parse", "--verify", f"{args.base}^{{commit}}").decode("ascii").strip()
     changed, _statuses = staged_changes(root, base)
     if not changed:
@@ -240,6 +332,19 @@ def main() -> int:
         raise RuntimeError(
             f"staged snapshot omits required output paths: {missing_outputs}"
         )
+    if identity_configured(root):
+        policy = _policy_from_snapshot(
+            GitSnapshot.from_index(root, paths={TRACKED_FILE_POLICY_PATH})
+        )
+        unapproved = commit_identity_errors(root, policy)
+        if unapproved:
+            raise RuntimeError(
+                "the next commit would fail the repository audit: "
+                + "; ".join(unapproved)
+                + f". Do not commit. {IDENTITY_REMEDY} and rerun this check"
+            )
+    else:
+        print("Commit identity: none configured, so not checked; the audit checks every commit")
     oversized = staged_size_errors(root, changed, index_paths)
     if oversized:
         raise RuntimeError(
