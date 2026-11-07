@@ -4,7 +4,7 @@ artifact_type: corpus_map
 scope: FULL_SERIES
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0220
+current_event_boundary: EVENT_0221
 source_current_boundary: EVENT_0222
 source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
@@ -18,9 +18,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analytical Corpus Map
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current state — founded units synchronized through EVENT_0220
+## Current state — founded units synchronized through EVENT_0221
 
-All five human units now track the same source-present event history through `EVENT_0220`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0220 readings remain authoritative at their own cutoffs.
+All five human units now track the same source-present event history through `EVENT_0221`, with EVENT_0166 and EVENT_0186 absent from the frozen lock. The prior non-N25 gap from `EVENT_0029` through `EVENT_0090` is closed by a 310-cell I0–I3 matrix and four founded-unit checkpoints. The pre-existing EVENT_0001–0028 and EVENT_0091–0221 readings remain authoritative at their own cutoffs.
 
 - [Leo/need checkpoint](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_LEO_NEED_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
 - [MORE MORE JUMP! checkpoint](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_MMJ_EVENT_0029_0090_BACKFILL_CHECKPOINT.md)
@@ -246,8 +246,8 @@ The owner authorized catch-up to the latest locally collected source material on
 | Run mode / state | `continuous_sequential` / active |
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
-| Integrated analytical high-water mark | EVENT_0220; 7 of 9 new event transactions closed |
-| Next atomic operation | EVENT_0221 complete-envelope discovery and integration |
+| Integrated analytical high-water mark | EVENT_0221; 8 of 9 new event transactions closed |
+| Next atomic operation | EVENT_0222 complete-envelope discovery and integration |
 | Supplemental work | 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments pending; context-aware transactions after the event queue |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
@@ -293,11 +293,17 @@ The [EVENT_0218 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0218_DEEP
 
 The [EVENT_0219 reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0219_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The reading preserves the lost grand prize, actual photo receipt and shadow-castle demonstration, reciprocal ordinary care, Saki’s bodily-return/retention order and absence of bandmate disclosure, and historical versus current Miku recipients. Named references and all source dispositions retain exact scope. Earlier histories, private states and all package bytes remain preserved. EVENT_0220 is next; 3 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
 
-#### EVENT_0220 current checkpoint
+#### EVENT_0220 historical checkpoint within this run
 
 **EVENT_0220 is fully integrated:** a major-label offer makes Saki’s concealed audience preference consequential. Honami receives the account, the arriving bandmates confront the difference, and discussion ends without agreement. Honami obtains time before the transfer response and commits to seeking a mutually acceptable path without knowing its form. Existing care persists alongside a newly strained shared future.
 
 The [EVENT_0220 reading](03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0220_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. The reading preserves Saki’s operative retention, Ichika’s actual prior choice and unanswered present question, Shiho’s distinct hurt and pause request, and Honami’s unresolved leadership responsibility. Dream, pre-outing cards, direct disclosure, partial overhearing, singer reports, limited work and received gifts retain separate scopes. No transfer, breakup, reconciliation or universal disclosure is invented; historical bodies and all package bytes remain preserved. EVENT_0221 is next; 2 event transactions and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
+
+#### EVENT_0221 current checkpoint
+
+**EVENT_0221 is fully integrated:** twenty narrated retrospective chapters select Vivid BAD SQUAD formation, musical inheritance, RAD BLAST, the world horizon and the warehouse accusation. Current operative and knowledge states remain intact; original complete readings preserve context omitted by compression. No culprit, uniform betrayal, world victory or new shared memory access is established.
+
+The [EVENT_0221 reading](03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0221_DEEP_READING.md), routing inventory, coverage ledger and six cumulative ledgers close this transaction. All twenty chapters are independently read. Historical decisive changes remain at their original positions; new publication does not enact them again. The comparison preserves ordinary-life evidence, bounded recipients, differentiated rival responses and later operative scopes omitted by the montage. All earlier ledger bodies, readings and package bytes remain preserved. EVENT_0222 is next; 1 event transaction and 449 supplemental stories remain. Reconstruction packages remain through EVENT_0140.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 

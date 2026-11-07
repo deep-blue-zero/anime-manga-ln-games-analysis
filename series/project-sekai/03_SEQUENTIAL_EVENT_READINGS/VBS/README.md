@@ -78,3 +78,5 @@ Since import, [EVENT_0079](PJSK_EVENT_0079_DEEP_READING.md) supplies a complete 
 - [EVENT_0204 — Stay solid, No fold](PJSK_EVENT_0204_DEEP_READING.md): complete 25-story envelope; Actual qualification opens industry access; Kohane’s supported curiosity and stated self-direction meet generous material provision, unsettling appraisal and a private adverse judgment she does not hear.
 
 - [EVENT_0216 — After the Fire](PJSK_EVENT_0216_DEEP_READING.md): complete 22-story envelope; Early partnership, shared hospitality and musical reciprocity acquire new stakes when warehouse damage prompts an unresolved accusation; trust remains differentiated and the keyring does not establish a culprit.
+
+- [EVENT_0221 — Vivid BAD SQUAD Memories](PJSK_EVENT_0221_DEEP_READING.md): complete 20-story envelope; A narrated retrospective connects formation to the warehouse accusation; current states and original context survive compression, with no new resolution.
