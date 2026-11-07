@@ -247,8 +247,8 @@ The owner authorized catch-up to the latest locally collected source material on
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
 | Integrated analytical high-water mark | EVENT_0222; 9 of 9 new event transactions closed |
-| Next atomic operation | Read and integrate the 429 My SEKAI additions |
-| Supplemental work | 10 standalone card stories, 8 areas and 2 specials integrated; 429 My SEKAI segments pending |
+| Next atomic operation | Terminal reconstruction-delta reconciliation and updated synthesis/reconstruction handoff |
+| Supplemental work | All 449 additions integrated: 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
 | Reconstruction | All 20 packages remain R3 through EVENT_0140; later changes accumulate as explicit deltas |
@@ -314,6 +314,10 @@ The [EVENT_0222 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0222_DEEP_R
 #### Supplemental card/area/special checkpoint
 
 **Twenty supplemental additions are integrated:** birthday and monthly scenes add ordinary characterization; anniversary and special live preparation retain their distinct contexts, recipients and unfinished outcomes. The 429 My SEKAI additions remain pending. No principal-human operative is replaced. The [complete reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_MANIFEST.json) close 20 stories / 40 scenes / 1,016 records. All six ledgers and five-unit routing are updated; reconstruction remains through EVENT_0140.
+
+#### Supplemental My SEKAI checkpoint
+
+**All 449 supplemental additions are integrated.** The 429 My SEKAI stories add conditional preferences, refusals, care and recipient-specific knowledge. Exact dates, universal disclosure, completed event outcomes and new human operatives are not inferred. The [complete reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_READING.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_MANIFEST.json) close 429 stories / 429 scenes / 1,566 record memberships, with 117 paired duplicates explicitly distinguished. All six ledgers and five-unit routing are updated; reconstruction remains through EVENT_0140.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 
