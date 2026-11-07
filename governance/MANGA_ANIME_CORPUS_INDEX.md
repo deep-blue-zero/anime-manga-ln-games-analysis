@@ -30,6 +30,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
 - [KonoSuba](../series/konosuba/) — `series/konosuba/`
 - [Legend of the Galactic Heroes](../series/legend-of-the-galactic-heroes/) — `series/legend-of-the-galactic-heroes/`
+- [Look Back / ルックバック](../series/look-back/) — `series/look-back/` — Standalone Japanese manga study of scene-level causality, character and directed relationships, language and visual form, with bounded character reconstruction.
 - [Love Live! Superstar!!](../series/love-live-superstar/) — `series/love-live-superstar/`
 - [Lycoris Recoil](../series/lycoris-recoil/) — `series/lycoris-recoil/`
 - [Maebashi Witches](../series/maebashi-witches/) — `series/maebashi-witches/`
