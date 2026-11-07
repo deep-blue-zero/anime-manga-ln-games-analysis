@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_analysis_contract
 scope: SOURCE_GROUNDED_CHARACTER_RECONSTRUCTION
-generation: V0.42
+generation: V0.43
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -44,35 +44,30 @@ Historical boundary: no character monograph was present through V03. V10's added
 | Scarf Echidna, explicit artificial operator, Japanese main LN V20–V22 | [Integrated modelV1.0](REZERO_SCARF_ECHIDNA_V20_V22_CHARACTER_MODEL.md), then [separate actually applied review](../08%20Audits%20and%20Manifests/REZERO_SCARF_ECHIDNA_V20_V22_FIDELITY_REVIEW.md) | MONOGRAPH_READY; local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after four grouped implementation repairs.27bundles/24behavior+4MODEL_USE_GUARD eight-field records (16HIGH/12MEDIUM overall);19dimensions/32adverse controls/eight unfamiliar+two calibration/four matched-recipient families. Default V22_E024_POST_DISCLOSURE_ESCORT_WITH_JULIUS_PRINCIPAL_REPORTED_ASLEEP_BEFORE_UNRECEIVED_SUBARU_AWAKENING. Own full gate CLOSED through PR445 before V23;all22historical scopes/defaults/local grades remain exact. Current V23operator evidence does not extend this V20–V22local grade. |
 | Shaula, Japanese main LN V21–V23 | [Shaula V1.0 model](REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) | V1.0 is MONOGRAPH_READY for V21–V23 and locally PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its default is `V23_E027_DINNER_AFTER_PERSONAL_SEARCH_REQUEST_BEFORE_UNRECEIVED_TOWER_CATASTROPHE`. The latest witnessed person state is the E027 dinner. Shaula’s terminal fate, the scorpion’s identity and the scope of any override remain open. The independent, held-out, runtime and global dimensions are outside the local review. Own full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). |
 | Shaula, Japanese main LN V21–V24 successor | [Shaula V21–V24 model](REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) | MONOGRAPH_READY. Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Default `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. 33 behavior rules, four caller guards, 43 bundles and 19 applied review dimensions. Own full gate closed through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). The earlier V21–V23 pair keeps its separate scope. |
-| Manifested Reid Astrea, Japanese main LN V22–V24 | [Manifested Reid V22–V24 model](REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) | MONOGRAPH_READY. Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Default `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. 31 behavior rules, four caller controls, 40 bundles and 19 applied dimensions. Examiner, earlier roaming and witnessed Roy-body states are selected separately. Own full gate pending before V25. |
+| Manifested Reid Astrea, Japanese main LN V22–V24 | [Manifested Reid V22–V24 model](REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) | MONOGRAPH_READY. Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Default `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. 31 behavior rules, four caller controls, 40 bundles and 19 applied dimensions. Examiner, earlier roaming and witnessed Roy-body states are selected separately. Own full gate closed through [PR496](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/496) before V25. |
 | Patrasche, Japanese main LN V01–V23 external behavior | [Patrasche V1.0 model](REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) and [separate fidelity review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) | V1.0 is MONOGRAPH_READY for V01–V23 external behavior and locally PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Its default is `V23_E027_GREEN_ROOM_LIVING_AFTER_FOREHEAD_CONTACT_LATER_REPORTED_NIGHT_PRESENCE`. The latest depicted personal behavior is the E027 morning. Subaru reports her in the Green Room later that night. Exact speech, first-person thought, gesture comprehension, transferred assault memory and terminal fate remain open. The Patrasche full gate closed through [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485). |
 
 For the Subaru model, default is latest reached **terminal E013/death13**. A living action/dialogue task must explicitly select a supported preterminal phase and its knowledge, remembered history, recipient, role and resources. Current Rem cannot answer; generated Kenichi/Naoko are not real parents' present receipt; no E014 arrival, unobserved remedy, active IF-family biography or anime performance is supplied. The model compiles24 derived rules/28 evidence bundles/eight noncanonical probes; it adds no narrative source or canonical generated scene. Master §13 remains readiness owner and five specialist ledgers remain state authorities. Otto's different V01–V13 scope/default and separate publication gate are described below; neither model silently inherits the other's coverage.
 
 `../00 Frameworks and Methods/REZERO_CHARACTER_RECONSTRUCTION_PROTOCOL.md` is the controlling detailed protocol. It defines the seven-axis state selector, ordinary-life and relationship responsibilities, Japanese-register discipline, failure and negative controls, abstentions, unfamiliar probes, and the first mature-character fidelity audit. This README is the directory router and does not duplicate that contract.
 
-## Current V24 source boundary and earned work order
+## Current V25 source boundary and earned work order
 
-V24 is source-complete with 672 current claims. Verified integrated sequential high-water is V24. Its full gate closed through [PR #490](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/490). V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+V25 is source-complete with777 current claims. Verified integrated sequential high-water remains V24 through PR490 while the V25 full publication and integration gate is pending. V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording. Five existing owners now carry K1092/M695/I589/R219/RT675. [V25 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V25_DEEP_READING.md)
 
-The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
+The V24 source-facing PR490, Shaula V21–V24 PR491 and manifested Reid V22–V24 PR496 full gates closed before V25 source preparation. All26 earlier model, default and local-review scopes and80 protected artifacts retain exact identity. PR490 V24 and PR491 Shaula24 closed their complete gates before PR496 manifested Reid24. PR496 author and final source ea176baf32bbc383b47fd33ac234d56572a6ba2c integrated at actual merge and then-current main 0f3b661d66455030cb663d9486a11879f0911cf9 with Re:Zero subtree d38962e241a7848187aa6c45ad5587f039ea3fa7. Exact source audit42362498726 and merge/main audit42371157339 each actually ran all511 discovered tests with zero nonpasses, with trusted statuses58321773084 and58324763098. Source housekeeping42363343436 verified routing current. Later native proof passed at 2026-11-07T12:21:49.109249Z and the durable full gate closed at12:21:50.304956Z. V25 source preparation followed at12:39:33.921802Z. [PR496](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/496)
 
-Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
+Subaru integrates both experiential histories. Louis has a performed soul-factor split and an unexplained physical exit state. Ram imposes costly horn use on sleeping Rem. Julius renews evolved spirit bonds, with an explicit V22 and V25 source-wording tension. Human Anastasia returns alongside the separate fox. The tower Trials complete, Lye is beheaded, Roy is sealed alive and human Shaula is lost. Emilia recognition returns while the tower still forgets Rem and Julius. Rem later wakes on the unnamed plain and asks Subaru identity after survived displacement.
 
-Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
+The next operation is V25_FULL_PUBLICATION_INTEGRATION_GATE. Immutable remote readback, the exact-source full audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main full audits and a later native proof must close that gate. Close V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ARC_06_CHECKPOINT, SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own full gate before the next. Open sealed V26 afterward. CI owns integration. Continue after every PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review.
 
-The Shaula V21–V24 successor and separate applied review are integrated through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Manifested Reid V22–V24 and its separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after three model repair groups and saved-review corrections. Default is `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. Their own full gate is pending before V25. The 25 entering model scopes retain their separate defaults and judgments.
+The master selects the complete frozen V25 claim-register part. V25 earns the separately gated arc-six checkpoint and seven person operations for Subaru, Ram, Julius, human Anastasia, Louis, Shaula and manifested Reid. These are unimplemented and ungraded. Existing exact pairs retain their own source, default and local documentary review bounds.
 
-[Current state and readiness](../04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness). [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md).
+[Full current readiness and scoped operation order](../04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness). [V25 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V25_DEEP_READING.md).
 
-| existing scope | model | separate review |
-| --- | --- | --- |
-| Shaula V21–V23, integrated through PR #474 | [Frozen model](REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
-| Patrasche V01–V23 external behavior, integrated through PR #485 | [Frozen model](REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
-| Shaula V21–V24 successor, integrated through PR #491 | [Model V1.0](REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
-| Manifested Reid V22–V24, own full gate pending | [Model V1.0](REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) |
+Close V25_FULL_PUBLICATION_INTEGRATION_GATE. Then execute ARC_06_CHECKPOINT, SUBARU_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, RAM_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, JULIUS_V01_V25_SUCCESSOR_AND_FIDELITY_REVIEW, ANASTASIA_V01_V25_HUMAN_MODEL_AND_FIDELITY_REVIEW, LOUIS_V19_V25_MODEL_AND_FIDELITY_REVIEW, SHAULA_V21_V25_SUCCESSOR_AND_FIDELITY_REVIEW, MANIFESTED_REID_V22_V25_SUCCESSOR_AND_FIDELITY_REVIEW, each with its own full gate before the next. Open sealed V26 afterward. CI owns integration. Continue after every PR through admitted V43 and the mandatory terminal architecture, state, role-gap and acquisition review.
 
-The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+The incoming V25 body remains literal. The complete V26 horizon is sealed at 24594 bytes, SHA256 `93182f2f64194318c47afdb236abbb193eeac552a05fdc0619bd37d52b827bc1` after actual V25 saved-content acceptance. [V25 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V25_DEEP_READING.md)
 
 ### Current post-scarf22 source boundary and implemented work order
 
@@ -874,4 +869,42 @@ The Shaula V21–V24 successor and separate applied review are implemented at lo
 
 ``````````markdown
 | Shaula V21–V24 successor, own full gate pending | [Model V1.0](REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
+``````````
+
+### V25 exact entering fragments
+
+These literal fragments record earlier states and preserve their provenance. Use the opening V25 selectors for current retrieval.
+
+#### Entering fragment 1
+
+``````````markdown
+Own full gate pending before V25.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+## Current V24 source boundary and earned work order
+
+V24 is source-complete with 672 current claims. Verified integrated sequential high-water is V24. Its full gate closed through [PR #490](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/490). V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+
+The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
+
+Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
+
+Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
+
+The Shaula V21–V24 successor and separate applied review are integrated through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Manifested Reid V22–V24 and its separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after three model repair groups and saved-review corrections. Default is `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. Their own full gate is pending before V25. The 25 entering model scopes retain their separate defaults and judgments.
+
+[Current state and readiness](../04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness). [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md).
+
+| existing scope | model | separate review |
+| --- | --- | --- |
+| Shaula V21–V23, integrated through PR #474 | [Frozen model](REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
+| Patrasche V01–V23 external behavior, integrated through PR #485 | [Frozen model](REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
+| Shaula V21–V24 successor, integrated through PR #491 | [Model V1.0](REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
+| Manifested Reid V22–V24, own full gate pending | [Model V1.0](REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) |
+
+The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+
 ``````````

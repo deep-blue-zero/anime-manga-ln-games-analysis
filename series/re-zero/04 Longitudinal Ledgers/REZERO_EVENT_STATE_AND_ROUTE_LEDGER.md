@@ -1,11 +1,11 @@
 ---
 series: RE_ZERO
 artifact_type: specialist_longitudinal_ledger
-scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V24
-generation: V2.20
+scope: MAIN_LN_EVENT_STATES_DURABILITY_AND_CARRY_FORWARD_THROUGH_V25
+generation: V2.21
 status: canonical
 release_state: mutable_active
-current_source_horizon: V24
+current_source_horizon: V25
 recommended_reasoning_class: SUBSTANTIVE_ANALYSIS
 supersedes: []
 superseded_by: []
@@ -21,17 +21,20 @@ This is the sole maintained cumulative event-state/durability home from the V06 
 
 Promotion is earned by interacting kinds of change, not a numerical loop count: V06 erases memories/material traces inside a still-living state, later restores to a checkpoint, carries some earlier events but not later contracts, and aliases local labels across volumes. The ledger owns when an event occurs, what ends or changes, and what survives. Knowledge owns proposition holders/false beliefs, mechanics causal models, institution rules/resources and the V09-promoted relationship ledger state-selected personal continuity; master owns person/readiness and routing.
 
-Japanese main LN V01–V24 is source-complete. V25 and later narrative remain outside the current source horizon. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives.
+Japanese main LN V01–V25 is source-complete. V26 and later narrative remain outside the current source horizon. V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording.
 
-### Shaula24 integrated and manifested Reid24 derived-use routing
+### Earlier model scopes at V25 entry
 
-[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25. E026 torment stays nonfatal, E029 slash confirms death29 and E030 supplies only the later reported Reid clash. Existing event records own those boundaries.
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. That operation completed its full gate through PR496 before V25 source access. E026 torment stays nonfatal, E029 slash confirms death29 and E030 supplies only the later reported Reid clash. Existing event records own those boundaries.
+
+
+Current V25 human Shaula loss, distinct small scorpion, ended Reid manifestation and living sealed Roy are selected through the new source records below. The older defaults and documentary grades remain bounded to their named V24 and earlier horizons.
 
 ## 1. State identity and counting rules
 
 `VNN-EN` labels belong to frozen volume analyses. The `RZ-E-NNN` identifiers below are assigned at this V06 migration to connect continuing world-state segments without renaming those historical labels. A volume boundary, blackout, implied day change, liminal scene or teleport is not itself a new restoration. These identifiers count analytical world-state segments, not a proved ontology of destroyed/parallel universes.
 
-V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Distinguish ordinary book exit, injuries, other deaths and actual Subaru returns.
+V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording. Ordinary book exit, exhaustion sleep and survived displacement retain their own evidence.
 
 Historical V15 counting boundary — exact entering wording:
 
@@ -89,7 +92,32 @@ These summaries do not make every former death or knowledge claim current-world 
 | --- | --- | --- | --- | --- |
 | `RZ-E-028` / V24 fourth Green Room arrival after initial loss | Private and public telling, Meili rescue, book and Corridor exit, then converging fronts. | Scorpion thigh injury followed by black shadow tower destruction, death 28. | E029 repeats the book aftermath. Prior book exit and fresh knowledge are retained. | RZ-V24-C606 (part0009#B0026–0113, B0167, B0285 / part0010#B0298–0305) / RZ-V24-C637 (part0011#B0595–0706, B0729–0735) / RZ-V24-C651 (part0012#B0628–0657 / part0013#B0003–0016) |
 | `RZ-E-029` / V24 changed Taygeta checkpoint | After the book encounter, new team deployment and preserved Emilia recognition. Lye dies in this route. | Reid strikes and vaporizes Subaru amid the shadow, death 29. | E030 is shown later at the balcony. Ram was unconscious and held with no separate verified terminal fate. | RZ-V24-C653 (part0013#B0088–0137) / RZ-V24-C659 (part0013#B0306–0321, B0381–0383, B0517–0527, B0589–0599) / RZ-V24-C665 (part0013#B0842–0888 / part0014#B0003–0027) |
-| `RZ-E-030` / V24 reached balcony continuation | Arrival is established by the narrative return after death 29. Its exact opening instant is omitted. | Subaru deliberately jumps and impact kills him before the scorpion can fire, death 30. | No E031. Shaula reaches in human form then changes and aims. Her own post-impact state stays open. | RZ-V24-C665 (part0013#B0842–0888 / part0014#B0003–0027) / RZ-V24-C670 (part0014#B0240–0283) / RZ-V24-C671 (part0014#B0251–0291) |
+| `RZ-E-030` / V24 reached balcony continuation | Arrival is established by the narrative return after death 29. Its exact opening instant is omitted. | Subaru deliberately jumps and impact kills him before the scorpion can fire, death 30. | Historical death30 closes E030. V25 directly reaches E031 at the after-Corridor Taygeta point. The earlier Shaula post-impact fate remains unobserved. | RZ-V24-C665 (part0013#B0842–0888 / part0014#B0003–0027) / RZ-V24-C670 (part0014#B0240–0283) / RZ-V24-C671 (part0014#B0251–0291) / V25 RZ-V25-C673 (part0009#B0003–0048) |
+
+### V25 newly selected and compressed segments
+
+V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording.
+
+| ledger ID | entry and span | terminal or outcome | durability and bound | source |
+| --- | --- | --- | --- | --- |
+| `RZ-E-031` | First V25 count-zero arrival after death30. Beatrice checks Subaru in Taygeta. | Reid dimensional slash and counter1 close the first new death. | Direct selected arrival and terminal scene. Beatrice lacks the hidden death-testing plan. | RZ-V25-C673 (part0009#B0003–0048) / RZ-V25-C674 (part0009#B0051–0131) / RZ-V25-C675 (part0009#B0133–0177) |
+| `RZ-E-032` | A new attempt after counter1 is represented in the corridor fight. | Lye chest attack kills Subaru while he shields Beatrice, counter2. | Direct selected trial. The companion terminal census remains incomplete. | RZ-V25-C676 (part0009#B0179–0233) |
+| `RZ-E-033` | Compressed attempt3 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position33 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C677 (part0009#B0235–0286) |
+| `RZ-E-034` | Compressed attempt4 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position34 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C677 (part0009#B0235–0286) |
+| `RZ-E-035` | Compressed attempt5 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position35 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C677 (part0009#B0235–0286) |
+| `RZ-E-036` | Compressed attempt6 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position36 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C677 (part0009#B0235–0286) |
+| `RZ-E-037` | A selected attempt after compressed progression to counter7 uses the sandworm lure. | Scorpion destroys the mount and impact breaks Subaru neck, counter7. | Direct selected trial. Meili survival is his final belief. | RZ-V25-C677 (part0009#B0235–0286) |
+| `RZ-E-038` | Compressed attempt8 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position38 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-039` | Compressed attempt9 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position39 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-040` | Compressed attempt10 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position40 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-041` | Compressed attempt11 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position41 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-042` | Compressed attempt12 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position42 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-043` | Compressed attempt13 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position43 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-044` | Compressed attempt14 in the explicitly repeated count-zero sequence, entailed by its counter progression. | Death position44 is part of the stated fifteen new deaths. Individual terminal scene and attacker are unshown. | Compressed analytical alias with no invented precise waking words, wound, companion fate or unseen bodily action. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-045` | A selected attempt after compressed progression to counter15 forces Lye to retreat. | The Reid confrontation and counter15 close the attempt. | The terminal transition is established by counter and following waking, with no invented separate killing stroke. | RZ-V25-C678 (part0009#B0288–0408) |
+| `RZ-E-046` | Actual waking after counter15, own-book recovery and integrated histories, then the current four-front plan. | Trials complete, human Shaula dissolves, Roy is sealed alive, then shadow intervention leads to survived unknown displacement and Rem waking. | Current alive endpoint. Count aliases are a working derivation with explicit source-total tension. No fresh checkpoint or late tower-party census. | RZ-V25-C679 (part0009#B0033–0035, B0378–0408 / part0010#B0542–0543 / part0012#B0151 / part0018#B0430–0432) / RZ-V25-C686 (part0010#B0467–0555 / part0012#B0003–0120) / RZ-V25-C719 (part0016#B0600–0677 / part0017#B0007–0013) / RZ-V25-C756 (part0017#B0273–0317 / part0018#B0003–0021) / RZ-V25-C760 (part0018#B0104–0127) / RZ-V25-C773 (part0018#B0408–0444) / RZ-V25-C775 (part0018#B0433–0494) |
+
+Five of the sixteen new segment aliases have individually selected scenes. Eleven are represented through the explicit compressed counter progression. The working global labels do not silently replace the source totals.
 
 ## 2. Focalization, retained experience and relationship durability
 
@@ -861,6 +889,29 @@ All unprefixed loci are V23. Ordinary unconsciousness, relived past, omitted con
 
 Within the tower crisis, a no-exit prohibition, a book-access effect, an ordinary waking, an internal representation, a death of someone else and a Subaru fatal transition are separate categories. The E029 checkpoint update is clear from the repeated book aftermath and Subaru's recognition of the short deadline. No evidence gives him a chosen save point or establishes what discarded worlds continue doing.
 
+### V25 actual chronology and source-count query
+
+| State or narrative plane | Actual span and result | Counting and knowledge bound | Primary route |
+|---|---|---|---|
+| E030 remembered terminal fall | Subaru explicitly remembers the deliberate fall and the Shaula rescue aim before waking. | The fall is the already entered death30. | part0009#B0003–0023 |
+| E031, new count-zero waking | Beatrice checks Subaru beside the apparent Reid-book aftermath in Taygeta. He retains the rule and conceals his testing plan. Roy later consumes Reid and the changed Reid cuts Ul Shamak and fatally wounds Subaru. | The first new selected trial ends at counter1. The lethal result and earlier nonfatal saves are separate. | part0009#B0025–0177 |
+| E032, counter2 | Lye's stolen techniques defeat the joint approach and Subaru takes a fatal chest hit shielding Beatrice. | Current counterparts receive none of the failed attempt automatically. | part0009#B0179–0233 |
+| E033–E036, compressed intervening attempts | The sequence advances from counter2 toward counter7. | Four death and arrival positions are entailed by the explicit counter progression. Individual scene, attacker, wound and companion fate are unshown. | part0009#B0235–0286 |
+| E037, counter7 | Meili and Subaru lure beasts on a sandworm. The scorpion destroys the mount and impact breaks Subaru's neck as he protects her. | Meili's survival is his final belief. The stampede's initiator stays unknown. | part0009#B0235–0286 |
+| E038–E044, compressed intervening attempts | The sequence advances from counter7 toward counter15. | Seven further terminal positions lack individually depicted details. | part0009#B0288–0381 |
+| E045, counter15 | The team forces Lye to retreat but Reid reaches them. The next counter closes the trial and Subaru wakes again. | The source states fifteen deaths in the new count-zero sequence. | part0009#B0288–0408 |
+| E046 before recovery | Beatrice challenges visible collapse and deploys the others. Subaru follows a faint signal to his own books and relives old histories. | Represented old deaths and ordinary book exits add no fresh terminal event. | part0009#B0383–0491 / part0010#B0003–0259 |
+| E046 inner meeting and Corridor | The experiential selves meet and integrate. Louis's focal history explains theft and partition. Subaru refuses her demand and is expelled. The two Louis selves fight after his departure. | The outer segment continues. The two halves' winner and the books' maker remain unknown. | part0010#B0262–0555 / part0011#B0001–0454 |
+| E046 current reunion and deployment | Emilia receives recovered recognition and checks retention. The group makes four front assignments. Ram receives burden support, Shaula converts, and the outside and upstairs rescues divide. | The overlapping end of chapter3 and opening of chapter4 show one reunion. | part0011#B0455–0506 / part0012#B0001–0761 |
+| E046 parallel fights | Ram defeats Lye, Julius's renewed spirit bout ends as Roy's vessel fails, human Anastasia returns and Emilia clears the roof Trial. Meili's injury and the initial E.M.M moment recur through different focal presentations. | Each replay has one material event. The individual outcomes require their actual later reports. | part0013–0016 |
+| E046 final Shaula attempt | Shared burden restores Meili's ability to command, Yosef contributes and the group restrains the scorpion. An uncertain white farewell precedes physical dissolution and the small red creature. | Human Shaula's self is lost and the new creature is differentiated. | part0017 / part0018#B0001–0038 |
+| E046 postfight decisions | Emilia recognition is confirmed returned while Rem and Julius stay forgotten. Human and fox explain their separate choices, Roy is sealed alive and the group chooses future questioning. Subaru faints while breathing and later wakes in the Green Room. | This is ordinary sleep and recovery. The Roy transport is planned. | part0018#B0040–0305 |
+| E046 shadow and unknown plain | Physical Louis appears, Meili leaves for help, Patrasche evacuates Ram and Subaru carries Rem and Louis. Shadow engulfs them, Volcanica's formula and blue light intervene, and Subaru wakes with the same injuries and clothes. Rem wakes and asks who he is. | The text explicitly says Subaru has survived. The place and save point are unknown and the late fate of other companions is unshown. | part0018#B0306–0518 |
+
+The working cumulative ledger derives45 deaths and46 arrived analytical segments from the accepted thirty and the newly stated fifteen, with a current post-counter15 arrival. Four of the fifteen new terminal scenes are individually selected. Eleven are compressed positions entailed by the counters, with no invented details. Of the sixteen newly reached segment aliases, five have individually selected scene evidence and eleven are represented through the compressed progression.
+
+SOURCE_COUNT_TENSION remains OPEN. Part0009 B0389 calls the last waking the seventeenth reunion and restart. B0395–0408 says fifteen deaths. Part0010 B0542–0543 gives twenty-two post-loss tower deaths, agreeing with seven entered post-loss deaths24–30 plus fifteen. Part0012 B0151 instead says a total forty deaths. These exact statements remain distinct from the cumulative working derivation. They supply no justified hidden death, omitted old arrival or source emendation to force agreement.
+
 ## 5. Timing, falsifiers and maintenance
 
 V15 parallel focalization and Beatrice retelling remain one E018. Following-day gathering and about-one-month temporary residence are elapsed time, not checkpoints: V15 p-024#B0060–0088; p-027#B0038–0048. The source afterword closes Arc04, whose checkpoint follows V15's complete gate.
@@ -894,7 +945,7 @@ Reopen a row when the source changes checkpoint, demonstrates another retainer o
 Historical V19 transaction-maintenance receipt. Its original pending-source work order is superseded by the current status near the start of this document; the paragraph below is retained verbatim as history.
 
 ````````````````markdown
-V24 maintenance. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Each older state remains individually selected.
+V25 maintenance. V25 has a working cumulative derivation of45 Subaru deaths and46 reached analytical segments, with E046 continuing alive on an unnamed plain. Four new terminal scenes are selected individually and eleven are compressed in the stated fifteen-death sequence. SOURCE_COUNT_TENSION remains OPEN for the seventeenth reunion, twenty-two post-loss deaths and total forty wording. Each older state retains its selected meaning.
 ````````````````
 
 
@@ -1146,4 +1197,40 @@ These literal fragments preserve the entering V24 publication and readiness stat
 
 ``````````markdown
 [Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid. The existing owner records retain the source claims and their event, holder, body and recipient bounds.
+``````````
+
+### V25 exact entering fragments
+
+These literal fragments record earlier states and preserve their provenance. Use the opening V25 selectors for current retrieval.
+
+#### Entering fragment 1
+
+``````````markdown
+Japanese main LN V01–V24 is source-complete. V25 and later narrative remain outside the current source horizon. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Distinguish ordinary book exit, injuries, other deaths and actual Subaru returns.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+### Shaula24 integrated and manifested Reid24 derived-use routing
+
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25. E026 torment stays nonfatal, E029 slash confirms death29 and E030 supplies only the later reported Reid clash. Existing event records own those boundaries.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+| `RZ-E-030` / V24 reached balcony continuation | Arrival is established by the narrative return after death 29. Its exact opening instant is omitted. | Subaru deliberately jumps and impact kills him before the scorpion can fire, death 30. | No E031. Shaula reaches in human form then changes and aims. Her own post-impact state stays open. | RZ-V24-C665 (part0013#B0842–0888 / part0014#B0003–0027) / RZ-V24-C670 (part0014#B0240–0283) / RZ-V24-C671 (part0014#B0251–0291) |
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+V24 maintenance. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Each older state remains individually selected.
 ``````````
