@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.58
+generation: V0.60
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE
+  next_permitted_operation: V24_FULL_PUBLICATION_INTEGRATION_GATE
 ```
 
 ```yaml
@@ -39,7 +39,7 @@ sequential_execution:
   authorized_start: V03
   terminal_boundary: V43
   committed_high_water_mark: V23 # PR467 full gate CLOSED
-  next_candidate_operation: SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE
+  next_candidate_operation: V24_FULL_PUBLICATION_INTEGRATION_GATE
   confirmation_between_units: false
   run_state: active
 ```
@@ -53,17 +53,21 @@ sequential_execution:
 
 ## Current analytical state
 
-The source-facing and verified integrated sequential high-water is Japanese main LN V23 with 605 current claims. [V23 frozen reading](02%20Sequential%20Readings/REZERO_LN_V23_DEEP_READING.md) [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467)
+V24 is source-complete with 672 current claims. Verified integrated sequential high-water remains V23 through PR #467 while the V24 publication and integration gate is pending. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
-V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula V21–V23 is implemented with a separately applied local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. The Shaula pair’s own full gate is pending. Patrasche’s V01–V23 external-behavior model and separate review remain earned, unimplemented and ungraded. Reid remains CHECKPOINT_READY.
+The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. Patrasche has her own earlier default and local review scope. [PR #485](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/485)
 
-OriginalV23actual attention:3178495bytes/SHA630d11e9218950be65ee1775cc156b1e5306c5c20a3cc0240814524a6c8df1bb/CRCpass,25OPF3993positions/39offers,1653ruby2223labels,23original assets49navlabels/targets;independent raw correspondence passes,tiny jacket biographies bounded. Source-time marketing/design is not current2026verification or later narrative.
+Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
 
-Emilia creates the ice cage while opposing torture; later escape/shoulder cause is unknown. Meili room-release discrepancy,MamaCapella graded inference,unidentified scorpion/controller,operator refusal and unperformed stone blow remain explicit. No whole-group pardon,restored old biography,universal cure or Arc6closure.
+The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
 
-Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then complete `PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW` and its own full gate before opening the sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+RZ-MAIN-LN-JA-V24 has 3018032 bytes, SHA-256 `e8e3a5df8dcf984a2378959461f2d1318f5eef6f31499508349eba4044b7234f` and 57 ZIP entries with CRC passing. The full original has 24 OPF members, 3930 positions, 1424 ruby groups, 1879 reading labels, 24 original stills and 40 original navigation entries. Actual attention took 44 bounded offers. Independent raw correspondence passed. Jacket small print is partly resolution-limited.
 
-All five older literal V19–V23bodies remain exact; whole outgoingV24body29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029 is sealed after accepted saved-content/readback, giving six whole bodies. Complete substantive candidates precede measured conditional history storage, retaining whole payload/linkbase/headings/native inverses and unchanged1MiBcap.
+Shaula V21–V24 and manifested Reid V22–V24 earn scoped construction and separate applied review. Both are unimplemented and ungraded. The 24 earlier local scopes, defaults and reviews remain exact.
+
+The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+
+After all fourteen complete candidates were measured, the 1730481-byte master and 1050687-byte changelog exceeded the 1048576-byte cap. Complete historical payloads retain their original bytes and relative bases, with original-heading routes and byte-exact native inverses. Current V24 claims and prospective bodies stay in the master.
 
 ## Governing method and retrieval route
 
@@ -100,15 +104,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.47 and architecture V1.48 route integrated V23, the implemented Shaula pair and the Patrasche dependency. The formal nineteen-dimension review contract is byte-exact. |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.51. V23 is the latest complete Japanese source. Shaula recovers targeted material from V21–V23. The V01–V43 admission, V41 exception and acquisition records govern access. |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V23 and four checkpoints are integrated. The V23 full gate is closed through [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) with 605 current claims. V19–V24 whole seals are literal. V24 remains unopened until the Shaula and Patrasche full gates close. |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.49 and architecture V1.50 route V24 source and later scoped studies. The formal review contract is retained. |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.53. V24 is the last complete Japanese original. V01–V43 admission and exception records govern. |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V23 and four checkpoints are integrated. V24 is source-complete with 672 claims and its own pending full gate. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md). |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.49 owns 605 V23 claims and current readiness. Event V2.16 has 26 confirmed deaths and 27 arrived segments with the E027 endpoint unresolved. Knowledge V2.16 K925, mechanics V1.25 M583, institutions V1.29 I477, relationships V1.23 R197/RT548, schema V0.50. The V23 historical payloads and original heading routes are recoverable. |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.38 routes the [Shaula V1.0 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md). Shaula’s own full gate is pending. Patrasche’s external-behavior pair is earned and ungraded. Reid is a bounded checkpoint. The 22 older model scopes remain exact. |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.51 owns 672 claims and readiness. Event V2.18 has 30 confirmed deaths and 30 arrived segments with E030 fatal and no E031. Knowledge V2.18, mechanics V1.27, institutions V1.31, relationships V1.25 and schema V0.52 carry K987/M626/I521/R207/RT600. |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.40 routes the 24 integrated older scopes and records the newly earned Shaula successor and manifested Reid model obligations. |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V23’s saved-content and full integration gates are closed. Shaula’s [separate review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) applies 19 dimensions and yields local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY on the exact V1.0 model. The Shaula full gate remains pending. |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V23, Shaula23 and Patrasche23 gates closed. V24 saved review, source integrity, authorship and CI have separate requirements. The two newly earned applied reviews follow V24 integration. |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -117,11 +121,9 @@ The absence of an unused directory is intentional. Re:Zero should grow by analyt
 
 ## Sequential lock and history
 
-One admitted source opens after every preceding source/earned intervening operation closes its complete gate. Preserve the entire incoming horizon literally; consume full original text/contextualruby/images/navigation, then individually adjudicate all predecessors/questions/forecasts/current relationships and each dated-history disposition. Separate saved-content/source/name-reference/fidelity acceptance and repaired readback precede outgoing whole-body sealing.
+The whole incoming V24 body remains literal after actual source consumption and individual adjudication. Separate saved acceptance and repaired readback precede the next prospective seal. The next analytical dependency is the full V24 publication and integration gate. It requires immutable remote readback, the exact-source audit, source-specific housekeeping, CI integration, actual-merge and current-main audits and later native proof. Then the Shaula successor and manifested Reid each require a separate applied review and full gate before V25 source access. CI owns merges. The active V43 and terminal review objective continues.
 
-Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then complete `PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW` and its own full gate before opening the sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
-
-All six whole V19–V24 horizons retain their original wording. Earlier model and local review scopes stay exact. Current integration and model status are routed above.
+The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
 ## Reasoning-class routing
 
@@ -181,13 +183,11 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Preserve71entering protected artifacts,22historical scopes/defaults/local grades,five literal V19–V23bodies,formal/reserved tails,source admission and complete older ancestry. Scarf22/PR445full gate CLOSED before source.
-2. Preserve completed V23saved-content/source/name-reference/fidelity acceptance/actual repaired readback and entire outgoingV24seal29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029. No V24+/nonspine/import narrative is opened.
-3. Publish this atomic605claim/five-owner transaction through final-index author preflight,approved exact-path commit/nonforce push/attached PR,immutable remote readback,actual all-discovered exact-source audit/trusted verdict,source-specific housekeeping,CImerge/actual-merge/current-main audits and later native original/protected/seal/inverse proof. CI owns merges.
-4. After V23fullgate,construct and separately actually review ShaulaV21–V23,then close its own fullgate;do the same for PatrascheV01–V23external behavior with interiority/translation abstentions. Reserved filenames are routes,not existing models/grades.
-5. Only after both earned operation gates consume sealedV24. Continue admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review;no ordinary-unit/model pause or final goal completion.
-6. Keep currentE027terminalunresolved/noE028,unknown controller/scorpion,gradedMamaCapella inference,Meili release-text discrepancy,explicit refusal and specific repair boundaries. Retain all older named-source controls.
-7. Retain the measured eight-span historical storage/full native inverses and recheck final whole-file caps after repairs/outgoing seal. All current605claims,V23increments and five older literal bodies remain in master;source admission/five owner fields/global curation stay unchanged.
+1. Preserve the 75 earlier protected artifacts, 24 review scopes, six whole earlier horizons and formal tails.
+2. Verify the repaired saved V24 candidate, preserve exact whole V25 prospective text and verify all file sizes.
+3. Publish the V24 transaction with exact audited source, housekeeping, CI integration and later native proof.
+4. Complete each of the newly earned Shaula and Reid model and review operations and its own integration gate.
+5. Open sealed V25, continuing sequentially through V43 and the mandatory terminal review.
 
 ## Bootstrap abstentions
 
@@ -1136,3 +1136,175 @@ V23 saved-content/source/name-reference/fidelity acceptance and repaired readbac
 ````````markdown
 Five older V19–V23literal bodies retain historical pending wording;actual completed overlays do not rewrite them. All22old scopes/defaults/local grades remain exact. Historical storage preserves complete native payload with same linkbase,original-heading routers and inverse proof after all complete candidates are measured;file size cannot reduce current evidence.
 ````````
+
+### Patrasche transaction — exact entering routing fragments
+
+These fragments preserve the state recorded before the Patrasche operation. The live routes above govern present use.
+
+#### Entering line 5 — generation
+
+````````markdown
+generation: V0.58
+````````
+
+#### Entering line 32 — active operation
+
+````````markdown
+  next_permitted_operation: SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE
+````````
+
+#### Entering line 42 — active candidate
+
+````````markdown
+  next_candidate_operation: SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE
+````````
+
+#### Entering line 58 — verified Shaula gate and current Patrasche state
+
+````````markdown
+V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula V21–V23 is implemented with a separately applied local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. The Shaula pair’s own full gate is pending. Patrasche’s V01–V23 external-behavior model and separate review remain earned, unimplemented and ungraded. Reid remains CHECKPOINT_READY.
+````````
+
+#### Entering line 64 — current analytical dependency
+
+````````markdown
+Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then complete `PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW` and its own full gate before opening the sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+````````
+
+#### Entering line 103 — current table cell
+
+````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.47 and architecture V1.48 route integrated V23, the implemented Shaula pair and the Patrasche dependency. The formal nineteen-dimension review contract is byte-exact. |
+````````
+
+#### Entering line 104 — current table cell
+
+````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.51. V23 is the latest complete Japanese source. Shaula recovers targeted material from V21–V23. The V01–V43 admission, V41 exception and acquisition records govern access. |
+````````
+
+#### Entering line 105 — current table cell
+
+````````markdown
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V23 and four checkpoints are integrated. The V23 full gate is closed through [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) with 605 current claims. V19–V24 whole seals are literal. V24 remains unopened until the Shaula and Patrasche full gates close. |
+````````
+
+#### Entering line 107 — current table cell
+
+````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.49 owns 605 V23 claims and current readiness. Event V2.16 has 26 confirmed deaths and 27 arrived segments with the E027 endpoint unresolved. Knowledge V2.16 K925, mechanics V1.25 M583, institutions V1.29 I477, relationships V1.23 R197/RT548, schema V0.50. The V23 historical payloads and original heading routes are recoverable. |
+````````
+
+#### Entering line 108 — current table cell
+
+````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.38 routes the [Shaula V1.0 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md). Shaula’s own full gate is pending. Patrasche’s external-behavior pair is earned and ungraded. Reid is a bounded checkpoint. The 22 older model scopes remain exact. |
+````````
+
+#### Entering line 111 — current table cell
+
+````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V23’s saved-content and full integration gates are closed. Shaula’s [separate review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) applies 19 dimensions and yields local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY on the exact V1.0 model. The Shaula full gate remains pending. |
+````````
+
+#### Entering line 122 — current analytical dependency
+
+````````markdown
+Next is `SHAULA_V21_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then complete `PATRASCHE_V01_V23_MODEL_AND_FIDELITY_REVIEW` and its own full gate before opening the sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+````````
+
+### V24 exact entering fragments
+
+These literal fragments record earlier states and preserve their provenance. Use the opening V24 selectors for current retrieval.
+
+#### Entering fragment 1
+
+``````````markdown
+  next_permitted_operation: PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+  next_candidate_operation: PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+
+The source-facing and verified integrated sequential high-water is Japanese main LN V23 with 605 current claims. [V23 frozen reading](02%20Sequential%20Readings/REZERO_LN_V23_DEEP_READING.md) [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467)
+
+V23 is integrated with 605 current claims. The PR #467 full gate is CLOSED. Final source `7fb7ab562fb7b03c9ebf653e6240de8e535e9fb8`, actual merge `a314d21b2fe08fde5c104ad572df49349c421a01` and verified main `94779d3d7dcd2b86e57d6f0b7b6028fc424adc7d` have identical Re:Zero subtree `41e7a66a05fc9610c7a35045a1eb751a71e22457`. Source, merge and main audits 41958538066, 41965976769 and 42042668914 each ran all 486 discovered tests with zero nonpasses. Trusted statuses 58113890434, 58117061387 and 58156126435, source-specific routing-current housekeeping 41959792625, and later immutable native proof at 2026-11-05T21:29:04.484627Z close the V23 gate. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) Source census remains 26 confirmed Subaru deaths and 27 arrived segments. E027 terminal engulfment is unresolved and E028 has not arrived. The five owners carry K925/M583/I477/R197/RT548. Shaula’s V21–V23 full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474). Final source, actual merge and verified main share Re:Zero subtree `795e795bdac856014751b3ad78d5438c7c49269b`. The three exact audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable correspondence passed. Patrasche’s V01–V23 external-behavior model and separate review are implemented with local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Their own full gate is pending. Reid remains CHECKPOINT_READY.
+
+OriginalV23actual attention:3178495bytes/SHA630d11e9218950be65ee1775cc156b1e5306c5c20a3cc0240814524a6c8df1bb/CRCpass,25OPF3993positions/39offers,1653ruby2223labels,23original assets49navlabels/targets;independent raw correspondence passes,tiny jacket biographies bounded. Source-time marketing/design is not current2026verification or later narrative.
+
+Emilia creates the ice cage while opposing torture; later escape/shoulder cause is unknown. Meili room-release discrepancy,MamaCapella graded inference,unidentified scorpion/controller,operator refusal and unperformed stone blow remain explicit. No whole-group pardon,restored old biography,universal cure or Arc6closure.
+
+Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+
+All five older literal V19–V23bodies remain exact; whole outgoingV24body29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029 is sealed after accepted saved-content/readback, giving six whole bodies. Complete substantive candidates precede measured conditional history storage, retaining whole payload/linkbase/headings/native inverses and unchanged1MiBcap.
+
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.48 and architecture V1.49 route integrated V23, verified Shaula integration and the implemented Patrasche pair. The formal nineteen-dimension review contract is preserved. |
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.52. V23 is the latest complete Japanese source. Patrasche uses focused V01–V23 evidence and original stills within the consumed corpus. The V01–V43 admission, V41 exception and acquisition records govern access. |
+``````````
+
+#### Entering fragment 6
+
+``````````markdown
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V23 and four checkpoints are integrated. [PR #467](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/467) closed V23 with 605 current claims. V19–V24 whole seals are literal. V24 opens after Patrasche’s full gate. |
+``````````
+
+#### Entering fragment 7
+
+``````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.50 owns 605 V23 claims and readiness. Event V2.17 has 26 confirmed deaths and 27 arrived segments with the E027 endpoint unresolved. Knowledge V2.17 K925, mechanics V1.26 M583, institutions V1.30 I477, relationships V1.24 R197/RT548, schema V0.51. The historical payloads and original heading routes are recoverable. |
+``````````
+
+#### Entering fragment 8
+
+``````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.39 routes the [Patrasche V1.0 model](05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md). Patrasche’s own full gate is pending. Shaula’s gate is closed. Reid is a bounded checkpoint. |
+``````````
+
+#### Entering fragment 9
+
+``````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V23 and Shaula full gates are closed. Patrasche’s [applied review](08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) covers 19 dimensions and yields local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY on her exact V1.0 external-behavior model. Her full gate is pending. |
+``````````
+
+#### Entering fragment 10
+
+``````````markdown
+
+One admitted source opens after every preceding source/earned intervening operation closes its complete gate. Preserve the entire incoming horizon literally; consume full original text/contextualruby/images/navigation, then individually adjudicate all predecessors/questions/forecasts/current relationships and each dated-history disposition. Separate saved-content/source/name-reference/fidelity acceptance and repaired readback precede outgoing whole-body sealing.
+
+Next is `PATRASCHE_V01_V23_FULL_PUBLICATION_INTEGRATION_GATE`. Complete final-index preflight, exact-path author commit and push, immutable remote readback, exact-source audit with trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later immutable proof. Then open sealed V24. CI owns merges. The V43 sequence and mandatory terminal architecture, state, role-gap and acquisition review remain active.
+
+All six whole V19–V24 horizons retain their original wording. Earlier model and local review scopes stay exact. Current integration and model status are routed above.
+
+``````````
+
+#### Entering fragment 11
+
+``````````markdown
+
+1. Preserve71entering protected artifacts,22historical scopes/defaults/local grades,five literal V19–V23bodies,formal/reserved tails,source admission and complete older ancestry. Scarf22/PR445full gate CLOSED before source.
+2. Preserve completed V23saved-content/source/name-reference/fidelity acceptance/actual repaired readback and entire outgoingV24seal29548bytes/SHAebaa180a6cf203cd81f42bed8b6bcc009e8dbab5b7a7c8f5f3f38199da00f029. No V24+/nonspine/import narrative is opened.
+3. Publish this atomic605claim/five-owner transaction through final-index author preflight,approved exact-path commit/nonforce push/attached PR,immutable remote readback,actual all-discovered exact-source audit/trusted verdict,source-specific housekeeping,CImerge/actual-merge/current-main audits and later native original/protected/seal/inverse proof. CI owns merges.
+4. After V23fullgate,construct and separately actually review ShaulaV21–V23,then close its own fullgate;do the same for PatrascheV01–V23external behavior with interiority/translation abstentions. Reserved filenames are routes,not existing models/grades.
+5. Only after both earned operation gates consume sealedV24. Continue admittedV43 plus mandatory terminal architecture/state/role-gap/acquisition review;no ordinary-unit/model pause or final goal completion.
+6. Keep currentE027terminalunresolved/noE028,unknown controller/scorpion,gradedMamaCapella inference,Meili release-text discrepancy,explicit refusal and specific repair boundaries. Retain all older named-source controls.
+7. Retain the measured eight-span historical storage/full native inverses and recheck final whole-file caps after repairs/outgoing seal. All current605claims,V23increments and five older literal bodies remain in master;source admission/five owner fields/global curation stay unchanged.
+
+``````````
