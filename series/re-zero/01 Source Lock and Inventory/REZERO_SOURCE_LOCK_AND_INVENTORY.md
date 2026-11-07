@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: source_lock
 scope: SOURCE_ADMISSION_CONTRACT_AND_CURRENT_INVENTORY_STATE
-generation: V0.54
+generation: V0.55
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -22,7 +22,7 @@ RZ-MAIN-LN-JA-V24 has 3018032 bytes, SHA-256 `e8e3a5df8dcf984a2378959461f2d1318f
 
 The admitted Japanese V01–V43 set, V41 exception, dated acquisition gaps and exclusions remain governed by the same lock. V25 and later narrative have not been opened.
 
-[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25.
 
 ## Authority responsibility
 
@@ -1219,4 +1219,22 @@ These literal fragments preserve the entering V24 publication and readiness stat
 
 ``````````markdown
 V24 is source-complete with 672 current claims. Verified integrated sequential high-water remains V23 through PR #467 while the V24 publication and integration gate is pending. V24 confirms 30 Subaru deaths and 30 arrived segments. E027 is closed by death 27. E028 returns in the Green Room, E029 starts in Taygeta after the Corridor and E030 is shown later at the balcony. Death 30 is the deliberate fall impact. No E031 arrives. Five longitudinal owners retain their existing fields, now at K987/M626/I521/R207/RT600. [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
+``````````
+
+## Manifested Reid V22–V24 source recovery and review
+
+The Shaula V21–V24 full gate closed through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491) before manifested Reid construction. Final source `fb3517ef05b287328df260a53440d825ce568ae2`, actual merge and verified entry main `589435c3ebada7c66aac6b44ed014876d9050423` share Re:Zero subtree `7056ddf14227a05f65a30098f8740617b612bd1e`. Ordered actual-merge parents are `ae140c557fc40d8e21bbb7d66ea3e6a5e995ea9b` and `fb3517ef05b287328df260a53440d825ce568ae2`. Exact final-source, actual-merge and current-main audits each executed 511 tests with zero nonpasses. Source housekeeping confirmed current routing and later native correspondence passed at 2026-11-07T08:54:13.273500Z.
+
+Actual targeted recovery from the consumed Japanese V22–V24 originals used 23 intervals and 29 acknowledged deliveries. It covered 2942 OPF body positions, with 2934 written positions and eight directly viewed original stills, 127534 rendered characters, 1243 contextual ruby groups and 1649 reading labels. Full-file identity and ZIP CRC checks passed. Independent raw XML body, ruby and image-order correspondence matched the targeted selections. This derived recovery adds no new narrative unit. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md).
+
+The eight stills are V22 images/00009–00013.jpeg and 00016.jpeg, V23 images/00015.jpeg, and V24 images/00016.jpeg. B22 is Emilia’s qualified Meili-inquiry report from V23 part0014#B0272–0284, routed through the admitted frozen V23 witness. The latest default uses the E030 floor-two clash report. Earlier roaming and the E029 witnessed host route are separately selected. The three model repairs and review-case corrections passed documentary retests. V25 remains unopened.
+
+### Manifested Reid24 exact entering routing fragments
+
+These literal fragments preserve the entering V24 publication and readiness statements. The live manifested-Reid24 routing governs the new operation.
+
+#### Entering fragment 1
+
+``````````markdown
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
 ``````````
