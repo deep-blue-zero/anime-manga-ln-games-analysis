@@ -279,6 +279,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Otto Suwen: V01–V13 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_OTTO_SUWEN_V01_V13_CHARACTER_MODEL.md)
 
+<a id="patrasche"></a>
+
+### Patrasche
+
+- Entity ID: `re-zero:patrasche`
+- Entity aliases:
+  - パトラッシュ (ja, ORIGINAL_SCRIPT) — Japanese name as used in the character model's scope and Japanese-evidence sections; the model keeps 地竜 and the reported ダイアナ種 as her kind and breed, not as names.
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:patrasche@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded external-behavior model of Subaru's ground dragon across the original Japanese main light novels V01–V23, built from 75 contextual intervals plus four supplemental windows of already-consumed volumes with seven original stills; her identified appearances run from the V07 approach and Whale hunt through the V09 diversion, V10 gift and Sanctuary, the V11 E014/E015 deaths, V12–V16 restraint, tomb and common travel, the V17–V20 indirect references, the V21–V22 Watchtower approach, cave, adverse E023 outcome and E024 rescue and care, the V22–V23 memory-loss contact, the E026 refusal, injury and rescue, and the E027 morning default. V01–V06 do not identify her; V17–V20 are indirect only; the late E027 shadow engulfment supplies no personal Patrasche state. No V24 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`character-model` — Patrasche: V01–V23 external-behavior character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md)
+
 <a id="petra-leyte"></a>
 
 ### Petra Leyte
