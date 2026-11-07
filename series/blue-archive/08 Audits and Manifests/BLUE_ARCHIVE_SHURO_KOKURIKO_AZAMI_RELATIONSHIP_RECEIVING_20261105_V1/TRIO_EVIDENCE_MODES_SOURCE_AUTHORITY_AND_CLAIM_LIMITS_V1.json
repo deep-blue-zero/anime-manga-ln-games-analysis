@@ -1,0 +1,419 @@
+{
+  "schema": "TRIO_EXACT_C_ONLY_SIX_SOURCE_V1",
+  "role": "SOURCE",
+  "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "authority_control": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "candidate_scope": "IMMUTABLE_C_CREATION_STAGE_ELIGIBLE_ANALYTICAL_AND_PROVENANCE_CANDIDATE",
+  "existing_duty": {
+    "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "home": "/homes/189",
+    "required_csv_physical_line": 191
+  },
+  "operative_stage": {
+    "readiness_V2": "ROOT_ADOPTED_WITH_LIMITS_EXISTING_RELATIONSHIP",
+    "body_V2_suffix": "ROOT_ADOPTED_WITH_LIMITS_EXACT_LITERAL",
+    "finite_retention_plan": "ROOT_ADOPTED_WITH_LIMITS",
+    "different_exact_six_QA": "PENDING",
+    "root_exact_six_new_bytes_adoption": "PENDING",
+    "repository_installation": "PENDING",
+    "publication": "PENDING"
+  },
+  "authority_scope": "These immutable creation-stage candidate records carry bounded maintained analytical and provenance authority for the existing directed trio relationship. Current installed repository authority, source admission, standalone and general model authority, identity adjudication and coverage or count changes remain outside this stage.",
+  "publication_utc": null,
+  "bound_prior_components": [],
+  "source_metadata": {
+    "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT_ONLY",
+    "current_declared_maintained_pins": [
+      {
+        "role": "C001",
+        "C_path": {
+          "trio_exact_local_locator": "L001"
+        },
+        "bytes": 19011,
+        "sha256": "c853a066c88be24c06a3cd06f7ef3c92d5b23fd19f9422e112a0d850c85473d0"
+      },
+      {
+        "role": "C002",
+        "C_path": {
+          "trio_exact_local_locator": "L002"
+        },
+        "bytes": 18737,
+        "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a"
+      },
+      {
+        "role": "V005",
+        "C_path": {
+          "trio_exact_local_locator": "L003"
+        },
+        "bytes": 39115,
+        "sha256": "055a3b80d82823ae3fffe45096b7a5842e99855c78509c1e1ed4eeb5f061b1ef"
+      }
+    ],
+    "current_claim_limits": [
+      "C00162 and V005407 name two different wishes. Kikyou wants Nagusa herself and Renge wants to apologize. No collective reunion/apology wish or completed action.",
+      "C00248 represents Kokuriko escaping. C00250 carries Niya’s later report about all three. C00286 specifies Kokuriko’s unnamed relation to Shuro. No joint escape, family claim or full book mechanics.",
+      "Source grade, recorded roles and received extents belong to actual original and review stages. SOURCE analytical modes add no newly admitted primary, performed, native or private evidence.",
+      "Source mode notes retain their original readiness V1 link as dated data. The accepted readiness V2 is a distinct logical original and never an earlier physical dependency."
+    ]
+  },
+  "selected_records": {
+    "T19": {
+      "schema": "EXISTING_TRIO_REL_ORIGINAL_READINESS_FULL_CLAIM_MODE_ACTOR_RECIPIENT_AND_INFERENCE_NOTES_V1",
+      "UTC": "2026-11-05T03:57:22.512Z",
+      "actor": "/root/kokuriko_m019_bounded_readiness",
+      "role": "Original intellectual claim-mode notes complement the complete readiness, not a different QA or a source replacement.",
+      "complete_readiness": {
+        "filename": "OWN_TRIO_REL_COMPLETE_ORIGINAL_BOUNDED_READINESS_DIRECTED_ARGUMENT_EIGHT_ANSWERS_TWELVE_METHOD_RIVALS_ENDPOINTS_V1.json",
+        "C_path": {
+          "trio_exact_local_locator": "L019"
+        },
+        "bytes": 55862,
+        "sha256": "fa6545b7170922d7e681a451686968d0ff4eaf09106d4e5db116fe98c7ae25d2"
+      },
+      "grade_rule": "Every entry describes a maintained analytical account’s representation or attribution. DIRECT here means represented in that account’s narrated scene, never newly primary/native/audible inspection by this author.",
+      "claims": [
+        {
+          "id": "TR01",
+          "claim": "Shuro accounts to Kokuriko for failed intended work; Kokuriko accepts while proposing a future hostile story.",
+          "actor": "Shuro then Kokuriko",
+          "recipient": "Kokuriko then Shuro",
+          "mode": "MAINTAINED_NARRATED_DIRECT_EXCHANGE_PLUS_ATTRIBUTED_FUTURE_CLAIM",
+          "endpoint": "Failure admission/acceptance occur; the intended complete story and future world-burning capacity do not become established.",
+          "inference": "This supports unequal work accountability and a particular nonpunitive response, not a verified compassionate inner motive.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                30,
+                30
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C001",
+              "physical_lines": [
+                54,
+                54
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR02",
+          "claim": "Azami’s affiliation is visible to the reader before her helper presentation, and she admits escort assignment.",
+          "actor": "Azami",
+          "recipient": "The travelling group; reader has additional affiliation knowledge",
+          "mode": "MAINTAINED_REPRESENTED_PRESENTATION_AND_SELF_REPORT_WITH_READER_CHARACTER_KNOWLEDGE_DIFFERENCE",
+          "endpoint": "Guide/escort conduct and admission are bounded; every resident/food/creature is not authenticated as her fabrication or under her control.",
+          "inference": "Her helper cover is a practical position within the operation, not proof of complete organizational knowledge or absence of genuine ordinary town life.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                28,
+                32
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR03",
+          "claim": "A mansion search exposes Shuro’s harmless private manuscript under the pen name 朽木修羅.",
+          "actor": "Shuro as writer; searchers as discoverers",
+          "recipient": "Searchers/readers at the exposure; intended private audience unprinted",
+          "mode": "MAINTAINED_NARRATED_DISCOVERY_AND_ANALYTICAL_IDENTIFICATION_OF_PRIVATE_WRITING",
+          "endpoint": "The account supplies private harmless authorship, not received full text, genre, quality, volunteered disclosure or another person.",
+          "inference": "Private creative activity retains intrinsic value and may put audience/privacy in question; no specific unprinted audience preference or harm response is invented.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                32
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR04",
+          "claim": "Attack and inward abandonment fear constrain Shuro’s later all-staged boast.",
+          "actor": "Attacking creatures and Shuro",
+          "recipient": "Shuro; later listeners to her boast",
+          "mode": "MAINTAINED_REPRESENTED_ATTACK_AND_INWARD_TEXT_VERSUS_SELF_PRESENTATIONAL_CLAIM",
+          "endpoint": "The contradiction is part of the narrative account. Attacker controller, Shuro’s origin and a clinical explanation are unresolved.",
+          "inference": "A performance claim does not erase the represented fear, while the reader does not gain omniscient access to a stable psychological profile.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR05",
+          "claim": "Kokuriko praises Shuro and Azami while Shuro fears discard and asks about memory/possible disappearance.",
+          "actor": "Kokuriko; Shuro’s represented questioning",
+          "recipient": "Shuro and Azami; Shuro’s own uncertainty",
+          "mode": "MAINTAINED_DIRECT_PRAISE_AND_REPRESENTED_SELF_QUESTION",
+          "endpoint": "Praise is present; secure belonging, explanation of memory gaps or permanent protection are not established.",
+          "inference": "Precarious recognition is an analytical reading of simultaneous praise and fear, not a diagnosis or proof that Kokuriko authored every fear.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                36,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR06",
+          "claim": "Shuro releases the group to seek Kuzunoha while holding Sensei at gun-threat.",
+          "actor": "Shuro",
+          "recipient": "Released group; Sensei as hostage",
+          "mode": "MAINTAINED_NARRATED_ACTION_WITH_RECIPIENTS_KEPT_SEPARATE",
+          "endpoint": "The group searches and Sensei is the hostage in this occasion; Shuro’s own search or an inverted captivity relation is not asserted.",
+          "inference": "Vulnerability and authorship do not remove Shuro’s harmful agency, and Sensei’s earlier help does not establish reciprocal allegiance.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                32
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                36,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR07",
+          "claim": "Niya supplies a blank reconstructed material vessel and strategically appeals to Shuro’s writer pride; Shuro professes loyalty and writes new text.",
+          "actor": "Niya, an unnamed reported material restorer, and Shuro in distinct roles",
+          "recipient": "Shuro for the appeal; later bystanders and affected people for the tale",
+          "mode": "MAINTAINED_NARRATED_PRESENTATION_AND_WRITING_WITH_ATTRIBUTED_RESTORER_REPORT_AND_LOYALTY_PROFESSION",
+          "endpoint": "Material is reportedly rebuilt without old text; Shuro’s new authorship occurs. Niya or the material restorer is not credited with writing it.",
+          "inference": "Agency is exercised under strategic influence; no freely negotiated general consent or completed defection follows.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                44
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR08",
+          "claim": "The newly authored humorous story has a local visible countereffect and audience laughter.",
+          "actor": "Shuro as writer; bystanders as laughing audience; other participants as locally affected",
+          "recipient": "Present audience/foes/participants at this encounter",
+          "mode": "MAINTAINED_NARRATED_LOCAL_EFFECT_AND_REPORTED_POWER",
+          "endpoint": "Creature/laughter/staggering/landed shot/new-power report are local. Full author control, universal mechanics and permanent allegiance are unproved.",
+          "inference": "Intrinsic humor and creative activity remain meaningful beside practical effect; neither utility alone nor moral redemption defines their value.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                44
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                415,
+                415
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR09",
+          "claim": "Kokuriko prevents Azami from threatening Shuro and permits a found path without forced return.",
+          "actor": "Azami’s threatened action; Kokuriko’s intervention and allowance",
+          "recipient": "Shuro as threatened/allowed actor; Azami as constrained enforcer",
+          "mode": "MAINTAINED_NARRATED_INTERVENTION_AND_CONDITIONAL_SPEECH_ACT;RETURN_ENFORCEMENT_IS_ANALYTICAL_INFERENCE_FROM_THE_LOCAL_PAIRING",
+          "endpoint": "A particular threat is stopped and conditional latitude stated. No completed violence, full earlier return order, printed Azami response or permanent policy is established.",
+          "inference": "Calling Azami an enforcer of expected return is a bounded reading of the threat/need-not-force-back pairing, not a quoted formal assignment. Instrumental permission remains a serious motive rival.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR10",
+          "claim": "Writing precedes Kokuriko’s later permission in the received local episode order.",
+          "actor": "Shuro writes in E024; Kokuriko intervenes/allows in E025",
+          "recipient": "Their particular audiences/relations",
+          "mode": "MAINTAINED_LOCAL_SEQUENCE_AND_ANALYTICAL_TEMPORAL_COMPARISON",
+          "endpoint": "The permission cannot be credited as the originating occasion for this already represented tale. No global private calendar or unprinted offscreen instruction is supplied.",
+          "inference": "The local distinction allows recognition of constrained agency without denying continued unequal power.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR11",
+          "claim": "Kokuriko’s forced exposure and admitted earlier pressure remain adverse evidence beside allowance.",
+          "actor": "Kokuriko; students giving coerced self-reports; Nagusa offering a hand",
+          "recipient": "Hyakka students under covered sight; Kokuriko as recipient of the offered hand",
+          "mode": "MAINTAINED_NARRATED_COERCIVE_SETUP_WITH_SELF_REPORTS_AND_ATTRIBUTED_PRESSURE_ADMISSION",
+          "endpoint": "Meaningful fears are exposed under imposed conditions; no exhaustive biography, general voluntariness or permanent conversion is established.",
+          "inference": "Selective restraint toward Shuro cannot by itself vindicate Kokuriko’s treatment of other people or define a clinical cause.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                48,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                74,
+                78
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR12",
+          "claim": "Kokuriko’s represented escape differs from Niya’s later report that all three disappeared.",
+          "actor": "Kokuriko in E026; Niya reporting in E028",
+          "recipient": "Chapter participants/readers; later listeners to Niya",
+          "mode": "MAINTAINED_REPRESENTED_ESCAPE_DISTINCT_FROM_LATER_REPORTED_GROUP_DISAPPEARANCE",
+          "endpoint": "No three-person joint escape replay, shared destination, family reconciliation, stable relationship afterstate or accountability closure is shown.",
+          "inference": "C002:60’s compressed uncaptured summary is read at the fuller48/50 prose grade, not upgraded to direct observation of all three.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                48,
+                50
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                60,
+                86
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR13",
+          "claim": "Wider ordinary food/rest/company/art goods keep their own actors; they do not create a private routine for this trio.",
+          "actor": "The separately named people in V005’s contextual comparisons; the town’s real-seeming residents/produce context",
+          "recipient": "Their actual companions/audiences, not automatically these three",
+          "mode": "MAINTAINED_CONTEXTUAL_PROJECTION_AND_BOUNDED_COMPARISON",
+          "endpoint": "Other actors’ meals, pleasures and boundaries remain positive evidence at projection grade. No underlying BOND/MM/event family or fulltext was opened and no trio household is invented.",
+          "inference": "These comparisons discipline a crisis-only reading and preserve ordinary goods intrinsically; they neither fill absent Kokuriko data nor authorize a global absence claim.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                28,
+                28
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                409,
+                419
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                423,
+                435
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        },
+        {
+          "id": "TR14",
+          "claim": "The three-person relational object is narratively significant despite sparse reverse-direction/private evidence.",
+          "actor": "Shuro, Kokuriko and Azami in the contested E025 relation",
+          "recipient": "Each actor’s different terms of action",
+          "mode": "ORIGINAL_BOUNDED_LITERARY_JUDGMENT_FROM_MAINTAINED_EVIDENCE_AND_METHOD6",
+          "endpoint": "Readiness can be useful with exact unknowns; no literary body, canonical path, count, new identity or completed six symmetric dyads is claimed.",
+          "inference": "The joint enforcement/allowance scene changes the conditions of action and tests hierarchy/agency. Its significance is reasoned, not derived from co-occurrence, popularity, stakes or a scene-count threshold.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                54,
+                54
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ]
+        }
+      ],
+      "necessary_strengthening_if_future_claims_expand": "A future claim of a family/creation origin, native address change, full harmless-manuscript genre, total book control, freely chosen lasting allegiance, clinical causality or settled ordinary afterstate would require a separately authorized exact source inquiry. This readiness does not waive those debts or open new routes.",
+      "rights_and_stop": "Original own C intellectual notes only, same exact three maintained sources. No body/publicsix/source/private/native/AV/N/global/identity/model/count/merge action. Read these notes with the whole readiness/course; different readiness QA and Root actual adoption remain required."
+    }
+  }
+}

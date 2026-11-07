@@ -17,7 +17,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`ascendance-of-a-bookworm`](characters/index/ascendance-of-a-bookworm.md) | 9 |
 | [`attack-on-titan`](characters/index/attack-on-titan.md) | 9 |
 | [`azur-lane`](characters/index/azur-lane.md) | 5 |
-| [`blue-archive`](characters/index/blue-archive.md) | 46 |
+| [`blue-archive`](characters/index/blue-archive.md) | 47 |
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
@@ -311,6 +311,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kobayashi Rindō](characters/index/shokugeki-no-soma.md#kobayashi-rindo) | Shokugeki no Soma manga | `shokugeki-no-soma:kobayashi-rindo@manga` | — |
 | [Kohane](characters/index/project-sekai.md#kohane) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:kohane@game` | — |
 | [Koharu](characters/index/blue-archive.md#koharu) | Blue Archive game | `blue-archive:koharu@game` | — |
+| [Kokuriko](characters/index/blue-archive.md#kokuriko) | Blue Archive game | `blue-archive:kokuriko@game` | — |
 | [Komekko](characters/index/konosuba.md#komekko) | Original light-novel continuity, bounded character study | `konosuba:komekko@original-light-novel` | こめっこ |
 | [Komiyama Ai](characters/index/idoly-pride.md#komiyama-ai) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:komiyama-ai@v2-cross-media` | — |
 | [Konno Erika](characters/index/tomozaki.md#konno-erika) | Bottom-Tier Character Tomozaki light novel | `tomozaki:konno-erika@light-novel` | 紺野エリカ |
