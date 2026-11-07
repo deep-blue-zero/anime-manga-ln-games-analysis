@@ -84,3 +84,5 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0203 — あたたかな思い出を辿って](PJSK_EVENT_0203_DEEP_READING.md): complete 24-story envelope; A granted break and a remembered beginning let the quartet return care to Honami and choose music for themselves; practical support, ordinary tastes and unequal knowledge remain distinct.
 
 - [EVENT_0212 — Echo of a Prayer](PJSK_EVENT_0212_DEEP_READING.md): complete 22-story envelope; Ichika declines a permitted second-agency possibility while retaining personal creation; a successful shared live leaves concern about the cost and an undisclosed institutional prospect. Scoped choice and knowledge I3, with band and other-human I2.
+
+- [EVENT_0220 — Stars Off Orbit](PJSK_EVENT_0220_DEEP_READING.md): complete 22-story envelope; A concrete label offer exposes unequal wishes; received disclosure strains the band, and Honami secures time for unresolved deliberation while ordinary care continues.
