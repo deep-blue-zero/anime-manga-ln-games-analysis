@@ -237,23 +237,23 @@ Scope must be stable and sortable. Artifact responsibility must be clear from th
 
 ## Current state
 
-### Active EVENT_0214–0222 collected-source catch-up
+### Completed EVENT_0214–0222 collected-source catch-up
 
-The owner authorized catch-up to the latest locally collected source material on 2026-11-06. This is a new `continuous_sequential` run under the existing method, architecture and initialized six-ledger layer. Source verification and the older-source comparison are complete; substantive new reading begins at EVENT_0214. The inherited Project SEKAI tree is unchanged by reconciliation commit `3299b92b66474bbe4baadb951bddfd5ea157db55`, which includes main `6393ca952c0a3ca3040976e1e969fa1e40a8d953`.
+The owner authorized catch-up to the latest locally collected source material on 2026-11-06. This is a new `continuous_sequential` run under the existing method, architecture and initialized six-ledger layer. Source verification, the older-source comparison, all nine new event transactions, all 449 supplemental additions and terminal reconciliation/handoff are complete. The inherited Project SEKAI tree is unchanged by reconciliation commit `3299b92b66474bbe4baadb951bddfd5ea157db55`, which includes main `6393ca952c0a3ca3040976e1e969fa1e40a8d953`.
 
 | Operational field | Current value |
 |---|---|
-| Run mode / state | `continuous_sequential` / active |
+| Run mode / state | `continuous_sequential` / closed at the authorized collected generation |
 | Source-current boundary | `PJSK_SOURCE_20261030T035133Z_EVENT_0222`, pipeline v0.2.9; 15,962 canonical stories |
 | Authorized interval | Complete EVENT_0214–0222 envelopes, all 449 additional new side-story segments, and the recorded older-source revisions |
 | Integrated analytical high-water mark | EVENT_0222; 9 of 9 new event transactions closed |
-| Next atomic operation | Read and integrate the 429 My SEKAI additions |
-| Supplemental work | 10 standalone card stories, 8 areas and 2 specials integrated; 429 My SEKAI segments pending |
+| Next atomic operation | Verify current handoff and publication receipt before separately assigned reconstruction or synthesis; NO_NEXT_AUTHORIZED_EVENT |
+| Supplemental work | All 449 additions integrated: 10 standalone card stories, 8 areas, 2 specials and 429 My SEKAI segments |
 | Preserved source revision | One orthographic change in EVENT_0097 episode 7; existing interpretation preserved, historical bytes unchanged |
 | Reuse boundary | 42 previously read card stories have unchanged text/locator/speaker context; new EVENT_0218 association does not change their release history |
 | Reconstruction | All 20 packages remain R3 through EVENT_0140; later changes accumulate as explicit deltas |
 | Inspection lane | Japanese canonical text; no independent AV inspection or performance-readiness promotion |
-| Terminal operation | Reconcile all nine events and supplemental dispositions, update the reconstruction/synthesis handoff, and verify the final published exact-head audit |
+| Terminal operation | Delta reconciliation and updated handoff complete; exact final-head audit and CI/owner main integration tracked separately on the continuation PR |
 
 The [new lock](01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md), [intake and completion checklist](08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) and [exact delta inventory](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) define this run. They do not certify every older non-event corpus item as newly read. The original source lock, prior event readings, explicit errata, EVENT_0170 closure and EVENT_0213 terminal handoff remain historical authorities. Their former next-action or excluded-generation wording does not override the newly authorized current state above.
 
@@ -314,6 +314,14 @@ The [EVENT_0222 reading](03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0222_DEEP_R
 #### Supplemental card/area/special checkpoint
 
 **Twenty supplemental additions are integrated:** birthday and monthly scenes add ordinary characterization; anniversary and special live preparation retain their distinct contexts, recipients and unfinished outcomes. The 429 My SEKAI additions remain pending. No principal-human operative is replaced. The [complete reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_READING.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_CARD_AREA_SPECIAL_MANIFEST.json) close 20 stories / 40 scenes / 1,016 records. All six ledgers and five-unit routing are updated; reconstruction remains through EVENT_0140.
+
+#### Supplemental My SEKAI checkpoint
+
+**All 449 supplemental additions are integrated.** The 429 My SEKAI stories add conditional preferences, refusals, care and recipient-specific knowledge. Exact dates, universal disclosure, completed event outcomes and new human operatives are not inferred. The [complete reading](03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_READING.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SUPPLEMENTAL_20261030_MY_SEKAI_MANIFEST.json) close 429 stories / 429 scenes / 1,566 record memberships, with 117 paired duplicates explicitly distinguished. All six ledgers and five-unit routing are updated; reconstruction remains through EVENT_0140.
+
+#### Current terminal closure and handoff
+
+The [extended reconstruction-delta audit](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0141_0222_RECONSTRUCTION_DELTA_AUDIT.md), [current operational handoff](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0222_SYNTHESIS_RECONSTRUCTION_HANDOFF.md) and [receipt manifest](09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0222_TERMINAL_HANDOFF_MANIFEST.json) close the admitted generation. The comparison preserves sixty EVENT_0140 package files and earlier terminal bytes, adds an explicit Honami E0207 attribution erratum, and distinguishes newly read sources from inherited unchanged authority. All twenty packages need a later evidence/context refresh; eighteen retain material governing-rule revisions. Unit/specialist/full-series textual work is ready to begin, not completed. No R4/R5 or AV promotion is claimed. The older checkpoints below retain their then-current pending work; this closure owns the present run state.
 
 ### Historical EVENT_0171–0213 continuation — terminal audit and handoff complete
 
