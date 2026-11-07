@@ -600,6 +600,22 @@
       "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
     },
     {
+      "series_id": "shihou-yuugi",
+      "stable_slug": "shihou-yuugi",
+      "canonical_title": "Shihou Yuugi: Tatsuya Endo Short Stories / 四方遊戯 遠藤達哉短編集",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/shihou-yuugi/",
+      "canonical_entrypoint": "series/shihou-yuugi/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SHIHOU_YUUGI_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga anthology analysis with independent story identities, source-bounded character and relationship interpretation, and evidence-led collection comparison."
+    },
+    {
       "series_id": "shine-post",
       "stable_slug": "shine-post",
       "canonical_title": "SHINE POST",
