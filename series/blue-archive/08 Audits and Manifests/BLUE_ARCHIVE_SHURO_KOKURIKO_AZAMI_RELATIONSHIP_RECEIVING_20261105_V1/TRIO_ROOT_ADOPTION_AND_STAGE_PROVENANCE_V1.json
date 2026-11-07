@@ -1,0 +1,295 @@
+{
+  "schema": "TRIO_EXACT_C_ONLY_SIX_ROOT_V1",
+  "role": "ROOT",
+  "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_ROOT_ADOPTION_AND_STAGE_PROVENANCE_V1.json",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "authority_control": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "candidate_scope": "IMMUTABLE_C_CREATION_STAGE_ELIGIBLE_ANALYTICAL_AND_PROVENANCE_CANDIDATE",
+  "existing_duty": {
+    "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "home": "/homes/189",
+    "required_csv_physical_line": 191
+  },
+  "operative_stage": {
+    "readiness_V2": "ROOT_ADOPTED_WITH_LIMITS_EXISTING_RELATIONSHIP",
+    "body_V2_suffix": "ROOT_ADOPTED_WITH_LIMITS_EXACT_LITERAL",
+    "finite_retention_plan": "ROOT_ADOPTED_WITH_LIMITS",
+    "different_exact_six_QA": "PENDING",
+    "root_exact_six_new_bytes_adoption": "PENDING",
+    "repository_installation": "PENDING",
+    "publication": "PENDING"
+  },
+  "authority_scope": "These immutable creation-stage candidate records carry bounded maintained analytical and provenance authority for the existing directed trio relationship. Current installed repository authority, source admission, standalone and general model authority, identity adjudication and coverage or count changes remain outside this stage.",
+  "publication_utc": null,
+  "bound_prior_components": [
+    {
+      "role": "SOURCE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 20794,
+      "sha256": "a18ff402cbb7a847b39f59fa033b521bc61338d996fba60b6a1dc8ab9d6b1891"
+    },
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14583,
+      "sha256": "4fa34bfc307c403cd5b8be2b8f8ab95e923a44bc975041a7aa7a55d3bc11da20"
+    },
+    {
+      "role": "AUTHOR",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_AUTHOR_READINESS_AND_LITERAL_BODY_HISTORY_V1.json",
+      "bytes": 133464,
+      "sha256": "07347f3890469d82520e6d9e1113e3c44dae4f45a326b58f2469eea428a182a4"
+    },
+    {
+      "role": "PEER",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_DIFFERENT_READINESS_AND_BODY_REVIEWS_V1.json",
+      "bytes": 114586,
+      "sha256": "c9592aebadcfab0b6b1dbea075115e1ee016664b1ac61f4f9ef70c83d8d5c156"
+    }
+  ],
+  "selected_records": {
+    "T17": {
+      "schema": "ROOT_TRIO_EXISTING_REL_READINESS_ADOPTION_WITH_LIMITS_AND_C_ONLY_BODY_COMMISSION_V1",
+      "utc": "2026-11-05T05:08:22.430Z",
+      "scope": {
+        "id": "P3-REL-SHURO-KOKURIKO-AZAMI",
+        "class": "DIRECTED_RELATIONSHIP",
+        "home": "/homes/189",
+        "required_csv_physical": 191,
+        "existing_required_count": 1,
+        "new_credit": 0
+      },
+      "decision": "ADOPT EXACT V2 ORIGINAL BOUNDED READINESS WITH LIMITS. Commission a distinct C-only connected literary relationship synthesis BODY; no canonical installation or metadata/companion/publication authority.",
+      "exact_basis": {
+        "selected_readiness": {
+          "path": {
+            "trio_exact_local_locator": "L006"
+          },
+          "bytes": 56129,
+          "sha256": "8cffd8918bf82033051071d06da2e0363798fff134b6507376959b40e497e016"
+        },
+        "original_terminal": {
+          "path": {
+            "trio_exact_local_locator": "L033"
+          },
+          "bytes": 9575,
+          "sha256": "dc265485224c142e0ae2405ac8d16b029590ed337bfd1f5525d747e81fd6866c"
+        },
+        "different_terminal": {
+          "path": {
+            "trio_exact_local_locator": "L034"
+          },
+          "bytes": 4493,
+          "sha256": "3a173bb43a46e82e6b671a3417e04abe955d1650e62ec06617ab1b4a03f57b00"
+        },
+        "different_review": {
+          "path": {
+            "trio_exact_local_locator": "L007"
+          },
+          "bytes": 23497,
+          "sha256": "5820e40ef26004d6d139261cfa619aad99a1624bda67d11e07a6f5c954afc01e"
+        },
+        "different_course": {
+          "path": {
+            "trio_exact_local_locator": "L024"
+          },
+          "bytes": 14757,
+          "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44"
+        },
+        "different_readback": {
+          "path": {
+            "trio_exact_local_locator": "L030"
+          },
+          "bytes": 3898,
+          "sha256": "b0dd64cb8ce4296eaaa4de365a97a237742a880ed99eaf7b48da1a688d49dabb"
+        }
+      },
+      "actual_receiving": "Root personally received the original full V2 argument, all fourteen claim modes, author course and full saved meaning readback, terminal and eight questions, plus the different review’s eight arguments, rivals, fidelity/disposition, exact course and saved readback and terminal. Root independently replayed the whole raw four-leaf V1/V2 forward and inverse and received method380–425 and architecture264–272,346–356. Maintained written context only; peer262 and author694/304 are their own exposure, not independent primary attestations or borrowed Root attendance.",
+      "why_distinct": "The local intervention redistributes who can act, enforce and permit. Shuro writes before allowance; Azami’s stopped threat matters as the means of possible enforcement; Kokuriko chooses to constrain that action. A dyad would lose the enforcement actor. The relation can change locally without a stable collective transition; its six orientations are unequal and need not be arranged as equal bonds.",
+      "strongest_rival": "Instrumental retention and tactical noninterference are live and compatible with local latitude. Kokuriko’s acceptance/praise alongside threats, hostile project and coercive exposure leaves motive, duration and future safety open. In the body, explicitly distinguish the recorded threat and allowance from the interpretation that Azami is positioned to enforce expected return. Do not invent an order, an answer from Azami or completed violence.",
+      "creative_and_ordinary": "The harmless private manuscript matters as an authored ordinary act before its emergency utility; humor and actual audience response matter on their occasions. Keep chosen authorship separate from exposure by search, instrumental prompts, and reconstruction of the blank material vessel. Preserve positive goods of other actors with their owners; no inferred trio meal, company routine, manuscript genre or private audience.",
+      "epistemic_and_chronology": "Shuro’s harmful agency, hostage-taking and represented fear must survive alongside writing and a limited permission. Azami’s admission addresses the travelling group; her orientation to Kokuriko is inferred from affiliation and work, not printed address or response. Niya’s strategic appeal does not write the text. Kokuriko’s represented escape is distinct from Niya’s later reported disappearance of all three. No joint escape/reunion, shared afterstate, clinical cause, family relation, completed accountability, general consent, full book mechanics, durable allegiance or primary/native claim.",
+      "commission": {
+        "assignee": "/root/kokuriko_m019_bounded_readiness",
+        "deliverable": "One connected, source-addressed C-only Markdown draft for the existing Relationship Syntheses class, plus a brief original composition/readback and exact pins for different literary QA. No final repo frontmatter, public-six composition, wrapper/registry, implementation, new scope, canonical path or control edits. Use complete evidence-anchored prose rather than a source inventory or equal character miniatures. Body must itself carry major adverse evidence and qualifications. Exact accepted V2 original and review are the baseline. Same author may reuse genuinely personally received unchanged current maintained course with exact pins. No new evidence lane, source or control authorization. A different complete literary review and Root body receiving/adoption follow.",
+        "stop": "Freeze the draft and brief handoff. Keep accepted readiness and all earlier artifacts unchanged. No N/Git/provider/raw/foreign helper/private/contained target access or external handoff. No change to package, named, source, model, publication or merge status."
+      }
+    },
+    "T18": {
+      "schema": "ROOT_ACTUAL_TRIO_EXACT_BODY_V2_ADOPTION_WITH_LIMITS_AND_FINITE_PLAN_ONLY_COMMISSION_V1",
+      "utc": "2026-11-05T05:30:11.940Z",
+      "decision": "ADOPT exact connected V2 body WITH LIMITS for the one existing relationship home. Commission finite C-only public-form planning, not candidate composition, staging or publication.",
+      "scope": "P3-REL-SHURO-KOKURIKO-AZAMI; existing directed relationship /homes/189; requiredCSV191 count1; Relationship Syntheses class; zero completion credit here.",
+      "exact_body": {
+        "path": {
+          "trio_exact_local_locator": "L010"
+        },
+        "bytes": 12935,
+        "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9"
+      },
+      "original_author_records": {
+        "v1": {
+          "path": {
+            "trio_exact_local_locator": "L004"
+          },
+          "bytes": 12914,
+          "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418"
+        },
+        "v1_readback": {
+          "path": {
+            "trio_exact_local_locator": "L009"
+          },
+          "bytes": 7853,
+          "sha256": "a9cf501778090027d9eb721a8702fdc58049a56d9a2c81ea1687e5afda9cbc0d"
+        },
+        "v2_terminal": {
+          "path": {
+            "trio_exact_local_locator": "L028"
+          },
+          "bytes": 4950,
+          "sha256": "a02c47baf7dabbe6490bbf880b6bd715ee78f0be863008a29d878461c92ee92b"
+        },
+        "accepted_readiness_commission": {
+          "path": {
+            "trio_exact_local_locator": "L005"
+          },
+          "bytes": 6981,
+          "sha256": "a98ee51803fdb2c53896fa1fdf2a50a61f5927daf0533b7a61fdb8e334195b76"
+        }
+      },
+      "exact_review_records": {
+        "complete_v1_terminal": {
+          "path": {
+            "trio_exact_local_locator": "L011"
+          },
+          "bytes": 4317,
+          "sha256": "86f8bdc522ae0f5b9e008664421336f3e180d7ac1d80bd0b8141ca5895c2598b"
+        },
+        "complete_v1_review": {
+          "path": {
+            "trio_exact_local_locator": "L022"
+          },
+          "bytes": 19375,
+          "sha256": "37af2aa82935be8d0941011ad2e048e9b87558b3d60a52170208c40ced60b7fe"
+        },
+        "complete_v1_course": {
+          "path": {
+            "trio_exact_local_locator": "L021"
+          },
+          "bytes": 7907,
+          "sha256": "6c9a0fba458aa3ffd5b768064e8c5244157e29fdc7f7876ca3fe7edab4fa91ad"
+        },
+        "complete_v1_readback": {
+          "path": {
+            "trio_exact_local_locator": "L023"
+          },
+          "bytes": 2695,
+          "sha256": "0d9f472372d0f32e6ec6aafc565a78f3d8ea89567104d1fd2094b2869242f4fd"
+        },
+        "v2_finite_terminal": {
+          "path": {
+            "trio_exact_local_locator": "L035"
+          },
+          "bytes": 2629,
+          "sha256": "628b3c7c3c847d448914702594e3081d2511cdc88fddd1355d05b848259b8ce9"
+        },
+        "v2_finite_review": {
+          "path": {
+            "trio_exact_local_locator": "L027"
+          },
+          "bytes": 6300,
+          "sha256": "35795fed0db91b8f1002e7c2a180d2086e8d2ed1836b55c153ec37168da6703d"
+        }
+      },
+      "actual_root_receiving": "Whole V1 body and author saved account; complete different V1 substantive review (eight answers, fifteen paragraphs, eleven notes and disposition), exact course and saved readback; complete V2 changed paragraph and note, C00286 under exact current C002 pin, original precision readback and whole independent finite V2 review/terminal. Independently complete raw forward to actual V2 and inverse to actual V1 with only physical lines27 and43 differing. Exact unchanged prose is same-reader reuse. No borrowed source attendance or new underlying source admission.",
+      "literary_decision": "The relation has a distinct three-position argument because an already enacted choice, the threatened capacity to enforce expected return, and a leader’s selective restriction all have different owners. The essay correctly treats enforcement as inference and preserves the serious instrumental and tactical alternatives to benevolence. Early harmless creative work and later humor matter with their actual author and audiences despite exposure and instrumental contexts. Shuro’s fear and harmful agency remain side by side. C00286 now clarifies which two people share the unnamed relation, without supplying its identity or terms. Represented Kokuriko escape differs from a later reported three-person disappearance. No joint afterstate, private routine, underlying primary/voice evidence, family link, stable reform, complete coercion mechanism, or general model conclusion.",
+      "plan_only": {
+        "assignee": "/root/azami_m006_different_readiness_qa",
+        "task": "Produce a concrete finite C-only publication-retention plan with byte-addressed exact positive originals, intended six function roles, full accepted body retained as exact Markdown literal suffix, complete unique reasons and chronology/source/role/rights preserved at their actual stage. Only directly pinned, positively identified original+review records from this adoption and accepted readiness commission; no underlying targets or broad discovery. Deduplicate only exact repetition with explicit alias and declared inverse where needed; do not cut substantive reasons by file size. Separate original and any new author/reviewer/Root provenance, avoid recursive proof/metadata, and keep exact current storage implications reviewable. No new C candidate bytes/header, N, Git/provider, canonical control/metadata/count/source/identity/model/merge. Independent finite QA and Root actual plan adoption before any separately commissioned composition."
+      }
+    },
+    "R01": {
+      "schema": "ROOT_TRIO_EXACT_FINITE_RETENTION_PLAN_ADOPTION_WITH_LIMITS_AND_C_ONLY_SIX_COMPOSITION_COMMISSION_V1",
+      "utc": "2026-11-05T06:00:10.146Z",
+      "decision": "ADOPT the exact finite plan WITH LIMITS for the existing directed relationship. Authorize one later separate C-only exact-six composition under this pinned plan. No repository installation or count.",
+      "duty": "P3-REL-SHURO-KOKURIKO-AZAMI, /homes/189, requiredCSV191, one already in355; no character or named duty discharge.",
+      "exact_BODY": {
+        "path": {
+          "trio_exact_local_locator": "L010"
+        },
+        "bytes": 12935,
+        "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9"
+      },
+      "exact_plan": {
+        "path": {
+          "trio_exact_local_locator": "N003"
+        },
+        "bytes": 304283,
+        "sha256": "9e764a76d3ec32de1da876c15bed1cc1a6783c4a2c94f397775f70755edcf247"
+      },
+      "author_terminal": {
+        "path": {
+          "trio_exact_local_locator": "N002"
+        },
+        "bytes": 9213,
+        "sha256": "e30c040706668ba4d6448ef672bba891b6b9ca9b3219d9a0963786326884f029"
+      },
+      "different_terminal": {
+        "path": {
+          "trio_exact_local_locator": "N006"
+        },
+        "bytes": 4213,
+        "sha256": "b22811be915ea7925767f4f66e8df60a1b77363418b2009c4063468e5cd59f5a"
+      },
+      "different_records": {
+        "fresh_questions": {
+          "path": {
+            "trio_exact_local_locator": "N001"
+          },
+          "bytes": 2241,
+          "sha256": "dc0b8792b30c13e9a259478a3fe0db91cc7e59f8a657a94e20937fa52e9b01f7"
+        },
+        "complete_QA": {
+          "path": {
+            "trio_exact_local_locator": "N004"
+          },
+          "bytes": 17031,
+          "sha256": "e9fbcc42a50fc63f6e89a04de4dbb491106effbf2d43b5834b1a3aeb0b983550"
+        },
+        "actual_course": {
+          "path": {
+            "trio_exact_local_locator": "N005"
+          },
+          "bytes": 4954,
+          "sha256": "40318868ce5d97e6e861db55333a98b9305650fcd9d993b236c24836c2267fcd"
+        }
+      },
+      "actual_root": "Root received own previously complete selected readiness, SOURCE modes and different prior literary/readiness arguments, complete BODY V1 plus exact V2 changes, and own later V2 adoption. Exact new plan human reasons, course, questions and saved readback, full independent six substantive answers, particular judgments, exact owned course and saved review disposition, and new operative role/storage/locator/grade controls received. Root independent actual saved static plan values restore 24 ordered objects and all26 exact byte pins, with no original norm fallback. Declared complete locator registry transforms160 occurrences/43 exact literals:131 in original records plus 29 in member/source tuples. Actual prior V1/V2 raw and plan suffix are exact in both directions. Reproduced all six in-memory projections and the complete 15 earlier-only prospective intended paths. Pure mechanical counts do not establish source attendance. No target traversal, source admission, model or publication.",
+      "literary_and_rights": "The substantive relationship question remains the three unequal positions of authoring, threatening to enforce expected return, and limiting force. Preserve writing before allowance, actual fear and harmful agency, hostile and tactical motives, quiet creative value and actual owners and audiences, source grade, reports, representation, and unknown later relation/afterstate. T19 readiness V1 reference stays dated; the accepted current V2 readiness is separate. Historical BODY V1 raw recovery is exact through T04 two edits; do not pretend this plan recovers original readiness V1 raw. Seventeen other locator targets are declarations only and closed.",
+      "sizes": {
+        "current_static_projection": {
+          "SOURCE": 19217,
+          "BODY": 12935,
+          "AUTHOR": 125170,
+          "PEER": 83726,
+          "ROOT": 11609,
+          "REGISTRY": 26946
+        },
+        "rule": "All projected role sizes below 1 MiB, exact future bytes must be measured after complete actual wrappers, provenance and bindings."
+      },
+      "commission": {
+        "assignee": "/root/kokuriko_v3_different_finite_qa",
+        "role": "After Nagusa QA; original candidate composer for this stage, earlier different finite plan reviewer; candid prior exposure, not reviewer of own future six.",
+        "action": "C only: retain full exact accepted 22 originals plus finite4 according to current plan with only authorized exact local locator custody and BODY inverse. Capture only newly necessary positive exact review/Root/composer thought at its actual stage before writes, complete unique reasons with finite declared inverse. Compose SOURCE→BODY→AUTHOR→PEER→ROOT→REGISTRY, actual earlier complete length/SHA and intended repo paths all15; five JSON required quartet values top and own authority_control, BODY first YAML plus exact 12935 suffix with11 notes/final LF. Extra truthful scope fields allowed. No public workstation locator inverse or raw/private targets. Unpublished candidates not installed authority, no source/model/identity effect; earlier plan/body actually accepted, different new six QA/Root newbytes/installation/push pending. Verify full actual saved selected value reconstruction/roles/authority/deps/encoding/size, record later factual reading without recursive self/future signatures. New C directory only, no N/Git/provider/global/control/metadata/count/merge/handoff. Any oversized artifact exact storage stop; no trim/shard/minify/waiver. Freeze exact six and brief own complete readback/pins for different review."
+      }
+    }
+  }
+}

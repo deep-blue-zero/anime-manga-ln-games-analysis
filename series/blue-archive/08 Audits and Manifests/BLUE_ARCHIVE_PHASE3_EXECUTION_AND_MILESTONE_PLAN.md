@@ -3,19 +3,47 @@ series: BLUE_ARCHIVE
 artifact_type: analytical_execution_plan
 scope: Phase 3 character, relationship and institution packages across the full eligible cast at the admitted Japanese boundary
 generation: V1
-version: "1.7"
+version: "1.8"
 status: canonical
 source_boundary: "electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; BA_REFRESH_20260928T032248159554Z; 480 MAIN units and 3940 supplemental objects admitted with limits through Cycle008; written Japanese"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-10-09
-updated: 2026-11-04
+updated: 2026-11-05
 canonical_home: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_EXECUTION_AND_MILESTONE_PLAN.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
 # Blue Archive Phase 3 — full eligible cast and four integration milestones
+
+<a id="trio168-relationship-accession"></a>
+## Shuro–Kokuriko–Azami relationship accession — 2026-11-05
+
+Root accepted [the directed relationship synthesis](../04%20Specialist%20Synthesis/Relationship%20Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md) with limits after independent review and exact recovery. The [current accession](BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_CURRENT_PUBLIC_ACCESSION_AND_ROOT_ACCEPTANCE_V1.json) records the six accepted components and activation conditions.
+
+The accepted reading distinguishes Shuro’s private authorship and choice of path, Azami’s escort work and threat, and Kokuriko’s intervention and retained discretion. The maintained account supports an unequal relationship in the represented episode. The wider history of these ties and the manuscript’s text, genre and intended audience remain open.
+
+The Source tracker advances from 167 to 168 when the complete accession is persisted, verified and committed. The breakdown is 121 character, 21 directed relationship, 5 ensemble and 21 institution packages. The named-section count is 19 of 29. The preceding verified remote Source count is 167 and the verified main count is 166. Publication and main integration take effect through their respective receipts.
+
+The first milestone remains integrated at 89. Once this accession is committed, the local Source tracker is ten packages short of 178. Main at 166 is twelve packages short.
+
+<a id="kokuriko167-local-installation-root-v3-accepted"></a>
+## Current Kokuriko167 local installation and completed final V3 acceptance — 2026-11-04
+
+Root has actually adopted the exact final Kokuriko V3 six **WITH LIMITS** and closed the supported public-six authority finding **F01 for those bytes**. Final candidate receiving and reconstruction, the genuinely different finite V3 review, and Root’s disposition of that review are complete. These are completed candidate stages; this statement does not claim that the new metadata transaction has been reviewed, installed, committed or validated. The separate [current accession record](BLUE_ARCHIVE_KOKURIKO_CHARACTER_RECEIVING_20261104_V1/KOKURIKO_CURRENT_PUBLIC_ACCESSION_AND_ROOT_ACCEPTANCE_V1.json) records the actual adoption and the later installation stages without changing any of the frozen six bytes.
+
+This is the existing single character duty `P3-CHAR-M019` / `P3-M019` at `/homes/14`, with dated navigation `P3-A159`. No person, home, source admission, named duty or operational model is added. The candidate’s original scope-only words and its accepted BODY/current-accession evidence routes remain intact.
+
+The verified pre-installation baseline reported by Root is **local/main166 and published source166: 120 character, 20 directed relationship, five ensemble and 21 institution packages, with 19/29 named duties**. Main `7ed6a81d9799b83a762b18921649cabda9be74bd` and remote source `9c724ef06ddc78aab2c58f8788d2b7e95e4c6a2a` preserve the same tree. Root’s C acceptance alone adds zero packages.
+
+**The intended completed local-installation state is local Source167/355 (47.0423%): 121 character, 20 directed relationship, five ensemble and 21 institution packages, with 19/29 named duties. It becomes effective only when Root actually persists the accepted six, the reviewed seven local metadata files and the factual current accession, with the required commitment.** Before that complete persistence, the state remains166/120. Main remains166; the new source push, remote readback, exact-head audit and protected merger remain pending until their actual receipts exist. No future validation result is claimed.
+
+Only the existing M019 required row changes; the other354 required rows and all29 named rows remain exact. One Kokuriko acceptance row appends after178 existing legacy rows, producing179 legacy rows. That tracker length is not the178-package milestone. First89 remains integrated; next178 remains unreached,12 packages away at166 and11 after the actual local167 installation. Required355/29/25/384/788, all14 claim-specific gaps OPEN, operational models0 and the fixed150 consistency audit ACTIVE remain unchanged. Other character, relationship and institutional duties remain separate.
+
+All earlier166/Prenapates and older statements, tuple values and source boundaries remain dated history. The six keep their truthful creation-time pending labels; the actual current accession closes the completed V3 review and Root-adoption gates externally. Separately attributed maintained694 courses and the complete literary argument retain their original grade and limits. Ordinary and sparse creative or personal goods retain their intrinsic value. No source body, private baseline, primary/native/performed evidence or proof queue is added by this installation.
+
+Current continuation: finish Root’s concrete N installation transaction review and factual accession finalization, apply the exact accepted six and reviewed seven, inspect the complete actual diff and read back all installed bytes, then run the final staged author preflight and full gate. After approved-identity commitment, publish without force, read back every remote path and require the actual exact-head audit. Pushed work uses a **draft PR; merge approval remains reserved**. These remaining operations do not repeat completed candidate Root adoption or V3 QA. No N persistence, metadata-QA result, commit, push, audit or merge is invented by this prospective C proposal.
 
 ## 1. Owner instruction and extent
 
@@ -59,7 +87,7 @@ Semantic acceptance requires full received arguments, consequential evidence che
 
 ## 5. Progress and the four merges
 
-**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** Verified pretransaction source3fce and main7339 contain165/355 (119CHAR/20REL/5ENS/21INST),19/29 named; source, actual PR461 mergee0f and current main each have their own complete486/zero-failure/error/skip audit. Complete accepted Prenapates six+shared7 installation and commitment records166/355 (46.7606%;120CHAR/20REL/5ENS/21INST),19/29 named; private preparation adds zero. First89 remains integrated; next178 is unreached,12 remaining after166 (13 at verified165). The178-row legacy tracker is not a milestone. New source/integration heads require actual receipts. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-prenapates-transaction166-and-verified165-source-and-main--2026-11-04) owns current routing.
+**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** Root has actually adopted the final Kokuriko V3 six WITH LIMITS, closed F01 for those exact bytes and completed the candidate V3 review/disposition. The current pre-installation local/source/main baseline is166/355 (120CHAR/20REL/5ENS/21INST),19/29 named. Intended completed local Source167/355 (47.0423%;121CHAR/20REL/5ENS/21INST),19/29 named is effective only when Root actually persists accepted6+reviewed7+the factual current accession with required commitment. Main remains166; new push, remote readback, exact-head audit and merger remain pending until actual receipts. First89 remains integrated; next178 unreached,12 remaining at166 and11 after actual167. Legacy179 rows after the single M019 append are not the178 milestone. All14OPEN/models0/fixed150ACTIVE. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#kokuriko167-local-installation-root-v3-accepted) owns current routing.
 
 The adopted required scope fixes `N=355`, including character, directed relationship, ensemble, institutional, Sensei and register packages. Each package counts once when its declared responsibility has passed semantic acceptance and its complete work is persisted on the series branch. Track drafting, acceptance, source publication and main integration separately. Package rows cannot be marked complete merely because supporting sources have been read.
 
@@ -82,7 +110,7 @@ The current arrangement is local Codex synthesis with bounded parallel target au
 
 The first evidence-supported structural leads are Yuuka (public/institutional and ordinary comparison), Asuna (private/ordinary and peer comparison), Toki (role, belonging and variant-context comparison), with Karin in the same early Millennium cluster. C&C directed ensemble and Millennium governance are separately justified questions. These leads do not fix the full cast or excuse any later eligible package. The complete current scope owns their explicit required homes and unfinished literary responsibilities; drafts and census mechanics are not completion credit.
 
-Current continuation: finish any remaining acceptance, exact13-path installation, fresh current-head/beforeimage guards, unmodified staged author preflight, complete diff review and approved-identity commitment for accepted Prenapates; then ordinary nonforced push, complete remote readback and the actual successor-head audit. Actual receipts close completed prerequisites; protected integration and its actual-SHA postmerge audit remain separate. Continue all355 packages and29 named duties toward178 from166 only after complete persistence, keeping verified source3fce/main7339_165 receipts distinct. Preserve all788 responsibilities/460 home-route dispositions/328 dated-provenance limits and intrinsic quiet/sparse/low-stakes evidence. Other unfinished packages and Phases4–6 retain separate gates; the canonical map remains the sole entrypoint. Claude’s scoped tooling assignment and reserved tooling merge remain separate.
+Current continuation: finish Root’s concrete N installation transaction review and factual current accession, apply the accepted six and reviewed seven, read back all installed bytes and inspect the complete actual diff. Then run final staged author preflight and the full gate, verify approved identities, commit, push without force, read back every remote path and require the actual exact-head audit. Final Kokuriko V3 Root adoption WITH LIMITS, F01 closure for those bytes and candidate V3 review/disposition are already complete and are not repeated prerequisites. Intended local Source167/CHAR121 is effective only on actual accepted6+reviewed7+current accession persistence with required commitment; main stays166 until a separately authorized protected merge. Pushed work uses a draft PR because merge approval remains reserved. Fixed355/29/25/384/788, named19, all14OPEN/models0/fixed150ACTIVE and other duties stay unchanged. No metadata-QA, N persistence, runtime, commit, push or audit result is asserted by this prospective proposal.
 
 ## Dated progress and first-operation text retained — preceding 2026-10-16 control
 
@@ -124,3 +152,12 @@ The complete preceding operative paragraphs retain their dated stages; sections5
 **Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** Verified source8d7209 contains164/355 (119CHAR/19REL/5ENS/21INST),19/29 named, with actual complete readback and full486/zero-failure/error/skip audit41890001158. Main58f6 preserves separately verified163 content and its original integration receipts. Complete accepted Sumire–baseball Rei six+shared7 installation and commitment records165/355 (46.4789%;119CHAR/20REL/5ENS/21INST),19/29 named; private C preparation adds zero. First89 remains integrated; next178 is unreached,13 remaining at165 (14 at source164). New source/integration heads require their own actual receipts. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-sumirebaseball-rei-transaction165-and-verified164-source-publication--2026-11-04) owns current routing.
 
 Current continuation: finish the accepted Sumire–baseball Rei exact13-path transaction with distinct shared-state QA, Root actual new-byte/diff acceptance, fresh current heads and beforeimage guards, unmodified final staged author preflight, approved-identity commit, ordinary nonforced push, full remote readback and exact-head full audit. Completed prerequisites close upon their actual execution; protected integration and its actual-SHA audit remain separate. Continue full355 work and29 named duties toward178 from165 only after complete persistence, keeping source8d7209/164 and main58f6/163 receipts distinct. Preserve all788 responsibilities/460 home-route dispositions/328 dated-provenance limits and intrinsic quiet/sparse/low-stakes evidence. Other unfinished packages and Phases4–6 retain separate gates; the canonical map remains the sole entrypoint. Claude’s scoped tooling assignment and reserved tooling merge remain separate.
+
+
+## Dated Prenapates166 progress before conditional Kokuriko167
+
+The complete preceding operative values remain dated history; current§5–6 and the separate factual accession govern only actually completed later stages. Prior version: `1.7`.
+
+**Required denominator:355. Mandatory substantial named sections:29. Milestones:89/178/267/355.** Verified pretransaction source3fce and main7339 contain165/355 (119CHAR/20REL/5ENS/21INST),19/29 named; source, actual PR461 mergee0f and current main each have their own complete486/zero-failure/error/skip audit. Complete accepted Prenapates six+shared7 installation and commitment records166/355 (46.7606%;120CHAR/20REL/5ENS/21INST),19/29 named; private preparation adds zero. First89 remains integrated; next178 is unreached,12 remaining after166 (13 at verified165). The178-row legacy tracker is not a milestone. New source/integration heads require actual receipts. The [canonical current map](../CURRENT_STATE_AND_CORPUS_MAP.md#current-prenapates-transaction166-and-verified165-source-and-main--2026-11-04) owns current routing.
+
+Current continuation: finish any remaining acceptance, exact13-path installation, fresh current-head/beforeimage guards, unmodified staged author preflight, complete diff review and approved-identity commitment for accepted Prenapates; then ordinary nonforced push, complete remote readback and the actual successor-head audit. Actual receipts close completed prerequisites; protected integration and its actual-SHA postmerge audit remain separate. Continue all355 packages and29 named duties toward178 from166 only after complete persistence, keeping verified source3fce/main7339_165 receipts distinct. Preserve all788 responsibilities/460 home-route dispositions/328 dated-provenance limits and intrinsic quiet/sparse/low-stakes evidence. Other unfinished packages and Phases4–6 retain separate gates; the canonical map remains the sole entrypoint. Claude’s scoped tooling assignment and reserved tooling merge remain separate.
