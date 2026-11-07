@@ -6,6 +6,45 @@ Recorded assessments of subjects in the `shokugeki-no-soma` namespace of the [Ch
 
 ## Recorded assessments
 
+### Subject `shokugeki-no-soma:aldini-takumi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/aldini-takumi@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/aldini-takumi@manga.jsonl)
+
+<a id="shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01"></a>
+
+#### Assessment `shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `shokugeki-no-soma:aldini-takumi`
+- Scope: continuity `shokugeki-no-soma-manga`
+- Source boundary: Only shokugeki-no-soma:aldini-takumi@manga\#reviewed-dedicated-analysis, the active\_provisional bounded character model SHOKUGEKI\_TAKUMI\_CHARACTER\_MODEL.md at basis\_commit, read in full as reviewed repository analysis consolidated from the project's original-Japanese V01-V36 sequential reading including Le dessert. Its linked deep readings, ledgers, evidence matrix and audits were not used as evidence; they are not curated on this subject. The project's substantial readiness label is an input, not a conclusion. No original manga page, anime adaptation or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: The model's six named states from the family-trained early rival \(V03\) through the Mimasaka defeat and tool return \(V10-V11\), Régiment \(V24-V29\) and the BLUE partnership \(V34\), with a compressed adult vocation state. Detailed behavior is supported for the school-era and late-school states only; the adult state, the serialized ending and the Le dessert tiers are not assessed beyond the model's compressed account.
+- Basis commit: `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `422df281f56e37f6b449641a86b19b1fc341d0f787a7750155a31361881ba9bd`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is fixed to the rebuilt post-Election or cooperative late-school state \(Régiment through the BLUE partnership\), or to one earlier named state; the compressed adult state is not used for detailed behavior.
+  - `CROSS_SCENARIO` condition: The situation is a culinary, rivalry or partner-cooking problem in a school or professional kitchen where the model's H rules apply.
+  - `CROSS_SCENARIO` condition: The interlocutor is Isami, Soma, Gin or another recipient in the model's table, or an unfamiliar coworker handled at M with the mezzaluna custody question retained.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description carrying the model's H, M or U label, abstaining on rematch history, adult business arrangements, unseen romance, ordinary conflict policy and automatic tool consent.
+  - `CROSS_SCENARIO` condition: No quoted dialogue is produced as canon, and no readiness is inherited from the project's substantial label.
+  - `CROSS_SCENARIO` bounds: chronology The rebuilt post-Election or cooperative late-school state through the BLUE partnership, or one earlier named state; no detailed adult state.; interlocutor Isami as constitutive partner, Soma as rival and emergency partner, Gin as mentor, or an unfamiliar coworker without invented history.; settings A culinary, rivalry or partner-cooking task is present; Behavioral description with H/M/U labels, not canon dialogue; Abstain where the model abstains
+  - `PROFESSIONAL_CONTEXT` condition: Only culinary work in the school-era or late-school states: family-style service, competition dishes, Régiment team work and partner cooking.
+  - `PROFESSIONAL_CONTEXT` condition: Competence is held to the model's named domains; no universal cuisine, institutional or managerial expertise is assumed, and losses to Mimasaka and Rindō remain limits.
+  - `PROFESSIONAL_CONTEXT` condition: Contributions stay attributed \(Gin's plan, Isami's and Soma's stations\), and adult business arrangements are not invented.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` D; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `adult-endpoint-compressed` (evidence-backed limitation): The adult vocation state is compressed career evidence and does not supply a private life, a rematch tally or business arrangements, even though the model names it as the default.
+  - `isami-not-replaceable` (evidence-backed limitation): Soma's successful substitution in the BLUE partnership does not make Isami replaceable, and the win does not resolve Isami's abduction.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, ledgers, evidence matrix and audits the model links are not curated on this subject, so its volume-keyed claims were not checked against them.
+  - `losses-are-real` (evidence-backed limitation): The Mimasaka, Régiment and Rindō losses are real limits; the Eizan win is not universal foresight, and table skill is not universal expertise.
+  - `no-character-image-verification` (evidence gap): The model records no character-specific image verification or primary reread; it is a consolidation of the earlier sequential reading through analytical retrieval.
+  - `rindo-fear-cause-unestablished` (evidence-backed limitation): Takumi perceives Rindō's fear but does not establish its cause; the model abstains on that cause.
+  - `tool-custody-not-free-access` (evidence-backed limitation): One consensual shared-blade scene with Soma does not license free access to the mezzaluna; voluntary entrustment is on his own terms.
+- Evidence at basis commit:
+  - [`shokugeki-no-soma:aldini-takumi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed16d08d72d08c45e8647d8daac749a8b6f7c6c5/series/shokugeki-no-soma/04%20Final%20Character%20Model/SHOKUGEKI_TAKUMI_CHARACTER_MODEL.md)
+
 ### Subject `shokugeki-no-soma:ikumi-mito@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/shokugeki-no-soma/ikumi-mito@manga.jsonl`](../reconstruction_capabilities/shokugeki-no-soma/ikumi-mito@manga.jsonl)
