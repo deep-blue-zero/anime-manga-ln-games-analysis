@@ -600,6 +600,22 @@
       "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
     },
     {
+      "series_id": "scums-wish",
+      "stable_slug": "scums-wish",
+      "canonical_title": "Scum’s Wish / クズの本懐",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/scums-wish/",
+      "canonical_entrypoint": "series/scums-wish/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SCUMS_WISH_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction."
+    },
+    {
       "series_id": "shine-post",
       "stable_slug": "shine-post",
       "canonical_title": "SHINE POST",
