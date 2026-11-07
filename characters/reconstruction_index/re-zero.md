@@ -713,6 +713,51 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Evidence at basis commit:
   - [`re-zero:regulus-corneas@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1/series/re-zero/05%20Character%20Analysis/REZERO_REGULUS_V01_V19_CHARACTER_MODEL.md)
 
+### Subject `re-zero:reid-astrea@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/re-zero/reid-astrea@light-novel.jsonl`](../reconstruction_capabilities/re-zero/reid-astrea@light-novel.jsonl)
+
+<a id="re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01"></a>
+
+#### Assessment `re-zero-reid-astrea-ln-v22-v24-manifested-model-20261107-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `re-zero:reid-astrea`
+- Scope: continuity `re-zero-main-light-novels`
+- Source boundary: Only re-zero:reid-astrea@light-novel\#manifested-v22-v24-character-model, the canonical generation V1.0 manifested Reid Astrea V22-V24 character reconstruction model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares it was built from 23 targeted intervals of already consumed V22, V23 and V24 with eight original stills, that it covers the manifested examiner and mobile Reid only, and that his original historical life is attributed report only. The project's current-state entrypoint was read for gate state only. The frozen V22-V24 deep readings, the master and five specialist ledgers, the source lock, the reconstruction protocol, the separate Reid fidelity review and the Japanese originals are not curated on this subject and were not used as evidence. No V25 or later, EX, IF, web-novel, supplement, translation or adaptation material is in scope.
+- Temporal boundary: The model's default S13, the V24 RZ-E-030 narrated report of Julius clashing with Reid=Roy on the second floor, outcome, speech and interior unshown, plus its explicit selectors S1-S12 from the V22 E024 Electra first appearance, first Julius contest, Emilia agreement and closed trial through the V23 E026 torment of frightened Subaru, the E027 inquiry report and mobile Reid, the V24 E028 strategy context and mobile contest with Lye and the Julius-Emilia pair, and the E029 takeover testimony, body refusal, shadow cut and fatal slash on Subaru. S0, the original historical Reid, is attributed report only; S6 and S8 are others' reports and deliberations. No state after the E030 report is established, V25 is unopened and no in-world dates are fixed.
+- Basis commit: `141711495d1fc86a86c6db882e6e734ad9efc91e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `254b52ebda130e601849d2c7e6b2cc5cace5f651c206cb60c9f24c8ae73c5487`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: A living state with performed speech is selected explicitly among S1-S5, S7 and S9-S12; the S13 default and S0 produce description or SOURCE\_SILENT, never a current E030 utterance.
+  - `DIALOGUE` condition: Output is short and labeled noncanonical, follows the located coarse register \(オレ, オメエ, 稚魚, 激マブ, clipped imperatives, contracted forms\) and returns JAPANESE\_REGISTER\_SAMPLE\_TOO\_NARROW for polite ceremonial speech, an intimate apology or grieving speech.
+  - `DIALOGUE` condition: Only what he hears, observes or specifically claims in that state is available to him; Subaru's deaths and returns, S8 private dialogue and the failed death-book biography are not given to him.
+  - `DIALOGUE` condition: No performed vocal profile, new catchphrase or exact unheard phrasing is supplied.
+  - `CROSS_SCENARIO` condition: A named state among S1-S5, S7 and S9-S12 is selected and nothing after the E030 report is assumed: no outcome, survival, memory of Subaru's E029 death or later body state.
+  - `CROSS_SCENARIO` condition: The interlocutor is an attested recipient within the knowledge that state allows; a new person receives only appearance-, speech- and performance-based comparison at MEDIUM confidence, with no inherited intimacy, guaranteed violence or guaranteed help.
+  - `CROSS_SCENARIO` condition: The step from the source is one materially novel contest, negotiation, request or interruption of an attested kind, labeled NONCANONICAL\_PROBE, with the matching rules, their exceptions and one adverse case run as section 7.1 requires.
+  - `CROSS_SCENARIO` condition: Whether he spares or kills, his motives, host mechanics, Roy's consciousness, original biography and universal powers end in abstention; sexual intrusion is never supplied as consented or as a reusable successful tactic.
+  - `CROSS_SCENARIO` bounds: chronology One named state among S1-S5, S7 and S9-S12, from the V22 E024 first appearance through the V24 E029 collapse, with that state's receipt and bodily condition \(confined examiner, unbridged mobile Reid, or the E029 witnessed Roy-body state kept separate\); nothing after the E030 report is assumed.; interlocutor Julius as a recurrent challenger drawing contempt and qualified interest; Emilia as the bold negotiator whose individual result he honored, whom he assaulted and whose later requests and invitation-refusal stand; Subaru as a disdained weak challenger without knowledge of his returns; Lye as an intrusive predator; Beatrice, Ram, Shaula and the scarf operator only within their located contacts; strangers only through visible appearance, speech and performance.; settings The Pleiades Watchtower, Electra and the floors and corridors described in V22-V24; No institution, technology or cultural assumption outside the admitted Japanese main light novels through V24; No universal cutting, measured speed, invulnerability, host law or examiner rule beyond located performance and testimony; Open domains end in abstention rather than prediction
+  - `PROFESSIONAL_CONTEXT` condition: Only attested examiner functions: hearing a challenger, accepting or altering an explicit condition \(R05\), conceding an exactly fulfilled condition \(R06\), passing only the individual who met it \(R08\) and closing the trial at his discretion \(R09\).
+  - `PROFESSIONAL_CONTEXT` condition: The trial's original script, its binding mechanism and any rule beyond those shown stay open; his later mobility is not treated as part of the role.
+  - `PROFESSIONAL_CONTEXT` condition: An identical request from another recipient has no established automatic result; acceptance stays uncertain as R05 states.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `assault-and-refusal-no-romance` (evidence-backed limitation): His sexual contact with Emilia is uninvited and answered by an immediate strike, and she later declines his invitation; no consent, date, mutual romance or reusable tactic is established, and her minimizing interpretation does not authorize the act.
+  - `horizon-ends-at-v24` (evidence gap): V25 and later are unopened; the E030 clash outcome and any later state, knowledge or development of the manifested Reid are not in evidence, so this assessment is bounded at V24.
+  - `host-mechanics-and-mobility-open` (evidence-backed limitation): Only the E029 Roy takeover has a witness \(Julius\); the E027 and E028 mobility lacks a same-branch explanation, and Roy's surviving consciousness, consent, the extent of host knowledge and any universal resistance law are open.
+  - `latest-state-reported-only` (evidence-backed limitation): The default E030 state is a narrated report of a clash with no speech, interior or outcome; a current utterance returns SOURCE\_SILENT and a later outcome beyond V24 returns ENDPOINT\_NOT\_YET\_READ.
+  - `motive-underdetermined` (evidence-backed limitation): His internal motives are repeatedly marked underdetermined: the reason for useful interventions \(shoulder, kick clear of fire, shadow cut\), the content of his interest in Julius, and the philosophical scope of 筋 remain open, and conduct is read almost entirely from outward speech and action with one brief focal passage.
+  - `original-historical-life-attributed-only` (evidence-backed limitation): The original historical Reid \(S0\) is known only through Shaula's, Julius's and legendary reports; his childhood, full biography, exact age and historical maximum are unknown, and the death-book strategy yields Louis's Corridor instead of his life.
+  - `printed-voice-only` (evidence-backed limitation): The voice evidence is printed Japanese with ruby and selected stills; the かっ laugh, timbre, timing and any adaptation performance are unavailable, and polite, intimate or grieving registers are too narrowly sampled.
+  - `same-analyst-review-and-pending-gate` (evidence-backed limitation): The model's PASS\_WITH\_BOUND verdict is a same-analyst nonblind documentary review, not an independent, held-out, runtime or global grade; HIGH and MEDIUM rate source support for a bounded rule, not response likelihood. Its front matter records publication\_gate PENDING\_THIS\_OPERATION\_FULL\_GATE, and the project entrypoint, read for gate state only, records the Reid full gate as pending before V25; neither is a capability grade.
+  - `spare-or-kill-unmodeled` (evidence-backed limitation): He spares a defeated Julius with a humiliation rationale, leaves Subaru alive in E026 and kills Subaru in E029; the model records each act but derives no rule for when he uses lethal force.
+  - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V22-V24 deep readings, the master and five specialist ledgers, the source lock, the reconstruction protocol, the separate Reid fidelity review and the Japanese originals are not curated evidence on this subject, so the model's bundle locators and viewed stills were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`re-zero:reid-astrea@light-novel#manifested-v22-v24-character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/141711495d1fc86a86c6db882e6e734ad9efc91e/series/re-zero/05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md)
+
 ### Subject `re-zero:shaula@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/re-zero/shaula@light-novel.jsonl`](../reconstruction_capabilities/re-zero/shaula@light-novel.jsonl)
@@ -721,7 +766,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 
 #### Assessment `re-zero-shaula-ln-v21-v23-model-20261107-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `re-zero:shaula`
 - Scope: continuity `re-zero-main-light-novels`
 - Source boundary: Only re-zero:shaula@light-novel\#character-model, the canonical generation V1.0 Shaula V21-V23 character reconstruction model at basis\_commit, read in full as reviewed repository analysis of the admitted Japanese main light novels; the model declares it was built from 28 contextual intervals of already consumed V21, V22 and V23 with seven original stills, and that her antecedents are attributed report only. The project's current-state entrypoint was read for method, authority order, gate state and scope only. The frozen V21-V23 deep readings, the five specialist ledgers and master ledger, the source lock, the reconstruction protocol, the separate Shaula fidelity review and the Japanese EPUBs are not curated evidence on this subject and nothing is borrowed from them; V24 and later, EX, IF, web-novel, supplement, translation and adaptation material is excluded.
@@ -729,7 +774,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
 - Basis commit: `2ccd93a9781634afa64285d01b7c204cbf589d08`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `fab3bc2800592f40f6ee283f0f8e364147568f263d85312f5612546f4f7c0f78`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `DIALOGUE` condition: A living state is selected explicitly among S2-S6b and S8-S11 \(S11 by default\); S7 and SX produce description or abstention, never living speech.
   - `DIALOGUE` condition: Output is short, behavior-described first, and any stylized line is labeled noncanonical, follows the located register of section 6 \(あーし, お師様, ッス-type endings, the hedge on rule claims\) and keeps お師様 attached to her belief rather than to a proved identity.
@@ -757,6 +802,7 @@ Recorded assessments of subjects in the `re-zero` namespace of the [Character Re
   - `uncurated-readings-ledgers-review-and-primary-sources` (evidence gap): The frozen V21-V23 deep readings, the event, knowledge, mechanics, institution and relationship ledgers, the master ledger, the source lock, the reconstruction protocol, the separate Shaula fidelity review and the Japanese EPUBs are not curated evidence on this subject, so the model's bundle locators and viewed stills were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
 - Evidence at basis commit:
   - [`re-zero:shaula@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/2ccd93a9781634afa64285d01b7c204cbf589d08/series/re-zero/05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md)
+- Stale reason: reconstruction\_status.py work-queue at main 141711495d1fc86a86c6db882e6e734ad9efc91e reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#495 added reviewed evidence re-zero:shaula@light-novel\#v21-v24-character-model \(REZERO\_SHAULA\_V21\_V24\_CHARACTER\_MODEL.md, the V21–V24 successor model\) and a coverage entry, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `re-zero:theresia-van-astrea@light-novel`
 
