@@ -6,6 +6,43 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 
 ## Recorded assessments
 
+### Subject `mushoku-tensei:eris@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl)
+
+<a id="mushoku-tensei-eris-ln-v02-v15-model-20261107-01"></a>
+
+#### Assessment `mushoku-tensei-eris-ln-v02-v15-model-20261107-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:eris`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:eris@light-novel\#character-model, the canonical Eris bounded reconstruction model \(generation V1, revision 1.7\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Eris evidence in V02-V06, V09-V10 and V13-V15 and inspected illustrations used only as presentation evidence. The model routes its observations to an evidence index, the shared state and readiness ledger, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice or reception material is in scope.
+- Temporal boundary: The model's eighteen selectors MT-EM-ST01 to ST18: V02 household pupil and later learning, gifts and boundaries \(ST01-ST02\); V03-V04 displacement, crossing, village peer ties and departure at thirteen, soon fourteen \(ST03-ST04\); V05 independent hunt, first human killing and Paul disagreement \(ST05-ST06\); V06 training, mountain attack, home loss and chosen training departure \(ST07-ST08\); the V09 disclosure of Sword Sanctuary arrival about two years earlier and the extra-frame present at seventeen \(ST09-ST10\); V10 solitary practice and the Auber encounter \(ST11\); V13 reciprocal training with Nina and Isolte and the rest advice \(ST12-ST13\); V14 stated limits against Orsted and the Sword King transmission with intended return \(ST14-ST15\); and V15 letter recipient, collective rescue fighter and prospective spouse, and household newcomer and wife \(ST16-ST18\). V07-V08 and V11-V12 supply no observed state, the V10 rank prolepsis is not present mastery, no earlier state acquires later knowledge and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c1053d16db4ce840ef3f8804e1a7f28c88989798c8dea9412ef74b8a2fef7a73`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-EM-ST01 to ST18 between V02 and V15, with that state's knowledge only; nothing after V15 and no later knowledge in an earlier state.; interlocutor Only attested recipients in their state-specific relation: Rudeus as tutor, companion and later husband; Ghislaine as mentor; Ruijerd as trainer; Paul, Therese, Cliff, Geese, Minitoona and Tersena within their located contacts; Gal, Nina, Isolte and Auber at the Sword Sanctuary; Norn and the other wives in the V15 household.; settings The Boreas household, the travel routes, the Sword Sanctuary, the rescue and the household of the Japanese light novels V02-V15; No modern setting, institution or technology outside the source; No unseen skill, literacy, domestic competence, diagnosis, adult-intimacy scene or future knowledge; Near-analog situations only; materially novel contexts end in abstention
+  - `PROFESSIONAL_CONTEXT` condition: Only attested sword-training and combat-practice situations as near analogs: drills, sparring, technique explanation and exchange, teaching a junior and cooperative defense.
+  - `PROFESSIONAL_CONTEXT` condition: Competence stays sword-domain specific: no literacy, magic, domestic, institutional or political competence is generated from rank or skill.
+  - `PROFESSIONAL_CONTEXT` condition: Fallibility is retained: defeat, need for help and matchup-specific losses stay possible, and rank is not general mastery or victory over Orsted.
+  - `PROFESSIONAL_CONTEXT` condition: Output is behavior described in prose; no quoted speech is generated as canonical, and the selected state's knowledge only.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `direct-speech-not-disclosure` (evidence-backed limitation): Her direct, compressed speech can conceal reasons and produce opposite interpretation \(the V06 note, the V10 demand\); direct words are not shared understanding, and the voice evidence quotes no Japanese wording.
+  - `force-not-default` (evidence-backed limitation): Neither forceful intervention nor restraint is a default: the model locates excessive retaliation and continuing force beside nonviolent defense, a moderated fight and a refused request met without a blow, and leaves the exact valued-person defense trigger UNTESTED after V06.
+  - `horizon-ends-at-v15` (evidence gap): Nothing after V15 is in evidence; later states, knowledge and development are not assessed, and V07-V08 and V11-V12, where she is offstage, supply no state.
+  - `humor-unlocated` (evidence gap): No humorous or playful instance is located, so humor and play are not assessed; this is a gap, not evidence that she lacks humor.
+  - `no-consent-from-attachment` (evidence-backed limitation): Affection, limited permission under care dependency, training, the future diary and marriage do not establish consent; the model requires actual assent and rates adult intimacy INSUFFICIENT\_EVIDENCE.
+  - `retrospective-calibration-only` (evidence-backed limitation): All thirty-two checks are retrospective fits with disclosed prior familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `rudeus-perspective-not-default` (evidence-backed limitation): Rudeus's account repeatedly misreads her; her choices are not to be fitted to his romance script, and his knowledge and interpretations are not hers.
+  - `sword-competence-domain-specific` (evidence-backed limitation): High sword competence and rank do not imply literacy, magic, cooking, domestic or institutional skill, political knowledge or emotional regulation; the model locates uneven literacy and magic and failed V15 domestic and work attempts.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared state ledger, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its observation locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`mushoku-tensei:eris@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:roxy@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl)
