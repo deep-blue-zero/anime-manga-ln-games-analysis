@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: project_changelog
 scope: VERBATIM_ENTRYPOINT_AND_MASTER_HISTORY_THROUGH_V23
-generation: V1.36
+generation: V1.37
 status: canonical
 release_state: append_only_history
 supersedes: []
@@ -6394,3 +6394,11 @@ V23 full gate CLOSED through [PR #467](https://github.com/deep-blue-zero/anime-m
 The [Shaula V1.0 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) cover 25 behavioral decisions and four use guards, with a separately applied nineteen-dimension local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six bounded repair groups. Default is the latest personally witnessed E027 dinner. Shaula’s relation to the later scorpion and her terminal fate stay open. The analyst recovered 28 contextual intervals and viewed seven original stills from the admitted Japanese V21–V23 sources. The 22 older model scopes and grades, five owners and six whole prospective seals retain their bytes.
 
 Next is the Shaula full gate, then Patrasche’s V01–V23 external-behavior model and separate review and its full gate, then sealed V24. CI owns merges.
+
+## Patrasche V01–V23 external behavior and applied fidelity review
+
+Shaula’s full gate closed through [PR #474](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/474) before construction. Exact source `705e870fa007dd80435946bc4d81ee33095ab596`, merge `cd67609a394e0e1e483b3b8713f238724c1a67ca` and main `6393ca952c0a3ca3040976e1e969fa1e40a8d953` shared the Re:Zero subtree. Audits ran 486, 486 and 508 tests with zero nonpasses. Source housekeeping and later immutable proof passed.
+
+The [Patrasche V1.0 model](05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) and [separate fidelity review](08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) bind 27 behavior rules, four caller guards and 19 applied review dimensions. The local grade is PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. E027 morning contact is directly depicted and later Green Room presence is reported. Her response to the night gesture and later fate stay open. V23 remains the source high-water with 605 claims, 26 confirmed Subaru deaths and 27 arrived segments.
+
+Next is the Patrasche full gate and then sealed V24. CI owns merges.
