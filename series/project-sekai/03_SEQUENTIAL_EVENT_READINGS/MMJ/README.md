@@ -69,3 +69,17 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 
 - [EVENT_0151 — Grow glorious glow](PJSK_EVENT_0151_DEEP_READING.md): complete 24-story envelope; Shizuku reincorporates former intensity as chosen shared-stakes responsibility, while Hagiyama Yuu becomes a bounded reciprocal professional rival and the event's successful overextension remains analytically unsafe rather than exemplary.
 - [EVENT_0168 — Cheer with my Heart!](PJSK_EVENT_0168_DEEP_READING.md): complete 27-story envelope; MMJ makes an informed LUMINA Grand Prix entry decision and begins differentiated preparation. Airi's remembered audition loss and particular recipient, Hiyori's televised “heart” principle, and its reported Arisawa source clarify a transmitted ideal without a completed contest or guaranteed audience reach.
+
+- [EVENT_0174 — start rolling! stars' crossing](PJSK_EVENT_0174_DEEP_READING.md): complete 23-story envelope; a reciprocal Minori–Hikarin relationship receives scoped I3, while existing MMJ human/group and Stage-local scopes remain high/bounded I2. The preliminary begins with selected privacy and mixed reception; no qualifying outcome is established.
+
+- [EVENT_0176 — All ways Jump! with you](PJSK_EVENT_0176_DEEP_READING.md): complete 25-story envelope; A shared alternative clarifies chosen interdependence, then actual work and gratitude carry it forward. The group advances at scoped I3 beside a separate bounded tree epistemic owner; human operatives remain intact and mechanisms unresolved.
+
+- [EVENT_0183 — 交わる色はあの日のままに](PJSK_EVENT_0183_DEEP_READING.md): complete 26-story envelope; Shizuku combines the two groups’ artistic strengths and obtains consent to help her rival, producing a shared stage and renewed rivalry without resolving all former-group conflict.
+
+- [EVENT_0190 — この物語は希望をのせて](PJSK_EVENT_0190_DEEP_READING.md): complete 25-story envelope; Haruka coordinates rival idols around an audience-specific sequence, accepts advice without conceding her whole vocation, and receives a successful event and preliminary qualification while Hikarin’s exit preserves the cost of competition.
+
+- [EVENT_0198 — Open up new horizons！](PJSK_EVENT_0198_DEEP_READING.md): complete 23-story envelope; A borrowed method and negotiated shared take turn professional uncertainty into received work; the result returns to idol expression without proving universal mastery or limitless effort.
+
+- [EVENT_0209 — アイドル・花里みのり～夢の最前線～](PJSK_EVENT_0209_DEEP_READING.md): complete 26-story envelope; Minori receives concrete evidence of hope reaching new people; Toya retains pain alongside present music and play; Nene chooses to keep the shy origin of her wish to improve. New Nene self-continuity supplements existing craft and leadership.
+
+- [EVENT_0213 — Leap Beyond The Limits！](PJSK_EVENT_0213_DEEP_READING.md): complete 22-story envelope; Changed judging conditions lead to a reasoned, collectively accepted stage direction centered on Shizuku. Haruka/group successors and bounded knowledge changes end at commitment, with performance and result still unshown.

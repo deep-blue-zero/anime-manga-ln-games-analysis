@@ -70,3 +70,19 @@ Source Drive folder ID: `1j8YFzVX5Y6PNPpV5sNbV4MMGLuw2wPwC`.
 - [EVENT_0147 — Happy Enjoy Music！](PJSK_EVENT_0147_DEEP_READING.md): complete 26-story envelope; Saki turns sincere enjoyment, room-reading, invitation, and adaptation into a tested audience-participation method, Iori opens a scoped professional/community channel, and one song-specific Solis commission reaches completed public execution.
 
 - [EVENT_0162 — Find the dream view](PJSK_EVENT_0162_DEEP_READING.md): complete 33-story envelope; Shiho and the quartet co-design an audience-tested arena opening set while preserving the difference between an offered opener, a possible later co-bill, and an unearned self-headline aspiration. Honami and Interstice Luka's fragment encounters remain exceptional and bounded.
+
+- [EVENT_0171 — ordinary,yet special us](PJSK_EVENT_0171_DEEP_READING.md): complete 24-story envelope; a shared alternative life clarifies that affection alone does not maintain shared time. Actual reciprocal recognition and ordinary follow-through advance the group, while observed station-tree change remains distinct from proposed mechanisms and four character histories are preserved.
+
+- [EVENT_0173 — Unsteady, still steady step](PJSK_EVENT_0173_DEEP_READING.md): complete 27-story envelope; Honami coordinates preparation and researches two worthwhile audiences, but the outside offer is withdrawn before she chooses. Existing human, group and Solis owners receive strong I2; the decision-making difficulty remains open, with no new I3. All five routes and six ledgers are integrated.
+
+- [EVENT_0182 — 君と繋ぐHeart Beat](PJSK_EVENT_0182_DEEP_READING.md): complete 22-story envelope; Ichika’s personal song generates reciprocal artistic exchange and new creative chains, leading her to welcome interpretations beyond her intention while Shiho’s different response remains open.
+
+- [EVENT_0188 — 仰ぐ夜空に、星は紛れて](PJSK_EVENT_0188_DEEP_READING.md): complete 24-story envelope; A successful first professional solo concert clarifies Saki’s wish for intimate audience contact; she hides that wish to preserve the quartet, while the others experience a shared step toward wider reach.
+
+- [EVENT_0195 — Path made by faith](PJSK_EVENT_0195_DEEP_READING.md): complete 24-story envelope; Shiho performs with the person who first invited her into bass and learns that her sound already reached her; television gives the quartet’s established work new, specifically received public expression.
+
+- [EVENT_0203 — あたたかな思い出を辿って](PJSK_EVENT_0203_DEEP_READING.md): complete 24-story envelope; A granted break and a remembered beginning let the quartet return care to Honami and choose music for themselves; practical support, ordinary tastes and unequal knowledge remain distinct.
+
+- [EVENT_0212 — Echo of a Prayer](PJSK_EVENT_0212_DEEP_READING.md): complete 22-story envelope; Ichika declines a permitted second-agency possibility while retaining personal creation; a successful shared live leaves concern about the cost and an undisclosed institutional prospect. Scoped choice and knowledge I3, with band and other-human I2.
+
+- [EVENT_0220 — Stars Off Orbit](PJSK_EVENT_0220_DEEP_READING.md): complete 22-story envelope; A concrete label offer exposes unequal wishes; received disclosure strains the band, and Honami secures time for unresolved deliberation while ordinary care continues.

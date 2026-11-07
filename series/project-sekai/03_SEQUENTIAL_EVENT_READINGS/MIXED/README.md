@@ -69,3 +69,35 @@ This directory contains event readings and integration checkpoints whose declare
 - [EVENT_0159 — Connect hearts message](PJSK_EVENT_0159_DEEP_READING.md): complete 23-story mixed envelope; Saki, Emu, and Shiho move a company-study exercise into differentiated paid event work, while Saki–Emu school friendship gains beyond-committee reciprocal continuity.
 
 - [EVENT_0160 — You are my HERO!!](PJSK_EVENT_0160_DEEP_READING.md): complete 23-story mixed envelope; Tsukasa reconstructs a retiring owner's original show and adapts it around an independently inspected ride stoppage with audience participation and direct recipient feedback.
+
+- [EVENT_0179 — Link the Beats！](PJSK_EVENT_0179_DEEP_READING.md): complete 37-story envelope; Six local singers visit other established SEKAI and return with selective experience. Stage Miku refines an offer of warmth for a particular recipient; repeated tree care does not reopen a route.
+
+- [EVENT_0180 — Wishes in Bloom！](PJSK_EVENT_0180_DEEP_READING.md): complete 64-story envelope; The six Interstice singers encounter a newly formed shared space and investigate its tree, while five ordinary human continuations keep future outcomes open. Earlier card associations retain their original chronology and state ownership.
+
+- [EVENT_0181 — Our Golden Days](PJSK_EVENT_0181_DEEP_READING.md): complete 28-story envelope; A shared island festival renews An and Haruka’s reciprocal rivalry, while ordinary leisure, remote Nightcord participation and two owner-specific shard encounters retain distinct consequences and witnesses.
+
+- [EVENT_0189 — ともに、トゥルールートを目指して](PJSK_EVENT_0189_DEEP_READING.md): complete 22-story envelope; Kohane asks that Mafuyu remain part of their success; Mafuyu revises the game strategy, acknowledges received inclusion and chooses a shared keepsake while broader preference and family conflicts remain open.
+
+- [EVENT_0191 — 新年言祝ぐ、祈りの舞](PJSK_EVENT_0191_DEEP_READING.md): complete 26-story envelope; A recipient-specific festival succeeds through distributed work; Shiho elects to retain painful history, Emu reaffirms distributed park stewardship, and the unexplained shrine encounter remains unresolved.
+
+- [EVENT_0194 — 粉砕せよ！アンヴァレンタインの復讐](PJSK_EVENT_0194_DEEP_READING.md): complete 22-story envelope; A game’s secret role becomes an unexpected shared ending; respected authorship, actual enjoyment and reciprocal performance extend established relationships without converting fictional outcomes into biography.
+
+- [EVENT_0197 — 悪夢の庭を歌い明かして](PJSK_EVENT_0197_DEEP_READING.md): complete 22-story envelope; Close reading and reciprocal practice make different voices useful together; the author’s receipt does not exhaust the work or verify its inferred biography.
+
+- [EVENT_0202 — 約束のPasserelle](PJSK_EVENT_0202_DEEP_READING.md): complete 21-story envelope; Temporary shared-world contact enables a particular collaborative song; distinct experiences of grief support a recipient’s own wish while ordinary privacy, local identities and future uncertainty remain.
+
+- [EVENT_0205 — Great Yell for Dreamers！](PJSK_EVENT_0205_DEEP_READING.md): complete 24-story envelope; A temporary shared-world meeting becomes practical support for two dancers; their own choices, negotiated partnership and a collectively remade performance keep the dream open while access and privacy remain limited.
+
+- [EVENT_0206 — 最果てへと飛ぶキミへ](PJSK_EVENT_0206_DEEP_READING.md): complete 22-story envelope; A short caregiving encounter leaves material and relational traces; lace, a personal concert and a public tribute offer particular comfort without undoing loss or guaranteeing healing.
+
+- [EVENT_0207 — Into the New Light](PJSK_EVENT_0207_DEEP_READING.md): complete 21-story envelope; Four helpers support a creator through success and renewed distress; Mafuyu chooses selective honesty and receives usable freedom of manner, while new work, world access and future comfort remain bounded.
+
+- [EVENT_0211 — 君の隣、君と見る明日](PJSK_EVENT_0211_DEEP_READING.md): complete 21-story envelope; A costly opening, an initially failed conversation and a co-created show/song support two recipients’ chosen reunion. Selective autobiographical disclosure and observed fragment joining widen knowledge without guaranteeing access, cure or future admission.
+
+- [EVENT_0214 — Again And Again Ambition！](PJSK_EVENT_0214_DEEP_READING.md): complete 21-story envelope; A rescue, an inadequate first intervention and an actual rejected submission support a bounded sibling acknowledgment and recipient-owned next attempt; fatigue, rivalry, local-singer differences and uncertain future access remain.
+
+- [EVENT_0215 — Mix&Make Party Time!!](PJSK_EVENT_0215_DEEP_READING.md): complete 25-story envelope; Shared preparation becomes an actual party, reciprocal letters, illustrated memories and chosen thanks; a brief unidentified song response remains narrower than stable world access.
+
+- [EVENT_0218 — Connect to SEKAI！](PJSK_EVENT_0218_DEEP_READING.md): complete 95-story envelope; A common twenty-human/six-observer reunion becomes practical repeat visits and ordinary company; changed shared-world access preserves individual privacy, local distinctions and incomplete plans.
+
+- [EVENT_0219 — Side by Side, Our Ways！](PJSK_EVENT_0219_DEEP_READING.md): complete 26-story envelope; A shared creative award and future messages deepen received support; Saki retains a still-conflicting wish, while Interstice Miku’s retrospective encounter has a bounded audience and unknown cause.
