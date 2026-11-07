@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 53; `SUPERSEDED` 8
+- Recorded totals: `CANDIDATE` 54; `SUPERSEDED` 8
 
 ## Namespaces
 
@@ -29,7 +29,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 1 | 1 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 16 | 16 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 17 | 17 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 2 | 2 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
@@ -78,6 +78,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
+| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `CANDIDATE` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
