@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 54; `SUPERSEDED` 8
+- Recorded totals: `CANDIDATE` 52; `STALE` 2; `SUPERSEDED` 7
 
 ## Namespaces
 
@@ -34,7 +34,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
-| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 15 |
+| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 14 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -89,10 +89,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
-| `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-portfolio-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
+| `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01) | `CANDIDATE` | `E` | `324f59ddda9d0e63580561945794502da259d0ea` |
 | `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01) | `SUPERSEDED` | `E` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `tokyo-7th-sisters:asami-miwako@game` | [`tokyo-7th-sisters-asami-miwako-game-b0222-b0232-b0239-portfolio-20261103-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-asami-miwako-game-b0222-b0232-b0239-portfolio-20261103-01) | `CANDIDATE` | `E` | `f04291f0d4d265f2a73ff9d5e118e7212449e5a4` |
-| `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02) | `CANDIDATE` | `E` | `d9e8afadad27059178f541b6cb38792e1c1a3df4` |
+| `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02) | `STALE` | `E` | `d9e8afadad27059178f541b6cb38792e1c1a3df4` |
 | `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-portfolio-20261101-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-portfolio-20261101-01) | `SUPERSEDED` | `E` | `ba230369f74b7aa47a4d01951221cf18b8b99b3e` |
 | `tokyo-7th-sisters:enami-madoka@game` | [`tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-b0246-portfolio-20261105-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-b0246-portfolio-20261105-01) | `CANDIDATE` | `E` | `818573f3d67491f1213772143e85baabd77cdf17` |
 | `tokyo-7th-sisters:enami-madoka@game` | [`tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01) | `SUPERSEDED` | `E` | `dc7d803dcf13c48e633991a9cc89e497e732aec1` |
@@ -100,6 +100,5 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tokyo-7th-sisters:futagawa-mimi@game` | [`tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-futagawa-mimi-game-b0189-portfolio-20261030-01) | `SUPERSEDED` | `E` | `dc7d803dcf13c48e633991a9cc89e497e732aec1` |
 | `tokyo-7th-sisters:maezono-rishuri@game` | [`tokyo-7th-sisters-maezono-rishuri-game-b0204-b0232-b0237-portfolio-20261104-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-maezono-rishuri-game-b0204-b0232-b0237-portfolio-20261104-01) | `CANDIDATE` | `E` | `ed6e1a4928dbb303ed3ad60cb95d353c89eda18d` |
 | `tokyo-7th-sisters:maezono-rishuri@game` | [`tokyo-7th-sisters-maezono-rishuri-game-b0204-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-maezono-rishuri-game-b0204-portfolio-20261030-01) | `SUPERSEDED` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
-| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-b0232-b0239-b0247-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
-| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01) | `SUPERSEDED` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
+| `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01) | `STALE` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
 | `yuru-camp:shima-rin@manga` | [`yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`](reconstruction_index/yuru-camp.md#yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
