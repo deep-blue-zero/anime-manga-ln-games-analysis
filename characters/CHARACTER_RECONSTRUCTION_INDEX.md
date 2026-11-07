@@ -15,14 +15,14 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 56; `SUPERSEDED` 9
+- Recorded totals: `CANDIDATE` 57; `SUPERSEDED` 9
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 1 | 1 |
-| [`blue-archive`](reconstruction_index/blue-archive.md) | 2 | 2 |
+| [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
@@ -45,6 +45,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | --- | --- | --- | --- | --- |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
+| `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
