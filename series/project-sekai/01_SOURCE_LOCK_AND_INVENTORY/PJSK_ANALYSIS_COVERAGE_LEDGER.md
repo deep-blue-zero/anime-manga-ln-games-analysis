@@ -4,7 +4,7 @@ artifact_type: coverage_ledger
 scope: ANALYTICAL_LAYER
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0221
+current_event_boundary: EVENT_0222
 source_current_boundary: EVENT_0222
 source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
 reconstruction_package_cutoff: EVENT_0140
@@ -18,9 +18,9 @@ do_not_use_as_current_authority: false
 # Project SEKAI Analysis Coverage Ledger
 
 <!-- UNIT_BACKFILL_0029_0090_START -->
-## Current coverage — all five human units synchronized through EVENT_0221
+## Current coverage — all five human units synchronized through EVENT_0222
 
-The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0221 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0221` (EVENT_0166 and EVENT_0186 absent from the frozen lock).
+The founded-unit EVENT_0029–0090 backfill is complete. The 62-release interval has **310 explicit unit-event impact dispositions**: no cell is deferred or absent. Existing EVENT_0001–0028 and source-present EVENT_0091–0222 integrations remain in force, so Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands×Showtime and Nightcord at 25:00 now share continuous event-history tracking through `EVENT_0222` (EVENT_0166 and EVENT_0186 absent from the frozen lock).
 
 Artifacts:
 
@@ -37,9 +37,17 @@ This closes event-history coverage only. Character-package readiness and later s
 
 ## Active catch-up — source generation through EVENT_0222
 
-The owner authorized a new continuous collected-source catch-up on 2026-11-06. **Source-current is EVENT_0222; integrated event analysis remains EVENT_0221.** 8 of 9 EVENT_0214–0222 transactions are integrated; 1 remains, together with 449 newly added standalone-card, area, special and My SEKAI stories outside their envelopes. The [intake](../08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) lists their exact counts and completion requirements; the [new source lock](PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md) and [delta manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) bind the current generation.
+The owner authorized a new continuous collected-source catch-up on 2026-11-06. **Source-current is EVENT_0222; integrated event analysis remains EVENT_0222.** 9 of 9 EVENT_0214–0222 transactions are integrated; 0 remain, together with 449 newly added standalone-card, area, special and My SEKAI stories outside their envelopes. The [intake](../08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) lists their exact counts and completion requirements; the [new source lock](PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md) and [delta manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) bind the current generation.
 
-Integrity comparison verified 670 added stories and no removals, 42 unchanged prior-read stories newly reused by event association, and 36 older raw-segment revisions. Only Nagi's concessive spelling at `PJSK:event:0097:07:006:0049` changes normalized text; the source-context review preserves existing interpretation. Metadata-only associations do not change release dates or narrative knowledge. Newly added text is not claimed read by inventory verification. **Next: EVENT_0222.** The terminal closures below remain historical; the new run and its separate supplemental obligations govern current continuation. Reconstruction remains R3 through EVENT_0140.
+Integrity comparison verified 670 added stories and no removals, 42 unchanged prior-read stories newly reused by event association, and 36 older raw-segment revisions. Only Nagi's concessive spelling at `PJSK:event:0097:07:006:0049` changes normalized text; the source-context review preserves existing interpretation. Metadata-only associations do not change release dates or narrative knowledge. Newly added text is not claimed read by inventory verification. **Next: SUPPLEMENTAL_SOURCE_TRANSACTIONS.** The terminal closures below remain historical; the new run and its separate supplemental obligations govern current continuation. Reconstruction remains R3 through EVENT_0140.
+
+## EVENT_0222 — complete envelope integrated
+
+The fully read envelope is **20 core chapters / 24 scenes / 2,636 records / 321,903 canonical bytes**, all released `2026-10-26T06:00:00Z`. It is a narrated retrospective from MMJ formation to the adopted E0213 semifinal strategy, not a new post-E0221 adventure or completed contest. No associated non-core sources occur in the verified envelope. Canonical/pinned-raw/structured integrity, ordered identities, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Source publication and depicted history remain distinct; AV is uninspected.
+
+**EVENT_0222 is fully integrated:** twenty narrated retrospective chapters select MMJ formation, freelance organization, audience reciprocity, media, rivals and the adopted semifinal strategy. Current operative and knowledge owners remain intact; original complete readings retain context omitted by compression. No semifinal performance/result, universal reconciliation or new shared memory access is established.
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0222_DEEP_READING.md) and [routing inventory](PJSK_EVENT_RELEVANCE_AND_ROUTING_LEDGER.md#event_0222--forward-discovery-and-integrated-routing) cover all five human-unit dispositions and every envelope surface. All twenty chapters are independently read. Historical decisive changes remain at their original positions. The retrospective strengthens characterization without creating a new operative successor; ordinary life, independent developments, permission, bounded recipients and unresolved outcomes survive omissions. All earlier ledger bodies, readings and package bytes remain preserved. The nine event transactions are closed; 449 supplemental stories and the terminal reconciliation/handoff remain required. Reconstruction stays R3 through EVENT_0140; terminal reconciliation and the updated handoff remain required.
 
 ## EVENT_0221 — complete envelope integrated
 

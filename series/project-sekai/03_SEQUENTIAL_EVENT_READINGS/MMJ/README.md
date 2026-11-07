@@ -83,3 +83,5 @@ Since import, [EVENT_0073](PJSK_EVENT_0073_DEEP_READING.md) supplies a complete-
 - [EVENT_0209 — アイドル・花里みのり～夢の最前線～](PJSK_EVENT_0209_DEEP_READING.md): complete 26-story envelope; Minori receives concrete evidence of hope reaching new people; Toya retains pain alongside present music and play; Nene chooses to keep the shy origin of her wish to improve. New Nene self-continuity supplements existing craft and leadership.
 
 - [EVENT_0213 — Leap Beyond The Limits！](PJSK_EVENT_0213_DEEP_READING.md): complete 22-story envelope; Changed judging conditions lead to a reasoned, collectively accepted stage direction centered on Shizuku. Haruka/group successors and bounded knowledge changes end at commitment, with performance and result still unshown.
+
+- [EVENT_0222 — MORE MORE JUMP！ Memories](PJSK_EVENT_0222_DEEP_READING.md): complete 20-story envelope; A narrated retrospective connects formation to the adopted semifinal strategy; current states and omitted original context remain authoritative, with the contest still ahead.
