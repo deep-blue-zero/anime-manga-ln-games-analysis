@@ -4,7 +4,7 @@ artifact_type: routing_ledger
 scope: FULL_SERIES_EVENTS
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0170
+current_event_boundary: EVENT_0220
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "forward EVENT_0170: N25 actual four-person recommitment and bounded Empty tree/shard/song epistemic successors I3; shared possible lives remain nonactual; complete 29-story envelope verified; forward EVENT_0169: VBS witnessed world-stage benchmark and collective conditional RUSH BEATS route I3; Kohane street receipt and Embers rivalry bounded I2; complete 24-story envelope verified; forward EVENT_0168: MMJ informed LUMINA entry and distributed preparation I3; Airi childhood heart/recipient origin and reported Arisawa–Hiyori transmission high I2; complete 27-story envelope verified; forward EVENT_0167: WxS actual quartet recommitment and bounded Wonderland harbor tree/shard epistemic successor I3; shared professional futures remain nonactual; complete 26-story envelope verified; forward EVENT_0165: Mafuyu family trial and renewed refuge, nonmonotonic self-state, Kanade–Mafuyu relation, and untested Empty key I3; complete 24-story envelope verified; Emu institution-facing experiment and reciprocal Emu–Ryō collaboration I3; first audience response bounded, long-term viability open; complete 23-story envelope verified; VBS group recommitment and bounded Street tree/shard epistemic successors I3; shared possible lives remain nonactual; complete 24-story envelope verified; forward EVENT_0162: Leo/need staged arena opener; Shiho operative and group aspiration I3; exceptional fragment and audience limits I2; complete 33-story envelope verified; forward EVENT_0161: Mafuyu-chosen conditional maternal contact I3; distinct testimony, Kanade overwork and N25 care I2; complete 25-story envelope verified; forward EVENT_0160: Tsukasa site-responsive farewell operative I3 under independent ride inspection; complete 23-story envelope verified; forward EVENT_0159: Saki–Emu beyond-committee school friendship I3; recipient-specific paid event work high I2; complete 23-story envelope verified; forward EVENT_0158: Honami recipient-tested storytelling operative and reciprocal Honami–Nene co-performance relationship I3; complete 23-story envelope verified; forward EVENT_0157: Haruka fallible hope vow, MMJ distributed scarcity response, and Arisawa Grand Prix invitation at high I2; complete 26-story envelope verified; forward EVENT_0156: Shizuku recipient-specific embroidery operative and Shizuku–Mafuyu reciprocal creative relationship I3; complete 23-story envelope verified; forward EVENT_0155: Saki subject-informed visual-expression successor and reciprocal Saki–Kanade cross-unit relation I3; complete 23-story envelope verified; forward EVENT_0154: Toya cross-genre synthesis, VBS enacted international session, Shūji sibling support, and father-history relationship successors I3; complete 25-story envelope verified; forward EVENT_0153: Haruka parent-directed guilt, An grief-memory integration, Airi–Akito reciprocal-support, and human thought-shard ontology I3; complete 27-story envelope verified; forward EVENT_0152: Rui participant-authored direction and Rui–Kohane creator–recipient relationship successors I3; complete 23-story envelope verified; forward EVENT_0151: Shizuku chosen-responsibility and Shizuku–Yuu professional-rivalry successors I3; complete 24-story envelope verified; forward EVENT_0150: Mizuki conditional-return, Ena–Mizuki repair, N25 group, MEIKO, and disclosure-knowledge successors I3; complete 31-story envelope verified; forward EVENT_0149: Nene full-stake competitive-acting successor and Nene–Byakkomachi relationship I3; complete 25-story envelope verified; forward EVENT_0148: Shiho rest-and-contingency and Hinomori-sister owners I3; complete 24-story envelope verified; forward EVENT_0147: Saki audience-participation, Saki–Iori, and Solis execution successors I3; complete 26-story envelope verified; forward EVENT_0146: Akito post-goal expressive, VBS group, Slade rivalry, and Street-SEKAI open-path successors I3; complete 28-story envelope verified; forward EVENT_0145: Mizuki disclosure-attempt, Ena-Mizuki rupture, and forced-knowledge successors I3; complete 22-story envelope verified; forward EVENT_0144: Nene distributed-production and Rui loneliness-integration successors I3; complete 29-story envelope verified; forward EVENT_0143: Ichika song-specific professional-choice, Ichika–School Miku, and Solis relationship successors I3; complete 24-story envelope verified; forward EVENT_0142: Haruka recipient-responsive public challenge and Haruka–An reciprocal friendship successors I3; complete 23-story envelope verified; forward EVENT_0141: Emu participant-centered implementation and Mafuyu–Emu reciprocal-care relationship successors I3; complete 23-story envelope verified; forward EVENT_0140: bounded origin-memory, repeatable counterpart-observation, and shared-growth SEKAI ontology successor I3; complete 36-story envelope verified; forward EVENT_0139: Toya recipient-facing music operative and Kanade reciprocal-creative relation I3; complete 23-story envelope verified; forward EVENT_0138: Airi ideal-performance operative and Akari reciprocal-peer relation I3; complete 29-story envelope verified; forward EVENT_0137: School-SEKAI station epistemic I3 and Leo/need collective-journey group successor; complete 30-story envelope verified; forward EVENT_0136: Tsukasa embodied-acting operative and Onijima mentorship I3; complete 28-story envelope verified; forward EVENT_0135: RAD BLAST surpassal, Kohane operative, VBS group, mentorship, and Street-audience successors; complete 24-story envelope verified; forward EVENT_0134: Mafuyu fear-aware disclosure and father-alliance successors; complete 28-story envelope verified; forward EVENT_0133: Haruka producer-method I3 and MMJ group-governance successor; complete 26-story envelope verified; forward EVENT_0132: Minori-Nene reciprocal public-work relationship I3; complete 23-story envelope verified; forward EVENT_0131: Emu audience-perspective acting method and Mikazuki professional relation; complete 23-story envelope verified; forward EVENT_0130: Stage flower-field epistemic I3 and MMJ shared-direction group successor; complete 30-story envelope verified; forward EVENT_0129: An fear-aware rivalry, An-Kohane partner, and Street-audience reactivation successors; complete 27-story envelope verified; forward EVENT_0128: Ichika recipient-led arrangement, Ichika-Saki coauthorship, and Solis debut-release successors; complete 27-story envelope verified; forward EVENT_0127: Ena vocational-commitment and father reciprocal-knowledge relationship successors; complete 27-story envelope verified; forward EVENT_0126: bounded Akito-Honami cross-unit support owner and Max-specific fear-work integration; complete 23-story envelope verified; forward EVENT_0125: Toya integrated-musical-history operative and father artistic-recognition relationship successors; complete 24-story envelope verified; forward EVENT_0124: Wonderland responsive-voyage epistemic I3 and WxS shared-growth group successor; complete 30-story envelope verified; forward EVENT_0123: mixed high-I2 recipient-care gathering; very strong Kanade–Ichika relationship application; no new owner; complete 23-story envelope verified; forward EVENT_0122: Minori recipient-hope and MMJ physical-base successors at I3; bounded landlord relation; complete 27-story envelope verified; forward EVENT_0121: Honami musical-leadership and Leo/need group-purpose/leader successors at I3; complete 24-story envelope verified; forward EVENT_0120: mixed photo-craft I2; bounded Kohane–Ena competitive-recognition relationship; no new I3 operative; complete 23-story envelope verified; forward EVENT_0119: Rui medium-aware direction operative I3; bounded Rui–Ohara professional relationship I3; group production support preserved; complete 23-story envelope verified; forward EVENT_0118: expanded Street-SEKAI epistemic I3; four distinct personal routes converge without human operative replacement; complete 35-story envelope verified; forward EVENT_0117: Mizuki fear-aware preference-support successor I3; Mizuki–sister reciprocal relationship successor I3; Shiho and Shizuku bounded I2 applications; complete 24-story envelope verified; forward EVENT_0116: Kanade permitted-desire successor I3; one-sided Kanade–father I3; bounded Mafuyu–father I2; other N25 and Empty authorities preserved; complete 28-story envelope verified; forward EVENT_0115: ensemble I2; MMJ and LN animal-care, safety-response, chosen-leisure, and Stage-local continuity; no new I3 or named I2 owner; complete 24-story envelope verified; EVENT_0099–0115 goal boundary reached; forward EVENT_0114: Nene person-specific collaborative-directing operative I3; scoped Nene–classmates reciprocal integration I3; VBS production labor and Mizuki costume teaching preserved proportionally; complete 23-story envelope verified; forward EVENT_0113: Tsukasa sparse-role acting operative I3; scoped reciprocal Tsukasa–Reki professional relation I3; independent troupe and Wonderland topology preserved; complete 24-story envelope verified; forward EVENT_0112: Mafuyu shared identity-search successor I3; Empty-SEKAI lake epistemic I3; bounded Honami–Mafuyu domestic-support I2; other N25 humans, group, and singers preserved; complete 30-story envelope verified; forward EVENT_0111: Shizuku choice-support operative I3; MMJ–Saito manager I3; Saito-family permission I3; group and Stage topology preserved; complete 25-story envelope verified; forward EVENT_0110: Shiho recipient-purpose operative I3; bounded historical Shiho–Sumire I2; Leo/need group, Solis, individual-purpose, and School routes preserved; complete 28-story envelope verified; forward EVENT_0109: Akito expressive-release operative I3; group–Ken executed-mentorship successor I3; scoped Street-audience rekindling I3; bounded Street Luka I2; complete 24-story envelope verified; forward EVENT_0108: ensemble I2; Ichika recursive-connection purpose and cross-unit school/post-crisis continuity; no new I3 owner; complete 28-story envelope verified; forward EVENT_0107: An–Mizuki reciprocal school-friendship relationship successor I3; no new character operative; complete 23-story envelope verified; forward EVENT_0106: Saki reciprocal-memory operative I3; Haruka–Saki relationship successor I3; Saki–Airi reciprocal hope relationship I3; complete 23-story envelope verified; forward EVENT_0105: bounded cross-SEKAI direct-contact epistemic successor I3; all five human units receive manifestation-support I2; complete 25-story envelope verified; forward EVENT_0104: Emu stewardship operative I3; independent WxS group I3; bounded park institutional handoff I3; complete 23-story envelope verified; forward EVENT_0103: Kohane singer-pride operative I3; group–Ken mentorship I3; Toya–father conditional-permission successor I3; complete 23-story envelope verified; forward EVENT_0102: Airi–Mizuki direct relationship I3; bounded Saki–Mizuki work relation I2; Airi professional skill and MMJ group strong I2; complete 23-story envelope verified; forward EVENT_0101: formal Solis affiliation I3; Ichika recursive connection-purpose successor I3; Leo/need group and School topology strong I2; all four other human units cross-unit high I2 with recipient limits; complete 23-story envelope verified; forward EVENT_0100: Mafuyu self-authored survival departure I3; Mafuyu-mother direct-rejection and separation I3; Kanade-Mafuyu enacted refuge I3; Empty KAITO bounded crisis-collaboration I3; complete 23-story envelope verified; all five human-unit routes resolved; forward EVENT_0099: Rui outside-show friendship operative I3 and Rui-classmates relation I3; bounded Airi-Mafuyu public-school relation I2; prior Rui, WxS, N25, MMJ and manifestation authority preserved; complete 24-story envelope verified; all five human-unit routes resolved; Project SEKAI event-review envelopes; universal routing inventory through EVENT_0149; 0 earlier universal screens remain pending; EVENT_0001 historical universal screen and all unit dispositions integrated; EVENT_0002 existing complete pass enriched and all unit dispositions integrated; EVENT_0003 historical universal screen and WXS I3/LN I1 interpretation complete; EVENT_0004 complete by retained discovery and targeted founded enrichment, all five unit dispositions integrated; EVENT_0005 corrected universal discovery and all founded unit dispositions integrated; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified; historical EVENT_0012 VBS Toya operative I3; MMJ Minori and N25 Ena-context I1, LN/WxS I0; 28-story envelope verified; historical EVENT_0013 LN unresolved I2 and Ichika–Nene relationship I3; WxS/LN dyads I2, MMJ/VBS I1, N25 I0; 32-story envelope verified; historical EVENT_0015 WxS I2 open park-threat knowledge and planning; LN relationship I2, MMJ/VBS/N25 I0; 29-story envelope verified; historical EVENT_0016 LN/WxS sibling epistemic and relationship I3; Toya–Tsukasa cross-unit relationship I3; Honami and Toya I2; complete 32-story envelope verified; historical EVENT_0017 MMJ Minori recipient-specific hope I3; group and established mentorship dyads I2; LN ordinary I1; complete 25-story envelope verified; historical EVENT_0018 LN Ichika public-performance epistemic I3; Ichika–Kohane relationship I3; LN/VBS/WxS/MMJ/N25 bounded I1/I2 refinements; complete 29-story envelope verified; historical EVENT_0020 LN group-direction I3 at LN-REL-G-E0020; bounded LN/MMJ/VBS/WxS and School-manifestation I1/I2 refinements; complete 31-story envelope verified; historical EVENT_0021 Akito operative I3, Akito-Toya successor I3 and bounded Akito-Arata rivalry I3; VBS/MMJ/Street refinements; complete 23-story envelope verified; historical EVENT_0022 Airi-Ena cross-unit relationship I3; N25, MMJ, WxS, family and Stage refinements; complete 26-story envelope verified; historical EVENT_0023 Haruka self-directed-rest operative I3 and local Stage MEIKO identity; complete 29-story envelope verified; historical EVENT_0024 Rui outsider-collaboration I3, Toya-Rui relationship I3, Toya-father de-escalation successor I3 and Akito-Rui relationship I2; complete 25-story envelope verified; historical EVENT_0025 provisional park-state successor I3 with bounded group, park-support, cross-unit and Wonderland-singer I1/I2; complete 30-story envelope verified; historical EVENT_0027 Saki recipient-and-feeling composition operative I3 with bounded LN group, care, School-singer and cross-unit I1/I2; complete 27-story envelope verified; historical EVENT_0028 Kohane relational-confidence operative I3 with preserved VBS partner/group topology, An-side open pressure and Street-local I2; complete 26-story envelope verified; historical universal screens complete; forward EVENT_0091: Saki two-aim professional rule and prospective Solis affiliation under review are distinct I3 owners; LN group direction remains strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0090 to EVENT_0091; forward EVENT_0092: Airi communication operative and Airi–Ayumi relationship are distinct I3 owners; Stage KAITO is local I2; MMJ group remains strong I2; complete 26-story envelope verified; forward boundary advances from EVENT_0091 to EVENT_0092; forward EVENT_0093: Mizuki survival-retreat operative and Mafuyu–mother relationship are distinct I3 owners; two scoped epistemic I2 records added; N25 group and Mizuki–Mafuyu relationship remain strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0092 to EVENT_0093; forward EVENT_0094: Haruka chosen-friendship operative I3; school network and Ichika–Nene relationship receive the only strong I2 increments; MMJ group, LN states and Stage topology preserved; complete 23-story envelope verified; forward boundary advances from EVENT_0093 to EVENT_0094; forward EVENT_0095: Nene integrated-musical-acting operative I3 and bounded Nene–Yuka high-I2 relation; WxS group, Rui, Sakurako and Wonderland relations strong I2; Nene EVENT_0008 operative preserved; complete 25-story envelope verified; forward boundary advances from EVENT_0094 to EVENT_0095; forward EVENT_0096: relationship-centered I2 with no new I3; Kanade–Honami very strong I2; Honami operative strong I2; bounded Honami–Mizuki I2; Kanade, Honami–Emu, School and WxS topology preserved; complete 24-story envelope verified; forward boundary advances from EVENT_0095 to EVENT_0096; forward EVENT_0097: An grief-aware informed-pursuit operative I3; An–Ken concealment-rupture successor I3 with repair open; bounded high-I2 An–Nagi posthumous relation; VBS group, partner, individual, rivalry and Street topology preserved; complete 26-story envelope verified; forward boundary advances EVENT_0096 to EVENT_0097; final forward EVENT_0098: Minori structural-choice operative I3; bounded local Stage Len I2 distinct from Stage KAITO; Minori hope, Haruka friendship/capacity, MMJ group, cross-unit and collective Stage owners preserved; complete 24-story envelope verified; forward boundary advances EVENT_0097 to EVENT_0098; authorized queue complete"
 supersedes: []
@@ -29,7 +29,11 @@ Older route blocks and event readings retain `DEFERRED_PENDING_FOUNDATION` as an
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
 
-## Current routing authority — EVENT_0140 fully integrated
+## Current routing authority — EVENT_0171 fully integrated
+
+The complete [EVENT_0171 discovery inventory and disposition](#event_0171--forward-discovery-and-integrated-routing) below is current. Earlier current/next wording preserves its event-local history. The new owner-authorized EVENT_0171–0213 run remains active.
+
+## Historical routing authority — EVENT_0140 fully integrated
 
 **EVENT_0140 is fully integrated:** `EPI-PJSK-SEKAI-E0105 → EPI-PJSK-SEKAI-E0140` advances bounded cross-SEKAI ontology through a SEKAI-originating signal, origin-fragment access, newborn-manifestation observation, retained six-observer comparison, repeatable Interstice viewing, selected sensory leakage, and a strongly supported but still provisional shared growth space. All five units receive high-I2 founding reconstructions of local singer care while their current human owners remain unchanged. `CR-PJSK-SEKAI-040` is revised/strengthened and provisional `CR-PJSK-SEKAI-041` is strengthened. The verified envelope is 36 stories / 54 scenes / 2,131 records. No unrestricted or corporeal routine travel, permanent portal, complete historical archive, guaranteed access to every memory, deterministic SEKAI formation formula, proven identity of the shared place, predictable seedling behavior, shared singer mind, global singer identity, automatic biography transfer, human or public knowledge of the Interstice observations, persistent direct counterpart relationship, current human-state successor, retroactive removal of later conflict, or complete reconstruction is certified. The boundary advances EVENT_0139 to EVENT_0140. The EVENT_0116–0140 continuation is complete.
 
@@ -4152,3 +4156,2458 @@ The frozen `EVENT_0170` traversal comprises eleven World Link core chapters, eig
 | Airi, Shizuku, Rui / MMJ, WxS | INCIDENTAL/I1 actual monthly contacts; scenario versions of Airi and Rui are not actual witnesses or successors. Leo/need and VBS NONE/I0 for unit-state change. |
 
 The [full reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0170_DEEP_READING.md) owns the shared conditional field, actual group and tree observations, differentiated character lives, cards/areas, compact reconstruction delta and exclusions. The authorized EVENT_0116–0170 source-present continuation ends here, with EVENT_0166 absent from the frozen lock.
+
+## EVENT_0171 — forward discovery and integrated routing
+
+The franchise-wide discovery screen precedes baseline-relative disposition. The frozen envelope contains eleven World Link chapters, eight card halves (1189–1192), five World Link areas and no separately listed unlock-dependent or other cross-link: **24 stories / 69 scenes / 2,047 records / 248,975 canonical bytes**. Every text is completely read, every canonical digest and normalized pinned raw segment verified, and ordered structured identities reconciled. All 24 chronology identity/timestamp rows match; only core rows populate `linked_event_id`, with card/area event association owned by the release manifest. Core `2025-06-23T11:00:00Z`, cards `2025-06-23T03:00:00Z`, and areas `2025-07-05T11:00:00Z` describe publication associations, not narrative elapsed time.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0171:01` | `02_CANONICAL_STORIES/EVENT/0171_01.md` | 5 | 112 | `d0ce768e2865e9b10adaab0b8583424cca97a643e6d8d68327a53d39b7547147` |
+| `PJSK:event:0171:02` | `02_CANONICAL_STORIES/EVENT/0171_02.md` | 3 | 89 | `d68abf62fefa8d719933e9e814b9e0979e8e78e5f3f7da76815212896dda0448` |
+| `PJSK:event:0171:03` | `02_CANONICAL_STORIES/EVENT/0171_03.md` | 5 | 131 | `d749979c741d131eac5c48ab15484219a4f40ddce76599da3d9201f00a3cdee3` |
+| `PJSK:event:0171:04` | `02_CANONICAL_STORIES/EVENT/0171_04.md` | 5 | 109 | `de3549bfb414bbb18099a9c489ab79e8ca2bf0e703ae248169515f29f7f1ed36` |
+| `PJSK:event:0171:05` | `02_CANONICAL_STORIES/EVENT/0171_05.md` | 4 | 135 | `f0b228f33a435062ee71a9e19964495fea11c8da8e5110f4ff557b7c6ea2e053` |
+| `PJSK:event:0171:06` | `02_CANONICAL_STORIES/EVENT/0171_06.md` | 5 | 101 | `366583b9595f75ecae90a5c276d7bec4ef11a16294dacc1196df9dee5d7d82f3` |
+| `PJSK:event:0171:07` | `02_CANONICAL_STORIES/EVENT/0171_07.md` | 1 | 123 | `e64ec7f9dde575cbbd7d273fb817ebc2d55149c21872cfc6cc210f3dfff49f24` |
+| `PJSK:event:0171:08` | `02_CANONICAL_STORIES/EVENT/0171_08.md` | 6 | 127 | `72c545746d36722a6d6fd8af367515f0cec6503f67bbef3cb138297e487fd389` |
+| `PJSK:event:0171:09` | `02_CANONICAL_STORIES/EVENT/0171_09.md` | 5 | 176 | `c7f90699c915d62fc27465e08c9a1730b53858779e0bc5f662a3e39eeb4d2167` |
+| `PJSK:event:0171:10` | `02_CANONICAL_STORIES/EVENT/0171_10.md` | 6 | 290 | `b247ea3b8acc9a70b9e3f037405cb70141576ba5aa5b6d713569dc188f3685d3` |
+| `PJSK:event:0171:11` | `02_CANONICAL_STORIES/EVENT/0171_11.md` | 2 | 90 | `fb0a24a86cfb62fd9a51d473157a9409a16d09c611f6396522ac0a905b24419b` |
+| `PJSK:card:1189:01` | `02_CANONICAL_STORIES/CARD/1189_01.md` | 3 | 66 | `bdcc3bf4e4c4f49cd98f80f60eeab55f4bb7b2e240cf94c02c5b0f61128726c1` |
+| `PJSK:card:1189:02` | `02_CANONICAL_STORIES/CARD/1189_02.md` | 1 | 61 | `ca113dc94c8c69f8ff1943ba4208a00c16e0a547549bed69cdf3113212102537` |
+| `PJSK:card:1190:01` | `02_CANONICAL_STORIES/CARD/1190_01.md` | 3 | 62 | `2085f5b271880624ff77cdeb8e0ee4a48898a4a50e4fe6e9c46efc1c51769a32` |
+| `PJSK:card:1190:02` | `02_CANONICAL_STORIES/CARD/1190_02.md` | 1 | 59 | `cd342fd4c5b1a9222c4b7cb8b1b4d0e8835a660cb961b0744e3937cf3274e7f3` |
+| `PJSK:card:1191:01` | `02_CANONICAL_STORIES/CARD/1191_01.md` | 2 | 56 | `62705a7d538552e3d8633223a227037f144ace2f3a4d2cb0c69ad23a704f3abb` |
+| `PJSK:card:1191:02` | `02_CANONICAL_STORIES/CARD/1191_02.md` | 2 | 75 | `ca44b31cbcd876a7a5ce12165eeb9a6ea90c221c99854918582bb3032385c86e` |
+| `PJSK:card:1192:01` | `02_CANONICAL_STORIES/CARD/1192_01.md` | 4 | 71 | `6ee0bb8d3727749e9f7bb7c441c49d039c57be316e3917f7847b6811e5b12e01` |
+| `PJSK:card:1192:02` | `02_CANONICAL_STORIES/CARD/1192_02.md` | 1 | 60 | `db4a5c803ec6940b2b16b5c368ec123abe0852396923459fa097a0653d9ebecf` |
+| `PJSK:area:areatalk_wl_band_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_band_02_001_01.md` | 1 | 11 | `1d448705ed1b261552fb7ea67a2a9467ead156f6a7ebf83b4704554312f2003b` |
+| `PJSK:area:areatalk_wl_band_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_band_02_002_01.md` | 1 | 12 | `e0fb3d0f5e429b247f708a0de207b07eb60967a915ba0a5da39017b1bc086d3e` |
+| `PJSK:area:areatalk_wl_band_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_band_02_003_01.md` | 1 | 12 | `53fdaefd64cd75267a3e6af28588219712482c01ecf7ef746b1b9f79f95a992c` |
+| `PJSK:area:areatalk_wl_band_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_band_02_004_01.md` | 1 | 11 | `1ea73e9a73bf9ed6b79a39aefdff1eff6c4fdb04d05488ee0a910893d9d08abb` |
+| `PJSK:area:areatalk_wl_band_02_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_band_02_005_01.md` | 1 | 8 | `d8141d8d7b4c0c7c1f361cda9d85c18aaaf01c66f35695f03ec83895f7050edf` |
+
+### EVENT_0171 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need quartet | PRIMARY/VERY HIGH scoped I3; `LN-REL-G-E0162 → LN-REL-G-E0171`: shared conditional distance followed by actual reciprocal recognition and deliberate ordinary follow-through. |
+| School-SEKAI epistemic | CO_PRIMARY/HIGH local scoped I3; `EPI-LN-SEKAI-E0137 → EPI-LN-SEKAI-E0171`: covering, failed waking attempts, compatible recollection and enlarged tree; origin and mechanism hypothetical. |
+| Ichika / Saki / Honami / Shiho | CO_PRIMARY/HIGH I2; preserve separate actual authorship, companionship, leadership/care and craft owners. Field careers and school histories remain nonactual. |
+| Six School singers | SUPPORTING/local I2; distinct observation, counsel, credit-return, monitoring and instrumental help. The field Miku song/software and local Miku are context-qualified, not one universal identity. |
+| Solis / Shindo / interviewer | SUPPORTING/I1; actual completed interview and reported media interest; no published feature or confirmed television booking. |
+| Mio / Iori / school and family participants | SUPPORTING within scenario; meaningful alternative relationships, not actual STANDOUT membership, friendships revised by the field or witness knowledge. |
+| Wonderlands×Showtime / Tsukasa | INCIDENTAL/I1, scenario only; supportive sibling exchange without actual troupe or character successor. |
+| Nightcord at 25:00 / Kanade | INCIDENTAL/I1, scenario reference only; reported DTM example and household-help connection, not actual new contact or Nightcord knowledge. |
+| MORE MORE JUMP! / Vivid BAD SQUAD | NONE/I0; complete-envelope screen finds no material unit route. |
+
+The [full reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0171_DEEP_READING.md) is the single canonical owner for field/actual distinctions, seven-lens interpretation, all card/area dispositions and compact reconstruction deltas. All six ledgers integrate only the bounded consequences. Video/CG placeholders and performed voice remain outside this text inspection. EVENT_0172 is next under the new EVENT_0171–0213 authorization; the earlier EVENT_0170 run closure remains historical.
+
+## EVENT_0172 — forward discovery and integrated routing
+
+Franchise-wide discovery precedes the five-unit impact assignment. The complete frozen envelope is **29 stories / 46 scenes / 1,992 records / 260,887 canonical bytes**: eight core chapters, fourteen card halves (1194–1200), two monthly areas and five event areas. Every text is fully read. Canonical checksums, normalized pinned raw segments, ordered structured identities, normalized content hashes and all chronology identity/timestamps reconcile. No separate unlock-dependent or additional cross-linked story is listed. The release manifest supplies card/area event association; blank chronology linkage cells are not fabricated. Core publication is `2025-07-07T08:00:00Z`, cards 1194–1198 `03:00:00Z`, cards 1199–1200 and event areas `06:00:00Z` on that date; both monthly areas retain anomalous `2023-09-29T15:00:00Z` metadata. Publication association does not locate Ena's or KAITO's separate experience within the workshop's narrative calendar.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0172:01` | `02_CANONICAL_STORIES/EVENT/0172_01.md` | 2 | 114 | `0d7500e134d69e0545269c4562e0a197738835aee3c3185adc689117bdca46df` |
+| `PJSK:event:0172:02` | `02_CANONICAL_STORIES/EVENT/0172_02.md` | 2 | 95 | `2ce07fd7eb48f5d82c85b896643482bd64ff0331527360905c8cd166ce497554` |
+| `PJSK:event:0172:03` | `02_CANONICAL_STORIES/EVENT/0172_03.md` | 3 | 106 | `f63eb6799edc3e7a5ae9a2586e443874fb2111b95305a7ad2bcab2b99d791004` |
+| `PJSK:event:0172:04` | `02_CANONICAL_STORIES/EVENT/0172_04.md` | 2 | 150 | `7cd7231559208a3ac44563afb3571ce8e031f7d91ae24383b7cf5ced5a7cdd7d` |
+| `PJSK:event:0172:05` | `02_CANONICAL_STORIES/EVENT/0172_05.md` | 5 | 118 | `79bff1a25d9b8af62cbddc312edac6898a74c7a19a5b7f8cc459dee7d6d4d425` |
+| `PJSK:event:0172:06` | `02_CANONICAL_STORIES/EVENT/0172_06.md` | 2 | 112 | `fb910e5a185061e8c60914c1539b7034035d1095464dc2e5a6fabaffde748b12` |
+| `PJSK:event:0172:07` | `02_CANONICAL_STORIES/EVENT/0172_07.md` | 2 | 121 | `f6b9a84ea3d87f688f2fffdf2cb70d7ba911e4e6118189842d1d5534253aada1` |
+| `PJSK:event:0172:08` | `02_CANONICAL_STORIES/EVENT/0172_08.md` | 1 | 149 | `ec3552911342527b074f3243c8c03d8cf1e480c044d5581363328ef6cdc1bcfd` |
+| `PJSK:card:1194:01` | `02_CANONICAL_STORIES/CARD/1194_01.md` | 4 | 86 | `a4b039bbbc3164334c93640b386c7223f894cccf87a4c5846b81843e35b5ba16` |
+| `PJSK:card:1194:02` | `02_CANONICAL_STORIES/CARD/1194_02.md` | 1 | 116 | `15225ca3d3dab117956afa03142bd831cc78637eeeb4b59db727b81ff5528c7e` |
+| `PJSK:card:1195:01` | `02_CANONICAL_STORIES/CARD/1195_01.md` | 2 | 103 | `f8156be25c62951095ddae08e856f4b30571d6737de39ea8fa290a63715b8a32` |
+| `PJSK:card:1195:02` | `02_CANONICAL_STORIES/CARD/1195_02.md` | 1 | 110 | `a8ebf959c0c36f411354d5f2860bf8b3c0ddc7d511be8299be0ea2e2e85c652d` |
+| `PJSK:card:1196:01` | `02_CANONICAL_STORIES/CARD/1196_01.md` | 2 | 65 | `e4a6cbcd6479f0a1e190af657bcbae06615f1566a6d95d5646db60701367d2a0` |
+| `PJSK:card:1196:02` | `02_CANONICAL_STORIES/CARD/1196_02.md` | 1 | 53 | `7ea0e5498862e4e105f270701d6e22c5d32737616b090698b30c5a8714d0c709` |
+| `PJSK:card:1197:01` | `02_CANONICAL_STORIES/CARD/1197_01.md` | 1 | 52 | `487c896832b6f26711620afa3ac09f031cba7cb7fe60c8ee416bd1c444331a98` |
+| `PJSK:card:1197:02` | `02_CANONICAL_STORIES/CARD/1197_02.md` | 2 | 46 | `dc5a10ccfcb7444747e13109f4569d5dd4cfa77b5f9db9fa257a441466ffe3fb` |
+| `PJSK:card:1198:01` | `02_CANONICAL_STORIES/CARD/1198_01.md` | 1 | 59 | `ebd41446f0623744e4b98eb9626675fc1d3938ee4fe65227975d7de1ec242e46` |
+| `PJSK:card:1198:02` | `02_CANONICAL_STORIES/CARD/1198_02.md` | 1 | 50 | `c63284f57aef19576c831ab5db80e97c319e80a23367b40e853d576766a7e80c` |
+| `PJSK:card:1199:01` | `02_CANONICAL_STORIES/CARD/1199_01.md` | 1 | 60 | `47a737b8f538b03612a94c5e648c3601b0ca0609c2a935c979862dd8c1f77b4a` |
+| `PJSK:card:1199:02` | `02_CANONICAL_STORIES/CARD/1199_02.md` | 1 | 53 | `6e0d1376b3a8cbb86edd0def4f8a5cef8ae87f08d7181f33a319b3297167e9f0` |
+| `PJSK:card:1200:01` | `02_CANONICAL_STORIES/CARD/1200_01.md` | 1 | 61 | `a47f67b0a9a351bc61909ff386320fd103037b4f1f70d9e8d2bb228539b5a26b` |
+| `PJSK:card:1200:02` | `02_CANONICAL_STORIES/CARD/1200_02.md` | 1 | 52 | `2e3fe7f081fcbeed01442ce8e042abbb82db005723011088ebf1218aa2c410d6` |
+| `PJSK:area:areatalk_monthly2507_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2507_001_01.md` | 1 | 8 | `36692b3adbca556aa256a58d99374337ef505e299a36ad028c2d0e3a3920fcaf` |
+| `PJSK:area:areatalk_monthly2508_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2508_005_01.md` | 1 | 11 | `5659c8f465846cd29047e610138aae6a41521739f9ce9ce27a239f95434378b6` |
+| `PJSK:area:areatalk_ev_wonder_21_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_21_001_01.md` | 1 | 10 | `66332a3ccc7555a9d8ccd504004b3020efbabee941c6d5b4c422309d98c85fec` |
+| `PJSK:area:areatalk_ev_wonder_21_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_21_002_01.md` | 1 | 8 | `e634a7b3ec004abbc9d6b8173dc40a87ecb042dabb9bcf7f64d59ad25f7fca4a` |
+| `PJSK:area:areatalk_ev_wonder_21_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_21_003_01.md` | 1 | 9 | `d9f47dcd6520d4c69b62193ec51b4d0d5c330d5ef65c91aa16c97a889f1c01b9` |
+| `PJSK:area:areatalk_ev_wonder_21_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_21_004_01.md` | 1 | 7 | `03b5540b9243f81d1fc32efc502edc1418d2a9ac4f62a676b06bf184f9c647ba` |
+| `PJSK:area:areatalk_ev_wonder_21_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_21_005_01.md` | 1 | 8 | `9ca0b5ea8929ebd559028d8d4ad455b2767b4b61e4e19ec04da155aea5e95d6a` |
+
+### EVENT_0172 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Rui's directing practice | PRIMARY / VERY HIGH scoped I3; `WXS-EP-RUI-E0152 → WXS-EP-RUI-E0172`, personal-experience expression, requested critique and a tested but incompletely balanced work. Separate Rui E0144 remains. |
+| Rui–Tom | CO_PRIMARY / HIGH bounded I3; `WXS-REL-RUI-TOM-E0172`, direct workshop consultation, disclosure, applied advice and critique; no continuing contract. |
+| WxS group / Tsukasa / Nene / Emu | CO_PRIMARY / HIGH I2; E0167 group and existing human operatives preserved through rehearsal, study, practical care and differentiated aspirations. |
+| Wonderland singers / Luka | SUPPORTING / local I2; consultation prompt, props, rest and received report; no human-singer global knowledge merger. |
+| Sakaki / Asahi / Arcland performers and staff / Otori brothers | SUPPORTING / professional I2 or contextual I1; actual access, critique, rehearsal and prior acquaintance. Workshop participation is not employment. Sakaki's conversation with Ohara is reader-visible only. |
+| N25 / Ena and Empty Rin/Len | CROSS_UNIT / HIGH I2; Ena E0127 and fragment E0153 strengthened by recovered communicative wish and bounded field/return; no completed assignment or universal mechanism. |
+| N25 / Empty KAITO; Kanade–Nene | SUPPORTING / local I2 for the separately observed memory; ordinary actual I1 shop help. No new maternal event or group knowledge. |
+| Leo/need / School KAITO and companions | SUPPORTING / local I2 in the selected memory; no human or group successor, E0171 authorities preserved. |
+| MMJ / Stage KAITO and colleagues | SUPPORTING / local I2, reciprocal management/performance; no human or group successor. |
+| VBS / Street KAITO and MEIKO | SUPPORTING / local I2, everyday trust/negotiation; Nene's future language inquiry remains unperformed. |
+| Interstice KAITO and companions | HIGH epistemic I2, E0140 retained: a bounded comparison of five local counterparts leads to appreciation of his own companions, not fused identities or general access. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0172_DEEP_READING.md) owns the shared workshop causes, distinct card contexts, seven lenses, every area disposition and compact reconstruction deltas. The staged ghost/monster narratives, Rui's nightmare, Ena's fragment and KAITO's observation retain separate actuality and recipient boundaries. All six ledgers integrate only justified consequences. The attributable EVENT_0169 MEIKO correction belongs to the claim ledger; it does not create an EVENT_0172 human route. EVENT_0173 is next; 40 source-present events remain. Reconstruction remains through EVENT_0140 and performed audio/video is uninspected.
+
+## EVENT_0173 — forward discovery and integrated routing
+
+The complete franchise screen contains **27 stories / 59 scenes / 1,226 records / 170,458 canonical bytes**: eight chapters, ten card halves (1201–1205), four monthly areas and five event areas. Every text is fully read. Canonical and normalized pinned-raw digests, normalized content, ordered structured identities and all chronology identity/timestamps match. No separate unlock-dependent or additional cross-linked story is listed. Core publication is `2025-07-15T06:00:00Z`; cards 1201–1203 `03:00:00Z`, cards 1204–1205 and event areas `06:00:00Z` that day. Four monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. The release manifest supplies card/area association; their chronology event-link fields remain blank. Neither source order nor publication time substitutes for narrative context.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0173:01` | `02_CANONICAL_STORIES/EVENT/0173_01.md` | 4 | 56 | `cc97a9e468fee808ea9f4c7d053f53a7fcdb283112d15b6cd10693d44d846c35` |
+| `PJSK:event:0173:02` | `02_CANONICAL_STORIES/EVENT/0173_02.md` | 3 | 74 | `2f97810c4877dbb197aac6639cf284285a24822a32bed1219570cd37d88712dc` |
+| `PJSK:event:0173:03` | `02_CANONICAL_STORIES/EVENT/0173_03.md` | 4 | 84 | `8f712f743b3f7bc956a24143e30aedd1ab0656a27265610e8017c549b94418d1` |
+| `PJSK:event:0173:04` | `02_CANONICAL_STORIES/EVENT/0173_04.md` | 2 | 54 | `377871d5b4b4499d68f38a0f5e84bff3a04aabadfea9d8c2557849ddb92d0d50` |
+| `PJSK:event:0173:05` | `02_CANONICAL_STORIES/EVENT/0173_05.md` | 2 | 56 | `17181994e714e7bc7cba9fd5e29b81839fd55612fdd2ca073d4562dc00f22716` |
+| `PJSK:event:0173:06` | `02_CANONICAL_STORIES/EVENT/0173_06.md` | 4 | 59 | `cdbe17d28042ff69e237560a817212f8c70dc6c69213ca1d74d88bb4f4091ec3` |
+| `PJSK:event:0173:07` | `02_CANONICAL_STORIES/EVENT/0173_07.md` | 4 | 90 | `704ab48bcc9e31bed7cc1506fd913ba29d52f16ca92667683a78a92e98595be0` |
+| `PJSK:event:0173:08` | `02_CANONICAL_STORIES/EVENT/0173_08.md` | 2 | 111 | `378bbe70a438ed3e4f5cde995b84f1fff7ba71cfc0ba6b25b6c0261b8d52af95` |
+| `PJSK:card:1201:01` | `02_CANONICAL_STORIES/CARD/1201_01.md` | 5 | 56 | `6e4705720692252e5f2d3e23508d27ecf62ceadaeb124ee28cf3dd02e09136ad` |
+| `PJSK:card:1201:02` | `02_CANONICAL_STORIES/CARD/1201_02.md` | 3 | 69 | `c3ff511491c78eadb583007fc737db20e2de7e2eb4b72d99a48a9869fa20d326` |
+| `PJSK:card:1202:01` | `02_CANONICAL_STORIES/CARD/1202_01.md` | 3 | 59 | `749ce55cd6214295ac048a55926509de1d4ec242ff85af3ba71af78533a4cfc8` |
+| `PJSK:card:1202:02` | `02_CANONICAL_STORIES/CARD/1202_02.md` | 2 | 57 | `0d149bae578f6b25a1a9ae804e35e43940cc78c576888150b1bfbba128ab5b87` |
+| `PJSK:card:1203:01` | `02_CANONICAL_STORIES/CARD/1203_01.md` | 2 | 62 | `dc5b5c9c1b96f2e76cd10f8c86a5eeac8875a5518e46f1f2ff8da402b6e9d569` |
+| `PJSK:card:1203:02` | `02_CANONICAL_STORIES/CARD/1203_02.md` | 2 | 52 | `11a3d95e5793249da7c597b77f4a5da92cb1dd55618d9b6aa9bc4c4acdbdda4e` |
+| `PJSK:card:1204:01` | `02_CANONICAL_STORIES/CARD/1204_01.md` | 1 | 48 | `908dbe1aa9f73f5be089831d8295c1ad63808436962c60dc642f024f36e4dfa1` |
+| `PJSK:card:1204:02` | `02_CANONICAL_STORIES/CARD/1204_02.md` | 4 | 60 | `560a04e47abac3ffdd6718e1a40c66285f629a0c6b6701ac3e46a38426d0d6de` |
+| `PJSK:card:1205:01` | `02_CANONICAL_STORIES/CARD/1205_01.md` | 1 | 45 | `fcd2b63237346afb5f7e7c8699fb9f0c344392461c83cc609a41197b68e42945` |
+| `PJSK:card:1205:02` | `02_CANONICAL_STORIES/CARD/1205_02.md` | 2 | 58 | `2273f0964d19576523b542b1b20c3f1f31d3aa51d3d54b82802ea62627f44a93` |
+| `PJSK:area:areatalk_monthly2508_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2508_001_01.md` | 1 | 9 | `5da7e083086b9b6eaab829c58bdb295a2555ee416d63bfbb80b45daeab1fb833` |
+| `PJSK:area:areatalk_monthly2508_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2508_002_01.md` | 1 | 8 | `ffe7ca878782f3f6658fa1338e13995d0ee6a676b102fb1961f50aced7c7a494` |
+| `PJSK:area:areatalk_monthly2508_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2508_003_01.md` | 1 | 9 | `f6d07258c4784b176c2261885bcbadb8c761ce0ac0d0f26a6bdffd37daad7106` |
+| `PJSK:area:areatalk_monthly2508_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2508_004_01.md` | 1 | 10 | `b6040169d219e2613e646f6deea59c9fb2d9b59c5826b45aee894225823e0396` |
+| `PJSK:area:areatalk_ev_band_21_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_21_001_01.md` | 1 | 10 | `0bded54f998eb3813bf26561de7fb3afa111076d3b50847c58e24a6654f814ea` |
+| `PJSK:area:areatalk_ev_band_21_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_21_002_01.md` | 1 | 7 | `6006c0e6527e8c3847723a62298660b34e38d4a1ea91c540637c10f398f8f424` |
+| `PJSK:area:areatalk_ev_band_21_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_21_003_01.md` | 1 | 7 | `b74e64f0b515b67f683e696f2fcc847a3c20cf31d679b48afdbe03b29d61ed24` |
+| `PJSK:area:areatalk_ev_band_21_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_21_004_01.md` | 1 | 8 | `a161d36962e203ffa5da96d421514656d1a80897d6d73d2ec6d8c8cff193e51d` |
+| `PJSK:area:areatalk_ev_band_21_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_21_005_01.md` | 1 | 8 | `8ae3a098196e7dc4599925c249adcce6f53cb620c19d054dee273f9c7cc68633` |
+
+### EVENT_0173 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Honami | PRIMARY / HIGH, very strong I2; E0121 and separate E0158 retained. Practical coordination and audience inquiry are enacted; private relief after an externally withdrawn choice leaves a decision capacity untested. |
+| Leo/need quartet | HIGH I2; `LN-REL-G-E0171` preserved. Overlapping preferences, divided preparation and received care do not become a demonstrated collective priority decision. |
+| Solis / Shindo / professional opportunities | HIGH I2; `LN-REL-SOLIS-E0147` retained. Published cover, booked first professional solo show, supported agency, withdrawn replacement commission and a later invitation awaiting discussion. |
+| Ichika / Saki / Shiho | HIGH / bounded I2; present coauthorship, connection, existing-fan care, craft and limited rest adjustment refine distinct operative histories. |
+| Six School singers | SUPPORTING / local I2; actual party, differentiated musical/ordinary preferences, consultation, report receipt and cleanup. Public concert Miku is separately contextualized. |
+| Fans / venue manager / staff / original creator | SUPPORTING / bounded evidence: actual comments, explicitly subjective reports, described constraints and reported recovery; no representative survey or knowledge beyond shown channels. |
+| WxS / Rui and Nene with Honami | INCIDENTAL / I1; actual mall conversation about kitchen tools, with an unbuilt show idea. No professional-dilemma disclosure or successor. |
+| MORE MORE JUMP! | NONE / I0; the unidentified idol-group song cannot establish MMJ participation. |
+| Vivid BAD SQUAD / Nightcord at 25:00 | NONE / I0; no material unit routes. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0173_DEEP_READING.md) owns the shared causal interpretation, all source surfaces, seven lenses and bounded reconstruction deltas. **No new I3 owner** is created: Honami does not make the difficult choice, and her private resolve has no demonstrated later implementation in this envelope. Saki's monthly training reference retains unspecified provenance rather than importing the EVENT_0171 alternative club biography. Six ledgers and current coverage are synchronized through EVENT_0173. EVENT_0174 is next; 39 source-present events remain. The reconstruction cutoff stays EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0174 — forward discovery and integrated routing
+
+The complete franchise screen contains **23 stories / 36 scenes / 1,628 records / 221,553 canonical bytes**: eight chapters, ten card halves (1207–1211) and five event areas. Every canonical text is read; canonical and normalized pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. No monthly, separate unlock-dependent or additional cross-linked story is listed. Core publication is `2025-07-23T06:00:00Z`; cards 1207–1209 `03:00:00Z`, cards 1210–1211 and the five areas `06:00:00Z` that day. The release manifest supplies noncore association while chronology linkage is blank. Narrative contexts include preparation, the opening days and subsequent streams; common publication does not make them simultaneous.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0174:01` | `02_CANONICAL_STORIES/EVENT/0174_01.md` | 2 | 77 | `08734679ca8496dce7955e528fc98ca5d3ed1114e2459b1f0fd46bd19a43517a` |
+| `PJSK:event:0174:02` | `02_CANONICAL_STORIES/EVENT/0174_02.md` | 3 | 135 | `be34457a60b7154b70eed088f6769a87aa7e8e10e627a25d7f7b79cf7492d61a` |
+| `PJSK:event:0174:03` | `02_CANONICAL_STORIES/EVENT/0174_03.md` | 1 | 133 | `0ccda96f655f29a5c3ddba24d2261fd8934544575b3c4190b12c2d8c1254658a` |
+| `PJSK:event:0174:04` | `02_CANONICAL_STORIES/EVENT/0174_04.md` | 4 | 125 | `ab8d7a02cffe2b781b4153787c0cdaeb48492dbd701335ca3edc1382d0030e9e` |
+| `PJSK:event:0174:05` | `02_CANONICAL_STORIES/EVENT/0174_05.md` | 4 | 78 | `ddb74cab082bd63a0fc44e537fae4d8ca298cf5c3af6fb5e288084d1376ccdb0` |
+| `PJSK:event:0174:06` | `02_CANONICAL_STORIES/EVENT/0174_06.md` | 3 | 162 | `ebae7d2c528a0bf27bc4a851dc023292f02b3bf8583fbedd0bc37b848e575e6b` |
+| `PJSK:event:0174:07` | `02_CANONICAL_STORIES/EVENT/0174_07.md` | 1 | 100 | `6e13b4394fdad56176eb89db849567f57df18215317f8270267f820772a388bc` |
+| `PJSK:event:0174:08` | `02_CANONICAL_STORIES/EVENT/0174_08.md` | 1 | 162 | `5e144419f4c0c5e26e220570894a76b6352f3d4e49b2a7e1dbfdb5cadc4ec9a4` |
+| `PJSK:card:1207:01` | `02_CANONICAL_STORIES/CARD/1207_01.md` | 1 | 88 | `53365498099b6e274c6b2881f8179d1d589dcc56eee78f8a24975b0325b0f6c4` |
+| `PJSK:card:1207:02` | `02_CANONICAL_STORIES/CARD/1207_02.md` | 1 | 62 | `c5d5a83b568ee159db1466f95f24a4e14ac6ac749431568db5ee034fb4016119` |
+| `PJSK:card:1208:01` | `02_CANONICAL_STORIES/CARD/1208_01.md` | 2 | 64 | `e19673fe073461149e030ee3a461ccf5a5537dd805d5ee10c2eea9259da3dcea` |
+| `PJSK:card:1208:02` | `02_CANONICAL_STORIES/CARD/1208_02.md` | 1 | 54 | `0bc167d9887d8988b69978c1764d9c25248aed851ffa45f57d2c13ffdd49a928` |
+| `PJSK:card:1209:01` | `02_CANONICAL_STORIES/CARD/1209_01.md` | 1 | 60 | `37d65af44c83a812f04d0dbfc407bd2a042253d2b3bc54c0b9b72441fd53ca4c` |
+| `PJSK:card:1209:02` | `02_CANONICAL_STORIES/CARD/1209_02.md` | 2 | 57 | `a591cd29218a1050972295bc7372c59dd35f5ee3480524a7cd411a31acd4f436` |
+| `PJSK:card:1210:01` | `02_CANONICAL_STORIES/CARD/1210_01.md` | 1 | 50 | `6123d580550f983a9f52967ed5e5474051a351d9ebcdd86970326aac6fa3e44f` |
+| `PJSK:card:1210:02` | `02_CANONICAL_STORIES/CARD/1210_02.md` | 1 | 75 | `4bbd7ea2da1cfc54debfe0a694c34625c1ea7a3df50a33a65754ae0664e21df6` |
+| `PJSK:card:1211:01` | `02_CANONICAL_STORIES/CARD/1211_01.md` | 1 | 61 | `202716135aa579b32c670564dc494cd66c2a976d4e0db5cf3b88e7e981f366e3` |
+| `PJSK:card:1211:02` | `02_CANONICAL_STORIES/CARD/1211_02.md` | 1 | 48 | `5ba446480c5f8c840b79c754d91acdf2080b120ad9d840f7fb996edd5b6f3724` |
+| `PJSK:area:areatalk_ev_idol_22_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_22_001_01.md` | 1 | 9 | `104c719aee45d76fc3e65305eb0fded8236ae41022d4e792980902e13a42cad8` |
+| `PJSK:area:areatalk_ev_idol_22_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_22_002_01.md` | 1 | 7 | `3091a13febf5a7f6ed5cb8ac2d1f90f42b97bba827a1c6e0d1803040dac4ddc1` |
+| `PJSK:area:areatalk_ev_idol_22_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_22_003_01.md` | 1 | 7 | `8f8bcafeb3ec589abcb589d431f4a140328b32655af02e27dda60704efd0e980` |
+| `PJSK:area:areatalk_ev_idol_22_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_22_004_01.md` | 1 | 6 | `76568a5e7358f5ae15161c0e16977219ae522149f53f71aa0c8efb3e55301053` |
+| `PJSK:area:areatalk_ev_idol_22_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_22_005_01.md` | 1 | 8 | `5232ffcf123075e8f156c856850fafe5745f1fbb1d25c3bbb1549082c9c51c7a` |
+
+### EVENT_0174 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Minori–Hikarin | PRIMARY / VERY HIGH, scoped relationship I3. Practical help, received recognition, reciprocal fandom and actual subsequent conversation; no alliance or contest result. |
+| Minori and MMJ quartet | HIGH I2. E0122 and separate E0098 retained; group E0168 enacted in shared residence, review, consensual representation and own-channel work. |
+| Haruka / Airi / Shizuku | HIGH / bounded I2. Existing independent human scopes retain producer reasoning, specialties, private care, chosen rivalry and ordinary imperfections. |
+| Arisawa / staff / host / guest MC | SUPPORTING. Stated rules and actual institutional roles; private producer talk remains reader-only and no new mentor relation is created. |
+| ReLight / Cheerful＊Days / Hikarin / viewers | SUPPORTING / differentiated actual rivals and recipients. Unnamed inspirational idol remains unidentified; rumors, testimony and comment reactions are separately owned. |
+| Six Stage singers | SUPPORTING / local I2. Private phone access, fan-specific support, review and partial viewing; no public revelation or global identity. |
+| Leo/need / Shiho reference | INCIDENTAL / I1. Planned photograph in Shizuku's packing; no actual encounter or new knowledge assigned to Shiho. |
+| Vivid BAD SQUAD | NONE / I0. No material route. |
+| Wonderlands×Showtime | NONE / I0. No material route. |
+| Nightcord at 25:00 | NONE / I0. No material route. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0174_DEEP_READING.md) owns shared causes, all card/area interpretations, seven lenses, exact source locators and bounded reconstruction deltas. The new dyad has received reciprocal evidence and follow-through; no new principal-human operative is warranted. Official camera exclusions, selected own-channel bedroom exposure, private calls and outside conversations remain distinct. Six cumulative ledgers and coverage synchronize through EVENT_0174. EVENT_0175 is next, with 38 source-present events remaining; reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0175 — forward discovery and integrated routing
+
+The complete frozen envelope is **25 stories / 35 scenes / 1,371 records / 179,521 canonical bytes**: eight core chapters, ten halves of cards 1213–1217, two monthly areas and five event areas. Every canonical text is read. Canonical and normalized pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-07-31T06:00:00Z`; cards 1213–1215 `03:00:00Z`, cards 1216–1217 and five event areas `06:00:00Z` that day. Two monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. The release manifest owns noncore association while chronology linkage is blank. The final New York days, returned school life and local areas remain separately contextualized.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0175:01` | `02_CANONICAL_STORIES/EVENT/0175_01.md` | 2 | 68 | `2643c5b972ab89d18b06cfcd3f7321ba8b0994de9686607161dbea7cbb1d76f9` |
+| `PJSK:event:0175:02` | `02_CANONICAL_STORIES/EVENT/0175_02.md` | 2 | 68 | `d3240b3f7468ae8992e3d3a34b011049a6e15b96c1f00dd9b4e78fd6f11fea3b` |
+| `PJSK:event:0175:03` | `02_CANONICAL_STORIES/EVENT/0175_03.md` | 2 | 114 | `9b4feb6cba9958ffb04a9415d25783c546f12a8b8c5781877596df35e7f11c1b` |
+| `PJSK:event:0175:04` | `02_CANONICAL_STORIES/EVENT/0175_04.md` | 1 | 75 | `ef083f6e13e4859b748616d249bca0f4eb5be1dc195397685f030cc42abb15f6` |
+| `PJSK:event:0175:05` | `02_CANONICAL_STORIES/EVENT/0175_05.md` | 1 | 106 | `aca9b7f33ef93e4cac895f310e3b6059ccd9e622c2c9d9dad2581aa5e94c0a22` |
+| `PJSK:event:0175:06` | `02_CANONICAL_STORIES/EVENT/0175_06.md` | 3 | 73 | `b531f771c43742ad5861ce3146168764f4e71583c0d16e45a5f07aabd76f66fd` |
+| `PJSK:event:0175:07` | `02_CANONICAL_STORIES/EVENT/0175_07.md` | 1 | 93 | `ce0bf8a5555fb70e7beddfc9a4c51ac44c0db6493d99c7aeea6643e5ec9ace2e` |
+| `PJSK:event:0175:08` | `02_CANONICAL_STORIES/EVENT/0175_08.md` | 2 | 81 | `bb5d40b03317bb57a63fc6ff36dd4eaa132661d268dd61cec5c7965e486ca6d1` |
+| `PJSK:card:1213:01` | `02_CANONICAL_STORIES/CARD/1213_01.md` | 2 | 68 | `768c35cd435854beb7eacd0bf9d745df4f97db5fcd3154d40cda7d239dc10741` |
+| `PJSK:card:1213:02` | `02_CANONICAL_STORIES/CARD/1213_02.md` | 1 | 56 | `2ddb7d16e2b8af6a6166971dd3f23b0ee653ad082cd856fa1e96984c7f57670e` |
+| `PJSK:card:1214:01` | `02_CANONICAL_STORIES/CARD/1214_01.md` | 1 | 81 | `3c1093be1385bd2fb083bfd0d0e1672ae35e1d2780ecb652e1e9d31331c34c12` |
+| `PJSK:card:1214:02` | `02_CANONICAL_STORIES/CARD/1214_02.md` | 1 | 50 | `d30ba4142b6272587dee9343774c85b9f674a48584500a4a1197bab6befc7f1d` |
+| `PJSK:card:1215:01` | `02_CANONICAL_STORIES/CARD/1215_01.md` | 1 | 64 | `d8fac141ddb98120668934c18f7e471002fd3470307284b4f56fab03254dac97` |
+| `PJSK:card:1215:02` | `02_CANONICAL_STORIES/CARD/1215_02.md` | 2 | 59 | `c55ab2fd2822414f091154c151a77ac1b7c1ff55869db0a4a67dbe8ec326814d` |
+| `PJSK:card:1216:01` | `02_CANONICAL_STORIES/CARD/1216_01.md` | 1 | 61 | `ceb5a05f717d75e664362cc58938bf105c90faf182a4102f1c64cb8eb2ab224b` |
+| `PJSK:card:1216:02` | `02_CANONICAL_STORIES/CARD/1216_02.md` | 2 | 53 | `e8f49aa5425e4813565d8d49cb49b0a8c88f7f76f1d2fca06004bad54f03a636` |
+| `PJSK:card:1217:01` | `02_CANONICAL_STORIES/CARD/1217_01.md` | 1 | 63 | `f9c72a03a9024452bfa305befb5ac67a28232820560193a49c775995b91764df` |
+| `PJSK:card:1217:02` | `02_CANONICAL_STORIES/CARD/1217_02.md` | 2 | 61 | `b2bc1e53de3850411bc230d85e4e363a6b67d5123385595282f3b720e7759327` |
+| `PJSK:area:areatalk_monthly2510_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2510_001_01.md` | 1 | 9 | `b1de170dba3da80c21551764b628a1a743625591a0c76650e106cf8c66b47c3f` |
+| `PJSK:area:areatalk_monthly2510_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2510_003_01.md` | 1 | 9 | `31ff1b3c683fd2a4cff097200684f83c806914efd0cb176c0a2ee21a57ed9be9` |
+| `PJSK:area:areatalk_ev_street_22_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_22_001_01.md` | 1 | 14 | `9a86de6654e518faeebce1106c4666bfb2abf795b16d4381e1ece32ac41546b1` |
+| `PJSK:area:areatalk_ev_street_22_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_22_002_01.md` | 1 | 10 | `22c107acf1be49106e6c7f8b6804402e81550028d52024d6bf6eb7b066a1a7ff` |
+| `PJSK:area:areatalk_ev_street_22_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_22_003_01.md` | 1 | 9 | `d6493b02d9616020e0406b4cce9d2ae2460d0332d96622b9c6aae357834f9002` |
+| `PJSK:area:areatalk_ev_street_22_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_22_004_01.md` | 1 | 12 | `d9d19f18b926dd67cd6bdc67ec810e4c33bcf7a675a90b463c7f70195874ab43` |
+| `PJSK:area:areatalk_ev_street_22_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_22_005_01.md` | 1 | 14 | `a584b0e7bf5f280f54183ac84c8917b09782808d8f1c46dade56d8c080da96d6` |
+
+### EVENT_0175 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / illys | PRIMARY / VERY HIGH, scoped relationship I3. Reciprocal team hearing, voluntarily offered history, received rival commitment and actual airport send-off. |
+| An / Kohane / Akito / Toya | HIGH I2. Existing E0153 / E0135 / E0146 / E0154 and separate scopes preserved; no principal-human operative successor. |
+| VBS group / Embers / Akito–Slade | HIGH / bounded I2. E0169 route gains fuller reported rules and actual local performance; E0146 dyad and wider rival contact remain distinct. |
+| Elena / Rebecca / Douglas | SUPPORTING. Actual tense encounter, distinct sisters' testimony and private interpretations; sponsor relationship reported, allegations and father's motives not independently resolved. |
+| Ken / Taiga / family recipients | SUPPORTING / bounded I2. Practical help, attributed effort, existing affection and planned gifts/conversations; no universal dropout method or family repair. |
+| Six Street singers | SUPPORTING / local I2. Discreet observation, differentiated care/pranks/preferences and actually received snacks; no public disclosure or global identity. |
+| Leo/need | CROSS_UNIT / I1. Ichika and Honami actually welcome Kohane and hear a trip report; Shiho meeting remains proposed. |
+| N25 | INCIDENTAL / I1. Ena is a named intended gift recipient; delivery and new knowledge are unshown. |
+| WxS | INCIDENTAL / I1, venue only. Phoenix Wonderland outing, attraction and meal references; no troupe member or new creative result. |
+| MMJ | NONE / I0. An's recalled childhood basketball opponent is unnamed in this envelope; no identified MMJ participation. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0175_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six-ledger updates preserve actual performance, testimony, private thought and future intentions separately. A traceable claim-ledger extension corrects the EVENT_0169 relationship ledger's Street/Stage label while preserving the historical text. EVENT_0176 is next; 37 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0176 — forward discovery and integrated routing
+
+The complete frozen envelope is **25 stories / 83 scenes / 1,937 records / 245,557 canonical bytes**: eleven core chapters, eight halves of cards 1218–1221, one monthly area and five World Link areas. All canonical texts are read; canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. No separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-08T11:00:00Z`; all cards publish at `03:00:00Z`, World Link areas at `11:00:00Z` that day. The monthly row retains anomalous `2023-09-29T15:00:00Z` metadata; the release manifest owns noncore association where chronology linkage is blank. Actual opening/waking, shared nonactual alternatives and actual card follow-through remain distinct.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0176:01` | `02_CANONICAL_STORIES/EVENT/0176_01.md` | 3 | 64 | `49eddc98b0b74ccf1d8feb74b8ea329996fcc16ace9646f66f52700cd4efbcc4` |
+| `PJSK:event:0176:02` | `02_CANONICAL_STORIES/EVENT/0176_02.md` | 6 | 126 | `79073762a53c878614ebd9580b04d65d5b3d2747273cd6a669d1a4fec7708f8e` |
+| `PJSK:event:0176:03` | `02_CANONICAL_STORIES/EVENT/0176_03.md` | 5 | 78 | `b0043a3d1a35388faa6f427b8d66313b54ec113d92538ddd79902850b8369d5e` |
+| `PJSK:event:0176:04` | `02_CANONICAL_STORIES/EVENT/0176_04.md` | 6 | 139 | `16c43d6b57f0483bb3bc52dba95440fb22af5818817e2403c9759ac1ed7f42dd` |
+| `PJSK:event:0176:05` | `02_CANONICAL_STORIES/EVENT/0176_05.md` | 6 | 120 | `6865c10771c3515c85580c3ab301c31df05e0a89d54ebb8a2f95815cba917fd3` |
+| `PJSK:event:0176:06` | `02_CANONICAL_STORIES/EVENT/0176_06.md` | 7 | 161 | `5a93b946c78009270a0031e485f4b2548540c5318aaa8b61d02885f28ee7aa66` |
+| `PJSK:event:0176:07` | `02_CANONICAL_STORIES/EVENT/0176_07.md` | 6 | 87 | `114567aa320d0f5c9f1319df41ba629c11083d532259cfe2ba6180211919d2cf` |
+| `PJSK:event:0176:08` | `02_CANONICAL_STORIES/EVENT/0176_08.md` | 4 | 57 | `61ec5e1bb965ea362ab9c38519bf019ffd6fb5aa51d54c17deaaf93aec585e83` |
+| `PJSK:event:0176:09` | `02_CANONICAL_STORIES/EVENT/0176_09.md` | 4 | 182 | `b4b3a665e3208607fe732694c985fc22569d121a8174312534b546cf0a52fad0` |
+| `PJSK:event:0176:10` | `02_CANONICAL_STORIES/EVENT/0176_10.md` | 7 | 325 | `9b719fce7242ea25d49398fa58d52e671017071466f46fa5639c1f70d712d18e` |
+| `PJSK:event:0176:11` | `02_CANONICAL_STORIES/EVENT/0176_11.md` | 1 | 72 | `6843c69ef32721d8c155c7207b0333039452ac967c77841be5a565de5a099ddc` |
+| `PJSK:card:1218:01` | `02_CANONICAL_STORIES/CARD/1218_01.md` | 3 | 63 | `277c00c64ed0c9d72cf04875221437fe82807da8bef59c38c16f622b9e00b14e` |
+| `PJSK:card:1218:02` | `02_CANONICAL_STORIES/CARD/1218_02.md` | 1 | 53 | `6399a5ae453d1cd849617a52aeed7d129a2838aa4eab9f87d42ed44352f4698e` |
+| `PJSK:card:1219:01` | `02_CANONICAL_STORIES/CARD/1219_01.md` | 3 | 65 | `65f2f13b7991869791fa474e5ea52b763f78f41174a11a169ff4e854ecd5c866` |
+| `PJSK:card:1219:02` | `02_CANONICAL_STORIES/CARD/1219_02.md` | 5 | 58 | `a679246ce20aee22aacc80c6e7e8e8c3d3a1eebbb0dc742fd23c9717f1730a7c` |
+| `PJSK:card:1220:01` | `02_CANONICAL_STORIES/CARD/1220_01.md` | 3 | 63 | `679e9dd150414fe2c092792b354bc6a15b03b7ca4bf3d5fa321006c6d48695a7` |
+| `PJSK:card:1220:02` | `02_CANONICAL_STORIES/CARD/1220_02.md` | 1 | 53 | `90f688979990f7a6d99356b31b936865b391c40e418425ff8d5b8973d52df63a` |
+| `PJSK:card:1221:01` | `02_CANONICAL_STORIES/CARD/1221_01.md` | 4 | 57 | `a0c4d6a276c036cbaee760a42a347d24f9e72356a53cfd53b0afddb07b145b4e` |
+| `PJSK:card:1221:02` | `02_CANONICAL_STORIES/CARD/1221_02.md` | 2 | 63 | `f255e35f503adbcc12179828dffe05e695806835a6f43dfa37051d49f071dd8a` |
+| `PJSK:area:areatalk_monthly2509_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2509_001_01.md` | 1 | 11 | `012808cdf3faa15d2aca47a9cf3f9da01331c7daa98b18eb7c5c4d35ede7a7bf` |
+| `PJSK:area:areatalk_wl_idol_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_idol_02_001_01.md` | 1 | 9 | `4fbbbeb850397f02a539cbb9ffa00f0959271dc825f00b55941b084d3393f57b` |
+| `PJSK:area:areatalk_wl_idol_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_idol_02_002_01.md` | 1 | 7 | `02e18f3c68075c7f83f62d3d119abc602df9d4194af9dca7d0b2a01b45f70359` |
+| `PJSK:area:areatalk_wl_idol_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_idol_02_003_01.md` | 1 | 8 | `6697c40b10c9d911231b43e63c32eb5134d4fa136662844471db78f51fda83dc` |
+| `PJSK:area:areatalk_wl_idol_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_idol_02_004_01.md` | 1 | 8 | `719ee578639f9f3fa3636f1590477ee51081f07a5e4ebb4c9695d1afbc45743f` |
+| `PJSK:area:areatalk_wl_idol_02_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_idol_02_005_01.md` | 1 | 8 | `ae7ce117de40fa7313fb00fc10b46dbae47bc9bd0ccdc06f856c5bc655c1b97c` |
+
+### EVENT_0176 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ quartet | PRIMARY / VERY HIGH, scoped I3. Group E0168 advances to E0176 through actual received recognition and concrete follow-through after a shared alternative. |
+| Stage SEKAI tree | EPISTEMIC / VERY HIGH, scoped I3. New E0176 owner for witnessed contact/sleep, compatible recall, reported absorption and enlarged tree; origin and exact mechanism unresolved. |
+| Minori / Haruka / Airi / Shizuku | HIGH I2. All current independent human scopes preserved; conditional careers/guilt/self-images remain comparisons, not actual regression or new biography. |
+| Six Stage singers / flowers | SUPPORTING / local I2. Differentiated observations, advice, gratitude and surprise knowledge; EPI flower E0130 preserved without a universal formula or global identity. |
+| Actual viewers / professional format / Hikarin | SUPPORTING / bounded I2. Received practice and mini-live responses, reported exercise participation and ongoing format; no vote or final result. |
+| Alternative peers / recipients / families | CONDITIONAL SUPPORT. Pop☆Drop, Nanamin, Nobuko, Miyuki, mothers/managers and school companions remain within the shared nonactual scenario. |
+| Leo/need | CROSS_UNIT / I1. Actual monthly Ichika conversation; scenario-only Shiho, Ichika and Saki, with no actual transfer of scenario knowledge. |
+| WxS | INCIDENTAL / I1. Scenario Otori class-committee recruitment reference only; no actual troupe participation or direct appearance. |
+| VBS | NONE / I0. No material unit route. |
+| N25 | NONE / I0. No material unit route. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0176_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six cumulative updates distinguish scenario experience from actual follow-through, individual knowledge from compatible recall, and observed changes from hypothesized mechanisms. Prior IDs and historical closure remain preserved. EVENT_0177 is next; 36 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0177 — forward discovery and integrated routing
+
+The complete frozen envelope is **27 stories / 43 scenes / 1,533 records / 194,766 canonical bytes**: eight core chapters, ten halves of cards 1223–1227, four monthly areas and five event areas. Every canonical text is read. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-22T06:00:00Z`; cards 1223–1225 `03:00:00Z`, cards 1226–1227 and event areas `06:00:00Z` that day. Four monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. The manifest owns noncore association where chronology linkage is blank. The actual pop-up, its preparations and later ordinary exchanges retain their separate timing.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0177:01` | `02_CANONICAL_STORIES/EVENT/0177_01.md` | 3 | 78 | `d9c45f8f7d4485c7bf00ffbe7bfd3b1bf11d18159eb504a0acc9b2aed7583ce5` |
+| `PJSK:event:0177:02` | `02_CANONICAL_STORIES/EVENT/0177_02.md` | 2 | 53 | `34851dabbfe81dbe436b768160ddd56c62a9a3759d92b7ea979b3e39546d4591` |
+| `PJSK:event:0177:03` | `02_CANONICAL_STORIES/EVENT/0177_03.md` | 1 | 95 | `136f5dac4e01649fafb2170101303a1f51c291504fea5d9aff03cc0ee304715b` |
+| `PJSK:event:0177:04` | `02_CANONICAL_STORIES/EVENT/0177_04.md` | 3 | 102 | `d2daf936921dcf161300f021b6c8936e7c169337adba1cc39ff6e837ee366499` |
+| `PJSK:event:0177:05` | `02_CANONICAL_STORIES/EVENT/0177_05.md` | 2 | 101 | `58a130aac00d0b3f58e74f885de38b7de5341b3a7ed1d81daa5f6b0cb7600e6e` |
+| `PJSK:event:0177:06` | `02_CANONICAL_STORIES/EVENT/0177_06.md` | 2 | 102 | `ae165954b3fc2f9b86b07751c4d808a1171faf5158e27b75d4e04889316ecd48` |
+| `PJSK:event:0177:07` | `02_CANONICAL_STORIES/EVENT/0177_07.md` | 1 | 121 | `2e1f3cf687fe390d9a3b9aa97affd3cae49c2462e4ada6bd2760559abd3f5720` |
+| `PJSK:event:0177:08` | `02_CANONICAL_STORIES/EVENT/0177_08.md` | 3 | 88 | `30bbe5c244879c51e5fed9cd20faf15f0d92e4c1fec5613ed985211df1205c1f` |
+| `PJSK:card:1223:01` | `02_CANONICAL_STORIES/CARD/1223_01.md` | 1 | 73 | `f51acec9b81d8e07a6d8f4147a3a59e41b67b7e634ced928f8687bb6e0ed8a62` |
+| `PJSK:card:1223:02` | `02_CANONICAL_STORIES/CARD/1223_02.md` | 3 | 77 | `f4077db99f9cc1f3b9de593967ac64cbeb0d12f19078bc015ce41c82aef7d8bb` |
+| `PJSK:card:1224:01` | `02_CANONICAL_STORIES/CARD/1224_01.md` | 2 | 77 | `e4255aef559db6eb59753e0a55997de34374c65eaf805fceb658b7a0ac359909` |
+| `PJSK:card:1224:02` | `02_CANONICAL_STORIES/CARD/1224_02.md` | 1 | 55 | `68d5dff285276b92655a324d13e6c0311528a7e5ed1723ab9ade03ff70f92f7e` |
+| `PJSK:card:1225:01` | `02_CANONICAL_STORIES/CARD/1225_01.md` | 1 | 57 | `1fed37c4045789023dba1199bf559eab38b08c9d357853a689a453a14b22f128` |
+| `PJSK:card:1225:02` | `02_CANONICAL_STORIES/CARD/1225_02.md` | 2 | 75 | `0ef67f2ccd699eb81565d8cc13700280b5d3bc7b0867d1bf97177d6dfb793a6c` |
+| `PJSK:card:1226:01` | `02_CANONICAL_STORIES/CARD/1226_01.md` | 1 | 61 | `5ff67910621584c9ef2547ab7ada729890528e6ae8ceb8585e09996ca56c2d8b` |
+| `PJSK:card:1226:02` | `02_CANONICAL_STORIES/CARD/1226_02.md` | 1 | 55 | `7737325dad3ddad82e0ceb3e914c7fb58c766c69169f9c905d39fe337fd3737c` |
+| `PJSK:card:1227:01` | `02_CANONICAL_STORIES/CARD/1227_01.md` | 3 | 104 | `69319aed59f62ada1df95a4ee0b4a6a862a67c23978df564d558863730876d7d` |
+| `PJSK:card:1227:02` | `02_CANONICAL_STORIES/CARD/1227_02.md` | 2 | 68 | `a9671aded28921bac554cac0774efd70b91f8a1f7b61f2299e76b5233965af01` |
+| `PJSK:area:areatalk_monthly2509_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2509_002_01.md` | 1 | 9 | `15a41ac7dcafd63f8872d8eab42e9fdb1a490e38d10503efef8f5b168f0b27dd` |
+| `PJSK:area:areatalk_monthly2509_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2509_003_01.md` | 1 | 13 | `dc412ffdefc7295213097168012619e1b4b7e3d570048891605d9ea673020911` |
+| `PJSK:area:areatalk_monthly2509_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2509_004_01.md` | 1 | 11 | `bf32dc970f9947c4ff74c84d0acac370d5cef6b8e68a205efbf1ec2104731dec` |
+| `PJSK:area:areatalk_monthly2509_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2509_005_01.md` | 1 | 12 | `a30787fa2aeabe2882e235197e274c656d7f359be387d47d89c2b252eecb762c` |
+| `PJSK:area:areatalk_ev_night_22_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_22_001_01.md` | 1 | 8 | `9d89fc89b3a66a9d92cd9e7b7c43f64576da05d4959d7209b41d0f68f4b8da43` |
+| `PJSK:area:areatalk_ev_night_22_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_22_002_01.md` | 1 | 10 | `320735ff0edca56c258ce153f358f014638aee7b69e67a8d491dda91e052d728` |
+| `PJSK:area:areatalk_ev_night_22_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_22_003_01.md` | 1 | 8 | `7b606a55c1df9805423468397c302cc0138c4ef4155107796158474176a70261` |
+| `PJSK:area:areatalk_ev_night_22_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_22_004_01.md` | 1 | 10 | `eeef4375bbc5c1623b2005558b4c766212d80c1e320579e98cb2bd3dddd7b6ff` |
+| `PJSK:area:areatalk_ev_night_22_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_22_005_01.md` | 1 | 10 | `4f4426635a71039010d9cf704bc7728286af21176c82d9b057d4ade432d4d0f6` |
+
+### EVENT_0177 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Mizuki | PRIMARY / VERY HIGH I2. Existing E0150 with E0117 support lineage gains a stated future wish and possible clothing route; no settled career or new operative. |
+| Yuuki / sibling relation | HIGH I2. Existing E0117 reciprocal creative influence, tailored gift, actual gratitude and ordinary time; future choice remains Mizuki’s. |
+| N25 group / Ena / Kanade / Mafuyu | HIGH I2. Chosen full introduction, received help, actual return gift, continuing creative work and distinct care limits; current owners preserved. |
+| Customer / Rina / retail staff | SUPPORTING. Particular testimony and received preference, actual professional examples and bounded aid; no inferred identity, diagnosis, purchase or universal fashion effect. |
+| Six Empty singers | SUPPORTING / local I2. Len receives an aspiration, others observe selected scenes; differentiated tastes, fatigue, care and incomplete sharing do not merge identities. |
+| VBS | CROSS_UNIT / HIGH or bounded I2. Toya’s received world-stage account and delivered souvenir; An/Akito actual contact and ordinary exchanges, no new world result. |
+| WxS | CROSS_UNIT / HIGH I2. Nene’s actual current workshop account and learning commitment; Emu’s brothers’ introduction reported, no new troupe result. |
+| MMJ | CROSS_UNIT / I1. Airi’s accepted queue mediation and Airi/Shizuku/Mafuyu school contact; no new production or operative. |
+| Leo/need | CROSS_UNIT / I1. Honami/Saki’s actual care exchange with Kanade; existing household support remains bounded. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0177_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six-ledger updates preserve tentative vocational language, customer-authored preference, first-meeting limits, private knowledge, actual gift receipt and imperfect support. The earlier conditional boutique life does not become actual biography. EVENT_0178 is next; 35 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0178 — forward discovery and integrated routing
+
+The complete frozen envelope is **25 stories / 37 scenes / 1,722 records / 225,859 canonical bytes**: eight core chapters, ten halves of cards 1229–1233, two monthly areas and five event areas. Every canonical text is read. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-08-30T06:00:00Z`; cards 1229–1231 `03:00:00Z`, cards 1232–1233 and event areas `06:00:00Z` that day. Two monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. Manifest noncore association remains authoritative where chronology linkage is blank. Workshop, rehearsal, contest and later training retain separate action times.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0178:01` | `02_CANONICAL_STORIES/EVENT/0178_01.md` | 2 | 83 | `298b1a85e5fb94a1d09a052e5f12de914d447da25d49b91b76ace26ef3b207c0` |
+| `PJSK:event:0178:02` | `02_CANONICAL_STORIES/EVENT/0178_02.md` | 1 | 131 | `8da3363a867a93f18bdc70b319491704f2501f999d4efc57d7fa944488a49507` |
+| `PJSK:event:0178:03` | `02_CANONICAL_STORIES/EVENT/0178_03.md` | 3 | 118 | `1a339de9676b953a51333f863a3454a320446bc0888479e9c712fdc7fca73333` |
+| `PJSK:event:0178:04` | `02_CANONICAL_STORIES/EVENT/0178_04.md` | 1 | 57 | `e5a3c08147cf638d55a0274df7a491d330c8035ccc98935bb393909f1760ff1c` |
+| `PJSK:event:0178:05` | `02_CANONICAL_STORIES/EVENT/0178_05.md` | 3 | 118 | `7d2d6dbe21587363038933e70a886359a9ec14d2c2868a36ac6f749c7437b6d9` |
+| `PJSK:event:0178:06` | `02_CANONICAL_STORIES/EVENT/0178_06.md` | 3 | 107 | `d6fd78d2777b15f26c04e10b5e9e73dbea46e0eb84bf11abaf69d0c23066b871` |
+| `PJSK:event:0178:07` | `02_CANONICAL_STORIES/EVENT/0178_07.md` | 1 | 253 | `5fc19b1bf596b50e0e216d46b85db6a952bce974bdffc614c34f828f8108a54a` |
+| `PJSK:event:0178:08` | `02_CANONICAL_STORIES/EVENT/0178_08.md` | 3 | 192 | `9a32e933523a3100d8852b984373c81987db34286470cf6023ba77eb797c30a6` |
+| `PJSK:card:1229:01` | `02_CANONICAL_STORIES/CARD/1229_01.md` | 1 | 62 | `310e8800cf5139254b970b528dc37e79a278ae46bd3aada13eed0e631fb890c6` |
+| `PJSK:card:1229:02` | `02_CANONICAL_STORIES/CARD/1229_02.md` | 1 | 58 | `546e801299cfb2393e8f15dd3fc4bab8b676e92400451073affbf653d10aba8e` |
+| `PJSK:card:1230:01` | `02_CANONICAL_STORIES/CARD/1230_01.md` | 1 | 66 | `9cc3611a83c6d0c9fa9d4cb792a6e256292a109466666e342fc76091750ba37c` |
+| `PJSK:card:1230:02` | `02_CANONICAL_STORIES/CARD/1230_02.md` | 3 | 72 | `c0fcfdecb630d7ea3a80b65e34160aff9ce71c9422b92e8fbb662fbde07f0e67` |
+| `PJSK:card:1231:01` | `02_CANONICAL_STORIES/CARD/1231_01.md` | 1 | 51 | `4886f899220743165dd3b9a523e738697d683d972ca989bc9afce7a8abb8a3d7` |
+| `PJSK:card:1231:02` | `02_CANONICAL_STORIES/CARD/1231_02.md` | 1 | 44 | `56fd89760bc56f2d2a9cfd159fadd8b5c41c478919e973ea8cf5e5a96270a65b` |
+| `PJSK:card:1232:01` | `02_CANONICAL_STORIES/CARD/1232_01.md` | 1 | 68 | `6c5b85aad07ae573d64fc529f4b91991bd3aeec2f105daa611ad7e9acad56d8e` |
+| `PJSK:card:1232:02` | `02_CANONICAL_STORIES/CARD/1232_02.md` | 2 | 75 | `affb96d66bd2c51349e580b543486f53b2bc6a843fc77f977d863da0eade9500` |
+| `PJSK:card:1233:01` | `02_CANONICAL_STORIES/CARD/1233_01.md` | 1 | 51 | `3fdd9cfa86b6d37e3f94a65c0799b6fce3f810e67d29b7b3c70fed86c893097f` |
+| `PJSK:card:1233:02` | `02_CANONICAL_STORIES/CARD/1233_02.md` | 1 | 60 | `0638a1674b78ea1b71864bd77d6a701adb7a08233584821afb2e1a3d7416b5d1` |
+| `PJSK:area:areatalk_monthly2510_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2510_004_01.md` | 1 | 8 | `e0526c2ce3c4c0d31eda0093af4ea89c361bf4203b0d7f723afeb99ab21376a0` |
+| `PJSK:area:areatalk_monthly2510_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2510_005_01.md` | 1 | 10 | `89b6aed8ea55854664c61f57a9f35b1191f5f561f92a9fe9b9d02f996bcaf1f5` |
+| `PJSK:area:areatalk_ev_wonder_22_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_22_001_01.md` | 1 | 9 | `741fecc637cf96a1f23058662da6e616d8a22d39af7256e410d0398e2fb125bb` |
+| `PJSK:area:areatalk_ev_wonder_22_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_22_002_01.md` | 1 | 7 | `7d7e84f32a96fff60abb795dc5748fe16ceec133acf7b1cc624b756af7680a0a` |
+| `PJSK:area:areatalk_ev_wonder_22_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_22_003_01.md` | 1 | 7 | `656ea067ec77fd79e7ea9295bd77530121b988061bfa09dd3b0fc0d83f5a1df3` |
+| `PJSK:area:areatalk_ev_wonder_22_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_22_004_01.md` | 1 | 7 | `634e88abad2441f7262020368da5ce713850ca71e2482e52e757640cf6db9e41` |
+| `PJSK:area:areatalk_ev_wonder_22_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_22_005_01.md` | 1 | 8 | `96d7d94c30948cb8781c372d2697dd9befa752d4d13b037c667af35c4f6babfc` |
+
+### EVENT_0178 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Tsukasa | PRIMARY / VERY HIGH, scoped I3. E0160 to E0178: diagnose self-identification limit, accept help, research a hypothetical loss of recipients and enact/test the role, with nightmares and rest displacement retained. |
+| Tsukasa / Asahi | RELATIONSHIP / VERY HIGH, scoped I3. Requested help, actual competition and explicitly received reciprocal rivalry; no equality, employment or exclusive mentorship. |
+| WxS quartet / theatre opportunity | PRIMARY / VERY HIGH, scoped I3. E0167 to E0178: chosen contest, practical mutual craft, completed entry and confirmed special award sharing future theatre rights. |
+| Rui / Nene / Emu | HIGH I2. E0172 Rui with E0144/E0099, E0149 Nene, E0164 Emu with E0104 remain distinct; no automatic actor successor for shared result. |
+| Arcland / Sakaki / staff | SUPPORTING / institutional. Arcland wins top award; special award is confirmed, allocation pending; overseas participation merely possible. Contest audience is not the later ordinary public. |
+| Six Wonderland singers / plush companions | SUPPORTING / local I2. Differentiated counsel, practice, capabilities, snack preferences and creative plans; no global identity or new SEKAI law. |
+| Leo/need | INCIDENTAL / I1. Saki’s recalled illness and childhood princess interest, without present contact or new knowledge. |
+| VBS | CROSS_UNIT / I1. Toya actually helps school cleaning and receives praise; no new world-route result. |
+| MMJ | NONE / I0. No material unit route. |
+| N25 | NONE / I0. No material unit route. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0178_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six cumulative updates keep play, deliberate imagined world and actual contest separate. Particular audience/judge reception is text evidence; nightmares, rest displacement and unresolved public engagement remain explicit limits. Existing history and independent scopes are preserved. EVENT_0179 is next; 34 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0179 — forward discovery and integrated routing
+
+The complete frozen envelope is **37 stories / 72 scenes / 2,786 records / 348,349 canonical bytes**: fifteen core chapters, twelve halves of cards 1235–1240 and ten World Link areas. Every canonical text is read. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile; no separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-09-06T11:00:00Z`, all card halves `2025-09-06T03:00:00Z`, and all ten areas `2025-09-18T11:00:00Z`. Manifest association remains authoritative where chronology linkage is blank; action before/after return is not collapsed into card publication time.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0179:01` | `02_CANONICAL_STORIES/EVENT/0179_01.md` | 6 | 70 | `c49908560ef02ddaa393c9bbf86d0a8ee485cf455787520034cb3df7b350dba1` |
+| `PJSK:event:0179:02` | `02_CANONICAL_STORIES/EVENT/0179_02.md` | 3 | 116 | `76d1a9c42396e4ebc8df404bf1172096e3ede6c0db520e7c572af6b12ae26118` |
+| `PJSK:event:0179:03` | `02_CANONICAL_STORIES/EVENT/0179_03.md` | 1 | 146 | `85eda14f2c775b1b9d1040b83e36f2de236790c065534918044254b00a14379f` |
+| `PJSK:event:0179:04` | `02_CANONICAL_STORIES/EVENT/0179_04.md` | 4 | 143 | `e32a7f1758d68629f69a71c5bdeb91054cefbed13a71fb036b5f909eb80e0daf` |
+| `PJSK:event:0179:05` | `02_CANONICAL_STORIES/EVENT/0179_05.md` | 1 | 76 | `32d4f5c2b6cae0c522a6217cb23665babdd751c453a696b6706c4b84b6030538` |
+| `PJSK:event:0179:06` | `02_CANONICAL_STORIES/EVENT/0179_06.md` | 3 | 102 | `4a0dc2bdb55e4064942ed607c7d80a5ba4418b618fe763f0905cc1acd2b0f1e2` |
+| `PJSK:event:0179:07` | `02_CANONICAL_STORIES/EVENT/0179_07.md` | 1 | 140 | `06535acda6d41f7a0eae03ec93dbd704f750eacbc2bd958cd2203ef71ab8250e` |
+| `PJSK:event:0179:08` | `02_CANONICAL_STORIES/EVENT/0179_08.md` | 4 | 101 | `a88b12e05cdf1e03eb6596867d223771be7b22d7ca7decc35d59e6e6e49e37b2` |
+| `PJSK:event:0179:09` | `02_CANONICAL_STORIES/EVENT/0179_09.md` | 1 | 159 | `e94a2e00f41af95ad86f6d5008ce6ebe8c873ab3f4b9394258f2d5c3318fb119` |
+| `PJSK:event:0179:10` | `02_CANONICAL_STORIES/EVENT/0179_10.md` | 3 | 170 | `408ed7b038b7a41389a62ff601ba5081ee996e34716b1554899ee79eca4afcf5` |
+| `PJSK:event:0179:11` | `02_CANONICAL_STORIES/EVENT/0179_11.md` | 2 | 150 | `ed41491c566575def9808cd1d3c7fcddae58529bbdc4ddbb72ec17e873b37000` |
+| `PJSK:event:0179:12` | `02_CANONICAL_STORIES/EVENT/0179_12.md` | 1 | 159 | `f2cbee75138cd1e4ac8071cfba1129ec4eab96c16d89a3127f0a1730f068152e` |
+| `PJSK:event:0179:13` | `02_CANONICAL_STORIES/EVENT/0179_13.md` | 1 | 153 | `19610ab63a51b137d98b9bc0547c47e3edef4756a907ec9381a54860556026a7` |
+| `PJSK:event:0179:14` | `02_CANONICAL_STORIES/EVENT/0179_14.md` | 1 | 110 | `85f4828bb88af0eb95d9d4a9767ebfe47fa3fe1020cb1ee59b0860b097871a23` |
+| `PJSK:event:0179:15` | `02_CANONICAL_STORIES/EVENT/0179_15.md` | 1 | 34 | `2b19fdbaa5091e045c90981091c201e8820a08d4144702dcb4b34844c6bb22dd` |
+| `PJSK:card:1235:01` | `02_CANONICAL_STORIES/CARD/1235_01.md` | 2 | 60 | `64ab3fb0fafb0a1e7d41488b5681bc938d552004f3aec882fb6a349b38d00bc7` |
+| `PJSK:card:1235:02` | `02_CANONICAL_STORIES/CARD/1235_02.md` | 2 | 55 | `fae4a92558b27a538afa35f8f746a1315d32a475b9058fa410aad9a89d24d4e6` |
+| `PJSK:card:1236:01` | `02_CANONICAL_STORIES/CARD/1236_01.md` | 2 | 51 | `fd4ffba3f9cb4fca371a4f89e9ccfefad78f9928166905568cacea766db2a581` |
+| `PJSK:card:1236:02` | `02_CANONICAL_STORIES/CARD/1236_02.md` | 3 | 71 | `67b1a8a3d3d9bac28a63003f2b562412723f55483041fe2c6f3b781066810bde` |
+| `PJSK:card:1237:01` | `02_CANONICAL_STORIES/CARD/1237_01.md` | 1 | 93 | `e5a28cd796765c8959a0f7dc8713cf23ffc145a84ba979b7c968e714dc508f8d` |
+| `PJSK:card:1237:02` | `02_CANONICAL_STORIES/CARD/1237_02.md` | 3 | 80 | `95d51e51a2101ca2cdbbff4d25688ebf02d3b9d45f713b0caa8eb511a37782d3` |
+| `PJSK:card:1238:01` | `02_CANONICAL_STORIES/CARD/1238_01.md` | 3 | 70 | `6fc17809896421a3a4ddf052a327d40bf2b677cc82f048f9d90d99c8db85ab51` |
+| `PJSK:card:1238:02` | `02_CANONICAL_STORIES/CARD/1238_02.md` | 4 | 61 | `abf3f5a149854bc2cffac85a775d44c594f2e35f956563df3dc021216f5de683` |
+| `PJSK:card:1239:01` | `02_CANONICAL_STORIES/CARD/1239_01.md` | 1 | 66 | `248af9ae5bcdfe5a68e81d24d06c762a474b53b78db129f824ba9fd8916f046e` |
+| `PJSK:card:1239:02` | `02_CANONICAL_STORIES/CARD/1239_02.md` | 4 | 83 | `3140c9ac688abcfc3c4fb59aede7938a7ad99e3bc07c361322108053ccdbb5cb` |
+| `PJSK:card:1240:01` | `02_CANONICAL_STORIES/CARD/1240_01.md` | 1 | 94 | `54de5970fb138b9cf30fe73a5c0192e465c43eafaaef1140ddfc17b76b376f07` |
+| `PJSK:card:1240:02` | `02_CANONICAL_STORIES/CARD/1240_02.md` | 3 | 71 | `44e5eb38208fc0bbebff7d8982ea5d3007999414435f87e0b1877ea4173356f4` |
+| `PJSK:area:areatalk_wl_piapro_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_001_01.md` | 1 | 8 | `840b1f13d1fe7abd6c855181709774c40ac2bb81ed90b2f9f226e90677a12a62` |
+| `PJSK:area:areatalk_wl_piapro_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_002_01.md` | 1 | 10 | `11b14afeffcb6ff64c8776abc9193ce1ba3300d740bbd139d3b85921cacb5475` |
+| `PJSK:area:areatalk_wl_piapro_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_003_01.md` | 1 | 13 | `30c36256cf16d58fe16b0247c8d83cad388e8c39b19b52c4712a860c02082c39` |
+| `PJSK:area:areatalk_wl_piapro_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_004_01.md` | 1 | 9 | `a9261360a17ec204454916e3455c2bc32c729f1bbf4a2fe4d42926e0821485af` |
+| `PJSK:area:areatalk_wl_piapro_02_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_005_01.md` | 1 | 9 | `93f285b7cae828e8010c39a5315d5768577662909200946217faa07b8dbfb14d` |
+| `PJSK:area:areatalk_wl_piapro_02_006:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_006_01.md` | 1 | 12 | `28d7b2f062c60cfee60241283d8b9d310e4adcbff66629ffd760d1a5c816ab79` |
+| `PJSK:area:areatalk_wl_piapro_02_007:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_007_01.md` | 1 | 10 | `b88259dc25374c3bccc8ab36e5bdf6e01179c66f5b72c59a46accbe80352d845` |
+| `PJSK:area:areatalk_wl_piapro_02_008:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_008_01.md` | 1 | 11 | `f5ffe6f34afa8b2be357085901feec1f2956a71e919682835fd70ccd79bb0c04` |
+| `PJSK:area:areatalk_wl_piapro_02_009:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_009_01.md` | 1 | 10 | `8f15e0e79f3a7c0a0643f0a612cb5dd1a62c8daf3e4027ad627101ac879478d1` |
+| `PJSK:area:areatalk_wl_piapro_02_010:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_piapro_02_010_01.md` | 1 | 10 | `aee516f12e6487ecb2a10380d7ec7296c46b2f5f17fb517c9ce6fa1ce5a41af3` |
+
+### EVENT_0179 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Cross-SEKAI topology / six Interstice observers | UNIVERSAL / VERY HIGH, scoped I3. EPI E0140 to E0179: actual local guest relocation and host/human contact, remembered reports, failed replay and continuing observer limits. |
+| Leo/need / School | CO_PRIMARY / HIGH I2. Four humans welcome Empty Len, exchange limited histories and receive returned School travelers; new bounded School KAITO I2, School Rin E0027 preserved. |
+| MORE MORE JUMP! / Stage | CO_PRIMARY / HIGH I2 humans and group E0176. Independent Stage Miku I3 for revised recipient-sensitive performance and continued refinement; Street Luka exchange informs shared hope practice. |
+| Vivid BAD SQUAD / Street | CO_PRIMARY / HIGH I2. Wonderland MEIKO visit, differentiated help with the wall and actual receipt of Luka’s later idol performance; Street Luka E0109 very high local I2. |
+| Wonderlands×Showtime / Wonderland | CO_PRIMARY / HIGH I2. School KAITO and Rin receive welcome, help and adapted performance; current human methods and group E0178 preserved. |
+| Nightcord at 25:00 / Empty | CO_PRIMARY / HIGH I2. Two Stage Miku lives, Mafuyu’s limited thanks, returned Len’s protective concern and imperfect reassurance; no crisis cure or new identity disclosure. |
+| Distinct guest / host relations | New bounded I2 registry. Six particular encounters, selective human receipts and remembered affinity; no recurring access channel or universal singer relation. |
+| Fans / plush recipients | SUPPORTING / bounded receipt. Two hope responses and differentiated reconciliation; no universal performance efficacy or worldwide metric. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0179_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six cumulative updates distinguish actual guest visits, imagined swaps, staged fiction, ordinary dreams, local reports and observer knowledge. Tree causality, return control and future meetings remain unresolved; historical bodies and independent state scopes are preserved. EVENT_0180 is next; 33 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0180 — forward discovery and integrated routing
+
+The complete frozen envelope is **64 stories / 125 scenes / 3,516 records / 455,971 canonical bytes**: two core chapters, fifty-two card halves cross-listed from EVENT_0163/0167/0170/0171/0176/0179, and ten finale areas. Every text is consumed: 36 directly read here and 28 previously fully read in this continuation, reused only after identical canonical/raw hashes, paths and record identities were verified. All 64 members pass frozen membership, normalized-content, ordered-identity and chronology checks. No separately listed unlock-dependent or additional cross-linked story is omitted. Core publication is `2025-09-25T11:00:00Z`; areas `2025-09-28T11:00:00Z`. The card clusters retain their original April–September timestamps and causal homes; manifest association does not create new action chronology or duplicate state transitions.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0180:01` | `02_CANONICAL_STORIES/EVENT/0180_01.md` | 6 | 96 | `fdf4f41031276141801ab1d1511aeaba00f07362b341e1dad849a6e5f2acafe5` |
+| `PJSK:event:0180:02` | `02_CANONICAL_STORIES/EVENT/0180_02.md` | 1 | 32 | `49af9f0ca8fa41377013c0682d2180b370e4a02c2461db7debdda16b0875a344` |
+| `PJSK:card:1151:01` | `02_CANONICAL_STORIES/CARD/1151_01.md` | 2 | 67 | `d57b9aeeb51cbce9853d6f1384e18ad0d3755763cb74c71161c5f34149589c23` |
+| `PJSK:card:1151:02` | `02_CANONICAL_STORIES/CARD/1151_02.md` | 1 | 77 | `3692af2bf40e84403632e81bc2e0fee0230642662edbf3bb755d380b5fc7e2b3` |
+| `PJSK:card:1152:01` | `02_CANONICAL_STORIES/CARD/1152_01.md` | 2 | 59 | `4882d7b1035171427051c8216f7b151e18f94f8055e6fc61fba265587d9e6acf` |
+| `PJSK:card:1152:02` | `02_CANONICAL_STORIES/CARD/1152_02.md` | 2 | 50 | `84408618b228f8865ffe29c52856adda1e1f4b3ba8c3dc510eba368b918e2794` |
+| `PJSK:card:1153:01` | `02_CANONICAL_STORIES/CARD/1153_01.md` | 1 | 78 | `f9c7cc7d8ce1456fdc0c5faee3db64da9f11497c2fbad202a4716e651e93cacd` |
+| `PJSK:card:1153:02` | `02_CANONICAL_STORIES/CARD/1153_02.md` | 1 | 64 | `7728d3b933bf94dc9054d15425530b156a82d7f4f37a3e263b0d8c23bc5052d1` |
+| `PJSK:card:1154:01` | `02_CANONICAL_STORIES/CARD/1154_01.md` | 1 | 61 | `b4bbc5099fe5b696d3a2c08492c58f90dd996498e09312bd3187789f900b922c` |
+| `PJSK:card:1154:02` | `02_CANONICAL_STORIES/CARD/1154_02.md` | 1 | 77 | `45ecf2bc268b95a5f298dab4bb31df2c14b11dc1bacabef48e876489fbb0cab3` |
+| `PJSK:card:1169:01` | `02_CANONICAL_STORIES/CARD/1169_01.md` | 1 | 66 | `a7480004ba69c71e963779dc036861781af5b31b2d25a54ac34ac6279345fcfc` |
+| `PJSK:card:1169:02` | `02_CANONICAL_STORIES/CARD/1169_02.md` | 2 | 53 | `541917db012280d7a795ba13aec436dafbc87877101ca86574616e7b60e755a2` |
+| `PJSK:card:1170:01` | `02_CANONICAL_STORIES/CARD/1170_01.md` | 1 | 51 | `f50439ea3ec07af5663c8bac33bc6a69a6f1614dbb739576d306f7b158c4878c` |
+| `PJSK:card:1170:02` | `02_CANONICAL_STORIES/CARD/1170_02.md` | 1 | 64 | `c00d69fc0b7e3d8f8cd863cd6c902ae55bd34e42e242d8313c9539cc29726c94` |
+| `PJSK:card:1171:01` | `02_CANONICAL_STORIES/CARD/1171_01.md` | 1 | 57 | `39fd5f5b964bae1c831e3406eb84bf6c29b4103bb84d973b69e514184e1c72f2` |
+| `PJSK:card:1171:02` | `02_CANONICAL_STORIES/CARD/1171_02.md` | 1 | 74 | `7f79a4bfd6ec550133da4b50e4d926813c01957582251fa677c77fbb250c7fb6` |
+| `PJSK:card:1172:01` | `02_CANONICAL_STORIES/CARD/1172_01.md` | 1 | 52 | `210c75cd02e9ed54154d06ac986e2c86b0d257e0aa9e8f4c3a531b45a14c86e6` |
+| `PJSK:card:1172:02` | `02_CANONICAL_STORIES/CARD/1172_02.md` | 1 | 41 | `07314c43b6895c380df4178f05646bc5e039d34d02c0d2e7bd1545e781af5afc` |
+| `PJSK:card:1185:01` | `02_CANONICAL_STORIES/CARD/1185_01.md` | 1 | 63 | `f06bf520bbcb6fb6eec24f0d8e0cbe8a77c149e4e1a4e5ea7fbc1100e5338603` |
+| `PJSK:card:1185:02` | `02_CANONICAL_STORIES/CARD/1185_02.md` | 2 | 60 | `4f6fdb06ef22869b7d17f9420b74feeb712211fe33963306e0c18018bcc30054` |
+| `PJSK:card:1186:01` | `02_CANONICAL_STORIES/CARD/1186_01.md` | 4 | 76 | `c6bc177996a5f8f916eb94c737245a6caec7f23c96306c28d5bfc6fc4cdf325f` |
+| `PJSK:card:1186:02` | `02_CANONICAL_STORIES/CARD/1186_02.md` | 2 | 53 | `ca95c9bb02b06e5f1c9621d25186152caa5ccb3f1f4e8bfab00132d4f74f75cf` |
+| `PJSK:card:1187:01` | `02_CANONICAL_STORIES/CARD/1187_01.md` | 2 | 58 | `ae23edf849d7e072fd804493bb85377c0e6294cb53cb65854214b6cd05e652e7` |
+| `PJSK:card:1187:02` | `02_CANONICAL_STORIES/CARD/1187_02.md` | 3 | 72 | `50f98cc45bf6ecc85f269e0a2554dfc43200c0a2a74b5fde7ca6968b4f79da9e` |
+| `PJSK:card:1188:01` | `02_CANONICAL_STORIES/CARD/1188_01.md` | 4 | 56 | `8f4cde7bd2ebe243765771e176c73eb83a3f2c0e0630b33ce22cfeee3297a9f7` |
+| `PJSK:card:1188:02` | `02_CANONICAL_STORIES/CARD/1188_02.md` | 2 | 67 | `0d95b526155cbd20b8f1336f2275f880743e017bf5a146deca3cbe4dc47992b8` |
+| `PJSK:card:1189:01` | `02_CANONICAL_STORIES/CARD/1189_01.md` | 3 | 66 | `bdcc3bf4e4c4f49cd98f80f60eeab55f4bb7b2e240cf94c02c5b0f61128726c1` |
+| `PJSK:card:1189:02` | `02_CANONICAL_STORIES/CARD/1189_02.md` | 1 | 61 | `ca113dc94c8c69f8ff1943ba4208a00c16e0a547549bed69cdf3113212102537` |
+| `PJSK:card:1190:01` | `02_CANONICAL_STORIES/CARD/1190_01.md` | 3 | 62 | `2085f5b271880624ff77cdeb8e0ee4a48898a4a50e4fe6e9c46efc1c51769a32` |
+| `PJSK:card:1190:02` | `02_CANONICAL_STORIES/CARD/1190_02.md` | 1 | 59 | `cd342fd4c5b1a9222c4b7cb8b1b4d0e8835a660cb961b0744e3937cf3274e7f3` |
+| `PJSK:card:1191:01` | `02_CANONICAL_STORIES/CARD/1191_01.md` | 2 | 56 | `62705a7d538552e3d8633223a227037f144ace2f3a4d2cb0c69ad23a704f3abb` |
+| `PJSK:card:1191:02` | `02_CANONICAL_STORIES/CARD/1191_02.md` | 2 | 75 | `ca44b31cbcd876a7a5ce12165eeb9a6ea90c221c99854918582bb3032385c86e` |
+| `PJSK:card:1192:01` | `02_CANONICAL_STORIES/CARD/1192_01.md` | 4 | 71 | `6ee0bb8d3727749e9f7bb7c441c49d039c57be316e3917f7847b6811e5b12e01` |
+| `PJSK:card:1192:02` | `02_CANONICAL_STORIES/CARD/1192_02.md` | 1 | 60 | `db4a5c803ec6940b2b16b5c368ec123abe0852396923459fa097a0653d9ebecf` |
+| `PJSK:card:1218:01` | `02_CANONICAL_STORIES/CARD/1218_01.md` | 3 | 63 | `277c00c64ed0c9d72cf04875221437fe82807da8bef59c38c16f622b9e00b14e` |
+| `PJSK:card:1218:02` | `02_CANONICAL_STORIES/CARD/1218_02.md` | 1 | 53 | `6399a5ae453d1cd849617a52aeed7d129a2838aa4eab9f87d42ed44352f4698e` |
+| `PJSK:card:1219:01` | `02_CANONICAL_STORIES/CARD/1219_01.md` | 3 | 65 | `65f2f13b7991869791fa474e5ea52b763f78f41174a11a169ff4e854ecd5c866` |
+| `PJSK:card:1219:02` | `02_CANONICAL_STORIES/CARD/1219_02.md` | 5 | 58 | `a679246ce20aee22aacc80c6e7e8e8c3d3a1eebbb0dc742fd23c9717f1730a7c` |
+| `PJSK:card:1220:01` | `02_CANONICAL_STORIES/CARD/1220_01.md` | 3 | 63 | `679e9dd150414fe2c092792b354bc6a15b03b7ca4bf3d5fa321006c6d48695a7` |
+| `PJSK:card:1220:02` | `02_CANONICAL_STORIES/CARD/1220_02.md` | 1 | 53 | `90f688979990f7a6d99356b31b936865b391c40e418425ff8d5b8973d52df63a` |
+| `PJSK:card:1221:01` | `02_CANONICAL_STORIES/CARD/1221_01.md` | 4 | 57 | `a0c4d6a276c036cbaee760a42a347d24f9e72356a53cfd53b0afddb07b145b4e` |
+| `PJSK:card:1221:02` | `02_CANONICAL_STORIES/CARD/1221_02.md` | 2 | 63 | `f255e35f503adbcc12179828dffe05e695806835a6f43dfa37051d49f071dd8a` |
+| `PJSK:card:1235:01` | `02_CANONICAL_STORIES/CARD/1235_01.md` | 2 | 60 | `64ab3fb0fafb0a1e7d41488b5681bc938d552004f3aec882fb6a349b38d00bc7` |
+| `PJSK:card:1235:02` | `02_CANONICAL_STORIES/CARD/1235_02.md` | 2 | 55 | `fae4a92558b27a538afa35f8f746a1315d32a475b9058fa410aad9a89d24d4e6` |
+| `PJSK:card:1236:01` | `02_CANONICAL_STORIES/CARD/1236_01.md` | 2 | 51 | `fd4ffba3f9cb4fca371a4f89e9ccfefad78f9928166905568cacea766db2a581` |
+| `PJSK:card:1236:02` | `02_CANONICAL_STORIES/CARD/1236_02.md` | 3 | 71 | `67b1a8a3d3d9bac28a63003f2b562412723f55483041fe2c6f3b781066810bde` |
+| `PJSK:card:1237:01` | `02_CANONICAL_STORIES/CARD/1237_01.md` | 1 | 93 | `e5a28cd796765c8959a0f7dc8713cf23ffc145a84ba979b7c968e714dc508f8d` |
+| `PJSK:card:1237:02` | `02_CANONICAL_STORIES/CARD/1237_02.md` | 3 | 80 | `95d51e51a2101ca2cdbbff4d25688ebf02d3b9d45f713b0caa8eb511a37782d3` |
+| `PJSK:card:1238:01` | `02_CANONICAL_STORIES/CARD/1238_01.md` | 3 | 70 | `6fc17809896421a3a4ddf052a327d40bf2b677cc82f048f9d90d99c8db85ab51` |
+| `PJSK:card:1238:02` | `02_CANONICAL_STORIES/CARD/1238_02.md` | 4 | 61 | `abf3f5a149854bc2cffac85a775d44c594f2e35f956563df3dc021216f5de683` |
+| `PJSK:card:1239:01` | `02_CANONICAL_STORIES/CARD/1239_01.md` | 1 | 66 | `248af9ae5bcdfe5a68e81d24d06c762a474b53b78db129f824ba9fd8916f046e` |
+| `PJSK:card:1239:02` | `02_CANONICAL_STORIES/CARD/1239_02.md` | 4 | 83 | `3140c9ac688abcfc3c4fb59aede7938a7ad99e3bc07c361322108053ccdbb5cb` |
+| `PJSK:card:1240:01` | `02_CANONICAL_STORIES/CARD/1240_01.md` | 1 | 94 | `54de5970fb138b9cf30fe73a5c0192e465c43eafaaef1140ddfc17b76b376f07` |
+| `PJSK:card:1240:02` | `02_CANONICAL_STORIES/CARD/1240_02.md` | 3 | 71 | `44e5eb38208fc0bbebff7d8982ea5d3007999414435f87e0b1877ea4173356f4` |
+| `PJSK:area:areatalk_wl_finale_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_001_01.md` | 1 | 4 | `5c38cfad066507731ea78654d3f636b1746cae4345a166b4ee7e45541a5123e2` |
+| `PJSK:area:areatalk_wl_finale_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_002_01.md` | 1 | 4 | `cf9f67188f70349d2174677417efb9be9077b2a71ac8f4c481b5e720bdd9e2b7` |
+| `PJSK:area:areatalk_wl_finale_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_003_01.md` | 1 | 4 | `e7430f6bc3bb5675acc6bd7bd807e3541ae4e4043d522eff47ee23c04fd1a38b` |
+| `PJSK:area:areatalk_wl_finale_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_004_01.md` | 1 | 4 | `f00cbe9ce6bb65799679757c8bd84ace37a76fd1421f2a96c7dd05b3355d6aec` |
+| `PJSK:area:areatalk_wl_finale_02_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_005_01.md` | 1 | 4 | `d0a7615aa7f10a97f033a2fd799c861c5a5cda6b6d3084ee89a2345664d6786f` |
+| `PJSK:area:areatalk_wl_finale_02_006:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_006_01.md` | 1 | 3 | `b1a474423ea43398894e60ff42161a4f888879de337bd3e3b9da354fd12043d4` |
+| `PJSK:area:areatalk_wl_finale_02_007:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_007_01.md` | 1 | 5 | `61bdcb94a515f4387dc9df592fd05ce93b3265ef60ce1e67fc515b02cf8ee5b7` |
+| `PJSK:area:areatalk_wl_finale_02_008:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_008_01.md` | 1 | 7 | `9749e3a30f09a44d49d99a5962a07c31894b861e5c1caf6e8a0016d3fe92e40d` |
+| `PJSK:area:areatalk_wl_finale_02_009:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_009_01.md` | 1 | 7 | `2bb2bbaa859158abca18368de633fd5f7bf8a63609471a12aa571f320ba72ec0` |
+| `PJSK:area:areatalk_wl_finale_02_010:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_02_010_01.md` | 1 | 10 | `f1647bd458a58a0b6d8f5d33a69b0474760d37554bf524ff303e0b3029e43673` |
+
+### EVENT_0180 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Interstice / shared SEKAI | UNIVERSAL / VERY HIGH, scoped I3. EPI E0179 to E0180: joint present encounter, larger tree and represented creative forms, partial tactile sound reports; cause and human access open. |
+| Leo/need | CO_PRIMARY / HIGH I2. Current song preparation and messages while apart; eight prior card halves retain E0171 ownership. |
+| MORE MORE JUMP! | CO_PRIMARY / HIGH I2. Actual viewer-directed practice and hoped-for wide address; eight E0176 card halves retain earlier ownership. |
+| Vivid BAD SQUAD | CO_PRIMARY / HIGH I2. Early practice toward pending competition and remembered wider view; eight E0163 card halves are historical evidence. |
+| Wonderlands×Showtime | CO_PRIMARY / HIGH I2. Future theatre preparation and proposed renewed exercise; eight E0167 card halves do not replace E0178. |
+| Nightcord at 25:00 | CO_PRIMARY / HIGH I2. Uncertain composition toward companionship; eight E0170 card halves retain actual/alternative and recipient limits. |
+| Local singers / prior guests | HIGH / bounded I2 preservation. Twelve E0179 singer halves retain already recorded consequences and failed travel replay. |
+| Other family / audience / institutions | Bounded earlier contexts or present receipt. Card cross-linking creates no additional incident, public finding or new professional result. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0180_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six cumulative updates distinguish observed space, sensory reports, causal hypotheses and future hopes. Earlier cards, historical bodies, independent local epistemic owners and current human operatives remain preserved; no pending professional outcome is completed by the finale. EVENT_0181 is next; 32 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0181 — forward discovery and integrated routing
+
+The complete frozen envelope is **28 stories / 51 scenes / 2,063 records / 261,952 canonical bytes**: eight core chapters, sixteen card halves (1252–1259), and four ev_shuffle_58 areas. All texts were fully read; frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology identities/timestamps pass. Core, cards 1258–1259 and areas publish at `2025-09-30T06:00:00Z`; cards 1252–1257 at `2025-09-30T03:00:00Z`. Depicted preparation, festival and aftermath remain distinct. No separately listed unlock-dependent or additional cross-linked story is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0181:01` | `02_CANONICAL_STORIES/EVENT/0181_01.md` | 4 | 74 | `d9bacdd00144190e9ddd5971bb93ed7892a574ec2eebd8b97d8479b2005a7874` |
+| `PJSK:event:0181:02` | `02_CANONICAL_STORIES/EVENT/0181_02.md` | 4 | 103 | `5ff2dad7d67ed1d9355874ddf3aa97495b950d23cb837fc94b7e8c0ca93a36b9` |
+| `PJSK:event:0181:03` | `02_CANONICAL_STORIES/EVENT/0181_03.md` | 2 | 86 | `583b0c6b149b9e5664d3bcc0e5ee690ad146e559937a096bdd1eab73d51bd75d` |
+| `PJSK:event:0181:04` | `02_CANONICAL_STORIES/EVENT/0181_04.md` | 2 | 104 | `a9b3ee6a7ff42a9437a7eead3e44f67d701f89b7f5af2b921648182a93bc865d` |
+| `PJSK:event:0181:05` | `02_CANONICAL_STORIES/EVENT/0181_05.md` | 2 | 126 | `a6c3715cea9df1a07100c05e6a592f6596ab1fa5b5c52a1ab399795b7e14dcd9` |
+| `PJSK:event:0181:06` | `02_CANONICAL_STORIES/EVENT/0181_06.md` | 1 | 73 | `31452199da5bf8c9bdb823e68f39dd815e21fa43397a086837dfecaca8c85827` |
+| `PJSK:event:0181:07` | `02_CANONICAL_STORIES/EVENT/0181_07.md` | 2 | 111 | `e6ea18036d99f18e6fdda487ef056f9f3ce9f835ae76d41b9f19391bef4d27bb` |
+| `PJSK:event:0181:08` | `02_CANONICAL_STORIES/EVENT/0181_08.md` | 2 | 91 | `933bc27673abc9937cc9ba60996e7dd15933fe70bd957eef288ba1cb6ca68a92` |
+| `PJSK:card:1252:01` | `02_CANONICAL_STORIES/CARD/1252_01.md` | 4 | 117 | `83b25167e8f76a834eab793d1f50c38ef6c3ee19ca0f59b18b4da2b6304eb81c` |
+| `PJSK:card:1252:02` | `02_CANONICAL_STORIES/CARD/1252_02.md` | 1 | 136 | `80c7795e6d10f23c98af55204bed4dd7b140ce4e2ef87a2a01fbb0d0adff67b9` |
+| `PJSK:card:1253:01` | `02_CANONICAL_STORIES/CARD/1253_01.md` | 4 | 115 | `4c242b8fd0479a552a2406c1f900b9f87b6448d1acee039eeb07f905b4629d0a` |
+| `PJSK:card:1253:02` | `02_CANONICAL_STORIES/CARD/1253_02.md` | 1 | 156 | `b55afbebefe51ca6930533bc64a8b9920d77a575564a07b1bc52af726b80f855` |
+| `PJSK:card:1254:01` | `02_CANONICAL_STORIES/CARD/1254_01.md` | 1 | 61 | `59b81c5219bfa2d80344fe91f0d55ae9661e00ec9e1de3ca3f2697155170642f` |
+| `PJSK:card:1254:02` | `02_CANONICAL_STORIES/CARD/1254_02.md` | 1 | 72 | `c0fe4beaab0880638cd5f2571d3cf366f52f3d57bef36e57d75114b69d5a9523` |
+| `PJSK:card:1255:01` | `02_CANONICAL_STORIES/CARD/1255_01.md` | 2 | 70 | `a2b60976a18eb853c6286776c674b7735c06f50bec4eade90dad878af257785f` |
+| `PJSK:card:1255:02` | `02_CANONICAL_STORIES/CARD/1255_02.md` | 2 | 72 | `cd0f46fa2907f322948530aa98b49eaa3a7f6429c9d51703c4e411cb89f7ea4b` |
+| `PJSK:card:1256:01` | `02_CANONICAL_STORIES/CARD/1256_01.md` | 1 | 64 | `d1059fa7e5942f1bd3bc6919182a7997e6d0aaf41a2f93ea5d84d0415fed60b1` |
+| `PJSK:card:1256:02` | `02_CANONICAL_STORIES/CARD/1256_02.md` | 1 | 67 | `bd72e0ae446fda91de97442ccf2c7a7ed6e71b5c1b5acf0cedc4fc303505f47e` |
+| `PJSK:card:1257:01` | `02_CANONICAL_STORIES/CARD/1257_01.md` | 1 | 55 | `a446b7076a4883634a5cd9609e721a46e97ca9fd1ac12e0a7d5ff977d01edac1` |
+| `PJSK:card:1257:02` | `02_CANONICAL_STORIES/CARD/1257_02.md` | 1 | 51 | `dd7a6afa9a2a7465c4b58f06354bcf25ceaec6bc52ffbd71c411bf1c84fad434` |
+| `PJSK:card:1258:01` | `02_CANONICAL_STORIES/CARD/1258_01.md` | 1 | 53 | `2e1f644c54926d048c6ff10f8d5bf5ae84fa110af2546a842dabb4eaa55c8523` |
+| `PJSK:card:1258:02` | `02_CANONICAL_STORIES/CARD/1258_02.md` | 1 | 59 | `cd02608a2bb5b6326b4b82b6db3e3d333ea8ebe84c833607b1cca61bb91d7e0c` |
+| `PJSK:card:1259:01` | `02_CANONICAL_STORIES/CARD/1259_01.md` | 2 | 48 | `90d0aaf4b3a5121ea59e815f6568349a78c8662920e07361718fd6cf2e603d6f` |
+| `PJSK:card:1259:02` | `02_CANONICAL_STORIES/CARD/1259_02.md` | 4 | 65 | `893a9ce36fa5442908edcfd3387041b80111aee064bca946fef95b5ecd7031e9` |
+| `PJSK:area:areatalk_ev_shuffle_58_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_58_001_01.md` | 1 | 8 | `9b7d48db4b9ed92c02aab479428ca72a9944d98362611c6df023876e62414034` |
+| `PJSK:area:areatalk_ev_shuffle_58_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_58_002_01.md` | 1 | 9 | `c2f8a40b8d313d24cf42624c4343fb0c442e9d54c576027d913dfdad66286a49` |
+| `PJSK:area:areatalk_ev_shuffle_58_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_58_003_01.md` | 1 | 10 | `618916c8782d553dc6f19ddfb3632449b1410b42eb7d3130d325237eacf4a9f3` |
+| `PJSK:area:areatalk_ev_shuffle_58_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_58_004_01.md` | 1 | 7 | `6d05e4ee898c90475bb137f44bd4a59a01622166276c1ba4258db77badf636e2` |
+
+### EVENT_0181 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Vivid BAD SQUAD | PRIMARY / HIGH I2 character/group; scoped I3 An–Haruka renewed future rivalry. Actual unfamiliar-audience performance and Akito shard. |
+| MORE MORE JUMP! | CO_PRIMARY / HIGH I2 character/group; same scoped relational I3. Actual performance, Haruka rest/reciprocity and Minori hope address. |
+| Leo/need | CO_PRIMARY / HIGH I2. Public live, Saki ordinary-time planning, new bounded An–Saki I2 contact. |
+| Wonderlands×Showtime | CO_PRIMARY / HIGH I2. Opening act, Emu staff work and child-specific play, Nene academic help, ordinary companionship. |
+| Nightcord at 25:00 | CO_PRIMARY / HIGH I2 with unequal presence. Mizuki staff/visitor, public MV, private remote friends and later recorded receipt. |
+| Local singers / shard epistemics | HIGH / bounded I2. Separate Stage and Street witnesses; School phone and Empty follow-up; thought-shard E0153 strengthened, global E0180 preserved. |
+| Other family / spectators / island institutions | Bounded context and receipt. Work constraints and specific local response; no complete revitalization or future-event outcome. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0181_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six ledger additions preserve prior authority, separate public and private recipients, identify conditioned self-manifestations, and distinguish actual festival receipt from future bookings, contests and fireworks plans. EVENT_0182 is next; 31 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0182 — forward discovery and integrated routing
+
+The complete frozen envelope is **22 stories / 42 scenes / 1,276 records / 173,931 canonical bytes**: eight core chapters, ten card halves (1261–1265), and four ev_band_22 areas. Every text was fully read. Frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology identities/timestamps pass. Core, cards 1264–1265 and areas publish at `2025-10-11T06:00:00Z`; cards 1261–1263 at `2025-10-11T03:00:00Z`. Depicted preparation and aftermath remain separate. No separately listed unlock-dependent or additional associated story is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0182:01` | `02_CANONICAL_STORIES/EVENT/0182_01.md` | 1 | 45 | `ab1be25a2f8f2bce431217c9a900e1a8a3167fe83816252d1749eb7d488039ef` |
+| `PJSK:event:0182:02` | `02_CANONICAL_STORIES/EVENT/0182_02.md` | 1 | 68 | `3b60635c3e0528303cec45f8f6100029db773d7aa7af02edb28995a461d8ea08` |
+| `PJSK:event:0182:03` | `02_CANONICAL_STORIES/EVENT/0182_03.md` | 2 | 78 | `fd68687fc759027ea7bb41c5a9110e120c5091eadf37334436d98666fa744a48` |
+| `PJSK:event:0182:04` | `02_CANONICAL_STORIES/EVENT/0182_04.md` | 4 | 114 | `7ed1291a493de968617043bb4baddfed1f4a458314a1b0f08875010110c6aaca` |
+| `PJSK:event:0182:05` | `02_CANONICAL_STORIES/EVENT/0182_05.md` | 4 | 98 | `4076538b2b45d995c6a731737090cbcfc5f5457fb88bcd988e16e334294aa170` |
+| `PJSK:event:0182:06` | `02_CANONICAL_STORIES/EVENT/0182_06.md` | 3 | 88 | `7a8c283ef09b3fc3f8000e09a0565c6052bf9da0dbfde9bf8ffda21291a3ef40` |
+| `PJSK:event:0182:07` | `02_CANONICAL_STORIES/EVENT/0182_07.md` | 3 | 70 | `e23a601d69db49193e7082bb5b100941c8b2eb281dfaf2e8910460af04c30bed` |
+| `PJSK:event:0182:08` | `02_CANONICAL_STORIES/EVENT/0182_08.md` | 2 | 76 | `2dbf7b0d4258d0764422d74f63fb2090a61808faeb425a71eeeb245ce85e80be` |
+| `PJSK:card:1261:01` | `02_CANONICAL_STORIES/CARD/1261_01.md` | 1 | 55 | `ecbddad21788695c9401d81954c9ed5b1ca1eb9c8962104b80ee2d321af297d2` |
+| `PJSK:card:1261:02` | `02_CANONICAL_STORIES/CARD/1261_02.md` | 1 | 56 | `5ede86e445a53f652d6741b290308b61e1cff144b92f3701ed7ea9732b7d1a6f` |
+| `PJSK:card:1262:01` | `02_CANONICAL_STORIES/CARD/1262_01.md` | 3 | 64 | `3367b809e8bdb876a5c9db27b140540423f1d1cb83da5c43080b79fbaaaf45aa` |
+| `PJSK:card:1262:02` | `02_CANONICAL_STORIES/CARD/1262_02.md` | 1 | 56 | `2e76727d4f2f5ca1697340ed96d06596863f9658b2b22d6667c29231f3f02e5c` |
+| `PJSK:card:1263:01` | `02_CANONICAL_STORIES/CARD/1263_01.md` | 2 | 54 | `5cb957de70d3e4479c715c4947e71479212c02ccc8928c287bea9a28feda7e8b` |
+| `PJSK:card:1263:02` | `02_CANONICAL_STORIES/CARD/1263_02.md` | 4 | 66 | `78ffbc14fac78068a66a0d1c12c3e8f6e30490818f2cff59a20f90f961e0da71` |
+| `PJSK:card:1264:01` | `02_CANONICAL_STORIES/CARD/1264_01.md` | 1 | 73 | `c129809bac8e48d8664de7fed74e723279e820ab159c744e57daa79b96c57462` |
+| `PJSK:card:1264:02` | `02_CANONICAL_STORIES/CARD/1264_02.md` | 1 | 62 | `2f448df2ec033bc56487b2993cdb45e9ad33d5cb9394c12c3b8da17812c79f27` |
+| `PJSK:card:1265:01` | `02_CANONICAL_STORIES/CARD/1265_01.md` | 2 | 63 | `d8e5fc62b24675372863c0da598df2ffbb394c0708b3a928c1847bf665335875` |
+| `PJSK:card:1265:02` | `02_CANONICAL_STORIES/CARD/1265_02.md` | 2 | 61 | `ebee0c94aac1f232d937c318f4e74a36e502a28f50f8391dcf54d22bf1fec04a` |
+| `PJSK:area:areatalk_ev_band_22_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_22_001_01.md` | 1 | 7 | `5cca608b30658db4dc57a60f8adf1e662c0b3f4bb1a9cfd78b286ec4595b2f0a` |
+| `PJSK:area:areatalk_ev_band_22_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_22_002_01.md` | 1 | 8 | `e7dcde3e8899296dfbaee86e682c6d96a271be94ec925dfe836341ca89f24316` |
+| `PJSK:area:areatalk_ev_band_22_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_22_003_01.md` | 1 | 7 | `e661faaada7819ca2cb931b67c0a8c9dc3eaeab2ff86ab7d282af02ad9bc2bbd` |
+| `PJSK:area:areatalk_ev_band_22_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_22_004_01.md` | 1 | 7 | `72b773da0f6d01432194b79c83ff971c97d4180ecfdc3aa2eaf19a4e370d8861` |
+
+### EVENT_0182 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Ichika | PRIMARY / VERY HIGH I3: E0143 to E0182; intentional authorship welcomes differentiated creative receipt and connection. |
+| Leo/need / other humans and group | HIGH I2. Coauthorship, care, trusted praise, ordinary preferences and unresolved Shiho question; current owners preserved. |
+| School singers | HIGH / local I2. Encouragement, returned credit, direct appreciation, actual trio performance and party mediation; no topology successor. |
+| Ichika–Aoi / audience | New bounded high-I2 dyad; permission, actual fan-video and reciprocal testimony; further collaboration remains conditional. |
+| MORE MORE JUMP! | NONE / I0. Generic idol-video examples create no MMJ actor or recipient. |
+| Vivid BAD SQUAD | NONE / I0. No material actor or recipient route. |
+| Wonderlands×Showtime | NONE / I0. Saki acts as Leo/need; no depicted WxS route. |
+| Nightcord at 25:00 | NONE / I0. Honami family activity does not create N25 receipt. |
+| Family / management references | Bounded ordinary family I2 and reported professional context, with no new company decision. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0182_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six ledger additions distinguish the band song from WITH, public/software Miku from the School manifestation, reported views from audience or income claims, actual fan-video use from future collaboration, and current preparation from the unperformed solo live. EVENT_0183 is next; 30 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0183 — forward discovery and integrated routing
+
+The fully read frozen envelope contains **26 stories / 61 scenes / 1,722 records / 228,504 canonical bytes**: eight core chapters, ten card halves (1266–1270), four monthly conversations and four ev_idol_23 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1269–1270 and event areas use `2025-10-21T06:00:00Z`; cards 1266–1268 use `03:00:00Z`. Monthly records retain archive timestamp `2023-09-29T15:00:00Z`, not an asserted in-event date. No additional listed source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0183:01` | `02_CANONICAL_STORIES/EVENT/0183_01.md` | 3 | 124 | `fd74b5c5f1e74fa6241f25d161747a9664499bdf5ca007c843a1730f62c3ac9b` |
+| `PJSK:event:0183:02` | `02_CANONICAL_STORIES/EVENT/0183_02.md` | 3 | 81 | `b47ef0b064d5b2be2400413f3d12da8b7fca4f5d75518c47c0771110d9332c1d` |
+| `PJSK:event:0183:03` | `02_CANONICAL_STORIES/EVENT/0183_03.md` | 4 | 136 | `ea6ee9568ec0e384f4a78ab65d25dfc5a1ce6c1203ccc87f2e1f305474afa3ba` |
+| `PJSK:event:0183:04` | `02_CANONICAL_STORIES/EVENT/0183_04.md` | 5 | 119 | `d5b57b007e2ddfb6d5e9cc3778966f8ad48d96789df3717a2c2204cfa88f42d6` |
+| `PJSK:event:0183:05` | `02_CANONICAL_STORIES/EVENT/0183_05.md` | 3 | 138 | `19d18700c101d3cc136f2780bb497cdcf7ee57f8db07b9d56c32ffabcab5d951` |
+| `PJSK:event:0183:06` | `02_CANONICAL_STORIES/EVENT/0183_06.md` | 3 | 116 | `00e49b608491040ced6d7c740e9bb707651d8898a46a5180c036233d11663721` |
+| `PJSK:event:0183:07` | `02_CANONICAL_STORIES/EVENT/0183_07.md` | 8 | 207 | `9a148b655b3b2eda3db0270d1ab163ac7c4ab762951eb1c962f56eeb8d4a40b6` |
+| `PJSK:event:0183:08` | `02_CANONICAL_STORIES/EVENT/0183_08.md` | 3 | 152 | `46c3d79c78b71adcc0c6bd27ef8ba788f250d4a5fa5ed8d609f3402cba28f252` |
+| `PJSK:card:1266:01` | `02_CANONICAL_STORIES/CARD/1266_01.md` | 2 | 65 | `87c636385969d20639619f7c51c49ab4350382423023987166f84dc469c9ff5d` |
+| `PJSK:card:1266:02` | `02_CANONICAL_STORIES/CARD/1266_02.md` | 1 | 53 | `8fcf53803f8d7b08f5e3c90f4e8bd34b4b44c545c92631f3b30bfa4ca4b01663` |
+| `PJSK:card:1267:01` | `02_CANONICAL_STORIES/CARD/1267_01.md` | 2 | 54 | `ea3824b21f8605458b294a07c466cd8255467c3d138404f5b186a8e8dc0f2efa` |
+| `PJSK:card:1267:02` | `02_CANONICAL_STORIES/CARD/1267_02.md` | 2 | 46 | `117eb335a4ac34bf9e1e1c5c8610f00a8e6baf1ead13ab1c58bf4a07daed4cc9` |
+| `PJSK:card:1268:01` | `02_CANONICAL_STORIES/CARD/1268_01.md` | 2 | 65 | `c0bac7a856b59c2f9a634a09ce124307b40f60d7e4a2b3a17a4f2c56f18c7044` |
+| `PJSK:card:1268:02` | `02_CANONICAL_STORIES/CARD/1268_02.md` | 1 | 62 | `bc815af0825877b34bf990d51d23d9952f99bd6acb84df4768d94e9d01bb9e51` |
+| `PJSK:card:1269:01` | `02_CANONICAL_STORIES/CARD/1269_01.md` | 3 | 68 | `3b78f9c4918537c05f405757ec17d92f90750c42a2812380133e86171ea646c8` |
+| `PJSK:card:1269:02` | `02_CANONICAL_STORIES/CARD/1269_02.md` | 2 | 60 | `3e4feaeb27d6272c468833fdfbec2c4f118b7ec76890bd0bb305420607a8f50f` |
+| `PJSK:card:1270:01` | `02_CANONICAL_STORIES/CARD/1270_01.md` | 1 | 49 | `3ad481e005145be8af6c40f42b987fa21fefa3633882f736feb99fffeb1b1b41` |
+| `PJSK:card:1270:02` | `02_CANONICAL_STORIES/CARD/1270_02.md` | 5 | 59 | `527097d0d9c04c4d071a4ca18b7c52689e44c62aeb62c07fe129fb8acd052fe0` |
+| `PJSK:area:areatalk_monthly2511_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2511_001_01.md` | 1 | 10 | `2a5df8742cdfe9c03c3e00be401c9f6b7d16497bc0da479869c7886bdcb7b055` |
+| `PJSK:area:areatalk_monthly2511_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2511_002_01.md` | 1 | 9 | `b21e176daf796c6d7ea262d6d2d76cdb9349d8e7a7f76c6f7c8277da9fab9436` |
+| `PJSK:area:areatalk_monthly2511_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2511_003_01.md` | 1 | 8 | `c346044714a00a9ecb9c9838cd5b5856b4a6a4f93050dd4b6cada50065ccdc21` |
+| `PJSK:area:areatalk_monthly2511_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2511_004_01.md` | 1 | 8 | `b6b0a7d5b7a5f4508687682d611d13fa9702d09c6a86679597a191381eb0e50c` |
+| `PJSK:area:areatalk_ev_idol_23_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_23_001_01.md` | 1 | 9 | `0ebc582d457efa2308e54f0e990009e2d66133d5d6a698434f2c83a46f7b2c2b` |
+| `PJSK:area:areatalk_ev_idol_23_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_23_002_01.md` | 1 | 9 | `280356909d55adf0f8064dda7929ee5c058e0ff9f1dfc2d0c69c4763424ced72` |
+| `PJSK:area:areatalk_ev_idol_23_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_23_003_01.md` | 1 | 8 | `f324bf8ea2a5f35a560fa715328bbd727f88009060d6dcd19bd8d406673aa852` |
+| `PJSK:area:areatalk_ev_idol_23_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_23_004_01.md` | 1 | 7 | `9896f3e2572bebb5dc5b96a25e79b88e540216e4e13f70cc97239922c0a0d637` |
+
+### EVENT_0183 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Shizuku | PRIMARY / VERY HIGH I3: E0151 to E0183; integrated craft, consented rival help and retained ambition. |
+| Shizuku–Arisa | CO_PRIMARY / VERY HIGH I3: new scoped relationship; accepted co-work, reciprocal stage effect, acknowledgment and renewed rivalry. |
+| MMJ / other humans and group | HIGH I2. Current owners preserved; professional judgment, rest, ordinary pleasure and overextension remain differentiated. |
+| Stage singers | HIGH / local I2. Distinct counseling, fandom, warm-up, rest and reciprocal cheering; no topology successor. |
+| Other competitors / organizer | Bounded I2. Craft and peer receipt; Hikarin E0174 reinforced with escalation cost; no official result or new contract. |
+| Leo/need | NONE / I0. All four humans absent from material action and receipt. |
+| Vivid BAD SQUAD | NONE / I0. Unnamed taiyaki friend is not assigned to An or another member. |
+| Wonderlands×Showtime | NONE / I0. No material actor or recipient. |
+| Nightcord at 25:00 | NONE / I0. Generic school and teacher references create no route. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0183_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions preserve private knowledge, task-specific artistic judgments, informal polling, consent and changed conditions after refusal, member coauthorship, actual stage receipt and unperformed future plans. No collective forgiveness, official qualifier, safe-overwork claim or public SEKAI disclosure follows. EVENT_0184 is next; 29 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0184 — forward discovery and integrated routing
+
+The complete fully read envelope is **24 stories / 39 scenes / 1,614 records / 189,262 canonical bytes**: eight core chapters, ten card halves (1272–1276), two monthly and four ev_night_23 areas. Frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1275–1276 and event areas use `2025-10-31T06:00:00Z`; cards 1272–1274 use `03:00:00Z`; monthly archive records retain `2023-09-29T15:00:00Z`, not an asserted in-event date. No listed additional source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0184:01` | `02_CANONICAL_STORIES/EVENT/0184_01.md` | 3 | 132 | `048dd8ea21b0511824c09740d29bb4add03edc3dff08d80503b7a90990e2d432` |
+| `PJSK:event:0184:02` | `02_CANONICAL_STORIES/EVENT/0184_02.md` | 3 | 53 | `3fe9299449d3e5f6be11582c19fa108a8efd5ee60896488f54b02ed3853460f4` |
+| `PJSK:event:0184:03` | `02_CANONICAL_STORIES/EVENT/0184_03.md` | 1 | 79 | `7288d4b61366db1a1817f8ee2dd74e2bd8565c505be06de8a0074640802d2ff0` |
+| `PJSK:event:0184:04` | `02_CANONICAL_STORIES/EVENT/0184_04.md` | 1 | 64 | `622dc7895b61c1231ea35e39731c3c4f961ff0a5b364ca48aad62739552bc57e` |
+| `PJSK:event:0184:05` | `02_CANONICAL_STORIES/EVENT/0184_05.md` | 2 | 117 | `35f9fbaaaf961282ea6ebf22c51e5eff5616acba754b9fea8f510c04db3c9630` |
+| `PJSK:event:0184:06` | `02_CANONICAL_STORIES/EVENT/0184_06.md` | 4 | 84 | `3f4de76f5517b7086436fb488f74612ec345da0e4b03576eab159ee6c57f6576` |
+| `PJSK:event:0184:07` | `02_CANONICAL_STORIES/EVENT/0184_07.md` | 1 | 70 | `ec550cb90d24e40cb847c499bc7fe7a0b76440da90909aaebcee9d7663b00937` |
+| `PJSK:event:0184:08` | `02_CANONICAL_STORIES/EVENT/0184_08.md` | 2 | 114 | `89e5e05281c4ec24292acdbff5fa415b25c6b94c44316bad764df143e9564a51` |
+| `PJSK:card:1272:01` | `02_CANONICAL_STORIES/CARD/1272_01.md` | 1 | 83 | `ab121636c12b5dcc80ad6627e7095083027472b56e8f68f725731cbf527601c3` |
+| `PJSK:card:1272:02` | `02_CANONICAL_STORIES/CARD/1272_02.md` | 1 | 100 | `59e0d64fd7b9239a91afdb6fd396efed5723c4efa3cf0f9dec7db73a0ff61dd1` |
+| `PJSK:card:1273:01` | `02_CANONICAL_STORIES/CARD/1273_01.md` | 2 | 85 | `ff03c75f1066f390e5e929f3bfd805e83df69c0015b56108f7cc28ea42eb5ac8` |
+| `PJSK:card:1273:02` | `02_CANONICAL_STORIES/CARD/1273_02.md` | 2 | 112 | `e1c5ffee556681a16760373e9c0a2ffbd30b3d5444696906aba0936b8cef5000` |
+| `PJSK:card:1274:01` | `02_CANONICAL_STORIES/CARD/1274_01.md` | 1 | 55 | `b13291864bdfff45e0072a063b016ff6409d7cb04ba7058b9b62b5f7eb4abb56` |
+| `PJSK:card:1274:02` | `02_CANONICAL_STORIES/CARD/1274_02.md` | 1 | 77 | `b1e6840f7c005eba107586619e9b80529b6af8d161b8ba35c10ed45a6bae81af` |
+| `PJSK:card:1275:01` | `02_CANONICAL_STORIES/CARD/1275_01.md` | 2 | 71 | `9b0d3c154149b0cec707b2492253525917796daff2c4b58ee077e2acff3972eb` |
+| `PJSK:card:1275:02` | `02_CANONICAL_STORIES/CARD/1275_02.md` | 1 | 63 | `188e4a4ec8028a62aea2f196aa429bcd3dd43e7297b574c54a9761513e8be4c8` |
+| `PJSK:card:1276:01` | `02_CANONICAL_STORIES/CARD/1276_01.md` | 3 | 58 | `e1eee40820c99643eee2da74ad568dfd488d30ad41b1004918d97e62dacf7461` |
+| `PJSK:card:1276:02` | `02_CANONICAL_STORIES/CARD/1276_02.md` | 2 | 139 | `6f7fe56e83869100b2b04914ebdc740f8e1e018d1bc92693e369a5b38b911fce` |
+| `PJSK:area:areatalk_monthly2512_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2512_003_01.md` | 1 | 9 | `b72d0113a6facc8b550c5ad4f4ecb40a64b40006850835188313d5e4a9188659` |
+| `PJSK:area:areatalk_monthly2512_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2512_004_01.md` | 1 | 10 | `cafe3a0af385fbf551e368dc70ad29892a338cf13d3f67e5728222493466ab93` |
+| `PJSK:area:areatalk_ev_night_23_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_23_001_01.md` | 1 | 11 | `f13c0ae7d213ae3e74a18e79b8de65e6f3112d3e19e2e29a16f3b023c46a4e56` |
+| `PJSK:area:areatalk_ev_night_23_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_23_002_01.md` | 1 | 8 | `e4f3bbee67c08a96048f2a7082bd1f448dd4e71a778cc535f2de81590937a940` |
+| `PJSK:area:areatalk_ev_night_23_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_23_003_01.md` | 1 | 10 | `760932156c4d1bd8a48ff72ba2c361290a0f48732455415c47b9c10abb6e25b8` |
+| `PJSK:area:areatalk_ev_night_23_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_23_004_01.md` | 1 | 10 | `23fda622d22096b8eb1e0a07161692d8386165e9094a16dd5aa3e2400a4dee97` |
+
+### EVENT_0184 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Ena | PRIMARY / VERY HIGH I3: E0127 to E0184; expressive experiments, named target and selective account deletion under continuing uncertainty. |
+| N25 / other humans and group | HIGH I2. Distinct creative methods, learned social care, reciprocal support and incomplete recovery; current owners retained. |
+| Teacher / peer / parents | HIGH or historical I2. Effective task-specific guidance, Futaba exchange and actual childhood memory; no present father reconciliation or guaranteed admission. |
+| Empty singers | HIGH / local I2. Prompting, care, observed/overheard evidence, gifts and refusal; no topology successor or global knowledge. |
+| Leo/need / Honami | CROSS_UNIT / LOW I1. Reported apple-pie recommendation and credited influence on Kanade; no new direct encounter. Other three humans I0. |
+| MORE MORE JUMP! | NONE / I0. Prior Stage Miku receipt constrains interpretation without creating present human participation. |
+| Vivid BAD SQUAD | NONE / I0. Parental history is not transferred to Akito. |
+| Wonderlands×Showtime | NONE / I0. No material actor or recipient. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0184_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions distinguish actual childhood memory from pictured or hypothetical events, grade C from guaranteed admission, selective deletion from ending all social media, partial advice from known teacher intention, and useful care from undisclosed listening and a deceptive gift invitation. No full recovery, universal artistic rule, musical exclusivity law or AV claim follows. EVENT_0185 is next; 28 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0185 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 31 scenes / 1,615 records / 204,400 canonical bytes**: eight core chapters, ten card halves (1279–1283) and four ev_wonder_23 areas. Frozen membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1282–1283 and areas use `2025-11-10T06:00:00Z`; cards 1279–1281 use `03:00:00Z`. No monthly or additional listed source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0185:01` | `02_CANONICAL_STORIES/EVENT/0185_01.md` | 2 | 83 | `124c61051b4cab2f02641b5ccec19654eb1cd8fdd9b86f9a504fd84ddce6f612` |
+| `PJSK:event:0185:02` | `02_CANONICAL_STORIES/EVENT/0185_02.md` | 2 | 105 | `30eb31a5e9aff0a550ba39778c6495a97544e4fe3d08100062523b9675b859d1` |
+| `PJSK:event:0185:03` | `02_CANONICAL_STORIES/EVENT/0185_03.md` | 1 | 102 | `94aae34ef0c2fa1de6a8ed25e23382331d7bd04a1833e9cf1228449063a477d9` |
+| `PJSK:event:0185:04` | `02_CANONICAL_STORIES/EVENT/0185_04.md` | 3 | 133 | `c78b71745b17fd683ec08c836b7fa9aa7d5ac7e6efdd2b71dbd86f2f3761449a` |
+| `PJSK:event:0185:05` | `02_CANONICAL_STORIES/EVENT/0185_05.md` | 2 | 134 | `9a728ecc02dadb5fa5fa40824cb6f6a0d5df713bff90cee9b5b1db714bb6e3b9` |
+| `PJSK:event:0185:06` | `02_CANONICAL_STORIES/EVENT/0185_06.md` | 2 | 76 | `fb4390ea49cb9eed1b390638a5c309b3041da8296a69076fd1bd481f08092091` |
+| `PJSK:event:0185:07` | `02_CANONICAL_STORIES/EVENT/0185_07.md` | 1 | 112 | `debd25bd9c35b7d74af3d178eb51a41e36cb01cb798a51ceb161530847ff83eb` |
+| `PJSK:event:0185:08` | `02_CANONICAL_STORIES/EVENT/0185_08.md` | 2 | 171 | `28172d2cb4c1a7d43c5fa8886150c227eedb57fe56cec7955039a2a53e5daf6f` |
+| `PJSK:card:1279:01` | `02_CANONICAL_STORIES/CARD/1279_01.md` | 1 | 64 | `a310f3cfd6935bcbedb477d9678ca0998c28fdc98add764c7cff387b2810364c` |
+| `PJSK:card:1279:02` | `02_CANONICAL_STORIES/CARD/1279_02.md` | 1 | 73 | `c547b182b9e0a4595771e90bf748bed4f1e3091ce2341ac55ef6e7c4d8ca304e` |
+| `PJSK:card:1280:01` | `02_CANONICAL_STORIES/CARD/1280_01.md` | 2 | 74 | `5d30222250a0837342b5121ab775be20b73631caf45ed088b3d8bc3357062009` |
+| `PJSK:card:1280:02` | `02_CANONICAL_STORIES/CARD/1280_02.md` | 1 | 69 | `4b3e0bcde998fcf7737324517cb103669a3da87d1f2e58635cd0800517838cae` |
+| `PJSK:card:1281:01` | `02_CANONICAL_STORIES/CARD/1281_01.md` | 2 | 70 | `389b3981f8074a587e68aa720070a7b78696c019838daa98e0461bc9a0226023` |
+| `PJSK:card:1281:02` | `02_CANONICAL_STORIES/CARD/1281_02.md` | 1 | 80 | `5c6cc3dca08f3a880bf75b329d4ebc72082da58a3086bb10ad50d3917267dcb5` |
+| `PJSK:card:1282:01` | `02_CANONICAL_STORIES/CARD/1282_01.md` | 1 | 60 | `9e7c9442e3f69de1279ffb79da0ccc609b70bb7d71d2794ed9ad173dc4eb73f8` |
+| `PJSK:card:1282:02` | `02_CANONICAL_STORIES/CARD/1282_02.md` | 1 | 66 | `3886b3b3cec745329f9aa2aa761189aaf17d904ec5ed0125ce86c5bdf52890f2` |
+| `PJSK:card:1283:01` | `02_CANONICAL_STORIES/CARD/1283_01.md` | 1 | 56 | `183a06690b648fdd8b2cae61f016bf1d5754deaa2f2dd59476e268ab8d7eeaf6` |
+| `PJSK:card:1283:02` | `02_CANONICAL_STORIES/CARD/1283_02.md` | 1 | 51 | `61cf7e6e979f66c6a42365cadba36164b2c82a366c32c9fc29aaa63f36ec26b9` |
+| `PJSK:area:areatalk_ev_wonder_23_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_23_001_01.md` | 1 | 10 | `084d566cc5fbd2cf9d7b7b7a1860a19c43cc7ff8371c4d631823ad5f67a66398` |
+| `PJSK:area:areatalk_ev_wonder_23_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_23_002_01.md` | 1 | 9 | `9f6512a68c76375e0c8f5353f93400e274c106eb50b83b8282367fda086d357b` |
+| `PJSK:area:areatalk_ev_wonder_23_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_23_003_01.md` | 1 | 9 | `62cf25512a82647fff392aac08c5aaa40c12a80d4a0bc442fbdc1d816a94f3fc` |
+| `PJSK:area:areatalk_ev_wonder_23_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_23_004_01.md` | 1 | 8 | `5fa95bcd1c0ac4d9b089322dfdea68a662e12996a641e5c169bd0ad408f63100` |
+
+### EVENT_0185 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Nene | PRIMARY / VERY HIGH I3: E0149 to E0185; trust-received, audience-directed lead responsibility with future vulnerability open. |
+| Nene–Rui | CO_PRIMARY / VERY HIGH I3: founded dyad to scoped E0185 director–lead reciprocity, with intervention risk explicit. |
+| Nene–encountered former Yumemi peers | CO_PRIMARY / VERY HIGH I3: new bounded E0185 repair, direct apologies, explained departures and renewed encouragement. |
+| WxS / other humans and group | HIGH / very strong I2. Current owners retained; awarded theatre run completed, differentiated care and ordinary life preserved. |
+| Wonderland singers / professional network | HIGH / local I2. Distinct methods, embodied craft support and bounded observation; Asahi–Sakaki counsel unfinished. |
+| Leo/need | NONE / I0. No material actor or recipient among all four humans. |
+| MORE MORE JUMP! | NONE / I0. No material actor or recipient among all four humans. |
+| Vivid BAD SQUAD | NONE / I0. No material actor or recipient among all four humans. |
+| Nightcord at 25:00 | NONE / I0. Public-account discussion creates no human route. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0185_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions distinguish remembered failure, nightmare recurrence and performed fiction; preserve the month of prior assistance, the intervention’s uncertainty, bounded peer apologies, specific audience receipt and unresolved Asahi direction. No universal pressure method, permanent recovery, whole-company repair or future booking is certified. EVENT_0187 is next; 27 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0187 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 43 scenes / 1,463 records / 184,753 canonical bytes**: eight core chapters, ten card halves (1284–1288), two monthly areas and four ev_street_23 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1287–1288 and event areas use `2025-11-20T06:00:00Z`; cards 1284–1286 use `03:00:00Z`. Both monthly2512 rows retain the frozen `2023-09-29T15:00:00Z` archive timestamp. EVENT_0186 is absent; no listed source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0187:01` | `02_CANONICAL_STORIES/EVENT/0187_01.md` | 3 | 97 | `f0cda954c552343f7ca3424081ac53bb9c4ae3f33b4b5c8ed4e608c09b892b53` |
+| `PJSK:event:0187:02` | `02_CANONICAL_STORIES/EVENT/0187_02.md` | 4 | 102 | `65c82008b6b78ed5098f250758e1d861a3503846b152b0ae13dce537388a236c` |
+| `PJSK:event:0187:03` | `02_CANONICAL_STORIES/EVENT/0187_03.md` | 4 | 139 | `c39c2339499911d15c89bd1fbd708774e7741b1c50dea4ef264c45282b1298ab` |
+| `PJSK:event:0187:04` | `02_CANONICAL_STORIES/EVENT/0187_04.md` | 2 | 68 | `04ab07084b25e7167a19e4f37ada752b448ee94726540d7a762db2d65f6de9de` |
+| `PJSK:event:0187:05` | `02_CANONICAL_STORIES/EVENT/0187_05.md` | 2 | 136 | `1b730cecfb0d183773edaa5966ddd837fd017281dcc63ca2786b5f1729dab416` |
+| `PJSK:event:0187:06` | `02_CANONICAL_STORIES/EVENT/0187_06.md` | 3 | 131 | `df449c8c027c35e45382352484ab2eaa44124822b34f5fea9c4b58ee13abbbf1` |
+| `PJSK:event:0187:07` | `02_CANONICAL_STORIES/EVENT/0187_07.md` | 2 | 60 | `c64bbe13edc76bbdb2451ee0d6e290cef1fa09fe29ba990e58c58b2c45ab384b` |
+| `PJSK:event:0187:08` | `02_CANONICAL_STORIES/EVENT/0187_08.md` | 1 | 85 | `515b6aad4b364988660cab77c1a057e2562abc9b138f1ca50fdf102eacbaf758` |
+| `PJSK:card:1284:01` | `02_CANONICAL_STORIES/CARD/1284_01.md` | 2 | 56 | `dd979e95b0abe910b6dbec3602e46a0b6191636f3750aa5f185aca9ecf9b7434` |
+| `PJSK:card:1284:02` | `02_CANONICAL_STORIES/CARD/1284_02.md` | 1 | 47 | `2b3bdf81331073c6d2b03e62ca99be32ebd84d124a51fe8275492c367de6105f` |
+| `PJSK:card:1285:01` | `02_CANONICAL_STORIES/CARD/1285_01.md` | 1 | 83 | `a71435134fde4a4721b27b944434b80c8300f4f2cd65521dc87edc2e214ed4f9` |
+| `PJSK:card:1285:02` | `02_CANONICAL_STORIES/CARD/1285_02.md` | 2 | 63 | `d058ae8f1785cb04366b773b7a3bb108eb3c5dd919bcea87d4e7b5635bcfe522` |
+| `PJSK:card:1286:01` | `02_CANONICAL_STORIES/CARD/1286_01.md` | 1 | 64 | `4d3e87db0adab03bca40818d6048b5d3c53f4ad98ab9c74a38002e75f05bb379` |
+| `PJSK:card:1286:02` | `02_CANONICAL_STORIES/CARD/1286_02.md` | 1 | 62 | `b1d6bec7fe63cb89a451aa624eae2d9777d6f6f551492fe12239412e0c299437` |
+| `PJSK:card:1287:01` | `02_CANONICAL_STORIES/CARD/1287_01.md` | 2 | 54 | `88a08016c99d8b724f69b1f08f7df72b10250ddff02d74995ed17ae265742feb` |
+| `PJSK:card:1287:02` | `02_CANONICAL_STORIES/CARD/1287_02.md` | 2 | 53 | `f6ae6e34fffaec8a21ef8f1634eb6211143f1a7732e781e86c354f181050667b` |
+| `PJSK:card:1288:01` | `02_CANONICAL_STORIES/CARD/1288_01.md` | 2 | 55 | `8983cae5601ad996293e2ba37ec493ce43dbfc5a25519cc5bbecb2e269751824` |
+| `PJSK:card:1288:02` | `02_CANONICAL_STORIES/CARD/1288_02.md` | 2 | 57 | `7ac8e69730125ae7654923ef587dd1b5ee62584ba79c3961b7692c2ba759c8cd` |
+| `PJSK:area:areatalk_monthly2512_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2512_001_01.md` | 1 | 10 | `0b09a30e6e3e65ec60a819f70c8fdc302f6727d2a80540749968ace3aaaf891d` |
+| `PJSK:area:areatalk_monthly2512_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2512_002_01.md` | 1 | 10 | `6240b6e5cb3733dbe258816217b18cc14048ca661b0d56bee3bfd3c877eef413` |
+| `PJSK:area:areatalk_ev_street_23_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_23_001_01.md` | 1 | 9 | `5c855935aaece6329139382259fb7a1951bb8b1df91fe3b243fe5c41b2788e3d` |
+| `PJSK:area:areatalk_ev_street_23_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_23_002_01.md` | 1 | 8 | `b306ca4f4d2a02b473a71006c90c99991a9b8e8990656675abbd24c1ec3b6176` |
+| `PJSK:area:areatalk_ev_street_23_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_23_003_01.md` | 1 | 7 | `1d433b785cc0b118d132aa528b9704c45636d52bf0ead93f72d8adc2ffba9fa7` |
+| `PJSK:area:areatalk_ev_street_23_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_23_004_01.md` | 1 | 7 | `f0461f2f1759b7004d57576dfec792bd561c8f5de023827aabdd574b097a14ec` |
+
+### EVENT_0187 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / Akito | PRIMARY / VERY HIGH I3: E0146 to E0187 destination-led practical method, with independent E0021 reciprocal reliance retained. |
+| VBS / other humans and existing relations | HIGH / very strong I2: Toya E0154, An E0153, Kohane E0135, Akito–Toya and group E0169 retained. |
+| Akito–Alan / No.9 | HIGH / bounded I2: new direct evaluation/help relationship and expressed intent to contract with the quartet; formal terms and acceptance ahead. |
+| Street singers / Ken and wider network | HIGH / differentiated local I1–I2: practical assistance, restrained mediated contact and reciprocal musical influence; reported and recalled contact separated. |
+| WxS | CROSS_UNIT / LOW I1: Nene and Rui actual monthly participants; Tsukasa and Emu I0. No human route from a park wallpaper. |
+| Leo/need | NONE / I0: all four humans lack material actor or recipient routes. |
+| MORE MORE JUMP! | NONE / I0: all four humans lack material actor or recipient routes. |
+| Nightcord at 25:00 | NONE / I0: no Ena route from a private hypothetical about Akito’s father; all four humans I0. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0187_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six selective ledger additions preserve practical dependence, residual pure-ability ideals, workload risk, differentiated song authorship, actual local reception and the open formal contract. Monthly dates remain frozen archive metadata; all singer evidence is Street-local. No signed contract, completed tournament entry, guaranteed health or global performance rank is certified. EVENT_0188 is next; 26 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0188 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 53 scenes / 1,289 records / 168,225 canonical bytes**: eight core chapters, ten card halves (1289–1293), two monthly areas and four ev_band_23 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1292–1293 and event areas use `2025-11-30T06:00:00Z`; cards 1289–1291 use `03:00:00Z`. Both monthly2601 rows retain `2023-09-29T15:00:00Z` archive metadata. No listed source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0188:01` | `02_CANONICAL_STORIES/EVENT/0188_01.md` | 1 | 56 | `e7766dbe5cfaf9a37cd02c445fc1f3e1b3029fd42cd50cfd24319c88045b75fe` |
+| `PJSK:event:0188:02` | `02_CANONICAL_STORIES/EVENT/0188_02.md` | 3 | 75 | `339ad1df666567d9d4fd0dba1b45b269bba5c79778c051c082a5f507273556e3` |
+| `PJSK:event:0188:03` | `02_CANONICAL_STORIES/EVENT/0188_03.md` | 5 | 103 | `1109f077bc9004a31e40aedda2fb1a985ae44c631f9eaa589ac731f397c6f7f7` |
+| `PJSK:event:0188:04` | `02_CANONICAL_STORIES/EVENT/0188_04.md` | 3 | 87 | `7ce579b63ea1a8b249f6c8c5294692751f998e6af02455322765bb42128d809d` |
+| `PJSK:event:0188:05` | `02_CANONICAL_STORIES/EVENT/0188_05.md` | 3 | 88 | `6f9cd20c44d8aeececd07c52d9bec071c59071b73264840aa1638960894276c7` |
+| `PJSK:event:0188:06` | `02_CANONICAL_STORIES/EVENT/0188_06.md` | 2 | 63 | `43bdad02ba5c6034ae7c589e023fdeaaa21f810eab4857b1cf8b5614a03415d3` |
+| `PJSK:event:0188:07` | `02_CANONICAL_STORIES/EVENT/0188_07.md` | 3 | 106 | `2401e79149e2eca49056e5aabf52db834e2795e9fb47d1820d52b8fd641fc5bc` |
+| `PJSK:event:0188:08` | `02_CANONICAL_STORIES/EVENT/0188_08.md` | 1 | 128 | `57d6620df6367c02ae4f205f7536e7f7538530051eb7fe5256e98041469b851a` |
+| `PJSK:card:1289:01` | `02_CANONICAL_STORIES/CARD/1289_01.md` | 2 | 52 | `88e429dac0ea73ef5e90971702e40740bbc239f1c390e67c0894855740f27a6f` |
+| `PJSK:card:1289:02` | `02_CANONICAL_STORIES/CARD/1289_02.md` | 4 | 53 | `cd93bb8e40b9791b7aaa2cd047d1ea57c36ca277bfda82ad4e68d3d433869a2b` |
+| `PJSK:card:1290:01` | `02_CANONICAL_STORIES/CARD/1290_01.md` | 4 | 52 | `e6431844a245eaa8494b49057eabee26cf8a4ae736ceff487d82a0b5b5d6c76e` |
+| `PJSK:card:1290:02` | `02_CANONICAL_STORIES/CARD/1290_02.md` | 2 | 56 | `36a8ba3fdbe68e69b7193503153f0fd38f8e5d4a69c197472ae9ae6e6021755b` |
+| `PJSK:card:1291:01` | `02_CANONICAL_STORIES/CARD/1291_01.md` | 4 | 56 | `3828d4730ad4ba0da1642f512ccb542b0cf19b838d7b330487135fc5755700fa` |
+| `PJSK:card:1291:02` | `02_CANONICAL_STORIES/CARD/1291_02.md` | 1 | 45 | `69a1c0ca6850ee3278eedde4a3ecc957ef8dd19e3c46480c635ea759b86020eb` |
+| `PJSK:card:1292:01` | `02_CANONICAL_STORIES/CARD/1292_01.md` | 4 | 61 | `99092b771f747cc32ea5c4eaf15dd3ce0b7840c81d6fe5688a2e0d00e4b88ba4` |
+| `PJSK:card:1292:02` | `02_CANONICAL_STORIES/CARD/1292_02.md` | 2 | 51 | `a98f0bfa2a1bdcc3802cdda209c79418a015b3ae31f5c3fb636cac78c99d84d2` |
+| `PJSK:card:1293:01` | `02_CANONICAL_STORIES/CARD/1293_01.md` | 2 | 59 | `cb8444409932eb56411ed88bd3ea6a9bd17927a52e9b942711ebed4c344dd89e` |
+| `PJSK:card:1293:02` | `02_CANONICAL_STORIES/CARD/1293_02.md` | 1 | 49 | `968720230758bcf8cfd229ad07273b7afe3a12b91010099182886d9ef1819c92` |
+| `PJSK:area:areatalk_monthly2601_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2601_001_01.md` | 1 | 8 | `734307657bdf99ae15938b18a0c79432021813d52d9b0bd2d0f6d7b187f633ac` |
+| `PJSK:area:areatalk_monthly2601_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2601_002_01.md` | 1 | 12 | `406f9fa5694afd1a069a923cd7c7283e96bc45905c78bfb5aeb62d4876add2c0` |
+| `PJSK:area:areatalk_ev_band_23_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_23_001_01.md` | 1 | 9 | `466cc3d55a6d51c0144c9babaf152086cfd2ac57c236bafa080bd928ecbd1bb2` |
+| `PJSK:area:areatalk_ev_band_23_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_23_002_01.md` | 1 | 7 | `3e303c300ae0a82173d02395b5e4e56e76d1d866ee6c902597db0c566960a9e3` |
+| `PJSK:area:areatalk_ev_band_23_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_23_003_01.md` | 1 | 6 | `b694c43773329ab84ecfc9b2b7340752a92da7fc2231ff80e7c8c742aec6763b` |
+| `PJSK:area:areatalk_ev_band_23_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_23_004_01.md` | 1 | 7 | `138796adde8586abbb5051400608bf1160cd5f93dc682bfc5ac3055b742dd078` |
+
+### EVENT_0188 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Saki | PRIMARY / VERY HIGH I3: scoped E0091 to E0188 concealed preferred-scale conflict; independent recipient, composition, autobiographical and memory owners retained. |
+| Saki epistemic partition | VERY HIGH I3: new E0188 owner separates received loneliness from unshared preference and feared incompatibility. |
+| Leo/need / other humans and group | HIGH / very strong I2: actual concert success, technical coauthorship and differentiated future aims; current owners retained. |
+| Solis / fans / School singers | HIGH / local I2: staff, audience and established private support channels receive concrete use; no new singer topology. |
+| WxS | CROSS_UNIT / MEDIUM I2: Tsukasa historical sibling/family performance; Nene monthly I1, Emu reported I1, Rui I0. |
+| MORE MORE JUMP! | NONE / I0: all four humans lack material actor or recipient routes. |
+| Vivid BAD SQUAD | NONE / I0: all four humans lack material actor or recipient routes. |
+| Nightcord at 25:00 | NONE / I0: all four humans lack material actor or recipient routes. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0188_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six selective ledger additions preserve genuine concert enjoyment alongside concealed divergence, actual history versus performed puppet fiction, differentiated knowledge, shared technical authorship and the unbooked larger-venue plan. No group rejection, inevitable separation, disclosed preference, medical diagnosis or permanent recovery is certified. EVENT_0189 is next; 25 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0189 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 44 scenes / 1,446 records / 184,593 canonical bytes**: eight core chapters, ten card halves (1295–1299) and four ev_shuffle_59 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1298–1299 and all areas use `2025-12-10T06:00:00Z`; cards 1295–1297 use `03:00:00Z`. No monthly row or additional listed source is omitted.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0189:01` | `02_CANONICAL_STORIES/EVENT/0189_01.md` | 3 | 74 | `287bd5ad34ac8fd377e96403c1b904abe3e8847e8b7c1cdb52c44167b56087b7` |
+| `PJSK:event:0189:02` | `02_CANONICAL_STORIES/EVENT/0189_02.md` | 4 | 100 | `fd9873eacb5a90b3e2d02168ae8677a8e2ce40a9fc3cc3733990b9a5027588b9` |
+| `PJSK:event:0189:03` | `02_CANONICAL_STORIES/EVENT/0189_03.md` | 6 | 96 | `79649e2943699af3e69f6eda1febabb38bb52ae27297a33d9e48a9bb4b70dacf` |
+| `PJSK:event:0189:04` | `02_CANONICAL_STORIES/EVENT/0189_04.md` | 2 | 85 | `e9546896f8fc4a4c9829cc2e5719869c7450fc26922cd579047292840e1e10a5` |
+| `PJSK:event:0189:05` | `02_CANONICAL_STORIES/EVENT/0189_05.md` | 3 | 127 | `a526eaeeed01c5d5e5ab7064d0d96bd036a9e3a8399643eeccdc602a23620fe6` |
+| `PJSK:event:0189:06` | `02_CANONICAL_STORIES/EVENT/0189_06.md` | 2 | 160 | `193925bb01e78fab6fc8aae8d198996f0530d8e03d05dca3f9ceecc286f312e2` |
+| `PJSK:event:0189:07` | `02_CANONICAL_STORIES/EVENT/0189_07.md` | 3 | 143 | `4d97d5e44dd547145c0cfec24b271c87d0c9b0c2f73770e8ac40f213f1ea239d` |
+| `PJSK:event:0189:08` | `02_CANONICAL_STORIES/EVENT/0189_08.md` | 2 | 61 | `2b4c27dc93c734ec971da6afa7f833146918ecc9243d3b711a536a687dc9d94d` |
+| `PJSK:card:1295:01` | `02_CANONICAL_STORIES/CARD/1295_01.md` | 2 | 59 | `0efa4dc2dbe789e3c92f121c5cd9f97bb6d926e276ba4b29610f6ecfc5fe9e4e` |
+| `PJSK:card:1295:02` | `02_CANONICAL_STORIES/CARD/1295_02.md` | 1 | 63 | `a0b9fe2c7b297570d6e512cd5d598815be699e8ff9c255f8a068785b0c80378a` |
+| `PJSK:card:1296:01` | `02_CANONICAL_STORIES/CARD/1296_01.md` | 2 | 49 | `6962c953e6296e18223ee9266e475cb66d9be96862c8c193f22857763aa1ff1e` |
+| `PJSK:card:1296:02` | `02_CANONICAL_STORIES/CARD/1296_02.md` | 2 | 53 | `6018d74c4a83d4015d0ee80798a36af19aa9a6ff5f4f78fca6604ba29894d9ab` |
+| `PJSK:card:1297:01` | `02_CANONICAL_STORIES/CARD/1297_01.md` | 1 | 48 | `5e00d0bdd07c4738d24c2a105d12592da668c89fe9ed4373b5660e9d5af9aa50` |
+| `PJSK:card:1297:02` | `02_CANONICAL_STORIES/CARD/1297_02.md` | 1 | 61 | `32624e7b7ae058e1516775a00b65d308f3960b2dc43be77c5a98bff56276bb33` |
+| `PJSK:card:1298:01` | `02_CANONICAL_STORIES/CARD/1298_01.md` | 2 | 46 | `6478f33a2f0f79cd4b76ab9d23d15d61c8a2ce7d64de8e2447fec13f24177464` |
+| `PJSK:card:1298:02` | `02_CANONICAL_STORIES/CARD/1298_02.md` | 1 | 77 | `4670fc886633c7bd1d8a32c7a2c835524e2cfdee1e12c5a5bcce28e664191a63` |
+| `PJSK:card:1299:01` | `02_CANONICAL_STORIES/CARD/1299_01.md` | 2 | 53 | `eb0ea59a3324fb212aaf542ec3e5df919534f9219663a28edc8f77f563124824` |
+| `PJSK:card:1299:02` | `02_CANONICAL_STORIES/CARD/1299_02.md` | 1 | 64 | `af18861b8557a7d98a2ad6c01576672db3b38d38be33c086208926e76a22411d` |
+| `PJSK:area:areatalk_ev_shuffle_59_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_59_001_01.md` | 1 | 8 | `798a82a592387b4431d55a335e9044649e11829c1f2d0cdb2faa476b38fe1d5f` |
+| `PJSK:area:areatalk_ev_shuffle_59_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_59_002_01.md` | 1 | 7 | `4a3ed29300b76f3ad267305e9214d3078d4ec94222983d1c9881572f908ee243` |
+| `PJSK:area:areatalk_ev_shuffle_59_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_59_003_01.md` | 1 | 6 | `feca79f8510e18c7df15446a070813f08e7db9774ee3d7f3eb5b4203bffad1a0` |
+| `PJSK:area:areatalk_ev_shuffle_59_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_59_004_01.md` | 1 | 6 | `541a65d8874292551cdd28089ac04f82feaa5f4b0272e9b0345a50af00a6ded7` |
+
+### EVENT_0189 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Mafuyu | PRIMARY / VERY HIGH I3: E0165 to E0189 bounded accepted inclusion and chosen memory; maternal guilt and self-minimization retained. |
+| Mafuyu–Kohane | CO_PRIMARY / VERY HIGH I3: new scoped relationship E0189; requested company, accepted revision, reciprocal receipt and ordinary continuation. |
+| VBS / Kohane | CO_PRIMARY / HIGH I2: E0135 retained; independent concern, stated wish, reasoning and photography. Other three humans I0. |
+| WxS / Emu | CO_PRIMARY / HIGH I2: E0164 and independent scopes retained; existing Mafuyu dyad E0141 and creative reuse. Other three humans reported prior museum co-work I1. |
+| Leo/need / Ichika | CO_PRIMARY / HIGH I2: E0182 and existing relationships retained; Honami reported practical/support-plan I1, Saki/Shiho I0. |
+| Other N25 humans / local singers | HIGH / local I2: domestic and creative support; Empty, Street, Wonderland and School knowledge acquired separately. |
+| MORE MORE JUMP! | NONE / I0: all four humans lack material actor or recipient routes. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0189_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six selective ledger additions preserve actual shared game completion, simulated rather than bodily risk, differentiated authorship of the alternate route, private-history limits, souvenir possession and uncompleted future plans. Empty Luka’s stated observation understates her actual private question; Wonderland Rin’s cross-SEKAI recollection gives Emu only a bounded report. No universal cure, maternal resolution or global singer state is certified. EVENT_0190 is next; 24 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0190 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **25 stories / 48 scenes / 1,870 records / 253,658 canonical bytes**: eight core chapters, ten card halves (1300–1304), three monthly conversations and four ev_idol_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1303–1304 and event areas use `2025-12-21T06:00:00Z`; cards 1300–1302 use `03:00:00Z`. The monthly2601_003/004 and monthly2602_001 rows carry archive publication `2023-09-29T15:00:00Z`, not a demonstrated narrative date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0190:01` | `02_CANONICAL_STORIES/EVENT/0190_01.md` | 3 | 111 | `394d554e221911d4cdd1c18eb9eb657ab98d1dc614a2e7dd8c4acf54576176a4` |
+| `PJSK:event:0190:02` | `02_CANONICAL_STORIES/EVENT/0190_02.md` | 1 | 87 | `396db176d5be127c83d2d748dba587341f1eb62877a9d248ee29828879ba1195` |
+| `PJSK:event:0190:03` | `02_CANONICAL_STORIES/EVENT/0190_03.md` | 6 | 128 | `ee3944628a1b9ce23cb1b07f6e968abc161c2805b1fd4e5204176f1b31c7952a` |
+| `PJSK:event:0190:04` | `02_CANONICAL_STORIES/EVENT/0190_04.md` | 1 | 107 | `efc36c67a8da489a0fd669e3dc552e937e19637ea772a22ad35595458e638a90` |
+| `PJSK:event:0190:05` | `02_CANONICAL_STORIES/EVENT/0190_05.md` | 3 | 115 | `70a16678afa926c7a79f87b1960a6126f56fb53eb647444c716c46c2be7233b8` |
+| `PJSK:event:0190:06` | `02_CANONICAL_STORIES/EVENT/0190_06.md` | 2 | 89 | `60f3046b14575c5d84b183232bbf7e7076a0bb9d965b6bfd80890321d8caa5c0` |
+| `PJSK:event:0190:07` | `02_CANONICAL_STORIES/EVENT/0190_07.md` | 2 | 257 | `3cc74802251776b6b494429c6e6ada6ef62670962dcd070079dfa87157f87203` |
+| `PJSK:event:0190:08` | `02_CANONICAL_STORIES/EVENT/0190_08.md` | 3 | 257 | `29defe0842d08a65c7dc26187f42c0c8568bfe10c40131d50df0003e2ca957da` |
+| `PJSK:card:1300:01` | `02_CANONICAL_STORIES/CARD/1300_01.md` | 3 | 79 | `f466cfa0a11720429e163c63bd484d38249a1a3421adaf4aded061951a414aa9` |
+| `PJSK:card:1300:02` | `02_CANONICAL_STORIES/CARD/1300_02.md` | 1 | 54 | `ec3b336c0dc3f8cc04252646806ab24317e2ea5d10a888e2c4cff5b670618c5d` |
+| `PJSK:card:1301:01` | `02_CANONICAL_STORIES/CARD/1301_01.md` | 1 | 84 | `87d4b4adaa85dda8d1e836dd55a91aa38851c0bd1df904b5e678b6d6fa6255f3` |
+| `PJSK:card:1301:02` | `02_CANONICAL_STORIES/CARD/1301_02.md` | 3 | 65 | `45c3703916eb699eb4fa4c59ecac9211a9ca4c77fd9e42a667ab030e3edb10ca` |
+| `PJSK:card:1302:01` | `02_CANONICAL_STORIES/CARD/1302_01.md` | 1 | 56 | `0547df2a2706259e57dc2a3729b6fb5730d97c120f56e02277981399b41e506d` |
+| `PJSK:card:1302:02` | `02_CANONICAL_STORIES/CARD/1302_02.md` | 2 | 66 | `b21ce087382f452607c257c5f27bf93b48489feba2699804dee80558c508eea4` |
+| `PJSK:card:1303:01` | `02_CANONICAL_STORIES/CARD/1303_01.md` | 2 | 61 | `85563642a6bb71d930756de5c9abdffd6e9b234b550a11aac098cdfe6b33878c` |
+| `PJSK:card:1303:02` | `02_CANONICAL_STORIES/CARD/1303_02.md` | 1 | 55 | `106f876fa255ef2112b96e8e8fdae49fa63168c86aabe61a48c8a5161d023a16` |
+| `PJSK:card:1304:01` | `02_CANONICAL_STORIES/CARD/1304_01.md` | 4 | 70 | `ee046fe0973b87cb9044df0bbf7e45dbb76f893fc62fb907a4aad7ed5492c861` |
+| `PJSK:card:1304:02` | `02_CANONICAL_STORIES/CARD/1304_02.md` | 2 | 67 | `28fb8f1d2162e5bd95aa3202991bf5f679cfce644c0a20310ee0d063095d7622` |
+| `PJSK:area:areatalk_monthly2601_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2601_003_01.md` | 1 | 8 | `1e3613233ed65931ae771bb43d284549573a2f08497579b5c88d4ab09dfe77c9` |
+| `PJSK:area:areatalk_monthly2601_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2601_004_01.md` | 1 | 11 | `bc54d1b8123a3f002bcdc76b54000a9e8e4c0a06a0eff21898bac191b4a61b48` |
+| `PJSK:area:areatalk_monthly2602_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2602_001_01.md` | 1 | 7 | `8619e9f77bbca662059a7010d6beb885502d6f25ae671c7ae150a3dea5ec39ab` |
+| `PJSK:area:areatalk_ev_idol_24_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_24_001_01.md` | 1 | 11 | `154de448a37948742a5e2c55beb7e57727f9c8409a5d55ada15767d5b647f2f1` |
+| `PJSK:area:areatalk_ev_idol_24_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_24_002_01.md` | 1 | 8 | `286b89b15802f53047429c43a279b42627af02fdfaa1b76763c4eaf0e2b106cb` |
+| `PJSK:area:areatalk_ev_idol_24_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_24_003_01.md` | 1 | 8 | `edc6b4a796d6f181cf382e8e5047188ba6b9c6ead839ae68270d582069835827` |
+| `PJSK:area:areatalk_ev_idol_24_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_24_004_01.md` | 1 | 9 | `f5987941806f87c3f1995d3d67562e6db7067114dbefa8db52f0f98109b4008c` |
+
+### EVENT_0190 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Haruka | PRIMARY / VERY HIGH I3: E0142 to E0190 scoped producer expansion; E0133 lineage and independent E0153/E0094/E0023 preserved. |
+| MMJ / Minori, Airi, Shizuku and group | PRIMARY / HIGH to VERY HIGH I2: current operatives and group E0176 retained; official qualification is a new institutional result. |
+| Rival idols and Hiiragi | SECONDARY / HIGH I2: existing Minori–Hikarin E0174 reinforced through exit and future promise; new bounded Haruka–Hiiragi advisory contact; temporary F-team cooperation. |
+| Stage singers | SECONDARY / HIGH local I2: Len E0098, KAITO E0092 and collective relations retained; differentiated human-to-singer craft influence and actual result receipt. |
+| Leo/need | CROSS_UNIT / bounded I2: Shiho’s preference and conditional social acceptance; Saki ordinary I1, Ichika proposed recipient I1, Honami I0. No E0188 secret transfer. |
+| VBS / WxS / N25 | NONE / I0: all twelve humans lack material actor or recipient routes; Phoenix merchandise is not a WxS human event. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0190_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six selective ledger additions distinguish local audience response, mediated testimony and official votes; the later result does not retroactively remove uncertainty. Hiiragi supplies advice without confirmed doctrinal conversion, Hikarin receives hope despite elimination, and Stage singers retain separate observation and learning channels. Rest advocacy coexists with admitted late-night fatigue. No guaranteed exam result, permanent team merger, complete former-group repair or audiovisual readiness is certified. EVENT_0191 is next; 23 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0191 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **26 stories / 47 scenes / 2,039 records / 259,293 canonical bytes**: eight core chapters, fourteen card halves (1307–1313, including independent Shiho and Emu thought-fragment stories) and four ev_shuffle_60 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1312–1313 and areas use `2025-12-31T06:00:00Z`; cards 1307–1311 use `03:00:00Z`. No monthly row is present. Shared publication does not date every card scene to the festival.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0191:01` | `02_CANONICAL_STORIES/EVENT/0191_01.md` | 4 | 135 | `2898aef189c322323c477e100527e294a6b73737fb6ba005ff290492e5154e24` |
+| `PJSK:event:0191:02` | `02_CANONICAL_STORIES/EVENT/0191_02.md` | 3 | 83 | `874c27bf6fd2e4b67e7ce4057515d2193edfa2c4521050ec8a71464cb6fe684e` |
+| `PJSK:event:0191:03` | `02_CANONICAL_STORIES/EVENT/0191_03.md` | 3 | 74 | `40ec8307607cfdaf96019ae8da9bd331131348174b644596f0745a28d52ba992` |
+| `PJSK:event:0191:04` | `02_CANONICAL_STORIES/EVENT/0191_04.md` | 1 | 86 | `3d5b485d1c9b21e9f170254b95d7af1d62246ecc4ab3deaec1000c65e3b26738` |
+| `PJSK:event:0191:05` | `02_CANONICAL_STORIES/EVENT/0191_05.md` | 3 | 125 | `f10170b58dc27c6325137e4bcf41e94be690439cc60e757ab0e99183410456ba` |
+| `PJSK:event:0191:06` | `02_CANONICAL_STORIES/EVENT/0191_06.md` | 1 | 89 | `2ddc8646c51c00e85c31c4c7a8136295d613665b5478f2493e0a95632f7788e1` |
+| `PJSK:event:0191:07` | `02_CANONICAL_STORIES/EVENT/0191_07.md` | 1 | 120 | `e97e2675d57b235f94876ec6e2b944e06db59d7f6fa95d7a2664b2bcc3789c0c` |
+| `PJSK:event:0191:08` | `02_CANONICAL_STORIES/EVENT/0191_08.md` | 2 | 111 | `ed952b2c71d4b74a47b1b9dc01545a7e95ead49e1911935d779e5263c137f050` |
+| `PJSK:card:1307:01` | `02_CANONICAL_STORIES/CARD/1307_01.md` | 2 | 112 | `19c170f34af50c1d2e976f89c68a6481f6561035f605817b8d8a3ff5f2ab729a` |
+| `PJSK:card:1307:02` | `02_CANONICAL_STORIES/CARD/1307_02.md` | 2 | 140 | `7e3fab6d74f0feee9512aeb0e8e549e1cad3d6cd6ce88629c4b74be008d5746e` |
+| `PJSK:card:1308:01` | `02_CANONICAL_STORIES/CARD/1308_01.md` | 3 | 129 | `51c24c87966b451591ed68aba0bbb3c0a4da390b85d4ccde7ba0f92ff80dddb4` |
+| `PJSK:card:1308:02` | `02_CANONICAL_STORIES/CARD/1308_02.md` | 2 | 152 | `ccff376d91254b71044fc47ae84d4cf44f56679a01d38cb70860f17d346baeef` |
+| `PJSK:card:1309:01` | `02_CANONICAL_STORIES/CARD/1309_01.md` | 1 | 63 | `f2f799cdfd3fbf33b11dc7c205880ffbcf15ebe4d589ee6e5e7110023b74cc05` |
+| `PJSK:card:1309:02` | `02_CANONICAL_STORIES/CARD/1309_02.md` | 1 | 66 | `0044e6ff39c43b9e0a9418cbd190933975fb49817ad993a1a3d4a3230e30e9aa` |
+| `PJSK:card:1310:01` | `02_CANONICAL_STORIES/CARD/1310_01.md` | 1 | 58 | `af4c0c92b9bc04d9ab31c80e81b274c3ebe7b8afb875e34cb9f80054a0c70803` |
+| `PJSK:card:1310:02` | `02_CANONICAL_STORIES/CARD/1310_02.md` | 1 | 69 | `8624b24c0121b16545e3cc105e5f9ca1e53829aadfb8f50d2c8beda04fa1b58d` |
+| `PJSK:card:1311:01` | `02_CANONICAL_STORIES/CARD/1311_01.md` | 2 | 65 | `3a9b250416ddf038afd1bbc5482dfc2d082004cbfb5029f97786797632f8f01d` |
+| `PJSK:card:1311:02` | `02_CANONICAL_STORIES/CARD/1311_02.md` | 3 | 77 | `24c755af386b45d6c0894608df75d0b4c8fd5e541b5ffc47a56e5d55644f985c` |
+| `PJSK:card:1312:01` | `02_CANONICAL_STORIES/CARD/1312_01.md` | 2 | 56 | `83f23a74f81a4475763cd9f80df3d37aff700b6f120620c0e94784fd5b0c584b` |
+| `PJSK:card:1312:02` | `02_CANONICAL_STORIES/CARD/1312_02.md` | 1 | 76 | `6a82592838b2fd6f1361ee22daca4a4b878e61b3d573f566596f2f6cf504b7dc` |
+| `PJSK:card:1313:01` | `02_CANONICAL_STORIES/CARD/1313_01.md` | 2 | 56 | `1d08db64ce8a2cc3e1da0d53088edc78fa80695e0793a1229925837015aafac0` |
+| `PJSK:card:1313:02` | `02_CANONICAL_STORIES/CARD/1313_02.md` | 2 | 63 | `4ebda6c59c86b661b076bf42ecb21f3b97ff346a3b4ac8bf098dc30e55d4deee` |
+| `PJSK:area:areatalk_ev_shuffle_60_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_60_001_01.md` | 1 | 10 | `b74ec8d125356c62ec47d7438941c2211fc4b5e913819d9937f4d749d04d1d26` |
+| `PJSK:area:areatalk_ev_shuffle_60_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_60_002_01.md` | 1 | 7 | `ffa576761f5b313772d60ca9329f303816e1378d239641819187f6d7c785613b` |
+| `PJSK:area:areatalk_ev_shuffle_60_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_60_003_01.md` | 1 | 7 | `9b4813f134e53662095c0f60f870c76185274dae642229fac74382e094b2b3a3` |
+| `PJSK:area:areatalk_ev_shuffle_60_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_60_004_01.md` | 1 | 10 | `02544e3f8a2c5eb1852e881fe64d0ff6e66499e5385e3efd228ee0a37ea3083f` |
+
+### EVENT_0191 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Minori and quartet | PRIMARY / HIGH to VERY HIGH I2: existing hope, producer and group owners retained; successful local festival and planned dance transmission. |
+| VBS / Toya, Kohane and quartet | CO_PRIMARY / HIGH I2: deliberate novice learning, actual shared carrying, photography and differentiated ordinary participation. |
+| Leo/need / Shiho | SECONDARY / VERY HIGH I3: new independent E0191 painful-memory retention; E0162/E0148 untouched. |
+| Leo/need / other three | CROSS_UNIT / I1–HIGH I2: Saki and Honami causally recruit/teach; Ichika receives performance and ordinary instruction. |
+| WxS / four humans | CO_PRIMARY / HIGH to VERY HIGH I2: Emu E0104/E0164 retained, Tsukasa/Airi reciprocal craft, Rui co-production and Nene teaching. |
+| N25 / four humans | CROSS_UNIT / I1–HIGH I2: Mafuyu/Mizuki actual craft and festival contact; Kanade/Ena ordinary play, no private-history transfer. |
+| Local singers / conditioned fields | SECONDARY / HIGH local I2: Street Rin reciprocal support; separate School and Wonderland field witnesses; Stage planning only. |
+| Shrine girl | SECONDARY / bounded encounter and OPEN identity: actual received help and instruction; deity explanation remains attributed and unconfirmed. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0191_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish a completed reading, show, dance, mikoshi carrying, handkerchief receipt and local party from planned ritual instruction and future meetings. Shiho/Emu field figures are personified self-positions; no ordinary-world rejuvenation, resurrected grandfather, independent park consciousness or deterministic shard cure follows. The shrine-girl hypothesis stays separate from established SEKAI topology. Historical readings and EVENT_0170 closure are preserved. EVENT_0192 is next; 22 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0192 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 37 scenes / 1,454 records / 170,894 canonical bytes**: eight core chapters, ten card halves (1315–1319), two monthly areas and four ev_night_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1318–1319 and release areas use `2026-01-11T06:00:00Z`; cards 1315–1317 use `03:00:00Z`. Both monthly rows retain archive timestamp `2023-09-29T15:00:00Z`; it is not their inferred diegetic date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0192:01` | `02_CANONICAL_STORIES/EVENT/0192_01.md` | 1 | 53 | `f94b9ad01a62536f8f7d7ca11e9044e0fa9c9a2fb1939adae31f3b9373e5d099` |
+| `PJSK:event:0192:02` | `02_CANONICAL_STORIES/EVENT/0192_02.md` | 2 | 104 | `20fae6698f8f0fc540c63710421945dd8a2ab736ec3bf52d185a5aafbf4f388e` |
+| `PJSK:event:0192:03` | `02_CANONICAL_STORIES/EVENT/0192_03.md` | 1 | 49 | `0eb55f2de01979a68520073991b5c672564ac7b3afdde24550ae713d3bec6551` |
+| `PJSK:event:0192:04` | `02_CANONICAL_STORIES/EVENT/0192_04.md` | 1 | 48 | `75b50b4ec94b0a8b9f2ce27fddd755634b608475cd38186e3cfc79f7e0c3788d` |
+| `PJSK:event:0192:05` | `02_CANONICAL_STORIES/EVENT/0192_05.md` | 1 | 50 | `e3e6d72434c0846210f8b08e5e8bcf9167490eaa42e08ac7b1664a13b7474b46` |
+| `PJSK:event:0192:06` | `02_CANONICAL_STORIES/EVENT/0192_06.md` | 1 | 61 | `c927e6c07fc82ab67a0e6d1a9cb234f120bcb7760b848f75a1b76969b19566d4` |
+| `PJSK:event:0192:07` | `02_CANONICAL_STORIES/EVENT/0192_07.md` | 2 | 69 | `43877214acb2c021e2eb35dbf8a3002a0553d4c93e8539cb06df22a5692c3d9d` |
+| `PJSK:event:0192:08` | `02_CANONICAL_STORIES/EVENT/0192_08.md` | 1 | 170 | `80cd97ebe3e7f80b3dd0152fb73997ee16ddeb698cd6fc0666f48d2d15874566` |
+| `PJSK:card:1315:01` | `02_CANONICAL_STORIES/CARD/1315_01.md` | 2 | 85 | `c87596eb50b407f961dce69795a70c59892b4d5d910e3c23452b00ecce95131c` |
+| `PJSK:card:1315:02` | `02_CANONICAL_STORIES/CARD/1315_02.md` | 3 | 90 | `b21370e862ff36bd6236fe600006ebd9361d81845ac772d4fc4332fae5b538ee` |
+| `PJSK:card:1316:01` | `02_CANONICAL_STORIES/CARD/1316_01.md` | 4 | 114 | `e03ea6fd74c44abc73b7a129e16c8c9394640a5f9c6bf4ed6f480ee12de4ec01` |
+| `PJSK:card:1316:02` | `02_CANONICAL_STORIES/CARD/1316_02.md` | 2 | 71 | `ac26cd7c423a9d4ee4c9c7669c24fd3e29ce4f4aff456df6352542a0735eba31` |
+| `PJSK:card:1317:01` | `02_CANONICAL_STORIES/CARD/1317_01.md` | 1 | 46 | `53d33eb971605b75ca32f8edb16a40443b4180ef26856d8a9eac84e6fa4bfe74` |
+| `PJSK:card:1317:02` | `02_CANONICAL_STORIES/CARD/1317_02.md` | 1 | 57 | `8ea6b3341fc5acd60f715c69e4c1e3bbda25c2858fa94dd9f00674259ae63ee3` |
+| `PJSK:card:1318:01` | `02_CANONICAL_STORIES/CARD/1318_01.md` | 4 | 102 | `baaf922e11e2aa6ee859916a57a70d4db8fa8508b59c55ee079534cda4c5b3d7` |
+| `PJSK:card:1318:02` | `02_CANONICAL_STORIES/CARD/1318_02.md` | 1 | 81 | `9f5f2307d8d601aa9ebea8abc142afdf00b098554b561bafd9f6c88a1e1f4030` |
+| `PJSK:card:1319:01` | `02_CANONICAL_STORIES/CARD/1319_01.md` | 2 | 64 | `705fb203b33d40f04d6564fb92a0ac21416035e5cd838a8aabc79ae805f5ea3e` |
+| `PJSK:card:1319:02` | `02_CANONICAL_STORIES/CARD/1319_02.md` | 1 | 88 | `4cdaede0f4c13546a8f9729fcf3bdd0ca413f435e87dedcf0f425cd059955cc6` |
+| `PJSK:area:areatalk_monthly2602_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2602_002_01.md` | 1 | 9 | `ee0c44f21d53456c6ca1dd82d420b233e3c5a1952bc514219846572ab739ef5d` |
+| `PJSK:area:areatalk_monthly2602_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2602_004_01.md` | 1 | 8 | `103d616ba1630a6795e19d705e48807e155249448bd109d44d33db96f8ec19b8` |
+| `PJSK:area:areatalk_ev_night_24_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_24_001_01.md` | 1 | 8 | `320cc9c64e1ad0cf077ccb0c5bcd8e93ab6111fc081ff4c63b42dd0ec326229f` |
+| `PJSK:area:areatalk_ev_night_24_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_24_002_01.md` | 1 | 9 | `43f8a0c4ece2d311a0b962d3d11aaab50acf074d8f7736ce78e6a64e769261f1` |
+| `PJSK:area:areatalk_ev_night_24_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_24_003_01.md` | 1 | 11 | `bae77fd922c88d7198382329fe16d59c5a336b5b04312d306df5136dbad144d7` |
+| `PJSK:area:areatalk_ev_night_24_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_24_004_01.md` | 1 | 7 | `241b6181a72590c28594d97b5cff6b550650132dded12a5bd176efcf4d0d08c0` |
+
+### EVENT_0192 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Kanade | PRIMARY / VERY HIGH I3: scoped K-E0192-01 successor; confronted rescue dependence and an unresolved alternative to immediate family reunion. |
+| N25 / Ena, Mizuki, Mafuyu | CO_PRIMARY / HIGH to VERY HIGH I2: E0184, E0150 and E0189 retained; provisional advice, chosen work boundaries and actual reciprocal care. |
+| Empty singers | SECONDARY / HIGH local I2: Luka’s challenge and MEIKO’s protective opposition; Len’s fear, Rin’s criticism and ordinary gift receipt remain differentiated. |
+| Leo/need / Honami | CROSS_UNIT / HIGH I2: actual bounded care consultation with Mafuyu and received meal gesture; other three I0. |
+| MMJ / Minori | REFERENCED / I1: Mizuki credits a café recommendation; no new direct encounter or quartet update. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Kanade’s family | SECONDARY / HIGH I2: actual grandmother visit/advice; mother’s words and family warmth recalled, not present reunion. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0192_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish received questions, private unease, tentative family hypotheses and actual ordinary support. Luka’s exclusivity/dependence claims are attributed, not clinical or metaphysical authority. Neither a new song, resolved rescue dependence, family decision nor universal intervention rule is completed. Historical readings and EVENT_0170 closure are preserved; all five units are dispositioned. EVENT_0193 is next; 21 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0193 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **25 stories / 43 scenes / 1,411 records / 182,570 canonical bytes**: eight core chapters, ten card halves (1320–1324), three monthly areas and four ev_street_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1323–1324 and release areas use `2026-01-21T06:00:00Z`; cards 1320–1322 use `03:00:00Z`. All three monthly rows retain archive timestamp `2023-09-29T15:00:00Z`, not inferred scene dates.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0193:01` | `02_CANONICAL_STORIES/EVENT/0193_01.md` | 1 | 86 | `4f67718edabc81b4193ec95fa2f6a23abbac3c6cf31e501fd385873556709ffe` |
+| `PJSK:event:0193:02` | `02_CANONICAL_STORIES/EVENT/0193_02.md` | 3 | 116 | `463ae248c4a606e2b03ec38f68e1f41e575e16bde8ac71083257d6048e1b6081` |
+| `PJSK:event:0193:03` | `02_CANONICAL_STORIES/EVENT/0193_03.md` | 2 | 115 | `4cfade83609637a47e4fdd3150e3eafa4e7511b320af8b56274bbe43f61f59ef` |
+| `PJSK:event:0193:04` | `02_CANONICAL_STORIES/EVENT/0193_04.md` | 1 | 87 | `149b9e2f8b109fee4105152f3dbd650d349729dd57f078be94597d972142d2a2` |
+| `PJSK:event:0193:05` | `02_CANONICAL_STORIES/EVENT/0193_05.md` | 3 | 89 | `b65ccd83f29938e80cedd96061401a3ecf8ddc4f42253a786cfb98be559283df` |
+| `PJSK:event:0193:06` | `02_CANONICAL_STORIES/EVENT/0193_06.md` | 3 | 111 | `7ec046e6b9df9a2a51d8f643010b6bcccd8a395f1fc8136fad51c04487315410` |
+| `PJSK:event:0193:07` | `02_CANONICAL_STORIES/EVENT/0193_07.md` | 1 | 67 | `38ce4af08105d90ee871f766f4c2bb495ac364f390de957c69182b78f7ef493c` |
+| `PJSK:event:0193:08` | `02_CANONICAL_STORIES/EVENT/0193_08.md` | 3 | 112 | `7b4350c606d6f86622b67265831cdb2daee1e0ddd1ddb32c3cd65143d12d40cf` |
+| `PJSK:card:1320:01` | `02_CANONICAL_STORIES/CARD/1320_01.md` | 3 | 59 | `50d2ac2c9316a22bb8f37fa73eb809d1a4e23d4358d028c9d4ceffd5a5d58c36` |
+| `PJSK:card:1320:02` | `02_CANONICAL_STORIES/CARD/1320_02.md` | 2 | 77 | `1824606c4134262721693b9fd0a0487105043ad2f6b6a6884bfd0716ab25d73e` |
+| `PJSK:card:1321:01` | `02_CANONICAL_STORIES/CARD/1321_01.md` | 1 | 66 | `e90130e5020d3d1151cf60b506266f72876403a7381a08ee2096af85ed076204` |
+| `PJSK:card:1321:02` | `02_CANONICAL_STORIES/CARD/1321_02.md` | 2 | 50 | `dc33db1772367d0ec35f8dd64163a1e17c6dd907e64a8153dcc4d89152f21b94` |
+| `PJSK:card:1322:01` | `02_CANONICAL_STORIES/CARD/1322_01.md` | 2 | 57 | `1c16ec874dfd4d7a71b99b61a0276277335cdeef3ef0cab40e7b8b5f3bafd2df` |
+| `PJSK:card:1322:02` | `02_CANONICAL_STORIES/CARD/1322_02.md` | 2 | 61 | `fd8add6f5a22c29b9ed7e72ab032cf314752556a8620bd2248235d45e701f3d7` |
+| `PJSK:card:1323:01` | `02_CANONICAL_STORIES/CARD/1323_01.md` | 2 | 52 | `11a48b70141a8352b1214f0c8d025315419640f7ffdfa7e7c5ae21ac8d024a0b` |
+| `PJSK:card:1323:02` | `02_CANONICAL_STORIES/CARD/1323_02.md` | 2 | 51 | `53bb27326edb723060af35f5deb4794ac92da198d72e73d0c0b9498e44b9f7bb` |
+| `PJSK:card:1324:01` | `02_CANONICAL_STORIES/CARD/1324_01.md` | 1 | 49 | `17290ec2aebd539fba3c0c0616ec1ebdf129f8b5cbd7666feb188f373529319c` |
+| `PJSK:card:1324:02` | `02_CANONICAL_STORIES/CARD/1324_02.md` | 2 | 54 | `e213a98c300581e570620226f184bb811d0721f96d6901c03d1520ac7ed57f8d` |
+| `PJSK:area:areatalk_monthly2602_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2602_003_01.md` | 1 | 7 | `f23557fa6cc70a1e15860a912833b8cf6527c2f1f3b8bcbaf33b0801c8d4e037` |
+| `PJSK:area:areatalk_monthly2603_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2603_001_01.md` | 1 | 7 | `0c953d0b8d047e1488eda0866f56030b95efc38d9d51bbb8036809ad61ce7c47` |
+| `PJSK:area:areatalk_monthly2603_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2603_002_01.md` | 1 | 7 | `c4ec5dcde85f1eef9d537e42cfe9b8ecbace00bcd9f9da9577d804454540100b` |
+| `PJSK:area:areatalk_ev_street_24_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_24_001_01.md` | 1 | 9 | `33ff55465a7ba672889cc8a9d547e1b7775b427ad252b5873629df3b9bee595c` |
+| `PJSK:area:areatalk_ev_street_24_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_24_002_01.md` | 1 | 8 | `081903d35d829ef92ed445f8691861079611244bbe7ad6fb7239ba819d3757dd` |
+| `PJSK:area:areatalk_ev_street_24_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_24_003_01.md` | 1 | 6 | `ee0114a5d86f66e31e6dbd509164cad9c8bf209c8fce3b370fda3563a4ec9c0e` |
+| `PJSK:area:areatalk_ev_street_24_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_24_004_01.md` | 1 | 8 | `054ece8ed21b5e6128f101bd8ef2cdbecd4d35d7cc4ce88dde3cb88c0754e66f` |
+
+### EVENT_0193 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / group | PRIMARY / VERY HIGH I3: E0193 successor from E0169; contract and first American work now actual, COUNT X defeat received. |
+| VBS / Toya | PRIMARY / VERY HIGH I2: E0154 retained; desired full rivalry, less self-monitored performance and actual rest hospitality, without new universal technique. |
+| Toya / Embers | CO_PRIMARY / VERY HIGH scoped I3: guarded history, equal-rival promise and reciprocal performance receipt. |
+| VBS / Akito, An, Kohane | CO_PRIMARY / HIGH–VERY HIGH I2: existing human and dyad owners retained; preparation, care, personal aspiration and received competitive stimulus. |
+| Street singers | SECONDARY / HIGH local I2: KAITO’s accidental receipt/apology/confidentiality; coffee instruction and distributed support, other singers remain content-blind. |
+| Leo/need | NOT_RELEVANT / I0: no human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Alan / illys / neighborhood | SECONDARY / I1–HIGH I2: actual professional offer and community contact; distinctive peer participation, no unrestricted guarded-history receipt. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0193_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish an actual label contract/work trip, a restricted disclosure, opponent recognition, defeat, recovery and received coffee hospitality. Toya’s illness is not a performance method; medical content remains attributed to dialogue, and willingness to compete is not safety certification. Akito, An, Kohane and illys do not receive Slade’s full private history. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. EVENT_0194 is next; 20 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0194 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 29 scenes / 1,584 records / 219,251 canonical bytes**: eight core chapters, ten card halves (1327–1331) and four ev_shuffle_61 areas; no monthly rows. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, cards 1330–1331 and release areas use `2026-01-31T06:00:00Z`; cards 1327–1329 use `03:00:00Z`. Card halves include antecedents, interleaved play and aftermath rather than one assumed post-core chronology.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0194:01` | `02_CANONICAL_STORIES/EVENT/0194_01.md` | 3 | 123 | `bf0e1f390c125672c49809806ab9383b398b67624daa0894cff1ec629883ea0a` |
+| `PJSK:event:0194:02` | `02_CANONICAL_STORIES/EVENT/0194_02.md` | 1 | 122 | `0662c3940b551a0e97549db271a833f3b9bd9425fd85d18a3f9617da3ee3be7c` |
+| `PJSK:event:0194:03` | `02_CANONICAL_STORIES/EVENT/0194_03.md` | 1 | 79 | `641b63eb789c3c3256588c077df147d5d37a8ab8b105d18b7a02f49458a8ab2c` |
+| `PJSK:event:0194:04` | `02_CANONICAL_STORIES/EVENT/0194_04.md` | 1 | 141 | `03d90909937068ed036c4d6f613009d5b8261d925ece6735372405d7b6ee2098` |
+| `PJSK:event:0194:05` | `02_CANONICAL_STORIES/EVENT/0194_05.md` | 1 | 106 | `8e85a720bb43105f9f574fa0e134465108b0066695546351f589e64315ae4e94` |
+| `PJSK:event:0194:06` | `02_CANONICAL_STORIES/EVENT/0194_06.md` | 1 | 89 | `d1b6da45fc8630b43f938556d19a6fa731d4f17752881a3227678f48b5092e16` |
+| `PJSK:event:0194:07` | `02_CANONICAL_STORIES/EVENT/0194_07.md` | 2 | 168 | `a1b166aa2e9c6a813ff4c682eaae678da0855931e9586cde7cf494f84af05899` |
+| `PJSK:event:0194:08` | `02_CANONICAL_STORIES/EVENT/0194_08.md` | 2 | 85 | `457f681e482f88367c6c41bd7560fb69001b34e5c26b8201ac2e36a4482dbb5b` |
+| `PJSK:card:1327:01` | `02_CANONICAL_STORIES/CARD/1327_01.md` | 1 | 63 | `e559285d0ec19dde64d55b4935ad848c922c4776bd8f6f8263bec8600503d69e` |
+| `PJSK:card:1327:02` | `02_CANONICAL_STORIES/CARD/1327_02.md` | 1 | 62 | `558115150ab8b15b1dc5bc3435a64996d2074c623e31c802f4e5ef7b644ad90f` |
+| `PJSK:card:1328:01` | `02_CANONICAL_STORIES/CARD/1328_01.md` | 1 | 68 | `0591cb7e87f8edfeebafa4942a334100a432bce7381454180568be7a168385aa` |
+| `PJSK:card:1328:02` | `02_CANONICAL_STORIES/CARD/1328_02.md` | 1 | 74 | `9fe4a62d54ca89991481064653854bda84cf4691fc4aa116f3c0836799512161` |
+| `PJSK:card:1329:01` | `02_CANONICAL_STORIES/CARD/1329_01.md` | 1 | 56 | `b17fd701859e2df4204dc3e992d989cfc95ade108523ebe10c98bfc36b3f4519` |
+| `PJSK:card:1329:02` | `02_CANONICAL_STORIES/CARD/1329_02.md` | 1 | 62 | `46ec98793ef173062a1726a62e432797a5f3d689925b1bd463aaa3d51f125a7d` |
+| `PJSK:card:1330:01` | `02_CANONICAL_STORIES/CARD/1330_01.md` | 1 | 61 | `ad497518c8cee10ace355e6dfd312413669c72a9e372fc6cce513a894947f155` |
+| `PJSK:card:1330:02` | `02_CANONICAL_STORIES/CARD/1330_02.md` | 2 | 62 | `233352648299b39ba093e8e663c2cf23903218c8bb3c0e8ef79b4672fa7e7cd7` |
+| `PJSK:card:1331:01` | `02_CANONICAL_STORIES/CARD/1331_01.md` | 3 | 57 | `a35b7bbbc8b224aa1694dac430cd8a5e186295e37d7d1e935f99c263db243213` |
+| `PJSK:card:1331:02` | `02_CANONICAL_STORIES/CARD/1331_02.md` | 1 | 62 | `54e9c320091fc0168f22115dfacfded216bc5e857095b4b9a0cea7109ffd0272` |
+| `PJSK:area:areatalk_ev_shuffle_61_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_61_001_01.md` | 1 | 11 | `8cfea2404ff3864a7162fc6760b516d01f727a0e7278354fc82f69e6be1f3a45` |
+| `PJSK:area:areatalk_ev_shuffle_61_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_61_002_01.md` | 1 | 10 | `c3375da6af73b7fa5f60d8a6d2bab0538b2a0d3b5ae9bab54c1ce92c89c76303` |
+| `PJSK:area:areatalk_ev_shuffle_61_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_61_003_01.md` | 1 | 12 | `81ae983d0a5346587df33155d34385c8860994e76704c76f6566e0481323a0cf` |
+| `PJSK:area:areatalk_ev_shuffle_61_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_61_004_01.md` | 1 | 11 | `61db9bc11ca73ce5d08228c01042c054b2c7c7a28f5a8723f2543c9fe0c9bf36` |
+
+### EVENT_0194 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Tsukasa | PRIMARY / VERY HIGH I2: E0178 with inherited E0136/E0160 methods retained; mixed motives, chosen ending and received enjoyment. |
+| WxS / Rui and club | CO_PRIMARY / HIGH I2: E0172 and independent E0144/E0099 retained; new bounded club relation E0194, respected authorship. |
+| WxS / Emu, Nene, group | SECONDARY / HIGH I2: actual coauthored and performed Valentine show; existing owners retained. |
+| VBS / Akito, Toya | CO_PRIMARY / HIGH–VERY HIGH I2: chosen participation, independent preferences and received curiosity; group E0193 and character owners retained. |
+| VBS / An, Kohane | SECONDARY / I2: actual shared gift planning; purchases/delivery unshown. |
+| N25 / Mizuki | CO_PRIMARY / HIGH I2: E0150 retained; voluntary leisure and specific school participation, no general attendance repair or identity disclosure. |
+| N25 / Kanade, Mafuyu, Ena | NOT_RELEVANT / I0: no human episode or changed owner; sibling nickname is not Ena participation. |
+| Leo/need | NOT_RELEVANT / I0: no human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Cross-unit / local singers | SECONDARY / HIGH I2: established dyads retained; Wonderland Luka observes/adapts play, Street MEIKO/KAITO receive specific sweets knowledge. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0194_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions preserve prior human, dyad and local-singer owners. Tsukasa’s changing motives and recipient enjoyment coexist; Rui’s inference does not derive from device omniscience. Actual performances, received chocolate, imagined technique demonstrations, borrowing and uncompleted gifts remain distinct. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. EVENT_0195 is next; 19 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0195 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 42 scenes / 1,280 records / 170,283 canonical bytes**: eight core chapters, ten card halves (1333–1337), two monthly areas and four ev_band_24 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1336–1337/release areas use `2026-02-10T06:00:00Z`; cards 1333–1335 use `03:00:00Z`. Both monthly rows retain archive timestamp `2023-09-29T15:00:00Z`, not an inferred scene date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0195:01` | `02_CANONICAL_STORIES/EVENT/0195_01.md` | 3 | 55 | `4a5a1134424cd99b1a14121a7197882b12aacbdf48d7d402a3bd93c6d84755bb` |
+| `PJSK:event:0195:02` | `02_CANONICAL_STORIES/EVENT/0195_02.md` | 2 | 68 | `b9c05101a79fbf87fa22e1aad3d348e63e0e591e0e875120010cfdd635fc1b52` |
+| `PJSK:event:0195:03` | `02_CANONICAL_STORIES/EVENT/0195_03.md` | 3 | 68 | `eb382146b986ed5c5fe2b19cd78cf2d1c4be82f0ae9b07b6324c22264e8c4d8c` |
+| `PJSK:event:0195:04` | `02_CANONICAL_STORIES/EVENT/0195_04.md` | 3 | 84 | `ca4fcc2ba0622b6e060f60e3cfcc5a2351bd0f1195741c5065f146097e530325` |
+| `PJSK:event:0195:05` | `02_CANONICAL_STORIES/EVENT/0195_05.md` | 4 | 120 | `7df6f5598bf0f11e321b1016af683c2f7c24dfd209a1bd8ac4fbdd78305fc071` |
+| `PJSK:event:0195:06` | `02_CANONICAL_STORIES/EVENT/0195_06.md` | 1 | 125 | `c9f036e99c61af4863c14d1027948614e1a74b29eaf2eb60597a3c3ed65e482e` |
+| `PJSK:event:0195:07` | `02_CANONICAL_STORIES/EVENT/0195_07.md` | 1 | 88 | `13826b6b5a9c4a0883c5ed43936b3e247a152e77df83018f25d540d2a0b88e2a` |
+| `PJSK:event:0195:08` | `02_CANONICAL_STORIES/EVENT/0195_08.md` | 2 | 73 | `9224139a87ecf68b838f9b8f50d897ec3f2004fb1114053b995a785a4400361a` |
+| `PJSK:card:1333:01` | `02_CANONICAL_STORIES/CARD/1333_01.md` | 2 | 50 | `951accddf8620b8099917e3f83cdd205c4d5f4ba400016dcda81b91444413487` |
+| `PJSK:card:1333:02` | `02_CANONICAL_STORIES/CARD/1333_02.md` | 3 | 64 | `299263a7e13316707eb94c4bfc385207ff9b5e46d0585041ea50a28c79436670` |
+| `PJSK:card:1334:01` | `02_CANONICAL_STORIES/CARD/1334_01.md` | 3 | 58 | `f1bc1ff50060de32f380cd160be5a403b94d966d67d760f360aaa2ed4391d1c4` |
+| `PJSK:card:1334:02` | `02_CANONICAL_STORIES/CARD/1334_02.md` | 1 | 55 | `de0d95a80a1c005cb9d794306099f1e75bc34bef420960667cd171dffbd3fc1c` |
+| `PJSK:card:1335:01` | `02_CANONICAL_STORIES/CARD/1335_01.md` | 1 | 58 | `91b4ab2cf7a5fd26b1a619fbb542a9a3d247665343e6805262d0384602285e18` |
+| `PJSK:card:1335:02` | `02_CANONICAL_STORIES/CARD/1335_02.md` | 1 | 53 | `130028f71390540eb43192cbe1e3e9389b07d1ae3c97ee64b924083e0fa626cc` |
+| `PJSK:card:1336:01` | `02_CANONICAL_STORIES/CARD/1336_01.md` | 1 | 52 | `cfcedfaa08c5a946c4bdc62365cd7f930f08e181d1750fdd101d3c8e8017909e` |
+| `PJSK:card:1336:02` | `02_CANONICAL_STORIES/CARD/1336_02.md` | 1 | 59 | `1a9177ae1b98efb89b64c96f3bba066c5faa4c5d34ed030e3d30dec41c151a23` |
+| `PJSK:card:1337:01` | `02_CANONICAL_STORIES/CARD/1337_01.md` | 1 | 50 | `1009248bddebbd0bc4c5811665e064c6be955b0f8fe4ce83802c406b320e3fc8` |
+| `PJSK:card:1337:02` | `02_CANONICAL_STORIES/CARD/1337_02.md` | 3 | 56 | `f06cf52679a876b2326fbc0c4cdca42ebde2824a5065478708eb882421bca857` |
+| `PJSK:area:areatalk_monthly2603_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2603_003_01.md` | 1 | 6 | `e9af2ec8aeac8f42d489c22e7b8166ad64eea6ac05c9d07f54cae942983b0294` |
+| `PJSK:area:areatalk_monthly2603_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2603_004_01.md` | 1 | 7 | `4254f46cda78cb1112902ee071f894aa1a9b681dc23b30d03efb1bcf365bfaf4` |
+| `PJSK:area:areatalk_ev_band_24_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_24_001_01.md` | 1 | 9 | `dfc4fb71aeadb2e838075cb23eaa59834434846757f634279f733193ac213502` |
+| `PJSK:area:areatalk_ev_band_24_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_24_002_01.md` | 1 | 7 | `c2e2911f9f5b2bc714b26372a83cdab71fa5f01522c3dce1fab0568b1e5182ad` |
+| `PJSK:area:areatalk_ev_band_24_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_24_003_01.md` | 1 | 8 | `576a65502402708cd15e11ce2bd27ecfa7979020311f4fcd8ed9100bee10eebb` |
+| `PJSK:area:areatalk_ev_band_24_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_24_004_01.md` | 1 | 7 | `b14a5ecfcad73cdcb6cd32c703f1aaf17e813946150292bf1978a972305fad61` |
+
+### EVENT_0195 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Shiho | PRIMARY / VERY HIGH I2: E0162 retained with E0110 lineage; independent E0191 memory and E0148 family scopes preserved. |
+| Shiho / Sumire | CO_PRIMARY / VERY HIGH I3: E0195 successor from historical E0110; actual reunion, chosen joint performance and reciprocal recognition. |
+| Leo/need / other humans and group | CO_PRIMARY / HIGH–VERY HIGH I2: Ichika E0182, Saki E0188, Honami E0121/E0158 and group E0171 retained. |
+| Solis / Iolite / public recipients | SECONDARY / HIGH–VERY HIGH I2: actual first TV work and aired responses; bounded Madoka advice channel, existing Solis E0147 retained. |
+| School singers | SECONDARY / HIGH local I2: local practice, rest, reciprocal influence and actual viewing; scoped Shiho–School Luka channel. |
+| MMJ / Minori | CROSS_UNIT / HIGH I2: actual requested television advice and received thanks under existing school-friendship owner. |
+| MMJ / Shizuku | REPORTED_CONTEXT / I1: sister’s actual reported viewing/photography, no new professional state. |
+| MMJ / Haruka, Airi | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS / Tsukasa | REPORTED_CONTEXT / I1: Saki quotes family praise; no new current-state successor. |
+| WxS / other three | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0: no human episode or changed owner. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0195_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions distinguish inherited musical purpose from new informed recognition, a recorded conversation from an edited broadcast, permission to discuss Sumire from public SEKAI disclosure, and actual letters from unverified future careers. Minori gives received advice; Shizuku and Tsukasa supply reported family reactions. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. EVENT_0196 is next; 18 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0196 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 29 scenes / 1,553 records / 207,166 canonical bytes**: eight core chapters, ten card halves (1339–1343) and four ev_wonder_24 areas; no monthly rows. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1342–1343/release areas use `2026-02-19T06:00:00Z`; cards 1339–1341 use `03:00:00Z`. Internal antecedents, concurrent park scenes and aftermath remain distinct.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0196:01` | `02_CANONICAL_STORIES/EVENT/0196_01.md` | 1 | 105 | `51a808112ed9e8bfb4f4723683bdb6811a41cd7cb48096e89d46c2ca002bc2d7` |
+| `PJSK:event:0196:02` | `02_CANONICAL_STORIES/EVENT/0196_02.md` | 1 | 133 | `4db3a285b86daadda992807f6fad7663fc31e9d4a8e10610cf9f52298b5b8697` |
+| `PJSK:event:0196:03` | `02_CANONICAL_STORIES/EVENT/0196_03.md` | 2 | 114 | `6c2dabdfbb9c115d2ca154dbc899d3e1632f825bf8c9fb9f9ed082d421c57b23` |
+| `PJSK:event:0196:04` | `02_CANONICAL_STORIES/EVENT/0196_04.md` | 2 | 88 | `06a11a1253a8750ce9739052e840a2150d7e6a34cd27228c5e66ddfd317723e1` |
+| `PJSK:event:0196:05` | `02_CANONICAL_STORIES/EVENT/0196_05.md` | 2 | 112 | `997583e68fdd103878828fdc2e42830e0d4fb8ac07d409ac17ff29b0948c0d0a` |
+| `PJSK:event:0196:06` | `02_CANONICAL_STORIES/EVENT/0196_06.md` | 1 | 111 | `f3b63566c14f899484c7de05033abf484734ac6b4c6828c862ffbfec1e2ccf71` |
+| `PJSK:event:0196:07` | `02_CANONICAL_STORIES/EVENT/0196_07.md` | 1 | 113 | `7bc4a0a2b36d17560beb7f3212880930739ed17018f27fce728f36f2d87767bb` |
+| `PJSK:event:0196:08` | `02_CANONICAL_STORIES/EVENT/0196_08.md` | 3 | 133 | `9f0279999d4c5e513f986a27bb4d5ead5c68d2127b8f625325e1f23269cff49b` |
+| `PJSK:card:1339:01` | `02_CANONICAL_STORIES/CARD/1339_01.md` | 1 | 59 | `480a4a8b5116bbc46c7651d1f51eb902822750420ed14e3489e636d12efd2773` |
+| `PJSK:card:1339:02` | `02_CANONICAL_STORIES/CARD/1339_02.md` | 1 | 59 | `00c03bfb31abe0e88a04dbe28276e0158714bfb40da605f3291043732a8339fc` |
+| `PJSK:card:1340:01` | `02_CANONICAL_STORIES/CARD/1340_01.md` | 2 | 76 | `8ccd084318c67ab361464748f79d3e8cb12dd31103ec5bb6a1f39d3cd1d26d95` |
+| `PJSK:card:1340:02` | `02_CANONICAL_STORIES/CARD/1340_02.md` | 1 | 67 | `76a1a5d31394320ec902a54bf06383d3903d5672c8ac676d8c2b2f47e68437d0` |
+| `PJSK:card:1341:01` | `02_CANONICAL_STORIES/CARD/1341_01.md` | 1 | 60 | `5f19e52ec9bd616ce77e85bfdb2cf4bcfe110666ed3ca690246937815dbc0ce0` |
+| `PJSK:card:1341:02` | `02_CANONICAL_STORIES/CARD/1341_02.md` | 1 | 59 | `49eba9dc76d1385186e84e0d5048c30085d8023bc9dc490ae53971253d064d02` |
+| `PJSK:card:1342:01` | `02_CANONICAL_STORIES/CARD/1342_01.md` | 1 | 52 | `12012cc6a6574e2691d1ec51ba162fb4789ccaa94655890515ac89e020e1188a` |
+| `PJSK:card:1342:02` | `02_CANONICAL_STORIES/CARD/1342_02.md` | 1 | 56 | `0451e11be1c8b9c91bfc6ebd6c6bfeb57e6a3f66a7f4c5f73fe911fa0e4b195c` |
+| `PJSK:card:1343:01` | `02_CANONICAL_STORIES/CARD/1343_01.md` | 2 | 55 | `895c2d084eea349b61c95737b0decd6615efd934d25d01980e74762395e034e3` |
+| `PJSK:card:1343:02` | `02_CANONICAL_STORIES/CARD/1343_02.md` | 1 | 70 | `ab8bd705ff5c6a2a7df02a2526831aa8f2fd358564ea9d1b9f9231e28feb68f5` |
+| `PJSK:area:areatalk_ev_wonder_24_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_24_001_01.md` | 1 | 8 | `0908c011907ab7516642235894543ffbe8d8cefa7bd8f16b74246bb6613cf4f0` |
+| `PJSK:area:areatalk_ev_wonder_24_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_24_002_01.md` | 1 | 9 | `34d4f8393acc3b5e3384e4c109caf00d80cd8379a695ed88ed77f4e0362484a2` |
+| `PJSK:area:areatalk_ev_wonder_24_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_24_003_01.md` | 1 | 8 | `e8cc67fff428cf429c70b520c927c17bd1628c0e2d79b20d3bf01ea150f5b1ab` |
+| `PJSK:area:areatalk_ev_wonder_24_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_24_004_01.md` | 1 | 6 | `5bc2cecf5e5f9c173b54142b7c59d871f5821086e9449cb0e13399ab8309fa92` |
+
+### EVENT_0196 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Emu | PRIMARY / VERY HIGH I2: E0164 plus independent E0104 retained; existing presentation, care and management learning applied with limits. |
+| Emu / El | CO_PRIMARY / VERY HIGH I3: new reciprocal peer channel, actual study/help/receipt and continued contact. |
+| El / father | SUPPORTING / HIGH scoped I3: dismissal becomes a specific full hearing, expert review and permission for preparations; no completed park or permanent family cure. |
+| WxS / Tsukasa, Rui, Nene, group | CO_PRIMARY / HIGH–VERY HIGH I2: current owners retained; practical work, guarded disclosure, actual care and proposed leisure return. |
+| Wonderland singers | SECONDARY / HIGH local I2: Rin’s chosen companionship/relay and actual peer outing; varied capacities, prototype play and partial knowledge. |
+| Asahi / Arcland staff | REPORTED_CONTEXT to SECONDARY / I1–I2: Asahi absent for undisclosed purpose; cast report and bounded costume assistance. |
+| Leo/need / Saki | REPORTED_CONTEXT / I1: Tsukasa relays an existing shade preference; no direct encounter. |
+| Leo/need / other three | NOT_RELEVANT / I0: no human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0: no human episode or changed owner. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0196_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions separate agreed substitution from Emu’s later unplanned advocacy, El’s own revised plan from its partial representation, and a conditional process from completed construction. El’s father’s illness reaches Tsukasa/Rui/Nene; Emu and Wonderland Rin receive a different information path. Asahi’s reported absence is now actual but its purpose remains unknown. All five units receive dispositions and historical readings/EVENT_0170 closure remain preserved. EVENT_0197 is next; 17 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0197 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 32 scenes / 1,416 records / 179,928 canonical bytes**: eight core chapters, ten card halves (1345–1349) and four ev_shuffle_62 areas; no monthly rows. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1348–1349/release areas use `2026-02-28T06:00:00Z`; cards 1345–1347 use `03:00:00Z`. Antecedents, practice, opening, closing and later contact remain distinct.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0197:01` | `02_CANONICAL_STORIES/EVENT/0197_01.md` | 1 | 103 | `e6439d8c5ac711104d4e90679c126d9d3647741ab6c1bbf5b05a72bb41259382` |
+| `PJSK:event:0197:02` | `02_CANONICAL_STORIES/EVENT/0197_02.md` | 2 | 105 | `3da73866f3a843c65ebde7a70eb127f98b3d2e6ab0474ad4d9b64ca193d9068f` |
+| `PJSK:event:0197:03` | `02_CANONICAL_STORIES/EVENT/0197_03.md` | 1 | 101 | `5ea055c2c140683a0e2f9160d166b82300c3ac58b4af4c713b7d92bf621cb153` |
+| `PJSK:event:0197:04` | `02_CANONICAL_STORIES/EVENT/0197_04.md` | 1 | 96 | `f2a0499ece92e2dde42903d380f3f6ba36dbc2ffc7cdc2f59985c019b221c0bf` |
+| `PJSK:event:0197:05` | `02_CANONICAL_STORIES/EVENT/0197_05.md` | 2 | 88 | `18f194be50ac2dd1045fd8af839f75d6ac22a6840d686f7eb5935f1cf75b1f2e` |
+| `PJSK:event:0197:06` | `02_CANONICAL_STORIES/EVENT/0197_06.md` | 1 | 95 | `a1f892145368904f67df99ca3a6c680fe0ccb29f1e898654f6ecbb7c8123a483` |
+| `PJSK:event:0197:07` | `02_CANONICAL_STORIES/EVENT/0197_07.md` | 1 | 57 | `3f4530373fbc16a4381242f95388482a5cf73dac774111aa623db393d13d81f7` |
+| `PJSK:event:0197:08` | `02_CANONICAL_STORIES/EVENT/0197_08.md` | 3 | 105 | `ecc234b832ac41b3db61efc6dd19c3465f3793cbd55fd1502d1361fd4305cd82` |
+| `PJSK:card:1345:01` | `02_CANONICAL_STORIES/CARD/1345_01.md` | 3 | 79 | `a531695272cd81262271d12761a786e8a08f83702e0344cdc88df7a4370539e5` |
+| `PJSK:card:1345:02` | `02_CANONICAL_STORIES/CARD/1345_02.md` | 2 | 93 | `78ba28e30e183e718790a7561e41a4779fe6169aa8b548fbcdfd5e42ce078565` |
+| `PJSK:card:1346:01` | `02_CANONICAL_STORIES/CARD/1346_01.md` | 2 | 55 | `a978d0564998018d2dfc00ea503ce28e026aa89ace3ff81e0cc4074ef960d1e2` |
+| `PJSK:card:1346:02` | `02_CANONICAL_STORIES/CARD/1346_02.md` | 1 | 61 | `28bed7ebb4dcc3b3a2cde968c4f422b9f8566fc93e9ce67bf82bac3be4f467de` |
+| `PJSK:card:1347:01` | `02_CANONICAL_STORIES/CARD/1347_01.md` | 1 | 53 | `2698dfd5f302364150507484ba3062e1a91713fc4dc9f42d8aa56d6b1a2ce520` |
+| `PJSK:card:1347:02` | `02_CANONICAL_STORIES/CARD/1347_02.md` | 1 | 58 | `87aba0ae9f91e274c5ecc8f5b0fb621282fdf709b05820b50e3a24d489a628d8` |
+| `PJSK:card:1348:01` | `02_CANONICAL_STORIES/CARD/1348_01.md` | 1 | 52 | `59be53cfd1b81ced75d15a3f4e50b175ad1c1f5c5e42cbd8f486e4984323153c` |
+| `PJSK:card:1348:02` | `02_CANONICAL_STORIES/CARD/1348_02.md` | 2 | 58 | `e24b3ebac1586bdceb7c5ba7dbf9ad1fb4cf72e1d9a73e222a258a9570f179a0` |
+| `PJSK:card:1349:01` | `02_CANONICAL_STORIES/CARD/1349_01.md` | 1 | 53 | `0f4428cbadaf7c8530455e67af076920cef900fda35b765052f1de110399a560` |
+| `PJSK:card:1349:02` | `02_CANONICAL_STORIES/CARD/1349_02.md` | 2 | 74 | `4f19b5c1cf5337b9e8a1f1b6aa69f9f4230bf26adcdb1acc3f59ea7bdad91044` |
+| `PJSK:area:areatalk_ev_shuffle_62_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_62_001_01.md` | 1 | 9 | `33aff58f69fbaf889d3871e533624d154cf6dd71451380db8e59d882eb30de98` |
+| `PJSK:area:areatalk_ev_shuffle_62_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_62_002_01.md` | 1 | 7 | `4ab3c7da43a48f5a57145ffc3ea39ff113467e8caeed08ad0ba064f60e68d4c7` |
+| `PJSK:area:areatalk_ev_shuffle_62_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_62_003_01.md` | 1 | 6 | `5ed2ba5b6195c34c9e8ca12da0c3869d1a1917691860c8bbb6af3b1ebb23ae8b` |
+| `PJSK:area:areatalk_ev_shuffle_62_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_62_004_01.md` | 1 | 8 | `6e39bb3407978b387801aaec1c0fd4e2cc661823b45ebb5d2ed182bbca6a814b` |
+
+### EVENT_0197 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Ena | PRIMARY / VERY HIGH I2: E0184 retained with inherited E0127/E0070; transferred interpretation and expressive experimentation, no higher grade or changed vocation. |
+| Ena / Kohane | CO_PRIMARY / VERY HIGH I3: E0120 competitive respect becomes reciprocal practice, completed co-performance and continuing ordinary contact. |
+| N25 / Kanade, Mizuki, Mafuyu, group | SECONDARY / HIGH I2: differentiated recommendations, receipt, ordinary care and work; rescue conflict remains open. |
+| Ena / Empty Len and Iwo | SECONDARY / HIGH bounded I2: wanted art companionship/useful prompts and actual professional selection/thanks/craft conversation; no exclusive bond or permanent mentorship. |
+| VBS / Kohane | CO_PRIMARY / VERY HIGH I2: E0135 retained; reciprocal vocal adaptation, curiosity and discretionary job choice. |
+| VBS / Akito | REPORTED_CONTEXT / I1: private comparison and imagined sibling criticism only; no new actual encounter. |
+| VBS / An, Toya | NOT_RELEVANT / I0: no changed human owner or direct episode. |
+| Leo/need / Honami | SECONDARY / HIGH I2: requested interpretation, received advice, seasonal care, actual book/gift sharing; E0121/E0158 and cross-unit owners retained. |
+| Leo/need / Ichika, Saki, Shiho | SECONDARY / LOW I2: actual lunch, souvenir receipt and requested reading; no completed reading or private-concern disclosure. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0: park-collaboration context does not create a human episode. |
+| Empty / School / Street singers | SECONDARY / local I2: separate information, assistance, preferences and play; no global pooling or new monster rule. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0197_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading and six selective ledger additions distinguish received interpretation from inferred author biography, artistic fit from superior technique, and the author’s changed plan from a predetermined tie. Closing performance is actual; the next painting and grade are not. Honami/Kanade and N25 relationships retain distinct reciprocal evidence; local singers and withdrawn jokes do not create new world rules. Five-unit dispositions and historical readings/EVENT_0170 closure are preserved. EVENT_0198 is next; 16 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0198 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **23 stories / 42 scenes / 1,325 records / 182,448 canonical bytes**: eight core chapters, ten card halves (1350–1354), one monthly area and four ev_idol_25 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1353–1354/release areas use `2026-03-10T06:00:00Z`; cards 1350–1352 use `03:00:00Z`. Monthly2605_001 retains the frozen archive timestamp `2023-09-29T15:00:00Z`; no replacement release or internal date is invented.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0198:01` | `02_CANONICAL_STORIES/EVENT/0198_01.md` | 3 | 64 | `0d6ee4820aab7ea72d85e1832428d1f81fb4ebac1f5976c87c05e8ddc594a9be` |
+| `PJSK:event:0198:02` | `02_CANONICAL_STORIES/EVENT/0198_02.md` | 2 | 76 | `8db0bf5ce81b42d8d903160b84fd26eb06ad55c2d08c5c12808dd5e513127f73` |
+| `PJSK:event:0198:03` | `02_CANONICAL_STORIES/EVENT/0198_03.md` | 2 | 68 | `a7f4b7fe8ce3b85e049be4f08c7946ee67d3e503abcdf942f34c9281ddd18edf` |
+| `PJSK:event:0198:04` | `02_CANONICAL_STORIES/EVENT/0198_04.md` | 2 | 120 | `731b451d79611b0cad34c4eb1c6323760250460f32babb0ece6b0c3225a0ac63` |
+| `PJSK:event:0198:05` | `02_CANONICAL_STORIES/EVENT/0198_05.md` | 2 | 68 | `c419a018220608587e17102fa83d07da4ca825c6611b245e438c191131a7d666` |
+| `PJSK:event:0198:06` | `02_CANONICAL_STORIES/EVENT/0198_06.md` | 5 | 108 | `618948664ff9b35759936fe7d01c8a6c26e77c2f5407ecf5123338ea6d4dcf99` |
+| `PJSK:event:0198:07` | `02_CANONICAL_STORIES/EVENT/0198_07.md` | 3 | 147 | `ba2724ee321626faf5a56311aa4555560859c1219dabce1950eabcab6a3a6fe9` |
+| `PJSK:event:0198:08` | `02_CANONICAL_STORIES/EVENT/0198_08.md` | 2 | 73 | `217d60a74dd97f92b8c7d11e5b7ec73877594cab0e98a94d87a496f79af93704` |
+| `PJSK:card:1350:01` | `02_CANONICAL_STORIES/CARD/1350_01.md` | 2 | 60 | `5253b16d7c832fc7061a6721fcfdb3465f64ee76ababd3f16888fdc321c68ee5` |
+| `PJSK:card:1350:02` | `02_CANONICAL_STORIES/CARD/1350_02.md` | 1 | 54 | `67863494da7d332377c0f9f84a9db1b88df7512885a46fcda87790098edb168a` |
+| `PJSK:card:1351:01` | `02_CANONICAL_STORIES/CARD/1351_01.md` | 3 | 63 | `e5cc3e5ba2f536b147735af3534bfdf7721f8bfcb86f46db04050380a580fce5` |
+| `PJSK:card:1351:02` | `02_CANONICAL_STORIES/CARD/1351_02.md` | 1 | 50 | `27d685bde523f9cd1cbef3ed4002e73610ea53f7d0d8cb3e9109d1cb273f1049` |
+| `PJSK:card:1352:01` | `02_CANONICAL_STORIES/CARD/1352_01.md` | 2 | 50 | `6875af5dec492beaa7c48b7daf25451955ec591948ab0c6e8394800bcbc45126` |
+| `PJSK:card:1352:02` | `02_CANONICAL_STORIES/CARD/1352_02.md` | 2 | 61 | `79a8902ec8662469069a3e778d78ca3fe29a92732aad8bbd7c2e627c21c96a1e` |
+| `PJSK:card:1353:01` | `02_CANONICAL_STORIES/CARD/1353_01.md` | 1 | 48 | `1ffabeeec41bea8d5b9ff67598ae2ccf49ba1a93380dc1302621b99c8ebe52da` |
+| `PJSK:card:1353:02` | `02_CANONICAL_STORIES/CARD/1353_02.md` | 2 | 63 | `5302f46c91b30edd48afd0a37c98ee091ae9fb97020614628b5633932d89e80c` |
+| `PJSK:card:1354:01` | `02_CANONICAL_STORIES/CARD/1354_01.md` | 1 | 53 | `d165a0ba8903fe175107e720fc963ae6cbae5a18d56a3ce76de7ec619c786379` |
+| `PJSK:card:1354:02` | `02_CANONICAL_STORIES/CARD/1354_02.md` | 1 | 54 | `bec7a6dce6608f60d43b574f500c673ed6482e8a2d520c9487cef2c7909bba60` |
+| `PJSK:area:areatalk_monthly2605_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2605_001_01.md` | 1 | 8 | `2df224292a06f3acfe61f6490b850bac49a6cbc79d3c4d95fff5bb5224fb3e90` |
+| `PJSK:area:areatalk_ev_idol_25_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_25_001_01.md` | 1 | 11 | `3e1dc47c03c52444ae1dcf1001b88938ded789ef178c0686b6d2d5e4a632607f` |
+| `PJSK:area:areatalk_ev_idol_25_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_25_002_01.md` | 1 | 8 | `1d4b3416f23316d72018905e2ee299e8dc48c2a793ba25dc79625986e9334920` |
+| `PJSK:area:areatalk_ev_idol_25_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_25_003_01.md` | 1 | 9 | `91233a90f3d838966364014ec4c618fb4e6a5dd56c9e41b546032f188fe829ce` |
+| `PJSK:area:areatalk_ev_idol_25_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_25_004_01.md` | 1 | 9 | `371cdaf9484b05e2692089938a3ce0916fa3941c4f72d2f6e3c7c940393452cd` |
+
+### EVENT_0198 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Airi | PRIMARY / VERY HIGH scoped I3: E0138→E0198 role embodiment, negotiated emotional continuity, actual broadcast receipt and return transfer; prior communication/functional-idol scopes retained. |
+| Airi / Mao | CO_PRIMARY / HIGH scoped I3: witnessed effort, joint advocacy/performance, explicit apology and reciprocal credit within one production. |
+| MMJ / Minori, Haruka, Shizuku, group | CO_PRIMARY / HIGH I2: differentiated support, ordinary agency, reported work, actual receipt and constraints; current owners retained. |
+| Saito / production staff / audience | SECONDARY / HIGH I2: actual coordination, constrained approval, completed inventory, direct/reported bounded responses; future live search uncompleted. |
+| Stage singers | SECONDARY / HIGH local I2: KAITO thought organization, MEIKO training, received media/ordinary gifts and prospective production; existing local owners retained. |
+| WxS / Tsukasa and Nene | SECONDARY / HIGH bounded I2: actual confidentially limited advice/reference channel with reported use; established collaboration and current operatives retained. |
+| WxS / Rui and Emu | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Leo/need / Shiho | REPORTED_CONTEXT / I1: Shizuku reports ordinary recent contact and plans a gift; no new direct Shiho scene. |
+| Leo/need / other three | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0: no human episode or changed owner. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0198_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading and six selective ledger additions preserve retakes, technical gaps, schedule constraints, wanted rest and privacy preferences. Fictional role history and conditional cut-ins are not actual biography; actor advice is real but receives only bounded job information. Stage KAITO’s help and speculation remain local. Five-unit routing includes actual Tsukasa/Nene support, reported Shiho only and VBS/N25 I0; historical bodies and EVENT_0170 closure remain preserved. EVENT_0199 is next; 15 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0199 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **27 stories / 46 scenes / 1,577 records / 193,012 canonical bytes**: eight core chapters, ten card halves (1356–1360), five monthly areas and four ev_night_25 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1359–1360/release areas use `2026-03-20T06:00:00Z`; cards 1356–1358 use `03:00:00Z`. All five monthly rows retain archive timestamp `2023-09-29T15:00:00Z`, without an invented release or internal date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0199:01` | `02_CANONICAL_STORIES/EVENT/0199_01.md` | 2 | 112 | `dc0b6245e4d7db53e0372be5741e81ff50b81e62bb50d1628c50933432486273` |
+| `PJSK:event:0199:02` | `02_CANONICAL_STORIES/EVENT/0199_02.md` | 2 | 56 | `d666eb3ad506bdd4ddad2efd9fcbba04e217e57292e32a9e49473839f2261f89` |
+| `PJSK:event:0199:03` | `02_CANONICAL_STORIES/EVENT/0199_03.md` | 1 | 86 | `b9f6bc001570b35a3c920621c3c082b8e0706b03859929eb2ec7fe62db4a86ac` |
+| `PJSK:event:0199:04` | `02_CANONICAL_STORIES/EVENT/0199_04.md` | 2 | 91 | `578058941942966b62a604b216af93b288ec9a7d98c4cab2a1bb46124f27b898` |
+| `PJSK:event:0199:05` | `02_CANONICAL_STORIES/EVENT/0199_05.md` | 2 | 107 | `364cb57df2cc8c974b34a5fea55bb6771541ab1785704b0049ee822dcbe22e5a` |
+| `PJSK:event:0199:06` | `02_CANONICAL_STORIES/EVENT/0199_06.md` | 2 | 109 | `5c0a62e5cb980a222fc0135a998f4c3d1521c4e0ec2a92354bc7a85dd21424d4` |
+| `PJSK:event:0199:07` | `02_CANONICAL_STORIES/EVENT/0199_07.md` | 2 | 77 | `66151a9f994c4c51e12cebe3467be1c2330e0fcf43aebeed2c52b786dd8af53d` |
+| `PJSK:event:0199:08` | `02_CANONICAL_STORIES/EVENT/0199_08.md` | 3 | 107 | `c9d7ad309ab1843f2a254831aaeb2557fa000a4af6ee30dfa8172adac6174415` |
+| `PJSK:card:1356:01` | `02_CANONICAL_STORIES/CARD/1356_01.md` | 1 | 75 | `f4c78b2b99c1bcc735b17504bb5309e198ef555d4c355441f13bfee6a17607e5` |
+| `PJSK:card:1356:02` | `02_CANONICAL_STORIES/CARD/1356_02.md` | 4 | 95 | `8da93ee3f792b8d7e7d9646155a5e57b8cf08d3a06c9ed9ca3d1e8591a9e0f53` |
+| `PJSK:card:1357:01` | `02_CANONICAL_STORIES/CARD/1357_01.md` | 2 | 69 | `c00ccba33da85151d8fe404b1f139090f8c976dace252b068c5f08352474b88e` |
+| `PJSK:card:1357:02` | `02_CANONICAL_STORIES/CARD/1357_02.md` | 1 | 53 | `e273168ff951a2fa4a54ebf03aefd81a802346e973623b8bc7f1f9bfffc434c6` |
+| `PJSK:card:1358:01` | `02_CANONICAL_STORIES/CARD/1358_01.md` | 3 | 60 | `72a91f4bd80275c3ca295819c976dbcc3dcde91004ca85e1b77610e86c23bc01` |
+| `PJSK:card:1358:02` | `02_CANONICAL_STORIES/CARD/1358_02.md` | 1 | 70 | `fbce60f55d86a0cc4d9c998e5293d25836e8c8c6cd5e21159df5c4500ef21f26` |
+| `PJSK:card:1359:01` | `02_CANONICAL_STORIES/CARD/1359_01.md` | 3 | 95 | `12f786b8e17c2db8a2de33d43517da899f7d0a0ec0a97a91eb270d68c436dce8` |
+| `PJSK:card:1359:02` | `02_CANONICAL_STORIES/CARD/1359_02.md` | 3 | 61 | `02972e63577e8f0d0533668ab72916face2184f272ba7abc08e757f79336921e` |
+| `PJSK:card:1360:01` | `02_CANONICAL_STORIES/CARD/1360_01.md` | 1 | 98 | `c9b04d3c272679c5101d4ab62c6bf4983a56b45f3769d22d16debc616a860b1a` |
+| `PJSK:card:1360:02` | `02_CANONICAL_STORIES/CARD/1360_02.md` | 2 | 76 | `8bd88e2109931e27d2da46b8162a20ad6a6a77cb5aa0a13505a1d4f114c2cf6d` |
+| `PJSK:area:areatalk_monthly2604_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2604_001_01.md` | 1 | 7 | `5bca9fd6aec79b1eeccc4969d00251cec510f51e4f2294ea1edc504c58ef710f` |
+| `PJSK:area:areatalk_monthly2604_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2604_002_01.md` | 1 | 9 | `bf9ce5c1be35d1a7a7471c00822b2823614ebbc68803e48dd8f7dc54afe10002` |
+| `PJSK:area:areatalk_monthly2604_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2604_003_01.md` | 1 | 7 | `2c3ac50ff17d82fa471160bebfbd96b9d4e013526fe3b5cd29f3db3965c39151` |
+| `PJSK:area:areatalk_monthly2604_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2604_004_01.md` | 1 | 6 | `fb3f47358ad0bb5d29718bcfae6cc8fc819f73058eb1d9e4853b25bffb16294a` |
+| `PJSK:area:areatalk_monthly2605_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2605_004_01.md` | 1 | 6 | `08c5eaffa069cdbb6e356a409ae53588f7e8f820ea52f9658cca7865f68a9f31` |
+| `PJSK:area:areatalk_ev_night_25_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_25_001_01.md` | 1 | 14 | `a3f3b954607e9586dc6cc91c041b9903dbef65a6887a94346ca1c20b8b202e17` |
+| `PJSK:area:areatalk_ev_night_25_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_25_002_01.md` | 1 | 12 | `603717fc09b90236caabd4cdc58bc5477f8a5d5d71e82fbadfa6b898822806c5` |
+| `PJSK:area:areatalk_ev_night_25_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_25_003_01.md` | 1 | 9 | `5b99da95b593afec6883164c133d267eca89c868e5361a46ed8ac96a4cb71523` |
+| `PJSK:area:areatalk_ev_night_25_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_25_004_01.md` | 1 | 10 | `982555918f07c799c75cac9c9de492c73580690eebb364517f56fa69c3f9f1ad` |
+
+### EVENT_0199 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Mizuki | PRIMARY / VERY HIGH scoped I3: E0150→E0199 tested dual pursuit with conditional continuation; inherited E0117 support and prior social costs retained. |
+| Mizuki / Mafuyu | CO_PRIMARY / HIGH scoped I3: MZM-3→MZM-E0199 explicit future/capacity disclosure, received advice, shared attachment and returned decision/thanks. |
+| N25 / Kanade | CO_PRIMARY / VERY HIGH I2: E0192 remains open; communicated strategy pause, continuing creation, rumination and partial rest/food acceptance. |
+| N25 / Ena and Mafuyu | CO_PRIMARY / HIGH–VERY HIGH I2: current artistic/self-state owners retained; actual work, critical observation, care and future uncertainty. |
+| N25 group / existing dyads / Yuuki | CO_PRIMARY / HIGH–VERY HIGH I2: actual collaborative receipt, choice-respecting support and sustained technical feedback; no collective permanent workload agreement. |
+| Mizuki / Yoshino | SECONDARY / bounded I2: received creative testimony and conditional future invitation, not shared identity history, enrollment or mentorship. |
+| Empty singers | SECONDARY / HIGH local I2: wanted companion, tailored explanation, particular gifts/preferences and unequal information; no new world rule. |
+| MMJ / Minori, Airi, Shizuku | SECONDARY / LOW bounded I2: monthly makeup-help acceptance and actual school companionship; no private N25 disclosure. |
+| MMJ / Haruka | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS / Rui | REPORTED_CONTEXT / I1: earlier arranged costume work only. |
+| WxS / other three | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Leo/need | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0199_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish one completed trial from sustainable balance, borrowed pattern scaffolding from unaided mastery, and possible-world ease from actual skill. Kanade’s communicated mother-warmth strategy pause remains within unresolved E0192; Mafuyu does not automatically receive the private rescue question. Cards and five monthly conversations preserve ordinary agency, refusals, bounded MMJ contact and actual art receipt without improved art-school grades. Historical bodies and EVENT_0170 closure remain preserved. EVENT_0200 is next; 14 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0200 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **28 stories / 46 scenes / 2,019 records / 268,092 canonical bytes**: eight core chapters, fourteen card halves (1361–1367), two monthly areas and four ev_wonder_25 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1366–1367/release areas use `2026-03-30T06:00:00Z`; cards 1361–1365 use `03:00:00Z`; monthly rows retain archive timestamp `2023-09-29T15:00:00Z` without invented release or internal dates.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0200:01` | `02_CANONICAL_STORIES/EVENT/0200_01.md` | 1 | 79 | `8fef8a0c0952bca6ccb1e5a91fa985f18f1d971c76190c96bb25092ebb69af3c` |
+| `PJSK:event:0200:02` | `02_CANONICAL_STORIES/EVENT/0200_02.md` | 3 | 88 | `3ad02ab2cc04452261d727d56406cfd678477861e3b04e47eb36ef43ce908af6` |
+| `PJSK:event:0200:03` | `02_CANONICAL_STORIES/EVENT/0200_03.md` | 1 | 80 | `6130e75e13c425a57a6055c5b76bdc4f95328958bb31b5272c9a460166643c16` |
+| `PJSK:event:0200:04` | `02_CANONICAL_STORIES/EVENT/0200_04.md` | 1 | 149 | `6f8149bd40c95eaeeacd1a4e0f20d520b514cd596241e326fcecc3f83961b5f2` |
+| `PJSK:event:0200:05` | `02_CANONICAL_STORIES/EVENT/0200_05.md` | 2 | 76 | `5bb5b2db3af7ec57321877b3748c1dd3c775e9c072c7b43fecb03bcd89a6dea4` |
+| `PJSK:event:0200:06` | `02_CANONICAL_STORIES/EVENT/0200_06.md` | 1 | 104 | `b8e5ae9a23d03b55dd71d50bc743681f45f782665b0e5a2b3c0ef7fd5bbc4058` |
+| `PJSK:event:0200:07` | `02_CANONICAL_STORIES/EVENT/0200_07.md` | 1 | 119 | `0fbb2922e9e4074f0cbdb77486f2a6cd0edbe1629739fbfafbfdc76184d2b9ac` |
+| `PJSK:event:0200:08` | `02_CANONICAL_STORIES/EVENT/0200_08.md` | 1 | 164 | `2a07f8afb69e779edb86112884fcef740fcfa5de83b8af7fd0b16b7b5ffb1318` |
+| `PJSK:card:1361:01` | `02_CANONICAL_STORIES/CARD/1361_01.md` | 3 | 96 | `4b93a33a91d7f67a1db92d027e3110d1a26872bbf69f6b50f74d5d7caa956c98` |
+| `PJSK:card:1361:02` | `02_CANONICAL_STORIES/CARD/1361_02.md` | 3 | 125 | `d2c169a12b39124df64d46057bc88d503ee33f8cf4cb8234d21c889a855a5964` |
+| `PJSK:card:1362:01` | `02_CANONICAL_STORIES/CARD/1362_01.md` | 3 | 128 | `a45897bb3bbbd7357476852589aab9b04f959023721c38a1a2e064943b4d6eac` |
+| `PJSK:card:1362:02` | `02_CANONICAL_STORIES/CARD/1362_02.md` | 4 | 154 | `6100fd8a5a913a3570cd68a7a20149651ff2d0dd498b2c039758d00099c1212a` |
+| `PJSK:card:1363:01` | `02_CANONICAL_STORIES/CARD/1363_01.md` | 2 | 59 | `0e194c6c5905ddc3b360c921ec93659a447337b7407f7875b29517765f043156` |
+| `PJSK:card:1363:02` | `02_CANONICAL_STORIES/CARD/1363_02.md` | 1 | 46 | `1b76c3430db9f79e278e3650014957839577c3febe4799b3f83cc2272e0d0111` |
+| `PJSK:card:1364:01` | `02_CANONICAL_STORIES/CARD/1364_01.md` | 2 | 69 | `15e0ad3be6c84729e5fee9a1db1344862837196187ddeebf3b0f69282616ecf6` |
+| `PJSK:card:1364:02` | `02_CANONICAL_STORIES/CARD/1364_02.md` | 1 | 52 | `56ef62e4c1a77ae698814c20632d3f9a01d1c50f4bae5ac0e87349a9fabe83e9` |
+| `PJSK:card:1365:01` | `02_CANONICAL_STORIES/CARD/1365_01.md` | 1 | 70 | `02c7e4d2d974b698c965a904a6fd1eff328df3cfec5eb077278f5c82fbf777df` |
+| `PJSK:card:1365:02` | `02_CANONICAL_STORIES/CARD/1365_02.md` | 1 | 71 | `d04dab0f0b638002e669612f37fc20597dad4ddc7550a4edbd6c366737ff8b5f` |
+| `PJSK:card:1366:01` | `02_CANONICAL_STORIES/CARD/1366_01.md` | 2 | 50 | `3fd33f93306718dada0d784492e20d9e4cbe834ed449dd8bde1ddbfb2642f567` |
+| `PJSK:card:1366:02` | `02_CANONICAL_STORIES/CARD/1366_02.md` | 4 | 75 | `55e415fb3047823a715f81bda4c947d7c1416c5dcb105950e50b54edae3dcf33` |
+| `PJSK:card:1367:01` | `02_CANONICAL_STORIES/CARD/1367_01.md` | 1 | 48 | `bd2df0c45719ecefa087db754916ab9c1400e449cc3d759bcb1dd726c342c64a` |
+| `PJSK:card:1367:02` | `02_CANONICAL_STORIES/CARD/1367_02.md` | 1 | 65 | `920035499b9f502bc161e0bb3c377d9200b7609c0fe5f75593c3ad408c445391` |
+| `PJSK:area:areatalk_monthly2605_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2605_002_01.md` | 1 | 9 | `7d8186a02e21857dc1a9f4c326e8b42a05ba8dbb85a748baae597ef5e66fb49f` |
+| `PJSK:area:areatalk_monthly2605_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2605_003_01.md` | 1 | 8 | `dc4f6d0fdcbadcd9ac243c7502b44b0024e752026213bdc64f8c5eef99e4589c` |
+| `PJSK:area:areatalk_ev_wonder_25_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_25_001_01.md` | 1 | 10 | `a2c04817c39f560f2f3a96c7e356ca99e91aabec21a8de23a99560cad822f1cb` |
+| `PJSK:area:areatalk_ev_wonder_25_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_25_002_01.md` | 1 | 8 | `2a55844a67437138068ff390639d4ae839da637d8d16c3c2943d9e9597a5023f` |
+| `PJSK:area:areatalk_ev_wonder_25_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_25_003_01.md` | 1 | 9 | `14bc0de147d230abe0dc5a0ed80cfdfbf63169cfe1dd827cd02dacdc66299e80` |
+| `PJSK:area:areatalk_ev_wonder_25_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_25_004_01.md` | 1 | 8 | `09833b335228a315768d8e690e8f86443edd682078e6ec981e56f57d1afba105` |
+
+### EVENT_0200 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Rui | PRIMARY / VERY HIGH scoped I3: E0172→E0200 executed in-role film coordination, received result, inherited method and unresolved personal-expression balance. |
+| Rui / Nagamine | CO_PRIMARY / HIGH scoped I3: bounded production relation includes uninformed provocation, hurt, apology, later consent and mutual credit. |
+| Rui / Ohara | CO_PRIMARY / VERY HIGH I2: existing E0119 return channel used and skill recognized; no new permanent apprenticeship. |
+| WxS / Tsukasa, Nene, Emu and group | CO_PRIMARY / HIGH–VERY HIGH I2: observed work, differentiated support, actual celebration and ordinary preferences; no chosen next troupe path. |
+| N25 / Mafuyu | CROSS_UNIT / VERY HIGH scoped I3: E0189→E0200 recognition of endangered wish to be found, with bounded precaution rather than recovery. |
+| N25 / Ena | SECONDARY / LOW bounded I2: actual enjoyed food experiment with Emu. |
+| N25 / Kanade, Mizuki | REPORTED_CONTEXT / I1: reported/recalled present concerns; no receipt of Mafuyu’s new private recognition. |
+| MMJ / Shizuku | CROSS_UNIT / HIGH, very strong I2: E0183 retained; earlier anxious self accepted in a conditional fragment encounter. |
+| MMJ / Airi | REPORTED_CONTEXT / I1: received broadcast inspires Shizuku; no new direct dyad exchange. |
+| MMJ / Minori, Haruka | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Leo/need | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Wonderland / Stage / Empty singers | SECONDARY / HIGH local I2: differentiated leisure, support and fragment participation; no global knowledge pool. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0200_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish the core filming milestone from the later card-confirmed advertisement release, post-hoc acceptance from prior consent, and attributed fragment explanations from universal laws. All cards/areas preserve ordinary leisure, support, limited audience reach and uncompleted plans. Mafuyu’s private recognition does not supply Kanade with new knowledge or resolve E0192; twenty R3 packages and the historical EVENT_0170 closure remain unchanged. EVENT_0201 is next; 13 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0201 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **23 stories / 41 scenes / 1,525 records / 197,456 canonical bytes**: eight core chapters, ten card halves (1368–1372), one monthly area and four ev_street_25 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/cards 1371–1372/release areas use `2026-04-09T06:00:00Z`; cards 1368–1370 use `03:00:00Z`; the monthly row retains archive timestamp `2023-09-29T15:00:00Z`, without an invented scene date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0201:01` | `02_CANONICAL_STORIES/EVENT/0201_01.md` | 2 | 64 | `8b4d8a290c19253b1737334e94e3631e59b913befce19554bd761f2f0b662af8` |
+| `PJSK:event:0201:02` | `02_CANONICAL_STORIES/EVENT/0201_02.md` | 1 | 114 | `226b711c72545ce3fefb2959b9064827ce789e2bad4be5cfb83e5281642dd55a` |
+| `PJSK:event:0201:03` | `02_CANONICAL_STORIES/EVENT/0201_03.md` | 1 | 74 | `320f1ce39d7873fae467fe63911ae67928974e31aecb35a704daf6defb5eb748` |
+| `PJSK:event:0201:04` | `02_CANONICAL_STORIES/EVENT/0201_04.md` | 2 | 67 | `7e4c9277532eb308f8d3e6fc4c32567c1d0217818fcea302aa9b43b2b1d61b08` |
+| `PJSK:event:0201:05` | `02_CANONICAL_STORIES/EVENT/0201_05.md` | 3 | 150 | `eede803d1d43db1ec2776df8a9ed0a0269d6deeac597235bc279a6352e9ecd83` |
+| `PJSK:event:0201:06` | `02_CANONICAL_STORIES/EVENT/0201_06.md` | 2 | 169 | `dd01d01fbb52020094c42d7f2c0be303d3c81e85893bbfa507aac3bbe16486d5` |
+| `PJSK:event:0201:07` | `02_CANONICAL_STORIES/EVENT/0201_07.md` | 2 | 80 | `6bbdf4277e9aee3fc12b2704475090fd33d1dde822a640fb541308feeb17bb2e` |
+| `PJSK:event:0201:08` | `02_CANONICAL_STORIES/EVENT/0201_08.md` | 4 | 167 | `91a5fad17f953f5c9135380fe541b3630a5a17bef75e284c9ce60aef20e03bc1` |
+| `PJSK:card:1368:01` | `02_CANONICAL_STORIES/CARD/1368_01.md` | 1 | 62 | `6f9807db77df2d472b054c70b49c92ae2a485cee60e0fbaff3c014e694f3cfe0` |
+| `PJSK:card:1368:02` | `02_CANONICAL_STORIES/CARD/1368_02.md` | 2 | 69 | `c745104a163089eb9b85b2a65c607c3b42a0dc81aed74953b4afa4279d5bef3d` |
+| `PJSK:card:1369:01` | `02_CANONICAL_STORIES/CARD/1369_01.md` | 1 | 60 | `1e27f8a448d39cc89b91578b6ce2614ce01166bc0244c710f2b0f9d6c7803e7f` |
+| `PJSK:card:1369:02` | `02_CANONICAL_STORIES/CARD/1369_02.md` | 3 | 67 | `d681722f0677fb992cccdce0bd53e9017164ac6ca328a0d81eb234459ae05a14` |
+| `PJSK:card:1370:01` | `02_CANONICAL_STORIES/CARD/1370_01.md` | 2 | 63 | `234fffe0093b7e0da13184d4d5e518e490f458c921a2d02c4303f6d242d5dd1b` |
+| `PJSK:card:1370:02` | `02_CANONICAL_STORIES/CARD/1370_02.md` | 2 | 51 | `4bf9f8888e1034438b10afeaeb5bed260bb9ef070b8da262fa3ef03b59bf067a` |
+| `PJSK:card:1371:01` | `02_CANONICAL_STORIES/CARD/1371_01.md` | 1 | 55 | `026147df2a1cde5c2ca76ef03f78e567575c2cc15f5031f74b030b33fc52d78d` |
+| `PJSK:card:1371:02` | `02_CANONICAL_STORIES/CARD/1371_02.md` | 3 | 67 | `43058ba57bb024da6018901b859568bf93379d5f6e0a80d934bbe0b8df13a325` |
+| `PJSK:card:1372:01` | `02_CANONICAL_STORIES/CARD/1372_01.md` | 2 | 63 | `5ea110ef5279329ba249918a9664a8423492f211576f8c01f391e524257de322` |
+| `PJSK:card:1372:02` | `02_CANONICAL_STORIES/CARD/1372_02.md` | 2 | 45 | `c0955b246ac89bc38ce153d863e9a16ab1059956388fec319f0f8d26f6640b85` |
+| `PJSK:area:areatalk_monthly2606_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2606_003_01.md` | 1 | 7 | `6b16663907b3c1bc1b006b38c2a383d661b29ce263d920cfbee87543c50d268e` |
+| `PJSK:area:areatalk_ev_street_25_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_25_001_01.md` | 1 | 11 | `9f00b55227c76d255d59ee135e737b94c02f1132629de1c3c82e22c80d15b917` |
+| `PJSK:area:areatalk_ev_street_25_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_25_002_01.md` | 1 | 7 | `d7d3d6b3d623af84032cb076b0757af04bc3cd82a6aa27a1ce1a18229226ad6f` |
+| `PJSK:area:areatalk_ev_street_25_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_25_003_01.md` | 1 | 7 | `f75435dfece5315d32277f4e636126606f8cdfe508c967a2e2f48cb5cf0e42c9` |
+| `PJSK:area:areatalk_ev_street_25_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_25_004_01.md` | 1 | 6 | `2f8b6392db044c2f646d35bd2844c7700d17d9b311bf7a92399bab5c05e929dd` |
+
+### EVENT_0201 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / An | PRIMARY / VERY HIGH scoped I3: E0153→E0201 acquired expressive-language method and ordinary initiative, with earlier grief/rivalry scopes and limits retained. |
+| VBS / Ways | CO_PRIMARY / HIGH scoped I3: bounded hostility, contest and reciprocal recognition; no collective apology or complete reform. |
+| VBS / Akito, Toya, Kohane and group | CO_PRIMARY / HIGH–VERY HIGH I2: existing owners, shared practice and first-stage result, differentiated critique/care and continued gaps. |
+| illys / Embers / Street community and family | SECONDARY / HIGH–VERY HIGH I2: current rival channels, requested coaching, actual send-off and received family gift; private hearing history remains bounded. |
+| An / Street Luka | SECONDARY / bounded HIGH I2: particular tailored practice, disclosed frustration, used suggestion and thanks within existing local support. |
+| Street singers | SECONDARY / HIGH local I2: differentiated teaching, rest, gifts, flawed snack judgment and play. |
+| N25 / Ena | SECONDARY / LOW bounded I2: actual mediated food-photo contact; motive disputed, no new shared knowledge. |
+| N25 / Kanade, Mafuyu, Mizuki | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Leo/need | NOT_RELEVANT / I0: no human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0: no human episode or changed owner. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0201_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading and six selective ledger additions distinguish received advice from general language laws, first-stage victory from full qualification, and particular rest from permanent pacing repair. All cards/areas retain ordinary care, food, packing, unequal knowledge and unfinished plans. ERR-PJSK-KOHANE-E0135-ID-0201 identifies E0197’s KO spelling as the existing KH-E0135 owner without altering historical bytes. Reconstruction and EVENT_0170 closure remain preserved. EVENT_0202 is next; 12 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0202 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **21 stories / 52 scenes / 2,173 records / 245,232 canonical bytes**: seven core chapters, ten card halves (1374–1378) and four wl_shuffle_01 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/areas use `2026-04-18T11:00:00Z`; cards use `03:00:00Z`. Preparation, production and aftermath retain their internal ordering rather than one release-derived scene date.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0202:01` | `02_CANONICAL_STORIES/EVENT/0202_01.md` | 6 | 242 | `88089c9ff2f3f7f34e5142e1ad3c4c0b285d3ea79d00141dd352d5144ee7c583` |
+| `PJSK:event:0202:02` | `02_CANONICAL_STORIES/EVENT/0202_02.md` | 2 | 246 | `180d0a23a2e1e1ba46a0547fbee1ef89836a56f38ff62d9cdf5d289bde280d52` |
+| `PJSK:event:0202:03` | `02_CANONICAL_STORIES/EVENT/0202_03.md` | 5 | 204 | `1b4832d2934de97228bca797742b26df59cdfd44837faa78566609611fbdbd94` |
+| `PJSK:event:0202:04` | `02_CANONICAL_STORIES/EVENT/0202_04.md` | 4 | 224 | `27c93976816708bedf58493c421e4927945ed7e387d66ad49966a73fe1a0d127` |
+| `PJSK:event:0202:05` | `02_CANONICAL_STORIES/EVENT/0202_05.md` | 6 | 192 | `8c738a63e12b1c0eadadc70dbd854440b6f23de443a27b1918b325bd7f70fef0` |
+| `PJSK:event:0202:06` | `02_CANONICAL_STORIES/EVENT/0202_06.md` | 4 | 181 | `ccb4dc4f202760640eba8290f29713bf856db9ad9bb1fd57f3eb99c6f70d7f00` |
+| `PJSK:event:0202:07` | `02_CANONICAL_STORIES/EVENT/0202_07.md` | 3 | 148 | `0f8bddd63755def786939819b6fbffdfeeac35c0f10bf407273b5cda661e1934` |
+| `PJSK:card:1374:01` | `02_CANONICAL_STORIES/CARD/1374_01.md` | 1 | 64 | `e092176b6d40797925e16846e4193c7ce3af447b8a8885f26041754c3c3ed892` |
+| `PJSK:card:1374:02` | `02_CANONICAL_STORIES/CARD/1374_02.md` | 1 | 74 | `7e9561200521094349eb09074329c753f2178e64be9886fd84e774bcae2a595e` |
+| `PJSK:card:1375:01` | `02_CANONICAL_STORIES/CARD/1375_01.md` | 1 | 59 | `55ba1c2ab152fbbf0472886ac5c19458a3ae8dee142b46058da3a5828c8400db` |
+| `PJSK:card:1375:02` | `02_CANONICAL_STORIES/CARD/1375_02.md` | 1 | 62 | `ba732570d73a3e76dbe540421e5c1ce97217c248242cf808340a5755db1ec013` |
+| `PJSK:card:1376:01` | `02_CANONICAL_STORIES/CARD/1376_01.md` | 2 | 69 | `3c6547a5c290b62c01a1a03b39d35b8a345ad411c5a496d6dfbe92c567e1223e` |
+| `PJSK:card:1376:02` | `02_CANONICAL_STORIES/CARD/1376_02.md` | 2 | 109 | `24820d3cc4ea973eb78bdcdadf694918b7ac2f858c53afd7ccee50ea679d1634` |
+| `PJSK:card:1377:01` | `02_CANONICAL_STORIES/CARD/1377_01.md` | 2 | 62 | `72bb886529ae0c74c07bf0852bb9b7a11ef61912cc1d6b173a5a3413e5a5efb1` |
+| `PJSK:card:1377:02` | `02_CANONICAL_STORIES/CARD/1377_02.md` | 3 | 72 | `6a8e2806e1ab2077a7b74db4ba5ad90abe88438a49e3daef86b08a029457f9ed` |
+| `PJSK:card:1378:01` | `02_CANONICAL_STORIES/CARD/1378_01.md` | 3 | 72 | `33cbea7d0cbe143e85bb64aec97ec84c1c267e88aa174cfe41cf3eb16ac227b5` |
+| `PJSK:card:1378:02` | `02_CANONICAL_STORIES/CARD/1378_02.md` | 2 | 57 | `31f092dedca014051195673443bf895d1a80569b2537cb84ad351272cc6dfd1f` |
+| `PJSK:area:areatalk_wl_shuffle_01_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_01_001_01.md` | 1 | 10 | `9a7f3ebece1e3a404e82d07bd66f0314ff34895cbe96baf386f29da623b02265` |
+| `PJSK:area:areatalk_wl_shuffle_01_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_01_002_01.md` | 1 | 4 | `2c78bcf5fd519f5f60025d274ea3128da6f39c5513c31529356bf94262c9cd06` |
+| `PJSK:area:areatalk_wl_shuffle_01_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_01_003_01.md` | 1 | 11 | `20c7530e61ebc8045087b90396a60476238bd5dd830c7458b966d01fc57d787c` |
+| `PJSK:area:areatalk_wl_shuffle_01_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_01_004_01.md` | 1 | 11 | `8c232626f71a76d12024cb684ae0b08f28aa2d9af5b96abd35195e5a9aac1d9c` |
+
+### EVENT_0202 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| All five human units / shared SEKAI | CROSS_UNIT / VERY HIGH scoped epistemic I3: actual temporary entry and differentiated mutual discovery; no blanket private-history disclosure or permanent route. |
+| Leo/need / Ichika | CO_PRIMARY / VERY HIGH I2: current E0182, conditional imagined-loss vow, actual listening alternative, lyric work and meeting initiative. |
+| MMJ / Haruka | CO_PRIMARY / VERY HIGH I2: current E0190 and independent E0153, particular supported approach, inclusive facilitation and bounded self-analogy. |
+| WxS / Emu | CO_PRIMARY / VERY HIGH I2: current E0164/E0104, actual recalled grief, permission-aware storytelling and reciprocal care. |
+| N25 / Kanade | CO_PRIMARY / VERY HIGH I2: current K-E0192-01, personal memory, received compositional revision, privacy concern and explicit collective credit; rescue conflict unresolved. |
+| Four humans / Interstice Miku | CO_PRIMARY / HIGH scoped relationship I3: actual co-work, received gratitude and ordinary attachment; continuing human meetings, conditional Miku access. |
+| Emu / costumed attendant | SECONDARY / HIGH scoped relationship I3: received grief testimony, returned thanks and accepted joint remembrance plan within existing park support. |
+| VBS / Kohane; Leo/need / Honami | CROSS_UNIT / HIGH bounded I2 plus shared epistemic I3: actual meeting and mutual local-SEKAI explanation; no new human operative. |
+| Other sixteen humans / sibling and group routes | SECONDARY / I1–I2 plus scoped epistemic I3: shown return and bounded reports; no invented pairings, identical disclosures or private-story transfer. |
+| School, Stage, Wonderland and Empty Mikus | SECONDARY / HIGH local I2: distinct advising, social exchange and repeated specific help; Stage–Empty E0179 contact recognized. |
+| Six Interstice singers | SECONDARY / HIGH local I2 plus epistemic I3: compared encounters and negative ordinary-world contact tests; Miku receives particular creative/ordinary contact. |
+| Girl / grandmother / song recipient | SECONDARY / HIGH bounded evidence: recalled bereavement, stated wishes, actual receipt and reported school return; new local SEKAI audience-richer, sustained recovery open. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0202_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading distinguishes actual bereavement from Ichika’s imagined losses, participant knowledge from audience-only new-world information, and particular creative receipt from universal recovery or world laws. All five units receive scoped epistemic dispositions; all cards/areas preserve consent concerns, local singers, ordinary contact and unfinished plans. Prior event bodies, EVENT_0170 closure and reconstruction authority remain intact. EVENT_0203 is next; 11 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0203 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 47 scenes / 1,248 records / 163,097 canonical bytes**: eight core chapters, ten card halves (1380–1384), two monthly areas and four ev_band_25 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/cards 1383–1384/release areas use `2026-04-30T06:00:00Z`; cards 1380–1382 use `03:00:00Z`; monthly rows retain archive timestamp `2023-09-29T15:00:00Z`. Actual childhood recollections and present preparation/aftermath retain their own ordering.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0203:01` | `02_CANONICAL_STORIES/EVENT/0203_01.md` | 3 | 77 | `758650e52182108fe8408eafdf353bc3067ee760e2173dc346759d7b94c3fb08` |
+| `PJSK:event:0203:02` | `02_CANONICAL_STORIES/EVENT/0203_02.md` | 3 | 76 | `57fcc60e91dc4e54868f6ff973964a917c93571a79419aef3e2688c9fc4c26dd` |
+| `PJSK:event:0203:03` | `02_CANONICAL_STORIES/EVENT/0203_03.md` | 3 | 93 | `fa4892ad21316983bdd9ec598f5d7080e2c5acac6f60f8f8bbdb43fde298af26` |
+| `PJSK:event:0203:04` | `02_CANONICAL_STORIES/EVENT/0203_04.md` | 4 | 63 | `bcca5a43bcddc81a9870d0b7baa3770b3be39d56627b5ee72f9c06c1a4faf7b1` |
+| `PJSK:event:0203:05` | `02_CANONICAL_STORIES/EVENT/0203_05.md` | 2 | 128 | `c15f6d0377378eb321d4d06f28b7fcafdeb494551b0ee431ba5fd0761959a868` |
+| `PJSK:event:0203:06` | `02_CANONICAL_STORIES/EVENT/0203_06.md` | 3 | 84 | `04bb61b42440c95e1cd32465f98614ef7834a83bb446cf533d5c53e86f3ed903` |
+| `PJSK:event:0203:07` | `02_CANONICAL_STORIES/EVENT/0203_07.md` | 3 | 62 | `61f0bd6d521d533eaf38c4243c4a88319db0cda95ccb40f89525e210112463c3` |
+| `PJSK:event:0203:08` | `02_CANONICAL_STORIES/EVENT/0203_08.md` | 2 | 67 | `d7b061c1c827422ca4dc61c2d5eac389701244465ce58df8e9cd387f04f62b93` |
+| `PJSK:card:1380:01` | `02_CANONICAL_STORIES/CARD/1380_01.md` | 1 | 55 | `d3df5af68621d7356644d18acca976cd094dcce1258fdd579a94b2a75ba7d6ba` |
+| `PJSK:card:1380:02` | `02_CANONICAL_STORIES/CARD/1380_02.md` | 2 | 60 | `787dc4c0edc8441223bfda0fb5fba359648f1dd37d07ee48837d5de2f5b576b6` |
+| `PJSK:card:1381:01` | `02_CANONICAL_STORIES/CARD/1381_01.md` | 1 | 56 | `5cbfb386da3e0b57e1104f10648c1c733d72dd671914c58f2a71dfc9fb39022c` |
+| `PJSK:card:1381:02` | `02_CANONICAL_STORIES/CARD/1381_02.md` | 3 | 60 | `ada5ac5cfd3de1e048548a996d1203e2bc04030a63cefc70c68a8afaed44a696` |
+| `PJSK:card:1382:01` | `02_CANONICAL_STORIES/CARD/1382_01.md` | 2 | 50 | `888420d08440de3c8f310907f720b24abf8d826900b021e2a0de8a4ae88016f0` |
+| `PJSK:card:1382:02` | `02_CANONICAL_STORIES/CARD/1382_02.md` | 1 | 48 | `f57604f2aee94dbc66dc271d4e1f3849476d34d4a2181d873439821bac233b60` |
+| `PJSK:card:1383:01` | `02_CANONICAL_STORIES/CARD/1383_01.md` | 2 | 51 | `bb8229a4570c2b38040b557ca103fac76856d80fab9ea8926fa97dcbf3f5c4ad` |
+| `PJSK:card:1383:02` | `02_CANONICAL_STORIES/CARD/1383_02.md` | 3 | 70 | `0b9218ae55ff95621fba03cc3841faf9b29096ba856b528055c84ad743398743` |
+| `PJSK:card:1384:01` | `02_CANONICAL_STORIES/CARD/1384_01.md` | 1 | 43 | `82aaf4caf9926447a0913f9d33d35ad50119789ccb07190b8031c676d3e65c38` |
+| `PJSK:card:1384:02` | `02_CANONICAL_STORIES/CARD/1384_02.md` | 2 | 53 | `973f65dee56579121b8cb7db2c06fbbc2dcfcbdc3789d7b98993f342496029fa` |
+| `PJSK:area:areatalk_monthly2606_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2606_001_01.md` | 1 | 6 | `62c519f70a3e89d1b1ac709ae05977611c9e8e018c75f97d42edfb640197692b` |
+| `PJSK:area:areatalk_monthly2606_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2606_002_01.md` | 1 | 8 | `6a59590ca7bf53b6c6f60fe0b7b75cab77ea1847a8387a04ba08996352413ef8` |
+| `PJSK:area:areatalk_ev_band_25_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_25_001_01.md` | 1 | 11 | `31fb91e528fcb01576918c0d2c506b1100f265df37f927523f2b9025b8792744` |
+| `PJSK:area:areatalk_ev_band_25_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_25_002_01.md` | 1 | 9 | `e445438cd604e85444116ef61af6e05ac0c779de46a9fcecf97b2f4d50314c86` |
+| `PJSK:area:areatalk_ev_band_25_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_25_003_01.md` | 1 | 10 | `c85d089215b13d697eabe573a10583f43002f22fc999737ed3b8da2f8a01b09b` |
+| `PJSK:area:areatalk_ev_band_25_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_25_004_01.md` | 1 | 8 | `a75c3885441e3ede3e3bd7e8c3c9530f9b3a604b7f970aa6f69cdadbe0aed214` |
+
+### EVENT_0203 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Honami | PRIMARY / VERY HIGH I2: current E0121/E0158, observed fatigue, institution-facing request, chosen care, newly specified early agency and actual personal musical preference. |
+| Leo/need / Ichika, Saki, Shiho and group | CO_PRIMARY / HIGH–VERY HIGH I2: actual leisure, received gratitude, inclusive wishes, private musical response and distinct childhood/ordinary behavior; E0188 conflict unresolved. |
+| Solis / Shindo | SECONDARY / HIGH I2: current E0147, already progressing rest arrangements and actual granted week; no unilateral Honami cause or permanent policy. |
+| School Len / other local singers | SECONDARY / HIGH local I2: received origin history, supported preference, independent practice, chosen noninterruption and actual gifts. |
+| N25 / Ena, Mafuyu, Kanade | CROSS_UNIT / LOW–MODERATE bounded I2: reported visual advice and misrecognition; Mafuyu’s private counterevidence not relayed. |
+| N25 / Mizuki | NOT_RELEVANT / I0: no event evidence or new knowledge receipt. |
+| WxS / Tsukasa | INCIDENTAL / reported childhood I1: Saki recalls his performed picture-book reading, not a present scene. |
+| WxS / Emu, Nene, Rui | NOT_RELEVANT / I0: no episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0: no human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0: no human episode or changed owner. |
+| Childhood classmates / dog owner / animals | SECONDARY / bounded history and present receipt: actual recalled search and later reunion; animal mental-state interpretations remain qualified. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0203_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading preserves actual childhood history, hypothetical causal alternatives, present receipts and unperformed plans. It retains Saki’s undisclosed E0188 conflict, the actual dog reunion without certain animal recognition, and the distinction between Honami’s satisfied food drawing and Mafuyu’s private knowledge of Kanade’s misreading. Five-unit dispositions, all cards/areas, historical bodies and EVENT_0170 closure remain complete. EVENT_0204 is next; 10 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0204 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **25 stories / 45 scenes / 1,576 records / 206,180 canonical bytes**: eight core chapters, ten card halves (1386–1390), three monthly areas and four ev_street_26 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/cards 1389–1390/release areas use `2026-05-08T06:00:00Z`; cards 1386–1388 use `03:00:00Z`; monthly rows retain archive timestamp `2023-09-29T15:00:00Z`. Pre-qualifier practice, rivals’ celebration and the separate local-singer party retain their narrative ordering.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0204:01` | `02_CANONICAL_STORIES/EVENT/0204_01.md` | 2 | 78 | `9a25e809fb5d02ad8b58bd1227e075d576996cdfaf145fdeb439e572aa98b9ea` |
+| `PJSK:event:0204:02` | `02_CANONICAL_STORIES/EVENT/0204_02.md` | 1 | 90 | `555cbde7289a88d8486ad7ceb7437345b9b97cbeeb16cbea1d43ba7958027478` |
+| `PJSK:event:0204:03` | `02_CANONICAL_STORIES/EVENT/0204_03.md` | 2 | 149 | `26d3f8b86b1a7e37110e3f4c647e969b182a7b66ea5e392b77c2d1d401a89b52` |
+| `PJSK:event:0204:04` | `02_CANONICAL_STORIES/EVENT/0204_04.md` | 1 | 115 | `d4a19ead0ddf4c17ff7df639f88930adc7bf2b7883679591a962fa6865b1a1e0` |
+| `PJSK:event:0204:05` | `02_CANONICAL_STORIES/EVENT/0204_05.md` | 3 | 137 | `0bd0afdab72b382177c953ac0280365dd0073bf07af7cd04d830f05cc470ff85` |
+| `PJSK:event:0204:06` | `02_CANONICAL_STORIES/EVENT/0204_06.md` | 1 | 247 | `913c8867bb2da466515c81f5c06e1d418c7b61d4968949f0646084fa111cebce` |
+| `PJSK:event:0204:07` | `02_CANONICAL_STORIES/EVENT/0204_07.md` | 2 | 87 | `0faf24ee6af7bc85795396f1bee9a010cb1f6c212a553fa2255c7deb6cc48efa` |
+| `PJSK:event:0204:08` | `02_CANONICAL_STORIES/EVENT/0204_08.md` | 2 | 72 | `80c876ccdd7c19751d8b26cb78f73e5ebcb8202f2374e77572aa14f532661191` |
+| `PJSK:card:1386:01` | `02_CANONICAL_STORIES/CARD/1386_01.md` | 2 | 48 | `0b513a834c05f5b9f53e914ae3def2e19b7bd8cc84d7cd05bfccf67e1a22cf37` |
+| `PJSK:card:1386:02` | `02_CANONICAL_STORIES/CARD/1386_02.md` | 2 | 56 | `67bd73053706cdc60b0730d9cbca9adae7008526898acdc00d6a9d5ba824a90d` |
+| `PJSK:card:1387:01` | `02_CANONICAL_STORIES/CARD/1387_01.md` | 1 | 51 | `e60a4244bf7c33215a59831ae620b7a8d50211f095cf9cf78878137ed7bd3f74` |
+| `PJSK:card:1387:02` | `02_CANONICAL_STORIES/CARD/1387_02.md` | 4 | 62 | `3b9d796e695553d241c7a26bae6bfb38916dc70dfdcd7aad01e4552646851565` |
+| `PJSK:card:1388:01` | `02_CANONICAL_STORIES/CARD/1388_01.md` | 3 | 56 | `b922afb981126491b4630844d05eeb143a790e370e116a36f4097b7bbb436d83` |
+| `PJSK:card:1388:02` | `02_CANONICAL_STORIES/CARD/1388_02.md` | 3 | 55 | `7a0ad07e99dd1fec4e6c6fcf23f2ba21ae9ce418a04dcf02457b4a4fd179982a` |
+| `PJSK:card:1389:01` | `02_CANONICAL_STORIES/CARD/1389_01.md` | 2 | 47 | `028257699daef638ad9f9a2f84a858dd1ccb80f54ce77e3c8b3ead614864adb8` |
+| `PJSK:card:1389:02` | `02_CANONICAL_STORIES/CARD/1389_02.md` | 3 | 63 | `8cfe2943cd3f914f653d4cd5c962d1833373af94ef76122d8c29d187a8a712ae` |
+| `PJSK:card:1390:01` | `02_CANONICAL_STORIES/CARD/1390_01.md` | 2 | 46 | `2ef988577b94aefd4135c57757231826320762403423acf46b6711f4f1947696` |
+| `PJSK:card:1390:02` | `02_CANONICAL_STORIES/CARD/1390_02.md` | 2 | 61 | `e9cf82c2e32df9fd431115867e4b3192828426d66040d5aaec91fb930621f342` |
+| `PJSK:area:areatalk_monthly2606_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2606_004_01.md` | 1 | 7 | `e5f424c4da131ce94178809cdde6a22c2e2104f42ac8b42d771d6415e6195839` |
+| `PJSK:area:areatalk_monthly2607_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2607_001_01.md` | 1 | 6 | `df0ffe91ea8d2e6b86f334f7fa11ccf31e57edc9c9c5f5c3e430d4e2b73e285b` |
+| `PJSK:area:areatalk_monthly2607_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2607_002_01.md` | 1 | 8 | `f62e4a2993da49c20cc8b3c8b24aa181d7664537f8e2f080ddd8777441aabc7a` |
+| `PJSK:area:areatalk_ev_street_26_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_26_001_01.md` | 1 | 10 | `79ee0e6c3ed4afc2cac309a3114d0c024d22180ffedbf0727a33df842c8a602d` |
+| `PJSK:area:areatalk_ev_street_26_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_26_002_01.md` | 1 | 8 | `a2d6c98b9256c5a9ee0785f58e369367f444371306f1716ad4827f35bf71471e` |
+| `PJSK:area:areatalk_ev_street_26_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_26_003_01.md` | 1 | 9 | `ed058d8e6321f7d1e0b73a9899fe1e70057a194a2cfe53d08031b2dfd4caf50b` |
+| `PJSK:area:areatalk_ev_street_26_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_26_004_01.md` | 1 | 8 | `d1c02ff0bc10d3d779f6100b1da5a898c18895879c01ab08489ce29f8594a609` |
+
+### EVENT_0204 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / Kohane | PRIMARY / VERY HIGH I2: canonical KH-E0135, studio adaptation, explicit self-direction with help, unresolved discomfort. |
+| VBS / other three and group | CO_PRIMARY / HIGH–VERY HIGH I2: current owners, actual qualification, independent deliberation, refusal to recruit friends, ordinary care. |
+| VBS / DG and industry knowledge | HIGH scoped I3: new professional contact and unequal evidence; private instruction does not reveal its execution or content. |
+| illys / Embers / No.9 / Ken and Taiga | SECONDARY / HIGH I2: gratitude, reciprocal motivation, practical support and qualified warnings; private hearing history retained. |
+| Street singers | SECONDARY / HIGH local I2: individual practice, advice, restraint, actual celebration and interests. |
+| WxS / Tsukasa | CROSS_UNIT / MODERATE mediated I2: received earlier encouragement, Toya’s lengthy draft not shown sent. Other three I0. |
+| Leo/need | INCIDENTAL / mediated I1: public work reaches Kohane/Akito; no new private band knowledge. |
+| MMJ | INCIDENTAL / mediated I1: reported public work motivates Kohane; no new group scene. |
+| N25 | NONE / I0: no human scene or receipt. |
+| Family / Pearl Count / unnamed staff, artists, audiences | SECONDARY / bounded ordinary and institutional evidence: distinct testimony, actual interactions, animal cognition qualified. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0204_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The complete reading distinguishes observed support, conflicting testimony, the quartet’s unresolved unease and DG’s private instruction. No new contract, proved past wrongdoing, specified sabotage or tournament victory is certified. All cards/areas preserve training limits, family contact, ordinary tastes, mediated cross-unit receipt and unfinished plans. Historical bodies, EVENT_0170 closure and R3 through EVENT_0140 remain intact. EVENT_0205 is next; 9 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0205 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 45 scenes / 2,269 records / 290,444 canonical bytes**: eight core chapters, twelve card halves (1392–1397) and four wl_shuffle_02 areas. Membership, canonical/pinned-raw hashes, normalized text, ordered identities and chronology reconcile. Core/areas use `2026-05-17T11:00:00Z`; all cards use `03:00:00Z`. The opening and ordinary-world introductions overlap the EVENT_0202 branch; later practice, auditions, reported results and closed access retain their own ordering. Text includes an uninspected final video pointer, not inspected audiovisual evidence.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0205:01` | `02_CANONICAL_STORIES/EVENT/0205_01.md` | 3 | 221 | `f13aae40a1b3e01aa63896f6546fe1351cc27e5e33d1fb7307151fef57673147` |
+| `PJSK:event:0205:02` | `02_CANONICAL_STORIES/EVENT/0205_02.md` | 2 | 209 | `3f458cfc3b0bcf62e534bc5c6bfb9264b77f7353811e8401f141138adac38b38` |
+| `PJSK:event:0205:03` | `02_CANONICAL_STORIES/EVENT/0205_03.md` | 2 | 162 | `a373540fcc11881bf0cf4ba1330da9be920340434ae3a517622bcc3be92bcc41` |
+| `PJSK:event:0205:04` | `02_CANONICAL_STORIES/EVENT/0205_04.md` | 4 | 198 | `5db926b4fcd8cd416c4a8a441bda2c4d778ded11d0322bfad09f47c32d31d744` |
+| `PJSK:event:0205:05` | `02_CANONICAL_STORIES/EVENT/0205_05.md` | 5 | 238 | `9cfc1e5d75586467db059df52ba997fa7c47ea384bd7b09471e2f2e9c1d8982e` |
+| `PJSK:event:0205:06` | `02_CANONICAL_STORIES/EVENT/0205_06.md` | 1 | 174 | `76253367449c89e79d35a07f76da3d5b21796b54c097befbc8c8a26ca66d34a8` |
+| `PJSK:event:0205:07` | `02_CANONICAL_STORIES/EVENT/0205_07.md` | 3 | 143 | `15f1fe8c1c8855aff258b1a0c5ccd877ee637719d8cc2e314d5659ba21dc7161` |
+| `PJSK:event:0205:08` | `02_CANONICAL_STORIES/EVENT/0205_08.md` | 3 | 137 | `abcbd1cdb7cbb9bfd31ac1dda5af196f7d4317e9477caad737602d662cb8cca5` |
+| `PJSK:card:1392:01` | `02_CANONICAL_STORIES/CARD/1392_01.md` | 2 | 59 | `fde994eb958a341ccbcc2b9bce851ef3bce628688fa97b1d4f21dc52baee329a` |
+| `PJSK:card:1392:02` | `02_CANONICAL_STORIES/CARD/1392_02.md` | 1 | 72 | `23b73658a8add080a8e6b1eac185c6beb659d59d452e6c1ed104c10f44cf3f25` |
+| `PJSK:card:1393:01` | `02_CANONICAL_STORIES/CARD/1393_01.md` | 1 | 65 | `486721b784d2d6bfabc30e6742bfc85cb759f0c266ad43cf8bfa94a564c35a39` |
+| `PJSK:card:1393:02` | `02_CANONICAL_STORIES/CARD/1393_02.md` | 1 | 57 | `c48802095966bc1e6f6a422124866117542ad1c8216110ee70eee739902c7168` |
+| `PJSK:card:1394:01` | `02_CANONICAL_STORIES/CARD/1394_01.md` | 1 | 59 | `560dac1c83e61fafe2212eb3f7112a5af5844923f9ff119eac281781eef1a091` |
+| `PJSK:card:1394:02` | `02_CANONICAL_STORIES/CARD/1394_02.md` | 3 | 78 | `828b591e20eb476c797f06d560d1f4edaad00a50aef9c1f50ef7b55ddab54b53` |
+| `PJSK:card:1395:01` | `02_CANONICAL_STORIES/CARD/1395_01.md` | 1 | 48 | `87916c5efdebaca65e199ec59edc37c295aecf14ddbb223798a6224e56581c86` |
+| `PJSK:card:1395:02` | `02_CANONICAL_STORIES/CARD/1395_02.md` | 1 | 84 | `3ab57a294dadbb8b3a00d8d422258d0db08f9c719bae150495b934fe1e0e5623` |
+| `PJSK:card:1396:01` | `02_CANONICAL_STORIES/CARD/1396_01.md` | 1 | 57 | `dca7dead110c61d6c7419ec361e8fdfb2e27a4e1dabb2dda2f0724159498c066` |
+| `PJSK:card:1396:02` | `02_CANONICAL_STORIES/CARD/1396_02.md` | 1 | 52 | `dcd22b2ea9fdd2cb719b5d3edb81c5317f84041cbf20dbd3e0db8f7422eac440` |
+| `PJSK:card:1397:01` | `02_CANONICAL_STORIES/CARD/1397_01.md` | 1 | 64 | `8678dfda5d18ff633ebf0580d8ac310484892c02bd1f21abede1e2bba2f4fd36` |
+| `PJSK:card:1397:02` | `02_CANONICAL_STORIES/CARD/1397_02.md` | 4 | 55 | `c5e9e950b188b1d0f13bbb4df5e89ae3c76e2d71ee274b1800fd1d100a35b311` |
+| `PJSK:area:areatalk_wl_shuffle_02_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_02_001_01.md` | 1 | 9 | `45957cd71dc310b019bb5a890e0311458abab6fc39914735ca46422f81d450a7` |
+| `PJSK:area:areatalk_wl_shuffle_02_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_02_002_01.md` | 1 | 10 | `91f87a9eb367c75218171defab704495708360fb9b875dcd754add3105d608f3` |
+| `PJSK:area:areatalk_wl_shuffle_02_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_02_003_01.md` | 1 | 9 | `14dbdbbf010bd09bca8267c7622476924cdaf9743ac7d7f7d78014b12e14de87` |
+| `PJSK:area:areatalk_wl_shuffle_02_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_02_004_01.md` | 1 | 9 | `8f90680d70738d4265dccee6289bbd042d56262bd293b42d317b641e717c3cfb` |
+
+### EVENT_0205 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Shiho | PRIMARY / VERY HIGH I2, current E0162/E0191/E0148; scoped shared relation/epistemic I3. |
+| Leo/need / other humans | Ichika bounded direct I2; Saki reported I1; Honami I0. |
+| MMJ / Minori | PRIMARY / VERY HIGH I2, current E0122/E0098; scoped shared relation/epistemic I3. |
+| MMJ / other humans | Haruka/Airi/Shizuku distinct reported I1; no pooled new private receipt. |
+| VBS / An | PRIMARY / VERY HIGH I2, current E0201 retaining E0153/E0129 and E0006 partner correction; scoped shared relation/epistemic I3. |
+| VBS / other humans | Akito bounded direct privacy I2; Kohane/Toya reported relational I1; DG private information not exported. |
+| WxS / Tsukasa | PRIMARY / VERY HIGH I2, E0178 current with E0160/E0136 inherited; scoped shared relation/epistemic I3; bounded Ohara co-work I2. |
+| WxS / other humans | Nene high bounded privacy I2; Emu/Rui reported I1. |
+| N25 | Reported group existence and Kanade/Ena/Mizuki context I1; no new member receipt; Mafuyu human I0. |
+| Interstice Rin/Len | PRIMARY / HIGH scoped relational/epistemic I3; received cooperation/play, ordinary-world limits preserved. |
+| School / Stage / Street / Wonderland Rin/Len | SECONDARY / HIGH local I2 and bounded cross-world contact under EPI-PJSK-SEKAI-E0205; eight distinct phone-mediated participants. |
+| ライセ / ミナト | CO_PRIMARY / HIGH relationship I3; named recipients’ explicit aspiration, negotiated/formal team and permitted continuation, not a prize. |
+| Ohara / organizers / finalists / parents | SECONDARY / bounded institutional action and testimony; multiple causes retained. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0205_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading preserves overlap with E0202, specific memory/live-view interpretations, the four local singer pairs, Nene’s privacy boundary and the later loss of shared-world access. All twelve card halves and four areas retain ordinary play, teaching choices, actual music and incomplete outings. The new-world visit is later reported only by the observers. Historical bodies, EVENT_0170 closure and R3 through EVENT_0140 remain intact; final video and performance channels were not inspected. EVENT_0206 is next; 8 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0206 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 29 scenes / 1,393 records / 182,763 canonical bytes**: eight core chapters, ten card halves (1399–1403) and four shuffle_63 areas. Membership, pinned-raw/canonical hashes, normalized content, ordered identities and chronology reconcile. Core/areas/cards 1402–1403 use `2026-05-31T06:00:00Z`; cards 1399–1401 use `03:00:00Z`. Planning, temporary care, return, death report, memorial and later response retain internal chronology. CG and performed song/choreography channels were not inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0206:01` | `02_CANONICAL_STORIES/EVENT/0206_01.md` | 2 | 87 | `b5d98798d35c1e0e96023c7300f7e1a89e56eafc278263bcaa2de8dd3b2c2142` |
+| `PJSK:event:0206:02` | `02_CANONICAL_STORIES/EVENT/0206_02.md` | 2 | 75 | `dcf3af702f4246704357fea14f265f1f55a8945a7e4d070d0bec5dc47d65138b` |
+| `PJSK:event:0206:03` | `02_CANONICAL_STORIES/EVENT/0206_03.md` | 1 | 96 | `0395b12f0e534517359c9d2deafa3df27bf6e81356286809e61e1a4aef87bebb` |
+| `PJSK:event:0206:04` | `02_CANONICAL_STORIES/EVENT/0206_04.md` | 2 | 99 | `233712c481ba45ef57480cf75ed5bb210cb10dfd09579edc4e08e1e5266dbce9` |
+| `PJSK:event:0206:05` | `02_CANONICAL_STORIES/EVENT/0206_05.md` | 1 | 92 | `395a642abd36806aa5581b005f635c1c710db04ecc47197d8abbcc8c5fd14e0a` |
+| `PJSK:event:0206:06` | `02_CANONICAL_STORIES/EVENT/0206_06.md` | 4 | 164 | `402051a1e9402783d202527132a375b10043c5ba37e6a3faba7e935428c50893` |
+| `PJSK:event:0206:07` | `02_CANONICAL_STORIES/EVENT/0206_07.md` | 2 | 89 | `d6dc15e0d4a8f38fc24c00e30b8119f71fabc72abf378434fe9aca5e51086186` |
+| `PJSK:event:0206:08` | `02_CANONICAL_STORIES/EVENT/0206_08.md` | 1 | 77 | `ee047e087ff100f4b6e8ff3b2158a238ef1cbd64408b4a0dd3b2d2c6264a8184` |
+| `PJSK:card:1399:01` | `02_CANONICAL_STORIES/CARD/1399_01.md` | 1 | 57 | `f1ff8b48899d6195c92f6c144514eff073205220a51327757799731688f5aaf4` |
+| `PJSK:card:1399:02` | `02_CANONICAL_STORIES/CARD/1399_02.md` | 1 | 51 | `df8a831862502a3ea500a6ec3b73584e18ae26c9ed197a6900a93d3880aef3d7` |
+| `PJSK:card:1400:01` | `02_CANONICAL_STORIES/CARD/1400_01.md` | 1 | 56 | `4a95c1bb25ccd8ddc98086b4b202fd92f46ba48a9c0409fc2ec7e1b53b1ba45d` |
+| `PJSK:card:1400:02` | `02_CANONICAL_STORIES/CARD/1400_02.md` | 1 | 59 | `4dc8f2b677cc98df5c4aa04ca09ce57a6693f850b6a8d628eeb176cdd92f58ff` |
+| `PJSK:card:1401:01` | `02_CANONICAL_STORIES/CARD/1401_01.md` | 1 | 53 | `0e8d37137e5c3a1e60734c635801cf22c4058b8cff46e0f4391f3022cb70ab23` |
+| `PJSK:card:1401:02` | `02_CANONICAL_STORIES/CARD/1401_02.md` | 1 | 56 | `f3101c7e658e968df852feafcfe5be535c30247906712cd5fba8f2cb36e91833` |
+| `PJSK:card:1402:01` | `02_CANONICAL_STORIES/CARD/1402_01.md` | 1 | 56 | `0507f2f4d43d949ec8a798dff99d2f4f919a60f715112b1b1bbcacd9157117d3` |
+| `PJSK:card:1402:02` | `02_CANONICAL_STORIES/CARD/1402_02.md` | 1 | 50 | `daba940a618226db9a59e234793de1b5ff343907350297742733f036733392f3` |
+| `PJSK:card:1403:01` | `02_CANONICAL_STORIES/CARD/1403_01.md` | 1 | 59 | `0f643aa415f99c885c99e4846a4aa9685cd73555e719d694b91975b943e2a08b` |
+| `PJSK:card:1403:02` | `02_CANONICAL_STORIES/CARD/1403_02.md` | 1 | 83 | `8653cfcc80519e751d8ef0c39185c241d88ca49d683bf447b44dd3e9eff7a5a6` |
+| `PJSK:area:areatalk_ev_shuffle_63_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_63_001_01.md` | 1 | 9 | `6f6c295b7d5c54458380cdb0533ccf90a749c0744add36da43f5647016f61eab` |
+| `PJSK:area:areatalk_ev_shuffle_63_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_63_002_01.md` | 1 | 8 | `7bd2c24a96ffde7d6b86dc90b1e62095c6fdfee2946adbe41548b463e5a68825` |
+| `PJSK:area:areatalk_ev_shuffle_63_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_63_003_01.md` | 1 | 9 | `d7b49672107b147e9131a505d2344d2bdeef03ef0eb4303eae3dd4f18170dba5` |
+| `PJSK:area:areatalk_ev_shuffle_63_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_63_004_01.md` | 1 | 8 | `6e4f85e886d2670e2069385545782e6b069d933026e367b18d2495b8c3fdaf2a` |
+
+### EVENT_0206 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Mizuki | PRIMARY / VERY HIGH I2, MZ-E0199-01 with inherited scopes; completed costume work and received memorial expression, no stable career/balance claim. |
+| N25 / Kanade | CO_PRIMARY / VERY HIGH I2, K-E0192-01 and REL-N25-KMZ-1; qualified counsel and returned courage, unresolved rescue question. |
+| N25 / Mafuyu / Ena | SECONDARY / bounded I2: actual domestic intervention / ordinary fashion preference and received remembrance; no receipt of private concluding exchange. |
+| MMJ / Airi | CO_PRIMARY / VERY HIGH I2, E0198 with founded communication/care; accepted support and actual personal tribute. |
+| MMJ / Shizuku / Minori / Haruka | HIGH differentiated I2: material skill, specific peer support, chosen performance and bounded audience reception. Group E0176 retained. |
+| Leo/need | Honami reported domestic-support I1; other three I0. |
+| VBS / WxS | NONE / I0 for all eight humans; no cross-world knowledge imports. |
+| Stage KAITO / other five singers | VERY HIGH / HIGH local I2; distinct performer/producer/helping roles and incomplete shared knowledge, no global singer promotion. |
+| Shibayama / ムーちゃん | Bounded high I2: actual care, disclosed grief, accepted gift and thanks; animal preference and afterlife unproved. |
+| Other family / staff / audience | Incidental/reported I1; particular responses, not guaranteed public effects. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0206_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The full reading preserves owner testimony versus inferred animal intent, differentiated singer knowledge, the private Kanade–Mizuki return, actual shared mourning and public disclosure limits. Every card/area retains low-stakes craft, taste, planning and domestic evidence, including Kanade’s near fall and accepted help. Historical readings, EVENT_0170 closure and all 20 R3 packages through EVENT_0140 remain intact; no performance-informed promotion follows. EVENT_0207 is next; 7 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0207 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **21 stories / 43 scenes / 1,699 records / 203,219 canonical bytes**: seven core chapters, ten card halves (1404–1408) and four shuffle_03 areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core/areas use `2026-06-08T11:00:00Z`; cards use `03:00:00Z`. Opening and meetup preparations overlap E0202/E0205; later shoots, weeks of activity, crisis and follow-up retain their own order. CG, film, songs and link3_team03_ed ending video were not inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0207:01` | `02_CANONICAL_STORIES/EVENT/0207_01.md` | 4 | 164 | `5f82834ea93fd7e6185278d8667ee71358f1d98fd604285381769becb9c2a9f1` |
+| `PJSK:event:0207:02` | `02_CANONICAL_STORIES/EVENT/0207_02.md` | 2 | 185 | `9071f0f8a6c1836a11bdaf21428f8641196b7e0802b697d6661c7d0677b25308` |
+| `PJSK:event:0207:03` | `02_CANONICAL_STORIES/EVENT/0207_03.md` | 5 | 150 | `e41c7b67de9706cd9892ccae942a8f125a6913ed9f15153664cbf2521e11c22a` |
+| `PJSK:event:0207:04` | `02_CANONICAL_STORIES/EVENT/0207_04.md` | 6 | 172 | `0108923778d34a34c3676eb2b5da243d1211b2d191e652af265da16a52ebc4ec` |
+| `PJSK:event:0207:05` | `02_CANONICAL_STORIES/EVENT/0207_05.md` | 2 | 146 | `66763a93360cd7940cb92104a7a27d026d233e22ee351d9eedd11f82f9d7dd90` |
+| `PJSK:event:0207:06` | `02_CANONICAL_STORIES/EVENT/0207_06.md` | 2 | 133 | `cf87c2cae8f8b3842e935fc02823710071a68c1f59b444b06d174cae4a2fd820` |
+| `PJSK:event:0207:07` | `02_CANONICAL_STORIES/EVENT/0207_07.md` | 3 | 117 | `71f1f80580e8e2a42033e37fa0f4f00f400a720ab2ba4a47c19c28ab1627c2d7` |
+| `PJSK:card:1404:01` | `02_CANONICAL_STORIES/CARD/1404_01.md` | 1 | 44 | `2f0c2bf79a12f60eaf8a2e075187bd244e3266c6b912fbef8c984bcd4ae364c5` |
+| `PJSK:card:1404:02` | `02_CANONICAL_STORIES/CARD/1404_02.md` | 1 | 60 | `389faef9d45aa368c7c42103dd87ba8516f1a16e69c616658019c8edfb72f4f6` |
+| `PJSK:card:1405:01` | `02_CANONICAL_STORIES/CARD/1405_01.md` | 1 | 59 | `f9bfbaa33a7d75172e930ffd6434cc61e1e0c4c481a720c595d442f061fbb2b5` |
+| `PJSK:card:1405:02` | `02_CANONICAL_STORIES/CARD/1405_02.md` | 1 | 58 | `2a85cc39f8afe2d74b1d64f96fd6d6ca0a83521e74e75f1425cb04557b0cf30a` |
+| `PJSK:card:1406:01` | `02_CANONICAL_STORIES/CARD/1406_01.md` | 1 | 61 | `f11a1eb21f6235af80ceebe4b2f37e466bb1a36d9f26435c443753d3d9cfdc75` |
+| `PJSK:card:1406:02` | `02_CANONICAL_STORIES/CARD/1406_02.md` | 1 | 53 | `59d9e01f10fbd5e3e3caf6ce22cbaac1a206431aecda2312ccf50b07c3982269` |
+| `PJSK:card:1407:01` | `02_CANONICAL_STORIES/CARD/1407_01.md` | 1 | 70 | `13275bc1ec937daca52a42ed7ec2cc379b15d5ac59a0d1d709e8c1481ab188c4` |
+| `PJSK:card:1407:02` | `02_CANONICAL_STORIES/CARD/1407_02.md` | 3 | 70 | `cc5186f5a163427f1989de8e1368fb0924b46145b816d850a6e1a2b68d846f9a` |
+| `PJSK:card:1408:01` | `02_CANONICAL_STORIES/CARD/1408_01.md` | 2 | 62 | `a3e4a25b5b282f0dfa1736ebd831d65f013185cdab69480db78ebc33d327902d` |
+| `PJSK:card:1408:02` | `02_CANONICAL_STORIES/CARD/1408_02.md` | 3 | 64 | `cbb59a45e90d4a25c554516f6d1292266968639ff6806a7235cc1825364af1a4` |
+| `PJSK:area:areatalk_wl_shuffle_03_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_03_001_01.md` | 1 | 9 | `96e4a4239d17add0861a8bf4e8ea5dc76c91f6703dcbf2091396802a09b9800b` |
+| `PJSK:area:areatalk_wl_shuffle_03_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_03_002_01.md` | 1 | 4 | `78a57aa05ff7b859d2af4d4810697ff6cd3bad0215edb81b48cdf8ea9044c2d7` |
+| `PJSK:area:areatalk_wl_shuffle_03_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_03_003_01.md` | 1 | 9 | `028f5887e17d8075e23de462cf471de88cba212373882a1442fc41cdc3b67561` |
+| `PJSK:area:areatalk_wl_shuffle_03_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_03_004_01.md` | 1 | 9 | `a33e7fcef20807a2a094c44bb78dc5b4ed53c32c4e65269cc0df3dd42f47add0` |
+
+### EVENT_0207 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Mafuyu | PRIMARY / VERY HIGH scoped I3: MF-E0200-01→MF-E0207-01, retaining self-risk and prior E0189/E0165; no universal disclosure or cure. |
+| N25 / other humans | Kanade/Ena and remaining group context reported/incidental I1, direct I0; no new private receipt. |
+| MMJ / Shizuku | CO_PRIMARY / VERY HIGH relationship I3, REL-CROSS-MAFUYU-SHIZUKU-E0156→E0207; human E0183/E0111/E0156 very strong I2. |
+| MMJ / other humans | Minori/Haruka reported I1; Airi individual I0. |
+| Leo/need | Honami very strong I2 E0121/E0158 plus scoped shared relation/EPI I3; Shiho family I2, Ichika reported I1, Saki individual I0. |
+| VBS | Kohane very strong I2 KH-E0135 plus shared relation/EPI I3; remaining team/founding context I1, direct I0; no DG disclosure. |
+| WxS | Named Tsukasa/group-existence report I1; Emu/Nene/Rui individual I0. |
+| Four humans / Interstice Luka | HIGH I3 REL-CROSS-NEW-LIGHT-E0207: specific co-help, returned thanks and received ordinary conversation. |
+| Four humans / unnamed creator | HIGH bounded I3 REL-CROSS-VIDEO-CREATOR-E0207: accepted restricted shoot, repeated aid, own decisions and later report; no direct creator–Luka contact. |
+| Four local Lukas / other singers | HIGH differentiated local I2 and scoped cross-contact evidence; distinct knowledge, methods and jokes, no Wonderland Luka. |
+| Shared-world knowledge | HIGH scoped I3 EPI-PJSK-SEKAI-E0207; particular memory viewing, observed fragment change/ascent and attributed birth; unrestricted access unproved. |
+| Old club / LENS | Actual hostility and reported later reposts; admired creator/future judge, no confirmed apology, reunion, mentorship or prize. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0207_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The reading separates four local Lukas from Interstice Luka, observed fragments from attributed mechanisms, the creator’s reports from achieved competition outcomes and Mafuyu’s selective honesty from full private-history disclosure. All ten card halves/four areas retain ordinary behavior and specific chronology. Historical readings, prior closure and the 20 R3 packages through EVENT_0140 remain intact. Film/video/performance channels stay uninspected. EVENT_0208 is next; 6 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0208 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **24 stories / 40 scenes / 1,728 records / 217,092 canonical bytes**: eight core chapters, ten card halves (1410–1414), two monthly areas and four event areas. Membership, canonical/pinned-raw hashes, normalized content, ordered identities and chronology reconcile. Core, 1413–1414 and event areas use `2026-06-20T06:00:00Z`; 1410–1412 use `03:00:00Z`; monthly rows retain anomalous `2023-09-29T15:00:00Z` metadata. Preparation, month-long transition, two-week run, midrun coaching and later follow-through remain distinct. Performances, music and linked CG were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0208:01` | `02_CANONICAL_STORIES/EVENT/0208_01.md` | 2 | 127 | `9f924cc50b1b80628c6b088f9041fe4781e953d528ec599833ae4656458836a9` |
+| `PJSK:event:0208:02` | `02_CANONICAL_STORIES/EVENT/0208_02.md` | 4 | 183 | `ddc70c83faf0c0c6ae0cdebd81801e26df5405423e6f69c2af73936232eaf935` |
+| `PJSK:event:0208:03` | `02_CANONICAL_STORIES/EVENT/0208_03.md` | 3 | 113 | `536e5082d945b8988b5594514501e0f74a2262eeb5115e00fd87634618653dae` |
+| `PJSK:event:0208:04` | `02_CANONICAL_STORIES/EVENT/0208_04.md` | 2 | 121 | `793fcdbc435185e736a2168c3ce29d192242ce488508cecf2dce9a3fd850a39f` |
+| `PJSK:event:0208:05` | `02_CANONICAL_STORIES/EVENT/0208_05.md` | 1 | 116 | `c0ed6117ce63f25183233f7bba8ae6d76551766ec56bc0218942b0a0c5a62620` |
+| `PJSK:event:0208:06` | `02_CANONICAL_STORIES/EVENT/0208_06.md` | 3 | 148 | `ad10cb74370850d4406cf9003d6d652a4c8ad7a67bc35c6bacaac5f8f10c4df5` |
+| `PJSK:event:0208:07` | `02_CANONICAL_STORIES/EVENT/0208_07.md` | 2 | 93 | `2d8d81decd5d104153b52a55415b339591d5187d3ddc84f8e138f32407f66ed7` |
+| `PJSK:event:0208:08` | `02_CANONICAL_STORIES/EVENT/0208_08.md` | 1 | 149 | `1d3e8ca07d4baee958891981ea9b0ce3e41a4aabd742bf57e474b780da3125b4` |
+| `PJSK:card:1410:01` | `02_CANONICAL_STORIES/CARD/1410_01.md` | 2 | 62 | `4343ac8d066306543f617e353bdd8cb379a7117b7bd149023b06eda26c7adf7a` |
+| `PJSK:card:1410:02` | `02_CANONICAL_STORIES/CARD/1410_02.md` | 2 | 66 | `c46b77baf8a627dbf35145deaf70093119f939d25ae818dbc70380f930e44b4b` |
+| `PJSK:card:1411:01` | `02_CANONICAL_STORIES/CARD/1411_01.md` | 3 | 64 | `7edb21932db4439cb2a8b72ef39bb0e8646fabbf18b54afa890330f5005c7515` |
+| `PJSK:card:1411:02` | `02_CANONICAL_STORIES/CARD/1411_02.md` | 1 | 65 | `5d8114f550b72c3c947ba328eba1c6ed9021f6d80371c9e2eccc6443b5be8bcd` |
+| `PJSK:card:1412:01` | `02_CANONICAL_STORIES/CARD/1412_01.md` | 1 | 59 | `ef9ad5f4f42e4db53320e24e6fd755ded5944fb468fc8818cb1d8dde0e48a0a0` |
+| `PJSK:card:1412:02` | `02_CANONICAL_STORIES/CARD/1412_02.md` | 1 | 66 | `4c4c1216d7cc72a9552296d9111d123f6a0ac7bbb1364a80ee49be36068e511c` |
+| `PJSK:card:1413:01` | `02_CANONICAL_STORIES/CARD/1413_01.md` | 1 | 60 | `2351f16bf979e4a7e72d9aa87690bd9676619c5045b8927c8ea800a3fdc00b72` |
+| `PJSK:card:1413:02` | `02_CANONICAL_STORIES/CARD/1413_02.md` | 1 | 76 | `8bf6b2652d492a8327e186cda3e690fc9b66a989f5bcfae6b7d32aaddfffa8e1` |
+| `PJSK:card:1414:01` | `02_CANONICAL_STORIES/CARD/1414_01.md` | 2 | 59 | `aad82b0aa5dd69beb24da5bb8b2eea4f0a87fc5c48b0f3e7d93c29d3589ae0cd` |
+| `PJSK:card:1414:02` | `02_CANONICAL_STORIES/CARD/1414_02.md` | 2 | 53 | `87d8ac15b5ec840f2f337e52dce95d3980694f5912d825653ba7d8505d4d60b7` |
+| `PJSK:area:areatalk_monthly2607_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2607_003_01.md` | 1 | 8 | `e99d2416a6f04f1bb87ca7f8a557129ac1dd9a878898e010a08a8483eaab640c` |
+| `PJSK:area:areatalk_monthly2607_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_monthly2607_004_01.md` | 1 | 8 | `fac990f42fb89d75037c60c89e8bb13d3130145ba46c3c0b2195bae13220e268` |
+| `PJSK:area:areatalk_ev_wonder_26_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_001_01.md` | 1 | 9 | `b8be730a356475c72c0261cd802396cba81a13967bc2c3c9855f5a46499fbc06` |
+| `PJSK:area:areatalk_ev_wonder_26_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_002_01.md` | 1 | 8 | `b62c043cf0b8a6e13f542ddee2749e26a8f8bfd144f0bd550472a3d856790ac9` |
+| `PJSK:area:areatalk_ev_wonder_26_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_003_01.md` | 1 | 8 | `53fe3dadf4f1e7ac5855b50af935337fb7c5f0f371a7d63bae3e96eeb74cd3e4` |
+| `PJSK:area:areatalk_ev_wonder_26_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_004_01.md` | 1 | 7 | `014e0ed2f8eec2820c21f974fdc074ae7f866f348ef6d7f81a123f055d8e3e42` |
+
+### EVENT_0208 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Tsukasa | PRIMARY / VERY HIGH I3, WXS-EP-TSUKASA-E0178→E0208; costly autobiographical method, received intervention and actual repair, with recurrence risk retained. |
+| WxS quartet | HIGH I3, REL-WXS-G-E0178→E0208; completed first cohosted production and explicit agreement to bring Tsukasa back from excessive immersion. |
+| Rui / Nene / Emu | VERY HIGH I2 under E0200 / E0185 / E0164 with independent scopes retained; concern, promotion, artistic reception and unresolved safeguards. |
+| Tsukasa personal knowledge | Scoped I3 EPI-WXS-TSUKASA-MEMORY-E0208; recovered resentment belongs to him, not automatically to family/troupe. |
+| Sakaki / theatre | Bounded HIGH I2 professional route; targeted coaching after prior acquaintance, recommendation and reported withdrawal; no new employment or disclosed future plan. |
+| Wonderland Len / other local singers | HIGH differentiated I2; alert, credited help, return coaching, local counsel and separate creative projects. |
+| Leo/need | CROSS_UNIT HIGH I2 through Saki’s actual care and received apology; Honami recalled I1; Ichika/Shiho individual and band I0. Private Saki E0188 remains unresolved. |
+| Family / park / old spectators / professional contacts | Specific care, permitted publicity, actual returning spectators and reported reception; no universal neglect, sales causation, profitability or Asahi explanation. |
+| MMJ | NONE / I0. |
+| VBS | NONE / I0. |
+| N25 | NONE / I0. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0208_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The transaction separates remembered childhood feeling from parental intent, current role-work images from actual Saki biography, nested theatrical violence from human actions, public reception from AV inspection, and future safeguards from achieved protection. All cards/areas retain ordinary preferences and action status. Historical readings, prior closure and EVENT_0140 reconstruction packages remain intact. EVENT_0209 is next; 5 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0209 — forward discovery and integrated routing
+
+The complete frozen envelope is **26 stories / 54 scenes / 1,776 records / 235,098 canonical bytes**: eight core chapters, fourteen card halves (1415–1421) and four event areas. Toya 1415 and Nene 1416 are verified members despite filenames without the featured-event suffix. All canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core, cards 1420–1421 and areas publish at `2026-06-30T06:00:00Z`; cards 1415–1419 at `03:00:00Z`. Publication association does not place Toya’s temporary Japan return or Nene’s post-E0208 encounter inside Minori’s filmed week. AV remains uninspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0209:01` | `02_CANONICAL_STORIES/EVENT/0209_01.md` | 3 | 61 | `ff546b0c156907c8bbb7c529b61999759bc2f433a6d5f10c2090fb45521d709a` |
+| `PJSK:event:0209:02` | `02_CANONICAL_STORIES/EVENT/0209_02.md` | 2 | 80 | `48217e274b94d064fff7b94c6d5c72c67faa551951e721280e7659055bfcb73a` |
+| `PJSK:event:0209:03` | `02_CANONICAL_STORIES/EVENT/0209_03.md` | 3 | 76 | `8485234fa1c341bd93c677612f00c473f6b7a80043e5c7675f946c8ffaf13cd4` |
+| `PJSK:event:0209:04` | `02_CANONICAL_STORIES/EVENT/0209_04.md` | 3 | 74 | `13254fe9e074eaeae5c35caa1cc77d477bf5fdde92467a52e1adda91839413e2` |
+| `PJSK:event:0209:05` | `02_CANONICAL_STORIES/EVENT/0209_05.md` | 2 | 68 | `f7659243baa38649b0cde89f6a650debbb53a1a7ea1ef95347d46fae2d39397f` |
+| `PJSK:event:0209:06` | `02_CANONICAL_STORIES/EVENT/0209_06.md` | 3 | 70 | `8939090888235bb1e00ed62ade5f4796a2b04717ae364e688af858de5f3c10a6` |
+| `PJSK:event:0209:07` | `02_CANONICAL_STORIES/EVENT/0209_07.md` | 2 | 111 | `aa44d9696821d8b7213e9d7118337aafbb5e456e7bc66a46eb5eb0a8d9e2f3c6` |
+| `PJSK:event:0209:08` | `02_CANONICAL_STORIES/EVENT/0209_08.md` | 2 | 70 | `074989faae204672fb22de904b8e35d6752cc81b1ef19ab927012e44826f3ecc` |
+| `PJSK:card:1415:01` | `02_CANONICAL_STORIES/CARD/1415_01.md` | 5 | 125 | `be63d594bdb2615f75aef29c64e75dba014779441aaf16ee9747e4c2cfbe5313` |
+| `PJSK:card:1415:02` | `02_CANONICAL_STORIES/CARD/1415_02.md` | 3 | 149 | `effd0b995b8463ba90b575d89c31b618ef7be70e594ef4bd9868f0ea853287ae` |
+| `PJSK:card:1416:01` | `02_CANONICAL_STORIES/CARD/1416_01.md` | 2 | 100 | `cb0e57a51cc73c21b75c580e6ec4617af809303c6dc069f44d6cf8bf3f2ae97e` |
+| `PJSK:card:1416:02` | `02_CANONICAL_STORIES/CARD/1416_02.md` | 2 | 115 | `cdb697d4d0a8b2fa99b1397d8fa288a2bf156d06badaf0a41ae583cf3c72d382` |
+| `PJSK:card:1417:01` | `02_CANONICAL_STORIES/CARD/1417_01.md` | 1 | 57 | `a6c164ac9c22cb4dd8833c4aa898f336cccb1a1ac29e845d9708f0c4c717f66d` |
+| `PJSK:card:1417:02` | `02_CANONICAL_STORIES/CARD/1417_02.md` | 2 | 63 | `0828ce95436f58441c2e3b9cd8e85c847160077a7f6325375ef7744dd5e4ab3b` |
+| `PJSK:card:1418:01` | `02_CANONICAL_STORIES/CARD/1418_01.md` | 2 | 52 | `686d3f6071ff3e04c675309d6d909a9b459f85a5b0858559f8b44d50b104170f` |
+| `PJSK:card:1418:02` | `02_CANONICAL_STORIES/CARD/1418_02.md` | 2 | 77 | `a01ce0e91a69d8859ead0ffd2a261a177f9f44660c97e972649024e72320a185` |
+| `PJSK:card:1419:01` | `02_CANONICAL_STORIES/CARD/1419_01.md` | 1 | 56 | `70ac348512687561544c69cf08384b624ff53823be2f32b2b2e8622ded1aa901` |
+| `PJSK:card:1419:02` | `02_CANONICAL_STORIES/CARD/1419_02.md` | 1 | 87 | `4e07b0b36c1dc287812965b76bb426c6b297a0e9397f3f6b89ce86162cf600e8` |
+| `PJSK:card:1420:01` | `02_CANONICAL_STORIES/CARD/1420_01.md` | 2 | 60 | `41b5d42d5027c443982b26ac1cbce2a01d4f8bf02f47f2a870092f9ef836e028` |
+| `PJSK:card:1420:02` | `02_CANONICAL_STORIES/CARD/1420_02.md` | 2 | 69 | `24c31490d074fbf5e4b5e8450786d8bcaf1ec471c5d7459fcf851c3ccf13391b` |
+| `PJSK:card:1421:01` | `02_CANONICAL_STORIES/CARD/1421_01.md` | 3 | 61 | `6994cb95e75aab17fe12ba2385eebc04d3ab00bc96f81979e1e99f0ea37cad4b` |
+| `PJSK:card:1421:02` | `02_CANONICAL_STORIES/CARD/1421_02.md` | 2 | 59 | `1b5e0b0dc586fd7e8e06802f9909446e1fbcadfb087bcce517b91617502297ac` |
+| `PJSK:area:areatalk_ev_idol_26_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_26_001_01.md` | 1 | 13 | `818ac20bc470d73fdd6e92790f2d2cfc09b74bb765a61d3902633390c497af9c` |
+| `PJSK:area:areatalk_ev_idol_26_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_26_002_01.md` | 1 | 7 | `bc05b4c743b5b16a31aa5d11a0bef902a65af26771a42a3f539ffe3670bd4f46` |
+| `PJSK:area:areatalk_ev_idol_26_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_26_003_01.md` | 1 | 8 | `6b79e4c56bc88477cf6c0752017b08917279250c376098933472658ec55f36f0` |
+| `PJSK:area:areatalk_ev_idol_26_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_26_004_01.md` | 1 | 8 | `add48c68f852be3107f6fcd09865ed8db0f8b73b4ba4cfc7c78f6f1c18997515` |
+
+### EVENT_0209 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Minori | PRIMARY / VERY HIGH I2, MMJ-EP-MN-E0122 with inherited E0017 and independent E0098; received recognition, task-aware civic conduct and actual photograph display. |
+| Haruka / Airi / Shizuku | HIGH differentiated I2 under current E0190 / E0198 / E0183 and independent scopes; advice, study, care, production and ordinary preferences. MMJ group E0176 retained. |
+| VBS / Toya | CROSS_UNIT / VERY HIGH I2, VBS-EP-TY-E0154 retaining E0139/E0125/E0012; arcade refuge, present pleasure and deliberate retention of unresolved history. Akito/father recalled I1; other humans I0; group E0193 retained. |
+| WxS / Nene | CROSS_UNIT / scoped I3 WXS-EP-NENE-E0209, independent self-continuity beside E0185 craft and E0144 leadership. Tsukasa report/recollection and Rui memory I1; Emu I0; group E0208 retained. |
+| Leo/need | CROSS_UNIT / I2 Shiho’s consent and received reliance under REL-CROSS-LN-MMJ-SCHOOL-E0001; other three humans and band I0. |
+| N25 | NONE / I0. |
+| Thought fragments | HIGH I2 under EPI-PJSK-THOUGHT-SHARD-E0153 and CR-PJSK-SEKAI-042; separate owner-specific cases and bounded knowledge, no duplicate universal owner. |
+| Stage / Street / Wonderland singers | Differentiated local I2; preparation, accompaniment, fallibility and particular receipts; no incarnation merging. |
+| Director / staff / civic recipients / Cheerful＊Days | Bounded evidence and source-required anonymity; final opponent withheld and not yet received by MMJ. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0209_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. Keep particular reception distinct from national fame, documentary framing from universal facts, remembered paternal words from a new reconciliation, field embodiment from ordinary physical age, and attributed fragment mechanisms from universal guarantees. Historical bodies, prior IDs, EVENT_0170 closure and the EVENT_0140 reconstruction baseline are preserved. EVENT_0210 is next; 4 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0210 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 35 scenes / 1,329 records / 154,326 canonical bytes**: eight core chapters, ten card halves (1422–1426) and four event areas. Canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core, cards 1425–1426 and areas publish at `2026-07-09T06:00:00Z`; cards 1422–1424 at `03:00:00Z`. Preparatory, intra-trip, next-day and later ordinary scenes remain distinct; drawings, linked CG, VR, fireworks, voice and music were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0210:01` | `02_CANONICAL_STORIES/EVENT/0210_01.md` | 2 | 93 | `a8aae652ed962b4a9e52ae157be5a428e5c62ae1de201c943866cfdb8591f333` |
+| `PJSK:event:0210:02` | `02_CANONICAL_STORIES/EVENT/0210_02.md` | 2 | 113 | `7951f5f0ab38a8f1d34d82a78797b1a5374b30e6038ed54a24ba2ef3dd52e8d1` |
+| `PJSK:event:0210:03` | `02_CANONICAL_STORIES/EVENT/0210_03.md` | 1 | 117 | `328cdf518821fba91c0631e78a56dad21a87ebfb92d5bdcd6ce819c54272dce8` |
+| `PJSK:event:0210:04` | `02_CANONICAL_STORIES/EVENT/0210_04.md` | 2 | 83 | `f461dca7f7de1de00e2a13dc30478e1634a7f1a33a3dad00956919470b60d7aa` |
+| `PJSK:event:0210:05` | `02_CANONICAL_STORIES/EVENT/0210_05.md` | 3 | 63 | `bd3364c023c17c5a257215aa1667eea80be8277923565dd16b9b0fcbe2702e81` |
+| `PJSK:event:0210:06` | `02_CANONICAL_STORIES/EVENT/0210_06.md` | 2 | 134 | `b41f74e1a78338aa2f520fbd98d4cd0653aa90e3c2ec2d0dc8a7f9a4caf42afc` |
+| `PJSK:event:0210:07` | `02_CANONICAL_STORIES/EVENT/0210_07.md` | 3 | 101 | `73bee3fcebe1455c781109256eeb0129491eb4939f9036f60cc1dfd4ce63b867` |
+| `PJSK:event:0210:08` | `02_CANONICAL_STORIES/EVENT/0210_08.md` | 1 | 60 | `029d4db7a26c353b097ac13e99dae08a0f24dcb002d1bfe9dbec010b0f9002d9` |
+| `PJSK:card:1422:01` | `02_CANONICAL_STORIES/CARD/1422_01.md` | 2 | 62 | `8cb08be08113af60cfc373a7f0d316e48340c751866c60294d4c26bd987bcb9f` |
+| `PJSK:card:1422:02` | `02_CANONICAL_STORIES/CARD/1422_02.md` | 1 | 47 | `033f7f3b76d897cc24a25f5f29fcb59db08696c992997300e815bdba7cca53da` |
+| `PJSK:card:1423:01` | `02_CANONICAL_STORIES/CARD/1423_01.md` | 3 | 50 | `fc6773e184d168807cbf3469f880f4b9847efcaee7b3eeaf4d943aa26fe629bc` |
+| `PJSK:card:1423:02` | `02_CANONICAL_STORIES/CARD/1423_02.md` | 1 | 54 | `8f13df71d2e788075cff9a50d7fedb0e68d662ece8e1b7b44623f8ae55204bec` |
+| `PJSK:card:1424:01` | `02_CANONICAL_STORIES/CARD/1424_01.md` | 2 | 59 | `4aa09508ee94e607c00f4f592dc9fc459e78126cf293ccf8440808ee891112f1` |
+| `PJSK:card:1424:02` | `02_CANONICAL_STORIES/CARD/1424_02.md` | 2 | 54 | `58f8910e7a9b76577aba6de29e97cde78cddab9911f9c488cc4cb61a0ffb0874` |
+| `PJSK:card:1425:01` | `02_CANONICAL_STORIES/CARD/1425_01.md` | 1 | 57 | `0fa6530268682f9c21a94f0ceca158fbe012488a19da7c04f47dfa342623fafc` |
+| `PJSK:card:1425:02` | `02_CANONICAL_STORIES/CARD/1425_02.md` | 1 | 55 | `a4616c7019bad2cc63c4f05a2edc265e9d15fb7cecb405a01e528babd97a77b6` |
+| `PJSK:card:1426:01` | `02_CANONICAL_STORIES/CARD/1426_01.md` | 1 | 51 | `1c4d3ff21f7612bd6b058cd4479c69f683f100e966a4d382697770c213098d86` |
+| `PJSK:card:1426:02` | `02_CANONICAL_STORIES/CARD/1426_02.md` | 1 | 45 | `84b7119ce381fd0c737a81b8506cf2fb2c034b3abb8d0a9dc553a8d8faa273df` |
+| `PJSK:area:areatalk_ev_night_26_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_26_001_01.md` | 1 | 8 | `0aa5634f379d6ae381d789f891c167294d89bca971886065a9ebd22da0e218cf` |
+| `PJSK:area:areatalk_ev_night_26_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_26_002_01.md` | 1 | 9 | `67cdea524ed1939c87bf1fed9b650d0908d2bfd15cfd84b86a7755d1a29c3e50` |
+| `PJSK:area:areatalk_ev_night_26_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_26_003_01.md` | 1 | 6 | `1d9e5b7816b87e6849dba7c808499a5441dd5531f2d72d993f5e9c48479a5180` |
+| `PJSK:area:areatalk_ev_night_26_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_night_26_004_01.md` | 1 | 8 | `2ce1be12c67f3a799f3f4b75ca96f47ebf2d283facb68927e8566cb13eccb649` |
+
+### EVENT_0210 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| N25 / Ena | PRIMARY / VERY HIGH I2 under E-E0184-01 with E0127/E0070; actual present-focused sketching, received appreciation, poor appraisal retained and practical limits. |
+| Kanade / Mafuyu / Mizuki | HIGH to VERY HIGH I2 under K-E0192-01 / MF-E0207-01 / MZ-E0199-01; family-memory sharing, accepted help, chosen pleasure and realized company without resolution. |
+| N25 group / founded dyads | VERY HIGH differentiated I2 under REL-N25-G-E0170 and existing pair owners; actual leisure and reciprocal care, no first belonging or future breakup. |
+| Empty singers | HIGH local I2; MEIKO’s selective participation and accepted gifts under E0150, retaining E0019 history, differentiated Miku/Rin/Len/Luka involvement. KAITO not shown attending the outing. |
+| Leo/need | INDIRECT / I1 Honami’s reported prepared food and purchased ice cream; other humans/band I0. |
+| VBS | INDIRECT / I1 Akito in Ena’s childhood sandcastle memory and present portion remark; other humans/group I0. |
+| MMJ | NONE / I0. |
+| WxS | NONE / I0. |
+| Family / game / staff | Ena’s mother’s actual specific care, Kanade’s remembered parents and nested fictional game figures remain distinct. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0210_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. Keep current leisure distinct from changed circumstances, technical assessment from expressive receipt, planned walks/trips/bottles from completed acts, remembered family from present recovery, and local singer knowledge from universal access. All historical bodies and EVENT_0170 closure remain intact; all 20 reconstruction packages stay R3 through EVENT_0140. EVENT_0211 is next; 3 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0211 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **21 stories / 45 scenes / 1,865 records / 228,945 canonical bytes**: seven World Link core chapters, ten card halves (1428–1432) and four World Link areas. Canonical/pinned-raw hashes, normalized text, ordered identities, membership and chronology reconcile. Core/areas publish at `2026-07-19T11:00:00Z`, cards at `03:00:00Z`. The opening overlaps other cohorts; inquiry, failed conversation, a production week and later receipt remain successive. CG, show, singing and `link3_team04_ed` were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0211:01` | `02_CANONICAL_STORIES/EVENT/0211_01.md` | 3 | 156 | `110835f65fa611b34eff7a325ccb41e335e8a0ac8fcb99997964c45193bf73e9` |
+| `PJSK:event:0211:02` | `02_CANONICAL_STORIES/EVENT/0211_02.md` | 5 | 223 | `12642279152291605b05e87469a20b6987fc55bfde2e8195a162a969ffbd3178` |
+| `PJSK:event:0211:03` | `02_CANONICAL_STORIES/EVENT/0211_03.md` | 7 | 181 | `22d8c962242dc2246cafebebe0d35c261a279ccac9821a89b8ed862d079d66dc` |
+| `PJSK:event:0211:04` | `02_CANONICAL_STORIES/EVENT/0211_04.md` | 3 | 201 | `f2459a00815a02c3ed670f959164633e93eccf2a249af1c6f850928e728e23c4` |
+| `PJSK:event:0211:05` | `02_CANONICAL_STORIES/EVENT/0211_05.md` | 4 | 225 | `d835ed28dfec630e6a43ab91b39fd66343d6a4a6442848d640fe9f9f2f1d3ab3` |
+| `PJSK:event:0211:06` | `02_CANONICAL_STORIES/EVENT/0211_06.md` | 1 | 83 | `4c3a0017cb71443b854a23585f3beaf2ba369abaaed4bbffa6a644659ead0b32` |
+| `PJSK:event:0211:07` | `02_CANONICAL_STORIES/EVENT/0211_07.md` | 3 | 138 | `b81d72e5f8eaf60b9283646ade5926f7981a99a50262d61269cdf417e5845def` |
+| `PJSK:card:1428:01` | `02_CANONICAL_STORIES/CARD/1428_01.md` | 1 | 77 | `9617e8d853c68302f75be3d168459bd90e95328f64f2b04d29f2fb96676ac2a6` |
+| `PJSK:card:1428:02` | `02_CANONICAL_STORIES/CARD/1428_02.md` | 1 | 61 | `443593293357449ac07c8d7edbcc12c3604ee5f6c684174b44830ee8aef96191` |
+| `PJSK:card:1429:01` | `02_CANONICAL_STORIES/CARD/1429_01.md` | 1 | 66 | `64f3019ae14b0bb563aeb000baed28aa5a949d7015ce57434ca91aa798e559ac` |
+| `PJSK:card:1429:02` | `02_CANONICAL_STORIES/CARD/1429_02.md` | 2 | 59 | `131998d34a28e5de87f71a65cabf82bc811640579923a67a92b9a01d5190761c` |
+| `PJSK:card:1430:01` | `02_CANONICAL_STORIES/CARD/1430_01.md` | 2 | 63 | `ff4011069414494e643589fc77fa73eb65b7d475a9ecf980c2de9aa9dd3c6a09` |
+| `PJSK:card:1430:02` | `02_CANONICAL_STORIES/CARD/1430_02.md` | 3 | 80 | `91fb5feb63d25ea6de59b782e1fc5b442f817d557d7c05d1820e54910a699b15` |
+| `PJSK:card:1431:01` | `02_CANONICAL_STORIES/CARD/1431_01.md` | 1 | 46 | `7217148aeb886ac514d1703b02fff842bddcebe0f048ab722892c62351abc136` |
+| `PJSK:card:1431:02` | `02_CANONICAL_STORIES/CARD/1431_02.md` | 1 | 50 | `1c0f3de383da674882bf1a7a5c64bc9b5fa5f1477ae2db59bc92f7e751986851` |
+| `PJSK:card:1432:01` | `02_CANONICAL_STORIES/CARD/1432_01.md` | 2 | 58 | `ee6f5f671af5397815368eb6789e5d5eab337a0a835083e8b56ec3f4d0c943db` |
+| `PJSK:card:1432:02` | `02_CANONICAL_STORIES/CARD/1432_02.md` | 1 | 62 | `92b42ffa09a9913c30545882952bc45b24fc9946bfb037049ba1cf599a6d2767` |
+| `PJSK:area:areatalk_wl_shuffle_04_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_04_001_01.md` | 1 | 11 | `3ea8bc9442ad2ac2592b8c471b8ffc509d8646a6bcc2ee7c4eb3699a1e1e94e4` |
+| `PJSK:area:areatalk_wl_shuffle_04_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_04_002_01.md` | 1 | 10 | `86904c87836daaa32c716a43459cebdc156bfa51464620ca8225480080d3e3fb` |
+| `PJSK:area:areatalk_wl_shuffle_04_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_04_003_01.md` | 1 | 11 | `2076a66d94a4a4219df7286abf001d10dd3fae811bf2d29bdbe77fabab13f202` |
+| `PJSK:area:areatalk_wl_shuffle_04_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_04_004_01.md` | 1 | 4 | `18418c68cc9bd0d8e80a317afe3537dbcdc7b74a85a4ce7561070389ef12bb79` |
+
+### EVENT_0211 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Saki | CO_PRIMARY / VERY HIGH I2; E0188 and separate E0155/E0147/E0027 scopes retained, with cohort and knowledge I3. Other humans recalled/proposed I1; group E0171 unchanged. |
+| VBS / Toya | CO_PRIMARY / VERY HIGH I2; E0154 with inherited E0139/E0125/E0012 retained. Akito/An/Kohane actual bounded care/reaction I2; group E0193 unchanged. |
+| WxS / Rui | CO_PRIMARY / VERY HIGH I2 under E0200 and independent E0144; newly received middle-school biography, actual collaborative direction and fallible inference. Tsukasa actual sibling exchange I2; Emu reported attempt I1; NeneRobo is not human Nene. Group E0208 and Nene E0209 retained. |
+| N25 / Mizuki | CO_PRIMARY / VERY HIGH I2 under E0199/E0150/E0117; volunteered role, authorized personal improvisation, private Rui disclosure and two reported school mornings. Other N25 humans referenced I1; group E0170 unchanged. |
+| MMJ | REFERENCE_ONLY / I1 Minori as proposed future invitee; other humans/group I0, no Stage KAITO participation. |
+| Four-person cohort | Scoped I3 REL-CROSS-TOMORROW-E0211; completed inquiry, challenge, co-created song/show, received result and actual ordinary follow-through. |
+| Moriya / Majima | Scoped I3 REL-EXTERNAL-MORIYA-MAJIMA-E0211; reciprocal friendship choice, further discussion and shared university goal, no admission. |
+| Shared-world knowledge | Scoped I3 EPI-PJSK-SEKAI-E0207→E0211; colliding/mending/joining fragments, attributed birth, failed communication tests and brief five-KAITO contact. |
+| Selective autobiography | Scoped I3 EPI-CROSS-PAST-SHARING-E0211; separate Saki, Toya, Rui and Mizuki disclosure audiences; no universal biography transfer. |
+| Local singers / family / Kimura | Distinct bounded roles, testimony, permission, assistance and received descriptions; no pooled singer mind or new permanent mentor. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0211_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. The recipients retain decision ownership; scholarship rumor is corrected by direct motives, school visitor permission is actual, Toya’s wounds and prior prank harm remain, nested roles do not disclose guarded identity, and shared-world access stays unreliable. Historical bodies and EVENT_0170 closure are preserved; reconstructions remain R3 through EVENT_0140. EVENT_0212 is next; 2 source-present events remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0212 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 38 scenes / 1,288 records / 163,580 canonical bytes**: eight core chapters, ten card halves (1434–1438) and four linked areas. Canonical/pinned-raw hashes, normalized content, ordered identities, membership and chronology reconcile. Core/1437–1438/areas publish at `2026-07-31T06:00:00Z`, 1434–1436 at `03:00:00Z`; arrangement, composition, the two-week progress check and later live retain their story intervals. CG, music, rehearsal and concert AV were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0212:01` | `02_CANONICAL_STORIES/EVENT/0212_01.md` | 1 | 85 | `28255782fb5c5bb6c57c8e0498d532a64e3c72b8d5a61931a669337f584a48a7` |
+| `PJSK:event:0212:02` | `02_CANONICAL_STORIES/EVENT/0212_02.md` | 3 | 126 | `89434c1efec050e5348189fb90bc8dc360fca202a7efe91c7c892817f02ff2ee` |
+| `PJSK:event:0212:03` | `02_CANONICAL_STORIES/EVENT/0212_03.md` | 2 | 108 | `091e761c03a8a43313f019577ad1a96eef3ccfb938b45130a9fe3c867d55b678` |
+| `PJSK:event:0212:04` | `02_CANONICAL_STORIES/EVENT/0212_04.md` | 4 | 109 | `19bfe657027dac67a9f7d9eb602e343c81c1a54840291a96375df0224b24d754` |
+| `PJSK:event:0212:05` | `02_CANONICAL_STORIES/EVENT/0212_05.md` | 2 | 70 | `31a206c5f3fef210b5a8aee77a4c8f07551b87f8f51cffade27b10941725a2e6` |
+| `PJSK:event:0212:06` | `02_CANONICAL_STORIES/EVENT/0212_06.md` | 3 | 80 | `8e138223000f941d6468f55c564b4dbb36e2af514c9b57effb3f3cf1b59e6c56` |
+| `PJSK:event:0212:07` | `02_CANONICAL_STORIES/EVENT/0212_07.md` | 2 | 94 | `f1b466a4f9006c7ff2d30ccfc2f44317541286a863a3480dff8d6ed147ac4ac6` |
+| `PJSK:event:0212:08` | `02_CANONICAL_STORIES/EVENT/0212_08.md` | 3 | 93 | `f6774e6104777c7425c0091a7a9d6ab8ef15c58ba2c54be722705a146554932d` |
+| `PJSK:card:1434:01` | `02_CANONICAL_STORIES/CARD/1434_01.md` | 1 | 41 | `b0b132a9f374e10ebe3fd02cb77b8f90b30f9c34a8ef07358c2618412400e27d` |
+| `PJSK:card:1434:02` | `02_CANONICAL_STORIES/CARD/1434_02.md` | 2 | 46 | `c18857dd12197171e8229085cd6bc69c9a99148c2513e5af4ec8587618160664` |
+| `PJSK:card:1435:01` | `02_CANONICAL_STORIES/CARD/1435_01.md` | 1 | 59 | `14c23cef0d0464f00c3d8e1fa24b37b665eabac927f861d8ec67476982f88799` |
+| `PJSK:card:1435:02` | `02_CANONICAL_STORIES/CARD/1435_02.md` | 1 | 45 | `ed92cda8c983b401e66dabc67b96c7dd731b59f513daaaa58a86a9bd29b81054` |
+| `PJSK:card:1436:01` | `02_CANONICAL_STORIES/CARD/1436_01.md` | 1 | 43 | `e5825f15d58b3940ac233a7c0ab30fd9920085bd2d4def64b47aeca66e6b0ece` |
+| `PJSK:card:1436:02` | `02_CANONICAL_STORIES/CARD/1436_02.md` | 1 | 61 | `1cfaa964ebb39ce14e020f296c0674370e378b4aa191a9c946eab1639ab4ffe6` |
+| `PJSK:card:1437:01` | `02_CANONICAL_STORIES/CARD/1437_01.md` | 1 | 44 | `f27e6800ef2217fb17d6e1dc9b0ee5a8185f1fe404d8c17f8f3c2ee9fadb71d6` |
+| `PJSK:card:1437:02` | `02_CANONICAL_STORIES/CARD/1437_02.md` | 2 | 45 | `fb630e07a23b686e4baefc9dc3d47836189b1f1d7729b5a1c8a57367bca0ae0c` |
+| `PJSK:card:1438:01` | `02_CANONICAL_STORIES/CARD/1438_01.md` | 3 | 49 | `8a44d011c54d6335b0a7baf2cf35486135d6517e8d17331393728972dca0570a` |
+| `PJSK:card:1438:02` | `02_CANONICAL_STORIES/CARD/1438_02.md` | 1 | 56 | `ec5ef6c3882a6cd7c17dd373596be6d88cab313c21f61d146ae192ff8b0f7280` |
+| `PJSK:area:areatalk_ev_band_26_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_26_001_01.md` | 1 | 10 | `4bf4a46cf857b6eebb229e4536fa6206cc3ed150cbf2a35b202dabea38e83211` |
+| `PJSK:area:areatalk_ev_band_26_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_26_002_01.md` | 1 | 7 | `3ac81e73f51c20305060693deee0163645beba495231766f442b5939a08bbe46` |
+| `PJSK:area:areatalk_ev_band_26_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_26_003_01.md` | 1 | 10 | `391f0622976c3d06fd94da15f384953680a5146509ab0ab631abbd0a2944686f` |
+| `PJSK:area:areatalk_ev_band_26_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_26_004_01.md` | 1 | 7 | `c361dcfda7a85d80d41200b1212152391cf4feb15f984a6c81a42279addb1949` |
+
+### EVENT_0212 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Ichika | PRIMARY / VERY HIGH I3 LN-EP-ICHIKA-E0182→E0212; corrected premise, differentiated obligations, enacted refusal, continuing personal creation and shared live. |
+| Leo/need / Saki, Honami, Shiho | PRIMARY / HIGH–VERY HIGH I2; retained separate scopes, support and concern, actual adaptive musicianship, ordinary preferences; no new group successor. |
+| MMJ | NONE / I0; no principal-human participation. |
+| VBS | NONE / I0; no principal-human participation. |
+| WxS | NONE / I0; no principal-human participation. |
+| N25 | NONE / I0; no principal-human participation. |
+| Band / Solis / School singers | Strong–very strong I2 under founded owners; distinct professional/personal advice, actual rehearsal and received support, canceled surprise and prospective celebration. |
+| Career knowledge | Scoped I3 LN-EPI-ICHIKA-CAREER-E0212; offer, corrected contract assumption, selected decision receipt and producer-only transfer prospect. |
+| External creators / bands / family | Actual bounded exchange, invitation and ordinary testimony; unnamed composer remains anonymous, WillowS and Rain distinct, Opus contract and corporate transfer not completed. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0212_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. Ichika’s choice is consequential but not certified permanently optimal; fatigue, continued desire, differentiated recipients and agency roles remain. Parent-company transfer is producer thought, not band receipt or a signed move. Historical bodies and EVENT_0170 closure are preserved; reconstruction remains R3 through EVENT_0140. EVENT_0213 is next; 1 source-present event remain. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0213 — forward discovery and integrated routing
+
+The complete fully read frozen envelope is **22 stories / 37 scenes / 1,155 records / 157,047 canonical bytes**: eight core chapters, ten card halves (1440–1444) and four linked areas. Canonical/pinned-raw hashes, normalized content, ordered identities, membership and chronology reconcile. Core/1443–1444/areas publish at `2026-08-09T06:00:00Z`, 1440–1442 at `03:00:00Z`; packing, announcement, planning days and the next-day decision remain ordered. The semifinal is still future. CG, broadcast, training and performance AV were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0213:01` | `02_CANONICAL_STORIES/EVENT/0213_01.md` | 2 | 82 | `1e3590a39bbf27a634e52f71a55060cea5bbcb80b8c508aab0d8050f3e77b91f` |
+| `PJSK:event:0213:02` | `02_CANONICAL_STORIES/EVENT/0213_02.md` | 1 | 75 | `d69ffdffd48913695c8359618952a70e96936225c3dd68c57875e871260834ee` |
+| `PJSK:event:0213:03` | `02_CANONICAL_STORIES/EVENT/0213_03.md` | 3 | 58 | `fb68eab27328f93c3714e0754f24a5791061157a9e2755537baedb7c52b89cde` |
+| `PJSK:event:0213:04` | `02_CANONICAL_STORIES/EVENT/0213_04.md` | 1 | 55 | `dcc48f7ba128304c0a1bf3352f17d267bf6deca2b0611d1607f5e93331c282e8` |
+| `PJSK:event:0213:05` | `02_CANONICAL_STORIES/EVENT/0213_05.md` | 4 | 106 | `bdec4e24b3c249ebc9bce0bc2e5450a3a1685ed367073b51fa8767ef159ffd72` |
+| `PJSK:event:0213:06` | `02_CANONICAL_STORIES/EVENT/0213_06.md` | 2 | 53 | `b803657803aca8a4af48560d860400e2c62ec77a804966c4210c07a1e33b6d45` |
+| `PJSK:event:0213:07` | `02_CANONICAL_STORIES/EVENT/0213_07.md` | 2 | 67 | `9aa2ca1db87d82e2b3a50a3d8097dfdf8cc0b16780df5fbccaf2aed98ec93eff` |
+| `PJSK:event:0213:08` | `02_CANONICAL_STORIES/EVENT/0213_08.md` | 1 | 106 | `1aa509d79b151b13ea6d92cc492f2388022da6904598617f4bb5a33d68a36ec5` |
+| `PJSK:card:1440:01` | `02_CANONICAL_STORIES/CARD/1440_01.md` | 2 | 49 | `1f45f6a2e5751b8991aa1b4a51e1a3247cc9664f0b8540aa7115f9f127fe28d9` |
+| `PJSK:card:1440:02` | `02_CANONICAL_STORIES/CARD/1440_02.md` | 2 | 54 | `4d4b7e5caa73147aaadf3dc32137cc7081beadcb9bb1aa72934c254696a3197e` |
+| `PJSK:card:1441:01` | `02_CANONICAL_STORIES/CARD/1441_01.md` | 3 | 62 | `f39b71e60c1cca7ea76788998f30d3f8d98cfb7066a7b0f91f2b50e4208369fa` |
+| `PJSK:card:1441:02` | `02_CANONICAL_STORIES/CARD/1441_02.md` | 1 | 47 | `94a5c9b452b9fa60ed5b396e6f795a332392cc1c2937e3bf82bdb6d9707bde75` |
+| `PJSK:card:1442:01` | `02_CANONICAL_STORIES/CARD/1442_01.md` | 3 | 52 | `22fdc03cdfb5ac0fa044d3a25e44523e8e2736c5c8032cc0d00f3ec1a9d899f4` |
+| `PJSK:card:1442:02` | `02_CANONICAL_STORIES/CARD/1442_02.md` | 1 | 46 | `e333a00c586bae14f51aab9f0199abbef7cead2b087ae39974b76ea946e7863f` |
+| `PJSK:card:1443:01` | `02_CANONICAL_STORIES/CARD/1443_01.md` | 1 | 53 | `2be8b2626e4c38e5b9635a5e35eaa3a77f6e566105d06a515bea5c116d772613` |
+| `PJSK:card:1443:02` | `02_CANONICAL_STORIES/CARD/1443_02.md` | 2 | 60 | `b606c44c7a9a658c17a6618ef32d118a517418638f487f622f4d38a83bfa087f` |
+| `PJSK:card:1444:01` | `02_CANONICAL_STORIES/CARD/1444_01.md` | 1 | 50 | `b8030a15fd714a204bfe69ef72a5fed36f309e9f9044e3010cdd787b5de2db33` |
+| `PJSK:card:1444:02` | `02_CANONICAL_STORIES/CARD/1444_02.md` | 1 | 48 | `20affc3004285001f25d480d1b3a8a21bdf21b8af6ab09c5be48dac546ca9e04` |
+| `PJSK:area:areatalk_ev_idol_27_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_27_001_01.md` | 1 | 8 | `ab40aa0f1d0dfd5aa8789b57e9bbb24bdad8a7218d6f57ef84d6777c441fc7a1` |
+| `PJSK:area:areatalk_ev_idol_27_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_27_002_01.md` | 1 | 7 | `b178639c20879395217c6373c7fa2c483454dc07852fd56f82e6d5a8892b6c87` |
+| `PJSK:area:areatalk_ev_idol_27_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_27_003_01.md` | 1 | 9 | `e672db43ec66348231216599225646f8a1809c1f3bec254dfcb60958c5113d0b` |
+| `PJSK:area:areatalk_ev_idol_27_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_idol_27_004_01.md` | 1 | 8 | `1f96c0d7d6b6d61aa53e1ad945d982056e97d5f3841ce541fc442ab08fe4a6ed` |
+
+### EVENT_0213 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| MMJ / Haruka | PRIMARY / VERY HIGH I3 MMJ-EP-HR-E0190→E0213; changed criterion, admitted uncertainty, received help, revised constraint and reasoned proposal with assent. |
+| MMJ / quartet | Scoped I3 MMJ-REL-GROUP-E0176→E0213; individually considered agreement on one changed stage allocation, not a performed result or membership change. |
+| MMJ / Minori, Airi, Shizuku | HIGH–VERY HIGH I2 under retained individual scopes; active consideration, practical craft, rivalry, support and ordinary-life costs. |
+| Leo/need | NONE / I0; no principal-human participation. |
+| VBS | NONE / I0; no principal-human participation. |
+| WxS | NONE / I0; no principal-human participation. |
+| N25 | NONE / I0; no principal-human participation. |
+| Haruka / Chiharu | Bounded HIGH I2 MMJ-REL-HARUKA-CHIHARU-E0213; reciprocal exercise, received biography and thanks, building on prior cooperation. |
+| Semifinal knowledge | Scoped I3 EPI-MMJ-SEMIFINAL-E0213; public format, explicit local receipt, private testimony and separately adopted proposal. |
+| Stage singers / rival groups / fans | Differentiated I2 and reference context; actual phone/monitor broadcast receipt, local advice, their own unfinished live plans and bounded public reaction. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0213_DEEP_READING.md) owns shared causes, complete source disposition, seven lenses, evidence locators and bounded reconstruction deltas. Actual group consent and Haruka’s accountable production choice are distinct from guaranteed victory or permanent hierarchy. Private biography, public rules and later strategy receipt stay separated; Chiharu’s historical name split is corrected by explicit erratum without rewriting EVENT_0174. Earlier bodies and EVENT_0170 closure remain; reconstruction stays R3 through EVENT_0140. No further event is authorized. The terminal EVENT_0141–0213 reconstruction-delta audit and synthesis/reconstruction handoff remain required. Reconstruction stays at EVENT_0140 and audiovisual inspection remains absent.
+
+## EVENT_0214 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **21 stories / 39 scenes / 1,698 records / 211,533 canonical bytes**: seven core chapters, ten card halves (1445–1449) and four World Link areas. Canonical/pinned-raw/structured integrity, ordered records, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core/areas release at `2026-08-17T11:00:00Z`, cards at `03:00:00Z`; invitations, rescue aftermath, assistance and celebration retain their depicted order. CG and `link3_team05_ed` were not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0214:01` | `02_CANONICAL_STORIES/EVENT/0214_01.md` | 4 | 140 | `1a9994e4ebe2c5f1999f000d87ab9e1cb9f55b09613acc14ad0ee5972f108fd7` |
+| `PJSK:event:0214:02` | `02_CANONICAL_STORIES/EVENT/0214_02.md` | 3 | 190 | `84bd562734bdd10fb4411041ee946d715e29eecdf45d20805d9ad8fc71c4de3f` |
+| `PJSK:event:0214:03` | `02_CANONICAL_STORIES/EVENT/0214_03.md` | 1 | 212 | `00864409f3559bf0671f6195bde6aef36a569aceaa224f1a327630bd050caf2d` |
+| `PJSK:event:0214:04` | `02_CANONICAL_STORIES/EVENT/0214_04.md` | 3 | 137 | `281fb2dbd97110953a10029bef73b8556a6d38769ff71f86eed7edff75f78927` |
+| `PJSK:event:0214:05` | `02_CANONICAL_STORIES/EVENT/0214_05.md` | 5 | 170 | `ff6d6f891f571628fef525b8ae830d3302d12548822ec5c62d1b5d9d7d372036` |
+| `PJSK:event:0214:06` | `02_CANONICAL_STORIES/EVENT/0214_06.md` | 3 | 127 | `62db972a5e6dbe1f443c064b2cbb26c8a81ff47291d9c21306f08688c648019a` |
+| `PJSK:event:0214:07` | `02_CANONICAL_STORIES/EVENT/0214_07.md` | 3 | 88 | `3ac67cbc52d60fffbe55dd2d41a06eeccdb3153a6a6d33ca2e45866deb577150` |
+| `PJSK:card:1445:01` | `02_CANONICAL_STORIES/CARD/1445_01.md` | 1 | 63 | `adb8170c0374adb6815a092f616ff0ccb643d0f6ce4efd606b26b2d812bd82c4` |
+| `PJSK:card:1445:02` | `02_CANONICAL_STORIES/CARD/1445_02.md` | 1 | 55 | `719ba90208845452dd4f6b5aa4efcd14301948627153a4d4243d7d57c0c087f5` |
+| `PJSK:card:1446:01` | `02_CANONICAL_STORIES/CARD/1446_01.md` | 1 | 57 | `5751db046f7dfbdfa672f65bbd85426e64b7bd4213ac1b424710e10be390b9f6` |
+| `PJSK:card:1446:02` | `02_CANONICAL_STORIES/CARD/1446_02.md` | 1 | 66 | `09e0e860270daee72ee85dad99991a9f513368b750dfda6d992005ae3f4fdf34` |
+| `PJSK:card:1447:01` | `02_CANONICAL_STORIES/CARD/1447_01.md` | 2 | 55 | `d92b0638a314c725aaa200523099170f1ee5417614d7dd239924bde7b0a406cb` |
+| `PJSK:card:1447:02` | `02_CANONICAL_STORIES/CARD/1447_02.md` | 1 | 90 | `9458f1216c9a084717633b9c78a8adbdf3ed253001a3dd82818c33a8d4fde848` |
+| `PJSK:card:1448:01` | `02_CANONICAL_STORIES/CARD/1448_01.md` | 1 | 63 | `d4007faac31c71e97909d4ba549ea43e0b501a0e3095411dd0c6e967b6076a7f` |
+| `PJSK:card:1448:02` | `02_CANONICAL_STORIES/CARD/1448_02.md` | 3 | 60 | `f39c435f8ab1236501de6dba9f329b7bd6d960984ebade6bae95e19ad1d76914` |
+| `PJSK:card:1449:01` | `02_CANONICAL_STORIES/CARD/1449_01.md` | 1 | 50 | `ac9d5cb243127cafa3d637cca8738200c9ad63fdad759cf879ccf0092bdb781e` |
+| `PJSK:card:1449:02` | `02_CANONICAL_STORIES/CARD/1449_02.md` | 1 | 46 | `9267091df0f9e5acc2ca83b311896a9c6ff3d80a2e85c8918b8fff635f181de5` |
+| `PJSK:area:areatalk_wl_shuffle_05_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_05_001_01.md` | 1 | 10 | `144b1971868f620f7e33b0825b625182414b6a7f8ca9577e9f3cdec9ee9c6787` |
+| `PJSK:area:areatalk_wl_shuffle_05_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_05_002_01.md` | 1 | 8 | `ac5742d6424ad6830320701ec258520436121d268c78bccac7c6eb5efafa16de` |
+| `PJSK:area:areatalk_wl_shuffle_05_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_05_003_01.md` | 1 | 7 | `7f6ea57ed619eb70e488459cfc409942e94bf59050665ccec18a342946c5d514` |
+| `PJSK:area:areatalk_wl_shuffle_05_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_shuffle_05_004_01.md` | 1 | 4 | `531ec73700c43c88fb5381f1adede93cd367ce531ab0dde1765b15979693244e` |
+
+### EVENT_0214 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | REFERENCE_ONLY / I1 Ichika's group and reported Shiho/Honami; no new direct human action, Saki/group I0; LN E0171 retained. |
+| MMJ / Airi | CO_PRIMARY / VERY HIGH I2 under E0198 and distinct communication history; scoped cohort/knowledge I3. Shizuku reported I1; other humans/group unchanged. |
+| VBS / Akito | CO_PRIMARY / VERY HIGH I2 under E0187 with inherited E0146/E0109 and independent E0021; scoped sibling/cohort/knowledge I3. Toya reported and Kohane referenced I1; An/group unchanged. |
+| WxS / Nene | CO_PRIMARY / VERY HIGH I2 under E0185, independent E0144/E0209; fallible planning and practical recovery. Tsukasa/Emu/Rui referenced or reported I1; group E0208 retained. |
+| N25 / Ena | CO_PRIMARY / VERY HIGH I2 under E0184 with inherited E0127/E0070; scoped sibling/cohort/knowledge I3. Mizuki reported I1; Kanade/Mafuyu/group unchanged. |
+| Ena–Akito | Scoped I3 REL-FAMILY-ENA-AKITO-E0014→E0214 for explicit received past-harm acknowledgment; no universal forgiveness or end of friction. |
+| Mixed cohort / Interstice MEIKO | Scoped I3 REL-CROSS-AMBITION-E0214 for rescue, inquiry, differentiated assistance and ordinary follow-through; no permanent unit or pooled singer identity. |
+| 俊輝 / 大輝 | Scoped I3 REL-EXTERNAL-MANGA-BROTHERS-E0214; accepted assistance, actual failed submission and chosen separate career attempts; no debut or completed future joint work. |
+| Shared-world knowledge | EPI-PJSK-SEKAI-E0211→E0214; particular introductions, fragment memories/voice, identified world birth and tree light; mechanism and access remain qualified. |
+| Local singers / mother / editor | Differentiated consent, testimony, direct or reported receipt. Empty MEIKO E0150 preserved; School MEIKO absent; mother's received apology unshown, editor unnamed. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0214_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The sibling acknowledgment, mixed cohort, brothers’ working arrangement and shared-world knowledge have separate scoped owners. Human operatives and five unit groups remain; direct testimony, dreams, proposals, reports and received acts retain distinct status. Earlier historical closures and all character-package bytes are preserved. EVENT_0215 is next; 8 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0215 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **25 stories / 41 scenes / 1,744 records / 237,295 canonical bytes**: eight core chapters, twelve card halves (1452–1457) and five areas. Canonical/pinned-raw/structured integrity, ordered records, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core, areas and R2 cards release at `2026-08-29T06:00:00Z`; R4 cards at `03:00:00Z`. Planning, repeated preparation, party and later correspondence/thanks remain sequential. CG, phone displays, photography, DJ and singing are not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0215:01` | `02_CANONICAL_STORIES/EVENT/0215_01.md` | 3 | 62 | `27cc07c96cbbed290bb0230f5e76b2a22be8918653301a1319335101169b1b28` |
+| `PJSK:event:0215:02` | `02_CANONICAL_STORIES/EVENT/0215_02.md` | 1 | 66 | `80b450cdb2812592ccef3e65e3ae933bae05ad293ffdaaa03cd3349279e29fa8` |
+| `PJSK:event:0215:03` | `02_CANONICAL_STORIES/EVENT/0215_03.md` | 1 | 99 | `e0fafdcc4bb778999a3dea37ae1e5d91dd562f68b2a55c5aa7314faf727d9a40` |
+| `PJSK:event:0215:04` | `02_CANONICAL_STORIES/EVENT/0215_04.md` | 2 | 128 | `a8cdbf8a976a0a0329248553a4721c94044c148f53c45cf7bd06f7ced4e3d4dc` |
+| `PJSK:event:0215:05` | `02_CANONICAL_STORIES/EVENT/0215_05.md` | 2 | 167 | `ed25c3ebae5fa20c0d30573924f04b8333a25c4244cd3dcb369412526b712407` |
+| `PJSK:event:0215:06` | `02_CANONICAL_STORIES/EVENT/0215_06.md` | 2 | 149 | `95639f5e996b75b6250bf7542d76849afd9f13f90a62309970335300f60b1c77` |
+| `PJSK:event:0215:07` | `02_CANONICAL_STORIES/EVENT/0215_07.md` | 1 | 108 | `0f4b783fbfa397f540607dcfd4f370ebfdd249257c46af4d848b9463efa828ac` |
+| `PJSK:event:0215:08` | `02_CANONICAL_STORIES/EVENT/0215_08.md` | 2 | 146 | `2497d5df5243565f3be1ee874144ce90a43f67f3060c1e849913891444adb966` |
+| `PJSK:card:1452:01` | `02_CANONICAL_STORIES/CARD/1452_01.md` | 2 | 60 | `632b32fd4ef8b9588ab7c734ff28822c1b00143e37d51330dbc6694b8cf67088` |
+| `PJSK:card:1452:02` | `02_CANONICAL_STORIES/CARD/1452_02.md` | 4 | 63 | `a84ececc3cd1a4eed08622c6229ab70f0c604179a72c3106995a928f571df984` |
+| `PJSK:card:1453:01` | `02_CANONICAL_STORIES/CARD/1453_01.md` | 1 | 65 | `93d9afd2bb66b4ee29013dbe43b83844d2df2def88242acdcaa59de3c1059508` |
+| `PJSK:card:1453:02` | `02_CANONICAL_STORIES/CARD/1453_02.md` | 3 | 73 | `84bcc287e4b4a37f1e59eb363069127a83f6085cfc1f0806e5f6b7ea7beaa000` |
+| `PJSK:card:1454:01` | `02_CANONICAL_STORIES/CARD/1454_01.md` | 1 | 64 | `125462892fbce5bd8e92b52aad513ffc1752c1e0a1cc30ad34678aa3d2937c2a` |
+| `PJSK:card:1454:02` | `02_CANONICAL_STORIES/CARD/1454_02.md` | 2 | 61 | `4226f34646255e0fc6115085e46c629447f1ef11d650067a37d6c09201a36401` |
+| `PJSK:card:1455:01` | `02_CANONICAL_STORIES/CARD/1455_01.md` | 1 | 67 | `27950e1368147d283ed38eae66c6fa5fae668e020d3d4fa6fe40edb71e8371ec` |
+| `PJSK:card:1455:02` | `02_CANONICAL_STORIES/CARD/1455_02.md` | 2 | 72 | `f9b6b688b7b6e219445444cc766d12c277aadb46f84d95fa1653f536e2647d28` |
+| `PJSK:card:1456:01` | `02_CANONICAL_STORIES/CARD/1456_01.md` | 1 | 62 | `567f35406f6da926619fd42df463a9ddf72ab8bcb65cb9de4fadb796e8b378ef` |
+| `PJSK:card:1456:02` | `02_CANONICAL_STORIES/CARD/1456_02.md` | 2 | 68 | `2b3b093504cdaedc0299b90c02bec06b6233041152e51bbac4abb670672e7690` |
+| `PJSK:card:1457:01` | `02_CANONICAL_STORIES/CARD/1457_01.md` | 2 | 66 | `863a32aeaae468e6e18759c590f4adce877dc595b8f50975039feb9937639a53` |
+| `PJSK:card:1457:02` | `02_CANONICAL_STORIES/CARD/1457_02.md` | 1 | 62 | `3f212e727a8d75467d548c1bf608e34aa80b49a9cf0d5ff79c74c5ed091e1e12` |
+| `PJSK:area:areatalk_ev_shuffle_64_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_64_001_01.md` | 1 | 6 | `4e162d8cb9bf23b33ccc9c4f3d14c97de1d599b3c4e898a5de7047237de7c538` |
+| `PJSK:area:areatalk_ev_shuffle_64_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_64_002_01.md` | 1 | 7 | `eb5b400ee6c017f1c6ef13c0ae0db4a93949163cc3ceeceeaf24cbd4ce953bc0` |
+| `PJSK:area:areatalk_ev_shuffle_64_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_64_003_01.md` | 1 | 6 | `d0c092694c40f36f62be3fa9570bb6c8f4618abc659cc21e79df0b6cc3caf90f` |
+| `PJSK:area:areatalk_ev_shuffle_64_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_64_004_01.md` | 1 | 9 | `986d0e445aaf03ed1991b5275958016001a850ad214c0dc1633011a4e474c8fe` |
+| `PJSK:area:areatalk_ev_shuffle_64_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_64_005_01.md` | 1 | 8 | `b13665e7bc427e4609bb1c8a73414d47dd770047eacfabdeb09f1d8fbe210ed2` |
+
+### EVENT_0215 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | SECONDARY / HIGH I2 all four: organizing, message transport, art, cooking instruction and shopping preferences. Individual scopes and LN group E0171 retained. |
+| MMJ | SECONDARY / HIGH I2 all four: streaming-derived design, practical logistics, food labor and appreciative participation. Individual scopes and MMJ group E0213 retained. |
+| VBS | SECONDARY / HIGH I2 all four: hosting, photography, bounded English practice/result, practical care and welcoming/learning work. Group E0193 and separate private knowledge retained. |
+| WxS | SECONDARY / HIGH I2 all four: entertainment/thanks, practical guidance, cooking/preferences, supplies and memory support. Group E0208 and independent personal scopes retained. |
+| N25 | SECONDARY / HIGH I2 all four: actual cooking despite self-minimization, correspondence transport, art instruction and social facilitation. Group E0170 and guarded biography retained. |
+| Street Luka / Stage Len / Wonderland KAITO | PRIMARY / VERY HIGH I2 distinct organizing, accessible planning, workload limits and received response; no generic singer operative promotion. |
+| School Miku / Wonderland Rin / Empty MEIKO | Major local I2 through chaired choice, requested feedback, reciprocal learning, voluntary gratitude and practical mediation. Other local singers separately active I2. |
+| Executed party network | Scoped I3 REL-PJSK-CROSS-SEKAI-PARTY-E0215: thirty local singers and twenty human holders, differentiated four-team work, actual party and specific follow-through. No equal all-pairs intimacy or permanent new unit. |
+| Shared-world knowledge | EPI-PJSK-SEKAI-E0214→E0215: broader use of existing mediation and a tree-song attempt with an unidentified response heard by Street Luka. Interstice singers absent; reliable access and universal receipt unproven. |
+| Specific continuities | Ena–Akito E0214, Empty MEIKO E0150, Empty KAITO E0100, Street Luka E0109/An E0201, prior guest registry E0179 and five World Link cohorts preserved at their distinct scopes. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0215_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The scoped party network preserves individual edges, phone/material mediation and local singer identities. Awkwardness, divergent preferences, managed allocation and uncertain mechanisms remain; past refusals and guarded human histories are not rewritten. Earlier historical bodies and all character packages are preserved. EVENT_0216 is next; 7 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0216 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **22 stories / 42 scenes / 1,514 records / 191,070 canonical bytes**: eight core chapters, ten card halves (1465–1469) and four areas. Canonical/pinned-raw/structured integrity, ordered records, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core, areas and R3/R2 cards release at `2026-09-06T06:00:00Z`; R4 cards at `03:00:00Z`. School-age memories, pre-party scenes, actual gathering, next-day accusation and return-home aftermath retain their different narrative positions. Music, photography and CG remain textually described, not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0216:01` | `02_CANONICAL_STORIES/EVENT/0216_01.md` | 2 | 53 | `1379460caceb661e0944c2473d1ffbb3685bc6780cc3434f74913527faa57ba6` |
+| `PJSK:event:0216:02` | `02_CANONICAL_STORIES/EVENT/0216_02.md` | 3 | 88 | `1afc70c4eae860f6c3586649763a5b202ac9808ccaa73ad17b15df3a5fd1d943` |
+| `PJSK:event:0216:03` | `02_CANONICAL_STORIES/EVENT/0216_03.md` | 1 | 106 | `a49828db3c007b97830cd4e24fd9f95865c5067ddc8d4eec05eb0085c655a21b` |
+| `PJSK:event:0216:04` | `02_CANONICAL_STORIES/EVENT/0216_04.md` | 6 | 144 | `69b9d1e03d1e903b61ad5c2c7859a760abc8187f3e16fb976fedbdd46084fa23` |
+| `PJSK:event:0216:05` | `02_CANONICAL_STORIES/EVENT/0216_05.md` | 1 | 176 | `092342f07cf922b764d17d916b83b78dcef242399b67401fc8cbaa882169483a` |
+| `PJSK:event:0216:06` | `02_CANONICAL_STORIES/EVENT/0216_06.md` | 4 | 135 | `c3ad7cb92a30835e741aa2980284cf9772cc12283ed706edb22a9d924fcf727a` |
+| `PJSK:event:0216:07` | `02_CANONICAL_STORIES/EVENT/0216_07.md` | 1 | 71 | `031dd657ec86b381ccccc814b1ea9246cccc81beee75b48c34dabb8651537ba8` |
+| `PJSK:event:0216:08` | `02_CANONICAL_STORIES/EVENT/0216_08.md` | 1 | 127 | `689d7b45ccf849b4c4b000e0465d0bd89a480b000faecc3a282e3e56ea91244e` |
+| `PJSK:card:1465:01` | `02_CANONICAL_STORIES/CARD/1465_01.md` | 2 | 61 | `46a710bbbd7bb14addd67113ed9aeed398cd83c25c987aeee8affa55ce4b7e32` |
+| `PJSK:card:1465:02` | `02_CANONICAL_STORIES/CARD/1465_02.md` | 2 | 52 | `481cdd67c5588145a0a94cc023b11f03705d930cbd83bfc72020d21f712370f9` |
+| `PJSK:card:1466:01` | `02_CANONICAL_STORIES/CARD/1466_01.md` | 4 | 65 | `d6d1a1d81cb8846ab850820e0a0cac327325bf6766b22757f086d84893247aed` |
+| `PJSK:card:1466:02` | `02_CANONICAL_STORIES/CARD/1466_02.md` | 1 | 54 | `76fa50438a49609925902b7222a96fe89892ef688c412ffbe2cf9ae554c7f802` |
+| `PJSK:card:1467:01` | `02_CANONICAL_STORIES/CARD/1467_01.md` | 3 | 62 | `c2057b0759dfb0dbae7d0b60d5697f410891e0d7ed11217484a957797c1701fc` |
+| `PJSK:card:1467:02` | `02_CANONICAL_STORIES/CARD/1467_02.md` | 1 | 60 | `1d1848ce8544adf72c8767d252e5195c3c8b040a2092e8e0ba2b7d66fc7796b3` |
+| `PJSK:card:1468:01` | `02_CANONICAL_STORIES/CARD/1468_01.md` | 2 | 56 | `5b98405f5e0348911447262057a39f1371a49a8b338666e2b8510ecb41ca3224` |
+| `PJSK:card:1468:02` | `02_CANONICAL_STORIES/CARD/1468_02.md` | 1 | 57 | `13c011de75dfa8428dfd0040d351b318ad6438863e82e1d7aad552f2559d8580` |
+| `PJSK:card:1469:01` | `02_CANONICAL_STORIES/CARD/1469_01.md` | 2 | 61 | `72941d867c487ee4912cda2782762f9b24df94644b17098c5fdb04e0e32a09bb` |
+| `PJSK:card:1469:02` | `02_CANONICAL_STORIES/CARD/1469_02.md` | 1 | 56 | `25455e33d262f5ea7b70674345b8bd1742288eca4af00d1cc13399c4e3375a93` |
+| `PJSK:area:areatalk_ev_street_27_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_27_001_01.md` | 1 | 8 | `ed30390e6c3cddd00f440c601aec2498fa03abbb731cbb43c25fc7f97b992b07` |
+| `PJSK:area:areatalk_ev_street_27_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_27_002_01.md` | 1 | 8 | `65502d125fdb5daffd783cd462ce828f1401c1792de7a84fb9343a2dfe924890` |
+| `PJSK:area:areatalk_ev_street_27_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_27_003_01.md` | 1 | 8 | `2d3c9de55becc161e64955a118f3a3467232607c13aa4950652b209983ebf0ee` |
+| `PJSK:area:areatalk_ev_street_27_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_street_27_004_01.md` | 1 | 6 | `063be43b6b95953bc42f8bf3ff64f6795fbcb2245657acb89858cfb8285dbed7` |
+
+### EVENT_0216 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / Akito and Toya | PRIMARY / VERY HIGH I2: early partnership construction, present trust, ordinary competence and accusation/defense. Akito E0187 plus E0021, Toya E0154 and VBS-REL-AK-TY-3 retained. |
+| VBS / An and Kohane | CO_PRIMARY / HIGH I2: bounded language confidence, practical inquiry, memory, received performance and troubled aftermath. An E0201, Kohane VBS-EP-KH-E0135 plus E0103 retained. Group E0193 preserved. |
+| Leo/need | NONE / I0 all four; no new appearance, receipt or state change. |
+| MMJ | NONE / I0 all four; no new appearance, receipt or state change. |
+| WxS | NONE / I0 all four; Toya's arcade activity does not confer participation on Tsukasa or Nene. |
+| N25 | NONE / I0 all four; unnamed souvenir purposes do not establish an Ena episode or change sibling E0214. |
+| Street singers | SECONDARY / HIGH local I2: chosen training, independent leisure, differing preferences, hidden phone singing, food and proposed relief. No counterpart merger or new universal world rule. |
+| Embers / illys / neighbors | High–very high I2 prior development plus scoped I3 VBS-REL-RIVAL-TRUST-E0216: specific accusation, restraint and unequal responses. Slade trusts; Cedric cannot yet; Elena wants to believe amid confusion; Rebecca intervenes. No universal rupture or repair. |
+| Warehouse knowledge | Scoped I3 VBS-EPI-WAREHOUSE-E0216: damaged site, attributed probable work loss, owned keyring and disputed inferences. Culprit, placement route and recovery remain unknown. DG E0204 remains separate audience-only information. |
+| Historical / reported contacts | Akito tells Cedric/Rebecca earlier partnership history; Cedric supplies dream origins. Alan reported I1. RADder's repertoire is sung at the gathering; the original group does not newly appear. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0216_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The scoped trust/evidence records preserve established rival histories, restricted hearing knowledge and the separate audience-only DG postscript. Cards add actual ordinary exchange, received musical influence and selective singer reciprocity; areas retain poor concentration and incomplete relief. No culprit, permanent data-loss verdict or trust repair is invented. Historical bodies and all packages remain preserved. EVENT_0217 is next; 6 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0217 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **22 stories / 38 scenes / 1,375 records / 183,423 canonical bytes**: eight core chapters, ten card halves (1470–1474) and four areas. Canonical/pinned-raw/structured integrity, ordered identities, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core, areas and R3/R2 cards release at `2026-09-14T06:00:00Z`; R4 cards at `03:00:00Z`. Prize application, preparation, the two-week interval, two-night/three-day trip and return-home scenes retain internal order. Stage/DVD reception, photographs, singing and CG are textually described, not independently inspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0217:01` | `02_CANONICAL_STORIES/EVENT/0217_01.md` | 1 | 57 | `ade413f0951e5b7dd96186145cab8c5ea76b50307040391ae7b8587546324379` |
+| `PJSK:event:0217:02` | `02_CANONICAL_STORIES/EVENT/0217_02.md` | 6 | 103 | `32292383acb90b5518e36a9eb59f38df8d300a68db7ca47e5c2b0dd750f608aa` |
+| `PJSK:event:0217:03` | `02_CANONICAL_STORIES/EVENT/0217_03.md` | 3 | 122 | `3525a39e3bc1083baaa0e1a9641b2e8c0c58619211e8869b3780e75ce100b19f` |
+| `PJSK:event:0217:04` | `02_CANONICAL_STORIES/EVENT/0217_04.md` | 2 | 106 | `e211aee7e0d2f80e32da3ce84b071e025c24d5d2f3de1eb33f1fd2c3b55be29e` |
+| `PJSK:event:0217:05` | `02_CANONICAL_STORIES/EVENT/0217_05.md` | 1 | 77 | `2264dad12d11c3660025085181ee9ce89d368e9f000d686da2a0bb4568bf60e2` |
+| `PJSK:event:0217:06` | `02_CANONICAL_STORIES/EVENT/0217_06.md` | 1 | 59 | `6b50534b51ee9b372f302a15de615a3673877c7159b00e5e70d706b5140a5404` |
+| `PJSK:event:0217:07` | `02_CANONICAL_STORIES/EVENT/0217_07.md` | 2 | 123 | `e72ce9ac779f541e977e1eb3481d228245fb2195152fe3e5fd482ec8c00f84c1` |
+| `PJSK:event:0217:08` | `02_CANONICAL_STORIES/EVENT/0217_08.md` | 3 | 106 | `da74a14d19e17c3c6389f07f34609aa3d9c388c5ffdfb028d1f62062ad06a9c6` |
+| `PJSK:card:1470:01` | `02_CANONICAL_STORIES/CARD/1470_01.md` | 1 | 65 | `6da3be1aed4ff33549198cb3bad236c8f867173dd4bc27d938b8f26fe3bef865` |
+| `PJSK:card:1470:02` | `02_CANONICAL_STORIES/CARD/1470_02.md` | 1 | 62 | `53f2fd798656c5b341ba1a57d2f38167af116e2eb5def90dc279725c8780cec5` |
+| `PJSK:card:1471:01` | `02_CANONICAL_STORIES/CARD/1471_01.md` | 1 | 49 | `0d17f176d409ac5464b79faf51afa9d50869974b46470e88aeff38dbed30cbe5` |
+| `PJSK:card:1471:02` | `02_CANONICAL_STORIES/CARD/1471_02.md` | 3 | 62 | `1d0477ca60108974f3e366d131e9971f091293865039af6109438834bacfca64` |
+| `PJSK:card:1472:01` | `02_CANONICAL_STORIES/CARD/1472_01.md` | 1 | 52 | `d83b12030b2793962a541ccff3d4bd86c809152b9b4f8f86783fae9be78f4fce` |
+| `PJSK:card:1472:02` | `02_CANONICAL_STORIES/CARD/1472_02.md` | 1 | 57 | `ddd080363208d430a881b95c3cfd394dcff87fd392698fc1dfc5fde18c06dfe9` |
+| `PJSK:card:1473:01` | `02_CANONICAL_STORIES/CARD/1473_01.md` | 3 | 65 | `10002b0c5af49c3d529d4e10122fd34cade10dc28b4ff643f7edf8f1c629c2a0` |
+| `PJSK:card:1473:02` | `02_CANONICAL_STORIES/CARD/1473_02.md` | 2 | 68 | `40c8387ae13e0bd7204422b8203b632c605e0cfc233a8fb886d572b955eb8b1f` |
+| `PJSK:card:1474:01` | `02_CANONICAL_STORIES/CARD/1474_01.md` | 1 | 55 | `7c257c9924f954286c1cd0a677f698f0ffea894f57bba89ba2c39280551f1664` |
+| `PJSK:card:1474:02` | `02_CANONICAL_STORIES/CARD/1474_02.md` | 1 | 50 | `7545ef4ecb59e2bc622cadaa4d180d0f1002ee703d72fec7501a7ef63c5ca6d9` |
+| `PJSK:area:areatalk_ev_wonder_27_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_27_001_01.md` | 1 | 10 | `b448b1fe79dd78ac9d1a76eec32421c45e8d9ee0dcf9dcb8634a15cad90b441b` |
+| `PJSK:area:areatalk_ev_wonder_27_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_27_002_01.md` | 1 | 10 | `7e36a754f2d429b9a31eff4e6bf4c3c5c4bb2f2e090b83bb91062b79dab113e6` |
+| `PJSK:area:areatalk_ev_wonder_27_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_27_003_01.md` | 1 | 8 | `269cee4efb1c1f616a10889f27ddf854d0ee1810a128fb31ebd01634c889913a` |
+| `PJSK:area:areatalk_ev_wonder_27_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_27_004_01.md` | 1 | 9 | `a02d54b98c2c7766d2b034511e3a601b1705fc4904c1f992d4a864f1dd9b71c0` |
+
+### EVENT_0217 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Nene | PRIMARY / VERY HIGH I2: actual adapted performance, received help, live professional benchmark and renewed resolve. E0185 craft, independent E0144 leadership and E0209 self-continuity retained. |
+| WxS / Emu | CO_PRIMARY / HIGH–VERY HIGH I2 E0164/E0104: researched map, practical initiative, co-authored improvisation, error/apology, food curiosity and reciprocal credit. |
+| WxS / Tsukasa, Rui and group | HIGH I2: family-supported travel, coordination, concern, chosen rendezvous, thanks and professional observation. Tsukasa E0208, Rui E0200 plus independent E0144, group E0208 and existing dyads retained. |
+| Leo/need | NONE / I0 all four. Family support does not imply a new Saki episode or disclosure. |
+| MMJ | NONE / I0 all four; no new actor or recipient. |
+| VBS | NONE / I0 all four; the American setting does not join their private crisis to this trip. |
+| N25 | NONE / I0 all four; no new actor or recipient. |
+| Wonderland singers | SECONDARY / HIGH local I2, especially Luka/Len: sustained waiting, independent care/interests, received gifts and learned enthusiasm. No universal mechanism or counterpart merger. |
+| Olivia | Scoped I3 WXS-REL-NENE-EMU-OLIVIA-E0217: translation/advice, received show, changed travel choice, actual lift, disclosed former aspiration and accepted future invitation. No permanent mentorship or revived acting career. |
+| Audition knowledge | Scoped I3 WXS-EPI-AUDITION-E0217: all-role audition offer, intended participation and received title Wonder!; no casting outcome, executed production or identified publicity device. Sakaki E0208 history retained. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0217_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The reading retains practical preparation, distinct contributors, driver misidentification, explicit warnings, unequal knowledge and the difference between role fiction and real requests. Cards and areas add received gifts, independent singer interests, language-learning wishes and incomplete inventions/adaptation plans. Earlier histories, private scopes and all package bytes remain preserved. EVENT_0218 is next; 5 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0218 — forward discovery and integrated routing
+
+The complete refreshed envelope covers **95 stories / 125 scenes / 3,808 records / 521,264 canonical bytes**: two core chapters, 52 card halves and 41 areas. All text is covered by 43 newly read stories (530 records) plus 52 explicit prior-full-reading reuses (3,278 records; 42 frozen-campaign and ten committed E0214 halves). Canonical/pinned-raw/structured integrity, identities, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core release is `2026-09-25T11:00:00Z`; areas `2026-09-28T11:00:00Z`; cards retain April–August original dates. Association does not change internal chronology. The link3_sapling video, CG, performance and voices remain audiovisually uninspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0218:01` | `02_CANONICAL_STORIES/EVENT/0218_01.md` | 4 | 119 | `383771e0df236d7a16fea4a448e68eea79d7cfbccf5caa56c1c532a17f563f26` |
+| `PJSK:event:0218:02` | `02_CANONICAL_STORIES/EVENT/0218_02.md` | 1 | 83 | `fae78277757275a23a9cc6ad0107f15b9161819cd0b03c9372ddb2bc7f4d6c6c` |
+| `PJSK:card:1374:01` | `02_CANONICAL_STORIES/CARD/1374_01.md` | 1 | 64 | `708196555a27e84591a94104dd839c70feb5652e543a29c0aaa9c3fc8e081ade` |
+| `PJSK:card:1374:02` | `02_CANONICAL_STORIES/CARD/1374_02.md` | 1 | 74 | `0d41ca02387d72d9f21ab45c6a108bcc87103b5f844eab51ae0fd3db5de4fa7d` |
+| `PJSK:card:1375:01` | `02_CANONICAL_STORIES/CARD/1375_01.md` | 1 | 59 | `f396af0c5912e30dac2a2b8c0a08b726078e5c3111363b4bbccc027cba621392` |
+| `PJSK:card:1375:02` | `02_CANONICAL_STORIES/CARD/1375_02.md` | 1 | 62 | `58e5fcc0f5c48fa11395a1a0dc0eb9f150505aa5bc7fcc59909571efbe9a41a3` |
+| `PJSK:card:1376:01` | `02_CANONICAL_STORIES/CARD/1376_01.md` | 2 | 69 | `c4d9aa51b35bc8d681726c9de29c66b6298152c0cc737d9e3c20637fd84eedb6` |
+| `PJSK:card:1376:02` | `02_CANONICAL_STORIES/CARD/1376_02.md` | 2 | 109 | `2ae9b711d79ede59cb25d8285c8f98b43991bb19e349d98c03481387a9f1cb4c` |
+| `PJSK:card:1377:01` | `02_CANONICAL_STORIES/CARD/1377_01.md` | 2 | 62 | `fbd972b8db8db6d25fbfdf6bea0f6a8fa1f71a1c4f9e0c59d400df5d9493aca2` |
+| `PJSK:card:1377:02` | `02_CANONICAL_STORIES/CARD/1377_02.md` | 3 | 72 | `bac13eb25aa47bf1d6ba1e679a9e41aa2a6c2f40ba0282783ee7f37994f84a45` |
+| `PJSK:card:1378:01` | `02_CANONICAL_STORIES/CARD/1378_01.md` | 3 | 72 | `790f0e657fedd96ca8eff939e3507379f55da6fb300a27e1653890817e0b9dd4` |
+| `PJSK:card:1378:02` | `02_CANONICAL_STORIES/CARD/1378_02.md` | 2 | 57 | `29b70814d145950d1ace9786cad63511015a08a643babd6c8f6cfc62648b38e2` |
+| `PJSK:card:1392:01` | `02_CANONICAL_STORIES/CARD/1392_01.md` | 2 | 59 | `3a1f646b3271e1534ff06f9ac868177b58f75ced37be637c932459e699b6df42` |
+| `PJSK:card:1392:02` | `02_CANONICAL_STORIES/CARD/1392_02.md` | 1 | 72 | `b63132b5199b9e47823db1c107e664b46acbe6c8a69a9db2fbccf0eda86c3571` |
+| `PJSK:card:1393:01` | `02_CANONICAL_STORIES/CARD/1393_01.md` | 1 | 65 | `3b06296486540c850c1cc2253e53f26a5db245599554bacc870535cf9a1ff8bf` |
+| `PJSK:card:1393:02` | `02_CANONICAL_STORIES/CARD/1393_02.md` | 1 | 57 | `1b69bbe06def896f8e78f5d61c2f25c256601e9717372e1c1ba738ae60dbe373` |
+| `PJSK:card:1394:01` | `02_CANONICAL_STORIES/CARD/1394_01.md` | 1 | 59 | `c22a5370113febac6a1d8a48950b26653767633cfc47c9ca1518ed0572994284` |
+| `PJSK:card:1394:02` | `02_CANONICAL_STORIES/CARD/1394_02.md` | 3 | 78 | `4482e9d2bddac962d404b3de4a90a1fd57463372cc90b2b07ca9cd89e44275de` |
+| `PJSK:card:1395:01` | `02_CANONICAL_STORIES/CARD/1395_01.md` | 1 | 48 | `af9a21d230d4d3235abb649b2d3c1311d4719bd40acf43a6b4e12bd605aaf529` |
+| `PJSK:card:1395:02` | `02_CANONICAL_STORIES/CARD/1395_02.md` | 1 | 84 | `a80de587e17de51e9d21f029261631cdc2b002e169450101d8ca3f5c0992a809` |
+| `PJSK:card:1396:01` | `02_CANONICAL_STORIES/CARD/1396_01.md` | 1 | 57 | `7cf1c891111d814d0592aee36d60bc147c338664f5678c4217ef2e1454341b99` |
+| `PJSK:card:1396:02` | `02_CANONICAL_STORIES/CARD/1396_02.md` | 1 | 52 | `0496b2a8f77ecf465931f530cdb0db87c8b0a57c72740d2005a18d1a723374c9` |
+| `PJSK:card:1397:01` | `02_CANONICAL_STORIES/CARD/1397_01.md` | 1 | 64 | `96ae618523bfd971dd2014d05afe02c80c3d8ac46dd59d8ae1099d21d655192f` |
+| `PJSK:card:1397:02` | `02_CANONICAL_STORIES/CARD/1397_02.md` | 4 | 55 | `24f6b555baa5e2b9d15fc24a0a914bc948cc63ab6b8276ec47b8100b3a8ed0fc` |
+| `PJSK:card:1404:01` | `02_CANONICAL_STORIES/CARD/1404_01.md` | 1 | 44 | `f34bc3705fc0cea662fdff35514fa480118049ef4abdbb5ac79af7c67c06ab04` |
+| `PJSK:card:1404:02` | `02_CANONICAL_STORIES/CARD/1404_02.md` | 1 | 60 | `bb99b642bfac1cd6a1c6e36523553a7604e7034cf7b9bf5a3b0c809c5a65991b` |
+| `PJSK:card:1405:01` | `02_CANONICAL_STORIES/CARD/1405_01.md` | 1 | 59 | `db23ce32fde747f7e140dc5ccb7a0b494a4abe085bc47294afaf483b9a2ba49d` |
+| `PJSK:card:1405:02` | `02_CANONICAL_STORIES/CARD/1405_02.md` | 1 | 58 | `f704ab08830144631d23193dbcc28812b6354f3125b2d1fa19dd803b8f42ff57` |
+| `PJSK:card:1406:01` | `02_CANONICAL_STORIES/CARD/1406_01.md` | 1 | 61 | `6290beb63ab9beabb4d6076c1cd40fd9965ac43d2242b4c25a92efd7c443bcc0` |
+| `PJSK:card:1406:02` | `02_CANONICAL_STORIES/CARD/1406_02.md` | 1 | 53 | `d9e2edda35bd688b6f5d4eb308bc6c4dae7cde86d817dec6274179bdf09cc1f8` |
+| `PJSK:card:1407:01` | `02_CANONICAL_STORIES/CARD/1407_01.md` | 1 | 70 | `ca02bbc64155608f544d8b4aabbf05df1292801e1ceb00cc0e330f48b004d610` |
+| `PJSK:card:1407:02` | `02_CANONICAL_STORIES/CARD/1407_02.md` | 3 | 70 | `cb2dbb89b6ad8f0b8ea5acb64026bc81bf6fd58e7dcdeef500c099127c4c6675` |
+| `PJSK:card:1408:01` | `02_CANONICAL_STORIES/CARD/1408_01.md` | 2 | 62 | `862bec7bbc5a981da8f74128e681beef52bc56544b09a9bc2f882d486d3da0cd` |
+| `PJSK:card:1408:02` | `02_CANONICAL_STORIES/CARD/1408_02.md` | 3 | 64 | `ccd9f7050e9ffd3ac7636ea1887a4db335cad19f329f61d0dc752511a879f019` |
+| `PJSK:card:1428:01` | `02_CANONICAL_STORIES/CARD/1428_01.md` | 1 | 77 | `7fa463923cf93633f88bd1538a4a084ea8f9684ccec76954a4dc7482ddbb4889` |
+| `PJSK:card:1428:02` | `02_CANONICAL_STORIES/CARD/1428_02.md` | 1 | 61 | `100d41e701dad014d9afdece0329f75f09c28ac32a722d9ffd5c08323b70e240` |
+| `PJSK:card:1429:01` | `02_CANONICAL_STORIES/CARD/1429_01.md` | 1 | 66 | `15fc20fc77a3ac38ff5d42d870355b24d9171d213846449642c5cd554d90a941` |
+| `PJSK:card:1429:02` | `02_CANONICAL_STORIES/CARD/1429_02.md` | 2 | 59 | `3a38218dc67880c7e5778741e436b50a33cad828b026bd42692c01f9a62afa9e` |
+| `PJSK:card:1430:01` | `02_CANONICAL_STORIES/CARD/1430_01.md` | 2 | 63 | `4afa7d3a0de56235b8d937a50f3bc09cb82c9b14823472b1bc44c2ff63d4d2ed` |
+| `PJSK:card:1430:02` | `02_CANONICAL_STORIES/CARD/1430_02.md` | 3 | 80 | `20d56202bb54354164d4b3e724fccabfd52a6b80a9e5e26244f9faf3ddc32b11` |
+| `PJSK:card:1431:01` | `02_CANONICAL_STORIES/CARD/1431_01.md` | 1 | 46 | `7bdf1ab2814e8328d9f2599caaaeec52917a8e8165a99e15adac9be82475cd71` |
+| `PJSK:card:1431:02` | `02_CANONICAL_STORIES/CARD/1431_02.md` | 1 | 50 | `bcff7ea2e6c1660ee5edc5be1e8e765178dc2f4d15e233bab2b96c46e39ee619` |
+| `PJSK:card:1432:01` | `02_CANONICAL_STORIES/CARD/1432_01.md` | 2 | 58 | `5d3db311be2a61c69768baa0b667ac5094260e6d21d9af3ea35eef3f9a2d876e` |
+| `PJSK:card:1432:02` | `02_CANONICAL_STORIES/CARD/1432_02.md` | 1 | 62 | `c6d3cc8eb2c0a27a5097ca0cd6bd378a64a30cb53ab36c61f1a89e845db3d401` |
+| `PJSK:card:1445:01` | `02_CANONICAL_STORIES/CARD/1445_01.md` | 1 | 63 | `adb8170c0374adb6815a092f616ff0ccb643d0f6ce4efd606b26b2d812bd82c4` |
+| `PJSK:card:1445:02` | `02_CANONICAL_STORIES/CARD/1445_02.md` | 1 | 55 | `719ba90208845452dd4f6b5aa4efcd14301948627153a4d4243d7d57c0c087f5` |
+| `PJSK:card:1446:01` | `02_CANONICAL_STORIES/CARD/1446_01.md` | 1 | 57 | `5751db046f7dfbdfa672f65bbd85426e64b7bd4213ac1b424710e10be390b9f6` |
+| `PJSK:card:1446:02` | `02_CANONICAL_STORIES/CARD/1446_02.md` | 1 | 66 | `09e0e860270daee72ee85dad99991a9f513368b750dfda6d992005ae3f4fdf34` |
+| `PJSK:card:1447:01` | `02_CANONICAL_STORIES/CARD/1447_01.md` | 2 | 55 | `d92b0638a314c725aaa200523099170f1ee5417614d7dd239924bde7b0a406cb` |
+| `PJSK:card:1447:02` | `02_CANONICAL_STORIES/CARD/1447_02.md` | 1 | 90 | `9458f1216c9a084717633b9c78a8adbdf3ed253001a3dd82818c33a8d4fde848` |
+| `PJSK:card:1448:01` | `02_CANONICAL_STORIES/CARD/1448_01.md` | 1 | 63 | `d4007faac31c71e97909d4ba549ea43e0b501a0e3095411dd0c6e967b6076a7f` |
+| `PJSK:card:1448:02` | `02_CANONICAL_STORIES/CARD/1448_02.md` | 3 | 60 | `f39c435f8ab1236501de6dba9f329b7bd6d960984ebade6bae95e19ad1d76914` |
+| `PJSK:card:1449:01` | `02_CANONICAL_STORIES/CARD/1449_01.md` | 1 | 50 | `ac9d5cb243127cafa3d637cca8738200c9ad63fdad759cf879ccf0092bdb781e` |
+| `PJSK:card:1449:02` | `02_CANONICAL_STORIES/CARD/1449_02.md` | 1 | 46 | `9267091df0f9e5acc2ca83b311896a9c6ff3d80a2e85c8918b8fff635f181de5` |
+| `PJSK:area:areatalk_wl_finale_03_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_001_01.md` | 1 | 7 | `7d8251ab3826a710e48834e1d9aee5b385f5461b5d9e27cdbed0c3d9825c40d6` |
+| `PJSK:area:areatalk_wl_finale_03_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_002_01.md` | 1 | 6 | `1ea0ff23a827b03290638e691fdf8d97a6baca56b1026f1c6e70a32ce1f33de1` |
+| `PJSK:area:areatalk_wl_finale_03_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_003_01.md` | 1 | 7 | `d6ed2b1b43553c9ff9877549152cc43f47b89e820936e8240a2fcf2d8866d0c6` |
+| `PJSK:area:areatalk_wl_finale_03_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_004_01.md` | 1 | 9 | `63f3545f6797d11e645b966b8071110ded08e8c062a6e408bc78b61cab346184` |
+| `PJSK:area:areatalk_wl_finale_03_005:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_005_01.md` | 1 | 8 | `63fb3654f974ecff9b1147b84ad2d25d5dc567e56da7034fc5c45c790819c113` |
+| `PJSK:area:areatalk_wl_finale_03_006:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_006_01.md` | 1 | 7 | `2a4c3297b69a3df5b619d50d9fc3800aab0c755d4a80f17925ae1f05b71a7673` |
+| `PJSK:area:areatalk_wl_finale_03_007:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_007_01.md` | 1 | 9 | `6445d0b6d6dec541cafa99b01a8639e305c1285d4c0371be9278e6effa1e4382` |
+| `PJSK:area:areatalk_wl_finale_03_008:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_008_01.md` | 1 | 8 | `e12eb6931406afda45231265ca2fca75a32d77e01520bb1d9a6334fecfcd2e51` |
+| `PJSK:area:areatalk_wl_finale_03_009:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_009_01.md` | 1 | 9 | `86447b50cbba06da7186651b8abaaba69ea62959c89c50f03c8f6fe09fc13d27` |
+| `PJSK:area:areatalk_wl_finale_03_010:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_010_01.md` | 1 | 8 | `cd16ac5bb228f5deed8bf3b0ba78c1c13150fb9c62a602989ce0f3e90e460583` |
+| `PJSK:area:areatalk_wl_finale_03_011:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_011_01.md` | 1 | 8 | `07e047de54ad4798ec0c123a416c807a7b0899a1542ba1628c2e11f5ffc7e8d6` |
+| `PJSK:area:areatalk_wl_finale_03_012:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_012_01.md` | 1 | 9 | `9869d41cc7d30603a44c31f449772997b9c17e69cc401d14c4d19120d0d8136a` |
+| `PJSK:area:areatalk_wl_finale_03_013:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_013_01.md` | 1 | 7 | `18f57bd1996d6dfa6cf57e5adc87a6e9a27a0f8f84bc2dfe6c63f033e06a0124` |
+| `PJSK:area:areatalk_wl_finale_03_014:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_014_01.md` | 1 | 11 | `05c3e229639652e5c1827785cf2510658201d9f0f1112ed32247e79118455072` |
+| `PJSK:area:areatalk_wl_finale_03_015:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_015_01.md` | 1 | 9 | `5146f732e4c6ed2dfad018ee4cf7cd55a407311905f36ca184b579b657098f3a` |
+| `PJSK:area:areatalk_wl_finale_03_016:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_016_01.md` | 1 | 8 | `aaf350e2a05c25775b9b360054dfbfe72ad0b207aa526a21ad76c368d89cf4ef` |
+| `PJSK:area:areatalk_wl_finale_03_017:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_017_01.md` | 1 | 7 | `671056005c22ddb8f86e6b9d6dfdde87947b45279b8d244fea2d35193a49666c` |
+| `PJSK:area:areatalk_wl_finale_03_018:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_018_01.md` | 1 | 7 | `b6781c9ae8ea6a8d62efee14916e235f2c3091ab553256e975eab3458dc69bc6` |
+| `PJSK:area:areatalk_wl_finale_03_019:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_019_01.md` | 1 | 7 | `872fbcf13444e65d9637a2ebd8a4a484085dd27fd1f1a7f6a2647ba9fd76068c` |
+| `PJSK:area:areatalk_wl_finale_03_020:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_020_01.md` | 1 | 7 | `8fa40d45f8d8b64bc01c291c4f825f540037eeae8a03580c0f57240a3ecbb656` |
+| `PJSK:area:areatalk_wl_finale_03_021:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_021_01.md` | 1 | 9 | `da3ee59cc8311b80314b62efcfac8f6de47d5237ca9d8678475ec2a2db4d138c` |
+| `PJSK:area:areatalk_wl_finale_03_022:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_022_01.md` | 1 | 8 | `878702362a510603ce0f6d46845849fa4a382482072db65026219213964f97ad` |
+| `PJSK:area:areatalk_wl_finale_03_023:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_023_01.md` | 1 | 8 | `53704097dc78917d91ca65c045e2530c78e3ac41674d0a6999d85c86f31865c0` |
+| `PJSK:area:areatalk_wl_finale_03_024:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_024_01.md` | 1 | 10 | `3c0dfedc9e47a51ad52d21db61d212502f12ef64ed4ec320ba25ab3434e74239` |
+| `PJSK:area:areatalk_wl_finale_03_025:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_025_01.md` | 1 | 8 | `436a040cd0d02eae77fcf107124e105cd090634198299a21e815a3edcec417c4` |
+| `PJSK:area:areatalk_wl_finale_03_026:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_026_01.md` | 1 | 7 | `66b5dfc1c99ea846fa4c719023fe4c123b26de0fd3a825b5ad4a12ba695d4b6c` |
+| `PJSK:area:areatalk_wl_finale_03_027:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_027_01.md` | 1 | 7 | `e18499e5bd9d8b6d9be76388916785f616ad864d6a0652a2a0c9760cdf215729` |
+| `PJSK:area:areatalk_wl_finale_03_028:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_028_01.md` | 1 | 8 | `83c6007ede9dde9ee830bbdf16dd162d30cfd4c21346de2f533ca50bf74d1a3a` |
+| `PJSK:area:areatalk_wl_finale_03_029:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_029_01.md` | 1 | 8 | `23d14815e84d6a99b89b32181f2dba074a35fba2c4b021e1e9bb4acf3feed82d` |
+| `PJSK:area:areatalk_wl_finale_03_030:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_030_01.md` | 1 | 8 | `28f9fb7d71924f9ebe8e1100843368383b1d3481d92b14099d8162433434532e` |
+| `PJSK:area:areatalk_wl_finale_03_031:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_031_01.md` | 1 | 8 | `9946e0ee90a175c406c3f2ce733b763e9b5d72470ba253a4a18d57bb73653fa6` |
+| `PJSK:area:areatalk_wl_finale_03_032:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_032_01.md` | 1 | 8 | `9238167eb82dac1a8ce30de776809669fcd207141ba78abe4ac59af024746316` |
+| `PJSK:area:areatalk_wl_finale_03_033:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_033_01.md` | 1 | 8 | `049f66e4b00c5d395e9187bd6366016433bcee55e1da7b686c32d058404304cb` |
+| `PJSK:area:areatalk_wl_finale_03_034:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_034_01.md` | 1 | 8 | `b9cadcc5596c7adb27cb7e8b7424b02f379378ac3daa045a175878a3020eae51` |
+| `PJSK:area:areatalk_wl_finale_03_035:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_035_01.md` | 1 | 8 | `e5152c15dedd4b4333661276b708c5cee0c935cbeb3d3f77b28b6090c0b17e93` |
+| `PJSK:area:areatalk_wl_finale_03_036:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_036_01.md` | 1 | 9 | `ca483f453c2787164ec55f048504def2e3e58dd4c0029cf00f422b986cb9d3b3` |
+| `PJSK:area:areatalk_wl_finale_03_037:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_037_01.md` | 1 | 9 | `5554097ea742688cd3a935ad25e6875ce53bf879e2f2333b4f5f615afb200c37` |
+| `PJSK:area:areatalk_wl_finale_03_038:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_038_01.md` | 1 | 9 | `e19a76274efb5f6909285027e12a9255dd922967d231dda5665722e45099fa60` |
+| `PJSK:area:areatalk_wl_finale_03_039:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_039_01.md` | 1 | 8 | `0b56558754c558532c341ea9922aa564849bff14aad12000b0bf6a03db536dc2` |
+| `PJSK:area:areatalk_wl_finale_03_040:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_040_01.md` | 1 | 7 | `899adfc7974fa777c6be7c043cc0178e2889e2ddb6bf3757d6fcff66ceb0afef` |
+| `PJSK:area:areatalk_wl_finale_03_041:01` | `02_CANONICAL_STORIES/AREA/areatalk_wl_finale_03_041_01.md` | 1 | 7 | `68de8a0a9bca5bf4bf5da226f3635f1ad9d11c0947eb8945e5bc50d8764a0694` |
+
+### EVENT_0218 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; differentiated I2 welcomes, access retest, company and limits. Ichika E0212, Saki E0188, Honami E0121/E0158, Shiho E0162/E0148/E0191 and group E0171 retained. |
+| MMJ | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; welcome, curiosity, practical exchange and quiet companionship I2. Minori E0122/E0098, Haruka E0213 plus independent scopes, Airi E0198, Shizuku E0183 plus independent scopes and group E0213 retained. |
+| VBS | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; language difficulty, register, ordinary pleasure and specific family help I2. Akito E0187/E0021, Toya E0154, An E0201, Kohane KH-E0135/E0103 and group E0193 retained; accusation and private DG/hearing information remain separate. |
+| WxS | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; coordination, craft/play and refused exploration I2. Tsukasa E0208, Emu E0164/E0104, Nene E0185/E0144/E0209, Rui E0200/independent E0144 and group E0208 retained. |
+| N25 | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; coordinated entry, ordinary comfort, selective quiet company and chosen meetup I2. K-E0192-01, MF-E0207-01, E-E0184-01, MZ-E0199-01 and group E0170 retained. |
+| Six Interstice singers | CO_PRIMARY / HIGH scoped I3: received reunion and repeat social visits, own wish for company and explicit observation limits. |
+| Local singers / prior cohorts | Five Mikus directly warn humans; other local acts are reported or explicitly reused earlier evidence. Preserve all five cohort relations, local identities and prior refusals; no new all-thirty gathering. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0218_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. All 41 new areas and 26 reused card pairs have explicit dispositions. Prior card chronology, failed access, private recipients and local singer identities remain intact. The new access state is neither left wholly hypothetical nor generalized to every world, all private knowledge or guaranteed future attendance. Historical bodies and all sixty package files remain preserved. EVENT_0219 is next; 4 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0219 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **26 stories / 34 scenes / 1,600 records / 210,179 canonical bytes**: eight core chapters, fourteen card halves (1475–1481) and four areas. Canonical/pinned-raw/structured integrity, ordered identities, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core, areas and R3 Ichika release at `2026-09-30T06:00:00Z`; R4 cards at `03:00:00Z`. Retrospective graduation and Miku memories, preparation, actual contest, future messages and later receipts retain internal order. Saki and Interstice Miku have independent associated sequences. AV remains uninspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0219:01` | `02_CANONICAL_STORIES/EVENT/0219_01.md` | 2 | 53 | `a495ebd78cd9279783e4b850e2cb495ab9dc9e1567448124ab0064465bb7f6e0` |
+| `PJSK:event:0219:02` | `02_CANONICAL_STORIES/EVENT/0219_02.md` | 2 | 83 | `311d23bf00b74d98c425108cd6e0d9a94bd3190cc692a1625c4b9489aeb16b11` |
+| `PJSK:event:0219:03` | `02_CANONICAL_STORIES/EVENT/0219_03.md` | 1 | 83 | `4a168f43860efc5a6827b40d734cb11c9c334c3d68354626b3743cd9e5d63836` |
+| `PJSK:event:0219:04` | `02_CANONICAL_STORIES/EVENT/0219_04.md` | 2 | 102 | `972ebfffb46d722fd3a275ccde508a38584a12488e39128b98deac383b658e53` |
+| `PJSK:event:0219:05` | `02_CANONICAL_STORIES/EVENT/0219_05.md` | 1 | 66 | `a9b7c485191ded12a5d5bcc35026e5c9202dfd3875bee3e0d0953943de27dff1` |
+| `PJSK:event:0219:06` | `02_CANONICAL_STORIES/EVENT/0219_06.md` | 1 | 80 | `9b678f48bd380a9b0da45ca53d241df625b19f08e0dc813b8a13512d891bd70f` |
+| `PJSK:event:0219:07` | `02_CANONICAL_STORIES/EVENT/0219_07.md` | 1 | 74 | `acd6e5fc0ea45fe30c8bfcea55c23d7f3d084ff2ae5302f20277fdde55262aa3` |
+| `PJSK:event:0219:08` | `02_CANONICAL_STORIES/EVENT/0219_08.md` | 1 | 57 | `33b609f0e6712b665355612d5f60bf5af150713dcfd1045d45780069016db4e2` |
+| `PJSK:card:1475:01` | `02_CANONICAL_STORIES/CARD/1475_01.md` | 2 | 104 | `cc38ef88b81c5fe46077f255e58b684fd29d9640cbc9f749954a7ddb1fd1c1ea` |
+| `PJSK:card:1475:02` | `02_CANONICAL_STORIES/CARD/1475_02.md` | 1 | 104 | `8fe13ca95cc6acce63199bc13a931532041b207ad0a0dd0c22b6b01b36b60d41` |
+| `PJSK:card:1476:01` | `02_CANONICAL_STORIES/CARD/1476_01.md` | 2 | 84 | `f427cefd263705fb6ea53d932736c6baef03491c451aca1c78783377eea3da69` |
+| `PJSK:card:1476:02` | `02_CANONICAL_STORIES/CARD/1476_02.md` | 2 | 80 | `795eda9768d6d69b3a3d1f47771ef3f7ba6d9d2ea7c7f4e0e3182c7ec027608f` |
+| `PJSK:card:1477:01` | `02_CANONICAL_STORIES/CARD/1477_01.md` | 1 | 54 | `3cb52b8b96502685f6c3abfcb0a5a12bd6bb5d6dc44b4e2bb632c8ab861a4471` |
+| `PJSK:card:1477:02` | `02_CANONICAL_STORIES/CARD/1477_02.md` | 1 | 54 | `a72b949fc445c9c4e82be878c2966a9ecbd3fda05ebda4c83a2ff77190ff1429` |
+| `PJSK:card:1478:01` | `02_CANONICAL_STORIES/CARD/1478_01.md` | 1 | 50 | `1f041d7b94142bc3e0a04eaaf174060810182a2da4d33fb27a0ff41c2a24d829` |
+| `PJSK:card:1478:02` | `02_CANONICAL_STORIES/CARD/1478_02.md` | 2 | 69 | `e1fca6509e84267b048cc3c52469f9d4ceff7e8a1b1b2aad7de44a2a706e8ac9` |
+| `PJSK:card:1479:01` | `02_CANONICAL_STORIES/CARD/1479_01.md` | 1 | 68 | `0cbc762e3dabaa6e5f0bdeaa79d5b1a287e04f2dc8f9c0ed3b48ffe362586f7a` |
+| `PJSK:card:1479:02` | `02_CANONICAL_STORIES/CARD/1479_02.md` | 2 | 72 | `9d3bd98f817a91f35d99ee6b2c6f8c365027fb5c453d33dccb1b52fc30a6f613` |
+| `PJSK:card:1480:01` | `02_CANONICAL_STORIES/CARD/1480_01.md` | 1 | 54 | `cb39e5bc0807adc7428119cacc0c24566d7e21600c5d2a6c63bdf1a4aad05e38` |
+| `PJSK:card:1480:02` | `02_CANONICAL_STORIES/CARD/1480_02.md` | 1 | 58 | `14f1e2fd97f1488bf783d72824965b5ecb206a8ff0fdb81295f4fd2fbc24ffff` |
+| `PJSK:card:1481:01` | `02_CANONICAL_STORIES/CARD/1481_01.md` | 1 | 61 | `5b561d34357a905672ac25c44eaa30fbdb97410dc51617672d88a309ceedab65` |
+| `PJSK:card:1481:02` | `02_CANONICAL_STORIES/CARD/1481_02.md` | 1 | 53 | `dbd0e645121392bf5b2ee087506f935ca830c5f2668274d0b662cc29fd9213a8` |
+| `PJSK:area:areatalk_ev_shuffle_65_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_65_001_01.md` | 1 | 10 | `c6eb02baff6e99148488e4f376baec479b1b8b69be543779bd3013a86cc72112` |
+| `PJSK:area:areatalk_ev_shuffle_65_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_65_002_01.md` | 1 | 9 | `f0e992ae83832b4a7c4420b6157855e10a5c67010aa0b285249abd4e126d01cb` |
+| `PJSK:area:areatalk_ev_shuffle_65_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_65_003_01.md` | 1 | 11 | `441db29ce698ef783242917ffe3692fe22b74c85784ea3c13050c98c755811a9` |
+| `PJSK:area:areatalk_ev_shuffle_65_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_shuffle_65_004_01.md` | 1 | 7 | `62c2c051adc55bda1773f1c998c54cdff21216bb7552c2931d9fd8d85e6fc0d3` |
+
+### EVENT_0219 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | Saki SECONDARY / VERY HIGH scoped I3 E0188→E0219: retain the troubling wish while choosing the band; conflict and absence of bandmate disclosure remain. Ichika CO_PRIMARY HIGH–VERY HIGH I2 E0212. Honami/Shiho I1 recalled/group context; group E0171 retained. |
+| MMJ | Airi PRIMARY / VERY HIGH I2 E0198/E0092: reciprocal rest, initiative, craft and received support. Minori/Haruka/Shizuku I1 context; Haruka/group E0213 retained, no semifinal result. |
+| VBS | Kohane CO_PRIMARY / HIGH–VERY HIGH I2 E0135 plus independent E0103: photographic contribution, practical making, gratitude and delivered prints. An/Akito/Toya I1 collective retrospective/ambition context only; all private crisis, hearing and DG owners retained. |
+| WxS | Rui CO_PRIMARY / HIGH–VERY HIGH I2 E0200 plus independent E0144: adaptive mechanism, welcomed technical interest and demonstrated salvage. Other three I1 retrospective group context; no new audition/casting result. |
+| N25 | Ena CO_PRIMARY / VERY HIGH I2 E0184: art effort, chosen reciprocal rest, teaching, received praise and future aim. Kanade/Mafuyu/Mizuki I1 past refuge/group context; no new private disclosure. |
+| Cross-unit relation | Scoped I3 REL-CROSS-SHIBUPON-E0219: five co-authors, creative award, messages and reciprocal future support; earlier dyads and E0214 Shinonome acknowledgment retained. |
+| Epistemic | Scoped Saki preferred-scale E0188→E0219 with bounded Rin/Len receipt; high I2 under shared-SEKAI E0218 for Interstice Miku's private five-counterpart past-memory encounter, consistent with E0162's exceptional Luka comparison. Shared SEKAI E0218 and thought-shard E0153 retained. |
+| Singers / other actors | Distinct current I2 care, encouragement, gifts and craft for School Rin/Len, Stage Miku/Rin/Luka, Street Miku/MEIKO, Wonderland Len/KAITO/plushes and Empty Miku/Len. Five Miku memories remain retrospective, not current universal knowledge. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0219_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The reading preserves the lost grand prize, actual photo receipt and shadow-castle demonstration, reciprocal ordinary care, Saki’s bodily-return/retention order and absence of bandmate disclosure, and historical versus current Miku recipients. Named references and all source dispositions retain exact scope. Earlier histories, private states and all package bytes remain preserved. EVENT_0220 is next; 3 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.
+
+## EVENT_0220 — forward discovery and integrated routing
+
+The complete fully read refreshed-generation envelope is **22 stories / 37 scenes / 1,187 records / 146,549 canonical bytes**: eight core chapters, ten card halves (1483–1487) and four areas. Canonical/pinned-raw/structured integrity, ordered identities, membership and chronology reconcile under PJSK_SOURCE_20261030T035133Z_EVENT_0222. Core, areas, R3 Saki and R2 Shiho release at `2026-10-12T06:00:00Z`; R4 cards at `03:00:00Z`. Pre-outing preparation, sleeping dream, retrospective video and actual post-confrontation reflection retain distinct chronology; publication order does not establish repair. AV remains uninspected.
+
+| Story | Canonical path | Scenes | Records | SHA-256 |
+|---|---|---:|---:|---|
+| `PJSK:event:0220:01` | `02_CANONICAL_STORIES/EVENT/0220_01.md` | 3 | 118 | `a4560126aae3b72e4c73cd4e5beb1a74008f6a43becc9ea29dc49ec9cbae13e8` |
+| `PJSK:event:0220:02` | `02_CANONICAL_STORIES/EVENT/0220_02.md` | 1 | 71 | `dea8e2e97f8f502c7c390e0a424052fedb09b1b4ca0b36ac09919098a1d5d9a5` |
+| `PJSK:event:0220:03` | `02_CANONICAL_STORIES/EVENT/0220_03.md` | 2 | 84 | `9375c65310fd8a90dff10c117f0cc6f69521bbc61ee4a29e68bd459a4126ef4c` |
+| `PJSK:event:0220:04` | `02_CANONICAL_STORIES/EVENT/0220_04.md` | 4 | 78 | `dbf5a0f4cca9381573b1bb8e8ddb25669c4e7b6db9e1025340a4324263dc67ff` |
+| `PJSK:event:0220:05` | `02_CANONICAL_STORIES/EVENT/0220_05.md` | 2 | 71 | `0f2b462e0d5bab5b15e4207d0e3972b7a5c8f3a66f5e07c65b22ef00d4bc709b` |
+| `PJSK:event:0220:06` | `02_CANONICAL_STORIES/EVENT/0220_06.md` | 1 | 50 | `cc12f789a7e6735c5fb7fb76ee4a97c734d26d52be766676ebb234eac26d7eac` |
+| `PJSK:event:0220:07` | `02_CANONICAL_STORIES/EVENT/0220_07.md` | 1 | 69 | `dafa7327b91ea51f2eead66e21a2facee8a1df9b32d32360b6212e72f8915ed1` |
+| `PJSK:event:0220:08` | `02_CANONICAL_STORIES/EVENT/0220_08.md` | 2 | 88 | `d4dfa2cd9a9e9b4650df7e60876ea73009302e9ae61797f6f4d7213a19b0e0e6` |
+| `PJSK:card:1483:01` | `02_CANONICAL_STORIES/CARD/1483_01.md` | 2 | 54 | `c09154706793e440c8f4e11a3d09c98ce5084c365b7f61fb3c80f95f981cc503` |
+| `PJSK:card:1483:02` | `02_CANONICAL_STORIES/CARD/1483_02.md` | 2 | 56 | `26b2cfc68f2415e3fe13263dfe4b8bf1d27e589a8f40dadfa08ed0f706f5dda0` |
+| `PJSK:card:1484:01` | `02_CANONICAL_STORIES/CARD/1484_01.md` | 2 | 52 | `f2f3e4088393c795afed793acfd0691c525d608451e8d69253dee7eb17ad51f3` |
+| `PJSK:card:1484:02` | `02_CANONICAL_STORIES/CARD/1484_02.md` | 1 | 57 | `a11dbf6bf5273a9b3e9c3f1b2897980a2b9811ede7aa9742d0c808acec994e4b` |
+| `PJSK:card:1485:01` | `02_CANONICAL_STORIES/CARD/1485_01.md` | 1 | 49 | `7f4ebb80e45ca866066704a4ba083df568a0b8973e7748e43eef40b7d5581b42` |
+| `PJSK:card:1485:02` | `02_CANONICAL_STORIES/CARD/1485_02.md` | 2 | 55 | `075aaf760d648cacc505a920356704d026d536b34573457fb72876f24addd0e3` |
+| `PJSK:card:1486:01` | `02_CANONICAL_STORIES/CARD/1486_01.md` | 2 | 58 | `fbf255c16e92d790a5b04e0fda6b2767d7c21ef4cbd4dcaac3e27e951f4f3d6a` |
+| `PJSK:card:1486:02` | `02_CANONICAL_STORIES/CARD/1486_02.md` | 1 | 47 | `7f25b7f1e7e36eac5d0a793bb34e402bcd1bcd10444e4fab32475c21d1ed0676` |
+| `PJSK:card:1487:01` | `02_CANONICAL_STORIES/CARD/1487_01.md` | 2 | 50 | `084110a529aea2da7f7f991dc3cf9d60a81e18ee109d42e92d56bec72a7819fa` |
+| `PJSK:card:1487:02` | `02_CANONICAL_STORIES/CARD/1487_02.md` | 2 | 53 | `2c3ed5f5c88b8c71d3ddb2de69f492a899d6b370faff98f0e4a38875e14fc15d` |
+| `PJSK:area:areatalk_ev_band_27_001:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_27_001_01.md` | 1 | 8 | `06ac91c6a1b3c5ed59b96b7393da99a2eda8cc1a88484f82424a3ffd2a099e05` |
+| `PJSK:area:areatalk_ev_band_27_002:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_27_002_01.md` | 1 | 6 | `ffea45a5bdfdb4c5f1ab4fdd2caca7c6676650ace3e5b23a46af52aca0ebc25c` |
+| `PJSK:area:areatalk_ev_band_27_003:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_27_003_01.md` | 1 | 6 | `7656a16229696c5cb7c0abe4d7270ca8767246cc2f6c0fe6b5d0af23e0266276` |
+| `PJSK:area:areatalk_ev_band_27_004:01` | `02_CANONICAL_STORIES/AREA/areatalk_ev_band_27_004_01.md` | 1 | 7 | `89ea43a073719e4689a018924248f9f3998b40040e09dade8c21c4f9e41c1dec` |
+
+### EVENT_0220 routes and impact
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Honami | PRIMARY / VERY HIGH scoped I3 E0121→E0220: preserve musical leadership; add personally invested inquiry, received difficult difference, attempted dialogue, actual institutional delay and continued search without guaranteed agreement. Independent E0158 retained. |
+| Leo/need / Saki, Ichika, Shiho | CO_PRIMARY / VERY HIGH I2. Saki E0219 conscious retention, Ichika E0212 chosen priority and Shiho E0162/E0148/E0191 remain; disclosure, hurt and unanswered questions are distinct, not new completed resolutions. |
+| Leo/need group / knowledge | Scoped I3 group E0171→E0220 strained future deliberation; preferred-scale knowledge E0219→E0220 with new human recipients; new LN-EPI-LABEL-TRANSFER-E0220 concrete offer and postponed response. No dissolution, transfer or agreed solution. |
+| MMJ | INCIDENTAL / I1 named Haruka/Minori/Shizuku schooling/work examples and collective food-program reference; Airi has no separate enactment. No new decision, recipient or competition result. |
+| WxS | INCIDENTAL / I1 Tsukasa committee/family report and Emu recommendation; Nene/Rui I0. No new troupe or audition result. |
+| VBS | NONE / I0 all four. |
+| N25 | NONE / I0 all four. |
+| School singers / Solis | HIGH local I2 distinct advice, limited reports, ordinary support and reciprocal thanks. MEIKO/KAITO's suspicion precedes disclosure; no universal knowledge. Existing Solis affiliation retained; Shindo accepts a response delay, not a signed transfer. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0220_DEEP_READING.md) owns shared causes, every source disposition, seven lenses, exact locators and reconstruction deltas. The reading preserves Saki’s operative retention, Ichika’s actual prior choice and unanswered present question, Shiho’s distinct hurt and pause request, and Honami’s unresolved leadership responsibility. Dream, pre-outing cards, direct disclosure, partial overhearing, singer reports, limited work and received gifts retain separate scopes. No transfer, breakup, reconciliation or universal disclosure is invented; historical bodies and all package bytes remain preserved. EVENT_0221 is next; 2 event transactions and 449 supplemental stories remain. Reconstruction remains R3 through EVENT_0140; AV inspection remains absent.

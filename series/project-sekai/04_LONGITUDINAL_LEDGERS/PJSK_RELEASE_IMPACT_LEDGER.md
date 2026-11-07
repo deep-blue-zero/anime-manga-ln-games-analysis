@@ -4,13 +4,13 @@ artifact_type: ledger
 scope: RELEASE_IMPACT
 generation: V1
 status: canonical
-current_event_boundary: EVENT_0170
+current_event_boundary: EVENT_0220
 reconstruction_package_cutoff: EVENT_0140
 source_boundary: "forward EVENT_0170: N25 actual four-person recommitment and bounded Empty tree/shard/song epistemic successors I3; shared possible lives remain nonactual; complete 29-story envelope verified; forward EVENT_0169: VBS witnessed world-stage benchmark and collective conditional RUSH BEATS route I3; Kohane street receipt and Embers rivalry bounded I2; complete 24-story envelope verified; forward EVENT_0168: MMJ informed LUMINA entry and distributed preparation I3; Airi childhood heart/recipient origin and reported Arisawa–Hiyori transmission high I2; complete 27-story envelope verified; forward EVENT_0167: WxS actual quartet recommitment and bounded Wonderland harbor tree/shard epistemic successor I3; shared professional futures remain nonactual; complete 26-story envelope verified; forward EVENT_0165: Mafuyu family trial and renewed refuge, nonmonotonic self-state, Kanade–Mafuyu relation, and untested Empty key I3; complete 24-story envelope verified; Emu institution-facing experiment and reciprocal Emu–Ryō collaboration I3; first audience response bounded, long-term viability open; complete 23-story envelope verified; VBS group recommitment and bounded Street tree/shard epistemic successors I3; shared possible lives remain nonactual; complete 24-story envelope verified; forward EVENT_0162: Leo/need staged arena opener; Shiho operative and group aspiration I3; exceptional fragment and audience limits I2; complete 33-story envelope verified; forward EVENT_0161: Mafuyu-chosen conditional maternal contact I3; distinct testimony, Kanade overwork and N25 care I2; complete 25-story envelope verified; forward EVENT_0160: Tsukasa site-responsive farewell operative I3 under independent ride inspection; complete 23-story envelope verified; forward EVENT_0159: Saki–Emu beyond-committee school friendship I3; recipient-specific paid event work high I2; complete 23-story envelope verified; forward EVENT_0158: Honami recipient-tested storytelling operative and reciprocal Honami–Nene co-performance relationship I3; complete 23-story envelope verified; forward EVENT_0157: Haruka fallible hope vow, MMJ distributed scarcity response, and Arisawa Grand Prix invitation at high I2; complete 26-story envelope verified; forward EVENT_0156: Shizuku recipient-specific embroidery operative and Shizuku–Mafuyu reciprocal creative relationship I3; complete 23-story envelope verified; forward EVENT_0155: Saki subject-informed visual-expression successor and reciprocal Saki–Kanade cross-unit relation I3; complete 23-story envelope verified; forward EVENT_0154: Toya cross-genre synthesis, VBS enacted international session, Shūji sibling support, and father-history relationship successors I3; complete 25-story envelope verified; forward EVENT_0153: Haruka parent-directed guilt, An grief-memory integration, Airi–Akito reciprocal-support, and human thought-shard ontology I3; complete 27-story envelope verified; forward EVENT_0152: Rui participant-authored direction and Rui–Kohane creator–recipient relationship successors I3; complete 23-story envelope verified; forward EVENT_0151: Shizuku chosen-responsibility and Shizuku–Yuu professional-rivalry successors I3; complete 24-story envelope verified; forward EVENT_0150: Mizuki conditional-return, Ena–Mizuki repair, N25 group, MEIKO, and disclosure-knowledge successors I3; complete 31-story envelope verified; forward EVENT_0149: Nene full-stake competitive-acting successor and Nene–Byakkomachi relationship I3; complete 25-story envelope verified; forward EVENT_0148: Shiho rest-and-contingency and Hinomori-sister owners I3; complete 24-story envelope verified; forward EVENT_0147: Saki audience-participation, Saki–Iori, and Solis execution successors I3; complete 26-story envelope verified; forward EVENT_0146: Akito post-goal expressive, VBS group, Slade rivalry, and Street-SEKAI open-path successors I3; complete 28-story envelope verified; forward EVENT_0145: Mizuki disclosure-attempt, Ena-Mizuki rupture, and forced-knowledge successors I3; complete 22-story envelope verified; forward EVENT_0144: Nene distributed-production and Rui loneliness-integration successors I3; complete 29-story envelope verified; forward EVENT_0143: Ichika song-specific professional-choice, Ichika–School Miku, and Solis relationship successors I3; complete 24-story envelope verified; forward EVENT_0142: Haruka recipient-responsive public challenge and Haruka–An reciprocal friendship successors I3; complete 23-story envelope verified; forward EVENT_0141: Emu participant-centered implementation and Mafuyu–Emu reciprocal-care relationship successors I3; complete 23-story envelope verified; forward EVENT_0140: bounded origin-memory, repeatable counterpart-observation, and shared-growth SEKAI ontology successor I3; complete 36-story envelope verified; forward EVENT_0139: Toya recipient-facing music operative and Kanade reciprocal-creative relation I3; complete 23-story envelope verified; forward EVENT_0138: Airi ideal-performance operative and Akari reciprocal-peer relation I3; complete 29-story envelope verified; forward EVENT_0137: School-SEKAI station epistemic I3 and Leo/need collective-journey group successor; complete 30-story envelope verified; forward EVENT_0136: Tsukasa embodied-acting operative and Onijima mentorship I3; complete 28-story envelope verified; forward EVENT_0135: RAD BLAST surpassal, Kohane operative, VBS group, mentorship, and Street-audience successors; complete 24-story envelope verified; forward EVENT_0134: Mafuyu fear-aware disclosure and father-alliance successors; complete 28-story envelope verified; forward EVENT_0133: Haruka producer-method I3 and MMJ group-governance successor; complete 26-story envelope verified; forward EVENT_0132: Minori-Nene reciprocal public-work relationship I3; complete 23-story envelope verified; forward EVENT_0131: Emu audience-perspective acting method and Mikazuki professional relation; complete 23-story envelope verified; forward EVENT_0130: Stage flower-field epistemic I3 and MMJ shared-direction group successor; complete 30-story envelope verified; forward EVENT_0129: An fear-aware rivalry, An-Kohane partner, and Street-audience reactivation successors; complete 27-story envelope verified; forward EVENT_0128: Ichika recipient-led arrangement, Ichika-Saki coauthorship, and Solis debut-release successors; complete 27-story envelope verified; forward EVENT_0127: Ena vocational-commitment and father reciprocal-knowledge relationship successors; complete 27-story envelope verified; forward EVENT_0126: bounded Akito-Honami cross-unit support owner and Max-specific fear-work integration; complete 23-story envelope verified; forward EVENT_0125: Toya integrated-musical-history operative and father artistic-recognition relationship successors; complete 24-story envelope verified; forward EVENT_0124: Wonderland responsive-voyage epistemic I3 and WxS shared-growth group successor; complete 30-story envelope verified; forward EVENT_0123: mixed high-I2 recipient-care gathering; very strong Kanade–Ichika relationship application; no new owner; complete 23-story envelope verified; forward EVENT_0122: Minori recipient-hope and MMJ physical-base successors at I3; bounded landlord relation; complete 27-story envelope verified; forward EVENT_0121: Honami musical-leadership and Leo/need group-purpose/leader successors at I3; complete 24-story envelope verified; forward EVENT_0120: mixed photo-craft I2; bounded Kohane–Ena competitive-recognition relationship; no new I3 operative; complete 23-story envelope verified; forward EVENT_0119: Rui medium-aware direction operative I3; bounded Rui–Ohara professional relationship I3; group production support preserved; complete 23-story envelope verified; forward EVENT_0118: expanded Street-SEKAI epistemic I3; four distinct personal routes converge without human operative replacement; complete 35-story envelope verified; forward EVENT_0117: Mizuki fear-aware preference-support successor I3; Mizuki–sister reciprocal relationship successor I3; Shiho and Shizuku bounded I2 applications; complete 24-story envelope verified; forward EVENT_0116: Kanade permitted-desire successor I3; one-sided Kanade–father I3; bounded Mafuyu–father I2; other N25 and Empty authorities preserved; complete 28-story envelope verified; forward EVENT_0115: ensemble I2; MMJ and LN animal-care, safety-response, chosen-leisure, and Stage-local continuity; no new I3 or named I2 owner; complete 24-story envelope verified; EVENT_0099–0115 goal boundary reached; forward EVENT_0114: Nene person-specific collaborative-directing operative I3; scoped Nene–classmates reciprocal integration I3; VBS production labor and Mizuki costume teaching preserved proportionally; complete 23-story envelope verified; forward EVENT_0113: Tsukasa sparse-role acting operative I3; scoped reciprocal Tsukasa–Reki professional relation I3; independent troupe and Wonderland topology preserved; complete 24-story envelope verified; forward EVENT_0112: Mafuyu shared identity-search successor I3; Empty-SEKAI lake epistemic I3; bounded Honami–Mafuyu domestic-support I2; other N25 humans, group, and singers preserved; complete 30-story envelope verified; forward EVENT_0111: Shizuku choice-support operative I3; MMJ–Saito manager I3; Saito-family permission I3; group and Stage topology preserved; complete 25-story envelope verified; forward EVENT_0110: Shiho recipient-purpose operative I3; bounded historical Shiho–Sumire I2; Leo/need group, Solis, individual-purpose, and School routes preserved; complete 28-story envelope verified; forward EVENT_0109: Akito expressive-release operative I3; group–Ken executed-mentorship successor I3; scoped Street-audience rekindling I3; bounded Street Luka I2; complete 24-story envelope verified; forward EVENT_0108: ensemble I2; Ichika recursive-connection purpose and cross-unit school/post-crisis continuity; no new I3 owner; complete 28-story envelope verified; forward EVENT_0107: An–Mizuki reciprocal school-friendship relationship successor I3; no new character operative; complete 23-story envelope verified; forward EVENT_0106: Saki reciprocal-memory operative I3; Haruka–Saki relationship successor I3; Saki–Airi reciprocal hope relationship I3; complete 23-story envelope verified; forward EVENT_0105: bounded cross-SEKAI direct-contact epistemic successor I3; all five human units receive manifestation-support I2; complete 25-story envelope verified; forward EVENT_0104: Emu stewardship operative I3; independent WxS group I3; bounded park institutional handoff I3; complete 23-story envelope verified; forward EVENT_0103: Kohane singer-pride operative I3; group–Ken mentorship I3; Toya–father conditional-permission successor I3; complete 23-story envelope verified; forward EVENT_0102: Airi–Mizuki direct relationship I3; bounded Saki–Mizuki work relation I2; Airi professional skill and MMJ group strong I2; complete 23-story envelope verified; forward EVENT_0101: formal Solis affiliation I3; Ichika recursive connection-purpose successor I3; Leo/need group and School topology strong I2; all four other human units cross-unit high I2 with recipient limits; complete 23-story envelope verified; forward EVENT_0100: Mafuyu self-authored survival departure I3; Mafuyu-mother direct-rejection and separation I3; Kanade-Mafuyu enacted refuge I3; Empty KAITO bounded crisis-collaboration I3; complete 23-story envelope verified; all five human-unit routes resolved; forward EVENT_0099: Rui outside-show friendship operative I3 and Rui-classmates relation I3; bounded Airi-Mafuyu public-school relation I2; prior Rui, WxS, N25, MMJ and manifestation authority preserved; complete 24-story envelope verified; all five human-unit routes resolved; Universal screening and authorized forward integration through EVENT_0143; MMJ I3 with all five unit routes resolved; continuation complete; VBS main-story history through street_01_20; MMJ main-story history through mmj_01_20; WXS main-story history through wonder_01_20; historical EVENT_0001 LN I2, WxS/MMJ I1 and N25/VBS I0 fully reconciled; historical EVENT_0002 LN I1 and other-unit dispositions reconciled, existing N25 I3 preserved; historical EVENT_0003 WXS I3 and LN I1 integrated, other units I0; EVENT_0004 omitted area009 reconciled, original N25 I2 preserved; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified; historical EVENT_0012 VBS Toya operative I3; MMJ Minori and N25 Ena-context I1, LN/WxS I0; 28-story envelope verified; historical EVENT_0013 LN unresolved I2 and Ichika–Nene relationship I3; WxS/LN dyads I2, MMJ/VBS I1, N25 I0; 32-story envelope verified; historical EVENT_0015 WxS I2 open park-threat knowledge and planning; LN relationship I2, MMJ/VBS/N25 I0; 29-story envelope verified; historical EVENT_0016 LN/WxS sibling epistemic and relationship I3; Toya–Tsukasa cross-unit relationship I3; Honami and Toya I2; complete 32-story envelope verified; historical EVENT_0017 MMJ Minori recipient-specific hope I3; group and established mentorship dyads I2; LN ordinary I1; complete 25-story envelope verified; historical EVENT_0018 LN Ichika public-performance epistemic I3; Ichika–Kohane relationship I3; LN/VBS/WxS/MMJ/N25 bounded I1/I2 refinements; complete 29-story envelope verified; historical EVENT_0020 LN group-direction I3 at LN-REL-G-E0020; bounded LN/MMJ/VBS/WxS and School-manifestation I1/I2 refinements; complete 31-story envelope verified; historical EVENT_0021 Akito operative I3, Akito-Toya successor I3 and bounded Akito-Arata rivalry I3; VBS/MMJ/Street refinements; complete 23-story envelope verified; historical EVENT_0022 Airi-Ena cross-unit relationship I3; N25, MMJ, WxS, family and Stage refinements; complete 26-story envelope verified; historical EVENT_0023 Haruka self-directed-rest operative I3 and local Stage MEIKO identity; complete 29-story envelope verified; historical EVENT_0024 Rui outsider-collaboration I3, Toya-Rui relationship I3, Toya-father de-escalation successor I3 and Akito-Rui relationship I2; complete 25-story envelope verified; historical EVENT_0025 provisional park-state successor I3 with bounded group, park-support, cross-unit and Wonderland-singer I1/I2; complete 30-story envelope verified; historical EVENT_0027 Saki recipient-and-feeling composition operative I3 with bounded LN group, care, School-singer and cross-unit I1/I2; complete 27-story envelope verified; historical EVENT_0028 Kohane relational-confidence operative I3 with preserved VBS partner/group topology, An-side open pressure and Street-local I2; complete 26-story envelope verified; historical universal screens complete; forward EVENT_0091: Saki two-aim professional rule and prospective Solis affiliation under review are distinct I3 owners; LN group direction remains strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0090 to EVENT_0091; forward EVENT_0092: Airi communication operative and Airi–Ayumi relationship are distinct I3 owners; Stage KAITO is local I2; MMJ group remains strong I2; complete 26-story envelope verified; forward boundary advances from EVENT_0091 to EVENT_0092; forward EVENT_0093: Mizuki survival-retreat operative and Mafuyu–mother relationship are distinct I3 owners; two scoped epistemic I2 records added; N25 group and Mizuki–Mafuyu relationship remain strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0092 to EVENT_0093; forward EVENT_0094: Haruka chosen-friendship operative I3; school network and Ichika–Nene relationship receive the only strong I2 increments; MMJ group, LN states and Stage topology preserved; complete 23-story envelope verified; forward boundary advances from EVENT_0093 to EVENT_0094; forward EVENT_0095: Nene integrated-musical-acting operative I3 and bounded Nene–Yuka high-I2 relation; WxS group, Rui, Sakurako and Wonderland relations strong I2; Nene EVENT_0008 operative preserved; complete 25-story envelope verified; forward boundary advances from EVENT_0094 to EVENT_0095; forward EVENT_0096: relationship-centered I2 with no new I3; Kanade–Honami very strong I2; Honami operative strong I2; bounded Honami–Mizuki I2; Kanade, Honami–Emu, School and WxS topology preserved; complete 24-story envelope verified; forward boundary advances from EVENT_0095 to EVENT_0096; forward EVENT_0097: An grief-aware informed-pursuit operative I3; An–Ken concealment-rupture successor I3 with repair open; bounded high-I2 An–Nagi posthumous relation; VBS group, partner, individual, rivalry and Street topology preserved; complete 26-story envelope verified; forward boundary advances EVENT_0096 to EVENT_0097; final forward EVENT_0098: Minori structural-choice operative I3; bounded local Stage Len I2 distinct from Stage KAITO; Minori hope, Haruka friendship/capacity, MMJ group, cross-unit and collective Stage owners preserved; complete 24-story envelope verified; forward boundary advances EVENT_0097 to EVENT_0098; authorized queue complete"
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-analysis_cutoff: "forward EVENT_0158: Honami recipient-tested storytelling operative and reciprocal Honami–Nene co-performance relationship I3; complete 23-story envelope verified; forward EVENT_0157: Haruka fallible hope vow, MMJ distributed scarcity response, and Arisawa Grand Prix invitation at high I2; complete 26-story envelope verified; forward EVENT_0156: Shizuku recipient-specific embroidery operative and Shizuku–Mafuyu reciprocal creative relationship I3; complete 23-story envelope verified; forward EVENT_0155: Saki subject-informed visual-expression successor and reciprocal Saki–Kanade cross-unit relation I3; complete 23-story envelope verified; forward EVENT_0154: Toya cross-genre synthesis, VBS enacted international session, Shūji sibling support, and father-history relationship successors I3; complete 25-story envelope verified; forward EVENT_0153: Haruka parent-directed guilt, An grief-memory integration, Airi–Akito reciprocal-support, and human thought-shard ontology I3; complete 27-story envelope verified; forward EVENT_0152: Rui participant-authored direction and Rui–Kohane creator–recipient relationship successors I3; complete 23-story envelope verified; forward EVENT_0151: Shizuku chosen-responsibility and Shizuku–Yuu professional-rivalry successors I3; complete 24-story envelope verified; forward EVENT_0150: Mizuki conditional-return, Ena–Mizuki repair, N25 group, MEIKO, and disclosure-knowledge successors I3; complete 31-story envelope verified; forward EVENT_0149: Nene full-stake competitive-acting successor and Nene–Byakkomachi relationship I3; complete 25-story envelope verified; forward EVENT_0148: Shiho rest-and-contingency and Hinomori-sister owners I3; complete 24-story envelope verified; forward EVENT_0147: Saki audience-participation, Saki–Iori, and Solis execution successors I3; complete 26-story envelope verified; forward EVENT_0146: Akito post-goal expressive, VBS group, Slade rivalry, and Street-SEKAI open-path successors I3; complete 28-story envelope verified; forward EVENT_0145: Mizuki disclosure-attempt, Ena-Mizuki rupture, and forced-knowledge successors I3; complete 22-story envelope verified; forward EVENT_0144: Nene distributed-production and Rui loneliness-integration successors I3; complete 29-story envelope verified; forward EVENT_0143: Ichika song-specific professional-choice, Ichika–School Miku, and Solis relationship successors I3; complete 24-story envelope verified; forward EVENT_0142: Haruka recipient-responsive public challenge and Haruka–An reciprocal friendship successors I3; complete 23-story envelope verified; forward EVENT_0141: Emu participant-centered implementation and Mafuyu–Emu reciprocal-care relationship successors I3; complete 23-story envelope verified; forward EVENT_0140: bounded origin-memory, repeatable counterpart-observation, and shared-growth SEKAI ontology successor I3; complete 36-story envelope verified; forward EVENT_0139: Toya recipient-facing music operative and Kanade reciprocal-creative relation I3; complete 23-story envelope verified; forward EVENT_0138: Airi ideal-performance operative and Akari reciprocal-peer relation I3; complete 29-story envelope verified; forward EVENT_0137: School-SEKAI station epistemic I3 and Leo/need collective-journey group successor; complete 30-story envelope verified; forward EVENT_0136: Tsukasa embodied-acting operative and Onijima mentorship I3; complete 28-story envelope verified; forward EVENT_0135: RAD BLAST surpassal, Kohane operative, VBS group, mentorship, and Street-audience successors; complete 24-story envelope verified; forward EVENT_0134: Mafuyu fear-aware disclosure and father-alliance successors; complete 28-story envelope verified; forward EVENT_0133: Haruka producer-method I3 and MMJ group-governance successor; complete 26-story envelope verified; forward EVENT_0132: Minori-Nene reciprocal public-work relationship I3; complete 23-story envelope verified; forward EVENT_0131: Emu audience-perspective acting method and Mikazuki professional relation; complete 23-story envelope verified; forward EVENT_0130: Stage flower-field epistemic I3 and MMJ shared-direction group successor; complete 30-story envelope verified; forward EVENT_0129: An fear-aware rivalry, An-Kohane partner, and Street-audience reactivation successors; complete 27-story envelope verified; forward EVENT_0128: Ichika recipient-led arrangement, Ichika-Saki coauthorship, and Solis debut-release successors; complete 27-story envelope verified; forward EVENT_0127: Ena vocational-commitment and father reciprocal-knowledge relationship successors; complete 27-story envelope verified; forward EVENT_0126: bounded Akito-Honami cross-unit support owner and Max-specific fear-work integration; complete 23-story envelope verified; forward EVENT_0125: Toya integrated-musical-history operative and father artistic-recognition relationship successors; complete 24-story envelope verified; forward EVENT_0124: Wonderland responsive-voyage epistemic I3 and WxS shared-growth group successor; complete 30-story envelope verified; forward EVENT_0123: mixed high-I2 recipient-care gathering; very strong Kanade–Ichika relationship application; no new owner; complete 23-story envelope verified; forward EVENT_0122: Minori recipient-hope and MMJ physical-base successors at I3; bounded landlord relation; complete 27-story envelope verified; forward EVENT_0121: Honami musical-leadership and Leo/need group-purpose/leader successors at I3; complete 24-story envelope verified; forward EVENT_0120: mixed photo-craft I2; bounded Kohane–Ena competitive-recognition relationship; no new I3 operative; complete 23-story envelope verified; forward EVENT_0119: Rui medium-aware direction operative I3; bounded Rui–Ohara professional relationship I3; group production support preserved; complete 23-story envelope verified; forward EVENT_0118: expanded Street-SEKAI epistemic I3; four distinct personal routes converge without human operative replacement; complete 35-story envelope verified; forward EVENT_0117: Mizuki fear-aware preference-support successor I3; Mizuki–sister reciprocal relationship successor I3; Shiho and Shizuku bounded I2 applications; complete 24-story envelope verified; forward EVENT_0116: Kanade permitted-desire successor I3; one-sided Kanade–father I3; bounded Mafuyu–father I2; other N25 and Empty authorities preserved; complete 28-story envelope verified; forward EVENT_0115: ensemble I2; MMJ and LN animal-care, safety-response, chosen-leisure, and Stage-local continuity; no new I3 or named I2 owner; complete 24-story envelope verified; EVENT_0099–0115 goal boundary reached; forward EVENT_0114: Nene person-specific collaborative-directing operative I3; scoped Nene–classmates reciprocal integration I3; VBS production labor and Mizuki costume teaching preserved proportionally; complete 23-story envelope verified; forward EVENT_0113: Tsukasa sparse-role acting operative I3; scoped reciprocal Tsukasa–Reki professional relation I3; independent troupe and Wonderland topology preserved; complete 24-story envelope verified; forward EVENT_0112: Mafuyu shared identity-search successor I3; Empty-SEKAI lake epistemic I3; bounded Honami–Mafuyu domestic-support I2; other N25 humans, group, and singers preserved; complete 30-story envelope verified; forward EVENT_0111: Shizuku choice-support operative I3; MMJ–Saito manager I3; Saito-family permission I3; group and Stage topology preserved; complete 25-story envelope verified; forward EVENT_0110: Shiho recipient-purpose operative I3; bounded historical Shiho–Sumire I2; Leo/need group, Solis, individual-purpose, and School routes preserved; complete 28-story envelope verified; forward EVENT_0109: Akito expressive-release operative I3; group–Ken executed-mentorship successor I3; scoped Street-audience rekindling I3; bounded Street Luka I2; complete 24-story envelope verified; forward EVENT_0108: ensemble I2; Ichika recursive-connection purpose and cross-unit school/post-crisis continuity; no new I3 owner; complete 28-story envelope verified; forward EVENT_0107: An–Mizuki reciprocal school-friendship relationship successor I3; no new character operative; complete 23-story envelope verified; forward EVENT_0106: Saki reciprocal-memory operative I3; Haruka–Saki relationship successor I3; Saki–Airi reciprocal hope relationship I3; complete 23-story envelope verified; forward EVENT_0105: bounded cross-SEKAI direct-contact epistemic successor I3; all five human units receive manifestation-support I2; complete 25-story envelope verified; forward EVENT_0104: Emu stewardship operative I3; independent WxS group I3; bounded park institutional handoff I3; complete 23-story envelope verified; forward EVENT_0103: Kohane singer-pride operative I3; group–Ken mentorship I3; Toya–father conditional-permission successor I3; complete 23-story envelope verified; forward EVENT_0102: Airi–Mizuki direct relationship I3; bounded Saki–Mizuki work relation I2; Airi professional skill and MMJ group strong I2; complete 23-story envelope verified; forward EVENT_0101: formal Solis affiliation I3; Ichika recursive connection-purpose successor I3; Leo/need group and School topology strong I2; all four other human units cross-unit high I2 with recipient limits; complete 23-story envelope verified; forward EVENT_0100: Mafuyu self-authored survival departure I3; Mafuyu-mother direct-rejection and separation I3; Kanade-Mafuyu enacted refuge I3; Empty KAITO bounded crisis-collaboration I3; complete 23-story envelope verified; all five human-unit routes resolved; forward EVENT_0099: Rui outside-show friendship operative I3 and Rui-classmates relation I3; bounded Airi-Mafuyu public-school relation I2; prior Rui, WxS, N25, MMJ and manifestation authority preserved; complete 24-story envelope verified; all five human-unit routes resolved; EVENT_0098 sole Minori operative I3 and bounded local-I2 Stage Len; authorized queue complete; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified; historical EVENT_0012 VBS Toya operative I3; MMJ Minori and N25 Ena-context I1, LN/WxS I0; 28-story envelope verified; historical EVENT_0013 LN unresolved I2 and Ichika–Nene relationship I3; WxS/LN dyads I2, MMJ/VBS I1, N25 I0; 32-story envelope verified; historical EVENT_0015 WxS I2 open park-threat knowledge and planning; LN relationship I2, MMJ/VBS/N25 I0; 29-story envelope verified; historical EVENT_0016 LN/WxS sibling epistemic and relationship I3; Toya–Tsukasa cross-unit relationship I3; Honami and Toya I2; complete 32-story envelope verified; historical EVENT_0017 MMJ Minori recipient-specific hope I3; group and established mentorship dyads I2; LN ordinary I1; complete 25-story envelope verified; historical EVENT_0018 LN Ichika public-performance epistemic I3; Ichika–Kohane relationship I3; LN/VBS/WxS/MMJ/N25 bounded I1/I2 refinements; complete 29-story envelope verified; historical EVENT_0020 LN group-direction I3 at LN-REL-G-E0020; bounded LN/MMJ/VBS/WxS and School-manifestation I1/I2 refinements; complete 31-story envelope verified; historical EVENT_0021 Akito operative I3, Akito-Toya successor I3 and bounded Akito-Arata rivalry I3; VBS/MMJ/Street refinements; complete 23-story envelope verified; historical EVENT_0022 Airi-Ena cross-unit relationship I3; N25, MMJ, WxS, family and Stage refinements; complete 26-story envelope verified; historical EVENT_0023 Haruka self-directed-rest operative I3 and local Stage MEIKO identity; complete 29-story envelope verified; historical EVENT_0024 Rui outsider-collaboration I3, Toya-Rui relationship I3, Toya-father de-escalation successor I3 and Akito-Rui relationship I2; complete 25-story envelope verified; historical EVENT_0025 provisional park-state successor I3 with bounded group, park-support, cross-unit and Wonderland-singer I1/I2; complete 30-story envelope verified; historical EVENT_0027 Saki recipient-and-feeling composition operative I3 with bounded LN group, care, School-singer and cross-unit I1/I2; complete 27-story envelope verified; historical EVENT_0028 Kohane relational-confidence operative I3 with preserved VBS partner/group topology, An-side open pressure and Street-local I2; complete 26-story envelope verified; historical universal screens complete; forward EVENT_0091: Saki two-aim professional rule and prospective Solis affiliation under review are distinct I3 owners; LN group direction remains strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0090 to EVENT_0091; forward EVENT_0092: Airi communication operative and Airi–Ayumi relationship are distinct I3 owners; Stage KAITO is local I2; MMJ group remains strong I2; complete 26-story envelope verified; forward boundary advances from EVENT_0091 to EVENT_0092; forward EVENT_0093: Mizuki survival-retreat operative and Mafuyu–mother relationship are distinct I3 owners; two scoped epistemic I2 records added; N25 group and Mizuki–Mafuyu relationship remain strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0092 to EVENT_0093; forward EVENT_0094: Haruka chosen-friendship operative I3; school network and Ichika–Nene relationship receive the only strong I2 increments; MMJ group, LN states and Stage topology preserved; complete 23-story envelope verified; forward boundary advances from EVENT_0093 to EVENT_0094; forward EVENT_0095: Nene integrated-musical-acting operative I3 and bounded Nene–Yuka high-I2 relation; WxS group, Rui, Sakurako and Wonderland relations strong I2; Nene EVENT_0008 operative preserved; complete 25-story envelope verified; forward boundary advances from EVENT_0094 to EVENT_0095; forward EVENT_0096: relationship-centered I2 with no new I3; Kanade–Honami very strong I2; Honami operative strong I2; bounded Honami–Mizuki I2; Kanade, Honami–Emu, School and WxS topology preserved; complete 24-story envelope verified; forward boundary advances from EVENT_0095 to EVENT_0096; forward EVENT_0097: An grief-aware informed-pursuit operative I3; An–Ken concealment-rupture successor I3 with repair open; bounded high-I2 An–Nagi posthumous relation; VBS group, partner, individual, rivalry and Street topology preserved; complete 26-story envelope verified; forward boundary advances EVENT_0096 to EVENT_0097; final forward EVENT_0098: Minori structural-choice operative I3; bounded local Stage Len I2 distinct from Stage KAITO; Minori hope, Haruka friendship/capacity, MMJ group, cross-unit and collective Stage owners preserved; complete 24-story envelope verified; forward boundary advances EVENT_0097 to EVENT_0098; authorized queue complete"
+analysis_cutoff: "refreshed-source EVENT_0220: Honami leadership E0121 to E0220, strained Leo/need group E0171 to E0220, disclosed Saki preferred-scale knowledge and pending label offer I3; other operatives retained, no solved conflict or transfer; complete 22-story envelope verified; refreshed-source EVENT_0219: Saki consciously retains unresolved preferred scale while choosing the band, with bounded knowledge successor; new five-person Shibupon relation and high-I2 Interstice Miku past-memory receipt under existing shared access; five core human operatives and existing groups preserved; complete 26-story envelope verified; refreshed-source EVENT_0218: shared-world EPI E0215 to E0218 and common-place relation I3; twenty-human operatives and separate prior cohorts retained; 95 memberships closed with 43 newly read stories and 52 explicit prior-read reuses; refreshed-source EVENT_0217: scoped Olivia encounter and announced audition knowledge I3; Nene craft/leadership/self-continuity and all WxS human/group owners preserved with actual performance, ordinary exchange and bounded future ambitions; complete 22-story envelope verified; refreshed-source EVENT_0216: scoped rival-trust crisis and warehouse evidence I3; historical partnership, ordinary capacities and disturbed aftermath strengthen VBS human/local-singer foundations without personal successors; complete 22-story envelope verified; refreshed-source EVENT_0215: scoped executed cross-SEKAI party network I3 and narrow shared-world epistemic successor; all twenty human operatives and five groups preserved at secondary I2; complete 25-story envelope verified; refreshed-source EVENT_0214: received Ena–Akito past-harm acknowledgment and shared-world epistemic successors I3; scoped mixed-cohort and manga-brother relations I3; principal human operatives retained; complete 21-story envelope verified; terminal EVENT_0213: Haruka E0190 to E0213 and MMJ group E0176 to E0213 scoped I3, bounded semifinal knowledge I3 and Chiharu I2; 22-story envelope verified; no next authorized event; forward EVENT_0212: Ichika E0182 to E0212 scoped career-responsibility choice, bounded career-knowledge I3, collective and other-human I2; 22-story envelope verified; forward EVENT_0211: shared-world E0207 to E0211, completed cross-unit cooperation, external friendship repair and bounded autobiographical receipt I3; human operatives retained; 21-story envelope verified; forward EVENT_0210: very strong N25 ordinary-life, artistic-memory and received-care I2; existing human and group scopes retained; 22-story envelope verified; forward EVENT_0209: independent Nene self-continuity I3; Minori and Toya existing states strongly reinforced; complete 26-story envelope verified; forward EVENT_0208: Tsukasa E0178 to E0208, group E0178 to E0208 and bounded personal-memory epistemic I3; other human scopes retained; 24-story envelope verified; forward EVENT_0207: MF-E0200→E0207 selective enacted presentation I3; Mafuyu-Shizuku E0156→E0207 I3; separate New Light cohort and video-creator support relations I3; EPI shared-world E0205→E0207; other principal helpers very strong I2; forward EVENT_0206: Mizuki E0199, Kanade E0192, Airi E0198 and MMJ group E0176 very strong I2; bounded Shibayama care/accepted memorial relation I2; grief, animal subjectivity and future capacity remain limited; forward EVENT_0205: current Minori/Shiho/An/Tsukasa very strong I2; EPI-PJSK-SEKAI-E0202→E0205 bounded shared-world evidence I3, Dreamers cross-collaboration and external dancer partnership I3; conditional contact, privacy and unawarded careers retained; forward EVENT_0204: Kohane KH-E0135 and An E0201 very strong I2; actual main-competition qualification; bounded VBS-DG E0204 relationship and divided DG knowledge I3, private adverse assessment without specified executed plan; forward EVENT_0203: Honami E0121/E0158, group E0171 and Solis E0147 very strong I2 through received rest, newly specified childhood history, included preference and actual private music; Saki preferred-scale conflict and N25 unequal food-note knowledge preserved; forward EVENT_0202: EPI-PJSK-SEKAI-E0180→E0202 temporary human access and cross-unit knowledge I3; bounded Passerelle collaboration and Emu-attendant reciprocal remembrance I3; four leads very strong I2 with private histories and inaccessible ending preserved; forward EVENT_0201: An E0153→E0201 tested expressive-language method I3; bounded Ways reciprocal rivalry I3; first-stage win only; current Kohane KH-E0135 spelling restored by explicit erratum; forward EVENT_0200: Rui E0172→E0200 in-role film coordination I3; bounded Rui-Nagamine I3; Mafuyu E0189→E0200 recognized self-discard danger I3; Shizuku past-self integration very strong I2; forward EVENT_0199: Mizuki E0150→E0199 tested conditional fashion/Nightcord commitment I3; Mafuyu-Mizuki reciprocal future-support I3; costly completed dual work, unselected school and unresolved Kanade strategy pause; forward EVENT_0198: Airi E0138→E0198 embodied role inquiry, negotiated continuous co-performance and return transfer I3; Airi-Mao professional recognition I3; actual broadcast, bounded reception and remaining limits; forward EVENT_0197: Ena-Kohane reciprocal preparation/co-performance relationship I3; Ena E0184 retained; bounded Empty Len/Iwo contacts; authorial receipt distinct from conjectured biography; forward EVENT_0196: Emu-El E0196 reciprocal peer support and El-father conditional hearing I3; Emu E0164/E0104 retained; asymmetric illness/plan knowledge; preparations not completed park; forward EVENT_0195: Shiho-Sumire E0195 professional reciprocity I3; Shiho E0162 and independent E0191 retained; first TV recording/broadcast with bounded audience receipt and public history; forward EVENT_0194: chosen play, fictional roles and actual recipient enjoyment; Tsukasa E0178/E0136 and Rui E0172 retained; bounded club I2; special award distinct from game clear; forward EVENT_0193: VBS group E0193 executed professional route I3 and Toya-Embers informed equal rivalry I3; Toya E0154 retained; Slade hearing knowledge bounded; COUNT X defeat and actual care; forward EVENT_0192: scoped Kanade E0192 questioned rescue dependence I3; unresolved distance proposal and knowledge partitions; Mafuyu E0189, Ena E0184 and Mizuki E0150 retained; forward EVENT_0191: independent Shiho E0191 retained painful memory I3; Emu E0104 stewardship and E0164 craft preserved; five-unit festival and separate thought-fragment knowledge; shrine-girl identity unresolved; forward EVENT_0190: Haruka E0142 to E0190 scoped coalition production; family E0153 independent; LUMINA preliminary second-place qualification actually received, final still future; forward EVENT_0189: Mafuyu E0165 to E0189 bounded self-inclusive participation and chosen memory; new scoped Mafuyu-Kohane I3; VR/public avatars/local singers separated; forward EVENT_0188: scoped Saki E0091 to E0188 concealed preferred-scale conflict; independent E0155/E0027/E0065/E0106 preserved; first professional solo concert succeeds; forward EVENT_0187: Akito E0146 to E0187 destination-led use of available means; independent E0021 reliance preserved; pre-contract Alan relationship bounded I2; forward EVENT_0185: Nene E0149 to E0185 trust-received lead responsibility; Nene-Rui scoped professional reciprocity and encountered Yumemi-peer repair I3; intervention risk retained; forward EVENT_0184: Ena E0127 to E0184 experimental expression and named Toubi target under technical insufficiency; actual selfie-account deletion with illustration account retained; forward EVENT_0183: Shizuku E0151 to E0183 integrates both craft histories and consented rival assistance; scoped Shizuku-Arisa professional reciprocity I3 with resentment and injury uncertainty open; forward EVENT_0182: Ichika E0143 to E0182 intentional authorship welcomes differing creative reception; bounded Aoi exchange; Shiho tension open; forward EVENT_0181: An-Haruka E0142 to E0181 reciprocal future rivalry; all human and group owners preserved; complete mixed festival and thought-shard envelope; forward EVENT_0180: EPI-PJSK-SEKAI E0179 to E0180 newly encountered shared space and bounded tree-sound affordance; 64-member envelope with explicit prior-card reuse; forward EVENT_0179: cross-SEKAI guest-contact epistemic E0140 to E0179 and Stage Miku recipient-responsive method I3; complete 37-story envelope verified; forward EVENT_0178: Tsukasa E0160 to E0178 researched imaginative method, reciprocal Asahi rivalry and group awarded theatre-route I3; full 25-story envelope verified; forward EVENT_0177: Mizuki prospective clothing route and sibling/group reciprocity very high I2; current operatives preserved, no forced I3; complete 27-story envelope verified; forward EVENT_0176: MMJ group E0168 to E0176 and new bounded Stage-tree epistemic I3; existing humans and flower E0130 preserved; 25-story envelope verified; forward EVENT_0175: bounded VBS–illys relationship I3; four human/group/Street-local refinements I2; complete 25-story envelope verified; forward EVENT_0174: reciprocal Minori–Hikarin relationship I3; existing MMJ humans/group and Stage-local scopes I2; complete 23-story envelope verified; forward EVENT_0173: Honami unresolved decision pressure and bounded Leo/need professional/group refinements I2; no I3; complete 27-story envelope verified; forward EVENT_0172: Rui expression-method and bounded Tom workshop relation I3; Ena and distinct manifestation routes I2; complete 29-story envelope verified; forward EVENT_0171: Leo/need group and School-tree epistemic successors I3; four human histories high I2; complete 24-story envelope verified; forward EVENT_0158: Honami recipient-tested storytelling operative and reciprocal Honami–Nene co-performance relationship I3; complete 23-story envelope verified; forward EVENT_0157: Haruka fallible hope vow, MMJ distributed scarcity response, and Arisawa Grand Prix invitation at high I2; complete 26-story envelope verified; forward EVENT_0156: Shizuku recipient-specific embroidery operative and Shizuku–Mafuyu reciprocal creative relationship I3; complete 23-story envelope verified; forward EVENT_0155: Saki subject-informed visual-expression successor and reciprocal Saki–Kanade cross-unit relation I3; complete 23-story envelope verified; forward EVENT_0154: Toya cross-genre synthesis, VBS enacted international session, Shūji sibling support, and father-history relationship successors I3; complete 25-story envelope verified; forward EVENT_0153: Haruka parent-directed guilt, An grief-memory integration, Airi–Akito reciprocal-support, and human thought-shard ontology I3; complete 27-story envelope verified; forward EVENT_0152: Rui participant-authored direction and Rui–Kohane creator–recipient relationship successors I3; complete 23-story envelope verified; forward EVENT_0151: Shizuku chosen-responsibility and Shizuku–Yuu professional-rivalry successors I3; complete 24-story envelope verified; forward EVENT_0150: Mizuki conditional-return, Ena–Mizuki repair, N25 group, MEIKO, and disclosure-knowledge successors I3; complete 31-story envelope verified; forward EVENT_0149: Nene full-stake competitive-acting successor and Nene–Byakkomachi relationship I3; complete 25-story envelope verified; forward EVENT_0148: Shiho rest-and-contingency and Hinomori-sister owners I3; complete 24-story envelope verified; forward EVENT_0147: Saki audience-participation, Saki–Iori, and Solis execution successors I3; complete 26-story envelope verified; forward EVENT_0146: Akito post-goal expressive, VBS group, Slade rivalry, and Street-SEKAI open-path successors I3; complete 28-story envelope verified; forward EVENT_0145: Mizuki disclosure-attempt, Ena-Mizuki rupture, and forced-knowledge successors I3; complete 22-story envelope verified; forward EVENT_0144: Nene distributed-production and Rui loneliness-integration successors I3; complete 29-story envelope verified; forward EVENT_0143: Ichika song-specific professional-choice, Ichika–School Miku, and Solis relationship successors I3; complete 24-story envelope verified; forward EVENT_0142: Haruka recipient-responsive public challenge and Haruka–An reciprocal friendship successors I3; complete 23-story envelope verified; forward EVENT_0141: Emu participant-centered implementation and Mafuyu–Emu reciprocal-care relationship successors I3; complete 23-story envelope verified; forward EVENT_0140: bounded origin-memory, repeatable counterpart-observation, and shared-growth SEKAI ontology successor I3; complete 36-story envelope verified; forward EVENT_0139: Toya recipient-facing music operative and Kanade reciprocal-creative relation I3; complete 23-story envelope verified; forward EVENT_0138: Airi ideal-performance operative and Akari reciprocal-peer relation I3; complete 29-story envelope verified; forward EVENT_0137: School-SEKAI station epistemic I3 and Leo/need collective-journey group successor; complete 30-story envelope verified; forward EVENT_0136: Tsukasa embodied-acting operative and Onijima mentorship I3; complete 28-story envelope verified; forward EVENT_0135: RAD BLAST surpassal, Kohane operative, VBS group, mentorship, and Street-audience successors; complete 24-story envelope verified; forward EVENT_0134: Mafuyu fear-aware disclosure and father-alliance successors; complete 28-story envelope verified; forward EVENT_0133: Haruka producer-method I3 and MMJ group-governance successor; complete 26-story envelope verified; forward EVENT_0132: Minori-Nene reciprocal public-work relationship I3; complete 23-story envelope verified; forward EVENT_0131: Emu audience-perspective acting method and Mikazuki professional relation; complete 23-story envelope verified; forward EVENT_0130: Stage flower-field epistemic I3 and MMJ shared-direction group successor; complete 30-story envelope verified; forward EVENT_0129: An fear-aware rivalry, An-Kohane partner, and Street-audience reactivation successors; complete 27-story envelope verified; forward EVENT_0128: Ichika recipient-led arrangement, Ichika-Saki coauthorship, and Solis debut-release successors; complete 27-story envelope verified; forward EVENT_0127: Ena vocational-commitment and father reciprocal-knowledge relationship successors; complete 27-story envelope verified; forward EVENT_0126: bounded Akito-Honami cross-unit support owner and Max-specific fear-work integration; complete 23-story envelope verified; forward EVENT_0125: Toya integrated-musical-history operative and father artistic-recognition relationship successors; complete 24-story envelope verified; forward EVENT_0124: Wonderland responsive-voyage epistemic I3 and WxS shared-growth group successor; complete 30-story envelope verified; forward EVENT_0123: mixed high-I2 recipient-care gathering; very strong Kanade–Ichika relationship application; no new owner; complete 23-story envelope verified; forward EVENT_0122: Minori recipient-hope and MMJ physical-base successors at I3; bounded landlord relation; complete 27-story envelope verified; forward EVENT_0121: Honami musical-leadership and Leo/need group-purpose/leader successors at I3; complete 24-story envelope verified; forward EVENT_0120: mixed photo-craft I2; bounded Kohane–Ena competitive-recognition relationship; no new I3 operative; complete 23-story envelope verified; forward EVENT_0119: Rui medium-aware direction operative I3; bounded Rui–Ohara professional relationship I3; group production support preserved; complete 23-story envelope verified; forward EVENT_0118: expanded Street-SEKAI epistemic I3; four distinct personal routes converge without human operative replacement; complete 35-story envelope verified; forward EVENT_0117: Mizuki fear-aware preference-support successor I3; Mizuki–sister reciprocal relationship successor I3; Shiho and Shizuku bounded I2 applications; complete 24-story envelope verified; forward EVENT_0116: Kanade permitted-desire successor I3; one-sided Kanade–father I3; bounded Mafuyu–father I2; other N25 and Empty authorities preserved; complete 28-story envelope verified; forward EVENT_0115: ensemble I2; MMJ and LN animal-care, safety-response, chosen-leisure, and Stage-local continuity; no new I3 or named I2 owner; complete 24-story envelope verified; EVENT_0099–0115 goal boundary reached; forward EVENT_0114: Nene person-specific collaborative-directing operative I3; scoped Nene–classmates reciprocal integration I3; VBS production labor and Mizuki costume teaching preserved proportionally; complete 23-story envelope verified; forward EVENT_0113: Tsukasa sparse-role acting operative I3; scoped reciprocal Tsukasa–Reki professional relation I3; independent troupe and Wonderland topology preserved; complete 24-story envelope verified; forward EVENT_0112: Mafuyu shared identity-search successor I3; Empty-SEKAI lake epistemic I3; bounded Honami–Mafuyu domestic-support I2; other N25 humans, group, and singers preserved; complete 30-story envelope verified; forward EVENT_0111: Shizuku choice-support operative I3; MMJ–Saito manager I3; Saito-family permission I3; group and Stage topology preserved; complete 25-story envelope verified; forward EVENT_0110: Shiho recipient-purpose operative I3; bounded historical Shiho–Sumire I2; Leo/need group, Solis, individual-purpose, and School routes preserved; complete 28-story envelope verified; forward EVENT_0109: Akito expressive-release operative I3; group–Ken executed-mentorship successor I3; scoped Street-audience rekindling I3; bounded Street Luka I2; complete 24-story envelope verified; forward EVENT_0108: ensemble I2; Ichika recursive-connection purpose and cross-unit school/post-crisis continuity; no new I3 owner; complete 28-story envelope verified; forward EVENT_0107: An–Mizuki reciprocal school-friendship relationship successor I3; no new character operative; complete 23-story envelope verified; forward EVENT_0106: Saki reciprocal-memory operative I3; Haruka–Saki relationship successor I3; Saki–Airi reciprocal hope relationship I3; complete 23-story envelope verified; forward EVENT_0105: bounded cross-SEKAI direct-contact epistemic successor I3; all five human units receive manifestation-support I2; complete 25-story envelope verified; forward EVENT_0104: Emu stewardship operative I3; independent WxS group I3; bounded park institutional handoff I3; complete 23-story envelope verified; forward EVENT_0103: Kohane singer-pride operative I3; group–Ken mentorship I3; Toya–father conditional-permission successor I3; complete 23-story envelope verified; forward EVENT_0102: Airi–Mizuki direct relationship I3; bounded Saki–Mizuki work relation I2; Airi professional skill and MMJ group strong I2; complete 23-story envelope verified; forward EVENT_0101: formal Solis affiliation I3; Ichika recursive connection-purpose successor I3; Leo/need group and School topology strong I2; all four other human units cross-unit high I2 with recipient limits; complete 23-story envelope verified; forward EVENT_0100: Mafuyu self-authored survival departure I3; Mafuyu-mother direct-rejection and separation I3; Kanade-Mafuyu enacted refuge I3; Empty KAITO bounded crisis-collaboration I3; complete 23-story envelope verified; all five human-unit routes resolved; forward EVENT_0099: Rui outside-show friendship operative I3 and Rui-classmates relation I3; bounded Airi-Mafuyu public-school relation I2; prior Rui, WxS, N25, MMJ and manifestation authority preserved; complete 24-story envelope verified; all five human-unit routes resolved; EVENT_0098 sole Minori operative I3 and bounded local-I2 Stage Len; authorized queue complete; all six ledgers synchronized; current human tuple retained; VBS founded defaults plus EVENT_0004 I1; MMJ P05 defaults retained with EVENT_0001 and EVENT_0004 school relationship/knowledge evidence; WXS P06 human/company defaults retained with EVENT_0001 ordinary-family evidence and EVENT_0003 character/relationship refinements plus I3 operative self-knowledge; historical LN EVENT_0001 I2 with preserved P04 humans; historical LN EVENT_0002–0003 I1 with preserved P04 humans; historical EVENT_0004 MMJ/WXS I3, LN I2, VBS I1 and N25 I2 reconciled; no human successors; historical EVENT_0005 MMJ I3 with GROUP-06 and separate operative/recipient knowledge, other human units I0; four MMJ MS-04 human IDs preserved; historical EVENT_0006 VBS I3 with KH-AN-4 and separate operative/recipient knowledge, MMJ I1, LN/WxS/N25 I0; four VBS human and group IDs preserved; historical EVENT_0008 WxS Nene operative I3, Leo/need reported I1, MMJ/VBS/N25 I0; 26-story envelope verified; historical EVENT_0010 Leo/need Honami operative I3, WxS Emu bounded school I1, MMJ/VBS/N25 I0; 25-story envelope verified; historical EVENT_0011 MMJ Shizuku operative I3 and group launch I2, LN/VBS/WxS/N25 I0; 33-story envelope verified; historical EVENT_0012 VBS Toya operative I3; MMJ Minori and N25 Ena-context I1, LN/WxS I0; 28-story envelope verified; historical EVENT_0013 LN unresolved I2 and Ichika–Nene relationship I3; WxS/LN dyads I2, MMJ/VBS I1, N25 I0; 32-story envelope verified; historical EVENT_0015 WxS I2 open park-threat knowledge and planning; LN relationship I2, MMJ/VBS/N25 I0; 29-story envelope verified; historical EVENT_0016 LN/WxS sibling epistemic and relationship I3; Toya–Tsukasa cross-unit relationship I3; Honami and Toya I2; complete 32-story envelope verified; historical EVENT_0017 MMJ Minori recipient-specific hope I3; group and established mentorship dyads I2; LN ordinary I1; complete 25-story envelope verified; historical EVENT_0018 LN Ichika public-performance epistemic I3; Ichika–Kohane relationship I3; LN/VBS/WxS/MMJ/N25 bounded I1/I2 refinements; complete 29-story envelope verified; historical EVENT_0020 LN group-direction I3 at LN-REL-G-E0020; bounded LN/MMJ/VBS/WxS and School-manifestation I1/I2 refinements; complete 31-story envelope verified; historical EVENT_0021 Akito operative I3, Akito-Toya successor I3 and bounded Akito-Arata rivalry I3; VBS/MMJ/Street refinements; complete 23-story envelope verified; historical EVENT_0022 Airi-Ena cross-unit relationship I3; N25, MMJ, WxS, family and Stage refinements; complete 26-story envelope verified; historical EVENT_0023 Haruka self-directed-rest operative I3 and local Stage MEIKO identity; complete 29-story envelope verified; historical EVENT_0024 Rui outsider-collaboration I3, Toya-Rui relationship I3, Toya-father de-escalation successor I3 and Akito-Rui relationship I2; complete 25-story envelope verified; historical EVENT_0025 provisional park-state successor I3 with bounded group, park-support, cross-unit and Wonderland-singer I1/I2; complete 30-story envelope verified; historical EVENT_0027 Saki recipient-and-feeling composition operative I3 with bounded LN group, care, School-singer and cross-unit I1/I2; complete 27-story envelope verified; historical EVENT_0028 Kohane relational-confidence operative I3 with preserved VBS partner/group topology, An-side open pressure and Street-local I2; complete 26-story envelope verified; historical universal screens complete; forward EVENT_0091: Saki two-aim professional rule and prospective Solis affiliation under review are distinct I3 owners; LN group direction remains strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0090 to EVENT_0091; forward EVENT_0092: Airi communication operative and Airi–Ayumi relationship are distinct I3 owners; Stage KAITO is local I2; MMJ group remains strong I2; complete 26-story envelope verified; forward boundary advances from EVENT_0091 to EVENT_0092; forward EVENT_0093: Mizuki survival-retreat operative and Mafuyu–mother relationship are distinct I3 owners; two scoped epistemic I2 records added; N25 group and Mizuki–Mafuyu relationship remain strong I2; complete 25-story envelope verified; forward boundary advances from EVENT_0092 to EVENT_0093; forward EVENT_0094: Haruka chosen-friendship operative I3; school network and Ichika–Nene relationship receive the only strong I2 increments; MMJ group, LN states and Stage topology preserved; complete 23-story envelope verified; forward boundary advances from EVENT_0093 to EVENT_0094; forward EVENT_0095: Nene integrated-musical-acting operative I3 and bounded Nene–Yuka high-I2 relation; WxS group, Rui, Sakurako and Wonderland relations strong I2; Nene EVENT_0008 operative preserved; complete 25-story envelope verified; forward boundary advances from EVENT_0094 to EVENT_0095; forward EVENT_0096: relationship-centered I2 with no new I3; Kanade–Honami very strong I2; Honami operative strong I2; bounded Honami–Mizuki I2; Kanade, Honami–Emu, School and WxS topology preserved; complete 24-story envelope verified; forward boundary advances from EVENT_0095 to EVENT_0096; forward EVENT_0097: An grief-aware informed-pursuit operative I3; An–Ken concealment-rupture successor I3 with repair open; bounded high-I2 An–Nagi posthumous relation; VBS group, partner, individual, rivalry and Street topology preserved; complete 26-story envelope verified; forward boundary advances EVENT_0096 to EVENT_0097; final forward EVENT_0098: Minori structural-choice operative I3; bounded local Stage Len I2 distinct from Stage KAITO; Minori hope, Haruka friendship/capacity, MMJ group, cross-unit and collective Stage owners preserved; complete 24-story envelope verified; forward boundary advances EVENT_0097 to EVENT_0098; authorized queue complete"
 ---
 
 # Project SEKAI Release Impact Ledger
@@ -4323,3 +4323,746 @@ The frozen EVENT_0169 envelope contains 24 stories / 39 scenes / 1,414 records /
 | Leo/need / VBS | NONE/I0 | No unit-state successor. |
 
 The frozen EVENT_0170 envelope contains 29 stories / 77 scenes / 1,726 records / 200,713 canonical bytes: eleven World Link core chapters, eight card halves, ten archive-publication areas, no separate unlock-dependent story. Cards 1185–1188 carry `2025-06-09T03:00:00Z`; core `2025-06-09T11:00:00Z`; five World Link areas `2025-06-21T11:00:00Z`; five monthly talks anomalously `2023-09-29T15:00:00Z`. These are archive/release associations, not dates of conditional life-years or exact post-return conversations. The boundary advances EVENT_0169 → EVENT_0170, closing the authorized source-present EVENT_0116–0170 sequence with EVENT_0166 absent. No actual family repair, changed school/career outcomes, deterministic shard absorption or repeat-proof rescue, public SEKAI disclosure, global singer identity or complete reconstruction is certified.
+
+## Forward EVENT_0171 — ordinary,yet special us
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need group | PRIMARY/VERY HIGH scoped I3 | `LN-REL-G-E0162 → LN-REL-G-E0171`: shared nonactual distance, actual reciprocal valuation and deliberate ordinary follow-through; arena history retained. |
+| School-SEKAI epistemic | CO_PRIMARY/HIGH local scoped I3 | `EPI-LN-SEKAI-E0137 → EPI-LN-SEKAI-E0171`: covering, unresponsive bodies, compatible recollection and enlarged station tree; mechanism open. |
+| Ichika, Saki, Honami, Shiho | CO_PRIMARY/HIGH I2 | Four separate actual follow-throughs refine existing authorship, companionship, care and craft histories without importing field achievements. |
+| Six School singers | SUPPORTING/local I2 | Distinct counsel, failed waking attempts, observation, gratitude and collaboration; no shared global mind. |
+| WxS / Tsukasa | INCIDENTAL/I1, scenario only | Field sibling counsel; no actual troupe, relationship or knowledge successor. |
+| N25 / Kanade reference | INCIDENTAL/I1, scenario only | Recalled computer-composition example; no actual encounter, private Nightcord transfer or state successor. |
+| MMJ / VBS | NONE/I0 | No material unit route or successor. |
+
+The complete frozen envelope is 24 stories / 69 scenes / 2,047 records / 248,975 canonical bytes: eleven core chapters, eight card halves and five World Link areas, no separate unlock-dependent story. Canonical and pinned raw digests, ordered structured identities and all chronology identity/timestamp rows match. Card/area association is supplied by the release manifest; their chronology linkage fields are blank. Core publication is `2025-06-23T11:00:00Z`, cards `2025-06-23T03:00:00Z`, areas `2025-07-05T11:00:00Z`, without exact narrative interval claims. This first transaction of the newly authorized EVENT_0171–0213 continuation advances EVENT_0170 → EVENT_0171. EVENT_0172 is next; 41 source-present events remain, with EVENT_0186 absent. EVENT_0166 remains a prior source absence. Reconstruction stays at EVENT_0140; no audiovisual or full-series completion is implied.
+
+## Forward EVENT_0172 — Deeper and deeper
+
+| Route | Impact | Result |
+|---|---:|---|
+| WxS / Rui direction | PRIMARY / VERY HIGH scoped I3 | `WXS-EP-RUI-E0152 → WXS-EP-RUI-E0172`: own experience, requested critique and an enacted trial enter recipient-responsive craft; audience balance remains unfinished. |
+| Rui–Tom | CO_PRIMARY / HIGH bounded I3 | `WXS-REL-RUI-TOM-E0172`: distant admiration becomes direct workshop consultation, disclosure, applied advice and feedback; no promised apprenticeship. |
+| WxS quartet, three other humans, Wonderland singers | HIGH / local I2 | Group E0167, separate operatives and local relations remain; practical care, acting study, collaborative rehearsal and rest refine them. |
+| N25 / Ena and Empty companions | CROSS_UNIT / HIGH I2 | A separate fragment recovers Ena's communicative wish; E0127 and thought-fragment E0153 remain. Empty KAITO's observed thought is separately scoped; Kanade–Nene shop contact I1. |
+| Leo/need / School KAITO and companions | SUPPORTING / local I2 | A selected memory of reticence and companionship, observed by Interstice KAITO; no new human or group successor. |
+| MMJ / Stage KAITO and colleagues | SUPPORTING / local I2 | Management and performance reciprocity in the selected memory; no human or group successor. |
+| VBS / Street KAITO and MEIKO | SUPPORTING / local I2 | Familiar negotiation after an ice-cream transgression; no new human contact or world-goal successor. |
+| Interstice KAITO | HIGH epistemic I2 | E0140 strengthened by bounded comparison of five distinct counterparts; no shared global mind or automatic knowledge transfer. |
+
+The complete envelope is 29 stories / 46 scenes / 1,992 records / 260,887 canonical bytes: eight core chapters, fourteen card halves and seven areas, no additional unlock-dependent story. Canonical and normalized raw hashes, ordered structured identities and chronology identity/timestamps reconcile. Core publication is `2025-07-07T08:00:00Z`; cards 1194–1198 `03:00:00Z`, cards 1199–1200 and five event areas `06:00:00Z` on that date. Two monthly areas retain anomalous 2023 metadata. The release manifest owns card/area association; publication is not narrative simultaneity. EVENT_0171 → EVENT_0172 closes the second of 42 newly authorized source-present events. EVENT_0173 is next; 40 remain, with EVENT_0186 absent. Reconstruction packages remain through EVENT_0140. The narrow EVENT_0169 manifestation correction is documented in the claim ledger without changing that event's historical reading or impact dispositions.
+
+## Forward EVENT_0173 — Unsteady, still steady step
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need / Honami | PRIMARY / HIGH, very strong I2 | E0121 and independent E0158 retained: enacted coordination and audience inquiry coexist with a choice removed before resolution; private relief identifies an open leadership pressure. |
+| Leo/need group / Solis | HIGH I2 | E0171 group and E0147 professional relation preserved; published cover, booked first professional solo show, supported deliberation, withdrawn replacement offer and an unaccepted later invitation. |
+| Ichika / Saki / Shiho | HIGH / bounded I2 | Distinct coauthorship, connection, existing-fan care, craft and rest refinements without new operative owners. |
+| Six School singers | SUPPORTING / local I2 | Actual celebration, consultation, received reports and cleanup; separate hypothetical concert wishes, no global identity or new tree law. |
+| WxS / Rui and Nene with Honami | INCIDENTAL / I1 | Actual kitchen-tool conversation and an unbuilt show idea; no disclosure of the professional dilemma. |
+| MMJ / VBS / N25 | NONE / I0 | No material unit route; unnamed idols are not identified as MMJ. |
+
+No I3 is created. The complete frozen envelope is 27 stories / 59 scenes / 1,226 records / 170,458 canonical bytes: eight chapters, ten card halves and nine areas. Canonical/pinned-raw hashes, normalized content, ordered structured identities and all chronology identity/timestamps match. Core publication is `2025-07-15T06:00:00Z`; cards 1201–1203 `03:00:00Z`, cards 1204–1205 and five event areas `06:00:00Z` that day. Four monthly areas retain anomalous 2023 metadata; the release manifest owns noncore association. EVENT_0172 → EVENT_0173 closes the third of 42 newly authorized source-present events. EVENT_0174 is next; 39 remain, with EVENT_0186 absent. Reconstruction packages remain through EVENT_0140; no audiovisual or full-series completion is implied.
+
+## Forward EVENT_0174 — start rolling! stars' crossing
+
+| Route | Impact | Result |
+|---|---:|---|
+| MMJ / Minori–Hikarin | PRIMARY / VERY HIGH, scoped I3 | New reciprocal relation: practical aid, received recognition, mutual fandom and subsequent joint conversation. No exclusive alliance or contest result. |
+| Minori / MMJ group | HIGH I2 | E0122 and separate E0098 retained; group E0168 enacted through residence, review, chosen representation and own-channel work. |
+| Haruka / Airi / Shizuku | HIGH / bounded I2 | Existing scopes preserved: producer reasoning, imperfect pace calibration, practical public/private care, chosen rivalry and ordinary limits. |
+| Arisawa / ReLight / Cheerful＊Days / viewers | SUPPORTING / bounded I2 | Concrete competition roles and differentiated reception; no new mentorship, total reconciliation or measured vote effect. |
+| Six Stage singers | SUPPORTING / local I2 | Private reassurance and review, partial observation, shared fandom and limits to continuous viewing. |
+| Leo/need | INCIDENTAL / I1 | Shizuku's planned Shiho photograph; no shown sibling exchange or knowledge transfer. |
+| Vivid BAD SQUAD / Wonderlands×Showtime / Nightcord at 25:00 | NONE / I0 | No material unit routes. |
+
+The complete envelope is 23 stories / 36 scenes / 1,628 records / 221,553 canonical bytes: eight core chapters, ten halves of cards 1207–1211 and five event areas. No monthly, additional cross-link or separate unlock-dependent story is listed. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. Core publication is `2025-07-23T06:00:00Z`; cards 1207–1209 `03:00:00Z`, cards 1210–1211 and areas `06:00:00Z` that day. Noncore association comes from the release manifest. EVENT_0173 → EVENT_0174 closes four of 42 newly authorized events; EVENT_0175 is next, 38 source-present events remain and EVENT_0186 is absent. Reconstruction remains R3 through EVENT_0140; no audiovisual or full-series completion follows.
+
+## Forward EVENT_0175 — Competitive fire！
+
+| Route | Impact | Result |
+|---|---:|---|
+| VBS / illys | PRIMARY / VERY HIGH, scoped I3 | New received rival relationship: reciprocal hearing, chosen disclosure, accepted commitment and actual airport send-off. |
+| Four VBS humans / group | HIGH I2 | E0153 An, E0135 Kohane, E0146 Akito, E0154 Toya and E0169 group preserved with separate earlier scopes; actual local trial, no tournament registration. |
+| Embers / Ken / Taiga / families | HIGH / bounded I2 | Distinct existing relations receive performance, advice, ordinary care and plans; no universal repair or completed future conversation. |
+| Six Street singers | SUPPORTING / local I2 | Discreet observation, tailored support, pranks, ordinary tastes and actually received snacks; no public revelation or global identity. |
+| Leo/need | CROSS_UNIT / I1 | Ichika/Honami's actual welcome and received trip report; Shiho meeting unshown. |
+| N25 | INCIDENTAL / I1 | Ena gift purchase/reference, without delivery or new character state. |
+| WxS | INCIDENTAL / I1, venue only | Phoenix Wonderland visit and attraction/meal reference, without troupe appearance or new production. |
+| MMJ | NONE / I0 | No identified MMJ participant; childhood basketball rival unnamed here. |
+
+The complete frozen envelope is 25 stories / 35 scenes / 1,371 records / 179,521 canonical bytes: eight chapters, ten card halves and seven areas. Canonical/pinned-raw hashes, normalized content, ordered structured identities and chronology identities/timestamps reconcile. Core publication is `2025-07-31T06:00:00Z`; cards 1213–1215 `03:00:00Z`, cards 1216–1217 and five event areas `06:00:00Z` that day. Two monthly dates retain anomalous 2023 metadata; the manifest owns noncore association. EVENT_0174 → EVENT_0175 closes five of 42 newly authorized events; EVENT_0176 is next, 37 remain and EVENT_0186 is absent. A narrow historical relationship-ledger manifestation erratum preserves old bytes. Reconstruction remains R3 through EVENT_0140; no audiovisual or full-series completion is implied.
+
+## Forward EVENT_0176 — All ways Jump! with you
+
+| Route | Impact | Result |
+|---|---:|---|
+| MMJ quartet | PRIMARY / VERY HIGH, scoped I3 | Group E0168 to E0176: actual recognition of self-acceptance and complementary hope delivery, with practical and ordinary follow-through. |
+| Stage tree | EPISTEMIC / VERY HIGH, scoped I3 | New E0176 owner for observed/reported change and compatible alternative recall; mechanism unresolved. |
+| Four MMJ humans | HIGH I2 | All independent operative scopes retained; actual capacities clarified rather than replaced by conditional careers. |
+| Stage singers / flowers | SUPPORTING / local I2 | Advice, gratitude and partial knowledge; flower E0130 preserved independently. |
+| Actual viewers / Hikarin / format | SUPPORTING / bounded I2 | Received particular performance responses and reported exercise participation; no Grand Prix result. |
+| Alternative recipients and institutions | CONDITIONAL SUPPORT | Meaningful scenario interactions remain nonactual and do not create actual biographies or public facts. |
+| Leo/need | CROSS_UNIT / I1 | Actual monthly Ichika conversation; scenario-only Saki/Ichika/Shiho contacts. |
+| WxS | INCIDENTAL / I1 | Indirect scenario Otori class-committee reference, without actual troupe action. |
+| VBS | NONE / I0 | No material unit route. |
+| N25 | NONE / I0 | No material unit route. |
+
+The complete frozen envelope is 25 stories / 83 scenes / 1,937 records / 245,557 canonical bytes: eleven core chapters, eight card halves and six areas. Canonical/pinned-raw hashes, normalized content, ordered identities and chronology identities/timestamps reconcile. Core publication is `2025-08-08T11:00:00Z`, cards `03:00:00Z`, World Link areas `11:00:00Z`; one monthly date retains anomalous 2023 metadata. The manifest owns noncore association. Six of 42 authorized events are closed; EVENT_0177 is next, 36 remain and EVENT_0186 is absent. R3 reconstruction stays through EVENT_0140; no audiovisual or full-series completion is implied.
+
+## Forward EVENT_0177 — ほどけぬ明日に手を伸ばして
+
+| Route | Impact | Result |
+|---|---:|---|
+| N25 / Mizuki | PRIMARY / VERY HIGH I2 | Future-facing extension of existing support and self-authorship; clothing a possibility, not a settled vocation. |
+| Yuuki / sibling relation | HIGH I2 | Career testimony, tailored gift, received thanks, actual ordinary time and support for Mizuki’s own future. |
+| Ena / Kanade / Mafuyu / group | HIGH I2 | Full introduction, differentiated response, actual chosen return gift and continuing work/refuge; current scopes retained. |
+| Customer / Rina / staff | SUPPORTING | Particular self-authored preference, professional example and practical help; no universal effect or new private identity inference. |
+| Six Empty singers | SUPPORTING / local I2 | Permission to hear, covert observation, differentiated care and imperfect sharing. |
+| VBS | CROSS_UNIT / HIGH or bounded I2 | Toya’s received trip account and delivered gift; An/Akito contact and ordinary scenes. |
+| WxS | CROSS_UNIT / HIGH I2 | Nene’s actual workshop and learning account; no new production or world-stage result. |
+| MMJ | CROSS_UNIT / I1 | Airi’s queue mediation and Airi/Shizuku/Mafuyu school exchange. |
+| Leo/need | CROSS_UNIT / I1 | Honami/Saki’s actual Kanade care exchange, preserving existing household aid. |
+
+No I3 successor is forced. The complete frozen envelope is 27 stories / 43 scenes / 1,533 records / 194,766 canonical bytes: eight chapters, ten card halves and nine areas. All source integrity, normalized content, ordered identity and chronology checks pass. Core publication is `2025-08-22T06:00:00Z`; cards 1223–1225 `03:00:00Z`, cards 1226–1227/event areas `06:00:00Z`; four monthly rows retain anomalous 2023 metadata. Manifest association is authoritative. Seven of 42 newly authorized events close; EVENT_0178 is next, 35 remain and EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; no audiovisual or full-series completion is implied.
+
+## Forward EVENT_0178 — Deep Dark For Light
+
+| Route | Impact | Result |
+|---|---:|---|
+| Tsukasa | PRIMARY / VERY HIGH, scoped I3 | E0160 to E0178 researched imaginative loss-of-recipient method, completed contest role and bounded receipt; costs preserved. |
+| Tsukasa / Asahi | RELATIONSHIP / VERY HIGH, scoped I3 | New explicitly received reciprocal rivalry after practical help and actual competition. |
+| WxS quartet | PRIMARY / VERY HIGH, scoped I3 | E0167 to E0178 chosen competition and formal special award sharing prospective THE CENTER THEATRE rights. |
+| Rui / Nene / Emu | HIGH I2 | Distinct craft and ordinary-care applications; existing operatives retained. |
+| Arcland / Sakaki / staff | SUPPORTING / institutional | Main prize belongs to Arcland; public run allocation pending, overseas prospect hypothetical. |
+| Wonderland singers / plush companions | SUPPORTING / local I2 | Differentiated practice, advice, tastes, capabilities and new creative plans. |
+| Leo/need | INCIDENTAL / I1 | Saki illness/princess recollections, no present knowledge transfer. |
+| VBS | CROSS_UNIT / I1 | Toya’s actual school cleaning and received praise. |
+| MMJ | NONE / I0 | No material unit route. |
+| N25 | NONE / I0 | No material unit route. |
+
+The full frozen envelope is 25 stories / 37 scenes / 1,722 records / 225,859 canonical bytes: eight chapters, ten card halves and seven areas. Canonical/pinned-raw hashes, normalized content, ordered identities and chronology checks reconcile. Core publication is `2025-08-30T06:00:00Z`; cards 1229–1231 `03:00:00Z`, cards 1232–1233/event areas `06:00:00Z`; two monthly rows retain anomalous 2023 metadata. Manifest association remains authoritative. Eight of 42 authorized events close; EVENT_0179 is next, 34 remain and EVENT_0186 is absent. Reconstruction remains R3 through EVENT_0140; no audiovisual or full-series completion follows.
+
+## Forward EVENT_0179 — Link the Beats！
+
+| Route | Impact | Result |
+|---|---:|---|
+| Cross-SEKAI topology | UNIVERSAL / VERY HIGH, scoped I3 | EPI E0140 to E0179: six actual guests, five receiving spaces, human contact, selected reports and failed replay. |
+| Stage Miku | PRIMARY / VERY HIGH, manifestation I3 | New context-sensitive delivery and continued refinement, with bounded receipt. |
+| Leo/need | CO_PRIMARY / HIGH I2 | Welcomes Empty Len, articulates connection and receives returned local experience; all human states preserved. |
+| MMJ | CO_PRIMARY / HIGH I2 | Street Luka exchange, shared hope practice and reciprocal learning with Miku; audition outcome pending. |
+| VBS | CO_PRIMARY / HIGH I2 | Assisted wider view and actual Luka repertoire receipt; tournament outcome pending. |
+| WxS | CO_PRIMARY / HIGH I2 | Differential hosting, adapted improvisation and new craft proposals; theatre run still future. |
+| N25 | CO_PRIMARY / HIGH I2 | Limited comfort and thanks, care for returned Len; no cure or general disclosure. |
+| School KAITO / distinct guest relations | New bounded I2 | Individual musical care and six separately owned encounter edges. |
+| Other local singers / Interstice observers | HIGH / local I2 | Differentiated activity, monitoring, speculation, learning and ordinary aftereffects; no merged identities. |
+| Fans / plush companions | SUPPORTING | Particular received hope and incomplete-then-extended reconciliation. |
+
+The full frozen envelope is 37 stories / 72 scenes / 2,786 records / 348,349 canonical bytes: fifteen chapters, twelve card halves and ten areas. Hash, raw, normalized-content, ordered-identity and chronology checks reconcile. Core publication is `2025-09-06T11:00:00Z`, cards `2025-09-06T03:00:00Z`, areas `2025-09-18T11:00:00Z`; action chronology remains separate. Nine of 42 authorized source-present events close; EVENT_0180 is next, 33 remain and EVENT_0186 is absent. Reconstruction remains R3 through EVENT_0140; no audiovisual or full-series completion follows.
+
+## Forward EVENT_0180 — Wishes in Bloom！
+
+| Route | Impact | Result |
+|---|---:|---|
+| Interstice / shared place | UNIVERSAL / VERY HIGH, scoped I3 | EPI E0179 to E0180: newly encountered shared SEKAI, larger creative tree and bounded sound affordance. |
+| Leo/need | CO_PRIMARY / HIGH I2 | Present composition and separated companionship; eight prior card halves retain E0171 ownership. |
+| MMJ | CO_PRIMARY / HIGH I2 | Viewer-directed effort with a hoped-for wide address; eight prior E0176 card halves. |
+| VBS | CO_PRIMARY / HIGH I2 | Preparation toward a pending competition; eight prior E0163 card halves. |
+| WxS | CO_PRIMARY / HIGH I2 | Future theatre preparation; eight prior E0167 card halves, with E0178 current states preserved. |
+| N25 | CO_PRIMARY / HIGH I2 | Composition toward companionship under uncertainty; eight prior E0170 card halves. |
+| Local singers / prior guests | HIGH / bounded I2 preservation | Twelve E0179 singer halves keep original consequences, knowledge limits and failed replay. |
+| Other family / audience / institutions | Bounded context / receipt | Earlier associated evidence does not create new events or pending-outcome completion. |
+
+The verified complete envelope is 64 stories / 125 scenes / 3,516 records / 455,971 canonical bytes: two core chapters, 52 previously associated card halves and ten finale areas. Thirty-six texts are directly read here; 28 already fully read texts are reused only after canonical/raw hashes, paths and record identities match. Core publication is `2025-09-25T11:00:00Z`, areas `2025-09-28T11:00:00Z`; earlier card timestamps and causal homes remain unchanged. Ten of 42 authorized events close; EVENT_0181 is next, 32 remain and EVENT_0186 is absent. Reconstruction remains R3 through EVENT_0140; no audiovisual, terminal-audit or full-series completion follows.
+
+## Forward EVENT_0181 — Our Golden Days
+
+| Route | Impact | Result |
+|---|---:|---|
+| VBS | PRIMARY / HIGH I2; scoped relational I3 | Unfamiliar-audience performance, An’s encouragement and Akito shard; An–Haruka successor. |
+| MMJ | CO_PRIMARY / HIGH I2; same relational I3 | Public live, Haruka’s rest and reciprocal competition, Minori’s performed hope. |
+| Leo/need | CO_PRIMARY / HIGH I2 | Actual live, Saki’s ordinary-time planning and bounded new An–Saki relation. |
+| WxS | CO_PRIMARY / HIGH I2 | Opening act, Emu’s work/play and child-specific improvisation, Nene’s academic reciprocity. |
+| N25 | CO_PRIMARY / HIGH I2 | Mizuki’s actual island role; private remote companions, public MV and later recorded receipt. |
+| Local singers / shard epistemics | HIGH / bounded I2 | Separate Stage/Street fields, School phone access and Empty follow-up; no topology successor. |
+| Other family / audience / institutions | Bounded context and receipt | Scheduling, hospitality, selected reception and conditional future opportunities. |
+
+The verified full envelope is 28 stories / 51 scenes / 2,063 records / 261,952 canonical bytes: eight core, sixteen card halves and four areas. All were read; membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1258–1259 and areas share `2025-09-30T06:00:00Z`; cards 1252–1257 use `2025-09-30T03:00:00Z`. Depicted chronology remains separate. Eleven of 42 authorized events close; EVENT_0182 is next, 31 remain, EVENT_0186 is absent. Reconstruction stays R3 through EVENT_0140; no audiovisual, terminal-audit or full-series completion follows.
+
+## Forward EVENT_0182 — 君と繋ぐHeart Beat
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need / Ichika | PRIMARY / VERY HIGH I3 | E0143 to E0182: intentional authorship can welcome differing creative reception. |
+| Leo/need / other humans and group | HIGH I2 | Coauthorship, checked care, honest praise, ordinary preferences and an unresolved question; current owners retained. |
+| School singers | HIGH / local I2 | Encouragement, returned credit, appreciation, trio performance and party mediation. |
+| Ichika–Aoi / audience | New bounded high I2 | Direct permission and actual artistic exchange; future collaboration conditional; audience effects specific. |
+| MMJ / VBS / WxS / N25 | NONE / I0 each | No material causal or recipient route; all sixteen absent humans preserved. |
+| Family / management references | Bounded I2/context | Actual household reciprocity and reported professional planning; no new institutional decision. |
+
+The complete verified envelope is 22 stories / 42 scenes / 1,276 records / 173,931 canonical bytes: eight core, ten card halves and four areas. All texts were read; membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1264–1265 and areas use `2025-10-11T06:00:00Z`; cards 1261–1263 use `2025-10-11T03:00:00Z`. Twelve of 42 authorized events close; EVENT_0183 is next, 30 remain and EVENT_0186 is absent. Reconstruction remains R3 through EVENT_0140; terminal delta audit and synthesis handoff remain open, with no AV or full-series completion claim.
+
+## Forward EVENT_0183 — 交わる色はあの日のままに
+
+| Route | Impact | Result |
+|---|---:|---|
+| MMJ / Shizuku | PRIMARY / VERY HIGH I3 | E0151 to E0183; integrated craft, consented rival assistance and retained ambition. |
+| Shizuku–Arisa | CO_PRIMARY / VERY HIGH I3 | New scoped relationship; accepted co-work and shared stage with renewed rivalry, incomplete reconciliation. |
+| MMJ / other humans and group | HIGH I2 | Current owners preserved; judgment, care, ordinary pleasure and overextension differentiated. |
+| Stage singers | HIGH / local I2 | Listening, fandom, warm-up, rest and reciprocal cheering; identities and topology retained. |
+| Other competitors / organizer | Bounded I2 | Craft exchange and specific receipt; Hikarin relation strengthened with an escalation cost. |
+| Leo/need / VBS / WxS / N25 | NONE / I0 each | All sixteen outside-unit humans lack material action or receipt. |
+
+All 26 stories / 61 scenes / 1,722 records / 228,504 canonical bytes were read: eight core, ten card halves, four monthly and four event areas. Frozen membership, canonical/raw hashes, normalized content, identities and chronology pass. Core, cards 1269–1270 and event areas use `2025-10-21T06:00:00Z`; cards 1266–1268 use `03:00:00Z`; monthly archive timestamp remains `2023-09-29T15:00:00Z`. Thirteen of 42 authorized events close; EVENT_0184 is next, 29 remain and EVENT_0186 is absent. R3 reconstruction remains through EVENT_0140; terminal delta audit and synthesis handoff are still open. No AV or full-series completion is claimed.
+
+## Forward EVENT_0184 — Colors of Pure Sense
+
+| Route | Impact | Result |
+|---|---:|---|
+| N25 / Ena | PRIMARY / VERY HIGH I3 | E0127 to E0184; expressive experimentation, named target and actual selective account deletion. |
+| N25 / other humans and group | HIGH I2 | Differentiated creative methods, learned social care, reciprocal support and incomplete recovery. |
+| Teacher / peer / parents | HIGH or historical I2 | Effective mentoring, Futaba exchange and childhood memory; no present paternal repair or assured entry. |
+| Empty singers | HIGH / local I2 | Distinct prompting, care, observation, gifts and refusal; topology preserved. |
+| Leo/need / Honami | CROSS_UNIT / LOW I1 | Two reported influence routes; no direct new encounter. Other three humans I0. |
+| MMJ / VBS / WxS | NONE / I0 each | All twelve humans lack material present action or receipt. |
+
+All 24 stories / 39 scenes / 1,614 records / 189,262 canonical bytes were read: eight core, ten card halves, two monthly and four event areas. Membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1275–1276 and event areas use `2025-10-31T06:00:00Z`; cards 1272–1274 use `03:00:00Z`; monthly archive date remains `2023-09-29T15:00:00Z`. Fourteen of 42 authorized events close; EVENT_0185 is next, 28 remain and EVENT_0186 is absent. Twenty packages stay R3 through EVENT_0140; terminal delta audit and synthesis handoff remain open. No AV, R4 or full-series completion is claimed.
+
+## Forward EVENT_0185 — 超克のプロタゴニスタ
+
+| Route | Impact | Result |
+|---|---:|---|
+| WxS / Nene | PRIMARY / VERY HIGH I3 | E0149 to E0185; trust-received, audience-directed lead responsibility under recurring fear. |
+| Nene–Rui | CO_PRIMARY / VERY HIGH I3 | Founded dyad to scoped E0185 professional reciprocity with admitted intervention risk. |
+| Nene–encountered former Yumemi peers | CO_PRIMARY / VERY HIGH I3 | Bounded E0185 repair, direct apologies, revised attribution and renewed encouragement. |
+| WxS / other humans and group | HIGH / very strong I2 | Completed theatre run, differentiated care and reciprocal celebration; current owners retained. |
+| Wonderland / professional network | HIGH / local I2 | Distinct support methods and bounded knowledge; unfinished Asahi–Sakaki exchange. |
+| Leo/need / MMJ / VBS / N25 | NONE / I0 each | All sixteen humans lack material actor or recipient routes. |
+
+All 22 stories / 31 scenes / 1,615 records / 204,400 canonical bytes were read: eight core, ten card halves and four event areas. Membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1282–1283 and areas use `2025-11-10T06:00:00Z`; cards 1279–1281 use `03:00:00Z`. Fifteen of 42 authorized events close. EVENT_0186 is absent; EVENT_0187 is next, with 27 source-present events remaining. Reconstruction stays R3 through EVENT_0140; terminal delta audit and synthesis handoff remain open, with no AV, R4 or full-series completion claim.
+
+## Forward EVENT_0187 — Overcome one's limits
+
+| Route | Impact | Result |
+|---|---:|---|
+| VBS / Akito | PRIMARY / VERY HIGH I3 | E0146 to E0187; destination-led use of present means, with independent E0021 reliance retained. |
+| Other VBS humans / established relations | HIGH / very strong I2 | Practical, creative and reciprocal contributions; current character, partner and group owners retained. |
+| Akito–Alan / No.9 | HIGH / bounded I2 | Direct evaluation/help and expressed collective contract intent; formal agreement unshown. |
+| Street singers / professional network | HIGH / differentiated local I1–I2 | Practical care and reciprocal musical influence; actual, reported and recalled contacts distinguished. |
+| WxS | CROSS_UNIT / LOW I1 | Nene and Rui actual monthly routes; Tsukasa and Emu I0. |
+| Leo/need / MMJ / N25 | NONE / I0 each | All twelve humans lack material actor or recipient routes. |
+
+All 24 stories / 43 scenes / 1,463 records / 184,753 canonical bytes were read: eight core, ten card halves, two monthly and four event areas. Membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1287–1288 and event areas use `2025-11-20T06:00:00Z`; cards 1284–1286 use `03:00:00Z`; both monthly2512 rows retain `2023-09-29T15:00:00Z` archive metadata. EVENT_0186 is absent. Sixteen of 42 authorized events close; EVENT_0188 is next, with 26 remaining. Reconstruction stays R3 through EVENT_0140; terminal delta audit and synthesis handoff remain open, with no AV, R4 or full-series completion claim.
+
+## Forward EVENT_0188 — 仰ぐ夜空に、星は紛れて
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need / Saki | PRIMARY / VERY HIGH I3 | Scoped E0091 to E0188: preferred audience nearness, feared separation and chosen concealment; independent owners preserved. |
+| Saki epistemic partition | VERY HIGH I3 | New E0188 record: earlier loneliness shared with Luka; later preference and concealment private. |
+| Other Leo/need humans / group / Solis / fans | HIGH / very strong I2 | Actual first professional solo concert, technical coauthorship and bounded receipt; current owners retained. |
+| School singers | HIGH / local I2 | Consent-bounded care, discreet witnessing and reciprocal musical inspiration; no new topology or secret receipt. |
+| WxS | CROSS_UNIT / MEDIUM I2 | Historical Tsukasa/family performance; Nene monthly I1, Emu reported I1, Rui I0. |
+| MMJ / VBS / N25 | NONE / I0 each | All twelve humans lack material actor or recipient routes. |
+
+All 24 stories / 53 scenes / 1,289 records / 168,225 canonical bytes were read: eight core, ten card halves, two monthly and four event areas. Membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1292–1293 and event areas use `2025-11-30T06:00:00Z`; cards 1289–1291 use `03:00:00Z`; both monthly2601 rows retain `2023-09-29T15:00:00Z`. Seventeen of 42 authorized source-present events close; EVENT_0189 is next, with 25 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit and handoff remain open, with no AV, R4 or full-series completion claim.
+
+## Forward EVENT_0189 — ともに、トゥルールートを目指して
+
+| Route | Impact | Result |
+|---|---:|---|
+| N25 / Mafuyu | PRIMARY / VERY HIGH I3 | E0165 to E0189: accepted inclusion in a shared result and selected memory, with prior unresolved burdens retained. |
+| Mafuyu–Kohane | CO_PRIMARY / VERY HIGH I3 | New scoped relationship E0189, beyond earlier practical school assistance. |
+| VBS / Kohane | CO_PRIMARY / HIGH I2 | Current operative retained; concern, stated wish, reasoning and photography. Other three humans I0. |
+| WxS / Emu | CO_PRIMARY / HIGH I2 | Current operative and Mafuyu E0141 dyad retained; other three humans reported prior museum co-work I1. |
+| Leo/need / Ichika | CO_PRIMARY / HIGH I2 | Current operative and relations retained; Honami reported I1, Saki/Shiho I0. |
+| Other N25 / local singers | HIGH / local I2 | Rest, domestic and creative support; distinct Empty/Street/Wonderland/School receipts. |
+| MMJ | NONE / I0 | All four humans lack material actor or recipient routes. |
+
+All 22 stories / 44 scenes / 1,446 records / 184,593 canonical bytes were read: eight core, ten card halves and four event areas, with no monthly rows. Membership, canonical/raw hashes, normalized content, ordered identities and chronology pass. Core, cards 1298–1299 and areas use `2025-12-10T06:00:00Z`; cards 1295–1297 use `03:00:00Z`. Eighteen of 42 authorized source-present events close; EVENT_0190 is next, with 24 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit and handoff remain open, with no AV, R4 or full-series completion claim.
+
+## Forward EVENT_0190 — この物語は希望をのせて
+
+| Unit / route | Impact | Result |
+|---|---:|---|
+| MMJ / Haruka | PRIMARY / VERY HIGH I3 | E0142 to E0190 scoped producer expansion; independent E0153 retained. |
+| MMJ / other three and group | PRIMARY / HIGH to VERY HIGH I2 | Current operatives and E0176 group retained; completed event and official qualification. |
+| Rivals / Hiiragi / organizer | SECONDARY / HIGH I2 | E0174 Minori–Hikarin persists through separation; bounded advice and temporary collective authorship. |
+| Stage singers | SECONDARY / HIGH local I2 | Len E0098 retained; reciprocal craft learning and phone-observed result. |
+| Leo/need | CROSS_UNIT / bounded I2 | Shiho preferences and conditional company; Saki I1, Ichika proposed I1, Honami I0. |
+| VBS | NONE / I0 | All four humans lack a material actor or recipient route. |
+| WxS | NONE / I0 | All four humans absent; Phoenix merchandise alone is not human involvement. |
+| N25 | NONE / I0 | All four humans lack a material actor or recipient route. |
+
+All 25 stories / 48 scenes / 1,870 records / 253,658 canonical bytes were read: eight core, ten card halves, three monthly and four event areas. Canonical/raw integrity, membership, normalized text, ordered identities and chronology pass. Core, cards 1303–1304 and event areas use `2025-12-21T06:00:00Z`; cards 1300–1302 use `03:00:00Z`; three monthly rows use archive `2023-09-29T15:00:00Z`. Nineteen of 42 authorized source-present events close; EVENT_0191 is next with 23 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit and handoff remain separate, with no AV/R4/full-series completion claim.
+
+## Forward EVENT_0191 — 新年言祝ぐ、祈りの舞
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| MMJ | PRIMARY / HIGH–VERY HIGH I2 | Minori's local hope method and planned transmission; Haruka's recipient/crowd distinction; Airi performance; Shizuku craft. |
+| VBS | CO_PRIMARY / HIGH I2 | Toya novice learning, actual carrying and Rin co-creation; Kohane photography; An/Akito differentiated participation. |
+| Leo/need | SECONDARY / VERY HIGH I3 | Shiho independent E0191 autobiographical retention; Saki/Honami high I2 causal work, Ichika ordinary I1. |
+| WxS | CO_PRIMARY / HIGH–VERY HIGH I2 | Emu E0104/E0164 retained; Tsukasa/Rui production and Nene teaching. |
+| N25 | CROSS_UNIT / I1–HIGH I2 | Mafuyu/Mizuki craft and bounded social evidence; Kanade/Ena ordinary festival play. |
+| Local singers / fields | SECONDARY / HIGH local I2 | School and Wonderland field witnesses separate; Street support and actual party; Stage planning. |
+| Shrine girl | SECONDARY / bounded encounter | Actual help, instruction and gratitude; identity/cause remain OPEN. |
+
+The complete 26-story / 47-scene / 2,039-record / 259,293-byte envelope was read: eight core, fourteen card halves and four areas, no monthly rows. Integrity, membership, ordered locators and chronology pass. Core, cards 1312–1313 and areas use `2025-12-31T06:00:00Z`; cards 1307–1311 use `03:00:00Z`. Twenty of 42 authorized source-present events close; EVENT_0192 is next with 22 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0192 — 覚めない幻想をノックして
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| N25 / Kanade | PRIMARY / VERY HIGH I3 | Scoped K-E0192-01: confronted rescue-role dependence, provisional alternatives, unresolved answer. |
+| N25 / other three | CO_PRIMARY / HIGH–VERY HIGH I2 | Ena E0184, Mizuki E0150, Mafuyu E0189 preserved; advice, boundaries and reciprocal practical care. |
+| Leo/need | CROSS_UNIT / HIGH I2 | Honami’s actual bounded consultation and received care; Ichika/Saki/Shiho I0. |
+| MMJ | REFERENCED / I1 | Minori’s credited café recommendation only; quartet unchanged. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| Empty singers / family | SECONDARY / HIGH local I2 | Disputed intervention, partial witnesses, actual grandmother counsel and distinct remembered parents. |
+
+The complete 24-story / 37-scene / 1,454-record / 170,894-byte envelope was read: eight core, ten card halves, two monthly areas and four release areas. Integrity, membership, ordered locators and chronology pass. Core/cards 1318–1319/release areas use `2026-01-11T06:00:00Z`; cards 1315–1317 use `03:00:00Z`. Both monthly rows preserve `2023-09-29T15:00:00Z` archive metadata without treating it as scene chronology. Twenty-one of 42 authorized source-present events close; EVENT_0193 is next with 21 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0193 — GO ALL OUT
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| VBS / group | PRIMARY / VERY HIGH I3 | E0193: executed No.9 contract, actual overseas work, defeat and shared care/rest response. |
+| VBS / Toya | PRIMARY / VERY HIGH I2 | E0154 retained; expressive range and chosen competitive desire, with cost and accepted rest. |
+| Toya / Embers | CO_PRIMARY / VERY HIGH scoped I3 | Restricted disclosure, equal-rival promise and actual reciprocal performance receipt. |
+| VBS / other humans | CO_PRIMARY / HIGH–VERY HIGH I2 | Existing Akito, An, Kohane and dyad scopes preserved. |
+| Leo/need | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| Street / professional / community | SECONDARY / HIGH local I2 | Restricted KAITO receipt and reciprocal care; Alan work arrangements; illys/neighborhood contact. |
+
+The complete 25-story / 43-scene / 1,411-record / 182,570-byte envelope was read: eight core, ten card halves, three monthly areas and four release areas. Integrity, membership, ordered locators and chronology pass. Core/cards 1323–1324/release areas use `2026-01-21T06:00:00Z`; cards 1320–1322 use `03:00:00Z`. Three monthly rows retain `2023-09-29T15:00:00Z` archive metadata without creating scene chronology. Twenty-two of 42 authorized source-present events close; EVENT_0194 is next with 20 remaining. Reconstruction remains R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0194 — 粉砕せよ！アンヴァレンタインの復讐
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| WxS / Tsukasa | PRIMARY / VERY HIGH I2 | Existing acting and recipient-oriented owners retained; mixed motives and actual enjoyment. |
+| WxS / Rui, Emu, Nene, group | CO_PRIMARY / HIGH I2 | Respected authorship, bounded club channel and actual coauthored performance. |
+| VBS / Akito, Toya | CO_PRIMARY / HIGH–VERY HIGH I2 | Independent preference, chosen participation, received curiosity and established care. |
+| VBS / An, Kohane | SECONDARY / I2 | Specific collective gift planning; no completed delivery. |
+| N25 / Mizuki | CO_PRIMARY / HIGH I2 | Voluntary leisure and bounded school participation; E0150 retained. |
+| N25 / other three | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| Leo/need | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| Cross-unit / local singers | SECONDARY / HIGH I2 | Existing dyads and separate Wonderland/Street local channels strengthened. |
+
+The full 22-story / 29-scene / 1,584-record / 219,251-byte envelope was read: eight core chapters, ten card halves and four release areas, with no monthly rows. Membership, hashes, normalized content, locators and chronology pass. Core/cards 1330–1331/release areas use `2026-01-31T06:00:00Z`; cards 1327–1329 use `03:00:00Z`. Twenty-three of 42 authorized source-present events close; EVENT_0195 is next and 19 remain. Reconstruction remains R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0195 — Path made by faith
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| Leo/need / Shiho | PRIMARY / VERY HIGH I2 | Established recipient-purpose/staging and independent memory/family scopes retained. |
+| Shiho / Sumire | CO_PRIMARY / VERY HIGH I3 | E0195: actual professional reunion, chosen musical exchange and reciprocal receipt. |
+| Leo/need / other humans, group, Solis | CO_PRIMARY / HIGH–VERY HIGH I2 | First TV work, specific leadership/craft/joy receipt and mutual preparation. |
+| School singers / Madoka / audiences | SECONDARY / HIGH local or bounded I2 | Specific practice, reassurance, private viewing and differentiated public response. |
+| MMJ | CROSS_UNIT / HIGH I2 | Minori gives received advice; Shizuku reported I1; Haruka/Airi I0. |
+| WxS | REPORTED_CONTEXT / I1 | Tsukasa’s quoted family praise; other three I0. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0 | No human episode or changed owner. |
+
+All 24 stories / 42 scenes / 1,280 records / 170,283 canonical bytes were read: eight core, ten card halves, two monthly and four release areas. Integrity, membership, ordered locators and chronology pass. Core/cards 1336–1337/release areas use `2026-02-10T06:00:00Z`; cards 1333–1335 use `03:00:00Z`. Monthly rows retain `2023-09-29T15:00:00Z` archive metadata. Twenty-four of 42 authorized source-present events close; EVENT_0196 is next with 18 remaining. Reconstruction remains R3 through EVENT_0140, with terminal delta audit/handoff and audiovisual obligations separate.
+
+## Forward EVENT_0196 — CHANGE！えむは王女さま！？
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| WxS / Emu | PRIMARY / VERY HIGH I2 | Existing institutional/park owners retained; imperfect advocacy and reciprocal study. |
+| Emu / El | CO_PRIMARY / VERY HIGH I3 | Chosen assistance, received advocacy, returned authorship and continuing peer contact. |
+| El / father | SUPPORTING / HIGH scoped I3 | Specific full hearing, expert review and preparatory permission. |
+| WxS / other humans and group | CO_PRIMARY / HIGH–VERY HIGH I2 | Current craft, care, confidentiality, actual practice and ordinary leisure owners retained. |
+| Wonderland / Arcland | SECONDARY / HIGH local I2 | Rin initiative and relay, received play, bounded staff help; unexplained Asahi absence reported. |
+| Leo/need | REPORTED_CONTEXT / I1 | Saki shade preference relayed by Tsukasa; other three I0. |
+| MMJ | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0 | No human episode or changed owner. |
+
+All 22 stories / 29 scenes / 1,553 records / 207,166 canonical bytes were read: eight core chapters, ten card halves and four release areas; no monthly rows. Membership, hashes, normalized content, ordered locators and chronology pass. Core/cards 1342–1343/release areas use `2026-02-19T06:00:00Z`; cards 1339–1341 use `03:00:00Z`. Twenty-five of 42 authorized source-present events close; EVENT_0197 is next and 17 remain. Reconstruction stays R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0197 — 悪夢の庭を歌い明かして
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| N25 / Ena | PRIMARY / VERY HIGH I2 | E0184 retained; close interpretation, received work and new input within existing artistic method. |
+| Ena / Kohane | CO_PRIMARY / VERY HIGH I3 | E0120→E0197 reciprocal preparation, completed public work and ordinary continuation. |
+| N25 / other three and group | SECONDARY / HIGH I2 | Distinct recommendations, care, attendance/feedback and work; rescue question remains open. |
+| Ena / Empty Len and Iwo | SECONDARY / HIGH bounded I2 | Wanted art company/useful prompts; actual limited professional contact and craft discussion. |
+| VBS / Kohane | CO_PRIMARY / VERY HIGH I2 | E0135 retained; adapted expression, practical wants and reciprocal teaching. |
+| VBS / other humans | REPORTED_CONTEXT / I1 or I0 | Akito attributed/hypothetical I1; An/Toya I0. |
+| Leo/need | SECONDARY / HIGH to LOW I2 | Honami substantial care/interpretation and received advice; other three ordinary lunch/book contact. |
+| MMJ | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0 | Park context does not supply a human episode. |
+| Local singers | SECONDARY / local I2 | Empty, School and Street remain distinct; no new supernatural rule. |
+
+All 22 stories / 32 scenes / 1,416 records / 179,928 canonical bytes were read: eight core chapters, ten card halves and four release areas; no monthly rows. Membership, hashes, normalized content, ordered locators and chronology pass. Core/cards 1348–1349/areas use `2026-02-28T06:00:00Z`; cards 1345–1347 use `03:00:00Z`. Twenty-six of 42 authorized source-present events close; EVENT_0198 is next and 16 remain. Reconstruction stays R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0198 — Open up new horizons！
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| MMJ / Airi | PRIMARY / VERY HIGH scoped I3 | E0138→E0198 embodied role inquiry, shared emotional continuity, negotiated test and actual idol transfer. |
+| Airi / Mao | CO_PRIMARY / HIGH scoped I3 | Production-specific collaboration, apology and reciprocal credit. |
+| MMJ / other humans, group and manager | CO_PRIMARY / HIGH I2 | Current owners retained; differentiated support, work, ordinary contact and fallibility. |
+| Stage singers | SECONDARY / HIGH local I2 | Requested advice, actual shared training and media/gift receipt; future acting production uncompleted. |
+| WxS | SECONDARY / HIGH bounded I2 or I0 | Tsukasa/Nene actual advice and recipient use; Rui/Emu I0. |
+| Leo/need | REPORTED_CONTEXT / I1 or I0 | Shiho reported sibling contact only; other three I0. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| N25 | NOT_RELEVANT / I0 | No human episode or changed owner. |
+
+All 23 stories / 42 scenes / 1,325 records / 182,448 canonical bytes were read: eight core chapters, ten card halves, one monthly area and four release areas. Membership, hashes, normalized content, ordered locators and chronology pass. Core/cards 1353–1354/areas use `2026-03-10T06:00:00Z`; cards 1350–1352 use `03:00:00Z`. Monthly2605_001 keeps archive timestamp `2023-09-29T15:00:00Z`. Twenty-seven of 42 authorized source-present events close; EVENT_0199 is next and 15 remain. Reconstruction stays R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0199 — Amid the Wavering Light
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| N25 / Mizuki | PRIMARY / VERY HIGH scoped I3 | E0150→E0199 informed, tested and conditional fashion/Nightcord pursuit. |
+| Mizuki / Mafuyu | CO_PRIMARY / HIGH scoped I3 | MZM-3→MZM-E0199 explicit future vulnerability, received advice and returned decision/thanks. |
+| N25 / Kanade | CO_PRIMARY / VERY HIGH I2 | E0192 remains open; communicated strategy pause and continuing creation/rumination. |
+| N25 / Ena, Mafuyu, group and existing dyads | CO_PRIMARY / HIGH–VERY HIGH I2 | Particular work, art receipt, care, refusal and ordinary contact; no general cure. |
+| Yuuki / Yoshino | SECONDARY / HIGH I2 or bounded I2 | Existing sister support materially extended; new limited testimony/contact owner. |
+| Empty singers | SECONDARY / HIGH local I2 | Wanted participation, particular knowledge, teaching, preferences and play. |
+| MMJ | SECONDARY / LOW bounded I2 or I0 | Minori/Airi/Shizuku direct monthly contact; Haruka I0. |
+| WxS | REPORTED_CONTEXT / I1 or I0 | Rui’s earlier costume work reported only; other three I0. |
+| Leo/need | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+
+All 27 stories / 46 scenes / 1,577 records / 193,012 canonical bytes were read: eight core chapters, ten card halves, five monthly areas and four release areas. Membership, hashes, normalized content, ordered locators and chronology pass. Core/cards 1359–1360/areas use `2026-03-20T06:00:00Z`; cards 1356–1358 use `03:00:00Z`; monthly rows retain `2023-09-29T15:00:00Z`. Twenty-eight of 42 authorized source-present events close; EVENT_0200 is next and 14 remain. Reconstruction stays R3 through EVENT_0140; terminal delta audit/handoff and audiovisual obligations remain separate.
+
+## Forward EVENT_0200 — 残照のInside Direction
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| WxS / Rui | PRIMARY / VERY HIGH scoped I3 | E0172→E0200 executed film coordination and received result, with real interpersonal cost retained. |
+| Rui / Nagamine | CO_PRIMARY / HIGH scoped I3 | Bounded collaboration, hurt, apology, accepted guidance and reciprocal credit. |
+| Rui / Ohara; WxS group and other humans | CO_PRIMARY / HIGH–VERY HIGH I2 | Existing return channel, observed craft, support, celebration and ordinary preferences. |
+| N25 / Mafuyu | CROSS_UNIT / VERY HIGH scoped I3 | E0189→E0200 recognized endangered self-directed need, without recovery. |
+| N25 / Ena; Kanade, Mizuki | SECONDARY / LOW I2; REPORTED_CONTEXT / I1 | Enjoyed food experiment; recalled/reported concerns without new knowledge receipt. |
+| MMJ / Shizuku | CROSS_UNIT / HIGH, very strong I2 | E0183 retained; anxious former self accepted as part of current identity. |
+| MMJ / Airi; Minori, Haruka | REPORTED_CONTEXT / I1; I0 | Broadcast inspiration only; no new episode for the other two. |
+| Leo/need | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| VBS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| Wonderland / Stage / Empty singers | SECONDARY / HIGH local I2 | Separate leisure, support and fragment knowledge. |
+
+All 28 stories / 46 scenes / 2,019 records / 268,092 canonical bytes were fully read: eight core chapters, fourteen card halves, two monthly areas and four release areas. Membership, hashes, normalized content, ordered locators and chronology pass. Core/cards 1366–1367/areas use `2026-03-30T06:00:00Z`; cards 1361–1365 use `03:00:00Z`; monthly rows retain `2023-09-29T15:00:00Z`. Tier A Rui/Mafuyu changes, Tier B bounded production relation, substantial Tier C self/craft evidence, Tier D ordinary behavior and Tier E conditional fragment contexts remain differentiated. Twenty-nine of 42 envelopes close; EVENT_0201 is next, 13 remain. Reconstruction stays R3 through EVENT_0140; terminal audit/handoff and AV obligations remain separate.
+
+## Forward EVENT_0201 — Show 'em what's up！
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| VBS / An | PRIMARY / VERY HIGH scoped I3 | E0153→E0201 tested expressive-language method, actual first-stage success and ordinary initiative with errors retained. |
+| VBS / Ways | CO_PRIMARY / HIGH scoped I3 | Hostile belittlement followed by competitive reversal and bounded reciprocal recognition. |
+| VBS / Akito, Toya, Kohane and group | CO_PRIMARY / HIGH–VERY HIGH I2 | Preserved owners, differentiated practice/critique/care and shared first-stage result. |
+| illys / Embers / family and Street community | SECONDARY / HIGH–VERY HIGH I2 | Requested rival teaching, actual send-off and received parental gift; restricted histories remain restricted. |
+| Street singers / An–Luka | SECONDARY / HIGH local or bounded I2 | Specific support, used suggestion, private concern and fallible ordinary behavior. |
+| N25 / Ena | SECONDARY / LOW bounded I2 | Actual food-photo contact; motive not confirmed. |
+| N25 / other three | NOT_RELEVANT / I0 | No episode or new knowledge receipt. |
+| Leo/need | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| MMJ | NOT_RELEVANT / I0 | No human episode or changed owner. |
+| WxS | NOT_RELEVANT / I0 | No human episode or changed owner. |
+
+All 23 stories / 41 scenes / 1,525 records / 197,456 canonical bytes were read: eight core chapters, ten card halves, one monthly area and four release areas. Membership, hashes, normalized text, ordered locators and chronology pass. Core/cards 1371–1372/areas use `2026-04-09T06:00:00Z`; cards 1368–1370 use `03:00:00Z`; monthly uses `2023-09-29T15:00:00Z`. Thirty of 42 envelopes close; EVENT_0202 is next, 12 remain. The bounded Kohane ID erratum preserves historical text and interpretation. Twenty reconstruction packages remain R3 through EVENT_0140; terminal audit/handoff and AV work remain separate.
+
+## Forward EVENT_0202 — 約束のPasserelle
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| Leo/need | CO_PRIMARY / VERY HIGH I2 plus scoped epistemic I3 | Ichika's hypothetical vow and actual recipient-sensitive work; Honami/Kohane and family disclosures bounded. |
+| MMJ | CO_PRIMARY / VERY HIGH I2 plus scoped epistemic I3 | Haruka's particular analogy, supported intervention and inclusive facilitation; shared-owner consultation planned. |
+| WxS | CO_PRIMARY / VERY HIGH I2 plus relationship/epistemic I3 | Emu's actual recalled grief and qualified testimony; reciprocal attendant remembrance, visit still future. |
+| N25 | CO_PRIMARY / VERY HIGH I2 plus scoped epistemic I3 | Kanade's actual compositional revision and shared credit; Mafuyu privacy and E0192 conflict preserved. |
+| VBS | CROSS_UNIT / HIGH; scoped epistemic I3, Kohane bounded I2 | Actual arrival and direct Kohane/Honami discussion; no new operative or invented unseen pairings. |
+| Four human collaborators / Interstice Miku | CO_PRIMARY / HIGH scoped relationship I3 | Completed particular song and received mutual attachment; ordinary human follow-up, conditional singer access. |
+| Four local Mikus / six Interstice singers | SECONDARY / HIGH local I2 and epistemic I3 | Differentiated advice/encounters; ordinary-world negative tests and ending inaccessibility retained. |
+| Girl / grandmother | SECONDARY / HIGH bounded evidence | Recalled loss, stated desire, actual song receipt and reported school return/new goal; enduring recovery open. |
+
+All 21 stories / 52 scenes / 2,173 records / 245,232 canonical bytes were fully read: seven chapters, ten card halves and four areas. Core/areas use `2026-04-18T11:00:00Z`, cards `03:00:00Z`; internal scene ordering remains distinct. Thirty-one of 42 envelopes close; EVENT_0203 is next, 11 remain. No new human operative is required for the substantial personal-history and behavioral deltas. Twenty packages remain R3 through EVENT_0140; terminal reconstruction audit/handoff and AV inspection remain separate work.
+
+## Forward EVENT_0203 — あたたかな思い出を辿って
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| Leo/need / Honami | PRIMARY / VERY HIGH I2 | Existing E0121/E0158; received fatigue concern, practical rest planning, newly specified childhood agency and chosen private playing. |
+| Leo/need / other three and group | CO_PRIMARY / HIGH–VERY HIGH I2 | Received preference, actual gratitude/leisure, distinct memory/behavior and mutual improvisation; Saki E0188 remains private. |
+| Solis / Shindo | SECONDARY / HIGH I2 | Already initiated scheduling plus actual granted week; no permanent policy or unilateral cause. |
+| School singers | SECONDARY / HIGH local I2 | Specific disclosure, practice, reciprocal inspiration, restraint and gifts. |
+| N25 / Ena, Mafuyu, Kanade | CROSS_UNIT / LOW–MODERATE bounded I2 | Reported advice/intended care and privately known misrecognition; no actual appetite outcome. |
+| N25 / Mizuki | NOT_RELEVANT / I0 | No episode or receipt. |
+| WxS / Tsukasa | INCIDENTAL / historical I1 | Saki’s reported childhood in-character book reading. |
+| WxS / other three | NOT_RELEVANT / I0 | No episode or owner change. |
+| MMJ | NOT_RELEVANT / I0 | No human evidence. |
+| VBS | NOT_RELEVANT / I0 | No human evidence. |
+
+All 24 stories / 47 scenes / 1,248 records / 163,097 canonical bytes were fully read. Core/cards 1383–1384/areas use `2026-04-30T06:00:00Z`; cards 1380–1382 use `03:00:00Z`; monthly uses `2023-09-29T15:00:00Z` without invented scene dates. No new I3 is required. Thirty-two of 42 envelopes close; EVENT_0204 is next, ten remain. Twenty packages remain R3 through EVENT_0140; terminal audit/handoff and AV work remain separate.
+
+## Forward EVENT_0204 — Stay solid, No fold
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| VBS / Kohane | PRIMARY / VERY HIGH I2 | KH-E0135 retained; studio experiment, supported self-direction, unresolved appraisal discomfort. |
+| VBS / other humans and group | CO_PRIMARY / HIGH–VERY HIGH I2 | Existing owners, actual qualification, selective inquiry and refusal, ordinary practice/care. |
+| VBS / DG and industry knowledge | HIGH scoped I3 | VBS-REL-GROUP-DG-E0204 and VBS-EPI-DG-E0204; audience-only judgment/arrangement, no certified execution. |
+| Rivals / No.9 / Ken and Taiga | SECONDARY / HIGH I2 | Reciprocity, gratitude, present dependence, bounded warnings. |
+| Street singers | SECONDARY / HIGH local I2 | Distinct practice, advice, restraint, ordinary interests and actual party. |
+| WxS / Tsukasa | CROSS_UNIT / MODERATE mediated I2 | Earlier encouragement received; Toya’s final reply not shown sent. |
+| WxS / other three | NONE / I0 | No human episode or changed knowledge. |
+| Leo/need | INCIDENTAL / mediated I1 | Public work received as motivation by Kohane/Akito. |
+| MMJ | INCIDENTAL / mediated I1 | Public-work mention, no new member episode. |
+| N25 | NONE / I0 | No human episode or changed knowledge. |
+
+The complete 25-story envelope has 45 scenes and 1,576 records. Actual qualification is limited to entry into the main competition. No audiovisual inspection or reconstruction advance follows. All earlier readings and EVENT_0170 closure remain intact; EVENT_0205 is next, nine source-present events remain. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0204_DEEP_READING.md) owns detailed citations, seven lenses, complete surface dispositions and reconstruction deltas.
+
+## Forward EVENT_0205 — Great Yell for Dreamers！
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| Leo/need | PRIMARY / VERY HIGH I2 plus scoped relation/EPI I3 | Shiho current owners; Ichika I2, Saki I1, Honami I0. Group E0171 retained. |
+| MMJ | PRIMARY / VERY HIGH I2 plus scoped relation/EPI I3 | Minori E0122/E0098; other three reported I1. Group E0176 retained. |
+| VBS | PRIMARY / VERY HIGH I2 plus scoped relation/EPI I3 | An E0201 with earlier scopes; Akito direct privacy I2, Kohane/Toya reported I1. Group E0193 retained. |
+| WxS | PRIMARY / VERY HIGH I2 plus scoped relation/EPI I3 | Tsukasa E0178; Nene privacy I2; Emu/Rui reported I1. Group E0178 retained. |
+| N25 | Reported context I1 / direct I0 | Group and Kanade/Ena/Mizuki references; no new member receipt; Mafuyu human I0. |
+| Interstice Rin/Len | HIGH scoped relationship/EPI I3 | REL-CROSS-DREAMERS-E0205 and EPI-PJSK-SEKAI-E0205; observed limits and later closed access. |
+| Four local Rin/Len pairs | HIGH local I2 / scoped cross-contact I3 | Eight distinct phone-mediated incarnations, differentiated knowledge and ordinary play/music. |
+| ライセ / ミナト | HIGH bounded relationship I3 | REL-EXTERNAL-DANCER-PARTNERS-E0205, formal team and permitted continued pursuit, no prize/career guarantee. |
+| Tsukasa / Ohara | HIGH bounded I2 | WXS-REL-TSUKASA-OHARA-E0205; actual particular co-work, not first acquaintance or standing mentorship. |
+
+All 24 stories / 45 scenes / 2,269 records are fully read; the [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0205_DEEP_READING.md) owns seven lenses, citations, full surface disposition and reconstruction deltas. Analysis closes EVENT_0205; EVENT_0206 is next, eight source-present events remain. R3 remains through EVENT_0140; video/performance channels are not inspected and earlier closure remains intact.
+
+## Forward EVENT_0206 — 最果てへと飛ぶキミへ
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| N25 | PRIMARY / VERY HIGH I2 | Mizuki E0199 and Kanade E0192; Mafuyu domestic I2, Ena ordinary I2; group E0170 preserved, private final exchange not shared. |
+| MMJ | CO_PRIMARY / VERY HIGH I2 | Airi E0198 and group E0176; Shizuku/Minori/Haruka differentiated high I2. |
+| Leo/need | Reported I1 / otherwise I0 | Honami expected helper, absent from actual near-fall episode; other three I0. |
+| VBS | NONE / I0 | All four humans unchanged. |
+| WxS | NONE / I0 | All four humans unchanged. |
+| Stage singers | VERY HIGH / HIGH local I2 | KAITO E0092 and founded human–Stage relation; support, reciprocal gift and limited knowledge. |
+| Mizuki / Shibayama | Bounded HIGH I2 | New event-local relationship entry for care, disclosure, accepted memorial and gratitude; no promised lasting access. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0206_DEEP_READING.md) owns seven lenses, all 22 stories / 29 scenes / 1,393 records, source locators and reconstruction deltas. No new principal-human I3 is required for these substantial specific effects. Analysis closes EVENT_0206; EVENT_0207 is next, seven source-present events remain. R3 remains through EVENT_0140; AV channels are uninspected and the earlier run closure remains intact.
+
+## Forward EVENT_0207 — Into the New Light
+
+| Unit / domain | Impact | Result |
+|---|---:|---|
+| N25 | PRIMARY / VERY HIGH scoped I3 | MF-E0207-01; selective enacted presentation choice, E0200/E0189/E0165 retained. Other group context I1/direct I0. |
+| MMJ | CO_PRIMARY / VERY HIGH relation I3 | Mafuyu–Shizuku E0207; Shizuku current operatives very strong I2, Minori/Haruka I1, Airi I0. |
+| Leo/need | CO_PRIMARY / VERY HIGH I2 plus shared I3 | Honami E0121/E0158; Shiho I2, Ichika I1, Saki I0. |
+| VBS | CO_PRIMARY / VERY HIGH I2 plus shared I3 | Kohane KH-E0135; other team/founding context I1/direct I0, no DG private receipt. |
+| WxS | Reported I1 / individual I0 | Tsukasa/group existence referenced; no direct member action or receipt. |
+| Four humans / Interstice Luka | HIGH scoped I3 | REL-CROSS-NEW-LIGHT-E0207 and EPI-PJSK-SEKAI-E0207; distinct task, ordinary contact and conditional access. |
+| Four humans / video maker | HIGH bounded I3 | REL-CROSS-VIDEO-CREATOR-E0207; accepted work/support, recipient-owned decisions and later reports; no direct singer contact. |
+| Four local Lukas | HIGH local I2 | Distinct methods, knowledge and continued phone contact; other singers proportional. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0207_DEEP_READING.md) owns all 21 stories / 43 scenes / 1,699 records, seven lenses, exact citations, complete routing and reconstruction deltas. Analysis closes EVENT_0207; EVENT_0208 is next, six source-present events remain. All five human group owners and historical closure remain preserved. R3 remains through EVENT_0140; AV channels and terminal reconstruction/synthesis handoff remain separate.
+
+## Forward EVENT_0208 — Phantom maze monster
+
+| Route | Impact | Result |
+|---|---:|---|
+| WxS / Tsukasa | PRIMARY / VERY HIGH I3 | E0178→E0208; autobiographical excavation, dangerous isolation, received return and concrete repair with risk retained. |
+| WxS group | HIGH I3 | E0178→E0208; completed first cohosted production and explicit continuing retrieval agreement. |
+| Tsukasa personal knowledge | Scoped I3 | EPI-WXS-TSUKASA-MEMORY-E0208; remembered resentment privately recognized, not disclosed to everyone. |
+| Rui / Nene / Emu | VERY HIGH I2 | Existing distinct human scopes; artistic/protective conflict, research, promotion and effective intervention without permanent mastery. |
+| Sakaki / Wonderland Len | Bounded HIGH I2 | New precise dyadic owners within prior professional/local relations; no permanent mentor or first-ever care. |
+| Leo/need | CROSS_UNIT / HIGH I2 | Saki’s actual care and received apology; Honami recalled I1; Ichika/Shiho and band I0. |
+| MMJ | NONE / I0 | No material human-unit route. |
+| VBS | NONE / I0 | No material human-unit route. |
+| N25 | NONE / I0 | No material human-unit route. |
+| Remaining local singers / family / park / audiences | Differentiated I2 | Distinct counsel, creative wishes, permission, attributed response and ordinary contact; no universal ontology or commercial guarantee. |
+
+All 24 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0208_DEEP_READING.md) owns exact locators, all cards/areas, seven lenses and exit limitations. The six ledgers, routing, coverage and navigation close 37/42 newly authorized events; EVENT_0209 is next, five remain, EVENT_0186 absent. Reconstruction stays R3 through EVENT_0140. Terminal reconstruction-delta audit, retrospective synthesis and AV inspection remain separate obligations.
+
+## Forward EVENT_0209 — アイドル・花里みのり～夢の最前線～
+
+| Route | Impact | Result |
+|---|---:|---|
+| MMJ / Minori | PRIMARY / VERY HIGH I2 | Existing E0122/E0098; specific public recognition, civic responsibility and cherished photograph. |
+| Haruka / Airi / Shizuku | HIGH I2 | Existing craft, care and ordinary-life scopes; group E0176 retained. |
+| VBS / Toya | CROSS_UNIT / VERY HIGH I2 | E0154 with inherited E0139/E0125/E0012; refuge, pleasure and unresolved but retained past. Akito/father recalled I1; other humans I0; group E0193 retained. |
+| WxS / Nene | CROSS_UNIT / scoped I3 | Independent E0209 self-continuity alongside E0185/E0144. Tsukasa/Rui I1, Emu I0; group E0208 retained. |
+| Leo/need | CROSS_UNIT / I2 | Shiho’s restricted consent and received reliance; others/band I0. |
+| N25 | NONE / I0 | No material human-unit route. |
+| Fragment knowledge | HIGH I2 | Two owner-specific cases under E0153 / CR-042; E0207 shared-world authority separate. |
+| Local singers / staff / recipients | Differentiated I2/I1 | Distinct help, fallibility, credited reception and knowledge boundaries; future live and opponent unresolved. |
+
+All 26 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0209_DEEP_READING.md) owns the exact locators, every card/area, seven lenses and exit limits. Routing, coverage, navigation and all six cumulative ledgers close 38/42 authorized events; EVENT_0210 is next, four remain and EVENT_0186 is absent. All 20 reconstructions remain R3 through EVENT_0140. The terminal delta audit and synthesis/reconstruction handoff remain required; AV and full-series completion are not claimed.
+
+## Forward EVENT_0210 — 褪せない今を、彩って
+
+| Route | Impact | Result |
+|---|---:|---|
+| N25 / Ena | PRIMARY / VERY HIGH I2 | E0184 with E0127/E0070 retained; present seeing, received art, pleasure and technical limits. |
+| Kanade / Mafuyu / Mizuki | HIGH–VERY HIGH I2 | E0192 / E0207 / E0199 retained; specific memory, assistance, chosen pleasure and company. |
+| N25 group / dyads | VERY HIGH differentiated I2 | E0170 and founded pair scopes; shared leisure and care with unequal advance knowledge and future uncertainty. |
+| Empty singers | HIGH local I2 | MEIKO E0150 selective participation/gifts, distinct other singers; no new omniscience. |
+| Leo/need | INDIRECT / I1 | Honami reported care; others/band I0. |
+| VBS | INDIRECT / I1 | Akito recalled/mentioned; others/group I0. |
+| MMJ | NONE / I0 | No material human-unit route. |
+| WxS | NONE / I0 | No material human-unit route. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/N25/PJSK_EVENT_0210_DEEP_READING.md) owns all exact locators, card/area coverage, seven lenses and action-status limits. Routing, six ledgers, coverage and navigation close 39/42 authorized events; EVENT_0211 is next, three remain and EVENT_0186 is absent. All 20 reconstruction packages remain R3 through EVENT_0140. Terminal reconstruction-delta audit and synthesis/reconstruction handoff remain required; AV and full-series completion stay unclaimed.
+
+## Forward EVENT_0211 — 君の隣、君と見る明日
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need / Saki | CO_PRIMARY / VERY HIGH I2 | Retained scopes; sustained inquiry, disclosed past analogy, composition/performance; cohort and knowledge I3. Other humans recalled/proposed I1. |
+| VBS / Toya | CO_PRIMARY / VERY HIGH I2 | Costly challenge, received instruction, disclosed partnership analogy and composition. Other three actual care/reaction bounded I2. |
+| WxS / Rui | CO_PRIMARY / VERY HIGH I2 | New biography receipt, authored/adapted show, retained craft/ethical limits. Tsukasa actual I2, Emu reported I1; robot not human Nene. |
+| N25 / Mizuki | CO_PRIMARY / VERY HIGH I2 | Private Rui disclosure, authorized improvisation, actual brief attendance improvement. Other humans referenced I1. |
+| MMJ | REFERENCE_ONLY / I1 | Minori proposed invitee; others/group I0. |
+| Cohort / external pair | Scoped I3 | REL-CROSS-TOMORROW-E0211; REL-EXTERNAL-MORIYA-MAJIMA-E0211; completed work and recipient-owned repair. |
+| Shared-world / biography knowledge | Scoped I3 | EPI-PJSK-SEKAI-E0211 and EPI-CROSS-PAST-SHARING-E0211; explicit witness and mechanism limits. |
+| Local singers / family / Kimura | Differentiated I2/I1 | Specific consent, assistance, reports and received contact; no global singer promotion. |
+
+All 21 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0211_DEEP_READING.md) owns exact locators, every card/area, knowledge matrix and seven lenses. Six ledgers, routing, coverage and navigation close 40/42 authorized events; EVENT_0212 is next, two remain and EVENT_0186 is absent. All 20 reconstruction packages stay R3 through EVENT_0140. Terminal EVENT_0141–0213 delta audit and synthesis/reconstruction handoff remain required; audiovisual and full-series completion remain unclaimed.
+
+## Forward EVENT_0212 — Echo of a Prayer
+
+| Route | Impact | Result |
+|---|---:|---|
+| Leo/need / Ichika | PRIMARY / VERY HIGH I3 | E0182→E0212 scoped responsibility allocation; agency refusal, continuing personal work and shared live. |
+| Leo/need / other three | HIGH–VERY HIGH I2 | Saki’s support/concern, Honami’s concrete musicianship/care, Shiho’s experienced confidence and unresolved question. |
+| MMJ / VBS / WxS / N25 | NONE / I0 each | No principal-human participation or inferred generic cast. |
+| Band / Solis / School singers | Strong–very strong I2 | Support, professional role distinctions, actual rehearsal, successful live and deferred/canceled celebrations. |
+| Career knowledge | Scoped I3 | LN-EPI-ICHIKA-CAREER-E0212; corrected contract assumption and precise receipt limits. |
+| External creators / bands / family | Bounded testimony and interaction | Permission-based reciprocal arrangement, WillowS invitation, Rain repertoire, ordinary family dinner commitment. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0212_DEEP_READING.md) owns every card/area, knowledge matrix, seven lenses and exact locators. Six ledgers, routing, coverage and navigation close 41/42 authorized events; EVENT_0213 is next, one remains and EVENT_0186 is absent. The twenty reconstruction packages stay R3 through EVENT_0140. Terminal EVENT_0141–0213 delta audit and synthesis/reconstruction handoff remain required; no AV or full-series completion is certified.
+
+## Forward EVENT_0213 — Leap Beyond The Limits！
+
+| Route | Impact | Result |
+|---|---:|---|
+| MMJ / Haruka | PRIMARY / VERY HIGH I3 | E0190→E0213: changed criterion, fallible inquiry, revised constraint, explained proposal and received assent. |
+| MMJ / group | Scoped I3 | E0176→E0213: considered adoption of one changed stage arrangement; no executed semifinal. |
+| MMJ / other three | HIGH–VERY HIGH I2 | Distinct judgments, craft, active commitment, ordinary-life support and limits under retained human owners. |
+| Leo/need / VBS / WxS / N25 | NONE / I0 each | No principal-human participation. |
+| Haruka / Chiharu | Bounded HIGH I2 | Actual reciprocal exercise and private biography receipt; prior cooperation preserved. |
+| Semifinal knowledge | Scoped I3 | EPI-MMJ-SEMIFINAL-E0213; actual public rules and separately received private proposal. |
+| Stage singers / rivals / fans | Differentiated I2 and reference context | Explicit phone-mediated broadcast receipt, local counsel, unfinished own live plans and bounded public reaction. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0213_DEEP_READING.md) owns every card/area, exact locators, name erratum, knowledge matrix and seven lenses. Six ledgers, routing, coverage and navigation close **42/42** authorized source-present events; EVENT_0186 is absent, and earlier EVENT_0166 remains absent. **NO_NEXT_AUTHORIZED_EVENT.** Terminal EVENT_0141–0213 reconstruction-delta audit and synthesis/reconstruction handoff are next. All twenty reconstruction packages remain R3 through EVENT_0140; audiovisual inspection, package refresh, unit/specialist synthesis and full-series synthesis are uncompleted separate layers.
+
+## Forward EVENT_0214 — Again And Again Ambition！
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | REFERENCE_ONLY / I1 Ichika's group and reported Shiho/Honami; no new direct human action, Saki/group I0; LN E0171 retained. |
+| MMJ / Airi | CO_PRIMARY / VERY HIGH I2 under E0198 and distinct communication history; scoped cohort/knowledge I3. Shizuku reported I1; other humans/group unchanged. |
+| VBS / Akito | CO_PRIMARY / VERY HIGH I2 under E0187 with inherited E0146/E0109 and independent E0021; scoped sibling/cohort/knowledge I3. Toya reported and Kohane referenced I1; An/group unchanged. |
+| WxS / Nene | CO_PRIMARY / VERY HIGH I2 under E0185, independent E0144/E0209; fallible planning and practical recovery. Tsukasa/Emu/Rui referenced or reported I1; group E0208 retained. |
+| N25 / Ena | CO_PRIMARY / VERY HIGH I2 under E0184 with inherited E0127/E0070; scoped sibling/cohort/knowledge I3. Mizuki reported I1; Kanade/Mafuyu/group unchanged. |
+| Ena–Akito | Scoped I3 REL-FAMILY-ENA-AKITO-E0014→E0214 for explicit received past-harm acknowledgment; no universal forgiveness or end of friction. |
+| Mixed cohort / Interstice MEIKO | Scoped I3 REL-CROSS-AMBITION-E0214 for rescue, inquiry, differentiated assistance and ordinary follow-through; no permanent unit or pooled singer identity. |
+| 俊輝 / 大輝 | Scoped I3 REL-EXTERNAL-MANGA-BROTHERS-E0214; accepted assistance, actual failed submission and chosen separate career attempts; no debut or completed future joint work. |
+| Shared-world knowledge | EPI-PJSK-SEKAI-E0211→E0214; particular introductions, fragment memories/voice, identified world birth and tree light; mechanism and access remain qualified. |
+| Local singers / mother / editor | Differentiated consent, testimony, direct or reported receipt. Empty MEIKO E0150 preserved; School MEIKO absent; mother's received apology unshown, editor unnamed. |
+
+All 21 stories are fully read and integrity-verified under the refreshed source lock. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0214_DEEP_READING.md) owns every card/area disposition, exact locators, knowledge ownership, seven lenses and reconstruction implications. The routing inventory, six ledgers, coverage, source intake and navigation close **1 of 9** new events. EVENT_0215 is next; eight event envelopes and 449 supplemental stories remain. All 20 reconstruction packages stay R3 through EVENT_0140; terminal reconciliation/handoff, publication audit and AV limits remain separate.
+
+## Forward EVENT_0215 — Mix&Make Party Time!!
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | SECONDARY / HIGH I2 all four: organizing, message transport, art, cooking instruction and shopping preferences. Individual scopes and LN group E0171 retained. |
+| MMJ | SECONDARY / HIGH I2 all four: streaming-derived design, practical logistics, food labor and appreciative participation. Individual scopes and MMJ group E0213 retained. |
+| VBS | SECONDARY / HIGH I2 all four: hosting, photography, bounded English practice/result, practical care and welcoming/learning work. Group E0193 and separate private knowledge retained. |
+| WxS | SECONDARY / HIGH I2 all four: entertainment/thanks, practical guidance, cooking/preferences, supplies and memory support. Group E0208 and independent personal scopes retained. |
+| N25 | SECONDARY / HIGH I2 all four: actual cooking despite self-minimization, correspondence transport, art instruction and social facilitation. Group E0170 and guarded biography retained. |
+| Street Luka / Stage Len / Wonderland KAITO | PRIMARY / VERY HIGH I2 distinct organizing, accessible planning, workload limits and received response; no generic singer operative promotion. |
+| School Miku / Wonderland Rin / Empty MEIKO | Major local I2 through chaired choice, requested feedback, reciprocal learning, voluntary gratitude and practical mediation. Other local singers separately active I2. |
+| Executed party network | Scoped I3 REL-PJSK-CROSS-SEKAI-PARTY-E0215: thirty local singers and twenty human holders, differentiated four-team work, actual party and specific follow-through. No equal all-pairs intimacy or permanent new unit. |
+| Shared-world knowledge | EPI-PJSK-SEKAI-E0214→E0215: broader use of existing mediation and a tree-song attempt with an unidentified response heard by Street Luka. Interstice singers absent; reliable access and universal receipt unproven. |
+| Specific continuities | Ena–Akito E0214, Empty MEIKO E0150, Empty KAITO E0100, Street Luka E0109/An E0201, prior guest registry E0179 and five World Link cohorts preserved at their distinct scopes. |
+
+All 25 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0215_DEEP_READING.md) owns the four-team participant matrix, every card/area, exact locators, seven lenses and knowledge/reconstruction limits. Six ledgers, routing, coverage, intake and navigation close **2 of 9** new event transactions. EVENT_0216 is next; seven event envelopes and 449 supplemental stories remain. All twenty packages remain R3 through EVENT_0140; updated terminal reconciliation/handoff and exact published audit are still required.
+
+## Forward EVENT_0216 — After the Fire
+
+| Route | Impact / disposition |
+|---|---|
+| VBS / Akito and Toya | PRIMARY / VERY HIGH I2: early partnership construction, present trust, ordinary competence and accusation/defense. Akito E0187 plus E0021, Toya E0154 and VBS-REL-AK-TY-3 retained. |
+| VBS / An and Kohane | CO_PRIMARY / HIGH I2: bounded language confidence, practical inquiry, memory, received performance and troubled aftermath. An E0201, Kohane VBS-EP-KH-E0135 plus E0103 retained. Group E0193 preserved. |
+| Leo/need | NONE / I0 all four; no new appearance, receipt or state change. |
+| MMJ | NONE / I0 all four; no new appearance, receipt or state change. |
+| WxS | NONE / I0 all four; Toya's arcade activity does not confer participation on Tsukasa or Nene. |
+| N25 | NONE / I0 all four; unnamed souvenir purposes do not establish an Ena episode or change sibling E0214. |
+| Street singers | SECONDARY / HIGH local I2: chosen training, independent leisure, differing preferences, hidden phone singing, food and proposed relief. No counterpart merger or new universal world rule. |
+| Embers / illys / neighbors | High–very high I2 prior development plus scoped I3 VBS-REL-RIVAL-TRUST-E0216: specific accusation, restraint and unequal responses. Slade trusts; Cedric cannot yet; Elena wants to believe amid confusion; Rebecca intervenes. No universal rupture or repair. |
+| Warehouse knowledge | Scoped I3 VBS-EPI-WAREHOUSE-E0216: damaged site, attributed probable work loss, owned keyring and disputed inferences. Culprit, placement route and recovery remain unknown. DG E0204 remains separate audience-only information. |
+| Historical / reported contacts | Akito tells Cedric/Rebecca earlier partnership history; Cedric supplies dream origins. Alan reported I1. RADder's repertoire is sung at the gathering; the original group does not newly appear. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/VBS/PJSK_EVENT_0216_DEEP_READING.md) owns every card/area disposition, source locators, seven lenses, recipient knowledge and reconstruction increments. Six ledgers, routing, coverage, intake and navigation close **3 of 9** new event envelopes. EVENT_0217 is next; six events and 449 supplemental stories remain, followed by terminal reconciliation/handoff. All twenty packages remain R3 through EVENT_0140; AV inspection remains absent.
+
+## Forward EVENT_0217 — Drive to Dream！
+
+| Route | Impact / disposition |
+|---|---|
+| WxS / Nene | PRIMARY / VERY HIGH I2: actual adapted performance, received help, live professional benchmark and renewed resolve. E0185 craft, independent E0144 leadership and E0209 self-continuity retained. |
+| WxS / Emu | CO_PRIMARY / HIGH–VERY HIGH I2 E0164/E0104: researched map, practical initiative, co-authored improvisation, error/apology, food curiosity and reciprocal credit. |
+| WxS / Tsukasa, Rui and group | HIGH I2: family-supported travel, coordination, concern, chosen rendezvous, thanks and professional observation. Tsukasa E0208, Rui E0200 plus independent E0144, group E0208 and existing dyads retained. |
+| Leo/need | NONE / I0 all four. Family support does not imply a new Saki episode or disclosure. |
+| MMJ | NONE / I0 all four; no new actor or recipient. |
+| VBS | NONE / I0 all four; the American setting does not join their private crisis to this trip. |
+| N25 | NONE / I0 all four; no new actor or recipient. |
+| Wonderland singers | SECONDARY / HIGH local I2, especially Luka/Len: sustained waiting, independent care/interests, received gifts and learned enthusiasm. No universal mechanism or counterpart merger. |
+| Olivia | Scoped I3 WXS-REL-NENE-EMU-OLIVIA-E0217: translation/advice, received show, changed travel choice, actual lift, disclosed former aspiration and accepted future invitation. No permanent mentorship or revived acting career. |
+| Audition knowledge | Scoped I3 WXS-EPI-AUDITION-E0217: all-role audition offer, intended participation and received title Wonder!; no casting outcome, executed production or identified publicity device. Sakaki E0208 history retained. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0217_DEEP_READING.md) owns the exact causal chain, all side-source dispositions, seven lenses, knowledge partitions and reconstruction increments. Six ledgers, routing, coverage, intake and navigation close **4 of 9** new envelopes. EVENT_0218 is next; five events and 449 supplemental stories remain, followed by terminal reconciliation/handoff. All twenty packages remain R3 through EVENT_0140; AV inspection remains absent.
+
+## Forward EVENT_0218 — Connect to SEKAI！
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; differentiated I2 welcomes, access retest, company and limits. Ichika E0212, Saki E0188, Honami E0121/E0158, Shiho E0162/E0148/E0191 and group E0171 retained. |
+| MMJ | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; welcome, curiosity, practical exchange and quiet companionship I2. Minori E0122/E0098, Haruka E0213 plus independent scopes, Airi E0198, Shizuku E0183 plus independent scopes and group E0213 retained. |
+| VBS | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; language difficulty, register, ordinary pleasure and specific family help I2. Akito E0187/E0021, Toya E0154, An E0201, Kohane KH-E0135/E0103 and group E0193 retained; accusation and private DG/hearing information remain separate. |
+| WxS | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; coordination, craft/play and refused exploration I2. Tsukasa E0208, Emu E0164/E0104, Nene E0185/E0144/E0209, Rui E0200/independent E0144 and group E0208 retained. |
+| N25 | CO_PRIMARY / HIGH shared relation/EPI I3 for all four; coordinated entry, ordinary comfort, selective quiet company and chosen meetup I2. K-E0192-01, MF-E0207-01, E-E0184-01, MZ-E0199-01 and group E0170 retained. |
+| Six Interstice singers | CO_PRIMARY / HIGH scoped I3: received reunion and repeat social visits, own wish for company and explicit observation limits. |
+| Local singers / prior cohorts | Five Mikus directly warn humans; other local acts are reported or explicitly reused earlier evidence. Preserve all five cohort relations, local identities and prior refusals; no new all-thirty gathering. |
+
+The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0218_DEEP_READING.md) integrates all 95 envelope memberships: 43 newly read stories/530 records and 52 explicitly reused prior-read card halves/3278 records. Every one of the 41 new areas and 26 reused card pairs has an explicit disposition; seven lenses, receipt limits and reconstruction increments are integrated. This closes **5 of 9** events. EVENT_0219 is next; four events and 449 supplemental stories remain before terminal reconciliation/handoff. All packages remain R3 through EVENT_0140 and AV remains uninspected.
+
+## Forward EVENT_0219 — Side by Side, Our Ways！
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need | Saki SECONDARY / VERY HIGH scoped I3 E0188→E0219: retain the troubling wish while choosing the band; conflict and absence of bandmate disclosure remain. Ichika CO_PRIMARY HIGH–VERY HIGH I2 E0212. Honami/Shiho I1 recalled/group context; group E0171 retained. |
+| MMJ | Airi PRIMARY / VERY HIGH I2 E0198/E0092: reciprocal rest, initiative, craft and received support. Minori/Haruka/Shizuku I1 context; Haruka/group E0213 retained, no semifinal result. |
+| VBS | Kohane CO_PRIMARY / HIGH–VERY HIGH I2 E0135 plus independent E0103: photographic contribution, practical making, gratitude and delivered prints. An/Akito/Toya I1 collective retrospective/ambition context only; all private crisis, hearing and DG owners retained. |
+| WxS | Rui CO_PRIMARY / HIGH–VERY HIGH I2 E0200 plus independent E0144: adaptive mechanism, welcomed technical interest and demonstrated salvage. Other three I1 retrospective group context; no new audition/casting result. |
+| N25 | Ena CO_PRIMARY / VERY HIGH I2 E0184: art effort, chosen reciprocal rest, teaching, received praise and future aim. Kanade/Mafuyu/Mizuki I1 past refuge/group context; no new private disclosure. |
+| Cross-unit relation | Scoped I3 REL-CROSS-SHIBUPON-E0219: five co-authors, creative award, messages and reciprocal future support; earlier dyads and E0214 Shinonome acknowledgment retained. |
+| Epistemic | Scoped Saki preferred-scale E0188→E0219 with bounded Rin/Len receipt; high I2 under shared-SEKAI E0218 for Interstice Miku's private five-counterpart past-memory encounter, consistent with E0162's exceptional Luka comparison. Shared SEKAI E0218 and thought-shard E0153 retained. |
+| Singers / other actors | Distinct current I2 care, encouragement, gifts and craft for School Rin/Len, Stage Miku/Rin/Luka, Street Miku/MEIKO, Wonderland Len/KAITO/plushes and Empty Miku/Len. Five Miku memories remain retrospective, not current universal knowledge. |
+
+All 26 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/MIXED/PJSK_EVENT_0219_DEEP_READING.md) owns the exact causal chain, every side-source disposition, seven lenses, differentiated knowledge and reconstruction increments. Six ledgers, routing, coverage, intake and navigation close **6 of 9** new envelopes. EVENT_0220 is next; three events and 449 supplemental stories remain, followed by terminal reconciliation/handoff. All twenty packages remain R3 through EVENT_0140; AV inspection remains absent.
+
+## Forward EVENT_0220 — Stars Off Orbit
+
+| Route | Impact / disposition |
+|---|---|
+| Leo/need / Honami | PRIMARY / VERY HIGH scoped I3 E0121→E0220: preserve musical leadership; add personally invested inquiry, received difficult difference, attempted dialogue, actual institutional delay and continued search without guaranteed agreement. Independent E0158 retained. |
+| Leo/need / Saki, Ichika, Shiho | CO_PRIMARY / VERY HIGH I2. Saki E0219 conscious retention, Ichika E0212 chosen priority and Shiho E0162/E0148/E0191 remain; disclosure, hurt and unanswered questions are distinct, not new completed resolutions. |
+| Leo/need group / knowledge | Scoped I3 group E0171→E0220 strained future deliberation; preferred-scale knowledge E0219→E0220 with new human recipients; new LN-EPI-LABEL-TRANSFER-E0220 concrete offer and postponed response. No dissolution, transfer or agreed solution. |
+| MMJ | INCIDENTAL / I1 named Haruka/Minori/Shizuku schooling/work examples and collective food-program reference; Airi has no separate enactment. No new decision, recipient or competition result. |
+| WxS | INCIDENTAL / I1 Tsukasa committee/family report and Emu recommendation; Nene/Rui I0. No new troupe or audition result. |
+| VBS | NONE / I0 all four. |
+| N25 | NONE / I0 all four. |
+| School singers / Solis | HIGH local I2 distinct advice, limited reports, ordinary support and reciprocal thanks. MEIKO/KAITO's suspicion precedes disclosure; no universal knowledge. Existing Solis affiliation retained; Shindo accepts a response delay, not a signed transfer. |
+
+All 22 stories are fully read and integrity-verified. The [complete reading](../03_SEQUENTIAL_EVENT_READINGS/LEO_NEED/PJSK_EVENT_0220_DEEP_READING.md) owns every side-source disposition, seven prescribed lenses, exact causal order, named/knowledge partitions and reconstruction increments. Six ledgers, routing, coverage, intake and navigation close **7 of 9** envelopes. EVENT_0221 is next; two events and 449 supplemental stories remain, then terminal reconciliation/handoff. All sixty character-package files remain R3 through EVENT_0140; AV inspection remains absent.
