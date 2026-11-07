@@ -2133,3 +2133,6 @@ Close the implemented Reala21 pair's own full publication/integration gate next.
 ``````````
 
 ``````````````
+## V21 exact entering master preimages
+
+The complete original historical payload is preserved under [Completed routing and V21 entering preimages](#completed-routing-and-v21-entering-preimages). This appended unfenced route resolves the inherited historical self-link while retaining the entire entering archive as an exact prefix.
