@@ -415,6 +415,28 @@ Reviewed analysis subjects in the `re-zero` namespace of the [Character Analysis
 - Reviewed current evidence:
   - [`character-model` — Regulus Corneas: V01–V19 source-bounded character model](../../series/re-zero/05%20Character%20Analysis/REZERO_REGULUS_V01_V19_CHARACTER_MODEL.md)
 
+<a id="reid-astrea"></a>
+
+### Reid Astrea
+
+- Entity ID: `re-zero:reid-astrea`
+- Entity aliases:
+  - _None._
+
+#### Subject: Re:Zero main light novel
+
+- Analysis subject ID: `re-zero:reid-astrea@light-novel`
+- Series: `re-zero`
+- Continuity: `re-zero-main-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `manifested-v22-v24-character-model`: LIGHT_NOVEL VOLUME: Dedicated source-bounded model of Reid as manifested in the Pleiades Watchtower across the original Japanese main light novels V22–V24, built from 23 targeted intervals of already-consumed V22, V23 and V24 with eight original stills; it covers the E024 Electra appearance, first Julius contest, Emilia's negotiated condition with the sexual intrusion and accepted result, the bored closure and Julius's return, the E026 torment of frightened Subaru, the E027 mobile Reid (forced shoulder reduction, departure demands, renewed contest), the E028 confrontation with Lye and the Julius–Emilia pair, the E029 takeover testimony, host-knowledge claim, refusal of passage by 筋, shadow cutting and fatal slash on Subaru, and the E030 reported clash with Julius as default. His original historical life is held only as attributed report (S0), and Roy's private experience and a universal appropriation law are left open. No V25 or later, EX, IF, web-novel, supplement, translation or adaptation coverage is claimed.; continuity `re-zero-main-light-novels`
+- Reviewed current evidence:
+  - [`manifested-v22-v24-character-model` — Manifested Reid Astrea: V22–V24 character reconstruction model](../../series/re-zero/05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md)
+
 <a id="reinhard"></a>
 
 ### Reinhard
