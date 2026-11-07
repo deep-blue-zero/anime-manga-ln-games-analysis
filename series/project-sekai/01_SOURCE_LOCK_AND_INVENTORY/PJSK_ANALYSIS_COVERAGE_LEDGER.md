@@ -35,11 +35,15 @@ This closes event-history coverage only. Character-package readiness and later s
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
 
-## Active catch-up — source generation through EVENT_0222
+## Completed catch-up — source generation through EVENT_0222
 
 The owner authorized a new continuous collected-source catch-up on 2026-11-06. **Source-current is EVENT_0222; integrated event analysis remains EVENT_0222.** All nine EVENT_0214–0222 transactions and all 449 standalone-card, area, special and My SEKAI additions are integrated under the fixed source generation. The [intake](../08_CURRENT_RELEASE/PJSK_0214_0222_REFRESH_INTAKE.md) lists their exact counts and completion requirements; the [new source lock](PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md) and [delta manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_SOURCE_REFRESH_20261030_DELTA_MANIFEST.json) bind the current generation.
 
-Integrity comparison verified 670 added stories and no removals, 42 unchanged prior-read stories newly reused by event association, and 36 older raw-segment revisions. Only Nagi's concessive spelling at `PJSK:event:0097:07:006:0049` changes normalized text; the source-context review preserves existing interpretation. Metadata-only associations do not change release dates or narrative knowledge. Newly added text is not claimed read by inventory verification. **All 449 supplemental stories are integrated. Next: TERMINAL_RECONCILIATION_AND_HANDOFF.** The terminal closures below remain historical; the new run and its separate supplemental obligations govern current continuation. Reconstruction remains R3 through EVENT_0140.
+Integrity comparison verified 670 added stories and no removals, 42 unchanged prior-read stories newly reused by event association, and 36 older raw-segment revisions. Only Nagi's concessive spelling at `PJSK:event:0097:07:006:0049` changes normalized text; the source-context review preserves existing interpretation. Metadata-only associations do not change release dates or narrative knowledge. Newly added text is not claimed read by inventory verification. **All 449 supplemental stories and the terminal reconciliation/handoff are complete. NO_NEXT_AUTHORIZED_EVENT.** The terminal closures below remain historical; the new run and its separate supplemental obligations govern current continuation. Reconstruction remains R3 through EVENT_0140.
+
+## Terminal closure — EVENT_0222 collected generation
+
+All nine event envelopes and all 449 supplemental additions are closed. The [extended delta audit](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0141_0222_RECONSTRUCTION_DELTA_AUDIT.md), [current handoff](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0222_SYNTHESIS_RECONSTRUCTION_HANDOFF.md) and [terminal manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_EVENT_0222_TERMINAL_HANDOFF_MANIFEST.json) reconcile eighty post-package event readings, the full new supplemental evidence and explicitly reused prior comparison. The sixty through-EVENT_0140 package files and historical closures remain unchanged. The Honami E0207 attribution correction is forward-only in the claim ledger. Source/analysis currentness reaches the admitted EVENT_0222 generation; reconstruction remains R3 through EVENT_0140. Exact-head publication validation and main integration are recorded separately, without implying completion of later reconstruction, synthesis or AV work. Earlier checkpoint paragraphs below preserve their historical outstanding work.
 
 ## Supplemental 20261030 My SEKAI — complete transaction
 
