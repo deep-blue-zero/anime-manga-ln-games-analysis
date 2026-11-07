@@ -15,26 +15,26 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 48; `STALE` 3; `SUPERSEDED` 5
+- Recorded totals: `CANDIDATE` 52; `STALE` 2; `SUPERSEDED` 7
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 1 | 1 |
-| [`blue-archive`](reconstruction_index/blue-archive.md) | 1 | 1 |
+| [`blue-archive`](reconstruction_index/blue-archive.md) | 2 | 2 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 1 | 1 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
-| [`re-zero`](reconstruction_index/re-zero.md) | 16 | 16 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 1 | 1 |
+| [`re-zero`](reconstruction_index/re-zero.md) | 17 | 17 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 2 | 2 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
-| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 12 |
+| [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 14 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -43,6 +43,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | --- | --- | --- | --- | --- |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
+| `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
@@ -77,17 +78,21 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:ram@light-novel` | [`re-zero-ram-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-ram-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:reala-thompson@light-novel` | [`re-zero-reala-thompson-ln-v01-v21-model-20261102-01`](reconstruction_index/re-zero.md#re-zero-reala-thompson-ln-v01-v21-model-20261102-01) | `CANDIDATE` | `C` | `1e97b80e68c064c65263e1f3322b4544ee499500` |
 | `re-zero:regulus-corneas@light-novel` | [`re-zero-regulus-corneas-ln-v01-v19-model-20261027-01`](reconstruction_index/re-zero.md#re-zero-regulus-corneas-ln-v01-v19-model-20261027-01) | `CANDIDATE` | `C` | `70efdcaf6ace3fd53fd94fb9c082c4abe9808fd1` |
+| `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `CANDIDATE` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
+| `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
-| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `STALE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
-| `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01) | `STALE` | `E` | `6cab13c6799a7f6488fabbdef96804643979de08` |
+| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
+| `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-portfolio-20261031-01) | `SUPERSEDED` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
+| `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-b0232-b0239-b0248-b0250-b0251-b0255-portfolio-20261107-01) | `CANDIDATE` | `E` | `324f59ddda9d0e63580561945794502da259d0ea` |
+| `tokyo-7th-sisters:araki-rena@game` | [`tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-araki-rena-game-b0199-portfolio-20261029-01) | `SUPERSEDED` | `E` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `tokyo-7th-sisters:asami-miwako@game` | [`tokyo-7th-sisters-asami-miwako-game-b0222-b0232-b0239-portfolio-20261103-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-asami-miwako-game-b0222-b0232-b0239-portfolio-20261103-01) | `CANDIDATE` | `E` | `f04291f0d4d265f2a73ff9d5e118e7212449e5a4` |
-| `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02) | `CANDIDATE` | `E` | `d9e8afadad27059178f541b6cb38792e1c1a3df4` |
+| `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-b0244-portfolio-20261104-02) | `STALE` | `E` | `d9e8afadad27059178f541b6cb38792e1c1a3df4` |
 | `tokyo-7th-sisters:echizen-murasaki@game` | [`tokyo-7th-sisters-echizen-murasaki-game-b0221-portfolio-20261101-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-echizen-murasaki-game-b0221-portfolio-20261101-01) | `SUPERSEDED` | `E` | `ba230369f74b7aa47a4d01951221cf18b8b99b3e` |
 | `tokyo-7th-sisters:enami-madoka@game` | [`tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-b0246-portfolio-20261105-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-enami-madoka-game-b0202-b0232-b0237-b0246-portfolio-20261105-01) | `CANDIDATE` | `E` | `818573f3d67491f1213772143e85baabd77cdf17` |
 | `tokyo-7th-sisters:enami-madoka@game` | [`tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-enami-madoka-game-b0202-portfolio-20261030-01) | `SUPERSEDED` | `E` | `dc7d803dcf13c48e633991a9cc89e497e732aec1` |
