@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: character_reconstruction_protocol
 scope: SOURCE_GROUNDED_CONDITIONAL_CHARACTER_RECONSTRUCTION
-generation: V1.50
+generation: V1.51
 status: canonical
 release_state: mutable_active
 current_analytical_horizon: V24
@@ -25,11 +25,11 @@ The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. 
 
 Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
 
-Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
 
 ### Current V24 qualitative responsibility binding
 
-The Shaula V21–V24 successor and separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six repair groups. Default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. Their own full gate is pending. Manifested Reid V22–V24 remains earned and unimplemented. The 24 earlier scopes retain their separate defaults and judgments.
+The Shaula V21–V24 successor and separate applied review are integrated through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Manifested Reid V22–V24 and its separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after three model repair groups and saved-review corrections. Default is `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. Their own full gate is pending before V25. The 25 entering model scopes retain their separate defaults and judgments.
 
 [Current state and readiness](../04%20Longitudinal%20Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md#13-promotion-readiness). [V24 frozen reading](../02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md).
 
@@ -37,11 +37,12 @@ The Shaula V21–V24 successor and separate applied review are implemented at lo
 | --- | --- | --- |
 | Shaula V21–V23, integrated through PR #474 | [Frozen model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V23_FIDELITY_REVIEW.md) |
 | Patrasche V01–V23 external behavior, integrated through PR #485 | [Frozen model](../05%20Character%20Analysis/REZERO_PATRASCHE_V01_V23_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_PATRASCHE_V01_V23_FIDELITY_REVIEW.md) |
-| Shaula V21–V24 successor, own full gate pending | [Model V1.0](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
+| Shaula V21–V24 successor, integrated through PR #491 | [Model V1.0](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
+| Manifested Reid V22–V24, own full gate pending | [Model V1.0](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) |
 
 Use the seven axes and keep the human, altered and borrowed-body states separate. Select Patrasche’s actions and narrator attribution separately from human gloss or an attributed report.
 
-[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](../05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25.
 
 ## 1. Operational aim
 
@@ -1161,6 +1162,35 @@ The next analytical dependency is the full V24 publication and integration gate.
 
 ``````````markdown
 Shaula V21–V24 and manifested Reid V22–V24 earn scoped construction and separate applied review. Both are unimplemented and ungraded. The 24 earlier local scopes, defaults and reviews remain exact.
+``````````
+
+
+### Manifested Reid24 exact entering routing fragments
+
+These literal fragments preserve the entering V24 publication and readiness statements. The live manifested-Reid24 routing governs the new operation.
+
+#### Entering fragment 1
+
+``````````markdown
+Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+The Shaula V21–V24 successor and separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six repair groups. Default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. Their own full gate is pending. Manifested Reid V22–V24 remains earned and unimplemented. The 24 earlier scopes retain their separate defaults and judgments.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+| Shaula V21–V24 successor, own full gate pending | [Model V1.0](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) | [Applied scoped review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) |
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+[Shaula V21–V24 model](../05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](../08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
 ``````````
 
 ## 19. First mature-character fidelity audit

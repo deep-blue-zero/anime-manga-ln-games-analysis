@@ -2,7 +2,7 @@
 series: RE_ZERO
 artifact_type: corpus_map
 scope: SERIES_BOOTSTRAP_AND_ANALYTICAL_ROUTING
-generation: V0.61
+generation: V0.62
 status: canonical
 release_state: mutable_active
 supersedes: []
@@ -29,7 +29,7 @@ project_initialization:
   required_day_one_infrastructure:
     - 04 Longitudinal Ledgers/REZERO_MASTER_LONGITUDINAL_LEDGER.md
   sequential_analysis_lock: OPEN
-  next_permitted_operation: SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE
+  next_permitted_operation: MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE
 ```
 
 ```yaml
@@ -38,8 +38,8 @@ sequential_execution:
   unit_type: main_light_novel_volume
   authorized_start: V03
   terminal_boundary: V43
-  committed_high_water_mark: V24 # PR490 full gate CLOSED
-  next_candidate_operation: SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE
+  committed_high_water_mark: V24 # PR490 source gate and PR491 Shaula gate CLOSED
+  next_candidate_operation: MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE
   confirmation_between_units: false
   run_state: active
 ```
@@ -59,17 +59,17 @@ The V23, Shaula V21–V23 and Patrasche V01–V23 full gates closed before V24. 
 
 Cor Leonis supplies approximate companion sensing. Louis admits stealing Subaru’s prior memories. The murder controller stays unidentified. E028 Emilia name loss and E029 preserved recognition have different recipients. Shaula’s form transition is observed, and she reports an unspecified rule breach and reveals that destroying the Trial is allowed. Julius reports Roy’s body under Reid control. No restoration or group pass follows.
 
-Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
 
 RZ-MAIN-LN-JA-V24 has 3018032 bytes, SHA-256 `e8e3a5df8dcf984a2378959461f2d1318f5eef6f31499508349eba4044b7234f` and 57 ZIP entries with CRC passing. The full original has 24 OPF members, 3930 positions, 1424 ruby groups, 1879 reading labels, 24 original stills and 40 original navigation entries. Actual attention took 44 bounded offers. Independent raw correspondence passed. Jacket small print is partly resolution-limited.
 
-The Shaula V21–V24 successor and separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six repair groups. Default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. Their own full gate is pending. Manifested Reid V22–V24 remains earned and unimplemented. The 24 earlier scopes retain their separate defaults and judgments.
+The Shaula V21–V24 successor and separate applied review are integrated through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Manifested Reid V22–V24 and its separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after three model repair groups and saved-review corrections. Default is `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN`. Their own full gate is pending before V25. The 25 entering model scopes retain their separate defaults and judgments.
 
 The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
 After all fourteen complete candidates were measured, the 1730481-byte master and 1050687-byte changelog exceeded the 1048576-byte cap. Complete historical payloads retain their original bytes and relative bases, with original-heading routes and byte-exact native inverses. Current V24 claims and prospective bodies stay in the master.
 
-[Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
+[Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) completed their full gate through [PR #491](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/491). Their existing local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` default remain separately selected. [Manifested Reid V22–V24 model](05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_REPORTED_SECOND_LAYER_REID_ROY_CLASH_WITH_JULIUS_OUTCOME_UNSHOWN` for the latest reported floor-two clash with Julius. Missing current wording returns SOURCE_SILENT. Earlier spoken performance requires an explicit supported selector. The earlier unexplained roaming, E029 witnessed Roy-body control and latest E030 report have separate source bounds. This operation’s full gate precedes sealed V25.
 
 ## Governing method and retrieval route
 
@@ -106,15 +106,15 @@ A discarded or superseded event-state can remain highly probative character evid
 
 | Layer | Analytical responsibility | Current state |
 |---|---|---|
-| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.50 and architecture V1.51 route integrated V24 and the implemented Shaula24 successor. The formal review contract governs. |
-| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.54. V24 is the latest complete Japanese original and is integrated. Shaula24 uses targeted V21–V24 recovery. V01–V43 admission and exception records govern. |
-| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V24 and four checkpoints are integrated. [PR #490](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/490) closed V24 at 672 claims. The seven prospective bodies stay literal. |
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.51 and architecture V1.52 route integrated V24, the closed Shaula24 gate and implemented manifested Reid24. The formal applied-review contract governs. |
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.55. V24 remains the latest complete integrated Japanese original. Reid24 uses targeted consumed V22–V24 recovery. V01–V43 admission and exception records govern. |
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V24 and four checkpoints are integrated. PR490 closed V24 at 672 claims. The seven prospective bodies retain their literal bindings. |
 | `03 Supplemental and Alternate Witnesses` | Analytical readings of admitted mainline side stories, collections, EX/supplemental material, IF/alternate routes, web-novel witnesses, and other non-spine material | routing contract V0.2 populated; cataloging remains in layer 01; no witness admitted or read yet |
-| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.52 owns 672 claims and readiness. Event V2.19 has 30 confirmed deaths and 30 arrived segments. Knowledge V2.19, mechanics V1.28, institutions V1.32, relationships V1.26 and schema V0.53 carry K987/M626/I521/R207/RT600. |
-| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.41 routes 24 integrated earlier scopes and the new [Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Shaula24 owns a pending full gate before manifested Reid24. |
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.53 owns 672 claims and readiness. Event V2.20 has 30 confirmed deaths and 30 arrived segments. Knowledge V2.20, mechanics V1.29, institutions V1.33, relationships V1.27 and schema V0.54 carry K987/M626/I521/R207/RT600. |
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.42 routes 25 integrated entering scopes and the new [Manifested Reid V22–V24 model](05%20Character%20Analysis/REZERO_MANIFESTED_REID_V22_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md). Its own full gate is pending before V25. The latest Reid state is a reported clash with an unshown outcome. |
 | `06 Adaptation Analysis` | Anime and later audiovisual comparison as separately labeled witnesses | routing contract populated; no adaptation findings yet |
 | `07 Specialist Synthesis` | Dense questions with independent retrieval responsibility, instantiated only when earned | not instantiated |
-| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V24 full gate is closed. The [Shaula24 applied review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) records local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and 19 dimensions after six repair groups. Its full gate precedes Reid24. |
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V24 and Shaula24 full gates are closed. The [manifested Reid24 applied review](08%20Audits%20and%20Manifests/REZERO_MANIFESTED_REID_V22_V24_FIDELITY_REVIEW.md) records local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and 19 dimensions after three model repair groups and review-case corrections. Its own full gate precedes V25. |
 | future `09 Evidence and Indexes` | Claim-evidence, source-locator, character-evidence-coverage, or witness-dependency navigation only after demonstrated retrieval burden | not instantiated; exact candidates and triggers reserved in the synthesis architecture |
 | future `10 Full-Series Synthesis` | Canonical full-series convergence after complete-series or expressly bounded readiness | not instantiated; reserved canonical file `REZERO_FULL_SERIES_SYNTHESIS.md` |
 | `90 Legacy and Superseded` | Materially distinct superseded analysis | not instantiated; no legacy analytical corpus is being imported |
@@ -123,7 +123,7 @@ The absence of an unused directory is intentional. Re:Zero should grow by analyt
 
 ## Sequential lock and history
 
-The whole incoming V24 body remains literal after actual source consumption and individual adjudication. Separate saved acceptance and repaired readback precede the next prospective seal. Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+The whole incoming V24 body remains literal after actual source consumption and individual adjudication. Separate saved acceptance and repaired readback precede the next prospective seal. Next is `MANIFESTED_REID_V22_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, the required final outbound-identity check, exact-path publication, immutable remote readback, exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then open sealed V25 and continue sequentially through V43 and the mandatory terminal architecture, state, role-gap and acquisition review. CI owns merges. Continue work after each PR is raised.
 
 The incoming V24 body remains exact. The complete V25 horizon is sealed at 28,504 bytes, SHA-256 `5ea6f420b7dc2da41ae7948ea256c2b8f731be0ee5d7c4c9ecb345ff1d331335`, after V24 saved-content acceptance. [V24 frozen reading](02%20Sequential%20Readings/REZERO_LN_V24_DEEP_READING.md)
 
@@ -185,10 +185,11 @@ Publication follows the current repository integration checklist. Routing-curren
 
 ## Current work order
 
-1. Preserve the 76 entering protected artifacts, 24 earlier scopes, seven whole prospective bodies and formal tails.
-2. Publish the accepted Shaula24 model and separate applied review with exact audited source, source housekeeping, CI integration and later native proof.
-3. Close the Shaula24 full gate, then complete the manifested Reid24 model and separate review with its own full gate.
-4. Open sealed V25, continue sequentially through V43 and complete the mandatory terminal review.
+1. Preserve the 78 entering protected artifacts, 25 entering model scopes, seven whole prospective bodies and formal tails.
+2. Publish the accepted manifested Reid24 model and separate applied review with exact-index preflight and the required final outbound identity check.
+3. Complete remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, exact actual-merge/current-main audits and a later native proof.
+4. After the Reid24 full gate closes, open sealed V25, continue sequentially through V43 and complete the mandatory terminal architecture, state, role-gap and acquisition review.
+5. Continue authorized work after each PR is raised. CI owns merges.
 
 ## Bootstrap abstentions
 
@@ -1384,4 +1385,79 @@ The whole incoming V24 body remains literal after actual source consumption and 
 
 ``````````markdown
 | `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V23, Shaula23 and Patrasche23 gates closed. V24 saved review, source integrity, authorship and CI have separate requirements. The two newly earned applied reviews follow V24 integration. |
+``````````
+
+### Manifested Reid24 exact entering routing fragments
+
+These literal fragments preserve the entering V24 publication and readiness statements. The live manifested-Reid24 routing governs the new operation.
+
+#### Entering fragment 1
+
+``````````markdown
+Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+``````````
+
+#### Entering fragment 2
+
+``````````markdown
+The Shaula V21–V24 successor and separate applied review are implemented at local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY after six repair groups. Default is `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT`. Their own full gate is pending. Manifested Reid V22–V24 remains earned and unimplemented. The 24 earlier scopes retain their separate defaults and judgments.
+``````````
+
+#### Entering fragment 3
+
+``````````markdown
+[Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY. Select `V24_E030_FALL_SCORPION_TAIL_AIM_BEFORE_SUBARU_IMPACT` for the latest observed scorpion aim. Earlier human speech requires its explicit supported state. The proposed self-death command window and exact rule breaker remain OPEN. This operation’s full gate precedes Reid.
+``````````
+
+#### Entering fragment 4
+
+``````````markdown
+The whole incoming V24 body remains literal after actual source consumption and individual adjudication. Separate saved acceptance and repaired readback precede the next prospective seal. Next is `SHAULA_V21_V24_FULL_PUBLICATION_INTEGRATION_GATE`. Complete exact-index author preflight, exact-path publication, immutable remote readback, the exact-source audit and trusted status, source-specific housekeeping, CI integration, actual-merge and current-main audits, and later native correspondence. Then construct the manifested Reid V22–V24 model and separate review and close its own full gate before opening sealed V25. CI owns merges. Continue through V43 and the mandatory terminal review.
+``````````
+
+#### Entering fragment 5
+
+``````````markdown
+
+1. Preserve the 76 entering protected artifacts, 24 earlier scopes, seven whole prospective bodies and formal tails.
+2. Publish the accepted Shaula24 model and separate applied review with exact audited source, source housekeeping, CI integration and later native proof.
+3. Close the Shaula24 full gate, then complete the manifested Reid24 model and separate review with its own full gate.
+4. Open sealed V25, continue sequentially through V43 and complete the mandatory terminal review.
+
+``````````
+
+#### Entering fragment 6
+
+``````````markdown
+| `00 Frameworks and Methods` | Governing evidence, prospective-freeze, route-state, witness-separation, character reconstruction/fidelity, focalization, Japanese-language, safe-horizon, revision, longitudinal-routing, specialist, and completion rules | Protocol V1.50 and architecture V1.51 route integrated V24 and the implemented Shaula24 successor. The formal review contract governs. |
+``````````
+
+#### Entering fragment 7
+
+``````````markdown
+| `01 Source Lock and Inventory` | Exact witness set, integrity/provenance, edition identity, publication ordering, source-family classification and non-spine awareness | Source lock V0.54. V24 is the latest complete Japanese original and is integrated. Shaula24 uses targeted V21–V24 recovery. V01–V43 admission and exception records govern. |
+``````````
+
+#### Entering fragment 8
+
+``````````markdown
+| `02 Sequential Readings` | Main-LN prospective deep readings and source-verified checkpoints | V01–V24 and four checkpoints are integrated. [PR #490](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/490) closed V24 at 672 claims. The seven prospective bodies stay literal. |
+``````````
+
+#### Entering fragment 9
+
+``````````markdown
+| `04 Longitudinal Ledgers` | Current claims/revisions, chronology/durability, proposition holders, relationships, characters, institutions, mechanics, ordinary life, Japanese, questions and readiness | Master V1.52 owns 672 claims and readiness. Event V2.19 has 30 confirmed deaths and 30 arrived segments. Knowledge V2.19, mechanics V1.28, institutions V1.32, relationships V1.26 and schema V0.53 carry K987/M626/I521/R207/RT600. |
+``````````
+
+#### Entering fragment 10
+
+``````````markdown
+| `05 Character Analysis` | Protocol-governed character reconstruction only after sufficient longitudinal evidence exists | Directory V0.41 routes 24 integrated earlier scopes and the new [Shaula V21–V24 model](05%20Character%20Analysis/REZERO_SHAULA_V21_V24_CHARACTER_MODEL.md) and [separate applied fidelity review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md). Shaula24 owns a pending full gate before manifested Reid24. |
+``````````
+
+#### Entering fragment 11
+
+``````````markdown
+| `08 Audits and Manifests` | Bootstrap and later analytical/source-integrity manifests | V24 full gate is closed. The [Shaula24 applied review](08%20Audits%20and%20Manifests/REZERO_SHAULA_V21_V24_FIDELITY_REVIEW.md) records local PASS_WITH_BOUND_SAME_ANALYST_NONBLIND_DOCUMENTARY and 19 dimensions after six repair groups. Its full gate precedes Reid24. |
 ``````````
