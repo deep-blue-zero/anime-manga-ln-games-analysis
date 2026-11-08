@@ -253,6 +253,47 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:norn@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/norn/RECONSTRUCTION_MODEL.md)
 
+### Subject `mushoku-tensei:paul@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/paul@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/paul@light-novel.jsonl)
+
+<a id="mushoku-tensei-paul-ln-v01-v12-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-paul-ln-v01-v12-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:paul`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:paul@light-novel\#character-model, the canonical Paul bounded reconstruction model \(generation V1, revision 1.3\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V12, with direct Paul grounds in V01, V05, the V06 retrospective history \(no new present state\), the V10 letter and escort deliberation and V12. The model routes its observations to an evidence index, shared state ledger sections, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only; it records that Paul 1.3 retains its earlier ceiling after the V13-V15 review. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: The model's nine selectors MT-PM-ST01 to ST09: V01 village parent and teacher of an unusually capable son \(ST01\) and the household crisis and separation, with pre-disaster memories that V05 reveals but that are not new conduct \(ST02\); V05 post-displacement caregiver and search organizer \(ST03\), search deterioration and first reunion \(ST04\) and Geese's correction, second meeting and departure \(ST05\); the V10 retrospectively disclosed East Port risk decision and letter, with no knowledge of Rudeus's marriage or household and no completed Zenith rescue \(ST06\); and V12 the Rapan reunion and expedition leadership \(ST07\), the Zenith sighting, rash assault and revised appeal \(ST08\) and the second fight, protective action and death \(ST09\). ST09 is a terminal represented state: nothing after his death, including the imagined grave-side advice, is Paul testimony. He does not know his son's former-life history, and no earlier state acquires later knowledge.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3a1b732028192b4cf7a554dc31b939eb16287397d2efcf1d9ca4b67ccd037031`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-PM-ST01 to ST09 between V01 and his death in V12, with that state's knowledge only; no state for V02-V04, V07-V09 or V11, nothing after ST09, no posthumous speech and no knowledge of his son's former life.; interlocutor Only attested recipients in their state-specific relation: Rudeus as son, Norn as dependent daughter, Zenith and Lilia as spouses within the recorded domestic history, Geese as old companion, relatives and search members as helpers, specialists in the V12 expedition and the escort he instructs in V10.; settings The village household, the post-displacement search, the reunion settings, the V10 letter and the V12 expedition of the Japanese light novels; Later care never vindicates the assault of Lilia or earlier force, and remorse is not a guarantee of reform; No clinical diagnosis, assured sobriety, political strategy or later-volume event; Near-analog situations only; materially novel contexts end in abstention
+  - `PROFESSIONAL_CONTEXT` condition: Only search organization, rescue planning, delegation with resources and expedition leadership in attested Japanese light-novel settings, as near analogs.
+  - `PROFESSIONAL_CONTEXT` condition: His failure modes stay live: shrinking leads can produce withdrawal and drinking, fear of loss can produce pressure for unity, and affect at a family trigger can override judgment, as in V12.
+  - `PROFESSIONAL_CONTEXT` condition: No unfamiliar political strategy, institutional command or guaranteed success, and specialists' expertise is not his.
+  - `PROFESSIONAL_CONTEXT` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `absent-relatives-sobriety-politics-unknown` (evidence gap): Durable sobriety, general noncoercive parenting, unfamiliar political strategy, the inner states of absent relatives and leisure beyond the listed items are not established; this is a gap, not evidence of incapacity.
+  - `care-never-vindicates-assault` (evidence-backed limitation): His later care, rescue labor, remorse and protective death never vindicate his assault of Lilia or earlier force; harm and service stay in one history without canceling each other.
+  - `drinking-collapse-one-trajectory` (evidence-backed limitation): The V05 drinking and avoidance are one crisis trajectory, not a clinical diagnosis or an inevitable response to loss; the V12 reunion is not a new drunken collapse.
+  - `intervening-volumes-unstated` (evidence gap): No selector covers V02-V04, V07-V09 or V11; conduct in those periods is not assessed.
+  - `judges-before-hearing` (evidence-backed limitation): Capability assumptions can lead him to judge before hearing, impose demands and use force; this recurs at the V12 maternal-rescue trigger after earlier correction.
+  - `no-former-life-knowledge` (evidence-backed limitation): Paul never knows his son's former-life history, and his reading of Rudeus's capacity is inference from outward behavior.
+  - `no-posthumous-testimony` (evidence-backed limitation): He dies in V12; Rudeus's imagined grave-side advice is not Paul testimony, and no posthumous speech or action is in evidence.
+  - `register-limits` (evidence-backed limitation): His rough familiar diction coexists with apology, reassurance and formality; sexual joking can exclude women present, and formal skill is not proof of sincerity.
+  - `remorse-not-reform` (evidence-backed limitation): Apology, shame and corrected advice are local updates, not durable reform; renewed force in V12 limits any assured permanent change.
+  - `retrospective-calibration-only` (evidence-backed limitation): All fourteen checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `separation-necessity-unproved` (evidence-backed limitation): The coercive V01 separation is actual and its necessity is unproved; later offered options do not retroactively justify it.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared ledger sections, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:paul@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/paul/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:roxy@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl)
@@ -289,6 +330,47 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
   - `written-voice-unquoted` (evidence-backed limitation): The voice evidence is a prose characterization of written speech with no quoted Japanese wording; audiovisual speech is INSUFFICIENT\_EVIDENCE.
 - Evidence at basis commit:
   - [`mushoku-tensei:roxy@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/141711495d1fc86a86c6db882e6e734ad9efc91e/series/mushoku-tensei/04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md)
+
+### Subject `mushoku-tensei:ruijerd@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/ruijerd@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/ruijerd@light-novel.jsonl)
+
+<a id="mushoku-tensei-ruijerd-ln-v03-v10-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-ruijerd-ln-v03-v10-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:ruijerd`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:ruijerd@light-novel\#character-model, the canonical Ruijerd bounded reconstruction model \(generation V1, revision 1.2\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V10, with direct Ruijerd grounds in V03-V06 and V10. The model routes its observations to an evidence index, shared state ledger sections, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only; it records that Ruijerd 1.2 retains its earlier ceiling after the V11-V15 review. His reported war history is his testimony, not verified history. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: The model's eight selectors MT-JM-ST01 to ST08: V03 rescue, disclosed history and initial feared protector \(ST01\) and urban work, agreed restraint, guild scapegoating and renewed escort \(ST02\); V04 port, captives and village \(ST03\); V05 reunion mediation, an independent old friendship and passage \(ST04\); V06 practical care, hostage rescue, warrior recognition and defeat \(ST05\) and the received curse report, hope and farewell \(ST06\); and V10 the East Port rescue, listening and escort undertaking, revealed retrospectively rather than new \(ST07\), and the completed northern escort, reunion and resumed search \(ST08\). No selector covers V07-V09, nothing after V10 is established, his own search after the farewells is unobserved, and no earlier state acquires later knowledge.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f9fd7c3bfc3fd574e68a974cee93c1141b2b7e2f1e2988b2c1a8f81903748422`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-JM-ST01 to ST08 in V03-V06 or V10, with that state's knowledge only; no state for V01-V02 or V07-V09, nothing after V10 and no verified version of his war history.; interlocutor Only attested recipients in their state-specific relation: Rudeus as protected companion and recognized warrior, Eris as learner and child, Norn as escorted dependent, the Gash friend, beastfolk and old beneficiaries, captives and feared strangers, and the tense old acquaintance at the V10 reunion.; settings The demon-continent travel, port, village, reunion, V06 and V10 escort settings of the Japanese light novels; His approval is not proof of another's motive, warrior recognition is not adult invulnerability and opponents are not proven villains by his classification; No political forecasting, institutional strategy or complete Superd history; Near-analog situations only; materially novel contexts end in abstention
+  - `PROFESSIONAL_CONTEXT` condition: Only protective escort, rescue and embodied combat instruction in attested Japanese light-novel settings, as near analogs.
+  - `PROFESSIONAL_CONTEXT` condition: Learner and body fit matter: no universal pedagogy, and methods that suit Eris are not assumed to suit others.
+  - `PROFESSIONAL_CONTEXT` condition: Force rests on his classifications, which remain contestable; restraint and nonlethal stopping stay possible, and superior opponents can defeat him.
+  - `PROFESSIONAL_CONTEXT` condition: No academic, political or institutional expertise; the selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `hidden-feelings-politics-unknown` (evidence gap): Exact hidden feelings, political forecasting, complete Superd history, the V10 reunion unease and ordinary habits beyond the listed items are not established; this is a gap, not evidence of incapacity.
+  - `horizon-v03-v10-no-v07-v09` (evidence gap): Direct grounds cover V03-V06 and V10 only; no state covers V07-V09, the entrypoint keeps the model at its V10 ceiling after the V11-V15 review, and nothing after V10 is assessed.
+  - `misreads-and-is-misread` (evidence-backed limitation): He miscredits some of Rudeus's motives and capacity, and narration's first reading of his flat face is corrected to reluctance; silence does not prove indifference or grievance.
+  - `not-a-strategist` (evidence-backed limitation): A genuine friendship and a high-status letter do not make him an institutional or political strategist; the letter fails at customs.
+  - `not-moral-referee` (evidence-backed limitation): He is not the novel's infallible moral judge; his classifications of child, warrior and wrongdoer are contestable, and his approval does not prove another's motive.
+  - `reciprocity-not-perpetual-service` (evidence-backed limitation): Aid and reciprocity do not compel permanent service; he insists on equal recognition, accepts a gift and leaves for his own search.
+  - `restraint-and-nonlethal-possible` (evidence-backed limitation): He kills classified wrongdoers but also accepts agreed restraint and stops force after de-escalation; outputs must not require killing or reduce him to indiscriminate violence.
+  - `retrospective-calibration-only` (evidence-backed limitation): All eleven checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or registered predictions, and no domain is DOMAIN\_READY.
+  - `teaching-fit-not-universal` (evidence-backed limitation): His embodied instruction fits Eris better than Rudeus; it is not universal pedagogy or academic expertise.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared ledger sections, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+  - `war-history-testimony` (evidence-backed limitation): His account of the Superd war and the curse report are attributed testimony, not verified history or established cosmology.
+  - `warrior-status-not-invulnerability` (evidence-backed limitation): Recognizing someone as a warrior can lead him to expect self-sufficiency and supply less care than needed; recognition does not mean adult invulnerability, and care remains possible alongside respect.
+- Evidence at basis commit:
+  - [`mushoku-tensei:ruijerd@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md)
 
 ### Subject `mushoku-tensei:sylphiette@light-novel`
 

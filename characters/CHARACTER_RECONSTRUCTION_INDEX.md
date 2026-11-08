@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 67; `SUPERSEDED` 10
+- Recorded totals: `CANDIDATE` 69; `SUPERSEDED` 10
 
 ## Namespaces
 
@@ -28,7 +28,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 1 | 1 |
-| [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 9 | 9 |
+| [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 11 | 11 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -73,7 +73,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mushoku-tensei:eris@light-novel` | [`mushoku-tensei-eris-ln-v02-v15-model-20261107-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-eris-ln-v02-v15-model-20261107-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:nanahoshi@light-novel` | [`mushoku-tensei-nanahoshi-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-nanahoshi-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:norn@light-novel` | [`mushoku-tensei-norn-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-norn-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
+| `mushoku-tensei:paul@light-novel` | [`mushoku-tensei-paul-ln-v01-v12-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-paul-ln-v01-v12-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:roxy@light-novel` | [`mushoku-tensei-roxy-ln-v01-v15-model-20261107-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-roxy-ln-v01-v15-model-20261107-01) | `CANDIDATE` | `C` | `141711495d1fc86a86c6db882e6e734ad9efc91e` |
+| `mushoku-tensei:ruijerd@light-novel` | [`mushoku-tensei-ruijerd-ln-v03-v10-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-ruijerd-ln-v03-v10-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:sylphiette@light-novel` | [`mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01) | `CANDIDATE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `mushoku-tensei:zanoba@light-novel` | [`mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
