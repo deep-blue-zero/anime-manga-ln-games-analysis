@@ -20,6 +20,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
+- [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
@@ -49,6 +50,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Rent-a-Girlfriend](../series/rent-a-girlfriend/) — `series/rent-a-girlfriend/` — Japanese manga V001-V047 inventoried and hash-locked locally; V001-V030 are inspected, closed, checkpointed, and locally audited. V031 is the next sequential candidate and requires new explicit authorization before narrative inspection.
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
+- [Scum’s Wish / クズの本懐](../series/scums-wish/) — `series/scums-wish/` — Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura / 週に一度クラスメイトを買う話](../series/shuukura/) — `series/shuukura/` — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
