@@ -56,6 +56,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [Scum’s Wish / クズの本懐](../series/scums-wish/) — `series/scums-wish/` — Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction.
+- [Shihou Yuugi: Tatsuya Endo Short Stories / 四方遊戯 遠藤達哉短編集](../series/shihou-yuugi/) — `series/shihou-yuugi/` — Japanese manga anthology analysis with independent story identities, source-bounded character and relationship interpretation, and evidence-led collection comparison.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura / 週に一度クラスメイトを買う話](../series/shuukura/) — `series/shuukura/` — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
