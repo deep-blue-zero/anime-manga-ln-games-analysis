@@ -1,0 +1,2466 @@
+{
+  "schema": "PJSK_BOUNDED_REMEDIATION_ACCEPTANCE_V1",
+  "series": "PJSK",
+  "artifact_type": "supplemental_acceptance_manifest",
+  "status": "canonical",
+  "generation": "RETROSPECTIVE_RECONSTRUCTION_GENERATION_2",
+  "scope": "WXS_TEXTUAL_REGISTERS_TARGETED_R4_AND_SIX_LEDGER_PROVENANCE",
+  "source_boundary": "PJSK_SOURCE_20261030T035133Z_EVENT_0222",
+  "base_commit": "a7cdfefb4c6c740d80e7991c0c1a661244f95298",
+  "analysis_cutoff": "EVENT_0222_WITH_ADMITTED_SUPPLEMENTS",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "acceptance_boundary": "PREPUBLICATION_ANALYTICAL_ACCEPTANCE; exact final Git head and repository checks belong to the follow-up PR, not an anticipatory success claim here.",
+  "source_admission": "NONE; no collection, sequential restart, new generation or AV/R5 admission",
+  "source_pins": {
+    "pipeline": "v0.2.9",
+    "build": "20261030T035133Z",
+    "cike": "aa9a7f878c0030bd9307fe085282f1fa6c154b40",
+    "master": "0735c4066d82c6ead011d6b1c128abbef4419eae",
+    "starmoe": "761e9021c8bd5eb002aa30679f5f89e524153811"
+  },
+  "receipt_semantics": {
+    "original_inspection": "Preserved original record plus recovered command/status evidence. Neither missing receipt nor successful retrieval proves a full ledger semantic reading.",
+    "new_primary_read": "Explicit ranges with source observation and analytical judgment, not new whole-event envelopes.",
+    "identity_verification": "Hashes, checksums and pins establish identity only.",
+    "analytical_readback": "Complete changed Markdown read after editing, or previously complete read of exactly identical retained payload plus inspected wrapper; receipt says which.",
+    "semantic_adjudication": "Author/reviewer case reasoning in linked audit. Counts and passing validators do not prove fidelity or predictive validity.",
+    "self_receipt": "This JSON is fully parsed and reviewed after serialization; its whole-file hash and readback receipt are external to avoid self-reference. Git binds its exact bytes."
+  },
+  "original_retrospective": {
+    "manifest_structural_inspection": {
+      "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_RETROSPECTIVE_0222_ACCEPTANCE_MANIFEST.json",
+      "sha256": "7afba058b0430574bcd48ac1d69704516ed03b2b69b1005fc6176a37786bfb26",
+      "bytes": 566147,
+      "full_json_parsed": true,
+      "full_new_narrative_reread_claimed": false,
+      "input_records": 184,
+      "review_history_records": 356,
+      "ledger_input_read_records": 0,
+      "ledger_review_history_records": 0,
+      "source_metadata_hashes_verified": 12
+    },
+    "unchanged_execution_record": {
+      "path": "series/project-sekai/08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md",
+      "sha256": "05ab84233f7963a9b208294def6f7d35190f908ad3a0363c222fbcc0789e8e3f",
+      "bytes": 13866
+    },
+    "recovered_ledger_command_records": [
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-e88454c3-496c-4fe5-8514-05b5f8a534ec",
+        "recorded_status": "failed",
+        "exit_code": 1,
+        "classification": "FAILED_CALL_EXCLUDED_FROM_INSPECTION_CLAIMS"
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-e1fa0df2-6b3e-4f3d-87ca-51e64fa3cec6",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "INVENTORY_HEADING_OR_TARGETED_SEARCH_NOT_FULL_FILE_READ"
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-2e2c0392-5509-4e10-99a5-23b1abcc17fd",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "CHARACTER_STATE": [
+            "0216"
+          ],
+          "RELATIONSHIP_STATE": [
+            "0216"
+          ],
+          "EPISTEMIC_STATE": [
+            "0216"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-29a73cb3-a6b2-44cd-8f2e-cd6e0b76060e",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "CHARACTER_STATE": [
+            "0189",
+            "0207"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-091a1a81-1a35-431d-9744-297846c63164",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "CHARACTER_STATE": [
+            "0200",
+            "0202"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-a83dee35-7471-4b7f-b26f-8acaa6f83341",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "INVENTORY_HEADING_OR_TARGETED_SEARCH_NOT_FULL_FILE_READ"
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-3caad088-c0d5-4206-9b63-d4c0b4d07146",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "EPISTEMIC_STATE": [
+            "0218"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-1bc452dd-050c-44e3-9e42-74789b8ded69",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "EPISTEMIC_STATE": [
+            "0202",
+            "0205",
+            "0207",
+            "0211",
+            "0214"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b7b0-ea42-7952-a9a0-0e25ab7ec439",
+        "command_id": "exec-ccda6c7a-e302-4ab7-9747-57b954321d96",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "EPISTEMIC_STATE": [
+            "0153"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-e69bbfd1-398c-4922-ad2d-39a50549d34c",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "INVENTORY_HEADING_OR_TARGETED_SEARCH_NOT_FULL_FILE_READ"
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-39696886-f457-4e9a-afbf-3f0f8b455643",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "INVENTORY_HEADING_OR_TARGETED_SEARCH_NOT_FULL_FILE_READ"
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-6a7c0dcb-21b4-472f-81be-bdd777a86e92",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "INVENTORY_HEADING_OR_TARGETED_SEARCH_NOT_FULL_FILE_READ"
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-f0f048c0-a5ff-4440-9aa3-df6e61f5af6e",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "CHARACTER_STATE": [
+            "0220"
+          ],
+          "RELATIONSHIP_STATE": [
+            "0220"
+          ],
+          "EPISTEMIC_STATE": [
+            "0220"
+          ]
+        }
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-8d42c01d-b02d-4d34-ba1a-e62a773365af",
+        "recorded_status": "failed",
+        "exit_code": 1,
+        "classification": "FAILED_CALL_EXCLUDED_FROM_INSPECTION_CLAIMS"
+      },
+      {
+        "turn_id": "01a1b764-cefd-7bd2-9225-c9269243fb95",
+        "command_id": "exec-b2ad989c-228a-40aa-8b03-184044b34d1c",
+        "recorded_status": "completed",
+        "exit_code": 0,
+        "classification": "SUCCESSFUL_SECTION_DISPLAY_COMMAND",
+        "ledger_events": {
+          "CHARACTER_STATE": [
+            "0213"
+          ],
+          "RELATIONSHIP_STATE": [
+            "0213"
+          ],
+          "EPISTEMIC_STATE": [
+            "0213"
+          ]
+        }
+      }
+    ],
+    "recovery_limit": "Examined original retrospective chat turns; recovered command text/status, not a new original-output transcript. Theme/release/claim semantic queries not found in these records; inherited analytical use and original identity checks remain supported. No claim of never consulted or full original ledger read."
+  },
+  "new_analytical_input_inspection": [
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/00_FRAMEWORKS_AND_METHODS/PJSK_ANALYTICAL_METHOD.md",
+      "sha256": "5891f9a255c44cac791882fd04166c8f9b95ccc9d4e78e68bc0225e85c2c5424",
+      "bytes": 11342,
+      "mode": "NEW_FULL_GOVERNING_METHOD_READ",
+      "note": "Complete live method read for the bounded remediation; no changes.",
+      "accepted_utc": "2026-11-08T00:02:07.240676+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/00_FRAMEWORKS_AND_METHODS/PJSK_CHARACTER_RECONSTRUCTION_METHOD.md",
+      "sha256": "4ff432b80241832f30bc32dedd986a7327f0b1e5e12515d3443903aff48d04c6",
+      "bytes": 13118,
+      "mode": "NEW_FULL_GOVERNING_METHOD_READ",
+      "note": "Complete live method read for the bounded remediation; no changes.",
+      "accepted_utc": "2026-11-08T00:02:07.609103+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/00_FRAMEWORKS_AND_METHODS/PJSK_SYNTHESIS_ARCHITECTURE.md",
+      "sha256": "3012caceeb43873388a73a1a07e78b12eeecd51e960e3768640fda40052b5a64",
+      "bytes": 12175,
+      "mode": "NEW_FULL_GOVERNING_METHOD_READ",
+      "note": "Complete live method read for the bounded remediation; no changes.",
+      "accepted_utc": "2026-11-08T00:02:07.612116+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/00_FRAMEWORKS_AND_METHODS/PJSK_LIVE_SERVICE_INTEGRATION_METHOD.md",
+      "sha256": "957d28d93e1e7ab5c3b97fa872ba19819d64b0a8e8f391c218a2de4d82cd9555",
+      "bytes": 11335,
+      "mode": "NEW_FULL_GOVERNING_METHOD_READ",
+      "note": "Complete live method read for the bounded remediation; no changes.",
+      "accepted_utc": "2026-11-08T00:02:07.614625+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/01_SOURCE_LOCK_AND_INVENTORY/PJSK_ANALYTICAL_SOURCE_LOCK_20261030_EVENT_0222.md",
+      "sha256": "5d1329c31d88034e9b824e0fcea414c48ae4e09897a165ca0f4f8d16b7929fd9",
+      "bytes": 6476,
+      "mode": "NEW_FULL_GOVERNING_READ",
+      "note": "Read complete source boundary / historical execution claims; preserved, not revised.",
+      "accepted_utc": "2026-11-08T00:05:30.180733+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md",
+      "sha256": "05ab84233f7963a9b208294def6f7d35190f908ad3a0363c222fbcc0789e8e3f",
+      "bytes": 13866,
+      "mode": "NEW_FULL_GOVERNING_READ",
+      "note": "Read complete source boundary / historical execution claims; preserved, not revised.",
+      "accepted_utc": "2026-11-08T00:05:30.183240+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_CHARACTER_MONOGRAPH.md",
+      "sha256": "59221cee5723485fb637cbf781b3e52292532cd82121c7fd41e3820ac79da0af",
+      "bytes": 10476,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected; retain conditional behavior, knowledge and anti-patterns.",
+      "accepted_utc": "2026-11-08T00:05:53.075435+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md",
+      "sha256": "e56595ce68c780fafa12731f2dedc16dacb82d97b0658b9f1b27f6ce5f89611a",
+      "bytes": 5483,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected; retain conditional behavior, knowledge and anti-patterns.",
+      "accepted_utc": "2026-11-08T00:05:53.077940+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md",
+      "sha256": "fa7ec9dbb4d46a99e1164f3180de2ee372b65ec47018c22e3337233af2460f6e",
+      "bytes": 5140,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected; retain conditional behavior, knowledge and anti-patterns.",
+      "accepted_utc": "2026-11-08T00:05:53.079939+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_EVIDENCE_INDEX.md",
+      "sha256": "abf1884b94a9c76edd34408dd5520d4b20bbc62c2912e22bc5dfb32ccf824c17",
+      "bytes": 5768,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected; retain conditional behavior, knowledge and anti-patterns.",
+      "accepted_utc": "2026-11-08T00:05:53.082441+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_EVIDENCE_INDEX.md",
+      "sha256": "7471e40c30013ae8fe22993ff5aec1b54161b3d22c20927790a056bb03a3b1bc",
+      "bytes": 5676,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:03.130326+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md",
+      "sha256": "8213ff1f8bc633289009abd6d4f9ca6928385a498e60b39946b2f3fca28fa6e7",
+      "bytes": 10552,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:03.132826+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md",
+      "sha256": "5e3976feec1eedc0705c804d47ef741afc55c006e95f19b4e92f28ab67241ed3",
+      "bytes": 5255,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:03.135836+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_CHARACTER_MONOGRAPH.md",
+      "sha256": "526be9e833da0dd62508c59ca4dcfafb7550a702bfd0aa797bc217f6a7719b80",
+      "bytes": 10770,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:17.366051+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_EVIDENCE_INDEX.md",
+      "sha256": "7046334914f2baa63754308f78528e29f0817793e9bf35c56e8756019fedfe46",
+      "bytes": 5631,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:17.369050+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md",
+      "sha256": "52ab528b18d62cb6caa52ad55b3c94bdbfe3345681bea8fe0e6c4dbc082d128c",
+      "bytes": 5731,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete package component inspected.",
+      "accepted_utc": "2026-11-08T00:06:17.371050+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_CHARACTER_MONOGRAPH.md",
+      "sha256": "dd59802dbbe2be96d245daf7ffe462b9ef6e9d399026a5a374095cde8ee1bc7d",
+      "bytes": 11959,
+      "mode": "NEW_FULL_CONTEXT_READ",
+      "note": "Complete current monograph inspected; scope and recipient distinctions retained.",
+      "accepted_utc": "2026-11-08T00:06:34.573590+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_EVIDENCE_INDEX.md",
+      "sha256": "020dd0643d8dff199360e4a8edfea1947154a23b9c4364d5e44d289524ec162f",
+      "bytes": 6316,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete file inspected across two bounded displays; no omitted content accepted.",
+      "accepted_utc": "2026-11-08T00:06:53.023940+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md",
+      "sha256": "36d023749ebc2b3f2e50c61118691247f7c1faa6d6b29f1ab448332b48d8527e",
+      "bytes": 15442,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Original twenty separate decisions and six-lane definition inspected.",
+      "accepted_utc": "2026-11-08T00:06:53.026951+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/07_FULL_SERIES_SYNTHESIS/PJSK_FULL_SERIES_SYNTHESIS_THROUGH_EVENT_0222_V1.md",
+      "sha256": "c4258375e89270ea953e802f71275a8051905f1a29654690185b8fb82dd8750d",
+      "bytes": 36500,
+      "mode": "NEW_FULL_CONTEXT_READ",
+      "note": "Complete synthesis read across main display and recovered middle; select principal unresolved conflicts for ledger reconciliation; preserve frozen argument.",
+      "accepted_utc": "2026-11-08T00:10:24.394477+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/06_SPECIALIST_AND_UNIT_SYNTHESIS/PJSK_WXS_LONGITUDINAL_SYNTHESIS_THROUGH_EVENT_0222.md",
+      "sha256": "da1f703d6d8bce67c4084abfa478adb29b0f202e86ce7ae186b859bafcc9b95a",
+      "bytes": 30622,
+      "mode": "NEW_FULL_CONTEXT_READ",
+      "note": "Complete frozen unit synthesis read in two contiguous ranges; argument and current owner partition preserved.",
+      "accepted_utc": "2026-11-08T00:12:25.067039+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/README.md",
+      "sha256": "a845849228e843853a01cf7702606c3714e17aab2d3ebbfb258bf1c4c9fea59a",
+      "bytes": 8420,
+      "mode": "NEW_FULL_PRE_EDIT_READ",
+      "note": "Complete current router read; add attributable supplemental route, preserving original historical retrospective claims.",
+      "accepted_utc": "2026-11-08T00:12:39.644469+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/YOISAKI_KANADE/PJSK_YOISAKI_KANADE_RECONSTRUCTION_MODEL.md",
+      "sha256": "8cdf4750c61669946719b9aaa007341e4ecaf4079c8dc9dc98d63b22023f3a77",
+      "bytes": 6643,
+      "mode": "NEW_FULL_CALIBRATION_READ",
+      "note": "Compare recipient/source/mode specificity under existing R4 definition; no new twenty-character adjudication or change.",
+      "accepted_utc": "2026-11-08T00:12:53.124045+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOMOI_AIRI/PJSK_MOMOI_AIRI_RECONSTRUCTION_MODEL.md",
+      "sha256": "6656bfa5de4c19165ea76bbcab8c554525b60962e276fba33a28682d2ce030e0",
+      "bytes": 7773,
+      "mode": "NEW_FULL_CALIBRATION_READ",
+      "note": "Compare recipient/source/mode specificity under existing R4 definition; no new twenty-character adjudication or change.",
+      "accepted_utc": "2026-11-08T00:12:53.127051+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_SAKI/PJSK_TENMA_SAKI_RECONSTRUCTION_MODEL.md",
+      "sha256": "8ce902ecb370da3c49a2312a178447fff0c94e23c0e79209faf24a86addc1b6a",
+      "bytes": 7635,
+      "mode": "NEW_FULL_CALIBRATION_READ",
+      "note": "Compare recipient/source/mode specificity under existing R4 definition; no new twenty-character adjudication or change.",
+      "accepted_utc": "2026-11-08T00:12:53.130061+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0114_DEEP_READING.md",
+      "sha256": "f03e970be2497fd9899e292f16ccaf1b85b191c13368e8cf386f566614419bb4",
+      "bytes": 8029,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Complete frozen local causal interpretation read; source probes clarify usable Japanese register without reopening envelope.",
+      "accepted_utc": "2026-11-08T00:13:06.622079+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0131_DEEP_READING.md",
+      "sha256": "b3a58c1065f4d1972b8cf5b8373e15cb8d97de2058b216d16335bba0e1a698fd",
+      "bytes": 7892,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Complete frozen local causal interpretation read; source probes clarify usable Japanese register without reopening envelope.",
+      "accepted_utc": "2026-11-08T00:13:06.625589+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0136_DEEP_READING.md",
+      "sha256": "483f4419abe3fc7e13b5ea9bdbca6fd73afc499030da676fda558dd7e2e14719",
+      "bytes": 7336,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Complete frozen local causal interpretation read; source probes clarify usable Japanese register without reopening envelope.",
+      "accepted_utc": "2026-11-08T00:13:06.628094+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0164_DEEP_READING.md",
+      "sha256": "e433c209d9ae35ab9dd2206c52af0aab225b9d0e210af6784e4bfe3c3d29a60b",
+      "bytes": 8530,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Complete frozen interpretation inspected; distinguish private certainty limits from public phrasing, and particular pressure receipt from universal method.",
+      "accepted_utc": "2026-11-08T00:13:42.919322+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0185_DEEP_READING.md",
+      "sha256": "6adad6c94bdff8713064a2e3a1ae7cc549421f1067fa6139abe63b4a597596af",
+      "bytes": 20506,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Complete frozen interpretation inspected; distinguish private certainty limits from public phrasing, and particular pressure receipt from universal method.",
+      "accepted_utc": "2026-11-08T00:13:42.921835+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0200_DEEP_READING.md",
+      "sha256": "1b9732088aae0c5e67937eb12ba3738aec1b43a0fcf64500b8fcdfe5eb7bfe25",
+      "bytes": 20818,
+      "mode": "NEW_FULL_ESTABLISHED_READING",
+      "note": "Full reading compared with selected Japanese scenes. Queue unsupported in-front-of-fans wording for source-context adjudication; current packages already keep audience and private recipients separate.",
+      "accepted_utc": "2026-11-08T00:14:26.081292+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0196_DEEP_READING.md",
+      "sha256": "d9abb40f2d5eb6ebccf6a421ab709b9d283e613b1e952f8444da09a5e236efe1",
+      "bytes": 24570,
+      "mode": "NEW_SECTION_QUERY",
+      "note": "Read full sections 2-4: initial instruction, separate confidential illness receipt, advocacy and returned authorship.",
+      "accepted_utc": "2026-11-08T00:14:26.084805+00:00",
+      "first_char": 3751,
+      "end_char": 15189,
+      "total_chars": 24296
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/WXS/PJSK_EVENT_0208_DEEP_READING.md",
+      "sha256": "8f83f4a887311f30500a34b1375618ccb8dd8d47d81671960dfb2c661e4783aa",
+      "bytes": 27021,
+      "mode": "FULL_ANALYTICAL_INPUT_READ",
+      "note": "Complete pre-edit reading recovered across bounded displays; retained private childhood anger, risky immersion, actual retrieval and non-guaranteed continuation.",
+      "accepted_utc": "2026-11-08T00:20:27.272036+00:00"
+    },
+    {
+      "domain": "repo",
+      "path": "series/project-sekai/PJSK_ANALYTICAL_CORPUS_MAP.md",
+      "sha256": "6ca6bb4c5ff765fec7f3901ef5979488cdcc1cac4c7f3d5de858f433b9ab9950",
+      "bytes": 363737,
+      "mode": "NEW_CURRENT_BOUNDARY_SECTION_QUERY",
+      "note": "Opening boundary/method/routing section inspected; complete prior-file inspection is reused separately at unchanged hash, not claimed anew.",
+      "accepted_utc": "2026-11-08T00:35:37.955475+00:00",
+      "first_char": 0,
+      "end_char": 26009,
+      "total_chars": 361075
+    }
+  ],
+  "reused_documented_inputs": [
+    {
+      "path": "series/project-sekai/PJSK_ANALYTICAL_CORPUS_MAP.md",
+      "sha256": "6ca6bb4c5ff765fec7f3901ef5979488cdcc1cac4c7f3d5de858f433b9ab9950",
+      "bytes": 363737,
+      "inspection": "REUSED_PRIOR_COMPLETE_PRE_EDIT_READ_AND_FINAL_CHANGE_READBACK_AT_UNCHANGED_HASH",
+      "new_full_read_claimed": false,
+      "receipt_owner": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_RETROSPECTIVE_0222_ACCEPTANCE_MANIFEST.json",
+      "limit": "Original same-session inspection reused; not a new full narrative reading. Corpus-map current-boundary portion additionally queried in this remediation."
+    },
+    {
+      "path": "series/project-sekai/README.md",
+      "sha256": "a490718784303781256ca80d276644eaec01c87f2aba4c3481e578c80ae8a473",
+      "bytes": 79180,
+      "inspection": "REUSED_PRIOR_COMPLETE_PRE_EDIT_READ_AND_FINAL_CHANGE_READBACK_AT_UNCHANGED_HASH",
+      "new_full_read_claimed": false,
+      "receipt_owner": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_RETROSPECTIVE_0222_ACCEPTANCE_MANIFEST.json",
+      "limit": "Original same-session inspection reused; not a new full narrative reading. Corpus-map current-boundary portion additionally queried in this remediation."
+    }
+  ],
+  "new_ledger_inspection": [
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_CHARACTER_STATE_LEDGER.md",
+      "sha256": "1ccd3d61dfd71418c0f95e57bd133645e892e97b7812cf087c495e0fb1aa43d6",
+      "bytes": 736201,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 534924,
+          "end_char": 536494,
+          "semantic_note": "## Forward EVENT_0104 — Emu revises the means of stewardship — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.754956+00:00"
+        },
+        {
+          "first_char": 546018,
+          "end_char": 547112,
+          "semantic_note": "## Forward EVENT_0113 — Tsukasa constructs a life behind sparse text — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.760482+00:00"
+        },
+        {
+          "first_char": 547112,
+          "end_char": 548372,
+          "semantic_note": "## Forward EVENT_0114 — Nene directs through person-specific collaboration — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.766116+00:00"
+        },
+        {
+          "first_char": 551612,
+          "end_char": 552134,
+          "semantic_note": "## Forward EVENT_0119 — direction adapts medium and performer instead of defending the first plan — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.771628+00:00"
+        },
+        {
+          "first_char": 557716,
+          "end_char": 558273,
+          "semantic_note": "## Forward EVENT_0131 — borrowed viewpoints turn intuitive feeling into audience-legible performance — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.776138+00:00"
+        },
+        {
+          "first_char": 560385,
+          "end_char": 560924,
+          "semantic_note": "## Forward EVENT_0136 — physical limitation becomes a tested embodied-acting method through reciprocal mentorship — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.782167+00:00"
+        },
+        {
+          "first_char": 566719,
+          "end_char": 568458,
+          "semantic_note": "## Forward EVENT_0144 — distributed production leadership and retained loneliness — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.787171+00:00"
+        },
+        {
+          "first_char": 573412,
+          "end_char": 574823,
+          "semantic_note": "## Forward EVENT_0149 — competitive commitment turns regret into specific further work — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.792688+00:00"
+        },
+        {
+          "first_char": 593777,
+          "end_char": 596395,
+          "semantic_note": "## Forward EVENT_0160 — Tsukasa turns a farewell show into site-responsive care — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.797711+00:00"
+        },
+        {
+          "first_char": 602232,
+          "end_char": 604621,
+          "semantic_note": "## Forward EVENT_0164 — Emu makes a risky institutional choice legible and testable — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.803231+00:00"
+        },
+        {
+          "first_char": 617147,
+          "end_char": 619912,
+          "semantic_note": "## Forward EVENT_0172 — self-expression enters recipient-responsive craft — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.808231+00:00"
+        },
+        {
+          "first_char": 632258,
+          "end_char": 635141,
+          "semantic_note": "## Forward EVENT_0178 — an imagined loss of recipients extends embodied role construction — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.813826+00:00"
+        },
+        {
+          "first_char": 648643,
+          "end_char": 650936,
+          "semantic_note": "## Forward EVENT_0185 — the lead’s responsibility can become a present creative aim — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.818841+00:00"
+        },
+        {
+          "first_char": 675510,
+          "end_char": 678140,
+          "semantic_note": "## Forward EVENT_0200 — acquired coordination and a newly recognized self-risk — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.824364+00:00"
+        },
+        {
+          "first_char": 691488,
+          "end_char": 694195,
+          "semantic_note": "## Forward EVENT_0208 — artistic immersion needs a return without yet renouncing its cost — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.829899+00:00"
+        },
+        {
+          "first_char": 694195,
+          "end_char": 697011,
+          "semantic_note": "## Forward EVENT_0209 — received progress and a retained starting point — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.835415+00:00"
+        },
+        {
+          "first_char": 714327,
+          "end_char": 716621,
+          "semantic_note": "## Forward EVENT_0217 — initiative and a daunting benchmark strengthen distinct existing scopes — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.840416+00:00"
+        },
+        {
+          "first_char": 724877,
+          "end_char": 726337,
+          "semantic_note": "## Forward EVENT_0222 — retrospective salience preserves distinct operative methods — Verified scoped successor versus independent retained scopes against the four current models and syntheses; no merged single personality state warranted.",
+          "accepted_utc": "2026-11-08T00:19:59.846441+00:00"
+        },
+        {
+          "first_char": 660133,
+          "end_char": 662068,
+          "semantic_note": "## Forward EVENT_0192 — the rescuer is required to consider her own attachment — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.680198+00:00"
+        },
+        {
+          "first_char": 673312,
+          "end_char": 675510,
+          "semantic_note": "## Forward EVENT_0199 — a future is chosen after a costly real trial — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.686711+00:00"
+        },
+        {
+          "first_char": 689644,
+          "end_char": 691488,
+          "semantic_note": "## Forward EVENT_0207 — chosen presentation with a particular audience — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.692760+00:00"
+        },
+        {
+          "first_char": 704659,
+          "end_char": 707043,
+          "semantic_note": "## Forward EVENT_0213 — changing the production constraint while accepting accountability — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.699794+00:00"
+        },
+        {
+          "first_char": 711975,
+          "end_char": 714327,
+          "semantic_note": "## Forward EVENT_0216 — historical listening and present distress coexist — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.705827+00:00"
+        },
+        {
+          "first_char": 716621,
+          "end_char": 718525,
+          "semantic_note": "## Forward EVENT_0218 — a new social option preserves twenty different people — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.712357+00:00"
+        },
+        {
+          "first_char": 718525,
+          "end_char": 720697,
+          "semantic_note": "## Forward EVENT_0219 — Saki retains the unresolved wish; ordinary competence receives specific acknowledgment — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.718871+00:00"
+        },
+        {
+          "first_char": 720697,
+          "end_char": 723093,
+          "semantic_note": "## Forward EVENT_0220 — Honami protects deliberation when shared direction can no longer be assumed — Current full-series conflict owners match: Kanade unresolved, Mizuki conditional dual pursuit, Mafuyu bounded disclosure, MMJ chosen unperformed plan, VBS accusation unresolved, shared access not new personality, Saki retained conflict and Honami unresolved deliberation. Historical R3 sentence at E0207 is frozen generation metadata, not current readiness.",
+          "accepted_utc": "2026-11-08T00:20:48.725905+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    },
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_RELATIONSHIP_STATE_LEDGER.md",
+      "sha256": "60fda0d8eea26f5308ceee497d74b153c14aff44f06d3c4604d4e99dd4cdf496",
+      "bytes": 703466,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 567263,
+          "end_char": 569310,
+          "semantic_note": "## Forward EVENT_0164 — Emu and Ryō choose and defend a shared experiment — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.287082+00:00"
+        },
+        {
+          "first_char": 611253,
+          "end_char": 613693,
+          "semantic_note": "## Forward EVENT_0185 — professional reciprocity and former-peer repair have separate owners — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.292614+00:00"
+        },
+        {
+          "first_char": 634104,
+          "end_char": 636967,
+          "semantic_note": "## Forward EVENT_0196 — a peer’s chosen dream receives support and returns influence — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.299144+00:00"
+        },
+        {
+          "first_char": 644876,
+          "end_char": 647133,
+          "semantic_note": "## Forward EVENT_0200 — bounded co-work, hurt, apology and accepted guidance — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.306178+00:00"
+        },
+        {
+          "first_char": 661479,
+          "end_char": 664020,
+          "semantic_note": "## Forward EVENT_0208 — completing a production and agreeing to bring a companion back — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.312186+00:00"
+        },
+        {
+          "first_char": 664020,
+          "end_char": 666266,
+          "semantic_note": "## Forward EVENT_0209 — precise help, consent and recognition within founded relationships — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.318233+00:00"
+        },
+        {
+          "first_char": 668626,
+          "end_char": 671106,
+          "semantic_note": "## Forward EVENT_0211 — completed shared work and a recipient-owned reunion — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.324273+00:00"
+        },
+        {
+          "first_char": 683108,
+          "end_char": 685152,
+          "semantic_note": "## Forward EVENT_0217 — specific help is received and repaid without guaranteeing a career — Verified recipient-specific relations and bounded repair/consent: Nene-Rui severity, Emu-El authorship, Rui-Nagamine later consent, troupe retrieval and unperformed travel promises. Compatible with current synthesis and retained independent scopes.",
+          "accepted_utc": "2026-11-08T00:20:27.330798+00:00"
+        },
+        {
+          "first_char": 623986,
+          "end_char": 626465,
+          "semantic_note": "## Forward EVENT_0192 — care continues while the difficult proposal is withheld — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.385480+00:00"
+        },
+        {
+          "first_char": 642200,
+          "end_char": 644876,
+          "semantic_note": "## Forward EVENT_0199 — a future concern receives advice and returned recognition — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.393006+00:00"
+        },
+        {
+          "first_char": 659351,
+          "end_char": 661479,
+          "semantic_note": "## Forward EVENT_0207 — informed accommodation and distinct shared work — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.401524+00:00"
+        },
+        {
+          "first_char": 673289,
+          "end_char": 675428,
+          "semantic_note": "## Forward EVENT_0213 — considered assent to one deliberately changed arrangement — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.408560+00:00"
+        },
+        {
+          "first_char": 680742,
+          "end_char": 683108,
+          "semantic_note": "## Forward EVENT_0216 — shared hospitality does not prevent unequal trust under accusation — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.416074+00:00"
+        },
+        {
+          "first_char": 685152,
+          "end_char": 687357,
+          "semantic_note": "## Forward EVENT_0218 — received reunion becomes chosen ordinary contact — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.423598+00:00"
+        },
+        {
+          "first_char": 687357,
+          "end_char": 689464,
+          "semantic_note": "## Forward EVENT_0219 — a co-authored object and future promise join continuing reciprocal ties — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.431128+00:00"
+        },
+        {
+          "first_char": 689464,
+          "end_char": 691704,
+          "semantic_note": "## Forward EVENT_0220 — a strained common future retains practical care without completed repair — Current relationship owners preserve reciprocal but uninformed care, chosen autonomy, specific confidentiality, assented stage asymmetry, unequal rival trust, non-universal shared access, bounded co-work and unresolved band disagreement. Consistent with full-series synthesis.",
+          "accepted_utc": "2026-11-08T00:20:58.438671+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    },
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_EPISTEMIC_STATE_LEDGER.md",
+      "sha256": "3e42bce1e6d999e187b5689087264133086e36e413487df355b4f5bf6bce150c",
+      "bytes": 640395,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 505309,
+          "end_char": 507211,
+          "semantic_note": "## Forward EVENT_0164 — a confidential closure decision becomes an argued, approved experiment — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.308149+00:00"
+        },
+        {
+          "first_char": 550004,
+          "end_char": 552207,
+          "semantic_note": "## Forward EVENT_0185 — later explanations revise an uncertain historical attribution — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.555644+00:00"
+        },
+        {
+          "first_char": 571832,
+          "end_char": 574061,
+          "semantic_note": "## Forward EVENT_0196 — two separated information paths meet without becoming identical — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.724602+00:00"
+        },
+        {
+          "first_char": 579715,
+          "end_char": 581980,
+          "semantic_note": "## Forward EVENT_0200 — different observers know different methods and selves — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.730620+00:00"
+        },
+        {
+          "first_char": 596847,
+          "end_char": 599283,
+          "semantic_note": "## Forward EVENT_0208 — remembered anger is not a shared account or a fictional crime — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.736647+00:00"
+        },
+        {
+          "first_char": 599283,
+          "end_char": 601724,
+          "semantic_note": "## Forward EVENT_0209 — two personal fragments and the limits of a public documentary — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.742665+00:00"
+        },
+        {
+          "first_char": 603988,
+          "end_char": 606827,
+          "semantic_note": "## Forward EVENT_0211 — selective autobiography and a brief connection after failed tests — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.750343+00:00"
+        },
+        {
+          "first_char": 618357,
+          "end_char": 620475,
+          "semantic_note": "## Forward EVENT_0217 — a named audition and several limits to inferred knowledge — Confirmed private/public/role boundaries and recipient-specific information; later consent does not backdate, Emu lacks illness disclosure, Tsukasa resentment stays private, Nene restoration precedes choice. No synthesis-level discrepancy.",
+          "accepted_utc": "2026-11-08T00:20:38.758418+00:00"
+        },
+        {
+          "first_char": 563189,
+          "end_char": 565049,
+          "semantic_note": "## Forward EVENT_0192 — the subject of advice has not received it — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.327799+00:00"
+        },
+        {
+          "first_char": 577336,
+          "end_char": 579715,
+          "semantic_note": "## Forward EVENT_0199 — known work limits do not predict an entire future — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.333811+00:00"
+        },
+        {
+          "first_char": 594671,
+          "end_char": 596847,
+          "semantic_note": "## Forward EVENT_0207 — selective truth and one cohort’s particular evidence — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.339821+00:00"
+        },
+        {
+          "first_char": 609002,
+          "end_char": 611222,
+          "semantic_note": "## Forward EVENT_0213 — public rules, private testimony and an adopted untested proposal — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.345852+00:00"
+        },
+        {
+          "first_char": 616111,
+          "end_char": 618357,
+          "semantic_note": "## Forward EVENT_0216 — an owned object is not an identified culprit — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.352359+00:00"
+        },
+        {
+          "first_char": 620475,
+          "end_char": 622767,
+          "semantic_note": "## Forward EVENT_0218 — shared access changes while visibility and knowledge remain bounded — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.358376+00:00"
+        },
+        {
+          "first_char": 622767,
+          "end_char": 625380,
+          "semantic_note": "## Forward EVENT_0219 — bounded self-retention and a particular observer’s access to past feelings — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.364403+00:00"
+        },
+        {
+          "first_char": 625380,
+          "end_char": 627919,
+          "semantic_note": "## Forward EVENT_0220 — an offer is shared, a concealed preference is heard, and the decision stays open — Verified specific recipients and unresolved claims: no private N25 knowledge pooling, no completed semifinal, no culprit attribution, actual repeat shared access, body-before-retention, and no assumed overhearing start or completed transfer. No current synthesis correction.",
+          "accepted_utc": "2026-11-08T00:21:11.369917+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    },
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_THEME_AND_MOTIF_LEDGER.md",
+      "sha256": "1e962cccc1bf3895089520873064e8aca89d603ab853b2584501e37672d2f162",
+      "bytes": 511293,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 421548,
+          "end_char": 423255,
+          "semantic_note": "## Forward EVENT_0164 — choosing a future is work under uncertainty — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.929916+00:00"
+        },
+        {
+          "first_char": 453858,
+          "end_char": 455070,
+          "semantic_note": "## Forward EVENT_0185 — trust does not have a single voice — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.936433+00:00"
+        },
+        {
+          "first_char": 467660,
+          "end_char": 469077,
+          "semantic_note": "## Forward EVENT_0196 — resemblance enables help but cannot substitute for a person — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.943466+00:00"
+        },
+        {
+          "first_char": 473001,
+          "end_char": 474350,
+          "semantic_note": "## Forward EVENT_0200 — an effective image does not exhaust the person behind it — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.950481+00:00"
+        },
+        {
+          "first_char": 483590,
+          "end_char": 484949,
+          "semantic_note": "## Forward EVENT_0208 — remembrance can imprison or return someone to company — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.956568+00:00"
+        },
+        {
+          "first_char": 484949,
+          "end_char": 486364,
+          "semantic_note": "## Forward EVENT_0209 — growing does not require erasing the person who wanted it — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.963607+00:00"
+        },
+        {
+          "first_char": 487693,
+          "end_char": 489244,
+          "semantic_note": "## Forward EVENT_0211 — the wish underneath shame does not settle the path by itself — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.970127+00:00"
+        },
+        {
+          "first_char": 496380,
+          "end_char": 497845,
+          "semantic_note": "## Forward EVENT_0217 — fiction can move people while reality retains cost and uncertainty — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.977165+00:00"
+        },
+        {
+          "first_char": 462044,
+          "end_char": 463380,
+          "semantic_note": "## Forward EVENT_0192 — warmth does not choose another person’s destination — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.983685+00:00"
+        },
+        {
+          "first_char": 471728,
+          "end_char": 473001,
+          "semantic_note": "## Forward EVENT_0199 — a wanted future need not be chosen against a cherished present today — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.989716+00:00"
+        },
+        {
+          "first_char": 482312,
+          "end_char": 483590,
+          "semantic_note": "## Forward EVENT_0207 — continuation can require a different context — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:20.997254+00:00"
+        },
+        {
+          "first_char": 490584,
+          "end_char": 491975,
+          "semantic_note": "## Forward EVENT_0213 — continuity of purpose does not require an unchanged presentation — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:21.004312+00:00"
+        },
+        {
+          "first_char": 494923,
+          "end_char": 496380,
+          "semantic_note": "## Forward EVENT_0216 — a refuge, a gathering place and an object whose meaning changes — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:21.010343+00:00"
+        },
+        {
+          "first_char": 497845,
+          "end_char": 499275,
+          "semantic_note": "## Forward EVENT_0218 — a place for company beyond an emergency — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:21.017872+00:00"
+        },
+        {
+          "first_char": 499275,
+          "end_char": 500592,
+          "semantic_note": "## Forward EVENT_0219 — preserving value can change its form without resolving every difference — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:21.025435+00:00"
+        },
+        {
+          "first_char": 500592,
+          "end_char": 501951,
+          "semantic_note": "## Forward EVENT_0220 — the meteor motif now holds divergence as well as reunion — Read complete selected thematic owners against WxS and full-series arguments. Received care, uncertain method, retained difference and unfinished outcomes are compatible; motifs do not supply unproved mechanisms, guilt or universal cures.",
+          "accepted_utc": "2026-11-08T00:21:21.031952+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    },
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_RELEASE_IMPACT_LEDGER.md",
+      "sha256": "edf3e713e4f8834263f17fa715cf21266f359e10393c853133ebcf85086784b2",
+      "bytes": 629697,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 514205,
+          "end_char": 516353,
+          "semantic_note": "## Forward EVENT_0164 — Choices for the future — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.734692+00:00"
+        },
+        {
+          "first_char": 552894,
+          "end_char": 554389,
+          "semantic_note": "## Forward EVENT_0185 — 超克のプロタゴニスタ — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.743723+00:00"
+        },
+        {
+          "first_char": 568672,
+          "end_char": 570283,
+          "semantic_note": "## Forward EVENT_0196 — CHANGE！えむは王女さま！？ — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.752248+00:00"
+        },
+        {
+          "first_char": 575554,
+          "end_char": 577630,
+          "semantic_note": "## Forward EVENT_0200 — 残照のInside Direction — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.760276+00:00"
+        },
+        {
+          "first_char": 589846,
+          "end_char": 591703,
+          "semantic_note": "## Forward EVENT_0208 — Phantom maze monster — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.767820+00:00"
+        },
+        {
+          "first_char": 591703,
+          "end_char": 593381,
+          "semantic_note": "## Forward EVENT_0209 — アイドル・花里みのり～夢の最前線～ — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.775359+00:00"
+        },
+        {
+          "first_char": 594830,
+          "end_char": 596700,
+          "semantic_note": "## Forward EVENT_0211 — 君の隣、君と見る明日 — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.782890+00:00"
+        },
+        {
+          "first_char": 607615,
+          "end_char": 609870,
+          "semantic_note": "## Forward EVENT_0217 — Drive to Dream！ — Verified routed I2/I3 scopes and release-versus-story chronology. Frozen sequential R3 and remaining-work counts remain historical, not current R4 authority; no rewriting required.",
+          "accepted_utc": "2026-11-08T00:21:29.790404+00:00"
+        },
+        {
+          "first_char": 562308,
+          "end_char": 563827,
+          "semantic_note": "## Forward EVENT_0192 — 覚めない幻想をノックして — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.463444+00:00"
+        },
+        {
+          "first_char": 573708,
+          "end_char": 575554,
+          "semantic_note": "## Forward EVENT_0199 — Amid the Wavering Light — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.470961+00:00"
+        },
+        {
+          "first_char": 588164,
+          "end_char": 589846,
+          "semantic_note": "## Forward EVENT_0207 — Into the New Light — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.478475+00:00"
+        },
+        {
+          "first_char": 598251,
+          "end_char": 600009,
+          "semantic_note": "## Forward EVENT_0213 — Leap Beyond The Limits！ — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.485515+00:00"
+        },
+        {
+          "first_char": 605202,
+          "end_char": 607615,
+          "semantic_note": "## Forward EVENT_0216 — After the Fire — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.493039+00:00"
+        },
+        {
+          "first_char": 609870,
+          "end_char": 612192,
+          "semantic_note": "## Forward EVENT_0218 — Connect to SEKAI！ — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.500066+00:00"
+        },
+        {
+          "first_char": 612192,
+          "end_char": 614768,
+          "semantic_note": "## Forward EVENT_0219 — Side by Side, Our Ways！ — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.507584+00:00"
+        },
+        {
+          "first_char": 614768,
+          "end_char": 616899,
+          "semantic_note": "## Forward EVENT_0220 — Stars Off Orbit — Verified primary/cross-unit/inherited scopes and historical coverage statements; new current synthesis preserves the differentiated changes and open outcomes. No source admission or I3 inflation.",
+          "accepted_utc": "2026-11-08T00:21:39.515138+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    },
+    {
+      "path": "series/project-sekai/04_LONGITUDINAL_LEDGERS/PJSK_CLAIM_REVISION_LEDGER.md",
+      "sha256": "e96ba72a85a6dffbf9256b4fb6d14b1a5efc66e0871e6125665b068471ec5bf9",
+      "bytes": 574332,
+      "inspection": "NEW_SELECTED_COMPLETE_SECTIONS_NOT_FULL_LEDGER",
+      "sections": [
+        {
+          "first_char": 469359,
+          "end_char": 471310,
+          "semantic_note": "## Forward EVENT_0164 — an authorized experiment is not a solved institution — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.604868+00:00"
+        },
+        {
+          "first_char": 505852,
+          "end_char": 507433,
+          "semantic_note": "## Forward EVENT_0185 — a successful intervention remains uncertain in method — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.612910+00:00"
+        },
+        {
+          "first_char": 521146,
+          "end_char": 522806,
+          "semantic_note": "## Forward EVENT_0196 — a hearing and preparatory permission are specific outcomes — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.619931+00:00"
+        },
+        {
+          "first_char": 527411,
+          "end_char": 529043,
+          "semantic_note": "## Forward EVENT_0200 — success, acceptance and self-recognition have different limits — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.626457+00:00"
+        },
+        {
+          "first_char": 540258,
+          "end_char": 541932,
+          "semantic_note": "## Forward EVENT_0208 — retain the achievement and refuse a resolved-safety reading — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.633005+00:00"
+        },
+        {
+          "first_char": 541932,
+          "end_char": 543587,
+          "semantic_note": "## Forward EVENT_0209 — new scope for Nene without redundant Minori or Toya succession — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.639518+00:00"
+        },
+        {
+          "first_char": 545863,
+          "end_char": 547583,
+          "semantic_note": "## Forward EVENT_0211 — add bounded collaboration and knowledge without replacing the humans — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.646558+00:00"
+        },
+        {
+          "first_char": 556017,
+          "end_char": 557561,
+          "semantic_note": "## Forward EVENT_0217 — actual progress without premature professional arrival — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.653601+00:00"
+        },
+        {
+          "first_char": 514848,
+          "end_char": 516349,
+          "semantic_note": "## Forward EVENT_0192 — distinguish confronting dependence from resolving it — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.661662+00:00"
+        },
+        {
+          "first_char": 525769,
+          "end_char": 527411,
+          "semantic_note": "## Forward EVENT_0199 — completion supports a conditional commitment, not a balance cure — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.668696+00:00"
+        },
+        {
+          "first_char": 538772,
+          "end_char": 540258,
+          "semantic_note": "## Forward EVENT_0207 — chosen disclosure, bounded reception — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.675803+00:00"
+        },
+        {
+          "first_char": 549229,
+          "end_char": 551295,
+          "semantic_note": "## Forward EVENT_0213 — close the event at assent, not at the future performance — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.682389+00:00"
+        },
+        {
+          "first_char": 554577,
+          "end_char": 556017,
+          "semantic_note": "## Forward EVENT_0216 — revise current trust without solving the case — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.689414+00:00"
+        },
+        {
+          "first_char": 557561,
+          "end_char": 559202,
+          "semantic_note": "## Forward EVENT_0218 — revise access without exporting the revision everywhere — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.696445+00:00"
+        },
+        {
+          "first_char": 559202,
+          "end_char": 560962,
+          "semantic_note": "## Forward EVENT_0219 — retain the conflict, the actual award and the observer boundary — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.702960+00:00"
+        },
+        {
+          "first_char": 560962,
+          "end_char": 562550,
+          "semantic_note": "## Forward EVENT_0220 — exposed difference changes current authority without inventing an ending — Semantic reconciliation preserves counterevidence: severe method not universally best/safe, later consent not prior, restoration before self-inclusion, no guilty party inferred, unperformed plans remain open. No conflict with current full-series synthesis. Existing Chiharu erratum remains authoritative.",
+          "accepted_utc": "2026-11-08T00:21:54.709976+00:00"
+        }
+      ],
+      "offset_convention": "Zero-based Python Unicode character offsets in UTF-8-sig decoded source; end exclusive.",
+      "outcome": "No new longitudinal owner, merged personality state, shared private knowledge or synthesis revision warranted by these sections."
+    }
+  ],
+  "new_primary_inspection": {
+    "source_lock": "PJSK_SOURCE_20261030T035133Z_EVENT_0222",
+    "ranges": [
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/13_8663_01.md",
+        "sha256": "6105325684771fb098a176560e1d3078dbd2d45e95c2d7bfd5539ba1af74be9c",
+        "bytes": 1514,
+        "first": "PJSK:mysekai:13_8663:01:001:0001",
+        "last": "PJSK:mysekai:13_8663:01:001:0005",
+        "records": 5,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Tsukasa explains practical mat-moving care to Mafuyu, names Asahina-san and distinguishes singers.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/13_8664_01.md",
+        "sha256": "32dcf24433afc3866f2b96dd3654ac1ff49453b2c5033a9987ac788a58563dfc",
+        "bytes": 1343,
+        "first": "PJSK:mysekai:13_8664:01:001:0001",
+        "last": "PJSK:mysekai:13_8664:01:001:0004",
+        "records": 4,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Mizuki rejects the assumed filler question; Tsukasa corrects an overconfident inference.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/14_8667_01.md",
+        "sha256": "a709fa4292628b89fabf178dd0fa607272527b5e6b072fca718dc3b273ffbad2",
+        "bytes": 1164,
+        "first": "PJSK:mysekai:14_8667:01:001:0001",
+        "last": "PJSK:mysekai:14_8667:01:001:0004",
+        "records": 4,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Emu has an unfinished inquiry to host, then polite startled withdrawal when Mafuyu speaks.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/14_8668_01.md",
+        "sha256": "262c38f4cdc65b94eb2a7a54d44c467bc172750cba6271537f08ac11a79af4c2",
+        "bytes": 1434,
+        "first": "PJSK:mysekai:14_8668:01:001:0001",
+        "last": "PJSK:mysekai:14_8668:01:001:0005",
+        "records": 5,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Emu repeats enlarged paper request with playful typography but accepts the resource limit.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8661_01.md",
+        "sha256": "4d990aa2e3c0c771c70dfc1160b90f924d30835eff8c15bb5f0c5c700420d6ec",
+        "bytes": 1476,
+        "first": "PJSK:mysekai:15_8661:01:001:0001",
+        "last": "PJSK:mysekai:15_8661:01:001:0005",
+        "records": 5,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Nene distinguishes stranger discomfort from singing; soft qualifiers do not remove disagreement.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8656_01.md",
+        "sha256": "b9d8e6a08dd840236ac7897e0d2d3f9b6e25770ae48f7f0c4513ca2b97e5a552",
+        "bytes": 1455,
+        "first": "PJSK:mysekai:15_8656:01:001:0001",
+        "last": "PJSK:mysekai:15_8656:01:001:0005",
+        "records": 5,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Nene asks Toya for genre-specific game technique, uses Aoyagi-kun and precise self-critique.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8669_01.md",
+        "sha256": "b3a42bb042ed3b2fc7b26a52757eb63ca596afb406f9badd89ed1f2d855657b6",
+        "bytes": 1324,
+        "first": "PJSK:mysekai:15_8669:01:001:0001",
+        "last": "PJSK:mysekai:15_8669:01:001:0005",
+        "records": 5,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Nene enjoys encounters and dryly singles Rui out as the concern; Rui uses familiar boku/fufu.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8671_01.md",
+        "sha256": "201a3ecf1e9789aa7d7ff3d7ad9d215750b665705d41e68b0c1fd0244d026ae1",
+        "bytes": 1327,
+        "first": "PJSK:mysekai:16_8671:01:001:0001",
+        "last": "PJSK:mysekai:16_8671:01:001:0004",
+        "records": 4,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Rui uses polite desu/masu to Ena while admitting inability to explain the doorway.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8672_01.md",
+        "sha256": "d9716dd8622a07324ca8ca367c9f904b9cac2f935f50c24b00265cf8f019382f",
+        "bytes": 1380,
+        "first": "PJSK:mysekai:16_8672:01:001:0001",
+        "last": "PJSK:mysekai:16_8672:01:001:0004",
+        "records": 4,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Rui shares ordinary school/SEKAI talk with Mizuki and proposes calculating encounter rates.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8772_01.md",
+        "sha256": "b17d37d963a2f46ea0fbacd82cb11d0947a130b3415579d2527805b27b5e689e",
+        "bytes": 1217,
+        "first": "PJSK:mysekai:16_8772:01:001:0001",
+        "last": "PJSK:mysekai:16_8772:01:001:0003",
+        "records": 3,
+        "full_story": true,
+        "purpose": "Ordinary recipient-conditioned Japanese register calibration",
+        "judgment": "Motor/sensor vocabulary stays conditional proposal, not a built invention.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1410_02.md",
+        "sha256": "0264104dcfd76091c3205b73c04791f6add7c0d65b92290fa332701087e24f7a",
+        "bytes": 8555,
+        "first": "PJSK:card:1410:02:001:0001",
+        "last": "PJSK:card:1410:02:002:0019",
+        "records": 66,
+        "full_story": true,
+        "purpose": "Tsukasa post-immersion refusal and family repair; shared WxS register contrast",
+        "judgment": "Apology and thanks coexist with non-promise; family care remains expansive but does not disclose private anger. Embedded memory markers and represented suffering quote are separate from current speech.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0208_05.md",
+        "sha256": "8df42d98186b6219860e3bfdee3b7bb15176a42ee8322035cc4d2886200b7bb8",
+        "bytes": 13086,
+        "first": "PJSK:event:0208:05:001:0070",
+        "last": "PJSK:event:0208:05:001:0115",
+        "records": 46,
+        "full_story": false,
+        "purpose": "Tsukasa private recalled anger versus Saki-directed restriction",
+        "judgment": "Recovered child speech and adult parentheses are not Saki disclosure; a cooperative thanks/question frame precedes an absolute no-contact request.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0208_07.md",
+        "sha256": "b979f380f4cb3a0af60a840759a6ccf4d69e1b0b717eca4ffd83cd71983ff6e6",
+        "bytes": 10864,
+        "first": "PJSK:event:0208:07:001:0002",
+        "last": "PJSK:event:0208:07:001:0053",
+        "records": 52,
+        "full_story": false,
+        "purpose": "Shared high-stakes retrieval registers",
+        "judgment": "Tsukasa resists, then thanks; Emu repetition gives assurance; Rui admits withholding reassurance; Nene offers conditional encouragement. Fictional killing is referenced, not actual biography.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0164_07.md",
+        "sha256": "0173befe00f45097025f57b23cedf8eaa920e51efabb5b00b5877e4a8d4a63d4",
+        "bytes": 13933,
+        "first": "PJSK:event:0164:07:003:0013",
+        "last": "PJSK:event:0164:07:003:0084",
+        "records": 72,
+        "full_story": false,
+        "purpose": "Emu practiced formal presentation and recipient pressure",
+        "judgment": "Uses watashitachi and honorific presentation forms. Cannot guarantee success is private thought at 0063; public no-correct-answer at 0067. Distinguish these without losing uncertainty.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_08.md",
+        "sha256": "9306ab84a135ae2dede7954ffeaeb97709e3ebf53bf41e524dde2569b8553f61",
+        "bytes": 16125,
+        "first": "PJSK:event:0196:08:001:0007",
+        "last": "PJSK:event:0196:08:001:0054",
+        "records": 48,
+        "full_story": false,
+        "purpose": "Emu register contrast and developmental constraint",
+        "judgment": "Emu uses El-chan to friend and El-san before father, atashi with desu/masu; apology and returned authorship do not supply prior consent.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0202_04.md",
+        "sha256": "71934b00c8dabfdca29ee94773ae396e5932a1ff2939f9bf090009eb455c964f",
+        "bytes": 26177,
+        "first": "PJSK:event:0202:04:004:0020",
+        "last": "PJSK:event:0202:04:004:0083",
+        "records": 64,
+        "full_story": false,
+        "purpose": "Emu register contrast and developmental constraint",
+        "judgment": "Permission and fit caveat lead to requested grief account; sound symbolism remains in serious disclosure, later hopeful assurance is stronger than caveat.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0131_06.md",
+        "sha256": "fcb60d7381d6f0e4f903d346f9c3ac530a2e1e5f1e52a34a4ed90b953ca75693",
+        "bytes": 13729,
+        "first": "PJSK:event:0131:06:001:0047",
+        "last": "PJSK:event:0131:06:001:0109",
+        "records": 63,
+        "full_story": false,
+        "purpose": "Emu register contrast and developmental constraint",
+        "judgment": "Respectful expert questions retain atashi and interjection; recalled sound-symbolic family description fails to transmit clearly; not stage-role dialogue.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1470_02.md",
+        "sha256": "53f2fd798656c5b341ba1a57d2f38167af116e2eb5def90dc279725c8780cec5",
+        "bytes": 9153,
+        "first": "PJSK:card:1470:02:001:0002",
+        "last": "PJSK:card:1470:02:001:0061",
+        "records": 60,
+        "full_story": false,
+        "purpose": "Nene/Rui recipient and mode distinctions",
+        "judgment": "Familiar criticism uses tteba/jan and concrete practical objections; role aspiration remains separate private thought. Rui optical camouflage is a proposal. Tsukasa expansive star speech accepts immediate correction.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1283_02.md",
+        "sha256": "f13eca244d4d9d48ae6feddc2c719f2fe4c789eb136a323000515ed3486729cc",
+        "bytes": 6900,
+        "first": "PJSK:card:1283:02:001:0002",
+        "last": "PJSK:card:1283:02:001:0043",
+        "records": 42,
+        "full_story": false,
+        "purpose": "Nene/Rui recipient and mode distinctions",
+        "judgment": "Nene hesitates and corrects misidentified thanks, objects to surprise, then explicitly thanks trust; Rui acknowledges pressure may have worsened condition. Neither permission nor efficacy generalized.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1416_02.md",
+        "sha256": "e6fc12260cc9024ffbc7ec56d79df3d54dc28cab9c356ad2259a35b06100f112",
+        "bytes": 15055,
+        "first": "PJSK:card:1416:02:001:0069",
+        "last": "PJSK:card:1416:02:001:0104",
+        "records": 36,
+        "full_story": false,
+        "purpose": "Nene/Rui recipient and mode distinctions",
+        "judgment": "Restoration precedes chosen conversation. Present Nene speaks to a personified prior self, not public audience or literal past child; qualifying kamoshirenai/kedo accompanies firm non-erasure.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_07.md",
+        "sha256": "5ccd45ad909b2e6f52011a9261283c713f747a6c09ebf266ceead33330192459",
+        "bytes": 13678,
+        "first": "PJSK:event:0200:07:001:0002",
+        "last": "PJSK:event:0200:07:001:0119",
+        "records": 118,
+        "full_story": false,
+        "purpose": "Rui professional contrast",
+        "judgment": "Honorific concern becomes deliberate insult; private seed metaphor differs from spoken motive; apology names use and harm before fuller disclosure. Troupe outside original take.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_08.md",
+        "sha256": "c958e1c7f94aa7f5cd63455f1d58124133b14d10059c30e5a5ae1f50bb36c67c",
+        "bytes": 19496,
+        "first": "PJSK:event:0200:08:001:0009",
+        "last": "PJSK:event:0200:08:001:0025",
+        "records": 17,
+        "full_story": false,
+        "purpose": "Rui professional contrast",
+        "judgment": "Rui requests permission, gets acceptance, then gives concrete half-step and imaginative instructions; still emotional technique, different consent sequence.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0150_04.md",
+        "sha256": "4d0c5506ab655bf9a67d6be3670378bba7ebc6e1f4069835829607d3b48da242",
+        "bytes": 9507,
+        "first": "PJSK:event:0150:04:001:0015",
+        "last": "PJSK:event:0150:04:001:0086",
+        "records": 72,
+        "full_story": false,
+        "purpose": "Recipient and historical register contrast",
+        "judgment": "Shinonome-san, boku, polite non-prescription with personal analogy; explicitly uncertain whether Mizuki still wishes future, quoted hypothetical former refusal is not current Mizuki dialogue.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0211_04.md",
+        "sha256": "2c7a4628ef9b56933eb0b13a49dbd5756685a576eadcda766910ae33955213e5",
+        "bytes": 24153,
+        "first": "PJSK:event:0211:04:003:0025",
+        "last": "PJSK:event:0211:04:003:0080",
+        "records": 56,
+        "full_story": false,
+        "purpose": "Recipient and historical register contrast",
+        "judgment": "Historical polite withdrawal and private preference for compliant machines contrasted with present explicit tsuyogari acknowledgment; only named cohort hears.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0136_01.md",
+        "sha256": "30a14bca151828382074eeafe80615d50fc67b0556fd305b63271f9661f5635a",
+        "bytes": 16842,
+        "first": "PJSK:event:0136:01:003:0067",
+        "last": "PJSK:event:0136:01:003:0105",
+        "records": 39,
+        "full_story": false,
+        "purpose": "Recipient and historical register contrast",
+        "judgment": "Tsukasa professional thanks, repeated technical phrase and confirmation question contrast with familiar expansive dietary report. Parentheses private ambition; recollection is earlier exchange.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_07.md",
+        "sha256": "e1e07ac35979c8ff6d5a93377cb766dc361f4183c6c5bd01cb39f3921da92bcb",
+        "bytes": 13662,
+        "first": "PJSK:event:0114:07:003:0010",
+        "last": "PJSK:event:0114:07:003:0065",
+        "records": 56,
+        "full_story": false,
+        "purpose": "Nene production direction and thought/role boundary",
+        "judgment": "Private cut decision differs from performed fictional speech; task instruction and credit use clear ordinary register, technical terms and recipient-specific names.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0131_08.md",
+        "sha256": "e7ea8e67057e803ccb01a8f083d49adc516c3002969f8314cf9fa72657b7b318",
+        "bytes": 13263,
+        "first": "PJSK:event:0131:08:001:0050",
+        "last": "PJSK:event:0131:08:001:0097",
+        "records": 48,
+        "full_story": false,
+        "purpose": "Emu acting register versus ordinary craft request",
+        "judgment": "Ushiwakamaru kimi/kai register is played fiction; parenthetical planning and later polite feedback question are separate modes, not Emu default.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_04.md",
+        "sha256": "5b7b55dfeb6da42661d3283c252aeeb3991f42e82724c435029368587eddf349",
+        "bytes": 12659,
+        "first": "PJSK:event:0114:04:002:0040",
+        "last": "PJSK:event:0114:04:002:0089",
+        "records": 50,
+        "full_story": false,
+        "purpose": "Nene initial unfamiliar collaborator approach",
+        "judgment": "Cautious fillers and incomplete clauses survive while she asks for expertise; visual stereotype is private provisional thought revised after individual evidence.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MAIN/wonder_01_01_01.md",
+        "sha256": "5629298437e5bb7bfa4d713416847b45fde301846523c39c3327f83d04e7882e",
+        "bytes": 12885,
+        "first": "PJSK:main:wonder_01_01:01:001:0001",
+        "last": "PJSK:main:wonder_01_01:01:004:0057",
+        "records": 92,
+        "full_story": true,
+        "purpose": "Historical or high-stakes speech differentiation",
+        "judgment": "Public self-announcement repeats full name and formal promise; boku appears to presumed senior staff at 004:0019, ore in self-staging/peer address. Early polite competence already exists; not later-only improvement.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_05.md",
+        "sha256": "81ea92b6d6601520e125b66ae2792073cee637029da35e3a3c6e7b77a7bf92a1",
+        "bytes": 17032,
+        "first": "PJSK:event:0114:05:004:0025",
+        "last": "PJSK:event:0114:05:004:0051",
+        "records": 27,
+        "full_story": false,
+        "purpose": "Historical or high-stakes speech differentiation",
+        "judgment": "Nene checks novices nervousness, qualifies advice and offers bounded personal failure; coaching is not familiar scolding or automatic directive certainty.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0185_07.md",
+        "sha256": "a5290f44a3812d089f8e6b8a1bceb9cc876d44fdb120004794a223642a07321b",
+        "bytes": 12732,
+        "first": "PJSK:event:0185:07:001:0001",
+        "last": "PJSK:event:0185:07:001:0062",
+        "records": 62,
+        "full_story": false,
+        "purpose": "Historical or high-stakes speech differentiation",
+        "judgment": "Nene protests and repeats desire under severe demand, privately interprets trusted gaze, then voices emphatic role commitment. Rui declarative closure refuses debate; cannot assume always playful or polite.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_002_01.md",
+        "sha256": "889db3c67a53903a59c919525be7b9430e7e1342f98c0bd2b031da3bab27270e",
+        "bytes": 1951,
+        "first": "PJSK:area:areatalk_ev_wonder_26_002:01:001:0001",
+        "last": "PJSK:area:areatalk_ev_wonder_26_002:01:001:0008",
+        "records": 8,
+        "full_story": true,
+        "purpose": "Low-stakes fear counterexample",
+        "judgment": "Len worries about immersion; Tsukasa denies acting and specifies insect fright, ending direct disagreement. Ellipses/pallor alone not relapse evidence.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_06.md",
+        "sha256": "21b897bb0b748c12973eaa240ffd4aa20672b643a8b300cb23f1147327c953f3",
+        "bytes": 12049,
+        "first": "PJSK:event:0196:06:001:0088",
+        "last": "PJSK:event:0196:06:001:0108",
+        "records": 21,
+        "full_story": false,
+        "purpose": "Impersonation and overstepped instruction",
+        "judgment": "Spoken 私 and formal demand belong to El impersonation; inner あたし and apology private. Opposition does not establish El had authorized advocacy.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_03.md",
+        "sha256": "1d71d143d36de299c31233ef27428f23ff58c09c95558e64a1882157af390eca",
+        "bytes": 14807,
+        "first": "PJSK:event:0196:03:002:0002",
+        "last": "PJSK:event:0196:03:002:0035",
+        "records": 34,
+        "full_story": false,
+        "purpose": "Speech learning and instruction boundary",
+        "judgment": "Emu explicitly reports learning El speech; El asks nodding compliance with father, Emu assents.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_06.md",
+        "sha256": "3f1d63f2d5db0945c8607426590205ff67eee6f47fc20f3484efce5d189df52e",
+        "bytes": 13750,
+        "first": "PJSK:event:0200:06:001:0088",
+        "last": "PJSK:event:0200:06:001:0104",
+        "records": 17,
+        "full_story": false,
+        "purpose": "Provocation design",
+        "judgment": "Rui and director deliberately arrange one-use unannounced provocation; no actual fan witnesses established.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_07.md",
+        "sha256": "5ccd45ad909b2e6f52011a9261283c713f747a6c09ebf266ceead33330192459",
+        "bytes": 13678,
+        "first": "PJSK:event:0200:07:001:0001",
+        "last": "PJSK:event:0200:07:001:0030",
+        "records": 30,
+        "full_story": false,
+        "purpose": "Audience claim inspection",
+        "judgment": "Pension production set, staff; speech attacks prospective failure before fans. Does not establish fans witnessing insult. Existing earlier range covers aftermath.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0185_08.md",
+        "sha256": "1ef7e2ae07e168e84ff83ec0ca3a081de8af4fa09984c46373384a04134ec402",
+        "bytes": 18620,
+        "first": "PJSK:event:0185:08:001:0008",
+        "last": "PJSK:event:0185:08:001:0080",
+        "records": 73,
+        "full_story": false,
+        "purpose": "Actor/private/role attribution",
+        "judgment": "Private burden reframing, Heart role and Breath role are distinct from actor default speech; spectator and remote-singer observations retain separate speakers.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1283_02.md",
+        "sha256": "f13eca244d4d9d48ae6feddc2c719f2fe4c789eb136a323000515ed3486729cc",
+        "bytes": 6900,
+        "first": "PJSK:card:1283:02:001:0018",
+        "last": "PJSK:card:1283:02:001:0032",
+        "records": 15,
+        "full_story": false,
+        "purpose": "Reviewer finding adjudication",
+        "judgment": "Reviewer correct: diffuser already secretly installed; actual smell/bedside experience causes alarm. Reject draft device-idea attribution. Rui's explanation of robot motive stays tentative.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0202_04.md",
+        "sha256": "71934b00c8dabfdca29ee94773ae396e5932a1ff2939f9bf090009eb455c964f",
+        "bytes": 26177,
+        "first": "PJSK:event:0202:04:004:0020",
+        "last": "PJSK:event:0202:04:004:0036",
+        "records": 17,
+        "full_story": false,
+        "purpose": "Reviewer finding adjudication",
+        "judgment": "Reviewer correct: initial loss/withdrawal disclosure and girl's same-as-me response precede permission to continue. Correct start-with-permission shortcut while retaining caveat, assent and later detailed account.",
+        "inspection": "NEW_REMEDIATION_JAPANESE_TEXT_READ"
+      }
+    ]
+  },
+  "source_metadata_identity_checks": {
+    "comparison": "Original retrospective locked source metadata hashes",
+    "verified": [
+      {
+        "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 3346,
+        "sha256": "02954c3604438b5f175897c57e86ce953d2653d3ce3ec0a71482cfce877279ee",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "00_MANIFESTS/PIPELINE_RUN.json",
+        "bytes": 3104,
+        "sha256": "a7e29287915590badca3068f20ab9fe45ce090caed31538fc3f028fb77be8a14",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "00_MANIFESTS/SOURCE_MANIFEST.json",
+        "bytes": 3622,
+        "sha256": "13da24158484fdcb4e567ebcf799543c3382389604662a26fd029f1dd83e4774",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "00_MANIFESTS/RELEASE_ORDER_MANIFEST.jsonl",
+        "bytes": 25395134,
+        "sha256": "660024f6e951eb01aee436bbf5c16742a8cbe42ce00a261e556ed979bd6d89ca",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "00_MANIFESTS/RELEASE_ORDER_MANIFEST_SCHEMA.md",
+        "bytes": 12727,
+        "sha256": "36461bbc303bd7c012a7887a0fa816b319a782e35badb6cc76279fb227ab0ecb",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "00_MANIFESTS/CHRONOLOGY.csv",
+        "bytes": 1803865,
+        "sha256": "b528ff11722da9b71d13d5e23b8a1eaf2a5aa92685be8f8706fe2067101bd73d",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "03_STRUCTURED_DATA/stories.jsonl",
+        "bytes": 16376781,
+        "sha256": "c13c4c089d5d9873f2eb0e4f5f6afa26b33f925fefbd39705d6bfcfc9a2c8616",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "09_AUDITS/RELEASE_ORDER_AUDIT.json",
+        "bytes": 1584,
+        "sha256": "174acf3037814325d1086fea4eca32c7f5e4d012d3d4604b031599ee262e5d85",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "09_AUDITS/PROVENANCE_AUDIT.json",
+        "bytes": 204,
+        "sha256": "fdf02a2c39b1f0eb7d231fe2f1aa4d59d103e63dbb0e03ba0a5be12ce9861c23",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "09_AUDITS/AREA_CONTEXT_CLASSIFICATION_AUDIT.json",
+        "bytes": 3947,
+        "sha256": "d401b98343b7ca1c00d1b08c858c5caaebedb7625782f52d0fd3f1da4ee1b4ed",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "09_AUDITS/TRANSCRIPT_COMPLETENESS_AUDIT.json",
+        "bytes": 36182,
+        "sha256": "ba6a74f5a25c355237cdcc960818874e5069f9e4b687a3cbb05b21f47e495c2e",
+        "listed_in_build_checksums": true
+      },
+      {
+        "path": "09_AUDITS/SOURCE_REFRESH_REPORT.json",
+        "bytes": 57323,
+        "sha256": "7893eab9da39ce7996ad39b55d9cc65acc5aad9e6982a4071e36a2880c0094cd",
+        "listed_in_build_checksums": true
+      }
+    ],
+    "meaning": "Byte identity only, not a semantic source read"
+  },
+  "primary_identity_checks": {
+    "source_lock": "PJSK_SOURCE_20261030T035133Z_EVENT_0222",
+    "checksum_index_sha256": "783050981a5e0f4c564f5f558bde307d632cee7fffba610f08dbee9cca55da94",
+    "checks": [
+      {
+        "path": "02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_002_01.md",
+        "sha256": "889db3c67a53903a59c919525be7b9430e7e1342f98c0bd2b031da3bab27270e",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1283_02.md",
+        "sha256": "f13eca244d4d9d48ae6feddc2c719f2fe4c789eb136a323000515ed3486729cc",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1410_02.md",
+        "sha256": "0264104dcfd76091c3205b73c04791f6add7c0d65b92290fa332701087e24f7a",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1416_02.md",
+        "sha256": "e6fc12260cc9024ffbc7ec56d79df3d54dc28cab9c356ad2259a35b06100f112",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/CARD/1470_02.md",
+        "sha256": "53f2fd798656c5b341ba1a57d2f38167af116e2eb5def90dc279725c8780cec5",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_04.md",
+        "sha256": "5b7b55dfeb6da42661d3283c252aeeb3991f42e82724c435029368587eddf349",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_05.md",
+        "sha256": "81ea92b6d6601520e125b66ae2792073cee637029da35e3a3c6e7b77a7bf92a1",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0114_07.md",
+        "sha256": "e1e07ac35979c8ff6d5a93377cb766dc361f4183c6c5bd01cb39f3921da92bcb",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0131_06.md",
+        "sha256": "fcb60d7381d6f0e4f903d346f9c3ac530a2e1e5f1e52a34a4ed90b953ca75693",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0131_08.md",
+        "sha256": "e7ea8e67057e803ccb01a8f083d49adc516c3002969f8314cf9fa72657b7b318",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0136_01.md",
+        "sha256": "30a14bca151828382074eeafe80615d50fc67b0556fd305b63271f9661f5635a",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0150_04.md",
+        "sha256": "4d0c5506ab655bf9a67d6be3670378bba7ebc6e1f4069835829607d3b48da242",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0164_07.md",
+        "sha256": "0173befe00f45097025f57b23cedf8eaa920e51efabb5b00b5877e4a8d4a63d4",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0185_07.md",
+        "sha256": "a5290f44a3812d089f8e6b8a1bceb9cc876d44fdb120004794a223642a07321b",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0185_08.md",
+        "sha256": "1ef7e2ae07e168e84ff83ec0ca3a081de8af4fa09984c46373384a04134ec402",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_03.md",
+        "sha256": "1d71d143d36de299c31233ef27428f23ff58c09c95558e64a1882157af390eca",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_06.md",
+        "sha256": "21b897bb0b748c12973eaa240ffd4aa20672b643a8b300cb23f1147327c953f3",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0196_08.md",
+        "sha256": "9306ab84a135ae2dede7954ffeaeb97709e3ebf53bf41e524dde2569b8553f61",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_06.md",
+        "sha256": "3f1d63f2d5db0945c8607426590205ff67eee6f47fc20f3484efce5d189df52e",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_07.md",
+        "sha256": "5ccd45ad909b2e6f52011a9261283c713f747a6c09ebf266ceead33330192459",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0200_08.md",
+        "sha256": "c958e1c7f94aa7f5cd63455f1d58124133b14d10059c30e5a5ae1f50bb36c67c",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0202_04.md",
+        "sha256": "71934b00c8dabfdca29ee94773ae396e5932a1ff2939f9bf090009eb455c964f",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0208_05.md",
+        "sha256": "8df42d98186b6219860e3bfdee3b7bb15176a42ee8322035cc4d2886200b7bb8",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0208_07.md",
+        "sha256": "b979f380f4cb3a0af60a840759a6ccf4d69e1b0b717eca4ffd83cd71983ff6e6",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/EVENT/0211_04.md",
+        "sha256": "2c7a4628ef9b56933eb0b13a49dbd5756685a576eadcda766910ae33955213e5",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MAIN/wonder_01_01_01.md",
+        "sha256": "5629298437e5bb7bfa4d713416847b45fde301846523c39c3327f83d04e7882e",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/13_8663_01.md",
+        "sha256": "6105325684771fb098a176560e1d3078dbd2d45e95c2d7bfd5539ba1af74be9c",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/13_8664_01.md",
+        "sha256": "32dcf24433afc3866f2b96dd3654ac1ff49453b2c5033a9987ac788a58563dfc",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/14_8667_01.md",
+        "sha256": "a709fa4292628b89fabf178dd0fa607272527b5e6b072fca718dc3b273ffbad2",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/14_8668_01.md",
+        "sha256": "262c38f4cdc65b94eb2a7a54d44c467bc172750cba6271537f08ac11a79af4c2",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8656_01.md",
+        "sha256": "b9d8e6a08dd840236ac7897e0d2d3f9b6e25770ae48f7f0c4513ca2b97e5a552",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8661_01.md",
+        "sha256": "4d990aa2e3c0c771c70dfc1160b90f924d30835eff8c15bb5f0c5c700420d6ec",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/15_8669_01.md",
+        "sha256": "b3a42bb042ed3b2fc7b26a52757eb63ca596afb406f9badd89ed1f2d855657b6",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8671_01.md",
+        "sha256": "201a3ecf1e9789aa7d7ff3d7ad9d215750b665705d41e68b0c1fd0244d026ae1",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8672_01.md",
+        "sha256": "d9716dd8622a07324ca8ca367c9f904b9cac2f935f50c24b00265cf8f019382f",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      },
+      {
+        "path": "02_CANONICAL_STORIES/MYSEKAI/16_8772_01.md",
+        "sha256": "b17d37d963a2f46ea0fbacd82cb11d0947a130b3415579d2527805b27b5e689e",
+        "matches_current_build_checksum": true,
+        "source_commit": "aa9a7f878c0030bd9307fe085282f1fa6c154b40"
+      }
+    ],
+    "limit": "Metadata/build byte verification; narrative inspection is separately recorded per range. No full-corpus reread."
+  },
+  "selected_reviewer": {
+    "case_report": "6 FIT; E5 PARTIAL; N4 local CONTRADICTION",
+    "candidate_input_manifest": {
+      "base_commit": "a7cdfefb4c6c740d80e7991c0c1a661244f95298",
+      "source_lock": "PJSK_SOURCE_20261030T035133Z_EVENT_0222",
+      "models": [
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md",
+          "sha256": "c10f7788d460a7aa94ed30af66cc381597e2736ad6bb328db41ab553e513d71f",
+          "bytes": 11945
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md",
+          "sha256": "4eb68bb5d5b7ce2872181f4761c6bf633799363dc9f3c4a239c2dab3621c22ad",
+          "bytes": 11476
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md",
+          "sha256": "4408fd4c2db6519a088220b32bf626ae63fd5432d4becbec23b8dde0717e6709",
+          "bytes": 11717
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md",
+          "sha256": "60a75a49c4de646b44ba3ef1029b3eee89edee883d888fb87fae0f2e270a1c84",
+          "bytes": 12971
+        }
+      ],
+      "review_status": "COMPLETED_ON_CANDIDATE_BYTES; ORIGINAL_HANDOFF_WAS_PENDING",
+      "author_expected_case_explanations": "WITHHELD",
+      "warning": "Models contain known-scene examples. This is fresh-context retrospective review, not a blinded predictive experiment."
+    },
+    "expectations_sha256": "4d59a1ad0d4eaca0687ed05a9b8af28637f12bca69cd611175c0067dc97174a5",
+    "report_sha256": "83b8ad8b1b80759f9c690b67d357f7c856e50523bb7f8b28ae95762c24159dc3",
+    "canonical_packet": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_SELECTED_SCENE_REVIEW_THROUGH_EVENT_0222.md",
+    "packet_sha256": "8a890db56668bd3a313279e56e9afbcfc36abbe23b4d621da719e06800766d1b",
+    "source_identity_checks": [
+      {
+        "case": "T4",
+        "path": "02_CANONICAL_STORIES/EVENT/0208_05.md",
+        "sha256": "8df42d98186b6219860e3bfdee3b7bb15176a42ee8322035cc4d2886200b7bb8",
+        "match": true
+      },
+      {
+        "case": "T4",
+        "path": "02_CANONICAL_STORIES/EVENT/0208_07.md",
+        "sha256": "b979f380f4cb3a0af60a840759a6ccf4d69e1b0b717eca4ffd83cd71983ff6e6",
+        "match": true
+      },
+      {
+        "case": "T6",
+        "path": "02_CANONICAL_STORIES/AREA/areatalk_ev_wonder_26_002_01.md",
+        "sha256": "889db3c67a53903a59c919525be7b9430e7e1342f98c0bd2b031da3bab27270e",
+        "match": true
+      },
+      {
+        "case": "E4",
+        "path": "02_CANONICAL_STORIES/EVENT/0196_03.md",
+        "sha256": "1d71d143d36de299c31233ef27428f23ff58c09c95558e64a1882157af390eca",
+        "match": true
+      },
+      {
+        "case": "E4",
+        "path": "02_CANONICAL_STORIES/EVENT/0196_06.md",
+        "sha256": "21b897bb0b748c12973eaa240ffd4aa20672b643a8b300cb23f1147327c953f3",
+        "match": true
+      },
+      {
+        "case": "E4",
+        "path": "02_CANONICAL_STORIES/EVENT/0196_08.md",
+        "sha256": "9306ab84a135ae2dede7954ffeaeb97709e3ebf53bf41e524dde2569b8553f61",
+        "match": true
+      },
+      {
+        "case": "E5",
+        "path": "02_CANONICAL_STORIES/EVENT/0202_04.md",
+        "sha256": "71934b00c8dabfdca29ee94773ae396e5932a1ff2939f9bf090009eb455c964f",
+        "match": true
+      },
+      {
+        "case": "N3",
+        "path": "02_CANONICAL_STORIES/EVENT/0185_07.md",
+        "sha256": "a5290f44a3812d089f8e6b8a1bceb9cc876d44fdb120004794a223642a07321b",
+        "match": true
+      },
+      {
+        "case": "N3",
+        "path": "02_CANONICAL_STORIES/EVENT/0185_08.md",
+        "sha256": "1ef7e2ae07e168e84ff83ec0ca3a081de8af4fa09984c46373384a04134ec402",
+        "match": true
+      },
+      {
+        "case": "N4",
+        "path": "02_CANONICAL_STORIES/CARD/1283_02.md",
+        "sha256": "f13eca244d4d9d48ae6feddc2c719f2fe4c789eb136a323000515ed3486729cc",
+        "match": true
+      },
+      {
+        "case": "R2",
+        "path": "02_CANONICAL_STORIES/EVENT/0211_04.md",
+        "sha256": "2c7a4628ef9b56933eb0b13a49dbd5756685a576eadcda766910ae33955213e5",
+        "match": true
+      },
+      {
+        "case": "R5",
+        "path": "02_CANONICAL_STORIES/EVENT/0200_06.md",
+        "sha256": "3f1d63f2d5db0945c8607426590205ff67eee6f47fc20f3484efce5d189df52e",
+        "match": true
+      },
+      {
+        "case": "R5",
+        "path": "02_CANONICAL_STORIES/EVENT/0200_07.md",
+        "sha256": "5ccd45ad909b2e6f52011a9261283c713f747a6c09ebf266ceead33330192459",
+        "match": true
+      },
+      {
+        "case": "R5",
+        "path": "02_CANONICAL_STORIES/EVENT/0200_08.md",
+        "sha256": "c958e1c7f94aa7f5cd63455f1d58124133b14d10059c30e5a5ae1f50bb36c67c",
+        "match": true
+      }
+    ],
+    "root_adjudication": "N4 installed-device status and E5 disclosure/permission sequence confirmed in primary text and corrected; optional R2 initial-cooperation clarification applied. All corrected models read back completely. Candidate findings retained. No independent whole-corpus or predictive claim.",
+    "publication_normalization": {
+      "reason": "Repository preflight rejects local absolute paths in published prose.",
+      "path_replacements": [
+        {
+          "replacement": "repository root",
+          "occurrences": 1
+        },
+        {
+          "replacement": "corpus/02_CANONICAL_STORIES",
+          "occurrences": 1
+        }
+      ],
+      "analytical_content_changed": false,
+      "original_private_hashes_preserved": true
+    }
+  },
+  "semantic_disposition": {
+    "author_cases": {
+      "FIT_after_correction": 20,
+      "PARTIAL": 3,
+      "initial_INSUFFICIENT": 1,
+      "note": "T6 fits the observed clarification after the cause is supplied. E4/N3/R5 retain unresolved selection or repeatability. This is not an accuracy rate."
+    },
+    "reviewer_candidates": {
+      "FIT": 6,
+      "PARTIAL": 1,
+      "local_CONTRADICTION": 1,
+      "note": "E5 sequence compression and N4 actual installed device corrected; candidate findings preserved in complete review record."
+    },
+    "readiness": {
+      "TENMA_TSUKASA": "R4_RETAINED; broad longitudinal evidence plus contradiction audit under unchanged method; no R5",
+      "OTORI_EMU": "R4_RETAINED; broad longitudinal evidence plus contradiction audit under unchanged method; no R5",
+      "KUSANAGI_NENE": "R4_RETAINED; broad longitudinal evidence plus contradiction audit under unchanged method; no R5",
+      "KAMISHIRO_RUI": "R4_RETAINED; broad longitudinal evidence plus contradiction audit under unchanged method; no R5"
+    },
+    "calibration": "Complete Kanade, Airi and Saki models; no twenty-character rerun or new retroactive standard.",
+    "earlier_corrections": [
+      "ERR-PJSK-E0200-FAN-WITNESS-0222-REMEDIATION: fan witnesses unestablished; frozen reading unchanged and attributable erratum routed from current model/index.",
+      "ATTR-PJSK-EMU-E0164-INNER-UNCERTAINTY: no-guarantee is private thought; one mutable monograph sentence repaired."
+    ],
+    "synthesis_changes": "NONE; no contradiction found that materially alters the current nine syntheses.",
+    "limits": [
+      "Known-scene retrospective explanation, not blind or prospective prediction.",
+      "Model examples and old summaries were visible to reviewer; author new explanations withheld.",
+      "My SEKAI dates and register frequencies unestablished.",
+      "Intervention selection, pressure repeatability and future outcomes remain underconstrained.",
+      "No pitch, breath, timing, timbre, accent or other AV inference."
+    ]
+  },
+  "accepted_markdown_outputs": [
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_EVIDENCE_INDEX.md",
+      "sha256": "433b8075dfcc8a0d6e400ac15f92e7d5377fd2e51aa9d6ee04c86c69d3587b04",
+      "bytes": 8795,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:16.384316+00:00",
+        "semantic_note": "Read every final line. Initial cooperation and rejected proposals precede guarded refusal; present account is not younger self knowledge. Production-set provocation, later disclosure, apology and performer consent are ordered. Erratum is directly retrievable; partial action-selection remains explicit."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md",
+      "sha256": "f6a5e2313dfdae79d05a101cefe0f68ab4b2965353a7f039c8b770e02b66e941",
+      "bytes": 13030,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:16.378770+00:00",
+        "semantic_note": "Read every final line. Initial cooperation and rejected proposals precede guarded refusal; present account is not younger self knowledge. Production-set provocation, later disclosure, apology and performer consent are ordered. Erratum is directly retrievable; partial action-selection remains explicit."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_EVIDENCE_INDEX.md",
+      "sha256": "8fe1ed7465061afdedf338688a6d3a538deb8d355f16a4a2df801dd5ab43a9b9",
+      "bytes": 7917,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:46.631094+00:00",
+        "semantic_note": "Read complete final retrieval index. Original retrospective result retained and explicitly historical; new anchors resolve mode/chronology and selected review findings with partial results retained."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md",
+      "sha256": "31431d6020c21b2a508bcac4ddcb0b2d51bce45d66d3e34d386416c2c784885e",
+      "bytes": 11939,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:06.304701+00:00",
+        "semantic_note": "Read every current line after reviewer corrections. Emu opening disclosure precedes permission to continue; internal no-guarantee is not spoken. Nene actual installed modification and tentative robot motive are distinguished; historical states, role/thought/speech and evidence distances remain separate."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md",
+      "sha256": "795b2dee61947947ecc9ac6034ab9c86d3033a85b15de3355b07bfb567ed075f",
+      "bytes": 10666,
+      "complete_readback_receipt": {
+        "mode": "FULL_REMEDIATION_READBACK_AND_SEMANTIC_ACCEPTANCE",
+        "accepted_utc": "2026-11-08T00:36:28.571847+00:00",
+        "semantic_note": "Complete final monograph read; only one E0164 thought/public-speech attribution sentence changed. Existing E0202 correctly asks whether she may continue, so no additional monograph edit needed. All causal/historical/relationship substance preserved."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_EVIDENCE_INDEX.md",
+      "sha256": "ecf170eaf52d58901ba6754b52284b183b3139722f87c438ffebbddd2640cfbd",
+      "bytes": 8076,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:46.625060+00:00",
+        "semantic_note": "Read complete final retrieval index. Original retrospective result retained and explicitly historical; new anchors resolve mode/chronology and selected review findings with partial results retained."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md",
+      "sha256": "c63e5ba88b4cb60f1846bda3d95e2d9fa365fac5f8876b74794529a98656ab6d",
+      "bytes": 11689,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:49:06.298607+00:00",
+        "semantic_note": "Read every current line after reviewer corrections. Emu opening disclosure precedes permission to continue; internal no-guarantee is not spoken. Nene actual installed modification and tentative robot motive are distinguished; historical states, role/thought/speech and evidence distances remain separate."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/README.md",
+      "sha256": "a0376a1c78ad691bd20ad84311c6fd267ce637ea4fd8f05140b7a8af5d7198eb",
+      "bytes": 9369,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:55:37.956714+00:00",
+        "semantic_note": "Complete final file re-read after reviewer adjudication. Original retrospective material remains identified; current supplement correctly routes four retained R4 decisions, explicit partial/insufficient cases, same-lock provenance and attributable corrections. No pending model correction remains."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_EVIDENCE_INDEX.md",
+      "sha256": "2866b687ba8eb06d88b564e6821196bdff94fe6d67091bb47bd580c3e7495ef1",
+      "bytes": 8038,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:55:37.962237+00:00",
+        "semantic_note": "Complete final file re-read after reviewer adjudication. Original retrospective material remains identified; current supplement correctly routes four retained R4 decisions, explicit partial/insufficient cases, same-lock provenance and attributable corrections. No pending model correction remains."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md",
+      "sha256": "985613347a87b13f358c81d7fb5fe84ff496940da12de4dce01f8f30521868fb",
+      "bytes": 12002,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_ASSEMBLED_READBACK",
+        "accepted_utc": "2026-11-08T00:53:18.172845+00:00",
+        "semantic_note": "Complete model read at preceding candidate hash; final single-line citation addition read back and semantically checked against the existing E0136 row/range. All other bytes retained. Early deferential boku does not establish a later origin or frequency rule; the ore contrast now routes directly within its row."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md",
+      "sha256": "0e7c1131a3af005c3b0d37fc1f40d0ff162e63472b02a14b36ad70ed2d6e3ea9",
+      "bytes": 17794,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:50:05.886432+00:00",
+        "semantic_note": "Complete current matrix read, followed by full changed appendage after reviewer-result update; original prefix unchanged. Four R4 decisions retained under existing definition, candidate failures and final author cases explicitly separated."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_SELECTED_SCENE_REVIEW_THROUGH_EVENT_0222.md",
+      "sha256": "8a890db56668bd3a313279e56e9afbcfc36abbe23b4d621da719e06800766d1b",
+      "bytes": 50679,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_ASSEMBLED_READBACK",
+        "accepted_utc": "2026-11-08T01:00:26.317158+00:00",
+        "semantic_note": "Entire published review was read through complete private originals and inspected wrapper; final wrapper and two normalized provenance lines read back. Exact transformed-payload comparison proves all remaining content identical. Only two local absolute paths normalized for publication; candidate judgments and original private hashes preserved."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    },
+    {
+      "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md",
+      "sha256": "0a6d42c942efbeb1392aeebf595a123373eca54a855610d0cd404941b7c49131",
+      "bytes": 45354,
+      "complete_readback_receipt": {
+        "mode": "FINAL_FULL_READBACK",
+        "accepted_utc": "2026-11-08T00:50:46.762761+00:00",
+        "semantic_note": "Every final character read in overlapping ranges 0:14800,14500:30000,29800:end. Reviewed recipient/state/knowledge/mode distinctions, four case sets and six lanes, honest original/new ledger scope, attributed frozen-reading correction, candidate review failures and final corrections, source boundary and follow-up publication route. Known-scene fit is not predictive validation."
+      },
+      "current_acceptance": "AUTHOR_SEMANTICALLY_ACCEPTED_WITH_EXPLICIT_CASE_LIMITS"
+    }
+  ],
+  "mechanical_verification": {
+    "status": "PASS",
+    "base_commit": "a7cdfefb4c6c740d80e7991c0c1a661244f95298",
+    "source_lock": "PJSK_SOURCE_20261030T035133Z_EVENT_0222",
+    "scope": [
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_EVIDENCE_INDEX.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_EVIDENCE_INDEX.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_EVIDENCE_INDEX.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/README.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_EVIDENCE_INDEX.md",
+      "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md",
+      "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md",
+      "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_SELECTED_SCENE_REVIEW_THROUGH_EVENT_0222.md",
+      "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md",
+      "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_MANIFEST.json"
+    ],
+    "checks": {
+      "links": 171,
+      "locator_endpoints": 389,
+      "row_local_Japanese_quotes": 146,
+      "primary_read_hashes_rechecked": 39
+    },
+    "preservation": {
+      "unchanged_project_files": 359,
+      "changed_existing_files": [
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_EVIDENCE_INDEX.md",
+          "rule": "ORIGINAL_INDEX_BYTES_RETAINED_AFTER_REMOVING_TWO_EXPLICIT_ADDITIONS",
+          "pass": true,
+          "before_sha256": "020dd0643d8dff199360e4a8edfea1947154a23b9c4364d5e44d289524ec162f",
+          "after_sha256": "433b8075dfcc8a0d6e400ac15f92e7d5377fd2e51aa9d6ee04c86c69d3587b04"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md",
+          "rule": "ALL_BYTES_OUTSIDE_SPEECH_SECTION_IDENTICAL",
+          "pass": true,
+          "before_sha256": "52ab528b18d62cb6caa52ad55b3c94bdbfe3345681bea8fe0e6c4dbc082d128c",
+          "after_sha256": "f6a5e2313dfdae79d05a101cefe0f68ab4b2965353a7f039c8b770e02b66e941"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_EVIDENCE_INDEX.md",
+          "rule": "ORIGINAL_INDEX_BYTES_RETAINED_AFTER_REMOVING_TWO_EXPLICIT_ADDITIONS",
+          "pass": true,
+          "before_sha256": "7046334914f2baa63754308f78528e29f0817793e9bf35c56e8756019fedfe46",
+          "after_sha256": "8fe1ed7465061afdedf338688a6d3a538deb8d355f16a4a2df801dd5ab43a9b9"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md",
+          "rule": "ALL_BYTES_OUTSIDE_SPEECH_SECTION_IDENTICAL",
+          "pass": true,
+          "before_sha256": "5e3976feec1eedc0705c804d47ef741afc55c006e95f19b4e92f28ab67241ed3",
+          "after_sha256": "31431d6020c21b2a508bcac4ddcb0b2d51bce45d66d3e34d386416c2c784885e"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md",
+          "rule": "ONLY_ONE_ATTRIBUTION_SENTENCE_CHANGED",
+          "pass": true,
+          "before_sha256": "8213ff1f8bc633289009abd6d4f9ca6928385a498e60b39946b2f3fca28fa6e7",
+          "after_sha256": "795b2dee61947947ecc9ac6034ab9c86d3033a85b15de3355b07bfb567ed075f"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_EVIDENCE_INDEX.md",
+          "rule": "ORIGINAL_INDEX_BYTES_RETAINED_AFTER_REMOVING_TWO_EXPLICIT_ADDITIONS",
+          "pass": true,
+          "before_sha256": "abf1884b94a9c76edd34408dd5520d4b20bbc62c2912e22bc5dfb32ccf824c17",
+          "after_sha256": "ecf170eaf52d58901ba6754b52284b183b3139722f87c438ffebbddd2640cfbd"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md",
+          "rule": "ALL_BYTES_OUTSIDE_SPEECH_SECTION_IDENTICAL",
+          "pass": true,
+          "before_sha256": "fa7ec9dbb4d46a99e1164f3180de2ee372b65ec47018c22e3337233af2460f6e",
+          "after_sha256": "c63e5ba88b4cb60f1846bda3d95e2d9fa365fac5f8876b74794529a98656ab6d"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/README.md",
+          "rule": "ENTIRE_ORIGINAL_FILE_IS_IDENTICAL_PREFIX",
+          "pass": true,
+          "before_sha256": "a845849228e843853a01cf7702606c3714e17aab2d3ebbfb258bf1c4c9fea59a",
+          "after_sha256": "a0376a1c78ad691bd20ad84311c6fd267ce637ea4fd8f05140b7a8af5d7198eb"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_EVIDENCE_INDEX.md",
+          "rule": "ORIGINAL_INDEX_BYTES_RETAINED_AFTER_REMOVING_TWO_EXPLICIT_ADDITIONS",
+          "pass": true,
+          "before_sha256": "7471e40c30013ae8fe22993ff5aec1b54161b3d22c20927790a056bb03a3b1bc",
+          "after_sha256": "2866b687ba8eb06d88b564e6821196bdff94fe6d67091bb47bd580c3e7495ef1"
+        },
+        {
+          "path": "series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md",
+          "rule": "ALL_BYTES_OUTSIDE_SPEECH_SECTION_IDENTICAL",
+          "pass": true,
+          "before_sha256": "e56595ce68c780fafa12731f2dedc16dacb82d97b0658b9f1b27f6ce5f89611a",
+          "after_sha256": "985613347a87b13f358c81d7fb5fe84ff496940da12de4dce01f8f30521868fb"
+        },
+        {
+          "path": "series/project-sekai/09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md",
+          "rule": "ENTIRE_ORIGINAL_FILE_IS_IDENTICAL_PREFIX",
+          "pass": true,
+          "before_sha256": "36d023749ebc2b3f2e50c61118691247f7c1faa6d6b29f1ab448332b48d8527e",
+          "after_sha256": "0e7c1131a3af005c3b0d37fc1f40d0ff162e63472b02a14b36ad70ed2d6e3ea9"
+        }
+      ],
+      "unchanged_inventory_sha256": "f68c4774797fd7142277a4f6c21a93af4aeb62a472f090d7d313664df771ad6e",
+      "algorithm": "sha256 of Python json.dumps(unchanged baseline records, sort_keys=True, ensure_ascii=False), UTF-8; records retain original git ls-files order"
+    },
+    "failures": [],
+    "limit": "Mechanical integrity/routing/byte preservation only. No semantic fidelity or predictive accuracy inference."
+  },
+  "publication_route": {
+    "branch": "series/project-sekai",
+    "original_pr": 513,
+    "original_pr_merged_externally": true,
+    "merge_commit": "85005991f832edb91aa2fef6eb6337fa9fc3e116",
+    "reconciled_main": "1a5c9d5d8604cee0af13b1c9e4479bc0366401f6",
+    "project_content_difference_from_base": "NONE before this remediation",
+    "route": "Follow-up PR on same stable branch; no author merge; exact-head audit/housekeeping must finish before task completion."
+  }
+}
