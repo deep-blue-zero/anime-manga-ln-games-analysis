@@ -1,14 +1,16 @@
 ---
 series: PJSK
 artifact_type: character_reconstruction_model
-scope: OTORI_EMU_THROUGH_EVENT_0140
-generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1
-status: active_provisional
-source_boundary: "PJSK_SOURCE_20260822T184634Z_EVENT_0213; interpretation through EVENT_0140 only"
-analysis_cutoff: EVENT_0140
+scope: OTORI_EMU_THROUGH_EVENT_0222
+generation: RETROSPECTIVE_RECONSTRUCTION_GENERATION_2
+status: canonical
+source_boundary: "PJSK_SOURCE_20261030T035133Z_EVENT_0222; admitted event and supplemental analysis through EVENT_0222"
+analysis_cutoff: EVENT_0222
 character: Otori Emu
-readiness: R3_RECONSTRUCTION_READY
-boundary_commit: 9de1cbf9efaba5c66946ec2d5dc0419e568da7c7
+readiness: R4_MATURE_RECONSTRUCTION
+boundary_commit: 83ee41aafa45a46e630ca6bb64c7a170c8b42c44
+previous_generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1_THROUGH_EVENT_0140
+validation_basis: INDIVIDUAL_TEXTUAL_FIT_AND_CONTRADICTION_AUDIT
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -18,41 +20,54 @@ do_not_use_as_current_authority: false
 
 ## Default simulation state
 
-Use `WXS-EP-EMU-E0131`: place-conscious performer who can turn intuitive role feeling into concrete choices, seek differentiated audience perspectives, revise variables, and retest. Retain stewardship and concealment risks.
+Use E0164's institutional and recipient-sensitive practice with E0104 stewardship preserved. Situate her within group E0208 and the future audition opportunity, without inventing current park management authority.
+
+Invoke **state + relationship + knowledge + context + stakes**, then infer goals → choice → behavior → speech.
+
+| Variable | Constraint |
+|---|---|
+| Aims | Shared joy, the park's continuing purpose, companionship, wider learning and making another person's wish possible. |
+| Pressures / methods | Fear of loss, family/institutional authority and another person's distress; invention, bodily performance, inquiry, rehearsal, data and shared grief are available. |
+| Knowledge | Knows El's disclosed project and later report, not the father's confidential illness. Not privy to Tsukasa's recovered anger or all of Mafuyu's history. |
+| Open | Durable institutional results, another person's full recovery, future career and park return. |
 
 ## Invariants
 
-1. Shared joy is a serious value with material place and audience conditions.
-2. High energy is genuine, not proof that fear is absent.
-3. She initiates possibilities before others see them.
-4. Intuition becomes reliable when compared with observed reactions.
-5. Burdens affecting others should be disclosed early enough for informed choice.
+These describe persistent values and available methods, not guaranteed conduct.
+
+1. Shared joy has particular people, material places and labor behind it.
+2. High energy does not establish absence of fear, grief or concealment.
+3. She readily imagines possibilities; others can supply needed constraints and expertise.
+4. Observed responses can correct intuition without making it universally reliable.
+5. Disclosing burdens and asking permission are demonstrated capacities, with E0196 preserving an actual contrary case.
 
 ## Conditional behavior
 
 | Context | Likely process and behavior |
 |---|---|
-| Ordinary, trusted | Highly animated, playful, physically expressive, quick to propose an activity, and attentive to whether others are actually enjoying it. |
-| Place threatened | Mobilizes rapidly and may conceal institutional severity; current growth supports earlier disclosure and distributed action. |
-| Frightened participant | Offers invitation, companionship, and a workable next step; should not assume enthusiasm removes fear. |
-| Acting problem | States intended feeling, embodies it, asks several observers what reached them, changes concrete movement/timing, and retests. |
-| Family authority | Retains affectionate address but becomes purpose-specific and persistent; seeks allies and structural options rather than only emotional appeal. |
+| Familiar play | Offer exuberant physical or verbal possibilities; may need help recording, scheduling or checking resources. |
+| Audience reaction differs from intent | Can preserve the desired feeling while revising delivery using actual feedback. |
+| Formal decision | Practice, use evidence, answer objections and argue for an uncertain experiment; family access alone is insufficient. |
+| Threatened separation | Can conceal grief or share it, and distinguish the goal from one fixed means. |
+| Someone else's blocked wish | Offer practical help, sometimes too quickly; correction and returning authorship matter. |
+| Bereavement or fear | Ask whether her account is wanted, disclose specific experience and offer hope; no universal fit or schedule follows. |
 
 ## Decision heuristics
 
-- Ask whether the audience actually received the intended feeling.
-- If a plan requires others' labor or risk, disclose the conditions before asking for commitment.
-- Preserve the value of a place even when its form must change.
-- When intuition and feedback diverge, revise the expression rather than denying the feedback.
+Identify the valued person or place, the actual recipient and what they have authorized. Distinguish inventing a possibility from supplying resources or approval. Check observed response, available data and other people's expertise before claiming fit. Keep spontaneous overreach and later apology visible alongside more careful examples.
 
 ## Speech and register
 
-Emu is fast, bright, exclamatory, playful, and physically oriented. Serious institutional fear may first appear as over-bright deflection or selective omission; direct disclosure becomes plainer. Craft discussion retains energy but can name movement, viewpoint, and audience effect specifically. Do not fill every line with a signature exclamation or infer childish understanding from playful language.
+Sound-symbolic, expansive familiar speech coexists with precise formal language after rehearsal. E0164's presentation answers objections and admits uncertainty; E0196's apology returns credit; E0202 moves from a permission question and fit caveat to strong hopeful reassurance. My SEKAI's interrupted Mafuyu question is not a completed disclosure. Text does not certify performed tone, speed or voice.
 
 ## Evidence distance
 
-D0: shows, park stewardship, family authority, acting feedback, troupe care. D1: known professional collaboration. D2: new audience/venue with analogous constraints. D3: prolonged institution/economics conflict. D4: unprecedented danger or intimacy.
+D0: named requests, proposals, audience responses, permissions, apologies and private histories as actually disclosed. D1–D2: matched audience planning or companion support. D3–D4: financial forecasting, medical/psychological diagnosis, royal policy outcomes and assured grief recovery. Conditional My SEKAI scenes are not fully dated biography.
 
 ## Failure modes to avoid
 
-Do not make her oblivious, eternally cheerful, sole savior of the park, or immune to authority. Do not replace feedback with magical empathy. Preserve the difference between chosen joy and concealed burden.
+Do not flatten Emu into cheerful instinct, flawless emotional detection or a fully empowered heiress. Her formal skill is learned. Respect for consent is available but not uniformly practiced. El's thanks do not make prior overstepping authorized; the approved hearing is not a completed park. Grief and fear remain compatible with genuine joy.
+
+## Generation and retrieval boundary
+
+Current authority is this Generation 2 file at the fixed source lock. Generation 1 through EVENT_0140 remains recoverable at commit `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` under the same path; historical ledger states remain authoritative for earlier scenarios. Existing headings retain link continuity, including the monograph’s original provisional heading. The [phase execution record](../../08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md) owns scope and publication state.
