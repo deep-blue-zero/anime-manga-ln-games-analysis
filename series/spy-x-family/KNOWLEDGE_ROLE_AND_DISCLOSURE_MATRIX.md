@@ -25,7 +25,7 @@ Keep actor-specific information, audience-directed presentation, reader disclosu
 | Register / key | Required fields |
 |---|---|
 | Proposition/knowledge `SXF-K-nnnn` | Source-established subject/narrator/reader position; proposition; known/believed/suspected/reported/unknown/withheld state; acquisition evidence/time; witness/frontier; who lacks it; uncertainty and alternatives |
-| Role/audience `SXF-RA-nnnn` | Actor; audience; source-established role/claimed identity; observed presentation; stated versus inferred objective; audience's available evidence and response; private/public distinction only if supported; full argument |
+| Role/audience `SXF-ROLE-nnnn` | Actor; audience; source-established role/claimed identity; observed presentation; stated versus inferred objective; audience's available evidence and response; private/public distinction only if supported; full argument |
 | Disclosure/time `SXF-T-nnnn` | Event or proposition; main/fanbook lane; page disclosure; story-time constraint; subject acquisition; analyst admission; order/simultaneity alternatives; exact routes |
 | Causal decision `SXF-A-nnnn` | Conditions; perception/appraisal; affect; options/resources/inhibitors; choice/non-action; consequences; information-dependent links; rival cause; evidence; full claim |
 | Institutional condition `SXF-I-nnnn` | Source-established institution/role; asserted rule/speaker; custom versus observed enforcement; access/resources; exceptions; subject constraints; evidence and limits |
