@@ -28,6 +28,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
+- [Girl meets Rock!](../series/girl-meets-rock/) — `series/girl-meets-rock/` — Japanese manga project for ふつうの軽音部 (Futsuu/Futsu no Keionbu), officially titled Girl meets Rock!; depicted musical expression is analyzed as page/text evidence without assuming a supplied audio performance.
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
 - [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
