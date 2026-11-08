@@ -6,6 +6,49 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 
 ## Recorded assessments
 
+### Subject `mushoku-tensei:cliff@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/cliff@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/cliff@light-novel.jsonl)
+
+<a id="mushoku-tensei-cliff-ln-v09-v15-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:cliff`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:cliff@light-novel\#character-model, the canonical Cliff bounded reconstruction model \(generation V1, revision 1.5\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Cliff grounds in V09-V11 and V13-V15 and earlier admitted appearances used only as context. The model routes its observations to an evidence index, the shared state and readiness ledger, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered-future material is in scope.
+- Temporal boundary: The model's fifteen selectors MT-CM-ST01 to ST15: the V09 opening retrospect, Rudeus's arrival and the rescue, the disclosed attraction and care promise, and months of research with the uncertain lead \(ST01-ST04\); V10 investigation and marriage advice, the Elinalise family disclosure, and the layered-circle collaboration \(ST05-ST07\); V11 prototype improvement with the proposal before a cure, and the church-trainee counsel to Norn \(ST08-ST09\); V13 collaborative prosthetic work with the dependence critique, and the modest home and wedding \(ST10-ST11\); V14 duty-based confrontation with voluntary travel and charity, and the chosen reward, escape role, healing and uncontrolled new eye \(ST12-ST13\); and V15 armor-systems collaboration and the pregnancy information with the corrected suspicion \(ST14-ST15\). ST01 is revealed retrospect, V12 supplies no selector, the V15 reported alternative-future death is not a state, no earlier state acquires later knowledge, and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `96a7effda24788323c03f8adba1098fccc4fb92c94356a9901ee0dc8167def15`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-CM-ST01 to ST15 between the V09 opening retrospect and the V15 pregnancy information, with that state's knowledge only; nothing from V12 as a state, nothing after V15, no later knowledge in an earlier state and no state from the V15 reported alternative future.; interlocutor Only attested recipients in their state-specific relation: Elinalise as chosen partner and later wife; Rudeus as disliked peer, information source, collaborator and recipient of rebuke; Zanoba as inspiration, assailant and collaborator; Norn as recipient of church-trainee counsel; Nanahoshi as research subject and beneficiary of his reward request; the V14 host; and the V14 beggar.; settings The school, research, church-trainee, household and V14-V15 travel and armor-work settings of the Japanese light novels V09-V11 and V13-V15; No modern setting, political leadership, family negotiation, long-term household conduct or private leisure; No clinical diagnosis, therapeutic expertise, invariant temper or invariant humility; Near-analog situations only; materially novel contexts end in abstention
+  - `ROMANCE_RELATIONSHIP` condition: Only his commitment and care decisions toward Elinalise in an attested state as near analogs: responding to new information about her constraint or history, choosing to continue the commitment under limited resources, offering feasible support instead of unsafe accompaniment, and correcting a mistaken suspicion.
+  - `ROMANCE_RELATIONSHIP` condition: Elinalise's motives, consent and choices are not generated; her choice remains hers and his promise gives him no authority over her.
+  - `ROMANCE_RELATIONSHIP` condition: No sexual or intimate content, no ordinary courtship or domestic routine, no curse cure, and no fidelity or lifespan outcome is generated.
+  - `ROMANCE_RELATIONSHIP` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only attested research-collaboration and church-trainee situations as near analogs: persisting at an unresolved project, admitting the limits of his knowledge, asking a useful peer for information, contributing a specialized element to shared work and offering role-based help to a distressed acquaintance.
+  - `PROFESSIONAL_CONTEXT` condition: Behavior only: no spell, array, device, armor, healing or curse-cure content or result is generated, and success is not inferred from effort.
+  - `PROFESSIONAL_CONTEXT` condition: Counsel keeps its fallibility: an abrasive opening, a recipient's objection and inferences about the recipient's mind remain possible, and no therapeutic expertise or leadership is implied.
+  - `PROFESSIONAL_CONTEXT` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `alternative-future-not-state` (evidence-backed limitation): The V15 reported alternative-future rescue and death concern another branch; they are not his present state or outcome.
+  - `confrontation-not-competence` (evidence-backed limitation): Defending a valued person can be rash or disproportionate; courage, proportion and practical success are not equivalent, and the confrontation trigger is tested physically only in V09.
+  - `counsel-fallible` (evidence-backed limitation): His role-based counsel can be useful and still hurtful or mistaken; it is not broad therapeutic expertise, and his account of Norn's situation remains inference about her mind.
+  - `effort-not-cure` (evidence-backed limitation): Persistent research, a partial device and working technical contributions do not establish that Elinalise's curse is cured; through V15 the cure remains unachieved and the reported theory remains qualified hearsay.
+  - `family-household-leisure-unknown` (evidence gap): Family negotiation, long-term household conduct, private leisure preferences and unfamiliar institutional leadership are not established; this is a gap, not evidence of incapacity.
+  - `horizon-v09-v15` (evidence gap): His earlier admitted appearances are context only, V12 supplies no state and nothing after V15 is in evidence; earlier and later states, knowledge and outcomes are not assessed.
+  - `humor-unlocated` (evidence gap): No humorous or playful instance is located, so humor and play are not assessed; this is a gap, not evidence that he lacks humor.
+  - `partner-choice-independent` (evidence-backed limitation): Elinalise retains independent choice; his promise creates a commitment for him, not authority over her, and an idealized first impression gives no reliable access to her motives.
+  - `pride-and-updating` (evidence-backed limitation): Pride can inhibit asking for instruction and can delay acceptance of a peer, yet he does revise specific judgments under observed deeds; accepting ability is not liking its possessor, and a revision need not be globally accurate, as the corrected Zanoba analogy shows.
+  - `retrospective-calibration-only` (evidence-backed limitation): All twenty-one checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared state ledger, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its observation locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+- Evidence at basis commit:
+  - [`mushoku-tensei:cliff@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:eris@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl)
