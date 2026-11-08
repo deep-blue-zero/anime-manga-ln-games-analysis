@@ -565,7 +565,7 @@ Inside U1, a peer rather than the Producer keeps the night watch. This bears on 
 
 **Cross-track comparison, without merger.** `D-SAKI` states the same fear awake, before a contest Saki goes on to win: Ume will overtake her, run toward her dream, `負けたやつへの興味は失せて……` / `二度と振り向いてくれなくなる。` (`adv_dear_hski_009.txt`). U1 states it as an involuntary dream after a defeat. In both tracks the actual Ume asks for Saki’s continued presence: `あたしを置いていかないで！！` after winning in `adv_dear_hski_022.txt`, and the request to keep challenging in `04_21`. The fear is therefore a cross-track invariant of Saki (method §4.3). The nightmare, the sleeplessness and the `悔しくなかったら` confession are U1 events. The daily crying after the `D-SAKI` summer loss (`adv_dear_hski_027.txt`) is a separate state and is not the U1 insomnia.
 
-**Evidence status.** Occurrence and wording: T-A, A1-verified. Fear structure: T-A for the fears themselves; T-C for their link to `01_03`. The `それ` echo: T-D. Staging: AV-C only. No voice, timing or animation claim is made. An optional, non-blocking audiovisual target is registered as AV-DIA-SAKI-007 (§23.3). Locators: SAKI-L054, SAKI-L058, SAKI-L059 and SAKI-L061–L064 (§26).
+**Evidence status.** Occurrence and wording: T-A, A1-verified. Fear structure: T-A for the fears themselves; T-C for their link to `01_03`. The `それ` echo: T-D. Staging: AV-C only; the cue placement, fade durations and cut order reported above are script commands read from A1 metadata, not playback measurements. No voice, animation or rendered/perceptual timing claim is made. An optional, non-blocking audiovisual target is registered as AV-DIA-SAKI-007 (§23.3). Locators: SAKI-L054, SAKI-L058, SAKI-L059 and SAKI-L061–L064 (§26).
 
 ---
 
