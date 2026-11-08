@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.14"
+version: "2.15"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
+last_updated: "2026-11-07 — U1 Saki ↔ Ume Episode 04 states appended (nightmare/insomnia correction); RINHA-AV-20260911 state unchanged"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -758,3 +758,17 @@ Rinha is a strong example of why **surface hostility cannot be used as a scalar 
 | Rinha ↔ fans | support0097-02 at 174.000s labels an independent fan speaker while Rinha is onscreen | Preserve reception evidence; exclude fan line from Rinha’s 620-message corpus |
 
 Times identify points on the physical recordings in the [baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md); they are not continuous motion intervals or audible timestamps. All relation-conditioned vocal judgments remain open to direct review.
+
+<!-- HANAMI_U1_NIGHTMARE_CORRECTION_2026-11-07 -->
+## Correction — Saki ↔ Ume U1 Episode 04 states — 2026-11-07
+
+Authority: `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` §3.5.1 and `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1. The A1 raw scripts were re-inspected under Source Lock 1.0; no new source object is admitted. The Phase-3 table above had no U1 Saki ↔ Ume row; these rows fill that gap and leave the `D-SAKI` rows unchanged.
+
+| relationship | story_state | source_id | interaction_mode | power_or_dependency | change | continuity_class | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Saki ↔ Ume | U1 before the Selection | `adv_unit_01-04_04`–`04_06` | Saki fears the contest; Ume tells Sena that beating Saki is her life goal and that she has not thought past it | Saki’s older-sister role still depends on staying ahead; Ume’s dream is still borrowed | — | C1 @ U1 | high | Sena forecasts a post-victory breakthrough for Ume (`04_06`) |
+| Saki ↔ Ume | U1 Selection result | `04_07` | Ume’s first victory; Saki congratulates her, then collapses privately before the Producer | the vertical relation reverses for the first time in U1 | Ume announces that her world is wider and welcomes the rematch | C1 @ U1 | high | mutually exclusive with the `D-SAKI` result history |
+| Saki ↔ imagined Ume | U1 nightmare | `04_13` | imagined interaction only | — | dream-Ume calls the contest boring, chooses a Begrazia dream, and says goodbye | C1 @ U1 for occurrence; content is Saki’s representation | high as Saki evidence | **never cite as Ume behavior**; the raw script labels the speaker `佑芽`, and only staging and Saki’s waking line mark it as a dream |
+| Ume, Saki absent | U1 Begrazia scenes | `04_14`; `04_19`; `04_23` | Ume with Sena and Misuzu | — | beating Saki is a fulfilled dream; Ume loves idolhood and Begrazia; she announces a new dream and asks Sena to become top idols together | C1 @ U1 | high | confirms the nightmare’s premise of de-totalization; in `04_19` Ume names Saki among the people who should watch the new dream begin |
+| Saki ↔ Ume | U1 H.I.F. pre-stage confession | `04_18` | Saki discloses the flaws she hid; Ume says she always knew and loves her for them; both accept the contest | Ume’s regard does not depend on the invincible image | falsifies Saki’s admiration premise before any result | C1 @ U1 | high | — |
+| Saki ↔ Ume | U1 after the H.I.F. | `04_21` | tackle-hug renegotiated; Ume asks to keep challenging; both now run toward the same dream | Saki concedes Ume’s physical superiority; Ume finds Saki ahead of her; `1勝1敗` | shared field: competing is more fun; `次は！　負けないからね！` / `いつでも挑んできなさいっ！` | C1 @ U1 | high | contradicts the dream’s `つまんない` and `ばいばい`; the fear of abandonment is also visible on Ume’s side |
