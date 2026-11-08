@@ -735,6 +735,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "three-days-of-happiness",
+      "stable_slug": "three-days-of-happiness",
+      "canonical_title": "Three Days of Happiness",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/three-days-of-happiness/",
+      "canonical_entrypoint": "series/three-days-of-happiness/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities."
+    },
+    {
       "series_id": "to-be-hero-x",
       "stable_slug": "to-be-hero-x",
       "canonical_title": "To Be Hero X",
