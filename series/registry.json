@@ -821,6 +821,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "spy-x-family",
+      "stable_slug": "spy-x-family",
+      "canonical_title": "SPY x FAMILY",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/spy-x-family/",
+      "canonical_entrypoint": "series/spy-x-family/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes."
+    },
+    {
       "series_id": "tatsuki-fujimoto-before-chainsaw-man",
       "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
       "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
