@@ -7,7 +7,9 @@ status: canonical
 current_event_boundary: EVENT_0222
 source_current_boundary: EVENT_0222
 source_current_lock: PJSK_SOURCE_20261030T035133Z_EVENT_0222
-reconstruction_package_cutoff: EVENT_0140
+reconstruction_package_cutoff: EVENT_0222
+reconstruction_generation: RETROSPECTIVE_RECONSTRUCTION_GENERATION_2
+synthesis_cutoff: EVENT_0222_WITH_ADMITTED_SUPPLEMENTS
 source_boundary: "Project SEKAI analytical layer"
 supersedes: []
 superseded_by: []
@@ -34,6 +36,23 @@ Artifacts:
 This closes event-history coverage only. Character-package readiness and later synthesis remain governed by their own requirements.
 <!-- UNIT_BACKFILL_0029_0090_END -->
 
+
+## Current retrospective coverage — reconstruction and synthesis through EVENT_0222
+
+The separately authorized 2026-11-07 retrospective analysis is complete under `PJSK_SOURCE_20261030T035133Z_EVENT_0222`. This advances reconstruction and synthesis without extending the collected-source boundary.
+
+| Layer | Accepted coverage | Canonical route |
+|---|---|---|
+| Principal-human reconstruction | Twenty packages / sixty artifacts, generation 2 through EVENT_0222 with admitted supplements | [Character router](../05_CHARACTER_RECONSTRUCTION/README.md) |
+| Individual readiness | Twenty R4 textual decisions; state/knowledge, six behavioral lanes and consequential contradictions reviewed | [Readiness matrix](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md) |
+| Unit synthesis | Five complete longitudinal arguments at the same cutoff | [Unit and specialist router](../06_SPECIALIST_AND_UNIT_SYNTHESIS/README.md) |
+| Specialist synthesis | Authorship/labor/recipient agency; care/disclosure/family; SEKAI identity/memory/access | [Unit and specialist router](../06_SPECIALIST_AND_UNIT_SYNTHESIS/README.md) |
+| Full-series synthesis | Accepted V1, *Wanting with others, continuing without sameness* | [Full-series argument](../07_FULL_SERIES_SYNTHESIS/PJSK_FULL_SERIES_SYNTHESIS_THROUGH_EVENT_0222_V1.md) |
+| Acceptance and publication | Complete-output semantic review and source/reference/preservation checks; publishing PR owns exact-head CI evidence | [Execution record](../08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md) and [manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_RETROSPECTIVE_0222_ACCEPTANCE_MANIFEST.json) |
+
+The work reuses established foundations, 220 source-present event histories and admitted supplemental readings, with targeted Japanese verification. It does not claim a new complete primary read of every corpus story, independent review, performed voice or AV inspection. R5 remains unawarded; D3–D4 extrapolation remains limited. Unit, specialist and full-series V1 outputs are frozen at their stated cutoff. No later event is admitted: **NO_NEXT_AUTHORIZED_EVENT**.
+
+All following source-run closures and event checkpoints preserve their historical package boundaries and then-outstanding work. Statements that packages remained R3 through EVENT_0140 describe those checkpoints, not the current generation above. The previous sixty package files remain recoverable at baseline `83ee41aafa45a46e630ca6bb64c7a170c8b42c44`; existing frozen readings, ledgers, source locks and terminal handoffs are unchanged by this retrospective phase.
 
 ## Completed catch-up — source generation through EVENT_0222
 
