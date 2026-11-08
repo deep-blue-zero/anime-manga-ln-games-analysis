@@ -49,6 +49,49 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:cliff@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/cliff/RECONSTRUCTION_MODEL.md)
 
+### Subject `mushoku-tensei:elinalise@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/elinalise@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/elinalise@light-novel.jsonl)
+
+<a id="mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:elinalise`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:elinalise@light-novel\#character-model, the canonical Elinalise bounded reconstruction model \(generation V1, revision 1.5\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Elinalise grounds in V04 and V06-V15. The model routes its observations to an evidence index, a V01-V10 checkpoint, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered-future material is in scope.
+- Temporal boundary: The model's sixteen selectors MT-LM-ST01 to ST16: the V04 search companion with V06 delivery undertaking and V07 travel \(ST01\); V08 message delivery, work, school and objection to retaliation \(ST02\); the V09 refused introduction and chosen Cliff relationship \(ST03\); V10 kinship recognition and disclosure, and household assistance with guard relief \(ST04-ST05\); V11 rescue commitment with the proposal, forest, teleport and desert roles with mutual bodily boundaries, and the caravan ambush with grandchild acknowledgment \(ST06-ST08\); V12 Paul reunion, labyrinth defense and loss, and the refused intimacy, marriage advocacy and return \(ST09-ST10\); V13 intimate mediation, wedding preparation, marriage and continued schooling \(ST11-ST12\); V14 disclosure of old rescue and curse history, and expedition protection with care for an impaired Cliff \(ST13-ST14\); and V15 preparation support and the pregnancy with combat refusal \(ST15-ST16\). Her older history is reported, not observed; no earlier state acquires later knowledge, and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `2e1f895734571dac214fed4b2d91bc7769fcf8b96799a8ae63976e333a1a4608`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-LM-ST01 to ST16 between the V04 search and the V15 pregnancy, with that state's knowledge only; her older history only as reported, nothing after V15 and no later knowledge in an earlier state.; interlocutor Only attested recipients in their state-specific relation: Rudeus as fellow searcher, information recipient and grandchild's husband; Cliff as chosen partner and later husband; Sylphiette as initially concealed and later acknowledged grandchild; Paul as former companion; Roxy and expedition companions; and the V09 mediator.; settings The search, delivery, school, household, rescue-expedition, labyrinth and V14-V15 travel and preparation settings of the Japanese light novels V04 and V06-V15; No modern setting, political strategy, complete past biography or all descendant relationships; No curse mechanism, clinical diagnosis or sexual availability inferred from the reported curse; Near-analog situations only; materially novel contexts end in abstention
+  - `ROMANCE_RELATIONSHIP` condition: Only her boundary-setting and commitment decisions toward Cliff in an attested state as near analogs: negotiating terms of a chosen bond, accepting an informed commitment while keeping her constraints, refusing a particular approach, revising a separation preference after changed options, and correcting a mistaken suspicion from her own knowledge.
+  - `ROMANCE_RELATIONSHIP` condition: Constraint, desire and consent remain distinct: no availability, consent or conduct is inferred from the reported curse, reputation or Rudeus's assumptions.
+  - `ROMANCE_RELATIONSHIP` condition: No sexual or intimate content, no curse mechanism or cure, and no fidelity, lifespan or pregnancy outcome is generated.
+  - `ROMANCE_RELATIONSHIP` condition: Cliff's motives and choices are not generated; the selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only attested practical-aid situations as near analogs: coordinating travel, carrying an undertaking to completion, paid adventurer work, scouting and route testing, using contacts and arranging instruction, and protective or tactical mediation within an expedition.
+  - `PROFESSIONAL_CONTEXT` condition: Behavior only: no combat result, spell, route or barter success is generated, and competence is not inferred as infallible; error, diversion, local ignorance, language dependence and injury remain possible.
+  - `PROFESSIONAL_CONTEXT` condition: Aid can take bounded forms, including declining to attend combat; no leadership of unfamiliar political or institutional settings is implied.
+  - `PROFESSIONAL_CONTEXT` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `biography-descendants-politics-unknown` (evidence gap): Complete past biography, curse science, unfamiliar political strategy, all descendant relationships and clinical prediction are not established; this is a gap, not evidence of incapacity.
+  - `competence-with-error` (evidence-backed limitation): Her practical aid is real but bounded: the V04 near miss includes her diversion among several independent errors, desert novelty and language limit her, and in V14 she cannot secure escape alone.
+  - `curse-not-consent` (evidence-backed limitation): The reported curse, associated illness and expressed enjoyment are kept distinct: constraint does not establish consent to any particular approach, enjoyment does not disprove constraint, and neither licenses automatic availability or diagnostic physiology.
+  - `horizon-v04-v15` (evidence gap): Direct grounds begin at V04 and nothing after V15 is in evidence; earlier and later states, knowledge and outcomes are not assessed.
+  - `kinship-rule-one-cluster` (evidence-backed limitation): The kinship-concealment rule rests on one extended V10 family cluster with reported, not observed, descendant history; no general shame diagnosis follows, and the V14 history was not disclosed to Sylphiette.
+  - `narrator-fantasy-excluded` (evidence-backed limitation): Rudeus's imagined propositions, predicted breakup and inferences about her intent are not her acts or settled motives; the V12 pregnancy claim is contradicted but its intent remains unverified.
+  - `objection-not-infallible` (evidence-backed limitation): A proportionate objection is attested, but so are adverse social conduct \(V08:003\) and protective escalation toward a duel \(V11:030-031\); she is neither always considerate nor always proportionate.
+  - `pause-not-cure` (evidence-backed limitation): The V15 pregnancy pauses the curse's demands but does not establish a permanent cure; Cliff's cure promise remains unfulfilled through V15.
+  - `retrospective-calibration-only` (evidence-backed limitation): All twenty-five checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `uncurated-index-checkpoint-readings` (evidence gap): The evidence index, V01-V10 checkpoint, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its observation locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:elinalise@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/elinalise/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:eris@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/eris@light-novel.jsonl)
