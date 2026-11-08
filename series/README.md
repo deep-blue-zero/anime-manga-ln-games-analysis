@@ -49,6 +49,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 
 ## Post-cutover Git-native series roots
 
+- [`a-certain-scientific-railgun/`](a-certain-scientific-railgun/) — A Certain Scientific Railgun — Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [`ascendance-of-a-bookworm/`](ascendance-of-a-bookworm/) — Ascendance of a Bookworm — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [`astra-lost-in-space/`](astra-lost-in-space/) — Astra Lost in Space / 彼方のアストラ — Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction.
 - [`tomozaki/`](tomozaki/) — Bottom-Tier Character Tomozaki — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
