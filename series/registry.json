@@ -789,6 +789,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "tatsuki-fujimoto-before-chainsaw-man",
+      "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
+      "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/tatsuki-fujimoto-before-chainsaw-man/",
+      "canonical_entrypoint": "series/tatsuki-fujimoto-before-chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_FUJIMOTO_COLLECTION_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction."
+    },
+    {
       "series_id": "the-apothecary-diaries",
       "stable_slug": "the-apothecary-diaries",
       "canonical_title": "The Apothecary Diaries",
