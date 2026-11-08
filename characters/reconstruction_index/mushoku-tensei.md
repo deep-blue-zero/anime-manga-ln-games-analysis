@@ -167,6 +167,48 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:nanahoshi@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md)
 
+### Subject `mushoku-tensei:norn@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/norn@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/norn@light-novel.jsonl)
+
+<a id="mushoku-tensei-norn-ln-v10-v15-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-norn-ln-v10-v15-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:norn`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:norn@light-novel\#character-model, the canonical Norn bounded reconstruction model \(generation V1, revision 1.3\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Norn grounds in the V10 retrospective departure and escort, V11, V12, V13 and V15. The model routes its observations to an evidence index, a shared state ledger, a V11 checkpoint, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered-future material is in scope.
+- Temporal boundary: The model's eleven selectors MT-NOM-ST01 to ST11: the V10 retrospective departure, escort and arrival \(ST01\); V11 schooling, comparison and withdrawal \(ST02\), independent reflection, the room encounter and later learning \(ST03\), the rescue appeal and her brother's departure \(ST04\) and, one month later, worry, church practice and the Cliff conversation \(ST05\); V12 the death report, grief and support for Aisha \(ST06\) and the marriage objection with continued attachment and requested lessons \(ST07\); V13 sword learning, privacy, authorship and birthday \(ST08\) and disclosed council work \(ST09\); and V15 her question about the departure with a preserved marriage objection \(ST10\) and learning from Eris with resistance to a schoolmate's pressure \(ST11\). No selector covers V14. She is a dependent child whose exact age the model declines to compute; no earlier state acquires later knowledge, and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `0f85b74d36ff681dc0e6eead114753bf97ae7b38000e23ecff6bc2a414fac0e9`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-NOM-ST01 to ST11 between the V10 retrospective departure and V15, with that state's knowledge only; no V14 state, nothing after V15, no computed age and no later knowledge in an earlier state.; interlocutor Only attested recipients in their state-specific relation: Paul as protector, Ruijerd as escort, Rudeus as feared and later trusted brother, Aisha as sister, Sylphiette as sister-in-law, Cliff as religious interlocutor, Eris as teacher and household member, school friends and the V15 schoolmate.; settings The travel, school, dormitory, church and household settings of the Japanese light novels V10-V13 and V15; No adult life, combat, political leadership or unfamiliar religious dispute; No clinical diagnosis, universal trauma response or inferred romance; Near-analog situations only; materially novel contexts end in abstention
+  - `MUNDANE_SOCIAL` condition: Only learning requests, peer and family privacy, and refusals of particular contact in attested school, dormitory and household settings, as near analogs.
+  - `MUNDANE_SOCIAL` condition: Affection or gratitude grants no blanket access or agreement, and gratitude is not romance.
+  - `MUNDANE_SOCIAL` condition: No talent, achievement or completed skill is generated from effort or praise.
+  - `MUNDANE_SOCIAL` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-clinical-politics-combat-unknown` (evidence gap): Adult life, general clinical response, broad political judgment, combat, unfamiliar religious disputes, other leisure tastes and leadership are not established; this is a gap, not evidence of incapacity.
+  - `affection-not-access` (evidence-backed limitation): Renewed affection does not grant access or agreement: she refuses to introduce her friends, refuses unwanted affection and keeps her marriage objection.
+  - `change-not-speech-cure` (evidence-backed limitation): Her V11 reconciliation is distributed: her own reflection precedes Rudeus's visit and his uncertainty, not a single speech, permits the change; no sole-rescuer or instant cure is modeled.
+  - `dependent-child-capacity` (evidence-backed limitation): She is a dependent child with limited resources: the rescue journey she attempts is beyond her capacity, and her exact age is not computed.
+  - `faith-not-remedy` (evidence-backed limitation): Prayer gives relief that gives way to doubt; her practice is chosen and questioned, neither credulous nor rejected, and no supernatural effect or permanent relief is modeled.
+  - `horizon-v10-v15-no-v14` (evidence gap): Direct grounds begin with the V10 retrospective, no state covers V14 and nothing after V15 is in evidence; earlier and later states, knowledge and outcomes are not assessed.
+  - `no-inferred-romance` (evidence-backed limitation): Admiration of a protector and gratitude for a defense are not romantic desire.
+  - `not-idealized` (evidence-backed limitation): She criticizes Aisha, sometimes leaves others out of sympathetic thought and overreaches when speaking for Sylphiette; she is not uniformly considerate or accurate.
+  - `retrospective-calibration-only` (evidence-backed limitation): All seventeen checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `rules-002-003-untested-after-v11` (evidence-backed limitation): The model records that the public-comparison withdrawal trigger and the private family-reconsideration scene recur in no later volume; rules 002 and 003 are V11 findings, not tested patterns.
+  - `self-blame-not-verdict` (evidence-backed limitation): Her worry about causing Rudeus's danger and Sylphiette's suffering is attention to others' costs, not a finding of causal or moral responsibility for adult decisions.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared state ledger, V11 checkpoint, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `understanding-not-felt-safety` (evidence-backed limitation): Understanding the reasons for a separation does not mean she feels safe with it; felt safety is relationship-specific and changes through observed care, not argument.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:norn@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/norn/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:roxy@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl)
