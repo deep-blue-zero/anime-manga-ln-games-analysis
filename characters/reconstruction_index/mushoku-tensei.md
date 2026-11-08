@@ -43,6 +43,44 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:eris@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/eris/RECONSTRUCTION_MODEL.md)
 
+### Subject `mushoku-tensei:nanahoshi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/nanahoshi@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/nanahoshi@light-novel.jsonl)
+
+<a id="mushoku-tensei-nanahoshi-ln-v09-v15-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-nanahoshi-ln-v09-v15-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:nanahoshi`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:nanahoshi@light-novel\#character-model, the canonical Nanahoshi bounded reconstruction model \(generation V1, revision 1.5\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Nanahoshi evidence in V09-V11 and V13-V15. Her pre-V09 transfer, adaptation and institution-building are retrospective testimony reported in V09, not directly witnessed biography. The model routes its observations to an evidence index, the shared state and readiness ledger, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice or reception material is in scope.
+- Temporal boundary: The model's fourteen selectors MT-NM-ST01 to ST14: the V09 reported earlier transfer and adaptation, first meeting with Rudeus and preliminary mana-supported experiments \(ST01-ST03\); V10 ordinary contact and negotiated privacy, the major experiment failure and acute distress, and the diagnosis, redesign and celebration \(ST04-ST06\); V11 shared memory and the disclosure of retained teleport records \(ST07-ST08\); V13 continuing illness and the third-stage summoning result \(ST09-ST10\); V14 illness diagnosis, tea treatment and limited reciprocal obligation \(ST11-ST12\); and V15 critical reader of the diary and pressured helper \(ST13-ST14\). V12 supplies no selector, no successful return occurs, no earlier state acquires later knowledge \(in particular the V11 record disclosure is not knowledge of ST01-ST07\), and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f7525f9709527899109dc7b36ee9df1d28f3eeca7559444ccb367b4b88ae6803`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-NM-ST01 to ST14 between the V09 meeting and V15, with that state's knowledge only; no successful return, nothing after V15 and no later knowledge, including the V11 record disclosure, in an earlier state.; interlocutor Only attested recipients in their state-specific relation: Rudeus as shared-origin counterpart, mana partner, collaborator, caregiver and creditor; Sylphiette as a person excluded by language choice; collaborators only in the distributed experiment roles the model records; Pursena within the located V13 contact; Orsted as protector and recommended consultant; and Rudeus's family in the V15 pressure scene.; settings The research, experiment and ordinary social settings of the Japanese light novels V09-V15; No modern setting, institution or technology outside the source, and no generated magical-circle or cosmological mechanism; No clinical diagnosis, cure, successful homeward outcome, romance or permanent settlement; Near-analog situations only; materially novel contexts end in abstention
+  - `PROFESSIONAL_CONTEXT` condition: Only attested research-collaboration situations as near analogs: negotiating an exchange of scarce capacities, distributing experiment roles, limiting questions or access, disclosing partially with stated reasons, and labeling theory as hypothesis.
+  - `PROFESSIONAL_CONTEXT` condition: Behavior only: no magical-circle design, cosmological mechanism, experimental result or technical solution is generated, and her confidence does not validate safety or theory.
+  - `PROFESSIONAL_CONTEXT` condition: Abstain on how she responds to a new failed experiment or perceived terminal setback, and never treat the V10 crisis as a predictable script or diagnosis.
+  - `PROFESSIONAL_CONTEXT` condition: The selected state's knowledge only, with no successful return; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` D; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `crisis-single-episode` (evidence-backed limitation): The V10 collapse after a perceived terminal failure is one low-generalization episode, not a diagnosis, suicidality or a predictable response, and later illness distress is not its relapse; illness is managed by continuing treatment, not cured.
+  - `horizon-ends-at-v15` (evidence gap): Nothing after V15 is in evidence; later states, knowledge and outcomes are not assessed, and V12 supplies no state.
+  - `humor-unlocated` (evidence gap): No humorous or playful instance is located, so humor and play are not assessed; this is a gap, not evidence that she lacks humor.
+  - `no-romance-from-gratitude` (evidence-backed limitation): Gratitude, rescue, debt and family appeal do not establish romantic interest, romantic consent or consent to settle; V15 agreement under pressure is not free adoption of the plan.
+  - `pre-v09-testimony` (evidence-backed limitation): Her transfer, adaptation and institution-building before V09 are known only from her qualified retrospective testimony, and the identity of the unnamed expert, circle locations, full disaster causation and Orsted's hidden knowledge are not supplied.
+  - `retrospective-calibration-only` (evidence-backed limitation): All twenty-two checks are retrospective fits with disclosed prior familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `return-goal-not-settlement` (evidence-backed limitation): Her stated priority is returning to the original world; ordinary sociability, gratitude, collaboration, treatment and helping Rudeus do not establish acceptance of permanent residence, and adaptation does not show she wants to remain.
+  - `theories-unconfirmed` (evidence-backed limitation): Her causal, cosmological and diary hypotheses are labeled provisional; her confidence, earned recognition or research rank does not validate them or establish safety, and no successful return occurs.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared state ledger, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its observation locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `withheld-not-absent` (evidence-backed limitation): Knowledge she withholds is not knowledge she lacks: her V11 record disclosure corrects the earlier no-memory account without making earlier statements wholly false or giving earlier states the later information, and the motive for secrecy stays open between caution, priority and leverage.
+- Evidence at basis commit:
+  - [`mushoku-tensei:nanahoshi@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/nanahoshi/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:roxy@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/roxy@light-novel.jsonl)
