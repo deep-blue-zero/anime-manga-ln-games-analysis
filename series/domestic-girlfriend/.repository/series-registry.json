@@ -1,0 +1,16 @@
+{
+  "series_id": "domestic-girlfriend",
+  "stable_slug": "domestic-girlfriend",
+  "canonical_title": "Domestic Girlfriend / ドメスティックな彼女",
+  "media": [
+    "MANGA"
+  ],
+  "repository_path": "series/domestic-girlfriend/",
+  "canonical_entrypoint": "series/domestic-girlfriend/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_DOMESTIC_GIRLFRIEND_BOOTSTRAP_20261107",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons."
+}
