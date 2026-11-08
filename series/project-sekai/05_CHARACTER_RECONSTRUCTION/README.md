@@ -1,12 +1,13 @@
 ---
 series: PJSK
 artifact_type: character_reconstruction_router
-scope: PRINCIPAL_HUMANS_THROUGH_EVENT_0140
-generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1
-status: active_provisional
-source_boundary: "PJSK_SOURCE_20260822T184634Z_EVENT_0213; interpretation through EVENT_0140 only"
-analysis_cutoff: EVENT_0140
-boundary_commit: 9de1cbf9efaba5c66946ec2d5dc0419e568da7c7
+scope: PRINCIPAL_HUMANS_THROUGH_EVENT_0222
+generation: RETROSPECTIVE_RECONSTRUCTION_GENERATION_2
+status: canonical
+source_boundary: "PJSK_SOURCE_20261030T035133Z_EVENT_0222; admitted event and supplemental analysis through EVENT_0222"
+analysis_cutoff: EVENT_0222
+boundary_commit: 83ee41aafa45a46e630ca6bb64c7a170c8b42c44
+previous_generation: PROVISIONAL_RECONSTRUCTION_GENERATION_1_THROUGH_EVENT_0140
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
@@ -14,7 +15,7 @@ do_not_use_as_current_authority: false
 
 # Project SEKAI character reconstruction
 
-This directory contains provisional reconstruction generation 1 for all 20 principal human characters. Every package is bounded to the five human-unit main stories and the integrated `EVENT_0001–EVENT_0140` analytical history. The source inventory remains locked through `EVENT_0213`, but no post-`EVENT_0140` narrative knowledge is used here.
+This directory contains retrospective reconstruction generation 2 for all 20 principal human characters. Each package integrates the five human-unit foundations, source-present event history through EVENT_0222 and admitted supplements under `PJSK_SOURCE_20261030T035133Z_EVENT_0222`. EVENT_0166 and EVENT_0186 remain source-absent. All sixty refreshed artifacts received complete readback and cross-document convergence. The original EVENT_0140 generation remains recoverable at baseline `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` and in its [historical readiness matrix](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md).
 
 Each package has exactly three current artifacts:
 
@@ -24,7 +25,7 @@ Each package has exactly three current artifacts:
 
 `STATE_HISTORY` was not duplicated because the canonical [character-state ledger](../04_LONGITUDINAL_LEDGERS/PJSK_CHARACTER_STATE_LEDGER.md) already preserves the required chronology and stable state IDs. Historical simulation must route through that ledger and each model's stated default rather than projecting the cutoff backward.
 
-The [cross-character readiness matrix](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0140.md) independently tests ordinary, conflict, high-stakes, multiple-relationship, public/private, and textual-speech coverage. All 20 packages pass `R3_RECONSTRUCTION_READY` for bounded textual scenario use. None is promoted to R4 or performed-voice readiness.
+The [individual readiness matrix](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_CHARACTER_RECONSTRUCTION_READINESS_MATRIX_THROUGH_EVENT_0222.md) records twenty `R4_MATURE_RECONSTRUCTION` decisions after state/knowledge selection, ordinary behavior, conflict, high stakes, multiple relationships, public/private presentation, textual speech and consequential contradiction checks. These are retrospective textual fit decisions by the analysis author, not blind prediction scores or independent-agent replication. No R5 or performed-voice readiness is awarded. The [execution record](../08_CURRENT_RELEASE/PJSK_RETROSPECTIVE_0222_EXECUTION_RECORD.md) and [acceptance manifest](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_RETROSPECTIVE_0222_ACCEPTANCE_MANIFEST.json) bind review and publication scope.
 
 ## Leo/need
 
@@ -75,5 +76,5 @@ The [cross-character readiness matrix](../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_
 
 - Later knowledge must not be projected into an earlier target state.
 - EVENT_0140's origin memories belong to the observed Virtual Singer sequence; the human characters do not receive them.
-- `R3_RECONSTRUCTION_READY` means bounded textual scenario use. It does not certify broad contradiction closure, unconstrained D3–D4 prediction, or performed voice.
+- `R4_MATURE_RECONSTRUCTION` certifies the stated longitudinal textual review and adjudicated contradictions, with each model's remaining weak domains retained. It does not establish unique answers for every scenario, unconstrained D3–D4 prediction or performed voice.
 - Global `characters/registry.jsonl` and `CHARACTER_ANALYSIS_INDEX.md` remain curation-agent outputs and are intentionally untouched by this Project SEKAI-local generation.
