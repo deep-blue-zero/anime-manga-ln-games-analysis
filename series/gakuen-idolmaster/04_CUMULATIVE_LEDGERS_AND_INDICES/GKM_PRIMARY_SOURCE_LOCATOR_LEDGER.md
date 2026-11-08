@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Primary Source Locator Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.13"
+version: "2.14"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 — Phase 6 Kaya Rinha source-crosswalk routing added"
+last_updated: "2026-11-07 — Saki locators SAKI-L061–L064 added (U1 Episode 04 nightmare/insomnia correction)"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -153,6 +153,12 @@ This table provides a working locator layer, not an exhaustive index. Exact word
 | SAKI-L058 | `adv_unit_01-04_04.txt`<br>`adv_unit_01-04_05.txt`<br>`adv_unit_01-04_06.txt`<br>`adv_unit_01-04_07.txt`<br>`adv_unit_01-04_08.txt`<br>`adv_unit_01-04_09.txt`<br>`adv_unit_01-04_10.txt`<br>`adv_unit_01-04_11.txt`<br>`adv_unit_01-04_12.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_05.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_06.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_07.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_09.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_10.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_11.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_12.txt` | U1 | Re;IRIS/Begrazia contest, defeat, recovery, summer H.I.F. |
 | SAKI-L059 | `adv_unit_01-04_20.txt`<br>`adv_unit_01-04_21.txt`<br>`adv_unit_01-04_22.txt`<br>`adv_unit_01-04_23.txt`<br>`adv_unit_01-04_24.txt`<br>`adv_unit_01-04_25.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_20.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_21.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_22.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_23.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_24.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_25.txt` | U1 | unit victory, Saki Prima Stella, idol-cultivation verdict |
 | SAKI-L060 | `adv_live_hski_001_end-01-01.txt`<br>`adv_live_hski_001_end-02-01.txt`<br>`adv_live_hski_001_end-03-01.txt`<br>`adv_live_hski_001_end-04-01.txt`<br>`adv_live_hski_001_start-01-01.txt`<br>`adv_live_hski_001_start-02-01.txt`<br>`adv_live_hski_001_start-03-01.txt`<br>`adv_live_hski_001_start-04-01.txt` | `transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-04-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-04-01.txt` | live C3 | public command and outcome-sensitive comparison to Ume |
+| SAKI-L061 | `adv_unit_01-04_13.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_13.txt` | U1 training interval | Saki’s nightmare (dream-Ume is Saki-imagined, not Ume evidence); Temari notes sleeplessness; Kotone’s “world’s best supporter” consolation and Saki’s refusal |
+| SAKI-L062 | `adv_unit_01-04_15.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_15.txt` | U1 H.I.F. eve | near-nightly waking and crying; fear of losing without frustration; Kotone as night witness |
+| SAKI-L063 | `adv_unit_01-04_18.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_18.txt` | U1 H.I.F. day | Saki confesses hidden flaws to Ume; Ume’s answer; rematch accepted before the result |
+| SAKI-L064 | `adv_unit_01-04_14.txt`<br>`adv_unit_01-04_19.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_14.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_19.txt` | U1; Saki absent | actual Ume with Begrazia: beating Saki was her fulfilled dream; she loves idolhood and Begrazia; she announces a new dream and names Saki among its watchers |
+
+SAKI-L061–L064 were added on 2026-11-07 together with `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1 and §26. SAKI-L058 and SAKI-L059 are unchanged; the unindexed Parts 13–19 between them are treated as an omission, not a deliberate selective boundary, because no exclusion rationale was recorded. Retrieval anchors for the new rows: `すごーく嫌な夢を見ただけ` (L061), `悔しくなかったら……どうしようって` (L062), `大好きな妹に、失望されたくなかったから` (L063), `あたし、ずっと……お姉ちゃんに勝つのが夢でした。` and `新しい夢のはじまりを！` (L064).
 
 ---
 

@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Branch Divergence Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.0"
+version: "2.1"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-15 - Phase 3 Shiun Sumika textual core pass"
+last_updated: "2026-11-07 — BR-SAKI-UME-FEAR cross-track invariant appended (Saki core v2.1 correction)"
 status: "active; cumulative through Phase 3 Shiun Sumika textual core pass"
 ---
 
@@ -69,6 +69,7 @@ The ledger must not infer one universal meaning from filename shape.
 | BR-SAKI-COMMUNICATION | C-SAKI | communication episodes 000–019 | internally ordered multipart episodes; globally floating song/relationship states | linguistic voice, song self-interpretation, leisure, care, partnership | CONDITIONAL / C2-C4 | moderate-high | do not impose numeric episode order as exact chronology without internal anchors |
 | BR-SAKI-PEVENT | PE-SAKI | 83 Produce Events | run-conditioned school/activity/job/advice scenes | repeated habits, competence, care, revision behavior | INVARIANT-ONLY | high on C3 status | later event/support pass decides which ordinary patterns survive broader evidence |
 | BR-SAKI-SONG-SELF | D/C-SAKI | `Fighting My Way`, `Campus mode!!`, `がむしゃらに行こう！`, `Wildest Flower`, `GO MY WAY!!`, H.I.F. songs | distinct self-models and narrative placements | controlled disclosure, appropriation, propulsion from deficiency | INVARIANT-ONLY until AV | moderate | textual dramaturgy is established; sonic continuity remains pending |
+| BR-SAKI-UME-FEAR *(2026-11-07)* | D-SAKI vs U1 | `adv_dear_hski_009`, `adv_dear_hski_022` vs `adv_unit_01-04_13`, `adv_unit_01-04_18`, `adv_unit_01-04_21` | waking forecast before a contest Saki goes on to win (D-SAKI); post-defeat nightmare months before the summer H.I.F. (U1) | Saki’s fear that Ume will stop finding her worth competing against and leave her behind, not only fear of losing rank; in both tracks the actual Ume contradicts the imagined abandonment and asks for Saki’s continued presence | INVARIANT-ONLY; NO for event merge | high | recorded under method §4.3 from `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1 and `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` §3.5.1; dream-Ume (`04_13`) is Saki-imagined and never Ume evidence; the nightmare, the sleeplessness and the `悔しくなかったら` confession are U1 events only |
 
 ## Phase 3 — Kotone branch notes
 

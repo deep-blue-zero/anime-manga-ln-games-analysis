@@ -11,13 +11,16 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 <!-- BEGIN GENERATED CORPUS SERIES CATALOG -->
 
 - [86 - Eighty-Six](../series/86-eighty-six/) — `series/86-eighty-six/`
+- [A Certain Scientific Railgun](../series/a-certain-scientific-railgun/) — `series/a-certain-scientific-railgun/` — Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
 - [Ascendance of a Bookworm](../series/ascendance-of-a-bookworm/) — `series/ascendance-of-a-bookworm/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [Astra Lost in Space / 彼方のアストラ](../series/astra-lost-in-space/) — `series/astra-lost-in-space/` — Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction.
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [Chainsaw Man](../series/chainsaw-man/) — `series/chainsaw-man/` — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
@@ -25,6 +28,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
+- [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
@@ -52,17 +56,21 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Revue Starlight](../series/revue-starlight/) — `series/revue-starlight/`
 - [Sayonara Lara](../series/sayonara-lara/) — `series/sayonara-lara/` — Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately.
 - [Scum’s Wish / クズの本懐](../series/scums-wish/) — `series/scums-wish/` — Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction.
+- [Shihou Yuugi: Tatsuya Endo Short Stories / 四方遊戯 遠藤達哉短編集](../series/shihou-yuugi/) — `series/shihou-yuugi/` — Japanese manga anthology analysis with independent story identities, source-bounded character and relationship interpretation, and evidence-led collection comparison.
 - [SHINE POST](../series/shine-post/) — `series/shine-post/`
 - [Shokugeki no Soma](../series/shokugeki-no-soma/) — `series/shokugeki-no-soma/`
 - [Shuukura / 週に一度クラスメイトを買う話](../series/shuukura/) — `series/shuukura/` — Independent V2 architecture for original-Japanese LN reading, separate web witnesses, longitudinal character and relationship analysis, and evidence-tested reconstruction; V1 remains preserved historical analysis. Primary and derived evidence remain in Drive.
 - [Silent Witch: Secrets of the Silent Witch](../series/silent-witch/) — `series/silent-witch/` — Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git.
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
+- [SPY x FAMILY](../series/spy-x-family/) — `series/spy-x-family/` — Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes.
+- [Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集](../series/tatsuki-fujimoto-before-chainsaw-man/) — `series/tatsuki-fujimoto-before-chainsaw-man/` — Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction.
 - [The Apothecary Diaries](../series/the-apothecary-diaries/) — `series/the-apothecary-diaries/` — Japanese light-novel project for 薬屋のひとりごと, with a separate simplified Chinese volume 15 witness; adaptations and cross-language comparison remain distinct evidence scopes.
 - [The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る](../series/cornered-mouse/) — `series/cornered-mouse/` — Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git.
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
+- [The Ramparts of Ice / 氷の城壁](../series/the-ramparts-of-ice/) — `series/the-ramparts-of-ice/` — Japanese full-colour tankobon analysis of character development, directed relationships, source-language expression and edition-specific visual form, with bounded reconstruction.
 - [Three Days of Happiness](../series/three-days-of-happiness/) — `series/three-days-of-happiness/` — Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities.
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
