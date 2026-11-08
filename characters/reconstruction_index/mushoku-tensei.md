@@ -6,6 +6,50 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 
 ## Recorded assessments
 
+### Subject `mushoku-tensei:aisha@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/aisha@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/aisha@light-novel.jsonl)
+
+<a id="mushoku-tensei-aisha-ln-v10-v15-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:aisha`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:aisha@light-novel\#character-model, the canonical Aisha bounded reconstruction model \(generation V1, revision 1.3\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15, with direct Aisha grounds in the V10 retrospective family and travel evidence, V11, V12, V13 and V15. The model routes its observations to an evidence index, shared state ledger sections, a V11 checkpoint, per-volume deep readings and checkpoint syntheses, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: The model's ten selectors MT-AM-ST01 to ST10: the V10 retrospective family hierarchy and rapid travel plan \(ST01\); V11 the schooling bargain, test and dorm fairness dispute \(ST02\), household routine, wages, gardening and decoration \(ST03\) and pregnancy and expedition preparations with her home role \(ST04\); V12 household reception and the reunion with her mother under shared grief \(ST05\) and family criticism and childbirth assistance \(ST06\); V13 garden expertise and contested privacy \(ST07\) and recognition, a shared birthday and cooperation around Lucy \(ST08\); and V15 a small crop with her stated need for her brother rather than a substitute \(ST09\) and initiated hospitality for Eris with practical household costs \(ST10\). No selector covers V14. She is a dependent child whose relative age and trained capacity do not remove that dependency; ST01 receives no later household permissions, no earlier state acquires later knowledge, and nothing after V15 is established.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `1fc751ca9cbac7c0f947b30288f935bc5df802aca2842643763f75c5cb95132f`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-AM-ST01 to ST10 between the V10 retrospective and V15, with that state's knowledge only; no V14 state, nothing after V15, no computed age and no later permissions or knowledge in an earlier state.; interlocutor Only attested recipients in their state-specific relation: Rudeus as brother and household head, Norn as compared sibling, Lilia as mother and role instructor, Ruijerd as escort, household patrons, the household around Lucy, Eris as welcomed household member and Nana as the substitute provider she declines.; settings The travel, school, dormitory, household, garden and hospitality settings of the Japanese light novels V10-V13 and V15; Dependent child with adult backup; no independent adult employment, business, leadership, political strategy or medical authority; No romance, no sexualized scenario and no reproduction of sexualized role language; Near-analog situations only; materially novel contexts end in abstention
+  - `MUNDANE_SOCIAL` condition: Only household work, wage and leisure requests, gardening and hospitality, fairness complaints and role-aware requests in attested household, school and garden settings, as near analogs.
+  - `MUNDANE_SOCIAL` condition: Competence requires labor, information and adult support or permission; no effortless or universal mastery and no completed achievement is generated.
+  - `MUNDANE_SOCIAL` condition: She remains a dependent child: service is not free adult employment and she does not substitute for a parent or household head.
+  - `MUNDANE_SOCIAL` condition: Requests and bargains are not presumed to be concealed plans, and local agreement or recognition is not repair of sibling rivalry or rank.
+  - `MUNDANE_SOCIAL` condition: The selected state's knowledge only; output is behavior described in prose, no sexualized role language is reproduced and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `competence-requires-labor-and-support` (evidence-backed limitation): Her fast planning and skilled work are revealed as labor and depend on information, rest, guidance and adult protection; she is not an effortless all-domain prodigy.
+  - `dependent-child-with-adult-backup` (evidence-backed limitation): She is a dependent child whose relative age and trained capacity do not remove the need for care; Rudeus's instruction to seek experienced adults caps treating her as a substitute parent or household head.
+  - `horizon-v10-v15-no-v14` (evidence gap): Direct grounds begin with the V10 retrospective, no state covers V14 and nothing after V15 is in evidence; earlier and later states, knowledge and outcomes are not assessed.
+  - `injured-and-reproduces-comparison` (evidence-backed limitation): She is hurt by birth ranking and also belittles Norn; her injury does not make her innocent, and the cruelty does not make family affection false.
+  - `interiority-adult-leadership-unknown` (evidence gap): Broader private interiority, adult relationships, unfamiliar leadership, independent employment, business aptitude, political strategy, clinical interpretation and leisure beyond the named items are not established; this is a gap, not evidence of incapacity.
+  - `local-recognition-not-repair` (evidence-backed limitation): Equal-sister assurance, matching gifts and cooperation around Lucy are local inclusion; hierarchy, grief and sibling rivalry are not erased.
+  - `no-romance-or-sexualized-scenarios` (evidence-backed limitation): Her sexualized remarks are retained only as non-graphic evidence of learned role language; they are not reproduced, and no romance or sexualized scenario is modeled.
+  - `not-a-maximizer` (evidence-backed limitation): She declines excessive pay and bargains within a relationship and an idea of appropriate treatment, not for every available gain.
+  - `outside-appraisal-not-inner-fact` (evidence-backed limitation): Cheerful performance and Rudeus's readings of her restraint do not give access to her feelings; competence and cheer are not the absence of mourning or need.
+  - `retrospective-calibration-only` (evidence-backed limitation): All sixteen checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or numerical prediction scores; scene confidence is high and mechanism confidence moderate, and no domain is DOMAIN\_READY.
+  - `rules-002-003-thin-after-v13` (evidence-backed limitation): The model records no new negotiable bargain for rule 002 in V12 or V15 and no fresh birth-ranking confrontation for rule 003 in V15; later applicability of those rules rests on fewer tests.
+  - `service-not-free-employment` (evidence-backed limitation): Her preference for service is real but shaped by Lilia's instruction and a learned inferior birth rank; it does not show that alternatives were equally open or that she is freely employed.
+  - `strategy-not-hidden-manipulation` (evidence-backed limitation): Her bargaining, mirrored register and leverage are concrete tactics toward named aims; they do not establish a general concealed-manipulation theory, and the coercive plant leverage does not make earlier warmth calculated.
+  - `uncurated-index-ledger-readings` (evidence gap): The evidence index, shared ledger sections, V11 checkpoint, deep readings and checkpoint syntheses to which the model routes its observations are not curated on this subject, so its locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:aisha@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/aisha/RECONSTRUCTION_MODEL.md)
+
 ### Subject `mushoku-tensei:cliff@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/cliff@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/cliff@light-novel.jsonl)
