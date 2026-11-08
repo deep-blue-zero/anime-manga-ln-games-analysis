@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Character State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.12"
+version: "2.13"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-22 — Rinami integrated AV R2 promoted; 13/13 character baselines complete"
+last_updated: "2026-11-07 — Hanami Saki U1 Episode 04 nightmare/insomnia correction appended"
 status: "active; cumulative through complete Phase-3 character audiovisual integration (13/13)"
 ---
 
@@ -682,3 +682,16 @@ Source authority: `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md` - Drive `
 Kaya Rinha receives **PROMOTE distributed evidence**, not a fourteenth playable-core row: ordinary Temari/Misuzu/Rinha food memory, direct H.I.F. interiority, future-tense dissolution-live coordination, continued worry, and playful/serious access to Ume all route to the mandatory Phase-6 distributed-character reconstruction.
 
 **Phase-5 support coverage: COMPLETE - 498/498 scripts / 9,777/9,777 messages.**
+
+<!-- SAKI_U1_NIGHTMARE_CORRECTION_2026-11-07 -->
+## Correction — Hanami Saki U1 Episode 04 fear structure — 2026-11-07
+
+Source authority: `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1. The A1 raw scripts were re-inspected under Source Lock 1.0. No new source object is admitted, because Unit Story 01 was already inside the Saki core’s Phase-3 scope. These rows refine the Phase-3 `U1 old-rules summer H.I.F.` row above; they do not replace it. Delta labels follow architecture §18.
+
+| character | story_state | source_id | self_concept | desire | fear_or_constraint | behavior_delta | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Hanami Saki | U1 before the Selection | `adv_unit_01-04_04`; `04_05` | older sister who must not run from Ume this time | beat Ume at idolhood | premonition that one loss means never winning again and that Ume will accelerate out of reach; losing would make her `お姉ちゃん失格` | admits the fear to the Producer and refuses to flee | high within U1 | **EXTENDS** — U1 counterpart of the `D-SAKI` Dear 008–009 fear; a cross-track invariant, not a shared event |
+| Hanami Saki | U1 after the Selection defeat | `04_07`; `04_09`–`04_12` | heart broken, body still driven (`15年ぶんのわたし`) | win even without a chance | belief that being overtaken once is permanent; slowed growth | acts before recovering; for the first time in her life stays in a contest after Ume has overtaken her; accepts the Producer’s correction that she is still growing | high within U1 | **CONFIRMS** SAKI-C08 across tracks |
+| Hanami Saki | U1 training interval — nightmare | `04_13` | older sister whose worth to Ume depends on remaining a contest worth having | remain someone Ume wants to race | in the dream, Ume calls their contest boring, chooses a Begrazia dream and says goodbye; Temari reports recent sleeplessness | wakes and minimizes (`すごーく嫌な夢を見ただけ`), performs, and rejects the “world’s best supporter” consolation in favour of “world’s best idol” | high for occurrence and fear | **EXTENDS / COMPLICATES** — fear of losing the counterpart, not only the lead; dream-Ume is Saki-imagined and never Ume evidence |
+| Hanami Saki | U1 eve of the summer H.I.F. | `04_15` | broken competitor who is not yet sure her drive survives | sleep, then compete | fear that losing again would not frustrate her; near-nightly waking and crying reported by Kotone | admits the fear to Kotone, accepts her company, and ends anticipating morning | high within U1 | **EXTENDS** — fear of losing her own competitive affect, distinct from fear of defeat; no clinical claim; no evidence that the nightmare recurs |
+| Hanami Saki | U1 H.I.F. day to Prima Stella | `04_18`; `04_20`–`04_21`; `04_25` | Saki who has shown Ume her hidden flaws | beat Ume “this time” and lead every idol | sleep deprivation; still “broken” in her peers’ description | confesses before the result, gives a personal best while broken, concedes Ume’s physical superiority while welcoming every challenge, and restates the `負けたら悔しい勝負` criterion as Prima Stella | high within U1 | **RESOLVES** the relational premise of the nightmare; the fear of losing without frustration remains untested because Saki does not lose again in U1 |
