@@ -19,17 +19,20 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:airi@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-mmj-event-0005` — Airi analysis in MMJ EVENT_0005](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
   - [`reviewed-mmj-event-0011` — Airi analysis in MMJ EVENT_0011](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-model-through-event-0222` — Airi dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOMOI_AIRI/PJSK_MOMOI_AIRI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Airi dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOMOI_AIRI/PJSK_MOMOI_AIRI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Airi analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 <a id="akito"></a>
@@ -45,13 +48,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:akito@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Akito dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHINONOME_AKITO/PJSK_SHINONOME_AKITO_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Akito dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHINONOME_AKITO/PJSK_SHINONOME_AKITO_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Akito analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="an"></a>
@@ -67,13 +73,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:an@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — An dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHIRAISHI_AN/PJSK_SHIRAISHI_AN_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — An dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHIRAISHI_AN/PJSK_SHIRAISHI_AN_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — An analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="emu"></a>
@@ -89,13 +98,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:emu@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Emu dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Emu dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/OTORI_EMU/PJSK_OTORI_EMU_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Emu analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="ena"></a>
@@ -111,13 +123,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:ena@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Ena dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHINONOME_ENA/PJSK_SHINONOME_ENA_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Ena dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/SHINONOME_ENA/PJSK_SHINONOME_ENA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Ena analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 <a id="haruka"></a>
@@ -133,17 +148,20 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:haruka@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-mmj-event-0005` — Haruka analysis in MMJ EVENT_0005](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
   - [`reviewed-mmj-event-0011` — Haruka analysis in MMJ EVENT_0011](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-model-through-event-0222` — Haruka dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KIRITANI_HARUKA/PJSK_KIRITANI_HARUKA_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Haruka dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KIRITANI_HARUKA/PJSK_KIRITANI_HARUKA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Haruka analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 <a id="honami"></a>
@@ -159,13 +177,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:honami@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Honami dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOCHIZUKI_HONAMI/PJSK_MOCHIZUKI_HONAMI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Honami dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/MOCHIZUKI_HONAMI/PJSK_MOCHIZUKI_HONAMI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Honami analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 <a id="ichika"></a>
@@ -181,13 +202,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:ichika@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Ichika dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HOSHINO_ICHIKA/PJSK_HOSHINO_ICHIKA_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Ichika dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HOSHINO_ICHIKA/PJSK_HOSHINO_ICHIKA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Ichika analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 <a id="kanade"></a>
@@ -203,13 +227,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:kanade@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Kanade dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/YOISAKI_KANADE/PJSK_YOISAKI_KANADE_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Kanade dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/YOISAKI_KANADE/PJSK_YOISAKI_KANADE_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Kanade analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 <a id="kohane"></a>
@@ -225,13 +252,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:kohane@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Kohane dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AZUSAWA_KOHANE/PJSK_AZUSAWA_KOHANE_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Kohane dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AZUSAWA_KOHANE/PJSK_AZUSAWA_KOHANE_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Kohane analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="mafuyu"></a>
@@ -247,13 +277,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:mafuyu@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Mafuyu dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/ASAHINA_MAFUYU/PJSK_ASAHINA_MAFUYU_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Mafuyu dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/ASAHINA_MAFUYU/PJSK_ASAHINA_MAFUYU_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Mafuyu analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 <a id="minori"></a>
@@ -269,17 +302,20 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:minori@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-mmj-event-0005` — Minori analysis in MMJ EVENT_0005](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
   - [`reviewed-mmj-event-0011` — Minori analysis in MMJ EVENT_0011](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-model-through-event-0222` — Minori dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HANASATO_MINORI/PJSK_HANASATO_MINORI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Minori dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HANASATO_MINORI/PJSK_HANASATO_MINORI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Minori analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 <a id="mizuki"></a>
@@ -295,13 +331,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:mizuki@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Nightcord at 25:00 original-Japanese human-unit main-story foundation, nightcode_01_00–nightcode_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Mizuki dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AKIYAMA_MIZUKI/PJSK_AKIYAMA_MIZUKI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Mizuki dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AKIYAMA_MIZUKI/PJSK_AKIYAMA_MIZUKI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Mizuki analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/N25/PJSK_N25_MAIN_STORY_SYNTHESIS.md)
 
 <a id="nene"></a>
@@ -317,13 +356,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:nene@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Nene dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Nene dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KUSANAGI_NENE/PJSK_KUSANAGI_NENE_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Nene analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="rui"></a>
@@ -339,13 +381,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:rui@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Rui dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Rui dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/KAMISHIRO_RUI/PJSK_KAMISHIRO_RUI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Rui analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="saki"></a>
@@ -361,13 +406,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:saki@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Saki dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_SAKI/PJSK_TENMA_SAKI_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Saki dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_SAKI/PJSK_TENMA_SAKI_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Saki analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 <a id="shiho"></a>
@@ -383,13 +431,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:shiho@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Leo/need original-Japanese human-unit main-story foundation, leo_01_00–leo_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Shiho dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HINOMORI_SHIHO/PJSK_HINOMORI_SHIHO_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Shiho dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HINOMORI_SHIHO/PJSK_HINOMORI_SHIHO_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Shiho analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/LEO_NEED/PJSK_LEO_NEED_MAIN_STORY_SYNTHESIS.md)
 
 <a id="shizuku"></a>
@@ -405,17 +456,20 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:shizuku@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
+- Inclusion basis: `DEDICATED`
 - Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the MORE MORE JUMP! original-Japanese human-unit main-story foundation, mmj_01_00–mmj_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this foundation coverage item. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0005`: GAME STORY_CHAPTER: EVENT_0005 only: individual interpretation within the eight core chapters and cards 0129-0133, both halves, analyzed in the shared MMJ event reading. Preserve private-recipient boundaries, attributed institutional explanations, chosen freelance preparation versus achieved career success, and the four existing human identities. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
   - `reviewed-mmj-event-0011`: GAME STORY_CHAPTER: EVENT_0011 only: individual interpretation within eight core chapters, cards 0160-0164 both halves, and fifteen linked undated areas analyzed in the shared MMJ event reading. Public self-presentation, differentiated support and ordinary production work retain mixed reception, the rehearsal-camera consent gap, recipient-specific knowledge and unresolved future outcomes. Area unlocks do not establish depicted chronology. This is a discrete analytical scope, not continuous coverage of intervening or later events; no audiovisual performance or pooled Virtual Singer identity is enrolled.; continuity `project-sekai-game`
 - Reviewed current evidence:
   - [`reviewed-mmj-event-0005` — Shizuku analysis in MMJ EVENT_0005](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0005_DEEP_READING.md)
   - [`reviewed-mmj-event-0011` — Shizuku analysis in MMJ EVENT_0011](../../series/project-sekai/03_SEQUENTIAL_EVENT_READINGS/MMJ/PJSK_EVENT_0011_DEEP_READING.md)
+  - [`reviewed-model-through-event-0222` — Shizuku dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HINOMORI_SHIZUKU/PJSK_HINOMORI_SHIZUKU_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Shizuku dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/HINOMORI_SHIZUKU/PJSK_HINOMORI_SHIZUKU_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Shizuku analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/MMJ/PJSK_MMJ_MAIN_STORY_SYNTHESIS.md)
 
 <a id="toya"></a>
@@ -431,13 +485,16 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:toya@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Vivid BAD SQUAD original-Japanese human-unit main-story foundation, street_01_00–street_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Toya dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AOYAGI_TOYA/PJSK_AOYAGI_TOYA_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Toya dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/AOYAGI_TOYA/PJSK_AOYAGI_TOYA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Toya analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/VBS/PJSK_VBS_MAIN_STORY_SYNTHESIS.md)
 
 <a id="tsukasa"></a>
@@ -453,11 +510,14 @@ Reviewed analysis subjects in the `project-sekai` namespace of the [Character An
 - Analysis subject ID: `project-sekai:tsukasa@game`
 - Series: `project-sekai`
 - Continuity: `project-sekai-game`
-- Inclusion basis: `DISTRIBUTED_SUBSTANTIAL`
-- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `RELATIONSHIPS`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
 - Subject aliases:
   - _None._
 - Analytical coverage:
+  - `reviewed-dedicated-package-through-event-0222`: GAME STORY_CHAPTER: Dedicated canonical Generation 2 package through EVENT_0222 at the PJSK_SOURCE_20261030T035133Z_EVENT_0222 source lock, semantically accepted in the retrospective phase: the monograph's developmental interpretation and the reconstruction model's state, conditional-behavior, decision and textual-register analysis. Descriptive scope over admitted Japanese textual event, card, area and supplemental analysis through EVENT_0222 (EVENT_0166 and EVENT_0186 are absent from that source generation); not continuous primary coverage of every unit. Preserve the package's temporal, recipient, knowledge and alternative-experience partitions and its open endpoints. No audiovisual performance, performed voice or Virtual Singer identity is enrolled, and the package's project-local readiness label is not a discovery or reconstruction grade.; continuity `project-sekai-game`
   - `reviewed-foundation-corpus`: GAME STORY_CHAPTER: Reviewed individual interpretation within the Wonderlands×Showtime original-Japanese human-unit main-story foundation, wonder_01_00–wonder_01_20. The parallel unit foundation is historically bounded; later events, cards, area stories, other-unit private knowledge and audiovisual performance are not enrolled by this record. Preserve the synthesis's ordered states and unresolved endpoint constraints.; continuity `project-sekai-game`
 - Reviewed current evidence:
+  - [`reviewed-model-through-event-0222` — Tsukasa dedicated reconstruction model through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md)
+  - [`reviewed-monograph-through-event-0222` — Tsukasa dedicated monograph through EVENT_0222](../../series/project-sekai/05_CHARACTER_RECONSTRUCTION/TENMA_TSUKASA/PJSK_TENMA_TSUKASA_CHARACTER_MONOGRAPH.md)
   - [`reviewed-shared-synthesis` — Tsukasa analysis in shared synthesis](../../series/project-sekai/02_MAIN_STORY_FOUNDATIONS/WXS/PJSK_WXS_MAIN_STORY_SYNTHESIS.md)

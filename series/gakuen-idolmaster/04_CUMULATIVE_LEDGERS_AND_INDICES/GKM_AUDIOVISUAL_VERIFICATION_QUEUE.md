@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-09-11 — RINHA-AV-20260911 bounded evidence integrated; perceptual review open"
+last_updated: "2026-11-07 — AV-DIA-SAKI-007 registered as P2 optional (Saki core v2.1 correction); RINHA-AV-20260911 state unchanged"
 status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
 ---
 
@@ -52,11 +52,14 @@ No substantive entries are asserted at Phase 0. The schema is intentionally init
 | AV-DIA-SAKI-004 | P1 | dialogue scene | `adv_dear_hski_035.txt` | romance, professional devotion, theatrical burden, or unstable blend? | full scene video/audio | CLOSED — INSPECTED |
 | AV-DIA-SAKI-005 | P1 | dialogue/stage | `adv_dear_hski_036.txt` | public older-sister command and scale of victory | full scene including audience/song/BGM | CLOSED — INSPECTED |
 | AV-DIA-SAKI-006 | P1 | dialogue/live transition | `adv_cidol-hski-3-000_03.txt` | baseline strong/weak register and Producer ignition line | full scene through performance transition | CLOSED — INSPECTED |
+| AV-DIA-SAKI-007 *(2026-11-07)* | P2 | dialogue scenes | `adv_unit_01-04_13.txt`; `adv_unit_01-04_15.txt` | is dream-Ume performed as Ume’s ordinary voice or as visibly altered, and how are Saki’s minimizing `すごーく嫌な夢を見ただけ` and the H.I.F.-eve confession `悔しくなかったら……どうしようって` delivered? | full scene video/audio for both scenes; public commu name and search terms unresolved (method §16.4) | OPEN — OPTIONAL, NON-BLOCKING (Saki core v2.1 §23.3) |
 
 
 ## Saki queue closure — 2026-08-14
 
 All `AV-MUS-SAKI-001..011` and `AV-DIA-SAKI-001..006` objects were supplied and inspected. No Saki AV acquisition remains open for the Phase-3 baseline.
+
+*(2026-11-07)* `AV-DIA-SAKI-007`, registered above with the Saki core v2.1 correction (§23.3), is a P2 optional target outside the Phase-3 baseline. It does not reopen this closure and creates no active retrieval burden; its identifier is reserved here so later passes do not reuse it.
 
 The following are **future comparative analyses**, not missing-source requests:
 
