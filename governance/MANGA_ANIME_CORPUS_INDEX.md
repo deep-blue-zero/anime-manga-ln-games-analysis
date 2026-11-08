@@ -14,10 +14,12 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
 - [Ascendance of a Bookworm](../series/ascendance-of-a-bookworm/) — `series/ascendance-of-a-bookworm/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [Astra Lost in Space / 彼方のアストラ](../series/astra-lost-in-space/) — `series/astra-lost-in-space/` — Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction.
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [Chainsaw Man](../series/chainsaw-man/) — `series/chainsaw-man/` — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
 - [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
@@ -25,6 +27,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
+- [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
