@@ -44,6 +44,8 @@ Supplemental retrieval: `PJSK:mysekai:16_8671:01:001:0001–0004` — explicit l
 
 ## Individual six-lane fit and contradiction audit
 
+The table immediately below preserves the original retrospective audit. The current [targeted reconsideration](#rui-register-remediation) adds discriminating scene tests and retains explicit partial or insufficient results.
+
 Retrospective known-scene explanation, with targeted Japanese probes and reused full-envelope readings. No blind benchmark or independent second reviewer is claimed.
 
 | Lane | Explanation tested | Result / limit |
@@ -58,6 +60,21 @@ Retrospective known-scene explanation, with targeted Japanese probes and reused 
 Contradiction decision: E0200 and E0185 directly defeat the baseline’s blanket consent/safety formulation. E0211 requires offered help and Rui’s own refusal within the isolation history. E0172 preserves mixed workshop feedback, not mastery. E0208 adds regret and a retrieval commitment, not an implemented solution. Ordinary friendship and accepted better ideas remain equally real.
 
 **Readiness decision: R4 for bounded textual reconstruction.** Longitudinal evidence and the individual fit/contradiction decisions support this scope. The fictional unresolved outcome is retained, not supplied by the model. R5 is withheld: no performed-voice corpus was inspected. D3–D4 predictions remain weakly constrained.
+
+## Rui register remediation
+
+The [revised speech matrix](PJSK_KAMISHIRO_RUI_RECONSTRUCTION_MODEL.md#speech-and-register) owns conditional guidance. The [supplemental audit](../../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md#rui-scene-tests) records six author-run cases, historical state, knowledge, alternatives, observed source, verdict and D0–D4 limits; its six-lane reconsideration retains R4 without treating all cases as passes. The original retrospective’s no-independent-review statement above remains historical. A separate selected-scene reviewer record is reported in the supplement.
+
+| Retrieval purpose | Canonical primary locator | Use and limit |
+|---|---|---|
+| Ordinary company / ignorance / proposal | `PJSK:mysekai:16_8672:01:001:0001–0004`; `PJSK:mysekai:15_8669:01:001:0001–0005`; `PJSK:mysekai:16_8671:01:001:0001–0004`; `PJSK:mysekai:16_8772:01:001:0001–0003` | Mizuki/Nene social pleasure, Ena-facing ignorance, conditional technology; R1. |
+| Historical refusal / present account | `PJSK:event:0211:04:003:0025–0080` | Polite withdrawal versus current candid reinterpretation; limited recipients; R2. |
+| Choice-respecting advice | `PJSK:event:0150:04:001:0015–0086` | Ena owns the decision; past analogy and present ignorance distinguished; R3. |
+| Severe demand / admitted uncertainty | `PJSK:event:0185:07:001:0004–0013`; `PJSK:card:1283:02:001:0031–0043` | Director/lead urgency and later method doubt; R4. |
+| Provocation / apology / knowledge sequence | `PJSK:event:0200:06:001:0088–0104`; `PJSK:event:0200:07:001:0001–0119` | Honorific attack, private plan, actual hurt and later disclosure; R5 PARTIAL. Fans as insult witnesses unestablished; see the [attributable erratum](../../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md#attributable-correction). |
+| Accepted subsequent coaching | `PJSK:event:0200:08:001:0009–0025` | Permission, precise direction and emotional imagination coexist; R6. |
+
+These are new retrieval anchors within the existing lock, not new source admission or newly completed event envelopes. Historical deep readings and state owners retain their original scopes.
 
 ## Generation and retrieval boundary
 
