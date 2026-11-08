@@ -215,6 +215,22 @@
       "catalog_note": "Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons."
     },
     {
+      "series_id": "dr-stone",
+      "stable_slug": "dr-stone",
+      "canonical_title": "Dr. STONE",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/dr-stone/",
+      "canonical_entrypoint": "series/dr-stone/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for Dr.STONE, with numbered main volumes and the separately scoped 科学王国事典 official fanbook; fictional explanation, depicted capability and external reference remain distinct evidence classes."
+    },
+    {
       "series_id": "gakuen-idolmaster",
       "stable_slug": "gakuen-idolmaster",
       "canonical_title": "Gakuen Idolmaster",
