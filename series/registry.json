@@ -62,6 +62,22 @@
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
+      "series_id": "astra-lost-in-space",
+      "stable_slug": "astra-lost-in-space",
+      "canonical_title": "Astra Lost in Space / 彼方のアストラ",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/astra-lost-in-space/",
+      "canonical_entrypoint": "series/astra-lost-in-space/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_ASTRA_LOST_IN_SPACE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction."
+    },
+    {
       "series_id": "attack-on-titan",
       "stable_slug": "attack-on-titan",
       "canonical_title": "Attack on Titan",
@@ -104,6 +120,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T05_BLUE_ARCHIVE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "chainsaw-man",
+      "stable_slug": "chainsaw-man",
+      "canonical_title": "Chainsaw Man",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/chainsaw-man/",
+      "canonical_entrypoint": "series/chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate."
     },
     {
       "series_id": "chiramune",
@@ -223,6 +255,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "haikyu",
+      "stable_slug": "haikyu",
+      "canonical_title": "Haikyu!!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/haikyu/",
+      "canonical_entrypoint": "series/haikyu/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes."
     },
     {
       "series_id": "harmony",
@@ -739,6 +787,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "tatsuki-fujimoto-before-chainsaw-man",
+      "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
+      "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/tatsuki-fujimoto-before-chainsaw-man/",
+      "canonical_entrypoint": "series/tatsuki-fujimoto-before-chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_FUJIMOTO_COLLECTION_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction."
     },
     {
       "series_id": "the-apothecary-diaries",
